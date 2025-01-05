@@ -1,6 +1,7 @@
 /pet: filler
 5 ALC Levels: filler
 5 ARM Levels: filler
+5 AST Levels: progression
 5 BLM Levels: progression
 5 BLU Levels: progression
 5 BRD Levels: progression
@@ -17,112 +18,111 @@
 5 LTW Levels: filler
 5 MCH Levels: progression
 5 MIN Levels: filler
+5 MNK Levels: progression
 5 NIN Levels: progression
+5 PCT Levels: progression
+5 PLD Levels: progression
 5 RDM Levels: progression
 5 RPR Levels: progression
+5 SAM Levels: progression
 5 SCH Levels: progression
+5 SGE Levels: progression
 5 SMN Levels: progression
+5 VPR Levels: progression
+5 WAR Levels: progression
+5 WHM Levels: progression
 5 WVR Levels: filler
+Alexander Key: progression
 Amh Araeng Access: progression
+Azys Lla Access: progression
+Baitbugs: useful
 Blue Bobbit: progression
+Brute Leech: useful
+Caddisfly Larva: useful
 Chimera Worm: progression
+Chocobo Fly: useful
+Crayfish Ball: useful
 Crow Fly: progression
 East Shroud Access: progression
+Eastern La Noscea Access: progression
+Eastern Thanalan Access: progression
 Eden Key: progression
+Eulmore Access: progression
+Fiend Worm: useful
+Floating Minnow: useful
+Freshwater Boilie: useful
 Fruit Worm: progression
+Garlemald Access: progression
+Giant Crane Fly: useful
+Glowworm: progression
 Goblin Jig: progression
+Goby Ball: useful
+Gold Salmon Roe: useful
+Gridania and Central Shroud Access: progression
+Heavy Steel Jig: useful
+Heritage Found Access: progression
+Herring Ball: useful
+Honey Worm: useful
+Hoverworm: useful
 Il Mheg Access: progression
+Ishgard Access: progression
+Kholusia Access: progression
+Kozama'uka Access: progression
+Krill Cage Feeder: useful
+Kugane Access: progression
 Leech: progression
+Limsa Lominsa and Middle La Noscea Access: progression
+Live Shrimp: useful
+Living Memory Access: progression
+Lower La Noscea Access: progression
 Lugworm: progression
+Magma Worm: useful
 Marble Nymph: progression
+Mare Lamentorum Access: progression
+Mayfly: useful
 Memory of a Distant World: mcguffin
+Metal Spinner: useful
 Midge Basket: progression
+Midge Larva: progression
+Mor Dhona Access: progression
 Moth Pupa: progression
+Moyebi Shrimp: useful
 Mythril Spoon Lure: progression
+North Shroud Access: progression
 Omega Key: progression
+Outer La Noscea Access: progression
 Pandaemonium Key: progression
+Pill Bug: useful
+Purse Web Spider: useful
+Radz-at-Han Access: progression
+Rat Tail: useful
 Salmon Roe: progression
 Sand Gecko: progression
+Sand Leech: progression
+Snurble Fly: useful
 South Shroud Access: progression
 Southern Thanalan Access: progression
+Spinnerbait: useful
 Spoon Worm: progression
+Steel Jig: useful
+Stonefly Larva: useful
 Stonefly Nymph: progression
 Suspending Minnow: progression
+Syrphid Basket: useful
+The Azim Steppe Access: progression
+The Churning Mists Access: progression
+The Crystarium Access: progression
 The Dravanian Forelands Access: progression
 The Dravanian Hinterlands and Idyllshire Access: progression
+The Fringes Access: progression
+The Peaks Access: progression
+The Rak'tika Greatwood Access: progression
 The Ruby Sea Access: progression
-Wildfowl Fly: progression
-Versatile Lure: progression
-Glowworm: progression
-The Crystarium Access: progression
+The Tempest Access: progression
 Topwater Frog: progression
-5 MNK Levels: progression
-Midge Larva: progression
-5 SGE Levels: progression
-Sand Leech: progression
-Upper La Noscea Access: progression
-Fiend Worm: useful
-Gold Salmon Roe: useful
-Limsa Lominsa and Middle La Noscea Access: progression
-5 VPR Levels: useful
 Ul'dah and Central Thanalan Access: progression
-Gridania and Central Shroud Access: progression
-Giant Crane Fly: useful
-Floating Minnow: useful
-Crayfish Ball: useful
-5 PCT Levels: useful
-Ishgard Access: useful
-Syrphid Basket: useful
-North Shroud Access: useful
-5 AST Levels: useful
-Heavy Steel Jig: useful
-5 PLD Levels: useful
-Steel Jig: useful
-The Peaks Access: useful
-Eastern La Noscea Access: useful
-Magma Worm: useful
-5 WAR Levels: useful
-Metal Spinner: useful
-Caddisfly Larva: useful
+Upper La Noscea Access: progression
+Urqopacha Access: progression
+Versatile Lure: progression
+Wildfowl Fly: progression
 Yumizuno: useful
-Garlemald Access: useful
-Purse Web Spider: useful
-The Fringes Access: useful
-Honey Worm: useful
-Eulmore Access: useful
-Lower La Noscea Access: useful
-5 SAM Levels: useful
-Azys Lla Access: useful
-The Azim Steppe Access: useful
-Radz-at-Han Access: useful
-Pill Bug: useful
-Baitbugs: useful
-Rat Tail: useful
-Kozama'uka Access: useful
-Eastern Thanalan Access: useful
-Kugane Access: useful
-The Rak'tika Greatwood Access: useful
-Snurble Fly: useful
-Live Shrimp: useful
-Krill Cage Feeder: useful
-Chocobo Fly: useful
-Brute Leech: useful
-Heritage Found Access: useful
-Freshwater Boilie: useful
-Spinnerbait: useful
-Living Memory Access: useful
-Goby Ball: useful
-Kholusia Access: useful
-Stonefly Larva: useful
-5 WHM Levels: useful
-Mor Dhona Access: filler
-Herring Ball: useful
-Moyebi Shrimp: useful
-Outer La Noscea Access: useful
-The Churning Mists Access: useful
-Urqopacha Access: useful
-Mayfly: useful
-The Tempest Access: useful
-Mare Lamentorum Access: useful
-Hoverworm: useful
-Alexander Key: progression
