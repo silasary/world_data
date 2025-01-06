@@ -126,3 +126,4 @@ Bundle: Power Shard: filler
 Recipe: Solid Steel Ingot: progression
 Building: Industrial Storage Container: useful
 Recipe: Copper Rotor: progression
+Bundle: Plasma Spitter Remains: filler
