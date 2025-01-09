@@ -163,3 +163,8 @@ nuclear-fuel-reprocessing: useful
 oil-gathering: useful
 research-speed-2: filler
 advanced-material-processing: useful
+progressive-laser-weapons-damage: filler
+progressive-efficiency-module: useful
+repair-pack: useful
+progressive-engine: useful
+solar-energy: useful
