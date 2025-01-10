@@ -168,3 +168,4 @@ progressive-efficiency-module: useful
 repair-pack: useful
 progressive-engine: useful
 solar-energy: useful
+radar: useful
