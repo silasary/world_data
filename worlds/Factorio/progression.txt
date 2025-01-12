@@ -169,3 +169,4 @@ repair-pack: useful
 progressive-engine: useful
 solar-energy: useful
 radar: useful
+uranium-mining: useful
