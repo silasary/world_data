@@ -127,3 +127,5 @@ Recipe: Solid Steel Ingot: progression
 Building: Industrial Storage Container: useful
 Recipe: Copper Rotor: progression
 Bundle: Plasma Spitter Remains: filler
+Building: Conveyor Merger: progression
+Building: Lookout Tower: useful
