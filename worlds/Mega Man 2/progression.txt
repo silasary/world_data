@@ -1,27 +1,25 @@
-atomic fire: progression
-air shooter: progression
-leaf shield: progression
-bubble lead: progression
-quick boomerang: progression
-time stopper: progression
-metal blade: progression
-crash bomber: progression
-heat man access codes: progression
-air man access codes: progression
-wood man access codes: progression
-bubble man access codes: progression
-quick man access codes: progression
-flash man access codes: progression
-metal man access codes: progression
-crash man access codes: progression
-item 1: progression
-item 2: progression
-item 3: progression
-one up: filler
-E-Tank: useful
+Atomic Fire: progression
+Air Shooter: progression
+Leaf Shield: progression
+Bubble Lead: progression
+Quick Boomerang: progression
+Time Stopper: progression
+Metal Blade: progression
+Crash Bomber: progression
+Item 1: progression
+Item 2: progression
+Item 3: progression
+Heat Man Access Codes: progression
+Air Man Access Codes: progression
+Wood Man Access Codes: progression
+Bubble Man Access Codes: progression
+Quick Man Access Codes: progression
+Flash Man Access Codes: progression
+Metal Man Access Codes: progression
+Crash Man Access Codes: progression
+E-Tank: filler
+1-Up: filler
 Weapon Energy (L): filler
 Weapon Energy (S): filler
 Health Energy (L): filler
 Health Energy (S): filler
-e tank: useful
-Crash Man Access Codes: progression
