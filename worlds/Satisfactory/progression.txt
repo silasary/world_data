@@ -133,3 +133,4 @@ Bundle: Aluminum Casing: filler
 Bundle: Blade Runners: useful
 Recipe: Iron Rebar: filler
 Recipe: Pure Iron Ingot: useful
+Transport: Factory Cart (golden): filler
