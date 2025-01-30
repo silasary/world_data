@@ -134,3 +134,27 @@ Bundle: Blade Runners: useful
 Recipe: Iron Rebar: filler
 Recipe: Pure Iron Ingot: useful
 Transport: Factory Cart (golden): filler
+Recipe: Coated Iron Canister: progression
+Recipe: Nobelisk: progression
+Building: Conveyor Mk.2: progression
+Bundle: Rebar Gun: filler
+Recipe: Power Shard (5): progression
+Recipe: Residual Rubber: progression
+Bundle: Petroleum Coke: filler
+Bundle: Silica: filler
+Recipe: Pure Aluminum Ingot: progression
+Recipe: Therapeutic Inhaler: progression
+Recipe: Caterium Ingot: progression
+Recipe: Biomass (Alien Protein): progression
+Bundle: Screw: filler
+Recipe: Spitter Protein: progression
+Bundle: Beacon: filler
+Building: Pipeline Pump Mk.2: progression
+Recipe: Modular Engine: progression
+Recipe: Classic Battery: progression
+Recipe: Alumina Solution: progression
+Bundle: Bacon Agaric: filler
+Building: Conveyor Splitter: progression
+Bundle: Wood: filler
+Bundle: Electromagnetic Control Rod: filler
+Recipe: Aluminum Casing: progression
