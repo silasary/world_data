@@ -497,3 +497,12 @@ Charge: progression
 Time Magic: progression
 Roulette Trap: trap
 Law Card: Defend: filler
+Law Card: Time Magic antilaw: filler
+Law Card: Control: filler
+Law Card: Silence antilaw: filler
+Law Card: Protect antilaw: filler
+Law Card: Time Magic: filler
+Law Card: Broadswords: filler
+Law Card: Dmg2: Viera antilaw: filler
+Law Card: Morph antilaw: filler
+Law Card: Target All: filler
