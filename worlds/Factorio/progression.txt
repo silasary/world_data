@@ -177,3 +177,4 @@ processing-unit: useful
 cliff-explosives: useful
 steel-axe: useful
 advanced-combinators: useful
+advanced-circuit: progression
