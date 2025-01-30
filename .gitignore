@@ -1,2 +1,3 @@
 /old output/*.txt
 !/old output/placeholder.txt
+/input/*.apworld
