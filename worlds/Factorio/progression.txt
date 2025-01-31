@@ -178,3 +178,4 @@ cliff-explosives: useful
 steel-axe: useful
 advanced-combinators: useful
 advanced-circuit: progression
+fission-reactor-equipment: useful
