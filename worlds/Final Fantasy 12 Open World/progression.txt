@@ -1,28 +1,884 @@
-Chronos Tear: filler
-Nalbina Aeropass: progression
-Black Orb: progression
-Sakura-saezuri: useful
-Assassin's Arrows: useful
-Wind Globe: progression
-Writ of Transit: progression
-Blizzaga: useful
-Systems Access Key: progression
-Thundara: useful
-Fira: useful
-Ageworn Key: progression
-Teleport Stone: useful
-Cura Mote: filler
-Reflectga: useful
-Prince's Kiss: filler
-Sword of the Order: progression
-Gold Needle: filler
-Bio: useful
-Shemhazai: useful
-Telekinesis: useful
-Renew: useful
-Pinewood Chop: progression
-Second Board: progression
-Arise: useful
+1 Gil: filler
 1000 Gil: filler
-Protect: useful
+1000 Needles: unknown
+10000 Gil: filler
+25000 Gil: filler
+500 Gil: filler
+5000 Gil: filler
+Accursed Trophy: unknown
+Achilles: unknown
+Adamant Hat: unknown
+Adamant Vest: unknown
+Adamantine Trophy: unknown
+Adamantite: unknown
+Addle: unknown
+Adrammelech: unknown
+Aegis Shield: unknown
+Aero: unknown
+Aero Mote: filler
+Aeroga: unknown
+Aeroga Mote: filler
+Aevis Killer: unknown
+Agate Ring: unknown
+Aged Turtle Shell: unknown
+Ageworn Key: progression
+Aldebaran: unknown
+Altair: unknown
+Amber Armlet: unknown
+Ambrosia: unknown
+Ame-no-Murakumo: unknown
+Ancient Bone: unknown
+Ancient Sword: unknown
+Ancient Turtle Shell: unknown
+Ann's Letter: progression
+Antarctic Wind: unknown
+Antares: unknown
+Antidote: unknown
+Aqua: unknown
+Aqua Shot: unknown
+Aquara Mote: filler
+Aquarius Gem: unknown
+Arc Scale: unknown
+Arcana: unknown
+Archades Aeropass: progression
+Arctic Wind: unknown
+Arcturus: unknown
+Ardor: unknown
+Argyle Armlet: unknown
+Aries Gem: unknown
+Arise: useful
+Artemis Arrows: unknown
+Artemis Bow: unknown
+Ashura: unknown
+Assassin's Arrows: useful
+Assassin's Dagger: unknown
+Astrakhan Hat: unknown
+Avenger: unknown
+Bacchus's Wine: unknown
+Balaclava: unknown
+Balance: unknown
+Balance Mote: filler
+Balfonheim Aeropass: progression
+Baltoro Seed: unknown
+Bamboo Arrows: unknown
+Bangle: unknown
+Barbut: unknown
+Barheim Key: unknown
+Barrel Coat: unknown
+Bastard Sword: unknown
+Bat Fang: unknown
+Bat Wing: unknown
+Battle Bamboo: unknown
+Battle Harness: unknown
+Battlewyrm Carapace: unknown
+Beaked Trophy: unknown
+Beastlord Hide: unknown
+Beastlord Horn: unknown
+Behemoth Steak: unknown
+Belias: unknown
+Bent Staff: unknown
+Berserk: unknown
+Berserker Bracers: unknown
+Betelgeuse: unknown
+Bhuj: unknown
+Bhujerba Aeropass: progression
+Bio: useful
+Bio Mote: filler
+Black Belt: unknown
+Black Bolts: unknown
+Black Cowl: unknown
+Black Garb: unknown
+Black Mask: unknown
+Black Orb: progression
+Black Robes: unknown
+Blackened Fragment: unknown
+Blazer Gloves: unknown
+Bleed: unknown
+Blind: unknown
+Blindga: unknown
+Blindna: unknown
+Blizzaga: useful
+Blizzara: unknown
+Blizzard: unknown
+Blood Sword: unknown
+Blood Wool: unknown
+Blood-darkened Bone: unknown
+Blood-stained Necklace: unknown
+Bomb Ashes: unknown
+Bomb Fragment: unknown
+Bomb Shell: unknown
+Bone Fragment: unknown
+Bone Helm: unknown
+Bone Mail: unknown
+Bone of Byblos: unknown
+Bonebreaker: unknown
+Bonecrusher: unknown
+Bony Trophy: unknown
+Book of Orgain: unknown
+Book of Orgain-Cent: unknown
+Book of Orgain-Mille: unknown
+Bowgun: unknown
+Bowline Sash: unknown
+Braid Wool: unknown
+Brave Suit: unknown
+Bravery: unknown
+Break: unknown
+Brigandine: unknown
+Broadaxe: unknown
+Broadsword: unknown
+Broken Greataxe: unknown
+Broken Key: unknown
+Broken Spear: unknown
+Broken Sword: unknown
+Bronze Armor: unknown
+Bronze Chestplate: unknown
+Bronze Helm: unknown
+Bronze Mace: unknown
+Bronze Shield: unknown
+Brown Tuft: unknown
+Bubble: unknown
+Bubble Belt: unknown
+Bubble Mote: filler
+Buckler: unknown
+Bundle of Feathers: unknown
+Bundle of Needles: unknown
+Burgonet: unknown
+Burning Bow: unknown
+Cactus Flower: unknown
+Cactus Fruit: unknown
+Caldera: unknown
+Caliper: unknown
+Calot Hat: unknown
+Cameo Belt: unknown
+Cancer Gem: unknown
+Capella: unknown
+Capricorn Gem: unknown
+Carabineer Mail: unknown
+Caramel: unknown
+Carmagnole: unknown
+Castellanos: unknown
+Cat-ear Hood: unknown
+Celebrant's Miter: unknown
+Centurio Hero's Badge: unknown
+Chainmail: unknown
+Chakra Band: unknown
+Chanter's Djellaba: unknown
+Chaos: unknown
+Chaos Bombs: unknown
+Chaos Mace: unknown
+Chaperon: unknown
+Charge: unknown
+Charged Gizzard: unknown
+Charger Barding: unknown
+Charm: unknown
+Cherry Staff: unknown
+Chimera Head: unknown
+Chocobo Feather: unknown
+Chopper: unknown
+Chromed Leathers: unknown
+Chronos Tear: filler
+Circlet: unknown
+Clan Primer: unknown
+Clawed Trophy: unknown
+Claymore: unknown
+Cleanse: unknown
+Cleric's Robes: unknown
+Close Helmet: unknown
+Cloud Staff: unknown
+Coeurl Pelt: unknown
+Coeurl Whisker: unknown
+Common Fish: unknown
+Confuse: unknown
+Corpse Fly: unknown
+Cotton Cap: unknown
+Cotton Shirt: unknown
+Countdown: unknown
+Crescent Stone: unknown
+Crooked Fang: unknown
+Cross Scale: unknown
+Crossbow: unknown
+Crown of Laurels: unknown
+Cruel Trophy: unknown
+Crystal Shield: unknown
+Cuchulainn: unknown
+Cura: unknown
+Cura Mote: filler
+Curaga: unknown
+Curaja: unknown
+Cure: unknown
+Cypress Pole: unknown
+Dagger: unknown
+Damascus Steel: unknown
+Dark: unknown
+Dark Crystal: unknown
+Dark Energy: unknown
+Dark Magicite: unknown
+Dark Matter: unknown
+Dark Mote: filler
+Dark Shot: unknown
+Dark Stone: unknown
+Darkga: unknown
+Darkra: unknown
+Dawn Shard: progression
+Death: unknown
+Death Powder: unknown
+Death's-Head: unknown
+Deathbringer: unknown
+Decoy: unknown
+Defender: unknown
+Deimos Clay: unknown
+Delicious Fish: unknown
+Demon Drink: unknown
+Demon Eyeball: unknown
+Demon Feather: unknown
+Demon Mail: unknown
+Demon Shield: unknown
+Demon Tail: unknown
+Demon's Sigh: unknown
+Demonsbane: unknown
+Destrier Barding: unknown
+Destrier Mane: unknown
+Dhanusha: unknown
+Diakon Halcyon: unknown
+Diamond Armlet: unknown
+Diamond Armor: unknown
+Diamond Helm: unknown
+Diamond Shield: unknown
+Diamond Sword: unknown
+Disable: unknown
+Dispel: unknown
+Dispel Mote: filler
+Dispelga: unknown
+Domaine Calvados: unknown
+Doom Mace: unknown
+Dorsal Fin: unknown
+Drab Wool: unknown
+Dragon Helm: unknown
+Dragon Mail: unknown
+Dragon Scale: unknown
+Dragon Shield: unknown
+Dragon Whisker: unknown
+Drain: unknown
+Dueling Mask: unknown
+Dull Fragment: unknown
+Durandal: unknown
+Dusty Letter: unknown
+Earth Crystal: unknown
+Earth Magicite: unknown
+Earth Stone: unknown
+Echo Herbs: unknown
+Eight-fluted Pole: unknown
+Einherjarium: unknown
+Eksir Berries: unknown
+Electrum: unknown
+Elfin Bow: unknown
+Elixir: unknown
+Embroidered Tippet: unknown
+Emperor Scale: unknown
+Empty Bottle: unknown
+Empyreal Soul: unknown
+Empyrean Rod: unknown
+Enchanter's Habit: unknown
+Ensanguined Shield: unknown
+Ensanguined Trophy: unknown
+Errmonea Leaf: unknown
+Esuna: unknown
+Esunaga: unknown
+Eternal Trophy: unknown
 Ether: filler
+Euclid's Sextant: unknown
+Excalibur: unknown
+Excalipur: unknown
+Exodus: unknown
+Expose: unknown
+Eye Drops: unknown
+Eye of the Hawk: unknown
+Faith: unknown
+Famfrit: unknown
+Fanged Trophy: unknown
+Feathered Cap: unknown
+Feathered Trophy: unknown
+Fell Trophy: unknown
+Festering Flesh: unknown
+Feystone: unknown
+Fiery Arrows: unknown
+Fine Wool: unknown
+Fira: useful
+Firaga: unknown
+Fire: unknown
+Fire Crystal: unknown
+Fire Magicite: unknown
+Fire Stone: unknown
+Firefly: unknown
+First Aid: unknown
+Fish Scale: unknown
+Flame Shield: unknown
+Flame Staff: unknown
+Flametongue: unknown
+Flare: unknown
+Float: unknown
+Float Mote: filler
+Fomalhaut: unknown
+Forbidden Flesh: unknown
+Foul Flesh: unknown
+Foul Liquid: unknown
+Four-leaf Clover: unknown
+Francisca: unknown
+Frigid Trophy: unknown
+Frog Oil: unknown
+Frogspawn: unknown
+Fumarole: unknown
+Fur-scaled Trophy: unknown
+Fuzzy Miter: unknown
+Gaia Gear: unknown
+Gaia Hat: unknown
+Gaia Rod: unknown
+Gastrophetes: unknown
+Gauntlets: unknown
+Gemini Gem: unknown
+Gemsteel: unknown
+Gendarme: unknown
+Genji Armor: unknown
+Genji Gloves: unknown
+Genji Helm: unknown
+Genji Shield: unknown
+Germinas Boots: unknown
+Giant Feather: unknown
+Giant Stonebow: unknown
+Giant's Helmet: unknown
+Gigas Chestplate: unknown
+Gigas Hat: unknown
+Gil Toss: unknown
+Gillie Boots: unknown
+Gilt Measure: unknown
+Gimble Stalk: unknown
+Glacial Staff: unknown
+Gladius: unknown
+Glass Jewel: unknown
+Glimmering Robes: unknown
+Gnoma Halcyon: unknown
+Goddess's Magicite: unknown
+Godslayer's Badge: unknown
+Goggle Mask: unknown
+Gokuu Pole: unknown
+Gold Hairpin: unknown
+Gold Needle: filler
+Golden Amulet: unknown
+Golden Armor: unknown
+Golden Axe: unknown
+Golden Helm: unknown
+Golden Shield: unknown
+Golden Skullcap: unknown
+Golden Staff: unknown
+Grand Armor: unknown
+Grand Bolts: unknown
+Grand Helm: unknown
+Grand Mace: unknown
+Gravesoil Trophy: unknown
+Graviga: unknown
+Gravity: unknown
+Gravity Mote: filler
+Great Serpent's Fang: unknown
+Great Trango: unknown
+Greataxe: unknown
+Green Beret: unknown
+Green Liquid: unknown
+Green Tuft: unknown
+Grimoire Aidhed: unknown
+Grimoire Togail: unknown
+Grimy Fragment: unknown
+Gungnir: unknown
+Gysahl Greens: unknown
+Halberd: unknown
+Hammerhead: unknown
+Handaxe: unknown
+Handkerchief: unknown
+Hashmal: unknown
+Haste: unknown
+Hastega: unknown
+Hastega Mote: filler
+Headband: unknown
+Headgear: unknown
+Headguard: unknown
+Healing Rod: unknown
+Heavy Coat: unknown
+Heavy Lance: unknown
+Hell-Gate's Flame: unknown
+Hermes Sandals: unknown
+Hi-Ether: filler
+Hi-Potion: filler
+Hide-covered Trophy: unknown
+High Arcana: unknown
+Holy: unknown
+Holy Crystal: unknown
+Holy Lance: unknown
+Holy Magicite: unknown
+Holy Mote: filler
+Holy Rod: unknown
+Holy Stone: unknown
+Horakhty's Flame: unknown
+Horn: unknown
+Horned Hat: unknown
+Hornito: unknown
+Horology: unknown
+Hunting Crossbow: unknown
+Hypnocrown: unknown
+Ice Crystal: unknown
+Ice Magicite: unknown
+Ice Shield: unknown
+Ice Stone: unknown
+Icebrand: unknown
+Icecloud Arrows: unknown
+Ichthon Scale: unknown
+Iga Blade: unknown
+Immobilize: unknown
+Indigo Pendant: unknown
+Infuse: unknown
+Insect Husk: unknown
+Iron Armor: unknown
+Iron Carapace: unknown
+Iron Hammer: unknown
+Iron Helm: unknown
+Iron Ore: unknown
+Iron Pole: unknown
+Iron Scraps: unknown
+Iron Sword: unknown
+Ivory Pole: unknown
+Jack-o'-Lantern: unknown
+Jade Collar: unknown
+Jade Gown: unknown
+Javelin: unknown
+Judicer's Staff: unknown
+Jujitsu Gi: unknown
+Kagenui: unknown
+Kaiser Shield: unknown
+Kanya: unknown
+Karkata: unknown
+Ketu Board: unknown
+Kiku-ichimonji: unknown
+Kilimweave Shirt: unknown
+Killer Bow: unknown
+Knot of Rust: unknown
+Koga Blade: unknown
+Kogarasumaru: unknown
+Kotetsu: unknown
+Kumbha: unknown
+Lab Access Card: unknown
+Lambent Hat: unknown
+Lamia's Tiara: unknown
+Large Feather: unknown
+Lead Bolts: unknown
+Leamonde Halcyon: unknown
+Leather Armor: unknown
+Leather Breastplate: unknown
+Leather Cap: unknown
+Leather Clothing: unknown
+Leather Gorget: unknown
+Leather Headgear: unknown
+Leather Helm: unknown
+Leather Shield: unknown
+Leathern Trophy: unknown
+Lente's Tear: progression
+Leo Gem: unknown
+Leshach Halcyon: unknown
+Libra: unknown
+Libra Gem: unknown
+Lifewick: unknown
+Light Woven Shirt: unknown
+Lightning Arrows: unknown
+Lightning Fang: filler
+Linen Cuirass: unknown
+Lohengrin: unknown
+Long Bolts: unknown
+Longbow: unknown
+Longsword: unknown
+Lordly Robes: unknown
+Loxley Bow: unknown
+Lu Shang's Badge: unknown
+Lumber: unknown
+Lusterless Medallion: unknown
+Mace: unknown
+Maduin Gear: unknown
+Mage Masher: unknown
+Mage's Habit: unknown
+Mage's Hat: unknown
+Magepower Shishak: unknown
+Maggoty Flesh: unknown
+Magick Curch: unknown
+Magick Gloves: unknown
+Magick Lamp: unknown
+Magoroku: unknown
+Main Gauche: unknown
+Makara: unknown
+Malboro Flower: unknown
+Malboro Fruit: unknown
+Malboro Vine: unknown
+Mallet: unknown
+Maned Trophy: unknown
+Manufacted Nethicite: unknown
+Mardu Halcyon: unknown
+Masamune: unknown
+Mateus: unknown
+Maverick Trophy: unknown
+Maximillian: unknown
+Medallion of Bravery: unknown
+Medallion of Love: unknown
+Medallion of Might: unknown
+Megalixir: unknown
+Merchant's Armband: unknown
+Mesa: unknown
+Metal Jerkin: unknown
+Metallic Trophy: unknown
+Meteorite A: unknown
+Meteorite B: unknown
+Meteorite C: unknown
+Meteorite D: unknown
+Mina: unknown
+Mind Trophy: unknown
+Minerva Bustier: unknown
+Mirage Vest: unknown
+Mirror Mail: unknown
+Mirror Scale: unknown
+Miter: unknown
+Mithuna: unknown
+Molting: unknown
+Moon Ring: unknown
+Moondust: unknown
+Moonsilver Medallion: unknown
+Morning Star: unknown
+Mud Shot: unknown
+Multiscale: unknown
+Muramasa: unknown
+Murasame: unknown
+Musk Stick: unknown
+Mystletainn: unknown
+Mythril: unknown
+Mythril Blade: unknown
+Mythril Sword: unknown
+Nalbina Aeropass: progression
+Nebra Succulent: unknown
+Nihopalaoa: unknown
+Ninja Gear: unknown
+Nishijin Belt: unknown
+No. 1 Brig Key: unknown
+Nu Khai Sand: unknown
+Numerology: unknown
+Oak Staff: unknown
+Oaken Pole: unknown
+Obelisk: unknown
+Odiferous Trophy: unknown
+Officer's Hat: unknown
+Oil: unknown
+Oil Bombs: unknown
+Omega Badge: unknown
+Onion: unknown
+Onion Arrows: unknown
+Onion Bolts: unknown
+Onion Bombs: unknown
+Onion Shot: unknown
+Opal Ring: unknown
+Orange Tuft: unknown
+Orichalcum: unknown
+Orichalcum Dirk: unknown
+Orochi: unknown
+Orrachea Armlet: unknown
+Osafune: unknown
+Parallel Arrows: unknown
+Paramina Crossbow: unknown
+Partisan: unknown
+Peach Tuft: unknown
+Pebble: unknown
+Penetrator Crossbow: unknown
+Perseus Bow: unknown
+Pheasant Netsuke: unknown
+Phobos Glaze: unknown
+Phoenix Down: unknown
+Pilika's Diary: unknown
+Pinewood Chop: progression
+Pirate Hat: unknown
+Pisces Gem: unknown
+Platinum Armor: unknown
+Platinum Dagger: unknown
+Platinum Helm: unknown
+Platinum Shield: unknown
+Platinum Sword: unknown
+Poach: unknown
+Pointed Horn: unknown
+Pointy Hat: unknown
+Poison: unknown
+Poison Bombs: unknown
+Poisona: unknown
+Potion: unknown
+Power Armlet: unknown
+Power Rod: unknown
+Power Vest: unknown
+Prime Pelt: unknown
+Prime Tanned Hide: unknown
+Prince's Kiss: filler
+Protect: useful
+Protectga: unknown
+Putrid Liquid: unknown
+Quality Hide: unknown
+Quality Lumber: unknown
+Quality Pelt: unknown
+Quality Stone: unknown
+Quasimodo Boots: unknown
+Rabanastre Aeropass: progression
+Rabbit's Tail: unknown
+Ragnarok: unknown
+Rainbow Egg: unknown
+Rainstone: unknown
+Raise: unknown
+Ras Algethi: unknown
+Rat Pelt: unknown
+Rat Tail: unknown
+Recurve Crossbow: unknown
+Red Cap: unknown
+Reflect: unknown
+Reflectga: useful
+Reflectga Mote: filler
+Regen: unknown
+Remedy: unknown
+Renew: useful
+Renewing Morion: unknown
+Reptilian Trophy: unknown
+Reverse: unknown
+Reverse Mote: filler
+Revive: unknown
+Ribbon: unknown
+Rime Fang: unknown
+Ring Wyrm Liver: unknown
+Ring Wyrm Scale: unknown
+Ring of Renewal: unknown
+Ring of the Light: unknown
+Ring of the Toad: unknown
+Ringmail: unknown
+Rod: unknown
+Rod of Faith: unknown
+Rose Corsage: unknown
+Round Shield: unknown
+Rubber Suit: unknown
+Ruby Ring: unknown
+Runeblade: unknown
+Rusted Scrap of Armor: unknown
+Sage's Ring: unknown
+Sagittarius: unknown
+Sagittarius Gem: unknown
+Sakura-saezuri: useful
+Salamand Halcyon: unknown
+Sallet: unknown
+Sandalwood Chop: progression
+Sapping Bolts: unknown
+Sash: unknown
+Save the Queen: unknown
+Scale Armor: unknown
+Scarletite: unknown
+Scathe: unknown
+Scathe Mote: filler
+Scorpio Gem: unknown
+Scorpion Tail: unknown
+Scourge: unknown
+Screamroot: unknown
+Scythe Trophy: unknown
+Second Board: progression
+Seitengrat: unknown
+Serpent Eye: unknown
+Serpent Rod: unknown
+Serpentarius: unknown
+Serpentwyne Must: unknown
+Serum: unknown
+Shades of Black: unknown
+Shadestone: unknown
+Shear: unknown
+Shell: unknown
+Shell Shield: unknown
+Shelled Trophy: unknown
+Shellga: unknown
+Shemhazai: useful
+Shepherd's Bolero: unknown
+Shielded Armor: unknown
+Shikari Nagasa: unknown
+Shock: unknown
+Shock Mote: filler
+Shortbow: unknown
+Sickle Trophy: unknown
+Sickle-Blade: unknown
+Sight Unseeing: unknown
+Silence: unknown
+Silencega: unknown
+Silent Shot: unknown
+Silent Urn: unknown
+Silken Shirt: unknown
+Silver Bow: unknown
+Silver Liquid: unknown
+Simha: unknown
+Sirius: unknown
+Site 11 Key: unknown
+Site 3 Key: unknown
+Six-fluted Pole: unknown
+Skull Trophy: unknown
+Sky Jewel: unknown
+Slasher: unknown
+Slaven Harness: unknown
+Sledgehammer: unknown
+Sleep: unknown
+Sleepga: unknown
+Slime Oil: unknown
+Slimy Trophy: unknown
+Slow: unknown
+Slowga: unknown
+Sluice Gate Key: unknown
+Small Feather: unknown
+Snake Skin: unknown
+Snowfly: unknown
+Soldier's Cap: unknown
+Soleil Fang: unknown
+Solid Horn: unknown
+Solid Stone: unknown
+Sorcerer's Habit: unknown
+Sorcerer's Hat: unknown
+Soul Powder: unknown
+Soul Ward Key: unknown
+Soul of Thamasa: unknown
+Souleater: unknown
+Soulless Trophy: unknown
+Spear: unknown
+Spica: unknown
+Spiral Incisor: unknown
+Split Armor: unknown
+Staff of the Magi: unknown
+Stamp: unknown
+Stardust: unknown
+Steal: unknown
+Steel Gorget: unknown
+Steel Mask: unknown
+Steel Poleyns: unknown
+Stink Bombs: unknown
+Stolen Articles: unknown
+Stona: unknown
+Stone Bolts: unknown
+Stone Shot: unknown
+Stone of the Condemner: unknown
+Stoneblade: unknown
+Stop: unknown
+Storm Crystal: unknown
+Storm Magicite: unknown
+Storm Spear: unknown
+Storm Staff: unknown
+Storm Stone: unknown
+Stun Bombs: unknown
+Sturdy Bone: unknown
+Succulent Fruit: unknown
+Sunstone: unknown
+Survival Vest: unknown
+Sweep: unknown
+Sword of Kings: unknown
+Sword of the Order: progression
+Sylphi Halcyon: unknown
+Syphon: unknown
+Systems Access Key: progression
+Tanned Giantskin: unknown
+Tanned Hide: unknown
+Tanned Tyrant Hide: unknown
+Tattered Garment: unknown
+Taurus Gem: unknown
+Telekinesis: useful
+Teleport Stone: useful
+Thief's Cap: unknown
+Thief's Cuffs: unknown
+Thorned Mace: unknown
+Throat Wolf Blood: unknown
+Thundaga: unknown
+Thundara: useful
+Thunder: unknown
+Time Bolts: unknown
+Tomato Stalk: unknown
+Topkapi Hat: unknown
+Tourmaline Ring: unknown
+Tournesol: unknown
+Toxify: unknown
+Traitor's Bow: unknown
+Traveler: unknown
+Traveler's Vestment: unknown
+Treaty-Blade: progression
+Trident: unknown
+Tube Fuse: unknown
+Tula: unknown
+Tumulus: unknown
+Turtle Shell: unknown
+Turtleshell Choker: unknown
+Tyrant Bone: unknown
+Tyrant Hide: unknown
+Ultima: unknown
+Ultima Blade: unknown
+Undin Halcyon: unknown
+Unpurified Ether: unknown
+Vampyr Fang: unknown
+Vanish: unknown
+Vanishga: unknown
+Vanishga Mote: filler
+Vega: unknown
+Venetian Shield: unknown
+Vengeful Trophy: unknown
+Viera Rucksack: unknown
+Viking Coat: unknown
+Vile Trophy: unknown
+Virgo Gem: unknown
+Volcano: unknown
+Vox: unknown
+Vrsabha: unknown
+Vrscika: unknown
+War Hammer: unknown
+Wargod's Band: unknown
+Warp: unknown
+Warp Mote: filler
+Water Bombs: unknown
+Water Crystal: unknown
+Water Magicite: unknown
+Water Stone: unknown
+Whale Whisker: unknown
+Whiskered Trophy: unknown
+White Incense: unknown
+White Mask: unknown
+White Robes: unknown
+White Tuft: unknown
+Wind Crystal: unknown
+Wind Globe: progression
+Wind Magicite: unknown
+Wind Stone: unknown
+Windbreaker: unknown
+Windslicer Pinion: unknown
+Windslicer Shot: unknown
+Windvane: unknown
+Winged Boots: unknown
+Winged Helm: unknown
+Wither: unknown
+Wizard's Hat: unknown
+Wizard's Robes: unknown
+Wizard's Staff: unknown
+Wolf Pelt: unknown
+Wrath of the Gods: unknown
+Writ of Transit: progression
+Wyrm Bone: unknown
+Wyrm Carapace: unknown
+Wyrmfire Shot: unknown
+Wyrmhero Blade: unknown
+Wyvern Fang: unknown
+Wyvern Wing: unknown
+X-Potion: unknown
+Yagyu Darkblade: unknown
+Yakei: unknown
+Yellow Liquid: unknown
+Yensa Fin: unknown
+Yensa Scale: unknown
+Yoichi Bow: unknown
+Zalera: unknown
+Zephyr Pole: unknown
+Zeromus: unknown
+Zeus Mace: unknown
+Zodiac Escutcheon: unknown
+Zodiac Spear: unknown
+Zodiark: unknown
+Zombie Powder: unknown
+Zwill Blade: unknown
+Zwill Crossblade: unknown
