@@ -30,12 +30,12 @@ Statue of Jypta: useful
 Sun Stone: progression
 Armlet: progression
 Einstein Whistle: progression
-Blue Jewel: progression
-Yellow Jewel: progression
+Blue Jewel: mcguffin
+Yellow Jewel: mcguffin
 Lithograph: progression
-Red Jewel: progression
+Red Jewel: mcguffin
 Pawn Ticket: useful
-Purple Jewel: progression
+Purple Jewel: mcguffin
 Gola's Eye: progression
 Death Statue: filler
 Dahl: filler
@@ -45,13 +45,13 @@ Oracle Stone: progression
 Idol Stone: progression
 Key: progression
 Safety Pass: progression
-Green Jewel: progression
+Green Jewel: mcguffin
 Bell: useful
 Short Cake: useful
-Gola's Nail: progression
-Gola's Horn: progression
-Gola's Fang: progression
-Life Stock: filler
+Gola's Nail: mcguffin
+Gola's Horn: mcguffin
+Gola's Fang: mcguffin
+Life Stock: progression
 No Item: filler
 1 Gold: filler
 20 Golds: filler
