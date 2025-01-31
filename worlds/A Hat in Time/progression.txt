@@ -38,6 +38,9 @@ Relic (Necklace): progression
 100 Pons: filler
 Health Pon: filler
 Random Cosmetic: filler
+Baby Trap: trap
+Laser Trap: trap
+Parade Trap: trap
 Badge Pin: useful
 Umbrella: progression
 Progressive Painting Unlock: progression
@@ -53,6 +56,3 @@ Zipline Unlock - The Birdhouse Path: progression
 Zipline Unlock - The Lava Cake Path: progression
 Zipline Unlock - The Windmill Path: progression
 Zipline Unlock - The Twilight Bell Path: progression
-Baby Trap: trap
-Laser Trap: trap
-Parade Trap: trap
