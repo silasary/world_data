@@ -1,6 +1,6 @@
-AbilityCell: progression
-HealthCell: progression
-EnergyCell: progression
+AbilityCell: mcguffin
+HealthCell: mcguffin
+EnergyCell: mcguffin
 GinsoKey: progression
 ForlornKey: progression
 HoruKey: progression
