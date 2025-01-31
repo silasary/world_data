@@ -1,6 +1,13 @@
+Nothing: filler
 Launch Codes: progression
 Spacesuit: progression
 Translator: progression
+Translator (Hourglass Twins): progression
+Translator (Timber Hearth): progression
+Translator (Brittle Hollow): progression
+Translator (Giant's Deep): progression
+Translator (Dark Bramble): progression
+Translator (Other): progression
 Signalscope: progression
 Scout: progression
 Ghost Matter Wavelength: progression
@@ -32,7 +39,6 @@ Escape Pod 2 Signal: filler
 Escape Pod 3 Signal: progression
 Galena's Radio Signal: filler
 Tephra's Radio Signal: filler
-Nothing: filler
 Autopilot: useful
 Landing Camera: useful
 Eject Button: useful
@@ -49,15 +55,25 @@ Burnt Marshmallow: filler
 Ship Damage Trap: trap
 Audio Trap: trap
 Nap Trap: trap
-River Lowlands Painting Code: progression
-Translator (Brittle Hollow): progression
-Translator (Other): progression
-Projection Range Patch: progression
-Translator (Hourglass Twins): progression
-Cinder Isles Painting Code: progression
-Translator (Timber Hearth): progression
-Breach Override Codes: progression
 Stranger Light Modulator: progression
-Translator (Dark Bramble): progression
-Translator (Giant's Deep): progression
+Breach Override Codes: progression
+River Lowlands Painting Code: progression
+Cinder Isles Painting Code: progression
+Hidden Gorge Painting Code: progression
+Dream Totem Patch: progression
+Raft Docks Patch: progression
 Limbo Warp Patch: progression
+Projection Range Patch: progression
+Alarm Bypass Patch: progression
+Deep Space Radio Frequency: progression
+Radio Tower Signal: filler
+Deep Space Satellite Signal: filler
+Neighbor's Distress Signal Frequency: progression
+Lava Core Signals Frequency: progression
+Galactic Communication Frequency: progression
+Astral Codec Frequency: progression
+Memory Cube Interface: progression
+Magistarium Library Access Code: progression
+Magistarium Dormitory Access Code: progression
+Magistarium Engine Access Code: progression
+Hearthian Radio Frequency: progression
