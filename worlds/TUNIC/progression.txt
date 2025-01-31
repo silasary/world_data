@@ -37,12 +37,12 @@ Key: progression
 Fortress Vault Key: progression
 Flask Shard: useful
 Potion Flask: useful
-Golden Coin: progression
+Golden Coin: mcguffin
 Card Slot: useful
 Red Questagon: progression
 Green Questagon: progression
 Blue Questagon: progression
-Gold Questagon: progression
+Gold Questagon: mcguffin
 ATT Offering: useful
 DEF Offering: useful
 Potion Offering: useful
