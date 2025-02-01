@@ -10,3 +10,4 @@ SpawnPrincessItem: progression
 SpawnMimic: progression
 SpawnCompassChest: useful
 SpawnKing: progression
+SpawnBurgerChest: progression
