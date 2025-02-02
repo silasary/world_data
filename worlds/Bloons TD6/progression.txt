@@ -53,3 +53,7 @@ SniperMonkey-TUnlock: progression
 FlankingManeuvers-KUnlock: progression
 ExtraBurnyStuff-KUnlock: progression
 EndOfTheRoad-MUnlock: progression
+ExtraBounce-KUnlock: progression
+RapidRazors-KUnlock: progression
+EmergencyUnlock-KUnlock: progression
+OneTwoTree-MUnlock: progression
