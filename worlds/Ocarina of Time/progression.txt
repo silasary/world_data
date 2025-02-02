@@ -38,8 +38,8 @@ Iron Boots: progression
 Hover Boots: progression
 Stone of Agony: progression
 Gerudo Membership Card: progression
-Heart Container: progression
-Piece of Heart: progression
+Heart Container: mcguffin
+Piece of Heart: mcguffin
 Boss Key: progression
 Compass: filler
 Map: filler
@@ -58,11 +58,11 @@ Zora Mask: filler
 Gerudo Mask: filler
 Rupees (50): filler
 Rupees (200): filler
-Biggoron Sword: progression
+Biggoron Sword: useful
 Fire Arrows: progression
 Ice Arrows: progression
 Light Arrows: progression
-Gold Skulltula Token: progression
+Gold Skulltula Token: mcguffin
 Dins Fire: progression
 Nayrus Love: progression
 Farores Wind: progression
@@ -73,7 +73,7 @@ Deku Seeds (30): filler
 Bombchus (5): progression
 Bombchus (20): progression
 Rupee (Treasure Chest Game): filler
-Piece of Heart (Treasure Chest Game): progression
+Piece of Heart (Treasure Chest Game): mcguffin
 Ice Trap: trap
 Progressive Hookshot: progression
 Progressive Strength Upgrade: progression
@@ -82,8 +82,8 @@ Bow: progression
 Slingshot: progression
 Progressive Wallet: progression
 Progressive Scale: progression
-Deku Nut Capacity: filler
-Deku Stick Capacity: filler
+Deku Nut Capacity: useful
+Deku Stick Capacity: useful
 Bombchus: progression
 Magic Meter: progression
 Ocarina: progression
@@ -131,10 +131,10 @@ Small Key (Bottom of the Well): progression
 Small Key (Gerudo Training Ground): progression
 Small Key (Thieves Hideout): progression
 Small Key (Ganons Castle): progression
-Double Defense: filler
+Double Defense: useful
 Buy Magic Bean: progression
 Magic Bean Pack: progression
-Triforce Piece: progression
+Triforce Piece: mcguffin
 Zeldas Letter: progression
 Time Travel: progression
 Scarecrow Song: progression
