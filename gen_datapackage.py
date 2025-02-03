@@ -9,11 +9,17 @@ import pathlib
 import datetime
 
 game = input("Enter game: ")
+if not game:
+    games = [f for f in os.listdir(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/"))]
+    for i, g in enumerate(games):
+        print(f"{i}: {g}")
+    game = games[int(input("Enter index: "))]
+
 checksum = None
 dp = None
 try:
     cache_path = pathlib.Path(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/{game}/"))
-    # I think this cache comes from the .NET client?  If it exists, it's helpful, if not, we'll just fetch the datapackage from the API.
+    # CommonClient stores its checksums here, so if you've ever connected to a multiworld with the same game, it should be here
     if cache_path.exists():
         checksums = [f for f in cache_path.iterdir() if f.is_file()]
         if len(checksums) == 1:
@@ -38,8 +44,11 @@ items = {}
 for item in dp['item_name_to_id'].keys():
     items[item] = "unknown"
 
+abspath = os.path.dirname(__file__)
+world_folder = os.path.join(abspath, "worlds")
+
 try:
-    progressionFile = open(f"worlds/{game}/progression.txt", "r", encoding="utf-8")
+    progressionFile = open(os.path.join(world_folder, game, "progression.txt"), "r", encoding="utf-8")
     text = progressionFile.read()
     progressionFile.close()
     for x in text.splitlines():
@@ -48,6 +57,6 @@ try:
 except FileNotFoundError:
     pass
 
-with open(f"worlds/{game}/progression.txt", "w", encoding="utf-8") as f:
+with open(os.path.join(world_folder, game, "progression.txt"), "w", encoding="utf-8") as f:
     for item in items:
         f.write(f"{item}: {items[item]}\n")

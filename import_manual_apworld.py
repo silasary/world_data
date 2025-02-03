@@ -6,8 +6,8 @@ from os import listdir
 from os.path import isfile, join
 
 abspath = os.path.dirname(__file__)
-input_folder = abspath+ "\\input"
-world_folder = abspath+ "\\worlds"
+input_folder = join(abspath, "input")
+world_folder = join(abspath, "worlds")
 
 InputApworlds = [f for f in listdir(input_folder) if isfile(join(input_folder, f)) and f.lower().startswith("manual_")]
 
