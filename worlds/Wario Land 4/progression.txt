@@ -1,27 +1,27 @@
 Top Right Entry Jewel Piece: filler
-Top Right Emerald Piece: progression
-Top Right Ruby Piece: progression
-Top Right Topaz Piece: progression
-Top Right Sapphire Piece: progression
-Top Right Golden Jewel Piece: progression
+Top Right Emerald Piece: mcguffin
+Top Right Ruby Piece: mcguffin
+Top Right Topaz Piece: mcguffin
+Top Right Sapphire Piece: mcguffin
+Top Right Golden Jewel Piece: mcguffin
 Bottom Right Entry Jewel Piece: filler
-Bottom Right Emerald Piece: progression
-Bottom Right Ruby Piece: progression
-Bottom Right Topaz Piece: progression
-Bottom Right Sapphire Piece: progression
-Bottom Right Golden Jewel Piece: progression
+Bottom Right Emerald Piece: mcguffin
+Bottom Right Ruby Piece: mcguffin
+Bottom Right Topaz Piece: mcguffin
+Bottom Right Sapphire Piece: mcguffin
+Bottom Right Golden Jewel Piece: mcguffin
 Bottom Left Entry Jewel Piece: filler
-Bottom Left Emerald Piece: progression
-Bottom Left Ruby Piece: progression
-Bottom Left Topaz Piece: progression
-Bottom Left Sapphire Piece: progression
-Bottom Left Golden Jewel Piece: progression
+Bottom Left Emerald Piece: mcguffin
+Bottom Left Ruby Piece: mcguffin
+Bottom Left Topaz Piece: mcguffin
+Bottom Left Sapphire Piece: mcguffin
+Bottom Left Golden Jewel Piece: mcguffin
 Top Left Entry Jewel Piece: filler
-Top Left Emerald Piece: progression
-Top Left Ruby Piece: progression
-Top Left Topaz Piece: progression
-Top Left Sapphire Piece: progression
-Top Left Golden Jewel Piece: progression
+Top Left Emerald Piece: mcguffin
+Top Left Ruby Piece: mcguffin
+Top Left Topaz Piece: mcguffin
+Top Left Sapphire Piece: mcguffin
+Top Left Golden Jewel Piece: mcguffin
 About that Shepherd CD: filler
 Things that Never Change CD: filler
 Tomorrow's Blood Pressure CD: filler
@@ -44,18 +44,18 @@ Head Smash: progression
 Progressive Grab: progression
 Dash Attack: progression
 Enemy Jump: progression
-Golden Tree Pot: progression
-Golden Apple: progression
-Golden Fish: progression
-Golden Candle Holder: progression
-Golden Lamp: progression
-Golden Crescent Moon Bed: progression
-Golden Teddy Bear: progression
-Golden Lollipop: progression
-Golden Game Boy Advance: progression
-Golden Robot: progression
-Golden Rocket: progression
-Golden Rocking Horse: progression
+Golden Tree Pot: mcguffin
+Golden Apple: mcguffin
+Golden Fish: mcguffin
+Golden Candle Holder: mcguffin
+Golden Lamp: mcguffin
+Golden Crescent Moon Bed: mcguffin
+Golden Teddy Bear: mcguffin
+Golden Lollipop: mcguffin
+Golden Game Boy Advance: mcguffin
+Golden Robot: mcguffin
+Golden Rocket: mcguffin
+Golden Rocking Horse: mcguffin
 Full Health Item: useful
 Wario Form Trap: trap
 Heart: filler
