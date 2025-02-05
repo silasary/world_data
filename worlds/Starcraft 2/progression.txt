@@ -1,595 +1,595 @@
-Marine: progression
-Medic: progression
-Firebat: progression
-Marauder: progression
-Reaper: progression
-Hellion: progression
-Vulture: progression
-Goliath: progression
-Diamondback: progression
-Siege Tank: progression
-Medivac: progression
-Wraith: progression
-Viking: progression
-Banshee: progression
-Battlecruiser: progression
-Ghost: progression
-Spectre: progression
-Thor: progression
-Raven: progression
-Science Vessel: progression
-Predator: filler
-Hercules: progression
-Liberator: progression
-Valkyrie: progression
-Widow Mine: progression
-Cyclone: progression
-HERC: progression
-Warhound: progression
-Bunker: useful
-Missile Turret: useful
-Sensor Tower: useful
-Planetary Fortress: progression
-Perdition Turret: progression
-Hive Mind Emulator: progression
-Psi Disrupter: progression
-Progressive Terran Infantry Weapon: useful
-Progressive Terran Infantry Armor: useful
-Progressive Terran Vehicle Weapon: useful
-Progressive Terran Vehicle Armor: useful
-Progressive Terran Ship Weapon: useful
-Progressive Terran Ship Armor: useful
-Progressive Terran Weapon Upgrade: useful
-Progressive Terran Armor Upgrade: useful
-Progressive Terran Infantry Upgrade: useful
-Progressive Terran Vehicle Upgrade: useful
-Progressive Terran Ship Upgrade: useful
-Progressive Terran Weapon/Armor Upgrade: useful
-War Pigs: progression
-Devil Dogs: filler
-Hammer Securities: useful
-Spartan Company: progression
-Siege Breakers: useful
-Hel's Angels: progression
-Dusk Wings: useful
-Jackson's Revenge: useful
-Skibi's Angels: useful
-Death Heads: useful
-Winged Nightmares: progression
-Midnight Riders: useful
-Brynhilds: progression
-Jotun: useful
-Ultra-Capacitors: useful
-Vanadium Plating: useful
-Orbital Depots: useful
-Micro-Filtering: useful
-Automated Refinery: useful
-Command Center Reactor: useful
-Tech Reactor: useful
-Orbital Strike: useful
-Cellular Reactor: useful
-Progressive Regenerative Bio-Steel: progression
-Progressive Fire-Suppression System: useful
-Progressive Orbital Command: progression
-Structure Armor: useful
-Hi-Sec Auto Tracking: useful
-Advanced Optics: useful
-Rogue Forces: useful
-Hyperflight Rotors (Banshee): filler
-Internal Tech Module (Banshee): filler
-Laser Targeting System (Banshee): filler
-Progressive Cross-Spectrum Dampeners (Banshee): filler
-Shockwave Missile Battery (Banshee): progression
-Shaped Hull (Banshee): useful
-Advanced Targeting Optics (Banshee): progression
-Distortion Blasters (Banshee): useful
-Rocket Barrage (Banshee): useful
-ATX Laser Battery (Battlecruiser): progression
-Cloak (Battlecruiser): useful
-Progressive Defensive Matrix (Battlecruiser): useful
-Internal Tech Module (Battlecruiser): filler
-Progressive Missile Pods (Battlecruiser): useful
-Optimized Logistics (Battlecruiser): filler
-Tactical Jump (Battlecruiser): useful
-Behemoth Plating (Battlecruiser): useful
-Covert Ops Engines (Battlecruiser): useful
-Neosteel Bunker (Bunker): useful
-Projectile Accelerator (Bunker): useful
-Shrike Turret (Bunker): useful
-Fortified Bunker (Bunker): useful
-Mag-Field Accelerators (Cyclone): useful
-Mag-Field Launchers (Cyclone): useful
-Rapid Fire Launchers (Cyclone): useful
-Targeting Optics (Cyclone): useful
-Resource Efficiency (Cyclone): useful
-Internal Tech Module (Cyclone): filler
-Burst Capacitors (Diamondback): filler
-Hyperfluxor (Diamondback): useful
-Resource Efficiency (Diamondback): useful
-Shaped Hull (Diamondback): filler
-Progressive Tri-Lithium Power Cell (Diamondback): useful
-Ion Thrusters (Diamondback): useful
-Incinerator Gauntlets (Firebat): filler
-Juggernaut Plating (Firebat): useful
-Resource Efficiency (Firebat): useful
-Progressive Stimpack (Firebat): useful
-Infernal Pre-Igniter (Firebat): useful
-Kinetic Foam (Firebat): useful
-Nano Projectors (Firebat): useful
-Crius Suit (Ghost): useful
-EMP Rounds (Ghost): useful
-Lockdown (Ghost): useful
-Ocular Implants (Ghost): useful
-Resource Efficiency (Ghost): useful
-Ares-Class Targeting System (Goliath): useful
-Jump Jets (Goliath): progression
-Multi-Lock Weapons System (Goliath): useful
-Optimized Logistics (Goliath): filler
-Shaped Hull (Goliath): filler
-Resource Efficiency (Goliath): useful
-Internal Tech Module (Goliath): filler
-Hellbat Aspect (Hellion): progression
-Jump Jets (Hellion): filler
-Optimized Logistics (Hellion): filler
-Progressive Stimpack (Hellion): useful
-Smart Servos (Hellion): useful
-Thermite Filaments (Hellion): useful
-Twin-Linked Flamethrower (Hellion): filler
-Infernal Plating (Hellion): useful
-Juggernaut Plating (HERC): useful
-Kinetic Foam (HERC): useful
-Resource Efficiency (HERC): useful
-Internal Fusion Module (Hercules): filler
-Tactical Jump (Hercules): useful
-Advanced Ballistics (Liberator): useful
-Cloak (Liberator): filler
-Laser Targeting System (Liberator): filler
-Optimized Logistics (Liberator): filler
-Raid Artillery (Liberator): progression
-Smart Servos (Liberator): filler
-Resource Efficiency (Liberator): filler
-Concussive Shells (Marauder): useful
-Internal Tech Module (Marauder): filler
-Kinetic Foam (Marauder): useful
-Laser Targeting System (Marauder): filler
-Magrail Munitions (Marauder): filler
-Progressive Stimpack (Marauder): useful
-Juggernaut Plating (Marauder): useful
-Combat Shield (Marine): progression
-Laser Targeting System (Marine): filler
-Magrail Munitions (Marine): progression
-Optimized Logistics (Marine): filler
-Progressive Stimpack (Marine): progression
-Advanced Medic Facilities (Medic): filler
-Optical Flare (Medic): filler
-Resource Efficiency (Medic): filler
-Restoration (Medic): filler
-Stabilizer Medpacks (Medic): progression
-Adaptive Medpacks (Medic): progression
-Nano Projector (Medic): filler
-Advanced Healing AI (Medivac): filler
-Afterburners (Medivac): filler
-Expanded Hull (Medivac): filler
-Rapid Deployment Tube (Medivac): filler
-Scatter Veil (Medivac): useful
-Advanced Cloaking Field (Medivac): useful
-Hellstorm Batteries (Missile Turret): useful
-Titanium Housing (Missile Turret): filler
-Progressive Augmented Thrusters (Planetary Fortress): useful
-Advanced Targeting (Planetary Fortress): useful
-Resource Efficiency (Predator): filler
-Cloak (Predator): filler
-Charge (Predator): filler
-Predator's Fury (Predator): useful
-Anti-Armor Missile (Raven): filler
-Bio Mechanical Repair Drone (Raven): progression
-Hunter-Seeker Weapon (Raven): progression
-Interference Matrix (Raven): useful
-Internal Tech Module (Raven): filler
-Railgun Turret (Raven): useful
-Spider Mines (Raven): useful
-Resource Efficiency (Raven): useful
-Durable Materials (Raven): filler
-Advanced Cloaking Field (Reaper): useful
-Combat Drugs (Reaper): filler
-G-4 Clusterbomb (Reaper): progression
-Laser Targeting System (Reaper): filler
-Progressive Stimpack (Reaper): useful
-Spider Mines (Reaper): filler
-U-238 Rounds (Reaper): useful
-Jet Pack Overdrive (Reaper): useful
-Defensive Matrix (Science Vessel): useful
-EMP Shockwave (Science Vessel): useful
-Improved Nano-Repair (Science Vessel): useful
-Advanced AI Systems (Science Vessel): useful
-Advanced Construction (SCV): useful
-Dual-Fusion Welders (SCV): useful
-Hostile Environment Adaptation (SCV): filler
-Advanced Siege Tech (Siege Tank): useful
-Graduating Range (Siege Tank): progression
-Internal Tech Module (Siege Tank): filler
-Jump Jets (Siege Tank): progression
-Laser Targeting System (Siege Tank): useful
-Maelstrom Rounds (Siege Tank): progression
-Shaped Blast (Siege Tank): useful
-Smart Servos (Siege Tank): filler
-Spider Mines (Siege Tank): filler
-Shaped Hull (Siege Tank): filler
-Resource Efficiency (Siege Tank): useful
-Impaler Rounds (Spectre): useful
-Nyx-Class Cloaking Module (Spectre): useful
-Psionic Lash (Spectre): progression
-Resource Efficiency (Spectre): useful
-Cerberus Mine (Spider Mine): filler
-High Explosive Munition (Spider Mine): useful
-330mm Barrage Cannon (Thor): filler
-Progressive Immortality Protocol (Thor): filler
-Progressive High Impact Payload (Thor): useful
-Button With a Skull on It (Thor): progression
-Laser Targeting System (Thor): filler
-Large Scale Field Construction (Thor): filler
-Afterburners (Valkyrie): filler
-Flechette Missiles (Valkyrie): useful
-Enhanced Cluster Launchers (Valkyrie): useful
-Shaped Hull (Valkyrie): filler
-Launching Vector Compensator (Valkyrie): filler
-Resource Efficiency (Valkyrie): useful
-Anti-Mechanical Munition (Viking): useful
-Phobos-Class Weapons System (Viking): useful
-Ripwave Missiles (Viking): useful
-Smart Servos (Viking): useful
-Shredder Rounds (Viking): progression
-W.I.L.D. Missiles (Viking): useful
-Auto Launchers (Vulture): useful
-Ion Thrusters (Vulture): filler
-Progressive Replenishable Magazine (Vulture): filler
-Auto-Repair (Vulture): useful
-Resource Efficiency (Warhound): useful
-Reinforced Plating (Warhound): useful
-Black Market Launchers (Widow Mine): filler
-Concealment (Widow Mine): progression
-Drilling Claws (Widow Mine): filler
-Executioner Missiles (Widow Mine): useful
-Advanced Laser Technology (Wraith): progression
-Displacement Field (Wraith): filler
-Progressive Tomahawk Power Cells (Wraith): filler
-Trigger Override (Wraith): useful
-Internal Tech Module (Wraith): filler
-Resource Efficiency (Wraith): useful
-Ghost Visor (Nova Equipment): useful
-Rangefinder Oculus (Nova Equipment): useful
-Domination (Nova Ability): progression
-Blink (Nova Ability): progression
-Progressive Stealth Suit Module (Nova Suit Module): progression
-Energy Suit Module (Nova Suit Module): useful
-Armored Suit Module (Nova Suit Module): progression
-Jump Suit Module (Nova Suit Module): progression
-C20A Canister Rifle (Nova Weapon): progression
-Hellfire Shotgun (Nova Weapon): progression
-Plasma Rifle (Nova Weapon): progression
-Monomolecular Blade (Nova Weapon): progression
-Blazefire Gunblade (Nova Weapon): progression
-Stim Infusion (Nova Gadget): progression
-Pulse Grenades (Nova Gadget): progression
-Flashbang Grenades (Nova Gadget): progression
-Ionic Force Field (Nova Gadget): progression
-Holo Decoy (Nova Gadget): progression
-Tac Nuke Strike (Nova Ability): progression
-Zergling: progression
-Swarm Queen: progression
-Roach: progression
-Hydralisk: progression
-Aberration: progression
-Mutalisk: progression
-Swarm Host: progression
-Infestor: progression
-Ultralisk: progression
-Corruptor: progression
-Scourge: progression
-Brood Queen: progression
-Defiler: progression
-Spore Crawler: progression
-Spine Crawler: progression
-Progressive Zerg Melee Attack: useful
-Progressive Zerg Missile Attack: useful
-Progressive Zerg Ground Carapace: useful
-Progressive Zerg Flyer Attack: useful
-Progressive Zerg Flyer Carapace: useful
-Progressive Zerg Weapon Upgrade: useful
-Progressive Zerg Armor Upgrade: useful
-Progressive Zerg Ground Upgrade: useful
-Progressive Zerg Flyer Upgrade: useful
-Progressive Zerg Weapon/Armor Upgrade: useful
-Hardened Carapace (Zergling): useful
-Adrenal Overload (Zergling): useful
-Metabolic Boost (Zergling): filler
-Shredding Claws (Zergling): useful
-Hydriodic Bile (Roach): useful
-Adaptive Plating (Roach): useful
-Tunneling Claws (Roach): filler
-Glial Reconstitution (Roach): useful
-Organic Carapace (Roach): useful
-Frenzy (Hydralisk): useful
-Ancillary Carapace (Hydralisk): filler
-Grooved Spines (Hydralisk): useful
-Muscular Augments (Hydralisk): useful
-Resource Efficiency (Hydralisk): useful
-Corrosive Acid (Baneling): useful
-Rupture (Baneling): filler
-Regenerative Acid (Baneling): filler
-Centrifugal Hooks (Baneling): useful
-Tunneling Jaws (Baneling): useful
-Rapid Metamorph (Baneling): useful
-Vicious Glaive (Mutalisk): useful
-Rapid Regeneration (Mutalisk): useful
-Sundering Glaive (Mutalisk): useful
-Severing Glaive (Mutalisk): useful
-Aerodynamic Glaive Shape (Mutalisk): useful
-Burrow (Swarm Host): filler
-Rapid Incubation (Swarm Host): useful
-Pressurized Glands (Swarm Host): progression
-Locust Metabolic Boost (Swarm Host): filler
-Enduring Locusts (Swarm Host): useful
-Organic Carapace (Swarm Host): useful
-Resource Efficiency (Swarm Host): useful
-Burrow Charge (Ultralisk): useful
-Tissue Assimilation (Ultralisk): useful
-Monarch Blades (Ultralisk): useful
-Anabolic Synthesis (Ultralisk): filler
-Chitinous Plating (Ultralisk): useful
-Organic Carapace (Ultralisk): useful
-Resource Efficiency (Ultralisk): useful
-Corruption (Corruptor): useful
-Caustic Spray (Corruptor): useful
-Virulent Spores (Scourge): useful
-Resource Efficiency (Scourge): progression
-Swarm Scourge (Scourge): useful
-Corrosive Spray (Devourer): useful
-Gaping Maw (Devourer): useful
-Improved Osmosis (Devourer): filler
-Prescient Spores (Devourer): useful
-Prolonged Dispersion (Guardian): useful
-Primal Adaptation (Guardian): useful
-Soronan Acid (Guardian): useful
-Adaptive Talons (Impaler): filler
-Secretion Glands (Impaler): useful
-Hardened Tentacle Spines (Impaler): useful
-Seismic Spines (Lurker): useful
-Adapted Spines (Lurker): useful
-Potent Bile (Ravager): useful
-Bloated Bile Ducts (Ravager): useful
-Deep Tunnel (Ravager): useful
-Parasitic Bomb (Viper): useful
-Paralytic Barbs (Viper): useful
-Virulent Microbes (Viper): useful
-Porous Cartilage (Brood Lord): useful
-Evolved Carapace (Brood Lord): useful
-Splitter Mitosis (Brood Lord): useful
-Resource Efficiency (Brood Lord): useful
-Infested Terran (Infestor): useful
-Microbial Shroud (Infestor): useful
-Spawn Larvae (Swarm Queen): useful
-Deep Tunnel (Swarm Queen): useful
-Organic Carapace (Swarm Queen): filler
-Bio-Mechanical Transfusion (Swarm Queen): useful
-Resource Efficiency (Swarm Queen): useful
-Incubator Chamber (Swarm Queen): useful
-Fungal Growth (Brood Queen): useful
-Ensnare (Brood Queen): useful
-Enhanced Mitochondria (Brood Queen): useful
-Raptor Strain (Zergling): useful
-Swarmling Strain (Zergling): useful
-Vile Strain (Roach): useful
-Corpser Strain (Roach): useful
-Splitter Strain (Baneling): useful
-Hunter Strain (Baneling): useful
-Carrion Strain (Swarm Host): useful
-Creeper Strain (Swarm Host): filler
-Noxious Strain (Ultralisk): filler
-Torrasque Strain (Ultralisk): useful
-Baneling Aspect (Zergling): progression
-Impaler Aspect (Hydralisk): progression
-Lurker Aspect (Hydralisk): progression
-Brood Lord Aspect (Mutalisk/Corruptor): progression
-Viper Aspect (Mutalisk/Corruptor): progression
-Guardian Aspect (Mutalisk/Corruptor): useful
-Devourer Aspect (Mutalisk/Corruptor): useful
-Ravager Aspect (Roach): useful
-Infested Medics: useful
-Infested Siege Tanks: useful
-Infested Banshees: useful
-Kinetic Blast (Kerrigan Tier 1): progression
-Heroic Fortitude (Kerrigan Tier 1): progression
-Leaping Strike (Kerrigan Tier 1): progression
-Crushing Grip (Kerrigan Tier 2): progression
-Chain Reaction (Kerrigan Tier 2): progression
-Psionic Shift (Kerrigan Tier 2): progression
-Wild Mutation (Kerrigan Tier 4): progression
-Spawn Banelings (Kerrigan Tier 4): progression
-Mend (Kerrigan Tier 4): progression
-Infest Broodlings (Kerrigan Tier 6): progression
-Fury (Kerrigan Tier 6): progression
-Ability Efficiency (Kerrigan Tier 6): useful
-Apocalypse (Kerrigan Tier 7): progression
-Spawn Leviathan (Kerrigan Tier 7): progression
-Drop-Pods (Kerrigan Tier 7): progression
-Primal Form (Kerrigan): useful
-Zergling Reconstitution (Kerrigan Tier 3): filler
-Improved Overlords (Kerrigan Tier 3): useful
-Automated Extractors (Kerrigan Tier 3): useful
-Twin Drones (Kerrigan Tier 5): useful
-Malignant Creep (Kerrigan Tier 5): useful
-Vespene Efficiency (Kerrigan Tier 5): useful
-Ventral Sacs (Overlord): useful
 1 Kerrigan Level: progression
+10 Kerrigan Levels: progression
+14 Kerrigan Levels: progression
 2 Kerrigan Levels: progression
 3 Kerrigan Levels: progression
+330mm Barrage Cannon (Thor): filler
+35 Kerrigan Levels: progression
 4 Kerrigan Levels: progression
 5 Kerrigan Levels: progression
 6 Kerrigan Levels: progression
 7 Kerrigan Levels: progression
+70 Kerrigan Levels: progression
 8 Kerrigan Levels: progression
 9 Kerrigan Levels: progression
-10 Kerrigan Levels: progression
-14 Kerrigan Levels: progression
-35 Kerrigan Levels: progression
-70 Kerrigan Levels: progression
-Zealot: progression
-Stalker: progression
-High Templar: progression
-Dark Templar: progression
-Immortal: progression
-Colossus: progression
-Phoenix: progression
-Void Ray: progression
-Carrier: progression
-Observer: filler
-Centurion: progression
-Sentinel: progression
-Supplicant: filler
-Instigator: progression
-Slayer: progression
-Sentry: progression
-Energizer: progression
-Havoc: useful
-Signifier: progression
-Ascendant: progression
-Avenger: progression
-Blood Hunter: progression
-Dragoon: progression
-Dark Archon: progression
+ATX Laser Battery (Battlecruiser): progression
+Aberration: progression
+Ability Efficiency (Kerrigan Tier 6): useful
+Adapted Spines (Lurker): useful
+Adaptive Medpacks (Medic): progression
+Adaptive Plating (Roach): useful
+Adaptive Talons (Impaler): filler
+Additional Starting Minerals: filler
+Additional Starting Supply: filler
+Additional Starting Vespene: filler
 Adept: progression
-Warp Prism: progression
+Adrenal Overload (Zergling): useful
+Advanced AI Systems (Science Vessel): useful
+Advanced Ballistics (Liberator): useful
+Advanced Cloaking Field (Medivac): useful
+Advanced Cloaking Field (Reaper): useful
+Advanced Construction (SCV): useful
+Advanced Healing AI (Medivac): filler
+Advanced Laser Technology (Wraith): progression
+Advanced Medic Facilities (Medic): filler
+Advanced Optics: useful
+Advanced Photon Blasters (Scout): useful
+Advanced Siege Tech (Siege Tank): useful
+Advanced Targeting (Planetary Fortress): useful
+Advanced Targeting Mechanics (Immortal/Annihilator): progression
+Advanced Targeting Optics (Banshee): progression
+Aerodynamic Glaive Shape (Mutalisk): useful
+Afterburners (Medivac): filler
+Afterburners (Valkyrie): filler
+Agony Launchers (Vanguard): useful
+Amplified Assimilators: useful
+Anabolic Synthesis (Ultralisk): filler
+Ancillary Carapace (Hydralisk): filler
+Anion Pulse-Crystals (Phoenix/Mirage): useful
 Annihilator: progression
-Vanguard: progression
-Wrathwalker: progression
-Reaver: progression
-Disruptor: progression
-Mirage: progression
-Corsair: progression
-Destroyer: progression
-Scout: progression
-Tempest: progression
-Mothership: progression
+Anti-Armor Missile (Raven): filler
+Anti-Mechanical Munition (Viking): useful
+Apial Sensors (Scout): filler
+Apocalypse (Kerrigan Tier 7): progression
 Arbiter: progression
-Oracle: progression
-Progressive Protoss Ground Weapon: useful
-Progressive Protoss Ground Armor: useful
-Progressive Protoss Shields: useful
-Progressive Protoss Air Weapon: useful
-Progressive Protoss Air Armor: useful
-Progressive Protoss Weapon Upgrade: useful
-Progressive Protoss Armor Upgrade: useful
-Progressive Protoss Ground Upgrade: useful
-Progressive Protoss Air Upgrade: useful
-Progressive Protoss Weapon/Armor Upgrade: useful
-Photon Cannon: progression
-Khaydarin Monolith: progression
-Shield Battery: progression
+Ares-Class Targeting System (Goliath): useful
+Argus Jewel (Corsair): useful
+Argus Talisman (Dark Archon): useful
+Armored Suit Module (Nova Suit Module): progression
+Ascendant: progression
+Auto Launchers (Vulture): useful
+Auto-Repair (Vulture): useful
+Automated Extractors (Kerrigan Tier 3): useful
+Automated Refinery: useful
+Avenger: progression
+Baneling Aspect (Zergling): progression
+Banshee: progression
+Battlecruiser: progression
+Behemoth Plating (Battlecruiser): useful
+Bio Mechanical Repair Drone (Raven): progression
+Bio-Mechanical Transfusion (Swarm Queen): useful
+Black Market Launchers (Widow Mine): filler
+Blazefire Gunblade (Nova Weapon): progression
+Blink (Dark Templar/Avenger/Blood Hunter): progression
+Blink (Nova Ability): progression
+Bloated Bile Ducts (Ravager): useful
+Blood Amulet (Ascendant): useful
+Blood Hunter: progression
 Blood Shield (Supplicant): filler
-Soul Augmentation (Supplicant): filler
+Bloodshard Resonance (Havoc): useful
+Brood Lord Aspect (Mutalisk/Corruptor): progression
+Brood Queen: progression
+Brynhilds: progression
+Bunker: useful
+Burrow (Swarm Host): filler
+Burrow Charge (Ultralisk): useful
+Burst Capacitors (Diamondback): filler
+Button With a Skull on It (Thor): progression
+C20A Canister Rifle (Nova Weapon): progression
+Carrier: progression
+Carrion Strain (Swarm Host): useful
+Caustic Spray (Corruptor): useful
+Cellular Reactor: useful
+Centrifugal Hooks (Baneling): useful
+Centurion: progression
+Cerberus Mine (Spider Mine): filler
+Chain Reaction (Kerrigan Tier 2): progression
+Chaotic Attunement (Ascendant): useful
+Charge (Predator): filler
+Chitinous Plating (Ultralisk): useful
+Chrono Surge (Spear of Adun Calldown): useful
+Chronostatic Reinforcement (Arbiter): useful
+Cloak (Battlecruiser): useful
+Cloak (Liberator): filler
+Cloak (Predator): filler
+Cloaking Module (Sentry/Energizer/Havoc): useful
+Colossus: progression
+Combat Drugs (Reaper): filler
+Combat Sensor Array (Scout): useful
+Combat Shield (Marine): progression
+Command Center Reactor: useful
+Concealment (Widow Mine): progression
+Concussive Shells (Marauder): useful
+Corpser Strain (Roach): useful
+Corrosive Acid (Baneling): useful
+Corrosive Spray (Devourer): useful
+Corruption (Corruptor): useful
+Corruptor: progression
+Corsair: progression
+Covert Ops Engines (Battlecruiser): useful
+Creeper Strain (Swarm Host): filler
+Crius Suit (Ghost): useful
+Crushing Grip (Kerrigan Tier 2): progression
+Cyclone: progression
+Dark Archon: progression
+Dark Archon Meld (Dark Templar): useful
+Dark Templar: progression
+Death Heads: useful
+Deep Tunnel (Ravager): useful
+Deep Tunnel (Swarm Queen): useful
+Defensive Matrix (Science Vessel): useful
+Defiler: progression
+Deploy Fenix (Spear of Adun Calldown): progression
+Destroyer: progression
+Detect Weakness (Havoc): useful
+Devil Dogs: filler
+Devourer Aspect (Mutalisk/Corruptor): useful
+Diamondback: progression
+Disintegrating Particles (Stalker/Instigator/Slayer): progression
+Displacement Field (Wraith): filler
+Disruptor: progression
+Distortion Blasters (Banshee): useful
+Domination (Nova Ability): progression
+Dragoon: progression
+Drilling Claws (Widow Mine): filler
+Drop-Pods (Kerrigan Tier 7): progression
+Dual-Fusion Welders (SCV): useful
+Durable Materials (Raven): filler
+Dusk Wings: useful
+EMP Rounds (Ghost): useful
+EMP Shockwave (Science Vessel): useful
+Enduring Locusts (Swarm Host): useful
+Energizer: progression
+Energy Suit Module (Nova Suit Module): useful
+Enhanced Cloak Field (Arbiter): filler
+Enhanced Cluster Launchers (Valkyrie): useful
+Enhanced Mitochondria (Brood Queen): useful
+Enhanced Strider Servos (Dragoon): filler
+Enhanced Targeting: useful
+Ensnare (Brood Queen): useful
+Evolved Carapace (Brood Lord): useful
+Executioner Missiles (Widow Mine): useful
+Expanded Hull (Medivac): filler
+Eye of Wrath (Wrathwalker): filler
+Feedback (Dark Archon): useful
+Firebat: progression
+Flashbang Grenades (Nova Gadget): progression
+Flechette Missiles (Valkyrie): useful
+Flux Vanes (Void Ray/Destroyer): filler
+Force Field (Sentry): filler
+Forged Chassis (Energizer): useful
+Fortified Bunker (Bunker): useful
+Frenzy (Hydralisk): useful
+Fungal Growth (Brood Queen): useful
+Fury (Kerrigan Tier 6): progression
+G-4 Clusterbomb (Reaper): progression
+Gaping Maw (Devourer): useful
+Ghost: progression
+Ghost Visor (Nova Equipment): useful
+Glial Reconstitution (Roach): useful
+Goliath: progression
+Graduating Range (Siege Tank): progression
+Gravitic Boosters (Observer): filler
+Gravitic Drive (Warp Prism): filler
+Gravitic Thrusters (Scout): filler
+Graviton Catapult (Carrier): useful
+Gravity Sling (Tempest): useful
+Grooved Spines (Hydralisk): useful
+Guardian Aspect (Mutalisk/Corruptor): useful
+Guardian Shell: useful
+HERC: progression
+Hallucination (High Templar/Signifier): filler
+Hallucination (Sentry): filler
+Hammer Securities: useful
+Hardened Carapace (Zergling): useful
+Hardened Tentacle Spines (Impaler): useful
+Havoc: useful
+Hel's Angels: progression
+Hellbat Aspect (Hellion): progression
+Hellfire Shotgun (Nova Weapon): progression
+Hellion: progression
+Hellstorm Batteries (Missile Turret): useful
+Hercules: progression
+Heroic Fortitude (Kerrigan Tier 1): progression
+Hi-Sec Auto Tracking: useful
+High Archon (Archon): useful
+High Explosive Munition (Spider Mine): useful
+High Impact Phase Disruptor (Dragoon): useful
+High Templar: progression
+Hive Mind Emulator: progression
+Holo Decoy (Nova Gadget): progression
+Hostile Environment Adaptation (SCV): filler
+Hull of Past Glories (Carrier): useful
+Hunter Strain (Baneling): useful
+Hunter-Seeker Weapon (Raven): progression
+Hydralisk: progression
+Hydriodic Bile (Roach): useful
+Hyperflight Rotors (Banshee): filler
+Hyperfluxor (Diamondback): useful
+Immortal: progression
+Impaler Aspect (Hydralisk): progression
+Impaler Rounds (Spectre): useful
+Improved Nano-Repair (Science Vessel): useful
+Improved Osmosis (Devourer): filler
+Improved Overlords (Kerrigan Tier 3): useful
+Incinerator Gauntlets (Firebat): filler
+Incubator Chamber (Swarm Queen): useful
+Infernal Plating (Hellion): useful
+Infernal Pre-Igniter (Firebat): useful
+Infest Broodlings (Kerrigan Tier 6): progression
+Infested Banshees: useful
+Infested Medics: useful
+Infested Siege Tanks: useful
+Infested Terran (Infestor): useful
+Infestor: progression
+Instigator: progression
+Interference Matrix (Raven): useful
+Internal Fusion Module (Hercules): filler
+Internal Tech Module (Banshee): filler
+Internal Tech Module (Battlecruiser): filler
+Internal Tech Module (Cyclone): filler
+Internal Tech Module (Goliath): filler
+Internal Tech Module (Marauder): filler
+Internal Tech Module (Raven): filler
+Internal Tech Module (Siege Tank): filler
+Internal Tech Module (Wraith): filler
+Ion Thrusters (Diamondback): useful
+Ion Thrusters (Vulture): filler
+Ionic Force Field (Nova Gadget): progression
+Ionic Wavelength Flux (Phoenix/Mirage): useful
+Jackson's Revenge: useful
+Jet Pack Overdrive (Reaper): useful
+Jotun: useful
+Juggernaut Plating (Firebat): useful
+Juggernaut Plating (HERC): useful
+Juggernaut Plating (Marauder): useful
+Jump Jets (Goliath): progression
+Jump Jets (Hellion): filler
+Jump Jets (Siege Tank): progression
+Jump Suit Module (Nova Suit Module): progression
+Khalai Ingenuity: useful
+Khaydarin Amulet (High Templar/Signifier): useful
+Khaydarin Core (Arbiter): useful
+Khaydarin Monolith: progression
+Kinetic Blast (Kerrigan Tier 1): progression
+Kinetic Foam (Firebat): useful
+Kinetic Foam (HERC): useful
+Kinetic Foam (Marauder): useful
+Large Scale Field Construction (Thor): filler
+Laser Targeting System (Banshee): filler
+Laser Targeting System (Liberator): filler
+Laser Targeting System (Marauder): filler
+Laser Targeting System (Marine): filler
+Laser Targeting System (Reaper): filler
+Laser Targeting System (Siege Tank): useful
+Laser Targeting System (Thor): filler
+Launching Vector Compensator (Valkyrie): filler
+Leaping Strike (Kerrigan Tier 1): progression
+Leg Enhancements (Zealot/Sentinel/Centurion): useful
+Liberator: progression
+Lockdown (Ghost): useful
+Locust Metabolic Boost (Swarm Host): filler
+Lurker Aspect (Hydralisk): progression
+Maelstrom (Dark Archon): useful
+Maelstrom Rounds (Siege Tank): progression
+Mag-Field Accelerators (Cyclone): useful
+Mag-Field Launchers (Cyclone): useful
+Magrail Munitions (Marauder): filler
+Magrail Munitions (Marine): progression
+Malignant Creep (Kerrigan Tier 5): useful
+Marauder: progression
+Marine: progression
+Mass Recall (Spear of Adun Calldown): useful
+Matrix Overload: useful
+Matter Dispersion (Vanguard): useful
+Medic: progression
+Medivac: progression
+Mend (Kerrigan Tier 4): progression
+Metabolic Boost (Zergling): filler
+Micro-Filtering: useful
+Microbial Shroud (Infestor): useful
+Midnight Riders: useful
+Mirage: progression
+Missile Turret: useful
+Monarch Blades (Ultralisk): useful
+Monomolecular Blade (Nova Weapon): progression
+Mothership: progression
+Multi-Lock Weapons System (Goliath): useful
+Muscular Augments (Hydralisk): useful
+Mutalisk: progression
+Nano Projector (Medic): filler
+Nano Projectors (Firebat): useful
+Neosteel Bunker (Bunker): useful
+Neutron Shields (Corsair): filler
+Nexus Overcharge: useful
+Nothing: trap
+Noxious Strain (Ultralisk): filler
+Nyx-Class Cloaking Module (Spectre): useful
+Observer: filler
+Ocular Implants (Ghost): useful
+Optical Flare (Medic): filler
+Optimized Logistics (Battlecruiser): filler
+Optimized Logistics (Goliath): filler
+Optimized Logistics (Hellion): filler
+Optimized Logistics (Liberator): filler
+Optimized Logistics (Marine): filler
+Optimized Ordnance: useful
+Oracle: progression
+Orbital Assimilators: useful
+Orbital Depots: useful
+Orbital Strike: useful
+Orbital Strike (Spear of Adun Calldown): useful
+Organic Carapace (Roach): useful
+Organic Carapace (Swarm Host): useful
+Organic Carapace (Swarm Queen): filler
+Organic Carapace (Ultralisk): useful
+Overwatch (Spear of Adun Auto-Cast): useful
+Pacification Protocol (Colossus): useful
+Paralytic Barbs (Viper): useful
+Parasitic Bomb (Viper): useful
+Particle Reflection (Stalker/Instigator/Slayer): progression
+Perdition Turret: progression
+Phase Blaster (Warp Prism): progression
+Phase Bulwark (Adept): useful
+Phobos-Class Weapons System (Viking): useful
+Phoenix: progression
+Photon Cannon: progression
+Planetary Fortress: progression
+Plasma Rifle (Nova Weapon): progression
+Porous Cartilage (Brood Lord): useful
+Potent Bile (Ravager): useful
+Power Overwhelming (Ascendant): useful
+Predator: filler
+Predator's Fury (Predator): useful
+Prescient Spores (Devourer): useful
+Pressurized Glands (Swarm Host): progression
+Primal Adaptation (Guardian): useful
+Primal Form (Kerrigan): useful
+Progressive Augmented Thrusters (Planetary Fortress): useful
+Progressive Cross-Spectrum Dampeners (Banshee): filler
+Progressive Defensive Matrix (Battlecruiser): useful
+Progressive Fire-Suppression System: useful
+Progressive High Impact Payload (Thor): useful
+Progressive Immortality Protocol (Thor): filler
+Progressive Missile Pods (Battlecruiser): useful
+Progressive Orbital Command: progression
+Progressive Protoss Air Armor: useful
+Progressive Protoss Air Upgrade: useful
+Progressive Protoss Air Weapon: useful
+Progressive Protoss Armor Upgrade: useful
+Progressive Protoss Ground Armor: useful
+Progressive Protoss Ground Upgrade: useful
+Progressive Protoss Ground Weapon: useful
+Progressive Protoss Shields: useful
+Progressive Protoss Weapon Upgrade: useful
+Progressive Protoss Weapon/Armor Upgrade: useful
+Progressive Proxy Pylon (Spear of Adun Calldown): useful
+Progressive Regenerative Bio-Steel: progression
+Progressive Replenishable Magazine (Vulture): filler
+Progressive Stealth Suit Module (Nova Suit Module): progression
+Progressive Stimpack (Firebat): useful
+Progressive Stimpack (Hellion): useful
+Progressive Stimpack (Marauder): useful
+Progressive Stimpack (Marine): progression
+Progressive Stimpack (Reaper): useful
+Progressive Terran Armor Upgrade: useful
+Progressive Terran Infantry Armor: useful
+Progressive Terran Infantry Upgrade: useful
+Progressive Terran Infantry Weapon: useful
+Progressive Terran Ship Armor: useful
+Progressive Terran Ship Upgrade: useful
+Progressive Terran Ship Weapon: useful
+Progressive Terran Vehicle Armor: useful
+Progressive Terran Vehicle Upgrade: useful
+Progressive Terran Vehicle Weapon: useful
+Progressive Terran Weapon Upgrade: useful
+Progressive Terran Weapon/Armor Upgrade: useful
+Progressive Tomahawk Power Cells (Wraith): filler
+Progressive Tri-Lithium Power Cell (Diamondback): useful
+Progressive Zerg Armor Upgrade: useful
+Progressive Zerg Flyer Attack: useful
+Progressive Zerg Flyer Carapace: useful
+Progressive Zerg Flyer Upgrade: useful
+Progressive Zerg Ground Carapace: useful
+Progressive Zerg Ground Upgrade: useful
+Progressive Zerg Melee Attack: useful
+Progressive Zerg Missile Attack: useful
+Progressive Zerg Weapon Upgrade: useful
+Progressive Zerg Weapon/Armor Upgrade: useful
+Projectile Accelerator (Bunker): useful
+Prolonged Dispersion (Guardian): useful
+Psi Disrupter: progression
+Psionic Lash (Spectre): progression
+Psionic Shift (Kerrigan Tier 2): progression
+Pulse Grenades (Nova Gadget): progression
+Purifier Beam (Spear of Adun Calldown): useful
+Pylon Overcharge (Spear of Adun Calldown): useful
+Quantic Reactor (Tempest): filler
+Quatro: useful
+Raid Artillery (Liberator): progression
+Railgun Turret (Raven): useful
+Rangefinder Oculus (Nova Equipment): useful
+Rapid Deployment Tube (Medivac): filler
+Rapid Fire Launchers (Cyclone): useful
+Rapid Incubation (Swarm Host): useful
+Rapid Metamorph (Baneling): useful
+Rapid Power Cycling (Wrathwalker): useful
+Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
+Rapid Regeneration (Mutalisk): useful
+Raptor Strain (Zergling): useful
+Ravager Aspect (Roach): useful
+Raven: progression
+Reaper: progression
+Reaver: progression
+Reaver Capacity (Reaver): filler
+Reclamation (Energizer): useful
+Reconstruction Beam (Spear of Adun Auto-Cast): progression
+Reforged Bloodshard Core (Destroyer): useful
+Regenerative Acid (Baneling): filler
+Reinforced Plating (Warhound): useful
+Resonating Glaives (Adept): useful
+Resource Efficiency (Arbiter): filler
+Resource Efficiency (Brood Lord): useful
+Resource Efficiency (Cyclone): useful
+Resource Efficiency (Dark Templar/Avenger/Blood Hunter): useful
+Resource Efficiency (Diamondback): useful
+Resource Efficiency (Firebat): useful
+Resource Efficiency (Ghost): useful
+Resource Efficiency (Goliath): useful
+Resource Efficiency (HERC): useful
+Resource Efficiency (Hydralisk): useful
+Resource Efficiency (Liberator): filler
+Resource Efficiency (Medic): filler
+Resource Efficiency (Predator): filler
+Resource Efficiency (Raven): useful
+Resource Efficiency (Reaver): useful
+Resource Efficiency (Scourge): progression
+Resource Efficiency (Siege Tank): useful
+Resource Efficiency (Spectre): useful
+Resource Efficiency (Swarm Host): useful
+Resource Efficiency (Swarm Queen): useful
+Resource Efficiency (Ultralisk): useful
+Resource Efficiency (Valkyrie): useful
+Resource Efficiency (Warhound): useful
+Resource Efficiency (Wraith): useful
+Restoration (Medic): filler
+Ripwave Missiles (Viking): useful
+Roach: progression
+Rocket Barrage (Banshee): useful
+Rogue Forces: useful
+Rupture (Baneling): filler
+Scarab Damage (Reaver): useful
+Scatter Veil (Medivac): useful
+Science Vessel: progression
+Scourge: progression
+Scout: progression
+Secretion Glands (Impaler): useful
+Seismic Spines (Lurker): useful
+Sensor Array (Observer): filler
+Sensor Tower: useful
+Sentinel: progression
+Sentry: progression
+Severing Glaive (Mutalisk): useful
+Shadow Guard Training (Dark Templar/Avenger/Blood Hunter): useful
+Shaped Blast (Siege Tank): useful
+Shaped Hull (Banshee): useful
+Shaped Hull (Diamondback): filler
+Shaped Hull (Goliath): filler
+Shaped Hull (Siege Tank): filler
+Shaped Hull (Valkyrie): filler
+Shield Battery: progression
+Shield Capacity (Zealot/Sentinel/Centurion): useful
+Shield Overcharge (Spear of Adun Calldown): useful
 Shield Regeneration (Supplicant): filler
 Shockwave (Adept): useful
-Resonating Glaives (Adept): useful
-Phase Bulwark (Adept): useful
-Disintegrating Particles (Stalker/Instigator/Slayer): progression
-Particle Reflection (Stalker/Instigator/Slayer): progression
-High Impact Phase Disruptor (Dragoon): useful
-Trillic Compression System (Dragoon): useful
-Singularity Charge (Dragoon): useful
-Enhanced Strider Servos (Dragoon): filler
-Combat Sensor Array (Scout): useful
-Apial Sensors (Scout): filler
-Gravitic Thrusters (Scout): filler
-Advanced Photon Blasters (Scout): useful
-Tectonic Destabilizers (Tempest): filler
-Quantic Reactor (Tempest): filler
-Gravity Sling (Tempest): useful
-Ionic Wavelength Flux (Phoenix/Mirage): useful
-Anion Pulse-Crystals (Phoenix/Mirage): useful
-Stealth Drive (Corsair): useful
-Argus Jewel (Corsair): useful
-Sustaining Disruption (Corsair): useful
-Neutron Shields (Corsair): filler
-Stealth Drive (Oracle): useful
-Stasis Calibration (Oracle): useful
-Temporal Acceleration Beam (Oracle): useful
-Chronostatic Reinforcement (Arbiter): useful
-Khaydarin Core (Arbiter): useful
-Spacetime Anchor (Arbiter): useful
-Resource Efficiency (Arbiter): filler
-Enhanced Cloak Field (Arbiter): filler
-Graviton Catapult (Carrier): useful
-Hull of Past Glories (Carrier): useful
-Flux Vanes (Void Ray/Destroyer): filler
-Reforged Bloodshard Core (Destroyer): useful
-Gravitic Drive (Warp Prism): filler
-Phase Blaster (Warp Prism): progression
-War Configuration (Warp Prism): useful
-Gravitic Boosters (Observer): filler
-Sensor Array (Observer): filler
-Scarab Damage (Reaver): useful
-Solarite Payload (Reaver): useful
-Reaver Capacity (Reaver): filler
-Resource Efficiency (Reaver): useful
-Agony Launchers (Vanguard): useful
-Matter Dispersion (Vanguard): useful
-Singularity Charge (Immortal/Annihilator): useful
-Advanced Targeting Mechanics (Immortal/Annihilator): progression
-Pacification Protocol (Colossus): useful
-Rapid Power Cycling (Wrathwalker): useful
-Eye of Wrath (Wrathwalker): filler
+Shockwave Missile Battery (Banshee): progression
+Shredder Rounds (Viking): progression
+Shredding Claws (Zergling): useful
+Shrike Turret (Bunker): useful
 Shroud of Adun (Dark Templar/Avenger/Blood Hunter): useful
-Shadow Guard Training (Dark Templar/Avenger/Blood Hunter): useful
-Blink (Dark Templar/Avenger/Blood Hunter): progression
-Resource Efficiency (Dark Templar/Avenger/Blood Hunter): useful
-Dark Archon Meld (Dark Templar): useful
-Unshackled Psionic Storm (High Templar/Signifier): useful
-Hallucination (High Templar/Signifier): filler
-Khaydarin Amulet (High Templar/Signifier): useful
-High Archon (Archon): useful
-Feedback (Dark Archon): useful
-Maelstrom (Dark Archon): useful
-Argus Talisman (Dark Archon): useful
-Power Overwhelming (Ascendant): useful
-Chaotic Attunement (Ascendant): useful
-Blood Amulet (Ascendant): useful
-Cloaking Module (Sentry/Energizer/Havoc): useful
-Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
-Force Field (Sentry): filler
-Hallucination (Sentry): filler
-Reclamation (Energizer): useful
-Forged Chassis (Energizer): useful
-Detect Weakness (Havoc): useful
-Bloodshard Resonance (Havoc): useful
-Leg Enhancements (Zealot/Sentinel/Centurion): useful
-Shield Capacity (Zealot/Sentinel/Centurion): useful
-Chrono Surge (Spear of Adun Calldown): useful
-Progressive Proxy Pylon (Spear of Adun Calldown): useful
-Pylon Overcharge (Spear of Adun Calldown): useful
-Orbital Strike (Spear of Adun Calldown): useful
-Temporal Field (Spear of Adun Calldown): useful
-Solar Lance (Spear of Adun Calldown): progression
-Mass Recall (Spear of Adun Calldown): useful
-Shield Overcharge (Spear of Adun Calldown): useful
-Deploy Fenix (Spear of Adun Calldown): progression
-Purifier Beam (Spear of Adun Calldown): useful
-Time Stop (Spear of Adun Calldown): progression
+Siege Breakers: useful
+Siege Tank: progression
+Signifier: progression
+Singularity Charge (Dragoon): useful
+Singularity Charge (Immortal/Annihilator): useful
+Skibi's Angels: useful
+Slayer: progression
+Smart Servos (Hellion): useful
+Smart Servos (Liberator): filler
+Smart Servos (Siege Tank): filler
+Smart Servos (Viking): useful
 Solar Bombardment (Spear of Adun Calldown): useful
-Matrix Overload: useful
-Quatro: useful
-Nexus Overcharge: useful
-Orbital Assimilators: useful
-Warp Harmonization: useful
-Guardian Shell: useful
-Reconstruction Beam (Spear of Adun Auto-Cast): progression
-Overwatch (Spear of Adun Auto-Cast): useful
+Solar Lance (Spear of Adun Calldown): progression
+Solarite Payload (Reaver): useful
+Soronan Acid (Guardian): useful
+Soul Augmentation (Supplicant): filler
+Spacetime Anchor (Arbiter): useful
+Spartan Company: progression
+Spawn Banelings (Kerrigan Tier 4): progression
+Spawn Larvae (Swarm Queen): useful
+Spawn Leviathan (Kerrigan Tier 7): progression
+Spectre: progression
+Spider Mines (Raven): useful
+Spider Mines (Reaper): filler
+Spider Mines (Siege Tank): filler
+Spine Crawler: progression
+Splitter Mitosis (Brood Lord): useful
+Splitter Strain (Baneling): useful
+Spore Crawler: progression
+Stabilizer Medpacks (Medic): progression
+Stalker: progression
+Stasis Calibration (Oracle): useful
+Stealth Drive (Corsair): useful
+Stealth Drive (Oracle): useful
+Stim Infusion (Nova Gadget): progression
+Structure Armor: useful
+Sundering Glaive (Mutalisk): useful
 Superior Warp Gates: useful
-Enhanced Targeting: useful
-Optimized Ordnance: useful
-Khalai Ingenuity: useful
-Amplified Assimilators: useful
-Additional Starting Minerals: filler
-Additional Starting Vespene: filler
-Additional Starting Supply: filler
-Nothing: trap
+Supplicant: filler
+Sustaining Disruption (Corsair): useful
+Swarm Host: progression
+Swarm Queen: progression
+Swarm Scourge (Scourge): useful
+Swarmling Strain (Zergling): useful
+Tac Nuke Strike (Nova Ability): progression
+Tactical Jump (Battlecruiser): useful
+Tactical Jump (Hercules): useful
+Targeting Optics (Cyclone): useful
+Tech Reactor: useful
+Tectonic Destabilizers (Tempest): filler
+Tempest: progression
+Temporal Acceleration Beam (Oracle): useful
+Temporal Field (Spear of Adun Calldown): useful
+Thermite Filaments (Hellion): useful
+Thor: progression
+Time Stop (Spear of Adun Calldown): progression
+Tissue Assimilation (Ultralisk): useful
+Titanium Housing (Missile Turret): filler
+Torrasque Strain (Ultralisk): useful
+Trigger Override (Wraith): useful
+Trillic Compression System (Dragoon): useful
+Tunneling Claws (Roach): filler
+Tunneling Jaws (Baneling): useful
+Twin Drones (Kerrigan Tier 5): useful
+Twin-Linked Flamethrower (Hellion): filler
+U-238 Rounds (Reaper): useful
+Ultra-Capacitors: useful
+Ultralisk: progression
+Unshackled Psionic Storm (High Templar/Signifier): useful
+Valkyrie: progression
+Vanadium Plating: useful
+Vanguard: progression
+Ventral Sacs (Overlord): useful
+Vespene Efficiency (Kerrigan Tier 5): useful
+Vicious Glaive (Mutalisk): useful
+Viking: progression
+Vile Strain (Roach): useful
+Viper Aspect (Mutalisk/Corruptor): progression
+Virulent Microbes (Viper): useful
+Virulent Spores (Scourge): useful
+Void Ray: progression
+Vulture: progression
+W.I.L.D. Missiles (Viking): useful
+War Configuration (Warp Prism): useful
+War Pigs: progression
+Warhound: progression
+Warp Harmonization: useful
+Warp Prism: progression
+Widow Mine: progression
+Wild Mutation (Kerrigan Tier 4): progression
+Winged Nightmares: progression
+Wraith: progression
+Wrathwalker: progression
+Zealot: progression
+Zergling: progression
+Zergling Reconstitution (Kerrigan Tier 3): filler
