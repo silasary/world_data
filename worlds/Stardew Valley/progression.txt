@@ -214,7 +214,7 @@ Special Order Board: progression
 Solar Panel Recipe: useful
 Geode Crusher Recipe: progression
 Farm Computer Recipe: progression
-Bone Mill Recipe: unknown
+Bone Mill Recipe: progression
 Fiber Seeds Recipe: progression
 Stone Chest Recipe: progression
 Quality Bobber Recipe: progression
@@ -267,7 +267,7 @@ Dark Talisman: progression
 Ostrich Incubator Recipe: progression
 Cute Baby: progression
 Ugly Baby: progression
-Deluxe Scarecrow Recipe: unknown
+Deluxe Scarecrow Recipe: progression
 Treehouse: progression
 Coffee Bean: unknown
 Progressive Weapon: unknown
@@ -308,12 +308,12 @@ Immunity Band: unknown
 Glowstone Ring: unknown
 Fairy Dust Recipe: progression
 Heavy Tapper Recipe: progression
-Hyper Speed-Gro Recipe: unknown
+Hyper Speed-Gro Recipe: progression
 Deluxe Fertilizer Recipe: progression
 Hopper Recipe: progression
-Magic Bait Recipe: unknown
+Magic Bait Recipe: progression
 Jack-O-Lantern Recipe: progression
-Tub o' Flowers Recipe: unknown
+Tub o' Flowers Recipe: progression
 Moonlight Jellies Banner: filler
 Starport Decal: filler
 Golden Egg: filler
@@ -332,41 +332,41 @@ Cheese Cauliflower Recipe: progression
 Chocolate Cake Recipe: useful
 Chowder Recipe: progression
 Coleslaw Recipe: progression
-Complete Breakfast Recipe: unknown
+Complete Breakfast Recipe: progression
 Cookies Recipe: progression
 Crab Cakes Recipe: filler
 Cranberry Candy Recipe: progression
-Cranberry Sauce Recipe: unknown
+Cranberry Sauce Recipe: progression
 Crispy Bass Recipe: progression
 Dish O' The Sea Recipe: progression
 Eggplant Parmesan Recipe: progression
-Escargot Recipe: unknown
+Escargot Recipe: progression
 Farmer's Lunch Recipe: progression
 Fiddlehead Risotto Recipe: progression
 Fish Stew Recipe: progression
-Fish Taco Recipe: unknown
+Fish Taco Recipe: progression
 Fried Calamari Recipe: progression
 Fried Eel Recipe: progression
 Fried Egg Recipe: progression
-Fried Mushroom Recipe: unknown
+Fried Mushroom Recipe: progression
 Fruit Salad Recipe: progression
-Ginger Ale Recipe: unknown
+Ginger Ale Recipe: progression
 Glazed Yams Recipe: progression
-Hashbrowns Recipe: unknown
+Hashbrowns Recipe: progression
 Ice Cream Recipe: progression
-Lobster Bisque Recipe: unknown
+Lobster Bisque Recipe: progression
 Lucky Lunch Recipe: progression
 Maki Roll Recipe: progression
-Mango Sticky Rice Recipe: unknown
-Maple Bar Recipe: unknown
+Mango Sticky Rice Recipe: progression
+Maple Bar Recipe: progression
 Miner's Treat Recipe: progression
 Omelet Recipe: progression
-Pale Broth Recipe: unknown
+Pale Broth Recipe: progression
 Pancakes Recipe: progression
-Parsnip Soup Recipe: unknown
+Parsnip Soup Recipe: progression
 Pepper Poppers Recipe: progression
 Pink Cake Recipe: progression
-Pizza Recipe: unknown
+Pizza Recipe: progression
 Plum Pudding Recipe: progression
 Poi Recipe: useful
 Poppyseed Muffin Recipe: progression
@@ -394,15 +394,15 @@ Survival Burger Recipe: progression
 Tom Kha Soup Recipe: useful
 Tortilla Recipe: progression
 Triple Shot Espresso Recipe: progression
-Tropical Curry Recipe: unknown
+Tropical Curry Recipe: progression
 Trout Soup Recipe: progression
-Vegetable Medley Recipe: unknown
+Vegetable Medley Recipe: progression
 Gate Recipe: progression
 Wood Fence Recipe: progression
 Deluxe Retaining Soil Recipe: progression
-Grass Starter Recipe: unknown
+Grass Starter Recipe: progression
 Wood Floor Recipe: filler
-Rustic Plank Floor Recipe: unknown
+Rustic Plank Floor Recipe: progression
 Straw Floor Recipe: progression
 Weathered Floor Recipe: progression
 Crystal Floor Recipe: progression
@@ -424,12 +424,12 @@ Stone Brazier Recipe: progression
 Gold Brazier Recipe: progression
 Carved Brazier Recipe: progression
 Stump Brazier Recipe: progression
-Barrel Brazier Recipe: unknown
+Barrel Brazier Recipe: progression
 Skull Brazier Recipe: progression
-Marble Brazier Recipe: unknown
+Marble Brazier Recipe: progression
 Wood Lamp-post Recipe: progression
 Iron Lamp-post Recipe: progression
-Furnace Recipe: unknown
+Furnace Recipe: progression
 Wicked Statue Recipe: progression
 Chest Recipe: progression
 Wood Sign Recipe: progression
@@ -701,7 +701,7 @@ Resource Pack: 10 Qi Seasoning: filler
 Mr. Qi's Hat: unknown
 Aquatic Sanctuary: filler
 Exotic Double Bed: filler
-Resource Pack: 2 Qi Gem: unknown
+Resource Pack: 2 Qi Gem: filler
 Golden Walnut: progression
 Fairy Dust: filler
 Seed Maker: filler
@@ -757,24 +757,24 @@ Spell: Rewind: unknown
 Pendant of Community: progression
 Pendant of Elders: progression
 Pendant of Depths: progression
-Juna <3: unknown
+Juna <3: progression
 Jasper <3: progression
 Alec <3: progression
-Yoba <3: unknown
-Eugene <3: unknown
-Wellwick <3: unknown
+Yoba <3: progression
+Eugene <3: progression
+Wellwick <3: progression
 Mr. Ginger <3: progression
-Shiko <3: unknown
+Shiko <3: progression
 Delores <3: progression
 Ayeisha <3: progression
-Riley <3: unknown
+Riley <3: progression
 Claire <3: progression
-Lance <3: unknown
+Lance <3: progression
 Olivia <3: progression
-Sophia <3: unknown
+Sophia <3: progression
 Victor <3: progression
 Andy <3: progression
-Apples <3: unknown
+Apples <3: progression
 Gunther <3: progression
 Martin <3: progression
 Marlon <3: progression
@@ -785,27 +785,27 @@ Morris <3: progression
 Alecto <3: progression
 Zic <3: progression
 Lacey <3: progression
-Gregory <3: unknown
-Sheila <3: unknown
-Joel <3: unknown
+Gregory <3: progression
+Sheila <3: progression
+Joel <3: progression
 Progressive Woods Obelisk Sigils: progression
 Progressive Skull Cavern Elevator: useful
 Baked Berry Oatmeal Recipe: progression
-Big Bark Burger Recipe: unknown
-Flower Cookie Recipe: unknown
-Frog Legs Recipe: unknown
+Big Bark Burger Recipe: progression
+Flower Cookie Recipe: progression
+Frog Legs Recipe: progression
 Glazed Butterfish Recipe: progression
 Mixed Berry Pie Recipe: progression
-Mushroom Berry Rice Recipe: unknown
-Seaweed Salad Recipe: unknown
-Void Delight Recipe: unknown
+Mushroom Berry Rice Recipe: progression
+Seaweed Salad Recipe: progression
+Void Delight Recipe: progression
 Void Salmon Sushi Recipe: progression
 Mushroom Kebab Recipe: progression
-Crayfish Soup Recipe: unknown
-Pemmican Recipe: unknown
-Void Mint Tea Recipe: unknown
-Ginger Tincture Recipe: unknown
-Special Pumpkin Soup Recipe: unknown
+Crayfish Soup Recipe: progression
+Pemmican Recipe: progression
+Void Mint Tea Recipe: progression
+Ginger Tincture Recipe: progression
+Special Pumpkin Soup Recipe: progression
 Void Mint Seeds: unknown
 Vile Ancient Fruit Seeds: unknown
 Marlon's Boat Paddle: unknown
@@ -829,17 +829,17 @@ Aurora Vineyard Tablet: unknown
 Scarlett's Job Offer: unknown
 Morgan's Schooling: progression
 Magic Elixir Recipe: progression
-Travel Core Recipe: unknown
+Travel Core Recipe: progression
 Haste Elixir Recipe: progression
-Hero Elixir Recipe: unknown
+Hero Elixir Recipe: progression
 Armor Elixir Recipe: useful
-Neanderthal Skeleton Recipe: unknown
-Pterodactyl Skeleton L Recipe: unknown
-Pterodactyl Skeleton M Recipe: unknown
-Pterodactyl Skeleton R Recipe: unknown
-T-Rex Skeleton L Recipe: unknown
-T-Rex Skeleton M Recipe: unknown
-T-Rex Skeleton R Recipe: unknown
+Neanderthal Skeleton Recipe: progression
+Pterodactyl Skeleton L Recipe: progression
+Pterodactyl Skeleton M Recipe: progression
+Pterodactyl Skeleton R Recipe: progression
+T-Rex Skeleton L Recipe: progression
+T-Rex Skeleton M Recipe: progression
+T-Rex Skeleton R Recipe: progression
 Resource Pack: 3 Magic Elixir: unknown
 Resource Pack: 3 Travel Core: unknown
 Preservation Chamber: unknown
