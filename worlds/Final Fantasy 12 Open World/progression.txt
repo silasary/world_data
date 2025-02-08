@@ -192,7 +192,7 @@ Confuse: unknown
 Corpse Fly: unknown
 Cotton Cap: unknown
 Cotton Shirt: unknown
-Countdown: unknown
+Countdown: useful
 Crescent Stone: unknown
 Crooked Fang: unknown
 Cross Scale: unknown
@@ -267,7 +267,7 @@ Earth Crystal: unknown
 Earth Magicite: unknown
 Earth Stone: unknown
 Echo Herbs: unknown
-Eight-fluted Pole: unknown
+Eight-fluted Pole: useful
 Einherjarium: unknown
 Eksir Berries: unknown
 Electrum: unknown
@@ -386,7 +386,7 @@ Green Liquid: unknown
 Green Tuft: unknown
 Grimoire Aidhed: unknown
 Grimoire Togail: unknown
-Grimy Fragment: unknown
+Grimy Fragment: progression
 Gungnir: unknown
 Gysahl Greens: unknown
 Halberd: unknown
@@ -807,7 +807,7 @@ Tula: unknown
 Tumulus: unknown
 Turtle Shell: unknown
 Turtleshell Choker: unknown
-Tyrant Bone: unknown
+Tyrant Bone: filler
 Tyrant Hide: unknown
 Ultima: unknown
 Ultima Blade: unknown
