@@ -117,7 +117,7 @@ Jazz Seeds: progression
 Blueberry Seeds: progression
 Bok Choy Seeds: progression
 Cauliflower Seeds: progression
-Corn Seeds: unknown
+Corn Seeds: progression
 Cranberry Seeds: unknown
 Eggplant Seeds: progression
 Fairy Seeds: progression
@@ -206,7 +206,7 @@ Lupini: Portrait Of A Mermaid: useful
 Lupini: Solar Kingdom: unknown
 Lupini: Clouds: unknown
 Lupini: 1000 Years From Now: unknown
-Lupini: Three Trees: unknown
+Lupini: Three Trees: filler
 Lupini: The Serpent: unknown
 Lupini: 'Tropical Fish #173': filler
 Lupini: Land Of Clay: unknown
@@ -231,7 +231,7 @@ Deluxe Fish Tank: filler
 35 Qi Gems: useful
 40 Qi Gems: progression
 50 Qi Gems: unknown
-100 Qi Gems: unknown
+100 Qi Gems: useful
 Rare Seed: useful
 Apple Sapling: progression
 Apricot Sapling: useful
@@ -280,7 +280,7 @@ Small Glow Ring: useful
 Glow Ring: filler
 Small Magnet Ring: filler
 Magnet Ring: filler
-Slime Charmer Ring: unknown
+Slime Charmer Ring: useful
 Warrior Ring: unknown
 Vampire Ring: useful
 Savage Ring: unknown
@@ -686,7 +686,7 @@ Charcoal Kiln: useful
 Lightning Rod: filler
 Resource Pack: 5000 Money: filler
 Resource Pack: 10000 Money: filler
-Junimo Chest: unknown
+Junimo Chest: useful
 Horse Flute: unknown
 Pierre's Missing Stocklist: useful
 Hopper: filler
@@ -698,7 +698,7 @@ Galaxy Soul: useful
 Mushroom Tree Seed: filler
 Resource Pack: 20 Magic Bait: filler
 Resource Pack: 10 Qi Seasoning: filler
-Mr. Qi's Hat: unknown
+Mr. Qi's Hat: filler
 Aquatic Sanctuary: filler
 Exotic Double Bed: filler
 Resource Pack: 2 Qi Gem: filler
@@ -904,3 +904,6 @@ Resource Pack: 2 Triple Shot Espresso: useful
 Progressive Scythe: progression
 Resource Pack: 2 Life Elixir: filler
 Resource Pack: 200 Calico Egg: useful
+Advanced Recycling Machine: filler
+5 Golden Walnuts: progression
+Resource Pack: 5 Coffee: filler
