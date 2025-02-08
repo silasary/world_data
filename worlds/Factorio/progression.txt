@@ -54,7 +54,7 @@ explosive-rocketry: useful
 explosives: useful
 fast-inserter: useful
 flamethrower: useful
-flammables: unknown
+flammables: filler
 fluid-handling: useful
 fluid-wagon: useful
 follower-robot-count-1: filler
