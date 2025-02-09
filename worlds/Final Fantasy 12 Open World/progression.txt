@@ -178,14 +178,14 @@ Chopper: unknown
 Chromed Leathers: unknown
 Chronos Tear: filler
 Circlet: unknown
-Clan Primer: unknown
+Clan Primer: progression
 Clawed Trophy: unknown
 Claymore: unknown
 Cleanse: unknown
 Cleric's Robes: unknown
 Close Helmet: unknown
 Cloud Staff: unknown
-Coeurl Pelt: unknown
+Coeurl Pelt: filler
 Coeurl Whisker: unknown
 Common Fish: unknown
 Confuse: unknown
@@ -203,7 +203,7 @@ Crystal Shield: unknown
 Cuchulainn: unknown
 Cura: unknown
 Cura Mote: filler
-Curaga: unknown
+Curaga: useful
 Curaja: unknown
 Cure: unknown
 Cypress Pole: unknown
@@ -565,7 +565,7 @@ Nu Khai Sand: unknown
 Numerology: unknown
 Oak Staff: unknown
 Oaken Pole: unknown
-Obelisk: unknown
+Obelisk: useful
 Odiferous Trophy: unknown
 Officer's Hat: unknown
 Oil: unknown
@@ -602,7 +602,7 @@ Platinum Dagger: unknown
 Platinum Helm: unknown
 Platinum Shield: unknown
 Platinum Sword: unknown
-Poach: unknown
+Poach: useful
 Pointed Horn: unknown
 Pointy Hat: unknown
 Poison: unknown
@@ -626,7 +626,7 @@ Quasimodo Boots: unknown
 Rabanastre Aeropass: progression
 Rabbit's Tail: unknown
 Ragnarok: unknown
-Rainbow Egg: unknown
+Rainbow Egg: filler
 Rainstone: unknown
 Raise: unknown
 Ras Algethi: unknown
@@ -650,7 +650,7 @@ Rime Fang: unknown
 Ring Wyrm Liver: unknown
 Ring Wyrm Scale: unknown
 Ring of Renewal: unknown
-Ring of the Light: unknown
+Ring of the Light: progression
 Ring of the Toad: unknown
 Ringmail: unknown
 Rod: unknown
