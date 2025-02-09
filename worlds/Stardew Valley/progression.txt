@@ -81,7 +81,7 @@ Adventurer's Guild: unknown
 Club Card: progression
 Magnifying Glass: progression
 Bear's Knowledge: useful
-Iridium Snake Milk: unknown
+Iridium Snake Milk: useful
 JotPK: Progressive Boots: progression
 JotPK: Progressive Gun: progression
 JotPK: Progressive Ammo: progression
@@ -100,7 +100,7 @@ Traveling Merchant: Monday: unknown
 Traveling Merchant: Tuesday: progression
 Traveling Merchant: Wednesday: progression
 Traveling Merchant: Thursday: progression
-Traveling Merchant: Friday: unknown
+Traveling Merchant: Friday: progression
 Traveling Merchant: Saturday: progression
 Traveling Merchant Stock Size: useful
 Traveling Merchant Discount: useful
@@ -207,7 +207,7 @@ Lupini: Solar Kingdom: unknown
 Lupini: Clouds: unknown
 Lupini: 1000 Years From Now: unknown
 Lupini: Three Trees: filler
-Lupini: The Serpent: unknown
+Lupini: The Serpent: filler
 Lupini: 'Tropical Fish #173': filler
 Lupini: Land Of Clay: unknown
 Special Order Board: progression
