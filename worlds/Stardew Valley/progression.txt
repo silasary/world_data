@@ -184,7 +184,7 @@ Vincent <3: progression
 Willy <3: progression
 Wizard <3: progression
 Pet <3: progression
-Rarecrow #1: unknown
+Rarecrow #1: useful
 Rarecrow #2: progression
 Rarecrow #3: unknown
 Rarecrow #4: unknown
@@ -907,3 +907,7 @@ Resource Pack: 200 Calico Egg: useful
 Advanced Recycling Machine: filler
 5 Golden Walnuts: progression
 Resource Pack: 5 Coffee: filler
+Big Chest Recipe: progression
+Power: Ol' Slitherlegs: progression
+Damage Bonus: useful
+Power: Raccoon Journal: useful
