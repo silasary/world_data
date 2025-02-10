@@ -70,7 +70,7 @@ Progressive Coop: progression
 Progressive Barn: progression
 Well: unknown
 Silo: useful
-Mill: unknown
+Mill: useful
 Progressive Shed: useful
 Fish Pond: progression
 Stable: useful
@@ -107,7 +107,7 @@ Traveling Merchant Discount: useful
 Return Scepter: useful
 Progressive Season: progression
 Spring: progression
-Summer: unknown
+Summer: progression
 Fall: progression
 Winter: progression
 Amaranth Seeds: unknown
@@ -118,7 +118,7 @@ Blueberry Seeds: progression
 Bok Choy Seeds: progression
 Cauliflower Seeds: progression
 Corn Seeds: progression
-Cranberry Seeds: unknown
+Cranberry Seeds: progression
 Eggplant Seeds: progression
 Fairy Seeds: progression
 Garlic Seeds: progression
@@ -194,10 +194,10 @@ Rarecrow #7: progression
 Rarecrow #8: progression
 Straw Hat: unknown
 Golden Pumpkin: filler
-Barbed Hook: unknown
+Barbed Hook: useful
 Dressed Spinner: unknown
 Magnet: filler
-Sailor's Cap: unknown
+Sailor's Cap: filler
 Pearl: unknown
 Cone Hat: filler
 Iridium Fireplace: filler
@@ -283,7 +283,7 @@ Magnet Ring: filler
 Slime Charmer Ring: useful
 Warrior Ring: unknown
 Vampire Ring: useful
-Savage Ring: unknown
+Savage Ring: useful
 Ring of Yoba: unknown
 Sturdy Ring: unknown
 Burglar's Ring: filler
@@ -291,7 +291,7 @@ Iridium Band: useful
 Jukebox Ring: filler
 Amethyst Ring: unknown
 Topaz Ring: filler
-Aquamarine Ring: unknown
+Aquamarine Ring: useful
 Jade Ring: useful
 Emerald Ring: unknown
 Ruby Ring: filler
@@ -304,7 +304,7 @@ Hot Java Ring: filler
 Protection Ring: unknown
 Soul Sapper Ring: useful
 Phoenix Ring: unknown
-Immunity Band: unknown
+Immunity Band: filler
 Glowstone Ring: unknown
 Fairy Dust Recipe: progression
 Heavy Tapper Recipe: progression
@@ -692,7 +692,7 @@ Pierre's Missing Stocklist: useful
 Hopper: filler
 Enricher: filler
 Pressure Nozzle: useful
-Deconstructor: unknown
+Deconstructor: useful
 Key To The Town: useful
 Galaxy Soul: useful
 Mushroom Tree Seed: filler
@@ -713,7 +713,7 @@ Garden Pot: useful
 Cheese Press: useful
 Mayonnaise Machine: useful
 Loom: useful
-Oil Maker: unknown
+Oil Maker: useful
 Recycling Machine: useful
 Worm Bin: filler
 Tapper: filler
@@ -843,7 +843,7 @@ T-Rex Skeleton R Recipe: progression
 Resource Pack: 3 Magic Elixir: unknown
 Resource Pack: 3 Travel Core: unknown
 Preservation Chamber: unknown
-Hardwood Preservation Chamber: unknown
+Hardwood Preservation Chamber: filler
 Resource Pack: 3 Water Shifter: unknown
 Resource Pack: 5 Hardwood Display: unknown
 Resource Pack: 5 Wooden Display: unknown
@@ -912,3 +912,9 @@ Power: Ol' Slitherlegs: progression
 Damage Bonus: useful
 Power: Raccoon Journal: useful
 3 Golden Walnuts: progression
+Resource Pack: 20 Calico Egg: useful
+Resource Pack: 2 Mega Bomb: filler
+Power: Way Of The Wind pt. 2: useful
+Bucket Hat: filler
+Resource Pack: 10 Calico Egg: filler
+Power: Jewels Of The Sea: useful
