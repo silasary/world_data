@@ -6,7 +6,7 @@ Greenhouse: progression
 Glittering Boulder Removed: progression
 Minecarts Repair: useful
 Bus Repair: progression
-Progressive Movie Theater: unknown
+Progressive Movie Theater: progression
 Stardrop: mcguffin
 Progressive Backpack: progression
 Rusty Sword: unknown
@@ -269,8 +269,8 @@ Cute Baby: progression
 Ugly Baby: progression
 Deluxe Scarecrow Recipe: progression
 Treehouse: progression
-Coffee Bean: unknown
-Progressive Weapon: unknown
+Coffee Bean: progression
+Progressive Weapon: progression
 Progressive Sword: progression
 Progressive Club: progression
 Progressive Dagger: useful
@@ -918,3 +918,5 @@ Power: Way Of The Wind pt. 2: useful
 Bucket Hat: filler
 Resource Pack: 10 Calico Egg: filler
 Power: Jewels Of The Sea: useful
+Tent Kit: filler
+Power: The Diamond Hunter: useful
