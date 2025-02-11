@@ -1,7 +1,7 @@
 Joja Cola: filler
 Rusty Key: progression
 Dwarvish Translation Guide: progression
-Bridge Repair: unknown
+Bridge Repair: progression
 Greenhouse: progression
 Glittering Boulder Removed: progression
 Minecarts Repair: useful
@@ -68,7 +68,7 @@ Junimo Hut: unknown
 Gold Clock: useful
 Progressive Coop: progression
 Progressive Barn: progression
-Well: unknown
+Well: progression
 Silo: useful
 Mill: useful
 Progressive Shed: useful
@@ -110,7 +110,7 @@ Spring: progression
 Summer: progression
 Fall: progression
 Winter: progression
-Amaranth Seeds: unknown
+Amaranth Seeds: progression
 Artichoke Seeds: progression
 Beet Seeds: progression
 Jazz Seeds: progression
@@ -127,7 +127,7 @@ Bean Starter: useful
 Hops Starter: progression
 Pepper Seeds: unknown
 Kale Seeds: progression
-Melon Seeds: unknown
+Melon Seeds: progression
 Parsnip Seeds: progression
 Poppy Seeds: progression
 Potato Seeds: progression
@@ -220,7 +220,7 @@ Stone Chest Recipe: progression
 Quality Bobber Recipe: progression
 Mini-Obelisk Recipe: progression
 Monster Musk Recipe: progression
-Sewing Machine: unknown
+Sewing Machine: filler
 Coffee Maker: useful
 Mini-Fridge: filler
 Mini-Shipping Bin: progression
@@ -281,7 +281,7 @@ Glow Ring: filler
 Small Magnet Ring: filler
 Magnet Ring: filler
 Slime Charmer Ring: useful
-Warrior Ring: unknown
+Warrior Ring: useful
 Vampire Ring: useful
 Savage Ring: useful
 Ring of Yoba: unknown
@@ -298,12 +298,12 @@ Ruby Ring: filler
 Wedding Ring: unknown
 Crabshell Ring: filler
 Napalm Ring: useful
-Thorns Ring: unknown
+Thorns Ring: useful
 Lucky Ring: filler
 Hot Java Ring: filler
 Protection Ring: unknown
 Soul Sapper Ring: useful
-Phoenix Ring: unknown
+Phoenix Ring: useful
 Immunity Band: filler
 Glowstone Ring: unknown
 Fairy Dust Recipe: progression
@@ -921,3 +921,6 @@ Power: Jewels Of The Sea: useful
 Tent Kit: filler
 Power: The Diamond Hunter: useful
 Resource Pack: 4 Mystery Box: filler
+Defense Bonus: filler
+Prismatic Shard: useful
+Resource Pack: 20 Deluxe Bait: filler
