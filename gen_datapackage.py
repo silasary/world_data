@@ -46,7 +46,7 @@ for item in dp['item_name_to_id'].keys():
 
 abspath = os.path.dirname(__file__)
 world_folder = os.path.join(abspath, "worlds")
-
+os.makedirs(os.path.join(world_folder, game), exist_ok=True)
 try:
     progressionFile = open(os.path.join(world_folder, game, "progression.txt"), "r", encoding="utf-8")
     text = progressionFile.read()
