@@ -35,7 +35,7 @@ Puzzle 1026: unknown
 Puzzle 1027: unknown
 Puzzle 1028: unknown
 Puzzle 1029: unknown
-Puzzle 103: unknown
+Puzzle 103: progression
 Puzzle 1030: unknown
 Puzzle 1031: unknown
 Puzzle 1032: unknown
@@ -79,7 +79,7 @@ Puzzle 1066: unknown
 Puzzle 1067: unknown
 Puzzle 1068: unknown
 Puzzle 1069: unknown
-Puzzle 107: unknown
+Puzzle 107: progression
 Puzzle 1070: unknown
 Puzzle 1071: unknown
 Puzzle 1072: unknown
@@ -246,7 +246,7 @@ Puzzle 1216: unknown
 Puzzle 1217: unknown
 Puzzle 1218: unknown
 Puzzle 1219: unknown
-Puzzle 122: unknown
+Puzzle 122: progression
 Puzzle 1220: unknown
 Puzzle 1221: unknown
 Puzzle 1222: unknown
@@ -334,8 +334,8 @@ Puzzle 1296: unknown
 Puzzle 1297: unknown
 Puzzle 1298: unknown
 Puzzle 1299: unknown
-Puzzle 13: unknown
-Puzzle 130: unknown
+Puzzle 13: progression
+Puzzle 130: progression
 Puzzle 1300: unknown
 Puzzle 1301: unknown
 Puzzle 1302: unknown
@@ -379,7 +379,7 @@ Puzzle 1336: unknown
 Puzzle 1337: unknown
 Puzzle 1338: unknown
 Puzzle 1339: unknown
-Puzzle 134: unknown
+Puzzle 134: progression
 Puzzle 1340: unknown
 Puzzle 1341: unknown
 Puzzle 1342: unknown
@@ -434,7 +434,7 @@ Puzzle 1386: unknown
 Puzzle 1387: unknown
 Puzzle 1388: unknown
 Puzzle 1389: unknown
-Puzzle 139: unknown
+Puzzle 139: progression
 Puzzle 1390: unknown
 Puzzle 1391: unknown
 Puzzle 1392: unknown
@@ -656,7 +656,7 @@ Puzzle 1586: unknown
 Puzzle 1587: unknown
 Puzzle 1588: unknown
 Puzzle 1589: unknown
-Puzzle 159: unknown
+Puzzle 159: progression
 Puzzle 1590: unknown
 Puzzle 1591: unknown
 Puzzle 1592: unknown
@@ -790,7 +790,7 @@ Puzzle 1706: unknown
 Puzzle 1707: unknown
 Puzzle 1708: unknown
 Puzzle 1709: unknown
-Puzzle 171: unknown
+Puzzle 171: progression
 Puzzle 1710: unknown
 Puzzle 1711: unknown
 Puzzle 1712: unknown
@@ -834,7 +834,7 @@ Puzzle 1746: unknown
 Puzzle 1747: unknown
 Puzzle 1748: unknown
 Puzzle 1749: unknown
-Puzzle 175: unknown
+Puzzle 175: progression
 Puzzle 1750: unknown
 Puzzle 1751: unknown
 Puzzle 1752: unknown
@@ -1023,7 +1023,7 @@ Puzzle 1916: unknown
 Puzzle 1917: unknown
 Puzzle 1918: unknown
 Puzzle 1919: unknown
-Puzzle 192: unknown
+Puzzle 192: progression
 Puzzle 1920: unknown
 Puzzle 1921: unknown
 Puzzle 1922: unknown
@@ -1089,7 +1089,7 @@ Puzzle 1976: unknown
 Puzzle 1977: unknown
 Puzzle 1978: unknown
 Puzzle 1979: unknown
-Puzzle 198: unknown
+Puzzle 198: progression
 Puzzle 1980: unknown
 Puzzle 1981: unknown
 Puzzle 1982: unknown
@@ -1124,7 +1124,7 @@ Puzzle 206: unknown
 Puzzle 207: unknown
 Puzzle 208: unknown
 Puzzle 209: unknown
-Puzzle 21: unknown
+Puzzle 21: progression
 Puzzle 210: unknown
 Puzzle 211: unknown
 Puzzle 212: unknown
@@ -1151,7 +1151,7 @@ Puzzle 230: unknown
 Puzzle 231: unknown
 Puzzle 232: unknown
 Puzzle 233: unknown
-Puzzle 234: unknown
+Puzzle 234: progression
 Puzzle 235: unknown
 Puzzle 236: unknown
 Puzzle 237: unknown
@@ -1168,12 +1168,12 @@ Puzzle 246: progression
 Puzzle 247: unknown
 Puzzle 248: unknown
 Puzzle 249: unknown
-Puzzle 25: unknown
+Puzzle 25: progression
 Puzzle 250: unknown
 Puzzle 251: unknown
 Puzzle 252: unknown
 Puzzle 253: unknown
-Puzzle 254: unknown
+Puzzle 254: progression
 Puzzle 255: unknown
 Puzzle 256: unknown
 Puzzle 257: unknown
@@ -1370,7 +1370,7 @@ Puzzle 428: unknown
 Puzzle 429: unknown
 Puzzle 43: unknown
 Puzzle 430: unknown
-Puzzle 431: unknown
+Puzzle 431: progression
 Puzzle 432: unknown
 Puzzle 433: unknown
 Puzzle 434: unknown
@@ -1545,7 +1545,7 @@ Puzzle 586: unknown
 Puzzle 587: unknown
 Puzzle 588: unknown
 Puzzle 589: unknown
-Puzzle 59: unknown
+Puzzle 59: progression
 Puzzle 590: unknown
 Puzzle 591: unknown
 Puzzle 592: unknown
@@ -1612,7 +1612,7 @@ Puzzle 646: unknown
 Puzzle 647: unknown
 Puzzle 648: unknown
 Puzzle 649: unknown
-Puzzle 65: unknown
+Puzzle 65: progression
 Puzzle 650: unknown
 Puzzle 651: unknown
 Puzzle 652: unknown
@@ -1623,7 +1623,7 @@ Puzzle 656: unknown
 Puzzle 657: unknown
 Puzzle 658: unknown
 Puzzle 659: unknown
-Puzzle 66: unknown
+Puzzle 66: progression
 Puzzle 660: unknown
 Puzzle 661: unknown
 Puzzle 662: unknown
