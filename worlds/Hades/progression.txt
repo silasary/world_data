@@ -1,19 +1,19 @@
-Achilles Keepsake: unknown
+Achilles Keepsake: progression
 Ambrosia: filler
-Aphrodite Keepsake: unknown
+Aphrodite Keepsake: progression
 Approval Process Pact Level: unknown
 Ares Keepsake: useful
-Artemis Keepsake: unknown
-Athena Keepsake: unknown
+Artemis Keepsake: progression
+Athena Keepsake: progression
 Benefits Package Pact Level: unknown
 Boon Boost Helper: unknown
 Bow Hidden Aspect: unknown
 Bow Weapon Unlock Item: unknown
-Brilliant Gemstones Item: unknown
+Brilliant Gemstones Item: progression
 Calisthenics Program Pact Level: unknown
-Cerberus Keepsake: unknown
-Chaos Keepsake: unknown
-Charon Keepsake: unknown
+Cerberus Keepsake: progression
+Chaos Keepsake: progression
+Charon Keepsake: progression
 Convenience Fee Pact Level: unknown
 Court Musician Sentence Item: unknown
 Court Musician Stand Item: filler
@@ -23,9 +23,9 @@ Darkness: filler
 Deluxe Contractor Desk Item: unknown
 Demeter Keepsake: unknown
 Diamonds: filler
-Dionysus Keepsake: useful
-Dusa Keepsake: unknown
-Eurydice Keepsake: unknown
+Dionysus Keepsake: progression
+Dusa Keepsake: progression
+Eurydice Keepsake: progression
 Extreme Measures Pact Level: unknown
 Fated Keys Item: unknown
 Fishing Rod Item: unknown
@@ -43,37 +43,37 @@ Gun Weapon Unlock Item: unknown
 Hard Labor Pact Level: unknown
 Health Punishment: unknown
 Heightened Security Pact Level: unknown
-Hermes Keepsake: unknown
-Hypnos Keepsake: unknown
+Hermes Keepsake: progression
+Hypnos Keepsake: progression
 Infernal Trove1 Item: unknown
 Infernal Trove2 Item: unknown
 Infernal Trove3 Item: unknown
 Initial Money Helper: unknown
 Jury Summons Pact Level: unknown
-Keepsake Collection Item: unknown
+Keepsake Collection Item: progression
 Keys: filler
 Lasting Consequences Pact Level: unknown
 Max Health Helper: unknown
-Megaera Keepsake: unknown
+Megaera Keepsake: progression
 Middle Management Pact Level: unknown
 Money Punishment: unknown
 Nectar: filler
-Nyx Keepsake: unknown
-Orpheus Keepsake: unknown
-Patroclus Keepsake: unknown
+Nyx Keepsake: progression
+Orpheus Keepsake: progression
+Patroclus Keepsake: progression
 Personal Liability Pact Level: unknown
 Pitch Black Darkness Item: unknown
-Poseidon Keepsake: unknown
+Poseidon Keepsake: progression
 Routine Inspection Pact Level: unknown
 Shield Hidden Aspect: unknown
 Shield Weapon Unlock Item: unknown
-Sisyphus Keepsake: unknown
-Skelly Keepsake: unknown
+Sisyphus Keepsake: progression
+Skelly Keepsake: progression
 Spear Hidden Aspect: unknown
 Spear Weapon Unlock Item: unknown
 Sword Hidden Aspect: unknown
 Sword Weapon Unlock Item: unknown
-Thanatos Keepsake: unknown
+Thanatos Keepsake: progression
 Tight Deadline Pact Level: unknown
 TitanBlood: filler
 Underworld Customs Pact Level: unknown
@@ -82,7 +82,7 @@ Urns Of Wealth2 Item: unknown
 Urns Of Wealth3 Item: unknown
 Vanquishers Keep Item: unknown
 Vintage Nectar Item: unknown
-Zeus Keepsake: unknown
+Zeus Keepsake: progression
 HardLaborPactLevel: progression
 LastingConsequencesPactLevel: progression
 ConvenienceFeePactLevel: progression
@@ -99,70 +99,6 @@ DamageControlPactLevel: progression
 ApprovalProcessPactLevel: progression
 TightDeadlinePactLevel: progression
 PersonalLiabilityPactLevel: progression
-MegVictory: progression
-LernieVictory: progression
-BrosVictory: progression
-HadesVictory: progression
-HadesVictorySwordWeapon: progression
-MegVictorySwordWeapon: progression
-LernieVictorySwordWeapon: progression
-BrosVictorySwordWeapon: progression
-HadesVictoryBowWeapon: progression
-MegVictoryBowWeapon: progression
-LernieVictoryBowWeapon: progression
-BrosVictoryBowWeapon: progression
-HadesVictorySpearWeapon: progression
-MegVictorySpearWeapon: progression
-LernieVictorySpearWeapon: progression
-BrosVictorySpearWeapon: progression
-HadesVictoryShieldWeapon: progression
-MegVictoryShieldWeapon: progression
-LernieVictoryShieldWeapon: progression
-BrosVictoryShieldWeapon: progression
-HadesVictoryFistWeapon: progression
-MegVictoryFistWeapon: progression
-LernieVictoryFistWeapon: progression
-BrosVictoryFistWeapon: progression
-HadesVictoryGunWeapon: progression
-MegVictoryGunWeapon: progression
-LernieVictoryGunWeapon: progression
-BrosVictoryGunWeapon: progression
-IsThereNoEscape?EventItem: progression
-DistantRelativesEventItem: progression
-ChthonicColleaguesEventItem: progression
-TheReluctantMusicianEventItem: progression
-GoddessOfWisdomEventItem: progression
-GodOfTheHeavensEventItem: progression
-GodOfTheSeaEventItem: progression
-GoddessOfLoveEventItem: progression
-GodOfWarEventItem: progression
-GoddessOfTheHuntEventItem: progression
-GodOfWineEventItem: progression
-GodOfSwiftnessEventItem: progression
-GoddessOfSeasonsEventItem: progression
-PowerWithoutEqualEventItem: progression
-DivinePairingsEventItem: progression
-PrimordialBoonsEventItem: progression
-PrimordialBanesEventItem: progression
-InfernalArmsEventItem: progression
-TheStygianBladeEventItem: progression
-TheHeartSeekingBowEventItem: progression
-TheShieldOfChaosEventItem: progression
-TheEternalSpearEventItem: progression
-TheTwinFistsEventItem: progression
-TheAdamantRailEventItem: progression
-MasterOfArmsEventItem: progression
-AViolentPastEventItem: progression
-HarshConditionsEventItem: progression
-SlashedBenefitsEventItem: progression
-WantonRansackingEventItem: progression
-ASimpleJobEventItem: progression
-ChthonicKnowledgeEventItem: progression
-CustomerLoyaltyEventItem: progression
-DarkReflectionsEventItem: progression
-CloseAtHeartEventItem: progression
-DenizensOfTheDeepEventItem: progression
-TheUselessTrinketEventItem: progression
 CerberusKeepsake: progression
 AchillesKeepsake: progression
 NyxKeepsake: progression
@@ -224,4 +160,68 @@ MoneyPunishment: trap
 HealthPunishment: trap
 MaxHealthHelper: useful
 BoonBoostHelper: useful
+ASimpleJobEventItem: progression
+AViolentPastEventItem: progression
+BrosVictory: progression
+BrosVictoryBowWeapon: progression
+BrosVictoryFistWeapon: progression
+BrosVictoryGunWeapon: progression
+BrosVictoryShieldWeapon: progression
+BrosVictorySpearWeapon: progression
+BrosVictorySwordWeapon: progression
+ChthonicColleaguesEventItem: progression
+ChthonicKnowledgeEventItem: progression
+CloseAtHeartEventItem: progression
+CustomerLoyaltyEventItem: progression
+DarkReflectionsEventItem: progression
+DenizensOfTheDeepEventItem: progression
+DistantRelativesEventItem: progression
+DivinePairingsEventItem: progression
+GoddessOfLoveEventItem: progression
+GoddessOfSeasonsEventItem: progression
+GoddessOfTheHuntEventItem: progression
+GoddessOfWisdomEventItem: progression
+GodOfSwiftnessEventItem: progression
+GodOfTheHeavensEventItem: progression
+GodOfTheSeaEventItem: progression
+GodOfWarEventItem: progression
+GodOfWineEventItem: progression
+HadesVictory: progression
+HadesVictoryBowWeapon: progression
+HadesVictoryFistWeapon: progression
+HadesVictoryGunWeapon: progression
+HadesVictoryShieldWeapon: progression
+HadesVictorySpearWeapon: progression
+HadesVictorySwordWeapon: progression
+HarshConditionsEventItem: progression
+InfernalArmsEventItem: progression
 InitialMoneyHelper: useful
+IsThereNoEscape?EventItem: progression
+LernieVictory: progression
+LernieVictoryBowWeapon: progression
+LernieVictoryFistWeapon: progression
+LernieVictoryGunWeapon: progression
+LernieVictoryShieldWeapon: progression
+LernieVictorySpearWeapon: progression
+LernieVictorySwordWeapon: progression
+MasterOfArmsEventItem: progression
+MegVictory: progression
+MegVictoryBowWeapon: progression
+MegVictoryFistWeapon: progression
+MegVictoryGunWeapon: progression
+MegVictoryShieldWeapon: progression
+MegVictorySpearWeapon: progression
+MegVictorySwordWeapon: progression
+PowerWithoutEqualEventItem: progression
+PrimordialBanesEventItem: progression
+PrimordialBoonsEventItem: progression
+SlashedBenefitsEventItem: progression
+TheAdamantRailEventItem: progression
+TheEternalSpearEventItem: progression
+TheHeartSeekingBowEventItem: progression
+TheReluctantMusicianEventItem: progression
+TheShieldOfChaosEventItem: progression
+TheStygianBladeEventItem: progression
+TheTwinFistsEventItem: progression
+TheUselessTrinketEventItem: progression
+WantonRansackingEventItem: progression
