@@ -1,7 +1,7 @@
 Joja Cola: filler
 Rusty Key: progression
 Dwarvish Translation Guide: progression
-Bridge Repair: unknown
+Bridge Repair: progression
 Greenhouse: progression
 Glittering Boulder Removed: progression
 Minecarts Repair: useful
@@ -68,7 +68,7 @@ Junimo Hut: unknown
 Gold Clock: useful
 Progressive Coop: progression
 Progressive Barn: progression
-Well: unknown
+Well: progression
 Silo: useful
 Mill: useful
 Progressive Shed: useful
@@ -303,7 +303,7 @@ Lucky Ring: filler
 Hot Java Ring: filler
 Protection Ring: unknown
 Soul Sapper Ring: useful
-Phoenix Ring: unknown
+Phoenix Ring: useful
 Immunity Band: filler
 Glowstone Ring: unknown
 Fairy Dust Recipe: progression
@@ -921,3 +921,4 @@ Power: Jewels Of The Sea: useful
 Tent Kit: filler
 Power: The Diamond Hunter: useful
 Resource Pack: 4 Mystery Box: filler
+Defense Bonus: filler
