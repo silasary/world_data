@@ -9,10 +9,7 @@ abspath = os.path.dirname(__file__)
 input_folder = join(abspath, "input")
 world_folder = join(abspath, "worlds")
 
-InputApworlds = [f for f in listdir(input_folder) if isfile(join(input_folder, f)) and f.lower().startswith("manual_")]
-
-for manual in InputApworlds:
-    fname = os.path.join(input_folder, manual)
+def extract_manual(fname):
     archive = zipfile.ZipFile(fname, 'r')
     dirs = list(set([os.path.dirname(x) for x in archive.namelist()]))
     top_dir = dirs[0].split('/')[0]
@@ -21,8 +18,7 @@ for manual in InputApworlds:
 
     game_name = f"Manual_{gamedata['game']}_{gamedata.get('creator',gamedata.get('player'))}"
     game_folder = os.path.join(world_folder, game_name)
-    if not os.path.exists(game_folder):
-        os.makedirs(game_folder)
+    os.makedirs(game_folder, exist_ok=True)
 
     game_file = os.path.join(game_folder, "progression.txt")
 
@@ -44,4 +40,26 @@ for manual in InputApworlds:
                 classification = "useful"
             f.write(f"{item['name']}: {classification}\n")
     archive.close()
-print("wow")
+
+if os.path.exists(input_folder):
+    InputApworlds = [f for f in listdir(input_folder) if isfile(join(input_folder, f)) and f.lower().startswith("manual_")]
+else:
+    InputApworlds = []
+try:
+    import platformdirs
+    custom_worlds = os.path.join(platformdirs.site_data_dir(), "Archipelago", "custom_worlds")
+    if os.path.exists(custom_worlds):
+        InputApworlds.extend([f for f in listdir(custom_worlds) if isfile(join(custom_worlds, f)) and f.lower().startswith("manual_")])
+        input_folder = custom_worlds
+except ImportError:
+    print("platformdirs not found, can't scan custom worlds")
+    pass
+
+if not InputApworlds:
+    print("No manual files found")
+    exit(1)
+
+for manual in InputApworlds:
+    fname = os.path.join(input_folder, manual)
+    extract_manual(fname)
+print("done")
