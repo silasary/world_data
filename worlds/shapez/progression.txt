@@ -1,22 +1,58 @@
-Small Processors Upgrade: useful
-Level Shapes Bundle: filler
-Small Painting Upgrade: useful
-Blueprint Shapes Bundle: filler
-Upgrade Shapes Bundle: filler
-Big Miner Upgrade: useful
-Small Belt Upgrade: useful
-Big Belt Upgrade: useful
+Balancer: progression
 Tunnel: progression
-Virtual Processing: useful
-Small Miner Upgrade: useful
-Big Painting Upgrade: useful
-Big Processors Upgrade: useful
-Display: useful
-Storage: useful
-Cutter: progression
-Quad Cutter: progression
-Stacker: progression
-Rotator: progression
-Wires: useful
+Compact Merger: progression
 Tunnel Tier II: progression
+Compact Splitter: progression
+Cutter: progression
+Rotator: progression
+Painter: progression
+Rotator (CCW): progression
+Color Mixer: progression
+Stacker: progression
+Quad Cutter: progression
+Double Painter: progression
+Rotator (180°): progression
+Quad Painter: progression
+Trash: progression
+Chaining Extractor: useful
+Belt Reader: progression
+Storage: progression
+Switch: progression
+Item Filter: progression
+Display: useful
+Wires: progression
 Constant Signal: progression
+Logic Gates: progression
+Virtual Processing: progression
+Blueprints: progression
+Big Belt Upgrade: progression
+Big Miner Upgrade: useful
+Big Processors Upgrade: useful
+Big Painting Upgrade: useful
+Small Belt Upgrade: filler
+Small Miner Upgrade: filler
+Small Processors Upgrade: filler
+Small Painting Upgrade: filler
+Blueprint Shapes Bundle: filler
+Level Shapes Bundle: filler
+Upgrade Shapes Bundle: filler
+Inventory Draining Trap: trap
+Blueprint Shapes Draining Trap: trap
+Level Shapes Draining Trap: trap
+Upgrade Shapes Draining Trap: trap
+Locked Building Trap: trap
+Throttled Building Trap: trap
+Malfunctioning Trap: trap
+Inflation Trap: trap
+Belt: progression
+Extractor: progression
+Gigantic Belt Upgrade: progression
+Gigantic Miner Upgrade: useful
+Gigantic Processors Upgrade: useful
+Gigantic Painting Upgrade: useful
+Rising Belt Upgrade: progression
+Rising Miner Upgrade: useful
+Rising Processors Upgrade: useful
+Rising Painting Upgrade: useful
+Big Random Upgrade: useful
+Small Random Upgrade: filler
