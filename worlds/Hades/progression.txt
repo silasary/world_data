@@ -147,3 +147,6 @@ HealthPunishment: trap
 MaxHealthHelper: useful
 BoonBoostHelper: useful
 InitialMoneyHelper: useful
+Court Musician Stand Item: filler
+Ares Keepsake: useful
+Dionysus Keepsake: useful

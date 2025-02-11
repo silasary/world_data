@@ -178,14 +178,14 @@ Chopper: unknown
 Chromed Leathers: unknown
 Chronos Tear: filler
 Circlet: unknown
-Clan Primer: unknown
+Clan Primer: progression
 Clawed Trophy: unknown
 Claymore: unknown
 Cleanse: unknown
 Cleric's Robes: unknown
 Close Helmet: unknown
 Cloud Staff: unknown
-Coeurl Pelt: unknown
+Coeurl Pelt: filler
 Coeurl Whisker: unknown
 Common Fish: unknown
 Confuse: unknown
@@ -203,7 +203,7 @@ Crystal Shield: unknown
 Cuchulainn: unknown
 Cura: unknown
 Cura Mote: filler
-Curaga: unknown
+Curaga: useful
 Curaja: unknown
 Cure: unknown
 Cypress Pole: unknown
@@ -275,7 +275,7 @@ Elfin Bow: unknown
 Elixir: unknown
 Embroidered Tippet: unknown
 Emperor Scale: unknown
-Empty Bottle: unknown
+Empty Bottle: filler
 Empyreal Soul: unknown
 Empyrean Rod: unknown
 Enchanter's Habit: unknown
@@ -443,7 +443,7 @@ Iron Ore: unknown
 Iron Pole: unknown
 Iron Scraps: unknown
 Iron Sword: unknown
-Ivory Pole: unknown
+Ivory Pole: useful
 Jack-o'-Lantern: unknown
 Jade Collar: unknown
 Jade Gown: unknown
@@ -496,7 +496,7 @@ Lordly Robes: unknown
 Loxley Bow: unknown
 Lu Shang's Badge: unknown
 Lumber: unknown
-Lusterless Medallion: unknown
+Lusterless Medallion: progression
 Mace: unknown
 Maduin Gear: unknown
 Mage Masher: unknown
@@ -515,7 +515,7 @@ Malboro Fruit: unknown
 Malboro Vine: unknown
 Mallet: unknown
 Maned Trophy: unknown
-Manufacted Nethicite: unknown
+Manufacted Nethicite: progression
 Mardu Halcyon: unknown
 Masamune: unknown
 Mateus: unknown
@@ -565,7 +565,7 @@ Nu Khai Sand: unknown
 Numerology: unknown
 Oak Staff: unknown
 Oaken Pole: unknown
-Obelisk: unknown
+Obelisk: useful
 Odiferous Trophy: unknown
 Officer's Hat: unknown
 Oil: unknown
@@ -600,9 +600,9 @@ Pisces Gem: unknown
 Platinum Armor: unknown
 Platinum Dagger: unknown
 Platinum Helm: unknown
-Platinum Shield: unknown
+Platinum Shield: useful
 Platinum Sword: unknown
-Poach: unknown
+Poach: useful
 Pointed Horn: unknown
 Pointy Hat: unknown
 Poison: unknown
@@ -626,7 +626,7 @@ Quasimodo Boots: unknown
 Rabanastre Aeropass: progression
 Rabbit's Tail: unknown
 Ragnarok: unknown
-Rainbow Egg: unknown
+Rainbow Egg: filler
 Rainstone: unknown
 Raise: unknown
 Ras Algethi: unknown
@@ -650,7 +650,7 @@ Rime Fang: unknown
 Ring Wyrm Liver: unknown
 Ring Wyrm Scale: unknown
 Ring of Renewal: unknown
-Ring of the Light: unknown
+Ring of the Light: progression
 Ring of the Toad: unknown
 Ringmail: unknown
 Rod: unknown
@@ -713,7 +713,7 @@ Silver Bow: unknown
 Silver Liquid: unknown
 Simha: unknown
 Sirius: unknown
-Site 11 Key: unknown
+Site 11 Key: progression
 Site 3 Key: unknown
 Six-fluted Pole: unknown
 Skull Trophy: unknown
@@ -794,7 +794,7 @@ Thunder: unknown
 Time Bolts: unknown
 Tomato Stalk: unknown
 Topkapi Hat: unknown
-Tourmaline Ring: unknown
+Tourmaline Ring: useful
 Tournesol: unknown
 Toxify: unknown
 Traitor's Bow: unknown
