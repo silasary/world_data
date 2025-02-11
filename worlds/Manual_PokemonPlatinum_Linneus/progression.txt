@@ -1,96 +1,397 @@
-HM03 Surf: progression
-Pedometer App: useful
-TM32: filler
-Link Searcher App: useful
-TM09: useful
-X Sp. Def: filler
-Heart Scale: filler
-TM42: useful
 Focus Sash: filler
-Stone Plate: progression
-Yellow Shard: useful
-TM78: useful
-Rare Candy: useful
-Kitchen Timer App: useful
-HP Up: useful
-Rare Bone: filler
-Pachirisu: progression
-Choice Specs: filler
-X Special: filler
-TM83: useful
-Digital Watch App: filler
-Light Clay: useful
-TM45: useful
-TM75: useful
-TM15: useful
-TM59: useful
-[EVENT] Oreburgh Gym Cleared: progression
-TM07: useful
-Toxic Plate: progression
-HM04 Strength: progression
-Icy Rock: useful
-HM07 Waterfall: progression
-Lucky Egg: useful
-DeepSeaTooth: useful
-Bicycle: progression
-TM47: useful
-Razor Fang: useful
-Pink Scarf: useful
-Hard Stone: filler
-TM73: useful
-TM88: useful
-Up-Grade: useful
-Soothe Bell: useful
-Electirizer: useful
-Coupon 3: progression
-Poison Barb: useful
-TM87: useful
-Destiny Knot: useful
-Parcel: progression
-Red Scarf: useful
-Secret Key: progression
+Coal Badge: progression
 Forest Badge: progression
-Fashion Case: filler
-Exp. Share: useful
-Blue Flute: useful
-Master Ball: useful
-Quick Powder: filler
-Pokétch: progression
-Galactic Key: progression
-Icicle Badge: progression
-Suite Key: progression
-Dive Ball: useful
+Cobble Badge: progression
+Fen Badge: progression
 Relic Badge: progression
-Smoke Ball: filler
-Sea Incense: useful
-TM77: useful
-HM05 Defog: progression
+Mine Badge: progression
+Icicle Badge: progression
+Beacon Badge: progression
+Bicycle: progression
+Coin Case: filler
+Fashion Case: filler
+Good Rod: useful
+Old Rod: useful
+Super Rod: mcguffin
+Seal Case: filler
+SecretPotion: progression
+Coupon 1: progression
+Coupon 2: progression
+Coupon 3: progression
+Explorer Kit: useful
+Galactic Key: progression
+Journal: trap
 Poké Radar: useful
-Miracle Seed: filler
-Luxury Ball: filler
-Red Shard: filler
-Hyper Potion: filler
-X Attack: filler
-Lax Incense: filler
-Thunder Stone: filler
-Potion: filler
-Big Pearl: filler
-Icicle Plate: progression
-TM67: useful
-Wide Lens: filler
+Sprayduck: filler
+Suite Key: progression
+Town Map: filler
+Vs. Seeker: useful
+Works Key: progression
+Secret Key: useful
+Vs. Recorder: filler
+Fire Stone: useful
+Water Stone: useful
+Leaf Stone: useful
+Thunder Stone: useful
+Sun Stone: useful
+Moon Stone: useful
+Shiny Stone: useful
+Dawn Stone: useful
 Dusk Stone: useful
-Green Shard: filler
-Elixir: filler
-Awakening: filler
+DeepSeaScale: useful
+DeepSeaTooth: useful
+Dragon Scale: useful
+Dubious Disc: useful
+Electirizer: useful
+King's Rock: useful
+Magmarizer: useful
+Metal Coat: useful
+Oval Stone: useful
+Protector: useful
+Razor Claw: useful
+Razor Fang: useful
+Reaper Cloth: useful
+Up-Grade: useful
+Helix Fossil: useful
+Dome Fossil: useful
+Old Amber: useful
+Root Fossil: useful
+Claw Fossil: useful
+Skull Fossil: useful
+Armor Fossil: useful
+Red Shard: useful
+Blue Shard: useful
+Green Shard: useful
+Yellow Shard: useful
+Exp. Share: useful
+Lucky Egg: useful
+Full Incense: filler
+Lax Incense: useful
+Luck Incense: useful
+Odd Incense: filler
+Pure Incense: filler
+Rock Incense: filler
+Rose Incense: filler
+Sea Incense: filler
+Wave Incense: filler
+Fist Plate: mcguffin
+Sky Plate: mcguffin
+Toxic Plate: mcguffin
+Earth Plate: mcguffin
+Stone Plate: mcguffin
+Insect Plate: mcguffin
+Spooky Plate: mcguffin
+Iron Plate: mcguffin
+Zap Plate: mcguffin
+Flame Plate: mcguffin
+Splash Plate: mcguffin
+Meadow Plate: mcguffin
+Mind Plate: mcguffin
+Icicle Plate: mcguffin
+Draco Plate: mcguffin
+Dread Plate: mcguffin
+Stick: filler
+Light Ball: filler
+Lucky Punch: filler
+Metal Powder: filler
+Quick Powder: filler
+Soul Dew: useful
+Thick Club: filler
+Black Belt: filler
+Blackglasses: filler
+Charcoal: filler
+Dragon Fang: filler
+Hard Stone: filler
+Magnet: filler
+Miracle Seed: filler
+Mystic Water: filler
+NeverMeltIce: filler
+Poison Barb: filler
+Sharp Beak: filler
+Silk Scarf: filler
+SilverPowder: filler
+Soft Sand: filler
+Spell Tag: filler
+TwistedSpoon: filler
+Light Clay: filler
+Amulet Coin: useful
+Big Root: filler
+BrightPowder: filler
+Choice Band: useful
+Choice Specs: useful
+Choice Scarf: useful
+Damp Rock: filler
+Destiny Knot: filler
+Expert Belt: filler
+Flame Orb: filler
 Focus Band: filler
-X Accuracy: filler
-Heal Ball: filler
-Super Potion: filler
+Grip Claw: filler
+Heat Rock: filler
+Icy Rock: filler
+Iron Ball: filler
+Lagging Tail: filler
+Life Orb: useful
+Macho Brace: filler
+Mental Herb: filler
+Metronome: filler
+Muscle Band: filler
+Power Herb: filler
+Quick Claw: useful
+Scope Lens: useful
+Shed Shell: filler
+Smoke Ball: filler
+Smooth Rock: filler
+Sticky Barb: filler
+Toxic Orb: filler
+White Herb: filler
+Wide Lens: useful
+Wise Glasses: filler
+Zoom Lens: filler
+Cleanse Tag: filler
+Everstone: filler
+Soothe Bell: filler
+Red Scarf: filler
+Blue Scarf: filler
+Pink Scarf: filler
+Green Scarf: filler
+Yellow Scarf: filler
+Poké Doll: filler
+Fluffy Tail: filler
+Heart Scale: useful
+Nugget: filler
+Big Mushroom: filler
+Big Pearl: filler
+Pearl: filler
 Star Piece: filler
-[EVENT] Lake Acuity Cleared: progression
-Petaya Berry: filler
+Stardust: filler
+TinyMushroom: filler
+Rare Bone: filler
+Blue Flute: useful
+Yellow Flute: useful
+Red Flute: useful
+Black Flute: useful
+White Flute: useful
+X Attack: filler
+X Defense: filler
+X Special: filler
+X Sp. Def: filler
+X Speed: filler
+X Accuracy: filler
+Guard Spec.: filler
+Dire Hit: filler
+Rare Candy: useful
+Antidote: filler
+Burn Heal: filler
+Ice Heal: filler
+Awakening: filler
+Full Heal: filler
+Parlyz Heal: filler
+Max Revive: filler
+Revive: filler
+Heal Powder: filler
+Revival Herb: filler
+Sacred Ash: useful
+Lava Cookie: filler
+Old Gateau: filler
+HP Up: filler
+Protein: filler
+Iron: filler
+Calcium: filler
+Zinc: filler
+Carbos: filler
+PP Up: useful
+PP Max: useful
+Fresh Water: filler
+Soda Pop: filler
+Lemonade: filler
+Moomoo Milk: filler
+Berry Juice: filler
+Poké Ball: filler
+Great Ball: filler
+Ultra Ball: filler
+Master Ball: filler
+Net Ball: filler
+Dive Ball: filler
+Nest Ball: filler
+Repeat Ball: filler
+Premier Ball: filler
+Timer Ball: filler
+Luxury Ball: filler
+Dusk Ball: filler
+Heal Ball: filler
+Quick Ball: filler
+Cherish Ball: filler
+Safari Ball: filler
+TM01: useful
+TM02: useful
+TM04: useful
+TM05: useful
+TM06: useful
+TM07: useful
+TM08: useful
+TM09: useful
+TM10: useful
 TM11: useful
+TM12: useful
+TM13: useful
+TM14: useful
+TM15: useful
+TM16: useful
+TM17: useful
+TM18: useful
+TM19: useful
+TM20: useful
+TM21: useful
+TM22: useful
+TM23: useful
+TM24: useful
+TM25: useful
+TM26: useful
+TM27: useful
+TM28 - Dig: useful
+TM29: useful
+TM30: useful
+TM31: useful
+TM32: useful
+TM33: useful
+TM34: useful
+TM35: useful
+TM36: useful
+TM37: useful
+TM38: useful
+TM39: useful
+TM40: useful
+TM41: useful
+TM42: useful
+TM43: useful
+TM44: useful
+TM45: useful
+TM46: useful
+TM47: useful
+TM48: useful
+TM49: useful
+TM50: useful
+TM51: useful
+TM53: useful
+TM52: useful
+TM54: useful
+TM55: useful
+TM56: useful
 TM57: useful
+TM58: useful
+TM59: useful
+TM60: useful
+TM62: useful
+TM61: useful
+TM63: useful
+TM64: useful
+TM65: useful
+TM66: useful
+TM67: useful
+TM68: useful
+TM69: useful
+TM70 - Flash: progression
+TM71: useful
+TM72: useful
+TM73: useful
+TM74: useful
+TM75: useful
+TM76: useful
+TM77: useful
+TM78: useful
+TM79: useful
+TM80: useful
+TM81: useful
+TM82: useful
+TM83: useful
+TM84: useful
+TM85: useful
+TM86: useful
+TM87: useful
+TM88: useful
+TM89: useful
+TM90: useful
+TM91: useful
+TM92: useful
+HM01 Cut: progression
+HM02 Fly: progression
+HM03 Surf: progression
+HM04 Strength: progression
+HM05 Defog: progression
+HM06 Rock Smash: progression
+HM07 Waterfall: progression
+HM08 Rock Climb: progression
+Parcel: progression
+Rule Book: filler
+Pokétch: progression
+Digital Watch App: useful
+Calculator App: useful
+Memo Pad App: useful
+Pedometer App: useful
+Pokémon List App: useful
+Friendship Checker App: useful
+Dowsing Machine App: progression
+Berry Searcher App: useful
+Day-Care Checker App: useful
+Pokémon History App: useful
+Counter App: useful
+Analog Watch App: useful
+Marking Map App: useful
+Link Searcher App: useful
+Coin Toss App: useful
+Move Tester App: useful
+Calendar App: useful
+Dot Artist App: useful
+Roulette App: useful
+Chain Counter App: useful
+Kitchen Timer App: useful
+Color Changer App: useful
+Matchup Checker App: useful
+Stopwatch App: useful
+Alarm Clock App: useful
+Potion: filler
+Super Potion: filler
+Hyper Potion: filler
+Max Potion: filler
+Full Restore: filler
+Progressive Pokédex: progression
+Snorlax: progression
+Kecleon: progression
+Pachirisu: progression
+S.S. Ticket: progression
+Old Charm: progression
+Adamant Orb: useful
+Lustrous Orb: useful
+Griseous Orb: useful
+Lum Berry: filler
+Leppa Berry: filler
+Ether: filler
+Max Ether: filler
+Elixir: filler
+Max Elixir: filler
 Sitrus Berry: filler
+Leftovers: useful
+Micle Berry: filler
+Liechi Berry: filler
+Petaya Berry: filler
+Poffin Case: filler
+Custap Berry: filler
+Enigma Berry: filler
+[EVENT] Cyrus Beaten At Distortion World: progression
+Pal Pad: filler
 [EVENT] Bombs Heard at Canalave: progression
+[EVENT] Lake Trio Freed from HQ: progression
+[EVENT] Lake Valor Cleared: progression
+[EVENT] Lake Verity Cleared: progression
+[EVENT] Lake Acuity Cleared: progression
+[EVENT] Oreburgh Gym Cleared: progression
+[EVENT] Veilstone Gym Cleared: progression
+[EVENT] Pastoria Gym Cleared: progression
 [EVENT] Canalave Gym Cleared: progression
+[EVENT] Met Oak at Pal Park: progression
+[EVENT] Looker Takes Storage Key: progression
+[EVENT] Warehouse Grunts Defeated: progression
+Azure Flute: mcguffin
+Member Card: mcguffin
+Oak's Letter: mcguffin
+Storage Key: progression
