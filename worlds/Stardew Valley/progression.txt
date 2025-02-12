@@ -687,7 +687,7 @@ Lightning Rod: filler
 Resource Pack: 5000 Money: filler
 Resource Pack: 10000 Money: filler
 Junimo Chest: useful
-Horse Flute: unknown
+Horse Flute: useful
 Pierre's Missing Stocklist: useful
 Hopper: filler
 Enricher: filler
@@ -925,3 +925,4 @@ Defense Bonus: filler
 Prismatic Shard: useful
 Resource Pack: 20 Deluxe Bait: filler
 Stardrop Tea: filler
+Broccoli Seeds: progression
