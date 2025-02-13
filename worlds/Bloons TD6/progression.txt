@@ -23,7 +23,7 @@ BankDeposits-KUnlock: progression
 Bazaar-MUnlock: unknown
 BeastHandler-TUnlock: progression
 Benjamin-HUnlock: progression
-BetterSellDeals-KUnlock: unknown
+BetterSellDeals-KUnlock: progression
 BigBloonBlueprints-KUnlock: unknown
 BigBloonSabotage-KUnlock: unknown
 BigBunch-KUnlock: progression
@@ -89,7 +89,7 @@ ExtraBurnyStuff-KUnlock: progression
 ExtraDartPops-KUnlock: progression
 Ezili-HUnlock: progression
 FarmSubsidy-KUnlock: progression
-FastGlue-KUnlock: unknown
+FastGlue-KUnlock: progression
 FastTackAttacks-KUnlock: progression
 FasterTakedowns-KUnlock: unknown
 FiringRange-MUnlock: unknown
