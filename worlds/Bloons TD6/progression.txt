@@ -189,7 +189,7 @@ Psi-HUnlock: progression
 Quad-MUnlock: unknown
 QuadBurst-KUnlock: unknown
 Quarry-MUnlock: progression
-QuickHands-KUnlock: unknown
+QuickHands-KUnlock: progression
 QuietStreet-MUnlock: unknown
 Quincy-HUnlock: unknown
 Rake-MUnlock: unknown
@@ -197,7 +197,7 @@ RapidRazors-KUnlock: progression
 Ravine-MUnlock: unknown
 RecurringRangs-KUnlock: progression
 Resort-MUnlock: progression
-Rosalia-HUnlock: unknown
+Rosalia-HUnlock: useful
 Sanctuary-MUnlock: progression
 Sauda-HUnlock: progression
 Scholarships-KUnlock: progression
