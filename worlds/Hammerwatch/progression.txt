@@ -1,53 +1,501 @@
-Blue Chest: filler
-Armory Floor 5 Master Bronze Key: progression
-Small Diamond: filler
-Green Chest: filler
-Progressive Thief Knives Damage: useful
-Damage Upgrade: useful
-Vendor Coin: useful
-Progressive Thief Mana Pool: useful
-Progressive Thief Dodge: useful
-Progressive Thief Health Pool: useful
-Armory Floor 6 Master Bronze Key: progression
-Progressive Thief Speed Penalty: useful
-Wood Chest: filler
-Rejuvenation Potion: filler
-Red Chest: filler
-Diamond: filler
-Small Red Diamond: filler
-Progressive Thief Armor: useful
-Thief Smoke Bomb: progression
-Armory Floor 4 Master Gold Key: progression
-Purple Chest: filler
-Health Upgrade: useful
-Chambers Floor 11 Master Gold Key: progression
-Progressive Thief Knife Fan Damage: useful
-Mana Upgrade: useful
-Prison Floor 1 Master Bronze Key: progression
-Prison Floor 3 Master Bronze Key: progression
-Progressive Warlock Electrical Storm Damage: useful
-Progressive Warlock Mana Pool: useful
-Bonus Chest: filler
-Frost Trap: trap
-Progressive Warlock Blood Sacrifice: useful
-Progressive Warlock Combo Mana: useful
-Progressive Warlock Armor: useful
-Red Diamond: filler
-Archives Floor 9 Master Bronze Key: progression
-Prison Floor 2 Master Silver Key: progression
+1-Up Ankh: unknown
+5-Up Ankh: unknown
+7-Up Ankh: unknown
+Activate AmF4 Puzzle: unknown
+Activate AmF5 Bonus Portal: unknown
+Activate AmF5 Puzzle: unknown
+Activate AvF7 Puzzle: unknown
+Activate AvF8 Puzzle: unknown
+Activate AvF8 SW Light Bridge: unknown
+Activate AvF9 Bonus Return Light Bridge: unknown
+Activate AvF9 Simon Says Puzzle: unknown
+Activate CL1 East Puzzle: unknown
+Activate CL1 West Puzzle: unknown
+Activate CL2 Puzzle: unknown
+Activate CL3 Puzzle: unknown
+Activate ChF11 North Red Flame Turret: unknown
+Activate ChF11 Puzzle: unknown
+Activate ChF12 Blue Flame Turrets: unknown
+Activate PoF Puzzle: unknown
+Activate PrF1 Puzzle: unknown
+Activate PrF1 SW Light Bridge: unknown
+Activate PrF2 Puzzle: unknown
+Activate PrF2 SE Rune Puzzle Reward: unknown
+Activate SP Puzzle: unknown
+Activate TF1 East Puzzle: unknown
+Activate TF1 West Puzzle: unknown
+Activate TF2 East Puzzle: unknown
+Activate TF2 Light Bridges: unknown
+Activate TF2 North Puzzle: unknown
+Activate TF2 South Puzzle: unknown
+Activate TF2 West Puzzle: unknown
+Activate TF3 Gold Chutes: unknown
+Activate TF3 Puzzle: unknown
+Activate Water Pumps: unknown
+Apple: unknown
+Archives Bonus Key: unknown
+Archives Boss Rune A: unknown
+Archives Boss Rune n: unknown
+Archives Boss Rune y: unknown
+Archives Bronze Key: unknown
+Archives Floor 7 Master Bronze Key: unknown
+Archives Floor 7 Master Gold Key: unknown
+Archives Floor 7 Master Silver Key: unknown
 Archives Floor 8 Master Bronze Key: progression
-Prison Floor 2 Master Gold Key: progression
+Archives Floor 8 Master Gold Key: unknown
+Archives Floor 8 Master Silver Key: unknown
+Archives Floor 9 Master Bronze Key: progression
+Archives Floor 9 Master Gold Key: unknown
+Archives Floor 9 Master Silver Key: progression
+Archives Gold Key: unknown
+Archives Master Bonus Key: unknown
+Archives Silver Key: unknown
+Armory Bonus Key: unknown
+Armory Boss Rune A: unknown
+Armory Boss Rune n: unknown
+Armory Boss Rune y: unknown
+Armory Bronze Key: unknown
+Armory Floor 4 Master Bronze Key: unknown
+Armory Floor 4 Master Gold Key: progression
+Armory Floor 4 Master Silver Key: unknown
+Armory Floor 5 Master Bronze Key: progression
+Armory Floor 5 Master Gold Key: unknown
 Armory Floor 5 Master Silver Key: progression
+Armory Floor 6 Master Bronze Key: progression
+Armory Floor 6 Master Gold Key: unknown
+Armory Floor 6 Master Silver Key: unknown
+Armory Gold Key: unknown
+Armory Master Bonus Key: unknown
+Armory Silver Key: unknown
+Banner Trap: unknown
+Big Archives Bronze Key: unknown
+Big Armory Bronze Key: unknown
+Big Bronze Key: unknown
+Big Chambers Bronze Key: unknown
+Big Prison Bronze Key: unknown
+Blue Chest: filler
+Bomb Trap: unknown
+Bonus Chest: filler
+Bonus Key: unknown
+Bronze Key: unknown
+Chambers Bonus Key: unknown
+Chambers Boss Rune A: unknown
+Chambers Boss Rune n: unknown
+Chambers Boss Rune y: unknown
+Chambers Bronze Key: unknown
+Chambers Floor 10 Master Bronze Key: unknown
+Chambers Floor 10 Master Gold Key: unknown
+Chambers Floor 10 Master Silver Key: progression
+Chambers Floor 11 Master Bronze Key: unknown
+Chambers Floor 11 Master Gold Key: progression
+Chambers Floor 11 Master Silver Key: unknown
+Chambers Floor 12 Master Bronze Key: progression
+Chambers Floor 12 Master Gold Key: progression
+Chambers Floor 12 Master Silver Key: unknown
+Chambers Gold Key: unknown
+Chambers Master Bonus Key: unknown
+Chambers Silver Key: unknown
+Confuse Trap: unknown
+Copper Coin: unknown
+Copper Coin Pile: unknown
+Copper Coins: unknown
+Damage Potion: unknown
+Damage Upgrade: useful
 Defense Upgrade: useful
-Progressive Warlock Health Pool: useful
+Diamond: filler
+Disable AmF4 Red Spikes: unknown
+Disable AmF4 SW Spikes: unknown
+Disable AmF5 Blue Spikes: unknown
+Disable AvF9 Secret Passage North Room Spikes: unknown
+Disable ChF10 North Spikes: unknown
+Disable ChF10 Red Flame Turret: unknown
+Disable ChF10 Red Spike Turrets: unknown
+Disable ChF10 Red Spikes: unknown
+Disable ChF11 Blue Spike Turret: unknown
+Disable ChF11 South Red Flame Turrets: unknown
+Disable ChF12 Red Spike Turrets: unknown
+Disable ChF12 Red Spikes: unknown
+Disable PrF2 Red Spikes: unknown
+Disable PrF3 Blue Spikes: unknown
+Disable PrF3 Entrance Gate Spikes: unknown
+Disable PrF3 Red Spikes: unknown
+Disable PrF3 South Spikes: unknown
+Disable TF2 Blue Spikes: unknown
+Disable TF2 South Spikes: unknown
+Disable TF3 North Pillar Walls: unknown
+Dune Sharks Arena Gold Key: unknown
+Dune Sharks Arena Silver Key: unknown
+Elevate PoF Pyramid: unknown
+Enable PrF2 Spike Puzzle East Buttons: unknown
+Enable PrF2 Spike Puzzle North Buttons: unknown
+Enable PrF2 Spike Puzzle South Buttons: unknown
+Enable Queen Arena Buttons: unknown
 Fire Trap: trap
-Prison Floor 3 Master Gold Key: progression
-Progressive Thief Smoke Bomb Range: useful
-Strange Plank: mcguffin
-Progressive Warlock Combo Timer: useful
-Progressive Thief Combo Timer: useful
-Warlock Electrical Storm: progression
-Progressive Warlock Combo Healing: useful
-Warlock Summon Gargoyle: progression
+Fish: unknown
+Fix CL1 Blue Bridge: unknown
+Fix CL1 Green Bridge: unknown
+Fix CL1 Red Bridge: unknown
+Fix CL2 Double Bridge: unknown
+Fix CL2 Exit Bridge: unknown
+Fix CL2 Green Bridge: unknown
+Fix CL2 Red Bridge: unknown
+Fix CL3 East Bridge: unknown
+Fix CL3 Fall Bridge: unknown
+Fix Dune Sharks Bridge: unknown
+Frost Trap: trap
+Frying Pan: unknown
+Frying Pan Fragment: unknown
+Gold Coin: unknown
+Gold Coin Pile: unknown
+Gold Coins: unknown
+Gold Key: unknown
+Gold Ring: unknown
+Green Chest: filler
+Hammer: unknown
+Hammer Fragment: unknown
+Health Upgrade: useful
+Invulnerability Potion: unknown
+Mana Drain Trap: unknown
+Mana Orb: unknown
+Mana Shard: unknown
+Mana Upgrade: useful
+Mirror: unknown
+Open AmB Exit: unknown
+Open AmB NE Room: unknown
+Open AmB SE Room: unknown
+Open AmF4 Boss Gate: unknown
+Open AmF4 Middle Cache: unknown
+Open AmF4 Middle Shortcut: unknown
+Open AmF4 NE Cache: unknown
+Open AmF4 SE Cache: unknown
+Open AmF4 SE Rune Room: unknown
+Open AmF4 South Wall: unknown
+Open AmF5 SE Tower Room Left Side: unknown
+Open AmF5 SE Tower Room Top Side: unknown
+Open AmF5 Start Shortcut: unknown
+Open AmF5 West Exits Hall: unknown
+Open AmF6 Middle Exit: unknown
+Open AmF6 Spike Turret 2nd Reward Rooms: unknown
+Open AmF6 Spike Turret Reward Rooms: unknown
+Open AmF6 Start East Wall: unknown
+Open AmF6 Start North Wall: unknown
+Open AvF7 Bottom of Left Exit: unknown
+Open AvF7 East Wall: unknown
+Open AvF7 Exits: unknown
+Open AvF7 Middle Ledge: unknown
+Open AvF7 NE Shortcut: unknown
+Open AvF7 NW Secret Room: unknown
+Open AvF7 North Wall: unknown
+Open AvF7 SE Closed Room: unknown
+Open AvF7 Start Closed Room: unknown
+Open AvF7 West Shortcut: unknown
+Open AvF7 West Wall: unknown
+Open AvF8 Boss Rune Room Left Side: unknown
+Open AvF8 Boss Rune Room Right Side: unknown
+Open AvF8 Fire Trap Room Bottom Side: unknown
+Open AvF8 Fire Trap Room Top Side: unknown
+Open AvF8 Left Exit: unknown
+Open AvF8 Middle Entrance: unknown
+Open AvF8 NE Cache: unknown
+Open AvF8 NW Shortcut: unknown
+Open AvF8 Puzzle Room: unknown
+Open AvF8 South Area Left Side: unknown
+Open AvF8 South Area Right Side: unknown
+Open AvF8 Spike Turret Island Left Shortcut: unknown
+Open AvF8 Spike Turret Island Top Shortcut: unknown
+Open AvF9 Bonus Portal Passage: unknown
+Open AvF9 Boss Gate: unknown
+Open AvF9 Boss Rune Room: unknown
+Open AvF9 Exit: unknown
+Open AvF9 NE Room Left Side: unknown
+Open AvF9 NE Room Top Side: unknown
+Open AvF9 SW Secret Room: unknown
+Open AvF9 Secret Passage: unknown
+Open AvF9 Secret Passage End: unknown
+Open AvF9 Secret Passage North Room: unknown
+Open AvF9 Secret Passage South Room: unknown
+Open AvF9 Simon Says Room: unknown
+Open AvF9 South Room Right Side: unknown
+Open AvF9 South Room Top Side: unknown
+Open CL1 Secret Tunnel: unknown
+Open ChF10 SW Exit: unknown
+Open ChF10 South Shortcut: unknown
+Open ChF11 Bonus Portal: unknown
+Open ChF11 Bonus Room: unknown
+Open ChF11 Chance Puzzle Room: unknown
+Open ChF11 East Shop Shortcut: unknown
+Open ChF11 North Exit Closed Room: unknown
+Open ChF11 North Shops Room: unknown
+Open ChF11 SW Secret Room: unknown
+Open ChF11 South Entrance Shortcut: unknown
+Open ChF11 West Shortcut: unknown
+Open ChF12 East Shortcut: unknown
+Open ChF12 SW Hidden Hall: unknown
+Open ChF12 South Hidden Hall: unknown
+Open ChF12 West Secret Room: unknown
+Open PoF Level 1 Exit: unknown
+Open PoF Level 1 South Walls: unknown
+Open PoF Level 2 Exit: unknown
+Open PoF Level 2 Puzzle Room: unknown
+Open PoF Level 3 Start Room: unknown
+Open PrB Bottom of East Hall: unknown
+Open PrB NE Treasure Room: unknown
+Open PrB North Treasure Rooms: unknown
+Open PrB Top of East Hall: unknown
+Open PrF1 Passage: unknown
+Open PrF2 East Save Room: unknown
+Open PrF2 Middle Entrance Room: unknown
+Open PrF2 Middle Shortcut Bottom: unknown
+Open PrF2 Middle Shortcut Top: unknown
+Open PrF2 West Treasure Room: unknown
+Open PrF3 Bonus Portal: unknown
+Open PrF3 Bonus Room: unknown
+Open PrF3 Bonus Room Side Hall: unknown
+Open PrF3 Boss Gate: unknown
+Open PrF3 Entrance Room: unknown
+Open PrF3 NW Treasure Room: unknown
+Open PrF3 North Secret Shop Room: unknown
+Open PrF3 North Tower Room Shortcut: unknown
+Open PrF3 SE Passage: unknown
+Open PrF3 SW Shortcut: unknown
+Open PrF3 South Arrow Hall Passage: unknown
+Open PrF3 South Exit Room Left Side: unknown
+Open PrF3 South Exit Room Right Side: unknown
+Open TF1 East Jail: unknown
+Open TF1 Fireball Runway Passages: unknown
+Open TF1 NE Node Hallway: unknown
+Open TF1 North Jail: unknown
+Open TF1 Telarian Gate: unknown
+Open TF1 Trapped Guard Gate: unknown
+Open TF2 Back of Indiana Jones Hallway: unknown
+Open TF2 Boulder Room: unknown
+Open TF2 Boulder Room Secret Passage: unknown
+Open TF2 East Ice Pillar Gate: unknown
+Open TF2 East Jail: unknown
+Open TF2 Indiana Jones Hallway: unknown
+Open TF2 NW Pillar Gate: unknown
+Open TF2 Ornate Room Gate Left Side: unknown
+Open TF2 Ornate Room Gate Right Side: unknown
+Open TF2 Portal Room Shortcut: unknown
+Open TF2 SW Portal Gate: unknown
+Open TF2 South Gate Hall: unknown
+Open TF2 South Gate Shortcut: unknown
+Open TF2 South Jail: unknown
+Open TF2 West Ice Pillar Gate: unknown
+Open TF2 West Jail: unknown
+Open TF3 NE Boss Fall Room: unknown
+Open TF3 SE Boss Fall Room: unknown
+Open TF3 South Gate: unknown
+Open TF3 West Boss Fall Room: unknown
+Orange: unknown
+Ore: unknown
+Paladin Combo: unknown
+Paladin Healing: unknown
+Paladin Holy Storm: unknown
+Pickaxe: unknown
+Pickaxe Fragment: unknown
+Poison Trap: trap
+Priest Combo: unknown
+Priest Cripple Aura: unknown
+Priest Cripple Aura Mana Drain: unknown
+Priest Draining Field: unknown
 Prison Bonus Key: useful
-Vendor Coins: filler
+Prison Boss Rune A: unknown
+Prison Boss Rune n: unknown
+Prison Boss Rune y: unknown
+Prison Bronze Key: unknown
+Prison Floor 1 Master Bronze Key: progression
+Prison Floor 1 Master Gold Key: unknown
+Prison Floor 1 Master Silver Key: unknown
+Prison Floor 2 Master Bronze Key: unknown
+Prison Floor 2 Master Gold Key: progression
+Prison Floor 2 Master Silver Key: progression
+Prison Floor 3 Master Bronze Key: progression
+Prison Floor 3 Master Gold Key: progression
+Prison Floor 3 Master Silver Key: unknown
+Prison Gold Key: unknown
+Prison Master Bonus Key: unknown
+Prison Silver Key: unknown
+Progressive Paladin Armor: unknown
+Progressive Paladin Charge Damage: unknown
+Progressive Paladin Charge Range: unknown
+Progressive Paladin Combo Healing: unknown
+Progressive Paladin Combo Mana: unknown
+Progressive Paladin Combo Nova: unknown
+Progressive Paladin Combo Timer: unknown
+Progressive Paladin Divine Wrath: unknown
+Progressive Paladin Healing Efficiency: unknown
+Progressive Paladin Health Pool: unknown
+Progressive Paladin Holy Storm Damage: unknown
+Progressive Paladin Holy Storm Duration: unknown
+Progressive Paladin Mana Pool: unknown
+Progressive Paladin Move Speed: unknown
+Progressive Paladin Shield: unknown
+Progressive Paladin Sword Arc: unknown
+Progressive Paladin Sword Damage: unknown
+Progressive Priest Armor: unknown
+Progressive Priest Combo Healing: unknown
+Progressive Priest Combo Mana: unknown
+Progressive Priest Combo Nova: unknown
+Progressive Priest Combo Timer: unknown
+Progressive Priest Cripple Aura Slow: unknown
+Progressive Priest Draining Field Damage: unknown
+Progressive Priest Draining Field Number: unknown
+Progressive Priest HP Regen: unknown
+Progressive Priest Health Pool: unknown
+Progressive Priest Holy Beam Damage: unknown
+Progressive Priest Holy Beam Range: unknown
+Progressive Priest Magic Shield: unknown
+Progressive Priest Mana Pool: unknown
+Progressive Priest Move Speed: unknown
+Progressive Priest Smite Damage: unknown
+Progressive Priest Speed Penalty: unknown
+Progressive Ranger Armor: unknown
+Progressive Ranger Bomb Damage: unknown
+Progressive Ranger Bow Damage: unknown
+Progressive Ranger Combo Healing: unknown
+Progressive Ranger Combo Mana: unknown
+Progressive Ranger Combo Nova: unknown
+Progressive Ranger Combo Timer: unknown
+Progressive Ranger Dodge: unknown
+Progressive Ranger Flurry Arrows: unknown
+Progressive Ranger Flurry Waves: unknown
+Progressive Ranger Health Pool: unknown
+Progressive Ranger Mana Pool: unknown
+Progressive Ranger Marksmanship: unknown
+Progressive Ranger Move Speed: unknown
+Progressive Ranger Overgrowth Duration: unknown
+Progressive Ranger Overgrowth Range: unknown
+Progressive Ranger Penetration: unknown
+Progressive Sorcerer Armor: unknown
+Progressive Sorcerer Chill Duration: unknown
+Progressive Sorcerer Chill Slow: unknown
+Progressive Sorcerer Combo Healing: unknown
+Progressive Sorcerer Combo Mana: unknown
+Progressive Sorcerer Combo Nova: unknown
+Progressive Sorcerer Combo Timer: unknown
+Progressive Sorcerer Comet Damage: unknown
+Progressive Sorcerer Frost Shield: unknown
+Progressive Sorcerer Health Pool: unknown
+Progressive Sorcerer Ice Orb Damage: unknown
+Progressive Sorcerer Ice Orb Time: unknown
+Progressive Sorcerer Ice Shard Bounces: unknown
+Progressive Sorcerer Ice Shard Damage: unknown
+Progressive Sorcerer Ice Shard Nova Mana: unknown
+Progressive Sorcerer Ice Shard Nova Number: unknown
+Progressive Sorcerer Mana Pool: unknown
+Progressive Sorcerer Move Speed: unknown
+Progressive Thief Armor: useful
+Progressive Thief Combo Healing: unknown
+Progressive Thief Combo Mana: unknown
+Progressive Thief Combo Nova: unknown
+Progressive Thief Combo Timer: useful
+Progressive Thief Dodge: useful
+Progressive Thief Fervor: useful
+Progressive Thief Grapple Chain Length: unknown
+Progressive Thief Grapple Chain Stun: unknown
+Progressive Thief Health Pool: useful
+Progressive Thief Knife Fan Damage: useful
+Progressive Thief Knife Fan Knives: unknown
+Progressive Thief Knives Damage: useful
+Progressive Thief Mana Pool: useful
+Progressive Thief Move Speed: unknown
+Progressive Thief Smoke Bomb Range: useful
+Progressive Thief Speed Penalty: useful
+Progressive Warlock Armor: useful
+Progressive Warlock Blood Sacrifice: useful
+Progressive Warlock Combo Healing: useful
+Progressive Warlock Combo Mana: useful
+Progressive Warlock Combo Nova: unknown
+Progressive Warlock Combo Timer: useful
+Progressive Warlock Dagger Damage: unknown
+Progressive Warlock Dagger Poison: unknown
+Progressive Warlock Electrical Storm Damage: useful
+Progressive Warlock Electrical Storm Duration: useful
+Progressive Warlock Gargoyle Damage: useful
+Progressive Warlock Gargoyle Duration: unknown
+Progressive Warlock Health Pool: useful
+Progressive Warlock Lightning Strike Damage: unknown
+Progressive Warlock Lightning Strike Targets: unknown
+Progressive Warlock Mana Pool: useful
+Progressive Warlock Move Speed: useful
+Progressive Warlock Soul Sacrifice: unknown
+Progressive Wizard Armor: unknown
+Progressive Wizard Combo Healing: unknown
+Progressive Wizard Combo Mana: unknown
+Progressive Wizard Combo Nova: unknown
+Progressive Wizard Combo Timer: unknown
+Progressive Wizard Combustion Damage: unknown
+Progressive Wizard Combustion Duration: unknown
+Progressive Wizard Fire Breath Damage: unknown
+Progressive Wizard Fire Nova Flames: unknown
+Progressive Wizard Fire Nova Slow: unknown
+Progressive Wizard Fireball Damage: unknown
+Progressive Wizard Fireball Range: unknown
+Progressive Wizard Health Pool: unknown
+Progressive Wizard Mana Pool: unknown
+Progressive Wizard Meteor Strike Damage: unknown
+Progressive Wizard Meteor Strike Meteors: unknown
+Progressive Wizard Move Speed: unknown
+Pumps Lever: unknown
+Pumps Lever Fragment: unknown
+Purple Chest: filler
+Pyramid of Fear Master Bonus Key: unknown
+Random Stat Upgrade: unknown
+Ranger Combo: unknown
+Ranger Flurry: unknown
+Ranger Overgrowth: unknown
+Red Chest: filler
+Red Diamond: filler
+Rejuvenation Potion: filler
+Rune Key: unknown
+Serious Health Upgrade: unknown
+Silver Coin: unknown
+Silver Coin Pile: unknown
+Silver Coins: unknown
+Silver Key: unknown
+Small Diamond: filler
+Small Red Diamond: filler
+Sorcerer Chill: unknown
+Sorcerer Combo: unknown
+Sorcerer Ice Orb: unknown
+Sorcerer Ice Shard Nova: unknown
+Steak: unknown
+Strange Plank: mcguffin
+Teleport AmF4 North Item: unknown
+Teleport AmF5 Blue Spikes Item: unknown
+Teleport AmF5 NE Fireball Hall Item: unknown
+Teleport AmF5 NE Gates Item: unknown
+Teleport AmF5 NW Pyramid Item: unknown
+Teleport AmF5 SE Item: unknown
+Teleport AmF5 SE Pyramid Item: unknown
+Teleport AmF5 SW Item: unknown
+Teleport AmF5 SW Pyramid Item: unknown
+Teleport AmF6 Middle Item: unknown
+Teleport AmF6 NE Pyramid Item: unknown
+Teleport AmF6 South Pyramid South Bronze Gate Item: unknown
+Teleport AvF9 NE Bottom Item: unknown
+Teleport AvF9 NE Top Item: unknown
+Teleport AvF9 NW Item: unknown
+Teleport ChF11 West Spike Items: unknown
+Teleport ChF12 Fire Floor Item: unknown
+Teleport ChF12 Middle Item: unknown
+Teleport PrF2 West Rune Puzzle Item: unknown
+Teleport PrF2 West Treasure Room Item: unknown
+Temple Floor 1 Master Gold Key: unknown
+Temple Floor 1 Master Silver Key: unknown
+Temple Floor 2 Master Gold Key: unknown
+Temple Floor 2 Master Silver Key: unknown
+Thief Combo: unknown
+Thief Grapple Chain: unknown
+Thief Smoke Bomb: progression
+Vendor Coin: filler
+Warlock Combo: progression
+Warlock Electrical Storm: progression
+Warlock Summon Gargoyle: progression
+Wizard Combo: unknown
+Wizard Combustion: unknown
+Wizard Fire Nova: unknown
+Wizard Fire Shield: unknown
+Wizard Meteor Strike: unknown
+Wood Chest: filler

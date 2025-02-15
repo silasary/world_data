@@ -5,7 +5,7 @@ AbilityMastery-KUnlock: unknown
 AcceleratedAerodarts-KUnlock: progression
 AcidStability-KUnlock: progression
 AdmiralBrickell-HUnlock: unknown
-Adora-HUnlock: unknown
+Adora-HUnlock: progression
 AdorasTemple-MUnlock: unknown
 AdvancedLogistics-KUnlock: unknown
 AeronauticSubsidy-KUnlock: unknown
@@ -57,7 +57,7 @@ CheaperLakes-KUnlock: unknown
 CheaperMaiming-KUnlock: progression
 CheaperSolution-KUnlock: progression
 Chutes-MUnlock: progression
-ColdFront-KUnlock: unknown
+ColdFront-KUnlock: progression
 ComeOnEverybody-KUnlock: unknown
 Cornfield-MUnlock: unknown
 Corvus-HUnlock: unknown
