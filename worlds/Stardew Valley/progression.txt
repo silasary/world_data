@@ -74,7 +74,7 @@ Mill: useful
 Progressive Shed: useful
 Fish Pond: progression
 Stable: useful
-Slime Hutch: unknown
+Slime Hutch: progression
 Shipping Bin: progression
 Beach Bridge: progression
 Adventurer's Guild: unknown
@@ -662,7 +662,7 @@ Resource Pack: 4 Crab Pot: filler
 Resource Pack: 5 Crab Pot: filler
 Resource Pack: 6 Crab Pot: filler
 Friendship Bonus (1 <3): unknown
-Friendship Bonus (2 <3): unknown
+Friendship Bonus (2 <3): useful
 Friendship Bonus (3 <3): unknown
 Friendship Bonus (4 <3): unknown
 15 Qi Gems: progression
@@ -928,3 +928,4 @@ Stardrop Tea: filler
 Broccoli Seeds: progression
 Resource Pack: 3 Bomb: filler
 Immunity Bonus: useful
+Calico Statue: filler
