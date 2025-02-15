@@ -188,7 +188,7 @@ Cloud Staff: unknown
 Coeurl Pelt: filler
 Coeurl Whisker: unknown
 Common Fish: unknown
-Confuse: unknown
+Confuse: useful
 Corpse Fly: unknown
 Cotton Cap: unknown
 Cotton Shirt: unknown
@@ -224,7 +224,7 @@ Death: unknown
 Death Powder: unknown
 Death's-Head: unknown
 Deathbringer: unknown
-Decoy: unknown
+Decoy: useful
 Defender: unknown
 Deimos Clay: unknown
 Delicious Fish: unknown
@@ -289,11 +289,11 @@ Ether: filler
 Euclid's Sextant: unknown
 Excalibur: unknown
 Excalipur: unknown
-Exodus: unknown
+Exodus: useful
 Expose: unknown
 Eye Drops: unknown
 Eye of the Hawk: unknown
-Faith: unknown
+Faith: useful
 Famfrit: unknown
 Fanged Trophy: unknown
 Feathered Cap: unknown
@@ -376,7 +376,7 @@ Grand Helm: unknown
 Grand Mace: unknown
 Gravesoil Trophy: unknown
 Graviga: unknown
-Gravity: unknown
+Gravity: useful
 Gravity Mote: filler
 Great Serpent's Fang: unknown
 Great Trango: unknown
