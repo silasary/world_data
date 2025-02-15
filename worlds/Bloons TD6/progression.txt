@@ -78,7 +78,7 @@ Downstream-MUnlock: progression
 Druid-TUnlock: progression
 EliteMilitaryTraining-KUnlock: progression
 EmergencyUnlock-KUnlock: progression
-EmpoweredHeroes-KUnlock: unknown
+EmpoweredHeroes-KUnlock: progression
 Encrypted-MUnlock: unknown
 EndOfTheRoad-MUnlock: progression
 EngineerMonkey-TUnlock: progression
@@ -115,7 +115,7 @@ Gwendolin-HUnlock: progression
 HardPress-KUnlock: progression
 HardTacks-KUnlock: unknown
 Haunted-MUnlock: unknown
-HealthyBananas-KUnlock: unknown
+HealthyBananas-KUnlock: progression
 HeavyKnockback-KUnlock: unknown
 Hedge-MUnlock: progression
 HeliPilot-TUnlock: progression
