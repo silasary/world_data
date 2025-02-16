@@ -96,7 +96,7 @@ Luck Bonus: progression
 Lava Katana: unknown
 Progressive House: progression
 Traveling Merchant: Sunday: progression
-Traveling Merchant: Monday: unknown
+Traveling Merchant: Monday: progression
 Traveling Merchant: Tuesday: progression
 Traveling Merchant: Wednesday: progression
 Traveling Merchant: Thursday: progression
@@ -257,7 +257,7 @@ Parrot Express: useful
 Qi Walnut Room: useful
 Pineapple Seeds: progression
 Taro Tuber: progression
-Weather Report: unknown
+Weather Report: useful
 Fortune Teller: useful
 Livin' Off The Land: filler
 The Queen of Sauce: progression
@@ -295,7 +295,7 @@ Aquamarine Ring: useful
 Jade Ring: useful
 Emerald Ring: filler
 Ruby Ring: filler
-Wedding Ring: unknown
+Wedding Ring: filler
 Crabshell Ring: filler
 Napalm Ring: useful
 Thorns Ring: useful
@@ -305,7 +305,7 @@ Protection Ring: unknown
 Soul Sapper Ring: useful
 Phoenix Ring: useful
 Immunity Band: filler
-Glowstone Ring: unknown
+Glowstone Ring: filler
 Fairy Dust Recipe: progression
 Heavy Tapper Recipe: progression
 Hyper Speed-Gro Recipe: progression
@@ -931,3 +931,4 @@ Immunity Bonus: useful
 Calico Statue: filler
 Power: Book of Mysteries: progression
 Resource Pack: 40 Calico Egg: filler
+Mr Qi's Plane Ride: useful
