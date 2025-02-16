@@ -187,7 +187,7 @@ PowerfulMonkeyStorm-KUnlock: progression
 PreGamePrep-KUnlock: progression
 Psi-HUnlock: progression
 Quad-MUnlock: unknown
-QuadBurst-KUnlock: unknown
+QuadBurst-KUnlock: progression
 Quarry-MUnlock: progression
 QuickHands-KUnlock: progression
 QuietStreet-MUnlock: unknown
@@ -212,7 +212,7 @@ SpikeFactory-TUnlock: unknown
 Spillway-MUnlock: unknown
 SpringSpring-MUnlock: progression
 Streambed-MUnlock: unknown
-StrikeDownTheFalse-KUnlock: unknown
+StrikeDownTheFalse-KUnlock: progression
 StrikerJones-HUnlock: progression
 StrongTonic-KUnlock: unknown
 SubAdmiral-KUnlock: unknown
