@@ -161,7 +161,7 @@ MonkeyBuccaneer-TUnlock: useful
 MonkeyEducation-KUnlock: progression
 MonkeySub-TUnlock: useful
 MonkeyVillage-TUnlock: progression
-MonkeysTogetherStrong-KUnlock: unknown
+MonkeysTogetherStrong-KUnlock: progression
 MoonLanding-MUnlock: progression
 MoreCash-KUnlock: progression
 MoreSplattyGlue-KUnlock: unknown
@@ -191,7 +191,7 @@ QuadBurst-KUnlock: progression
 Quarry-MUnlock: progression
 QuickHands-KUnlock: progression
 QuietStreet-MUnlock: unknown
-Quincy-HUnlock: unknown
+Quincy-HUnlock: progression
 Rake-MUnlock: unknown
 RapidRazors-KUnlock: progression
 Ravine-MUnlock: unknown
