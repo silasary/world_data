@@ -43,7 +43,7 @@ Archives Floor 7 Master Gold Key: unknown
 Archives Floor 7 Master Silver Key: unknown
 Archives Floor 8 Master Bronze Key: progression
 Archives Floor 8 Master Gold Key: unknown
-Archives Floor 8 Master Silver Key: unknown
+Archives Floor 8 Master Silver Key: progression
 Archives Floor 9 Master Bronze Key: progression
 Archives Floor 9 Master Gold Key: unknown
 Archives Floor 9 Master Silver Key: progression
@@ -86,7 +86,7 @@ Chambers Bronze Key: unknown
 Chambers Floor 10 Master Bronze Key: unknown
 Chambers Floor 10 Master Gold Key: progression
 Chambers Floor 10 Master Silver Key: progression
-Chambers Floor 11 Master Bronze Key: unknown
+Chambers Floor 11 Master Bronze Key: progression
 Chambers Floor 11 Master Gold Key: progression
 Chambers Floor 11 Master Silver Key: progression
 Chambers Floor 12 Master Bronze Key: progression
@@ -392,7 +392,7 @@ Progressive Thief Combo Nova: useful
 Progressive Thief Combo Timer: useful
 Progressive Thief Dodge: useful
 Progressive Thief Fervor: useful
-Progressive Thief Grapple Chain Length: unknown
+Progressive Thief Grapple Chain Length: useful
 Progressive Thief Grapple Chain Stun: unknown
 Progressive Thief Health Pool: useful
 Progressive Thief Knife Fan Damage: useful
