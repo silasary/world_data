@@ -64,7 +64,7 @@ Earth Obelisk: useful
 Water Obelisk: useful
 Desert Obelisk: filler
 Island Obelisk: progression
-Junimo Hut: unknown
+Junimo Hut: useful
 Gold Clock: useful
 Progressive Coop: progression
 Progressive Barn: progression
@@ -187,7 +187,7 @@ Pet <3: progression
 Rarecrow #1: useful
 Rarecrow #2: progression
 Rarecrow #3: unknown
-Rarecrow #4: unknown
+Rarecrow #4: mcguffin
 Rarecrow #5: progression
 Rarecrow #6: unknown
 Rarecrow #7: progression
@@ -209,7 +209,7 @@ Lupini: 1000 Years From Now: unknown
 Lupini: Three Trees: filler
 Lupini: The Serpent: filler
 Lupini: 'Tropical Fish #173': filler
-Lupini: Land Of Clay: unknown
+Lupini: Land Of Clay: filler
 Special Order Board: progression
 Solar Panel Recipe: useful
 Geode Crusher Recipe: progression
@@ -230,7 +230,7 @@ Deluxe Fish Tank: filler
 25 Qi Gems: progression
 35 Qi Gems: useful
 40 Qi Gems: progression
-50 Qi Gems: unknown
+50 Qi Gems: useful
 100 Qi Gems: useful
 Rare Seed: useful
 Apple Sapling: progression
@@ -245,10 +245,10 @@ Boat Repair: unknown
 Open Professor Snail Cave: progression
 Island North Turtle: progression
 Island West Turtle: progression
-Island Farmhouse: unknown
+Island Farmhouse: progression
 Island Mailbox: useful
 Farm Obelisk: useful
-Dig Site Bridge: unknown
+Dig Site Bridge: progression
 Island Trader: progression
 Volcano Bridge: progression
 Volcano Exit Shortcut: unknown
