@@ -25,7 +25,7 @@ BeastHandler-TUnlock: progression
 Benjamin-HUnlock: progression
 BetterSellDeals-KUnlock: progression
 BigBloonBlueprints-KUnlock: unknown
-BigBloonSabotage-KUnlock: unknown
+BigBloonSabotage-KUnlock: progression
 BigBunch-KUnlock: progression
 BigCryoBlast-KUnlock: progression
 BigInferno-KUnlock: progression
@@ -97,7 +97,7 @@ FirstLastLineOfDefense-KUnlock: progression
 FitFarmers-KUnlock: unknown
 FlameJet-KUnlock: unknown
 FlankingManeuvers-KUnlock: progression
-FlatPackBuildings-KUnlock: unknown
+FlatPackBuildings-KUnlock: progression
 FloodedValley-MUnlock: progression
 ForceVsForce-KUnlock: progression
 FourCircles-MUnlock: progression
@@ -109,7 +109,7 @@ GlacialTrail-MUnlock: progression
 GlobalAbilityCooldowns-KUnlock: progression
 GlueGunner-TUnlock: progression
 GorgonStorm-KUnlock: unknown
-GrandPrixSpree-KUnlock: unknown
+GrandPrixSpree-KUnlock: progression
 GunCoolant-KUnlock: progression
 Gwendolin-HUnlock: progression
 HardPress-KUnlock: progression
@@ -142,9 +142,9 @@ LongerBoosts-KUnlock: unknown
 LongerDartTime-KUnlock: unknown
 LotusIsland-MUnlock: unknown
 LuminousCove-MUnlock: progression
-MagicTricks-KUnlock: unknown
+MagicTricks-KUnlock: progression
 ManaShield-KUnlock: unknown
-MasterDefender-KUnlock: unknown
+MasterDefender-KUnlock: progression
 MasterDoubleCross-KUnlock: unknown
 MaulingMoabMines-KUnlock: unknown
 Medal: progression
@@ -203,15 +203,15 @@ Sauda-HUnlock: progression
 Scholarships-KUnlock: progression
 Scrapyard-MUnlock: unknown
 SelfTaughtHeroes-KUnlock: progression
-Skates-MUnlock: unknown
+Skates-MUnlock: progression
 SniperMonkey-TUnlock: progression
 SoCold-KUnlock: unknown
 SpeedyBrewing-KUnlock: progression
 SpiceIslands-MUnlock: unknown
 SpikeFactory-TUnlock: unknown
-Spillway-MUnlock: unknown
+Spillway-MUnlock: progression
 SpringSpring-MUnlock: progression
-Streambed-MUnlock: unknown
+Streambed-MUnlock: progression
 StrikeDownTheFalse-KUnlock: progression
 StrikerJones-HUnlock: progression
 StrongTonic-KUnlock: unknown
