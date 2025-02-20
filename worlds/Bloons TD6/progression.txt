@@ -43,7 +43,7 @@ BreakingBallistic-KUnlock: unknown
 BudgetBattery-KUnlock: progression
 BudgetCashDrops-KUnlock: unknown
 BudgetClusters-KUnlock: unknown
-BudgetPontoons-KUnlock: unknown
+BudgetPontoons-KUnlock: progression
 CandyFalls-MUnlock: progression
 CaptainChurchill-HUnlock: progression
 Cargo-MUnlock: progression
@@ -164,7 +164,7 @@ MonkeyVillage-TUnlock: progression
 MonkeysTogetherStrong-KUnlock: progression
 MoonLanding-MUnlock: progression
 MoreCash-KUnlock: progression
-MoreSplattyGlue-KUnlock: unknown
+MoreSplattyGlue-KUnlock: progression
 MoreSplody-KUnlock: unknown
 MoreValuableBananas-KUnlock: progression
 MortarMonkey-TUnlock: unknown
@@ -178,7 +178,7 @@ OneTwoTree-MUnlock: progression
 PaintStripper-KUnlock: progression
 ParagonOfPower-KUnlock: progression
 ParkPath-MUnlock: progression
-PatFusty-HUnlock: unknown
+PatFusty-HUnlock: progression
 PatsPond-MUnlock: unknown
 Peninsula-MUnlock: unknown
 Polyphemus-MUnlock: unknown
