@@ -45,7 +45,7 @@ BudgetCashDrops-KUnlock: unknown
 BudgetClusters-KUnlock: unknown
 BudgetPontoons-KUnlock: unknown
 CandyFalls-MUnlock: progression
-CaptainChurchill-HUnlock: unknown
+CaptainChurchill-HUnlock: progression
 Cargo-MUnlock: progression
 Carved-MUnlock: progression
 CastleRevenge-MUnlock: unknown
@@ -95,7 +95,7 @@ FasterTakedowns-KUnlock: unknown
 FiringRange-MUnlock: unknown
 FirstLastLineOfDefense-KUnlock: progression
 FitFarmers-KUnlock: unknown
-FlameJet-KUnlock: unknown
+FlameJet-KUnlock: progression
 FlankingManeuvers-KUnlock: progression
 FlatPackBuildings-KUnlock: progression
 FloodedValley-MUnlock: progression
@@ -132,7 +132,7 @@ InTheLoop-MUnlock: unknown
 IncreasedLifespan-KUnlock: unknown
 Infernal-MUnlock: unknown
 InlandRevenueStreams-KUnlock: progression
-InsiderTrades-KUnlock: unknown
+InsiderTrades-KUnlock: progression
 JustOneMore-KUnlock: unknown
 KartsNDarts-MUnlock: unknown
 LingeringMagic-KUnlock: progression
@@ -175,7 +175,7 @@ ObynGreenfoot-HUnlock: progression
 OffTheCoast-MUnlock: unknown
 OneMoreSpike-KUnlock: progression
 OneTwoTree-MUnlock: progression
-PaintStripper-KUnlock: unknown
+PaintStripper-KUnlock: progression
 ParagonOfPower-KUnlock: progression
 ParkPath-MUnlock: progression
 PatFusty-HUnlock: unknown
@@ -214,7 +214,7 @@ SpringSpring-MUnlock: progression
 Streambed-MUnlock: progression
 StrikeDownTheFalse-KUnlock: progression
 StrikerJones-HUnlock: progression
-StrongTonic-KUnlock: unknown
+StrongTonic-KUnlock: progression
 SubAdmiral-KUnlock: unknown
 SulfurSprings-MUnlock: unknown
 SunkenColumns-MUnlock: unknown
