@@ -17,7 +17,7 @@ Anaglyph Deck Gold Stake: unknown
 Anaglyph Deck Green Stake: unknown
 Anaglyph Deck Orange Stake: unknown
 Anaglyph Deck Purple Stake: unknown
-Anaglyph Deck Red Stake: unknown
+Anaglyph Deck Red Stake: progression
 Anaglyph Deck White Stake: unknown
 Ancient Joker: progression
 Ankh: useful
@@ -91,7 +91,7 @@ Castle: progression
 Cavendish: progression
 Celestial Pack: progression
 Ceremonial Dagger: progression
-Ceres: unknown
+Ceres: progression
 Certificate: progression
 Chaos the Clown: progression
 Checkered Deck: progression
@@ -102,7 +102,7 @@ Checkered Deck Green Stake: unknown
 Checkered Deck Orange Stake: unknown
 Checkered Deck Purple Stake: unknown
 Checkered Deck Red Stake: unknown
-Checkered Deck White Stake: unknown
+Checkered Deck White Stake: progression
 Chicot: progression
 Clearance Sale/Liquidation 1: progression
 Clearance Sale/Liquidation 2: progression
@@ -135,7 +135,7 @@ Eris: useful
 Erosion: progression
 Erratic Deck: progression
 Erratic Deck Black Stake: unknown
-Erratic Deck Blue Stake: unknown
+Erratic Deck Blue Stake: progression
 Erratic Deck Gold Stake: unknown
 Erratic Deck Green Stake: unknown
 Erratic Deck Orange Stake: unknown
@@ -199,7 +199,7 @@ Hone/Glow Up 1: progression
 Hone/Glow Up 2: progression
 Ice Cream: progression
 Immolate: unknown
-Incantation: unknown
+Incantation: progression
 Invisible Joker: progression
 Joker: progression
 Joker Bundle 1: filler
@@ -242,7 +242,7 @@ Jumbo Celestial Pack: progression
 Jumbo Spectral Pack: progression
 Jumbo Standard Pack: progression
 Jupiter: unknown
-Justice: unknown
+Justice: progression
 Loyalty Card: progression
 Luchador: progression
 Lucky Cat: progression
@@ -257,7 +257,7 @@ Magic Deck Green Stake: unknown
 Magic Deck Orange Stake: unknown
 Magic Deck Purple Stake: unknown
 Magic Deck Red Stake: unknown
-Magic Deck White Stake: unknown
+Magic Deck White Stake: progression
 Magic Trick/Illusion 1: progression
 Magic Trick/Illusion 2: progression
 Mail-In Rebate: progression
@@ -303,7 +303,7 @@ Painted Deck Blue Stake: unknown
 Painted Deck Gold Stake: unknown
 Painted Deck Green Stake: unknown
 Painted Deck Orange Stake: unknown
-Painted Deck Purple Stake: unknown
+Painted Deck Purple Stake: progression
 Painted Deck Red Stake: unknown
 Painted Deck White Stake: unknown
 Pareidolia: progression
@@ -326,7 +326,7 @@ Plasma Deck Gold Stake: unknown
 Plasma Deck Green Stake: unknown
 Plasma Deck Orange Stake: unknown
 Plasma Deck Purple Stake: unknown
-Plasma Deck Red Stake: unknown
+Plasma Deck Red Stake: progression
 Plasma Deck White Stake: unknown
 Pluto: useful
 Popcorn: progression
@@ -412,14 +412,14 @@ The Fool: unknown
 The Hanged Man: unknown
 The Hermit: unknown
 The Hierophant: unknown
-The High Priestess: unknown
+The High Priestess: progression
 The Idol: progression
 The Lovers: unknown
 The Magician: unknown
 The Moon: unknown
 The Order: progression
-The Soul: unknown
-The Star: unknown
+The Soul: progression
+The Star: progression
 The Sun: unknown
 The Tower: unknown
 The Tribe: progression
@@ -461,7 +461,7 @@ Zodiac Deck: progression
 Zodiac Deck Black Stake: unknown
 Zodiac Deck Blue Stake: unknown
 Zodiac Deck Gold Stake: unknown
-Zodiac Deck Green Stake: unknown
+Zodiac Deck Green Stake: progression
 Zodiac Deck Orange Stake: unknown
 Zodiac Deck Purple Stake: unknown
 Zodiac Deck Red Stake: unknown
