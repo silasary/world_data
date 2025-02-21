@@ -8,7 +8,7 @@ AdmiralBrickell-HUnlock: unknown
 Adora-HUnlock: progression
 AdorasTemple-MUnlock: unknown
 AdvancedLogistics-KUnlock: unknown
-AeronauticSubsidy-KUnlock: unknown
+AeronauticSubsidy-KUnlock: progression
 AirforceUpgrades-KUnlock: unknown
 Alchemist-TUnlock: progression
 AlpineRun-MUnlock: progression
@@ -180,7 +180,7 @@ ParagonOfPower-KUnlock: progression
 ParkPath-MUnlock: progression
 PatFusty-HUnlock: progression
 PatsPond-MUnlock: unknown
-Peninsula-MUnlock: unknown
+Peninsula-MUnlock: progression
 Polyphemus-MUnlock: unknown
 PoppyBlades-KUnlock: progression
 PowerfulMonkeyStorm-KUnlock: progression
@@ -192,7 +192,7 @@ Quarry-MUnlock: progression
 QuickHands-KUnlock: progression
 QuietStreet-MUnlock: unknown
 Quincy-HUnlock: progression
-Rake-MUnlock: unknown
+Rake-MUnlock: progression
 RapidRazors-KUnlock: progression
 Ravine-MUnlock: unknown
 RecurringRangs-KUnlock: progression
@@ -226,7 +226,7 @@ TackShooter-TUnlock: useful
 TargetedPineapples-KUnlock: unknown
 TheCabin-MUnlock: unknown
 ThereCanBeOnlyOne-KUnlock: unknown
-ThickerFoams-KUnlock: unknown
+ThickerFoams-KUnlock: progression
 Tinkerton-MUnlock: progression
 TinyTornadoes-KUnlock: progression
 ToArms-KUnlock: unknown
