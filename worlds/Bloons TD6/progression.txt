@@ -32,12 +32,12 @@ BigInferno-KUnlock: progression
 BigTraps-KUnlock: progression
 BiggerBanks-KUnlock: unknown
 BiggerCamoTrap-KUnlock: unknown
-BionicAugmentation-KUnlock: unknown
+BionicAugmentation-KUnlock: progression
 BloodyPuddles-MUnlock: unknown
 BloonariusPrime-MUnlock: progression
 BombShooter-TUnlock: useful
-BonusGlueGunner-KUnlock: unknown
-BonusMonkey-KUnlock: unknown
+BonusGlueGunner-KUnlock: progression
+BonusMonkey-KUnlock: progression
 BoomerangMonkey-TUnlock: progression
 BreakingBallistic-KUnlock: progression
 BudgetBattery-KUnlock: progression
@@ -113,7 +113,7 @@ GrandPrixSpree-KUnlock: progression
 GunCoolant-KUnlock: progression
 Gwendolin-HUnlock: progression
 HardPress-KUnlock: progression
-HardTacks-KUnlock: unknown
+HardTacks-KUnlock: progression
 Haunted-MUnlock: unknown
 HealthyBananas-KUnlock: progression
 HeavyKnockback-KUnlock: unknown
@@ -217,7 +217,7 @@ StrikerJones-HUnlock: progression
 StrongTonic-KUnlock: progression
 SubAdmiral-KUnlock: unknown
 SulfurSprings-MUnlock: unknown
-SunkenColumns-MUnlock: unknown
+SunkenColumns-MUnlock: progression
 SupaThrive-KUnlock: unknown
 SuperMonkey-TUnlock: progression
 SuperRange-KUnlock: progression
@@ -235,7 +235,7 @@ TradeAgreements-KUnlock: progression
 TreeStump-MUnlock: progression
 Tutorial-MUnlock: progression
 Underground-MUnlock: progression
-VeryShreddy-KUnlock: unknown
+VeryShreddy-KUnlock: progression
 VeteranMonkeyTraining-KUnlock: unknown
 VigilantSentries-KUnlock: progression
 VineRupture-KUnlock: progression
