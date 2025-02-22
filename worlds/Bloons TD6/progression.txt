@@ -39,7 +39,7 @@ BombShooter-TUnlock: useful
 BonusGlueGunner-KUnlock: unknown
 BonusMonkey-KUnlock: unknown
 BoomerangMonkey-TUnlock: progression
-BreakingBallistic-KUnlock: unknown
+BreakingBallistic-KUnlock: progression
 BudgetBattery-KUnlock: progression
 BudgetCashDrops-KUnlock: unknown
 BudgetClusters-KUnlock: unknown
@@ -170,7 +170,7 @@ MoreValuableBananas-KUnlock: progression
 MortarMonkey-TUnlock: unknown
 MuddyPuddles-MUnlock: progression
 NavalUpgrades-KUnlock: progression
-NinjaMonkey-TUnlock: unknown
+NinjaMonkey-TUnlock: useful
 ObynGreenfoot-HUnlock: progression
 OffTheCoast-MUnlock: unknown
 OneMoreSpike-KUnlock: progression
