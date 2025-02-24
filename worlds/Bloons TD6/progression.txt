@@ -14,7 +14,7 @@ Alchemist-TUnlock: progression
 AlpineRun-MUnlock: progression
 AmbushTech-KUnlock: progression
 AnotherBrick-MUnlock: unknown
-ArcaneImpale-KUnlock: unknown
+ArcaneImpale-KUnlock: progression
 AviationGradeGlue-KUnlock: progression
 BackroomDeals-KUnlock: progression
 Balance-MUnlock: progression
@@ -146,7 +146,7 @@ MagicTricks-KUnlock: progression
 ManaShield-KUnlock: unknown
 MasterDefender-KUnlock: progression
 MasterDoubleCross-KUnlock: unknown
-MaulingMoabMines-KUnlock: unknown
+MaulingMoabMines-KUnlock: progression
 Medal: progression
 MegaMauler-KUnlock: progression
 Mermonkey-TUnlock: progression
