@@ -41,7 +41,7 @@ BonusMonkey-KUnlock: progression
 BoomerangMonkey-TUnlock: progression
 BreakingBallistic-KUnlock: progression
 BudgetBattery-KUnlock: progression
-BudgetCashDrops-KUnlock: unknown
+BudgetCashDrops-KUnlock: progression
 BudgetClusters-KUnlock: unknown
 BudgetPontoons-KUnlock: progression
 CandyFalls-MUnlock: progression
