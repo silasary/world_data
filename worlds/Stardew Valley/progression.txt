@@ -301,7 +301,7 @@ Napalm Ring: useful
 Thorns Ring: useful
 Lucky Ring: filler
 Hot Java Ring: filler
-Protection Ring: unknown
+Protection Ring: useful
 Soul Sapper Ring: useful
 Phoenix Ring: useful
 Immunity Band: filler
@@ -942,3 +942,5 @@ Blue Grass Starter Recipe: useful
 Fish Smoker Recipe: useful
 Mastery Of The Five Ways: useful
 Mining Mastery: progression
+Fishing Mastery: progression
+Moss Soup Recipe: progression
