@@ -67,7 +67,7 @@ Armory Floor 6 Master Silver Key: unknown
 Armory Gold Key: unknown
 Armory Master Bonus Key: unknown
 Armory Silver Key: unknown
-Banner Trap: unknown
+Banner Trap: trap
 Big Archives Bronze Key: unknown
 Big Armory Bronze Key: unknown
 Big Bronze Key: unknown
@@ -408,15 +408,15 @@ Progressive Warlock Combo Healing: useful
 Progressive Warlock Combo Mana: useful
 Progressive Warlock Combo Nova: useful
 Progressive Warlock Combo Timer: useful
-Progressive Warlock Dagger Damage: unknown
+Progressive Warlock Dagger Damage: useful
 Progressive Warlock Dagger Poison: useful
 Progressive Warlock Electrical Storm Damage: useful
 Progressive Warlock Electrical Storm Duration: useful
 Progressive Warlock Gargoyle Damage: useful
-Progressive Warlock Gargoyle Duration: unknown
+Progressive Warlock Gargoyle Duration: useful
 Progressive Warlock Health Pool: useful
 Progressive Warlock Lightning Strike Damage: unknown
-Progressive Warlock Lightning Strike Targets: unknown
+Progressive Warlock Lightning Strike Targets: useful
 Progressive Warlock Mana Pool: useful
 Progressive Warlock Move Speed: useful
 Progressive Warlock Soul Sacrifice: useful
