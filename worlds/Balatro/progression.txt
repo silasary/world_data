@@ -101,7 +101,7 @@ Checkered Deck Gold Stake: unknown
 Checkered Deck Green Stake: unknown
 Checkered Deck Orange Stake: unknown
 Checkered Deck Purple Stake: unknown
-Checkered Deck Red Stake: unknown
+Checkered Deck Red Stake: progression
 Checkered Deck White Stake: progression
 Chicot: progression
 Clearance Sale/Liquidation 1: progression
@@ -251,7 +251,7 @@ Mad Joker: progression
 Madness: progression
 Magic Deck: progression
 Magic Deck Black Stake: unknown
-Magic Deck Blue Stake: unknown
+Magic Deck Blue Stake: progression
 Magic Deck Gold Stake: unknown
 Magic Deck Green Stake: unknown
 Magic Deck Orange Stake: unknown
@@ -264,7 +264,7 @@ Mail-In Rebate: progression
 Marble Joker: progression
 Mars: progression
 Matador: progression
-Medium: unknown
+Medium: useful
 Mega Arcana Pack: progression
 Mega Buffoon Pack: progression
 Mega Celestial Pack: progression
@@ -409,7 +409,7 @@ The Emperor: useful
 The Empress: unknown
 The Family: progression
 The Fool: progression
-The Hanged Man: unknown
+The Hanged Man: useful
 The Hermit: unknown
 The Hierophant: unknown
 The High Priestess: progression
