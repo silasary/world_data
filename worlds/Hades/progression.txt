@@ -15,34 +15,34 @@ Cerberus Keepsake: progression
 Chaos Keepsake: progression
 Charon Keepsake: progression
 Convenience Fee Pact Level: unknown
-Court Musician Sentence Item: unknown
+Court Musician Sentence Item: filler
 Court Musician Stand Item: filler
-Damage Control Pact Level: unknown
+Damage Control Pact Level: useful
 Darker Thirst Item: unknown
 Darkness: filler
 Deluxe Contractor Desk Item: unknown
-Demeter Keepsake: unknown
+Demeter Keepsake: useful
 Diamonds: filler
 Dionysus Keepsake: progression
 Dusa Keepsake: progression
 Eurydice Keepsake: progression
-Extreme Measures Pact Level: unknown
+Extreme Measures Pact Level: useful
 Fated Keys Item: unknown
 Fishing Rod Item: unknown
 Fist Hidden Aspect: unknown
 Fist Weapon Unlock Item: progression
 Forced Overtime Pact Level: unknown
-Fountain Asphodel Item: unknown
+Fountain Asphodel Item: filler
 Fountain Elysium Item: unknown
 Fountain Tartarus Item: unknown
-Fountain Upgrade1 Item: unknown
+Fountain Upgrade1 Item: filler
 Fountain Upgrade2 Item: unknown
 Gemstones: filler
 Gun Hidden Aspect: unknown
-Gun Weapon Unlock Item: unknown
+Gun Weapon Unlock Item: useful
 Hard Labor Pact Level: progression
-Health Punishment: unknown
-Heightened Security Pact Level: unknown
+Health Punishment: trap
+Heightened Security Pact Level: useful
 Hermes Keepsake: progression
 Hypnos Keepsake: progression
 Infernal Trove1 Item: unknown
@@ -55,8 +55,8 @@ Keys: filler
 Lasting Consequences Pact Level: unknown
 Max Health Helper: unknown
 Megaera Keepsake: progression
-Middle Management Pact Level: unknown
-Money Punishment: unknown
+Middle Management Pact Level: useful
+Money Punishment: trap
 Nectar: filler
 Nyx Keepsake: progression
 Orpheus Keepsake: progression
@@ -64,7 +64,7 @@ Patroclus Keepsake: progression
 Personal Liability Pact Level: unknown
 Pitch Black Darkness Item: unknown
 Poseidon Keepsake: progression
-Routine Inspection Pact Level: unknown
+Routine Inspection Pact Level: useful
 Shield Hidden Aspect: unknown
 Shield Weapon Unlock Item: unknown
 Sisyphus Keepsake: progression
@@ -74,14 +74,14 @@ Spear Weapon Unlock Item: unknown
 Sword Hidden Aspect: unknown
 Sword Weapon Unlock Item: unknown
 Thanatos Keepsake: progression
-Tight Deadline Pact Level: unknown
+Tight Deadline Pact Level: useful
 TitanBlood: filler
 Underworld Customs Pact Level: unknown
 Urns Of Wealth1 Item: unknown
 Urns Of Wealth2 Item: unknown
-Urns Of Wealth3 Item: unknown
-Vanquishers Keep Item: unknown
-Vintage Nectar Item: unknown
+Urns Of Wealth3 Item: filler
+Vanquishers Keep Item: filler
+Vintage Nectar Item: filler
 Zeus Keepsake: progression
 HardLaborPactLevel: progression
 LastingConsequencesPactLevel: progression
