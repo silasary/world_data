@@ -42,7 +42,7 @@ BoomerangMonkey-TUnlock: progression
 BreakingBallistic-KUnlock: progression
 BudgetBattery-KUnlock: progression
 BudgetCashDrops-KUnlock: progression
-BudgetClusters-KUnlock: unknown
+BudgetClusters-KUnlock: useful
 BudgetPontoons-KUnlock: progression
 CandyFalls-MUnlock: progression
 CaptainChurchill-HUnlock: progression
@@ -218,7 +218,7 @@ StrongTonic-KUnlock: progression
 SubAdmiral-KUnlock: unknown
 SulfurSprings-MUnlock: unknown
 SunkenColumns-MUnlock: progression
-SupaThrive-KUnlock: unknown
+SupaThrive-KUnlock: useful
 SuperMonkey-TUnlock: progression
 SuperRange-KUnlock: progression
 SupersizeGlueTrap-KUnlock: unknown
