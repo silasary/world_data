@@ -63,7 +63,7 @@ Baltoro Seed: unknown
 Bamboo Arrows: unknown
 Bangle: unknown
 Barbut: unknown
-Barheim Key: unknown
+Barheim Key: progression
 Barrel Coat: unknown
 Bastard Sword: useful
 Bat Fang: unknown
@@ -220,7 +220,7 @@ Dark Stone: unknown
 Darkga: unknown
 Darkra: unknown
 Dawn Shard: progression
-Death: unknown
+Death: useful
 Death Powder: unknown
 Death's-Head: unknown
 Deathbringer: unknown
@@ -342,7 +342,7 @@ Genji Armor: unknown
 Genji Gloves: unknown
 Genji Helm: unknown
 Genji Shield: unknown
-Germinas Boots: unknown
+Germinas Boots: useful
 Giant Feather: unknown
 Giant Stonebow: unknown
 Giant's Helmet: unknown
@@ -357,7 +357,7 @@ Gladius: unknown
 Glass Jewel: unknown
 Glimmering Robes: unknown
 Gnoma Halcyon: unknown
-Goddess's Magicite: unknown
+Goddess's Magicite: progression
 Godslayer's Badge: unknown
 Goggle Mask: unknown
 Gokuu Pole: unknown
@@ -433,7 +433,7 @@ Ichthon Scale: unknown
 Iga Blade: useful
 Immobilize: useful
 Indigo Pendant: unknown
-Infuse: unknown
+Infuse: useful
 Insect Husk: unknown
 Iron Armor: unknown
 Iron Carapace: unknown
@@ -530,7 +530,7 @@ Mesa: unknown
 Metal Jerkin: unknown
 Metallic Trophy: unknown
 Meteorite A: unknown
-Meteorite B: unknown
+Meteorite B: filler
 Meteorite C: unknown
 Meteorite D: unknown
 Mina: unknown
@@ -758,7 +758,7 @@ Stolen Articles: unknown
 Stona: unknown
 Stone Bolts: unknown
 Stone Shot: unknown
-Stone of the Condemner: unknown
+Stone of the Condemner: progression
 Stoneblade: unknown
 Stop: unknown
 Storm Crystal: unknown
