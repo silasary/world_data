@@ -52,7 +52,7 @@ CastleRevenge-MUnlock: unknown
 CeramicShock-KUnlock: progression
 ChargedChinooks-KUnlock: progression
 CheapRangs-KUnlock: progression
-CheaperDoubles-KUnlock: unknown
+CheaperDoubles-KUnlock: useful
 CheaperLakes-KUnlock: unknown
 CheaperMaiming-KUnlock: progression
 CheaperSolution-KUnlock: progression
@@ -208,7 +208,7 @@ SniperMonkey-TUnlock: progression
 SoCold-KUnlock: unknown
 SpeedyBrewing-KUnlock: progression
 SpiceIslands-MUnlock: unknown
-SpikeFactory-TUnlock: unknown
+SpikeFactory-TUnlock: progression
 Spillway-MUnlock: progression
 SpringSpring-MUnlock: progression
 Streambed-MUnlock: progression
