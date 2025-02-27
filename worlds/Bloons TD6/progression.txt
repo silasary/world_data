@@ -205,7 +205,7 @@ Scrapyard-MUnlock: unknown
 SelfTaughtHeroes-KUnlock: progression
 Skates-MUnlock: progression
 SniperMonkey-TUnlock: progression
-SoCold-KUnlock: unknown
+SoCold-KUnlock: useful
 SpeedyBrewing-KUnlock: progression
 SpiceIslands-MUnlock: unknown
 SpikeFactory-TUnlock: progression
@@ -216,7 +216,7 @@ StrikeDownTheFalse-KUnlock: progression
 StrikerJones-HUnlock: progression
 StrongTonic-KUnlock: progression
 SubAdmiral-KUnlock: unknown
-SulfurSprings-MUnlock: unknown
+SulfurSprings-MUnlock: useful
 SunkenColumns-MUnlock: progression
 SupaThrive-KUnlock: useful
 SuperMonkey-TUnlock: progression
