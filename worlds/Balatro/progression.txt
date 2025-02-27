@@ -5,7 +5,7 @@ Abandoned Deck Blue Stake: unknown
 Abandoned Deck Gold Stake: unknown
 Abandoned Deck Green Stake: unknown
 Abandoned Deck Orange Stake: unknown
-Abandoned Deck Purple Stake: unknown
+Abandoned Deck Purple Stake: progression
 Abandoned Deck Red Stake: progression
 Abandoned Deck White Stake: unknown
 Abstract Joker: progression
@@ -33,7 +33,7 @@ Banner: progression
 Baron: progression
 Baseball Card: progression
 Black Deck: progression
-Black Deck Black Stake: unknown
+Black Deck Black Stake: progression
 Black Deck Blue Stake: unknown
 Black Deck Gold Stake: unknown
 Black Deck Green Stake: unknown
@@ -53,7 +53,7 @@ Blue Deck Blue Stake: unknown
 Blue Deck Gold Stake: unknown
 Blue Deck Green Stake: progression
 Blue Deck Orange Stake: unknown
-Blue Deck Purple Stake: unknown
+Blue Deck Purple Stake: progression
 Blue Deck Red Stake: unknown
 Blue Deck White Stake: unknown
 Blue Joker: progression
@@ -137,9 +137,9 @@ Erratic Deck: progression
 Erratic Deck Black Stake: progression
 Erratic Deck Blue Stake: progression
 Erratic Deck Gold Stake: unknown
-Erratic Deck Green Stake: unknown
+Erratic Deck Green Stake: progression
 Erratic Deck Orange Stake: unknown
-Erratic Deck Purple Stake: unknown
+Erratic Deck Purple Stake: progression
 Erratic Deck Red Stake: progression
 Erratic Deck White Stake: unknown
 Eternal Trap: trap
@@ -177,7 +177,7 @@ Green Deck Blue Stake: unknown
 Green Deck Gold Stake: unknown
 Green Deck Green Stake: unknown
 Green Deck Orange Stake: unknown
-Green Deck Purple Stake: unknown
+Green Deck Purple Stake: progression
 Green Deck Red Stake: unknown
 Green Deck White Stake: unknown
 Green Joker: progression
@@ -283,7 +283,7 @@ Nebula Deck Blue Stake: unknown
 Nebula Deck Gold Stake: unknown
 Nebula Deck Green Stake: unknown
 Nebula Deck Orange Stake: unknown
-Nebula Deck Purple Stake: unknown
+Nebula Deck Purple Stake: progression
 Nebula Deck Red Stake: unknown
 Nebula Deck White Stake: unknown
 Neptune: unknown
@@ -338,7 +338,7 @@ Red Deck: progression
 Red Deck Black Stake: unknown
 Red Deck Blue Stake: unknown
 Red Deck Gold Stake: unknown
-Red Deck Green Stake: unknown
+Red Deck Green Stake: progression
 Red Deck Orange Stake: unknown
 Red Deck Purple Stake: unknown
 Red Deck Red Stake: unknown
