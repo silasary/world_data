@@ -327,7 +327,7 @@ Plasma Deck Green Stake: unknown
 Plasma Deck Orange Stake: unknown
 Plasma Deck Purple Stake: unknown
 Plasma Deck Red Stake: progression
-Plasma Deck White Stake: unknown
+Plasma Deck White Stake: progression
 Pluto: useful
 Popcorn: progression
 Purple Stake: filler
@@ -401,7 +401,7 @@ Tarot Merchant/Tarot Tycoon 1: progression
 Tarot Merchant/Tarot Tycoon 2: progression
 Telescope/Observatory 1: progression
 Telescope/Observatory 2: progression
-Temperance: unknown
+Temperance: useful
 The Chariot: useful
 The Devil: useful
 The Duo: progression
@@ -410,18 +410,18 @@ The Empress: unknown
 The Family: progression
 The Fool: progression
 The Hanged Man: useful
-The Hermit: unknown
+The Hermit: useful
 The Hierophant: unknown
 The High Priestess: progression
 The Idol: progression
 The Lovers: progression
-The Magician: unknown
-The Moon: unknown
+The Magician: useful
+The Moon: useful
 The Order: progression
 The Soul: progression
 The Star: progression
 The Sun: useful
-The Tower: unknown
+The Tower: useful
 The Tribe: progression
 The Trio: progression
 The Wheel of Fortune: useful
@@ -464,7 +464,7 @@ Zodiac Deck Gold Stake: unknown
 Zodiac Deck Green Stake: progression
 Zodiac Deck Orange Stake: unknown
 Zodiac Deck Purple Stake: unknown
-Zodiac Deck Red Stake: unknown
+Zodiac Deck Red Stake: progression
 Zodiac Deck White Stake: progression
 Receive Buffoon Pack: filler
 Receive Consumable Pack: filler
