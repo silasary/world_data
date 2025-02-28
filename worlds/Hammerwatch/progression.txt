@@ -95,7 +95,7 @@ Chambers Floor 12 Master Silver Key: unknown
 Chambers Gold Key: unknown
 Chambers Master Bonus Key: unknown
 Chambers Silver Key: unknown
-Confuse Trap: unknown
+Confuse Trap: trap
 Copper Coin: unknown
 Copper Coin Pile: unknown
 Copper Coins: unknown
@@ -143,7 +143,7 @@ Fix CL3 East Bridge: unknown
 Fix CL3 Fall Bridge: unknown
 Fix Dune Sharks Bridge: unknown
 Frost Trap: trap
-Frying Pan: unknown
+Frying Pan: progression
 Frying Pan Fragment: unknown
 Gold Coin: unknown
 Gold Coin Pile: unknown
