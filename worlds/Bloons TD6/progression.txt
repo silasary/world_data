@@ -9,7 +9,7 @@ Adora-HUnlock: progression
 AdorasTemple-MUnlock: unknown
 AdvancedLogistics-KUnlock: unknown
 AeronauticSubsidy-KUnlock: progression
-AirforceUpgrades-KUnlock: unknown
+AirforceUpgrades-KUnlock: useful
 Alchemist-TUnlock: progression
 AlpineRun-MUnlock: progression
 AmbushTech-KUnlock: progression
@@ -30,7 +30,7 @@ BigBunch-KUnlock: progression
 BigCryoBlast-KUnlock: progression
 BigInferno-KUnlock: progression
 BigTraps-KUnlock: progression
-BiggerBanks-KUnlock: unknown
+BiggerBanks-KUnlock: useful
 BiggerCamoTrap-KUnlock: unknown
 BionicAugmentation-KUnlock: progression
 BloodyPuddles-MUnlock: unknown
@@ -125,7 +125,7 @@ HeroicVelocity-KUnlock: unknown
 HiValueMines-KUnlock: unknown
 HighFinance-MUnlock: progression
 HotMagic-KUnlock: unknown
-Hypothermia-KUnlock: unknown
+Hypothermia-KUnlock: useful
 IceMonkey-TUnlock: useful
 IcyChill-KUnlock: progression
 InTheLoop-MUnlock: unknown
