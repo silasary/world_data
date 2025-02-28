@@ -1,14 +1,13 @@
 import os
 import json
-import re
 import zipfile
 
 from os import listdir
 from os.path import isfile, join
 
-abspath = os.path.dirname(__file__)
+from utils import abspath, load_progressions, world_folder
+
 input_folder = join(abspath, "input")
-world_folder = join(abspath, "worlds")
 
 def extract_manual(fname):
     archive = zipfile.ZipFile(fname, 'r')
@@ -22,16 +21,7 @@ def extract_manual(fname):
     os.makedirs(game_folder, exist_ok=True)
 
     game_file = os.path.join(game_folder, "progression.txt")
-    items = {}
-    try:
-        progressionFile = open(os.path.join(world_folder, game_name, "progression.txt"), "r", encoding="utf-8")
-        text = progressionFile.read()
-        progressionFile.close()
-        for x in text.splitlines():
-            match = re.match(r"(.*): (.*)", x)
-            items[match[1]] = match[2]
-    except FileNotFoundError:
-        pass
+    items = load_progressions(game_name)
 
     with open(game_file, "w+", encoding="utf-8") as f:
         default_filler = gamedata.get('filler_item_name', '')

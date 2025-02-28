@@ -1,3 +1,4 @@
 /old output/*.txt
 !/old output/placeholder.txt
 /input/*.apworld
+/__pycache__/
