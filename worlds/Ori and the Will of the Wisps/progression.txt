@@ -1,15 +1,121 @@
-Grenade: progression
-Sticky: useful
-Lifeforce: mcguffin
-Health Fragment: progression
-Inkwater Marsh TP: progression
-Energy Fragment: mcguffin
-50 Spirit Light: filler
 Sword: progression
-Keystone: progression
-100 Spirit Light: filler
-200 Spirit Light: useful
-Gorlek Ore: mcguffin
+Double Jump: progression
+Regenerate: progression
+Bow: progression
+Dash: progression
+Bash: progression
+Grapple: progression
+Glide: progression
+Flap: progression
+Grenade: progression
+Flash: progression
+Water Dash: progression
+Burrow: progression
+Launch: progression
+Clean Water: progression
+Hammer: progression
+Sentry: progression
+Shuriken: progression
+Spear: progression
+Blaze: progression
+Water Breath: progression
+Ancestral Light 1: useful
+Ancestral Light 2: useful
+Overcharge: useful
 Triple Jump: progression
-Sentry Efficiency: useful
+Wingclip: useful
+Bounty: useful
+Swap: useful
+Magnet: progression
+Splinter: useful
+Reckless: useful
+Quickshot: useful
+Resilience: useful
+Light Harvest: useful
+Vitality: useful
+Life Harvest: useful
+Energy Harvest: useful
+Energy (Shard): useful
+Life Pact: useful
+Last Stand: useful
+Sense: useful
+Ultra Bash: useful
+Ultra Grapple: useful
+Overflow: useful
+Thorn: useful
+Catalyst: useful
+Turmoil: useful
+Sticky: useful
+Finesse: useful
+Spirit Surge: useful
+Lifeforce: useful
+Deflector: progression
+Fracture: useful
+Arcing: useful
+Midnight Burrows TP: progression
+Howl's Den TP: progression
+Central Luma TP: progression
+Mouldwood Depths TP: progression
 Wellspring TP: progression
+Baur's Reach TP: progression
+Kwolok's Hollow TP: progression
+Woods Entrance TP: progression
+Woods Exit TP: progression
+Feeding Grounds TP: progression
+Central Wastes TP: progression
+Outer Ruins TP: progression
+Willow's End TP: progression
+Inkwater Marsh TP: progression
+Glades TP: progression
+Luma Boss TP: progression
+Inner Ruins TP: progression
+Shriek TP: progression
+Exploding Spear: useful
+Hammer Shockwave: useful
+Static Shuriken: useful
+Charge Blaze: useful
+Rapid Sentry: useful
+Health Regeneration: useful
+Energy Regeneration: useful
+Extra Double Jump: useful
+Extra Air Dash: useful
+Blaze Efficiency: useful
+Spear Efficiency: useful
+Shuriken Efficiency: useful
+Sentry Efficiency: useful
+Bow Efficiency: useful
+Regenerate Efficiency: useful
+Flash Efficiency: useful
+Grenade Efficiency: useful
+Rapid Hammer: useful
+Rapid Sword: useful
+Rapid Spear: useful
+Rapid Grenade: useful
+Quickshot Upgrade: useful
+Rapid Regenerate: useful
+Melting Blaze: useful
+Melting Sword: useful
+Melting Bow: useful
+Melting Shuriken: useful
+Melting Hammer: useful
+Melting Spear: useful
+Uncharged Bashnades: useful
+Extra Grenade: useful
+Splinter Grenade: useful
+Unlimited Sentries: useful
+Sentry Burst Upgrade: useful
+Sentry Fire Rate: useful
+Extra Shurikens: useful
+Splinter Shurikens: useful
+Bashable Shurikens: useful
+Jumpgrade: useful
+Skill Velocity: useful
+200 Spirit Light: mcguffin
+100 Spirit Light: filler
+50 Spirit Light: filler
+1 Spirit Light: filler
+Gorlek Ore: mcguffin
+Keystone: mcguffin
+Shard Slot: useful
+Health Fragment: mcguffin
+Energy Fragment: mcguffin
