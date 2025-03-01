@@ -36,8 +36,9 @@ class Datapackage:
         return emoji
 
 
-def load_datapackage(game_name) -> Datapackage:
-    dp = Datapackage()
+def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
+    if dp is None:
+        dp = Datapackage()
     info_yaml = world_folder.joinpath(game_name, "info.yaml")
     if info_yaml.exists():
         info = yaml.safe_load(info_yaml)
