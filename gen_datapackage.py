@@ -8,6 +8,8 @@ import requests
 import pathlib
 import datetime
 
+from utils import world_folder
+
 game = input("Enter game: ")
 if not game:
     games = [f for f in os.listdir(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/"))]
@@ -44,11 +46,9 @@ items = {}
 for item in dp['item_name_to_id'].keys():
     items[item] = "unknown"
 
-abspath = os.path.dirname(__file__)
-world_folder = os.path.join(abspath, "worlds")
-os.makedirs(os.path.join(world_folder, game), exist_ok=True)
+os.makedirs(world_folder / game, exist_ok=True)
 try:
-    progressionFile = open(os.path.join(world_folder, game, "progression.txt"), "r", encoding="utf-8")
+    progressionFile = open(world_folder / game / "progression.txt", "r", encoding="utf-8")
     text = progressionFile.read()
     progressionFile.close()
     for x in text.splitlines():
@@ -57,6 +57,6 @@ try:
 except FileNotFoundError:
     pass
 
-with open(os.path.join(world_folder, game, "progression.txt"), "w", encoding="utf-8") as f:
+with open(world_folder / game / "progression.txt", "w", encoding="utf-8") as f:
     for item in items:
         f.write(f"{item}: {items[item]}\n")
