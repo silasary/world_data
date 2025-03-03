@@ -37,7 +37,7 @@ Archives Bonus Key: unknown
 Archives Boss Rune A: unknown
 Archives Boss Rune n: unknown
 Archives Boss Rune y: unknown
-Archives Bronze Key: unknown
+Archives Bronze Key: progression
 Archives Floor 7 Master Bronze Key: unknown
 Archives Floor 7 Master Gold Key: progression
 Archives Floor 7 Master Silver Key: progression
@@ -47,14 +47,14 @@ Archives Floor 8 Master Silver Key: progression
 Archives Floor 9 Master Bronze Key: progression
 Archives Floor 9 Master Gold Key: progression
 Archives Floor 9 Master Silver Key: progression
-Archives Gold Key: unknown
+Archives Gold Key: progression
 Archives Master Bonus Key: unknown
-Archives Silver Key: unknown
+Archives Silver Key: progression
 Armory Bonus Key: progression
 Armory Boss Rune A: unknown
 Armory Boss Rune n: unknown
 Armory Boss Rune y: unknown
-Armory Bronze Key: unknown
+Armory Bronze Key: progression
 Armory Floor 4 Master Bronze Key: unknown
 Armory Floor 4 Master Gold Key: progression
 Armory Floor 4 Master Silver Key: unknown
@@ -64,9 +64,9 @@ Armory Floor 5 Master Silver Key: progression
 Armory Floor 6 Master Bronze Key: progression
 Armory Floor 6 Master Gold Key: unknown
 Armory Floor 6 Master Silver Key: unknown
-Armory Gold Key: unknown
+Armory Gold Key: progression
 Armory Master Bonus Key: unknown
-Armory Silver Key: unknown
+Armory Silver Key: progression
 Banner Trap: trap
 Big Archives Bronze Key: unknown
 Big Armory Bronze Key: unknown
@@ -82,8 +82,8 @@ Chambers Bonus Key: unknown
 Chambers Boss Rune A: unknown
 Chambers Boss Rune n: unknown
 Chambers Boss Rune y: unknown
-Chambers Bronze Key: unknown
-Chambers Floor 10 Master Bronze Key: unknown
+Chambers Bronze Key: progression
+Chambers Floor 10 Master Bronze Key: progression
 Chambers Floor 10 Master Gold Key: progression
 Chambers Floor 10 Master Silver Key: progression
 Chambers Floor 11 Master Bronze Key: progression
@@ -92,9 +92,9 @@ Chambers Floor 11 Master Silver Key: progression
 Chambers Floor 12 Master Bronze Key: progression
 Chambers Floor 12 Master Gold Key: progression
 Chambers Floor 12 Master Silver Key: unknown
-Chambers Gold Key: unknown
+Chambers Gold Key: progression
 Chambers Master Bonus Key: unknown
-Chambers Silver Key: unknown
+Chambers Silver Key: progression
 Confuse Trap: trap
 Copper Coin: unknown
 Copper Coin Pile: unknown
@@ -125,7 +125,7 @@ Disable TF2 South Spikes: unknown
 Disable TF3 North Pillar Walls: unknown
 Dune Sharks Arena Gold Key: unknown
 Dune Sharks Arena Silver Key: unknown
-Elevate PoF Pyramid: unknown
+Elevate PoF Pyramid: progression
 Enable PrF2 Spike Puzzle East Buttons: unknown
 Enable PrF2 Spike Puzzle North Buttons: unknown
 Enable PrF2 Spike Puzzle South Buttons: unknown
@@ -137,9 +137,9 @@ Fix CL1 Green Bridge: unknown
 Fix CL1 Red Bridge: unknown
 Fix CL2 Double Bridge: unknown
 Fix CL2 Exit Bridge: unknown
-Fix CL2 Green Bridge: unknown
+Fix CL2 Green Bridge: progression
 Fix CL2 Red Bridge: unknown
-Fix CL3 East Bridge: unknown
+Fix CL3 East Bridge: progression
 Fix CL3 Fall Bridge: unknown
 Fix Dune Sharks Bridge: unknown
 Frost Trap: trap
@@ -155,11 +155,11 @@ Hammer: unknown
 Hammer Fragment: unknown
 Health Upgrade: useful
 Invulnerability Potion: unknown
-Mana Drain Trap: unknown
+Mana Drain Trap: trap
 Mana Orb: unknown
 Mana Shard: unknown
 Mana Upgrade: useful
-Mirror: unknown
+Mirror: progression
 Open AmB Exit: unknown
 Open AmB NE Room: unknown
 Open AmB SE Room: unknown
@@ -289,8 +289,8 @@ Open TF3 South Gate: unknown
 Open TF3 West Boss Fall Room: unknown
 Orange: unknown
 Ore: unknown
-Paladin Combo: unknown
-Paladin Healing: unknown
+Paladin Combo: progression
+Paladin Healing: progression
 Paladin Holy Storm: unknown
 Pickaxe: unknown
 Pickaxe Fragment: unknown
@@ -303,7 +303,7 @@ Prison Bonus Key: useful
 Prison Boss Rune A: unknown
 Prison Boss Rune n: unknown
 Prison Boss Rune y: unknown
-Prison Bronze Key: unknown
+Prison Bronze Key: progression
 Prison Floor 1 Master Bronze Key: progression
 Prison Floor 1 Master Gold Key: unknown
 Prison Floor 1 Master Silver Key: unknown
@@ -313,22 +313,22 @@ Prison Floor 2 Master Silver Key: progression
 Prison Floor 3 Master Bronze Key: progression
 Prison Floor 3 Master Gold Key: progression
 Prison Floor 3 Master Silver Key: progression
-Prison Gold Key: unknown
+Prison Gold Key: progression
 Prison Master Bonus Key: unknown
-Prison Silver Key: unknown
+Prison Silver Key: progression
 Progressive Paladin Armor: unknown
 Progressive Paladin Charge Damage: unknown
 Progressive Paladin Charge Range: unknown
 Progressive Paladin Combo Healing: unknown
-Progressive Paladin Combo Mana: unknown
+Progressive Paladin Combo Mana: useful
 Progressive Paladin Combo Nova: unknown
 Progressive Paladin Combo Timer: unknown
 Progressive Paladin Divine Wrath: unknown
 Progressive Paladin Healing Efficiency: unknown
-Progressive Paladin Health Pool: unknown
+Progressive Paladin Health Pool: useful
 Progressive Paladin Holy Storm Damage: unknown
 Progressive Paladin Holy Storm Duration: unknown
-Progressive Paladin Mana Pool: unknown
+Progressive Paladin Mana Pool: useful
 Progressive Paladin Move Speed: unknown
 Progressive Paladin Shield: unknown
 Progressive Paladin Sword Arc: unknown
@@ -448,7 +448,7 @@ Ranger Overgrowth: unknown
 Red Chest: filler
 Red Diamond: filler
 Rejuvenation Potion: filler
-Rune Key: unknown
+Rune Key: progression
 Serious Health Upgrade: unknown
 Silver Coin: unknown
 Silver Coin Pile: unknown
