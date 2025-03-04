@@ -731,7 +731,7 @@ Socializing Level: progression
 Archaeology Level: progression
 Cooking Level: progression
 Binning Level: progression
-Tractor Garage: unknown
+Tractor Garage: useful
 Woods Obelisk: progression
 Spell: Clear Debris: useful
 Spell: Till: useful
@@ -811,11 +811,11 @@ Vile Ancient Fruit Seeds: unknown
 Marlon's Boat Paddle: progression
 Diamond Wand: unknown
 Iridium Bomb: progression
-Void Spirit Peace Agreement: unknown
+Void Spirit Peace Agreement: useful
 Kittyfish Spell: unknown
 Nexus: Adventurer's Guild Runes: progression
-Nexus: Junimo Woods Runes: unknown
-Nexus: Aurora Vineyard Runes: unknown
+Nexus: Junimo Woods Runes: progression
+Nexus: Aurora Vineyard Runes: progression
 Nexus: Sprite Spring Runes: progression
 Nexus: Outpost Runes: progression
 Nexus: Farm Runes: unknown
@@ -825,7 +825,7 @@ Tempered Galaxy Sword: unknown
 Tempered Galaxy Dagger: unknown
 Tempered Galaxy Hammer: unknown
 Grandpa's Shed: useful
-Aurora Vineyard Tablet: unknown
+Aurora Vineyard Tablet: progression
 Scarlett's Job Offer: unknown
 Morgan's Schooling: progression
 Magic Elixir Recipe: progression
@@ -949,3 +949,15 @@ Dehydrator Recipe: useful
 Text Sign Recipe: useful
 Power: Mapping Cave Systems: useful
 Fish Casserole Recipe: progression
+Tilesanity: Calico Desert (4-6): progression
+Tilesanity: Standard Farm (12-4): progression
+Tilesanity: Standard Farm (14-1): progression
+Resource Pack: 50 Calico Egg: useful
+Tilesanity: Standard Farm (15-11): progression
+Tilesanity: Bus Stop (4-5): progression
+Tilesanity: Pelican Town (5-12): progression
+Tilesanity: Standard Farm (15-8): progression
+Tilesanity: Standard Farm (3-6): progression
+Tilesanity: Standard Farm (8-3): progression
+Tilesanity: Standard Farm (14-2): progression
+Tilesanity: Standard Farm (13-11): progression
