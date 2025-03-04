@@ -8,7 +8,7 @@ Athena Keepsake: progression
 Benefits Package Pact Level: unknown
 Boon Boost Helper: filler
 Bow Hidden Aspect: useful
-Bow Weapon Unlock Item: unknown
+Bow Weapon Unlock Item: progression
 Brilliant Gemstones Item: progression
 Calisthenics Program Pact Level: unknown
 Cerberus Keepsake: progression
@@ -31,12 +31,12 @@ Fated Keys Item: unknown
 Fishing Rod Item: filler
 Fist Hidden Aspect: unknown
 Fist Weapon Unlock Item: progression
-Forced Overtime Pact Level: unknown
+Forced Overtime Pact Level: progression
 Fountain Asphodel Item: filler
 Fountain Elysium Item: unknown
-Fountain Tartarus Item: unknown
+Fountain Tartarus Item: useful
 Fountain Upgrade1 Item: filler
-Fountain Upgrade2 Item: unknown
+Fountain Upgrade2 Item: useful
 Gemstones: filler
 Gun Hidden Aspect: unknown
 Gun Weapon Unlock Item: useful
@@ -48,12 +48,12 @@ Hypnos Keepsake: progression
 Infernal Trove1 Item: unknown
 Infernal Trove2 Item: unknown
 Infernal Trove3 Item: unknown
-Initial Money Helper: unknown
+Initial Money Helper: useful
 Jury Summons Pact Level: unknown
 Keepsake Collection Item: progression
 Keys: filler
-Lasting Consequences Pact Level: unknown
-Max Health Helper: unknown
+Lasting Consequences Pact Level: progression
+Max Health Helper: useful
 Megaera Keepsake: progression
 Middle Management Pact Level: useful
 Money Punishment: trap
@@ -62,7 +62,7 @@ Nyx Keepsake: progression
 Orpheus Keepsake: progression
 Patroclus Keepsake: progression
 Personal Liability Pact Level: unknown
-Pitch Black Darkness Item: unknown
+Pitch Black Darkness Item: useful
 Poseidon Keepsake: progression
 Routine Inspection Pact Level: useful
 Shield Hidden Aspect: useful
@@ -76,9 +76,9 @@ Sword Weapon Unlock Item: unknown
 Thanatos Keepsake: progression
 Tight Deadline Pact Level: useful
 TitanBlood: filler
-Underworld Customs Pact Level: unknown
+Underworld Customs Pact Level: progression
 Urns Of Wealth1 Item: unknown
-Urns Of Wealth2 Item: unknown
+Urns Of Wealth2 Item: useful
 Urns Of Wealth3 Item: filler
 Vanquishers Keep Item: filler
 Vintage Nectar Item: filler
