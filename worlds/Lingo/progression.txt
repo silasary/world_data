@@ -1,11 +1,3 @@
-:): filler
-The Feeling of Being Lost: filler
-Wanderlust: filler
-Empty White Hallways: filler
-Puzzle Skip: useful
-Slowness Trap: trap
-Iceland Trap: trap
-Atbash Trap: trap
 Black: progression
 Red: progression
 Blue: progression
@@ -27,12 +19,6 @@ Hub Room - Tenacious Entrance: progression
 Hub Room - Shortcut to Hedge Maze: progression
 Hub Room - Near RAT Door: progression
 The Traveled - Entrance: progression
-1 Sunwarp: progression
-2 Sunwarp: progression
-3 Sunwarp: progression
-4 Sunwarp: progression
-5 Sunwarp: progression
-6 Sunwarp: progression
 Pilgrim Room - Sun Painting: progression
 Pilgrim Room - Shortcut to The Seeker: progression
 Crossroads - Tenacious Entrance: progression
@@ -54,7 +40,8 @@ Outside The Agreeable - Black Door: progression
 The Agreeable - Entrance: progression
 Starting Room - Street Painting: progression
 Outside The Agreeable - Purple Barrier: progression
-Compass Room - Lookout Entrance: progression
+Outside The Agreeable - Hallway Door: unknown
+Outside The Agreeable - Lookout Entrance: progression
 Dread Hallway - Tenacious Entrance: progression
 The Agreeable - Shortcut to Hedge Maze: progression
 The Perceptive - Entrance: progression
@@ -136,7 +123,6 @@ The Eyes They See - Exit: progression
 The Wondrous - Entrance: progression
 Starting Room - Symmetry Painting: progression
 The Wondrous - Exit: progression
-Hallway Room (1) - Exit: progression
 Hallway Room (2) - Exit: progression
 Hallway Room (3) - Exit: progression
 Hallway Room (4) - Exit: progression
@@ -158,32 +144,47 @@ Room Room - Cellar Exit: progression
 The Wise - Entrance: progression
 The Scientific - Entrance: progression
 Challenge Room - Welcome Door: progression
-Color Hunt Barriers: progression
-Artistic Doors: progression
-Fearless Doors: progression
-Observant Doors: progression
-Crossroads - Tower Entrances: progression
-Symmetry Doors: progression
-Entrance to The Traveled: progression
-Backside Doors: progression
-Colorful Doors: progression
-Orange Tower First Floor - Shortcuts: progression
-Hallway Room Doors: progression
-Crossroads Doors: progression
-Welcome Back Doors: progression
-Sunwarps: progression
-Hedge Maze Doors: progression
-Directional Gallery Doors: progression
-Entrances to The Tenacious: progression
-Dead End Area Access: progression
 Rhyme Room Doors: progression
-Progressive Pilgrimage: progression
+Dead End Area Access: progression
+Entrances to The Tenacious: progression
+Hedge Maze Doors: progression
+Entrance to The Traveled: progression
+Crossroads - Tower Entrances: progression
+Crossroads Doors: progression
+Symmetry Doors: progression
+Color Hunt Barriers: progression
+Hallway Room Doors: progression
+Observant Doors: progression
+Fearless Doors: progression
+Backside Doors: progression
+Orange Tower First Floor - Shortcuts: progression
+Welcome Back Doors: progression
+Colorful Doors: progression
+Directional Gallery Doors: progression
+Artistic Doors: progression
+:): filler
+The Feeling of Being Lost: filler
+Wanderlust: filler
+Empty White Hallways: filler
+Slowness Trap: trap
+Iceland Trap: trap
+Atbash Trap: trap
+Puzzle Skip: useful
+Progressive Hallway Room: progression
 Progressive Fearless: progression
 Progressive Orange Tower: progression
 Progressive Colorful: progression
-Progressive Hallway Room: progression
 Progressive Art Gallery: progression
-Outside The Agreeable - Lookout Entrance: progression
+1 Sunwarp: progression
+2 Sunwarp: progression
+3 Sunwarp: progression
+4 Sunwarp: progression
+5 Sunwarp: progression
+6 Sunwarp: progression
+Compass Room - Lookout Entrance: progression
+Hallway Room (1) - Exit: progression
+Sunwarps: progression
+Progressive Pilgrimage: progression
 Color Hunt - EXIT (Panel): progression
 Outside The Wanderer - WANDERLUST (Panel): progression
 Tenacious Entrance Panels: progression

@@ -1,247 +1,68 @@
-Master Ball: useful
-Ultra Ball: filler
-Brightpowder: filler
-Great Ball: filler
-Poke Ball: filler
-Bicycle: progression
-Moon Stone: useful
-Antidote: filler
-Burn Heal: filler
-Ice Heal: filler
-Awakening: filler
-Parlyz Heal: filler
-Full Restore: filler
-Max Potion: filler
-Hyper Potion: filler
-Super Potion: filler
-Potion: filler
-Escape Rope: filler
-Repel: filler
-Max Elixer: filler
-Fire Stone: useful
-Thunderstone: useful
-Water Stone: useful
-HP Up: filler
-Protein: filler
-Iron: filler
-Carbos: filler
-Lucky Punch: filler
-Calcium: filler
-Rare Candy: useful
-X Accuracy: filler
-Leaf Stone: useful
-Metal Powder: filler
-Nugget: filler
-Poke Doll: filler
-Full Heal: filler
-Revive: filler
-Max Revive: filler
-Guard Spec: filler
-Super Repel: filler
-Max Repel: filler
-Dire Hit: filler
-Fresh Water: filler
-Soda Pop: filler
-Lemonade: filler
-X Attack: filler
-X Defend: filler
-X Speed: filler
-X Special: filler
-Coin Case: filler
-Itemfinder: progression
-Exp Share: filler
-Old Rod: useful
-Good Rod: useful
-Silver Leaf: filler
-Super Rod: useful
-PP Up: filler
-Ether: filler
-Max Ether: filler
-Elixer: filler
-Red Scale: progression
-Secretpotion: progression
-S.S. Ticket: progression
-Mystery Egg: progression
-Clear Bell: progression
-Silver Wing: progression
-Moomoo Milk: filler
-Quick Claw: filler
-Psncureberry: filler
-Gold Leaf: filler
-Soft Sand: filler
-Sharp Beak: filler
-Przcureberry: filler
-Burnt Berry: filler
-Ice Berry: filler
-Poison Barb: filler
-Kings Rock: useful
-Bitter Berry: filler
-Mint Berry: filler
-Red Apricorn: filler
-Tinymushroom: filler
-Big Mushroom: filler
-Silverpowder: filler
-Blu Apricorn: filler
-Amulet Coin: filler
-Ylw Apricorn: filler
-Grn Apricorn: filler
-Cleanse Tag: filler
-Mystic Water: filler
-Twistedspoon: filler
-Wht Apricorn: filler
-Blackbelt: filler
-Blk Apricorn: filler
-Pnk Apricorn: filler
-Blackglasses: filler
-Slowpoketail: filler
-Pink Bow: filler
-Stick: filler
-Smoke Ball: filler
-Nevermeltice: filler
-Magnet: filler
-Miracleberry: filler
-Pearl: filler
-Big Pearl: filler
-Everstone: filler
-Spell Tag: filler
-Ragecandybar: filler
-Gs Ball: filler
-Blue Card: useful
-Miracle Seed: filler
-Thick Club: filler
-Focus Band: filler
-Energypowder: filler
-Energy Root: filler
-Heal Powder: filler
-Revival Herb: filler
-Hard Stone: filler
-Lucky Egg: filler
-Card Key: progression
-Machine Part: progression
-Egg Ticket: filler
-Lost Item: progression
-Stardust: filler
-Star Piece: filler
-Basement Key: progression
-Pass: progression
-Charcoal: filler
-Berry Juice: filler
-Scope Lens: filler
-Metal Coat: useful
-Dragon Fang: filler
-Leftovers: useful
-Mysteryberry: filler
-Dragon Scale: useful
-Berserk Gene: filler
-Sacred Ash: filler
-Heavy Ball: filler
-Flower Mail: filler
-Level Ball: filler
-Lure Ball: filler
-Fast Ball: filler
-Light Ball: filler
-Friend Ball: filler
-Moon Ball: filler
-Love Ball: filler
-Normal Box: filler
-Gorgeous Box: filler
-Sun Stone: useful
-Polkadot Bow: filler
-Up-Grade: useful
-Berry: filler
-Gold Berry: filler
-Squirtbottle: progression
-Park Ball: filler
-Rainbow Wing: progression
-Brick Piece: filler
-Surf Mail: filler
-Litebluemail: filler
-Portraitmail: filler
-Lovely Mail: filler
-Eon Mail: filler
-Morph Mail: filler
-Bluesky Mail: filler
-Music Mail: filler
-Mirage Mail: filler
-Zephyr Badge: progression
-Hive Badge: progression
-Plain Badge: progression
-Fog Badge: progression
-Mineral Badge: progression
-Storm Badge: progression
-Glacier Badge: progression
-Rising Badge: progression
-Boulder Badge: progression
-Cascade Badge: progression
-Thunder Badge: progression
-Rainbow Badge: progression
-Soul Badge: progression
-Marsh Badge: progression
-Volcano Badge: progression
-Earth Badge: progression
-Radio Card: progression
-Map Card: progression
-Phone Card: progression
-EXPN Card: progression
-Pokegear: progression
-Pokedex: progression
-Phone Trap: trap
-Sleep Trap: trap
-Poison Trap: trap
-Burn Trap: trap
-Freeze Trap: trap
-Paralysis Trap: trap
 AP Item: filler
-TM01 Dynamicpunch: useful
-TM02 Headbutt: useful
-TM03 Curse: useful
-TM04 Rollout: useful
-TM05 Roar: useful
-TM06 Toxic: useful
-TM07 Zap Cannon: useful
-TM08 Rock Smash: progression
-TM09 Psych Up: useful
-TM10 Hidden Power: useful
-TM11 Sunny Day: useful
-TM12 Sweet Scent: useful
-TM13 Snore: useful
-TM14 Blizzard: useful
-TM15 Hyper Beam: useful
-TM16 Icy Wind: useful
-TM17 Protect: useful
-TM18 Rain Dance: useful
-TM19 Giga Drain: useful
-TM20 Endure: useful
-TM21 Frustration: useful
-TM22 Solarbeam: useful
-TM23 Iron Tail: useful
-TM24 Dragonbreath: useful
-TM25 Thunder: useful
-TM26 Earthquake: useful
-TM27 Return: useful
-TM28 Dig: useful
-TM29 Psychic: useful
-TM30 Shadow Ball: useful
-TM31 Mud Slap: useful
-TM32 Double Team: useful
-TM33 Ice Punch: useful
-TM34 Swagger: useful
-TM35 Sleep Talk: useful
-TM36 Sludge Bomb: useful
-TM37 Sandstorm: useful
-TM38 Fire Blast: useful
-TM39 Swift: useful
-TM40 Defense Curl: useful
-TM41 Thunderpunch: useful
-TM42 Dream Eater: useful
-TM43 Detect: useful
-TM44 Rest: useful
-TM45 Attract: useful
-TM46 Thief: useful
-TM47 Steel Wing: useful
-TM48 Fire Punch: useful
-TM49 Fury Cutter: useful
-TM50 Nightmare: useful
+Amulet Coin: filler
+Antidote: filler
+Awakening: filler
+Basement Key: progression
+Berry: filler
+Berry Juice: filler
+Berserk Gene: filler
+Bicycle: progression
+Big Mushroom: filler
+Big Pearl: filler
+Bitter Berry: filler
+Blackbelt: filler
+Blackglasses: filler
+Blk Apricorn: filler
+Blu Apricorn: filler
+Blue Card: useful
+Bluesky Mail: filler
+Boulder Badge: progression
+Brick Piece: filler
+Brightpowder: filler
+Burn Heal: filler
+Burn Trap: trap
+Burnt Berry: filler
+Calcium: filler
+Carbos: filler
+Card Key: progression
+Cascade Badge: progression
+Charcoal: filler
+Cleanse Tag: filler
+Clear Bell: progression
+Coin Case: filler
+Dire Hit: filler
+Dragon Fang: filler
+Dragon Scale: useful
+EXPN Card: progression
+Earth Badge: progression
+Egg Ticket: filler
+Elixer: filler
+Energy Root: filler
+Energypowder: filler
+Eon Mail: filler
+Escape Rope: filler
+Ether: filler
+Everstone: filler
+Exp Share: filler
+Fast Ball: filler
+Fire Stone: useful
+Flower Mail: filler
+Focus Band: filler
+Fog Badge: progression
+Freeze Trap: trap
+Fresh Water: filler
+Friend Ball: filler
+Full Heal: filler
+Full Restore: filler
+Glacier Badge: progression
+Gold Berry: filler
+Gold Leaf: filler
+Good Rod: useful
+Gorgeous Box: filler
+Great Ball: filler
+Grn Apricorn: filler
+Gs Ball: filler
+Guard Spec: filler
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
@@ -249,54 +70,233 @@ HM04 Strength: progression
 HM05 Flash: progression
 HM06 Whirlpool: progression
 HM07 Waterfall: progression
-TM01: useful
-TM02: useful
-TM03: useful
-TM04: useful
-TM05: useful
-TM06: useful
-TM07: useful
-TM08: useful
-TM09: useful
-TM10: useful
-TM11: useful
-TM12: useful
-TM13: useful
-TM14: useful
-TM15: useful
-TM16: useful
-TM17: useful
-TM18: useful
-TM19: useful
-TM20: useful
-TM21: useful
-TM22: useful
-TM23: useful
-TM24: useful
-TM25: useful
-TM26: useful
-TM27: useful
-TM28: useful
-TM29: useful
-TM30: useful
-TM31: useful
-TM32: useful
-TM33: useful
-TM34: useful
-TM35: useful
-TM36: useful
-TM37: useful
-TM38: useful
-TM39: useful
-TM40: useful
-TM41: useful
-TM42: useful
-TM43: useful
-TM44: useful
-TM45: useful
-TM46: useful
-TM47: useful
-TM48: useful
-TM49: useful
-TM50: useful
+HP Up: filler
+Hard Stone: filler
+Heal Powder: filler
+Heavy Ball: filler
+Hive Badge: progression
+Hyper Potion: filler
+Ice Berry: filler
+Ice Heal: filler
+Iron: filler
+Itemfinder: progression
+Kings Rock: useful
+Leaf Stone: useful
+Leftovers: useful
+Lemonade: filler
+Level Ball: filler
+Light Ball: filler
+Litebluemail: filler
+Lost Item: progression
+Love Ball: filler
+Lovely Mail: filler
+Lucky Egg: filler
+Lucky Punch: filler
+Lure Ball: filler
+Machine Part: progression
+Magnet: filler
+Map Card: progression
+Marsh Badge: progression
+Master Ball: useful
+Max Elixer: filler
+Max Ether: filler
+Max Potion: filler
+Max Repel: filler
+Max Revive: filler
+Metal Coat: useful
+Metal Powder: filler
+Mineral Badge: progression
+Mint Berry: filler
+Miracle Seed: filler
+Miracleberry: filler
+Mirage Mail: filler
+Moomoo Milk: filler
+Moon Ball: filler
+Moon Stone: useful
+Morph Mail: filler
+Music Mail: filler
+Mystery Egg: progression
+Mysteryberry: filler
+Mystic Water: filler
+Nevermeltice: filler
 No Item: filler
+Normal Box: filler
+Nugget: filler
+Old Rod: useful
+PP Up: filler
+Paralysis Trap: trap
+Park Ball: filler
+Parlyz Heal: filler
+Pass: progression
+Pearl: filler
+Phone Card: progression
+Phone Trap: trap
+Pink Bow: filler
+Plain Badge: progression
+Pnk Apricorn: filler
+Poison Barb: filler
+Poison Trap: trap
+Poke Ball: filler
+Poke Doll: filler
+Pokedex: progression
+Pokegear: progression
+Polkadot Bow: filler
+Portraitmail: filler
+Potion: filler
+Protein: filler
+Przcureberry: filler
+Psncureberry: filler
+Quick Claw: filler
+Radio Card: progression
+Ragecandybar: filler
+Rainbow Badge: progression
+Rainbow Wing: progression
+Rare Candy: useful
+Red Apricorn: filler
+Red Scale: progression
+Repel: filler
+Revival Herb: filler
+Revive: filler
+Rising Badge: progression
+S.S. Ticket: progression
+Sacred Ash: filler
+Scope Lens: filler
+Secretpotion: progression
+Sharp Beak: filler
+Silver Leaf: filler
+Silver Wing: progression
+Silverpowder: filler
+Sleep Trap: trap
+Slowpoketail: filler
+Smoke Ball: filler
+Soda Pop: filler
+Soft Sand: filler
+Soul Badge: progression
+Spell Tag: filler
+Squirtbottle: progression
+Star Piece: filler
+Stardust: filler
+Stick: filler
+Storm Badge: progression
+Sun Stone: useful
+Super Potion: filler
+Super Repel: filler
+Super Rod: useful
+Surf Mail: filler
+TM01: useful
+TM01 Dynamicpunch: useful
+TM02: useful
+TM02 Headbutt: useful
+TM03: useful
+TM03 Curse: useful
+TM04: useful
+TM04 Rollout: useful
+TM05: useful
+TM05 Roar: useful
+TM06: useful
+TM06 Toxic: useful
+TM07: useful
+TM07 Zap Cannon: useful
+TM08 Rock Smash: progression
+TM09: useful
+TM09 Psych Up: useful
+TM10: useful
+TM10 Hidden Power: useful
+TM11: useful
+TM11 Sunny Day: useful
+TM12: useful
+TM12 Sweet Scent: useful
+TM13: useful
+TM13 Snore: useful
+TM14: useful
+TM14 Blizzard: useful
+TM15: useful
+TM15 Hyper Beam: useful
+TM16: useful
+TM16 Icy Wind: useful
+TM17: useful
+TM17 Protect: useful
+TM18: useful
+TM18 Rain Dance: useful
+TM19: useful
+TM19 Giga Drain: useful
+TM20: useful
+TM20 Endure: useful
+TM21: useful
+TM21 Frustration: useful
+TM22: useful
+TM22 Solarbeam: useful
+TM23: useful
+TM23 Iron Tail: useful
+TM24: useful
+TM24 Dragonbreath: useful
+TM25: useful
+TM25 Thunder: useful
+TM26: useful
+TM26 Earthquake: useful
+TM27: useful
+TM27 Return: useful
+TM28: useful
+TM28 Dig: useful
+TM29: useful
+TM29 Psychic: useful
+TM30: useful
+TM30 Shadow Ball: useful
+TM31: useful
+TM31 Mud Slap: useful
+TM32: useful
+TM32 Double Team: useful
+TM33: useful
+TM33 Ice Punch: useful
+TM34: useful
+TM34 Swagger: useful
+TM35: useful
+TM35 Sleep Talk: useful
+TM36: useful
+TM36 Sludge Bomb: useful
+TM37: useful
+TM37 Sandstorm: useful
+TM38: useful
+TM38 Fire Blast: useful
+TM39: useful
+TM39 Swift: useful
+TM40: useful
+TM40 Defense Curl: useful
+TM41: useful
+TM41 Thunderpunch: useful
+TM42: useful
+TM42 Dream Eater: useful
+TM43: useful
+TM43 Detect: useful
+TM44: useful
+TM44 Rest: useful
+TM45: useful
+TM45 Attract: useful
+TM46: useful
+TM46 Thief: useful
+TM47: useful
+TM47 Steel Wing: useful
+TM48: useful
+TM48 Fire Punch: useful
+TM49: useful
+TM49 Fury Cutter: useful
+TM50: useful
+TM50 Nightmare: useful
+Thick Club: filler
+Thunder Badge: progression
+Thunderstone: useful
+Tinymushroom: filler
+Twistedspoon: filler
+Ultra Ball: filler
+Up-Grade: useful
+Volcano Badge: progression
+Water Stone: useful
+Wht Apricorn: filler
+X Accuracy: filler
+X Attack: filler
+X Defend: filler
+X Special: filler
+X Speed: filler
+Ylw Apricorn: filler
+Zephyr Badge: progression
+TM08: useful

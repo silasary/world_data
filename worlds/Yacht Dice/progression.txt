@@ -1,50 +1,50 @@
-Dice: progression
-Dice Fragment: progression
-Roll: progression
-Roll Fragment: progression
-Fixed Score Multiplier: progression
-Step Score Multiplier: progression
-Category Ones: progression
-Category Twos: progression
-Category Threes: progression
-Category Fours: progression
-Category Fives: progression
-Category Sixes: progression
-Category Choice: progression
-Category Inverse Choice: progression
-Category Pair: progression
-Category Three of a Kind: progression
-Category Four of a Kind: progression
-Category Tiny Straight: progression
-Category Small Straight: progression
-Category Large Straight: progression
-Category Full House: progression
-Category Yacht: progression
-Category Distincts: progression
-Category Two times Ones: progression
-Category Half of Sixes: progression
-Category Twos and Threes: progression
-Category Sum of Odds: progression
-Category Sum of Evens: progression
-Category Double Threes and Fours: progression
-Category Quadruple Ones and Twos: progression
-Category Micro Straight: progression
-Category Three Odds: progression
-Category 1-2-1 Consecutive: progression
-Category Three Distinct Dice: progression
-Category Two Pair: progression
-Category 2-1-2 Consecutive: progression
-Category Five Distinct Dice: progression
-Category 4&5 Full House: progression
-Encouragement: filler
-Fun Fact: filler
-Story Chapter: filler
-Good RNG: filler
-Bad RNG: trap
-Bonus Point: useful
 1 Point: progression
 10 Points: progression
 100 Points: progression
+Bad RNG: trap
+Bonus Point: useful
+Category 1-2-1 Consecutive: progression
+Category 2-1-2 Consecutive: progression
+Category 4&5 Full House: progression
+Category Choice: progression
+Category Distincts: progression
+Category Double Threes and Fours: progression
+Category Five Distinct Dice: progression
+Category Fives: progression
+Category Four of a Kind: progression
+Category Fours: progression
+Category Full House: progression
+Category Half of Sixes: progression
+Category Inverse Choice: progression
+Category Large Straight: progression
+Category Micro Straight: progression
+Category Ones: progression
+Category Pair: progression
+Category Quadruple Ones and Twos: progression
+Category Sixes: progression
+Category Small Straight: progression
+Category Sum of Evens: progression
+Category Sum of Odds: progression
+Category Three Distinct Dice: progression
+Category Three Odds: progression
+Category Three of a Kind: progression
+Category Threes: progression
+Category Tiny Straight: progression
+Category Two Pair: progression
+Category Two times Ones: progression
+Category Twos: progression
+Category Twos and Threes: progression
+Category Yacht: progression
+Dice: progression
+Dice Fragment: progression
+Encouragement: filler
+Fixed Score Multiplier: progression
+Fun Fact: filler
+Good RNG: filler
+Roll: progression
+Roll Fragment: progression
+Step Score Multiplier: progression
+Story Chapter: filler
 Victory: progression
 Category 16x Ones: progression
 Category 15x Ones: progression

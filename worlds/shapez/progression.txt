@@ -1,8 +1,3 @@
-Balancer: progression
-Tunnel: progression
-Compact Merger: progression
-Tunnel Tier II: progression
-Compact Splitter: progression
 Cutter: progression
 Rotator: progression
 Painter: progression
@@ -13,6 +8,11 @@ Quad Cutter: progression
 Double Painter: progression
 Rotator (180°): progression
 Quad Painter: progression
+Balancer: progression
+Tunnel: progression
+Compact Merger: progression
+Tunnel Tier II: progression
+Compact Splitter: progression
 Trash: progression
 Chaining Extractor: useful
 Belt Reader: progression
@@ -36,16 +36,16 @@ Small Painting Upgrade: filler
 Blueprint Shapes Bundle: filler
 Level Shapes Bundle: filler
 Upgrade Shapes Bundle: filler
+Locked Building Trap: trap
+Throttled Building Trap: trap
+Malfunctioning Trap: trap
 Inventory Draining Trap: trap
 Blueprint Shapes Draining Trap: trap
 Level Shapes Draining Trap: trap
 Upgrade Shapes Draining Trap: trap
-Locked Building Trap: trap
-Throttled Building Trap: trap
-Malfunctioning Trap: trap
-Inflation Trap: trap
 Belt: progression
 Extractor: progression
+Inflation Trap: trap
 Gigantic Belt Upgrade: progression
 Gigantic Miner Upgrade: useful
 Gigantic Processors Upgrade: useful

@@ -1,39 +1,39 @@
 Anemone: filler
-Arnassi Statue: filler
-Big Seed: filler
-Glowing Seed: filler
-Black Pearl: filler
-Baby Blaster: useful
-Crab Armor: useful
-Baby Dumbo: progression
+Arnassi statue: unknown
+Big seed: unknown
+Glowing seed: unknown
+Black pearl: unknown
+Baby blaster: unknown
+Crab armor: unknown
+Baby dumbo: unknown
 Tooth: filler
-Energy Statue: filler
-Krotite Armor: filler
-Golden Starfish: filler
-Golden Gear: filler
-Jelly Beacon: filler
-Jelly Costume: useful
-Jelly Plant: filler
-Mithalas Doll: filler
-Mithalan Dress: filler
-Mithalas Banner: filler
-Mithalas Pot: filler
-Mutant Costume: filler
-Baby Nautilus: useful
-Baby Piranha: useful
+Energy statue: unknown
+Krotite armor: unknown
+Golden starfish: unknown
+Golden gear: unknown
+Jelly beacon: unknown
+Jelly costume: unknown
+Jelly plant: unknown
+Mithalas doll: unknown
+Mithalan dress: unknown
+Mithalas banner: unknown
+Mithalas pot: unknown
+Mutant costume: unknown
+Baby nautilus: unknown
+Baby piranha: unknown
 Arnassi Armor: progression
-Seed Bag: filler
+Seed bag: unknown
 King's Skull: filler
-Song Plant Spore: filler
-Stone Head: filler
-Sun Key: useful
-Girl Costume: filler
-Odd Container: filler
+Song plant spore: unknown
+Stone head: unknown
+Sun key: unknown
+Girl costume: unknown
+Odd container: unknown
 Trident: filler
-Turtle Egg: filler
-Jelly Egg: filler
-Urchin Costume: filler
-Baby Walker: filler
+Turtle egg: unknown
+Jelly egg: unknown
+Urchin costume: unknown
+Baby walker: unknown
 Vedha's Cure-All-All: useful
 Zuuna's perogi: useful
 Arcane poultice: useful
@@ -127,8 +127,42 @@ Transturtle Veil top left: progression
 Transturtle Veil top right: progression
 Transturtle Open Water top right: progression
 Transturtle Forest bottom left: progression
-Transturtle Home Water: useful
+Transturtle Home water: unknown
 Transturtle Abyss right: progression
 Transturtle Final Boss: progression
+Transturtle Simon says: unknown
+Transturtle Arnassi ruins: unknown
+Arnassi Statue: filler
+Big Seed: filler
+Glowing Seed: filler
+Black Pearl: filler
+Baby Blaster: useful
+Crab Armor: useful
+Baby Dumbo: progression
+Energy Statue: filler
+Krotite Armor: filler
+Golden Starfish: filler
+Golden Gear: filler
+Jelly Beacon: filler
+Jelly Costume: useful
+Jelly Plant: filler
+Mithalas Doll: filler
+Mithalan Dress: filler
+Mithalas Banner: filler
+Mithalas Pot: filler
+Mutant Costume: filler
+Baby Nautilus: useful
+Baby Piranha: useful
+Seed Bag: filler
+Song Plant Spore: filler
+Stone Head: filler
+Sun Key: useful
+Girl Costume: filler
+Odd Container: filler
+Turtle Egg: filler
+Jelly Egg: filler
+Urchin Costume: filler
+Baby Walker: filler
+Transturtle Home Water: useful
 Transturtle Simon Says: progression
 Transturtle Arnassi Ruins: progression

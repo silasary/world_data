@@ -1,19 +1,34 @@
-Trash: useful
-Progressive Powerup (Extraction): useful
-Conveyor Belts: progression
-Progressive Powerup (Belts, Distributors & Tunnels): progression
-Double Painter: useful
-Virtual Processing: useful
-Quad Cutter: useful
-Tunnel Tier 2: progression
 Extractor: progression
-Rotator (180 Degrees): progression
-Chaining Extractor: useful
-Compact Merger: progression
-Progressive Powerup (Cutting, Rotating & Stacking): useful
-Color Mixer: progression
-Progressive Powerup (Mixing & Painting): useful
+Conveyor Belts: progression
+Cutter: unknown
+Trash: useful
+Balancer: unknown
+Rotator (Clockwise): unknown
+Tunnel Tier 1: unknown
 Painter: progression
-Quad Painter: progression
+Rotator (Counterclockwise): unknown
+Color Mixer: progression
+Compact Merger: progression
+Stacker: unknown
+Chaining Extractor: useful
+Blueprints: unknown
+Tunnel Tier 2: progression
+Belt Reader: unknown
 Storage: useful
+Quad Cutter: useful
+Double Painter: useful
+Rotator (180 Degrees): progression
+Compact Splitter: unknown
 Wires: useful
+Quad Painter: progression
+Item Filter: unknown
+Constant Signal: unknown
+Display: unknown
+Logic Gates: unknown
+Virtual Processing: useful
+Progressive Powerup (Belts, Distributors & Tunnels): progression
+Progressive Powerup (Extraction): useful
+Progressive Powerup (Cutting, Rotating & Stacking): useful
+Progressive Powerup (Mixing & Painting): useful
+VICTORY: unknown
+Circle: unknown

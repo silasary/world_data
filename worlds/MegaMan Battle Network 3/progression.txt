@@ -7,15 +7,15 @@ WWW ID: progression
 OrderSys: useful
 ModTools: useful
 ExpMem: useful
-SpinDark: useful
+SpinWht: useful
 SpinPink: useful
-SpinPurple: useful
-SpinOrange: useful
+SpinYllw: useful
+SpinRed: useful
 SpinBlue: useful
 SpinGrn: useful
-SpinRed: useful
-SpinWht: useful
-SpinYllw: useful
+SpinOrange: useful
+SpinPurple: useful
+SpinDark: useful
 HPMemory: useful
 RegUP1: filler
 RegUP2: useful
@@ -25,13 +25,13 @@ SubMem: filler
 SubPET: progression
 Needle: progression
 PETCase: progression
-Parasol: progression
 Hammer: progression
 Unlocker: useful
 Untrap: filler
 LockEnmy: filler
 MiniEnrg: filler
 FullEnrg: filler
+SneakRun: useful
 AirShoes *: useful
 AirShot3 *: useful
 AntiNavi M: useful
@@ -104,7 +104,7 @@ Salamndr *: useful
 SandStage C: filler
 SideGun S: filler
 Slasher B: useful
-SloGuage *: filler
+SloGauge *: unknown
 Snake D: useful
 Snctuary C: useful
 Spreader *: useful
@@ -129,7 +129,6 @@ WideSwrd E: filler
 WideSwrd L: filler
 Yo-Yo1 D: filler
 ZeusHammer Z: useful
-BassGS X: useful
 Bass+ X: useful
 DeltaRay Z: useful
 Punk P: useful
@@ -196,11 +195,10 @@ Jungle: useful
 OilBody: useful
 QuickGge: useful
 SetSand: useful
-SneakRun: useful
 Speed+1 (Yellow): filler
-WpnLV+1 (Yellow): filler
-WpnLV+1 (Pink): filler
 WpnLV+1 (White): filler
+WpnLV+1 (Pink): filler
+WpnLV+1 (Yellow): filler
 Press: progression
 UnderSht: useful
 200z: filler
@@ -222,3 +220,6 @@ UnderSht: useful
 30 BugFrags: filler
 10 BugFrags: filler
 1 BugFrag: filler
+Parasol: progression
+SloGuage *: filler
+BassGS X: useful

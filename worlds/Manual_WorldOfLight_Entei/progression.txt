@@ -1,114 +1,115 @@
-Wii Fit Trainer: useful
-Bridge Repair: progression
-Boat: progression
-Forest Hill Key: progression
-Ice Climbers: useful
-Falco: useful
-Rock Clearing: progression
-Mii Gunner: useful
-Rain Conjuring: progression
-Spaceship: progression
-Train: progression
-Corrin: useful
-Kazuya: useful
-Sonic: useful
-Samus: useful
-Sheik: useful
-Simon: useful
-Pichu: useful
-Captain Falcon: useful
-Wario: useful
-Yoshi: useful
-Villager: useful
-Base Entrance: progression
-Piranha Plant: useful
-Mii Swordfighter: useful
-Wolf: useful
-Bowser: useful
-Inkling: useful
-Bus: progression
-Mewtwo: useful
-Jigglypuff: useful
-Ryu: useful
-Mega Man: useful
-Isabelle: useful
-Zelda: useful
-Palutena: useful
-Driver: progression
-Sora: useful
 Mario: useful
-Snake: useful
-Final Battle Key: progression
-Ike: useful
-Byleth: useful
-Power Plant Key: progression
-Rosalina and Luma: useful
-Dark Realm Key: progression
-Lapras: progression
-Shulk: useful
-Dr. Mario: useful
-Roy: useful
-Zero Suit Samus: useful
-Link: useful
-Cloud: useful
-Ridley: useful
-Ken: useful
-Steve: useful
-Lucas: useful
-King Dedede: useful
-R.O.B.: useful
-King K. Rool: useful
-Pokemon Trainer: useful
-Marth: useful
-Molten Fortress Key: progression
-DK Island Key: progression
-Joker: useful
-Banjo and Kazooie: useful
-Temple of Light Key: progression
-Terry: useful
-Lucina: useful
-Chrom: useful
-Daisy: useful
-Pit: useful
-Bowser Jr.: useful
-Sephiroth: useful
-Little Mac: useful
-Dracula's Castle Key: progression
-Rainbow Creation: progression
-Diddy Kong: useful
-Luigi: useful
-Base Key: progression
-Toon Link: useful
-Incineroar: useful
-Ganondorf: useful
-Duck Hunt: useful
-World Tour Key: progression
-Robin: useful
-Kirby: useful
-Mr. Game and Watch: useful
-Min Min: useful
-Peach: useful
-Greninja: useful
-Mysterious Dimension Key: progression
-Lucario: useful
-PAC-MAN: useful
-Dark Samus: useful
-Bayonetta: useful
-Pikachu: useful
-Fox: useful
-Ness: useful
-Dark Pit: useful
-Mii Brawler: useful
-Richter: useful
-Pyra/Mythra: useful
-Sacred Land Key: progression
-Gourmet Race Key: progression
-Olimar: useful
-Meta Knight: useful
 Donkey Kong: useful
+Link: useful
+Samus: useful
+Dark Samus: useful
+Yoshi: useful
+Kirby: useful
+Fox: useful
+Pikachu: useful
+Luigi: useful
+Ness: useful
+Captain Falcon: useful
+Jigglypuff: useful
+Peach: useful
+Daisy: useful
+Bowser: useful
+Ice Climbers: useful
+Sheik: useful
+Zelda: useful
+Dr. Mario: useful
+Pichu: useful
+Falco: useful
+Marth: useful
+Lucina: useful
+Young Link: useful
+Ganondorf: useful
+Mewtwo: useful
+Roy: useful
+Chrom: useful
+Mr. Game and Watch: useful
+Meta Knight: useful
+Pit: useful
+Dark Pit: useful
+Zero Suit Samus: useful
+Wario: useful
+Snake: useful
+Ike: useful
+Pokemon Trainer: useful
+Diddy Kong: useful
+Lucas: useful
+Sonic: useful
+King Dedede: useful
+Olimar: useful
+Lucario: useful
+R.O.B.: useful
+Toon Link: useful
+Wolf: useful
+Villager: useful
+Mega Man: useful
+Wii Fit Trainer: useful
+Rosalina and Luma: useful
+Little Mac: useful
+Greninja: useful
+Palutena: useful
+PAC-MAN: useful
+Robin: useful
+Shulk: useful
+Bowser Jr.: useful
+Duck Hunt: useful
+Ryu: useful
+Ken: useful
+Cloud: useful
+Corrin: useful
+Bayonetta: useful
+Inkling: useful
+Ridley: useful
+Simon: useful
+Richter: useful
+King K. Rool: useful
+Isabelle: useful
+Incineroar: useful
+Piranha Plant: useful
+Joker: useful
 Hero: useful
-Temple Cleared: progression
+Banjo and Kazooie: useful
+Terry: useful
+Byleth: useful
+Min Min: useful
+Steve: useful
+Sephiroth: useful
+Pyra/Mythra: useful
+Kazuya: useful
+Sora: useful
+Mii Brawler: useful
+Mii Swordfighter: useful
+Mii Gunner: useful
+Driver: progression
+Rain Conjuring: progression
+Bridge Repair: progression
+Bus: progression
+Base Entrance: progression
+Lapras: progression
+Rock Clearing: progression
+Spaceship: progression
+Boat: progression
+Train: progression
+Rainbow Creation: progression
+World Tour Key: progression
+Molten Fortress Key: progression
+Power Plant Key: progression
+Base Key: progression
+Temple of Light Key: progression
+DK Island Key: progression
+Forest Hill Key: progression
+Gourmet Race Key: progression
+Dark Realm Key: progression
+Dracula's Castle Key: progression
+Mysterious Dimension Key: progression
+Sacred Land Key: progression
+Final Battle Key: progression
 Power Plant Cleared: progression
+Temple Cleared: progression
 Rathalos Defeated: progression
 Galleom Defeated: progression
 Giga Bowser Defeated: progression
@@ -117,5 +118,7 @@ Ganon Defeated: progression
 Dracula Defeated: progression
 Marx Defeated: progression
 Dharkon Defeated: progression
+Victory Light: unknown
+Victory Full: unknown
+Filler: unknown
 Galeem and Dharkon Defeated: progression
-Young Link: useful

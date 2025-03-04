@@ -1,51 +1,109 @@
-Blue Key: progression
-Card (Watcher): progression
-Card (Dasher): progression
-Card (Slasher): progression
-Mountain Cavern Statue: progression
-Card (Frog): progression
-Card (Goldman): progression
-Red Key: progression
-Small Key (Street): progression
-Cardboard Box: progression
-Card (Wall): progression
-Small Key (Red Cave): progression
-Progressive Red Cave: progression
-Card (Arthur and Javiera): progression
-Card (Person): progression
-Small Key (Mountain Cavern): progression
+Broom: progression
+Jump Shoes: progression
+Widen: progression
+Extend: unknown
+Swap: progression
+Card (Edward): unknown
+Card (Annoyer): progression
+Card (Seer): unknown
+Card (Shieldy): unknown
 Card (Slime): progression
-Card (Windmill): progression
-Card (Fire Pillar): progression
-Biking Shoes: progression
+Card (PewLaser): progression
+Card (Suburbian): unknown
+Card (Watcher): progression
+Card (Silverfish): unknown
+Card (Gas Guy): progression
 Card (Mitra): progression
 Card (Miao): progression
-Widen: progression
-Small Key (Circus): progression
-Card (Blue Cube King): progression
-Broom: progression
-Swap: progression
-Health Cicada: useful
-Small Key (Apartment): progression
-Jump Shoes: progression
-Card (Fisherman): progression
-Golden Poop: filler
-Card (Annoyer): progression
+Card (Windmill): progression
 Card (Mushroom): progression
+Card (Dog): unknown
+Card (Rock): unknown
+Card (Fisherman): progression
+Card (Walker): unknown
 Card (Mover): progression
-Card (Orange Cube King): progression
-Card (Burst Plant): progression
-Card (Gas Guy): progression
-Card (Sage): progression
-Green Key: progression
-Card (PewLaser): progression
-Small Key (Hotel): progression
-Card (Lion): mcguffin
-Temple of the Seeing One Statue: progression
+Card (Slasher): progression
+Card (Rogue): unknown
+Card (Chaser): unknown
+Card (Fire Pillar): progression
 Card (Contorts): progression
-Nexus Gate (Hotel): progression
-Gas Trap: trap
-White Cube: useful
-Card (Follower): progression
+Card (Lion): mcguffin
+Card (Arthur and Javiera): progression
+Card (Frog): progression
+Card (Person): progression
+Card (Wall): progression
+Card (Blue Cube King): progression
+Card (Orange Cube King): progression
+Card (Dust Maid): unknown
+Card (Dasher): progression
+Card (Burst Plant): progression
+Card (Manager): unknown
+Card (Sage): progression
+Card (Young): unknown
+Card (Carved Rock): unknown
+Card (City Man): unknown
+Card (Intra): unknown
+Card (Torch): unknown
+Card (Triangle NPC): unknown
 Card (Killer): progression
+Card (Goldman): progression
+Card (Broom): unknown
+Card (Rank): unknown
+Card (Follower): progression
+Card (Rock Creature): unknown
+Card (Null): unknown
+Golden Poop: filler
+Spam Can: unknown
+Glitch: unknown
+Heart: unknown
+Electric Monster: unknown
+Cat Statue: unknown
+Melos: unknown
+Marina: unknown
+Black Cube: unknown
+Red Cube: unknown
+Green Cube: unknown
+Blue Cube: unknown
+White Cube: useful
+Golden Broom: unknown
+Small Key (Apartment): progression
+Small Key (Temple of the Seeing One): unknown
+Small Key (Circus): progression
+Small Key (Mountain Cavern): progression
+Small Key (Hotel): progression
+Small Key (Red Cave): progression
+Small Key (Street): progression
+Green Key: progression
+Red Key: progression
+Blue Key: progression
+Health Cicada: useful
+Cardboard Box: progression
+Biking Shoes: progression
+Progressive Red Cave: progression
+Temple of the Seeing One Statue: progression
 Red Cave Statue: progression
+Mountain Cavern Statue: progression
+Progressive Swap: unknown
+Heal: unknown
+Nexus Gate (Apartment): unknown
+Nexus Gate (Beach): unknown
+Nexus Gate (Temple of the Seeing One): unknown
+Nexus Gate (Blue): unknown
+Nexus Gate (Cell): unknown
+Nexus Gate (Circus): unknown
+Nexus Gate (Cliffs): unknown
+Nexus Gate (Mountain Cavern): unknown
+Nexus Gate (Fields): unknown
+Nexus Gate (Deep Forest): unknown
+Nexus Gate (GO): unknown
+Nexus Gate (Happy): unknown
+Nexus Gate (Hotel): progression
+Nexus Gate (Overworld): unknown
+Nexus Gate (Red Cave): unknown
+Nexus Gate (Red Sea): unknown
+Nexus Gate (Young Town): unknown
+Nexus Gate (Space): unknown
+Nexus Gate (Terminal): unknown
+Nexus Gate (Windmill): unknown
+Person Trap: unknown
+Gas Trap: trap

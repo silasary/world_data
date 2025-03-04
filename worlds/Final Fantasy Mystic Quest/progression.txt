@@ -47,9 +47,6 @@ Progressive Bomb: progression
 Bomb: progression
 Jumbo Bomb: progression
 Mega Grenade: progression
-Morning Star: progression
-Bow Of Grace: progression
-Ninja Star: progression
 Progressive Helm: useful
 Steel Helm: useful
 Moon Helm: useful
@@ -58,19 +55,24 @@ Progressive Armor: useful
 Steel Armor: useful
 Noble Armor: useful
 Gaia's Armor: useful
-Replica Armor: progression
-Mystic Robes: progression
-Flame Armor: progression
-Black Robe: progression
 Progressive Shield: useful
 Steel Shield: useful
 Venus Shield: useful
 Aegis Shield: useful
-Ether Shield: progression
 Progressive Accessory: useful
 Charm: useful
 Magic Ring: useful
 Cupid Locket: useful
+Bomb Refill: filler
+Projectile Refill: filler
+Morning Star: progression
+Bow Of Grace: progression
+Ninja Star: progression
+Replica Armor: progression
+Mystic Robes: progression
+Flame Armor: progression
+Black Robe: progression
+Ether Shield: progression
 54 XP: filler
 99 XP: filler
 540 XP: filler
@@ -85,8 +87,6 @@ Cupid Locket: useful
 600 Gp: filler
 900 Gp: filler
 1200 Gp: filler
-Bomb Refill: filler
-Projectile Refill: filler
 None: progression
 Kaeli 1: progression
 Kaeli 2: progression

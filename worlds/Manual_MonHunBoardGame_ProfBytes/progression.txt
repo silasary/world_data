@@ -1,463 +1,464 @@
-Potion: useful
-+1 Fire Resistance: useful
-+1 Water Resistance: useful
 +1 Electric Resistance: useful
-+1 Poison Resistance: useful
++1 Fire Resistance: useful
 +1 Ice Resistance: useful
-Progressive Great Jagras: progression
-Progressive Tobi-Kadachi: progression
-Progressive Anjanath: progression
-Progressive Rathalos: progression
-Progressive Azure Rathalos: progression
-Progressive Barroth: progression
-Progressive Pukei-Pukei: progression
-Progressive Jyuratodus: progression
-Progressive Diablos: progression
-Progressive Black Diablos: progression
-Progressive Kulu-Ya-Ku: progression
-Progressive Teostra: progression
-Progressive Nergigante: progression
-Progressive Kushala Daora: progression
-Iron Bow: progression
-Steel Bow: progression
-Alloy Bow: progression
-Hunter's Bow: progression
-Hunter's Stoutbow: progression
-Hunter's Proudbow: progression
-Pulsar Bow: progression
-Flying Kadachi Strikebow: progression
-Blazing Bow: progression
-Anja Bow: progression
-Blooming Arch: progression
-Datura String: progression
-Diablos Bow: progression
-Diablos Coilbender: progression
-Hunter's Knife: progression
-Steel Knife: progression
-Chrome Slicer: progression
-Bone Kukri: progression
-Chief Kukri: progression
-Grand Barong: progression
-Jagras Edge: progression
-Jagras Garotte: progression
-Flame Knife: progression
-Heat Edge: progression
-Blooming Knife: progression
-Datura Blossom: progression
-Carapace Edge: progression
-Barroth Club: progression
-Buster Sword: progression
-Buster Blade: progression
-Chrome Razor: progression
-Bone Blade: progression
-Bone Slasher: progression
-Giant Jawblade: progression
-Jagras Blade: progression
-Jagras Hacker: progression
-Flame Blade: progression
-Red Wing: progression
-Blooming Blade: progression
-Datura Blaze: progression
-Carapace Buster: progression
-Barroth Shredder: progression
-Matched Slicers: progression
-Dual Slicers: progression
-Chrome Slicers: progression
-Bone Hatchets: progression
-Wild Hatchets: progression
-Strong Hatchets: progression
-Madness Pangas: progression
-Jyura Hatchets: progression
-Diablos Hatchets: progression
-Diablos Clubs: progression
-Pulsar Hatchets: progression
-Kadachi Claws: progression
-Blazing Hatchets: progression
-Anja Cyclone: progression
-Progressive Alloy Armor: progression
-Progressive Bone Armor: progression
-Progressive Jagras Armor: progression
-Progressive Kadachi Armor: progression
-Progressive Anja Armor: progression
-Progressive Rathalos Armor: progression
-Progressive Rath Soul Armor: progression
-Common Monster bones: progression
-Ores: progression
-Claws: progression
-Crystals: progression
-Horns: progression
-Elemental sacs: progression
-Rare Monster bones: progression
-Elder Dragon parts: progression
-Great Jagras parts: progression
-Tobi-Kadachi parts: progression
-Anjanath parts: progression
-Rathalos parts: progression
-Azure Rathalos parts: progression
-Great Jagras Claw: progression
-Great Jagras Hide: progression
-Great Jagras Scale: progression
-Great Jagras Mane: progression
-Sharp Claw: progression
-Piercing Claw: progression
-Monster Bone Medium: progression
-Monster Hardbone: progression
-Monster Keenbone: progression
-Quality Bone: progression
-Fertile Mud: progression
-Tobi-Kadachi Pelt: progression
-Warm Pelt: progression
-Tobi-Kadachi Scale: progression
-Electro Sac: progression
-Tobi-Kadachi Electrode: progression
-Tobi-Kadachi Membrane: progression
-Tobi-Kadachi Claw: progression
-Thunder Sac: progression
-Anjanath Scale: progression
-Anjanath Pelt: progression
-Anjanath Nosebone: progression
-Anjanath Tail: progression
-Anjanath Fang: progression
-Flame Sac: progression
-Monster Bone Large: progression
-Inferno Sac: progression
-Rathalos Wingtalon: progression
-Rathalos Wing: progression
-Rathalos Scale: progression
-Rathalos Tail: progression
-Rathalos Webbing: progression
-Rathalos Plate: progression
-Rathalos Marrow: progression
-Rathalos Medulla: progression
-Rathalos Carapace: progression
-Rathalos Shell: progression
-Azure Rathalos Wingtalon: progression
-Azure Rathalos Scale: progression
-Azure Rathalos Wing: progression
-Azure Rathalos Plate: progression
-Azure Rathalos Marrow: progression
-Azure Rathalos Tail: progression
-Azure Rathalos Carapace: progression
-Coral Crystal: progression
-Firecell Stone: progression
-Boulder Bone: progression
-Dragonvein Crystal: progression
-Carbalite Ore: progression
-Machalite Ore: progression
-Dragonite Ore: progression
-Fucium Ore: progression
-Monster Bone Small: progression
-Ancient Bone: progression
-Iron Assault: progression
-Steel Assault: progression
-Chrome Assault: progression
-Bone Shooter: progression
-Heavy Shooter: progression
-Power Shooter: progression
-Blooming Shooter: progression
-Datura Blaster: progression
-Diablos Shooter: progression
-Dual Threat: progression
-Jagras Assault: progression
-Jagras Cannon: progression
-Pulsar Shooter: progression
-Kadachi Lion: progression
-Iron Blade: progression
-Steel Blade: progression
-Chrome Blade: progression
-Bone Rod: progression
-Hard Bone Rod: progression
++1 Poison Resistance: useful
++1 Water Resistance: useful
 Aerial Rod: progression
-Blooming Glaive: progression
-Datura Blade: progression
-Diablos Rod: progression
-Tyrannis Glaive: progression
-Flammenkaefer: progression
-Gnashing Flammenkaefer: progression
-Flame Glaive: progression
-Rathmaul: progression
-Proto Iron Axe: progression
-Improved Steel Axe: progression
-Perfected Alloy Axe: progression
-Bone Axe: progression
-Bone Smasher: progression
-Power Smasher: progression
-Carapace Axe: progression
-Barroth Grinder: progression
-Diablos Axe: progression
+Alloy Bow: progression
+Ancient Bone: progression
+Anja Barone: progression
+Anja Bow: progression
+Anja Cyclone: progression
+Anja Scimitar: progression
+Anja Striker: progression
+Anjanath Fang: progression
+Anjanath Nosebone: progression
+Anjanath Pelt: progression
+Anjanath Scale: progression
+Anjanath Tail: progression
+Anjanath parts: progression
+Aqua Bagpipe: progression
+Aqua Horn: progression
+Aqua Sac: progression
+Arcanaria: progression
+Archer's Dance: progression
 Axe Semper Tyrannis: progression
-Flammenbeil: progression
-Gnashing Flammenbeil: progression
-Rathalos Axe: progression
-Rathbringer Axe: progression
-Proto Commission Axe: progression
-Elite Commission Axe: progression
-Chrome Guardian: progression
-Bone Strongarm: progression
-Hard Bone Strongarm: progression
-Mighty Strongarm: progression
-Mudslide Blade: progression
-Jyura Depth: progression
-Diablos Wall: progression
-Diablos Tyrannis: progression
-Jagras Strongarm: progression
-Jagras Escudo: progression
-Pulsar Strongarm: progression
-Kadachi Kaina: progression
-Progressive Barroth Armor: progression
-Progressive Pukei Armor: progression
-Progressive Jyura Armor: progression
-Progressive Diablos Armor: progression
-Progressive Diablos Nero Armor: progression
-Barroth parts: progression
-Pukei-Pukei parts: progression
-Jyuratodus parts: progression
-Diablos parts: progression
-Black Diablos parts: progression
+Azure Rathalos Carapace: progression
+Azure Rathalos Marrow: progression
+Azure Rathalos Plate: progression
+Azure Rathalos Scale: progression
+Azure Rathalos Tail: progression
+Azure Rathalos Wing: progression
+Azure Rathalos Wingtalon: progression
+Azure Rathalos parts: progression
+Barroth Blaster: progression
+Barroth Breaker: progression
+Barroth Carapace: progression
 Barroth Claw: progression
+Barroth Club: progression
+Barroth Grinder: progression
 Barroth Ridge: progression
 Barroth Shell: progression
-Barroth Carapace: progression
-Pukei-Pukei Wing: progression
-Pukei-Pukei Scale: progression
-Pukei-Pukei Sac: progression
-Pukei-Pukei Quill: progression
-Pukei-Pukei Carapace: progression
-Pukei-Pukei Tail: progression
-Toxin Sac: progression
-Poison Sac: progression
-Jyuratodus Fin: progression
-Torrent Sac: progression
-Aqua Sac: progression
-Jyuratodus Scale: progression
-Jyuratodus Shell: progression
-Jyuratodus Carapace: progression
-Jyuratodus Fang: progression
-Gajau Scale: progression
-Diablos Shell: progression
-Diablos Carapace: progression
-Lightcrystal: progression
-Twisted Horn: progression
-Magestic Horn: progression
-Diablos Fang: progression
-Diablos Ridge: progression
-Blos Medulla: progression
-Novacrystal: progression
-Black Diablos Carapace: progression
-Black Spiral Horn: progression
-Black Diablos Ridge: progression
-Majestic Horn: progression
-Wyvern Gem: progression
-Iron Katana: progression
-Iron Grace: progression
-Iron Gospel: progression
-Bone Shotel: progression
-Hard Bone Shotel: progression
-Bone Reaper: progression
-Jyura Shotel: progression
-Dipterus: progression
-Pulsar Shotel: progression
-Kadachi Fang: progression
-Blazing Shotel: progression
-Anja Scimitar: progression
-Wyvern Blade Fall: progression
-Wyvern Blade Blood: progression
-Iron Hammer: progression
-Iron Demon: progression
-Iron Archdemon: progression
-Bone Bludgeon: progression
-Fossil Bludgeon: progression
-Grandrock: progression
-Blazing Hammer: progression
-Anja Striker: progression
-Carapace Sledge: progression
-Barroth Breaker: progression
-Blooming Hammer: progression
-Buon Fiore: progression
-Diablos Sledge: progression
-Diablos Shatterer: progression
-Iron Gunlance: progression
-Steel Gunlance: progression
-Chrome Gunlance: progression
-Bone Gunlance: progression
-Bone Cannon: progression
-Great Bone Gunlance: progression
-Jagras Gunlance: progression
-Glutton Gunlance: progression
-Rath Gunlance: progression
-Red Rook: progression
-Carapace Cannon: progression
-Barroth Blaster: progression
-Madness Gunlance: progression
-Jyura Buster: progression
-Chain Blitz: progression
-High Chain Blitz: progression
-Cross Blitz: progression
-Hunter's Rifle: progression
-Power Rifle: progression
-Sniper Shot: progression
-Jagras Blitz: progression
-Jagras Fire: progression
-Flame Blitz: progression
-Rathbuster: progression
-Carapace Rifle: progression
 Barroth Shot: progression
-Madness Rifle: progression
-Jyura Bullet: progression
-Metal Bagpipe: progression
-Great Bagpipe: progression
-Fortissimo: progression
-Bone Horn: progression
-Hard Bone Horn: progression
-Heavy Bone Horn: progression
-Thunder Gaida: progression
-Lightning Drum: progression
-Blazing Horn: progression
-Anja Barone: progression
-Blooming Horn: progression
-Datura Horn: progression
-Aqua Bagpipe: progression
-Water Tamtam: progression
-Iron Lance: progression
-Steel Lance: progression
-Chrome Lance: progression
-Bone Lance: progression
-Hard Bone Lance: progression
-Heavy Bone Lance: progression
-Thunder Lance: progression
-Lightning Spire: progression
-Flame Lance: progression
-Red Tail: progression
-Carapace Lance: progression
+Barroth Shredder: progression
 Barroth Stinger: progression
-Aqua Horn: progression
-Water Spike: progression
-Progressive Metal Weapon: progression
-Progressive Bone Weapon: progression
-Progressive Jyuratodus Weapon: progression
-Progressive Diablos Weapon: progression
-Progressive Pukei-Pukei Weapon: progression
-Progressive Barroth Weapon: progression
-Progressive Tobi-Kadachi Weapon: progression
-Progressive Anjanath Weapon: progression
-Progressive Great Jagras Weapon: progression
-Progressive Rathalos Weapon: progression
-Progressive Kulu Armor: progression
-Progressive Kulu Weapon: progression
-Rending Beaks: progression
-Arcanaria: progression
-Kulu Arrow: progression
-Archer's Dance: progression
-Kulu Blade: progression
-Ya-Ku Wrath: progression
-First Dance: progression
-Last Dance: progression
-Kulu Beak: progression
-Crushing Beak: progression
-Kulu Lance: progression
-Kulu Hasta: progression
-Kulu Duda: progression
-Dancing Duval: progression
-Kulu-Ya-Ku parts: progression
-Kulu-Ya-Ku Plume: progression
-Kulu-Ya-Ku Beak: progression
-Earth Crystal: progression
-Kulu-Ya-Ku Scale: progression
-Kulu-Ya-Ku Hide: progression
+Barroth parts: progression
 Bird Wyvern Gem: progression
-Wingdrake Hide: progression
-Progressive Kaiser Armor: progression
-Progressive Teostra Weapon: progression
-Twin Nails (Teostra): progression
-Fire and Ice (Teostra): progression
-Teostra's Spada: progression
-Teostra's Emblem: progression
-Teostra's Arx: progression
-Teostra's Castle: progression
-Teostra's Artillery: progression
-Teostra's Flame: progression
-Imperial Saber: progression
-Imperial Shimmer: progression
-Teostra's Tiple: progression
-Teostra's Orphee: progression
-Teostra parts: progression
-Fire Dragon Scale: progression
-Teostra Horn: progression
-Teostra Webbing: progression
-Teostra Mane: progression
-Teostra Claw: progression
-Teostra Gem: progression
-Teostra Powder: progression
-Teostra Carapace: progression
-Teostra Tail: progression
-Progressive Nergigante Armor: progression
-Progressive Nergigante Weapon: progression
-Nergigante parts: progression
-Immortal Dragonscale: progression
-Nergigante Talon: progression
-Nergigante Carapace: progression
-Nergigante Regrowth Plate: progression
-Nergigante Horn: progression
-Nergigante Tail: progression
-Elder Dragon Bone (N): progression
-Elder Dragon Blood (N): progression
-Nergigante Gem: progression
-Nergal Judicator: progression
-Purgation's Atrocity: progression
-Nergal Gouge: progression
-Decimation Claws: progression
-Nergal Jack: progression
-Eradication Vanguard: progression
-Nergal Whisper: progression
-Doom's Shaft: progression
-Nergal Gash: progression
-Dying Light: progression
-Nergal Reaper: progression
-Catastrophe's Light: progression
-Nergal Lacerator: progression
-Devastation's Thorns: progression
-Nergal Roar: progression
-Destruction's Fusillade: progression
-Nergal Reaver: progression
-Extermination's Edge: progression
-Nergal Crusher: progression
-Obliteration's Footfall: progression
-Nergal Ram: progression
-Eradication Flame: progression
-Nergal Spitter: progression
+Black Diablos Carapace: progression
+Black Diablos Ridge: progression
+Black Diablos parts: progression
+Black Spiral Horn: progression
+Blazing Bow: progression
+Blazing Hammer: progression
+Blazing Hatchets: progression
+Blazing Horn: progression
+Blazing Shotel: progression
+Blooming Arch: progression
+Blooming Blade: progression
+Blooming Glaive: progression
+Blooming Hammer: progression
+Blooming Horn: progression
+Blooming Knife: progression
+Blooming Shooter: progression
+Blos Medulla: progression
+Bone Axe: progression
+Bone Blade: progression
+Bone Bludgeon: progression
+Bone Cannon: progression
+Bone Gunlance: progression
+Bone Hatchets: progression
+Bone Horn: progression
+Bone Kukri: progression
+Bone Lance: progression
+Bone Reaper: progression
+Bone Rod: progression
+Bone Shooter: progression
+Bone Shotel: progression
+Bone Slasher: progression
+Bone Smasher: progression
+Bone Strongarm: progression
+Boulder Bone: progression
+Buon Fiore: progression
+Buster Blade: progression
+Buster Sword: progression
+Carapace Axe: progression
+Carapace Buster: progression
+Carapace Cannon: progression
+Carapace Edge: progression
+Carapace Lance: progression
+Carapace Rifle: progression
+Carapace Sledge: progression
+Carbalite Ore: progression
 Cataclysm's Trigger: progression
-Nergal Impaler: progression
-Perdition's Hand: progression
-Nergal Groove: progression
-Desolation's Overture: progression
-Progressive Kushala Armor: progression
-Progressive Kushala Weapon: progression
-Icesteel Edge: progression
-Daora's Decimator: progression
-Twin Nails (Kushala): progression
-Fire and Ice (Kushala): progression
-Icesteel Bow: progression
-Daora's Sagittarii: progression
-Daora's Entom: progression
-Daora's Tethidine: progression
-Daora's Casca: progression
-Daora's Thwarriose: progression
-Icesteel Hammer: progression
-Daora's Colossus: progression
-Icesteel Gunlance: progression
-Daora's Brigia: progression
-Icesteel Wasp: progression
-Daora's Hornet: progression
-Icesteel Spear: progression
-Daora's Fang: progression
-Kushala Daora parts: progression
-Daora Webbing: progression
-Daora Gem: progression
+Catastrophe's Light: progression
+Chain Blitz: progression
+Chief Kukri: progression
+Chrome Assault: progression
+Chrome Blade: progression
+Chrome Guardian: progression
+Chrome Gunlance: progression
+Chrome Lance: progression
+Chrome Razor: progression
+Chrome Slicer: progression
+Chrome Slicers: progression
+Claws: progression
+Common Monster bones: progression
+Coral Crystal: progression
+Cross Blitz: progression
+Crushing Beak: progression
+Crystals: progression
+Dancing Duval: progression
+Daora Carapace: progression
 Daora Claw: progression
 Daora Dragon Scale: progression
-Daora Carapace: progression
+Daora Gem: progression
 Daora Horn: progression
-Elder Dragon Bone (K): progression
-Elder Dragon Blood (K): progression
 Daora Tail: progression
+Daora Webbing: progression
+Daora's Brigia: progression
+Daora's Casca: progression
+Daora's Colossus: progression
+Daora's Decimator: progression
+Daora's Entom: progression
+Daora's Fang: progression
+Daora's Hornet: progression
+Daora's Sagittarii: progression
+Daora's Tethidine: progression
+Daora's Thwarriose: progression
+Datura Blade: progression
+Datura Blaster: progression
+Datura Blaze: progression
+Datura Blossom: progression
+Datura Horn: progression
+Datura String: progression
+Decimation Claws: progression
+Desolation's Overture: progression
+Destruction's Fusillade: progression
+Devastation's Thorns: progression
+Diablos Axe: progression
+Diablos Bow: progression
+Diablos Carapace: progression
+Diablos Clubs: progression
+Diablos Coilbender: progression
+Diablos Fang: progression
+Diablos Hatchets: progression
+Diablos Ridge: progression
+Diablos Rod: progression
+Diablos Shatterer: progression
+Diablos Shell: progression
+Diablos Shooter: progression
+Diablos Sledge: progression
+Diablos Tyrannis: progression
+Diablos Wall: progression
+Diablos parts: progression
+Dipterus: progression
+Doom's Shaft: progression
+Dragonite Ore: progression
+Dragonvein Crystal: progression
+Dual Slicers: progression
+Dual Threat: progression
+Dying Light: progression
+Earth Crystal: progression
+Elder Dragon Blood (K): progression
+Elder Dragon Blood (N): progression
+Elder Dragon Bone (K): progression
+Elder Dragon Bone (N): progression
+Elder Dragon parts: progression
+Electro Sac: progression
+Elemental sacs: progression
+Elite Commission Axe: progression
+Eradication Flame: progression
+Eradication Vanguard: progression
+Extermination's Edge: progression
+Fertile Mud: progression
+Fire Dragon Scale: progression
+Fire and Ice (Kushala): progression
+Fire and Ice (Teostra): progression
+Firecell Stone: progression
+First Dance: progression
+Flame Blade: progression
+Flame Blitz: progression
+Flame Glaive: progression
+Flame Knife: progression
+Flame Lance: progression
+Flame Sac: progression
+Flammenbeil: progression
+Flammenkaefer: progression
+Flying Kadachi Strikebow: progression
+Fortissimo: progression
+Fossil Bludgeon: progression
+Fucium Ore: progression
+Gajau Scale: progression
+Giant Jawblade: progression
+Glutton Gunlance: progression
+Gnashing Flammenbeil: progression
+Gnashing Flammenkaefer: progression
+Grand Barong: progression
+Grandrock: progression
+Great Bagpipe: progression
+Great Bone Gunlance: progression
+Great Jagras Claw: progression
+Great Jagras Hide: progression
+Great Jagras Mane: progression
+Great Jagras Scale: progression
+Great Jagras parts: progression
+Hard Bone Horn: progression
+Hard Bone Lance: progression
+Hard Bone Rod: progression
+Hard Bone Shotel: progression
+Hard Bone Strongarm: progression
+Heat Edge: progression
+Heavy Bone Horn: progression
+Heavy Bone Lance: progression
+Heavy Shooter: progression
+High Chain Blitz: progression
+Horns: progression
+Hunter's Bow: progression
+Hunter's Knife: progression
+Hunter's Proudbow: progression
+Hunter's Rifle: progression
+Hunter's Stoutbow: progression
+Icesteel Bow: progression
+Icesteel Edge: progression
+Icesteel Gunlance: progression
+Icesteel Hammer: progression
+Icesteel Spear: progression
+Icesteel Wasp: progression
+Immortal Dragonscale: progression
+Imperial Saber: progression
+Imperial Shimmer: progression
+Improved Steel Axe: progression
+Inferno Sac: progression
+Iron Archdemon: progression
+Iron Assault: progression
+Iron Blade: progression
+Iron Bow: progression
+Iron Demon: progression
+Iron Gospel: progression
+Iron Grace: progression
+Iron Gunlance: progression
+Iron Hammer: progression
+Iron Katana: progression
+Iron Lance: progression
+Jagras Assault: progression
+Jagras Blade: progression
+Jagras Blitz: progression
+Jagras Cannon: progression
+Jagras Edge: progression
+Jagras Escudo: progression
+Jagras Fire: progression
+Jagras Garotte: progression
+Jagras Gunlance: progression
+Jagras Hacker: progression
+Jagras Strongarm: progression
+Jyura Bullet: progression
+Jyura Buster: progression
+Jyura Depth: progression
+Jyura Hatchets: progression
+Jyura Shotel: progression
+Jyuratodus Carapace: progression
+Jyuratodus Fang: progression
+Jyuratodus Fin: progression
+Jyuratodus Scale: progression
+Jyuratodus Shell: progression
+Jyuratodus parts: progression
+Kadachi Claws: progression
+Kadachi Fang: progression
+Kadachi Kaina: progression
+Kadachi Lion: progression
+Kulu Arrow: progression
+Kulu Beak: progression
+Kulu Blade: progression
+Kulu Duda: progression
+Kulu Hasta: progression
+Kulu Lance: progression
+Kulu-Ya-Ku Beak: progression
+Kulu-Ya-Ku Hide: progression
+Kulu-Ya-Ku Plume: progression
+Kulu-Ya-Ku Scale: progression
+Kulu-Ya-Ku parts: progression
+Kushala Daora parts: progression
+Last Dance: progression
+Lightcrystal: progression
+Lightning Drum: progression
+Lightning Spire: progression
+Machalite Ore: progression
+Madness Gunlance: progression
+Madness Pangas: progression
+Madness Rifle: progression
+Magestic Horn: progression
+Majestic Horn: progression
+Matched Slicers: progression
+Metal Bagpipe: progression
+Mighty Strongarm: progression
+Monster Bone Large: progression
+Monster Bone Medium: progression
+Monster Bone Small: progression
+Monster Hardbone: progression
+Monster Keenbone: progression
+Mudslide Blade: progression
+Nergal Crusher: progression
+Nergal Gash: progression
+Nergal Gouge: progression
+Nergal Groove: progression
+Nergal Impaler: progression
+Nergal Jack: progression
+Nergal Judicator: progression
+Nergal Lacerator: progression
+Nergal Ram: progression
+Nergal Reaper: progression
+Nergal Reaver: progression
+Nergal Roar: progression
+Nergal Spitter: progression
+Nergal Whisper: progression
+Nergigante Carapace: progression
 Nergigante Carapace (K): progression
+Nergigante Gem: progression
+Nergigante Horn: progression
+Nergigante Regrowth Plate: progression
+Nergigante Tail: progression
+Nergigante Talon: progression
+Nergigante parts: progression
+Novacrystal: progression
+Obliteration's Footfall: progression
+Ores: progression
+Perdition's Hand: progression
+Perfected Alloy Axe: progression
+Piercing Claw: progression
+Poison Sac: progression
+Poogie Pets: filler
+Potion: useful
+Power Rifle: progression
+Power Shooter: progression
+Power Smasher: progression
+Progressive Alloy Armor: progression
+Progressive Anja Armor: progression
+Progressive Anjanath: progression
+Progressive Anjanath Weapon: progression
+Progressive Azure Rathalos: progression
+Progressive Barroth: progression
+Progressive Barroth Armor: progression
+Progressive Barroth Weapon: progression
+Progressive Black Diablos: progression
+Progressive Bone Armor: progression
+Progressive Bone Weapon: progression
+Progressive Diablos: progression
+Progressive Diablos Armor: progression
+Progressive Diablos Nero Armor: progression
+Progressive Diablos Weapon: progression
+Progressive Great Jagras: progression
+Progressive Great Jagras Weapon: progression
+Progressive Jagras Armor: progression
+Progressive Jyura Armor: progression
+Progressive Jyuratodus: progression
+Progressive Jyuratodus Weapon: progression
+Progressive Kadachi Armor: progression
+Progressive Kaiser Armor: progression
+Progressive Kulu Armor: progression
+Progressive Kulu Weapon: progression
+Progressive Kulu-Ya-Ku: progression
+Progressive Kushala Armor: progression
+Progressive Kushala Daora: progression
+Progressive Kushala Weapon: progression
+Progressive Metal Weapon: progression
+Progressive Nergigante: progression
+Progressive Nergigante Armor: progression
+Progressive Nergigante Weapon: progression
+Progressive Pukei Armor: progression
+Progressive Pukei-Pukei: progression
+Progressive Pukei-Pukei Weapon: progression
+Progressive Rath Soul Armor: progression
+Progressive Rathalos: progression
+Progressive Rathalos Armor: progression
+Progressive Rathalos Weapon: progression
+Progressive Teostra: progression
+Progressive Teostra Weapon: progression
+Progressive Tobi-Kadachi: progression
+Progressive Tobi-Kadachi Weapon: progression
+Proto Commission Axe: progression
+Proto Iron Axe: progression
+Pukei-Pukei Carapace: progression
+Pukei-Pukei Quill: progression
+Pukei-Pukei Sac: progression
+Pukei-Pukei Scale: progression
+Pukei-Pukei Tail: progression
+Pukei-Pukei Wing: progression
+Pukei-Pukei parts: progression
+Pulsar Bow: progression
+Pulsar Hatchets: progression
+Pulsar Shooter: progression
+Pulsar Shotel: progression
+Pulsar Strongarm: progression
+Purgation's Atrocity: progression
+Quality Bone: progression
+Rare Monster bones: progression
+Rath Gunlance: progression
+Rathalos Axe: progression
+Rathalos Carapace: progression
+Rathalos Marrow: progression
+Rathalos Medulla: progression
+Rathalos Plate: progression
+Rathalos Scale: progression
+Rathalos Shell: progression
+Rathalos Tail: progression
+Rathalos Webbing: progression
+Rathalos Wing: progression
+Rathalos Wingtalon: progression
+Rathalos parts: progression
+Rathbringer Axe: progression
+Rathbuster: progression
+Rathmaul: progression
+Red Rook: progression
+Red Tail: progression
+Red Wing: progression
+Rending Beaks: progression
+Sharp Claw: progression
+Sniper Shot: progression
+Steel Assault: progression
+Steel Blade: progression
+Steel Bow: progression
+Steel Gunlance: progression
+Steel Knife: progression
+Steel Lance: progression
+Strong Hatchets: progression
+Teostra Carapace: progression
+Teostra Claw: progression
+Teostra Gem: progression
+Teostra Horn: progression
+Teostra Mane: progression
+Teostra Powder: progression
+Teostra Tail: progression
+Teostra Webbing: progression
+Teostra parts: progression
+Teostra's Artillery: progression
+Teostra's Arx: progression
+Teostra's Castle: progression
+Teostra's Emblem: progression
+Teostra's Flame: progression
+Teostra's Orphee: progression
+Teostra's Spada: progression
+Teostra's Tiple: progression
+Thunder Gaida: progression
+Thunder Lance: progression
+Thunder Sac: progression
+Tobi-Kadachi Claw: progression
+Tobi-Kadachi Electrode: progression
+Tobi-Kadachi Membrane: progression
+Tobi-Kadachi Pelt: progression
+Tobi-Kadachi Scale: progression
+Tobi-Kadachi parts: progression
+Torrent Sac: progression
+Toxin Sac: progression
+Twin Nails (Kushala): progression
+Twin Nails (Teostra): progression
+Twisted Horn: progression
+Tyrannis Glaive: progression
+Warm Pelt: progression
+Water Spike: progression
+Water Tamtam: progression
+Wild Hatchets: progression
+Wingdrake Hide: progression
+Wyvern Blade Blood: progression
+Wyvern Blade Fall: progression
+Wyvern Gem: progression
+Ya-Ku Wrath: progression

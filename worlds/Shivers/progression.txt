@@ -18,16 +18,6 @@ Crystal Pot Top: progression
 Lightning Pot Top: progression
 Sand Pot Top: progression
 Metal Pot Top: progression
-Water Pot Complete: progression
-Wax Pot Complete: progression
-Ash Pot Complete: progression
-Oil Pot Complete: progression
-Cloth Pot Complete: progression
-Wood Pot Complete: progression
-Crystal Pot Complete: progression
-Lightning Pot Complete: progression
-Sand Pot Complete: progression
-Metal Pot Complete: progression
 Key for Office Elevator: progression
 Key for Bedroom Elevator: progression
 Key for Three Floor Elevator: progression
@@ -70,16 +60,6 @@ Crystal Pot Top DUPE: progression
 Lightning Pot Top DUPE: progression
 Sand Pot Top DUPE: progression
 Metal Pot Top DUPE: progression
-Water Pot Complete DUPE: progression
-Wax Pot Complete DUPE: progression
-Ash Pot Complete DUPE: progression
-Oil Pot Complete DUPE: progression
-Cloth Pot Complete DUPE: progression
-Wood Pot Complete DUPE: progression
-Crystal Pot Complete DUPE: progression
-Lightning Pot Complete DUPE: progression
-Sand Pot Complete DUPE: progression
-Metal Pot Complete DUPE: progression
 Empty: filler
 Easier Lyre: filler
 Water Always Available in Lobby: filler
@@ -103,3 +83,23 @@ Metal Always Available in Projector Room: filler
 Metal Always Available in Bedroom: filler
 Metal Always Available in Prehistoric: filler
 Heal: filler
+Water Pot Complete: progression
+Wax Pot Complete: progression
+Ash Pot Complete: progression
+Oil Pot Complete: progression
+Cloth Pot Complete: progression
+Wood Pot Complete: progression
+Crystal Pot Complete: progression
+Lightning Pot Complete: progression
+Sand Pot Complete: progression
+Metal Pot Complete: progression
+Water Pot Complete DUPE: progression
+Wax Pot Complete DUPE: progression
+Ash Pot Complete DUPE: progression
+Oil Pot Complete DUPE: progression
+Cloth Pot Complete DUPE: progression
+Wood Pot Complete DUPE: progression
+Crystal Pot Complete DUPE: progression
+Lightning Pot Complete DUPE: progression
+Sand Pot Complete DUPE: progression
+Metal Pot Complete DUPE: progression

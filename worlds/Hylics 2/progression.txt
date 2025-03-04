@@ -29,7 +29,6 @@ MULTI-COFFEE: filler
 MULTI-JUICE: filler
 MULTI STEM CELL: filler
 MULTI SOUL SPONGE: filler
-ANTENNA: filler
 UPPER HOUSE KEY: progression
 BOTTOMLESS JUICE: useful
 SAGE TOKEN: progression
@@ -69,3 +68,4 @@ Pongorma: progression
 Dedusmuln: progression
 Somsnosa: progression
 10 Bones: filler
+ANTENNA: filler

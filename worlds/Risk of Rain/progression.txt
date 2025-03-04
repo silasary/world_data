@@ -1,23 +1,28 @@
-Equipment: filler
-Legendary Item: useful
-Stage 1: progression
-Money: filler
-Uncommon Item: useful
-Stage 4: progression
-Risk of Rain: progression
 Common Item: useful
-1000 Exp: filler
-Dried Lake: progression
-Teleporter Fragment: progression
+Uncommon Item: useful
+Legendary Item: useful
 Boss Item: filler
-Magma Barracks: progression
+Equipment: filler
+Teleporter Fragment: progression
+Money: filler
+1000 Exp: filler
+Time Warp Trap: unknown
+Combat Trap: unknown
+Meteor Trap: unknown
+Stage 1: progression
+Stage 2: unknown
+Stage 3: unknown
+Stage 4: progression
 Stage 5: progression
-Damp Caverns: progression
-Desolate Forest: progression
-Ancient Valley: progression
 Progressive Stage: progression
-Temple of the Elders: progression
-Hive Cluster: progression
-Sunken Tombs: progression
-Boar Beach: filler
+Desolate Forest: progression
+Dried Lake: progression
+Damp Caverns: progression
 Sky Meadow: progression
+Ancient Valley: progression
+Sunken Tombs: progression
+Magma Barracks: progression
+Hive Cluster: progression
+Temple of the Elders: progression
+Risk of Rain: progression
+Boar Beach: filler

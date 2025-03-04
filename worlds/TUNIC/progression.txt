@@ -1,115 +1,114 @@
+ATT Offering: useful
+Anklet: useful
+Aura's Gem: useful
+Back To Work: useful
+Blue Questagon: progression
+Bone Card: useful
+Bracer: useful
+Card Slot: useful
+Cyan Peril Ring: useful
+DEF Offering: useful
+Dagger Strap: useful
+Dath Stone: useful
+Dusty: useful
+Effigy: useful
+Fairy: progression
+Fire Bomb x2: filler
+Fire Bomb x3: filler
 Firecracker x2: filler
 Firecracker x3: filler
 Firecracker x4: filler
 Firecracker x5: filler
 Firecracker x6: filler
-Fire Bomb x2: filler
-Fire Bomb x3: filler
-Ice Bomb x2: filler
-Ice Bomb x3: filler
-Ice Bomb x5: filler
-Lure: filler
-Lure x2: filler
-Pepper x2: filler
-Ivy x3: filler
-Effigy: useful
+Flask Shard: useful
+Fool Trap: trap
+Forever Friend: useful
+Fortress Vault Key: progression
+Glass Cannon: useful
+Gold Questagon: mcguffin
+Golden Coin: mcguffin
+Green Questagon: progression
+Gun: useful
 HP Berry: filler
 HP Berry x2: filler
 HP Berry x3: filler
-MP Berry: filler
-MP Berry x2: filler
-MP Berry x3: filler
-Fairy: progression
-Stick: progression
-Sword: progression
-Sword Upgrade: progression
-Magic Wand: progression
-Magic Dagger: progression
-Magic Orb: progression
-Hero's Laurels: progression
-Lantern: progression
-Gun: useful
-Shield: useful
-Dath Stone: useful
-Hourglass: useful
-Old House Key: progression
-Key: progression
-Fortress Vault Key: progression
-Flask Shard: useful
-Potion Flask: useful
-Golden Coin: mcguffin
-Card Slot: useful
-Red Questagon: progression
-Green Questagon: progression
-Blue Questagon: progression
-Gold Questagon: mcguffin
-ATT Offering: useful
-DEF Offering: useful
-Potion Offering: useful
 HP Offering: useful
-MP Offering: useful
-SP Offering: useful
 Hero Relic - ATT: progression
 Hero Relic - DEF: progression
 Hero Relic - HP: progression
 Hero Relic - MP: progression
 Hero Relic - POTION: progression
 Hero Relic - SP: progression
-Orange Peril Ring: useful
-Tincture: useful
-Scavenger Mask: progression
-Cyan Peril Ring: useful
-Bracer: useful
-Dagger Strap: useful
+Hero's Laurels: progression
+Hourglass: useful
+Ice Bomb x2: filler
+Ice Bomb x3: filler
+Ice Bomb x5: filler
 Inverted Ash: useful
-Lucky Cup: useful
-Magic Echo: useful
-Anklet: useful
-Muffling Bell: useful
-Glass Cannon: useful
-Perfume: useful
-Louder Echo: useful
-Aura's Gem: useful
-Bone Card: useful
-Mr Mayor: useful
-Secret Legend: useful
-Sacred Geometry: useful
-Vintage: useful
+Ivy x3: filler
 Just Some Pals: useful
-Regal Weasel: useful
-Spring Falls: useful
-Power Up: useful
-Back To Work: useful
-Phonomath: useful
-Dusty: useful
-Forever Friend: useful
-Fool Trap: trap
+Key: progression
+Ladder in Dark Tomb: progression
+Ladder near Temple Rafters: progression
+Ladder to Beneath the Vault: progression
+Ladder to East Forest: progression
+Ladder to Quarry: progression
+Ladder to Ruined Atoll: progression
+Ladder to Swamp: progression
+Ladders in Hourglass Cave: progression
+Ladders in Library: progression
+Ladders in Lower Quarry: progression
+Ladders in Overworld Town: progression
+Ladders in South Atoll: progression
+Ladders in Swamp: progression
+Ladders in Well: progression
+Ladders near Dark Tomb: progression
+Ladders near Overworld Checkpoint: progression
+Ladders near Patrol Cave: progression
+Ladders near Weathervane: progression
+Ladders to Frog's Domain: progression
+Ladders to Lower Forest: progression
+Ladders to West Bell: progression
+Lantern: progression
+Louder Echo: useful
+Lucky Cup: useful
+Lure: filler
+Lure x2: filler
+MP Berry: filler
+MP Berry x2: filler
+MP Berry x3: filler
+MP Offering: useful
+Magic Dagger: progression
+Magic Echo: useful
+Magic Orb: progression
+Magic Wand: progression
 Money x1: filler
 Money x10: filler
+Money x100: filler
+Money x128: useful
 Money x15: filler
 Money x16: filler
 Money x20: filler
+Money x200: useful
 Money x25: filler
+Money x255: useful
 Money x30: filler
 Money x32: filler
 Money x40: filler
 Money x48: filler
 Money x50: filler
 Money x64: filler
-Money x100: filler
-Money x128: useful
-Money x200: useful
-Money x255: useful
+Mr Mayor: useful
+Muffling Bell: useful
+Old House Key: progression
+Orange Peril Ring: useful
 Pages 0-1: useful
-Pages 2-3: useful
-Pages 4-5: useful
-Pages 6-7: useful
-Pages 8-9: useful
 Pages 10-11: useful
 Pages 12-13: useful
 Pages 14-15: useful
 Pages 16-17: useful
 Pages 18-19: useful
+Pages 2-3: useful
 Pages 20-21: useful
 Pages 22-23: useful
 Pages 24-25 (Prayer): progression
@@ -120,6 +119,7 @@ Pages 32-33: useful
 Pages 34-35: useful
 Pages 36-37: useful
 Pages 38-39: useful
+Pages 4-5: useful
 Pages 40-41: useful
 Pages 42-43 (Holy Cross): progression
 Pages 44-45: useful
@@ -128,27 +128,27 @@ Pages 48-49: useful
 Pages 50-51: useful
 Pages 52-53 (Icebolt): progression
 Pages 54-55: useful
-Ladders near Weathervane: progression
-Ladders near Overworld Checkpoint: progression
-Ladders near Patrol Cave: progression
-Ladder near Temple Rafters: progression
-Ladders near Dark Tomb: progression
-Ladder to Quarry: progression
-Ladders to West Bell: progression
-Ladders in Overworld Town: progression
-Ladder to Ruined Atoll: progression
-Ladder to Swamp: progression
-Ladders in Well: progression
-Ladder in Dark Tomb: progression
-Ladder to East Forest: progression
-Ladders to Lower Forest: progression
-Ladder to Beneath the Vault: progression
-Ladders in Hourglass Cave: progression
-Ladders in South Atoll: progression
-Ladders to Frog's Domain: progression
-Ladders in Library: progression
-Ladders in Lower Quarry: progression
-Ladders in Swamp: progression
+Pages 6-7: useful
+Pages 8-9: useful
+Pepper x2: filler
+Perfume: useful
+Phonomath: useful
+Potion Flask: useful
+Potion Offering: useful
+Power Up: useful
+Red Questagon: progression
+Regal Weasel: useful
+SP Offering: useful
+Sacred Geometry: useful
+Scavenger Mask: progression
+Secret Legend: useful
+Shield: useful
+Spring Falls: useful
+Stick: progression
+Sword: progression
+Sword Upgrade: progression
+Tincture: useful
+Vintage: useful
 Grass: filler
 Money x2: filler
 Money x4: filler

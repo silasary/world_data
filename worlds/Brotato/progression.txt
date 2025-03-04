@@ -1,76 +1,84 @@
-Ranger: progression
-Demon: progression
-Legendary Upgrade: useful
-Crazy: progression
-Well Rounded: progression
-Glutton: progression
-Brawler: progression
-Rare Item: useful
-Mage: progression
-Rare Upgrade: useful
-Run Won: progression
-Renegade: progression
-Gold (10): filler
-Common Upgrade: useful
-Gladiator: progression
-Cyborg: progression
-Sick: progression
-Old: progression
-Uncommon Upgrade: useful
-Wildling: progression
-Uncommon Item: useful
-Gold (50): filler
-Streamer: progression
 Common Item: useful
-Arms Dealer: progression
+Uncommon Item: useful
+Rare Item: useful
 Legendary Item: progression
-Pacifist: progression
-XP (150): filler
-Soldier: progression
-One Armed: progression
-Saver: progression
-XP (25): progression
-Speedy: progression
-Golem: progression
-XP (10): filler
-Ghost: progression
-Fisherman: progression
-Entrepreneur: progression
+Common Upgrade: useful
+Uncommon Upgrade: useful
+Rare Upgrade: useful
+Legendary Upgrade: useful
+Progressive Shop Slot: useful
+Progressive Shop Lock Button: useful
 XP (5): filler
-Jack: progression
-Chunky: progression
-Multitasker: progression
-Knight: progression
-Apprentice: progression
-Explorer: progression
-Bull: progression
-Cryptid: progression
-Lucky: progression
+XP (10): filler
+XP (25): progression
 XP (50): filler
-Engineer: progression
+XP (100): filler
+XP (150): filler
+Gold (10): filler
+Gold (25): filler
+Gold (50): filler
+Gold (100): filler
+Gold (200): progression
+Run Won: progression
+Well Rounded: progression
+Brawler: progression
+Crazy: progression
+Ranger: progression
+Mage: progression
+Chunky: progression
+Old: progression
+Lucky: progression
 Mutant: progression
 Generalist: progression
-Gold (200): progression
-King: progression
 Loud: progression
-Doctor: progression
-Masochist: progression
+Multitasker: progression
+Wildling: progression
+Pacifist: progression
+Gladiator: progression
+Saver: progression
+Sick: progression
 Farmer: progression
-Artificer: progression
+Ghost: progression
+Speedy: progression
+Entrepreneur: progression
+Engineer: progression
+Explorer: progression
+Doctor: progression
 Hunter: progression
-Gold (100): filler
-XP (100): filler
+Artificer: progression
+Arms Dealer: progression
+Streamer: progression
+Cyborg: progression
+Glutton: progression
+Jack: progression
 Lich: progression
+Apprentice: progression
+Cryptid: progression
+Fisherman: progression
+Golem: progression
+King: progression
+Renegade: progression
+One Armed: progression
+Bull: progression
+Soldier: progression
+Masochist: progression
+Knight: progression
+Demon: progression
+Baby: progression
 Vagabond: progression
-Gold (25): filler
-Progressive Shop Lock Button: useful
+Technomage: unknown
+Vampire: unknown
+Sailor: progression
+Curious: unknown
+Builder: progression
+Captain: unknown
+Creature: unknown
+Chef: progression
 Druid: progression
+Dwarf: progression
 Gangster: progression
 Diver: progression
-Dwarf: progression
-Sailor: progression
-Builder: progression
-Progressive Shop Slot: useful
-Chef: progression
+Hiker: unknown
+Buccaneer: unknown
+Ogre: unknown
 Romantic: progression
-Baby: progression

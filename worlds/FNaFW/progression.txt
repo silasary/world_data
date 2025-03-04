@@ -1,57 +1,44 @@
-Progressive Animatronic: useful
-Key Shortcut Switch: progression
-Phantom Foxy: useful
-Withered Bonnie: useful
-Foxy: useful
-Bonnie: useful
-Freddy: useful
-Phantom Mangle: useful
-Chica: useful
-Toy Bonnie: useful
-100 Tokens: filler
-Progressive Byte: useful
-Progressive Chip: progression
-Key: progression
-X-FO: useful
-Nightmare Bonnie: useful
-Pop-Pop: useful
 Progressive Endoskeleton: useful
-Funtime Foxy: useful
-BossDrain-X: useful
-Pinwheel Circus Access Switch: progression
-Nightmare Freddy: useful
-Find Characters: progression
-Evercomet Weak: useful
-Laser Switch 2: progression
-Run Luck: useful
-Auto Giftboxes: useful
-Withered Chica: useful
-Spring Bonnie: useful
-2500 Tokens: filler
-Plushtrap: useful
-Nightmare Chica: useful
-Curse Status: useful
-500 Tokens: filler
-250 Tokens: filler
-Blacktomb Yard Access Switch: progression
-Laser Switch 3: progression
-Laser Switch 1: progression
-Dusting Fields Access: progression
-Choppy's Woods Access Switch: progression
-Pearl: useful
-Lilygear Lake Access Switch: progression
-Laser Switch 4: progression
-Medpod 2: useful
-Phantom Chica: useful
-Mangle: useful
+Freddy: useful
+Bonnie: useful
+Chica: useful
+Foxy: useful
+Toy Bonnie: useful
 Toy Chica: useful
-Phantom BB: useful
-Springtrap: useful
 Toy Freddy: useful
+Mangle: useful
+Balloon Boy: useful
+JJ: useful
 Phantom Freddy: useful
-Headstart Speed: useful
-BossDrain02: useful
-Headstart Defense: useful
+Phantom Chica: useful
+Phantom BB: useful
+Phantom Foxy: useful
+Phantom Mangle: useful
+Withered Bonnie: useful
+Withered Chica: useful
+Withered Freddy: useful
+Withered Foxy: useful
+Shadow Freddy: useful
+Marionette: useful
+Phantom Marionette: useful
+Golden Freddy: useful
+Paperpals: useful
+Nightmare Freddy: useful
+Nightmare Bonnie: useful
+Nightmare Chica: useful
+Nightmare Foxy: useful
+Endo 01: useful
+Endo 02: useful
+Plushtrap: useful
+Endoplush: useful
+Springtrap: useful
+RWQFSFASXC: useful
+Crying Child: useful
+Funtime Foxy: useful
+Nightmare Fredbear: useful
+Nightmare: useful
+Fredbear: progression
+Spring Bonnie: useful
 Jack-O-Bonnie: useful
 Jack-O-Chica: useful
 Animdude: useful
@@ -60,56 +47,69 @@ Nightmare BB: useful
 Nightmarionne: useful
 Coffee: useful
 Purpleguy: useful
-Medpod 1: useful
-Neon Bee: useful
-Endless Strength: useful
-Endo 02: useful
-1000 Tokens: filler
-Withered Freddy: useful
-Pizza Fury: useful
-Quickstart Party: useful
-Crying Child: useful
-KABOOM!: useful
-Gnat: useful
-Golden Freddy: useful
-Mini-Reaper: useful
-Block Jumpscare: useful
-Fredbear: progression
-Phantom Marionette: useful
-UFO: useful
-Endoplush: useful
-Nightmare: useful
-Withered Foxy: useful
-Endless Defense: useful
-BossDrain01: useful
-Block20: useful
-Mega-Med: useful
-Shadow Freddy: useful
-Auto Regen: useful
-Evercomet Strong: useful
-Endless Speed: useful
-Reaper: useful
-Auto Mimic: useful
-Paperpals: useful
-Balloon Boy: useful
-JJ: useful
-Auto Shield: useful
-Block5: useful
-Nightmare Fredbear: useful
+Headstart Defense: useful
 Headstart Strength: useful
-Block Unscrew: useful
-Marionette: useful
-BOOM!: useful
-Block50: useful
-Endo 01: useful
-RWQFSFASXC: useful
-Nightmare Foxy: useful
-Mini-FO: useful
-Counter Bite: useful
+Headstart Speed: useful
+Evercomet Weak: useful
+Quickstart Party: useful
+Block Jumpscare: useful
+Run Luck: useful
+Endless Defense: useful
+Endless Strength: useful
+Endless Speed: useful
+Evercomet Strong: useful
+Auto Giftboxes: useful
+Auto Regen: useful
+Find Characters: progression
+Curse Status: useful
 Freddle Fury: useful
+Auto Shield: useful
+Auto Mimic: useful
+Counter Bite: useful
+Pizza Fury: useful
+Block Unscrew: useful
+Gnat: useful
+Neon Bee: useful
 Neon Wasp: useful
+Medpod 1: useful
+Medpod 2: useful
+Mega-Med: useful
+Mini-Reaper: useful
+Reaper: useful
 X-Reaper: useful
-Warp Access: progression
+Mini-FO: useful
+UFO: useful
+X-FO: useful
+Block5: useful
+Block20: useful
+Block50: useful
+Pop-Pop: useful
+BOOM!: useful
+KABOOM!: useful
+BossDrain01: useful
+BossDrain02: useful
+BossDrain-X: useful
+Choppy's Woods Access Switch: progression
+Lilygear Lake Access Switch: progression
+Blacktomb Yard Access Switch: progression
+Pinwheel Circus Access Switch: progression
+Key Shortcut Switch: progression
+Laser Switch 1: progression
+Laser Switch 2: progression
+Laser Switch 3: progression
+Laser Switch 4: progression
+Key: progression
+Progressive Animatronic: useful
+Progressive Chip: progression
+Progressive Byte: useful
 25 Tokens: filler
 50 Tokens: filler
+100 Tokens: filler
+250 Tokens: filler
+500 Tokens: filler
+1000 Tokens: filler
+2500 Tokens: filler
 5000 Tokens: filler
+Pearl: useful
+Dusting Fields Access: progression
+Warp Access: progression

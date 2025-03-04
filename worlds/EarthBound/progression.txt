@@ -1,175 +1,269 @@
-Royal Iced Tea: filler
-Insecticide Spray: filler
-Bread Roll: filler
-Trout Yogurt: filler
-Chef's Special: filler
-Molokheiya Soup: filler
-Yogurt Dispenser: progression
-Hyper Beam: useful
-Key to the Cabin: progression
-Letter For Tony: progression
-Bean Croquette: filler
-Croissant: filler
-Jar of Fly Honey: progression
-Key to the Tower: progression
-Wad of Bills: progression
-Xterminator Spray: useful
-Tendakraut: progression
-Sugar Packet: filler
-Viper: filler
-Progressive Poo PSI: useful
-Hard Hat: filler
-Refreshing Herb: useful
-Chick: filler
-Popsicle: filler
-Pop Gun: filler
-Key to the Shack: progression
-Onett Teleport: progression
-Zip Gun: filler
-Holmes Hat: filler
-Piggy Nose: progression
-Gutsy Bat: useful
-Fresh Egg: filler
-Saturn Ribbon: useful
-Salt Packet: filler
-Summers Teleport: progression
-UFO Engine: progression
-Key to the Locker: progression
-Pair of Dirty Socks: filler
-Night Pendant: useful
-Slingshot: progression
-Travel Charm: filler
-Winters Teleport: progression
-Snake: filler
-Mummy Wrap: filler
-Large Pizza: filler
-Hamburger: filler
-Snake Bag: filler
-Bottle Rocket: filler
-Toy Air Gun: filler
-King Banana: progression
-Flame Pendant: useful
-Calorie Stick: filler
-Meteorite Piece: progression
-Jeff: progression
-Pencil Eraser: progression
-Yo-yo: filler
-Double Beam: useful
-Cookie: filler
-Shyness Book: progression
-Coin of Slumber: useful
-Toothbrush: filler
-Bicycle: useful
-Hawk Eye: progression
-Gelato de Resort: filler
-Diamond: progression
-Lost Underworld Teleport: progression
-Tenda Village Teleport: progression
-Deep Darkness Teleport: progression
-Fourside Teleport: progression
-Dalaam Teleport: progression
-Legendary Bat: useful
-Cloak of Kings: useful
-Scaraba Teleport: progression
-Diadem of Kings: useful
-Bracer of Kings: useful
-Zombie Paper: progression
-Saturn Valley Teleport: progression
-Eraser Eraser: progression
-Sword of Kings: useful
-Sea Pendant: useful
-Progressive Bat: useful
-Speed Capsule: filler
-Super Bomb: filler
-Brain Food Lunch: filler
-Cup of Coffee: filler
-For Sale Sign: filler
-Spicy Jerky: filler
-Progressive Gun: useful
-IQ Capsule: useful
-Signed Banana: progression
-Progressive Bracelet: useful
-Mining Permit: progression
-Crystal Charm: filler
-Baseball Cap: filler
-Talisman Ribbon: filler
-Non-Stick Frypan: filler
-Banana: filler
-Cold Remedy: filler
-Platinum Band: filler
-Lucky Coin: filler
-Protein Drink: filler
-Tiny Ruby: progression
-Bomb: filler
-Minor League Bat: filler
-Cup of Noodles: filler
-Pasta di Summers: filler
+Franklin Badge: unknown
+Teddy Bear: filler
 Super Plush Bear: useful
-Beef Jerky: filler
+Broken Machine: unknown
+Broken Gadget: unknown
+Broken Air Gun: unknown
+Broken Spray Can: unknown
+Broken Laser: unknown
+Broken Iron: unknown
+Broken Pipe: unknown
+Broken Cannon: unknown
+Broken Tube: unknown
+Broken Bazooka: unknown
+Broken Trumpet: unknown
+Broken Harmonica: unknown
+Broken Antenna: unknown
+Cracked Bat: trap
+Tee Ball Bat: filler
+Sand Lot Bat: unknown
+Minor League Bat: filler
+Mr. Baseball Bat: unknown
+Big League Bat: filler
+Hall of Fame Bat: unknown
+Magicant Bat: filler
+Legendary Bat: useful
+Gutsy Bat: useful
+Casey Bat: unknown
+Fry Pan: filler
+Thick Fry Pan: filler
+Deluxe Fry Pan: unknown
+Chef's Fry Pan: unknown
 French Fry Pan: filler
+Magic Fry Pan: unknown
+Holy Fry Pan: unknown
+Sword of Kings: useful
+Pop Gun: filler
+Stun Gun: filler
+Toy Air Gun: filler
+Magnum Air Gun: unknown
+Zip Gun: filler
+Laser Gun: unknown
+Hyper Beam: useful
+Crusher Beam: filler
+Spectrum Beam: filler
+Death Ray: unknown
+Baddest Beam: filler
+Moon Beam Gun: unknown
+Gaia Beam: unknown
+Yo-yo: filler
+Slingshot: progression
+Bionic Slingshot: unknown
+Trick Yo-yo: unknown
+Combat Yo-yo: unknown
+Travel Charm: filler
+Great Charm: trap
+Crystal Charm: filler
+Rabbit's Foot: unknown
+Flame Pendant: useful
+Rain Pendant: filler
+Night Pendant: useful
+Sea Pendant: useful
+Star Pendant: unknown
+Cloak of Kings: useful
+Cheap Bracelet: filler
+Copper Bracelet: filler
+Silver Bracelet: filler
+Gold Bracelet: unknown
+Platinum Band: filler
+Diamond Band: unknown
+Pixie's Bracelet: filler
+Cherub's Band: useful
+Goddess Band: unknown
+Bracer of Kings: useful
+Baseball Cap: filler
+Holmes Hat: filler
+Mr. Baseball Cap: filler
+Hard Hat: filler
+Ribbon: filler
+Red Ribbon: filler
+Goddess Ribbon: unknown
+Coin of Slumber: useful
+Coin of Defense: filler
+Lucky Coin: filler
+Talisman Coin: unknown
+Shiny Coin: unknown
+Souvenir Coin: unknown
+Diadem of Kings: useful
+Cookie: filler
+Bag of Fries: unknown
+Hamburger: filler
+Boiled Egg: filler
+Fresh Egg: filler
+Picnic Lunch: filler
+Pasta di Summers: filler
+Pizza: filler
+Chef's Special: filler
+Large Pizza: filler
+PSI Caramel: unknown
+Magic Truffle: unknown
+Brain Food Lunch: filler
+Rock Candy: filler
+Croissant: filler
+Bread Roll: filler
+Pak of Bubble Gum: progression
+Jar of Fly Honey: progression
+Can of Fruit Juice: filler
+Royal Iced Tea: filler
+Protein Drink: filler
+Kraken Soup: unknown
+Bottle of Water: filler
+Cold Remedy: filler
+Vial of Serum: filler
+IQ Capsule: useful
+Guts Capsule: unknown
+Speed Capsule: filler
+Vital Capsule: unknown
+Luck Capsule: unknown
+Ketchup Packet: unknown
+Sugar Packet: filler
+Tin of Cocoa: filler
+Carton of Cream: filler
 Sprig of Parsley: filler
 Jar of Hot Sauce: filler
-Picnic Lunch: filler
-Wet Towel: filler
-Pizza: filler
-Cherub's Band: useful
-Bottle of DXwater: filler
-Kabob: filler
-Boiled Egg: filler
-Stun Gun: filler
-Coin of Defense: filler
-Vial of Serum: filler
-Big Bottle Rocket: useful
-Protractor: filler
-Teddy Bear: filler
-Can of Fruit Juice: filler
-Bottle of Water: filler
-Plain Yogurt: filler
-Tin of Cocoa: filler
-Sudden Guts Pill: filler
-Rock Candy: filler
-Chicken: filler
-Copper Bracelet: filler
-Magic Pudding: useful
-Slime Generator: filler
-Ruler: filler
-Heavy Bazooka: useful
-Fry Pan: filler
-Tee Ball Bat: filler
-Paula: progression
-Pharaoh's Curse: filler
-Ribbon: filler
-Double Burger: filler
-Lucky Sandwich: filler
-Mr. Baseball Cap: filler
-Red Ribbon: filler
-Neutralizer: filler
-Silver Bracelet: filler
-Big League Bat: filler
-Carrot Key: progression
-Magicant Bat: filler
-Spectrum Beam: filler
-Crusher Beam: filler
-Bazooka: useful
-Rain Pendant: filler
-Cheap Bracelet: filler
-Carton of Cream: filler
-Great Charm: trap
-Pixie's Bracelet: filler
-Cracked Bat: trap
-HP-Sucker: filler
-Stag Beetle: filler
-Baddest Beam: filler
-Plain Roll: trap
-Pak of Bubble Gum: progression
-Police Badge: progression
-Magic Tart: useful
+Salt Packet: filler
 Tiny Key: progression
-Piggy Jelly: filler
+Jar of Delisauce: unknown
+Wet Towel: filler
+Refreshing Herb: useful
 Secret Herb: filler
+Horn of Life: unknown
+Counter-PSI Unit: unknown
+Shield Killer: unknown
+Bazooka: useful
+Heavy Bazooka: useful
+HP-Sucker: filler
+Hungry HP-Sucker: unknown
+Xterminator Spray: useful
+Slime Generator: filler
+Yogurt Dispenser: progression
+Ruler: filler
+Snake Bag: filler
+Mummy Wrap: filler
+Protractor: filler
+Bottle Rocket: filler
+Big Bottle Rocket: useful
+Multi Bottle Rocket: unknown
+Bomb: filler
+Super Bomb: filler
+Insecticide Spray: filler
 Rust Promoter: filler
-Repel Superwich: filler
+Rust Promoter DX: unknown
+Pair of Dirty Socks: filler
+Stag Beetle: filler
+Toothbrush: filler
+Handbag Strap: unknown
+Pharaoh's Curse: filler
+Defense Shower: unknown
+UFO Engine: progression
+Sudden Guts Pill: filler
+Bag of Dragonite: unknown
+Defense Spray: unknown
+Piggy Nose: progression
+For Sale Sign: filler
+Shyness Book: progression
+Picture Postcard: unknown
+King Banana: progression
+Letter For Tony: progression
+Chick: filler
+Chicken: filler
+Key to the Shack: progression
+Key to the Cabin: progression
+Bad Key Machine: unknown
+Zombie Paper: progression
+Hawk Eye: progression
+Bicycle: useful
+ATM Card: unknown
+Show Ticket: unknown
+Tenda Lavapants: unknown
+Wad of Bills: progression
+Receiver Phone: unknown
+Diamond: progression
+Signed Banana: progression
+Pencil Eraser: progression
+Hieroglyph Copy: unknown
+Meteotite: unknown
+Contact Lens: unknown
+Hand-Aid: unknown
+Trout Yogurt: filler
+Banana: filler
+Calorie Stick: filler
+Key to the Tower: progression
+Meteorite Piece: progression
+Earth Pendant: unknown
+Neutralizer: filler
+Sound Stone: unknown
+Exit Mouse: unknown
+Gelato de Resort: filler
+Snake: filler
+Viper: filler
+Brain Stone: unknown
+Police Badge: progression
+Mining Permit: progression
+Suporma: unknown
+Key to the Locker: progression
+Insignificant Item: unknown
+Magic Tart: useful
+Tiny Ruby: progression
+Monkey's Love: unknown
+Eraser Eraser: progression
+Tendakraut: progression
+T-Rex's Bat: unknown
+Ultimate Bat: unknown
+Double Beam: useful
+Defense Ribbon: unknown
+Talisman Ribbon: filler
+Saturn Ribbon: useful
 Coin of Silence: useful
+Charm Coin: unknown
+Cup of Noodles: filler
+Repel Sandwich: unknown
+Repel Superwich: filler
+Lucky Sandwich: filler
+Progressive Bat: useful
+Progressive Fry Pan: unknown
+Progressive Gun: useful
+Progressive Bracelet: useful
+Progressive Other: unknown
+Cup of Coffee: filler
+Double Burger: filler
+Peanut Cheese Bar: unknown
+Piggy Jelly: filler
+Bowl of Rice Gruel: unknown
+Bean Croquette: filler
+Molokheiya Soup: filler
+Plain Roll: trap
+Kabob: filler
+Plain Yogurt: filler
+Beef Jerky: filler
 Mammoth Burger: filler
-Thick Fry Pan: filler
+Spicy Jerky: filler
+Luxury Jerky: unknown
+Bottle of DXwater: filler
+Magic Pudding: useful
+Non-Stick Frypan: filler
 Mr. Saturn Coin: filler
+Meteornium: unknown
+Popsicle: filler
+Cup of Lifenoodles: unknown
+Carrot Key: progression
+Onett Teleport: progression
+Twoson Teleport: unknown
+Happy-Happy Village Teleport: unknown
+Threed Teleport: unknown
+Saturn Valley Teleport: progression
+Dusty Dunes Teleport: unknown
+Fourside Teleport: progression
+Winters Teleport: progression
+Summers Teleport: progression
+Scaraba Teleport: progression
+Dalaam Teleport: progression
+Deep Darkness Teleport: progression
+Tenda Village Teleport: progression
+Lost Underworld Teleport: progression
+Progressive Poo PSI: useful
+Magicant Teleport: unknown
+Paula: progression
+Jeff: progression
+Poo: unknown
+Flying Man: unknown

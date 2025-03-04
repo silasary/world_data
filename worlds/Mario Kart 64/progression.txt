@@ -1,5 +1,5 @@
-Progressive Cup: progression
-Progressive Course: progression
+Progressive Cup Unlock: progression
+Progressive Course Unlock: unknown
 Banana Power: useful
 Banana Bunch Power: useful
 Green Shell Power: useful
@@ -106,10 +106,10 @@ Koopa Troopa Beach Item Boxes 6: filler
 Kalimari Desert Item Boxes 1: filler
 Kalimari Desert Item Boxes 2: filler
 Kalimari Desert Item Boxes 3: filler
-Toad's Turnpike Item Boxes 1: filler
-Toad's Turnpike Item Boxes 2: filler
-Toad's Turnpike Item Boxes 3: filler
-Toad's Turnpike Item Boxes 4: filler
+Toads Turnpike Item Boxes 1: unknown
+Toads Turnpike Item Boxes 2: unknown
+Toads Turnpike Item Boxes 3: filler
+Toads Turnpike Item Boxes 4: filler
 Frappe Snowland Item Boxes 1: filler
 Frappe Snowland Item Boxes 2: filler
 Frappe Snowland Item Boxes 3: filler
@@ -125,11 +125,11 @@ Wario Stadium Item Boxes 3: filler
 Wario Stadium Item Boxes 4: filler
 Wario Stadium Item Boxes 5: filler
 Wario Stadium Item Boxes 6: filler
-Sherbet Land Item Boxes 1: filler
-Sherbet Land Item Boxes 2: filler
-Sherbet Land Bypass Item Box: filler
-Sherbet Land Item Boxes 3: filler
-Sherbet Land Item Boxes 4: filler
+Sherbet Land First Item Boxes: filler
+Sherbet Land Left Of Rock Item Boxes: useful
+Sherbet Land Right Of Rock Item Box: filler
+Sherbet Land Cave Item Boxes: unknown
+Sherbet Land Last Item Boxes: unknown
 Royal Raceway Item Boxes 1: filler
 Royal Raceway Item Boxes 2: filler
 Royal Raceway Item Boxes 3: filler
@@ -143,11 +143,11 @@ D.K.'s Jungle Parkway Item Boxes 3: filler
 D.K.'s Jungle Parkway Item Boxes 4: filler
 D.K.'s Jungle Parkway Item Boxes 5: filler
 Yoshi Valley Field Item Boxes: filler
-Yoshi Valley Maze Entry Item Boxes: filler
+Yoshi Valley Maze Entry Right Item Boxes: progression
 Yoshi Valley Maze Bridge Item Boxes: filler
 Yoshi Valley Maze Rightmost Item Boxes: filler
-Yoshi Valley Maze Left Fork Item Boxes: filler
-Yoshi Valley Maze Left Ledge Item Boxes: filler
+Yoshi Valley Maze Leftmost Fork Boxes: progression
+Yoshi Valley Maze Leftmost Ledge Boxes: unknown
 Yoshi Valley Hairpin Turn Item Boxes: filler
 Yoshi Valley Giant Egg Item Boxes: filler
 Banshee Boardwalk Item Boxes 1: filler
@@ -162,18 +162,24 @@ Rainbow Road Item Boxes 5: filler
 Rainbow Road Item Boxes 6: filler
 Rainbow Road Item Boxes 7: filler
 Rainbow Road Item Boxes 8: filler
-Item Roulette: filler
+Random Item: useful
 Banana Trap: trap
 Green Shell Trap: trap
 Bomb Trap: trap
 Lightning Trap: trap
+Progressive Cup: progression
+Progressive Course: progression
+Toad's Turnpike Item Boxes 1: filler
+Toad's Turnpike Item Boxes 2: filler
+Toad's Turnpike Item Boxes 3: filler
+Toad's Turnpike Item Boxes 4: filler
+Sherbet Land Item Boxes 1: filler
+Sherbet Land Item Boxes 2: filler
+Sherbet Land Bypass Item Box: filler
+Sherbet Land Item Boxes 3: filler
+Sherbet Land Item Boxes 4: filler
+Yoshi Valley Maze Entry Item Boxes: filler
+Yoshi Valley Maze Left Fork Item Boxes: filler
+Yoshi Valley Maze Left Ledge Item Boxes: filler
+Item Roulette: filler
 Lakitu Trap: trap
-Sherbet Land Right Of Rock Item Box: filler
-Progressive Cup Unlock: progression
-Random Item: useful
-Toads Turnpike Item Boxes 3: filler
-Yoshi Valley Maze Entry Right Item Boxes: progression
-Yoshi Valley Maze Leftmost Fork Boxes: progression
-Sherbet Land Left Of Rock Item Boxes: useful
-Sherbet Land First Item Boxes: filler
-Toads Turnpike Item Boxes 4: filler

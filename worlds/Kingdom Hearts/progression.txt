@@ -1,128 +1,18 @@
-Victory: progression
-Potion: filler
-Hi-Potion: filler
-Ether: filler
-Elixir: filler
-Mega-Potion: filler
-Mega-Ether: filler
-Megalixir: filler
-Protect Chain: useful
-Protera Chain: useful
-Protega Chain: useful
-Fire Ring: useful
-Fira Ring: useful
-Firaga Ring: useful
-Blizzard Ring: useful
-Blizzara Ring: useful
-Blizzaga Ring: useful
-Thunder Ring: useful
-Thundara Ring: useful
-Thundaga Ring: useful
+AP Up: filler
 Ability Stud: useful
-Guard Earring: useful
-Master Earring: useful
-Chaos Ring: useful
-Dark Ring: useful
-Element Ring: useful
-Three Stars: useful
-Power Chain: useful
-Golem Chain: useful
-Titan Chain: useful
-Energy Bangle: useful
-Angel Bangle: useful
-Gaia Bangle: useful
-Magic Armlet: useful
-Rune Armlet: useful
-Atlas Armlet: useful
-Heartguard: useful
-Ribbon: useful
-Crystal Crown: useful
-Brave Warrior: useful
-Ifrit's Horn: useful
-Inferno Band: useful
-White Fang: useful
-Ray of Light: useful
-Holy Circlet: useful
-Raven's Claw: useful
-Omega Arts: useful
-EXP Earring: useful
-EXP Ring: useful
-EXP Bracelet: useful
-EXP Necklace: useful
-Firagun Band: useful
-Blizzagun Band: useful
-Thundagun Band: useful
-Ifrit Belt: useful
-Shiva Belt: useful
-Ramuh Belt: useful
-Moogle Badge: useful
-Cosmic Arts: useful
-Royal Crown: useful
-Prime Cap: useful
-Obsidian Ring: useful
-Wooden Sword: useful
-Jungle King: progression
-Three Wishes: progression
-Fairy Harp: progression
-Pumpkinhead: progression
-Crabclaw: useful
-Divine Rose: progression
-Spellbinder: useful
-Olympia: progression
-Lionheart: progression
-Metal Chocobo: useful
-Oathkeeper: progression
-Oblivion: progression
-Lady Luck: progression
-Wishing Star: progression
-Ultima Weapon: useful
-Diamond Dust: useful
-One-Winged Angel: useful
-Morning Star: useful
-Shooting Star: useful
-Magus Staff: useful
-Wisdom Staff: useful
-Warhammer: useful
-Silver Mallet: useful
-Grand Mallet: useful
-Lord Fortune: useful
-Violetta: useful
-Dream Rod (Donald): useful
-Save the Queen: useful
-Wizard's Relic: useful
-Meteor Strike: useful
-Fantasista: useful
-Mythril Shield: useful
-Onyx Shield: useful
-Stout Shield: useful
-Golem Shield: useful
+Accessory Slot Increase: useful
 Adamant Shield: useful
-Smasher: useful
-Gigas Fist: useful
-Genji Shield: useful
-Herc's Shield: useful
-Dream Shield (Goofy): useful
-Save the King: useful
-Defender: useful
-Mighty Shield: useful
-Seven Elements: useful
-Tent: filler
-Camping Set: filler
-Cottage: filler
+Aerial Sweep: useful
+Aero Arts: progression
+Agrabah: progression
+Air Combo Plus: useful
+All Puppies: progression
+Angel Bangle: useful
+Ansem's Report 1: progression
+Ansem's Report 10: progression
 Ansem's Report 11: progression
 Ansem's Report 12: progression
 Ansem's Report 13: progression
-Power Up: filler
-Defense Up: filler
-AP Up: filler
-Fire Arts: progression
-Blizzard Arts: progression
-Thunder Arts: progression
-Cure Arts: progression
-Gravity Arts: progression
-Stop Arts: progression
-Aero Arts: progression
-Ansem's Report 1: progression
 Ansem's Report 2: progression
 Ansem's Report 3: progression
 Ansem's Report 4: progression
@@ -131,28 +21,183 @@ Ansem's Report 6: progression
 Ansem's Report 7: progression
 Ansem's Report 8: progression
 Ansem's Report 9: progression
-Ansem's Report 10: progression
-Theon Vol. 6: progression
-Empty Bottle: progression
-Emblem Piece (Flame): progression
-Emblem Piece (Chest): progression
-Emblem Piece (Statue): progression
-Emblem Piece (Fountain): progression
+Ars Arcanum: useful
+Atlantica: progression
+Atlas Armlet: useful
+Bambi: progression
+Berserk: useful
+Blitz: useful
+Blizzaga Ring: useful
+Blizzagun Band: useful
+Blizzara Ring: useful
+Blizzard Arts: progression
+Blizzard Ring: useful
+Blue Trinity: progression
+Brave Warrior: useful
+Camping Set: filler
+Chaos Ring: useful
+Cheer: useful
+Combo Master: progression
+Combo Plus: useful
+Cosmic Arts: useful
+Cottage: filler
+Counterattack: useful
+Crabclaw: useful
+Critical Plus: useful
+Crystal Crown: useful
 Crystal Trident: progression
-Postcard: progression
-Torn Page 1: progression
-Torn Page 2: progression
-Torn Page 3: progression
-Torn Page 4: progression
-Torn Page 5: progression
-Slides: progression
+Cure Arts: progression
+Dark Ring: useful
+Deep Jungle: progression
+Defender: useful
+Defense Increase: useful
+Defense Up: filler
+Diamond Dust: useful
+Divine Rose: progression
+Dodge Roll: progression
+Dream Rod (Donald): useful
+Dream Shield (Goofy): useful
+Dumbo: progression
+EXP Bracelet: useful
+EXP Earring: useful
+EXP Necklace: useful
+EXP Ring: useful
+EXP Zero: useful
+Element Ring: useful
+Elixir: filler
+Emblem Piece (Chest): progression
+Emblem Piece (Flame): progression
+Emblem Piece (Fountain): progression
+Emblem Piece (Statue): progression
+Empty Bottle: progression
+Encounter Plus: useful
+End of the World: progression
+Energy Bangle: useful
+Entry Pass: progression
+Ether: filler
+Fairy Harp: progression
+Fantasista: useful
+Fira Ring: useful
+Firaga Ring: useful
+Firagun Band: useful
+Fire Arts: progression
+Fire Ring: useful
 Footprints: progression
 Forget-Me-Not: progression
-Jack-In-The-Box: progression
-Entry Pass: progression
+Gaia Bangle: useful
+Genie: progression
+Genji Shield: useful
+Gigas Fist: useful
+Golem Chain: useful
+Golem Shield: useful
+Grand Mallet: useful
+Gravity Arts: progression
+Gravity Break: useful
+Green Trinity: progression
+Guard: progression
+Guard Earring: useful
+Halloween Town: progression
+Heartguard: useful
+Herc's Shield: useful
+Hercules Cup: progression
+Hi-Potion: filler
 High Jump: progression
+Hollow Bastion: progression
+Holy Circlet: useful
+Hurricane Blast: useful
+Ifrit Belt: useful
+Ifrit's Horn: useful
+Inferno Band: useful
+Item Slot Increase: useful
+Jack-In-The-Box: progression
+Jackpot: useful
+Jungle King: progression
+Lady Luck: progression
+Leaf Bracer: progression
+Lionheart: progression
+Lord Fortune: useful
+Lucky Strike: useful
+MP Haste: useful
+MP Rage: progression
+Magic Armlet: useful
+Magus Staff: useful
+Master Earring: useful
+Max AP Increase: useful
+Max HP Increase: useful
+Max MP Increase: useful
+Mega-Ether: filler
+Mega-Potion: filler
+Megalixir: filler
 Mermaid Kick: progression
+Metal Chocobo: useful
+Meteor Strike: useful
+Mighty Shield: useful
+Monstro: progression
+Moogle Badge: useful
+Morning Star: useful
+Mushu: progression
+Mythril Shield: useful
+Neverland: progression
+Oathkeeper: progression
+Oblivion: progression
+Obsidian Ring: useful
+Olympia: progression
+Olympus Coliseum: progression
+Omega Arts: useful
+One-Winged Angel: useful
+Onyx Shield: useful
+Pegasus Cup: progression
+Phil Cup: progression
+Postcard: progression
+Potion: filler
+Power Chain: useful
+Power Up: filler
+Prime Cap: useful
+Progressive Aero: progression
+Progressive Blizzard: progression
+Progressive Cure: progression
+Progressive Fire: progression
 Progressive Glide: progression
+Progressive Gravity: progression
+Progressive Stop: progression
+Progressive Thunder: progression
+Protect Chain: useful
+Protega Chain: useful
+Protera Chain: useful
+Pumpkinhead: progression
+Puppies 01-03: progression
+Puppies 04-06: progression
+Puppies 07-09: progression
+Puppies 10-12: progression
+Puppies 13-15: progression
+Puppies 16-18: progression
+Puppies 19-21: progression
+Puppies 22-24: progression
+Puppies 25-27: progression
+Puppies 28-30: progression
+Puppies 31-33: progression
+Puppies 34-36: progression
+Puppies 37-39: progression
+Puppies 40-42: progression
+Puppies 43-45: progression
+Puppies 46-48: progression
+Puppies 49-51: progression
+Puppies 52-54: progression
+Puppies 55-57: progression
+Puppies 58-60: progression
+Puppies 61-63: progression
+Puppies 64-66: progression
+Puppies 67-69: progression
+Puppies 70-72: progression
+Puppies 73-75: progression
+Puppies 76-78: progression
+Puppies 79-81: progression
+Puppies 82-84: progression
+Puppies 85-87: progression
+Puppies 88-90: progression
+Puppies 91-93: progression
+Puppies 94-96: progression
+Puppies 97-99: progression
 Puppy 01: progression
 Puppy 02: progression
 Puppy 03: progression
@@ -252,110 +297,65 @@ Puppy 96: progression
 Puppy 97: progression
 Puppy 98: progression
 Puppy 99: progression
-Puppies 01-03: progression
-Puppies 04-06: progression
-Puppies 07-09: progression
-Puppies 10-12: progression
-Puppies 13-15: progression
-Puppies 16-18: progression
-Puppies 19-21: progression
-Puppies 22-24: progression
-Puppies 25-27: progression
-Puppies 28-30: progression
-Puppies 31-33: progression
-Puppies 34-36: progression
-Puppies 37-39: progression
-Puppies 40-42: progression
-Puppies 43-45: progression
-Puppies 46-48: progression
-Puppies 49-51: progression
-Puppies 52-54: progression
-Puppies 55-57: progression
-Puppies 58-60: progression
-Puppies 61-63: progression
-Puppies 64-66: progression
-Puppies 67-69: progression
-Puppies 70-72: progression
-Puppies 73-75: progression
-Puppies 76-78: progression
-Puppies 79-81: progression
-Puppies 82-84: progression
-Puppies 85-87: progression
-Puppies 88-90: progression
-Puppies 91-93: progression
-Puppies 94-96: progression
-Puppies 97-99: progression
-All Puppies: progression
-Treasure Magnet: useful
-Combo Plus: useful
-Air Combo Plus: useful
-Critical Plus: useful
-Scan: useful
-Sonic Blade: useful
-Ars Arcanum: useful
-Strike Raid: useful
 Ragnarok: useful
-Trinity Limit: useful
-Cheer: useful
-Vortex: useful
-Aerial Sweep: useful
-Counterattack: useful
-Blitz: useful
-Guard: progression
-Dodge Roll: progression
-MP Haste: useful
-MP Rage: progression
-Second Chance: progression
-Berserk: useful
-Jackpot: useful
-Lucky Strike: useful
-Slapshot: useful
-Sliding Dash: useful
-Hurricane Blast: useful
-Ripple Drive: useful
-Stun Impact: useful
-Gravity Break: useful
-Zantetsuken: useful
-Tech Boost: useful
-Encounter Plus: useful
-Leaf Bracer: progression
-EXP Zero: useful
-Combo Master: progression
-Max HP Increase: useful
-Max MP Increase: useful
-Max AP Increase: useful
-Strength Increase: useful
-Defense Increase: useful
-Accessory Slot Increase: useful
-Item Slot Increase: useful
-Dumbo: progression
-Bambi: progression
-Genie: progression
-Tinker Bell: progression
-Mushu: progression
-Simba: progression
-Progressive Fire: progression
-Progressive Blizzard: progression
-Progressive Thunder: progression
-Progressive Cure: progression
-Progressive Gravity: progression
-Progressive Stop: progression
-Progressive Aero: progression
-Wonderland: progression
-Olympus Coliseum: progression
-Deep Jungle: progression
-Agrabah: progression
-Halloween Town: progression
-Atlantica: progression
-Neverland: progression
-Hollow Bastion: progression
-End of the World: progression
-Monstro: progression
-Blue Trinity: progression
+Ramuh Belt: useful
+Raven's Claw: useful
+Ray of Light: useful
 Red Trinity: progression
-Green Trinity: progression
-Yellow Trinity: progression
+Ribbon: useful
+Ripple Drive: useful
+Royal Crown: useful
+Rune Armlet: useful
+Save the King: useful
+Save the Queen: useful
+Scan: useful
+Second Chance: progression
+Seven Elements: useful
+Shiva Belt: useful
+Shooting Star: useful
+Silver Mallet: useful
+Simba: progression
+Slapshot: useful
+Slides: progression
+Sliding Dash: useful
+Smasher: useful
+Sonic Blade: useful
+Spellbinder: useful
+Stop Arts: progression
+Stout Shield: useful
+Strength Increase: useful
+Strike Raid: useful
+Stun Impact: useful
+Tech Boost: useful
+Tent: filler
+Theon Vol. 6: progression
+Three Stars: useful
+Three Wishes: progression
+Thundaga Ring: useful
+Thundagun Band: useful
+Thundara Ring: useful
+Thunder Arts: progression
+Thunder Ring: useful
+Tinker Bell: progression
+Titan Chain: useful
+Torn Page 1: progression
+Torn Page 2: progression
+Torn Page 3: progression
+Torn Page 4: progression
+Torn Page 5: progression
+Treasure Magnet: useful
+Trinity Limit: useful
+Ultima Weapon: useful
+Victory: progression
+Violetta: useful
+Vortex: useful
+Warhammer: useful
+White Fang: useful
 White Trinity: progression
-Phil Cup: progression
-Pegasus Cup: progression
-Hercules Cup: progression
+Wisdom Staff: useful
+Wishing Star: progression
+Wizard's Relic: useful
+Wonderland: progression
+Wooden Sword: useful
+Yellow Trinity: progression
+Zantetsuken: useful

@@ -1,55 +1,172 @@
-Faith: Large: filler
-Cultural Hegemony: useful
-Governor Title: filler
-Gold:Medium: filler
-Faith: Small: filler
-Faith:Large: filler
-Progressive Era: progression
-Faith: Medium: filler
-Faith:Medium: filler
-Diplomatic Favor: filler
+Pottery: unknown
+Animal Husbandry: progression
+Mining: progression
+Sailing: unknown
+Astrology: unknown
+Irrigation: unknown
+Archery: unknown
+Writing: unknown
+Masonry: unknown
+Bronze Working: unknown
+The Wheel: unknown
+Celestial Navigation: unknown
+Currency: unknown
+Horseback Riding: unknown
+Iron Working: progression
+Shipbuilding: unknown
+Mathematics: unknown
+Construction: unknown
+Engineering: unknown
+Military Tactics: unknown
+Apprenticeship: unknown
 Machinery: progression
-CIVIC_SYNTHETIC_TECHNOCRACY: progression
-Advanced AI: useful
-Settler: useful
-Gold: Medium: filler
-Faith:Small: filler
-Class Struggle: progression
-Scorched Earth: filler
-Progressive Space Port: useful
-Global Warming Mitigation: filler
-Progressive Aerodrome: progression
+Education: unknown
+Stirrups: unknown
+Military Engineering: unknown
 Castles: progression
+Cartography: progression
+Mass Production: unknown
+Banking: unknown
+Gunpowder: unknown
+Printing: progression
+Square Rigging: progression
+Astronomy: unknown
+Metal Casting: unknown
+Siege Tactics: unknown
+Industrialization: unknown
+Scientific Theory: progression
+Ballistics: unknown
+Military Science: unknown
+Steam Power: progression
+Sanitation: unknown
+Economics: unknown
+Rifling: unknown
+Flight: unknown
+Replaceable Parts: unknown
+Steel: unknown
+Electricity: unknown
+Radio: unknown
+Chemistry: unknown
+Combustion: useful
+Advanced Flight: unknown
+Rocketry: unknown
+Advanced Ballistics: unknown
+Combined Arms: unknown
+Plastics: unknown
+Computers: progression
+Nuclear Fission: unknown
+Synthetic Materials: unknown
+Telecommunications: unknown
+Satellites: unknown
+Guidance Systems: unknown
+Lasers: unknown
+Composites: unknown
+Stealth Technology: useful
+Robotics: unknown
+Nanotechnology: unknown
+Nuclear Fusion: unknown
+Buttress: unknown
+Refining: progression
+Seasteads: useful
+Advanced AI: useful
+Advanced Power Cells: unknown
+Cybernetics: unknown
+Smart Materials: unknown
+Predictive Systems: unknown
+Offworld Mission: unknown
+Future Tech: unknown
+Code of Laws: progression
+Craftsmanship: unknown
+Foreign Trade: progression
+Military Tradition: unknown
+State Workforce: progression
+Early Empire: unknown
+Mysticism: unknown
+Games Recreation: unknown
+Political Philosophy: useful
+Drama and Poetry: unknown
+Military Training: unknown
+Defensive Tactics: unknown
+Recorded History: unknown
+Theology: unknown
+Naval Tradition: unknown
+Feudalism: unknown
+Civil Service: unknown
+Mercenaries: progression
+Medieval Faires: unknown
+Guilds: unknown
+Divine Right: unknown
+Exploration: unknown
+Humanism: unknown
+Diplomatic Service: unknown
+Reformed Church: progression
+Mercantilism: progression
+The Enlightenment: unknown
+Colonialism: unknown
+Civil Engineering: unknown
+Nationalism: progression
+Opera and Ballet: unknown
+Natural History: unknown
+Scorched Earth: filler
+Urbanization: unknown
+Conservation: unknown
+Capitalism: unknown
+Nuclear Program: unknown
+Mass Media: unknown
+Mobilization: unknown
+Ideology: unknown
+Suffrage: unknown
+Totalitarianism: unknown
+Class Struggle: progression
+Cold War: unknown
+Professional Sports: unknown
+Cultural Heritage: progression
+Rapid Deployment: unknown
+Space Race: unknown
+Globalization: progression
+Social Media: unknown
+Future Civic: unknown
+Environmentalism: unknown
+Corporate Libertarianism: unknown
+Digital Democracy: unknown
+Synthetic Technocracy: unknown
+Near Future Governance: unknown
+Global Warming Mitigation: filler
+Smart Power Doctrine: progression
+Information Warfare: unknown
+Exodus Imperative: unknown
+Cultural Hegemony: useful
 Progressive Campus: progression
 Progressive Theater: progression
-Combustion: useful
-Scientific Theory: progression
-Printing: progression
-State Workforce: progression
 Progressive Holy Site: progression
-Iron Working: progression
-Progressive Entertainment Complex: progression
-Refining: progression
-Progressive Industrial Zone: progression
-Progressive Commercial Hub: progression
-Code of Laws: progression
-Mercantilism: progression
-Progressive Preserve: progression
 Progressive Encampment: progression
-Globalization: progression
-Mining: progression
-Nationalism: progression
-Seasteads: useful
-Mercenaries: progression
-Stealth Technology: useful
-Reformed Church: progression
-Political Philosophy: useful
-Animal Husbandry: progression
+Progressive Commercial Hub: progression
+Progressive Harbor: unknown
+Progressive Industrial Zone: progression
+Progressive Preserve: progression
+Progressive Entertainment Complex: progression
+Progressive Neighborhood: unknown
+Progressive Aerodrome: progression
 Progressive Diplomatic Quarter: progression
-Smart Power Doctrine: progression
-Computers: progression
-Square Rigging: progression
-Cartography: progression
-Cultural Heritage: progression
-Steam Power: progression
-Foreign Trade: progression
+Progressive Space Port: useful
+Progressive Era: progression
+Gold: Small: unknown
+Gold: Medium: filler
+Gold: Large: unknown
+Faith: Small: filler
+Faith: Medium: filler
+Faith: Large: filler
+Diplomatic Favor: filler
+Governor Title: filler
+Envoy: unknown
+Relic: unknown
+Scout: unknown
+Additional Population: unknown
+Builder: unknown
+Trader: unknown
+Settler: useful
+Gold:Medium: filler
+Faith:Large: filler
+Faith:Medium: filler
+CIVIC_SYNTHETIC_TECHNOCRACY: progression
+Faith:Small: filler
