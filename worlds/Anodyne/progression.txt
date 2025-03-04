@@ -1,73 +1,73 @@
 Broom: progression
 Jump Shoes: progression
 Widen: progression
-Extend: unknown
+Extend: progression
 Swap: progression
-Card (Edward): unknown
-Card (Annoyer): progression
-Card (Seer): unknown
-Card (Shieldy): unknown
-Card (Slime): progression
-Card (PewLaser): progression
-Card (Suburbian): unknown
-Card (Watcher): progression
-Card (Silverfish): unknown
-Card (Gas Guy): progression
-Card (Mitra): progression
-Card (Miao): progression
-Card (Windmill): progression
-Card (Mushroom): progression
-Card (Dog): unknown
-Card (Rock): unknown
-Card (Fisherman): progression
-Card (Walker): unknown
-Card (Mover): progression
-Card (Slasher): progression
-Card (Rogue): unknown
-Card (Chaser): unknown
-Card (Fire Pillar): progression
-Card (Contorts): progression
+Card (Edward): mcguffin
+Card (Annoyer): mcguffin
+Card (Seer): mcguffin
+Card (Shieldy): mcguffin
+Card (Slime): mcguffin
+Card (PewLaser): mcguffin
+Card (Suburbian): mcguffin
+Card (Watcher): mcguffin
+Card (Silverfish): mcguffin
+Card (Gas Guy): mcguffin
+Card (Mitra): mcguffin
+Card (Miao): mcguffin
+Card (Windmill): mcguffin
+Card (Mushroom): mcguffin
+Card (Dog): mcguffin
+Card (Rock): mcguffin
+Card (Fisherman): mcguffin
+Card (Walker): mcguffin
+Card (Mover): mcguffin
+Card (Slasher): mcguffin
+Card (Rogue): mcguffin
+Card (Chaser): mcguffin
+Card (Fire Pillar): mcguffin
+Card (Contorts): mcguffin
 Card (Lion): mcguffin
-Card (Arthur and Javiera): progression
-Card (Frog): progression
-Card (Person): progression
-Card (Wall): progression
-Card (Blue Cube King): progression
-Card (Orange Cube King): progression
-Card (Dust Maid): unknown
-Card (Dasher): progression
-Card (Burst Plant): progression
-Card (Manager): unknown
-Card (Sage): progression
-Card (Young): unknown
-Card (Carved Rock): unknown
-Card (City Man): unknown
-Card (Intra): unknown
-Card (Torch): unknown
-Card (Triangle NPC): unknown
-Card (Killer): progression
-Card (Goldman): progression
-Card (Broom): unknown
-Card (Rank): unknown
-Card (Follower): progression
-Card (Rock Creature): unknown
-Card (Null): unknown
+Card (Arthur and Javiera): mcguffin
+Card (Frog): mcguffin
+Card (Person): mcguffin
+Card (Wall): mcguffin
+Card (Blue Cube King): mcguffin
+Card (Orange Cube King): mcguffin
+Card (Dust Maid): mcguffin
+Card (Dasher): mcguffin
+Card (Burst Plant): mcguffin
+Card (Manager): mcguffin
+Card (Sage): mcguffin
+Card (Young): mcguffin
+Card (Carved Rock): mcguffin
+Card (City Man): mcguffin
+Card (Intra): mcguffin
+Card (Torch): mcguffin
+Card (Triangle NPC): mcguffin
+Card (Killer): mcguffin
+Card (Goldman): mcguffin
+Card (Broom): mcguffin
+Card (Rank): mcguffin
+Card (Follower): mcguffin
+Card (Rock Creature): mcguffin
+Card (Null): mcguffin
 Golden Poop: filler
-Spam Can: unknown
-Glitch: unknown
-Heart: unknown
-Electric Monster: unknown
-Cat Statue: unknown
-Melos: unknown
-Marina: unknown
-Black Cube: unknown
-Red Cube: unknown
-Green Cube: unknown
-Blue Cube: unknown
-White Cube: useful
-Golden Broom: unknown
+Spam Can: filler
+Glitch: filler
+Heart: filler
+Electric Monster: filler
+Cat Statue: filler
+Melos: filler
+Marina: filler
+Black Cube: filler
+Red Cube: filler
+Green Cube: filler
+Blue Cube: filler
+White Cube: filler
+Golden Broom: filler
 Small Key (Apartment): progression
-Small Key (Temple of the Seeing One): unknown
+Small Key (Temple of the Seeing One): progression
 Small Key (Circus): progression
 Small Key (Mountain Cavern): progression
 Small Key (Hotel): progression
@@ -83,27 +83,27 @@ Progressive Red Cave: progression
 Temple of the Seeing One Statue: progression
 Red Cave Statue: progression
 Mountain Cavern Statue: progression
-Progressive Swap: unknown
-Heal: unknown
-Nexus Gate (Apartment): unknown
-Nexus Gate (Beach): unknown
-Nexus Gate (Temple of the Seeing One): unknown
-Nexus Gate (Blue): unknown
-Nexus Gate (Cell): unknown
-Nexus Gate (Circus): unknown
-Nexus Gate (Cliffs): unknown
-Nexus Gate (Mountain Cavern): unknown
-Nexus Gate (Fields): unknown
-Nexus Gate (Deep Forest): unknown
-Nexus Gate (GO): unknown
-Nexus Gate (Happy): unknown
+Progressive Swap: progression
+Heal: filler
+Nexus Gate (Apartment): progression
+Nexus Gate (Beach): progression
+Nexus Gate (Temple of the Seeing One): progression
+Nexus Gate (Blue): progression
+Nexus Gate (Cell): progression
+Nexus Gate (Circus): progression
+Nexus Gate (Cliffs): progression
+Nexus Gate (Mountain Cavern): progression
+Nexus Gate (Fields): progression
+Nexus Gate (Deep Forest): progression
+Nexus Gate (GO): progression
+Nexus Gate (Happy): progression
 Nexus Gate (Hotel): progression
-Nexus Gate (Overworld): unknown
-Nexus Gate (Red Cave): unknown
-Nexus Gate (Red Sea): unknown
-Nexus Gate (Young Town): unknown
-Nexus Gate (Space): unknown
-Nexus Gate (Terminal): unknown
-Nexus Gate (Windmill): unknown
-Person Trap: unknown
+Nexus Gate (Overworld): progression
+Nexus Gate (Red Cave): progression
+Nexus Gate (Red Sea): progression
+Nexus Gate (Young Town): progression
+Nexus Gate (Space): progression
+Nexus Gate (Terminal): progression
+Nexus Gate (Windmill): progression
+Person Trap: trap
 Gas Trap: trap
