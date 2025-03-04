@@ -516,7 +516,7 @@ Transport: Explorer: unknown
 Transport: Factory Cart: unknown
 Transport: Factory Cart (golden): filler
 Transport: Cyber Wagon: unknown
-Transport: Hypertube: unknown
+Transport: Hypertube: progression
 Transport: Hypertube Floor Hole: unknown
 Transport: Hypertube Wall Support: unknown
 Transport: Hypertube Wall Hole: useful
