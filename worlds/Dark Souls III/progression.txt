@@ -1,135 +1,34 @@
-Storm Ruler: progression
-Eleonora: progression
-Blacksmith Hammer: progression
-Mendicant's Staff: progression
-Pyromancy Flame: progression
-Avelyn: progression
-Large Leather Shield: progression
-Moaning Shield: progression
-Xanthous Crown: progression
-Black Eye Orb: progression
-Coiled Sword Fragment: progression
-Pale Tongue: progression
-Vertebra Shackle: progression
-Twinkling Dragon Torso Stone: progression
-Seed of a Giant Tree: progression
-Siegbräu: progression
-Soul of Champion Gundyr: progression
-Soul of the Dancer: progression
-Soul of a Crystal Sage: progression
-Soul of the Blood of the Wolf: progression
-Soul of Consumed Oceiros: progression
-Soul of Boreal Valley Vordt: progression
-Soul of the Old Demon King: progression
-Soul of Dragonslayer Armour: progression
-Soul of the Nameless King: progression
-Soul of Pontiff Sulyvahn: progression
-Soul of Aldrich: progression
-Soul of High Lord Wolnir: progression
-Soul of the Rotted Greatwood: progression
-Soul of Rosaria: progression
-Soul of the Deacons of the Deep: progression
-Soul of the Twin Princes: progression
-Soul of Yhorm the Giant: progression
-Soul of the Lords: progression
-Soul of a Demon: progression
-Soul of a Stray Demon: progression
-Lift Chamber Key: progression
-Small Doll: progression
-Jailbreaker's Key: progression
-Jailer's Key Ring: progression
-Cell Key: progression
-Old Cell Key: progression
-Grand Archives Key: progression
-Tower Key: progression
-Small Lothric Banner: progression
-Farron Coal: progression
-Sage's Coal: progression
-Giant's Coal: progression
-Profaned Coal: progression
-Mortician's Ashes: progression
-Dreamchaser's Ashes: progression
-Paladin's Ashes: progression
-Grave Warden's Ashes: progression
-Basin of Vows: progression
-Loretta's Bone: progression
-Braille Divine Tome of Carim: progression
-Braille Divine Tome of Lothric: progression
-Cinders of a Lord - Abyss Watcher: progression
-Cinders of a Lord - Aldrich: progression
-Cinders of a Lord - Yhorm the Giant: progression
-Cinders of a Lord - Lothric Prince: progression
-Great Swamp Pyromancy Tome: progression
-Carthus Pyromancy Tome: progression
-Izalith Pyromancy Tome: progression
-Quelana Pyromancy Tome: progression
-Grave Warden Pyromancy Tome: progression
-Sage's Scroll: progression
-Logan's Scroll: progression
-Crystal Scroll: progression
-Transposing Kiln: progression
-Coiled Sword: progression
-Eyes of a Fire Keeper: progression
-Sword of Avowal: progression
-Golden Scroll: progression
-Estus Shard: progression
-Undead Bone Shard: progression
-Deep Braille Divine Tome: progression
-Londor Braille Divine Tome: progression
-Excrement-covered Ashes: progression
-Prisoner Chief's Ashes: progression
-Xanthous Ashes: progression
-Dragon Chaser's Ashes: progression
-Easterner's Ashes: progression
-Path of the Dragon: progression
-Chameleon: progression
-Soul of Sister Friede: progression
-Soul of Slave Knight Gael: progression
-Soul of the Demon Prince: progression
-Soul of Darkeater Midir: progression
-Captain's Ashes: progression
-Contraption Key: progression
-Small Envoy Banner: progression
-Grass Crest Shield: useful
-Sage Ring+2: useful
-Prisoner's Chain: useful
-Lloyd's Sword Ring: useful
-Carthus Bloodring: useful
-Titanite Slab: useful
-Hidden Body: useful
-Spook: useful
-Pestilent Mist: useful
-Rapport: useful
-Power Within: useful
-Med Heal: useful
-Tears of Denial: useful
-Homeward: useful
-Chloranthy Ring+3: useful
-Havel's Ring+3: useful
-Ring of Favor+3: useful
-Ring of Steel Protection+3: useful
-Covetous Silver Serpent Ring+3: useful
 Standard Arrow: filler
+Standard Arrow x12: filler
 Standard Arrow x8: filler
 Fire Arrow: filler
 Fire Arrow x8: filler
 Poison Arrow: filler
+Poison Arrow x18: filler
 Poison Arrow x8: filler
 Large Arrow: filler
 Feather Arrow: filler
 Moonlight Arrow: filler
+Moonlight Arrow x6: filler
 Wood Arrow: filler
 Dark Arrow: filler
 Dragonslayer Greatarrow: filler
+Dragonslayer Greatarrow x5: filler
 Dragonslayer Lightning Arrow: filler
+Dragonslayer Lightning Arrow x10: filler
 Onislayer Greatarrow: filler
+Onislayer Greatarrow x8: unknown
 Standard Bolt: filler
 Heavy Bolt: filler
 Sniper Bolt: filler
+Sniper Bolt x11: filler
 Wood Bolt: filler
 Lightning Bolt: filler
+Lightning Bolt x9: filler
+Lightning Bolt x12: filler
 Splintering Bolt: filler
 Exploding Bolt: filler
+Exploding Bolt x6: filler
 Dagger: filler
 Bandit's Knife: filler
 Parrying Dagger: filler
@@ -149,7 +48,7 @@ Rotten Ghru Curved Sword: filler
 Irithyll Straight Sword: filler
 Cleric's Candlestick: filler
 Morion Blade: filler
-Astora's Straight Sword: filler
+Astora Straight Sword: filler
 Barbed Straight Sword: filler
 Executioner's Greatsword: filler
 Anri's Straight Sword: filler
@@ -203,17 +102,19 @@ Drakeblood Greatsword: filler
 Firelink Greatsword: filler
 Fume Ultra Greatsword: filler
 Old Wolf Curved Sword: filler
+Storm Ruler: progression
 Hand Axe: filler
 Battle Axe: filler
 Deep Battle Axe: filler
 Brigand Axe: filler
 Crescent Axe: filler
-Great Axe: filler
+Greataxe: filler
 Butcher Knife: filler
 Dragonslayer's Axe: filler
 Thrall Axe: filler
 Dragonslayer Greataxe: filler
 Demon's Greataxe: filler
+Eleonora: progression
 Man Serpent Hatchet: filler
 Club: filler
 Mace: filler
@@ -231,6 +132,7 @@ Warpick: filler
 Pickaxe: filler
 Dragon Tooth: filler
 Smough's Great Hammer: filler
+Blacksmith Hammer: progression
 Morne's Great Hammer: filler
 Spiked Mace: filler
 Spear: filler
@@ -273,6 +175,7 @@ Spotted Whip: filler
 Talisman: filler
 Sorcerer's Staff: filler
 Storyteller's Staff: filler
+Mendicant's Staff: progression
 Man-grub's Staff: filler
 Archdeacon's Great Staff: filler
 Golden Ritual Spear: filler
@@ -292,6 +195,7 @@ Canvas Talisman: filler
 Sunless Talisman: filler
 Saint's Talisman: filler
 White Hair Talisman: filler
+Pyromancy Flame: progression
 Dragonslayer Greatbow: filler
 Short Bow: filler
 Composite Bow: filler
@@ -299,6 +203,7 @@ Light Crossbow: filler
 Arbalest: filler
 Longbow: filler
 Dragonrider Bow: filler
+Avelyn: progression
 Knight's Crossbow: filler
 Heavy Crossbow: filler
 Darkmoon Longbow: filler
@@ -318,6 +223,7 @@ Drang Hammers: filler
 Buckler: filler
 Small Leather Shield: filler
 Round Shield: filler
+Large Leather Shield: progression
 Hawkwood's Shield: filler
 Iron Round Shield: filler
 Wooden Shield: filler
@@ -351,6 +257,7 @@ Sunlight Shield: filler
 Crest Shield: filler
 Dragon Crest Shield: filler
 Spider Shield: filler
+Grass Crest Shield: useful
 Sunset Shield: filler
 Golden Wing Crest Shield: filler
 Blue Wooden Shield: filler
@@ -363,6 +270,7 @@ Wargod Wooden Shield: filler
 Lothric Knight Greatshield: filler
 Cathedral Knight Greatshield: filler
 Dragonslayer Greatshield: filler
+Moaning Shield: progression
 Yhorm's Greatshield: filler
 Black Iron Greatshield: filler
 Wolf Knight's Greatshield: filler
@@ -401,6 +309,7 @@ Assassin Gloves: filler
 Assassin Trousers: filler
 Assassin Hood: filler
 Assassin Armor: filler
+Xanthous Crown: progression
 Xanthous Overcoat: filler
 Xanthous Gloves: filler
 Xanthous Trousers: filler
@@ -515,7 +424,7 @@ Dragonscale Waistcloth: filler
 Wolnir's Crown: filler
 Undead Legion Helm: filler
 Undead Legion Armor: filler
-Undead Legion Gauntlets: filler
+Undead Legion Gauntlet: filler
 Undead Legion Leggings: filler
 Fire Witch Helm: filler
 Fire Witch Armor: filler
@@ -744,6 +653,7 @@ Lingering Dragoncrest Ring+1: filler
 Lingering Dragoncrest Ring+2: filler
 Sage Ring: filler
 Sage Ring+1: filler
+Sage Ring+2: useful
 Slumbering Dragoncrest Ring: filler
 Dusk Crown Ring: filler
 Saint's Ring: filler
@@ -770,6 +680,7 @@ Lightning Clutch Ring: filler
 Fire Clutch Ring: filler
 Dark Clutch Ring: filler
 Flynn's Ring: filler
+Prisoner's Chain: useful
 Untrue Dark Ring: filler
 Obscuring Ring: filler
 Ring of the Evil Eye: filler
@@ -779,10 +690,12 @@ Calamity Ring: filler
 Farron Ring: filler
 Aldrich's Ruby: filler
 Aldrich's Sapphire: filler
+Lloyd's Sword Ring: useful
 Lloyd's Shield Ring: filler
 Estus Ring: filler
 Ashen Estus Ring: filler
 Horsehoof Ring: filler
+Carthus Bloodring: useful
 Reversal Ring: filler
 Pontiff's Right Eye: filler
 Pontiff's Left Eye: filler
@@ -792,56 +705,116 @@ Red Sign Soapstone: filler
 Red Eye Orb: filler
 Roster of Knights: filler
 Cracked Red Eye Orb: filler
+Cracked Red Eye Orb x5: unknown
+Black Eye Orb: progression
 Divine Blessing: filler
 Hidden Blessing: filler
-Silver Pendant: filler
 Green Blossom: filler
+Green Blossom x2: filler
+Green Blossom x3: filler
+Green Blossom x4: filler
 Budding Green Blossom: filler
+Budding Green Blossom x2: filler
+Budding Green Blossom x3: filler
 Bloodred Moss Clump: filler
+Bloodred Moss Clump x3: filler
 Purple Moss Clump: filler
+Purple Moss Clump x2: filler
+Purple Moss Clump x3: filler
+Purple Moss Clump x4: filler
 Blooming Purple Moss Clump: filler
+Blooming Purple Moss Clump x3: filler
 Purging Stone: filler
+Purging Stone x2: unknown
+Purging Stone x3: unknown
 Rime-blue Moss Clump: filler
+Rime-blue Moss Clump x2: filler
+Rime-blue Moss Clump x4: filler
 Repair Powder: filler
+Repair Powder x2: filler
+Repair Powder x3: filler
+Repair Powder x4: filler
 Kukri: filler
+Kukri x8: filler
+Kukri x9: filler
 Kukri x5: filler
 Firebomb: filler
+Firebomb x3: filler
+Firebomb x5: filler
+Firebomb x6: filler
 Firebomb x2: filler
 Dung Pie: filler
+Dung Pie x2: filler
+Dung Pie x4: filler
 Dung Pie x3: filler
 Alluring Skull: filler
+Alluring Skull x2: filler
+Alluring Skull x3: filler
 Undead Hunter Charm: filler
+Undead Hunter Charm x2: filler
+Undead Hunter Charm x3: filler
 Black Firebomb: filler
+Black Firebomb x2: filler
+Black Firebomb x3: filler
+Black Firebomb x4: filler
 Rope Firebomb: filler
 Lightning Urn: filler
+Lightning Urn x3: filler
+Lightning Urn x4: filler
+Lightning Urn x6: filler
 Rope Black Firebomb: filler
 Stalk Dung Pie: filler
+Stalk Dung Pie x6: filler
 Duel Charm: filler
+Duel Charm x3: filler
 Throwing Knife: filler
+Throwing Knife x6: filler
+Throwing Knife x8: filler
 Throwing Knife x5: filler
 Poison Throwing Knife: filler
 Charcoal Pine Resin: filler
+Charcoal Pine Resin x2: filler
 Gold Pine Resin: filler
+Gold Pine Resin x2: filler
 Human Pine Resin: filler
+Human Pine Resin x2: filler
+Human Pine Resin x4: filler
 Carthus Rouge: filler
+Carthus Rouge x2: filler
+Carthus Rouge x3: filler
 Pale Pine Resin: filler
+Pale Pine Resin x2: filler
 Charcoal Pine Bundle: filler
+Charcoal Pine Bundle x2: filler
 Gold Pine Bundle: filler
+Gold Pine Bundle x6: filler
 Rotten Pine Resin: filler
+Rotten Pine Resin x2: filler
+Rotten Pine Resin x4: filler
 Homeward Bone: filler
+Homeward Bone x2: filler
+Homeward Bone x3: filler
+Homeward Bone x6: filler
+Coiled Sword Fragment: progression
 Wolf's Blood Swordgrass: filler
 Human Dregs: filler
 Forked Pale Tongue: filler
 Proof of a Concord Well Kept: filler
 Prism Stone: filler
+Prism Stone x4: unknown
+Prism Stone x6: unknown
+Prism Stone x10: unknown
 Binoculars: filler
 Proof of a Concord Kept: filler
+Pale Tongue: progression
+Vertebra Shackle: progression
 Sunlight Medal: filler
 Dragon Head Stone: filler
 Dragon Torso Stone: filler
 Rubbish: filler
 Dried Finger: filler
 Twinkling Dragon Head Stone: filler
+Twinkling Dragon Torso Stone: progression
 Fire Keeper Soul: filler
 Fading Soul: filler
 Soul of a Deserted Corpse: filler
@@ -864,27 +837,70 @@ Soul of an Old Hand: filler
 Soul of a Venerable Old Hand: filler
 Soul of a Champion: filler
 Soul of a Great Champion: filler
+Seed of a Giant Tree: progression
 Mossfruit: filler
+Mossfruit x2: filler
 Young White Branch: filler
 Rusted Coin: filler
+Rusted Coin x2: filler
+Siegbräu: progression
 Rusted Gold Coin: filler
+Rusted Gold Coin x2: filler
+Rusted Gold Coin x3: filler
 Blue Bug Pellet: filler
+Blue Bug Pellet x2: filler
 Red Bug Pellet: filler
+Red Bug Pellet x2: filler
+Red Bug Pellet x3: filler
 Yellow Bug Pellet: filler
+Yellow Bug Pellet x2: filler
+Yellow Bug Pellet x3: filler
 Black Bug Pellet: filler
-Young White Branch: filler
+Black Bug Pellet x2: filler
+Black Bug Pellet x3: filler
 Dark Sigil: filler
 Ember: filler
+Ember x2: filler
 Hello Carving: filler
 Thank you Carving: filler
 Very good! Carving: filler
 I'm sorry Carving: filler
 Help me! Carving: filler
+Soul of Champion Gundyr: progression
+Soul of the Dancer: progression
+Soul of a Crystal Sage: progression
+Soul of the Blood of the Wolf: progression
+Soul of Consumed Oceiros: progression
+Soul of Boreal Valley Vordt: progression
+Soul of the Old Demon King: progression
+Soul of Dragonslayer Armour: progression
+Soul of the Nameless King: progression
+Soul of Pontiff Sulyvahn: progression
+Soul of Aldrich: progression
+Soul of High Lord Wolnir: progression
+Soul of the Rotted Greatwood: progression
+Soul of Rosaria: progression
+Soul of the Deacons of the Deep: progression
+Soul of the Twin Princes: progression
+Soul of Yhorm the Giant: progression
+Soul of the Lords: progression
+Soul of a Demon: progression
+Soul of a Stray Demon: progression
 Titanite Shard: filler
+Titanite Shard x2: filler
 Large Titanite Shard: filler
+Large Titanite Shard x2: filler
+Large Titanite Shard x3: filler
 Titanite Chunk: filler
+Titanite Chunk x2: filler
+Titanite Chunk x6: filler
+Titanite Slab: useful
 Titanite Scale: filler
+Titanite Scale x2: filler
+Titanite Scale x3: filler
 Twinkling Titanite: filler
+Twinkling Titanite x2: filler
+Twinkling Titanite x3: filler
 Heavy Gem: filler
 Sharp Gem: filler
 Refined Gem: filler
@@ -901,17 +917,65 @@ Raw Gem: filler
 Blessed Gem: filler
 Hollow Gem: filler
 Shriving Stone: filler
+Lift Chamber Key: progression
+Small Doll: progression
+Jailbreaker's Key: progression
+Jailer's Key Ring: progression
 Grave Key: filler
+Cell Key: progression
 Dungeon Ground Floor Key: filler
+Old Cell Key: progression
+Grand Archives Key: progression
+Tower Key: progression
+Small Lothric Banner: progression
+Farron Coal: progression
+Sage's Coal: progression
+Giant's Coal: progression
+Profaned Coal: progression
+Mortician's Ashes: progression
+Dreamchaser's Ashes: progression
+Paladin's Ashes: progression
+Grave Warden's Ashes: progression
 Greirat's Ashes: filler
 Orbeck's Ashes: filler
 Cornyx's Ashes: filler
 Karla's Ashes: filler
 Irina's Ashes: filler
 Yuria's Ashes: filler
+Basin of Vows: progression
+Loretta's Bone: progression
+Braille Divine Tome of Carim: progression
+Braille Divine Tome of Lothric: progression
+Cinders of a Lord - Abyss Watcher: progression
+Cinders of a Lord - Aldrich: progression
+Cinders of a Lord - Yhorm the Giant: progression
+Cinders of a Lord - Lothric Prince: progression
+Great Swamp Pyromancy Tome: progression
+Carthus Pyromancy Tome: progression
+Izalith Pyromancy Tome: progression
+Quelana Pyromancy Tome: progression
+Grave Warden Pyromancy Tome: progression
+Sage's Scroll: progression
+Logan's Scroll: progression
+Crystal Scroll: progression
+Transposing Kiln: progression
+Coiled Sword: progression
+Eyes of a Fire Keeper: progression
+Sword of Avowal: progression
+Golden Scroll: progression
+Estus Shard: progression
 Hawkwood's Swordgrass: filler
+Undead Bone Shard: progression
+Deep Braille Divine Tome: progression
+Londor Braille Divine Tome: progression
+Excrement-covered Ashes: progression
+Prisoner Chief's Ashes: progression
+Xanthous Ashes: progression
 Hollow's Ashes: filler
 Patches' Ashes: filler
+Dragon Chaser's Ashes: progression
+Easterner's Ashes: progression
+Path of the Dragon: progression
 Farron Dart: filler
 Great Farron Dart: filler
 Soul Arrow: filler
@@ -930,8 +994,11 @@ Crystal Magic Weapon: filler
 Magic Shield: filler
 Great Magic Shield: filler
 Hidden Weapon: filler
+Hidden Body: useful
 Cast Light: filler
 Repair: filler
+Spook: useful
+Chameleon: progression
 Aural Decoy: filler
 White Dragon Breath: filler
 Farron Hail: filler
@@ -942,7 +1009,7 @@ Affinity: filler
 Dark Edge: filler
 Soul Stream: filler
 Twisted Wall of Light: filler
-Pestilent Mercury: filler
+Pestilent Mist: useful
 Fireball: filler
 Fire Orb: filler
 Firestorm: filler
@@ -956,6 +1023,8 @@ Acid Surge: filler
 Iron Flesh: filler
 Flash Sweat: filler
 Carthus Flame Arc: filler
+Rapport: useful
+Power Within: useful
 Great Chaos Fire Orb: filler
 Chaos Storm: filler
 Fire Whip: filler
@@ -971,12 +1040,15 @@ Sacred Flame: filler
 Carthus Beacon: filler
 Heal Aid: filler
 Heal: filler
+Med Heal: useful
 Great Heal: filler
 Soothing Sunlight: filler
 Replenishment: filler
 Bountiful Sunlight: filler
 Bountiful Light: filler
 Caressing Tears: filler
+Tears of Denial: useful
+Homeward: useful
 Force: filler
 Wrath of the Gods: filler
 Emit Force: filler
@@ -1002,6 +1074,7 @@ Blessed Weapon: filler
 Deep Protection: filler
 Atonement: filler
 Millwood Greatarrow: filler
+Millwood Greatarrow x5: filler
 Aquamarine Dagger: filler
 Murky Hand Scythe: filler
 Onyx Blade: filler
@@ -1010,7 +1083,7 @@ Gael's Greatsword: filler
 Follower Sabre: filler
 Demon's Scar: filler
 Frayed Blade: filler
-Herald Curved Greatsword: filler
+Harald Curved Greatsword: filler
 Millwood Battle Axe: filler
 Earth Seeker: filler
 Quakestone Hammer: filler
@@ -1081,10 +1154,10 @@ Iron Dragonslayer Armor: filler
 Iron Dragonslayer Gauntlets: filler
 Iron Dragonslayer Leggings: filler
 White Preacher Head: filler
-Ruin Sentinel Helm: filler
-Ruin Sentinel Armor: filler
-Ruin Sentinel Gauntlets: filler
-Ruin Sentinel Leggings: filler
+Ruin Helm: filler
+Ruin Armor: filler
+Ruin Gauntlets: filler
+Ruin Leggings: filler
 Desert Pyromancer Hood: filler
 Desert Pyromancer Garb: filler
 Desert Pyromancer Gloves: filler
@@ -1096,15 +1169,27 @@ Black Witch Trousers: filler
 Black Witch Veil: filler
 Blindfold Mask: filler
 Spear of the Church: filler
+Chloranthy Ring+3: useful
+Havel's Ring+3: useful
+Ring of Favor+3: useful
+Ring of Steel Protection+3: useful
 Wolf Ring+3: filler
 Covetous Gold Serpent Ring+3: filler
+Covetous Silver Serpent Ring+3: useful
 Ring of the Evil Eye+3: filler
 Chillbite Ring: filler
 Church Guardian Shiv: filler
 Filianore's Spear Ornament: filler
 Ritual Spear Fragment: filler
 Divine Spear Fragment: filler
+Soul of Sister Friede: progression
+Soul of Slave Knight Gael: progression
+Soul of the Demon Prince: progression
+Soul of Darkeater Midir: progression
 Champion's Bones: filler
+Captain's Ashes: progression
+Contraption Key: progression
+Small Envoy Banner: progression
 Old Woman's Ashes: filler
 Blood of the Dark Soul: filler
 Frozen Weapon: filler
@@ -1117,6 +1202,16 @@ Seething Chaos: filler
 Lightning Arrow: filler
 Way of White Corona: filler
 Projected Heal: filler
+Astora's Straight Sword: filler
+Great Axe: filler
+Undead Legion Gauntlets: filler
+Silver Pendant: filler
+Pestilent Mercury: filler
+Herald Curved Greatsword: filler
+Ruin Sentinel Helm: filler
+Ruin Sentinel Armor: filler
+Ruin Sentinel Gauntlets: filler
+Ruin Sentinel Leggings: filler
 Blood-stained Short Sword: filler
 Missionary's Axe: filler
 Dragon King Greataxe: filler
@@ -1129,7 +1224,6 @@ Sacred Beast Catalyst: filler
 Deep Pyromancy Flame: filler
 Flickering Pyromancy Flame: filler
 Strong Pyromancy Flame: filler
-Deep Pyromancy Flame: filler
 Pitch-Dark Pyromancy Flame: filler
 Dancer's Short Bow: filler
 Shield Crossbow: filler
@@ -1181,92 +1275,3 @@ Soul of a Wicked Spirit: filler
 Dark Orb: filler
 Morbid Temptation: filler
 Dorris Swarm: filler
-Ruin Helm: filler
-Black Firebomb x3: filler
-Twinkling Titanite x3: filler
-Harald Curved Greatsword: filler
-Blue Bug Pellet x2: filler
-Ember x2: filler
-Yellow Bug Pellet x2: filler
-Repair Powder x3: filler
-Ruin Armor: filler
-Pale Pine Resin x2: filler
-Rotten Pine Resin x4: filler
-Twinkling Titanite x2: filler
-Green Blossom x3: filler
-Dragonslayer Greatarrow x5: filler
-Titanite Scale x2: filler
-Undead Hunter Charm x3: filler
-Duel Charm x3: filler
-Blooming Purple Moss Clump x3: filler
-Ruin Gauntlets: filler
-Throwing Knife x8: filler
-Kukri x9: filler
-Gold Pine Bundle x6: filler
-Human Pine Resin x2: filler
-Rusted Coin x2: filler
-Large Titanite Shard x2: filler
-Budding Green Blossom x2: filler
-Rusted Gold Coin x3: filler
-Astora Straight Sword: filler
-Homeward Bone x2: filler
-Titanite Scale x3: filler
-Green Blossom x4: filler
-Red Bug Pellet x3: filler
-Dragonslayer Lightning Arrow x10: filler
-Poison Arrow x18: filler
-Rime-blue Moss Clump x4: filler
-Firebomb x3: filler
-Green Blossom x2: filler
-Sniper Bolt x11: filler
-Purple Moss Clump x4: filler
-Black Firebomb x2: filler
-Black Bug Pellet x2: filler
-Purple Moss Clump x2: filler
-Ruin Leggings: filler
-Mossfruit x2: filler
-Rotten Pine Resin x2: filler
-Bloodred Moss Clump x3: filler
-Exploding Bolt x6: filler
-Greataxe: filler
-Black Bug Pellet x3: filler
-Titanite Chunk x2: filler
-Charcoal Pine Bundle x2: filler
-Dung Pie x4: filler
-Firebomb x5: filler
-Lightning Urn x6: filler
-Lightning Urn x4: filler
-Undead Hunter Charm x2: filler
-Alluring Skull x3: filler
-Dung Pie x2: filler
-Titanite Chunk x6: filler
-Lightning Bolt x9: filler
-Homeward Bone x3: filler
-Budding Green Blossom x3: filler
-Firebomb x6: filler
-Red Bug Pellet x2: filler
-Alluring Skull x2: filler
-Carthus Rouge x3: filler
-Rime-blue Moss Clump x2: filler
-Lightning Bolt x12: filler
-Black Firebomb x4: filler
-Rusted Gold Coin x2: filler
-Repair Powder x2: filler
-Titanite Shard x2: filler
-Kukri x8: filler
-Large Titanite Shard x3: filler
-Stalk Dung Pie x6: filler
-Human Pine Resin x4: filler
-Yellow Bug Pellet x3: filler
-Charcoal Pine Resin x2: filler
-Carthus Rouge x2: filler
-Millwood Greatarrow x5: filler
-Undead Legion Gauntlet: filler
-Purple Moss Clump x3: filler
-Moonlight Arrow x6: filler
-Gold Pine Resin x2: filler
-Standard Arrow x12: filler
-Homeward Bone x6: filler
-Repair Powder x4: filler
-Throwing Knife x6: filler
-Lightning Urn x3: filler

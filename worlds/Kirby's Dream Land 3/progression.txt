@@ -12,6 +12,16 @@ Coo: progression
 Nago: progression
 ChuChu: progression
 Pitch: progression
+Heart Star: progression
+1-Up: filler
+Maxim Tomato: filler
+Invincible Candy: filler
+Little Star: filler
+Medium Star: filler
+Big Star: filler
+Gooey Bag: trap
+Slowness: trap
+Eject Ability: trap
 Rick Spawn: progression
 Kine Spawn: progression
 Coo Spawn: progression
@@ -27,13 +37,3 @@ Clean Ability: progression
 Parasol Ability: progression
 Spark Ability: progression
 Cutter Ability: progression
-Heart Star: progression
-1-Up: filler
-Maxim Tomato: filler
-Invincible Candy: filler
-Little Star: filler
-Medium Star: filler
-Big Star: filler
-Gooey Bag: trap
-Slowness: trap
-Eject Ability: trap

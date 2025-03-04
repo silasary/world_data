@@ -1,79 +1,79 @@
-Nothing: filler
-Launch Codes: progression
-Spacesuit: progression
-Translator: progression
-Translator (Hourglass Twins): progression
-Translator (Timber Hearth): progression
-Translator (Brittle Hollow): progression
-Translator (Giant's Deep): progression
-Translator (Dark Bramble): progression
-Translator (Other): progression
-Signalscope: progression
-Scout: progression
-Ghost Matter Wavelength: progression
-Imaging Rule: progression
-Nomai Warp Codes: progression
-Warp Core Installation Manual: progression
-Entanglement Rule: progression
-Shrine Door Codes: progression
-Tornado Aerodynamic Adjustments: progression
-Silent Running Mode: progression
-Electrical Insulation: progression
-Coordinates: progression
-Distress Beacon Frequency: progression
-Quantum Fluctuations Frequency: progression
-Hide & Seek Frequency: progression
-Chert's Signal: filler
-Esker's Signal: filler
-Riebeck's Signal: filler
-Gabbro's Signal: filler
-Feldspar's Signal: progression
-Museum Shard Signal: filler
-Grove Shard Signal: filler
+Alarm Bypass Patch: progression
+Astral Codec Frequency: progression
+Audio Trap: trap
+Autopilot: useful
+Boost Duration Upgrade: useful
+Breach Override Codes: progression
+Burnt Marshmallow: filler
 Cave Shard Signal: filler
-Tower Shard Signal: filler
-Island Shard Signal: filler
-Quantum Moon Signal: progression
+Chert's Signal: filler
+Cinder Isles Painting Code: progression
+Coordinates: progression
+Deep Space Radio Frequency: progression
+Deep Space Satellite Signal: filler
+Distress Beacon Frequency: progression
+Dream Totem Patch: progression
+Eject Button: useful
+Electrical Insulation: progression
+Entanglement Rule: progression
 Escape Pod 1 Signal: filler
 Escape Pod 2 Signal: filler
 Escape Pod 3 Signal: progression
-Galena's Radio Signal: filler
-Tephra's Radio Signal: filler
-Autopilot: useful
-Landing Camera: useful
-Eject Button: useful
-Velocity Matcher: useful
-Surface Integrity Scanner: useful
-Oxygen Capacity Upgrade: useful
+Esker's Signal: filler
+Feldspar's Signal: progression
 Fuel Capacity Upgrade: useful
-Boost Duration Upgrade: useful
-Oxygen Refill: filler
-Jetpack Fuel Refill: filler
-Marshmallow: filler
-Perfect Marshmallow: filler
-Burnt Marshmallow: filler
-Ship Damage Trap: trap
-Audio Trap: trap
-Nap Trap: trap
-Stranger Light Modulator: progression
-Breach Override Codes: progression
-River Lowlands Painting Code: progression
-Cinder Isles Painting Code: progression
-Hidden Gorge Painting Code: progression
-Dream Totem Patch: progression
-Raft Docks Patch: progression
-Limbo Warp Patch: progression
-Projection Range Patch: progression
-Alarm Bypass Patch: progression
-Deep Space Radio Frequency: progression
-Radio Tower Signal: filler
-Deep Space Satellite Signal: filler
-Neighbor's Distress Signal Frequency: progression
-Lava Core Signals Frequency: progression
+Gabbro's Signal: filler
 Galactic Communication Frequency: progression
-Astral Codec Frequency: progression
-Memory Cube Interface: progression
-Magistarium Library Access Code: progression
+Galena's Radio Signal: filler
+Ghost Matter Wavelength: progression
+Grove Shard Signal: filler
+Hearthian Radio Frequency: progression
+Hidden Gorge Painting Code: progression
+Hide & Seek Frequency: progression
+Imaging Rule: progression
+Island Shard Signal: filler
+Jetpack Fuel Refill: filler
+Landing Camera: useful
+Launch Codes: progression
+Lava Core Signals Frequency: progression
+Limbo Warp Patch: progression
 Magistarium Dormitory Access Code: progression
 Magistarium Engine Access Code: progression
-Hearthian Radio Frequency: progression
+Magistarium Library Access Code: progression
+Marshmallow: filler
+Memory Cube Interface: progression
+Museum Shard Signal: filler
+Nap Trap: trap
+Neighbor's Distress Signal Frequency: progression
+Nomai Warp Codes: progression
+Nothing: filler
+Oxygen Capacity Upgrade: useful
+Oxygen Refill: filler
+Perfect Marshmallow: filler
+Projection Range Patch: progression
+Quantum Fluctuations Frequency: progression
+Quantum Moon Signal: progression
+Radio Tower Signal: filler
+Raft Docks Patch: progression
+Riebeck's Signal: filler
+River Lowlands Painting Code: progression
+Scout: progression
+Ship Damage Trap: trap
+Shrine Door Codes: progression
+Signalscope: progression
+Silent Running Mode: progression
+Spacesuit: progression
+Stranger Light Modulator: progression
+Surface Integrity Scanner: useful
+Tephra's Radio Signal: filler
+Tornado Aerodynamic Adjustments: progression
+Tower Shard Signal: filler
+Translator: progression
+Translator (Brittle Hollow): progression
+Translator (Dark Bramble): progression
+Translator (Giant's Deep): progression
+Translator (Hourglass Twins): progression
+Translator (Other): progression
+Translator (Timber Hearth): progression
+Velocity Matcher: useful
+Warp Core Installation Manual: progression

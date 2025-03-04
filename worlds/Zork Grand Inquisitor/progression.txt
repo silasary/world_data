@@ -2,17 +2,40 @@ Brog's Bickering Torch: filler
 Brog's Flickering Torch: progression
 Brog's Grue Egg: progression
 Brog's Plank: progression
-Frobozz Electric Gadget: filler
-Inquisition Propaganda Flyer: filler
-Magic Contraband: filler
-Nonsensical Inquisition Paperwork: filler
-Unreadable Spell Scroll: filler
 Flatheadia Fudge: progression
 Griff's Air Pump: progression
 Griff's Dragon Tooth: progression
 Griff's Inflatable Raft: progression
 Griff's Inflatable Sea Captain: progression
 Hammer: progression
+Hungus Lard: progression
+Jar of Hotbugs: progression
+Lantern: progression
+Large Telegraph Hammer: progression
+Lucy's Playing Card: 1 Pip: progression
+Lucy's Playing Card: 2 Pips: progression
+Lucy's Playing Card: 3 Pips: progression
+Lucy's Playing Card: 4 Pips: progression
+Map: progression
+Mead Light: progression
+Moss of Mareilon: progression
+Mug: progression
+Old Scratch Card: progression
+Perma-Suck Machine: progression
+Plastic Six-Pack Holder: progression
+Pouch of Zorkmids: progression
+Prozork Tablet: progression
+Quelbee Honeycomb: progression
+Rope: progression
+Scroll Fragment: ANS: progression
+Scroll Fragment: GIV: progression
+Shovel: progression
+Snapdragon: progression
+Student ID: progression
+Subway Token: progression
+Sword: progression
+ZIMDOR Scroll: progression
+Zork Rocks: progression
 Hotspot: 666 Mailbox: progression
 Hotspot: Alpine's Quandry Card Slots: progression
 Hotspot: Blank Scroll Box: progression
@@ -70,29 +93,6 @@ Hotspot: Tavern Fly: progression
 Hotspot: Totemizer Switch: progression
 Hotspot: Totemizer Wheels: progression
 Hotspot: Well: progression
-Hungus Lard: progression
-Jar of Hotbugs: progression
-Lantern: progression
-Large Telegraph Hammer: progression
-Lucy's Playing Card: 1 Pip: progression
-Lucy's Playing Card: 2 Pips: progression
-Lucy's Playing Card: 3 Pips: progression
-Lucy's Playing Card: 4 Pips: progression
-Map: progression
-Mead Light: progression
-Moss of Mareilon: progression
-Mug: progression
-Old Scratch Card: progression
-Perma-Suck Machine: progression
-Plastic Six-Pack Holder: progression
-Pouch of Zorkmids: progression
-Prozork Tablet: progression
-Quelbee Honeycomb: progression
-Rope: progression
-Scroll Fragment: ANS: progression
-Scroll Fragment: GIV: progression
-Shovel: progression
-Snapdragon: progression
 Spell: GLORF: progression
 Spell: GOLGATEM: progression
 Spell: IGRAM: progression
@@ -101,26 +101,26 @@ Spell: NARWILE: progression
 Spell: REZROV: progression
 Spell: THROCK: progression
 Spell: VOXAM: useful
-Student ID: progression
 Subway Destination: Flood Control Dam #3: progression
 Subway Destination: Hades: progression
 Subway Destination: Monastery: progression
-Subway Token: progression
-Sword: progression
 Teleporter Destination: Dungeon Master's Lair: progression
 Teleporter Destination: GUE Tech: progression
 Teleporter Destination: Hades: progression
 Teleporter Destination: Monastery Station: progression
 Teleporter Destination: Spell Lab: progression
-Totem: Brog: progression
-Totem: Griff: progression
-Totem: Lucy: progression
 Totemizer Destination: Hall of Inquisition: progression
 Totemizer Destination: Infinity: filler
 Totemizer Destination: Straight to Hell: progression
 Totemizer Destination: Surface of Merz: filler
-ZIMDOR Scroll: progression
-Zork Rocks: progression
+Totem: Brog: progression
+Totem: Griff: progression
+Totem: Lucy: progression
+Inquisition Propaganda Flyer: filler
+Unreadable Spell Scroll: filler
+Magic Contraband: filler
+Frobozz Electric Gadget: filler
+Nonsensical Inquisition Paperwork: filler
 LOKTAR Scroll: Cause Temporal Distension: filler
 Zork Tour Landmark: mcguffin
 Spell: YASTARD: progression

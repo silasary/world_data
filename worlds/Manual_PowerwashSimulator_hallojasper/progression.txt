@@ -1,4 +1,3 @@
-Dirt: filler
 Progressive Prime Vista 1500 Nozzle: progression
 Progressive Prime Vista 3000 Nozzle: progression
 Progressive Urban X U2 Nozzle: progression
@@ -245,6 +244,7 @@ Forest Cottage Main Roof: progression
 Forest Cottage Walls: progression
 Forest Cottage Foundation: progression
 Forest Cottage: progression
+Dirt: filler
 Private Jet Landing Gear: progression
 Lost City Palace Rear Entrance: progression
 Temple Walls: progression

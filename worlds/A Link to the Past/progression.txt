@@ -37,19 +37,9 @@ Fighter Sword: progression
 Golden Sword: progression
 Progressive Sword: progression
 Progressive Glove: progression
-Green Pendant: progression
-Blue Pendant: progression
-Red Pendant: progression
 Triforce: progression
 Power Star: progression
 Triforce Piece: progression
-Crystal 1: progression
-Crystal 2: progression
-Crystal 3: progression
-Crystal 4: progression
-Crystal 5: progression
-Crystal 6: progression
-Crystal 7: progression
 Single Arrow: filler
 Arrows (10): filler
 Arrow Upgrade (+10): useful
@@ -148,14 +138,24 @@ Faerie: filler
 Good Bee: filler
 Magic Jar: filler
 Apple: filler
-Hint: filler
-Bomb Trap: trap
 Red Potion: filler
 Green Potion: filler
 Blue Potion: filler
 Bee: trap
 Small Heart: filler
 Activated Flute: progression
+Green Pendant: progression
+Blue Pendant: progression
+Red Pendant: progression
+Crystal 1: progression
+Crystal 2: progression
+Crystal 3: progression
+Crystal 4: progression
+Crystal 5: progression
+Crystal 6: progression
+Crystal 7: progression
+Hint: filler
+Bomb Trap: trap
 Beat Agahnim 1: progression
 Beat Agahnim 2: progression
 Get Frog: progression

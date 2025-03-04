@@ -1,13 +1,4 @@
 Nothing: filler
-Boots: filler
-SuperBoots: filler
-UltraBoots: filler
-Hammer: filler
-SuperHammer: filler
-UltraHammer: filler
-LuckyStar: filler
-HomewardShroom: filler
-BigMap: filler
 First Degree Card: filler
 Second Degree Card: filler
 Third Degree Card: filler
@@ -28,29 +19,24 @@ Forest Pass: progression
 Boo Weight: progression
 Boo Portrait: progression
 Crystal Berry: progression
-Mystical Key: progression
 Storeroom Key: progression
 Toy Train: progression
 Boo Record: progression
 Frying Pan: progression
 Dictionary: progression
 Mystery Note: progression
-SuspiciousNote: filler
 Crystal Ball: progression
-Screwdriver: filler
 Cookbook: progression
 Jade Raven: progression
 Magical Seed: progression
 MagicalSeed2: progression
 MagicalSeed3: progression
 MagicalSeed4: progression
-ToadDoll: filler
 Calculator: progression
 Snowman Bucket: progression
 Snowman Scarf: progression
 Red Key: progression
 Blue Key: progression
-UnusedLetter01: filler
 Letter to Merlon: progression
 Letter to Goompa: progression
 Letter to Mort T: progression
@@ -60,12 +46,8 @@ Letter to Merlow: progression
 Letter to Fice T: progression
 Letter to Nomadimouse: progression
 Letter to Minh T: progression
-UnusedLetter02: filler
 Letter to Goompapa 1: progression
 Letter to Igor: progression
-UnusedLetter03: filler
-UnusedLetter04: filler
-UnusedLetter05: filler
 Letter to Franky: progression
 Letter to Muss T: progression
 Letter to Koover 1: progression
@@ -74,7 +56,6 @@ Letter to Koover 2: progression
 Letter to Mr E: progression
 Letter to Miss T: progression
 Letter to Little Mouser: progression
-UnusedLetter06: filler
 Letter to Dane T 1: progression
 Letter to Red Yoshi Kid: progression
 Letter to Dane T 2: progression
@@ -82,7 +63,6 @@ Letter to Frost T: progression
 Letter to Goompapa 2: progression
 Artifact: progression
 Letter to Kolorado: progression
-UnusedLetter07: filler
 Dolly: progression
 Water Stone: progression
 Magical Bean: progression
@@ -90,41 +70,22 @@ Fertile Soil: progression
 Miracle Water: progression
 Volcano Vase: progression
 Koot Tape: progression
-BakingSugar: filler
-BakingSalt: filler
-BakingEgg: filler
-BakingCream: filler
-BakingStrawberry: filler
-BakingButter: filler
-BakingCleanser: filler
-BakingWater: filler
-BakingFlour: filler
-BakingMilk: filler
 Lyrics: progression
 Melody: progression
 Mailbag: progression
-PeachKey1: filler
 Odd Key: progression
 Star Stone: progression
-SneakyParasol: filler
 Koot Koopa Legends: progression
 Luigi Autograph: progression
 Koot Empty Wallet: progression
 Merluvlee Autograph: progression
-KootShell: filler
 Koot Old Photo: progression
 Koot Glasses: progression
-KootAltPhoto: filler
 Koot Package: progression
 Koot Red Jar: progression
-PeachKey2: filler
 Warehouse Key: progression
-PrisonKey1: filler
 Silver Credit: filler
 Gold Credit: filler
-PrisonKey2: filler
-PrisonKey3: filler
-PrisonKey4: filler
 Fire Flower: filler
 Snowman Doll: filler
 Thunder Rage: filler
@@ -150,15 +111,10 @@ Life Shroom: useful
 Mystery: filler
 Repel Gel: filler
 Fright Jar: filler
-PleaseComeBack: filler
 Dizzy Dial: filler
 Super Soda: filler
 Lemon: progression
 Lime: progression
-BlueBerry: filler
-RedBerry: filler
-YellowBerry: filler
-BubbleBerry: filler
 Jammin Jelly: filler
 Maple Syrup: filler
 Honey Syrup: filler
@@ -216,11 +172,6 @@ Maple Shroom: filler
 Boiled Egg: filler
 Yoshi Cookie: filler
 Jelly Shroom: filler
-JellyShroom2: filler
-JellyShroom3: filler
-JellyShroom4: filler
-JellyShroom5: filler
-JellyShroom6: filler
 Spin Smash: filler
 Multibounce: useful
 Power Plus: useful
@@ -231,7 +182,6 @@ First Attack: filler
 HP Plus: useful
 Quake Hammer: filler
 Double Dip: filler
-MysteryScroll: filler
 Sleep Stomp: filler
 Fire Shield: useful
 Quick Change: useful
@@ -292,13 +242,9 @@ Mega Jump: filler
 Power Smash: filler
 Super Smash: filler
 Mega Smash: filler
-PowerSmash2: filler
-PowerSmash3: filler
 Deep Focus: filler
 Super Focus: filler
 Shrink Smash: filler
-ShellCrack: filler
-Kaiden: filler
 D-Down Jump: useful
 Shrink Stomp: filler
 Damage Dodge: useful
@@ -334,34 +280,8 @@ FPPlusC: useful
 FPPlusX: useful
 FPPlusY: useful
 Healthy Healthy: filler
-Attack FX F2: filler
-Attack FX F3: filler
-Attack FX F4: filler
-Attack FX F5: filler
-PartnerAttack: filler
-Heart: filler
 Coin: filler
-HeartPiece: filler
-StarPoint: filler
-HeartPoint: filler
-FlowerPoint: filler
 Star Piece: progression
-Present: filler
-CakeDone: filler
-CakeBare: filler
-CakePan: filler
-CakeBatter: filler
-CakeBowl: filler
-CakeMixed: filler
-CakeWithIcing: filler
-CakeWithBerries: filler
-Hammer1Icon: filler
-Hammer2Icon: filler
-Hammer3Icon: filler
-Boots1Icon: filler
-Boots2Icon: filler
-Boots3Icon: filler
-ItemsIcon: filler
 KoopaFortressKeyA: progression
 KoopaFortressKeyB: progression
 KoopaFortressKeyC: progression
@@ -380,12 +300,6 @@ BowserCastleKeyD: progression
 BowserCastleKeyE: progression
 Prison Key: filler
 PrisonKeyB: filler
-CakeKey: filler
-BlueBerryKey1: filler
-BlueBerryKey2: filler
-RedBerryKey: filler
-YellowBerryKey: filler
-BubbleBerryKey: filler
 StarPiece00: progression
 StarPiece01: progression
 StarPiece02: progression
@@ -735,7 +649,6 @@ Goombario Upgrade: useful
 Kooper Upgrade: useful
 Bombette Upgrade: useful
 Parakarry Upgrade: useful
-GoompaUp1: filler
 Watt Upgrade: useful
 Sushie Upgrade: useful
 Lakilester Upgrade: useful
@@ -744,7 +657,6 @@ GoombarioUp2: useful
 KooperUp2: useful
 BombetteUp2: useful
 ParakarryUp2: useful
-GoompaUp2: filler
 WattUp2: useful
 SushieUp2: useful
 LakilesterUp2: useful
@@ -753,8 +665,96 @@ Goombario: progression
 Kooper: progression
 Bombette: progression
 Parakarry: progression
-Goompa: filler
 Watt: progression
 Sushie: progression
 Lakilester: progression
 Bow: progression
+Boots: filler
+SuperBoots: filler
+UltraBoots: filler
+Hammer: filler
+SuperHammer: filler
+UltraHammer: filler
+LuckyStar: filler
+HomewardShroom: filler
+BigMap: filler
+Mystical Key: progression
+SuspiciousNote: filler
+Screwdriver: filler
+ToadDoll: filler
+UnusedLetter01: filler
+UnusedLetter02: filler
+UnusedLetter03: filler
+UnusedLetter04: filler
+UnusedLetter05: filler
+UnusedLetter06: filler
+UnusedLetter07: filler
+BakingSugar: filler
+BakingSalt: filler
+BakingEgg: filler
+BakingCream: filler
+BakingStrawberry: filler
+BakingButter: filler
+BakingCleanser: filler
+BakingWater: filler
+BakingFlour: filler
+BakingMilk: filler
+PeachKey1: filler
+SneakyParasol: filler
+KootShell: filler
+KootAltPhoto: filler
+PeachKey2: filler
+PrisonKey1: filler
+PrisonKey2: filler
+PrisonKey3: filler
+PrisonKey4: filler
+PleaseComeBack: filler
+BlueBerry: filler
+RedBerry: filler
+YellowBerry: filler
+BubbleBerry: filler
+JellyShroom2: filler
+JellyShroom3: filler
+JellyShroom4: filler
+JellyShroom5: filler
+JellyShroom6: filler
+MysteryScroll: filler
+PowerSmash2: filler
+PowerSmash3: filler
+ShellCrack: filler
+Kaiden: filler
+Attack FX F2: filler
+Attack FX F3: filler
+Attack FX F4: filler
+Attack FX F5: filler
+PartnerAttack: filler
+Heart: filler
+HeartPiece: filler
+StarPoint: filler
+HeartPoint: filler
+FlowerPoint: filler
+Present: filler
+CakeDone: filler
+CakeBare: filler
+CakePan: filler
+CakeBatter: filler
+CakeBowl: filler
+CakeMixed: filler
+CakeWithIcing: filler
+CakeWithBerries: filler
+Hammer1Icon: filler
+Hammer2Icon: filler
+Hammer3Icon: filler
+Boots1Icon: filler
+Boots2Icon: filler
+Boots3Icon: filler
+ItemsIcon: filler
+CakeKey: filler
+BlueBerryKey1: filler
+BlueBerryKey2: filler
+RedBerryKey: filler
+YellowBerryKey: filler
+BubbleBerryKey: filler
+GoompaUp1: filler
+GoompaUp2: filler
+Goompa: filler

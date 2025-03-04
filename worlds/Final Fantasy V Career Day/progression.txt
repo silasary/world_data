@@ -20,7 +20,6 @@ Bard Crystal: useful
 Dancer Crystal: useful
 Mimic Crystal: useful
 Freelancer Crystal: useful
-Fire Sword Magic: useful
 Ice Sword Magic: useful
 Bolt Sword Magic: useful
 Venom Sword Magic: useful
@@ -74,7 +73,6 @@ Bolt3 Black Magic: useful
 Flare Black Magic: useful
 Doom Black Magic: useful
 Psych Black Magic: useful
-Drag Time Magic: useful
 Slow Time Magic: useful
 Regen Time Magic: useful
 Void Time Magic: useful
@@ -82,7 +80,6 @@ Haste Time Magic: useful
 Float Time Magic: useful
 Demi Time Magic: useful
 Stop Time Magic: useful
-Exit Time Magic: useful
 Comet Time Magic: useful
 Slow2 Time Magic: useful
 Reset Time Magic: useful
@@ -505,3 +502,6 @@ Elder Branch: progression
 2nd Tablet: progression
 3rd Tablet: progression
 4th Tablet: progression
+Fire Sword Magic: useful
+Drag Time Magic: useful
+Exit Time Magic: useful

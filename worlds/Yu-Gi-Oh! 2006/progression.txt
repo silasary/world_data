@@ -1,124 +1,172 @@
-TD03 Normal Summon Unlock: useful
-LD39 Monsters forbidden Unlock: useful
-TD15 Token Unlock: useful
-Campaign Tier 1 Column 3: progression
-TD49 Plunder Unlock: useful
-Machine Collection B: useful
-TD45 Big Damage at once Unlock: useful
-TD30 Tribute Summon Unlock: useful
-LD17 Spells forbidden Unlock: useful
-SPELL RULER: useful
-LD06 Traps forbidden Unlock: useful
-ELEMENTAL ENERGY: useful
-Special Monsters A: useful
-TD13 Flip Summon Unlock: useful
-Campaign Tier 4 Column 4: progression
-TD42 Serious Damage Unlock: useful
+5000DP: useful
+ANCIENT SANCTUARY: useful
+All Effect Monsters: unknown
+All Fusion Monsters: unknown
+All Normal Monsters: unknown
+All Spells: unknown
+All Traps: unknown
+All at Random: unknown
+Banlist March 2004: useful
+Banlist March 2005: useful
+Banlist September 2003: useful
+Banlist September 2004: useful
 Banlist September 2005: useful
-TD06 20x Spell Unlock: useful
-TD28 Direct Damage Unlock: useful
-LD26 All except Toons forbidden Unlock: useful
-RISE OF DESTINY: useful
+CYBERNETIC REVOLUTION: useful
+Campaign Tier 1 Column 1: progression
 Campaign Tier 1 Column 2: progression
-Warrior Collection A: useful
+Campaign Tier 1 Column 3: progression
+Campaign Tier 1 Column 4: progression
+Campaign Tier 1 Column 5: progression
+Campaign Tier 2 Column 1: progression
+Campaign Tier 2 Column 2: progression
+Campaign Tier 2 Column 3: progression
+Campaign Tier 2 Column 4: unknown
 Campaign Tier 2 Column 5: useful
-TD07 10x Trap Unlock: useful
-LD18 Attacks forbidden Unlock: useful
-TD19 20 Turns Unlock: progression
-LD35 All except Zombies forbidden Unlock: progression
-LD31 All except Fire forbidden Unlock: progression
+Campaign Tier 3 Column 1: progression
+Campaign Tier 3 Column 2: progression
+Campaign Tier 3 Column 3: unknown
+Campaign Tier 3 Column 4: progression
 Campaign Tier 3 Column 5: progression
-METAL RAIDERS: progression
-TD24 Victory in 5 Turns Unlock: progression
-Zombie Collection: progression
-LD10 All except LV monsters forbidden Unlock: progression
-Quick/Counter Collection: progression
-TD37 Uria, Lord of Searing Flames Unlock: progression
-LD22 All limited cards forbidden Unlock: progression
-TD23 Huge Revolution Unlock: progression
+Campaign Tier 4 Column 1: progression
+Campaign Tier 4 Column 2: progression
+Campaign Tier 4 Column 3: progression
+Campaign Tier 4 Column 4: progression
+Campaign Tier 4 Column 5: progression
+Campaign Tier 5 Column 1: unknown
+Campaign Tier 5 Column 2: progression
+Continuous Spell/Trap A: useful
+Continuous Spell/Trap B: useful
+DARK CRISIS: useful
+Direct Attack Collection: unknown
+Direct Damage Collection: useful
+Dragon Collection: progression
+ELEMENTAL ENERGY: useful
 Equipment Collection: progression
+FLAMING ETERNITY: progression
+Fairy Collection: progression
+Fiend Collection A: progression
+Fiend Collection B: useful
+GAME GIFT COLLECTION: useful
+INVASION OF CHAOS: unknown
+LABYRINTH OF NIGHTMARE: useful
+LD01 All except Level 4 forbidden Unlock: unknown
+LD02 Medium/high Level forbidden Unlock: unknown
+LD03 ATK 1500 or more forbidden Unlock: progression
+LD04 Flip Effects forbidden Unlock: unknown
+LD05 Tributes forbidden Unlock: unknown
+LD06 Traps forbidden Unlock: useful
+LD07 Large Deck A Unlock: progression
+LD08 Large Deck B Unlock: unknown
+LD09 Sets Forbidden Unlock: progression
+LD10 All except LV monsters forbidden Unlock: progression
+LD11 All except Fairies forbidden Unlock: progression
+LD12 All except Wind forbidden Unlock: useful
+LD13 All except monsters forbidden Unlock: unknown
+LD14 Level 3 or below forbidden Unlock: progression
+LD15 DEF 1500 or less forbidden Unlock: unknown
+LD16 Effect Monsters forbidden Unlock: progression
+LD17 Spells forbidden Unlock: useful
+LD18 Attacks forbidden Unlock: useful
+LD19 All except E-Hero's forbidden Unlock: unknown
+LD20 All except Warriors forbidden Unlock: unknown
+LD21 All except Dark forbidden Unlock: unknown
+LD22 All limited cards forbidden Unlock: progression
+LD23 Refer to Mar 05 Banlist Unlock: useful
+LD24 Refer to Sept 04 Banlist Unlock: unknown
+LD25 Low Life Points Unlock: progression
+LD26 All except Toons forbidden Unlock: useful
+LD27 All except Spirits forbidden Unlock: unknown
+LD28 All except Dragons forbidden Unlock: unknown
+LD29 All except Spellcasters forbidden Unlock: useful
+LD30 All except Light forbidden Unlock: unknown
+LD31 All except Fire forbidden Unlock: progression
+LD32 Decks with multiples forbidden Unlock: progression
+LD33 Special Summons forbidden Unlock: unknown
+LD34 Normal Summons forbidden Unlock: progression
+LD35 All except Zombies forbidden Unlock: progression
+LD36 All except Earth forbidden Unlock: unknown
+LD37 All except Water forbidden Unlock: unknown
+LD38 Refer to Mar 04 Banlist Unlock: unknown
+LD39 Monsters forbidden Unlock: useful
+LD40 Refer to Sept 05 Banlist Unlock: unknown
+LD41 Refer to Sept 03 Banlist Unlock: unknown
+LEGACY OF DARKNESS: progression
+LEGEND OF B.E.W.D.: progression
+LP Recovery Collection: progression
+MAGICIAN'S FORCE: useful
+METAL RAIDERS: progression
+Machine Collection A: progression
+Machine Collection B: useful
+Monster Destroy Collection: useful
+No Banlist: useful
+PHARAOH'S SERVANT: unknown
+PHARAONIC GUARDIAN: useful
+Quick/Counter Collection: progression
+RISE OF DESTINY: useful
+Remote: unknown
+Reverse Collection: unknown
+SHADOW OF INFINITY: useful
+SOUL OF THE DUELIST: progression
+SPELL RULER: useful
+Special Gift Collection: progression
+Special Monsters A: useful
+Special Monsters B: progression
+Special Summon Collection A: useful
+Special Summon Collection B: unknown
+Special Summon Collection C: useful
+Spellcaster Collection A: useful
+Spellcaster Collection B: progression
+TD01 Battle Damage Unlock: unknown
+TD02 Deflected Damage Unlock: progression
+TD03 Normal Summon Unlock: useful
+TD04 Ritual Summon Unlock: unknown
+TD05 Special Summon A Unlock: progression
+TD06 20x Spell Unlock: useful
+TD07 10x Trap Unlock: useful
+TD08 Draw Unlock: unknown
+TD09 Hand Destruction Unlock: unknown
+TD10 During Opponent's Turn Unlock: progression
+TD11 Recover Unlock: progression
+TD12 Remove Monsters by Effect Unlock: progression
+TD13 Flip Summon Unlock: useful
+TD14 Special Summon B Unlock: unknown
+TD15 Token Unlock: useful
+TD16 Union Unlock: progression
 TD17 10x Quick Spell Unlock: progression
 TD18 The Forbidden Unlock: progression
-TD43 Return Monsters with Effects Unlock: progression
-TD16 Union Unlock: progression
-TD27 Dark Sage Unlock: progression
-TD25 Moth Grows Up Unlock: progression
-Special Gift Collection: progression
-LD11 All except Fairies forbidden Unlock: progression
-LD32 Decks with multiples forbidden Unlock: progression
-FLAMING ETERNITY: progression
-TD29 Destroy Monsters in Battle Unlock: progression
-TD35 Huge Damage in a Turn Unlock: progression
-Campaign Tier 4 Column 2: progression
-LD23 Refer to Mar 05 Banlist Unlock: useful
-TD12 Remove Monsters by Effect Unlock: progression
-TD32 Toon Unlock: progression
-Campaign Tier 4 Column 5: progression
-GAME GIFT COLLECTION: useful
-Banlist March 2005: useful
-SHADOW OF INFINITY: useful
-PHARAONIC GUARDIAN: useful
-Campaign Tier 3 Column 1: progression
-Continuous Spell/Trap B: useful
-Campaign Tier 3 Column 2: progression
-No Banlist: useful
-CYBERNETIC REVOLUTION: useful
-Monster Destroy Collection: useful
-DARK CRISIS: useful
-Campaign Tier 2 Column 2: progression
-Special Summon Collection C: useful
-LD12 All except Wind forbidden Unlock: useful
-Campaign Tier 1 Column 5: progression
-Campaign Tier 1 Column 1: progression
-Campaign Tier 4 Column 3: progression
-5000DP: useful
-LABYRINTH OF NIGHTMARE: useful
-Spellcaster Collection A: useful
-Fiend Collection B: useful
-TD44 Fusion Summon Unlock: progression
-THE LOST MILLENIUM: useful
-Special Summon Collection A: useful
-LD03 ATK 1500 or more forbidden Unlock: progression
-Banlist September 2004: useful
-MAGICIAN'S FORCE: useful
-Dragon Collection: progression
-Spellcaster Collection B: progression
-Special Monsters B: progression
-LD16 Effect Monsters forbidden Unlock: progression
-Campaign Tier 4 Column 1: progression
-TD10 During Opponent's Turn Unlock: progression
-Machine Collection A: progression
-LD25 Low Life Points Unlock: progression
-TD02 Deflected Damage Unlock: progression
-LD07 Large Deck A Unlock: progression
-TD39 Raviel, Lord of Phantasms Unlock: progression
-Campaign Tier 3 Column 4: progression
-Fairy Collection: progression
+TD19 20 Turns Unlock: progression
 TD20 Deck Destruction Unlock: progression
-TD48 Destroy Monsters with Effects Unlock: progression
-LEGACY OF DARKNESS: progression
-LD09 Sets Forbidden Unlock: progression
-LP Recovery Collection: progression
-Campaign Tier 1 Column 4: progression
-TD38 Hamon, Lord of Striking Thunder Unlock: progression
-LD14 Level 3 or below forbidden Unlock: progression
-TD47 Spell Counter Unlock: progression
-TD50 Dark Scorpion Combination Unlock: progression
-Campaign Tier 2 Column 1: progression
-Fiend Collection A: progression
-Warrior Collection B: useful
-Banlist March 2004: useful
-TD11 Recover Unlock: progression
-LD34 Normal Summons forbidden Unlock: progression
-Banlist September 2003: useful
-SOUL OF THE DUELIST: progression
-Campaign Tier 2 Column 3: progression
-ANCIENT SANCTUARY: useful
-Continuous Spell/Trap A: useful
-TD05 Special Summon A Unlock: progression
-LEGEND OF B.E.W.D.: progression
-Campaign Tier 5 Column 2: progression
-LD29 All except Spellcasters forbidden Unlock: useful
 TD21 Victory D. Unlock: progression
+TD22 The Preventers Fight Back Unlock: unknown
+TD23 Huge Revolution Unlock: progression
+TD24 Victory in 5 Turns Unlock: progression
+TD25 Moth Grows Up Unlock: progression
+TD26 Magnetic Power Unlock: unknown
+TD27 Dark Sage Unlock: progression
+TD28 Direct Damage Unlock: useful
+TD29 Destroy Monsters in Battle Unlock: progression
+TD30 Tribute Summon Unlock: useful
+TD31 Special Summon C Unlock: unknown
+TD32 Toon Unlock: progression
+TD33 10x Counter Unlock: unknown
+TD34 Destiny Board Unlock: unknown
+TD35 Huge Damage in a Turn Unlock: progression
+TD36 V-Z In the House Unlock: unknown
+TD37 Uria, Lord of Searing Flames Unlock: progression
+TD38 Hamon, Lord of Striking Thunder Unlock: progression
+TD39 Raviel, Lord of Phantasms Unlock: progression
 TD40 Make a Chain Unlock: progression
-Direct Damage Collection: useful
+TD41 The Gatekeeper Stands Tall Unlock: unknown
+TD42 Serious Damage Unlock: useful
+TD43 Return Monsters with Effects Unlock: progression
+TD44 Fusion Summon Unlock: progression
+TD45 Big Damage at once Unlock: useful
+TD46 XYZ In the House Unlock: unknown
+TD47 Spell Counter Unlock: progression
+TD48 Destroy Monsters with Effects Unlock: progression
+TD49 Plunder Unlock: useful
+TD50 Dark Scorpion Combination Unlock: progression
+THE LOST MILLENIUM: useful
+Warrior Collection A: useful
+Warrior Collection B: useful
+Zombie Collection: progression

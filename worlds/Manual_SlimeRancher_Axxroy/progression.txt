@@ -1,79 +1,80 @@
+1000 Newbucks: unknown
+1x Abyssal Pump: filler
+1x Advanced Drone: filler
+1x Advanced Gordo Snare: filler
+1x Amber Warp Depot: filler
+1x Berry Warp Depot: filler
+1x Blue Warp Depot: filler
+1x Butterscotch Warp Depot: filler
+1x Cocoa Warp Depot: filler
+1x Dash Pad: filler
+1x Gold Warp Depot: filler
+1x Green Warp Depot: filler
+1x Grey Warp Depot: filler
+1x Hydro Turret: filler
+1x Market Link: filler
+1x Master Gordo Snare: filler
+1x Med Station: filler
+1x Novice Gordo Snare: filler
+1x Pink Warp Depot: filler
+1x Portable Water Tap: filler
+1x Red Warp Depot: filler
+1x Refinery Link: filler
+1x Royal Apiary: filler
+1x Spring Pad: filler
+1x Super Hydro Turret: filler
+1x Titan Drill: filler
+1x Violet Warp Depot: filler
+2x Amber Teleporter: filler
+2x Berry Teleporter: filler
+2x Blue Teleporter: filler
+2x Butterscotch Teleporter: filler
+2x Cocoa Teleporter: filler
+2x Drone: filler
+2x Gold Teleporter: filler
+2x Green Teleporter: filler
+2x Grey Teleporter: filler
+2x Master Apiary: filler
+2x Master Drill: filler
+2x Master Pump: filler
+2x Pink Teleporter: filler
+2x Red Teleporter: filler
+2x Violet Teleporter: filler
+3x Advanced Apiary: filler
+3x Advanced Drill: filler
+3x Advanced Pump: filler
+4x Novice Apiary: filler
+4x Novice Drill: filler
+4x Novice Pump: filler
+Golden Sureshot: useful
+Map Data - Ancient Ruins: useful
+Map Data - Dry Reef: useful
+Map Data - Glass Desert: useful
+Map Data - Indigo Quarry: useful
+Map Data - Moss Blanket: useful
+Progressive Dash Boots: useful
+Progressive Heart Module: useful
+Progressive Jetpack: progression
+Progressive Power Core: useful
 Progressive Tank Booster: useful
 Progressive Treasure Cracker: progression
-Progressive Power Core: useful
-Progressive Heart Module: useful
-Golden Sureshot: useful
 Pulse Wave: useful
-Progressive Dash Boots: useful
-Progressive Jetpack: progression
-Water Tank: useful
+Ranch Expansion - The Docks: progression
+Ranch Expansion - The Grotto: progression
+Ranch Expansion - The Lab: progression
+Ranch Expansion - The Overgrowth: progression
+Slime Gate Key - Ancient Ruins Teleporter: progression
+Slime Gate Key - Courtyard to Ancient Ruins: progression
 Slime Gate Key - Dry Reef Beach: progression
 Slime Gate Key - Dry Reef to Indigo Quarry: progression
 Slime Gate Key - Dry Reef to Moss Blanket: progression
-Slime Gate Key - Moss Blanket to Courtyard: progression
-Slime Gate Key - Indigo Quarry to Courtyard: progression
-Slime Gate Key - Courtyard to Ancient Ruins: progression
-Slime Gate Key - Ancient Ruins Teleporter: progression
 Slime Gate Key - Glass Desert East: progression
 Slime Gate Key - Glass Desert West: progression
-Map Data - Dry Reef: useful
-Map Data - Moss Blanket: useful
-Map Data - Indigo Quarry: useful
-Map Data - Ancient Ruins: useful
-Map Data - Glass Desert: useful
+Slime Gate Key - Indigo Quarry to Courtyard: progression
+Slime Gate Key - Moss Blanket to Courtyard: progression
 Teleporter - Dry Reef to Ring Island: progression
-Teleporter - Overgrowth to Dry Reef: useful
-Teleporter - The Grotto to Indigo Quarry: useful
 Teleporter - Indigo Quarry to Ash Isle: progression
 Teleporter - Moustache Island: progression
-4x Novice Drill: filler
-3x Advanced Drill: filler
-2x Master Drill: filler
-1x Titan Drill: filler
-4x Novice Pump: filler
-3x Advanced Pump: filler
-2x Master Pump: filler
-1x Abyssal Pump: filler
-4x Novice Apiary: filler
-3x Advanced Apiary: filler
-2x Master Apiary: filler
-1x Royal Apiary: filler
-2x Pink Teleporter: filler
-2x Blue Teleporter: filler
-2x Violet Teleporter: filler
-2x Grey Teleporter: filler
-2x Green Teleporter: filler
-2x Red Teleporter: filler
-2x Amber Teleporter: filler
-2x Gold Teleporter: filler
-2x Berry Teleporter: filler
-2x Cocoa Teleporter: filler
-2x Butterscotch Teleporter: filler
-1x Pink Warp Depot: filler
-1x Blue Warp Depot: filler
-1x Violet Warp Depot: filler
-1x Grey Warp Depot: filler
-1x Green Warp Depot: filler
-1x Red Warp Depot: filler
-1x Amber Warp Depot: filler
-1x Gold Warp Depot: filler
-1x Berry Warp Depot: filler
-1x Cocoa Warp Depot: filler
-1x Butterscotch Warp Depot: filler
-1x Market Link: filler
-1x Med Station: filler
-1x Hydro Turret: filler
-1x Super Hydro Turret: filler
-1x Spring Pad: filler
-1x Refinery Link: filler
-1x Novice Gordo Snare: filler
-1x Advanced Gordo Snare: filler
-1x Master Gordo Snare: filler
-2x Drone: filler
-1x Advanced Drone: filler
-1x Portable Water Tap: filler
-1x Dash Pad: filler
-Ranch Expansion - The Grotto: progression
-Ranch Expansion - The Overgrowth: progression
-Ranch Expansion - The Docks: progression
-Ranch Expansion - The Lab: progression
+Teleporter - Overgrowth to Dry Reef: useful
+Teleporter - The Grotto to Indigo Quarry: useful
+Water Tank: useful

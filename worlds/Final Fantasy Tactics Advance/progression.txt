@@ -1,490 +1,632 @@
-Shortsword: useful
-Silver Sword: useful
-Buster Sword: useful
-Burglar Sword: useful
-Gale Sword: useful
-Blood Sword: useful
-Restorer: useful
-Vitanova: useful
-Mythril Sword: useful
-Victor Sword: useful
-Onion Sword: useful
-Chirijiraden: useful
-Laglace Sword: useful
-Sweep Blade: useful
-Shadow Blade: useful
-Sun Blade: useful
-Atmos Blade: useful
-Flametongue: useful
-Air Blade: useful
-Icebrand: useful
-Kwigon Blade: useful
-Ogun Blade: useful
-Pearl Blade: useful
-Paraiba Blade: useful
-Venus Blade: useful
-Materia Blade: useful
-Mythril Blade: useful
-Ebon Blade: useful
+Acacia Hat: useful
+Adaman Alloy: progression
+Adaman Armor: useful
 Adaman Blade: useful
-Ayvuir Red: useful
-Ayvuir Blue: useful
-Blue Saber: useful
-Shamshir: useful
-Aqua Saber: useful
-Harpe: useful
-Manganese: useful
-Mythril Saber: useful
-Tulwar: useful
-Soul Saber: useful
-Defender: useful
-Apocalypse: useful
-Lionheart: useful
-Ragnarok: useful
-Lohengrin: useful
-Save The Queen: useful
-Arch Sword: useful
-Excalibur: useful
-Mythril Brand: useful
-Excalibur 2: useful
-Nagrarok: useful
-Sequence: useful
-Barong: useful
-Ancient Sword: useful
-Diamond Sword: useful
-Hardedge: useful
-Vigilante: useful
-Zankplus: useful
-Master Sword: useful
-Oblige: useful
-Iceprism: useful
-Lurebreaker: useful
-Samson Sword: useful
-Falchion: useful
-Predator: useful
-Striborg: useful
-El Cid Sword: useful
-Claymore: useful
-Vajra: useful
-Tabarise: useful
-Rhomphaia: useful
-Beastsword: useful
-Eclipse: useful
-Estreledge: useful
-Jack Knife: useful
-Kris Knife: useful
-Khukuri: useful
-Kard: useful
-Scramasax: useful
-Rondell Dagger: useful
-Jambiya: useful
-Zorlin Shape: useful
-Sword Breaker: useful
-Orichalcum: useful
-Cinquedea: useful
-Mythril Knife: useful
-Tonberrian: useful
-Tiptaptwo: useful
-Stinger: useful
-Estoc: useful
-Fleuret: useful
-Scarlette: useful
-Flamberge: useful
-Silver Rapier: useful
-Djinn Flyssa: useful
-Joyeuse: useful
-Mage Masher: useful
-Colichemarde: useful
-Gupti Aga: useful
-Madu: useful
-Epeprism: useful
-Mythril Rapier: useful
-Last Letter: useful
-Diabolique: useful
-Femme Fatale: useful
-Aerial Hole: useful
-Ninja Knife: useful
-Murasame: useful
-Ashura: useful
-Osafune: useful
-Petalchaser: useful
-Kotetsu: useful
-Kikuichimonji: useful
-Heaven's Cloud: useful
-Nosada: useful
-Masamune: useful
-Zanmato: useful
-Mythril Epee: useful
-Masamune 100: useful
-Charfire: useful
-Silkmoon: useful
-White Staff: useful
-Guard Staff: useful
-Judge Staff: useful
-Cure Staff: useful
-Pure Staff: useful
-Bless Staff: useful
-Snake Staff: useful
-Spring Staff: useful
-Garnet Staff: useful
-Cheer Staff: useful
-Nirvana Staff: useful
-Mythril Staff: useful
-Power Staff: useful
-Dream Watcher: useful
-Rod: useful
-Firewheel Rod: useful
-Thunder Rod: useful
-Sleet Rod: useful
-Terre Rod: useful
-Force Rod: useful
-Flame Rod: useful
-Thor Rod: useful
-Chill Rod: useful
-Stardust Rod: useful
-Princess Rod: useful
-Mythril Rod: useful
-Heretic Rod: useful
-Sapere Aude: useful
-Battle Mace: useful
-Energy Mace: useful
-Druid Mace: useful
-Sage Crosier: useful
-Morning Star: useful
-Mandragora: useful
-Life Crosier: useful
-Lotus Mace: useful
-Scorpion Tail: useful
-Zeus Mace: useful
-Mythril Mace: useful
-Cactus Stick: useful
-Vesper: useful
-Longbow: useful
-Char Bow: useful
-Thorn Bow: useful
-Nail Bow: useful
-Silver Bow: useful
-Artemis Bow: useful
-Yoichi Bow: useful
-Target Bow: useful
-Perseus Bow: useful
-Mythril Bow: useful
-Crescent Bow: useful
-Malbow: useful
-Windslash Bow: useful
-Ranger Bow: useful
-Cranequin: useful
-Twin Bow: useful
-Hunt Bow: useful
-Fey Bow: useful
-Hades Bow: useful
-Nike Bow: useful
-Master Bow: useful
-Max's Oathbow: useful
-Seventh Heaven: useful
-Mythril Shot: useful
-Marduk Bow: useful
-Gastra Bow: useful
-Arbalest: useful
-Javelin: useful
-Lava Spear: useful
-Gae Bolg: useful
-Ice Lance: useful
-Partisan: useful
-Kain's Lance: useful
-Trident: useful
-Dragon Whisker: useful
-Mythril Spear: useful
-Odin Lance: useful
-Beast Spear: useful
-Bangaa Spike: useful
-Demon Bell: useful
-Glass Bell: useful
-War Trumpet: useful
-Conch Shell: useful
-Earth Bell: useful
-Black Quena: useful
-Satyr Flute: useful
-Fairy Harp: useful
-Aona Flute: useful
-Heal Chime: useful
-Blood Strings: useful
-Mythril Bell: useful
-Dark Fiddle: useful
-Fell Castanets: useful
-Hard Knuckles: useful
-Rising Sun: useful
-Sick Knuckles: useful
-Dream Claws: useful
-Kaiser Knuckles: useful
-Cat Claws: useful
-Survivor: useful
-White Fangs: useful
-Godhand: useful
-Tiger Fangs: useful
-Death Claws: useful
-Mythril Claws: useful
-Greaseburst: useful
-Magic Hands: useful
-Goblin Soul: useful
-Flan Soul: useful
-Bomb Soul: useful
-Dragon Soul: useful
-Lamia Soul: useful
-Bug Soul: useful
-Panther Soul: useful
-Malboro Soul: useful
-Eye Soul: useful
-Mythril Soul: useful
-Dread Soul: useful
-Rukavi Soul: useful
-Aiot Gun: useful
-Silver Cannon: useful
-Riot Gun: useful
-Chaos Rifle: useful
-Lost Gun: useful
-Peacemaker: useful
-Giot Gun: useful
-Longbarrel: useful
-Outsider: useful
-Mythril Gun: useful
-Bindsnipe: useful
-Calling Gun: useful
-Bronze Shield: useful
-Round Shield: useful
-Opal Shield: useful
-Ice Shield: useful
-Flame Shield: useful
+Adaman Vest: useful
 Aegis Shield: useful
-Genji Shield: useful
-Sacri Shield: useful
-Shijin Shield: useful
-Chocobo Shield: useful
-La Seraphica: useful
-Reverie Shield: useful
-Bronze Helm: useful
-Iron Helm: useful
-Opal Helm: useful
-Cross Helm: useful
-Diamond Helm: useful
-Genji Helm: useful
-Parade Helm: useful
-Hanya Helm: useful
+Aerial Hole: useful
+Ahriman Eye: progression
+Ahriman Wing: progression
+Aiot Gun: useful
+Air Blade: useful
+Ancient Bills: progression
+Ancient Coins: progression
+Ancient Medal: progression
+Ancient Sword: useful
+Angel Ring: useful
+Animal Bone: progression
+Antidote: filler
+Aona Flute: useful
+Apocalypse: useful
+Aqua Saber: useful
+Arbalest: useful
+Arch Sword: useful
+Artemis Bow: useful
+Ashura: useful
+Atmos Blade: useful
+Ayvuir Blue: useful
+Ayvuir Red: useful
+Bandage: filler
 Bangaa Helm: useful
+Bangaa Spike: useful
+Barong: useful
+Battle Boots: useful
+Battle Mace: useful
+Beast Spear: useful
+Beastsword: useful
+Bindsnipe: useful
+Black Hat: useful
+Black Quena: useful
+Black Robe: useful
+Black Thread: progression
+Blaze Robe: useful
+Bless Staff: useful
+Blood Apple: progression
+Blood Shawl: progression
+Blood Strings: useful
+Blood Sword: useful
+Blue Rose: progression
+Blue Saber: useful
+Body Ceffyl: progression
+Bomb Soul: useful
+Bone Armlets: useful
+Bone Plate: useful
+Bracers: useful
+Brigandine: useful
+Brint Set: useful
+Bronze Armor: useful
+Bronze Helm: useful
+Bronze Shield: useful
+Bug Soul: useful
+Burglar Sword: useful
+Buster Sword: useful
+Cactus Stick: useful
+Caligula: useful
+Calling Gun: useful
+Carabini: useful
+Cat Claws: useful
+Cat's Tears: progression
+Chain Plate: useful
+Chaos Rifle: useful
+Char Bow: useful
+Charfire: useful
+Cheer Staff: useful
+Chill Rod: useful
+Chirijiraden: useful
+Choco Bread: progression
+Choco Gratin: progression
+Chocobo Egg: progression
+Chocobo Shield: useful
+Cinquedea: useful
+Circlet: useful
+Claymore: useful
+Clock Gear: progression
+Colichemarde: useful
+Conch Shell: useful
+Cranequin: useful
+Crescent Bow: useful
+Cross Helm: useful
+Crystal: progression
+Cuirass: useful
+Cure Staff: useful
+Cureall: filler
+Cyril Ice: progression
+Dame's Blush: progression
+Danbukwood: progression
+Dark Fiddle: useful
+Dark Gear: useful
+Dash Boots: useful
+Death Claws: useful
+Defender: useful
+Delta Fang: progression
+Demon Bell: useful
+Diabolique: useful
+Diamond Armor: useful
+Diamond Helm: useful
+Diamond Sword: useful
+Dictionary: progression
+Djinn Flyssa: useful
+Dragon Bone: progression
+Dragon Mail: useful
+Dragon Soul: useful
+Dragon Whisker: useful
+Dread Soul: useful
+Dream Claws: useful
+Dream Watcher: useful
+Druid Mace: useful
+Earth Bell: useful
+Earth Sigil: progression
+Ebon Blade: useful
+Echo Screen: filler
+Eclipse: useful
+El Cid Sword: useful
+Elda's Cup: progression
+Eldagusto: progression
+Elixir: filler
+Encyclopedia: progression
+Energy Mace: useful
+Epeprism: useful
+Esteroth: progression
+Estoc: useful
+Estreledge: useful
+Ether: filler
+Excalibur: useful
+Excalibur 2: useful
+Eye Drops: filler
+Eye Soul: useful
+Fairy Harp: useful
+Fairy Shoes: useful
+Falchion: useful
+Feather Boots: useful
+Feather Cap: useful
+Fell Castanets: useful
+Femme Fatale: useful
+Fey Bow: useful
+Fight Trophy: progression
+Fire Mitts: useful
+Fire Sigil: progression
+Firewheel Rod: useful
+Flamberge: useful
+Flame Rod: useful
+Flame Shield: useful
+Flametongue: useful
+Flan Soul: useful
+Fleuret: useful
+Flower Vase: progression
+Flurry Robe: useful
+Force Rod: useful
+Fortune Ring: useful
+Friend Badge: progression
+Gae Bolg: useful
+Gaia Gear: useful
+Gale Sword: useful
+Galmia Set: useful
+Galmia Shoes: useful
+Garnet Staff: useful
+Gastra Bow: useful
+Gauntlets: useful
+Gedegg Soup: progression
+Genji Armlets: useful
+Genji Armor: useful
+Genji Helm: useful
+Genji Shield: useful
+Germinas: useful
+Giot Gun: useful
+Glass Bell: useful
+Goblin Soul: useful
+Godhand: useful
+Gold Armor: useful
+Gold Hairpin: useful
+Gold Vessel: progression
+Greaseburst: useful
+Green Beret: useful
+Grownup Bread: progression
+Guard Staff: useful
+Gun Gear: progression
+Gupti Aga: useful
+Gysahl Greens: progression
+Hades Bow: useful
+Hanya Helm: useful
+Hard Knuckles: useful
+Hardedge: useful
+Harpe: useful
+Headband: useful
+Heal Chime: useful
+Heaven's Cloud: useful
+Hempen Robe: useful
+Heretic Rod: useful
+Hi-Potion: filler
+Holy Water: filler
+Homework: progression
+Hunt Bow: useful
+Ice Lance: useful
+Ice Shield: useful
+Icebrand: useful
+Iceprism: useful
+Iron Armor: useful
+Iron Helm: useful
+Jack Knife: useful
+Jambiya: useful
+Javelin: useful
+Job Unlock: Alchemist: useful
+Job Unlock: Animist: useful
+Job Unlock: Archer: useful
+Job Unlock: Assassin: useful
+Job Unlock: Beastmaster: useful
+Job Unlock: Bishop: useful
+Job Unlock: Black Mage: useful
+Job Unlock: Blue Mage: useful
+Job Unlock: Defender: useful
+Job Unlock: Dragoon: useful
+Job Unlock: Elementalist: useful
+Job Unlock: Fencer: useful
+Job Unlock: Fighter: useful
+Job Unlock: Gadgeteer: useful
+Job Unlock: Gladiator: useful
+Job Unlock: Gunner: useful
+Job Unlock: Hunter: useful
+Job Unlock: Illusionist: useful
+Job Unlock: Juggler: useful
+Job Unlock: Mog Knight: useful
+Job Unlock: Morpher: useful
+Job Unlock: Ninja: useful
+Job Unlock: Paladin: useful
+Job Unlock: Red Mage: useful
+Job Unlock: Sage: useful
+Job Unlock: Sniper: useful
+Job Unlock: Soldier: useful
+Job Unlock: Summoner: useful
+Job Unlock: Templar: useful
+Job Unlock: Thief: useful
+Job Unlock: Time Mage: useful
+Job Unlock: Warrior: useful
+Job Unlock: White Mage: useful
+Job Unlock: White Monk: useful
+Joyeuse: useful
+Judge Coat: useful
+Judge Staff: useful
+Judo Uniform: useful
+Kain's Lance: useful
+Kaiser Knuckles: useful
+Kard: useful
+Khukuri: useful
+Kiddy Bread: progression
+Kikuichimonji: useful
+Kotetsu: useful
+Kris Knife: useful
+Kwigon Blade: useful
+La Seraphica: useful
+Laglace Sword: useful
+Lamia Soul: useful
+Last Letter: useful
+Lava Spear: useful
+Law Card: Addle: filler
+Law Card: Addle antilaw: filler
+Law Card: Aim: unknown
+Law Card: Aim antilaw: unknown
+Law Card: Allmighty antilaw: filler
+Law Card: Berserk: unknown
+Law Card: Berserk antilaw: filler
+Law Card: Bind: unknown
+Law Card: Bind antilaw: unknown
+Law Card: Blades: unknown
+Law Card: Blades antilaw: unknown
+Law Card: Broadswords: filler
+Law Card: Broadswords antilaw: filler
+Law Card: Call: unknown
+Law Card: Call antilaw: unknown
+Law Card: Charge: filler
+Law Card: Charge antilaw: filler
+Law Card: Charm: unknown
+Law Card: Charm antilaw: filler
+Law Card: Chivalry: unknown
+Law Card: Chivalry antilaw: unknown
+Law Card: Color Magic: unknown
+Law Card: Color Magic antilaw: filler
+Law Card: Confuse: unknown
+Law Card: Confuse antilaw: unknown
+Law Card: Control: filler
+Law Card: Control antilaw: unknown
+Law Card: Copycat: unknown
+Law Card: Copycat antilaw: filler
+Law Card: Corner: unknown
+Law Card: Corner antilaw: filler
+Law Card: Defend: filler
+Law Card: Defend antilaw: unknown
+Law Card: Dmg2: Animal: unknown
+Law Card: Dmg2: Animal antilaw: filler
+Law Card: Dmg2: Bangaa: unknown
+Law Card: Dmg2: Bangaa antilaw: unknown
+Law Card: Dmg2: Human: unknown
+Law Card: Dmg2: Human antilaw: unknown
+Law Card: Dmg2: Moogle antilaw: unknown
+Law Card: Dmg2: Nu Mou: unknown
+Law Card: Dmg2: Nu Mou antilaw: unknown
+Law Card: Dmg2: Viera: unknown
+Law Card: Dmg2: Viera antilaw: filler
+Law Card: Dmg2: moogle: unknown
+Law Card: Elementals: unknown
+Law Card: Elementals antilaw: filler
+Law Card: Fight: unknown
+Law Card: Fight antilaw: unknown
+Law Card: Fire: unknown
+Law Card: Fire antilaw: unknown
+Law Card: Frog: unknown
+Law Card: Frog antilaw: unknown
+Law Card: Ganging Up: unknown
+Law Card: Ganging Up antilaw: unknown
+Law Card: Greatswords: unknown
+Law Card: Greatswords antilaw: unknown
+Law Card: Gunmanship: filler
+Law Card: Gunmanship antilaw: unknown
+Law Card: Haste: filler
+Law Card: Haste antilaw: filler
+Law Card: Healing: unknown
+Law Card: Healing antilaw: unknown
+Law Card: Holy: filler
+Law Card: Holy antilaw: filler
+Law Card: Hunt: unknown
+Law Card: Hunt antilaw: filler
+Law Card: Ice: unknown
+Law Card: Ice antilaw: unknown
+Law Card: Instruments: filler
+Law Card: Instruments antilaw: filler
+Law Card: Items: filler
+Law Card: Items antilaw: unknown
+Law Card: Katanas: unknown
+Law Card: Katanas antilaw: unknown
+Law Card: Knightswords: unknown
+Law Card: Knightswords antilaw: filler
+Law Card: Knives: unknown
+Law Card: Knives antilaw: unknown
+Law Card: Knuckles: unknown
+Law Card: Knuckles antilaw: unknown
+Law Card: Law Cards: unknown
+Law Card: Law Cards antilaw: unknown
+Law Card: Lightning: filler
+Law Card: Lightning antilaw: unknown
+Law Card: Missile: unknown
+Law Card: Morph: unknown
+Law Card: Morph antilaw: filler
+Law Card: NoClr Magic: unknown
+Law Card: NoClr Magic antilaw: unknown
+Law Card: Petrify: unknown
+Law Card: Petrify antilaw: unknown
+Law Card: Poison: filler
+Law Card: Poison antilaw: unknown
+Law Card: Prayer: unknown
+Law Card: Prayer antilaw: unknown
+Law Card: Protect: unknown
+Law Card: Protect antilaw: filler
+Law Card: R1 Antilaw: unknown
+Law Card: R2 Antilaw: filler
+Law Card: R3 Antilaw: unknown
+Law Card: R4 Antilaw: unknown
+Law Card: R5 Antilaw: filler
+Law Card: R6 Antilaw: unknown
+Law Card: Rapiers: unknown
+Law Card: Rapiers antilaw: filler
+Law Card: Sabers: filler
+Law Card: Sabers antilaw: unknown
+Law Card: Sharpshoot: filler
+Law Card: Sharpshoot antilaw: unknown
+Law Card: Shell: filler
+Law Card: Shell antilaw: unknown
+Law Card: Silence: unknown
+Law Card: Silence antilaw: filler
+Law Card: Skills: unknown
+Law Card: Skills antilaw: unknown
+Law Card: Slow: unknown
+Law Card: Slow antilaw: unknown
+Law Card: Soul: unknown
+Law Card: Soul antilaw: filler
+Law Card: Spears: unknown
+Law Card: Spears antilaw: filler
+Law Card: Status: filler
+Law Card: Status antilaw: unknown
+Law Card: Steal: filler
+Law Card: Steal antilaw: unknown
+Law Card: Stop: unknown
+Law Card: Stop antilaw: unknown
+Law Card: Summon: unknown
+Law Card: Summon antilaw: filler
+Law Card: Swords: unknown
+Law Card: Swords antilaw: filler
+Law Card: Target All: filler
+Law Card: Target All antilaw: unknown
+Law Card: Target Area: unknown
+Law Card: Target Area antilaw: unknown
+Law Card: Techniques: unknown
+Law Card: Techniques antilaw: unknown
+Law Card: Time Magic: filler
+Law Card: Time Magic antilaw: filler
+Law Card: Wind: unknown
+Law Card: Wind antilaw: filler
+Leather Garb: useful
+Life Crosier: useful
+Light Robe: useful
+Lionheart: useful
+Lohengrin: useful
+Longbarrel: useful
+Longbow: useful
+Lordly Robe: useful
+Lost Gun: useful
+Lotus Mace: useful
+Love Potion: progression
+Lurebreaker: useful
+Madu: useful
+Mage Masher: useful
+Magic Cloth: progression
+Magic Cotton: progression
+Magic Fruit: progression
+Magic Hands: useful
+Magic Medal: progression
+Magic Ring: useful
+Magic Robe: useful
+Magic Trophy: progression
+Magus Robe: useful
+Maiden's Kiss: filler
+Malboro Soul: useful
+Malboro Wine: progression
+Malbow: useful
+Mandragora: useful
+Manganese: useful
+Marduk Bow: useful
+Masamune: useful
+Masamune 100: useful
+Master Bow: useful
+Master Sword: useful
+Materia Armor: useful
+Materia Blade: useful
+Max's Oathbow: useful
+Maximillian: useful
+Mind Ceffyl: progression
+Mindu Gem: useful
+Mirage Vest: useful
+Mirror Mail: useful
+Mistle Robe: useful
+Moon Bloom: progression
+Moonwood: progression
+Morning Star: useful
+Murasame: useful
+Mysidia Alloy: progression
+Mythril Bell: useful
+Mythril Blade: useful
+Mythril Bow: useful
+Mythril Brand: useful
+Mythril Claws: useful
+Mythril Epee: useful
+Mythril Gun: useful
+Mythril Knife: useful
+Mythril Mace: useful
+Mythril Pick: progression
+Mythril Rapier: useful
+Mythril Rod: useful
+Mythril Saber: useful
+Mythril Shot: useful
+Mythril Soul: useful
+Mythril Spear: useful
+Mythril Staff: useful
+Mythril Sword: useful
+Nagrarok: useful
+Nail Bow: useful
+Nike Bow: useful
+Ninja Gear: useful
+Ninja Knife: useful
+Ninja Tabi: useful
+Nirvana Staff: useful
+Nosada: useful
+Oblige: useful
+Odin Lance: useful
+Ogun Blade: useful
+Old Statue: progression
+Onion Sword: useful
+Onlyone: useful
+Opal Armor: useful
+Opal Helm: useful
+Opal Shield: useful
+Orichalcum: useful
+Osafune: useful
+Outsider: useful
+Panther Soul: useful
+Parade Helm: useful
+Paraiba Blade: useful
+Partisan: useful
+Peacemaker: useful
+Pearl Blade: useful
+Perseus Bow: useful
+Petalchaser: useful
+Peytral: useful
+Phoenix Down: filler
+Platemail: useful
+Potion: filler
+Power Fruit: progression
+Power Sash: useful
+Power Staff: useful
+Predator: useful
+Princess Rod: useful
+Progressive Dispatch: progression
+Progressive Path 1: progression
+Progressive Path 2: progression
+Progressive Path 3: progression
+Progressive Shop: progression
+Pure Staff: useful
+Rabbit Tail: progression
+Ragnarok: useful
+Ranger Bow: useful
+Rat Tail: progression
+Reaper Cloak: useful
+Red Boots: useful
+Red Robe: useful
+Restorer: useful
+Reverie Shield: useful
+Rhomphaia: useful
+Riot Gun: useful
+Rising Sun: useful
+Rod: useful
+Rondell Dagger: useful
+Round Shield: useful
+Ruby Earring: useful
+Rukavi Soul: useful
+Runba's Tale: progression
+Sacri Shield: useful
+Sage Crosier: useful
+Sage Robe: useful
+Samson Sword: useful
+Sapere Aude: useful
+Satyr Flute: useful
+Save The Queen: useful
+Scarab: useful
+Scarlette: useful
+Scorpion Tail: useful
+Scramasax: useful
+Sequence: useful
+Seventh Heaven: useful
+Shadow Blade: useful
+Shamshir: useful
+Shijin Shield: useful
+Shortsword: useful
+Sick Knuckles: useful
+Silken Robe: useful
+Silkmoon: useful
+Silver Bow: useful
+Silver Cannon: useful
+Silver Coat: useful
+Silver Rapier: useful
+Silver Sword: useful
+Sleet Rod: useful
+Snake Staff: useful
+Soft: filler
+Soul Saber: useful
+Spiked Boots: useful
+Spring Staff: useful
+Star Armlet: useful
+Stardust Rod: useful
+Stasis Rope: progression
+Stinger: useful
+Stormstone: progression
+Striborg: useful
+Sun Blade: useful
+Survival Vest: useful
+Survivor: useful
+Sweep Blade: useful
+Sword Breaker: useful
+Tabarise: useful
+Target Bow: useful
+Telaq Flowers: progression
+Temple Cloth: useful
+Terre Rod: useful
+The Hero Gaol: progression
+Thief Armlets: useful
+Thief Hat: useful
+Thor Rod: useful
+Thorn Bow: useful
+Thunder Robe: useful
+Thunder Rod: useful
+Thunderstone: progression
+Tiger Fangs: useful
+Tiptaptwo: useful
+Tonberrian: useful
+Tonberry Lamp: progression
+Tranquil Box: progression
+Trichord: progression
+Trident: useful
+Tulwar: useful
+Twin Bow: useful
+Vajra: useful
+Venus Blade: useful
+Vesper: useful
+Victor Sword: useful
+Vigilante: useful
+Vitanova: useful
+War Trumpet: useful
+Water Sigil: progression
+White Fangs: useful
+White Flowers: progression
+White Hat: useful
+White Robe: useful
+White Staff: useful
+White Thread: progression
+Wind Sigil: progression
+Windslash Bow: useful
+Wizard Hat: useful
+Wygar: useful
+X-Potion: filler
+Yoichi Bow: useful
+Zankplus: useful
+Zanmato: useful
+Zeus Mace: useful
+Zorlin Shape: useful
 Cachusha: useful
 Barette: useful
 Ribbon: useful
 Tiara: useful
 Minerva Plate: useful
 Rubber Suit: useful
-Feather Cap: useful
-Circlet: useful
-Green Beret: useful
-Headband: useful
-Wizard Hat: useful
-Gold Hairpin: useful
-Thief Hat: useful
-Black Hat: useful
-White Hat: useful
-Acacia Hat: useful
-Cuirass: useful
-Bronze Armor: useful
-Iron Armor: useful
-Platemail: useful
-Gold Armor: useful
-Diamond Armor: useful
-Opal Armor: useful
-Carabini: useful
-Mirror Mail: useful
-Dragon Mail: useful
-Genji Armor: useful
-Maximillian: useful
-Adaman Armor: useful
-Materia Armor: useful
-Peytral: useful
-Leather Garb: useful
-Chain Plate: useful
-Adaman Vest: useful
-Survival Vest: useful
-Brigandine: useful
-Judo Uniform: useful
-Power Sash: useful
-Gaia Gear: useful
-Ninja Gear: useful
-Dark Gear: useful
-Wygar: useful
-Mirage Vest: useful
-Bone Plate: useful
-Onlyone: useful
-Brint Set: useful
-Galmia Set: useful
-Judge Coat: useful
-Temple Cloth: useful
-Hempen Robe: useful
-Silken Robe: useful
-Magus Robe: useful
-Mistle Robe: useful
-Blaze Robe: useful
-Thunder Robe: useful
-Flurry Robe: useful
-White Robe: useful
-Black Robe: useful
-Light Robe: useful
-Lordly Robe: useful
-Silver Coat: useful
-Red Robe: useful
-Sage Robe: useful
-Magic Robe: useful
-Reaper Cloak: useful
-Battle Boots: useful
-Spiked Boots: useful
-Dash Boots: useful
-Red Boots: useful
-Feather Boots: useful
-Germinas: useful
-Galmia Shoes: useful
-Fairy Shoes: useful
-Caligula: useful
-Ninja Tabi: useful
-Gauntlets: useful
-Thief Armlets: useful
-Bracers: useful
-Genji Armlets: useful
-Fire Mitts: useful
-Bone Armlets: useful
-Fortune Ring: useful
-Magic Ring: useful
-Angel Ring: useful
-Scarab: useful
-Ruby Earring: useful
-Star Armlet: useful
-Mindu Gem: useful
-Potion: filler
-Hi-Potion: filler
-X-Potion: filler
-Ether: filler
-Elixir: filler
-Antidote: filler
-Eye Drops: filler
-Echo Screen: filler
-Maiden's Kiss: filler
-Soft: filler
-Holy Water: filler
-Bandage: filler
-Cureall: filler
-Phoenix Down: filler
-Magic Trophy: progression
-Fight Trophy: progression
-Magic Medal: progression
-Ancient Medal: progression
-Choco Bread: progression
-Choco Gratin: progression
-Black Thread: progression
-White Thread: progression
-Thunderstone: progression
-Stormstone: progression
-Ahriman Eye: progression
-Ahriman Wing: progression
-Magic Cloth: progression
-Magic Cotton: progression
-Adaman Alloy: progression
-Mysidia Alloy: progression
-Elda's Cup: progression
-Gold Vessel: progression
-Kiddy Bread: progression
-Grownup Bread: progression
-Danbukwood: progression
-Moonwood: progression
-Dragon Bone: progression
-Animal Bone: progression
-Magic Fruit: progression
-Power Fruit: progression
-Malboro Wine: progression
-Gedegg Soup: progression
-Encyclopedia: progression
-Dictionary: progression
-Rat Tail: progression
-Rabbit Tail: progression
-Stasis Rope: progression
-Mythril Pick: progression
-Clock Gear: progression
-Gun Gear: progression
-Blood Shawl: progression
-Blood Apple: progression
-Eldagusto: progression
-Cyril Ice: progression
-Crystal: progression
-Trichord: progression
-Tranquil Box: progression
-Flower Vase: progression
-Cat's Tears: progression
-Dame's Blush: progression
-Homework: progression
-Friend Badge: progression
-Love Potion: progression
-Tonberry Lamp: progression
-Runba's Tale: progression
-The Hero Gaol: progression
-Mind Ceffyl: progression
-Body Ceffyl: progression
-Ancient Bills: progression
-Ancient Coins: progression
-Blue Rose: progression
-White Flowers: progression
-Gysahl Greens: progression
-Chocobo Egg: progression
-Delta Fang: progression
-Esteroth: progression
-Moon Bloom: progression
-Telaq Flowers: progression
-Fire Sigil: progression
-Water Sigil: progression
-Wind Sigil: progression
-Earth Sigil: progression
-Old Statue: progression
-Progressive Path 1: progression
-Progressive Path 2: progression
-Progressive Path 3: progression
-Progressive Dispatch: progression
-Progressive Shop: progression
 Ability: Sheep Count: useful
 Ability: 100% Wool: useful
 Ability: Cuisine: useful
 Ability: Tail Wag: useful
-Job Unlock: Soldier: useful
-Job Unlock: Paladin: useful
-Job Unlock: Fighter: useful
-Job Unlock: Thief: useful
-Job Unlock: Ninja: useful
-Job Unlock: White Mage: useful
-Job Unlock: Black Mage: useful
-Job Unlock: Illusionist: useful
-Job Unlock: Blue Mage: useful
-Job Unlock: Archer: useful
-Job Unlock: Hunter: useful
-Job Unlock: Warrior: useful
-Job Unlock: Dragoon: useful
-Job Unlock: Defender: useful
-Job Unlock: Gladiator: useful
-Job Unlock: White Monk: useful
-Job Unlock: Bishop: useful
-Job Unlock: Templar: useful
-Job Unlock: Time Mage: useful
-Job Unlock: Alchemist: useful
-Job Unlock: Beastmaster: useful
-Job Unlock: Morpher: useful
-Job Unlock: Sage: useful
-Job Unlock: Fencer: useful
-Job Unlock: Elementalist: useful
-Job Unlock: Red Mage: useful
-Job Unlock: Summoner: useful
-Job Unlock: Assassin: useful
-Job Unlock: Sniper: useful
-Job Unlock: Animist: useful
-Job Unlock: Mog Knight: useful
-Job Unlock: Gunner: useful
-Job Unlock: Juggler: useful
-Job Unlock: Gadgeteer: useful
 Skills: progression
 Techniques: progression
 Color Magic: progression
@@ -496,51 +638,3 @@ Hunt: progression
 Charge: progression
 Time Magic: progression
 Roulette Trap: trap
-Law Card: Defend: filler
-Law Card: Time Magic antilaw: filler
-Law Card: Control: filler
-Law Card: Silence antilaw: filler
-Law Card: Protect antilaw: filler
-Law Card: Time Magic: filler
-Law Card: Broadswords: filler
-Law Card: Dmg2: Viera antilaw: filler
-Law Card: Morph antilaw: filler
-Law Card: Target All: filler
-Law Card: Haste antilaw: filler
-Law Card: Swords antilaw: filler
-Law Card: Sharpshoot: filler
-Law Card: Hunt antilaw: filler
-Law Card: Haste: filler
-Law Card: R2 Antilaw: filler
-Law Card: Rapiers antilaw: filler
-Law Card: Broadswords antilaw: filler
-Law Card: Addle antilaw: filler
-Law Card: Berserk antilaw: filler
-Law Card: Addle: filler
-Law Card: Holy antilaw: filler
-Law Card: Poison: filler
-Law Card: Dmg2: Animal antilaw: filler
-Law Card: Allmighty antilaw: filler
-Law Card: Instruments: filler
-Law Card: Shell: filler
-Law Card: Charge: filler
-Law Card: R5 Antilaw: filler
-Law Card: Soul antilaw: filler
-Law Card: Summon antilaw: filler
-Law Card: Items: filler
-Law Card: Wind antilaw: filler
-Law Card: Holy: filler
-Law Card: Charm antilaw: filler
-Law Card: Charge antilaw: filler
-Law Card: Instruments antilaw: filler
-Law Card: Copycat antilaw: filler
-Law Card: Status: filler
-Law Card: Sabers: filler
-Law Card: Color Magic antilaw: filler
-Law Card: Knightswords antilaw: filler
-Law Card: Corner antilaw: filler
-Law Card: Elementals antilaw: filler
-Law Card: Lightning: filler
-Law Card: Steal: filler
-Law Card: Spears antilaw: filler
-Law Card: Gunmanship: filler

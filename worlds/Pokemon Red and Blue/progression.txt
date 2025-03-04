@@ -4,8 +4,6 @@ Great Ball: filler
 Poke Ball: filler
 Town Map: progression
 Bicycle: progression
-Flippers: progression
-Safari Ball: filler
 Pokedex: progression
 Moon Stone: progression
 Antidote: filler
@@ -46,7 +44,6 @@ X Accuracy: filler
 Leaf Stone: progression
 Card Key: progression
 Nugget: filler
-Laptop: useful
 Poke Doll: filler
 Full Heal: filler
 Revive: filler
@@ -108,56 +105,6 @@ HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Flash: progression
-TM01: useful
-TM02: useful
-TM03: useful
-TM04: useful
-TM05: useful
-TM06: useful
-TM07: useful
-TM08: useful
-TM09: useful
-TM10: useful
-TM11: useful
-TM12: useful
-TM13: useful
-TM14: useful
-TM15: useful
-TM16: useful
-TM17: useful
-TM18: useful
-TM19: useful
-TM20: useful
-TM21: useful
-TM22: useful
-TM23: useful
-TM24: useful
-TM25: useful
-TM26: useful
-TM27: useful
-TM28: useful
-TM29: useful
-TM30: useful
-TM31: useful
-TM32: useful
-TM33: useful
-TM34: useful
-TM35: useful
-TM36: useful
-TM37: useful
-TM38: useful
-TM39: useful
-TM40: useful
-TM41: useful
-TM42: useful
-TM43: useful
-TM44: useful
-TM45: useful
-TM46: useful
-TM47: useful
-TM48: useful
-TM49: useful
-TM50: useful
 TM01 Mega Punch: useful
 TM02 Razor Wind: filler
 TM03 Swords Dance: useful
@@ -208,3 +155,56 @@ TM47 Explosion: useful
 TM48 Rock Slide: useful
 TM49 Tri Attack: useful
 TM50 Substitute: useful
+TM01: useful
+TM02: useful
+TM03: useful
+TM04: useful
+TM05: useful
+TM06: useful
+TM07: useful
+TM08: useful
+TM09: useful
+TM10: useful
+TM11: useful
+TM12: useful
+TM13: useful
+TM14: useful
+TM15: useful
+TM16: useful
+TM17: useful
+TM18: useful
+TM19: useful
+TM20: useful
+TM21: useful
+TM22: useful
+TM23: useful
+TM24: useful
+TM25: useful
+TM26: useful
+TM27: useful
+TM28: useful
+TM29: useful
+TM30: useful
+TM31: useful
+TM32: useful
+TM33: useful
+TM34: useful
+TM35: useful
+TM36: useful
+TM37: useful
+TM38: useful
+TM39: useful
+TM40: useful
+TM41: useful
+TM42: useful
+TM43: useful
+TM44: useful
+TM45: useful
+TM46: useful
+TM47: useful
+TM48: useful
+TM49: useful
+TM50: useful
+Flippers: progression
+Safari Ball: filler
+Laptop: useful

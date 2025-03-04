@@ -13,9 +13,6 @@ Ring of Ruby: progression
 Ring of Dworf: progression
 Demons Ring: progression
 Black Onyx: progression
-Sky Spring Flow: progression
-Tower of Fortress Spring Flow: progression
-Joker Spring Flow: progression
 Deluge: progression
 Thunder: useful
 Fire: useful
@@ -30,5 +27,8 @@ Elixir: filler
 Glove: filler
 Ointment: filler
 Poison: trap
-Killed Evil One: progression
 Wingboots: useful
+Sky Spring Flow: progression
+Tower of Fortress Spring Flow: progression
+Joker Spring Flow: progression
+Killed Evil One: progression

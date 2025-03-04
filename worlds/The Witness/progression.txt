@@ -1,267 +1,267 @@
-Dots: progression
-Colored Dots: progression
-Full Dots: progression
-Invisible Dots: progression
-Sound Dots: progression
-Symmetry: progression
-Triangles: progression
-Eraser: progression
-Shapers: progression
-Rotated Shapers: progression
-Negative Shapers: progression
-Stars: progression
-Stars + Same Colored Symbol: progression
-Black/White Squares: progression
-Colored Squares: progression
 Arrows: progression
-Puzzle Skip: useful
-Energy Capacity: useful
-Functioning Brain: filler
-Progressive Dots: progression
-Progressive Symmetry: progression
-Progressive Stars: progression
-Speed Boost: filler
-Energy Fill (Small): filler
-Energy Fill: filler
-Energy Fill (Max): filler
-Slowness: trap
-Power Surge: trap
+Black/White Squares: progression
+Boat: progression
 Bonk: trap
-Glass Factory Entry (Panel): progression
-Outside Tutorial Outpost Entry (Panel): progression
-Outside Tutorial Outpost Exit (Panel): progression
-Symmetry Island Lower (Panel): progression
-Symmetry Island Upper (Panel): progression
+Bunker Control Panels: progression
+Bunker Doors: progression
+Bunker Drop-Down Door Controls (Panel): progression
+Bunker Elevator Control (Panel): progression
+Bunker Elevator Room Entry (Door): progression
+Bunker Entry (Door): progression
+Bunker Entry (Panel): progression
+Bunker Laser: progression
+Bunker Panels: progression
+Bunker Tinted Glass Door: progression
+Bunker Tinted Glass Door (Panel): progression
+Bunker UV Room Entry (Door): progression
+Caves Doors: progression
+Caves Elevator Controls (Panel): progression
+Caves Entry (Door): progression
+Caves Entry (Panel): progression
+Caves Mountain Shortcut (Door): progression
+Caves Panels: progression
+Caves Pillar Door: progression
+Caves Shortcuts: progression
+Caves Swamp Shortcut (Door): progression
+Challenge Entry (Door): progression
+Challenge Entry (Panel): progression
+Colored Dots: progression
+Colored Squares: progression
+Desert Control Panels: progression
+Desert Doors & Elevator: progression
+Desert Elevator (Door): progression
+Desert Elevator Room Entry (Door): progression
+Desert Elevator Room Hexagonal Control (Panel): progression
+Desert Flood Controls (Panel): progression
+Desert Flood Room Entry (Door): progression
+Desert Flood Room Entry (Panel): progression
+Desert Laser: progression
+Desert Light Control (Panel): progression
+Desert Light Room Entry (Door): progression
+Desert Light Room Entry (Panel): progression
+Desert Obelisk Key: progression
+Desert Panels: progression
+Desert Pond Room Entry (Door): progression
 Desert Surface 3 Control (Panel): progression
 Desert Surface 8 Control (Panel): progression
-Desert Light Room Entry (Panel): progression
-Desert Flood Controls (Panel): progression
-Desert Light Control (Panel): progression
-Desert Flood Room Entry (Panel): progression
-Desert Elevator Room Hexagonal Control (Panel): progression
-Quarry Elevator Control (Panel): progression
-Quarry Entry 1 (Panel): progression
-Quarry Entry 2 (Panel): progression
-Quarry Stoneworks Entry (Panel): progression
-Quarry Stoneworks Ramp Controls (Panel): progression
-Quarry Stoneworks Lift Controls (Panel): progression
-Quarry Boathouse Ramp Height Control (Panel): progression
-Quarry Boathouse Ramp Horizontal Control (Panel): progression
-Quarry Boathouse Hook Control (Panel): progression
-Shadows Door Timer (Panel): progression
-Keep Hedge Maze 1 (Panel): progression
-Keep Hedge Maze 2 (Panel): progression
-Keep Hedge Maze 3 (Panel): progression
-Keep Hedge Maze 4 (Panel): progression
-Monastery Entry Left (Panel): progression
-Monastery Entry Right (Panel): progression
-Monastery Shutters Control (Panel): progression
-Town RGB House Entry (Panel): progression
-Town Church Entry (Panel): progression
-Town RGB Control (Panel): progression
-Town Maze Stairs (Panel): progression
-Town Maze Rooftop Bridge (Panel): progression
-Windmill Entry (Panel): progression
-Town Cargo Box Entry (Panel): progression
-Town Desert Laser Redirect Control (Panel): progression
-Windmill Turn Control (Panel): progression
-Theater Entry (Panel): progression
-Theater Video Input (Panel): progression
-Theater Exit (Panel): progression
-Treehouse First & Second Doors (Panel): progression
-Treehouse Third Door (Panel): progression
-Treehouse Laser House Door Timer (Panel): progression
-Treehouse Drawbridge (Panel): progression
-Jungle Popup Wall (Panel): progression
-Bunker Entry (Panel): progression
-Bunker Tinted Glass Door (Panel): progression
-Bunker Elevator Control (Panel): progression
-Bunker Drop-Down Door Controls (Panel): progression
-Swamp Entry (Panel): progression
-Swamp Sliding Bridge (Panel): progression
-Swamp Platform Shortcut (Panel): progression
-Swamp Rotating Bridge (Panel): progression
-Swamp Long Bridge (Panel): progression
-Swamp Maze Controls (Panel): progression
-Mountain Floor 1 Light Bridge (Panel): progression
-Mountain Floor 2 Light Bridge Near (Panel): progression
-Mountain Floor 2 Light Bridge Far (Panel): progression
-Mountain Floor 2 Elevator Control (Panel): progression
-Caves Entry (Panel): progression
-Caves Elevator Controls (Panel): progression
-Challenge Entry (Panel): progression
-Tunnels Entry (Panel): progression
-Tunnels Town Shortcut (Panel): progression
-Boat: progression
-Caves Mountain Shortcut (Door): progression
-Outside Tutorial Outpost Path (Door): progression
-Outside Tutorial Outpost Entry (Door): progression
-Outside Tutorial Outpost Exit (Door): progression
-Glass Factory Entry (Door): progression
+Dots: progression
+Eraser: progression
+Full Dots: progression
+Functioning Brain: filler
 Glass Factory Back Wall (Door): progression
-Symmetry Island Lower (Door): progression
-Symmetry Island Upper (Door): progression
-Orchard First Gate (Door): progression
-Orchard Second Gate (Door): progression
-Desert Light Room Entry (Door): progression
-Desert Pond Room Entry (Door): progression
-Desert Flood Room Entry (Door): progression
-Desert Elevator Room Entry (Door): progression
-Desert Elevator (Door): progression
-Quarry Entry 1 (Door): progression
-Quarry Entry 2 (Door): progression
-Quarry Stoneworks Entry (Door): progression
-Quarry Stoneworks Side Exit (Door): progression
-Quarry Stoneworks Roof Exit (Door): progression
-Quarry Stoneworks Stairs (Door): progression
-Quarry Boathouse Dock (Door): progression
-Quarry Boathouse First Barrier (Door): progression
-Quarry Boathouse Second Barrier (Door): progression
-Shadows Timed Door: progression
-Shadows Laser Entry Right (Door): progression
-Shadows Laser Entry Left (Door): progression
-Shadows Quarry Barrier (Door): progression
-Shadows Ledge Barrier (Door): progression
+Glass Factory Doors: progression
+Glass Factory Entry (Door): progression
+Glass Factory Entry (Panel): progression
+Invisible Dots: progression
+Jungle Doors: progression
+Jungle Laser: progression
+Jungle Laser Shortcut (Door): progression
+Jungle Monastery Garden Shortcut (Door): progression
+Jungle Popup Wall (Door): progression
+Jungle Popup Wall (Panel): progression
+Keep Hedge Maze 1 (Panel): progression
 Keep Hedge Maze 1 Exit (Door): progression
-Keep Pressure Plates 1 Exit (Door): progression
-Keep Hedge Maze 2 Shortcut (Door): progression
+Keep Hedge Maze 2 (Panel): progression
 Keep Hedge Maze 2 Exit (Door): progression
-Keep Hedge Maze 3 Shortcut (Door): progression
+Keep Hedge Maze 2 Shortcut (Door): progression
+Keep Hedge Maze 3 (Panel): progression
 Keep Hedge Maze 3 Exit (Door): progression
-Keep Hedge Maze 4 Shortcut (Door): progression
+Keep Hedge Maze 3 Shortcut (Door): progression
+Keep Hedge Maze 4 (Panel): progression
 Keep Hedge Maze 4 Exit (Door): progression
+Keep Hedge Maze 4 Shortcut (Door): progression
+Keep Hedge Maze Doors: progression
+Keep Hedge Maze Panels: progression
+Keep Laser: progression
+Keep Pressure Plates 1 Exit (Door): progression
 Keep Pressure Plates 2 Exit (Door): progression
 Keep Pressure Plates 3 Exit (Door): progression
 Keep Pressure Plates 4 Exit (Door): progression
+Keep Pressure Plates Doors: progression
 Keep Shadows Shortcut (Door): progression
+Keep Shortcuts: progression
 Keep Tower Shortcut (Door): progression
-Monastery Laser Shortcut (Door): progression
+Monastery Entry Doors: progression
 Monastery Entry Inner (Door): progression
+Monastery Entry Left (Panel): progression
 Monastery Entry Outer (Door): progression
+Monastery Entry Right (Panel): progression
 Monastery Garden Entry (Door): progression
-Town Cargo Box Entry (Door): progression
-Town Wooden Roof Stairs (Door): progression
-Town RGB House Entry (Door): progression
-Town Church Entry (Door): progression
-Town Maze Stairs (Door): progression
-Windmill Entry (Door): progression
-Town RGB House Stairs (Door): progression
-Town Tower Second (Door): progression
-Town Tower First (Door): progression
-Town Tower Fourth (Door): progression
-Town Tower Third (Door): progression
-Theater Entry (Door): progression
-Theater Exit Left (Door): progression
-Theater Exit Right (Door): progression
-Jungle Laser Shortcut (Door): progression
-Jungle Popup Wall (Door): progression
-Jungle Monastery Garden Shortcut (Door): progression
-Bunker Entry (Door): progression
-Bunker Tinted Glass Door: progression
-Bunker UV Room Entry (Door): progression
-Bunker Elevator Room Entry (Door): progression
-Swamp Entry (Door): progression
-Swamp Between Bridges First Door: progression
-Swamp Platform Shortcut (Door): progression
-Swamp Cyan Water Pump (Door): progression
-Swamp Between Bridges Second Door: progression
-Swamp Red Water Pump (Door): progression
-Swamp Red Underwater Exit (Door): progression
-Swamp Blue Water Pump (Door): progression
-Swamp Purple Water Pump (Door): progression
-Swamp Laser Shortcut (Door): progression
-Treehouse First (Door): progression
-Treehouse Second (Door): progression
-Treehouse Third (Door): progression
-Treehouse Drawbridge (Door): progression
-Treehouse Laser House Entry (Door): progression
-Mountain Floor 1 Exit (Door): progression
-Mountain Floor 2 Staircase Near (Door): progression
-Mountain Floor 2 Exit (Door): progression
-Mountain Floor 2 Staircase Far (Door): progression
+Monastery Laser: progression
+Monastery Laser Shortcut (Door): progression
+Monastery Obelisk Key: progression
+Monastery Panels: progression
+Monastery Shortcuts: progression
+Monastery Shutters Control (Panel): progression
+Mountain & Caves Control Panels: progression
+Mountain Bottom Floor Doors: progression
 Mountain Bottom Floor Giant Puzzle Exit (Door): progression
 Mountain Bottom Floor Pillars Room Entry (Door): progression
 Mountain Bottom Floor Rock (Door): progression
-Caves Entry (Door): progression
-Caves Pillar Door: progression
-Caves Swamp Shortcut (Door): progression
-Challenge Entry (Door): progression
-Tunnels Entry (Door): progression
-Tunnels Theater Shortcut (Door): progression
-Tunnels Desert Shortcut (Door): progression
-Tunnels Town Shortcut (Door): progression
-Outside Tutorial Outpost Doors: progression
-Glass Factory Doors: progression
-Symmetry Island Doors: progression
-Orchard Gates: progression
-Desert Doors & Elevator: progression
-Quarry Entry Doors: progression
-Quarry Stoneworks Doors: progression
-Quarry Boathouse Doors: progression
-Shadows Laser Room Doors: progression
-Shadows Lower Doors: progression
-Keep Hedge Maze Doors: progression
-Keep Pressure Plates Doors: progression
-Keep Shortcuts: progression
-Monastery Entry Doors: progression
-Monastery Shortcuts: progression
-Town Doors: progression
-Town Tower Doors: progression
-Windmill & Theater Doors: progression
-Jungle Doors: progression
-Bunker Doors: progression
-Swamp Doors: progression
-Swamp Shortcuts: progression
-Swamp Water Pumps: progression
-Treehouse Entry Doors: progression
-Treehouse Upper Doors: progression
 Mountain Floor 1 & 2 Doors: progression
-Mountain Bottom Floor Doors: progression
-Caves Doors: progression
-Caves Shortcuts: progression
-Tunnels Doors: progression
-Desert Control Panels: progression
-Quarry Stoneworks Control Panels: progression
-Quarry Boathouse Control Panels: progression
-Town Control Panels: progression
-Windmill & Theater Control Panels: progression
-Bunker Control Panels: progression
-Swamp Control Panels: progression
-Mountain & Caves Control Panels: progression
-Symmetry Island Panels: progression
-Outside Tutorial Outpost Panels: progression
-Desert Panels: progression
-Quarry Outside Panels: progression
-Quarry Stoneworks Panels: progression
-Quarry Boathouse Panels: progression
-Keep Hedge Maze Panels: progression
-Monastery Panels: progression
-Town Church & RGB House Panels: progression
-Town Maze Panels: progression
-Town Dockside House Panels: progression
-Windmill & Theater Panels: progression
-Treehouse Panels: progression
-Bunker Panels: progression
-Swamp Panels: progression
+Mountain Floor 1 Exit (Door): progression
+Mountain Floor 1 Light Bridge (Panel): progression
+Mountain Floor 2 Elevator Control (Panel): progression
+Mountain Floor 2 Exit (Door): progression
+Mountain Floor 2 Light Bridge Far (Panel): progression
+Mountain Floor 2 Light Bridge Near (Panel): progression
+Mountain Floor 2 Staircase Far (Door): progression
+Mountain Floor 2 Staircase Near (Door): progression
 Mountain Panels: progression
-Caves Panels: progression
-Tunnels Panels: progression
-Desert Obelisk Key: progression
-Monastery Obelisk Key: progression
-Treehouse Obelisk Key: progression
 Mountainside Obelisk Key: progression
-Quarry Obelisk Key: progression
-Town Obelisk Key: progression
-Symmetry Laser: progression
-Desert Laser: progression
+Negative Shapers: progression
+Orchard First Gate (Door): progression
+Orchard Gates: progression
+Orchard Second Gate (Door): progression
+Outside Tutorial Outpost Doors: progression
+Outside Tutorial Outpost Entry (Door): progression
+Outside Tutorial Outpost Entry (Panel): progression
+Outside Tutorial Outpost Exit (Door): progression
+Outside Tutorial Outpost Exit (Panel): progression
+Outside Tutorial Outpost Panels: progression
+Outside Tutorial Outpost Path (Door): progression
+Power Surge: trap
+Progressive Dots: progression
+Progressive Stars: progression
+Progressive Symmetry: progression
+Puzzle Skip: useful
+Quarry Boathouse Control Panels: progression
+Quarry Boathouse Dock (Door): progression
+Quarry Boathouse Doors: progression
+Quarry Boathouse First Barrier (Door): progression
+Quarry Boathouse Hook Control (Panel): progression
+Quarry Boathouse Panels: progression
+Quarry Boathouse Ramp Height Control (Panel): progression
+Quarry Boathouse Ramp Horizontal Control (Panel): progression
+Quarry Boathouse Second Barrier (Door): progression
+Quarry Elevator Control (Panel): progression
+Quarry Entry 1 (Door): progression
+Quarry Entry 1 (Panel): progression
+Quarry Entry 2 (Door): progression
+Quarry Entry 2 (Panel): progression
+Quarry Entry Doors: progression
 Quarry Laser: progression
+Quarry Obelisk Key: progression
+Quarry Outside Panels: progression
+Quarry Stoneworks Control Panels: progression
+Quarry Stoneworks Doors: progression
+Quarry Stoneworks Entry (Door): progression
+Quarry Stoneworks Entry (Panel): progression
+Quarry Stoneworks Lift Controls (Panel): progression
+Quarry Stoneworks Panels: progression
+Quarry Stoneworks Ramp Controls (Panel): progression
+Quarry Stoneworks Roof Exit (Door): progression
+Quarry Stoneworks Side Exit (Door): progression
+Quarry Stoneworks Stairs (Door): progression
+Rotated Shapers: progression
+Shadows Door Timer (Panel): progression
 Shadows Laser: progression
-Keep Laser: progression
-Monastery Laser: progression
-Town Laser: progression
-Jungle Laser: progression
-Bunker Laser: progression
+Shadows Laser Entry Left (Door): progression
+Shadows Laser Entry Right (Door): progression
+Shadows Laser Room Doors: progression
+Shadows Ledge Barrier (Door): progression
+Shadows Lower Doors: progression
+Shadows Quarry Barrier (Door): progression
+Shadows Timed Door: progression
+Shapers: progression
+Slowness: trap
+Sound Dots: progression
+Speed Boost: filler
+Stars: progression
+Stars + Same Colored Symbol: progression
+Swamp Between Bridges First Door: progression
+Swamp Between Bridges Second Door: progression
+Swamp Blue Water Pump (Door): progression
+Swamp Control Panels: progression
+Swamp Cyan Water Pump (Door): progression
+Swamp Doors: progression
+Swamp Entry (Door): progression
+Swamp Entry (Panel): progression
 Swamp Laser: progression
+Swamp Laser Shortcut (Door): progression
+Swamp Long Bridge (Panel): progression
+Swamp Maze Controls (Panel): progression
+Swamp Panels: progression
+Swamp Platform Shortcut (Door): progression
+Swamp Platform Shortcut (Panel): progression
+Swamp Purple Water Pump (Door): progression
+Swamp Red Underwater Exit (Door): progression
+Swamp Red Water Pump (Door): progression
+Swamp Rotating Bridge (Panel): progression
+Swamp Shortcuts: progression
+Swamp Sliding Bridge (Panel): progression
+Swamp Water Pumps: progression
+Symmetry: progression
+Symmetry Island Doors: progression
+Symmetry Island Lower (Door): progression
+Symmetry Island Lower (Panel): progression
+Symmetry Island Panels: progression
+Symmetry Island Upper (Door): progression
+Symmetry Island Upper (Panel): progression
+Symmetry Laser: progression
+Theater Entry (Door): progression
+Theater Entry (Panel): progression
+Theater Exit (Panel): progression
+Theater Exit Left (Door): progression
+Theater Exit Right (Door): progression
+Theater Video Input (Panel): progression
+Town Cargo Box Entry (Door): progression
+Town Cargo Box Entry (Panel): progression
+Town Church & RGB House Panels: progression
+Town Church Entry (Door): progression
+Town Church Entry (Panel): progression
+Town Control Panels: progression
+Town Desert Laser Redirect Control (Panel): progression
+Town Dockside House Panels: progression
+Town Doors: progression
+Town Laser: progression
+Town Maze Panels: progression
+Town Maze Rooftop Bridge (Panel): progression
+Town Maze Stairs (Door): progression
+Town Maze Stairs (Panel): progression
+Town Obelisk Key: progression
+Town RGB Control (Panel): progression
+Town RGB House Entry (Door): progression
+Town RGB House Entry (Panel): progression
+Town RGB House Stairs (Door): progression
+Town Tower Doors: progression
+Town Tower First (Door): progression
+Town Tower Fourth (Door): progression
+Town Tower Second (Door): progression
+Town Tower Third (Door): progression
+Town Wooden Roof Stairs (Door): progression
+Treehouse Drawbridge (Door): progression
+Treehouse Drawbridge (Panel): progression
+Treehouse Entry Doors: progression
+Treehouse First & Second Doors (Panel): progression
+Treehouse First (Door): progression
 Treehouse Laser: progression
+Treehouse Laser House Door Timer (Panel): progression
+Treehouse Laser House Entry (Door): progression
+Treehouse Obelisk Key: progression
+Treehouse Panels: progression
+Treehouse Second (Door): progression
+Treehouse Third (Door): progression
+Treehouse Third Door (Panel): progression
+Treehouse Upper Doors: progression
+Triangles: progression
+Tunnels Desert Shortcut (Door): progression
+Tunnels Doors: progression
+Tunnels Entry (Door): progression
+Tunnels Entry (Panel): progression
+Tunnels Panels: progression
+Tunnels Theater Shortcut (Door): progression
+Tunnels Town Shortcut (Door): progression
+Tunnels Town Shortcut (Panel): progression
+Windmill & Theater Control Panels: progression
+Windmill & Theater Doors: progression
+Windmill & Theater Panels: progression
+Windmill Entry (Door): progression
+Windmill Entry (Panel): progression
+Windmill Turn Control (Panel): progression
+Energy Capacity: useful
+Energy Fill (Small): filler
+Energy Fill: filler
+Energy Fill (Max): filler
 Challenge Tunnels Entry (Door): filler
 Town Windmill Entry (Door): progression

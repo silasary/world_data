@@ -6,9 +6,6 @@ Quick Boomerang: progression
 Time Stopper: progression
 Metal Blade: progression
 Crash Bomber: progression
-Item 1: progression
-Item 2: progression
-Item 3: progression
 Heat Man Access Codes: progression
 Air Man Access Codes: progression
 Wood Man Access Codes: progression
@@ -17,11 +14,17 @@ Quick Man Access Codes: progression
 Flash Man Access Codes: progression
 Metal Man Access Codes: progression
 Crash Man Access Codes: progression
-E-Tank: useful
+Item 1 - Propeller: progression
+Item 2 - Rocket: progression
+Item 3 - Bouncy: progression
 1-Up: filler
 Weapon Energy (L): filler
-Weapon Energy (S): filler
 Health Energy (L): filler
+E-Tank: useful
+Item 1: progression
+Item 2: progression
+Item 3: progression
+Weapon Energy (S): filler
 Health Energy (S): filler
 heat man access codes: progression
 bubble lead: progression
@@ -44,6 +47,3 @@ metal blade: progression
 flash man access codes: progression
 e tank: useful
 wood man access codes: progression
-Item 2 - Rocket: progression
-Item 3 - Bouncy: progression
-Item 1 - Propeller: progression

@@ -1,47 +1,14 @@
 ! Switch: progression
-Dashed Platform: progression
-Dashed Stairs: progression
-Beanstalk: progression
-Helicopter Morph: progression
-Spring Ball: progression
-Large Spring Ball: progression
++10 Stars: useful
++20 Stars: useful
+1-Up: filler
+10-Up: useful
+2-Up: filler
+3-Up: filler
+Anytime Egg: useful
+Anywhere Pow: filler
 Arrow Wheel: progression
-Vanishing Arrow Wheel: progression
-Mole Tank Morph: progression
-Watermelon: progression
-Ice Melon: progression
-Fire Melon: progression
-Super Star: progression
-Car Morph: progression
-Flashing Eggs: progression
-Giant Eggs: progression
-Egg Launcher: progression
-Egg Plant: progression
-Submarine Morph: progression
-Chomp Rock: progression
-Poochy: progression
-Platform Ghost: progression
-Skis: progression
-Train Morph: progression
-Key: progression
-Middle Ring: progression
-Bucket: progression
-Tulip: progression
-Egg Capacity Upgrade: progression
-Secret Lens: progression
-World 1 Gate: progression
-World 2 Gate: progression
-World 3 Gate: progression
-World 4 Gate: progression
-World 5 Gate: progression
-World 6 Gate: progression
-Extra 1: progression
-Extra 2: progression
-Extra 3: progression
-Extra 4: progression
-Extra 5: progression
-Extra 6: progression
-Extra Panels: progression
+Beanstalk: progression
 Bonus 1: progression
 Bonus 2: progression
 Bonus 3: progression
@@ -49,26 +16,59 @@ Bonus 4: progression
 Bonus 5: progression
 Bonus 6: progression
 Bonus Panels: progression
-Anytime Egg: useful
-Anywhere Pow: filler
-Winged Cloud Maker: filler
-Pocket Melon: filler
+Bucket: progression
+Car Morph: progression
+Chomp Rock: progression
+Darkness Trap: trap
+Dashed Platform: progression
+Dashed Stairs: progression
+Egg Capacity Upgrade: progression
+Egg Launcher: progression
+Egg Plant: progression
+Extra 1: progression
+Extra 2: progression
+Extra 3: progression
+Extra 4: progression
+Extra 5: progression
+Extra 6: progression
+Extra Panels: progression
+Fire Melon: progression
+Flashing Eggs: progression
+Freeze Trap: trap
+Fuzzy Trap: trap
+Giant Eggs: progression
+Helicopter Morph: progression
+Ice Melon: progression
+Key: progression
+Large Spring Ball: progression
+Magnifying Glass: filler
+Middle Ring: progression
+Mole Tank Morph: progression
+Piece of Luigi: mcguffin
+Platform Ghost: progression
 Pocket Fire Melon: filler
 Pocket Ice Melon: filler
-Magnifying Glass: filler
-+10 Stars: useful
-+20 Stars: useful
-1-Up: filler
-2-Up: filler
-3-Up: filler
-10-Up: useful
+Pocket Melon: filler
+Poochy: progression
+Reversal Trap: trap
+Secret Lens: progression
+Skis: progression
+Spring Ball: progression
+Submarine Morph: progression
+Super Star: progression
+Train Morph: progression
+Tulip: progression
+Vanishing Arrow Wheel: progression
+Watermelon: progression
+Winged Cloud Maker: filler
+World 1 Gate: progression
+World 2 Gate: progression
+World 3 Gate: progression
+World 4 Gate: progression
+World 5 Gate: progression
+World 6 Gate: progression
 Bonus Consumables: progression
 Bandit Consumables: progression
 Bandit Watermelons: progression
-Fuzzy Trap: trap
-Reversal Trap: trap
-Darkness Trap: trap
-Freeze Trap: trap
 Boss Clear: progression
-Piece of Luigi: mcguffin
 Saved Baby Luigi: progression

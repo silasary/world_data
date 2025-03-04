@@ -1,19 +1,278 @@
-Bio Barrage: useful
-Wayfinder Ventus: progression
-Blizzard Screen: useful
-Thunder Boost: useful
-Trinity Limit: useful
+Victory: unknown
+Quick Blitz: unknown
+Blitz: unknown
+Magic Hour: unknown
+Meteor Crash: unknown
+Sliding Dash: unknown
+Fire Dash: unknown
+Dark Haze: unknown
+Sonic Blade: unknown
+Chaos Blade: unknown
+Zantetsuken: unknown
+Strike Raid: unknown
+Freeze Raid: unknown
+Treasure Raid: unknown
+Spark Raid: unknown
+Wind Raid: unknown
+Fire Surge: unknown
+Barrier Surge: unknown
+Thunder Surge: unknown
 Aerial Slam: filler
-Stun Block: filler
-Deck Capacity Increase: useful
-Superglide: progression
-Blizzara: useful
-Treasure Magnet: filler
+Ars Solum: unknown
+Ars Arcanum: unknown
+Time Splicer: unknown
+Poison Edge: unknown
+Wishing Edge: unknown
+Blizzard Edge: unknown
+Stun Edge: unknown
+Slot Edge: unknown
+Fire Strike: unknown
+Confusion Strike: unknown
 Blinding Strike: filler
+Tornado Strike: unknown
+Brutal Blast: unknown
+Magnet Spiral: unknown
+Salvation: unknown
+Windcutter: unknown
+Limit Storm: unknown
+Collision Magnet: unknown
+Geo Impact: unknown
+Sacrifice: unknown
+Break Time: unknown
+Fire: unknown
+Fira: unknown
+Firaga: unknown
+Dark Firaga: unknown
+Fission Firaga: unknown
+Triple Firaga: unknown
+Crawling Fire: unknown
+Blizzard: unknown
+Blizzara: useful
+Blizzaga: unknown
+Triple Blizzaga: unknown
+Thunder: unknown
+Thundara: unknown
+Thundaga: unknown
+Thundaga Shot: unknown
+Cure: unknown
+Cura: unknown
+Curaga: unknown
+Esuna: unknown
+Mine Shield: unknown
+Mine Square: unknown
+Seeker Mine: unknown
+Zero Gravity: unknown
+Zero Gravira: unknown
+Zero Graviga: unknown
+Magnet: unknown
+Magnera: unknown
+Magnega: unknown
+Munny Magnet: unknown
+Energy Magnet: unknown
+D-Link Magnet: unknown
+Aero: unknown
+Aerora: unknown
+Aeroga: unknown
+Warp: unknown
+Faith: unknown
+Deep Freeze: unknown
+Glacier: unknown
+Ice Barrage: unknown
+Firaga Burst: unknown
+Raging Storm: unknown
+Mega Flare: unknown
+Quake: unknown
+Tornado: unknown
+Meteor: unknown
+Transcendence: unknown
+Mini: unknown
+Blackout: unknown
+Ignite: unknown
+Confuse: unknown
+Bind: unknown
+Poison: unknown
+Slow: unknown
+Stop: unknown
+Stopra: unknown
+Stopga: unknown
+Sleep: unknown
+Mega-Potion: unknown
+Mega-Ether: unknown
+Elixir: unknown
+Megalixir: unknown
+Vanish: unknown
+Union Rush: unknown
+Voltage Stack: unknown
+Trinity Limit: useful
+Illusion-F: unknown
+Illusion-L: unknown
+Illusion-V: unknown
+Illusion-R: unknown
+Illusion-B: unknown
+High Jump: unknown
+Thunder Roll: unknown
+Firewheel: unknown
+Air Slide: unknown
+Ice Slide: unknown
 Reversal: useful
+Glide: unknown
+Superglide: progression
+Fire Glide: unknown
+Homing Slide: unknown
+Teleport: unknown
+Sonic Impact: unknown
+Doubleflight: unknown
+Renewal Block: unknown
+Focus Block: unknown
+Stun Block: filler
+Poison Block: unknown
+Renewal Barrier: unknown
+Focus Barrier: unknown
+Confuse Barrier: unknown
+Stop Barrier: unknown
+Counter Rush: unknown
+Counter Hammer: unknown
+Reversal Slash: unknown
+Counter Blast: unknown
+Payback Raid: unknown
+Payback Surge: unknown
+Payback Fang: unknown
+Aerial Recovery: unknown
+Meteor Shower: unknown
+Flame Salvo: unknown
+Dark Volley: unknown
+Ragnarok: unknown
+Thunderstorm: unknown
+Bio Barrage: useful
+Prism Rain: unknown
+Pulse Bomb: unknown
+Photon Charge: unknown
+Absolute Zero: unknown
+Lightning Ray: unknown
+Ultima Cannon: unknown
+Lightbloom: unknown
+Multivortex: unknown
+Critical Impact: unknown
+Spellweaver: unknown
+Fever Pitch: unknown
+Firestorm: unknown
+Diamond Dust: unknown
+Thunderbolt: unknown
+Cyclone: unknown
+Bladecharge: unknown
+Sky Climber: unknown
+Rockbreaker: unknown
+Ghost Drive: unknown
+Rhythm Mixer: unknown
+Dark Impulse: unknown
+Wingblade: unknown
+Frozen Fortune: unknown
+Treasure Magnet: filler
+HP Prize Plus: unknown
+Link Prize Plus: unknown
+Lucky Strike: unknown
+HP Boost: unknown
+Fire Boost: unknown
+Blizzard Boost: unknown
+Thunder Boost: useful
+Cure Boost: unknown
 Item Boost: filler
-(V) Sweetstack: useful
-Fire Screen: filler
+Attack Haste: unknown
+Magic Haste: unknown
 Combo F Boost: filler
+Finish Boost: unknown
+Combo Plus: unknown
+Air Combo Plus: unknown
+Fire Screen: filler
+Blizzard Screen: useful
+Thunder Screen: unknown
+Dark Screen: unknown
+Reload Boost: unknown
+Defender: unknown
+EXP Chance: unknown
+EXP Walker: unknown
+Damage Syphon: unknown
+Second Chance: unknown
+Once More: unknown
+Leaf Bracer: unknown
+(V) Treasure Trove: unknown
+(V) Stroke of Midnight: unknown
+(V) Fairy Stars: unknown
+(V) Victory Line: unknown
+(V) Mark of a Hero: unknown
 (V) Hyperdrive: progression
+(V) Pixie Petal: unknown
+(V) Ultima Weapon: unknown
+(V) Sweetstack: useful
+(V) Frolic Flame: unknown
+(V) Lost Memory: unknown
+(V) Void Gear: unknown
+(V) No Name: unknown
+(V) Royal Radiance: unknown
+(T) Treasure Trove: unknown
+(T) Stroke of Midnight: unknown
+(T) Fairy Stars: unknown
+(T) Victory Line: unknown
+(T) Mark of a Hero: unknown
+(T) Hyperdrive: unknown
+(T) Pixie Petal: unknown
+(T) Ultima Weapon: unknown
+(T) Sweetstack: unknown
+(T) Darkgnaw: unknown
+(T) Ends of the Earth: unknown
+(T) Chaos Ripper: unknown
+(T) Void Gear: unknown
+(T) No Name: unknown
+(T) Royal Radiance: unknown
+(A) Treasure Trove: unknown
+(A) Stroke of Midnight: unknown
+(A) Fairy Stars: unknown
+(A) Victory Line: unknown
+(A) Mark of a Hero: unknown
+(A) Hyperdrive: unknown
+(A) Pixie Petal: unknown
+(A) Ultima Weapon: unknown
+(A) Sweetstack: unknown
+(A) Destiny's Embrace: unknown
+(A) Stormfall: unknown
+(A) Brightcrest: unknown
+(A) Void Gear: unknown
+(A) No Name: unknown
+(A) Royal Radiance: unknown
+(A) Master's Defender: unknown
+Wayfinder Ventus: progression
+Wayfinder Aqua: unknown
+Wayfinder Terra: unknown
+Dwarf Woodlands: unknown
+Castle of Dreams: unknown
+Enchanted Dominion: unknown
+The Mysterious Tower: unknown
+Radiant Garden: unknown
+Mirage Arena: unknown
+Olympus Coliseum: unknown
+Deep Space: unknown
+Realm of Darkness: unknown
+Never Land: unknown
+Disney Town: unknown
 HP Increase: useful
+Deck Capacity Increase: useful
+Mickey D-Link: unknown
+Donald D-Link: unknown
+Goofy D-Link: unknown
+Experiment 626 D-Link: unknown
+Peter Pan D-Link: unknown
+Maleficent D-Link: unknown
+Cinderella D-Link: unknown
+Snow White D-Link: unknown
+Zack D-Link: unknown
+Pete D-Link: unknown
+Aqua D-Link: unknown
+Ventus D-Link: unknown
+Terra D-Link: unknown
+Keyblade Board: unknown
+Royal Board: unknown
+Spaceship Board: unknown
+Toon Board: unknown
+Hunny Pot Board: unknown
+Secret Board: unknown
+Skull Board: unknown

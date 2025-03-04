@@ -1,56 +1,1310 @@
-Leather: filler
-Almond: filler
-Fire Symbol+3: filler
-Ocarina+1: filler
-Majestic Crown: progression
-Lightning Rod: progression
-Droid Sphere: filler
-Spectral Toad Egg: progression
-500 G: filler
-Red Gem: filler
-Strawberry: filler
-2x Carrot: filler
-2x Verdant Gem: filler
-Nimble Wings+1: filler
-3x Potion: filler
-Plague Mask: progression
-Celestial Feather: progression
-Dumbbell: filler
-Draconov Harness: progression
-700 G: filler
-200 G: filler
-Draconoir Harness: progression
-Arch Bow+1: useful
-Shield Generator+3: filler
-Cocoon: progression
-3x Bronze: filler
-Silvaero Harness: progression
-350 G: filler
-2x Reward Box Lvl 1: useful
-Bandana+4: useful
-Raspberry: filler
-2x Steel: filler
-2x Corn: filler
-Cotton: useful
-Heavy Mace+3: useful
-2x Red Gem: useful
-3x Reward Box Lvl 3: useful
-Silver Feather: progression
-Flaming Spear: useful
-3x Steel: filler
-Spectral Flame (Wolf): progression
-150 G: filler
-Verdant Gem: useful
-Pandora's Chest+1: useful
-Vital Ring: useful
-Omni Sword+1: useful
-Bronze: filler
-3x Small Antidote: filler
-Cestus+5: useful
-Shockhopper Egg: progression
-Static Loop+2: useful
-Sapphire: useful
+Sanctuary Token: unknown
 Double Jump Boots: progression
-Lion Fang+4: useful
-Champion Defeated: progression
+Warm Underwear: unknown
+Runestone Shard: unknown
+Key of Power: unknown
+Ahrimaaya: unknown
+Blob Key: unknown
+Mozzie: unknown
+Memorial Ring: unknown
+Rare Seashell: unknown
+Celestial Feather: progression
+Mountain Path key: unknown
+Blue Cave key: unknown
+Stronghold Dungeon key: unknown
+Ancient Woods key: unknown
+Magma Chamber key: unknown
+Mystical Workshop key: unknown
+Underworld key: unknown
+Dungeon Explorer: unknown
+Dragon Lord: unknown
+Dragon Lord (alt): unknown
+Old World Tycoon: unknown
+Winter Explorer: unknown
+Keeper Master: unknown
+Monster Tamer: unknown
+Alchemist: unknown
+Copper: unknown
+2x Copper: unknown
+3x Copper: unknown
+4x Copper: unknown
+Iron: unknown
+2x Iron: unknown
+3x Iron: unknown
+4x Iron: unknown
+Bronze: filler
+2x Bronze: unknown
+3x Bronze: filler
+4x Bronze: unknown
+Steel: unknown
+2x Steel: filler
+3x Steel: filler
+Silver: unknown
+2x Silver: unknown
+3x Silver: unknown
+Gold: unknown
+2x Gold: unknown
+3x Gold: unknown
+Cotton: useful
+2x Cotton: unknown
+3x Cotton: unknown
+4x Cotton: unknown
+Wool: unknown
+2x Wool: unknown
+3x Wool: unknown
+4x Wool: unknown
+Leather: filler
+2x Leather: unknown
+3x Leather: unknown
+4x Leather: unknown
+Raw Hide: unknown
+2x Raw Hide: unknown
+Silk: unknown
+2x Silk: unknown
+3x Silk: unknown
+Linen: unknown
+2x Linen: unknown
+3x Linen: unknown
+Red Gem: filler
+2x Red Gem: useful
+3x Red Gem: unknown
+Green Gem: unknown
+2x Green Gem: unknown
+3x Green Gem: unknown
+Blue Gem: unknown
+2x Blue Gem: unknown
+3x Blue Gem: unknown
+Crimson Gem: unknown
+2x Crimson Gem: unknown
+3x Crimson Gem: unknown
+Azure Gem: unknown
+2x Azure Gem: unknown
+3x Azure Gem: unknown
+Verdant Gem: useful
+2x Verdant Gem: filler
+3x Verdant Gem: unknown
+Ruby: unknown
+2x Ruby: unknown
+Emerald: unknown
+2x Emerald: unknown
+Sapphire: useful
+2x Sapphire: unknown
+Crystal Shard: unknown
+2x Crystal Shard: unknown
+3x Crystal Shard: unknown
+Monster Bell: unknown
+2x Monster Bell: unknown
+3x Monster Bell: unknown
+Skill Resetter: unknown
+2x Skill Resetter: unknown
+3x Skill Resetter: unknown
+Skill Potion: unknown
+2x Skill Potion: unknown
+Level Badge: unknown
+2x Level Badge: unknown
+3x Level Badge: unknown
+4x Level Badge: unknown
+5x Level Badge: unknown
+Level Badge 42: unknown
+Shift Stone: unknown
+2x Shift Stone: unknown
+Switch Stone: unknown
+2x Switch Stone: unknown
+Clear Stone: unknown
+2x Clear Stone: unknown
+Craft Box: unknown
+2x Craft Box: unknown
+3x Craft Box: unknown
+Reward Box Lvl 1: unknown
+2x Reward Box Lvl 1: useful
+3x Reward Box Lvl 1: unknown
+Reward Box Lvl 2: unknown
+2x Reward Box Lvl 2: unknown
+3x Reward Box Lvl 2: unknown
+Reward Box Lvl 3: unknown
+2x Reward Box Lvl 3: unknown
+3x Reward Box Lvl 3: useful
+Reward Box Lvl 4: unknown
+2x Reward Box Lvl 4: unknown
+3x Reward Box Lvl 4: unknown
+Reward Box Lvl 5: unknown
+Reward Box X: unknown
+2x Reward Box X: unknown
+3x Reward Box X: unknown
+Small Potion: unknown
+2x Small Potion: unknown
+3x Small Potion: unknown
+Potion: unknown
+2x Potion: unknown
+3x Potion: filler
+Combo Potion: unknown
+2x Combo Potion: unknown
+3x Combo Potion: unknown
+Mass Potion: unknown
+2x Mass Potion: unknown
+Big Potion: unknown
+2x Big Potion: unknown
+3x Big Potion: unknown
+Mega Potion: unknown
+2x Mega Potion: unknown
+Small Antidote: unknown
+2x Small Antidote: unknown
+3x Small Antidote: filler
+Antidote: unknown
+2x Antidote: unknown
+3x Antidote: unknown
+Mass Antidote: unknown
+2x Mass Antidote: unknown
+Phoenix Tear: unknown
+2x Phoenix Tear: unknown
+3x Phoenix Tear: unknown
+Phoenix Serum: unknown
+2x Phoenix Serum: unknown
+3x Phoenix Serum: unknown
+Smoke Bomb: unknown
+2x Smoke Bomb: unknown
+3x Smoke Bomb: unknown
+Walnut: unknown
+2x Walnut: unknown
+3x Walnut: unknown
+Hazelnut: unknown
+2x Hazelnut: unknown
+3x Hazelnut: unknown
+Almond: filler
+2x Almond: unknown
+Peanut: unknown
+2x Peanut: unknown
+Potato: unknown
+2x Potato: unknown
+3x Potato: unknown
+Corn: unknown
+2x Corn: filler
+3x Corn: unknown
+Carrot: unknown
+2x Carrot: filler
+Banana: unknown
+2x Banana: unknown
+Apple: unknown
+2x Apple: unknown
+3x Apple: unknown
+Pear: unknown
+2x Pear: unknown
+3x Pear: unknown
+Mango: unknown
+2x Mango: unknown
+Orange: unknown
+2x Orange: unknown
+Berry: unknown
+2x Berry: unknown
+3x Berry: unknown
+Grapes: unknown
+2x Grapes: unknown
+3x Grapes: unknown
+Strawberry: filler
+2x Strawberry: unknown
+Raspberry: filler
+Cookie Mushroom: unknown
+2x Cookie Mushroom: unknown
+3x Cookie Mushroom: unknown
+Stardust: unknown
+Cocoon: progression
+Shard of Winter: unknown
+Sun Stone: unknown
+Magical Clay: unknown
+Silver Feather: progression
+Volcanic Ash: unknown
+Fire Stone: unknown
+Ice Stone: unknown
+Giant Seed: unknown
+Dark Stone: unknown
+Majestic Crown: progression
+Demonic Pact: unknown
+Deep Stone: unknown
+Primordial Branch: unknown
+Druid Soul: unknown
+Morning Star: unknown
+Morning Star+1: unknown
+Morning Star+2: unknown
+Morning Star+3: unknown
+Morning Star+4: unknown
+Morning Star+5: unknown
+Claws: unknown
+Claws+1: unknown
+Claws+2: unknown
+Claws+3: unknown
+Claws+4: unknown
+Claws+5: unknown
+Katar: unknown
+Katar+1: unknown
+Katar+2: unknown
+Katar+3: unknown
+Katar+4: unknown
+Katar+5: unknown
+Wand: unknown
+Wand+1: unknown
+Wand+2: unknown
+Wand+3: unknown
+Wand+4: unknown
+Wand+5: unknown
+Orb: unknown
+Orb+1: unknown
+Orb+2: unknown
+Orb+3: unknown
+Orb+4: unknown
+Orb+5: unknown
+Staff: unknown
+Staff+1: unknown
+Staff+2: unknown
+Staff+3: unknown
+Staff+4: unknown
+Staff+5: unknown
+Cestus: unknown
+Cestus+1: unknown
+Cestus+2: unknown
+Cestus+3: unknown
+Cestus+4: unknown
+Cestus+5: useful
+Kunai: unknown
+Kunai+1: unknown
+Kunai+2: unknown
+Kunai+3: unknown
+Kunai+4: unknown
+Kunai+5: unknown
+Shuriken: unknown
+Shuriken+1: unknown
+Shuriken+2: unknown
+Shuriken+3: unknown
+Shuriken+4: unknown
+Shuriken+5: unknown
+Abyssal Sword: unknown
+Abyssal Sword+1: unknown
+Abyssal Sword+2: unknown
+Abyssal Sword+3: unknown
+Abyssal Sword+4: unknown
+Abyssal Sword+5: unknown
+Bow: unknown
+Bow+1: unknown
+Bow+2: unknown
+Bow+3: unknown
+Bow+4: unknown
+Bow+5: unknown
+Fan: unknown
+Fan+1: unknown
+Fan+2: unknown
+Fan+3: unknown
+Fan+4: unknown
+Fan+5: unknown
+Fishing Rod: unknown
+Fishing Rod+1: unknown
+Fishing Rod+2: unknown
+Fishing Rod+3: unknown
+Fishing Rod+4: unknown
+Fishing Rod+5: unknown
+Hammer: unknown
+Hammer+1: unknown
+Hammer+2: unknown
+Hammer+3: unknown
+Hammer+4: unknown
+Hammer+5: unknown
+Harp: unknown
+Harp+1: unknown
+Harp+2: unknown
+Harp+3: unknown
+Harp+4: unknown
+Harp+5: unknown
+Heavy Mace: unknown
+Heavy Mace+1: unknown
+Heavy Mace+2: unknown
+Heavy Mace+3: useful
+Heavy Mace+4: unknown
+Heavy Mace+5: unknown
+Hexing Rod: unknown
+Hexing Rod+1: unknown
+Hexing Rod+2: unknown
+Hexing Rod+3: unknown
+Hexing Rod+4: unknown
+Hexing Rod+5: unknown
+Katana: unknown
+Katana+1: unknown
+Katana+2: unknown
+Katana+3: unknown
+Katana+4: unknown
+Katana+5: unknown
+Large Shield: unknown
+Large Shield+1: unknown
+Large Shield+2: unknown
+Large Shield+3: unknown
+Large Shield+4: unknown
+Large Shield+5: unknown
+Mandolin: unknown
+Mandolin+1: unknown
+Mandolin+2: unknown
+Mandolin+3: unknown
+Mandolin+4: unknown
+Mandolin+5: unknown
+Moon Sword: unknown
+Moon Sword+1: unknown
+Moon Sword+2: unknown
+Moon Sword+3: unknown
+Moon Sword+4: unknown
+Moon Sword+5: unknown
+Pirate Hook: unknown
+Pirate Hook+1: unknown
+Pirate Hook+2: unknown
+Pirate Hook+3: unknown
+Pirate Hook+4: unknown
+Pirate Hook+5: unknown
+Purifying Mace: unknown
+Purifying Mace+1: unknown
+Purifying Mace+2: unknown
+Purifying Mace+3: unknown
+Purifying Mace+4: unknown
+Purifying Mace+5: unknown
+Restoring Wand: unknown
+Restoring Wand+1: unknown
+Restoring Wand+2: unknown
+Restoring Wand+3: unknown
+Restoring Wand+4: unknown
+Restoring Wand+5: unknown
+Scepter: unknown
+Scepter+1: unknown
+Scepter+2: unknown
+Scepter+3: unknown
+Scepter+4: unknown
+Scepter+5: unknown
+Scythe: unknown
+Scythe+1: unknown
+Scythe+2: unknown
+Scythe+3: unknown
+Scythe+4: unknown
+Scythe+5: unknown
+Summoned Sword: unknown
+Summoned Sword+1: unknown
+Summoned Sword+2: unknown
+Summoned Sword+3: unknown
+Summoned Sword+4: unknown
+Summoned Sword+5: unknown
+Swallow: unknown
+Swallow+1: unknown
+Swallow+2: unknown
+Swallow+3: unknown
+Swallow+4: unknown
+Swallow+5: unknown
+Thorn Tendril: unknown
+Thorn Tendril+1: unknown
+Thorn Tendril+2: unknown
+Thorn Tendril+3: unknown
+Thorn Tendril+4: unknown
+Thorn Tendril+5: unknown
+Torch: unknown
+Torch+1: unknown
+Torch+2: unknown
+Torch+3: unknown
+Torch+4: unknown
+Torch+5: unknown
+Trident: unknown
+Trident+1: unknown
+Trident+2: unknown
+Trident+3: unknown
+Trident+4: unknown
+Trident+5: unknown
+Warhorn+5: unknown
+Warhorn+4: unknown
+Warhorn+3: unknown
+Warhorn+2: unknown
+Warhorn+1: unknown
+Warhorn: unknown
+Arch Bow: unknown
+Arch Bow+1: useful
+Arch Bow+2: unknown
+Arch Bow+3: unknown
+Arch Bow+4: unknown
+Arch Bow+5: unknown
+Assisting Bow: unknown
+Assisting Bow+1: unknown
+Assisting Bow+2: unknown
+Assisting Bow+3: unknown
+Assisting Bow+4: unknown
+Assisting Bow+5: unknown
+Droid Sphere: filler
+Droid Sphere+1: unknown
+Droid Sphere+2: unknown
+Droid Sphere+3: unknown
+Droid Sphere+4: unknown
+Droid Sphere+5: unknown
+Eclipse Sword: unknown
+Eclipse Sword+1: unknown
+Eclipse Sword+2: unknown
+Eclipse Sword+3: unknown
+Eclipse Sword+4: unknown
+Eclipse Sword+5: unknown
+Fishing Pole: unknown
+Fishing Pole+1: unknown
+Fishing Pole+2: unknown
+Fishing Pole+3: unknown
+Fishing Pole+4: unknown
+Fishing Pole+5: unknown
+Omni Sword: unknown
+Omni Sword+1: useful
+Omni Sword+2: unknown
+Omni Sword+3: unknown
+Omni Sword+4: unknown
+Omni Sword+5: unknown
+One Punch Fist: unknown
+One Punch Fist+1: unknown
+One Punch Fist+2: unknown
+One Punch Fist+3: unknown
+One Punch Fist+4: unknown
+One Punch Fist+5: unknown
+Projectile Sphere: unknown
+Projectile Sphere+1: unknown
+Projectile Sphere+2: unknown
+Projectile Sphere+3: unknown
+Projectile Sphere+4: unknown
+Projectile Sphere+5: unknown
+Staff of Doom: unknown
+Staff of Doom+1: unknown
+Staff of Doom+2: unknown
+Staff of Doom+3: unknown
+Staff of Doom+4: unknown
+Staff of Doom+5: unknown
+Tiny Pin: unknown
+Tiny Pin+1: unknown
+Tiny Pin+2: unknown
+Tiny Pin+3: unknown
+Tiny Pin+4: unknown
+Tiny Pin+5: unknown
+Shell: unknown
+Shell+1: unknown
+Shell+2: unknown
+Shell+3: unknown
+Shell+4: unknown
+Shell+5: unknown
+Vital Ring: useful
+Vital Ring+1: unknown
+Vital Ring+2: unknown
+Vital Ring+3: unknown
+Vital Ring+4: unknown
+Vital Ring+5: unknown
+Mana Ring: unknown
+Mana Ring+1: unknown
+Mana Ring+2: unknown
+Mana Ring+3: unknown
+Mana Ring+4: unknown
+Mana Ring+5: unknown
+Sustain Ring: unknown
+Sustain Ring+1: unknown
+Sustain Ring+2: unknown
+Sustain Ring+3: unknown
+Sustain Ring+4: unknown
+Sustain Ring+5: unknown
+Crit Ring: unknown
+Crit Ring+1: unknown
+Crit Ring+2: unknown
+Crit Ring+3: unknown
+Crit Ring+4: unknown
+Crit Ring+5: unknown
+Impact Ring: unknown
+Impact Ring+1: unknown
+Impact Ring+2: unknown
+Impact Ring+3: unknown
+Impact Ring+4: unknown
+Impact Ring+5: unknown
+Bandana: unknown
+Bandana+1: unknown
+Bandana+2: unknown
+Bandana+3: unknown
+Bandana+4: useful
+Bandana+5: unknown
+Belt: unknown
+Belt+1: unknown
+Belt+2: unknown
+Belt+3: unknown
+Belt+4: unknown
+Belt+5: unknown
+Bracelet: unknown
+Bracelet+1: unknown
+Bracelet+2: unknown
+Bracelet+3: unknown
+Bracelet+4: unknown
+Bracelet+5: unknown
+Bracer: unknown
+Bracer+1: unknown
+Bracer+2: unknown
+Bracer+3: unknown
+Bracer+4: unknown
+Bracer+5: unknown
+Cape: unknown
+Cape+1: unknown
+Cape+2: unknown
+Cape+3: unknown
+Cape+4: unknown
+Cape+5: unknown
+Coat: unknown
+Coat+1: unknown
+Coat+2: unknown
+Coat+4: unknown
+Coat+3: unknown
+Coat+5: unknown
+Diadem: unknown
+Diadem+1: unknown
+Diadem+2: unknown
+Diadem+3: unknown
+Diadem+4: unknown
+Diadem+5: unknown
+Fang: unknown
+Fang+1: unknown
+Fang+2: unknown
+Fang+3: unknown
+Fang+4: unknown
+Fang+5: unknown
+Feather: unknown
+Feather+1: unknown
+Feather+2: unknown
+Feather+3: unknown
+Feather+4: unknown
+Feather+5: unknown
+Gauntlet: unknown
+Gauntlet+1: unknown
+Gauntlet+2: unknown
+Gauntlet+3: unknown
+Gauntlet+4: unknown
+Gauntlet+5: unknown
+Helmet: unknown
+Helmet+1: unknown
+Helmet+2: unknown
+Helmet+3: unknown
+Helmet+4: unknown
+Helmet+5: unknown
+Hide: unknown
+Hide+1: unknown
+Hide+2: unknown
+Hide+3: unknown
+Hide+4: unknown
+Hide+5: unknown
+Hood: unknown
+Hood+1: unknown
+Hood+2: unknown
+Hood+3: unknown
+Hood+4: unknown
+Hood+5: unknown
+Needle: unknown
+Needle+1: unknown
+Needle+2: unknown
+Needle+3: unknown
+Needle+4: unknown
+Needle+5: unknown
+Ribbon: unknown
+Ribbon+1: unknown
+Ribbon+2: unknown
+Ribbon+3: unknown
+Ribbon+4: unknown
+Ribbon+5: unknown
+Scroll: unknown
+Scroll+1: unknown
+Scroll+2: unknown
+Scroll+3: unknown
+Scroll+4: unknown
+Scroll+5: unknown
+Tome: unknown
+Tome+1: unknown
+Tome+2: unknown
+Tome+3: unknown
+Tome+4: unknown
+Tome+5: unknown
+Wizard Hat: unknown
+Wizard Hat+1: unknown
+Wizard Hat+2: unknown
+Wizard Hat+3: unknown
+Wizard Hat+4: unknown
+Wizard Hat+5: unknown
+Ancestral Medal: unknown
+Ancestral Medal+1: unknown
+Ancestral Medal+2: unknown
+Ancestral Medal+3: unknown
+Ancestral Medal+4: unknown
+Ancestral Medal+5: unknown
+Bead Chain: unknown
+Bead Chain+1: unknown
 Bead Chain+2: useful
+Bead Chain+3: unknown
+Bead Chain+4: unknown
+Bead Chain+5: unknown
+Blood Vessel: unknown
+Blood Vessel+1: unknown
+Blood Vessel+2: unknown
+Blood Vessel+3: unknown
+Blood Vessel+4: unknown
+Blood Vessel+5: unknown
+Brooch: unknown
+Brooch+1: unknown
+Brooch+2: unknown
+Brooch+3: unknown
+Brooch+4: unknown
+Brooch+5: unknown
+Buckler: unknown
+Buckler+1: unknown
+Buckler+2: unknown
+Buckler+3: unknown
+Buckler+4: unknown
+Buckler+5: unknown
+Cauldron: unknown
+Cauldron+1: unknown
+Cauldron+2: unknown
+Cauldron+3: unknown
+Cauldron+4: unknown
+Cauldron+5: unknown
+Charging Sphere: unknown
+Charging Sphere+1: unknown
+Charging Sphere+2: unknown
+Charging Sphere+3: unknown
+Charging Sphere+4: unknown
+Charging Sphere+5: unknown
+Crown: unknown
+Crown+1: unknown
+Crown+2: unknown
+Crown+3: unknown
+Crown+4: unknown
+Crown+5: unknown
+Drum: unknown
+Drum+1: unknown
+Drum+2: unknown
+Drum+3: unknown
+Drum+4: unknown
+Drum+5: unknown
+Dumbbell: filler
+Dumbbell+1: unknown
+Dumbbell+2: unknown
+Dumbbell+3: unknown
+Dumbbell+4: unknown
+Dumbbell+5: unknown
+Fin: unknown
+Fin+1: unknown
+Fin+2: unknown
+Fin+3: unknown
+Fin+4: unknown
+Fin+5: unknown
+Flute: unknown
+Flute+1: unknown
+Flute+2: unknown
+Flute+3: unknown
+Flute+4: unknown
+Flute+5: unknown
+Frozen Tear: unknown
+Frozen Tear+1: unknown
+Frozen Tear+2: unknown
+Frozen Tear+3: unknown
+Frozen Tear+4: unknown
+Frozen Tear+5: unknown
+Gray Pearl: unknown
+Gray Pearl+1: unknown
+Gray Pearl+2: unknown
+Gray Pearl+3: unknown
+Gray Pearl+4: unknown
+Gray Pearl+5: unknown
+Hourglass: unknown
+Hourglass+1: unknown
+Hourglass+2: unknown
+Hourglass+3: unknown
+Hourglass+4: unknown
+Hourglass+5: unknown
+Infinity Flame: unknown
+Infinity Flame+1: unknown
+Infinity Flame+2: unknown
+Infinity Flame+3: unknown
+Infinity Flame+4: unknown
+Infinity Flame+5: unknown
+Lightning Sphere: unknown
+Lightning Sphere+1: unknown
+Lightning Sphere+2: unknown
+Lightning Sphere+3: unknown
+Lightning Sphere+4: unknown
+Lightning Sphere+5: unknown
+Lucky Clover: unknown
+Lucky Clover+1: unknown
+Lucky Clover+2: unknown
+Lucky Clover+3: unknown
+Lucky Clover+4: unknown
+Lucky Clover+5: unknown
+Mage Flask: unknown
+Mage Flask+1: unknown
+Mage Flask+2: unknown
+Mage Flask+3: unknown
+Mage Flask+4: unknown
+Mage Flask+5: unknown
+Medallion: unknown
+Medallion+1: unknown
+Medallion+2: unknown
+Medallion+3: unknown
+Medallion+4: unknown
+Medallion+5: unknown
+Ocarina: unknown
+Ocarina+1: filler
+Ocarina+2: unknown
+Ocarina+3: unknown
+Ocarina+4: unknown
+Ocarina+5: unknown
+Omni Ring: unknown
+Omni Ring+1: unknown
+Omni Ring+2: unknown
+Omni Ring+3: unknown
+Omni Ring+4: unknown
+Omni Ring+5: unknown
+Ornate Pipe: unknown
+Ornate Pipe+1: unknown
+Ornate Pipe+2: unknown
+Ornate Pipe+3: unknown
+Ornate Pipe+4: unknown
+Ornate Pipe+5: unknown
+Pandora's Box: unknown
+Pandora's Box+1: unknown
+Pandora's Box+2: unknown
+Pandora's Box+3: unknown
+Pandora's Box+4: unknown
+Pandora's Box+5: unknown
+Poisoned Dart: unknown
+Poisoned Dart+1: unknown
+Poisoned Dart+2: unknown
+Poisoned Dart+3: unknown
+Poisoned Dart+4: unknown
+Poisoned Dart+5: unknown
+Shield Generator: unknown
+Shield Generator+1: unknown
+Shield Generator+2: unknown
+Shield Generator+3: filler
+Shield Generator+4: unknown
+Shield Generator+5: unknown
+Slime Skin: unknown
+Slime Skin+1: unknown
+Slime Skin+2: unknown
+Slime Skin+3: unknown
+Slime Skin+4: unknown
+Slime Skin+5: unknown
+Spark: unknown
+Spark+1: unknown
+Spark+2: unknown
+Spark+3: unknown
+Spark+4: unknown
+Spark+5: unknown
+Sun Pendant: unknown
+Sun Pendant+1: unknown
+Sun Pendant+2: unknown
+Sun Pendant+3: unknown
+Sun Pendant+4: unknown
+Sun Pendant+5: unknown
+Tambourine: unknown
+Tambourine+1: unknown
+Tambourine+2: unknown
+Tambourine+3: unknown
+Tambourine+4: unknown
+Tambourine+5: unknown
+Tarot Card: unknown
+Tarot Card+1: unknown
+Tarot Card+2: unknown
+Tarot Card+3: unknown
+Tarot Card+4: unknown
+Tarot Card+5: unknown
+Thermal Reactor: unknown
+Thermal Reactor+1: unknown
+Thermal Reactor+2: unknown
+Thermal Reactor+3: unknown
+Thermal Reactor+4: unknown
+Thermal Reactor+5: unknown
+Totem: unknown
+Totem+1: unknown
+Totem+2: unknown
+Totem+3: unknown
+Totem+4: unknown
+Totem+5: unknown
+Warrior Flask: unknown
+Warrior Flask+1: unknown
+Warrior Flask+2: unknown
+Warrior Flask+3: unknown
+Warrior Flask+4: unknown
+Warrior Flask+5: unknown
+Ancient Clock: unknown
+Ancient Clock+1: unknown
+Ancient Clock+2: unknown
+Ancient Clock+3: unknown
+Ancient Clock+4: unknown
+Ancient Clock+5: unknown
+Cursed Drum: unknown
+Cursed Drum+1: unknown
+Cursed Drum+2: unknown
+Cursed Drum+3: unknown
+Cursed Drum+4: unknown
+Cursed Drum+5: unknown
+Devonian Medal: unknown
+Devonian Medal+1: unknown
+Devonian Medal+2: unknown
+Devonian Medal+3: unknown
+Devonian Medal+4: unknown
+Devonian Medal+5: unknown
+Dragon Saddle: unknown
+Dragon Saddle+1: unknown
+Dragon Saddle+2: unknown
+Dragon Saddle+3: unknown
+Dragon Saddle+4: unknown
+Dragon Saddle+5: unknown
+Dwarven Crown: unknown
+Dwarven Crown+1: unknown
+Dwarven Crown+2: unknown
+Dwarven Crown+3: unknown
+Dwarven Crown+4: unknown
+Dwarven Crown+5: unknown
+Earth Symbol: unknown
+Earth Symbol+1: unknown
+Earth Symbol+2: unknown
+Earth Symbol+3: unknown
+Earth Symbol+4: unknown
+Earth Symbol+5: unknown
+Fire Symbol: unknown
+Fire Symbol+1: unknown
+Fire Symbol+2: unknown
+Fire Symbol+3: filler
+Fire Symbol+4: unknown
+Fire Symbol+5: unknown
+Goblin Garment: unknown
+Goblin Garment+1: unknown
+Goblin Garment+2: unknown
+Goblin Garment+3: unknown
+Goblin Garment+4: unknown
+Goblin Garment+5: unknown
+Gold Feather: unknown
+Gold Feather+1: unknown
+Gold Feather+2: unknown
+Gold Feather+3: unknown
+Gold Feather+4: unknown
+Gold Feather+5: unknown
+Grey Stone: unknown
+Grey Stone+1: unknown
+Grey Stone+2: unknown
+Grey Stone+3: unknown
+Grey Stone+4: unknown
+Grey Stone+5: unknown
+Heavy Greaves: unknown
+Heavy Greaves+1: unknown
+Heavy Greaves+2: unknown
+Heavy Greaves+3: unknown
+Heavy Greaves+4: unknown
+Heavy Greaves+5: unknown
+Holy Necklace: unknown
+Holy Necklace+1: unknown
+Holy Necklace+2: unknown
+Holy Necklace+3: unknown
+Holy Necklace+4: unknown
+Holy Necklace+5: unknown
+Infinity Blaze: unknown
+Infinity Blaze+1: unknown
+Infinity Blaze+2: unknown
+Infinity Blaze+3: unknown
+Infinity Blaze+4: unknown
+Infinity Blaze+5: unknown
+Lion Fang: unknown
+Lion Fang+1: unknown
+Lion Fang+2: unknown
+Lion Fang+3: unknown
+Lion Fang+4: useful
+Lion Fang+5: unknown
+Moon Ring: unknown
+Moon Ring+1: unknown
+Moon Ring+2: unknown
+Moon Ring+3: unknown
+Moon Ring+4: unknown
+Moon Ring+5: unknown
+Nimble Wings: unknown
+Nimble Wings+1: filler
+Nimble Wings+2: unknown
+Nimble Wings+3: unknown
+Nimble Wings+4: unknown
+Nimble Wings+5: unknown
+Pandora's Chest: unknown
+Pandora's Chest+1: useful
+Pandora's Chest+2: unknown
+Pandora's Chest+3: unknown
+Pandora's Chest+4: unknown
+Pandora's Chest+5: unknown
+Pure Leaf: unknown
+Pure Leaf+1: unknown
+Pure Leaf+2: unknown
+Pure Leaf+3: unknown
+Pure Leaf+4: unknown
+Pure Leaf+5: unknown
+Reptilian Idol: unknown
+Reptilian Idol+1: unknown
+Reptilian Idol+2: unknown
+Reptilian Idol+3: unknown
+Reptilian Idol+4: unknown
+Reptilian Idol+5: unknown
+Sharp Fin: unknown
+Sharp Fin+1: unknown
+Sharp Fin+2: unknown
+Sharp Fin+3: unknown
+Sharp Fin+4: unknown
+Sharp Fin+5: unknown
+Slimy Ball: unknown
+Slimy Ball+1: unknown
+Slimy Ball+2: unknown
+Slimy Ball+3: unknown
+Slimy Ball+4: unknown
+Slimy Ball+5: unknown
+Spirit Blaze: unknown
+Spirit Blaze+1: unknown
+Spirit Blaze+2: unknown
+Spirit Blaze+3: unknown
+Spirit Blaze+4: unknown
+Spirit Blaze+5: unknown
+Static Loop: unknown
+Static Loop+1: unknown
+Static Loop+2: useful
+Static Loop+3: unknown
+Static Loop+4: unknown
+Static Loop+5: unknown
+Sun Ring: unknown
+Sun Ring+1: unknown
+Sun Ring+2: unknown
+Sun Ring+3: unknown
+Sun Ring+4: unknown
+Sun Ring+5: unknown
+Toxic Pot: unknown
+Toxic Pot+1: unknown
+Toxic Pot+2: unknown
+Toxic Pot+3: unknown
+Toxic Pot+4: unknown
+Toxic Pot+5: unknown
+Warlock Hat: unknown
+Warlock Hat+1: unknown
+Warlock Hat+2: unknown
+Warlock Hat+3: unknown
+Warlock Hat+4: unknown
+Warlock Hat+5: unknown
+Water Symbol: unknown
+Water Symbol+1: unknown
+Water Symbol+2: unknown
+Water Symbol+3: unknown
+Water Symbol+4: unknown
+Water Symbol+5: unknown
+Wind Symbol: unknown
+Wind Symbol+1: unknown
+Wind Symbol+2: unknown
+Wind Symbol+3: unknown
+Wind Symbol+4: unknown
+Wind Symbol+5: unknown
+100 G: unknown
+150 G: filler
+200 G: filler
+250 G: unknown
+300 G: unknown
+350 G: filler
+400 G: unknown
+500 G: filler
+600 G: unknown
+700 G: filler
+800 G: unknown
+900 G: unknown
+1000 G: unknown
+1200 G: unknown
+1500 G: unknown
+1600 G: unknown
+1800 G: unknown
+2000 G: unknown
+2500 G: unknown
+3000 G: unknown
+3500 G: unknown
+4000 G: unknown
+4500 G: unknown
+5000 G: unknown
+Vaero Egg: unknown
+Rocky Egg: unknown
+Minitaur Egg: unknown
+Spectral Wolf Egg: unknown
+Blob Egg: unknown
+Monk Egg: unknown
+Steam Golem Egg: unknown
+Catzerker Egg: unknown
+Fungi Egg: unknown
+Grummy Egg: unknown
+Magmapillar Egg: unknown
+Tengu Egg: unknown
+Yowie Egg: unknown
+Frosty Egg: unknown
+Specter Egg: unknown
+Goblin Brute Egg: unknown
+Goblin Hood Egg: unknown
+Druid Oak Egg: unknown
+Molebear Egg: unknown
+Glowfly Egg: unknown
+Crackle Knight Egg: unknown
+Nightwing Egg: unknown
+Mad Eye Egg: unknown
+Beetloid Egg: unknown
+Goblin King Egg: unknown
+Goblin Warlock Egg: unknown
+Raduga Egg: unknown
+Toxiquus Egg: unknown
+Ice Blob Egg: unknown
+Caraglow Egg: unknown
+Aurumtail Egg: unknown
+Mogwai Egg: unknown
+Crystal Snail Egg: unknown
+Akhlut Egg: unknown
+Blade Widow Egg: unknown
+Sycophantom Egg: unknown
+Qilin Egg: unknown
+Koi Egg: unknown
+Vasuki Egg: unknown
+Kame Egg: unknown
+Imori Egg: unknown
+Ninki Egg: unknown
+Tanuki Egg: unknown
+Kanko Egg: unknown
+Brawlish Egg: unknown
+Dodo Egg: unknown
+Kongamato Egg: unknown
+Thornish Egg: unknown
+Nautilid Egg: unknown
+Ucan Egg: unknown
+Elderjel Egg: unknown
+Manticorb Egg: unknown
+Goblin Miner Egg: unknown
+Salahammer Egg: unknown
+Draconov Egg: unknown
+Lava Blob Egg: unknown
+Skorch Egg: unknown
+Arachlich Egg: unknown
+Argiope Egg: unknown
+Moccus Egg: unknown
+Promethean Egg: unknown
+Spinner Egg: unknown
+Shockhopper Egg: progression
+Targoat Egg: unknown
+Stolby Egg: unknown
+Polterofen Egg: unknown
+Oculus Egg: unknown
+Ornithopter Egg: unknown
+Mimic Egg: unknown
+Goblin Pilot Egg: unknown
+Troll Egg: unknown
+Brutus Egg: unknown
+Sutsune Egg: unknown
+Darnation Egg: unknown
+Thanatos Egg: unknown
+Vodinoy Egg: unknown
+??? Egg: unknown
+Changeling Egg: unknown
+Rainbow Blob Egg: unknown
+Vertraag Egg: unknown
+Aazerach Egg: unknown
+Gryphonix Egg: unknown
+Worm Egg: unknown
+Diavola Egg: unknown
+Spectral Toad Egg: progression
+Spectral Lion Egg: unknown
+Spectral Eagle Egg: unknown
+Asura Egg: unknown
+Rampede Egg: unknown
+Tar Blob Egg: unknown
+Rathops Egg: unknown
+Terradrile Egg: unknown
+Amberlgna Egg: unknown
+Krakaturtle Egg: unknown
+Fumagus Egg: unknown
+G'rulu Egg: unknown
+Megataur Egg: unknown
+Magmamoth Egg: unknown
+Ninki Nanka Egg: unknown
+Silvaero Egg: unknown
+Sizzle Knight Egg: unknown
+Glowdra Egg: unknown
+Dracogran Egg: unknown
+Dracozul Egg: unknown
+Draconoir Egg: unknown
+Dracomer Egg: unknown
+Mega Rock Egg: unknown
+King Blob Egg: unknown
+Mad Lord Egg: unknown
+Ascendant Egg: unknown
+Bard Egg: unknown
+Champion Defeated: progression
+Ability - Blob Form: unknown
+Ability - Bubble Burst: unknown
+Ability - Charging Mount: unknown
+Ability - Claws: unknown
+Ability - Corrosive Jabs: unknown
+Ability - Crush: unknown
+Ability - Dual Mobility: unknown
+Ability - Fiery Shots: unknown
+Ability - Flying: unknown
+Ability - Freeze: unknown
+Ability - Ghost Form: unknown
+Ability - Grapple: unknown
+Ability - Heavy Punch: unknown
+Ability - Ignite: unknown
+Ability - Improved Flying: unknown
+Ability - Improved Swimming: unknown
+Ability - Jewel Blast: unknown
+Ability - Levitate: unknown
+Ability - Light: unknown
+Ability - Light Crush: unknown
+Ability - Lightning Bolt: unknown
+Ability - Lofty Mount: unknown
+Ability - Minnesang: unknown
+Ability - Morph Ball: unknown
+Ability - Mount: unknown
+Ability - Secret Vision: unknown
+Ability - Shock Freeze: unknown
+Ability - Slash: unknown
+Ability - Slime Shot: unknown
+Ability - Snowball Toss: unknown
+Ability - Sonar: unknown
+Ability - Sonar Mount: unknown
+Ability - Spore Shroud: unknown
+Ability - Summon Big Rock: unknown
+Ability - Summon Mushroom: unknown
+Ability - Summon Rock: unknown
+Ability - Swimming: unknown
+Ability - Tackle: unknown
+Ability - Tar Mount: unknown
+Ability - Toxic Freeze: unknown
+Ability - Toxic Slam: unknown
+Spectral Flame: unknown
+Slime Snack: unknown
+Insect Pheromones: unknown
+Monster Treat: unknown
+Repair Kit: unknown
+Ancient Encyclopedia: unknown
+Training Dummy: unknown
+Spellbook: unknown
+Goblin Charm: unknown
+Fishing Lure: unknown
+Dragon Orb: unknown
+Power Suit: unknown
+Spirit Charm: unknown
+Green Thumb: unknown
+Bird Seed: unknown
+Spectral Flame (Wolf): progression
+Spectral Flame (Toad): unknown
+Spectral Flame (Eagle): unknown
+Spectral Flame (Lion): unknown
+Magmamoth Pheromones: unknown
+Pet Rock: unknown
+Vaero Harness: unknown
+Catzerker's Blade: unknown
+Yowie Treat: unknown
+Pneumatic Piston: unknown
+Small Reliquary: unknown
+Alien Shard: unknown
+Tengu Mask: unknown
+Odd Mushroom: unknown
+Frigid Wisp: unknown
+Double-Headed Axe: unknown
+Black Flame: unknown
+Knightly Shield: unknown
+Aqueous Humor: unknown
+Sonar Detector: unknown
+Toxic Sludge: unknown
+Lightning Rod: progression
+Oaken Mask: unknown
+Digging Claws: unknown
+Glowfly Lantern: unknown
+Goblin Club: unknown
+Goblin Bow: unknown
+Goblin Staff: unknown
+Goblin Crown: unknown
+Prismatic Shard: unknown
+Insulated Gloves: unknown
+Caraglow Collar: unknown
+Aurumtail Saddle: unknown
+Giant Snowball: unknown
+Mogwai Rulebook: unknown
+Sign Language: unknown
+Akhlut Saddle: unknown
+Blade Widow Pheromones: unknown
+River Clay: unknown
+Snake Stick: unknown
+Kame Chi: unknown
+Quick Wits: unknown
+Flaming Spear: useful
+Qilin Saddle: unknown
+Koi Lure: unknown
+Magic Bell: unknown
+Smoke Pipe: unknown
+Dodo Saddle: unknown
+Kongamato Harness: unknown
+Ucan Lure: unknown
+Brawlish Lure: unknown
+Thornish Lure: unknown
+Nautilid Lure: unknown
+Silvaero Harness: progression
+Elderjel Lure: unknown
+Mana Crystal: unknown
+Mining Helmet: unknown
+Sledgehammer: unknown
+Heat-Proof Gloves: unknown
+Draconov Harness: progression
+Dracogran Harness: unknown
+Asura's Girdle: unknown
+Candle Wax: unknown
+Stolby's Spellbook: unknown
+Ornithopter Harness: unknown
+Lump of Coal: unknown
+Mechanical Lens: unknown
+Lockpicks: unknown
+Pilot's License: unknown
+Shiny Pebble: unknown
+Targoat Horn: unknown
+Dracozul Harness: unknown
+Troll Toll: unknown
+Brutus Treat: unknown
+Pet Boulder: unknown
+Argiope Pheromones: unknown
+Phylactery: unknown
+Moccus Saddle: unknown
+Promethean Battery: unknown
+Draconoir Harness: progression
+Spare Outfit: unknown
+Plague Mask: progression
+Sutsune's True Name: unknown
+Darnation Pheromones: unknown
+Thanatos' Scythe: unknown
+Rainbow Slime Snack: unknown
+Blob Crown: unknown
+Grapnel Launcher: unknown
+Vodinoy's Trident: unknown
+Big Plant Pot: unknown
+Gryphonix Saddle: unknown
+Divine Hourglass: unknown
+Mad Lord Contract: unknown
+Nimbus Cloud: unknown
+Strange Spores: unknown
+Rampede Saddle: unknown
+Rathops Saddle: unknown
+Krakaturtle Harness: unknown
+Tar Blob Saddle: unknown
+Amberlgna Pheromones: unknown
+Dracomer Harness: unknown
+Terradrile's Lodestone: unknown
+Bard's Lute: unknown
+Progressive Mobility: unknown
+Progressive Terrain: unknown
+Progressive Mount: unknown
+Progressive Walls: unknown
+Progressive Boulders: unknown
+Progressive Fire Orbs: unknown
+Progressive Water Orbs: unknown
+Progressive Lightning Orbs: unknown
+Progressive Earth Orbs: unknown
+Progressive Ice Orbs: unknown
+Progressive Light: unknown
+Progressive Shroud: unknown
+Progressive Flight: unknown
+Progressive Swimming: unknown
+Progressive Magic: unknown
+Progressive Orbs: unknown
+Monster Stable Fees: unknown
+Faulty Equipment: unknown
+Monster Army Conscription Notice: unknown
+Poison Trap: unknown
+Shock Trap: unknown
+Freeze Trap: unknown
+Ambush!: unknown

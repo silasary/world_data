@@ -1,11 +1,75 @@
-Stone Badge: progression
-Knuckle Badge: progression
-Dynamo Badge: progression
-Heat Badge: progression
+Acro Bike: progression
+Aguav Berry: filler
+Amulet Coin: useful
+Antidote: filler
+Apicot Berry: filler
+Aspear Berry: filler
+Aurora Ticket: progression
+Awakening: filler
 Balance Badge: progression
+Basement Key: progression
+Bead Mail: filler
+Belue Berry: filler
+Berry Juice: filler
+Big Mushroom: filler
+Big Pearl: filler
+Black Belt: useful
+Black Flute: filler
+Black Glasses: useful
+Blue Flute: filler
+Blue Scarf: filler
+Blue Shard: filler
+Bluk Berry: filler
+Bright Powder: useful
+Burn Heal: filler
+Calcium: filler
+Carbos: filler
+Charcoal: useful
+Cheri Berry: filler
+Chesto Berry: filler
+Choice Band: useful
+Claw Fossil: filler
+Cleanse Tag: useful
+Coin Case: filler
+Contest Pass: filler
+Cornn Berry: filler
+Deep Sea Scale: useful
+Deep Sea Tooth: useful
+Devon Goods: progression
+Devon Scope: progression
+Dire Hit: filler
+Dive Ball: filler
+Dragon Fang: useful
+Dragon Scale: useful
+Dream Mail: filler
+Durin Berry: filler
+Dynamo Badge: progression
+Elixir: filler
+Energy Powder: filler
+Energy Root: filler
+Eon Ticket: progression
+Escape Rope: filler
+Ether: filler
+Everstone: filler
+Exp. Share: useful
+Fab Mail: filler
 Feather Badge: progression
-Mind Badge: progression
-Rain Badge: progression
+Figy Berry: filler
+Fire Stone: useful
+Fluffy Tail: filler
+Focus Band: useful
+Fresh Water: filler
+Full Heal: filler
+Full Restore: filler
+Ganlon Berry: filler
+Glitter Mail: filler
+Go Goggles: progression
+Good Rod: progression
+Great Ball: filler
+Green Scarf: filler
+Green Shard: filler
+Grepa Berry: filler
+Guard Spec: filler
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
@@ -14,231 +78,140 @@ HM05 Flash: progression
 HM06 Rock Smash: progression
 HM07 Waterfall: progression
 HM08 Dive: progression
-Mach Bike: progression
-Acro Bike: progression
-Devon Goods: progression
-Letter: progression
+HP Up: filler
+Harbor Mail: filler
+Hard Stone: useful
+Heal Powder: filler
+Heart Scale: filler
+Heat Badge: progression
+Hondew Berry: filler
+Hyper Potion: filler
+Iapapa Berry: filler
+Ice Heal: filler
+Iron: filler
 Itemfinder: progression
+Kelpsy Berry: filler
+King's Rock: useful
+Knuckle Badge: progression
+Lansat Berry: filler
+Lava Cookie: filler
+Lax Incense: useful
+Leaf Stone: useful
+Leftovers: useful
+Lemonade: filler
+Leppa Berry: filler
+Letter: progression
+Liechi Berry: filler
+Light Ball: useful
+Lucky Egg: useful
+Lucky Punch: useful
+Lum Berry: filler
+Luxury Ball: filler
+Mach Bike: progression
+Macho Brace: useful
+Magma Emblem: progression
+Magnet: useful
+Mago Berry: filler
+Magost Berry: filler
+Master Ball: useful
+Max Elixir: filler
+Max Ether: filler
+Max Potion: filler
+Max Repel: filler
+Max Revive: filler
+Mech Mail: filler
+Mental Herb: useful
+Metal Coat: useful
+Metal Powder: useful
 Meteorite: progression
-Go Goggles: progression
+Mind Badge: progression
+Miracle Seed: useful
+Moomoo Milk: filler
+Moon Stone: useful
+Mystic Ticket: progression
+Mystic Water: useful
+Nanab Berry: filler
+Nest Ball: filler
+Net Ball: filler
+Never-Melt Ice: useful
+Nomel Berry: filler
+Nugget: filler
+Old Rod: progression
+Old Sea Map: progression
+Oran Berry: filler
+Orange Mail: filler
+PP Max: filler
+PP Up: filler
+Pamtre Berry: filler
+Paralyze Heal: filler
+Pearl: filler
+Pecha Berry: filler
+Persim Berry: filler
+Petaya Berry: filler
+Pinap Berry: filler
+Pink Scarf: filler
+Poison Barb: useful
+Poke Ball: filler
+Poke Doll: filler
+Pokeblock Case: progression
+Pomeg Berry: filler
+Potion: filler
+Powder Jar: filler
+Premier Ball: filler
+Protein: filler
+Qualot Berry: filler
+Quick Claw: useful
+Rabuta Berry: filler
+Rain Badge: progression
+Rare Candy: useful
+Rawst Berry: filler
+Razz Berry: filler
+Red Flute: filler
+Red Scarf: filler
+Red Shard: filler
+Repeat Ball: filler
+Repel: filler
+Retro Mail: filler
+Revival Herb: filler
+Revive: filler
 Room 1 Key: progression
 Room 2 Key: progression
 Room 4 Key: progression
 Room 6 Key: progression
-Storage Key: progression
-Scanner: progression
-Basement Key: progression
-Devon Scope: progression
-Magma Emblem: progression
-Pokeblock Case: progression
-S.S. Ticket: progression
-Wailmer Pail: progression
-Powder Jar: filler
-Coin Case: filler
-Contest Pass: filler
-Soot Sack: filler
 Root Fossil: filler
-Claw Fossil: filler
-Eon Ticket: progression
-Old Sea Map: progression
-Mystic Ticket: progression
-Aurora Ticket: progression
-Old Rod: progression
-Good Rod: progression
-Super Rod: progression
-Master Ball: useful
-Ultra Ball: filler
-Great Ball: filler
-Poke Ball: filler
-Safari Ball: filler
-Net Ball: filler
-Dive Ball: filler
-Nest Ball: filler
-Repeat Ball: filler
-Timer Ball: filler
-Luxury Ball: filler
-Premier Ball: filler
-Potion: filler
-Antidote: filler
-Burn Heal: filler
-Ice Heal: filler
-Awakening: filler
-Paralyze Heal: filler
-Full Restore: filler
-Max Potion: filler
-Hyper Potion: filler
-Super Potion: filler
-Full Heal: filler
-Revive: filler
-Max Revive: filler
-Fresh Water: filler
-Soda Pop: filler
-Lemonade: filler
-Moomoo Milk: filler
-Energy Powder: filler
-Energy Root: filler
-Heal Powder: filler
-Revival Herb: filler
-Ether: filler
-Max Ether: filler
-Elixir: filler
-Max Elixir: filler
-Lava Cookie: filler
-Berry Juice: filler
+S.S. Ticket: progression
 Sacred Ash: useful
+Safari Ball: filler
+Salac Berry: filler
+Scanner: progression
+Scope Lens: useful
+Sea Incense: useful
+Shadow Mail: filler
+Sharp Beak: useful
+Shell Bell: useful
 Shoal Salt: filler
 Shoal Shell: filler
-Red Shard: filler
-Blue Shard: filler
-Yellow Shard: filler
-Green Shard: filler
-HP Up: filler
-Protein: filler
-Iron: filler
-Carbos: filler
-Calcium: filler
-Zinc: filler
-PP Up: filler
-PP Max: filler
-Rare Candy: useful
-Guard Spec: filler
-Dire Hit: filler
-X Attack: filler
-X Defend: filler
-X Speed: filler
-X Accuracy: filler
-X Special: filler
-Repel: filler
-Super Repel: filler
-Max Repel: filler
-Poke Doll: filler
-Fluffy Tail: filler
-Escape Rope: filler
-Blue Flute: filler
-Yellow Flute: filler
-Red Flute: filler
-Black Flute: filler
-White Flute: filler
-Heart Scale: filler
-Sun Stone: useful
-Moon Stone: useful
-Fire Stone: useful
-Thunder Stone: useful
-Water Stone: useful
-Leaf Stone: useful
-Tiny Mushroom: filler
-Big Mushroom: filler
-Pearl: filler
-Big Pearl: filler
-Stardust: filler
-Star Piece: filler
-Nugget: filler
-Orange Mail: filler
-Harbor Mail: filler
-Glitter Mail: filler
-Mech Mail: filler
-Wood Mail: filler
-Wave Mail: filler
-Bead Mail: filler
-Shadow Mail: filler
-Tropic Mail: filler
-Dream Mail: filler
-Fab Mail: filler
-Retro Mail: filler
-Cheri Berry: filler
-Chesto Berry: filler
-Pecha Berry: filler
-Rawst Berry: filler
-Aspear Berry: filler
-Leppa Berry: filler
-Oran Berry: filler
-Persim Berry: filler
-Lum Berry: filler
-Sitrus Berry: filler
-Figy Berry: filler
-Wiki Berry: filler
-Mago Berry: filler
-Aguav Berry: filler
-Iapapa Berry: filler
-Razz Berry: filler
-Bluk Berry: filler
-Nanab Berry: filler
-Wepear Berry: filler
-Pinap Berry: filler
-Pomeg Berry: filler
-Kelpsy Berry: filler
-Qualot Berry: filler
-Hondew Berry: filler
-Grepa Berry: filler
-Tamato Berry: filler
-Cornn Berry: filler
-Magost Berry: filler
-Rabuta Berry: filler
-Nomel Berry: filler
-Spelon Berry: filler
-Pamtre Berry: filler
-Watmel Berry: filler
-Durin Berry: filler
-Belue Berry: filler
-Liechi Berry: filler
-Ganlon Berry: filler
-Salac Berry: filler
-Petaya Berry: filler
-Apicot Berry: filler
-Lansat Berry: filler
-Starf Berry: filler
-Bright Powder: useful
-White Herb: useful
-Macho Brace: useful
-Exp. Share: useful
-Quick Claw: useful
-Soothe Bell: useful
-Mental Herb: useful
-Choice Band: useful
-King's Rock: useful
-Silver Powder: useful
-Amulet Coin: useful
-Cleanse Tag: useful
-Soul Dew: useful
-Deep Sea Tooth: useful
-Deep Sea Scale: useful
-Smoke Ball: useful
-Everstone: filler
-Focus Band: useful
-Lucky Egg: useful
-Scope Lens: useful
-Metal Coat: useful
-Leftovers: useful
-Dragon Scale: useful
-Light Ball: useful
-Soft Sand: useful
-Hard Stone: useful
-Miracle Seed: useful
-Black Glasses: useful
-Black Belt: useful
-Magnet: useful
-Mystic Water: useful
-Sharp Beak: useful
-Poison Barb: useful
-Never-Melt Ice: useful
-Spell Tag: useful
-Twisted Spoon: useful
-Charcoal: useful
-Dragon Fang: useful
 Silk Scarf: useful
-Up-Grade: useful
-Shell Bell: useful
-Sea Incense: useful
-Lax Incense: useful
-Lucky Punch: useful
-Metal Powder: useful
-Thick Club: useful
+Silver Powder: useful
+Sitrus Berry: filler
+Smoke Ball: useful
+Soda Pop: filler
+Soft Sand: useful
+Soot Sack: filler
+Soothe Bell: useful
+Soul Dew: useful
+Spell Tag: useful
+Spelon Berry: filler
+Star Piece: filler
+Stardust: filler
+Starf Berry: filler
 Stick: filler
-Red Scarf: filler
-Blue Scarf: filler
-Pink Scarf: filler
-Green Scarf: filler
-Yellow Scarf: filler
+Stone Badge: progression
+Storage Key: progression
+Sun Stone: useful
+Super Potion: filler
+Super Repel: filler
+Super Rod: progression
 TM01: useful
 TM02: useful
 TM03: useful
@@ -289,3 +262,30 @@ TM47: useful
 TM48: useful
 TM49: useful
 TM50: useful
+Tamato Berry: filler
+Thick Club: useful
+Thunder Stone: useful
+Timer Ball: filler
+Tiny Mushroom: filler
+Tropic Mail: filler
+Twisted Spoon: useful
+Ultra Ball: filler
+Up-Grade: useful
+Wailmer Pail: progression
+Water Stone: useful
+Watmel Berry: filler
+Wave Mail: filler
+Wepear Berry: filler
+White Flute: filler
+White Herb: useful
+Wiki Berry: filler
+Wood Mail: filler
+X Accuracy: filler
+X Attack: filler
+X Defend: filler
+X Special: filler
+X Speed: filler
+Yellow Flute: filler
+Yellow Scarf: filler
+Yellow Shard: filler
+Zinc: filler
