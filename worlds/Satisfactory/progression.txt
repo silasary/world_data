@@ -165,3 +165,4 @@ Recipe: Plutonium Pellet: progression
 Bundle: Silver Hog Statue: filler
 Recipe: Cheap Silica: progression
 Recipe: Cooling System: progression
+Transport: Hypertube: progression
