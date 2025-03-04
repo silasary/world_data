@@ -1,9 +1,9 @@
 10 Arrows: filler
-100 Rupees: progression
-20 Rupees: progression
-200 Rupees: progression
-50 Rupees: progression
-500 Rupees: progression
+100 Rupees: mcguffin
+20 Rupees: mcguffin
+200 Rupees: mcguffin
+50 Rupees: mcguffin
+500 Rupees: mcguffin
 Angler Key: progression
 Ballad of the Wind Fish: progression
 Bananas: progression
@@ -14,7 +14,6 @@ Boomerang: progression
 Bow: progression
 BowWow: progression
 Broom: progression
-Compass: filler
 Compass (Angler's Tunnel): filler
 Compass (Bottle Grotto): filler
 Compass (Catfish's Maw): filler
@@ -24,8 +23,8 @@ Compass (Face Shrine): filler
 Compass (Key Cavern): filler
 Compass (Tail Cave): filler
 Compass (Turtle Rock): filler
-Conch Horn: progression
-Coral Triangle: progression
+Conch Horn: mcguffin
+Coral Triangle: mcguffin
 Dog Food: progression
 Dungeon Map (Angler's Tunnel): filler
 Dungeon Map (Bottle Grotto): filler
@@ -41,27 +40,24 @@ Feather: progression
 Fishing Hook: progression
 Flippers: progression
 Frog's Song of Soul: progression
-Full Moon Cello: progression
-Gold Leaf: progression
+Full Moon Cello: mcguffin
+Gold Leaf: mcguffin
 Heart Container: useful
-Heart Piece: filler
+Heart Piece: useful
 Hibiscus: progression
 Honeycomb: progression
 Hookshot: progression
-Key: progression
 Letter: progression
 Magic Powder: progression
 Magic Rod: progression
 Magnifying Glass: progression
 Magnifying Lens: progression
 Manbo's Mambo: useful
-Map: filler
-Max Arrows Upgrade: filler
-Max Bombs Upgrade: filler
-Max Powder Upgrade: filler
+Max Arrows Upgrade: useful
+Max Bombs Upgrade: useful
+Max Powder Upgrade: useful
 Medicine: useful
 Necklace: progression
-Nightmare Key: progression
 Nightmare Key (Angler's Tunnel): progression
 Nightmare Key (Bottle Grotto): progression
 Nightmare Key (Catfish's Maw): progression
@@ -73,7 +69,7 @@ Nightmare Key (Tail Cave): progression
 Nightmare Key (Turtle Rock): progression
 Nothing: filler
 Ocarina: progression
-Organ of Evening Calm: progression
+Organ of Evening Calm: mcguffin
 Pegasus Boots: progression
 Pineapple: progression
 Progressive Power Bracelet: progression
@@ -83,8 +79,8 @@ Red Tunic: useful
 Ribbon: progression
 Rooster: progression
 Scale: progression
-Sea Lily's Bell: progression
-Seashell: progression
+Sea Lily's Bell: mcguffin
+Seashell: mcguffin
 Shovel: progression
 Single Arrow: filler
 Slime Key: progression
@@ -98,7 +94,6 @@ Small Key (Key Cavern): progression
 Small Key (Tail Cave): progression
 Small Key (Turtle Rock): progression
 Stick: progression
-Stone Beak: filler
 Stone Beak (Angler's Tunnel): filler
 Stone Beak (Bottle Grotto): filler
 Stone Beak (Catfish's Maw): filler
@@ -108,13 +103,12 @@ Stone Beak (Face Shrine): filler
 Stone Beak (Key Cavern): filler
 Stone Beak (Tail Cave): filler
 Stone Beak (Turtle Rock): filler
-Surf Harp: progression
+Surf Harp: mcguffin
 Tail Key: progression
-Thunder Drum: progression
+Thunder Drum: mcguffin
 Toadstool: progression
-Wind Marimba: progression
+Wind Marimba: mcguffin
 Yoshi Doll: progression
 Zol Attack: trap
 Master Stalfos' Message: filler
 Gel: trap
-Bad Heart Container: trap
