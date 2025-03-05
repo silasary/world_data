@@ -2,14 +2,14 @@ Franklin Badge: unknown
 Teddy Bear: filler
 Super Plush Bear: useful
 Broken Machine: unknown
-Broken Gadget: unknown
+Broken Gadget: filler
 Broken Air Gun: unknown
 Broken Spray Can: unknown
-Broken Laser: unknown
+Broken Laser: useful
 Broken Iron: unknown
 Broken Pipe: unknown
 Broken Cannon: unknown
-Broken Tube: unknown
+Broken Tube: filler
 Broken Bazooka: unknown
 Broken Trumpet: unknown
 Broken Harmonica: unknown
@@ -27,7 +27,7 @@ Gutsy Bat: useful
 Casey Bat: unknown
 Fry Pan: filler
 Thick Fry Pan: filler
-Deluxe Fry Pan: unknown
+Deluxe Fry Pan: filler
 Chef's Fry Pan: unknown
 French Fry Pan: filler
 Magic Fry Pan: unknown
@@ -66,7 +66,7 @@ Copper Bracelet: filler
 Silver Bracelet: filler
 Gold Bracelet: unknown
 Platinum Band: filler
-Diamond Band: unknown
+Diamond Band: filler
 Pixie's Bracelet: filler
 Cherub's Band: useful
 Goddess Band: unknown
@@ -96,7 +96,7 @@ Pizza: filler
 Chef's Special: filler
 Large Pizza: filler
 PSI Caramel: unknown
-Magic Truffle: unknown
+Magic Truffle: filler
 Brain Food Lunch: filler
 Rock Candy: filler
 Croissant: filler
@@ -169,7 +169,7 @@ Chick: filler
 Chicken: filler
 Key to the Shack: progression
 Key to the Cabin: progression
-Bad Key Machine: unknown
+Bad Key Machine: progression
 Zombie Paper: progression
 Hawk Eye: progression
 Bicycle: useful
@@ -184,7 +184,7 @@ Pencil Eraser: progression
 Hieroglyph Copy: unknown
 Meteotite: unknown
 Contact Lens: unknown
-Hand-Aid: unknown
+Hand-Aid: filler
 Trout Yogurt: filler
 Banana: filler
 Calorie Stick: filler
@@ -208,8 +208,8 @@ Tiny Ruby: progression
 Monkey's Love: unknown
 Eraser Eraser: progression
 Tendakraut: progression
-T-Rex's Bat: unknown
-Ultimate Bat: unknown
+T-Rex's Bat: filler
+Ultimate Bat: filler
 Double Beam: useful
 Defense Ribbon: unknown
 Talisman Ribbon: filler
@@ -227,9 +227,9 @@ Progressive Bracelet: useful
 Progressive Other: unknown
 Cup of Coffee: filler
 Double Burger: filler
-Peanut Cheese Bar: unknown
+Peanut Cheese Bar: filler
 Piggy Jelly: filler
-Bowl of Rice Gruel: unknown
+Bowl of Rice Gruel: filler
 Bean Croquette: filler
 Molokheiya Soup: filler
 Plain Roll: trap
@@ -266,4 +266,5 @@ Magicant Teleport: unknown
 Paula: progression
 Jeff: progression
 Poo: unknown
-Flying Man: unknown
+Flying Man: useful
+Ness: progression
