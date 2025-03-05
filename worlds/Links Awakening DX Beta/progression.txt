@@ -1,46 +1,44 @@
 Progressive Power Bracelet: progression
 Progressive Shield: progression
-Bow: unknown
+Bow: progression
 Hookshot: progression
 Magic Rod: progression
 Pegasus Boots: progression
 Ocarina: progression
 Feather: progression
-Shovel: unknown
+Shovel: progression
 Magic Powder: progression
 Bomb: progression
 Progressive Sword: progression
-Flippers: unknown
+Flippers: progression
 Medicine: useful
-Tail Key: unknown
-Angler Key: unknown
+Tail Key: progression
+Angler Key: progression
 Face Key: progression
 Bird Key: progression
-Slime Key: unknown
-Gold Leaf: progression
-20 Rupees: progression
-50 Rupees: progression
-100 Rupees: progression
-200 Rupees: filler
-500 Rupees: unknown
+Slime Key: progression
+Gold Leaf: mcguffin
+20 Rupees: mcguffin
+50 Rupees: mcguffin
+100 Rupees: mcguffin
+200 Rupees: mcguffin
+500 Rupees: mcguffin
 Seashell: mcguffin
-Nothing: unknown
+Nothing: filler
 Zol Attack: trap
-Boomerang: unknown
-Heart Piece: progression
+Boomerang: progression
+Heart Piece: useful
 BowWow: progression
-10 Arrows: unknown
+10 Arrows: filler
 Single Arrow: filler
-Rooster: useful
-Max Powder Upgrade: unknown
+Rooster: progression
+Max Powder Upgrade: useful
 Max Bombs Upgrade: useful
-Max Arrows Upgrade: unknown
-Red Tunic: unknown
+Max Arrows Upgrade: useful
+Red Tunic: useful
 Blue Tunic: useful
 Heart Container: useful
-Toadstool: unknown
-Guardian Acorn: unknown
-Key: unknown
+Toadstool: progression
 Small Key (Tail Cave): progression
 Small Key (Bottle Grotto): progression
 Small Key (Key Cavern): progression
@@ -50,69 +48,64 @@ Small Key (Face Shrine): progression
 Small Key (Eagle's Tower): progression
 Small Key (Turtle Rock): progression
 Small Key (Color Dungeon): progression
-Nightmare Key: unknown
-Nightmare Key (Tail Cave): unknown
+Nightmare Key (Tail Cave): progression
 Nightmare Key (Bottle Grotto): progression
 Nightmare Key (Key Cavern): progression
-Nightmare Key (Angler's Tunnel): unknown
-Nightmare Key (Catfish's Maw): unknown
-Nightmare Key (Face Shrine): unknown
+Nightmare Key (Angler's Tunnel): progression
+Nightmare Key (Catfish's Maw): progression
+Nightmare Key (Face Shrine): progression
 Nightmare Key (Eagle's Tower): progression
-Nightmare Key (Turtle Rock): unknown
-Nightmare Key (Color Dungeon): unknown
-Map: unknown
-Dungeon Map (Tail Cave): unknown
+Nightmare Key (Turtle Rock): progression
+Nightmare Key (Color Dungeon): progression
+Dungeon Map (Tail Cave): filler
 Dungeon Map (Bottle Grotto): filler
-Dungeon Map (Key Cavern): unknown
+Dungeon Map (Key Cavern): filler
 Dungeon Map (Angler's Tunnel): filler
 Dungeon Map (Catfish's Maw): filler
 Dungeon Map (Face Shrine): filler
-Dungeon Map (Eagle's Tower): unknown
-Dungeon Map (Turtle Rock): unknown
+Dungeon Map (Eagle's Tower): filler
+Dungeon Map (Turtle Rock): filler
 Dungeon Map (Color Dungeon): filler
-Compass: unknown
 Compass (Tail Cave): filler
 Compass (Bottle Grotto): filler
-Compass (Key Cavern): unknown
+Compass (Key Cavern): filler
 Compass (Angler's Tunnel): filler
-Compass (Catfish's Maw): unknown
-Compass (Face Shrine): unknown
-Compass (Eagle's Tower): unknown
+Compass (Catfish's Maw): filler
+Compass (Face Shrine): filler
+Compass (Eagle's Tower): filler
 Compass (Turtle Rock): filler
-Compass (Color Dungeon): unknown
-Stone Beak: unknown
-Stone Beak (Tail Cave): unknown
+Compass (Color Dungeon): filler
+Stone Beak (Tail Cave): filler
 Stone Beak (Bottle Grotto): filler
-Stone Beak (Key Cavern): unknown
-Stone Beak (Angler's Tunnel): unknown
-Stone Beak (Catfish's Maw): unknown
+Stone Beak (Key Cavern): filler
+Stone Beak (Angler's Tunnel): filler
+Stone Beak (Catfish's Maw): filler
 Stone Beak (Face Shrine): filler
-Stone Beak (Eagle's Tower): unknown
-Stone Beak (Turtle Rock): unknown
+Stone Beak (Eagle's Tower): filler
+Stone Beak (Turtle Rock): filler
 Stone Beak (Color Dungeon): filler
 Ballad of the Wind Fish: progression
 Manbo's Mambo: useful
 Frog's Song of Soul: progression
-Full Moon Cello: unknown
-Conch Horn: progression
-Sea Lily's Bell: progression
-Surf Harp: unknown
-Wind Marimba: unknown
-Coral Triangle: progression
+Full Moon Cello: mcguffin
+Conch Horn: mcguffin
+Sea Lily's Bell: mcguffin
+Surf Harp: mcguffin
+Wind Marimba: mcguffin
+Coral Triangle: mcguffin
 Organ of Evening Calm: mcguffin
 Thunder Drum: mcguffin
 Yoshi Doll: progression
 Ribbon: progression
 Dog Food: progression
-Bananas: unknown
-Stick: unknown
+Bananas: progression
+Stick: progression
 Honeycomb: progression
-Pineapple: unknown
-Hibiscus: unknown
+Pineapple: progression
+Hibiscus: progression
 Letter: progression
-Broom: unknown
-Fishing Hook: unknown
+Broom: progression
+Fishing Hook: progression
 Necklace: progression
 Scale: progression
-Magnifying Glass: useful
-Piece Of Power: unknown
+Magnifying Glass: progression
