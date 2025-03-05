@@ -211,7 +211,7 @@ Lupini: The Serpent: filler
 Lupini: 'Tropical Fish #173': filler
 Lupini: Land Of Clay: filler
 Special Order Board: progression
-Solar Panel Recipe: useful
+Solar Panel Recipe: progression
 Geode Crusher Recipe: progression
 Farm Computer Recipe: progression
 Bone Mill Recipe: progression
@@ -317,7 +317,7 @@ Tub o' Flowers Recipe: progression
 Moonlight Jellies Banner: filler
 Starport Decal: filler
 Golden Egg: filler
-Algae Soup Recipe: useful
+Algae Soup Recipe: progression
 Artichoke Dip Recipe: progression
 Autumn's Bounty Recipe: progression
 Baked Fish Recipe: progression
@@ -329,12 +329,12 @@ Bread Recipe: progression
 Bruschetta Recipe: progression
 Carp Surprise Recipe: progression
 Cheese Cauliflower Recipe: progression
-Chocolate Cake Recipe: useful
+Chocolate Cake Recipe: progression
 Chowder Recipe: progression
 Coleslaw Recipe: progression
 Complete Breakfast Recipe: progression
 Cookies Recipe: progression
-Crab Cakes Recipe: filler
+Crab Cakes Recipe: progression
 Cranberry Candy Recipe: progression
 Cranberry Sauce Recipe: progression
 Crispy Bass Recipe: progression
@@ -368,7 +368,7 @@ Pepper Poppers Recipe: progression
 Pink Cake Recipe: progression
 Pizza Recipe: progression
 Plum Pudding Recipe: progression
-Poi Recipe: useful
+Poi Recipe: progression
 Poppyseed Muffin Recipe: progression
 Pumpkin Pie Recipe: progression
 Pumpkin Soup Recipe: progression
@@ -381,9 +381,9 @@ Roots Platter Recipe: progression
 Salad Recipe: progression
 Salmon Dinner Recipe: progression
 Sashimi Recipe: progression
-Seafoam Pudding Recipe: useful
+Seafoam Pudding Recipe: progression
 Shrimp Cocktail Recipe: progression
-Spaghetti Recipe: useful
+Spaghetti Recipe: progression
 Spicy Eel Recipe: progression
 Squid Ink Ravioli Recipe: progression
 Stir Fry Recipe: progression
@@ -391,7 +391,7 @@ Strange Bun Recipe: progression
 Stuffing Recipe: progression
 Super Meal Recipe: progression
 Survival Burger Recipe: progression
-Tom Kha Soup Recipe: useful
+Tom Kha Soup Recipe: progression
 Tortilla Recipe: progression
 Triple Shot Espresso Recipe: progression
 Tropical Curry Recipe: progression
@@ -401,7 +401,7 @@ Gate Recipe: progression
 Wood Fence Recipe: progression
 Deluxe Retaining Soil Recipe: progression
 Grass Starter Recipe: progression
-Wood Floor Recipe: filler
+Wood Floor Recipe: progression
 Rustic Plank Floor Recipe: progression
 Straw Floor Recipe: progression
 Weathered Floor Recipe: progression
@@ -412,14 +412,14 @@ Brick Floor Recipe: progression
 Wood Path Recipe: progression
 Gravel Path Recipe: progression
 Cobblestone Path Recipe: progression
-Stepping Stone Path Recipe: filler
+Stepping Stone Path Recipe: progression
 Crystal Path Recipe: progression
 Wedding Ring Recipe: progression
 Warp Totem: Desert Recipe: progression
 Warp Totem: Island Recipe: progression
 Torch Recipe: progression
 Campfire Recipe: progression
-Wooden Brazier Recipe: filler
+Wooden Brazier Recipe: progression
 Stone Brazier Recipe: progression
 Gold Brazier Recipe: progression
 Carved Brazier Recipe: progression
@@ -938,15 +938,15 @@ Power: Treasure Appraisal Guide: useful
 Resource Pack: 120 Calico Egg: filler
 Farming Mastery: progression
 Power: Jack Be Nimble, Jack Be Thick: useful
-Blue Grass Starter Recipe: useful
-Fish Smoker Recipe: useful
+Blue Grass Starter Recipe: progression
+Fish Smoker Recipe: progression
 Mastery Of The Five Ways: useful
 Mining Mastery: progression
 Fishing Mastery: progression
 Moss Soup Recipe: progression
 Power: Horse: The Book: useful
-Dehydrator Recipe: useful
-Text Sign Recipe: useful
+Dehydrator Recipe: progression
+Text Sign Recipe: progression
 Power: Mapping Cave Systems: useful
 Fish Casserole Recipe: progression
 Tilesanity: Calico Desert (4-6): progression
