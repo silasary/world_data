@@ -13,6 +13,8 @@ class ItemClassification(enum.Flag):
     progression = 8
     mcguffin = 16
 
+    bad_name = 256
+
 classifications = {v.name: v for v in ItemClassification.__members__.values()}
 
 @attrs.define()
