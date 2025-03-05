@@ -1,4 +1,4 @@
-Memory of a Distant World: unknown
+Memory of a Distant World: mcguffin
 Limsa Lominsa and Middle La Noscea Access: progression
 Gridania and Central Shroud Access: progression
 Ul'dah and Central Thanalan Access: progression
@@ -11,25 +11,25 @@ Wolves' Den Pier Access: unknown
 East Shroud Access: unknown
 South Shroud Access: progression
 North Shroud Access: unknown
-Western Thanalan Access: unknown
+Western Thanalan Access: progression
 Eastern Thanalan Access: unknown
-Southern Thanalan Access: unknown
+Southern Thanalan Access: progression
 Northern Thanalan Access: unknown
 Coerthas Central Highlands Access: unknown
 Mor Dhona Access: unknown
 Ishgard Access: unknown
 Coerthas Western Highlands Access: unknown
-The Sea of Clouds Access: unknown
+The Sea of Clouds Access: progression
 The Dravanian Forelands Access: unknown
 The Churning Mists Access: unknown
 The Dravanian Hinterlands and Idyllshire Access: unknown
-Azys Lla Access: unknown
+Azys Lla Access: progression
 Rhalgr's Reach Access: unknown
-The Fringes Access: unknown
+The Fringes Access: progression
 The Peaks Access: unknown
 The Lochs Access: unknown
-Kugane Access: unknown
-The Ruby Sea Access: unknown
+Kugane Access: progression
+The Ruby Sea Access: progression
 Yanxia Access: unknown
 The Azim Steppe Access: unknown
 The Crystarium Access: unknown
@@ -54,7 +54,7 @@ Alexander Key: unknown
 Omega Key: unknown
 Eden Key: unknown
 Pandaemonium Key: unknown
-Arcadion Key: unknown
+Arcadion Key: progression
 Tuliyollal Access: unknown
 Urqopacha Access: unknown
 Kozama'uka Access: unknown
@@ -162,36 +162,36 @@ Yak T'El Crab: unknown
 Cactuar Jig: unknown
 Dragonfly: unknown
 Ghost Nipper: unknown
-5 PLD Levels: unknown
-5 WAR Levels: unknown
+5 PLD Levels: useful
+5 WAR Levels: useful
 5 DRK Levels: useful
 5 GNB Levels: unknown
 5 WHM Levels: useful
 5 SCH Levels: useful
-5 AST Levels: unknown
-5 SGE Levels: unknown
-5 MNK Levels: unknown
-5 DRG Levels: unknown
+5 AST Levels: useful
+5 SGE Levels: useful
+5 MNK Levels: useful
+5 DRG Levels: useful
 5 NIN Levels: progression
-5 SAM Levels: unknown
-5 RPR Levels: unknown
-5 VPR Levels: unknown
+5 SAM Levels: useful
+5 RPR Levels: useful
+5 VPR Levels: useful
 5 BRD Levels: useful
 5 MCH Levels: unknown
-5 DNC Levels: unknown
+5 DNC Levels: useful
 5 BLM Levels: useful
-5 SMN Levels: unknown
-5 RDM Levels: unknown
-5 PCT Levels: unknown
+5 SMN Levels: useful
+5 RDM Levels: useful
+5 PCT Levels: useful
 5 BLU Levels: unknown
 5 CRP Levels: filler
 5 BSM Levels: filler
 5 ARM Levels: filler
-5 GSM Levels: unknown
+5 GSM Levels: filler
 5 LTW Levels: unknown
 5 WVR Levels: filler
-5 ALC Levels: unknown
-5 CUL Levels: unknown
+5 ALC Levels: filler
+5 CUL Levels: filler
 5 MIN Levels: filler
 5 BTN Levels: filler
 5 FSH Levels: filler
