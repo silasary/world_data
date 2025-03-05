@@ -6,7 +6,6 @@ import os
 import re
 import requests
 import pathlib
-import datetime
 
 from utils import world_folder
 
@@ -67,14 +66,14 @@ def load_game_data_package(game):
 
     fill_progression_data(game, dp)
 
-game = input("Enter game: ")
+game = input("Enter game (or enter for list): ")
 if game:
     load_game_data_package(game)
 else:
     games = [f for f in os.listdir(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/"))]
     for i, g in enumerate(games):
         print(f"{i}: {g}")
-    index = input("Enter index: ")
+    index = input("Enter index (or enter for everything): ")
     if index:
         game = games[int(index)]
         load_game_data_package(game)
