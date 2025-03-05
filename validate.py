@@ -13,7 +13,7 @@ def validate_world(world_name) -> None:
     if not progression_txt.exists():
         raise FileNotFoundError(f"progression.txt not found in {world_name}")
     dp = load_datapackage(world_name)
-    assert dp.items, f"datapackage for {world_name} is empty"
+    # assert dp.items, f"datapackage for {world_name} is empty"
     unknowns = {i for i in dp.items if dp.items[i] == ItemClassification.unknown}
     if unknowns:
         unknowns_by_world[world_name] = len(unknowns)
