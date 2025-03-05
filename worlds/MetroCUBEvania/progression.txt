@@ -1,10 +1,10 @@
-starting medal: progression
-lava medal: filler
-ice medal: progression
-counterfeit medal: mcguffin
+starting medal: mcguffin
+lava medal: mcguffin
+ice medal: mcguffin
+counterfeit medal: filler
 springboards: progression
 key: progression
 dive: progression
 double jump: progression
 cage medal: mcguffin
-springboards medal: progression
+springboards medal: mcguffin
