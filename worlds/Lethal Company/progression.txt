@@ -1,11 +1,11 @@
 Walkie-talkie: progression
 Shovel: unknown
-Lockpicker: unknown
+Lockpicker: filler
 Progressive Flashlight: unknown
 Stun grenade: useful
 Boombox: useful
 TZP-Inhalant: unknown
-Zap gun: unknown
+Zap gun: progression
 Jetpack: unknown
 Extension ladder: unknown
 Radar-booster: unknown
@@ -30,11 +30,13 @@ Company Credit: progression
 Strength Training: filler
 Scanner: unknown
 Money: filler
-More Time: unknown
+More Time: useful
 Clone Scrap: filler
 Birthday Gift: useful
-HauntTrap: unknown
-BrackenTrap: unknown
-Less Time: unknown
+HauntTrap: trap
+BrackenTrap: trap
+Less Time: trap
 8 Titan: progression
 56 Vow: progression
+5 Embrion: progression
+Flashlight: progression
