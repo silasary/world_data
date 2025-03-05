@@ -14,7 +14,7 @@ Shuffle Trap: trap
 Silence Trap: trap
 Sit Up Trap: trap
 Socializing Trap: trap
-Take a Breather!: unknown
+Take a Breather!: filler
 Touch Grass Trap: trap
 a: mcguffin
 c: mcguffin
