@@ -97,7 +97,7 @@ Chaos the Clown: progression
 Checkered Deck: progression
 Checkered Deck Black Stake: unknown
 Checkered Deck Blue Stake: progression
-Checkered Deck Gold Stake: unknown
+Checkered Deck Gold Stake: progression
 Checkered Deck Green Stake: unknown
 Checkered Deck Orange Stake: unknown
 Checkered Deck Purple Stake: unknown
@@ -178,7 +178,7 @@ Green Deck Gold Stake: unknown
 Green Deck Green Stake: unknown
 Green Deck Orange Stake: unknown
 Green Deck Purple Stake: progression
-Green Deck Red Stake: unknown
+Green Deck Red Stake: progression
 Green Deck White Stake: unknown
 Green Joker: progression
 Green Stake: filler
@@ -304,7 +304,7 @@ Painted Deck Gold Stake: unknown
 Painted Deck Green Stake: unknown
 Painted Deck Orange Stake: unknown
 Painted Deck Purple Stake: progression
-Painted Deck Red Stake: unknown
+Painted Deck Red Stake: progression
 Painted Deck White Stake: unknown
 Pareidolia: progression
 Perishable Trap: trap
@@ -322,7 +322,7 @@ Planet X: useful
 Plasma Deck: progression
 Plasma Deck Black Stake: unknown
 Plasma Deck Blue Stake: progression
-Plasma Deck Gold Stake: unknown
+Plasma Deck Gold Stake: progression
 Plasma Deck Green Stake: unknown
 Plasma Deck Orange Stake: unknown
 Plasma Deck Purple Stake: unknown
@@ -354,7 +354,7 @@ Rocket: progression
 Rough Gem: progression
 Runner: progression
 Satellite: progression
-Saturn: unknown
+Saturn: useful
 Scary Face: progression
 Scholar: progression
 Seance: progression
@@ -406,7 +406,7 @@ The Chariot: useful
 The Devil: useful
 The Duo: progression
 The Emperor: useful
-The Empress: unknown
+The Empress: useful
 The Family: progression
 The Fool: progression
 The Hanged Man: useful
@@ -453,7 +453,7 @@ Yellow Deck Gold Stake: unknown
 Yellow Deck Green Stake: unknown
 Yellow Deck Orange Stake: unknown
 Yellow Deck Purple Stake: unknown
-Yellow Deck Red Stake: unknown
+Yellow Deck Red Stake: progression
 Yellow Deck White Stake: unknown
 Yorick: progression
 Zany Joker: progression
