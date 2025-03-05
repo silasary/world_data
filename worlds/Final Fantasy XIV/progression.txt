@@ -1,7 +1,7 @@
 Memory of a Distant World: unknown
-Limsa Lominsa and Middle La Noscea Access: unknown
-Gridania and Central Shroud Access: unknown
-Ul'dah and Central Thanalan Access: unknown
+Limsa Lominsa and Middle La Noscea Access: progression
+Gridania and Central Shroud Access: progression
+Ul'dah and Central Thanalan Access: progression
 Lower La Noscea Access: unknown
 Eastern La Noscea Access: unknown
 Western La Noscea Access: unknown
@@ -9,7 +9,7 @@ Upper La Noscea Access: unknown
 Outer La Noscea Access: unknown
 Wolves' Den Pier Access: unknown
 East Shroud Access: unknown
-South Shroud Access: unknown
+South Shroud Access: progression
 North Shroud Access: unknown
 Western Thanalan Access: unknown
 Eastern Thanalan Access: unknown
@@ -48,7 +48,7 @@ Radz-at-Han Access: unknown
 Garlemald Access: unknown
 Mare Lamentorum Access: unknown
 Gangos Access: unknown
-Elpis Access: unknown
+Elpis Access: progression
 Bahamut Key: unknown
 Alexander Key: unknown
 Omega Key: unknown
@@ -61,7 +61,7 @@ Kozama'uka Access: unknown
 Yak T'el Access: unknown
 Shaaloani Access: unknown
 Heritage Found Access: unknown
-Living Memory Access: unknown
+Living Memory Access: mcguffin
 Solution Nine Access: unknown
 Lugworm: unknown
 Pill Bug: unknown
@@ -164,35 +164,35 @@ Dragonfly: unknown
 Ghost Nipper: unknown
 5 PLD Levels: unknown
 5 WAR Levels: unknown
-5 DRK Levels: unknown
+5 DRK Levels: useful
 5 GNB Levels: unknown
-5 WHM Levels: unknown
-5 SCH Levels: unknown
+5 WHM Levels: useful
+5 SCH Levels: useful
 5 AST Levels: unknown
 5 SGE Levels: unknown
 5 MNK Levels: unknown
 5 DRG Levels: unknown
-5 NIN Levels: unknown
+5 NIN Levels: progression
 5 SAM Levels: unknown
 5 RPR Levels: unknown
 5 VPR Levels: unknown
-5 BRD Levels: unknown
+5 BRD Levels: useful
 5 MCH Levels: unknown
 5 DNC Levels: unknown
-5 BLM Levels: unknown
+5 BLM Levels: useful
 5 SMN Levels: unknown
 5 RDM Levels: unknown
 5 PCT Levels: unknown
 5 BLU Levels: unknown
-5 CRP Levels: unknown
-5 BSM Levels: unknown
-5 ARM Levels: unknown
+5 CRP Levels: filler
+5 BSM Levels: filler
+5 ARM Levels: filler
 5 GSM Levels: unknown
 5 LTW Levels: unknown
-5 WVR Levels: unknown
+5 WVR Levels: filler
 5 ALC Levels: unknown
 5 CUL Levels: unknown
-5 MIN Levels: unknown
-5 BTN Levels: unknown
-5 FSH Levels: unknown
+5 MIN Levels: filler
+5 BTN Levels: filler
+5 FSH Levels: filler
 /pet: unknown
