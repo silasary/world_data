@@ -2,7 +2,7 @@ Reward: Torch God's Favor: filler
 Post-King Slime: progression
 Post-Desert Scourge: unknown
 Post-Giant Clam: unknown
-Post-Eye of Cthulhu: unknown
+Post-Eye of Cthulhu: progression
 Post-Acid Rain Tier 1: unknown
 Post-Crabulon: unknown
 Post-Evil Boss: progression
@@ -13,7 +13,7 @@ Post-Calamity Evil Boss: unknown
 Post-Skeletron: progression
 Post-Deerclops: progression
 Post-The Slime God: unknown
-Hardmode: unknown
+Hardmode: progression
 Post-Earth Elemental: unknown
 Post-Cloud Elemental: unknown
 Post-Pirate Invasion: filler
@@ -22,10 +22,10 @@ Post-Aquatic Scourge: unknown
 Post-The Twins: progression
 Post-Brimstone Elemental: unknown
 Post-The Destroyer: progression
-Post-Cryogen: unknown
+Post-Cryogen: progression
 Post-Skeletron Prime: progression
 Post-Cragmaw Mire: unknown
-Post-Acid Rain Tier 2: unknown
+Post-Acid Rain Tier 2: filler
 Post-Old One's Army Tier 2: useful
 Post-Calamitas Clone: unknown
 Post-Plantera: progression
@@ -56,12 +56,12 @@ Post-The Dragonfolly: unknown
 Post-Providence, the Profaned Goddess: unknown
 Post-Storm Weaver: unknown
 Post-Ceaseless Void: unknown
-Post-Signus, Envoy of the Devourer: unknown
+Post-Signus, Envoy of the Devourer: filler
 Post-Polterghast: unknown
 Post-Colossal Squid: unknown
 Post-Reaper Shark: unknown
 Post-Eidolon Wyrm: unknown
-Post-Mauler: unknown
+Post-Mauler: filler
 Post-Nuclear Terror: unknown
 Post-Acid Rain Tier 3: unknown
 Post-The Old Duke: unknown
@@ -69,7 +69,7 @@ Post-The Devourer of Gods: unknown
 Post-Yharon, Dragon of Rebirth: progression
 Has Zenith: progression
 Post-Exo Mechs: unknown
-Post-Supreme Witch, Calamitas: unknown
+Post-Supreme Witch, Calamitas: progression
 Post-Adult Eidolon Wyrm: unknown
 Reward: Hermes Boots: useful
 Reward: Magic Mirror: unknown
@@ -113,17 +113,17 @@ Reward: Philosopher's Stone: useful
 Reward: Cobalt Shield: useful
 Reward: Armor Polish: filler
 Reward: Vitamins: unknown
-Reward: Bezoar: unknown
+Reward: Bezoar: filler
 Reward: Adhesive Bandage: filler
 Reward: Megaphone: unknown
 Reward: Nazar: unknown
 Reward: Fast Clock: filler
-Reward: Trifold Map: unknown
+Reward: Trifold Map: filler
 Reward: Blindfold: filler
 Reward: Pocket Mirror: useful
 Reward: Paladin's Shield: useful
 Reward: Frozen Turtle Shell: filler
-Reward: Flesh Knuckles: unknown
+Reward: Flesh Knuckles: filler
 Reward: Putrid Scent: filler
 Reward: Feral Claws: filler
 Reward: Cross Necklace: useful
@@ -153,7 +153,7 @@ Reward: Diving Helmet: unknown
 Reward: Jellyfish Necklace: filler
 Reward: Corrupt Flask: unknown
 Reward: Crimson Flask: filler
-Reward: Craw Carapace: unknown
+Reward: Craw Carapace: filler
 Reward: Giant Shell: unknown
 Reward: Fungal Carapace: unknown
 Reward: Life Jelly: unknown
@@ -167,7 +167,7 @@ Reward: Wulfrum Battery: unknown
 Reward: Luxor's Gift: unknown
 Reward: Raider's Talisman: unknown
 Reward: Rotten Dogtooth: unknown
-Reward: Scuttler's Jewel: unknown
+Reward: Scuttler's Jewel: filler
 Reward: Unstable Granite Core: unknown
 Reward: Amidias' Spark: unknown
 Reward: Ursa Sergeant: unknown
@@ -185,6 +185,8 @@ Reward: Depths Charm: filler
 Reward: Anechoic Plating: unknown
 Reward: Iron Boots: unknown
 Reward: Sprit Glyph: unknown
-Reward: Abyssal Amulet: unknown
+Reward: Abyssal Amulet: filler
 Reward: Coins: useful
 Victory: unknown
+Post-Hardmode Giant Clam: filler
+Post-Dreadnautilus: filler
