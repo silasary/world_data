@@ -120,7 +120,7 @@ Reward: Nazar: unknown
 Reward: Fast Clock: filler
 Reward: Trifold Map: unknown
 Reward: Blindfold: filler
-Reward: Pocket Mirror: unknown
+Reward: Pocket Mirror: useful
 Reward: Paladin's Shield: useful
 Reward: Frozen Turtle Shell: filler
 Reward: Flesh Knuckles: unknown
@@ -139,7 +139,7 @@ Reward: Extendo Grip: filler
 Reward: Paint Sprayer: filler
 Reward: Portable Cement Mixer: filler
 Reward: Treasure Magnet: filler
-Reward: Step Stool: unknown
+Reward: Step Stool: filler
 Reward: Discount Card: unknown
 Reward: Gold Ring: filler
 Reward: Lucky Coin: filler
