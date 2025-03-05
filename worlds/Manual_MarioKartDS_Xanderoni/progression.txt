@@ -19,7 +19,7 @@ Flower Cup Access (GP): unknown
 Flower Cup Access (MM): unknown
 Flower Cup Access (TA): unknown
 Gold Mantis: unknown
-Gold Trophy: unknown
+Gold Trophy: mcguffin
 Hurricane: unknown
 Leaf Cup Access (GP): progression
 Leaf Cup Access (MM): unknown
@@ -27,12 +27,12 @@ Leaf Cup Access (TA): unknown
 Light Dancer: unknown
 Light Tripper: unknown
 Lightning Cup Access (GP): progression
-Lightning Cup Access (MM): unknown
+Lightning Cup Access (MM): progression
 Lightning Cup Access (TA): unknown
 Luigi: unknown
 Mushmellow: progression
 Mushroom Cup Access (GP): unknown
-Mushroom Cup Access (MM): unknown
+Mushroom Cup Access (MM): progression
 Mushroom Cup Access (TA): unknown
 Peach: unknown
 Poltergust 4000: unknown
@@ -51,7 +51,7 @@ Shooting Star: unknown
 Special Cup Access (GP): unknown
 Special Cup Access (MM): unknown
 Special Cup Access (TA): unknown
-Star Cup Access (GP): unknown
+Star Cup Access (GP): progression
 Star Cup Access (MM): unknown
 Star Cup Access (TA): unknown
 Streamliner: unknown
