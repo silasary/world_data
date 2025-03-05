@@ -18,21 +18,21 @@ Turtle Zone Progression x2: unknown
 Turtle Zone Secret: progression
 Tree Coin: progression
 Space Coin: mcguffin
-Macro Coin: unknown
-Pumpkin Coin: unknown
+Macro Coin: mcguffin
+Pumpkin Coin: mcguffin
 Mario Coin: progression
-Turtle Coin: unknown
+Turtle Coin: mcguffin
 Mario Coin Fragment: mcguffin
 Mushroom: progression
 Fire Flower: progression
 Carrot: progression
-Space Physics: unknown
+Space Physics: progression
 Hippo Bubble: progression
 Water Physics: progression
 Pipe Traversal: progression
 Pipe Traversal - Down: progression
 Pipe Traversal - Up: progression
-Pipe Traversal - Right: unknown
+Pipe Traversal - Right: progression
 Pipe Traversal - Left: unknown
 Super Star Duration Increase: filler
 Easy Mode: unknown
@@ -103,7 +103,7 @@ Cancel Auto Scroll - Turtle Zone 2: unknown
 Cancel Auto Scroll - Turtle Zone 3: unknown
 Cancel Auto Scroll - Turtle Zone Secret Course: unknown
 Cancel Auto Scroll - Mario's Castle: unknown
-Mushroom Zone Midway Bell: unknown
+Mushroom Zone Midway Bell: progression
 Tree Zone 1 Midway Bell: unknown
 Tree Zone 2 Midway Bell: unknown
 Tree Zone 4 Midway Bell: progression
@@ -111,19 +111,19 @@ Tree Zone 5 Midway Bell: unknown
 Space Zone 1 Midway Bell: unknown
 Space Zone 2 Midway Bell: progression
 Macro Zone 1 Midway Bell: unknown
-Macro Zone 2 Midway Bell: unknown
+Macro Zone 2 Midway Bell: progression
 Macro Zone 3 Midway Bell: unknown
 Macro Zone 4 Midway Bell: filler
 Pumpkin Zone 1 Midway Bell: progression
-Pumpkin Zone 2 Midway Bell: unknown
-Pumpkin Zone 3 Midway Bell: unknown
+Pumpkin Zone 2 Midway Bell: progression
+Pumpkin Zone 3 Midway Bell: progression
 Pumpkin Zone 4 Midway Bell: unknown
 Mario Zone 1 Midway Bell: unknown
 Mario Zone 2 Midway Bell: unknown
 Mario Zone 3 Midway Bell: filler
 Mario Zone 4 Midway Bell: unknown
 Turtle Zone 1 Midway Bell: unknown
-Turtle Zone 2 Midway Bell: unknown
+Turtle Zone 2 Midway Bell: progression
 Turtle Zone 3 Midway Bell: unknown
 Mario's Castle Midway Bell: unknown
 1 Coin: filler
