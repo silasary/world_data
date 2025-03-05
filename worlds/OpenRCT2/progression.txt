@@ -8,7 +8,7 @@ $500: filler
 250 Guests: filler
 3d Cinema: useful
 50 Guests: filler
-Air Powered Vertical Coaster: unknown
+Air Powered Vertical Coaster: progression
 Allow High Construction: progression
 Allow Landscape Changes: progression
 Allow Marketing Campaigns: useful
@@ -28,9 +28,9 @@ Classic Stand-up Roller Coaster: unknown
 Classic Wooden Roller Coaster: unknown
 Compact Inverted Coaster: useful
 Construction Rights Discount: useful
-Corkscrew Roller Coaster: unknown
+Corkscrew Roller Coaster: progression
 Crooked House: progression
-Dinghy Slide: unknown
+Dinghy Slide: progression
 Dodgems: progression
 Drink Stall: progression
 Easier Guest Generation: useful
@@ -40,7 +40,7 @@ Ferris Wheel: unknown
 First Aid: progression
 Flying Roller Coaster: progression
 Flying Roller Coaster (alt): unknown
-Flying Saucers: unknown
+Flying Saucers: progression
 Food Stall: progression
 Furry Convention Trap: trap
 Ghost Train: progression
@@ -62,8 +62,8 @@ Launched Freefall: unknown
 Lay Down Roller Coaster: useful
 Lay Down Roller Coaster (alt): unknown
 Lift: useful
-Log Flume: unknown
-Looping Roller Coaster: unknown
+Log Flume: progression
+Looping Roller Coaster: progression
 Magic Carpet: progression
 Maze: progression
 Merry Go Round: useful
@@ -99,14 +99,14 @@ Spinning Wild Mouse: progression
 Spiral Roller Coaster: useful
 Spiral Slide: useful
 Splash Boats: useful
-Stand Up Roller Coaster: unknown
+Stand Up Roller Coaster: progression
 Steel Wild Mouse: useful
 Steeplechase: progression
 Submarine Ride: useful
 Suspended Monorail: useful
 Suspended Swinging Coaster: progression
 Swinging Inverter Ship: useful
-Swinging Ship: unknown
+Swinging Ship: progression
 Thunderstorm: filler
 Toilets: progression
 Top Spin: useful
