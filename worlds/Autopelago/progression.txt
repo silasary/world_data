@@ -66,7 +66,7 @@ Gallon of Diet Soda: filler
 Apple wearing Jeans: useful
 Macaroni and Cheese: filler
 Pint of Ice Cream: filler
-Protein Shake: unknown
+Protein Shake: filler
 Tray of Lasagna: filler
 Best Burgers in Town: useful
 Pack of Pickled Peppers: filler
@@ -106,13 +106,13 @@ Hall Pass: unknown
 Limited Edition Vintage Superhero Lunch Box Complete with Thermos: filler
 Sweet Roadtrip Mixtape: unknown
 Bright Idea: filler
-Pluto: unknown
+Pluto: filler
 Autographed Copy of the Bible: filler
 Overdue Library Book: filler
 Oxford Comma: filler
 4th-Dimensional Hypercube: filler
 RGB Lighting: filler
-Rave Reviews: unknown
+Rave Reviews: filler
 Chaotic Emerald: filler
 Brand New Car: filler
 Coffee Mug Full of Pencils: filler
@@ -129,11 +129,11 @@ Legally Distinct Red Laser Sword: filler
 Weapons-grade Folding Chair: filler
 Bribe: filler
 Spilled Bag of Rice: filler
-Pinball Wizard's Spellbook: unknown
+Pinball Wizard's Spellbook: filler
 Dino DNA: filler
 Friend Ship: filler
 5D Printer: filler
-Lightbulb in a Briefcase: unknown
+Lightbulb in a Briefcase: filler
 Breakfast Machine: filler
 Toilet-scented Perfume: filler
 Bouquet of Flour: filler
@@ -163,8 +163,8 @@ Silver Skulltula Token: filler
 Pickled Cucco Feet: useful
 Song of Thyme: useful
 Ganondorf's Tennis Racket: filler
-Goron Rock Candy: unknown
-Pie of Ender: unknown
+Goron Rock Candy: filler
+Pie of Ender: filler
 Structure Compass (Cheese Wheel): filler
 Aqua Branded Water Bottle: unknown
 Magma Branded Hot Sauce: filler
@@ -174,7 +174,7 @@ JojaMart Sale Coupon: unknown
 Pickled Dust Sprite: filler
 Lucky MIPS Foot: filler
 Metal Moustache: progression
-Rat Cap: unknown
+Rat Cap: filler
 Pendant of Dim Sum: filler
 Pendant of Flour: unknown
 Pendant of Porridge: filler
@@ -310,7 +310,7 @@ Printer Driver Disc: useful
 Off-brand Soda Can: filler
 Set of Three Seashells: filler
 Chewed Bar of Soap: filler
-Generic Green Slime: unknown
+Generic Green Slime: filler
 Handful of Loose Marbles: filler
 Discarded Video Game Cartridge: filler
 Lit Candle: filler
@@ -373,7 +373,7 @@ CD containing 'Sounds of the Sewer': filler
 Rule stating that Rats Cannot Play Basketball: filler
 Hilarious Mushroom: filler
 Insultingly Bad Portrait: filler
-Rusted Oil Can: unknown
+Rusted Oil Can: filler
 Sleepy Fish: filler
 Slobber-covered Ball: filler
 Two-bedroom Apartment: filler
