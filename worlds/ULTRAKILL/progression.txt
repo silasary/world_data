@@ -5,7 +5,7 @@ Revolver - Standard: unknown
 Revolver - Alternate: progression
 Shotgun - Core Eject: progression
 Shotgun - Pump Charge: progression
-Shotgun - Sawed-On: unknown
+Shotgun - Sawed-On: progression
 Shotgun - Standard: unknown
 Shotgun - Alternate: progression
 Nailgun - Attractor: progression
@@ -75,7 +75,7 @@ Blue Skull (P-2): unknown
 0-5: CERBERUS: progression
 1-1: HEART OF THE SUNRISE: unknown
 1-2: THE BURNING WORLD: progression
-1-3: HALLS OF SACRED REMAINS: unknown
+1-3: HALLS OF SACRED REMAINS: progression
 1-4: CLAIR DE LUNE: progression
 2-1: BRIDGEBURNER: progression
 2-2: DEATH AT 20,000 VOLTS: progression
