@@ -3,9 +3,9 @@ Animal Husbandry: progression
 Mining: progression
 Sailing: unknown
 Astrology: unknown
-Irrigation: unknown
+Irrigation: progression
 Archery: unknown
-Writing: unknown
+Writing: progression
 Masonry: unknown
 Bronze Working: unknown
 The Wheel: unknown
@@ -27,7 +27,7 @@ Castles: progression
 Cartography: progression
 Mass Production: unknown
 Banking: unknown
-Gunpowder: unknown
+Gunpowder: filler
 Printing: progression
 Square Rigging: progression
 Astronomy: unknown
@@ -45,7 +45,7 @@ Flight: unknown
 Replaceable Parts: unknown
 Steel: unknown
 Electricity: unknown
-Radio: unknown
+Radio: progression
 Chemistry: unknown
 Combustion: useful
 Advanced Flight: unknown
@@ -58,7 +58,7 @@ Nuclear Fission: unknown
 Synthetic Materials: unknown
 Telecommunications: unknown
 Satellites: unknown
-Guidance Systems: unknown
+Guidance Systems: filler
 Lasers: unknown
 Composites: unknown
 Stealth Technology: useful
@@ -84,18 +84,18 @@ Early Empire: unknown
 Mysticism: unknown
 Games Recreation: unknown
 Political Philosophy: useful
-Drama and Poetry: unknown
+Drama and Poetry: filler
 Military Training: unknown
 Defensive Tactics: unknown
 Recorded History: unknown
-Theology: unknown
+Theology: filler
 Naval Tradition: unknown
 Feudalism: unknown
 Civil Service: unknown
 Mercenaries: progression
 Medieval Faires: unknown
-Guilds: unknown
-Divine Right: unknown
+Guilds: filler
+Divine Right: progression
 Exploration: unknown
 Humanism: unknown
 Diplomatic Service: unknown
