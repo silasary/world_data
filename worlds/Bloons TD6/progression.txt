@@ -114,7 +114,7 @@ GunCoolant-KUnlock: progression
 Gwendolin-HUnlock: progression
 HardPress-KUnlock: progression
 HardTacks-KUnlock: progression
-Haunted-MUnlock: unknown
+Haunted-MUnlock: progression
 HealthyBananas-KUnlock: progression
 HeavyKnockback-KUnlock: unknown
 Hedge-MUnlock: progression
