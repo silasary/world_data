@@ -6,7 +6,7 @@ Planet Unlock; Dragon Ball: unknown
 Planet Unlock; Rokudenashi Blues: unknown
 Planet Unlock; Houshin Engi: unknown
 Planet Unlock; Death Note: unknown
-Planet Unlock; Yu-Gi-Oh!: unknown
+Planet Unlock; Yu-Gi-Oh!: progression
 Planet Unlock; Muscle Man: unknown
 Planet Unlock; Taizo Mote King: unknown
 Planet Unlock; Ninku: unknown
@@ -20,28 +20,28 @@ Planet Unlock; Slam Dunk: unknown
 Planet Unlock; Eyeshield 21: unknown
 Planet Unlock; Pyu to Fuku Jaguar: unknown
 Planet Unlock; Bobo-bo Bo-bobo: unknown
-Planet Unlock; Home Tutor Hitman REBORN: unknown
+Planet Unlock; Home Tutor Hitman REBORN: progression
 Planet Unlock; Jungle King Ta-Chan: unknown
 Planet Unlock; Sakigake!! Otokojuku: unknown
 Planet Unlock; Fist Of The North Star: unknown
 Planet Unlock; Midori no Makibao: unknown
-Planet Unlock; Jigoku Sensei Nube: unknown
+Planet Unlock; Jigoku Sensei Nube: progression
 Planet Unlock; J-Galaxy Boss: unknown
 Planet Unlock; Yu-Yu-Hakusho: unknown
 Planet Unlock; Bleach: unknown
 Planet Unlock; Shaman King: unknown
 Planet Unlock; Buso Renkin: unknown
-Planet Unlock; Ichigo 100%: unknown
+Planet Unlock; Ichigo 100%: progression
 Planet Unlock; I"s: unknown
 Planet Unlock; Dr. Slump: unknown
 Planet Unlock; Kochikame: unknown
-Planet Unlock; Cobra: unknown
+Planet Unlock; Cobra: progression
 Planet Unlock; Tottemo! Luckyman: unknown
 Planet Unlock; JoJo's Bizarre Adventure: unknown
-Planet Unlock; J-Blackhole Boss: unknown
-Planet Unlock; Planet J: unknown
+Planet Unlock; J-Blackhole Boss: progression
+Planet Unlock; Planet J: progression
 Planet Unlock; Planet U: unknown
-Planet Unlock; Planet M: unknown
+Planet Unlock; Planet M: progression
 Planet Unlock; Planet P: unknown
 Support Koma; Sena-2 (Eyeshield 21): unknown
 Support Koma; Sena-3 (Eyeshield 21): unknown
@@ -52,7 +52,7 @@ Support Koma; Kurita-3 (Eyeshield 21): unknown
 Support Koma; Monta-2 (Eyeshield 21): unknown
 Support Koma; Monta-3 (Eyeshield 21): unknown
 Support Koma; Musashi-2 (Eyeshield 21): unknown
-Support Koma; Musashi-3 (Eyeshield 21): unknown
+Support Koma; Musashi-3 (Eyeshield 21): useful
 Support Koma; 3 Ha-Ha Brothers-2 (Eyeshield 21): unknown
 Support Koma; 3 Ha-Ha Brothers-3 (Eyeshield 21): unknown
 Support Koma; Shin-2 (Eyeshield 21): unknown
@@ -163,7 +163,7 @@ Support Koma; Yukime-2 (Hell Teacher Nube): unknown
 Support Koma; Yukime-3 (Hell Teacher Nube): unknown
 Support Koma; Yoh-2 (Shaman King): unknown
 Support Koma; Yoh-3 (Shaman King): unknown
-Support Koma; Anna-2 (Shaman King): unknown
+Support Koma; Anna-2 (Shaman King): useful
 Support Koma; Anna-3 (Shaman King): unknown
 Support Koma; Hao-2 (Shaman King): unknown
 Support Koma; Hao-3 (Shaman King): unknown
@@ -177,7 +177,7 @@ Support Koma; Jonathan-2 (JoJo's Bizarre Adventure): unknown
 Support Koma; Jonathan-3 (JoJo's Bizarre Adventure): unknown
 Support Koma; Joseph-2 (JoJo's Bizarre Adventure): unknown
 Support Koma; Joseph-3 (JoJo's Bizarre Adventure): unknown
-Support Koma; Josuke-2 (JoJo's Bizarre Adventure): unknown
+Support Koma; Josuke-2 (JoJo's Bizarre Adventure): useful
 Support Koma; Josuke-3 (JoJo's Bizarre Adventure): unknown
 Support Koma; Giorno-2 (JoJo's Bizarre Adventure): unknown
 Support Koma; Giorno-3 (JoJo's Bizarre Adventure): unknown
@@ -215,7 +215,7 @@ Support Koma; Tezuka-2 (Prince Of Tennis): unknown
 Support Koma; Tezuka-3 (Prince Of Tennis): unknown
 Support Koma; Fuji-2 (Prince Of Tennis): unknown
 Support Koma; Fuji-3 (Prince Of Tennis): unknown
-Support Koma; Golden Pair-2 (Prince Of Tennis): unknown
+Support Koma; Golden Pair-2 (Prince Of Tennis): useful
 Support Koma; Golden Pair-3 (Prince Of Tennis): unknown
 Support Koma; Momoshiro-2 (Prince Of Tennis): unknown
 Support Koma; Momoshiro-3 (Prince Of Tennis): unknown
@@ -232,7 +232,7 @@ Support Koma; Allen-3 (Devil Gray-Man): unknown
 Support Koma; Lenalee-2 (Devil Gray-Man): unknown
 Support Koma; Lenalee-3 (Devil Gray-Man): unknown
 Support Koma; Lavi-2 (Devil Gray-Man): unknown
-Support Koma; Lavi-3 (Devil Gray-Man): unknown
+Support Koma; Lavi-3 (Devil Gray-Man): useful
 Support Koma; Kanda-2 (Devil Gray-Man): unknown
 Support Koma; Kanda-3 (Devil Gray-Man): unknown
 Support Koma; Crowly-2 (Devil Gray-Man): unknown
@@ -251,7 +251,7 @@ Support Koma; Arale-2 (Dr. Slump): unknown
 Support Koma; Arale-3 (Dr. Slump): unknown
 Support Koma; Dr. Mashirito-2 (Dr. Slump): unknown
 Support Koma; Dr. Mashirito-3 (Dr. Slump): unknown
-Support Koma; Gatchan-3 (Dr. Slump): unknown
+Support Koma; Gatchan-3 (Dr. Slump): useful
 Support Koma; Poo-kun-3 (Dr. Slump): unknown
 Support Koma; Lucky Man-2 (Tottemo! Lucky Man): unknown
 Support Koma; Lucky Man-3 (Tottemo! Lucky Man): unknown
@@ -311,11 +311,11 @@ Support Koma; Ichigo-2 (Bleach): unknown
 Support Koma; Ichigo-3 (Bleach): unknown
 Support Koma; Rukia-2 (Bleach): unknown
 Support Koma; Rukia-3 (Bleach): unknown
-Support Koma; Renji-2 (Bleach): unknown
+Support Koma; Renji-2 (Bleach): useful
 Support Koma; Renji-3 (Bleach): unknown
 Support Koma; Hitsugaya-2 (Bleach): unknown
 Support Koma; Hitsugaya-3 (Bleach): unknown
-Support Koma; Uryu-2 (Bleach): unknown
+Support Koma; Uryu-2 (Bleach): useful
 Support Koma; Uryu-3 (Bleach): unknown
 Support Koma; Chad-2 (Bleach): unknown
 Support Koma; Chad-3 (Bleach): unknown
@@ -324,7 +324,7 @@ Support Koma; Orihime-3 (Bleach): unknown
 Support Koma; Yoruichi-2 (Bleach): unknown
 Support Koma; Yoruichi-3 (Bleach): unknown
 Support Koma; Kon-3 (Bleach): unknown
-Support Koma; Byakuya-2 (Bleach): unknown
+Support Koma; Byakuya-2 (Bleach): useful
 Support Koma; Byakuya-3 (Bleach): unknown
 Support Koma; Aizen-2 (Bleach): unknown
 Support Koma; Aizen-3 (Bleach): unknown
@@ -345,10 +345,10 @@ Support Koma; Don Patch-3 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Jelly Jiggler-2 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Jelly Jiggler-3 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Gasser-2 (Bobobo-bo Bo-bobo): unknown
-Support Koma; Gasser-3 (Bobobo-bo Bo-bobo): unknown
+Support Koma; Gasser-3 (Bobobo-bo Bo-bobo): useful
 Support Koma; Beauty-2 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Beauty-3 (Bobobo-bo Bo-bobo): unknown
-Support Koma; Gaoh-2 (Bobobo-bo Bo-bobo): unknown
+Support Koma; Gaoh-2 (Bobobo-bo Bo-bobo): useful
 Support Koma; Gaoh-3 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Neuro/Yako-2 (Majin Tantei Nougami Neuro): unknown
 Support Koma; Neuro/Yako-3 (Majin Tantei Nougami Neuro): unknown
@@ -376,7 +376,7 @@ Support Koma; Kurama-2 (Yu Yu Hakusho): unknown
 Support Koma; Kurama-3 (Yu Yu Hakusho): unknown
 Support Koma; Hiei-2 (Yu Yu Hakusho): unknown
 Support Koma; Hiei-3 (Yu Yu Hakusho): unknown
-Support Koma; Kuwabara-2 (Yu Yu Hakusho): unknown
+Support Koma; Kuwabara-2 (Yu Yu Hakusho): useful
 Support Koma; Kuwabara-3 (Yu Yu Hakusho): unknown
 Support Koma; Kenshin-2 (Rurouni Kenshin): unknown
 Support Koma; Kenshin-3 (Rurouni Kenshin): unknown
@@ -410,7 +410,7 @@ Battle Koma; Tsuna/Reborn-4 (Home Tutor Hitman Reborn!): unknown
 Battle Koma; Tsuna/Reborn-5 (Home Tutor Hitman Reborn!): unknown
 Battle Koma; Tsuna/Reborn-6-Laughter (Home Tutor Hitman Reborn!): unknown
 Battle Koma; Tsuna/Reborn-6-Power (Home Tutor Hitman Reborn!): unknown
-Battle Koma; Gintoki-4 (Gintama): unknown
+Battle Koma; Gintoki-4 (Gintama): useful
 Battle Koma; Gintoki-5 (Gintama): unknown
 Battle Koma; Gintoki-6-Laughter (Gintama): unknown
 Battle Koma; Gintoki-6-Power (Gintama): unknown
@@ -418,7 +418,7 @@ Battle Koma; Gintoki-7 (Gintama): unknown
 Battle Koma; Kagura-4 [Gintama]: unknown
 Battle Koma; Kagura-5 [Gintama]: unknown
 Battle Koma; Kagura-6-Laughter (Gintama): unknown
-Battle Koma; Kagura-6-Power (Gintama): unknown
+Battle Koma; Kagura-6-Power (Gintama): useful
 Battle Koma; Muscle Man-4-Power (Kinnikuman): unknown
 Battle Koma; Muscle Man-4-Laughter (Kinnikuman): unknown
 Battle Koma; Muscle Man-5 (Kinnikuman): unknown
@@ -438,7 +438,7 @@ Battle Koma; Momotaro-6-Knowledge (Sakigake!! Otokujuku): unknown
 Battle Koma; Yoh-4-Knowledge (Shaman king): unknown
 Battle Koma; Yoh-4-Laughter (Shaman king): unknown
 Battle Koma; Yoh-5 (Shaman king): unknown
-Battle Koma; Yoh-6 (Shaman king): unknown
+Battle Koma; Yoh-6 (Shaman king): useful
 Battle Koma; Anna-4 (Shaman king): unknown
 Battle Koma; Anna-5-Knowlwdge (Shaman king): unknown
 Battle Koma; Anna-5-Power (Shaman king): unknown
@@ -478,7 +478,7 @@ Battle Koma; Goku-5 (Dragonball): unknown
 Battle Koma; Goku-6 (Dragonball): unknown
 Battle Koma; Goku-7 (Dragonball): unknown
 Battle Koma; Vegetto-8 (Dragonball): unknown
-Battle Koma; Vegeta-4 (Dragonball): unknown
+Battle Koma; Vegeta-4 (Dragonball): useful
 Battle Koma; Vegeta-5-Power (Dragonball): unknown
 Battle Koma; Vegeta-5-Knowledge (Dragonball): unknown
 Battle Koma; Vegeta-6 [Dragonball]: unknown
@@ -503,9 +503,9 @@ Battle Koma; Sasuke-8-Knowledge (Naruto): unknown
 Battle Koma; Sasuke-8-Power (Naruto): unknown
 Battle Koma; Sakura-4 (Naruto): unknown
 Battle Koma; Sakura-5 [Naruto]: unknown
-Battle Koma; Sakura-6-Power [Naruto]: unknown
+Battle Koma; Sakura-6-Power [Naruto]: useful
 Battle Koma; Sakura-6-Laughter [Naruto]: unknown
-Battle Koma; Kakashi-4 (Naruto): unknown
+Battle Koma; Kakashi-4 (Naruto): useful
 Battle Koma; Kakashi-5 (Naruto): unknown
 Battle Koma; Kakashi-6-Knowledge (Naruto): unknown
 Battle Koma; Kakashi-6-Laughter (Naruto): unknown
@@ -547,7 +547,7 @@ Battle Koma; Taikoubou-5 (Houshin Engi): unknown
 Battle Koma; Taikoubou-6-Knowledge (Houshin Engi): unknown
 Battle Koma; Taikoubou-6-Laughter (Houshin Engi): unknown
 Battle Koma; Kenshiro-4 (Fist Of The North Star): unknown
-Battle Koma; Kenshiro-5 (Fist Of The North Star): unknown
+Battle Koma; Kenshiro-5 (Fist Of The North Star): useful
 Battle Koma; Kenshiro-6 (Fist Of The North Star): unknown
 Battle Koma; Kenshiro-7 (Fist Of The North Star): unknown
 Battle Koma; Kenshiro-8 (Fist Of The North Star): unknown
@@ -607,9 +607,9 @@ Battle Koma; Robin-6 (One Piece): unknown
 Battle Koma; Franky-4 (One Piece): unknown
 Battle Koma; Franky-5-Laughter (One Piece): unknown
 Battle Koma; Franky-5-Power (One Piece): unknown
-Max Deck Size +1: unknown
+Max Deck Size +1: progression
 Help Komas; Triple Jump: unknown
-Help Komas; Wall Jump: unknown
+Help Komas; Wall Jump: useful
 Help Komas; Air Dash: unknown
 Help Komas; No Confusion: unknown
 Help Komas; No Posion: unknown
@@ -644,10 +644,11 @@ Help Komas; Bravery: unknown
 Help Komas; Explosion: unknown
 Help Komas; Deposition: unknown
 Help Komas; Intellectual: unknown
-Help Komas; Counterattack: unknown
+Help Komas; Counterattack: useful
 Help Komas; Soul Eater: unknown
 Help Komas; Strikes Back: unknown
 Help Komas; Combative Spirit: unknown
 Help Komas; Perfect Guard: unknown
 Help Komas; Combo: unknown
 Filler arc: unknown
+Planet Clear Token: mcguffin
