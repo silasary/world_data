@@ -1,27 +1,27 @@
-Pottery: unknown
+Pottery: useful
 Animal Husbandry: progression
 Mining: progression
-Sailing: unknown
+Sailing: useful
 Astrology: unknown
 Irrigation: progression
 Archery: unknown
 Writing: progression
-Masonry: unknown
+Masonry: useful
 Bronze Working: unknown
-The Wheel: unknown
+The Wheel: filler
 Celestial Navigation: unknown
 Currency: unknown
-Horseback Riding: unknown
+Horseback Riding: filler
 Iron Working: progression
-Shipbuilding: unknown
+Shipbuilding: useful
 Mathematics: unknown
 Construction: unknown
 Engineering: unknown
-Military Tactics: unknown
+Military Tactics: filler
 Apprenticeship: unknown
 Machinery: progression
 Education: unknown
-Stirrups: unknown
+Stirrups: filler
 Military Engineering: unknown
 Castles: progression
 Cartography: progression
@@ -32,10 +32,10 @@ Printing: progression
 Square Rigging: progression
 Astronomy: unknown
 Metal Casting: unknown
-Siege Tactics: unknown
+Siege Tactics: filler
 Industrialization: unknown
 Scientific Theory: progression
-Ballistics: unknown
+Ballistics: filler
 Military Science: unknown
 Steam Power: progression
 Sanitation: unknown
@@ -51,7 +51,7 @@ Combustion: useful
 Advanced Flight: unknown
 Rocketry: unknown
 Advanced Ballistics: unknown
-Combined Arms: unknown
+Combined Arms: useful
 Plastics: unknown
 Computers: progression
 Nuclear Fission: unknown
@@ -59,17 +59,17 @@ Synthetic Materials: unknown
 Telecommunications: unknown
 Satellites: unknown
 Guidance Systems: filler
-Lasers: unknown
-Composites: unknown
+Lasers: filler
+Composites: useful
 Stealth Technology: useful
-Robotics: unknown
+Robotics: useful
 Nanotechnology: unknown
-Nuclear Fusion: unknown
+Nuclear Fusion: useful
 Buttress: unknown
 Refining: progression
 Seasteads: useful
 Advanced AI: useful
-Advanced Power Cells: unknown
+Advanced Power Cells: filler
 Cybernetics: unknown
 Smart Materials: unknown
 Predictive Systems: unknown
@@ -85,24 +85,24 @@ Mysticism: unknown
 Games Recreation: unknown
 Political Philosophy: useful
 Drama and Poetry: filler
-Military Training: unknown
-Defensive Tactics: unknown
+Military Training: filler
+Defensive Tactics: filler
 Recorded History: unknown
 Theology: filler
-Naval Tradition: unknown
-Feudalism: unknown
+Naval Tradition: filler
+Feudalism: filler
 Civil Service: unknown
 Mercenaries: progression
 Medieval Faires: unknown
 Guilds: filler
 Divine Right: progression
-Exploration: unknown
+Exploration: useful
 Humanism: unknown
 Diplomatic Service: unknown
 Reformed Church: progression
 Mercantilism: progression
-The Enlightenment: unknown
-Colonialism: unknown
+The Enlightenment: filler
+Colonialism: filler
 Civil Engineering: unknown
 Nationalism: progression
 Opera and Ballet: unknown
@@ -113,23 +113,23 @@ Conservation: unknown
 Capitalism: unknown
 Nuclear Program: unknown
 Mass Media: unknown
-Mobilization: unknown
+Mobilization: filler
 Ideology: unknown
-Suffrage: unknown
-Totalitarianism: unknown
+Suffrage: useful
+Totalitarianism: useful
 Class Struggle: progression
-Cold War: unknown
+Cold War: filler
 Professional Sports: unknown
 Cultural Heritage: progression
-Rapid Deployment: unknown
-Space Race: unknown
+Rapid Deployment: filler
+Space Race: filler
 Globalization: progression
 Social Media: unknown
 Future Civic: unknown
 Environmentalism: unknown
-Corporate Libertarianism: unknown
-Digital Democracy: unknown
-Synthetic Technocracy: unknown
+Corporate Libertarianism: useful
+Digital Democracy: useful
+Synthetic Technocracy: useful
 Near Future Governance: unknown
 Global Warming Mitigation: filler
 Smart Power Doctrine: progression
@@ -141,7 +141,7 @@ Progressive Theater: progression
 Progressive Holy Site: progression
 Progressive Encampment: progression
 Progressive Commercial Hub: progression
-Progressive Harbor: unknown
+Progressive Harbor: useful
 Progressive Industrial Zone: progression
 Progressive Preserve: progression
 Progressive Entertainment Complex: progression
@@ -158,7 +158,7 @@ Faith: Medium: filler
 Faith: Large: filler
 Diplomatic Favor: filler
 Governor Title: filler
-Envoy: unknown
+Envoy: filler
 Relic: unknown
 Scout: unknown
 Additional Population: unknown
