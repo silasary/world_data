@@ -11,7 +11,7 @@ Artifact of Warrior: progression
 Artifact of Wild: progression
 Artifact of World: progression
 Boost Ball: unknown
-Charge Beam: unknown
+Charge Beam: progression
 Charge Beam (Ice): unknown
 Charge Beam (Plasma): unknown
 Charge Beam (Power): unknown
@@ -46,6 +46,6 @@ Thermal Visor: unknown
 UnknownItem1: unknown
 UnknownItem2: unknown
 Varia Suit: progression
-Wave Beam: unknown
+Wave Beam: progression
 Wavebuster: unknown
 X-Ray Visor: unknown
