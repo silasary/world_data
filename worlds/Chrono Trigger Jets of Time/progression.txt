@@ -33,7 +33,7 @@ Ruby Gun: unknown
 Dream Gun: unknown
 Megablast: unknown
 Shock Wave: unknown
-WonderShot: unknown
+WonderShot: useful
 Graedus: unknown
 Tin Arm: unknown
 Hammer Arm: unknown
@@ -42,7 +42,7 @@ Stone Arm: unknown
 DoomFinger: unknown
 Magma Hand: unknown
 MegatonArm: unknown
-Big Hand: unknown
+Big Hand: useful
 Kaiser Arm: unknown
 Giga Arm: unknown
 Terra Arm: unknown
@@ -190,7 +190,7 @@ Feather: unknown
 Seed: unknown
 Bike Key: unknown
 Pendant: unknown
-Gate Key: unknown
+Gate Key: progression
 PrismShard: progression
 C. Trigger: unknown
 Tools: unknown
