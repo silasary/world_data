@@ -16,7 +16,7 @@ Iron Working: progression
 Shipbuilding: useful
 Mathematics: unknown
 Construction: unknown
-Engineering: unknown
+Engineering: useful
 Military Tactics: filler
 Apprenticeship: unknown
 Machinery: progression
@@ -31,16 +31,16 @@ Gunpowder: filler
 Printing: progression
 Square Rigging: progression
 Astronomy: unknown
-Metal Casting: unknown
+Metal Casting: filler
 Siege Tactics: filler
 Industrialization: unknown
 Scientific Theory: progression
 Ballistics: filler
 Military Science: unknown
 Steam Power: progression
-Sanitation: unknown
+Sanitation: filler
 Economics: unknown
-Rifling: unknown
+Rifling: filler
 Flight: unknown
 Replaceable Parts: unknown
 Steel: unknown
@@ -50,13 +50,13 @@ Chemistry: unknown
 Combustion: useful
 Advanced Flight: unknown
 Rocketry: unknown
-Advanced Ballistics: unknown
+Advanced Ballistics: filler
 Combined Arms: useful
-Plastics: unknown
+Plastics: useful
 Computers: progression
 Nuclear Fission: unknown
-Synthetic Materials: unknown
-Telecommunications: unknown
+Synthetic Materials: useful
+Telecommunications: filler
 Satellites: unknown
 Guidance Systems: filler
 Lasers: filler
@@ -65,20 +65,20 @@ Stealth Technology: useful
 Robotics: useful
 Nanotechnology: unknown
 Nuclear Fusion: useful
-Buttress: unknown
+Buttress: filler
 Refining: progression
 Seasteads: useful
 Advanced AI: useful
 Advanced Power Cells: filler
-Cybernetics: unknown
+Cybernetics: filler
 Smart Materials: unknown
-Predictive Systems: unknown
+Predictive Systems: useful
 Offworld Mission: unknown
 Future Tech: unknown
 Code of Laws: progression
-Craftsmanship: unknown
+Craftsmanship: filler
 Foreign Trade: progression
-Military Tradition: unknown
+Military Tradition: filler
 State Workforce: progression
 Early Empire: unknown
 Mysticism: unknown
@@ -105,16 +105,16 @@ The Enlightenment: filler
 Colonialism: filler
 Civil Engineering: unknown
 Nationalism: progression
-Opera and Ballet: unknown
+Opera and Ballet: filler
 Natural History: unknown
 Scorched Earth: filler
 Urbanization: unknown
 Conservation: unknown
 Capitalism: unknown
 Nuclear Program: unknown
-Mass Media: unknown
+Mass Media: filler
 Mobilization: filler
-Ideology: unknown
+Ideology: filler
 Suffrage: useful
 Totalitarianism: useful
 Class Struggle: progression
@@ -130,7 +130,7 @@ Environmentalism: unknown
 Corporate Libertarianism: useful
 Digital Democracy: useful
 Synthetic Technocracy: useful
-Near Future Governance: unknown
+Near Future Governance: filler
 Global Warming Mitigation: filler
 Smart Power Doctrine: progression
 Information Warfare: unknown
@@ -145,7 +145,7 @@ Progressive Harbor: useful
 Progressive Industrial Zone: progression
 Progressive Preserve: progression
 Progressive Entertainment Complex: progression
-Progressive Neighborhood: unknown
+Progressive Neighborhood: filler
 Progressive Aerodrome: progression
 Progressive Diplomatic Quarter: progression
 Progressive Space Port: useful
@@ -159,7 +159,7 @@ Faith: Large: filler
 Diplomatic Favor: filler
 Governor Title: filler
 Envoy: filler
-Relic: unknown
+Relic: filler
 Scout: unknown
 Additional Population: unknown
 Builder: unknown
