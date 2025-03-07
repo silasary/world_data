@@ -1,6 +1,6 @@
 Boss Token: unknown
 Bull: unknown
-Climb: unknown
+Climb: progression
 Coin: unknown
 Create Coin: unknown
 Dash: unknown
@@ -8,24 +8,24 @@ Death Trap: trap
 Dragon: unknown
 Duck: unknown
 Garlic: unknown
-Garlic Bread: unknown
-Garlic Breath: unknown
-Garlic Burger: unknown
+Garlic Bread: filler
+Garlic Breath: filler
+Garlic Burger: filler
 Garlic Cheesecake: filler
-Garlic Clove: unknown
-Garlic Cookie: unknown
-Garlic Pesto: unknown
-Garlic Sandwich: unknown
+Garlic Clove: mcguffin
+Garlic Cookie: filler
+Garlic Pesto: filler
+Garlic Sandwich: filler
 Garlic Soda: unknown
-Garlic Tea: unknown
+Garlic Tea: filler
 Grease Trap: unknown
 Heart: filler
 High-Jump: unknown
 Jet: unknown
 Mt. Teapot: unknown
 Mt. Teapot - Boss Unlock: unknown
-Nothing: unknown
-Noxious Fart: unknown
+Nothing: filler
+Noxious Fart: filler
 Parsley Woods: unknown
 Parsley Woods - Boss Unlock: progression
 Progressive Powerup: unknown
@@ -36,9 +36,9 @@ SS Tea Cup: unknown
 SS Tea Cup - Boss Unlock: unknown
 Sherbet Land: unknown
 Sherbet Land - Boss Unlock: progression
-Stinky 1-Up: unknown
+Stinky 1-Up: filler
 Stove Canyon: progression
 Stove Canyon - Boss Unlock: unknown
-Stun Trap: unknown
+Stun Trap: trap
 Syrup Castle: progression
-Timer Trap: unknown
+Timer Trap: trap
