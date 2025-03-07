@@ -8,7 +8,7 @@ Yellow Chaos Emerald: unknown
 Goodbye Forever: unknown
 Stage:Westopolis: unknown
 Stage:Digital Circuit: unknown
-Stage:Glyphic Canyon: unknown
+Stage:Glyphic Canyon: progression
 Stage:Lethal Highway: unknown
 Stage:Cryptic Castle: unknown
 Stage:Prison Island: unknown
@@ -20,85 +20,85 @@ Stage:Mad Matrix: unknown
 Stage:Death Ruins: unknown
 Stage:The Ark: unknown
 Stage:Air Fleet: unknown
-Stage:Iron Jungle: unknown
+Stage:Iron Jungle: progression
 Stage:Space Gadget: unknown
 Stage:Lost Impact: unknown
 Stage:Gun Fortress: unknown
 Stage:Black Comet: unknown
-Stage:Lava Shelter: unknown
+Stage:Lava Shelter: progression
 Stage:Cosmic Fall: unknown
 Stage:Final Haunt: unknown
 Westopolis Soldier: unknown
 Westopolis Alien: unknown
-Glyphic Canyon Alien: unknown
-Glyphic Canyon Temple: unknown
+Glyphic Canyon Alien: progression
+Glyphic Canyon Temple: progression
 Lethal Highway Tank: unknown
 Cryptic Castle Lantern: unknown
 Cryptic Castle Cream: unknown
-Prison Island Soldier: unknown
-Prison Island Disc: unknown
-Circus Park Soldier: unknown
+Prison Island Soldier: progression
+Prison Island Disc: progression
+Circus Park Soldier: progression
 Central City Big Bomb: unknown
-Central City Little Bomb: unknown
-The Doom Soldier: unknown
+Central City Little Bomb: progression
+The Doom Soldier: progression
 The Doom Researcher: unknown
 Sky Troops Egg Ship: unknown
 Sky Troops Temple: unknown
-Mad Matrix Bomb: unknown
+Mad Matrix Bomb: progression
 Mad Matrix Terminal: unknown
-Death Ruins Alien: unknown
+Death Ruins Alien: progression
 The Ark Defense Unit: unknown
 Air Fleet President Aircraft: unknown
-Air Fleet Alien: unknown
-Iron Jungle Soldier: unknown
+Air Fleet Alien: progression
+Iron Jungle Soldier: progression
 Iron Jungle Egg Balloon: unknown
 Space Gadget Defense Unit: unknown
-Lost Impact Artificial Chaos: unknown
+Lost Impact Artificial Chaos: progression
 Gun Fortress Computer: unknown
-Black Comet Soldier: unknown
+Black Comet Soldier: progression
 Lava Shelter Defense: unknown
 Final Haunt Shield: unknown
 Nothing Junk: unknown
 Gauge:Hero-1: unknown
 Gauge:Hero-5: unknown
 Gauge:Hero-100: unknown
-Gauge:Hero-500: unknown
-Gauge:Hero-1000: unknown
-Gauge:Hero-2000: unknown
-Gauge:Hero-5000: unknown
-Gauge:Hero-10000: unknown
+Gauge:Hero-500: filler
+Gauge:Hero-1000: filler
+Gauge:Hero-2000: filler
+Gauge:Hero-5000: filler
+Gauge:Hero-10000: filler
 Gauge:Hero-15000: unknown
 Gauge:Hero-20000: unknown
 Gauge:Hero-30000: unknown
 Gauge:Dark-1: unknown
 Gauge:Dark-5: unknown
-Gauge:Dark-100: unknown
+Gauge:Dark-100: filler
 Gauge:Dark-500: unknown
-Gauge:Dark-1000: unknown
+Gauge:Dark-1000: filler
 Gauge:Dark-2000: unknown
-Gauge:Dark-5000: unknown
+Gauge:Dark-5000: filler
 Gauge:Dark-10000: unknown
 Gauge:Dark-15000: unknown
 Gauge:Dark-20000: unknown
 Gauge:Dark-30000: unknown
-1 Ring: unknown
-2 Rings: unknown
-5 Rings: unknown
+1 Ring: filler
+2 Rings: filler
+5 Rings: filler
 10 Rings: unknown
 20 Rings: unknown
 Hero Token: unknown
 Dark Token: unknown
-Mission Token: unknown
+Mission Token: mcguffin
 Final Token: unknown
 Objective Token: unknown
 Weapon:Pistol: unknown
 Weapon:Sub Machine Gun: unknown
-Weapon:Semi Automatic Rifle: unknown
+Weapon:Semi Automatic Rifle: progression
 Weapon:Heavy Machine Gun: unknown
 Weapon:Gatling Gun: unknown
 Weapon:Egg Gun: unknown
 Weapon:Light Shot: unknown
-Weapon:Flash Shot: unknown
+Weapon:Flash Shot: progression
 Weapon:Ring Shot: unknown
 Weapon:Heavy Shot: unknown
 Weapon:Grenade Launcher: unknown
@@ -106,11 +106,11 @@ Weapon:Bazooka: unknown
 Weapon:Tank Cannon: unknown
 Weapon:Black Barrel: unknown
 Weapon:Big Barrel: unknown
-Weapon:Egg Bazooka: unknown
+Weapon:Egg Bazooka: progression
 Weapon:RPG: unknown
 Weapon:4-Shot RPG: unknown
 Weapon:8-Shot RPG: unknown
-Weapon:Worm Shooter: unknown
+Weapon:Worm Shooter: progression
 Weapon:Wide Worm Shooter: unknown
 Weapon:Big Worm Shooter: unknown
 Weapon:Vacuum Pod: unknown
@@ -118,7 +118,7 @@ Weapon:Laser Rifle: unknown
 Weapon:Splitter: unknown
 Weapon:Refractor: unknown
 Weapon:Survival Knife: unknown
-Weapon:Black Sword: unknown
+Weapon:Black Sword: progression
 Weapon:Dark Hammer: unknown
 Weapon:Egg Spear: unknown
 Weapon:Speed Limit Sign: unknown
@@ -142,10 +142,10 @@ Weapon:Lava Shovel: unknown
 Weapon:Cosmic Pole: unknown
 Weapon:Haunt Pole: unknown
 Weapon:Last Pole: unknown
-Weapon:Samurai Blade: unknown
+Weapon:Samurai Blade: progression
 Weapon:Satellite Gun: unknown
 Weapon:Egg Vacuum: unknown
-Weapon:Omochao Gun: unknown
+Weapon:Omochao Gun: progression
 Weapon:Heal Cannon: unknown
 Weapon:Shadow Rifle: unknown
 Vehicle: Standard Car: unknown
@@ -160,3 +160,5 @@ Vehicle: Black Volt: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Black Turret: unknown
 Vehicle: Gun Lift: unknown
+Stage:Egg Dealer Black Comet: progression
+Stage:Egg Breaker Cryptic Castle: progression
