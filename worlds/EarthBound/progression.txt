@@ -106,7 +106,7 @@ Jar of Fly Honey: progression
 Can of Fruit Juice: filler
 Royal Iced Tea: filler
 Protein Drink: filler
-Kraken Soup: unknown
+Kraken Soup: filler
 Bottle of Water: filler
 Cold Remedy: filler
 Vial of Serum: filler
@@ -114,7 +114,7 @@ IQ Capsule: useful
 Guts Capsule: unknown
 Speed Capsule: filler
 Vital Capsule: unknown
-Luck Capsule: unknown
+Luck Capsule: filler
 Ketchup Packet: unknown
 Sugar Packet: filler
 Tin of Cocoa: filler
@@ -127,7 +127,7 @@ Jar of Delisauce: unknown
 Wet Towel: filler
 Refreshing Herb: useful
 Secret Herb: filler
-Horn of Life: unknown
+Horn of Life: useful
 Counter-PSI Unit: unknown
 Shield Killer: unknown
 Bazooka: useful
@@ -143,7 +143,7 @@ Mummy Wrap: filler
 Protractor: filler
 Bottle Rocket: filler
 Big Bottle Rocket: useful
-Multi Bottle Rocket: unknown
+Multi Bottle Rocket: useful
 Bomb: filler
 Super Bomb: filler
 Insecticide Spray: filler
