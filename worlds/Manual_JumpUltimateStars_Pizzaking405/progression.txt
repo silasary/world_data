@@ -27,7 +27,7 @@ Planet Unlock; Fist Of The North Star: unknown
 Planet Unlock; Midori no Makibao: unknown
 Planet Unlock; Jigoku Sensei Nube: progression
 Planet Unlock; J-Galaxy Boss: unknown
-Planet Unlock; Yu-Yu-Hakusho: unknown
+Planet Unlock; Yu-Yu-Hakusho: progression
 Planet Unlock; Bleach: unknown
 Planet Unlock; Shaman King: unknown
 Planet Unlock; Buso Renkin: unknown
@@ -284,7 +284,7 @@ Support Koma; Fuusuke-3 (Ninku): unknown
 Support Koma; Gon-2 (Hunter x Hunter): unknown
 Support Koma; Gon-3 (Hunter x Hunter): unknown
 Support Koma; Killua-2 (Hunter x Hunter): unknown
-Support Koma; Killua-3 (Hunter x Hunter): unknown
+Support Koma; Killua-3 (Hunter x Hunter): useful
 Support Koma; Kurapika-2 (Hunter x Hunter): unknown
 Support Koma; Kurapika-3 (Hunter x Hunter): unknown
 Support Koma; Hisoka-2 (Hunter x Hunter): unknown
@@ -369,7 +369,7 @@ Support Koma; Piko-3 (Muhyo and Roji's Bureau): unknown
 Support Koma; Yugi-2 (Yu-Gi-Oh): unknown
 Support Koma; Yugi-3 (Yu-Gi-Oh): unknown
 Support Koma; Kaiba-2 (Yu-Gi-Oh): unknown
-Support Koma; Kaiba-3 (Yu-Gi-Oh): unknown
+Support Koma; Kaiba-3 (Yu-Gi-Oh): useful
 Support Koma; Yusuke-2 (Yu Yu Hakusho): unknown
 Support Koma; Yusuke-3 (Yu Yu Hakusho): unknown
 Support Koma; Kurama-2 (Yu Yu Hakusho): unknown
@@ -387,7 +387,7 @@ Support Koma; Saito-3 (Rurouni Kenshin): unknown
 Support Koma; Shishio-2 (Rurouni Kenshin): unknown
 Support Koma; Shishio-3 (Rurouni Kenshin): unknown
 Support Koma; Yahiko-2 (Rurouni Kenshin): unknown
-Support Koma; Yahiko-3 (Rurouni Kenshin): unknown
+Support Koma; Yahiko-3 (Rurouni Kenshin): useful
 Support Koma; Taison-2 (Rokudenashi Blues): unknown
 Support Koma; Taison-3 (Rokudenashi Blues): unknown
 Support Koma; Luffy-2 (One Piece): unknown
@@ -425,7 +425,7 @@ Battle Koma; Muscle Man-5 (Kinnikuman): unknown
 Battle Koma; Muscle Man-6 (Kinnikuman): unknown
 Battle Koma; Muscle Man-7 (Kinnikuman): unknown
 Battle Koma; Muscle Man-8 (Kinnikuman): unknown
-Battle Koma; Ryotsu-4 (Kochikame): unknown
+Battle Koma; Ryotsu-4 (Kochikame): useful
 Battle Koma; Ryotsu-5 (Kochikame): unknown
 Battle Koma; Ryotsu-6-Laughter (Kochikame): unknown
 Battle Koma; Ryotsu-6-Power (Kochikame): unknown
@@ -613,7 +613,7 @@ Help Komas; Wall Jump: useful
 Help Komas; Air Dash: unknown
 Help Komas; No Confusion: unknown
 Help Komas; No Posion: unknown
-Help Komas; No Freeze: unknown
+Help Komas; No Freeze: useful
 Help Komas; No Judgement: unknown
 Help Komas; No Blindness: unknown
 Help Komas; No Shock: unknown
