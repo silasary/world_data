@@ -144,7 +144,7 @@ Bundle of Feathers: unknown
 Bundle of Needles: unknown
 Burgonet: useful
 Burning Bow: unknown
-Cactus Flower: unknown
+Cactus Flower: progression
 Cactus Fruit: unknown
 Caldera: unknown
 Caliper: unknown
@@ -385,7 +385,7 @@ Green Beret: unknown
 Green Liquid: unknown
 Green Tuft: unknown
 Grimoire Aidhed: unknown
-Grimoire Togail: unknown
+Grimoire Togail: useful
 Grimy Fragment: progression
 Gungnir: unknown
 Gysahl Greens: unknown
@@ -401,7 +401,7 @@ Headband: unknown
 Headgear: unknown
 Headguard: unknown
 Healing Rod: unknown
-Heavy Coat: unknown
+Heavy Coat: filler
 Heavy Lance: unknown
 Hell-Gate's Flame: unknown
 Hermes Sandals: unknown
@@ -529,7 +529,7 @@ Merchant's Armband: unknown
 Mesa: unknown
 Metal Jerkin: unknown
 Metallic Trophy: unknown
-Meteorite A: unknown
+Meteorite A: filler
 Meteorite B: filler
 Meteorite C: unknown
 Meteorite D: unknown
@@ -685,14 +685,14 @@ Seitengrat: unknown
 Serpent Eye: unknown
 Serpent Rod: unknown
 Serpentarius: unknown
-Serpentwyne Must: unknown
+Serpentwyne Must: useful
 Serum: unknown
 Shades of Black: unknown
 Shadestone: unknown
-Shear: unknown
+Shear: useful
 Shell: unknown
 Shell Shield: unknown
-Shelled Trophy: unknown
+Shelled Trophy: progression
 Shellga: unknown
 Shemhazai: useful
 Shepherd's Bolero: unknown
@@ -804,7 +804,7 @@ Treaty-Blade: progression
 Trident: unknown
 Tube Fuse: progression
 Tula: unknown
-Tumulus: unknown
+Tumulus: useful
 Turtle Shell: unknown
 Turtleshell Choker: unknown
 Tyrant Bone: filler
