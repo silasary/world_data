@@ -54,7 +54,7 @@ Iron Jungle Soldier: progression
 Iron Jungle Egg Balloon: unknown
 Space Gadget Defense Unit: unknown
 Lost Impact Artificial Chaos: progression
-Gun Fortress Computer: unknown
+Gun Fortress Computer: progression
 Black Comet Soldier: progression
 Lava Shelter Defense: unknown
 Final Haunt Shield: unknown
@@ -67,13 +67,13 @@ Gauge:Hero-1000: filler
 Gauge:Hero-2000: filler
 Gauge:Hero-5000: filler
 Gauge:Hero-10000: filler
-Gauge:Hero-15000: unknown
+Gauge:Hero-15000: filler
 Gauge:Hero-20000: unknown
 Gauge:Hero-30000: filler
 Gauge:Dark-1: unknown
 Gauge:Dark-5: unknown
 Gauge:Dark-100: filler
-Gauge:Dark-500: unknown
+Gauge:Dark-500: filler
 Gauge:Dark-1000: filler
 Gauge:Dark-2000: unknown
 Gauge:Dark-5000: filler
