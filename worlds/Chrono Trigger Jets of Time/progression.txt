@@ -30,7 +30,7 @@ Auto Gun: unknown
 PicoMagnum: unknown
 Plasma Gun: unknown
 Ruby Gun: unknown
-Dream Gun: unknown
+Dream Gun: filler
 Megablast: unknown
 Shock Wave: unknown
 WonderShot: useful
@@ -70,13 +70,13 @@ Swallow: unknown
 Slasher 2: unknown
 Rainbow: unknown
 Hide Tunic: unknown
-Karate Gi: unknown
+Karate Gi: filler
 BronzeMail: unknown
 MaidenSuit: unknown
 Iron Suit: unknown
 Titan Vest: unknown
 Gold Suit: unknown
-Ruby Vest: unknown
+Ruby Vest: filler
 Dark Mail: unknown
 Mist Robe: unknown
 Meso Mail: unknown
@@ -87,7 +87,7 @@ Aeon Suit: unknown
 ZodiacCape: unknown
 Nova Armor: unknown
 PrismDress: unknown
-Moon Armor: unknown
+Moon Armor: filler
 Ruby Armor: filler
 RavenArmor: unknown
 Gloom Cape: unknown
@@ -118,7 +118,7 @@ Gloom Helm: unknown
 Safe Helm: unknown
 Taban Helm: filler
 Sight Cap: unknown
-Memory Cap: unknown
+Memory Cap: filler
 Time Hat: unknown
 Vigil Hat: unknown
 OzziePants: unknown
@@ -173,7 +173,7 @@ Full Ether: unknown
 Elixir: unknown
 HyperEther: unknown
 MegaElixir: unknown
-Heal: unknown
+Heal: filler
 Revive: unknown
 Shelter: unknown
 Power Meal: filler
