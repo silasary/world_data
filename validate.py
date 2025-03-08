@@ -24,3 +24,8 @@ for world in os.listdir(world_folder):
 unknowns_by_count = sorted(unknowns_by_world.items(), key=lambda x: x[1], reverse=True)
 for world, count in unknowns_by_count:
     print(f"{world}: {count} unknowns")
+
+print('\n')
+print(f"Total unknowns: {sum(unknowns_by_world.values())}")
+print(f"Total worlds with unknowns: {len(unknowns_by_world)}")
+print(f"Total worlds: {len(os.listdir(world_folder))}")
