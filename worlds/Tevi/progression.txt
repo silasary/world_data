@@ -166,11 +166,11 @@ C. Count Frenzy: Acrobatics: unknown
 Muscle Memory: unknown
 Spanner Bash: Wrecker: unknown
 C. Rank Frenzy: Starter: unknown
-Supercluster Bomb: unknown
+Supercluster Bomb: filler
 Dogfight: unknown
 Dodge Enhancer: Slide: unknown
 Lucky 7: B: unknown
-Buns of Steel: unknown
+Buns of Steel: filler
 Style Combo: Upper A: unknown
 MP Surge: Recovery: unknown
 Core Expansion: Extend: unknown
@@ -225,7 +225,7 @@ Cross Bomb: unknown
 Weak Dominance A: unknown
 Celia Type-C: Panoptic: unknown
 Quickstab: Sunder: unknown
-Core Module Type-U: unknown
+Core Module Type-U: useful
 Upper Slash: Shatter: unknown
 Dual Combo: Rush: unknown
 Dodge: Feeling Lucky: unknown
@@ -236,7 +236,7 @@ EP Booster: Synthesizer: unknown
 BB Rabbit: unknown
 Quick Break: unknown
 Windmill Strike: unknown
-Combo Crasher: unknown
+Combo Crasher: filler
 Air Combo: Focus: unknown
 Dodge Enhancer: Spanner: unknown
 Inhale Dessert: unknown
@@ -251,7 +251,7 @@ Terrestrial Agility: unknown
 Tornado Spin: Grav Reversal: unknown
 Rewind Donut: unknown
 Sable Type-B: Backlash: unknown
-Crystal Mirror: unknown
+Crystal Mirror: filler
 Terrestrial Momentum: unknown
 Crystal Healing: unknown
 Spiral Slash: Flurry: unknown
@@ -262,8 +262,8 @@ Low Defence Bomber: unknown
 C. Rank Frenzy: Focus S: unknown
 Hydrodynamo: unknown
 Dodge Recovery: unknown
-Crouching Bunny: unknown
-Soul Burst Module: unknown
+Crouching Bunny: filler
+Soul Burst Module: useful
 C. Count Frenzy: Uprise: unknown
 Core Expansion: Vitalize: unknown
 Style Combo: Backbomb S: unknown
@@ -291,7 +291,9 @@ Rabi Boots: unknown
 Debuff Counter: unknown
 Battlecry: unknown
 Dodge Enhancer: Upper: unknown
-Cursed 6: unknown
+Cursed 6: filler
 Slayer: unknown
 Red Module Type-B: unknown
 MP Surge: Dodge: unknown
+Electric Wind: filler
+Swift Shots: filler
