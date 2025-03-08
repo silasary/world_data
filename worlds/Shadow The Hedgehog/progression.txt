@@ -28,7 +28,7 @@ Stage:Black Comet: unknown
 Stage:Lava Shelter: progression
 Stage:Cosmic Fall: unknown
 Stage:Final Haunt: unknown
-Westopolis Soldier: unknown
+Westopolis Soldier: progression
 Westopolis Alien: progression
 Glyphic Canyon Alien: progression
 Glyphic Canyon Temple: progression
@@ -69,7 +69,7 @@ Gauge:Hero-5000: filler
 Gauge:Hero-10000: filler
 Gauge:Hero-15000: unknown
 Gauge:Hero-20000: unknown
-Gauge:Hero-30000: unknown
+Gauge:Hero-30000: filler
 Gauge:Dark-1: unknown
 Gauge:Dark-5: unknown
 Gauge:Dark-100: filler
@@ -77,7 +77,7 @@ Gauge:Dark-500: unknown
 Gauge:Dark-1000: filler
 Gauge:Dark-2000: unknown
 Gauge:Dark-5000: filler
-Gauge:Dark-10000: unknown
+Gauge:Dark-10000: filler
 Gauge:Dark-15000: unknown
 Gauge:Dark-20000: unknown
 Gauge:Dark-30000: unknown
