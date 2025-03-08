@@ -19,7 +19,7 @@ Almond Milk: unknown
 Analog Stick: unknown
 Anarchist Cookbook: unknown
 Anemic: unknown
-Angel Deal Item: unknown
+Angel Deal Item: useful
 Angelic Prism: unknown
 Angry Fly: unknown
 Anima Sola: unknown
@@ -543,7 +543,7 @@ Pjs: unknown
 Placebo: unknown
 Placenta: unknown
 Plan C: unknown
-Planetarium Item: unknown
+Planetarium Item: useful
 Playdough Cookie: unknown
 Plum Flute: unknown
 Pluto: unknown
@@ -572,14 +572,14 @@ Quints: unknown
 R Key: unknown
 Rainbow Baby: unknown
 Random Bomb: unknown
-Random Card: unknown
+Random Card: filler
 Random Chest: filler
 Random Coin: unknown
 Random Heart: unknown
 Random Key: unknown
 Random Pickup: unknown
 Random Pill: unknown
-Random Trinket: unknown
+Random Trinket: filler
 Raw Liver: unknown
 Razor Blade: unknown
 Recall: unknown
