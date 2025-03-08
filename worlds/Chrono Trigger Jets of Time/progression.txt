@@ -6,7 +6,7 @@ Red Katana: useful
 Flint Edge: unknown
 Dark Saber: unknown
 Aeon Blade: unknown
-Demon Edge: unknown
+Demon Edge: filler
 AlloyBlade: unknown
 Star Sword: unknown
 VedicBlade: unknown
@@ -15,7 +15,7 @@ Shiva Edge: unknown
 Bolt Sword: useful
 Slasher: unknown
 Bronze Bow: unknown
-Iron Bow: unknown
+Iron Bow: filler
 Lode Bow: unknown
 Robin Bow: unknown
 Sage Bow: unknown
@@ -43,7 +43,7 @@ DoomFinger: unknown
 Magma Hand: unknown
 MegatonArm: unknown
 Big Hand: useful
-Kaiser Arm: unknown
+Kaiser Arm: filler
 Giga Arm: unknown
 Terra Arm: unknown
 Crisis Arm: unknown
@@ -53,7 +53,7 @@ Masamune: unknown
 FlashBlade: useful
 Pearl Edge: unknown
 Rune Blade: unknown
-BraveSword: unknown
+BraveSword: filler
 Grand Leon: unknown
 Demon Hit: unknown
 Fist: unknown
@@ -88,7 +88,7 @@ ZodiacCape: unknown
 Nova Armor: unknown
 PrismDress: unknown
 Moon Armor: unknown
-Ruby Armor: unknown
+Ruby Armor: filler
 RavenArmor: unknown
 Gloom Cape: unknown
 White Mail: unknown
@@ -132,9 +132,9 @@ Defender: unknown
 MagicScarf: filler
 Amulet: unknown
 Dash Ring: unknown
-Hit Ring: unknown
+Hit Ring: filler
 Power Ring: unknown
-Magic Ring: unknown
+Magic Ring: filler
 Wall Ring: unknown
 SilverErng: unknown
 Gold Erng: unknown
@@ -146,7 +146,7 @@ Rage Band: unknown
 FrenzyBand: unknown
 Third Eye: unknown
 Wallet: unknown
-GreenDream: unknown
+GreenDream: filler
 Berserker: unknown
 PowerScarf: unknown
 Speed Belt: unknown
@@ -168,7 +168,7 @@ Tonic: unknown
 Mid Tonic: filler
 Full Tonic: filler
 Ether: unknown
-Mid Ether: unknown
+Mid Ether: filler
 Full Ether: unknown
 Elixir: unknown
 HyperEther: unknown
@@ -176,7 +176,7 @@ MegaElixir: unknown
 Heal: unknown
 Revive: unknown
 Shelter: unknown
-Power Meal: unknown
+Power Meal: filler
 Lapis: unknown
 Barrier: filler
 Shield: filler
@@ -192,14 +192,14 @@ Bike Key: unknown
 Pendant: unknown
 Gate Key: progression
 PrismShard: progression
-C. Trigger: unknown
+C. Trigger: progression
 Tools: unknown
 Jerky: unknown
 Dreamstone: unknown
 Race Log: unknown
 Moon Stone: unknown
 Sun Stone: unknown
-Ruby Knife: unknown
+Ruby Knife: progression
 Yakra Key: unknown
 Clone: unknown
 Toma's Pop: unknown
