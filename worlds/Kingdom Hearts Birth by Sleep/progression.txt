@@ -169,7 +169,7 @@ Wingblade: unknown
 Frozen Fortune: unknown
 Treasure Magnet: filler
 HP Prize Plus: unknown
-Link Prize Plus: unknown
+Link Prize Plus: filler
 Lucky Strike: unknown
 HP Boost: unknown
 Fire Boost: unknown
@@ -178,7 +178,7 @@ Thunder Boost: useful
 Cure Boost: unknown
 Item Boost: filler
 Attack Haste: useful
-Magic Haste: unknown
+Magic Haste: useful
 Combo F Boost: filler
 Finish Boost: unknown
 Combo Plus: unknown
@@ -190,7 +190,7 @@ Dark Screen: unknown
 Reload Boost: unknown
 Defender: unknown
 EXP Chance: unknown
-EXP Walker: unknown
+EXP Walker: useful
 Damage Syphon: unknown
 Second Chance: unknown
 Once More: unknown
@@ -246,7 +246,7 @@ Wayfinder Terra: unknown
 Dwarf Woodlands: unknown
 Castle of Dreams: unknown
 Enchanted Dominion: unknown
-The Mysterious Tower: unknown
+The Mysterious Tower: progression
 Radiant Garden: unknown
 Mirage Arena: unknown
 Olympus Coliseum: unknown
