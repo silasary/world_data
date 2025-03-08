@@ -29,7 +29,7 @@ Compass (Ancient Ruins): useful
 Compass (Dancing Dragon Dungeon): useful
 Compass (Explorer's Crypt): useful
 Compass (Gnarled Root Dungeon): useful
-Compass (Hero's Cave): unknown
+Compass (Hero's Cave): bad_name
 Compass (Poison Moth's Lair): useful
 Compass (Snake's Remains): useful
 Compass (Sword & Shield Dungeon): useful
@@ -44,7 +44,7 @@ Dungeon Map (Ancient Ruins): useful
 Dungeon Map (Dancing Dragon Dungeon): useful
 Dungeon Map (Explorer's Crypt): useful
 Dungeon Map (Gnarled Root Dungeon): useful
-Dungeon Map (Hero's Cave): unknown
+Dungeon Map (Hero's Cave): bad_name
 Dungeon Map (Poison Moth's Lair): useful
 Dungeon Map (Snake's Remains): useful
 Dungeon Map (Sword & Shield Dungeon): useful
@@ -179,7 +179,7 @@ Steadfast Ring: useful
 Subrosian Ring: filler
 Swimmer's Ring: progression
 Toss Ring: useful
-Treasure Map: unknown
+Treasure Map: bad_name
 Victory Ring: filler
 Whimsical Ring: useful
 Whisp Ring: useful
