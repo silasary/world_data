@@ -3,7 +3,7 @@ Abandoned Deck: progression
 Abandoned Deck Black Stake: progression
 Abandoned Deck Blue Stake: unknown
 Abandoned Deck Gold Stake: progression
-Abandoned Deck Green Stake: unknown
+Abandoned Deck Green Stake: progression
 Abandoned Deck Orange Stake: unknown
 Abandoned Deck Purple Stake: progression
 Abandoned Deck Red Stake: progression
@@ -18,7 +18,7 @@ Anaglyph Deck Green Stake: unknown
 Anaglyph Deck Orange Stake: unknown
 Anaglyph Deck Purple Stake: unknown
 Anaglyph Deck Red Stake: progression
-Anaglyph Deck White Stake: unknown
+Anaglyph Deck White Stake: progression
 Ancient Joker: progression
 Ankh: useful
 Arcana Pack: progression
@@ -39,7 +39,7 @@ Black Deck Gold Stake: unknown
 Black Deck Green Stake: unknown
 Black Deck Orange Stake: unknown
 Black Deck Purple Stake: progression
-Black Deck Red Stake: unknown
+Black Deck Red Stake: progression
 Black Deck White Stake: unknown
 Black Hole: progression
 Black Stake: filler
@@ -52,7 +52,7 @@ Blue Deck Black Stake: progression
 Blue Deck Blue Stake: unknown
 Blue Deck Gold Stake: unknown
 Blue Deck Green Stake: progression
-Blue Deck Orange Stake: unknown
+Blue Deck Orange Stake: progression
 Blue Deck Purple Stake: progression
 Blue Deck Red Stake: unknown
 Blue Deck White Stake: unknown
@@ -95,7 +95,7 @@ Ceres: progression
 Certificate: progression
 Chaos the Clown: progression
 Checkered Deck: progression
-Checkered Deck Black Stake: unknown
+Checkered Deck Black Stake: progression
 Checkered Deck Blue Stake: progression
 Checkered Deck Gold Stake: progression
 Checkered Deck Green Stake: progression
@@ -136,7 +136,7 @@ Erosion: progression
 Erratic Deck: progression
 Erratic Deck Black Stake: progression
 Erratic Deck Blue Stake: progression
-Erratic Deck Gold Stake: unknown
+Erratic Deck Gold Stake: progression
 Erratic Deck Green Stake: progression
 Erratic Deck Orange Stake: unknown
 Erratic Deck Purple Stake: progression
@@ -157,9 +157,9 @@ Ghost Deck: progression
 Ghost Deck Black Stake: unknown
 Ghost Deck Blue Stake: unknown
 Ghost Deck Gold Stake: unknown
-Ghost Deck Green Stake: unknown
+Ghost Deck Green Stake: progression
 Ghost Deck Orange Stake: unknown
-Ghost Deck Purple Stake: unknown
+Ghost Deck Purple Stake: progression
 Ghost Deck Red Stake: unknown
 Ghost Deck White Stake: progression
 Gift Card: progression
@@ -175,8 +175,8 @@ Green Deck: progression
 Green Deck Black Stake: progression
 Green Deck Blue Stake: unknown
 Green Deck Gold Stake: unknown
-Green Deck Green Stake: unknown
-Green Deck Orange Stake: unknown
+Green Deck Green Stake: progression
+Green Deck Orange Stake: progression
 Green Deck Purple Stake: progression
 Green Deck Red Stake: progression
 Green Deck White Stake: unknown
@@ -254,7 +254,7 @@ Magic Deck Black Stake: progression
 Magic Deck Blue Stake: progression
 Magic Deck Gold Stake: unknown
 Magic Deck Green Stake: unknown
-Magic Deck Orange Stake: unknown
+Magic Deck Orange Stake: progression
 Magic Deck Purple Stake: progression
 Magic Deck Red Stake: unknown
 Magic Deck White Stake: progression
@@ -282,11 +282,11 @@ Nebula Deck Black Stake: unknown
 Nebula Deck Blue Stake: unknown
 Nebula Deck Gold Stake: unknown
 Nebula Deck Green Stake: progression
-Nebula Deck Orange Stake: unknown
+Nebula Deck Orange Stake: progression
 Nebula Deck Purple Stake: progression
 Nebula Deck Red Stake: unknown
 Nebula Deck White Stake: unknown
-Neptune: unknown
+Neptune: useful
 Obelisk: progression
 Odd Todd: progression
 Onyx Agate: progression
@@ -301,7 +301,7 @@ Painted Deck: progression
 Painted Deck Black Stake: unknown
 Painted Deck Blue Stake: progression
 Painted Deck Gold Stake: unknown
-Painted Deck Green Stake: unknown
+Painted Deck Green Stake: progression
 Painted Deck Orange Stake: unknown
 Painted Deck Purple Stake: progression
 Painted Deck Red Stake: progression
@@ -323,7 +323,7 @@ Plasma Deck: progression
 Plasma Deck Black Stake: unknown
 Plasma Deck Blue Stake: progression
 Plasma Deck Gold Stake: progression
-Plasma Deck Green Stake: unknown
+Plasma Deck Green Stake: progression
 Plasma Deck Orange Stake: unknown
 Plasma Deck Purple Stake: unknown
 Plasma Deck Red Stake: progression
@@ -335,7 +335,7 @@ Raised Fist: progression
 Ramen: progression
 Red Card: progression
 Red Deck: progression
-Red Deck Black Stake: unknown
+Red Deck Black Stake: progression
 Red Deck Blue Stake: unknown
 Red Deck Gold Stake: unknown
 Red Deck Green Stake: progression
@@ -425,7 +425,7 @@ The Tower: useful
 The Tribe: progression
 The Trio: progression
 The Wheel of Fortune: useful
-The World: unknown
+The World: useful
 Throwback: progression
 To Do List: progression
 To the Moon: progression
@@ -459,7 +459,7 @@ Yorick: progression
 Zany Joker: progression
 Zodiac Deck: progression
 Zodiac Deck Black Stake: unknown
-Zodiac Deck Blue Stake: unknown
+Zodiac Deck Blue Stake: progression
 Zodiac Deck Gold Stake: unknown
 Zodiac Deck Green Stake: progression
 Zodiac Deck Orange Stake: unknown
