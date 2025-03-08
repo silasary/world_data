@@ -25,7 +25,7 @@ HealthRefill: unknown
 Ice Beam: unknown
 Ice Spreader: unknown
 Missile Expansion: filler
-Missile Launcher: unknown
+Missile Launcher: progression
 Morph Ball: progression
 Morph Ball Bomb: progression
 Phazon Suit: progression
@@ -40,7 +40,7 @@ Progressive Power Beam: progression
 Progressive Wave Beam: progression
 Scan Visor: progression
 Space Jump Boots: progression
-Spider Ball: unknown
+Spider Ball: progression
 Super Missile: progression
 Thermal Visor: unknown
 UnknownItem1: unknown
