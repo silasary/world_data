@@ -15,7 +15,7 @@ Horseback Riding: filler
 Iron Working: progression
 Shipbuilding: useful
 Mathematics: unknown
-Construction: unknown
+Construction: filler
 Engineering: useful
 Military Tactics: filler
 Apprenticeship: unknown
@@ -30,7 +30,7 @@ Banking: unknown
 Gunpowder: filler
 Printing: progression
 Square Rigging: progression
-Astronomy: unknown
+Astronomy: filler
 Metal Casting: filler
 Siege Tactics: filler
 Industrialization: unknown
@@ -126,7 +126,7 @@ Space Race: filler
 Globalization: progression
 Social Media: unknown
 Future Civic: unknown
-Environmentalism: unknown
+Environmentalism: filler
 Corporate Libertarianism: useful
 Digital Democracy: useful
 Synthetic Technocracy: useful
@@ -134,7 +134,7 @@ Near Future Governance: filler
 Global Warming Mitigation: filler
 Smart Power Doctrine: progression
 Information Warfare: unknown
-Exodus Imperative: unknown
+Exodus Imperative: filler
 Cultural Hegemony: useful
 Progressive Campus: progression
 Progressive Theater: progression
