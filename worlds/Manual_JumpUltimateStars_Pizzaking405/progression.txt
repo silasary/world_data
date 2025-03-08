@@ -1,7 +1,7 @@
 Planet Unlock; Muhyo and Roji's Bureau: unknown
 Planet Unlock; Devil Gray-Man: unknown
 Planet Unlock; Majin Tantei Nougami Neuro: unknown
-Planet Unlock; Saint Seiya: unknown
+Planet Unlock; Saint Seiya: progression
 Planet Unlock; Dragon Ball: unknown
 Planet Unlock; Rokudenashi Blues: unknown
 Planet Unlock; Houshin Engi: unknown
@@ -23,7 +23,7 @@ Planet Unlock; Bobo-bo Bo-bobo: unknown
 Planet Unlock; Home Tutor Hitman REBORN: progression
 Planet Unlock; Jungle King Ta-Chan: unknown
 Planet Unlock; Sakigake!! Otokojuku: unknown
-Planet Unlock; Fist Of The North Star: unknown
+Planet Unlock; Fist Of The North Star: progression
 Planet Unlock; Midori no Makibao: unknown
 Planet Unlock; Jigoku Sensei Nube: progression
 Planet Unlock; J-Galaxy Boss: unknown
@@ -579,7 +579,7 @@ Battle Koma; Yusuke-6 (Yu Yu Hakusho): unknown
 Battle Koma; Kurama-4 (Yu Yu Hakusho): unknown
 Battle Koma; Hiei-4 (Yu Yu Hakusho): unknown
 Battle Koma; Hiei-5 (Yu Yu Hakusho): unknown
-Battle Koma; Kenshin-4 (Rurouni Kenshin): unknown
+Battle Koma; Kenshin-4 (Rurouni Kenshin): useful
 Battle Koma; Kenshin-5 (Rurouni Kenshin): unknown
 Battle Koma; Kenshin-6-Power (Rurouni Kenshin): unknown
 Battle Koma; Kenshin-6-Knowledge (Rurouni Kenshin): unknown
@@ -590,7 +590,7 @@ Battle Koma; Luffy-6-Laughter (One Piece): unknown
 Battle Koma; Luffy-7 (One Piece): unknown
 Battle Koma; Luffy-8 (One Piece): unknown
 Battle Koma; Zoro-4 (One Piece): unknown
-Battle Koma; Zoro-5-Power (One Piece): unknown
+Battle Koma; Zoro-5-Power (One Piece): useful
 Battle Koma; Zoro-5-Laughter (One Piece): unknown
 Battle Koma; Zoro-6 (One Piece): unknown
 Battle Koma; Nami-4-Knowledge (One Piece): unknown
@@ -610,7 +610,7 @@ Battle Koma; Franky-5-Power (One Piece): unknown
 Max Deck Size +1: progression
 Help Komas; Triple Jump: unknown
 Help Komas; Wall Jump: useful
-Help Komas; Air Dash: unknown
+Help Komas; Air Dash: useful
 Help Komas; No Confusion: unknown
 Help Komas; No Posion: unknown
 Help Komas; No Freeze: useful
@@ -628,7 +628,7 @@ Help Komas; Physical Defense+: unknown
 Help Komas; Special Defense+: unknown
 Help Komas; Blades Defense+: unknown
 Help Komas; Auto-Guard: unknown
-Help Komas; Hold On: unknown
+Help Komas; Hold On: useful
 Help Komas; Guard+: unknown
 Help Komas; Self-Healing: unknown
 Help Komas; J-Soul+: unknown
