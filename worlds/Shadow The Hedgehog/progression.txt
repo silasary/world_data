@@ -75,7 +75,7 @@ Gauge:Dark-5: unknown
 Gauge:Dark-100: filler
 Gauge:Dark-500: filler
 Gauge:Dark-1000: filler
-Gauge:Dark-2000: unknown
+Gauge:Dark-2000: filler
 Gauge:Dark-5000: filler
 Gauge:Dark-10000: filler
 Gauge:Dark-15000: unknown
