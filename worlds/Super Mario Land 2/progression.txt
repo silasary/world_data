@@ -39,7 +39,7 @@ Easy Mode: unknown
 Normal Mode: unknown
 Auto Scroll: unknown
 Auto Scroll - Mushroom Zone: unknown
-Auto Scroll - Scenic Course: unknown
+Auto Scroll - Scenic Course: trap
 Auto Scroll - Tree Zone 1: unknown
 Auto Scroll - Tree Zone 2: unknown
 Auto Scroll - Tree Zone 3: unknown
@@ -105,7 +105,7 @@ Cancel Auto Scroll - Turtle Zone Secret Course: unknown
 Cancel Auto Scroll - Mario's Castle: unknown
 Mushroom Zone Midway Bell: progression
 Tree Zone 1 Midway Bell: filler
-Tree Zone 2 Midway Bell: unknown
+Tree Zone 2 Midway Bell: progression
 Tree Zone 4 Midway Bell: progression
 Tree Zone 5 Midway Bell: filler
 Space Zone 1 Midway Bell: filler
@@ -156,7 +156,7 @@ Mario's Castle Midway Bell: unknown
 28 Coins: unknown
 29 Coins: filler
 30 Coins: unknown
-31 Coins: unknown
+31 Coins: filler
 32 Coins: unknown
 33 Coins: unknown
 34 Coins: unknown
