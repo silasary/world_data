@@ -34,7 +34,7 @@ Dream Gun: filler
 Megablast: unknown
 Shock Wave: unknown
 WonderShot: useful
-Graedus: unknown
+Graedus: filler
 Tin Arm: unknown
 Hammer Arm: unknown
 MirageHand: unknown
@@ -93,7 +93,7 @@ RavenArmor: unknown
 Gloom Cape: unknown
 White Mail: unknown
 Black Mail: unknown
-Blue Mail: unknown
+Blue Mail: filler
 Red Mail: unknown
 White Vest: useful
 Black Vest: useful
@@ -158,7 +158,7 @@ Gold Rock: unknown
 Hero Medal: unknown
 MuscleRing: unknown
 Flea Vest: unknown
-Magic Seal: unknown
+Magic Seal: filler
 Power Seal: unknown
 Robo's Rbn: unknown
 SeraphSong: unknown
@@ -170,7 +170,7 @@ Full Tonic: filler
 Ether: unknown
 Mid Ether: filler
 Full Ether: unknown
-Elixir: unknown
+Elixir: filler
 HyperEther: unknown
 MegaElixir: unknown
 Heal: filler
@@ -181,8 +181,8 @@ Lapis: filler
 Barrier: filler
 Shield: filler
 Power Tab: unknown
-Magic Tab: unknown
-Speed Tab: unknown
+Magic Tab: filler
+Speed Tab: filler
 Petal: unknown
 Fang: unknown
 Horn: unknown
