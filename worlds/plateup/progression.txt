@@ -1,6 +1,6 @@
 EVERYTHING IS ON FIRE: trap
 Dish Rack: useful
-Combiner: filler
+Combiner: useful
 Extra Life: progression
 Random Customer Card: trap
 Specials Menu: filler
@@ -9,9 +9,9 @@ Speed Upgrade Player: progression
 Power Sink: useful
 Oven: progression
 Mop: filler
-Danger Hob: unknown
+Danger Hob: progression
 Composter Bin: useful
-Work Boots: unknown
+Work Boots: filler
 Starter Bin: filler
 Wash Basin: progression
 Super Slow: trap
@@ -19,65 +19,65 @@ Starting Hob: filler
 Freezer: useful
 Flower Pot: useful
 Dishwasher: progression
-Candle Box: unknown
-Dining Table: unknown
-Leftover Bags: unknown
-Smart Grabber: unknown
-Sharp Cutlery: unknown
-Trainers: unknown
-Discount Desk: unknown
-Breadsticks: unknown
-Fancy Cloth Table: unknown
-Lasting Mop: unknown
-Rolling Pin: unknown
-Safe Hob: unknown
-Frozen Prep Station: unknown
-Fire Extinguisher: unknown
-Floor Buffer: unknown
-Gas Override: unknown
-Conveyor Mixer: unknown
-Blueprint Cabinet: unknown
-Research Desk: unknown
-Rapid Mixer: unknown
-Cheap Metal Table: unknown
+Candle Box: filler
+Dining Table: useful
+Leftover Bags: useful
+Smart Grabber: progression
+Sharp Cutlery: useful
+Trainers: useful
+Discount Desk: filler
+Breadsticks: filler
+Fancy Cloth Table: useful
+Lasting Mop: useful
+Rolling Pin: useful
+Safe Hob: useful
+Frozen Prep Station: useful
+Fire Extinguisher: filler
+Floor Buffer: useful
+Gas Override: useful
+Conveyor Mixer: useful
+Blueprint Cabinet: filler
+Research Desk: progression
+Rapid Mixer: useful
+Cheap Metal Table: filler
 Starter Plates: filler
-Clipboard Stand: unknown
-Robot Buffer: unknown
-Bin: unknown
-Fast Mop: unknown
-Specials Terminal: unknown
-Hosting Stand: unknown
-Counter: unknown
-Blueprint Desk: unknown
-Conveyor: unknown
-Grabber: unknown
-Dumbwaiter: unknown
-Plates: unknown
-Coffee Table: unknown
-Kitchen Floor Protector: unknown
-Prep Station: unknown
-Ordering Terminal: unknown
-Copying Desk: unknown
-Basic Cloth Table: unknown
-Workstation: unknown
-Napkins: unknown
-Booking Desk: unknown
-Gas Limiter: unknown
-Sink: unknown
-Robot Mop: unknown
-Grabber Rotating: unknown
-Teleporter: unknown
-Expanded Bin: unknown
-Hob: unknown
-Compactor Bin: unknown
-Microwave: unknown
-Heated Mixer: unknown
-Supplies: unknown
-Display Stand: unknown
-Auto Plater: unknown
-Starting Sink: unknown
-Mixer: unknown
-Soaking Sink: unknown
-Bar Table: unknown
-Portioner: unknown
-Scrubbing Brush: unknown
+Clipboard Stand: filler
+Robot Buffer: useful
+Bin: filler
+Fast Mop: useful
+Specials Terminal: filler
+Hosting Stand: filler
+Counter: useful
+Blueprint Desk: useful
+Conveyor: useful
+Grabber: progression
+Dumbwaiter: filler
+Plates: useful
+Coffee Table: useful
+Kitchen Floor Protector: filler
+Prep Station: useful
+Ordering Terminal: filler
+Copying Desk: useful
+Basic Cloth Table: useful
+Workstation: useful
+Napkins: filler
+Booking Desk: filler
+Gas Limiter: useful
+Sink: useful
+Robot Mop: useful
+Grabber Rotating: progression
+Teleporter: useful
+Expanded Bin: useful
+Hob: useful
+Compactor Bin: useful
+Microwave: useful
+Heated Mixer: useful
+Supplies: useful
+Display Stand: filler
+Auto Plater: useful
+Starting Sink: filler
+Mixer: useful
+Soaking Sink: useful
+Bar Table: useful
+Portioner: useful
+Scrubbing Brush: useful
