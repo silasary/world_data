@@ -113,8 +113,8 @@ Zol Attack: trap
 Master Stalfos' Message: filler
 Gel: trap
 Nightmare Key: progression
-Stone Beak: filler
-Bad Heart Container: trap
-Key: progression
-Compass: filler
-Map: filler
+Stone Beak: bad_name
+Bad Heart Container: bad_name
+Key: bad_name
+Compass: bad_name
+Map: bad_name

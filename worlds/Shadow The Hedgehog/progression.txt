@@ -12,7 +12,7 @@ Stage:Glyphic Canyon: progression
 Stage:Lethal Highway: unknown
 Stage:Cryptic Castle: unknown
 Stage:Prison Island: unknown
-Stage:Circus Park: unknown
+Stage:Circus Park: progression
 Stage:Central City: unknown
 Stage:The Doom: unknown
 Stage:Sky Troops: unknown
@@ -23,13 +23,13 @@ Stage:Air Fleet: unknown
 Stage:Iron Jungle: progression
 Stage:Space Gadget: unknown
 Stage:Lost Impact: unknown
-Stage:Gun Fortress: unknown
+Stage:Gun Fortress: progression
 Stage:Black Comet: unknown
 Stage:Lava Shelter: progression
 Stage:Cosmic Fall: unknown
 Stage:Final Haunt: unknown
-Westopolis Soldier: unknown
-Westopolis Alien: unknown
+Westopolis Soldier: progression
+Westopolis Alien: progression
 Glyphic Canyon Alien: progression
 Glyphic Canyon Temple: progression
 Lethal Highway Tank: unknown
@@ -54,7 +54,7 @@ Iron Jungle Soldier: progression
 Iron Jungle Egg Balloon: unknown
 Space Gadget Defense Unit: unknown
 Lost Impact Artificial Chaos: progression
-Gun Fortress Computer: unknown
+Gun Fortress Computer: progression
 Black Comet Soldier: progression
 Lava Shelter Defense: unknown
 Final Haunt Shield: unknown
@@ -67,17 +67,17 @@ Gauge:Hero-1000: filler
 Gauge:Hero-2000: filler
 Gauge:Hero-5000: filler
 Gauge:Hero-10000: filler
-Gauge:Hero-15000: unknown
+Gauge:Hero-15000: filler
 Gauge:Hero-20000: unknown
-Gauge:Hero-30000: unknown
+Gauge:Hero-30000: filler
 Gauge:Dark-1: unknown
 Gauge:Dark-5: unknown
 Gauge:Dark-100: filler
-Gauge:Dark-500: unknown
+Gauge:Dark-500: filler
 Gauge:Dark-1000: filler
-Gauge:Dark-2000: unknown
+Gauge:Dark-2000: filler
 Gauge:Dark-5000: filler
-Gauge:Dark-10000: unknown
+Gauge:Dark-10000: filler
 Gauge:Dark-15000: unknown
 Gauge:Dark-20000: unknown
 Gauge:Dark-30000: unknown
@@ -85,7 +85,7 @@ Gauge:Dark-30000: unknown
 2 Rings: filler
 5 Rings: filler
 10 Rings: unknown
-20 Rings: unknown
+20 Rings: filler
 Hero Token: unknown
 Dark Token: unknown
 Mission Token: mcguffin
@@ -125,7 +125,7 @@ Weapon:Speed Limit Sign: unknown
 Weapon:Digital Pole: unknown
 Weapon:Canyon Pole: unknown
 Weapon:Lethal Pole: unknown
-Weapon:Cryptic Torch: unknown
+Weapon:Cryptic Torch: progression
 Weapon:Prison Branch: unknown
 Weapon:Circus Pole: unknown
 Weapon:Stop Sign: unknown

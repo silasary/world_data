@@ -3,10 +3,10 @@ Artifact of Elder: unknown
 Artifact of Lifegiver: progression
 Artifact of Nature: progression
 Artifact of Newborn: progression
-Artifact of Spirit: unknown
+Artifact of Spirit: mcguffin
 Artifact of Strength: unknown
 Artifact of Sun: progression
-Artifact of Truth: unknown
+Artifact of Truth: mcguffin
 Artifact of Warrior: progression
 Artifact of Wild: progression
 Artifact of World: progression
@@ -25,7 +25,7 @@ HealthRefill: unknown
 Ice Beam: unknown
 Ice Spreader: unknown
 Missile Expansion: filler
-Missile Launcher: unknown
+Missile Launcher: progression
 Morph Ball: progression
 Morph Ball Bomb: progression
 Phazon Suit: progression
@@ -39,9 +39,9 @@ Progressive Plasma Beam: unknown
 Progressive Power Beam: progression
 Progressive Wave Beam: progression
 Scan Visor: progression
-Space Jump Boots: unknown
-Spider Ball: unknown
-Super Missile: unknown
+Space Jump Boots: progression
+Spider Ball: progression
+Super Missile: progression
 Thermal Visor: unknown
 UnknownItem1: unknown
 UnknownItem2: unknown

@@ -19,7 +19,7 @@ Almond Milk: unknown
 Analog Stick: unknown
 Anarchist Cookbook: unknown
 Anemic: unknown
-Angel Deal Item: unknown
+Angel Deal Item: useful
 Angelic Prism: unknown
 Angry Fly: unknown
 Anima Sola: unknown
@@ -299,7 +299,7 @@ Gnawed Leaf: unknown
 Goat Head: unknown
 Godhead: unknown
 Gods Flesh: unknown
-Golden Chest Item: unknown
+Golden Chest Item: useful
 Golden Razor: unknown
 Greed Angel Deal Item: unknown
 Greed Boss Item: unknown
@@ -543,7 +543,7 @@ Pjs: unknown
 Placebo: unknown
 Placenta: unknown
 Plan C: unknown
-Planetarium Item: unknown
+Planetarium Item: useful
 Playdough Cookie: unknown
 Plum Flute: unknown
 Pluto: unknown
@@ -572,14 +572,14 @@ Quints: unknown
 R Key: unknown
 Rainbow Baby: unknown
 Random Bomb: unknown
-Random Card: unknown
-Random Chest: unknown
+Random Card: filler
+Random Chest: filler
 Random Coin: unknown
 Random Heart: unknown
 Random Key: unknown
 Random Pickup: unknown
 Random Pill: unknown
-Random Trinket: unknown
+Random Trinket: filler
 Raw Liver: unknown
 Razor Blade: unknown
 Recall: unknown
@@ -629,7 +629,7 @@ Scissors: unknown
 Scooper: unknown
 Scorpio: unknown
 Screw: unknown
-Secret Room Item: unknown
+Secret Room Item: useful
 Seraphim: unknown
 Serpents Kiss: unknown
 Shade: unknown

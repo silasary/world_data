@@ -44,11 +44,11 @@ Bundle: Fused Modular Frame: unknown
 Bundle: Hard Drive: unknown
 Bundle: Heat Sink: unknown
 Bundle: Heavy Modular Frame: unknown
-Bundle: High-Speed Connector: unknown
+Bundle: High-Speed Connector: filler
 Bundle: Satisfactory Pioneering Statue: unknown
 Bundle: Pretty Good Pioneering Statue: unknown
 Bundle: Iron Ingot: filler
-Bundle: Iron Ore: unknown
+Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
 Bundle: Iron Rod: filler
 Bundle: Golden Nut Statue: unknown
@@ -57,11 +57,11 @@ Bundle: Limestone: unknown
 Bundle: Magnetic Field Generator: unknown
 Bundle: Mercer Sphere: unknown
 Bundle: Modular Engine: unknown
-Bundle: Modular Frame: unknown
+Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
 Bundle: Non-fissile Uranium: unknown
-Bundle: Nuclear Pasta: unknown
+Bundle: Nuclear Pasta: filler
 Bundle: Lizard Doggo Statue: unknown
 Bundle: Organic Data Capsule: unknown
 Bundle: Packaged Alumina Solution: unknown
@@ -72,7 +72,7 @@ Bundle: Packaged Nitric Acid: unknown
 Bundle: Packaged Nitrogen Gas: unknown
 Bundle: Packaged Oil: unknown
 Bundle: Packaged Sulfuric Acid: unknown
-Bundle: Packaged Turbofuel: unknown
+Bundle: Packaged Turbofuel: filler
 Bundle: Packaged Water: unknown
 Bundle: Petroleum Coke: filler
 Bundle: Plastic: unknown
@@ -104,7 +104,7 @@ Bundle: Steel Beam: filler
 Bundle: Steel Ingot: unknown
 Bundle: Steel Pipe: unknown
 Bundle: Sulfur: unknown
-Bundle: Supercomputer: unknown
+Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
 Bundle: Turbo Motor: unknown
@@ -170,7 +170,7 @@ Recipe: Stator: unknown
 Recipe: Quickwire Stator: unknown
 Recipe: Plastic: unknown
 Recipe: Residual Plastic: useful
-Recipe: Recycled Plastic: unknown
+Recipe: Recycled Plastic: progression
 Recipe: Rubber: unknown
 Recipe: Residual Rubber: progression
 Recipe: Recycled Rubber: progression
@@ -217,7 +217,7 @@ Recipe: Coke Steel Ingot: unknown
 Recipe: Compacted Steel Ingot: unknown
 Recipe: Solid Steel Ingot: progression
 Recipe: Copper Ingot: unknown
-Recipe: Copper Alloy Ingot: unknown
+Recipe: Copper Alloy Ingot: progression
 Recipe: Pure Copper Ingot: useful
 Recipe: Caterium Ingot: progression
 Recipe: Pure Caterium Ingot: useful
@@ -233,9 +233,9 @@ Recipe: Heavy Modular Frame: progression
 Recipe: Heavy Flexible Frame: unknown
 Recipe: Heavy Encased Frame: progression
 Recipe: Encased Industrial Beam: unknown
-Recipe: Encased Industrial Pipe: unknown
+Recipe: Encased Industrial Pipe: progression
 Recipe: Computer: progression
-Recipe: Crystal Computer: unknown
+Recipe: Crystal Computer: progression
 Recipe: Caterium Computer: progression
 Recipe: Circuit Board: unknown
 Recipe: Electrode Circuit Board: unknown
@@ -278,7 +278,7 @@ Recipe: Radio Connection Unit: unknown
 Recipe: Radio Control System: progression
 Recipe: Pressure Conversion Cube: unknown
 Recipe: Cooling System: progression
-Recipe: Cooling Device: unknown
+Recipe: Cooling Device: progression
 Recipe: Turbo Motor: unknown
 Recipe: Turbo Electric Motor: unknown
 Recipe: Turbo Pressure Motor: unknown
@@ -300,10 +300,10 @@ Recipe: Plutonium Pellet: progression
 Recipe: Encased Plutonium Cell: progression
 Recipe: Instant Plutonium Cell: unknown
 Recipe: Plutonium Fuel Rod: progression
-Recipe: Plutonium Fuel Unit: unknown
+Recipe: Plutonium Fuel Unit: useful
 Recipe: Gas Filter: unknown
 Recipe: Iodine Infused Filter: unknown
-Recipe: Assembly Director System: unknown
+Recipe: Assembly Director System: progression
 Recipe: Magnetic Field Generator: unknown
 Recipe: Copper Powder: useful
 Recipe: Nuclear Pasta: unknown
@@ -342,7 +342,7 @@ Recipe: Turbo Heavy Fuel: unknown
 Recipe: Turbo Blend Fuel: progression
 Recipe: Hazmat Suit: unknown
 Recipe: Gas Mask: unknown
-Recipe: Black Powder: unknown
+Recipe: Black Powder: progression
 Recipe: Blade Runners: useful
 Recipe: Chainsaw: unknown
 Recipe: Cluster Nobelisk: filler
@@ -360,7 +360,7 @@ Recipe: Parachute: unknown
 Recipe: Protein Inhaler: unknown
 Recipe: Rebar Gun: unknown
 Recipe: Rifle: unknown
-Recipe: Rifle Ammo: unknown
+Recipe: Rifle Ammo: progression
 Recipe: Shatter Rebar: unknown
 Recipe: Stun Rebar: unknown
 Recipe: Therapeutic Inhaler: progression
@@ -368,19 +368,19 @@ Recipe: Turbo Rifle Ammo: unknown
 Recipe: Vitamin Inhaler: unknown
 Recipe: Xeno-Basher: unknown
 Recipe: Xeno-Zapper: unknown
-Recipe: Zipline: unknown
+Recipe: Zipline: useful
 Recipe: Fine Black Powder: unknown
 Recipe: Smokeless Powder: unknown
 Recipe: Alien DNA Capsule: unknown
 Recipe: Power Shard (1): progression
-Recipe: Power Shard (2): unknown
+Recipe: Power Shard (2): useful
 Recipe: Power Shard (5): progression
 Building: Constructor: unknown
 Building: Assembler: unknown
 Building: Manufacturer: progression
 Building: Packager: useful
 Building: Refinery: unknown
-Building: Blender: unknown
+Building: Blender: progression
 Building: Particle Accelerator: useful
 Building: Biomass Burner: unknown
 Building: Coal Generator: unknown
@@ -389,7 +389,7 @@ Building: Nuclear Power Plant: useful
 Building: Miner Mk.1: unknown
 Building: Miner Mk.2: unknown
 Building: Miner Mk.3: unknown
-Building: Oil Extractor: unknown
+Building: Oil Extractor: progression
 Building: Water Extractor: progression
 Building: Smelter: unknown
 Building: Foundry: unknown
@@ -408,7 +408,7 @@ Building: MAM: unknown
 Building: Personal Storage Box: useful
 Building: Power Storage: useful
 Building: U-Jelly Landing Pad: unknown
-Building: Power Switch: unknown
+Building: Power Switch: useful
 Building: Priority Power Switch: unknown
 Building: Storage Container: unknown
 Building: Lookout Tower: useful
@@ -425,7 +425,7 @@ Building: Conveyor Mk.5: unknown
 Building: Conveyor Lift Mk.1: progression
 Building: Conveyor Lift Mk.2: progression
 Building: Conveyor Lift Mk.3: unknown
-Building: Conveyor Lift Mk.4: unknown
+Building: Conveyor Lift Mk.4: useful
 Building: Conveyor Lift Mk.5: unknown
 Building: Metal Beams: unknown
 Building: Stackable Conveyor Pole: unknown
@@ -540,3 +540,25 @@ Spitter Forest Alpha: unknown
 Nuclear Waste (ground): unknown
 Plutonium Waste (ground): unknown
 Building: Space Elevator: unknown
+Trap: Doggo with Pulse Nobelisk: trap
+Recipe: Ficsonium: useful
+Trap: Not the Bees: trap
+Bundle: Packaged Rocket Fuel: filler
+Recipe: Packaged Ionized Fuel: useful
+Bundle: Alien Power Matrix: filler
+Bundle: SAM Fluctuator: unknown
+Recipe: Tempered Caterium Ingot: unknown
+Recipe: Aluminum Beam: unknown
+Recipe: Ficsite Trigon: unknown
+Recipe: Cloudy Diamonds: unknown
+Recipe: Leached Copper Ingot: unknown
+Bundle: Diamonds: unknown
+Recipe: Pink Diamonds: unknown
+Bundle: Biochemical Sculptor: unknown
+Recipe: Ficsite Ingot (Aluminum): unknown
+Recipe: Molded Steel Pipe: unknown
+Dimensional Depot upload from inventory: unknown
+Trap: Alpha Spitter: unknown
+Recipe: Reanimated SAM: unknown
+Recipe: Oil-Based Diamonds: unknown
+Recipe: Dark Matter Trap: unknown

@@ -180,14 +180,14 @@ Pendant of Flour: unknown
 Pendant of Porridge: filler
 Cheese Science Pack: unknown
 Charging Chuck's Helmet: unknown
-Koopa Soup: unknown
+Koopa Soup: filler
 Pea Switch: filler
 Severely Scorched Sword: filler
 Siegward's Jar of Pickled Onions: unknown
 Block of Swiss Carved Like A Die: filler
 Half of a Worm: filler
 Extra-Well-Done Steak: trap
-Your Friendly Neighborhood Tapeworm: unknown
+Your Friendly Neighborhood Tapeworm: trap
 Honey Roasted Packing Peanuts: trap
 Rat Poison: trap
 Poisonous Mushroom: trap
@@ -384,7 +384,7 @@ Bovine Credit Card: progression
 Nothing: filler
 Busted Piggy Bank: trap
 English Subtitles: filler
-I can't believe that this isn't a key item: unknown
+I can't believe that this isn't a key item: filler
 Updog: filler
 Just a regular ol' chest, trust me: filler
 Blown Fuse: filler
@@ -436,3 +436,6 @@ Cheese Stall: filler
 Plain Donut: filler
 Morphing Hamster Ball: filler
 Salad of the Wind Fish: filler
+Misplaced Keycard: unknown
+Manbo's Mango: unknown
+Frog's Song of Soup: unknown

@@ -6,35 +6,35 @@ Red Katana: useful
 Flint Edge: unknown
 Dark Saber: unknown
 Aeon Blade: unknown
-Demon Edge: unknown
+Demon Edge: filler
 AlloyBlade: unknown
 Star Sword: unknown
 VedicBlade: unknown
 Kali Blade: unknown
-Shiva Edge: unknown
+Shiva Edge: filler
 Bolt Sword: useful
 Slasher: unknown
 Bronze Bow: unknown
-Iron Bow: unknown
+Iron Bow: filler
 Lode Bow: unknown
 Robin Bow: unknown
 Sage Bow: unknown
-Dream Bow: unknown
+Dream Bow: useful
 CometArrow: unknown
 SonicArrow: unknown
 Valkerye: useful
 Siren: unknown
 Air Gun: unknown
 Dart Gun: unknown
-Auto Gun: unknown
+Auto Gun: filler
 PicoMagnum: unknown
 Plasma Gun: unknown
 Ruby Gun: unknown
-Dream Gun: unknown
-Megablast: unknown
+Dream Gun: filler
+Megablast: filler
 Shock Wave: unknown
 WonderShot: useful
-Graedus: unknown
+Graedus: filler
 Tin Arm: unknown
 Hammer Arm: unknown
 MirageHand: unknown
@@ -43,7 +43,7 @@ DoomFinger: unknown
 Magma Hand: unknown
 MegatonArm: unknown
 Big Hand: useful
-Kaiser Arm: unknown
+Kaiser Arm: filler
 Giga Arm: unknown
 Terra Arm: unknown
 Crisis Arm: unknown
@@ -53,7 +53,7 @@ Masamune: unknown
 FlashBlade: useful
 Pearl Edge: unknown
 Rune Blade: unknown
-BraveSword: unknown
+BraveSword: filler
 Grand Leon: unknown
 Demon Hit: unknown
 Fist: unknown
@@ -65,35 +65,35 @@ StarScythe: unknown
 DoomSickle: unknown
 Mop: unknown
 Bent Sword: unknown
-Bent Hilt: unknown
+Bent Hilt: progression
 Swallow: unknown
 Slasher 2: unknown
 Rainbow: unknown
 Hide Tunic: unknown
-Karate Gi: unknown
+Karate Gi: filler
 BronzeMail: unknown
 MaidenSuit: unknown
 Iron Suit: unknown
 Titan Vest: unknown
 Gold Suit: unknown
-Ruby Vest: unknown
+Ruby Vest: filler
 Dark Mail: unknown
 Mist Robe: unknown
 Meso Mail: unknown
 Lumin Robe: unknown
-Flash Mail: unknown
+Flash Mail: filler
 Lode Vest: useful
 Aeon Suit: unknown
 ZodiacCape: unknown
 Nova Armor: unknown
 PrismDress: unknown
-Moon Armor: unknown
-Ruby Armor: unknown
+Moon Armor: filler
+Ruby Armor: filler
 RavenArmor: unknown
 Gloom Cape: unknown
 White Mail: unknown
 Black Mail: unknown
-Blue Mail: unknown
+Blue Mail: filler
 Red Mail: unknown
 White Vest: useful
 Black Vest: useful
@@ -115,11 +115,11 @@ Prism Helm: unknown
 Doom Helm: unknown
 Dark Helm: unknown
 Gloom Helm: unknown
-Safe Helm: unknown
+Safe Helm: filler
 Taban Helm: filler
 Sight Cap: unknown
-Memory Cap: unknown
-Time Hat: unknown
+Memory Cap: filler
+Time Hat: filler
 Vigil Hat: unknown
 OzziePants: unknown
 Haste Helm: unknown
@@ -132,13 +132,13 @@ Defender: unknown
 MagicScarf: filler
 Amulet: unknown
 Dash Ring: unknown
-Hit Ring: unknown
+Hit Ring: filler
 Power Ring: unknown
-Magic Ring: unknown
+Magic Ring: filler
 Wall Ring: unknown
 SilverErng: unknown
 Gold Erng: unknown
-SilverStud: unknown
+SilverStud: filler
 Gold Stud: unknown
 SightScope: useful
 Charm Top: unknown
@@ -146,7 +146,7 @@ Rage Band: unknown
 FrenzyBand: unknown
 Third Eye: unknown
 Wallet: unknown
-GreenDream: unknown
+GreenDream: filler
 Berserker: unknown
 PowerScarf: unknown
 Speed Belt: unknown
@@ -158,7 +158,7 @@ Gold Rock: unknown
 Hero Medal: unknown
 MuscleRing: unknown
 Flea Vest: unknown
-Magic Seal: unknown
+Magic Seal: filler
 Power Seal: unknown
 Robo's Rbn: unknown
 SeraphSong: unknown
@@ -168,21 +168,21 @@ Tonic: unknown
 Mid Tonic: filler
 Full Tonic: filler
 Ether: unknown
-Mid Ether: unknown
+Mid Ether: filler
 Full Ether: unknown
-Elixir: unknown
+Elixir: filler
 HyperEther: unknown
 MegaElixir: unknown
-Heal: unknown
+Heal: filler
 Revive: unknown
 Shelter: unknown
-Power Meal: unknown
-Lapis: unknown
+Power Meal: filler
+Lapis: filler
 Barrier: filler
 Shield: filler
 Power Tab: unknown
-Magic Tab: unknown
-Speed Tab: unknown
+Magic Tab: filler
+Speed Tab: filler
 Petal: unknown
 Fang: unknown
 Horn: unknown
@@ -192,14 +192,14 @@ Bike Key: unknown
 Pendant: unknown
 Gate Key: progression
 PrismShard: progression
-C. Trigger: unknown
+C. Trigger: progression
 Tools: unknown
 Jerky: unknown
 Dreamstone: unknown
 Race Log: unknown
 Moon Stone: unknown
 Sun Stone: unknown
-Ruby Knife: unknown
+Ruby Knife: progression
 Yakra Key: unknown
 Clone: unknown
 Toma's Pop: unknown

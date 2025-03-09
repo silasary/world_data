@@ -3,7 +3,7 @@ Space Zone Secret: progression
 Tree Zone Progression: progression
 Tree Zone Progression x2: progression
 Tree Zone Secret: progression
-Macro Zone Progression: unknown
+Macro Zone Progression: progression
 Macro Zone Progression x2: unknown
 Macro Zone Secret 1: progression
 Macro Zone Secret 2: progression
@@ -39,7 +39,7 @@ Easy Mode: unknown
 Normal Mode: unknown
 Auto Scroll: unknown
 Auto Scroll - Mushroom Zone: unknown
-Auto Scroll - Scenic Course: unknown
+Auto Scroll - Scenic Course: trap
 Auto Scroll - Tree Zone 1: unknown
 Auto Scroll - Tree Zone 2: unknown
 Auto Scroll - Tree Zone 3: unknown
@@ -50,12 +50,12 @@ Auto Scroll - Hippo Zone: unknown
 Auto Scroll - Space Zone 1: unknown
 Auto Scroll - Space Zone Secret Course: unknown
 Auto Scroll - Space Zone 2: unknown
-Auto Scroll - Macro Zone 1: unknown
+Auto Scroll - Macro Zone 1: trap
 Auto Scroll - Macro Zone 2: unknown
-Auto Scroll - Macro Zone 3: unknown
+Auto Scroll - Macro Zone 3: trap
 Auto Scroll - Macro Zone 4: unknown
 Auto Scroll - Macro Zone Secret Course: unknown
-Auto Scroll - Pumpkin Zone 1: unknown
+Auto Scroll - Pumpkin Zone 1: trap
 Auto Scroll - Pumpkin Zone 2: unknown
 Auto Scroll - Pumpkin Zone 3: unknown
 Auto Scroll - Pumpkin Zone 4: unknown
@@ -65,9 +65,9 @@ Auto Scroll - Mario Zone 1: unknown
 Auto Scroll - Mario Zone 2: unknown
 Auto Scroll - Mario Zone 3: unknown
 Auto Scroll - Mario Zone 4: unknown
-Auto Scroll - Turtle Zone 1: unknown
+Auto Scroll - Turtle Zone 1: trap
 Auto Scroll - Turtle Zone 2: unknown
-Auto Scroll - Turtle Zone 3: unknown
+Auto Scroll - Turtle Zone 3: trap
 Auto Scroll - Turtle Zone Secret Course: unknown
 Auto Scroll - Mario's Castle: unknown
 Cancel Auto Scroll: unknown
@@ -104,11 +104,11 @@ Cancel Auto Scroll - Turtle Zone 3: unknown
 Cancel Auto Scroll - Turtle Zone Secret Course: unknown
 Cancel Auto Scroll - Mario's Castle: unknown
 Mushroom Zone Midway Bell: progression
-Tree Zone 1 Midway Bell: unknown
-Tree Zone 2 Midway Bell: unknown
+Tree Zone 1 Midway Bell: filler
+Tree Zone 2 Midway Bell: progression
 Tree Zone 4 Midway Bell: progression
-Tree Zone 5 Midway Bell: unknown
-Space Zone 1 Midway Bell: unknown
+Tree Zone 5 Midway Bell: filler
+Space Zone 1 Midway Bell: filler
 Space Zone 2 Midway Bell: progression
 Macro Zone 1 Midway Bell: unknown
 Macro Zone 2 Midway Bell: progression
@@ -121,7 +121,7 @@ Pumpkin Zone 4 Midway Bell: unknown
 Mario Zone 1 Midway Bell: unknown
 Mario Zone 2 Midway Bell: unknown
 Mario Zone 3 Midway Bell: filler
-Mario Zone 4 Midway Bell: unknown
+Mario Zone 4 Midway Bell: filler
 Turtle Zone 1 Midway Bell: unknown
 Turtle Zone 2 Midway Bell: progression
 Turtle Zone 3 Midway Bell: unknown
@@ -154,9 +154,9 @@ Mario's Castle Midway Bell: unknown
 26 Coins: unknown
 27 Coins: unknown
 28 Coins: unknown
-29 Coins: unknown
-30 Coins: unknown
-31 Coins: unknown
+29 Coins: filler
+30 Coins: filler
+31 Coins: filler
 32 Coins: unknown
 33 Coins: unknown
 34 Coins: unknown
@@ -302,3 +302,7 @@ Turtle Zone 2 - Turtle Zone Midway Bell: progression
 Tree Zone 1 - Invincibility! Midway Bell: progression
 Mario Zone 3 - Beware: Jagged Spikes Midway Bell: progression
 Space Zone 1 - Moon Stage Midway Bell: progression
+Macro Zone 4 - One Mighty Mouse Midway Bell: unknown
+Macro Zone 3 - Fiery Mario-Special Agent Midway Bell: unknown
+Macro Zone 1 - The Ant Monsters Midway Bell: unknown
+Turtle Zone 1 - Cheep Cheep Course Midway Bell: unknown

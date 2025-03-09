@@ -10,7 +10,7 @@ Progressive Shop Slot: useful
 Progressive Shop Lock Button: useful
 XP (5): filler
 XP (10): filler
-XP (25): progression
+XP (25): filler
 XP (50): filler
 XP (100): filler
 XP (150): filler
@@ -18,8 +18,8 @@ Gold (10): filler
 Gold (25): filler
 Gold (50): filler
 Gold (100): filler
-Gold (200): progression
-Run Won: progression
+Gold (200): filler
+Run Won: bad_name
 Well Rounded: progression
 Brawler: progression
 Crazy: progression
@@ -66,19 +66,19 @@ Knight: progression
 Demon: progression
 Baby: progression
 Vagabond: progression
-Technomage: unknown
-Vampire: unknown
+Technomage: progression
+Vampire: progression
 Sailor: progression
-Curious: unknown
+Curious: progression
 Builder: progression
-Captain: unknown
-Creature: unknown
+Captain: progression
+Creature: progression
 Chef: progression
 Druid: progression
 Dwarf: progression
 Gangster: progression
 Diver: progression
-Hiker: unknown
-Buccaneer: unknown
-Ogre: unknown
+Hiker: progression
+Buccaneer: progression
+Ogre: progression
 Romantic: progression
