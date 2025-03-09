@@ -16,7 +16,7 @@ Spark Raid: unknown
 Wind Raid: unknown
 Fire Surge: filler
 Barrier Surge: unknown
-Thunder Surge: unknown
+Thunder Surge: useful
 Aerial Slam: filler
 Ars Solum: unknown
 Ars Arcanum: unknown
@@ -108,7 +108,7 @@ Illusion-F: unknown
 Illusion-L: filler
 Illusion-V: unknown
 Illusion-R: unknown
-Illusion-B: unknown
+Illusion-B: filler
 High Jump: unknown
 Thunder Roll: unknown
 Firewheel: unknown
@@ -172,7 +172,7 @@ HP Prize Plus: useful
 Link Prize Plus: filler
 Lucky Strike: useful
 HP Boost: useful
-Fire Boost: unknown
+Fire Boost: useful
 Blizzard Boost: useful
 Thunder Boost: useful
 Cure Boost: useful
@@ -192,7 +192,7 @@ Defender: useful
 EXP Chance: unknown
 EXP Walker: useful
 Damage Syphon: unknown
-Second Chance: unknown
+Second Chance: progression
 Once More: progression
 Leaf Bracer: unknown
 (V) Treasure Trove: unknown
@@ -243,7 +243,7 @@ Leaf Bracer: unknown
 Wayfinder Ventus: progression
 Wayfinder Aqua: progression
 Wayfinder Terra: unknown
-Dwarf Woodlands: unknown
+Dwarf Woodlands: progression
 Castle of Dreams: progression
 Enchanted Dominion: progression
 The Mysterious Tower: progression
