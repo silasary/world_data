@@ -41,11 +41,12 @@ class Datapackage:
             emoji = "❌"
         return emoji
 
-    def set_classification(self, item_name: str, classification: ItemClassification) -> None:
+    def set_classification(self, item_name: str, classification: ItemClassification) -> bool:
         if classification == ItemClassification.unknown and self.items.get(item_name, ItemClassification.unknown) != ItemClassification.unknown:
             # We don't want to set an item to unknown if it's already classified
-            return
+            return False
         self.items[item_name] = classification
+        return True
 
 
 def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
