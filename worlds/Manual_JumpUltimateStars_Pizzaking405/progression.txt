@@ -8,7 +8,7 @@ Planet Unlock; Houshin Engi: unknown
 Planet Unlock; Death Note: unknown
 Planet Unlock; Yu-Gi-Oh!: progression
 Planet Unlock; Muscle Man: unknown
-Planet Unlock; Taizo Mote King: unknown
+Planet Unlock; Taizo Mote King: progression
 Planet Unlock; Ninku: unknown
 Planet Unlock; J-Space Boss: unknown
 Planet Unlock; Naruto: unknown
@@ -36,7 +36,7 @@ Planet Unlock; I"s: unknown
 Planet Unlock; Dr. Slump: unknown
 Planet Unlock; Kochikame: unknown
 Planet Unlock; Cobra: progression
-Planet Unlock; Tottemo! Luckyman: unknown
+Planet Unlock; Tottemo! Luckyman: progression
 Planet Unlock; JoJo's Bizarre Adventure: unknown
 Planet Unlock; J-Blackhole Boss: progression
 Planet Unlock; Planet J: progression
@@ -98,7 +98,7 @@ Support Koma; Kagura-3 (Gintama): unknown
 Support Koma; Shinpachi-2 (Gintama): unknown
 Support Koma; Shinpachi-3 (Gintama): unknown
 Support Koma; Zura-2 (Gintama): unknown
-Support Koma; Zura/Elizabeth-3 (Gintama): unknown
+Support Koma; Zura/Elizabeth-3 (Gintama): useful
 Support Koma; Sa-Chan-2 (Gintama): unknown
 Support Koma; Sa-Chan-3 (Gintama): unknown
 Support Koma; Kondo-2 (Gintama): useful
@@ -222,7 +222,7 @@ Support Koma; Momoshiro-3 (Prince Of Tennis): unknown
 Support Koma; Kaido-2 (Prince Of Tennis): unknown
 Support Koma; Kaido-3 (Prince Of Tennis): unknown
 Support Koma; Kawamura-2 (Prince Of Tennis): unknown
-Support Koma; Kawamura-3 (Prince Of Tennis): unknown
+Support Koma; Kawamura-3 (Prince Of Tennis): useful
 Support Koma; Inui-2 (Prince Of Tennis): unknown
 Support Koma; Inui-3 (Prince Of Tennis): unknown
 Support Koma; Atobe-2 (Prince Of Tennis): unknown
@@ -282,8 +282,8 @@ Support Koma; Gaara-3 (Naruto): unknown
 Support Koma; Fuusuke-2 (Ninku): unknown
 Support Koma; Fuusuke-3 (Ninku): unknown
 Support Koma; Gon-2 (Hunter x Hunter): unknown
-Support Koma; Gon-3 (Hunter x Hunter): unknown
-Support Koma; Killua-2 (Hunter x Hunter): unknown
+Support Koma; Gon-3 (Hunter x Hunter): useful
+Support Koma; Killua-2 (Hunter x Hunter): useful
 Support Koma; Killua-3 (Hunter x Hunter): useful
 Support Koma; Kurapika-2 (Hunter x Hunter): unknown
 Support Koma; Kurapika-3 (Hunter x Hunter): unknown
@@ -445,7 +445,7 @@ Battle Koma; Anna-5-Power (Shaman king): unknown
 Battle Koma; Jotaro-4 (JoJo's Bizarre Adventure): useful
 Battle Koma; Jotaro-5-Power (JoJo's Bizarre Adventure): unknown
 Battle Koma; Jotaro-5-Knowledge (JoJo's Bizarre Adventure): unknown
-Battle Koma; Jotaro-6 (JoJo's Bizarre Adventure): unknown
+Battle Koma; Jotaro-6 (JoJo's Bizarre Adventure): useful
 Battle Koma; Dio-4 (JoJo's Bizarre Adventure): unknown
 Battle Koma; Dio-5-Power (JoJo's Bizarre Adventure): unknown
 Battle Koma; Dio-5-Knowledge (JoJo's Bizarre Adventure): unknown
@@ -483,7 +483,7 @@ Battle Koma; Vegeta-5-Power (Dragonball): unknown
 Battle Koma; Vegeta-5-Knowledge (Dragonball): unknown
 Battle Koma; Vegeta-6 [Dragonball]: unknown
 Battle Koma; Gohan-4 (Dragonball): unknown
-Battle Koma; Gohan-5 (Dragonball): unknown
+Battle Koma; Gohan-5 (Dragonball): useful
 Battle Koma; Gotenks-4 (Dragonball): useful
 Battle Koma; Gotenks-5-Laughter (Dragonball): unknown
 Battle Koma; Gotenks-5-Power (Dragonball): unknown
