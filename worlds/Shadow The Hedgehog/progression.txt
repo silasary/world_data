@@ -12,7 +12,7 @@ Stage:Glyphic Canyon: progression
 Stage:Lethal Highway: unknown
 Stage:Cryptic Castle: unknown
 Stage:Prison Island: unknown
-Stage:Circus Park: unknown
+Stage:Circus Park: progression
 Stage:Central City: unknown
 Stage:The Doom: unknown
 Stage:Sky Troops: unknown
@@ -23,7 +23,7 @@ Stage:Air Fleet: unknown
 Stage:Iron Jungle: progression
 Stage:Space Gadget: unknown
 Stage:Lost Impact: unknown
-Stage:Gun Fortress: unknown
+Stage:Gun Fortress: progression
 Stage:Black Comet: unknown
 Stage:Lava Shelter: progression
 Stage:Cosmic Fall: unknown
@@ -85,7 +85,7 @@ Gauge:Dark-30000: unknown
 2 Rings: filler
 5 Rings: filler
 10 Rings: unknown
-20 Rings: unknown
+20 Rings: filler
 Hero Token: unknown
 Dark Token: unknown
 Mission Token: mcguffin
@@ -125,7 +125,7 @@ Weapon:Speed Limit Sign: unknown
 Weapon:Digital Pole: unknown
 Weapon:Canyon Pole: unknown
 Weapon:Lethal Pole: unknown
-Weapon:Cryptic Torch: unknown
+Weapon:Cryptic Torch: progression
 Weapon:Prison Branch: unknown
 Weapon:Circus Pole: unknown
 Weapon:Stop Sign: unknown
