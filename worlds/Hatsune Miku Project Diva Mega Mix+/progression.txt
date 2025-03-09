@@ -57,7 +57,7 @@ Marginal [EASY]: unknown
 Marginal [NORMAL]: unknown
 Marginal [HARD]: unknown
 Marginal [EXTREME]: unknown
-Marginal [EXEXTREME]: unknown
+Marginal [EXEXTREME]: progression
 Grumpy Waltz [EASY]: unknown
 Grumpy Waltz [NORMAL]: unknown
 Grumpy Waltz [HARD]: unknown
@@ -247,7 +247,7 @@ Double Lariat [EASY]: unknown
 Double Lariat [NORMAL]: progression
 Double Lariat [HARD]: unknown
 Double Lariat [EXTREME]: unknown
-Double Lariat [EXEXTREME]: unknown
+Double Lariat [EXEXTREME]: progression
 Cantarella [EASY]: progression
 Cantarella [NORMAL]: unknown
 Cantarella [HARD]: unknown
@@ -361,7 +361,7 @@ Starduster [EXEXTREME]: unknown
 Paradichlorobenzene [EASY]: unknown
 Paradichlorobenzene [NORMAL]: unknown
 Paradichlorobenzene [HARD]: unknown
-Paradichlorobenzene [EXTREME]: unknown
+Paradichlorobenzene [EXTREME]: progression
 Paradichlorobenzene [EXEXTREME]: unknown
 Wintry Winds [EASY]: unknown
 Wintry Winds [NORMAL]: unknown
@@ -566,7 +566,7 @@ Absolunote [EXEXTREME]: unknown
 SING&SMILE [EASY]: unknown
 SING&SMILE [NORMAL]: unknown
 SING&SMILE [HARD]: unknown
-SING&SMILE [EXTREME]: unknown
+SING&SMILE [EXTREME]: progression
 SING&SMILE [EXEXTREME]: unknown
 Tricolore Airline [EASY]: unknown
 Tricolore Airline [NORMAL]: unknown
@@ -646,7 +646,7 @@ Gaikotsu Gakudan to Riria [EXEXTREME]: unknown
 shake it! [EASY]: unknown
 shake it! [NORMAL]: unknown
 shake it! [HARD]: unknown
-shake it! [EXTREME]: unknown
+shake it! [EXTREME]: progression
 shake it! [EXEXTREME]: unknown
 Cendrillon [EASY]: unknown
 Cendrillon [NORMAL]: unknown
@@ -726,12 +726,12 @@ Jigsaw puzzle [EXEXTREME]: unknown
 Dreamin Chuchu [EASY]: unknown
 Dreamin Chuchu [NORMAL]: unknown
 Dreamin Chuchu [HARD]: progression
-Dreamin Chuchu [EXTREME]: unknown
+Dreamin Chuchu [EXTREME]: progression
 Dreamin Chuchu [EXEXTREME]: unknown
 Ooedo Julianight [EASY]: unknown
 Ooedo Julianight [NORMAL]: unknown
 Ooedo Julianight [HARD]: progression
-Ooedo Julianight [EXTREME]: unknown
+Ooedo Julianight [EXTREME]: progression
 Ooedo Julianight [EXEXTREME]: unknown
 JITTERBUG [EASY]: unknown
 JITTERBUG [NORMAL]: unknown
@@ -816,7 +816,7 @@ Perico Space Shipper [EXEXTREME]: unknown
 Master of Puppets [EASY]: unknown
 Master of Puppets [NORMAL]: unknown
 Master of Puppets [HARD]: unknown
-Master of Puppets [EXTREME]: unknown
+Master of Puppets [EXTREME]: progression
 Master of Puppets [EXEXTREME]: unknown
 Pane dhiria [EASY]: unknown
 Pane dhiria [NORMAL]: unknown
@@ -851,7 +851,7 @@ Iya Iya Seijin [EXEXTREME]: unknown
 Equation+** [EASY]: unknown
 Equation+** [NORMAL]: unknown
 Equation+** [HARD]: unknown
-Equation+** [EXTREME]: unknown
+Equation+** [EXTREME]: progression
 Equation+** [EXEXTREME]: unknown
 Betty The Liar [EASY]: unknown
 Betty The Liar [NORMAL]: unknown
@@ -1196,7 +1196,7 @@ Erase or Zero [EXEXTREME]: unknown
 This is the Happiness and Peace of Mind Committee [EASY]: progression
 This is the Happiness and Peace of Mind Committee [NORMAL]: unknown
 This is the Happiness and Peace of Mind Committee [HARD]: unknown
-This is the Happiness and Peace of Mind Committee [EXTREME]: unknown
+This is the Happiness and Peace of Mind Committee [EXTREME]: progression
 This is the Happiness and Peace of Mind Committee [EXEXTREME]: unknown
 Hello, Worker [EASY]: unknown
 Hello, Worker [NORMAL]: unknown
@@ -3458,3 +3458,6 @@ Kagamine HachiHachi Flower Fight: useful
 Blackjack: progression
 Song of Eternity -DIVAMIX-: useful
 Iya Iya Seijin: progression
+Look This Way Baby [EXEXTREME]: progression
+Solitudes End [EXTREME]: progression
+SPiCa -39s Giving Day Edition- [EXTREME]: progression
