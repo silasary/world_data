@@ -14,7 +14,7 @@ Stage:Cryptic Castle: unknown
 Stage:Prison Island: unknown
 Stage:Circus Park: progression
 Stage:Central City: unknown
-Stage:The Doom: unknown
+Stage:The Doom: progression
 Stage:Sky Troops: unknown
 Stage:Mad Matrix: unknown
 Stage:Death Ruins: unknown
@@ -78,13 +78,13 @@ Gauge:Dark-1000: filler
 Gauge:Dark-2000: filler
 Gauge:Dark-5000: filler
 Gauge:Dark-10000: filler
-Gauge:Dark-15000: unknown
+Gauge:Dark-15000: filler
 Gauge:Dark-20000: unknown
 Gauge:Dark-30000: unknown
 1 Ring: filler
 2 Rings: filler
 5 Rings: filler
-10 Rings: unknown
+10 Rings: filler
 20 Rings: filler
 Hero Token: unknown
 Dark Token: unknown
@@ -144,7 +144,7 @@ Weapon:Haunt Pole: unknown
 Weapon:Last Pole: unknown
 Weapon:Samurai Blade: progression
 Weapon:Satellite Gun: unknown
-Weapon:Egg Vacuum: unknown
+Weapon:Egg Vacuum: progression
 Weapon:Omochao Gun: progression
 Weapon:Heal Cannon: unknown
 Weapon:Shadow Rifle: unknown
@@ -162,3 +162,4 @@ Vehicle: Black Turret: unknown
 Vehicle: Gun Lift: unknown
 Stage:Egg Dealer Black Comet: progression
 Stage:Egg Breaker Cryptic Castle: progression
+Stage:Black Doom Cosmic Fall: progression
