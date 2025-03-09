@@ -3,24 +3,24 @@ Iron Blade: unknown
 SteelSaber: unknown
 Lode Sword: unknown
 Red Katana: useful
-Flint Edge: unknown
+Flint Edge: filler
 Dark Saber: unknown
-Aeon Blade: unknown
+Aeon Blade: filler
 Demon Edge: filler
 AlloyBlade: unknown
-Star Sword: unknown
-VedicBlade: unknown
+Star Sword: filler
+VedicBlade: filler
 Kali Blade: unknown
 Shiva Edge: filler
 Bolt Sword: useful
-Slasher: unknown
+Slasher: filler
 Bronze Bow: unknown
 Iron Bow: filler
 Lode Bow: unknown
 Robin Bow: unknown
 Sage Bow: unknown
 Dream Bow: useful
-CometArrow: unknown
+CometArrow: filler
 SonicArrow: unknown
 Valkerye: useful
 Siren: unknown
@@ -32,29 +32,29 @@ Plasma Gun: unknown
 Ruby Gun: unknown
 Dream Gun: filler
 Megablast: filler
-Shock Wave: unknown
+Shock Wave: filler
 WonderShot: useful
 Graedus: filler
 Tin Arm: unknown
 Hammer Arm: unknown
 MirageHand: unknown
 Stone Arm: unknown
-DoomFinger: unknown
-Magma Hand: unknown
+DoomFinger: filler
+Magma Hand: filler
 MegatonArm: unknown
 Big Hand: useful
 Kaiser Arm: filler
-Giga Arm: unknown
-Terra Arm: unknown
+Giga Arm: filler
+Terra Arm: filler
 Crisis Arm: unknown
 BronzeEdge: unknown
 Iron Sword: unknown
 Masamune: unknown
 FlashBlade: useful
-Pearl Edge: unknown
-Rune Blade: unknown
+Pearl Edge: filler
+Rune Blade: filler
 BraveSword: filler
-Grand Leon: unknown
+Grand Leon: progression
 Demon Hit: unknown
 Fist: unknown
 Iron Fist: unknown
@@ -64,7 +64,7 @@ Hurricane: unknown
 StarScythe: unknown
 DoomSickle: unknown
 Mop: unknown
-Bent Sword: unknown
+Bent Sword: progression
 Bent Hilt: progression
 Swallow: unknown
 Slasher 2: unknown
@@ -83,23 +83,23 @@ Meso Mail: unknown
 Lumin Robe: unknown
 Flash Mail: filler
 Lode Vest: useful
-Aeon Suit: unknown
+Aeon Suit: filler
 ZodiacCape: unknown
-Nova Armor: unknown
+Nova Armor: useful
 PrismDress: unknown
 Moon Armor: filler
 Ruby Armor: filler
 RavenArmor: unknown
 Gloom Cape: unknown
-White Mail: unknown
-Black Mail: unknown
+White Mail: filler
+Black Mail: filler
 Blue Mail: filler
-Red Mail: unknown
+Red Mail: filler
 White Vest: useful
 Black Vest: useful
-Blue Vest: unknown
-Red Vest: unknown
-Taban Vest: unknown
+Blue Vest: filler
+Red Vest: filler
+Taban Vest: filler
 Taban Suit: unknown
 Hide Cap: unknown
 BronzeHelm: unknown
@@ -108,36 +108,36 @@ Beret: unknown
 Gold Helm: unknown
 Rock Helm: unknown
 CeraTopper: unknown
-Glow Helm: unknown
-Lode Helm: unknown
-Aeon Helm: unknown
+Glow Helm: filler
+Lode Helm: filler
+Aeon Helm: filler
 Prism Helm: unknown
 Doom Helm: unknown
 Dark Helm: unknown
-Gloom Helm: unknown
+Gloom Helm: useful
 Safe Helm: filler
 Taban Helm: filler
-Sight Cap: unknown
+Sight Cap: filler
 Memory Cap: filler
 Time Hat: filler
-Vigil Hat: unknown
+Vigil Hat: filler
 OzziePants: unknown
-Haste Helm: unknown
-R'bow Helm: unknown
-MermaidCap: unknown
+Haste Helm: useful
+R'bow Helm: filler
+MermaidCap: filler
 Bandana: unknown
 Ribbon: unknown
 PowerGlove: unknown
 Defender: unknown
 MagicScarf: filler
-Amulet: unknown
+Amulet: useful
 Dash Ring: unknown
 Hit Ring: filler
-Power Ring: unknown
+Power Ring: filler
 Magic Ring: filler
 Wall Ring: unknown
 SilverErng: unknown
-Gold Erng: unknown
+Gold Erng: filler
 SilverStud: filler
 Gold Stud: unknown
 SightScope: useful
@@ -149,7 +149,7 @@ Wallet: unknown
 GreenDream: filler
 Berserker: unknown
 PowerScarf: unknown
-Speed Belt: unknown
+Speed Belt: filler
 Black Rock: unknown
 Blue Rock: unknown
 SilverRock: unknown
@@ -162,16 +162,16 @@ Magic Seal: filler
 Power Seal: unknown
 Robo's Rbn: unknown
 SeraphSong: unknown
-Sun Shades: unknown
+Sun Shades: filler
 PrismSpecs: unknown
 Tonic: unknown
 Mid Tonic: filler
 Full Tonic: filler
-Ether: unknown
+Ether: filler
 Mid Ether: filler
-Full Ether: unknown
+Full Ether: filler
 Elixir: filler
-HyperEther: unknown
+HyperEther: filler
 MegaElixir: unknown
 Heal: filler
 Revive: unknown
@@ -180,7 +180,7 @@ Power Meal: filler
 Lapis: filler
 Barrier: filler
 Shield: filler
-Power Tab: unknown
+Power Tab: filler
 Magic Tab: filler
 Speed Tab: filler
 Petal: unknown
@@ -194,15 +194,15 @@ Gate Key: progression
 PrismShard: progression
 C. Trigger: progression
 Tools: unknown
-Jerky: unknown
-Dreamstone: unknown
+Jerky: progression
+Dreamstone: progression
 Race Log: unknown
 Moon Stone: unknown
 Sun Stone: unknown
 Ruby Knife: progression
 Yakra Key: unknown
 Clone: unknown
-Toma's Pop: unknown
+Toma's Pop: progression
 2 Petals: unknown
 2 Fangs: unknown
 2 Horns: unknown
