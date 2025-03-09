@@ -8,7 +8,7 @@ Card Set Spellbinder: useful
 Card Set Metal Chocobo: unknown
 Card Set Olympia: unknown
 Card Set Lionheart: useful
-Card Set Lady Luck: unknown
+Card Set Lady Luck: useful
 Card Set Divine Rose: unknown
 Card Set Oathkeeper: useful
 Card Set Oblivion: useful
@@ -68,7 +68,7 @@ Enemy Card Darkball: filler
 Enemy Card Defender: useful
 Enemy Card Wyvern: unknown
 Enemy Card Wizard: useful
-Enemy Card Neoshadow: unknown
+Enemy Card Neoshadow: useful
 Enemy Card White Mushroom: unknown
 Enemy Card Black Fungus: unknown
 Enemy Card Creeper Plant: useful
@@ -129,7 +129,7 @@ Sleight Thunder Raid: useful
 Sleight Reflect Raid: useful
 Sleight Judgement: unknown
 Sleight Firaga Burst: unknown
-Sleight Raging Storm: unknown
+Sleight Raging Storm: useful
 Sleight Mega Flare: unknown
 Sleight Freeze: unknown
 Sleight Homing Blizzara: unknown
@@ -138,7 +138,7 @@ Sleight Magnet Spiral: unknown
 Sleight Lethal Frame: unknown
 Sleight Shock Impact: unknown
 Sleight Tornado: useful
-Sleight Quake: unknown
+Sleight Quake: useful
 Sleight Warpinator: useful
 Sleight Warp: useful
 Sleight Bind: unknown
