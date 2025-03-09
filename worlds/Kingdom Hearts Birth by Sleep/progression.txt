@@ -50,12 +50,12 @@ Blizzard: unknown
 Blizzara: useful
 Blizzaga: unknown
 Triple Blizzaga: unknown
-Thunder: unknown
+Thunder: useful
 Thundara: unknown
 Thundaga: unknown
 Thundaga Shot: unknown
 Cure: unknown
-Cura: unknown
+Cura: useful
 Curaga: unknown
 Esuna: unknown
 Mine Shield: unknown
@@ -94,9 +94,9 @@ Poison: unknown
 Slow: unknown
 Stop: unknown
 Stopra: unknown
-Stopga: unknown
+Stopga: useful
 Sleep: unknown
-Mega-Potion: unknown
+Mega-Potion: filler
 Mega-Ether: unknown
 Elixir: unknown
 Megalixir: unknown
@@ -113,7 +113,7 @@ High Jump: unknown
 Thunder Roll: unknown
 Firewheel: unknown
 Air Slide: unknown
-Ice Slide: unknown
+Ice Slide: progression
 Reversal: useful
 Glide: unknown
 Superglide: progression
@@ -182,11 +182,11 @@ Magic Haste: useful
 Combo F Boost: filler
 Finish Boost: unknown
 Combo Plus: unknown
-Air Combo Plus: unknown
+Air Combo Plus: useful
 Fire Screen: filler
 Blizzard Screen: useful
 Thunder Screen: unknown
-Dark Screen: unknown
+Dark Screen: useful
 Reload Boost: unknown
 Defender: unknown
 EXP Chance: unknown
@@ -207,7 +207,7 @@ Leaf Bracer: unknown
 (V) Frolic Flame: unknown
 (V) Lost Memory: unknown
 (V) Void Gear: unknown
-(V) No Name: unknown
+(V) No Name: useful
 (V) Royal Radiance: unknown
 (T) Treasure Trove: unknown
 (T) Stroke of Midnight: unknown
@@ -217,9 +217,9 @@ Leaf Bracer: unknown
 (T) Hyperdrive: unknown
 (T) Pixie Petal: unknown
 (T) Ultima Weapon: unknown
-(T) Sweetstack: unknown
+(T) Sweetstack: useful
 (T) Darkgnaw: unknown
-(T) Ends of the Earth: unknown
+(T) Ends of the Earth: useful
 (T) Chaos Ripper: unknown
 (T) Void Gear: unknown
 (T) No Name: unknown
@@ -244,16 +244,16 @@ Wayfinder Ventus: progression
 Wayfinder Aqua: unknown
 Wayfinder Terra: unknown
 Dwarf Woodlands: unknown
-Castle of Dreams: unknown
+Castle of Dreams: progression
 Enchanted Dominion: unknown
 The Mysterious Tower: progression
-Radiant Garden: unknown
+Radiant Garden: progression
 Mirage Arena: unknown
 Olympus Coliseum: unknown
-Deep Space: unknown
+Deep Space: progression
 Realm of Darkness: unknown
-Never Land: unknown
-Disney Town: unknown
+Never Land: progression
+Disney Town: progression
 HP Increase: useful
 Deck Capacity Increase: useful
 Mickey D-Link: unknown
@@ -268,10 +268,10 @@ Zack D-Link: unknown
 Pete D-Link: unknown
 Aqua D-Link: unknown
 Ventus D-Link: unknown
-Terra D-Link: unknown
+Terra D-Link: useful
 Keyblade Board: unknown
 Royal Board: unknown
-Spaceship Board: unknown
+Spaceship Board: progression
 Toon Board: unknown
 Hunny Pot Board: unknown
 Secret Board: unknown
