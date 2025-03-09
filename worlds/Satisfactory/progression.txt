@@ -388,7 +388,7 @@ Building: Geothermal Generator: useful
 Building: Nuclear Power Plant: useful
 Building: Miner Mk.1: unknown
 Building: Miner Mk.2: unknown
-Building: Miner Mk.3: unknown
+Building: Miner Mk.3: progression
 Building: Oil Extractor: progression
 Building: Water Extractor: progression
 Building: Smelter: unknown
