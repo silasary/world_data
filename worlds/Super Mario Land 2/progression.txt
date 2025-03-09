@@ -43,7 +43,7 @@ Auto Scroll - Scenic Course: trap
 Auto Scroll - Tree Zone 1: unknown
 Auto Scroll - Tree Zone 2: unknown
 Auto Scroll - Tree Zone 3: unknown
-Auto Scroll - Tree Zone 4: unknown
+Auto Scroll - Tree Zone 4: trap
 Auto Scroll - Tree Zone 5: unknown
 Auto Scroll - Tree Zone Secret Course: unknown
 Auto Scroll - Hippo Zone: unknown
@@ -59,7 +59,7 @@ Auto Scroll - Pumpkin Zone 1: trap
 Auto Scroll - Pumpkin Zone 2: unknown
 Auto Scroll - Pumpkin Zone 3: unknown
 Auto Scroll - Pumpkin Zone 4: unknown
-Auto Scroll - Pumpkin Zone Secret Course 1: unknown
+Auto Scroll - Pumpkin Zone Secret Course 1: trap
 Auto Scroll - Pumpkin Zone Secret Course 2: unknown
 Auto Scroll - Mario Zone 1: unknown
 Auto Scroll - Mario Zone 2: unknown
@@ -125,7 +125,7 @@ Mario Zone 4 Midway Bell: filler
 Turtle Zone 1 Midway Bell: unknown
 Turtle Zone 2 Midway Bell: progression
 Turtle Zone 3 Midway Bell: unknown
-Mario's Castle Midway Bell: unknown
+Mario's Castle Midway Bell: progression
 1 Coin: filler
 2 Coins: filler
 3 Coins: filler
