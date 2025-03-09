@@ -91,7 +91,7 @@ def save_datapackage(game_name, dp: Datapackage) -> None:
         return
 
     progressionFile = world_folder.joinpath(game_name, "progression.txt")
-    progressionFile.write_text("\n".join([f"{k}: {v.name}" for k, v in dp.items.items()]))
+    progressionFile.write_text("\n".join([f"{k}: {v.name}" for k, v in dp.items.items()]) + "\n")
 
     return dp
 
