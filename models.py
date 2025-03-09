@@ -45,6 +45,8 @@ class Datapackage:
         if classification == ItemClassification.unknown and self.items.get(item_name, ItemClassification.unknown) != ItemClassification.unknown:
             # We don't want to set an item to unknown if it's already classified
             return False
+        if self.items.get(item_name) == classification:
+            return False
         self.items[item_name] = classification
         return True
 
