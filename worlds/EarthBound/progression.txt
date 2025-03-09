@@ -77,7 +77,7 @@ Mr. Baseball Cap: filler
 Hard Hat: filler
 Ribbon: filler
 Red Ribbon: filler
-Goddess Ribbon: unknown
+Goddess Ribbon: useful
 Coin of Slumber: useful
 Coin of Defense: filler
 Lucky Coin: filler
@@ -113,7 +113,7 @@ Vial of Serum: filler
 IQ Capsule: useful
 Guts Capsule: unknown
 Speed Capsule: filler
-Vital Capsule: unknown
+Vital Capsule: filler
 Luck Capsule: filler
 Ketchup Packet: filler
 Sugar Packet: filler
@@ -182,7 +182,7 @@ Diamond: progression
 Signed Banana: progression
 Pencil Eraser: progression
 Hieroglyph Copy: unknown
-Meteotite: unknown
+Meteotite: filler
 Contact Lens: unknown
 Hand-Aid: filler
 Trout Yogurt: filler
