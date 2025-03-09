@@ -38,7 +38,7 @@ Graedus: filler
 Tin Arm: unknown
 Hammer Arm: unknown
 MirageHand: unknown
-Stone Arm: unknown
+Stone Arm: filler
 DoomFinger: filler
 Magma Hand: filler
 MegatonArm: unknown
@@ -145,7 +145,7 @@ Charm Top: unknown
 Rage Band: unknown
 FrenzyBand: unknown
 Third Eye: unknown
-Wallet: unknown
+Wallet: filler
 GreenDream: filler
 Berserker: unknown
 PowerScarf: unknown
