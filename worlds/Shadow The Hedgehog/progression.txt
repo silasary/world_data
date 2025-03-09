@@ -18,7 +18,7 @@ Stage:The Doom: unknown
 Stage:Sky Troops: unknown
 Stage:Mad Matrix: unknown
 Stage:Death Ruins: unknown
-Stage:The Ark: unknown
+Stage:The Ark: progression
 Stage:Air Fleet: unknown
 Stage:Iron Jungle: progression
 Stage:Space Gadget: unknown
@@ -41,7 +41,7 @@ Circus Park Soldier: progression
 Central City Big Bomb: unknown
 Central City Little Bomb: progression
 The Doom Soldier: progression
-The Doom Researcher: unknown
+The Doom Researcher: progression
 Sky Troops Egg Ship: unknown
 Sky Troops Temple: unknown
 Mad Matrix Bomb: progression
@@ -111,7 +111,7 @@ Weapon:RPG: unknown
 Weapon:4-Shot RPG: unknown
 Weapon:8-Shot RPG: unknown
 Weapon:Worm Shooter: progression
-Weapon:Wide Worm Shooter: unknown
+Weapon:Wide Worm Shooter: progression
 Weapon:Big Worm Shooter: unknown
 Weapon:Vacuum Pod: unknown
 Weapon:Laser Rifle: unknown
