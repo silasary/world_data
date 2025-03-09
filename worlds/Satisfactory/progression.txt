@@ -207,7 +207,7 @@ Recipe: Wet Concrete: useful
 Recipe: Fine Concrete: unknown
 Recipe: Silica: unknown
 Recipe: Cheap Silica: progression
-Recipe: Quartz Crystal: unknown
+Recipe: Quartz Crystal: progression
 Recipe: Pure Quartz Crystal: unknown
 Recipe: Iron Ingot: unknown
 Recipe: Pure Iron Ingot: useful
