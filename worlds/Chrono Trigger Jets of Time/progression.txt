@@ -11,7 +11,7 @@ AlloyBlade: unknown
 Star Sword: unknown
 VedicBlade: unknown
 Kali Blade: unknown
-Shiva Edge: unknown
+Shiva Edge: filler
 Bolt Sword: useful
 Slasher: unknown
 Bronze Bow: unknown
@@ -26,12 +26,12 @@ Valkerye: useful
 Siren: unknown
 Air Gun: unknown
 Dart Gun: unknown
-Auto Gun: unknown
+Auto Gun: filler
 PicoMagnum: unknown
 Plasma Gun: unknown
 Ruby Gun: unknown
 Dream Gun: filler
-Megablast: unknown
+Megablast: filler
 Shock Wave: unknown
 WonderShot: useful
 Graedus: filler
@@ -65,7 +65,7 @@ StarScythe: unknown
 DoomSickle: unknown
 Mop: unknown
 Bent Sword: unknown
-Bent Hilt: unknown
+Bent Hilt: progression
 Swallow: unknown
 Slasher 2: unknown
 Rainbow: unknown
@@ -119,7 +119,7 @@ Safe Helm: filler
 Taban Helm: filler
 Sight Cap: unknown
 Memory Cap: filler
-Time Hat: unknown
+Time Hat: filler
 Vigil Hat: unknown
 OzziePants: unknown
 Haste Helm: unknown
@@ -138,7 +138,7 @@ Magic Ring: filler
 Wall Ring: unknown
 SilverErng: unknown
 Gold Erng: unknown
-SilverStud: unknown
+SilverStud: filler
 Gold Stud: unknown
 SightScope: useful
 Charm Top: unknown
