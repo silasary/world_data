@@ -1,9 +1,13 @@
 import enum
+import os
+import pathlib
 
 import attrs
-from utils import world_folder
 import re
 import yaml
+
+abspath = os.path.dirname(__file__)
+world_folder = pathlib.Path(abspath, "worlds")
 
 class ItemClassification(enum.Flag):
     unknown = 0
@@ -37,6 +41,12 @@ class Datapackage:
             emoji = "❌"
         return emoji
 
+    def set_classification(self, item_name: str, classification: ItemClassification) -> None:
+        if classification == ItemClassification.unknown and self.items.get(item_name, ItemClassification.unknown) != ItemClassification.unknown:
+            # We don't want to set an item to unknown if it's already classified
+            return
+        self.items[item_name] = classification
+
 
 def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
     if dp is None:
@@ -46,7 +56,7 @@ def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
         info = yaml.safe_load(info_yaml)
         if 'items' in info:
             for name, classification in info['items'].items():
-                dp.items[name] = classifications[classification.strip()]
+                dp.set_classification(name, classifications[classification.strip()])
 
     prog_txt = world_folder.joinpath(game_name, "progression.txt")
     if prog_txt.exists():
@@ -57,7 +67,8 @@ def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
             if not x:
                 continue
             match = re.match(r"^(.*): (.*)$", x)
-            dp.items[match[1]] = classifications[match[2].strip()]
+            dp.set_classification(match[1], classifications[match[2].strip()])
+
     categories_txt = world_folder.joinpath(game_name, "categories.txt")
     if categories_txt.exists():
         categoriesFile = open(categories_txt, "r", encoding="utf-8")
