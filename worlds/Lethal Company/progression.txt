@@ -8,7 +8,7 @@ TZP-Inhalant: unknown
 Zap gun: progression
 Jetpack: unknown
 Extension ladder: unknown
-Radar-booster: unknown
+Radar-booster: progression
 Spray paint: unknown
 LoudHorn: unknown
 SignalTranslator: unknown
@@ -45,3 +45,4 @@ Flashlight: progression
 220 Assurance: progression
 41 Experimentation: unknown
 85 Rend: progression
+Pro-flashlight: progression
