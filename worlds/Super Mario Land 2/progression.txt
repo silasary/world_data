@@ -33,7 +33,7 @@ Pipe Traversal: progression
 Pipe Traversal - Down: progression
 Pipe Traversal - Up: progression
 Pipe Traversal - Right: progression
-Pipe Traversal - Left: unknown
+Pipe Traversal - Left: progression
 Super Star Duration Increase: filler
 Easy Mode: unknown
 Normal Mode: unknown
@@ -45,7 +45,7 @@ Auto Scroll - Tree Zone 2: unknown
 Auto Scroll - Tree Zone 3: unknown
 Auto Scroll - Tree Zone 4: trap
 Auto Scroll - Tree Zone 5: unknown
-Auto Scroll - Tree Zone Secret Course: unknown
+Auto Scroll - Tree Zone Secret Course: trap
 Auto Scroll - Hippo Zone: unknown
 Auto Scroll - Space Zone 1: unknown
 Auto Scroll - Space Zone Secret Course: unknown
@@ -137,7 +137,7 @@ Mario's Castle Midway Bell: progression
 9 Coins: unknown
 10 Coins: unknown
 11 Coins: unknown
-12 Coins: unknown
+12 Coins: filler
 13 Coins: unknown
 14 Coins: unknown
 15 Coins: unknown
