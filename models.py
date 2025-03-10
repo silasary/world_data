@@ -54,6 +54,7 @@ class Datapackage:
 def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
     if dp is None:
         dp = Datapackage()
+    game_name = game_name.replace("/", "_").replace(":", "_")
     info_yaml = world_folder.joinpath(game_name, "info.yaml")
     if info_yaml.exists():
         info = yaml.safe_load(info_yaml)
@@ -86,6 +87,7 @@ def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
     return dp
 
 def save_datapackage(game_name, dp: Datapackage) -> None:
+    game_name = game_name.replace("/", "_").replace(":", "_")
     info = {}
     for name, classification in dp.items.items():
         info[name] = classification.name
