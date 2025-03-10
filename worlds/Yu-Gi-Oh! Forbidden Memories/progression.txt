@@ -15,7 +15,7 @@ Shadow Specter: unknown
 Blackland Fire Dragon: unknown
 Sword Arm of Dragon: unknown
 Swamp Battleguard: unknown
-Tyhone: unknown
+Tyhone: filler
 Battle Steer: unknown
 Flame Swordsman: filler
 Time Wizard: unknown
@@ -59,12 +59,12 @@ Killer Needle: filler
 Gokibore: unknown
 Giant Flea: unknown
 Larvae Moth: unknown
-Great Moth: unknown
+Great Moth: useful
 Kuriboh: unknown
 Mammoth Graveyard: unknown
 Great White: unknown
 Wolf: filler
-Harpie Lady: unknown
+Harpie Lady: filler
 Harpie Lady Sisters: unknown
 Tiger Axe: unknown
 Silver Fang: unknown
@@ -137,7 +137,7 @@ Octoberser: unknown
 The 13th Grave: unknown
 Charubin the Fire Knight: filler
 Mystical Capture Chain: unknown
-Fiend's Hand: unknown
+Fiend's Hand: filler
 Witty Phantom: filler
 Mystery Hand: filler
 Dragon Statue: unknown
@@ -282,9 +282,9 @@ Ray & Temperature: filler
 Gorgon Egg: unknown
 Petit Moth: unknown
 King Fog: unknown
-Protector of the Throne: unknown
+Protector of the Throne: filler
 Mystic Clown: unknown
-Mystical Sheep #2: unknown
+Mystical Sheep #2: filler
 Holograh: unknown
 Tao the Chanter: filler
 Serpent Marauder: unknown
@@ -311,7 +311,7 @@ Laser Cannon Armor: filler
 Insect Armor with Laser Cannon: unknown
 Elf's Light: unknown
 Beast Fangs: filler
-Steel Shell: unknown
+Steel Shell: filler
 Vile Germs: unknown
 Black Pendant: filler
 Silver Bow and Arrow: unknown
@@ -323,7 +323,7 @@ Cyber Shield: filler
 Elegant Egotist: unknown
 Mystical Moon: unknown
 Stop Defense: filler
-Malevolent Nuzzler: unknown
+Malevolent Nuzzler: filler
 Violet Crystal: unknown
 Book of Secret Arts: filler
 Invigoration: unknown
@@ -363,7 +363,7 @@ Yamadron: filler
 Seiyaryu: useful
 Three-legged Zombies: unknown
 Zera The Mant: unknown
-Flying Penguin: unknown
+Flying Penguin: filler
 Millennium Shield: unknown
 Fairy's Gift: unknown
 Black Luster Soldier: unknown
@@ -387,7 +387,7 @@ Toon Alligator: unknown
 Rude Kaiser: filler
 Parrot Dragon: unknown
 Dark Rabbit: unknown
-Bickuribox: unknown
+Bickuribox: filler
 Harpie's Pet Dragon: unknown
 Mystic Lamp: filler
 Pendulum Machine: unknown
@@ -422,7 +422,7 @@ Blocker: filler
 Blast Juggler: filler
 Golgoil: filler
 Giganto: unknown
-Cyber-Stein: unknown
+Cyber-Stein: filler
 Cyber Commander: unknown
 Jinzo #7: unknown
 Dice Armadillo: filler
@@ -454,7 +454,7 @@ Spike Seadra: filler
 30,000-Year White Turtle: unknown
 Kappa Avenger: unknown
 Kanikabuto: unknown
-Zarigun: unknown
+Zarigun: filler
 Millennium Golem: unknown
 Destroyer Golem: unknown
 Barrel Rock: unknown
@@ -464,7 +464,7 @@ Kaminari Attack: unknown
 Tripwire Beast: filler
 Bolt Escargot: unknown
 Bolt Penguin: unknown
-The Immortal of Thunder: unknown
+The Immortal of Thunder: filler
 Electric Snake: unknown
 Wing Eagle: unknown
 Punished Eagle: unknown
@@ -543,7 +543,7 @@ Mega Thunderball: unknown
 Niwatori: filler
 Corroding Shark: unknown
 Skelengel: filler
-Hane-Hane: unknown
+Hane-Hane: filler
 Misairuzame: unknown
 Tongyo: unknown
 Dharma Cannon: unknown
@@ -618,7 +618,7 @@ Lady of Faith: unknown
 Twin-headed Thunder Dragon: unknown
 Hunter Spider: unknown
 Armored Starfish: unknown
-Hourglass of Courage: unknown
+Hourglass of Courage: filler
 Marine Beast: unknown
 Warrior of Tradition: unknown
 Rock Spirit: unknown
@@ -669,7 +669,7 @@ Breath of Light: filler
 Eternal Draught: filler
 Curse of Millennium Shield: filler
 Yamadron Ritual: unknown
-Gate Guardian Ritual: unknown
+Gate Guardian Ritual: filler
 Bright Castle: useful
 Shadow Spell: unknown
 Black Luster Ritual: unknown
@@ -711,7 +711,7 @@ Tri-horned Dragon: useful
 Serpent Night Dragon: useful
 Skull Knight: useful
 Cosmo Queen: unknown
-Chakra: unknown
+Chakra: filler
 Crab Turtle: unknown
 Mikazukinoyaiba: unknown
 Meteor Dragon: unknown
@@ -721,7 +721,7 @@ Psycho-Puppet: filler
 Garma Sword: unknown
 Javelin Beetle: useful
 Fortress Whale: filler
-Dokurorider: unknown
+Dokurorider: filler
 Mask of Shine & Dark: unknown
 Dark Magic Ritual: filler
 Magician of Black Chaos: unknown
