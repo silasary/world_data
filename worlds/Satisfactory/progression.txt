@@ -62,7 +62,7 @@ Bundle: Motor: unknown
 Bundle: Mycelia: unknown
 Bundle: Non-fissile Uranium: unknown
 Bundle: Nuclear Pasta: filler
-Bundle: Lizard Doggo Statue: unknown
+Bundle: Lizard Doggo Statue: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: unknown
 Bundle: Packaged Fuel: unknown
