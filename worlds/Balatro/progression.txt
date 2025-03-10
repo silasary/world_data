@@ -40,7 +40,7 @@ Black Deck Green Stake: unknown
 Black Deck Orange Stake: unknown
 Black Deck Purple Stake: progression
 Black Deck Red Stake: progression
-Black Deck White Stake: unknown
+Black Deck White Stake: progression
 Black Hole: progression
 Black Stake: filler
 Blackboard: progression
@@ -54,7 +54,7 @@ Blue Deck Gold Stake: progression
 Blue Deck Green Stake: progression
 Blue Deck Orange Stake: progression
 Blue Deck Purple Stake: progression
-Blue Deck Red Stake: unknown
+Blue Deck Red Stake: progression
 Blue Deck White Stake: unknown
 Blue Joker: progression
 Blue Stake: filler
@@ -173,7 +173,7 @@ Grabber/Nacho Tong 2: progression
 Greedy Joker: progression
 Green Deck: progression
 Green Deck Black Stake: progression
-Green Deck Blue Stake: unknown
+Green Deck Blue Stake: progression
 Green Deck Gold Stake: unknown
 Green Deck Green Stake: progression
 Green Deck Orange Stake: progression
@@ -463,7 +463,7 @@ Zodiac Deck Blue Stake: progression
 Zodiac Deck Gold Stake: unknown
 Zodiac Deck Green Stake: progression
 Zodiac Deck Orange Stake: unknown
-Zodiac Deck Purple Stake: unknown
+Zodiac Deck Purple Stake: progression
 Zodiac Deck Red Stake: progression
 Zodiac Deck White Stake: progression
 Receive Buffoon Pack: filler
