@@ -68,7 +68,7 @@ Gauge:Hero-2000: filler
 Gauge:Hero-5000: filler
 Gauge:Hero-10000: filler
 Gauge:Hero-15000: filler
-Gauge:Hero-20000: unknown
+Gauge:Hero-20000: filler
 Gauge:Hero-30000: filler
 Gauge:Dark-1: unknown
 Gauge:Dark-5: unknown
@@ -163,3 +163,4 @@ Vehicle: Gun Lift: unknown
 Stage:Egg Dealer Black Comet: progression
 Stage:Egg Breaker Cryptic Castle: progression
 Stage:Black Doom Cosmic Fall: progression
+Stage:Heavy Dog: progression
