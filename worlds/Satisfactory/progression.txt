@@ -53,7 +53,7 @@ Bundle: Iron Plate: filler
 Bundle: Iron Rod: filler
 Bundle: Golden Nut Statue: unknown
 Bundle: Leaves: unknown
-Bundle: Limestone: unknown
+Bundle: Limestone: filler
 Bundle: Magnetic Field Generator: unknown
 Bundle: Mercer Sphere: unknown
 Bundle: Modular Engine: unknown
@@ -71,7 +71,7 @@ Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
 Bundle: Packaged Nitrogen Gas: filler
 Bundle: Packaged Oil: unknown
-Bundle: Packaged Sulfuric Acid: unknown
+Bundle: Packaged Sulfuric Acid: filler
 Bundle: Packaged Turbofuel: filler
 Bundle: Packaged Water: unknown
 Bundle: Petroleum Coke: filler
@@ -85,7 +85,7 @@ Bundle: Confusing Creature Statue: filler
 Bundle: Pressure Conversion Cube: unknown
 Bundle: Quantum Computer: filler
 Bundle: Quartz Crystal: unknown
-Bundle: Quickwire: unknown
+Bundle: Quickwire: filler
 Bundle: Radio Control Unit: filler
 Bundle: Raw Quartz: unknown
 Bundle: Reinforced Iron Plate: filler
@@ -97,11 +97,11 @@ Bundle: Silica: filler
 Bundle: Smart Plating: useful
 Bundle: Smokeless Powder: filler
 Bundle: Solid Biofuel: filler
-Bundle: Somersloop: unknown
+Bundle: Somersloop: filler
 Bundle: Stator: unknown
 Bundle: Silver Hog Statue: filler
 Bundle: Steel Beam: filler
-Bundle: Steel Ingot: unknown
+Bundle: Steel Ingot: filler
 Bundle: Steel Pipe: unknown
 Bundle: Sulfur: unknown
 Bundle: Supercomputer: filler
@@ -109,7 +109,7 @@ Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
 Bundle: Turbo Motor: unknown
 Bundle: Hog Remains: filler
-Bundle: Uranium: unknown
+Bundle: Uranium: filler
 Bundle: Uranium Fuel Rod: unknown
 Bundle: Uranium Waste: unknown
 Bundle: Versatile Framework: unknown
@@ -166,7 +166,7 @@ Recipe: Stitched Iron Plate: unknown
 Recipe: Rotor: progression
 Recipe: Copper Rotor: progression
 Recipe: Steel Rotor: progression
-Recipe: Stator: unknown
+Recipe: Stator: progression
 Recipe: Quickwire Stator: progression
 Recipe: Plastic: unknown
 Recipe: Residual Plastic: useful
@@ -245,7 +245,7 @@ Recipe: Crystal Oscillator: progression
 Recipe: Insulated Crystal Oscillator: progression
 Recipe: AI Limiter: progression
 Recipe: Electromagnetic Control Rod: progression
-Recipe: Electromagnetic Connection Rod: unknown
+Recipe: Electromagnetic Connection Rod: progression
 Recipe: High-Speed Connector: progression
 Recipe: Silicon High-Speed Connector: progression
 Recipe: Smart Plating: progression
@@ -281,14 +281,14 @@ Recipe: Cooling System: progression
 Recipe: Cooling Device: progression
 Recipe: Turbo Motor: unknown
 Recipe: Turbo Electric Motor: unknown
-Recipe: Turbo Pressure Motor: unknown
+Recipe: Turbo Pressure Motor: progression
 Recipe: Battery: useful
 Recipe: Classic Battery: progression
 Recipe: Supercomputer: useful
 Recipe: OC Supercomputer: useful
 Recipe: Super-State Computer: unknown
 Recipe: Sulfuric Acid: progression
-Recipe: Encased Uranium Cell: unknown
+Recipe: Encased Uranium Cell: progression
 Recipe: Infused Uranium Cell: unknown
 Recipe: Uranium Fuel Rod: unknown
 Recipe: Uranium Fuel Unit: useful
@@ -298,7 +298,7 @@ Recipe: Non-fissile Uranium: progression
 Recipe: Fertile Uranium: unknown
 Recipe: Plutonium Pellet: progression
 Recipe: Encased Plutonium Cell: progression
-Recipe: Instant Plutonium Cell: unknown
+Recipe: Instant Plutonium Cell: useful
 Recipe: Plutonium Fuel Rod: progression
 Recipe: Plutonium Fuel Unit: useful
 Recipe: Gas Filter: unknown
@@ -387,7 +387,7 @@ Building: Coal Generator: unknown
 Building: Geothermal Generator: useful
 Building: Nuclear Power Plant: useful
 Building: Miner Mk.1: unknown
-Building: Miner Mk.2: unknown
+Building: Miner Mk.2: progression
 Building: Miner Mk.3: progression
 Building: Oil Extractor: progression
 Building: Water Extractor: progression
@@ -433,7 +433,7 @@ Building: Conveyor Wall Mount: unknown
 Building: Conveyor Lift Floor Hole: unknown
 Building: Conveyor Ceiling Mount: unknown
 Building: Pipes Mk.1: unknown
-Building: Pipes Mk.2: unknown
+Building: Pipes Mk.2: progression
 Building: Pipeline Pump Mk.1: progression
 Building: Pipeline Pump Mk.2: progression
 Building: Pipeline Junction Cross: unknown
@@ -507,7 +507,7 @@ Customizer: Transportation Icon Patterns: unknown
 Customizer: Number Patterns: unknown
 Customizer: Pathway Patterns: unknown
 Customizer: Factory Zone Patterns: unknown
-Transport: Drones: unknown
+Transport: Drones: useful
 Transport: Trains: unknown
 Transport: Fluid Trains: unknown
 Transport: Tractor: unknown
@@ -517,7 +517,7 @@ Transport: Factory Cart: unknown
 Transport: Factory Cart (golden): filler
 Transport: Cyber Wagon: unknown
 Transport: Hypertube: progression
-Transport: Hypertube Floor Hole: unknown
+Transport: Hypertube Floor Hole: filler
 Transport: Hypertube Wall Support: unknown
 Transport: Hypertube Wall Hole: useful
 Hog Basic: unknown
@@ -546,19 +546,19 @@ Trap: Not the Bees: trap
 Bundle: Packaged Rocket Fuel: filler
 Recipe: Packaged Ionized Fuel: useful
 Bundle: Alien Power Matrix: filler
-Bundle: SAM Fluctuator: unknown
-Recipe: Tempered Caterium Ingot: unknown
-Recipe: Aluminum Beam: unknown
-Recipe: Ficsite Trigon: unknown
+Bundle: SAM Fluctuator: filler
+Recipe: Tempered Caterium Ingot: progression
+Recipe: Aluminum Beam: progression
+Recipe: Ficsite Trigon: progression
 Recipe: Cloudy Diamonds: unknown
 Recipe: Leached Copper Ingot: progression
 Bundle: Diamonds: unknown
-Recipe: Pink Diamonds: unknown
+Recipe: Pink Diamonds: progression
 Bundle: Biochemical Sculptor: unknown
-Recipe: Ficsite Ingot (Aluminum): unknown
+Recipe: Ficsite Ingot (Aluminum): useful
 Recipe: Molded Steel Pipe: progression
 Dimensional Depot upload from inventory: unknown
-Trap: Alpha Spitter: unknown
+Trap: Alpha Spitter: trap
 Recipe: Reanimated SAM: unknown
 Recipe: Oil-Based Diamonds: unknown
 Recipe: Dark Matter Trap: unknown
