@@ -4,7 +4,7 @@ Blitz: unknown
 Magic Hour: unknown
 Meteor Crash: useful
 Sliding Dash: useful
-Fire Dash: unknown
+Fire Dash: progression
 Dark Haze: unknown
 Sonic Blade: useful
 Chaos Blade: unknown
@@ -23,9 +23,9 @@ Ars Arcanum: unknown
 Time Splicer: unknown
 Poison Edge: unknown
 Wishing Edge: unknown
-Blizzard Edge: unknown
+Blizzard Edge: filler
 Stun Edge: unknown
-Slot Edge: unknown
+Slot Edge: filler
 Fire Strike: unknown
 Confusion Strike: unknown
 Blinding Strike: filler
@@ -51,10 +51,10 @@ Blizzara: useful
 Blizzaga: unknown
 Triple Blizzaga: unknown
 Thunder: useful
-Thundara: unknown
+Thundara: filler
 Thundaga: unknown
 Thundaga Shot: unknown
-Cure: unknown
+Cure: filler
 Cura: useful
 Curaga: unknown
 Esuna: filler
@@ -64,7 +64,7 @@ Seeker Mine: unknown
 Zero Gravity: unknown
 Zero Gravira: useful
 Zero Graviga: unknown
-Magnet: unknown
+Magnet: useful
 Magnera: unknown
 Magnega: unknown
 Munny Magnet: unknown
@@ -91,17 +91,17 @@ Ignite: unknown
 Confuse: unknown
 Bind: filler
 Poison: unknown
-Slow: unknown
+Slow: filler
 Stop: useful
 Stopra: useful
 Stopga: useful
 Sleep: unknown
 Mega-Potion: filler
 Mega-Ether: filler
-Elixir: unknown
-Megalixir: unknown
+Elixir: filler
+Megalixir: filler
 Vanish: filler
-Union Rush: unknown
+Union Rush: filler
 Voltage Stack: useful
 Trinity Limit: useful
 Illusion-F: unknown
@@ -109,13 +109,13 @@ Illusion-L: filler
 Illusion-V: unknown
 Illusion-R: unknown
 Illusion-B: filler
-High Jump: unknown
+High Jump: progression
 Thunder Roll: unknown
 Firewheel: unknown
 Air Slide: progression
 Ice Slide: progression
 Reversal: useful
-Glide: unknown
+Glide: progression
 Superglide: progression
 Fire Glide: unknown
 Homing Slide: progression
@@ -157,7 +157,7 @@ Spellweaver: unknown
 Fever Pitch: useful
 Firestorm: useful
 Diamond Dust: useful
-Thunderbolt: unknown
+Thunderbolt: useful
 Cyclone: unknown
 Bladecharge: unknown
 Sky Climber: unknown
@@ -165,7 +165,7 @@ Rockbreaker: unknown
 Ghost Drive: unknown
 Rhythm Mixer: unknown
 Dark Impulse: unknown
-Wingblade: unknown
+Wingblade: useful
 Frozen Fortune: unknown
 Treasure Magnet: filler
 HP Prize Plus: useful
@@ -191,7 +191,7 @@ Reload Boost: useful
 Defender: useful
 EXP Chance: unknown
 EXP Walker: useful
-Damage Syphon: unknown
+Damage Syphon: useful
 Second Chance: progression
 Once More: progression
 Leaf Bracer: unknown
@@ -227,7 +227,7 @@ Leaf Bracer: unknown
 (A) Treasure Trove: useful
 (A) Stroke of Midnight: useful
 (A) Fairy Stars: unknown
-(A) Victory Line: unknown
+(A) Victory Line: filler
 (A) Mark of a Hero: unknown
 (A) Hyperdrive: unknown
 (A) Pixie Petal: unknown
@@ -256,7 +256,7 @@ Never Land: progression
 Disney Town: progression
 HP Increase: useful
 Deck Capacity Increase: useful
-Mickey D-Link: unknown
+Mickey D-Link: filler
 Donald D-Link: unknown
 Goofy D-Link: useful
 Experiment 626 D-Link: unknown
