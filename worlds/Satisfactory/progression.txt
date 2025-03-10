@@ -32,7 +32,7 @@ Bundle: Copper Sheet: unknown
 Bundle: Adequate Pioneering Statue: unknown
 Bundle: Crystal Oscillator: unknown
 Bundle: Electromagnetic Control Rod: filler
-Bundle: Empty Canister: unknown
+Bundle: Empty Canister: filler
 Bundle: Empty Fluid Tank: unknown
 Bundle: Encased Industrial Beam: useful
 Bundle: Encased Plutonium Cell: unknown
@@ -63,13 +63,13 @@ Bundle: Mycelia: unknown
 Bundle: Non-fissile Uranium: unknown
 Bundle: Nuclear Pasta: filler
 Bundle: Lizard Doggo Statue: unknown
-Bundle: Organic Data Capsule: unknown
+Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: unknown
 Bundle: Packaged Fuel: unknown
 Bundle: Packaged Heavy Oil Residue: unknown
 Bundle: Packaged Liquid Biofuel: unknown
-Bundle: Packaged Nitric Acid: unknown
-Bundle: Packaged Nitrogen Gas: unknown
+Bundle: Packaged Nitric Acid: filler
+Bundle: Packaged Nitrogen Gas: filler
 Bundle: Packaged Oil: unknown
 Bundle: Packaged Sulfuric Acid: unknown
 Bundle: Packaged Turbofuel: filler
@@ -81,12 +81,12 @@ Bundle: Plutonium Pellet: unknown
 Bundle: Plutonium Waste: unknown
 Bundle: Polymer Resin: unknown
 Bundle: Power Shard: filler
-Bundle: Confusing Creature Statue: unknown
+Bundle: Confusing Creature Statue: filler
 Bundle: Pressure Conversion Cube: unknown
 Bundle: Quantum Computer: filler
 Bundle: Quartz Crystal: unknown
 Bundle: Quickwire: unknown
-Bundle: Radio Control Unit: unknown
+Bundle: Radio Control Unit: filler
 Bundle: Raw Quartz: unknown
 Bundle: Reinforced Iron Plate: filler
 Bundle: Rotor: unknown
@@ -96,7 +96,7 @@ Bundle: Screw: filler
 Bundle: Silica: filler
 Bundle: Smart Plating: useful
 Bundle: Smokeless Powder: filler
-Bundle: Solid Biofuel: unknown
+Bundle: Solid Biofuel: filler
 Bundle: Somersloop: unknown
 Bundle: Stator: unknown
 Bundle: Silver Hog Statue: filler
@@ -116,7 +116,7 @@ Bundle: Versatile Framework: unknown
 Bundle: Wire: filler
 Bundle: Wood: filler
 Bundle: Plasma Spitter Remains: filler
-Bundle: Stinger Remains: unknown
+Bundle: Stinger Remains: filler
 Bundle: Hatcher Remains: unknown
 Bundle: Alien DNA Capsule: unknown
 Bundle: Bacon Agaric: filler
@@ -135,7 +135,7 @@ Bundle: Gas Nobelisk: unknown
 Bundle: Hazmat Suit: useful
 Bundle: Homing Rifle Ammo: unknown
 Bundle: Hover Pack: useful
-Bundle: Iron Rebar: unknown
+Bundle: Iron Rebar: filler
 Bundle: Jetpack: unknown
 Bundle: Medicinal Inhaler: unknown
 Bundle: Nobelisk: useful
@@ -146,12 +146,12 @@ Bundle: Paleberry: filler
 Bundle: Parachute: filler
 Bundle: Pulse Nobelisk: filler
 Bundle: Rebar Gun: filler
-Bundle: Rifle: unknown
+Bundle: Rifle: filler
 Bundle: Rifle Ammo: unknown
 Bundle: Shatter Rebar: unknown
 Bundle: Stun Rebar: filler
-Bundle: Turbo Rifle Ammo: unknown
-Bundle: Xeno-Basher: unknown
+Bundle: Turbo Rifle Ammo: filler
+Bundle: Xeno-Basher: filler
 Bundle: Xeno-Zapper: useful
 Bundle: Zipline: useful
 Bundle: Portable Miner: filler
@@ -165,9 +165,9 @@ Recipe: Bolted Iron Plate: unknown
 Recipe: Stitched Iron Plate: unknown
 Recipe: Rotor: progression
 Recipe: Copper Rotor: progression
-Recipe: Steel Rotor: unknown
+Recipe: Steel Rotor: progression
 Recipe: Stator: unknown
-Recipe: Quickwire Stator: unknown
+Recipe: Quickwire Stator: progression
 Recipe: Plastic: unknown
 Recipe: Residual Plastic: useful
 Recipe: Recycled Plastic: progression
@@ -239,15 +239,15 @@ Recipe: Crystal Computer: progression
 Recipe: Caterium Computer: progression
 Recipe: Circuit Board: unknown
 Recipe: Electrode Circuit Board: unknown
-Recipe: Silicon Circuit Board: unknown
+Recipe: Silicon Circuit Board: progression
 Recipe: Caterium Circuit Board: unknown
 Recipe: Crystal Oscillator: progression
 Recipe: Insulated Crystal Oscillator: progression
-Recipe: AI Limiter: unknown
+Recipe: AI Limiter: progression
 Recipe: Electromagnetic Control Rod: progression
 Recipe: Electromagnetic Connection Rod: unknown
 Recipe: High-Speed Connector: progression
-Recipe: Silicon High-Speed Connector: unknown
+Recipe: Silicon High-Speed Connector: progression
 Recipe: Smart Plating: progression
 Recipe: Plastic Smart Plating: useful
 Recipe: Versatile Framework: progression
@@ -294,7 +294,7 @@ Recipe: Uranium Fuel Rod: unknown
 Recipe: Uranium Fuel Unit: useful
 Recipe: Beacon: useful
 Recipe: Crystal Beacon: unknown
-Recipe: Non-fissile Uranium: unknown
+Recipe: Non-fissile Uranium: progression
 Recipe: Fertile Uranium: unknown
 Recipe: Plutonium Pellet: progression
 Recipe: Encased Plutonium Cell: progression
@@ -361,15 +361,15 @@ Recipe: Protein Inhaler: unknown
 Recipe: Rebar Gun: unknown
 Recipe: Rifle: unknown
 Recipe: Rifle Ammo: progression
-Recipe: Shatter Rebar: unknown
+Recipe: Shatter Rebar: useful
 Recipe: Stun Rebar: unknown
 Recipe: Therapeutic Inhaler: progression
-Recipe: Turbo Rifle Ammo: unknown
+Recipe: Turbo Rifle Ammo: useful
 Recipe: Vitamin Inhaler: unknown
 Recipe: Xeno-Basher: unknown
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
-Recipe: Fine Black Powder: unknown
+Recipe: Fine Black Powder: progression
 Recipe: Smokeless Powder: unknown
 Recipe: Alien DNA Capsule: unknown
 Recipe: Power Shard (1): progression
@@ -404,10 +404,10 @@ Building: Fluid Buffer: unknown
 Building: Industrial Fluid Buffer: unknown
 Building: Jump Pad: useful
 Building: Ladder: useful
-Building: MAM: unknown
+Building: MAM: progression
 Building: Personal Storage Box: useful
 Building: Power Storage: useful
-Building: U-Jelly Landing Pad: unknown
+Building: U-Jelly Landing Pad: useful
 Building: Power Switch: useful
 Building: Priority Power Switch: unknown
 Building: Storage Container: unknown
@@ -447,7 +447,7 @@ Building: Wall Mounted Flood Light: unknown
 Building: Street Light: unknown
 Building: Flood Light Tower: unknown
 Building: Ceiling Light: unknown
-Building: Power Tower: unknown
+Building: Power Tower: useful
 Building: Walls Orange: useful
 Building: Radar Tower: unknown
 Building: Smart Splitter: unknown
@@ -551,12 +551,12 @@ Recipe: Tempered Caterium Ingot: unknown
 Recipe: Aluminum Beam: unknown
 Recipe: Ficsite Trigon: unknown
 Recipe: Cloudy Diamonds: unknown
-Recipe: Leached Copper Ingot: unknown
+Recipe: Leached Copper Ingot: progression
 Bundle: Diamonds: unknown
 Recipe: Pink Diamonds: unknown
 Bundle: Biochemical Sculptor: unknown
 Recipe: Ficsite Ingot (Aluminum): unknown
-Recipe: Molded Steel Pipe: unknown
+Recipe: Molded Steel Pipe: progression
 Dimensional Depot upload from inventory: unknown
 Trap: Alpha Spitter: unknown
 Recipe: Reanimated SAM: unknown
