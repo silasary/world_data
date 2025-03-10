@@ -25,7 +25,7 @@ SonicArrow: unknown
 Valkerye: useful
 Siren: unknown
 Air Gun: unknown
-Dart Gun: unknown
+Dart Gun: filler
 Auto Gun: filler
 PicoMagnum: unknown
 Plasma Gun: unknown
@@ -174,7 +174,7 @@ Elixir: filler
 HyperEther: filler
 MegaElixir: unknown
 Heal: filler
-Revive: unknown
+Revive: filler
 Shelter: unknown
 Power Meal: filler
 Lapis: filler
