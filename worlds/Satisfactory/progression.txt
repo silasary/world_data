@@ -309,7 +309,7 @@ Recipe: Copper Powder: useful
 Recipe: Nuclear Pasta: unknown
 Recipe: Thermal Propulsion Rocket: unknown
 Recipe: Pulse Nobelisk: unknown
-Recipe: Hatcher Protein: unknown
+Recipe: Hatcher Protein: progression
 Recipe: Hog Protein: progression
 Recipe: Spitter Protein: progression
 Recipe: Stinger Protein: unknown
