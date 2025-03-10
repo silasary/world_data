@@ -37,7 +37,7 @@ Thrown Pencil: progression
 Oversized Pencil (Craft): progression
 Wrench (Item): unknown
 Paleolithic Tool (Item): progression
-Princess Wand (Craft): unknown
+Princess Wand (Craft): progression
 Pot Lid (Item): unknown
 Art Palette (Craft): unknown
 Inner Tube (Craft): unknown
@@ -56,7 +56,7 @@ Skipping Rock (Item): useful
 Space Blaster (Item): unknown
 Shuriken (Item): progression
 Bowling Bomb (Item): unknown
-Bubble Gum (Item): unknown
-Sticky Hand (Item): unknown
+Bubble Gum (Item): useful
+Sticky Hand (Item): filler
 Paint Blaster (Item): unknown
 An Actual Digital Camera (Craft): filler
