@@ -7,6 +7,14 @@ import re
 import requests
 import pathlib
 
+try:
+    import platformdirs
+    datapackage_dir = os.path.join(platformdirs.user_data_dir("Archipelago", False), "Cache", "datapackage")
+except ImportError:
+    datapackage_dir = os.path.expandvars("%LOCALAPPDATA%/Archipelago/Cache/datapackage")
+    pass
+
+
 from utils import world_folder
 
 def fill_progression_data(game: str, dp: dict):
@@ -39,7 +47,7 @@ def load_game_data_package(game):
     checksum = None
     dp = None
     try:
-        cache_path = pathlib.Path(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/{game}/"))
+        cache_path = pathlib.Path(os.path.join(datapackage_dir, game))
     # CommonClient stores its checksums here, so if you've ever connected to a multiworld with the same game, it should be here
         if cache_path.exists():
             checksums = [f for f in cache_path.iterdir() if f.is_file()]
@@ -70,7 +78,7 @@ game = input("Enter game (or enter for list): ")
 if game:
     load_game_data_package(game)
 else:
-    games = [f for f in os.listdir(os.path.expandvars(f"%LOCALAPPDATA%/Archipelago/Cache/datapackage/"))]
+    games = [f for f in os.listdir(datapackage_dir)]
     for i, g in enumerate(games):
         print(f"{i}: {g}")
     index = input("Enter index (or enter for everything): ")
