@@ -11,7 +11,7 @@ Extension ladder: unknown
 Radar-booster: progression
 Spray paint: unknown
 LoudHorn: unknown
-SignalTranslator: unknown
+SignalTranslator: useful
 Teleporter: useful
 InverseTeleporter: useful
 Experimentation: unknown
@@ -43,7 +43,7 @@ Flashlight: progression
 61 March: progression
 7 Dine: progression
 220 Assurance: progression
-41 Experimentation: unknown
+41 Experimentation: progression
 85 Rend: progression
 Pro-flashlight: progression
 68 Artifice: progression
