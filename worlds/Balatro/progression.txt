@@ -13,9 +13,9 @@ Acrobat: progression
 Anaglyph Deck: progression
 Anaglyph Deck Black Stake: progression
 Anaglyph Deck Blue Stake: progression
-Anaglyph Deck Gold Stake: unknown
+Anaglyph Deck Gold Stake: progression
 Anaglyph Deck Green Stake: unknown
-Anaglyph Deck Orange Stake: unknown
+Anaglyph Deck Orange Stake: progression
 Anaglyph Deck Purple Stake: progression
 Anaglyph Deck Red Stake: progression
 Anaglyph Deck White Stake: progression
@@ -34,10 +34,10 @@ Baron: progression
 Baseball Card: progression
 Black Deck: progression
 Black Deck Black Stake: progression
-Black Deck Blue Stake: unknown
+Black Deck Blue Stake: progression
 Black Deck Gold Stake: unknown
 Black Deck Green Stake: unknown
-Black Deck Orange Stake: unknown
+Black Deck Orange Stake: progression
 Black Deck Purple Stake: progression
 Black Deck Red Stake: progression
 Black Deck White Stake: progression
@@ -100,7 +100,7 @@ Checkered Deck Blue Stake: progression
 Checkered Deck Gold Stake: progression
 Checkered Deck Green Stake: progression
 Checkered Deck Orange Stake: unknown
-Checkered Deck Purple Stake: unknown
+Checkered Deck Purple Stake: progression
 Checkered Deck Red Stake: progression
 Checkered Deck White Stake: progression
 Chicot: progression
@@ -112,7 +112,7 @@ Constellation: progression
 Crafty Joker: progression
 Crazy Joker: progression
 Credit Card: progression
-Cryptid: unknown
+Cryptid: useful
 Crystal Ball/Omen Globe 1: progression
 Crystal Ball/Omen Globe 2: progression
 DNA: progression
@@ -141,7 +141,7 @@ Erratic Deck Green Stake: progression
 Erratic Deck Orange Stake: unknown
 Erratic Deck Purple Stake: progression
 Erratic Deck Red Stake: progression
-Erratic Deck White Stake: unknown
+Erratic Deck White Stake: progression
 Eternal Trap: trap
 Even Steven: progression
 Faceless Joker: progression
@@ -158,9 +158,9 @@ Ghost Deck Black Stake: unknown
 Ghost Deck Blue Stake: unknown
 Ghost Deck Gold Stake: unknown
 Ghost Deck Green Stake: progression
-Ghost Deck Orange Stake: unknown
+Ghost Deck Orange Stake: progression
 Ghost Deck Purple Stake: progression
-Ghost Deck Red Stake: unknown
+Ghost Deck Red Stake: progression
 Ghost Deck White Stake: progression
 Gift Card: progression
 Glass Joker: progression
@@ -280,7 +280,7 @@ Mystic Summit: progression
 Nebula Deck: progression
 Nebula Deck Black Stake: unknown
 Nebula Deck Blue Stake: unknown
-Nebula Deck Gold Stake: unknown
+Nebula Deck Gold Stake: progression
 Nebula Deck Green Stake: progression
 Nebula Deck Orange Stake: progression
 Nebula Deck Purple Stake: progression
@@ -320,7 +320,7 @@ Planet Merchant/Planet Tycoon 1: progression
 Planet Merchant/Planet Tycoon 2: progression
 Planet X: useful
 Plasma Deck: progression
-Plasma Deck Black Stake: unknown
+Plasma Deck Black Stake: progression
 Plasma Deck Blue Stake: progression
 Plasma Deck Gold Stake: progression
 Plasma Deck Green Stake: progression
@@ -390,7 +390,7 @@ Stuntman: progression
 Supernova: progression
 Superposition: progression
 Swashbuckler: progression
-Talisman: unknown
+Talisman: useful
 Tarot Bundle: filler
 Tarot Bundle 1: unknown
 Tarot Bundle 2: unknown
@@ -458,11 +458,11 @@ Yellow Deck White Stake: unknown
 Yorick: progression
 Zany Joker: progression
 Zodiac Deck: progression
-Zodiac Deck Black Stake: unknown
+Zodiac Deck Black Stake: progression
 Zodiac Deck Blue Stake: progression
 Zodiac Deck Gold Stake: unknown
 Zodiac Deck Green Stake: progression
-Zodiac Deck Orange Stake: unknown
+Zodiac Deck Orange Stake: progression
 Zodiac Deck Purple Stake: progression
 Zodiac Deck Red Stake: progression
 Zodiac Deck White Stake: progression
