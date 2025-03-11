@@ -1,5 +1,5 @@
 Reward: Torch God's Favor: filler
-Post-King Slime: progression
+Post-King Slime: filler
 Post-Desert Scourge: progression
 Post-Giant Clam: unknown
 Post-Eye of Cthulhu: progression
@@ -11,12 +11,12 @@ Post-Goblin Army: progression
 Post-Queen Bee: progression
 Post-Calamity Evil Boss: unknown
 Post-Skeletron: progression
-Post-Deerclops: progression
+Post-Deerclops: filler
 Post-The Slime God: unknown
 Hardmode: progression
 Post-Earth Elemental: unknown
 Post-Cloud Elemental: unknown
-Post-Pirate Invasion: filler
+Post-Pirate Invasion: useful
 Post-Queen Slime: filler
 Post-Aquatic Scourge: unknown
 Post-The Twins: progression
@@ -34,15 +34,15 @@ Post-Great Sand Shark: filler
 Post-Leviathan and Anahita: unknown
 Post-Astrum Aureus: unknown
 Post-Golem: progression
-Post-Old One's Army Tier 3: filler
+Post-Old One's Army Tier 3: useful
 Post-Martian Madness: useful
 Post-Plaguebringer: unknown
 Post-The Plaguebringer Goliath: unknown
-Post-Duke Fishron: useful
-Post-Mourning Wood: progression
-Post-Pumpking: useful
+Post-Duke Fishron: filler
+Post-Mourning Wood: filler
+Post-Pumpking: filler
 Post-Everscream: filler
-Post-Santa-NK1: progression
+Post-Santa-NK1: filler
 Post-Ice Queen: filler
 Post-Frost Legion: filler
 Post-Ravager: unknown
@@ -73,24 +73,24 @@ Post-Supreme Witch, Calamitas: progression
 Post-Adult Eidolon Wyrm: unknown
 Reward: Hermes Boots: useful
 Reward: Magic Mirror: filler
-Reward: Demon Conch: filler
+Reward: Demon Conch: useful
 Reward: Magic Conch: useful
 Reward: Cosmolight: unknown
-Reward: Grappling Hook: filler
-Reward: Cloud in a Bottle: useful
+Reward: Grappling Hook: useful
+Reward: Cloud in a Bottle: filler
 Reward: Climbing Claws: filler
 Reward: Ancient Chisel: filler
-Reward: Fledgling Wings: filler
+Reward: Fledgling Wings: useful
 Reward: Rod of Discord: filler
 Reward: Aglet: useful
 Reward: Anklet of the Wind: useful
-Reward: Ice Skates: filler
-Reward: Lava Charm: unknown
+Reward: Ice Skates: useful
+Reward: Lava Charm: useful
 Reward: Water Walking Boots: useful
 Reward: Flipper: filler
 Reward: Frog Leg: filler
 Reward: Shoe Spikes: filler
-Reward: Tabi: useful
+Reward: Tabi: filler
 Reward: Black Belt: unknown
 Reward: Flying Carpet: unknown
 Reward: Moon Charm: filler
@@ -101,46 +101,46 @@ Reward: Radar: filler
 Reward: Tally Counter: unknown
 Reward: Lifeform Analyzer: filler
 Reward: DPS Meter: filler
-Reward: Stopwatch: useful
-Reward: Metal Detector: useful
-Reward: Fisherman's Pocket Guide: useful
+Reward: Stopwatch: filler
+Reward: Metal Detector: filler
+Reward: Fisherman's Pocket Guide: filler
 Reward: Weather Radio: filler
 Reward: Sextant: unknown
-Reward: Band of Regeneration: useful
+Reward: Band of Regeneration: filler
 Reward: Celestial Magnet: filler
-Reward: Nature's Gift: useful
-Reward: Philosopher's Stone: useful
+Reward: Nature's Gift: filler
+Reward: Philosopher's Stone: filler
 Reward: Cobalt Shield: useful
 Reward: Armor Polish: filler
-Reward: Vitamins: unknown
+Reward: Vitamins: filler
 Reward: Bezoar: filler
 Reward: Adhesive Bandage: filler
-Reward: Megaphone: unknown
-Reward: Nazar: unknown
+Reward: Megaphone: filler
+Reward: Nazar: useful
 Reward: Fast Clock: filler
 Reward: Trifold Map: filler
 Reward: Blindfold: filler
-Reward: Pocket Mirror: useful
+Reward: Pocket Mirror: filler
 Reward: Paladin's Shield: useful
 Reward: Frozen Turtle Shell: filler
 Reward: Flesh Knuckles: filler
 Reward: Putrid Scent: filler
 Reward: Feral Claws: filler
-Reward: Cross Necklace: useful
-Reward: Star Cloak: trap
+Reward: Cross Necklace: filler
+Reward: Star Cloak: filler
 Reward: Titan Glove: filler
 Reward: Obsidian Rose: filler
 Reward: Magma Stone: filler
 Reward: Shark Tooth Necklace: filler
 Reward: Magic Quiver: filler
 Reward: Rifle Scope: filler
-Reward: Brick Layer: useful
+Reward: Brick Layer: filler
 Reward: Extendo Grip: filler
 Reward: Paint Sprayer: filler
 Reward: Portable Cement Mixer: filler
 Reward: Treasure Magnet: filler
 Reward: Step Stool: filler
-Reward: Discount Card: useful
+Reward: Discount Card: filler
 Reward: Gold Ring: filler
 Reward: Lucky Coin: filler
 Reward: High Test Fishing Line: filler
@@ -186,7 +186,7 @@ Reward: Anechoic Plating: filler
 Reward: Iron Boots: unknown
 Reward: Sprit Glyph: unknown
 Reward: Abyssal Amulet: filler
-Reward: Coins: useful
+Reward: Coins: filler
 Victory: unknown
 Post-Hardmode Giant Clam: filler
 Post-Dreadnautilus: filler
