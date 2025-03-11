@@ -105,7 +105,7 @@ Reward: Stopwatch: filler
 Reward: Metal Detector: filler
 Reward: Fisherman's Pocket Guide: filler
 Reward: Weather Radio: filler
-Reward: Sextant: unknown
+Reward: Sextant: useful
 Reward: Band of Regeneration: filler
 Reward: Celestial Magnet: filler
 Reward: Nature's Gift: filler
@@ -148,7 +148,7 @@ Reward: Angler Earring: filler
 Reward: Tackle Box: filler
 Reward: Lavaproof Fishing Hook: useful
 Reward: Red Counterweight: filler
-Reward: Yoyo Glove: unknown
+Reward: Yoyo Glove: useful
 Reward: Diving Helmet: unknown
 Reward: Jellyfish Necklace: filler
 Reward: Corrupt Flask: unknown
