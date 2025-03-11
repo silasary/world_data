@@ -101,7 +101,7 @@ Book Of Virtues: unknown
 Boom: unknown
 Boomerang: unknown
 Booster Pack: unknown
-Boss Item: unknown
+Boss Item: useful
 Bot Fly: unknown
 Box: unknown
 Box Of Friends: unknown
@@ -174,8 +174,8 @@ Cube Baby: unknown
 Cube Of Meat: unknown
 Cupids Arrow: unknown
 Curse Of The Tower: unknown
-Curse Room Item: unknown
-Curse Trap: unknown
+Curse Room Item: useful
+Curse Trap: trap
 Cursed Eye: unknown
 D Infinity: unknown
 D1: unknown
@@ -217,7 +217,7 @@ Demon Baby: unknown
 Demon Baggar Item: unknown
 Depression: unknown
 Dessert: unknown
-Devil Deal Item: unknown
+Devil Deal Item: useful
 Dinner: unknown
 Diplopia: unknown
 Dirty Mind: unknown
@@ -398,7 +398,7 @@ Lemon Mishap: unknown
 Leo: unknown
 Leprosy: unknown
 Libra: unknown
-Library Item: unknown
+Library Item: useful
 Lil Abaddon: unknown
 Lil Brimstone: unknown
 Lil Chest: unknown
@@ -527,7 +527,7 @@ Ouija Board: unknown
 Pact: unknown
 Pageant Boy: unknown
 Papa Fly: unknown
-Paralysis Trap: unknown
+Paralysis Trap: trap
 Parasite: unknown
 Parasitoid: unknown
 Paschal Candle: unknown
@@ -571,27 +571,27 @@ Quarter: unknown
 Quints: unknown
 R Key: unknown
 Rainbow Baby: unknown
-Random Bomb: unknown
+Random Bomb: filler
 Random Card: filler
 Random Chest: filler
-Random Coin: unknown
-Random Heart: unknown
-Random Key: unknown
+Random Coin: filler
+Random Heart: filler
+Random Key: filler
 Random Pickup: unknown
-Random Pill: unknown
+Random Pill: trap
 Random Trinket: filler
 Raw Liver: unknown
 Razor Blade: unknown
 Recall: unknown
 Red Candle: unknown
-Red Chest Item: unknown
+Red Chest Item: useful
 Red Key: unknown
 Red Stew: unknown
 Redemption: unknown
 Relic: unknown
 Remote Detonator: unknown
 Restock: unknown
-Retro Vision Trap: unknown
+Retro Vision Trap: trap
 Revelation: unknown
 Robo Baby: unknown
 Robo Baby 2: unknown
@@ -708,7 +708,7 @@ Telekinesis: unknown
 Telepathy Book: unknown
 Teleport: unknown
 Teleport 2: unknown
-Teleport Trap: unknown
+Teleport Trap: trap
 Terra: unknown
 The Jar: unknown
 The Nail: unknown
@@ -726,10 +726,10 @@ Toxic Shock: unknown
 Tractor Beam: unknown
 Transcendence: unknown
 Treasure Map: unknown
-Treasure Room Item: unknown
+Treasure Room Item: useful
 Trinity Shield: unknown
 Trisagion: unknown
-Troll Bomb Trap: unknown
+Troll Bomb Trap: trap
 Tropicamide: unknown
 Twisted Pair: unknown
 Ultra Secret Room Item: unknown
@@ -751,7 +751,7 @@ Voodoo Head: unknown
 Wafer: unknown
 Wait What: unknown
 Wavy Cap: unknown
-Wavy Cap Trap: unknown
+Wavy Cap Trap: trap
 We Need To Go Deeper: unknown
 White Pony: unknown
 Whore Of Babylon: unknown
