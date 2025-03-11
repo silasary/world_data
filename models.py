@@ -55,6 +55,8 @@ def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
     if dp is None:
         dp = Datapackage()
     game_name = game_name.replace("/", "_").replace(":", "_")
+    if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")):
+        game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
     info_yaml = world_folder.joinpath(game_name, "info.yaml")
     if info_yaml.exists():
         info = yaml.safe_load(info_yaml)
@@ -88,6 +90,8 @@ def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
 
 def save_datapackage(game_name, dp: Datapackage) -> None:
     game_name = game_name.replace("/", "_").replace(":", "_")
+    if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")):
+        game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
     info = {}
     for name, classification in dp.items.items():
         info[name] = classification.name
