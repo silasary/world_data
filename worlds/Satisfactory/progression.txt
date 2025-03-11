@@ -60,7 +60,7 @@ Bundle: Modular Engine: unknown
 Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
-Bundle: Non-fissile Uranium: unknown
+Bundle: Non-fissile Uranium: filler
 Bundle: Nuclear Pasta: filler
 Bundle: Lizard Doggo Statue: filler
 Bundle: Organic Data Capsule: filler
