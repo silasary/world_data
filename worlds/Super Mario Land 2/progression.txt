@@ -32,7 +32,7 @@
 127 Coins: unknown
 128 Coins: unknown
 129 Coins: unknown
-13 Coins: unknown
+13 Coins: filler
 130 Coins: unknown
 131 Coins: unknown
 132 Coins: unknown
@@ -80,14 +80,14 @@
 19 Coins: filler
 2 Coins: filler
 20 Coins: unknown
-21 Coins: unknown
+21 Coins: filler
 22 Coins: unknown
 23 Coins: unknown
 24 Coins: unknown
 25 Coins: unknown
 26 Coins: unknown
 27 Coins: unknown
-28 Coins: unknown
+28 Coins: filler
 29 Coins: filler
 3 Coins: filler
 30 Coins: filler
@@ -122,7 +122,7 @@
 57 Coins: unknown
 58 Coins: unknown
 59 Coins: unknown
-6 Coins: unknown
+6 Coins: filler
 60 Coins: unknown
 61 Coins: unknown
 62 Coins: unknown
