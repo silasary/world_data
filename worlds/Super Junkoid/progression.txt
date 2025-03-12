@@ -1,37 +1,37 @@
-Heart: progression
-Magic Bolt: unknown
 Baseball: progression
-Sparksuit: progression
-Rat Burst: unknown
+Big League Glove: unknown
+BigLeagueGlove: useful
+BloodGem: progression
+DeathGem: useful
+Dreamer's Crown: useful
+DreamersCrown: useful
+Feather: progression
+Gem Of Blood: unknown
 Gem Of Death: useful
 Gem Of Ice: unknown
-Feather: progression
-Rat Dasher: progression
-Gem Of Blood: unknown
-Wave Bangle: unknown
-Purple Locket: unknown
-Sanguine Fin: unknown
-Magic Soap: unknown
 Gem Of Storms: unknown
-Dreamer's Crown: useful
-Magic Broom: unknown
-Wallkicks: progression
-Rat Cloak: progression
-Lucky Frog: unknown
-Big League Glove: unknown
-LuckyFrog: filler
-DeathGem: useful
-BigLeagueGlove: useful
-WaveBangle: filler
-MagicSoap: useful
-DreamersCrown: useful
-MagicBolt: progression
-RatBurst: progression
+Heart: progression
 IceGem: progression
-RatDasher: progression
-BloodGem: progression
-PurpleLocket: progression
-SanguineFin: progression
-StormsGem: progression
+Lucky Frog: unknown
+LuckyFrog: filler
+Magic Bolt: unknown
+Magic Broom: unknown
+Magic Soap: unknown
+MagicBolt: progression
 MagicBroom: progression
+MagicSoap: useful
+Purple Locket: unknown
+PurpleLocket: progression
+Rat Burst: unknown
+Rat Cloak: progression
+Rat Dasher: progression
+RatBurst: progression
 RatCloak: progression
+RatDasher: progression
+Sanguine Fin: unknown
+SanguineFin: progression
+Sparksuit: progression
+StormsGem: progression
+Wallkicks: progression
+Wave Bangle: unknown
+WaveBangle: filler
