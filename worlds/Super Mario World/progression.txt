@@ -1,29 +1,29 @@
 1 coin: filler
-5 coins: filler
-10 coins: filler
-50 coins: filler
 1-Up Mushroom: filler
-Yoshi Egg: mcguffin
-Run: progression
+10 coins: filler
+5 coins: filler
+50 coins: filler
+Blue Switch Palace: progression
+Boss Token: progression
 Carry: progression
-Swim: progression
-Spin Jump: progression
 Climb: progression
-Yoshi: progression
+Green Switch Palace: progression
+Ice Trap: trap
+Literature Trap: trap
+P-Balloon: progression
 P-Switch: progression
 Progressive Powerup: progression
-P-Balloon: progression
-Super Star Activate: progression
-Special Zone Clear: progression
-Yellow Switch Palace: progression
-Green Switch Palace: progression
 Red Switch Palace: progression
-Blue Switch Palace: progression
-Ice Trap: trap
-Stun Trap: trap
-Literature Trap: trap
-Timer Trap: trap
 Reverse Trap: trap
-Thwimp Trap: trap
+Run: progression
+Special Zone Clear: progression
+Spin Jump: progression
+Stun Trap: trap
+Super Star Activate: progression
+Swim: progression
 The Princess: progression
-Boss Token: progression
+Thwimp Trap: trap
+Timer Trap: trap
+Yellow Switch Palace: progression
+Yoshi Egg: mcguffin
+Yoshi: progression
