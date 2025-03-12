@@ -3,8 +3,8 @@ Amulet Coin: filler
 Antidote: filler
 Awakening: filler
 Basement Key: progression
-Berry: filler
 Berry Juice: filler
+Berry: filler
 Berserk Gene: filler
 Bicycle: progression
 Big Mushroom: filler
@@ -183,105 +183,106 @@ Super Potion: filler
 Super Repel: filler
 Super Rod: useful
 Surf Mail: filler
-TM01: useful
 TM01 Dynamicpunch: useful
-TM02: useful
+TM01: useful
 TM02 Headbutt: useful
-TM03: useful
+TM02: useful
 TM03 Curse: useful
-TM04: useful
+TM03: useful
 TM04 Rollout: useful
-TM05: useful
+TM04: useful
 TM05 Roar: useful
-TM06: useful
+TM05: useful
 TM06 Toxic: useful
-TM07: useful
+TM06: useful
 TM07 Zap Cannon: useful
+TM07: useful
 TM08 Rock Smash: progression
-TM09: useful
+TM08: useful
 TM09 Psych Up: useful
-TM10: useful
+TM09: useful
 TM10 Hidden Power: useful
-TM11: useful
+TM10: useful
 TM11 Sunny Day: useful
-TM12: useful
+TM11: useful
 TM12 Sweet Scent: useful
-TM13: useful
+TM12: useful
 TM13 Snore: useful
-TM14: useful
+TM13: useful
 TM14 Blizzard: useful
-TM15: useful
+TM14: useful
 TM15 Hyper Beam: useful
-TM16: useful
+TM15: useful
 TM16 Icy Wind: useful
-TM17: useful
+TM16: useful
 TM17 Protect: useful
-TM18: useful
+TM17: useful
 TM18 Rain Dance: useful
-TM19: useful
+TM18: useful
 TM19 Giga Drain: useful
-TM20: useful
+TM19: useful
 TM20 Endure: useful
-TM21: useful
+TM20: useful
 TM21 Frustration: useful
-TM22: useful
+TM21: useful
 TM22 Solarbeam: useful
-TM23: useful
+TM22: useful
 TM23 Iron Tail: useful
-TM24: useful
+TM23: useful
 TM24 Dragonbreath: useful
-TM25: useful
+TM24: useful
 TM25 Thunder: useful
-TM26: useful
+TM25: useful
 TM26 Earthquake: useful
-TM27: useful
+TM26: useful
 TM27 Return: useful
-TM28: useful
+TM27: useful
 TM28 Dig: useful
-TM29: useful
+TM28: useful
 TM29 Psychic: useful
-TM30: useful
+TM29: useful
 TM30 Shadow Ball: useful
-TM31: useful
+TM30: useful
 TM31 Mud Slap: useful
-TM32: useful
+TM31: useful
 TM32 Double Team: useful
-TM33: useful
+TM32: useful
 TM33 Ice Punch: useful
-TM34: useful
+TM33: useful
 TM34 Swagger: useful
-TM35: useful
+TM34: useful
 TM35 Sleep Talk: useful
-TM36: useful
+TM35: useful
 TM36 Sludge Bomb: useful
-TM37: useful
+TM36: useful
 TM37 Sandstorm: useful
-TM38: useful
+TM37: useful
 TM38 Fire Blast: useful
-TM39: useful
+TM38: useful
 TM39 Swift: useful
-TM40: useful
+TM39: useful
 TM40 Defense Curl: useful
-TM41: useful
+TM40: useful
 TM41 Thunderpunch: useful
-TM42: useful
+TM41: useful
 TM42 Dream Eater: useful
-TM43: useful
+TM42: useful
 TM43 Detect: useful
-TM44: useful
+TM43: useful
 TM44 Rest: useful
-TM45: useful
+TM44: useful
 TM45 Attract: useful
-TM46: useful
+TM45: useful
 TM46 Thief: useful
-TM47: useful
+TM46: useful
 TM47 Steel Wing: useful
-TM48: useful
+TM47: useful
 TM48 Fire Punch: useful
-TM49: useful
+TM48: useful
 TM49 Fury Cutter: useful
-TM50: useful
+TM49: useful
 TM50 Nightmare: useful
+TM50: useful
 Thick Club: filler
 Thunder Badge: progression
 Thunderstone: useful
@@ -299,4 +300,3 @@ X Special: filler
 X Speed: filler
 Ylw Apricorn: filler
 Zephyr Badge: progression
-TM08: useful
