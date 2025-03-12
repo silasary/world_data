@@ -31,7 +31,7 @@ Gauge:Dark-500: filler
 Gauge:Dark-5: unknown
 Gauge:Hero-10000: filler
 Gauge:Hero-1000: filler
-Gauge:Hero-100: unknown
+Gauge:Hero-100: filler
 Gauge:Hero-15000: filler
 Gauge:Hero-1: filler
 Gauge:Hero-20000: filler
@@ -60,7 +60,7 @@ Prison Island Disc: progression
 Prison Island Soldier: progression
 Purple Chaos Emerald: unknown
 Red Chaos Emerald: unknown
-Sky Troops Egg Ship: unknown
+Sky Troops Egg Ship: progression
 Sky Troops Temple: unknown
 Space Gadget Defense Unit: unknown
 Stage:Air Fleet: unknown
