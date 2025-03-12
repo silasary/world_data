@@ -2,8 +2,8 @@ AP Boost: useful
 Abas Chain: filler
 Ability Ring: filler
 Accessory Slot Up: useful
-Acrisius: filler
 Acrisius+: filler
+Acrisius: filler
 Aegis Chain: filler
 Aerial Dive: progression
 Aerial Dodge: progression
@@ -45,6 +45,7 @@ Combination Boost: filler
 Combo Boost: useful
 Combo Master: progression
 Combo Plus: progression
+Comet Staff: useful
 Cosmic Arts: useful
 Cosmic Belt: filler
 Cosmic Chain: filler
@@ -64,14 +65,14 @@ Dodge Roll: progression
 Dodge Slash: filler
 Donald Auto Healing: filler
 Donald Auto Limit: useful
-Donald Blizzard: filler
 Donald Blizzard Boost: filler
+Donald Blizzard: filler
 Donald Cure: useful
 Donald Damage Control: filler
 Donald Draw: filler
 Donald Fantasia: progression
-Donald Fire: filler
 Donald Fire Boost: filler
+Donald Fire: filler
 Donald Flare Force: progression
 Donald Hyper Healing: filler
 Donald Item Boost: useful
@@ -81,10 +82,10 @@ Donald MP Haste: useful
 Donald MP Hastega: useful
 Donald MP Hastera: useful
 Donald MP Rage: filler
-Donald Thunder: filler
 Donald Thunder Boost: filler
-Draw: useful
+Donald Thunder: filler
 Draw Ring: useful
+Draw: useful
 Drive Boost: useful
 Drive Converter: useful
 Drive Gauge Up: useful
@@ -113,8 +114,8 @@ Flash Step: progression
 Follow the Wind: useful
 Form Boost: progression
 Frozen Pride+: useful
-Full Bloom: useful
 Full Bloom+: useful
+Full Bloom: useful
 Gaia Belt: filler
 Garnet Ring: filler
 Genie: progression
@@ -144,11 +145,12 @@ Goofy Second Chance: useful
 Goofy Tornado: useful
 Goofy Turbo: filler
 Grand Ribbon: useful
-Guard: progression
 Guard Break: progression
+Guard: progression
 Guardian Soul: useful
 Gull Wing: useful
 Hades Cup Trophy: progression
+Hammer Staff: useful
 Hero's Crest: useful
 Hi-Potion: filler
 Hidden Dragon: useful
@@ -163,6 +165,7 @@ Jackpot: useful
 Leaf Bracer: useful
 Light & Darkness: progression
 Limit Form: progression
+Lord's Broom: useful
 Lucky Emblem: mcguffin
 Lucky Lucky: filler
 Lucky Ring: filler
@@ -171,17 +174,20 @@ MP Hastega: useful
 MP Hastera: useful
 MP Rage: useful
 Mage Earring: useful
+Mages Staff: useful
 Magic Boost: useful
 Magic Lock-On: filler
 Magnet Burst: useful
 Magnet Element: progression
-Majestic Mushroom: useful
 Majestic Mushroom+: useful
+Majestic Mushroom: useful
 Master Form: progression
 Master's Ring: filler
 Max HP Up: useful
 Max MP Up: useful
 Medal: filler
+Mega-Ether: filler
+Mega-Potion: filler
 Megalixir: useful
 Membership Card: progression
 Meteor Staff: useful
@@ -210,8 +216,8 @@ Platinum Ring: filler
 Potion: filler
 Power Band: filler
 Power Boost: useful
-Precious Mushroom: useful
 Precious Mushroom+: useful
+Precious Mushroom: useful
 Premium Mushroom: useful
 Promise Charm: progression
 Proof of Connection: progression
@@ -233,11 +239,11 @@ Save The Queen+: useful
 Scan: useful
 Scimitar: progression
 Second Chance: progression
-Secret Ansem's Report 1: filler
 Secret Ansem's Report 10: filler
 Secret Ansem's Report 11: filler
 Secret Ansem's Report 12: filler
 Secret Ansem's Report 13: filler
+Secret Ansem's Report 1: filler
 Secret Ansem's Report 2: filler
 Secret Ansem's Report 3: filler
 Secret Ansem's Report 4: filler
@@ -247,11 +253,11 @@ Secret Ansem's Report 7: filler
 Secret Ansem's Report 8: filler
 Secret Ansem's Report 9: filler
 Shadow Anklet: filler
-Shadow Archive: useful
 Shadow Archive+: useful
+Shadow Archive: useful
 Shaman's Relic: useful
-Shock Charm: filler
 Shock Charm+: useful
+Shock Charm: filler
 Silver Ring: filler
 Skill Ring: filler
 Skill and Crossbones: progression
@@ -287,15 +293,9 @@ Unknown Disk: useful
 Upper Slash: filler
 Valor Form: progression
 Vicinity Break: useful
+Victory Bell: useful
 Way to the Dawn: progression
 Winner's Proof: useful
 Wisdom Form: progression
-Wishing Lamp: useful
-Hammer Staff: useful
-Lord's Broom: useful
-Mages Staff: useful
-Comet Staff: useful
-Victory Bell: useful
 Wisdom Wand: useful
-Mega-Potion: filler
-Mega-Ether: filler
+Wishing Lamp: useful
