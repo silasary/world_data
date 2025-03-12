@@ -1,3 +1,12 @@
+AK-74: unknown
+AK74 Capacity Upgrades: unknown
+AK74 Firepower Upgrades: useful
+AK74 Reload Speed Upgrades: unknown
+Acid Rounds: filler
+Beast Slate: unknown
+Benelli M3: unknown
+Beretta M92F: unknown
+Bridge Keycard: unknown
 Chapter 1-2: unknown
 Chapter 2-1: unknown
 Chapter 2-2: unknown
@@ -13,39 +22,7 @@ Chapter 5-3: unknown
 Chapter 6-1: unknown
 Chapter 6-2: unknown
 Chapter 6-3: unknown
-Old Building Key: unknown
-Furnace Key: unknown
-Port Key: unknown
-Guard's Key: unknown
-Beast Slate: unknown
-Shaman Slate: unknown
-Raptor Slate: unknown
-Warrior Slate: unknown
-Sky Emblem: unknown
-Earth Emblem: unknown
-Sea Emblem: progression
 Crane Keycard: progression
-Tanker Keycard A: unknown
-Tanker Keycard B: unknown
-Bridge Keycard: unknown
-Hangar Keycard A: unknown
-Hangar Keycard B: unknown
-Beretta M92F: unknown
-Ithaca 37: unknown
-Benelli M3: unknown
-Jailbreaker: useful
-VZ61: useful
-AK-74: unknown
-H&K MP5: useful
-SIG 556: unknown
-S75: unknown
-SVD Dragunov: unknown
-H&K PSG-1: unknown
-S&W M29: progression
-L Hawk: unknown
-M40 GL: unknown
-Rocket Launcher - Single Use: useful
-Restart Level Trap: filler
 Discard Slot 1 Trap: unknown
 Discard Slot 2 Trap: unknown
 Discard Slot 3 Trap: filler
@@ -55,82 +32,105 @@ Discard Slot 6 Trap: unknown
 Discard Slot 7 Trap: unknown
 Discard Slot 8 Trap: trap
 Discard Slot 9 Trap: unknown
-Flame Rounds: unknown
-Explosive Rounds: unknown
-Acid Rounds: filler
-Flash Rounds: unknown
-Nitrogen Rounds: unknown
-Electric Rounds: unknown
-M93R: unknown
-S&W M500: unknown
-Hydra: useful
-Hand Grenade: unknown
-Incendiary Grenade: unknown
-Flash Grenade: unknown
-First Aid Spray: unknown
-M92F Firepower Upgrades: unknown
-M92F Reload Speed Upgrades: unknown
-M92F Capacity Upgrades: unknown
-M92F Critical Hit Upgrades: unknown
-H&K P8 Firepower Upgrades: unknown
-H&K P8 Reload Speed Upgrades: unknown
-H&K P8 Capacity Upgrades: useful
-H&K P8 Piercing Upgrades: unknown
-SIG P226 Firepower Upgrades: unknown
-SIG P226 Reload Speed Upgrades: useful
-SIG P226 Capacity Upgrades: unknown
-M93R Firepower Upgrades: unknown
-M93R Reload Speed Upgrades: unknown
-M93R Capacity Upgrades: unknown
-Ithaca 37 Firepower Upgrades: unknown
-Ithaca 37 Reload Speed Upgrades: unknown
-Ithaca 37 Capacity Upgrades: unknown
-Ithaca 37 Critical Hit Upgrades: unknown
-M3 Firepower Upgrades: unknown
-M3 Reload Speed Upgrades: unknown
-M3 Capacity Upgrades: unknown
-Jailbreaker Firepower Upgrades: unknown
-Jailbreaker Reload Speed Upgrades: unknown
-Jailbreaker Capacity Upgrades: useful
-Jailbreaker Attack Range Upgrades: unknown
-Hydra Firepower Upgrades: unknown
-Hydra Reload Speed Upgrades: unknown
-Hydra Capacity Upgrades: unknown
-Hydra Attack Range Upgrades: unknown
-VZ61 Firepower Upgrades: unknown
-VZ61 Reload Speed Upgrades: unknown
-VZ61 Capacity Upgrades: unknown
-VZ61 Critical Hit Upgrades: unknown
-AK74 Firepower Upgrades: useful
-AK74 Reload Speed Upgrades: unknown
-AK74 Capacity Upgrades: unknown
-H&K MP5 Firepower Upgrades: unknown
-H&K MP5 Reload Speed Upgrades: unknown
-H&K MP5 Capacity Upgrades: unknown
-H&K MP5 Piercing Upgrades: useful
-SIG 556 Firepower Upgrades: unknown
-SIG 556 Reload Speed Upgrades: unknown
-SIG 556 Capacity Upgrades: useful
-S75 Firepower Upgrades: unknown
-S75 Reload Speed Upgrades: unknown
-S75 Capacity Upgrades: unknown
+Dragunov SVD Capacity Upgrades: unknown
 Dragunov SVD Firepower Upgrades: useful
 Dragunov SVD Reload Speed Upgrades: unknown
-Dragunov SVD Capacity Upgrades: unknown
+Earth Emblem: unknown
+Egg: filler
+Electric Rounds: unknown
+Explosive Rounds: unknown
+First Aid Spray: unknown
+Flame Rounds: unknown
+Flash Grenade: unknown
+Flash Rounds: unknown
+Furnace Key: unknown
+Guard's Key: unknown
+H&K MP5 Capacity Upgrades: unknown
+H&K MP5 Firepower Upgrades: unknown
+H&K MP5 Piercing Upgrades: useful
+H&K MP5 Reload Speed Upgrades: unknown
+H&K MP5: useful
+H&K P8 Capacity Upgrades: useful
+H&K P8 Firepower Upgrades: unknown
+H&K P8 Piercing Upgrades: unknown
+H&K P8 Reload Speed Upgrades: unknown
+H&K PSG-1 Capacity Upgrades: unknown
 H&K PSG-1 Firepower Upgrades: unknown
 H&K PSG-1 Reload Speed Upgrades: unknown
-H&K PSG-1 Capacity Upgrades: unknown
 H&K PSG-1 Scope Upgrades: unknown
-S&W M29 Firepower Upgrades: useful
-S&W M29 Reload Speed Upgrades: unknown
-S&W M29 Capacity Upgrades: unknown
-S&W M29 Piercing Upgrades: unknown
-L Hawk Firepower Upgrades: unknown
-L Hawk Reload Speed Upgrades: unknown
+H&K PSG-1: unknown
+Hand Grenade: unknown
+Hangar Keycard A: unknown
+Hangar Keycard B: unknown
+Hydra Attack Range Upgrades: unknown
+Hydra Capacity Upgrades: unknown
+Hydra Firepower Upgrades: unknown
+Hydra Reload Speed Upgrades: unknown
+Hydra: useful
+Incendiary Grenade: unknown
+Ithaca 37 Capacity Upgrades: unknown
+Ithaca 37 Critical Hit Upgrades: unknown
+Ithaca 37 Firepower Upgrades: unknown
+Ithaca 37 Reload Speed Upgrades: unknown
+Ithaca 37: unknown
+Jailbreaker Attack Range Upgrades: unknown
+Jailbreaker Capacity Upgrades: useful
+Jailbreaker Firepower Upgrades: unknown
+Jailbreaker Reload Speed Upgrades: unknown
+Jailbreaker: useful
 L Hawk Capacity Upgrades: unknown
+L Hawk Firepower Upgrades: unknown
 L Hawk Piercing Upgrades: unknown
-S&W M500 Firepower Upgrades: useful
-S&W M500 Reload Speed Upgrades: unknown
+L Hawk Reload Speed Upgrades: unknown
+L Hawk: unknown
+M3 Capacity Upgrades: unknown
+M3 Firepower Upgrades: unknown
+M3 Reload Speed Upgrades: unknown
+M40 GL: unknown
+M92F Capacity Upgrades: unknown
+M92F Critical Hit Upgrades: unknown
+M92F Firepower Upgrades: unknown
+M92F Reload Speed Upgrades: unknown
+M93R Capacity Upgrades: unknown
+M93R Firepower Upgrades: unknown
+M93R Reload Speed Upgrades: unknown
+M93R: unknown
+Nitrogen Rounds: unknown
+Old Building Key: unknown
+Port Key: unknown
+Raptor Slate: unknown
+Restart Level Trap: filler
+Rocket Launcher - Single Use: useful
+S&W M29 Capacity Upgrades: unknown
+S&W M29 Firepower Upgrades: useful
+S&W M29 Piercing Upgrades: unknown
+S&W M29 Reload Speed Upgrades: unknown
+S&W M29: progression
 S&W M500 Capacity Upgrades: useful
+S&W M500 Firepower Upgrades: useful
 S&W M500 Piercing Upgrades: unknown
-Egg: filler
+S&W M500 Reload Speed Upgrades: unknown
+S&W M500: unknown
+S75 Capacity Upgrades: unknown
+S75 Firepower Upgrades: unknown
+S75 Reload Speed Upgrades: unknown
+S75: unknown
+SIG 556 Capacity Upgrades: useful
+SIG 556 Firepower Upgrades: unknown
+SIG 556 Reload Speed Upgrades: unknown
+SIG 556: unknown
+SIG P226 Capacity Upgrades: unknown
+SIG P226 Firepower Upgrades: unknown
+SIG P226 Reload Speed Upgrades: useful
+SVD Dragunov: unknown
+Sea Emblem: progression
+Shaman Slate: unknown
+Sky Emblem: unknown
+Tanker Keycard A: unknown
+Tanker Keycard B: unknown
+VZ61 Capacity Upgrades: unknown
+VZ61 Critical Hit Upgrades: unknown
+VZ61 Firepower Upgrades: unknown
+VZ61 Reload Speed Upgrades: unknown
+VZ61: useful
+Warrior Slate: unknown
