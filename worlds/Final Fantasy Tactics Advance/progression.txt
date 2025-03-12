@@ -1,3 +1,7 @@
+Ability: 100% Wool: useful
+Ability: Cuisine: useful
+Ability: Sheep Count: useful
+Ability: Tail Wag: useful
 Acacia Hat: useful
 Adaman Alloy: progression
 Adaman Armor: useful
@@ -29,6 +33,7 @@ Ayvuir Red: useful
 Bandage: filler
 Bangaa Helm: useful
 Bangaa Spike: useful
+Barette: useful
 Barong: useful
 Battle Boots: useful
 Battle Mace: useful
@@ -56,10 +61,12 @@ Brigandine: useful
 Brint Set: useful
 Bronze Armor: useful
 Bronze Helm: useful
+Bronze Helmet: unknown
 Bronze Shield: useful
 Bug Soul: useful
 Burglar Sword: useful
 Buster Sword: useful
+Cachusha: useful
 Cactus Stick: useful
 Caligula: useful
 Calling Gun: useful
@@ -70,9 +77,11 @@ Chain Plate: useful
 Chaos Rifle: useful
 Char Bow: useful
 Charfire: useful
+Charge: progression
 Cheer Staff: useful
 Chill Rod: useful
 Chirijiraden: useful
+Chivalry: progression
 Choco Bread: progression
 Choco Gratin: progression
 Chocobo Egg: progression
@@ -82,6 +91,7 @@ Circlet: useful
 Claymore: useful
 Clock Gear: progression
 Colichemarde: useful
+Color Magic: progression
 Conch Shell: useful
 Cranequin: useful
 Crescent Bow: useful
@@ -97,6 +107,7 @@ Dark Fiddle: useful
 Dark Gear: useful
 Dash Boots: useful
 Death Claws: useful
+Defend: progression
 Defender: useful
 Delta Fang: progression
 Demon Bell: useful
@@ -122,6 +133,7 @@ Eclipse: useful
 El Cid Sword: useful
 Elda's Cup: progression
 Eldagusto: progression
+Elemental: progression
 Elixir: filler
 Encyclopedia: progression
 Energy Mace: useful
@@ -130,8 +142,8 @@ Esteroth: progression
 Estoc: useful
 Estreledge: useful
 Ether: filler
-Excalibur: useful
 Excalibur 2: useful
+Excalibur: useful
 Eye Drops: filler
 Eye Soul: useful
 Fairy Harp: useful
@@ -199,6 +211,7 @@ Hi-Potion: filler
 Holy Water: filler
 Homework: progression
 Hunt Bow: useful
+Hunt: progression
 Ice Lance: useful
 Ice Shield: useful
 Icebrand: useful
@@ -260,148 +273,148 @@ Laglace Sword: useful
 Lamia Soul: useful
 Last Letter: useful
 Lava Spear: useful
-Law Card: Addle: filler
 Law Card: Addle antilaw: filler
-Law Card: Aim: unknown
+Law Card: Addle: filler
 Law Card: Aim antilaw: unknown
+Law Card: Aim: unknown
 Law Card: Allmighty antilaw: filler
-Law Card: Berserk: unknown
 Law Card: Berserk antilaw: filler
-Law Card: Bind: unknown
+Law Card: Berserk: unknown
 Law Card: Bind antilaw: unknown
-Law Card: Blades: unknown
+Law Card: Bind: unknown
 Law Card: Blades antilaw: unknown
-Law Card: Broadswords: filler
+Law Card: Blades: unknown
 Law Card: Broadswords antilaw: filler
-Law Card: Call: unknown
+Law Card: Broadswords: filler
 Law Card: Call antilaw: unknown
-Law Card: Charge: filler
+Law Card: Call: unknown
 Law Card: Charge antilaw: filler
-Law Card: Charm: unknown
+Law Card: Charge: filler
 Law Card: Charm antilaw: filler
-Law Card: Chivalry: unknown
+Law Card: Charm: unknown
 Law Card: Chivalry antilaw: unknown
-Law Card: Color Magic: unknown
+Law Card: Chivalry: unknown
 Law Card: Color Magic antilaw: filler
-Law Card: Confuse: unknown
+Law Card: Color Magic: unknown
 Law Card: Confuse antilaw: unknown
-Law Card: Control: filler
+Law Card: Confuse: unknown
 Law Card: Control antilaw: unknown
-Law Card: Copycat: unknown
+Law Card: Control: filler
 Law Card: Copycat antilaw: filler
-Law Card: Corner: unknown
+Law Card: Copycat: unknown
 Law Card: Corner antilaw: filler
-Law Card: Defend: filler
+Law Card: Corner: unknown
 Law Card: Defend antilaw: unknown
-Law Card: Dmg2: Animal: unknown
+Law Card: Defend: filler
 Law Card: Dmg2: Animal antilaw: filler
-Law Card: Dmg2: Bangaa: unknown
+Law Card: Dmg2: Animal: unknown
 Law Card: Dmg2: Bangaa antilaw: unknown
-Law Card: Dmg2: Human: unknown
+Law Card: Dmg2: Bangaa: unknown
 Law Card: Dmg2: Human antilaw: unknown
+Law Card: Dmg2: Human: unknown
 Law Card: Dmg2: Moogle antilaw: unknown
-Law Card: Dmg2: Nu Mou: unknown
 Law Card: Dmg2: Nu Mou antilaw: unknown
-Law Card: Dmg2: Viera: unknown
+Law Card: Dmg2: Nu Mou: unknown
 Law Card: Dmg2: Viera antilaw: filler
+Law Card: Dmg2: Viera: unknown
 Law Card: Dmg2: moogle: unknown
-Law Card: Elementals: unknown
 Law Card: Elementals antilaw: filler
-Law Card: Fight: filler
+Law Card: Elementals: unknown
 Law Card: Fight antilaw: unknown
-Law Card: Fire: unknown
+Law Card: Fight: filler
 Law Card: Fire antilaw: unknown
-Law Card: Frog: unknown
+Law Card: Fire: unknown
 Law Card: Frog antilaw: unknown
-Law Card: Ganging Up: unknown
+Law Card: Frog: unknown
 Law Card: Ganging Up antilaw: filler
-Law Card: Greatswords: unknown
+Law Card: Ganging Up: unknown
 Law Card: Greatswords antilaw: unknown
-Law Card: Gunmanship: filler
+Law Card: Greatswords: unknown
 Law Card: Gunmanship antilaw: unknown
-Law Card: Haste: filler
+Law Card: Gunmanship: filler
 Law Card: Haste antilaw: filler
-Law Card: Healing: unknown
+Law Card: Haste: filler
 Law Card: Healing antilaw: unknown
-Law Card: Holy: filler
+Law Card: Healing: unknown
 Law Card: Holy antilaw: filler
-Law Card: Hunt: unknown
+Law Card: Holy: filler
 Law Card: Hunt antilaw: filler
-Law Card: Ice: unknown
+Law Card: Hunt: unknown
 Law Card: Ice antilaw: unknown
-Law Card: Instruments: filler
+Law Card: Ice: unknown
 Law Card: Instruments antilaw: filler
-Law Card: Items: filler
+Law Card: Instruments: filler
 Law Card: Items antilaw: unknown
-Law Card: Katanas: unknown
+Law Card: Items: filler
 Law Card: Katanas antilaw: unknown
-Law Card: Knightswords: unknown
+Law Card: Katanas: unknown
 Law Card: Knightswords antilaw: filler
-Law Card: Knives: unknown
+Law Card: Knightswords: unknown
 Law Card: Knives antilaw: filler
-Law Card: Knuckles: unknown
+Law Card: Knives: unknown
 Law Card: Knuckles antilaw: unknown
-Law Card: Law Cards: unknown
+Law Card: Knuckles: unknown
 Law Card: Law Cards antilaw: unknown
-Law Card: Lightning: filler
+Law Card: Law Cards: unknown
 Law Card: Lightning antilaw: filler
+Law Card: Lightning: filler
 Law Card: Missile: unknown
-Law Card: Morph: unknown
 Law Card: Morph antilaw: filler
-Law Card: NoClr Magic: unknown
+Law Card: Morph: unknown
 Law Card: NoClr Magic antilaw: unknown
-Law Card: Petrify: unknown
+Law Card: NoClr Magic: unknown
 Law Card: Petrify antilaw: unknown
-Law Card: Poison: filler
+Law Card: Petrify: unknown
 Law Card: Poison antilaw: unknown
-Law Card: Prayer: unknown
+Law Card: Poison: filler
 Law Card: Prayer antilaw: unknown
-Law Card: Protect: unknown
+Law Card: Prayer: unknown
 Law Card: Protect antilaw: filler
+Law Card: Protect: unknown
 Law Card: R1 Antilaw: unknown
 Law Card: R2 Antilaw: filler
 Law Card: R3 Antilaw: unknown
 Law Card: R4 Antilaw: unknown
 Law Card: R5 Antilaw: filler
 Law Card: R6 Antilaw: unknown
-Law Card: Rapiers: unknown
 Law Card: Rapiers antilaw: filler
-Law Card: Sabers: filler
+Law Card: Rapiers: unknown
 Law Card: Sabers antilaw: unknown
-Law Card: Sharpshoot: filler
+Law Card: Sabers: filler
 Law Card: Sharpshoot antilaw: unknown
-Law Card: Shell: filler
+Law Card: Sharpshoot: filler
 Law Card: Shell antilaw: unknown
-Law Card: Silence: filler
+Law Card: Shell: filler
 Law Card: Silence antilaw: filler
-Law Card: Skills: unknown
+Law Card: Silence: filler
 Law Card: Skills antilaw: unknown
-Law Card: Slow: filler
+Law Card: Skills: unknown
 Law Card: Slow antilaw: unknown
-Law Card: Soul: unknown
+Law Card: Slow: filler
 Law Card: Soul antilaw: filler
-Law Card: Spears: unknown
+Law Card: Soul: unknown
 Law Card: Spears antilaw: filler
-Law Card: Status: filler
+Law Card: Spears: unknown
 Law Card: Status antilaw: unknown
-Law Card: Steal: filler
+Law Card: Status: filler
 Law Card: Steal antilaw: unknown
-Law Card: Stop: unknown
+Law Card: Steal: filler
 Law Card: Stop antilaw: unknown
-Law Card: Summon: unknown
+Law Card: Stop: unknown
 Law Card: Summon antilaw: filler
-Law Card: Swords: unknown
+Law Card: Summon: unknown
 Law Card: Swords antilaw: filler
-Law Card: Target All: filler
+Law Card: Swords: unknown
 Law Card: Target All antilaw: unknown
-Law Card: Target Area: unknown
+Law Card: Target All: filler
 Law Card: Target Area antilaw: filler
-Law Card: Techniques: unknown
+Law Card: Target Area: unknown
 Law Card: Techniques antilaw: unknown
-Law Card: Time Magic: filler
+Law Card: Techniques: unknown
 Law Card: Time Magic antilaw: filler
-Law Card: Wind: filler
+Law Card: Time Magic: filler
 Law Card: Wind antilaw: filler
+Law Card: Wind: filler
 Leather Garb: useful
 Life Crosier: useful
 Light Robe: useful
@@ -432,8 +445,8 @@ Malbow: useful
 Mandragora: useful
 Manganese: useful
 Marduk Bow: useful
-Masamune: useful
 Masamune 100: useful
+Masamune: useful
 Master Bow: useful
 Master Sword: useful
 Materia Armor: useful
@@ -442,6 +455,7 @@ Max's Oathbow: useful
 Maximillian: useful
 Mind Ceffyl: progression
 Mindu Gem: useful
+Minerva Plate: useful
 Mirage Vest: useful
 Mirror Mail: useful
 Mistle Robe: useful
@@ -503,6 +517,7 @@ Potion: filler
 Power Fruit: progression
 Power Sash: useful
 Power Staff: useful
+Prayer: progression
 Predator: useful
 Princess Rod: useful
 Progressive Dispatch: progression
@@ -521,11 +536,14 @@ Red Robe: useful
 Restorer: useful
 Reverie Shield: useful
 Rhomphaia: useful
+Ribbon: useful
 Riot Gun: useful
 Rising Sun: useful
 Rod: useful
 Rondell Dagger: useful
+Roulette Trap: trap
 Round Shield: useful
+Rubber Suit: useful
 Ruby Earring: useful
 Rukavi Soul: useful
 Runba's Tale: progression
@@ -554,6 +572,7 @@ Silver Cannon: useful
 Silver Coat: useful
 Silver Rapier: useful
 Silver Sword: useful
+Skills: progression
 Sleet Rod: useful
 Snake Staff: useful
 Soft: filler
@@ -573,6 +592,7 @@ Sweep Blade: useful
 Sword Breaker: useful
 Tabarise: useful
 Target Bow: useful
+Techniques: progression
 Telaq Flowers: progression
 Temple Cloth: useful
 Terre Rod: useful
@@ -584,7 +604,9 @@ Thorn Bow: useful
 Thunder Robe: useful
 Thunder Rod: useful
 Thunderstone: progression
+Tiara: useful
 Tiger Fangs: useful
+Time Magic: progression
 Tiptaptwo: useful
 Tonberrian: useful
 Tonberry Lamp: progression
@@ -617,25 +639,3 @@ Zankplus: useful
 Zanmato: useful
 Zeus Mace: useful
 Zorlin Shape: useful
-Cachusha: useful
-Barette: useful
-Ribbon: useful
-Tiara: useful
-Minerva Plate: useful
-Rubber Suit: useful
-Ability: Sheep Count: useful
-Ability: 100% Wool: useful
-Ability: Cuisine: useful
-Ability: Tail Wag: useful
-Skills: progression
-Techniques: progression
-Color Magic: progression
-Chivalry: progression
-Prayer: progression
-Defend: progression
-Elemental: progression
-Hunt: progression
-Charge: progression
-Time Magic: progression
-Roulette Trap: trap
-Bronze Helmet: unknown
