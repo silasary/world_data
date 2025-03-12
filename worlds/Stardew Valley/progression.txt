@@ -918,6 +918,7 @@ Tilesanity: Calico Desert (8-5): unknown
 Tilesanity: Calico Desert (8-6): unknown
 Tilesanity: Calico Desert (8-7): unknown
 Tilesanity: Calico Desert (8-9): unknown
+Tilesanity: Calico Desert (9-1): unknown
 Tilesanity: Calico Desert (9-10): unknown
 Tilesanity: Calico Desert (9-11): unknown
 Tilesanity: Calico Desert (9-2): unknown
@@ -995,6 +996,7 @@ Tilesanity: Cindersap Forest (17-7): unknown
 Tilesanity: Cindersap Forest (17-8): unknown
 Tilesanity: Cindersap Forest (17-9): unknown
 Tilesanity: Cindersap Forest (18-10): unknown
+Tilesanity: Cindersap Forest (18-11): unknown
 Tilesanity: Cindersap Forest (18-12): unknown
 Tilesanity: Cindersap Forest (18-13): unknown
 Tilesanity: Cindersap Forest (18-14): unknown
@@ -1017,6 +1019,7 @@ Tilesanity: Cindersap Forest (2-17): unknown
 Tilesanity: Cindersap Forest (2-19): unknown
 Tilesanity: Cindersap Forest (2-2): unknown
 Tilesanity: Cindersap Forest (2-3): unknown
+Tilesanity: Cindersap Forest (2-5): unknown
 Tilesanity: Cindersap Forest (2-8): unknown
 Tilesanity: Cindersap Forest (20-15): unknown
 Tilesanity: Cindersap Forest (20-4): unknown
@@ -1061,6 +1064,7 @@ Tilesanity: Cindersap Forest (4-8): unknown
 Tilesanity: Cindersap Forest (4-9): unknown
 Tilesanity: Cindersap Forest (5-10): unknown
 Tilesanity: Cindersap Forest (5-11): unknown
+Tilesanity: Cindersap Forest (5-13): unknown
 Tilesanity: Cindersap Forest (5-17): unknown
 Tilesanity: Cindersap Forest (5-18): unknown
 Tilesanity: Cindersap Forest (5-19): unknown
@@ -1070,6 +1074,7 @@ Tilesanity: Cindersap Forest (5-9): unknown
 Tilesanity: Cindersap Forest (6-1): unknown
 Tilesanity: Cindersap Forest (6-12): unknown
 Tilesanity: Cindersap Forest (6-13): unknown
+Tilesanity: Cindersap Forest (6-18): unknown
 Tilesanity: Cindersap Forest (6-2): unknown
 Tilesanity: Cindersap Forest (6-3): unknown
 Tilesanity: Cindersap Forest (6-4): unknown
@@ -1079,6 +1084,7 @@ Tilesanity: Cindersap Forest (6-8): unknown
 Tilesanity: Cindersap Forest (6-9): unknown
 Tilesanity: Cindersap Forest (7-1): unknown
 Tilesanity: Cindersap Forest (7-11): unknown
+Tilesanity: Cindersap Forest (7-12): unknown
 Tilesanity: Cindersap Forest (7-2): unknown
 Tilesanity: Cindersap Forest (7-3): unknown
 Tilesanity: Cindersap Forest (7-4): unknown
@@ -1254,7 +1260,9 @@ Tilesanity: Pelican Town (14-10): unknown
 Tilesanity: Pelican Town (14-12): unknown
 Tilesanity: Pelican Town (14-13): unknown
 Tilesanity: Pelican Town (14-14): unknown
+Tilesanity: Pelican Town (14-15): unknown
 Tilesanity: Pelican Town (14-16): unknown
+Tilesanity: Pelican Town (14-18): unknown
 Tilesanity: Pelican Town (14-19): unknown
 Tilesanity: Pelican Town (14-2): unknown
 Tilesanity: Pelican Town (14-3): unknown
@@ -1374,6 +1382,7 @@ Tilesanity: Pelican Town (7-20): unknown
 Tilesanity: Pelican Town (7-3): unknown
 Tilesanity: Pelican Town (7-4): unknown
 Tilesanity: Pelican Town (7-7): unknown
+Tilesanity: Pelican Town (8-1): unknown
 Tilesanity: Pelican Town (8-11): unknown
 Tilesanity: Pelican Town (8-13): unknown
 Tilesanity: Pelican Town (8-15): unknown
