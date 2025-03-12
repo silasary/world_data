@@ -1,189 +1,509 @@
-Joja Cola: filler
-Rusty Key: progression
-Dwarvish Translation Guide: progression
-Bridge Repair: progression
-Greenhouse: progression
-Glittering Boulder Removed: progression
-Minecarts Repair: useful
-Bus Repair: progression
-Progressive Movie Theater: progression
-Stardrop: mcguffin
-Progressive Backpack: progression
-Rusty Sword: unknown
-Leather Boots: unknown
-Work Boots: unknown
-Wooden Blade: unknown
-Iron Dirk: unknown
-Wind Spire: unknown
-Femur: unknown
-Steel Smallsword: unknown
-Wood Club: unknown
-Elf Blade: unknown
-Slingshot: unknown
-Tundra Boots: unknown
-Thermal Boots: unknown
-Combat Boots: unknown
-Silver Saber: unknown
-Pirate's Sword: unknown
-Crystal Dagger: unknown
-Cutlass: unknown
-Iron Edge: unknown
-Burglar's Shank: unknown
-Wood Mallet: unknown
-Master Slingshot: unknown
-Firewalker Boots: unknown
-Dark Boots: unknown
-Claymore: unknown
-Templar's Blade: unknown
-Kudgel: unknown
-Shadow Dagger: unknown
-Obsidian Edge: unknown
-Tempered Broadsword: unknown
-Wicked Kris: unknown
-Bone Sword: unknown
-Ossified Blade: unknown
-Space Boots: unknown
-Crystal Shoes: unknown
-Steel Falchion: unknown
-The Slammer: unknown
-Skull Key: progression
-Progressive Hoe: progression
-Progressive Pickaxe: progression
-Progressive Axe: progression
-Progressive Watering Can: progression
-Progressive Trash Can: progression
-Progressive Fishing Rod: progression
-Golden Scythe: unknown
-Progressive Mine Elevator: progression
-Farming Level: progression
-Fishing Level: progression
-Foraging Level: progression
-Mining Level: progression
-Combat Level: progression
-Earth Obelisk: useful
-Water Obelisk: useful
-Desert Obelisk: filler
-Island Obelisk: progression
-Junimo Hut: useful
-Gold Clock: useful
-Progressive Coop: progression
-Progressive Barn: progression
-Well: progression
-Silo: useful
-Mill: useful
-Progressive Shed: useful
-Fish Pond: progression
-Stable: useful
-Slime Hutch: progression
-Shipping Bin: progression
-Beach Bridge: progression
+'Squid Kid': filler
+10 Qi Gems: useful
+100 Qi Gems: useful
+15 Qi Gems: progression
+20 Qi Gems: progression
+25 Qi Gems: progression
+3 Golden Walnuts: progression
+35 Qi Gems: useful
+40 Qi Gems: progression
+5 Golden Walnuts: progression
+50 Qi Gems: useful
+Abigail <3: progression
+Advanced Recycling Machine: filler
 Adventurer's Guild: unknown
-Club Card: progression
-Magnifying Glass: progression
-Bear's Knowledge: useful
-Iridium Snake Milk: useful
-JotPK: Progressive Boots: progression
-JotPK: Progressive Gun: progression
-JotPK: Progressive Ammo: progression
-JotPK: Extra Life: useful
-JotPK: Increased Drop Rate: useful
-Junimo Kart: Extra Life: progression
-Galaxy Sword: unknown
-Galaxy Dagger: unknown
-Galaxy Hammer: unknown
-Movement Speed Bonus: useful
-Luck Bonus: progression
-Lava Katana: unknown
-Progressive House: progression
-Traveling Merchant: Sunday: progression
-Traveling Merchant: Monday: progression
-Traveling Merchant: Tuesday: progression
-Traveling Merchant: Wednesday: progression
-Traveling Merchant: Thursday: progression
-Traveling Merchant: Friday: progression
-Traveling Merchant: Saturday: progression
-Traveling Merchant Stock Size: useful
-Traveling Merchant Discount: useful
-Return Scepter: useful
-Progressive Season: progression
-Spring: progression
-Summer: progression
-Fall: progression
-Winter: progression
+Aegis Elixir: unknown
+Alec <3: progression
+Alecto <3: progression
+Alex <3: progression
+Algae Soup Recipe: progression
 Amaranth Seeds: progression
-Artichoke Seeds: progression
-Beet Seeds: progression
-Jazz Seeds: progression
-Blueberry Seeds: progression
-Bok Choy Seeds: progression
-Cauliflower Seeds: progression
-Corn Seeds: progression
-Cranberry Seeds: progression
-Eggplant Seeds: progression
-Fairy Seeds: progression
-Garlic Seeds: progression
-Grape Starter: progression
-Bean Starter: useful
-Hops Starter: progression
-Pepper Seeds: progression
-Kale Seeds: progression
-Melon Seeds: progression
-Parsnip Seeds: progression
-Poppy Seeds: progression
-Potato Seeds: progression
-Pumpkin Seeds: progression
-Radish Seeds: progression
-Red Cabbage Seeds: progression
-Rhubarb Seeds: progression
-Starfruit Seeds: progression
-Strawberry Seeds: progression
-Spangle Seeds: useful
-Sunflower Seeds: progression
-Tomato Seeds: progression
-Tulip Bulb: progression
-Rice Shoot: filler
-Wheat Seeds: progression
-Yam Seeds: progression
-Cactus Seeds: progression
-Magic Rock Candy: useful
+Amethyst Ring: filler
+Ancient Battery Production Station: unknown
 Ancient Seeds Recipe: useful
 Ancient Seeds: useful
-Traveling Merchant Metal Detector: progression
-Alex <3: progression
-Elliott <3: progression
-Harvey <3: progression
-Sam <3: progression
-Sebastian <3: progression
-Shane <3: progression
-Abigail <3: progression
-Emily <3: progression
-Haley <3: progression
-Leah <3: progression
-Maru <3: progression
-Penny <3: progression
+Andy <3: progression
+Apple Sapling: progression
+Apples <3: progression
+Apricot Sapling: useful
+Aquamarine Ring: useful
+Aquatic Sanctuary: filler
+Archaeology Level: progression
+Armor Elixir Recipe: useful
+Armor Elixir: unknown
+Artichoke Dip Recipe: progression
+Artichoke Seeds: progression
+Aurora Vineyard Tablet: progression
+Auto-Grabber: useful
+Auto-Petter: useful
+Autumn's Bounty Recipe: progression
+Ayeisha <3: progression
+Babies Trap: trap
+Baked Berry Oatmeal Recipe: progression
+Baked Fish Recipe: progression
+Banana Pudding Recipe: progression
+Banana Sapling: useful
+Barbarian Elixir: unknown
+Barbed Hook: useful
+Bark Trap: filler
+Barrel Brazier Recipe: progression
+Beach Bridge: progression
+Bean Hotpot Recipe: progression
+Bean Starter: useful
+Bear's Knowledge: useful
+Bee House: useful
+Beet Seeds: progression
+Benjamin Budton Trap: trap
+Big Bark Burger Recipe: progression
+Big Chest Recipe: progression
+Big Stone Chest Recipe: progression
+Binning Level: progression
+Bite Rate Bonus: filler
+Blackberry Cobbler Recipe: progression
+Blue Grass Starter Recipe: progression
+Blueberry Seeds: progression
+Blueberry Tart Recipe: progression
+Boat Repair: progression
+Bok Choy Seeds: progression
+Bomb Trap: trap
+Bone Mill Recipe: progression
+Bone Mill: useful
+Bone Sword: unknown
+Book: The Art O' Crabbing: useful
+Bread Recipe: progression
+Brick Floor Recipe: progression
+Bridge Repair: progression
+Broccoli Seeds: progression
+Bruschetta Recipe: progression
+Bucket Hat: filler
+Burglar's Ring: filler
+Burglar's Shank: unknown
+Burnt Trap: trap
+Bus Repair: progression
+Cactus Seeds: progression
+Calico Statue: filler
+Campfire Recipe: progression
 Caroline <3: progression
+Carp Surprise Recipe: progression
+Carrot Seeds: progression
+Carved Brazier Recipe: progression
+Cask: useful
+Cauliflower Seeds: progression
+Charcoal Kiln: useful
+Cheese Cauliflower Recipe: progression
+Cheese Press: useful
+Cherry Sapling: useful
+Chest Recipe: progression
+Chest: filler
+Chocolate Cake Recipe: progression
+Chowder Recipe: progression
+Claire <3: progression
+Claymore: unknown
 Clint <3: progression
+Club Card: progression
+Cobblestone Path Recipe: progression
+Coffee Bean: progression
+Coffee Maker: useful
+Coleslaw Recipe: progression
+Combat Boots: unknown
+Combat Level: progression
+Combat Mastery: progression
+Complete Breakfast Recipe: progression
+Composter: filler
+Cone Hat: filler
+Cookies Recipe: progression
+Cooking Level: progression
+Corn Seeds: progression
+Crab Cakes Recipe: progression
+Crabshell Ring: filler
+Cranberry Candy Recipe: progression
+Cranberry Sauce Recipe: progression
+Cranberry Seeds: progression
+Crayfish Soup Recipe: progression
+Crispy Bass Recipe: progression
+Crystal Dagger: unknown
+Crystal Floor Recipe: progression
+Crystal Path Recipe: progression
+Crystal Shoes: unknown
+Crystalarium: useful
+Cute Baby: progression
+Cutlass: unknown
+Damage Bonus: useful
+Dark Boots: unknown
+Dark Talisman: progression
+Darkness Trap: trap
+Debris Trap: trap
+Deconstructor: useful
+Defense Bonus: filler
+Dehydrator Recipe: progression
+Delores <3: progression
+Deluxe Fertilizer Recipe: progression
+Deluxe Fish Tank: filler
+Deluxe Retaining Soil Recipe: progression
+Deluxe Scarecrow Recipe: progression
+Deluxe Scarecrow: useful
 Demetrius <3: progression
+Depression Trap: unknown
+Desert Obelisk: filler
+Diamond Wand: unknown
+Dig Site Bridge: progression
+Digger's Delight Recipe: unknown
+Dish O' The Sea Recipe: progression
+Dish O' The Sea: filler
+Dressed Spinner: useful
+Drought Trap: trap
 Dwarf <3: progression
+Dwarvish Translation Guide: progression
+Earth Obelisk: useful
+Eggplant Parmesan Recipe: progression
+Eggplant Seeds: progression
+Elf Blade: unknown
+Elliott <3: progression
+Emerald Ring: filler
+Emily <3: progression
+Energy Bonus: filler
+Enricher: filler
+Entrance Reshuffle Trap: unknown
+Escargot Recipe: progression
+Eugene <3: progression
 Evelyn <3: progression
+Exotic Double Bed: filler
+Fable Reef Portal: progression
+Fairy Dust Recipe: progression
+Fairy Dust: filler
+Fairy Seeds: progression
+Fall: progression
+Farm Computer Recipe: progression
+Farm Computer: filler
+Farm Obelisk: useful
+Farmer's Lunch Recipe: progression
+Farming Level: progression
+Farming Mastery: progression
+Femur: unknown
+Fiber Seeds Recipe: progression
+Fiber Seeds: progression
+Fiddlehead Risotto Recipe: progression
+Firewalker Boots: unknown
+Fish Casserole Recipe: progression
+Fish Pond: progression
+Fish Smoker Recipe: progression
+Fish Stew Recipe: progression
+Fish Taco Recipe: progression
+Fish Trap Bonus: filler
+Fishing Bar Size Bonus: filler
+Fishing Information Broadcasting Service: useful
+Fishing Level: progression
+Fishing Mastery: progression
+Flower Cookie Recipe: progression
+Foraging Level: progression
+Foraging Mastery: progression
+Fortune Teller: useful
+Free Cactis: filler
+Fried Calamari Recipe: progression
+Fried Eel Recipe: progression
+Fried Egg Recipe: progression
+Fried Mushroom Recipe: progression
+Friendship Bonus (1 <3): unknown
+Friendship Bonus (2 <3): useful
+Friendship Bonus (3 <3): unknown
+Friendship Bonus (4 <3): unknown
+Frog Legs Recipe: progression
+Frozen Trap: trap
+Fruit Bats: useful
+Fruit Salad Recipe: progression
+Furnace Recipe: progression
+Furnace: filler
+Galaxy Dagger: unknown
+Galaxy Hammer: unknown
+Galaxy Soul: useful
+Galaxy Sword: unknown
+Garden Pot: useful
+Garlic Seeds: progression
+Gate Recipe: progression
+Geode Crusher Recipe: progression
+Geode Crusher: useful
 George <3: progression
+Gil's Hat: filler
+Ginger Ale Recipe: progression
+Ginger Tincture Recipe: progression
+Glazed Butterfish Recipe: progression
+Glazed Yams Recipe: progression
+Glittering Boulder Removed: progression
+Glow Ring: filler
+Glowstone Ring: filler
+Gold Brazier Recipe: progression
+Gold Clock: useful
+Golden Egg: filler
+Golden Pumpkin: filler
+Golden Scythe: unknown
+Golden Walnut: progression
+Grandpa's Shed: useful
+Grape Starter: progression
+Grass Starter Recipe: progression
+Gravel Path Recipe: progression
+Gravity Elixir: unknown
+Greenhouse: progression
+Gregory <3: progression
+Grilled Cheese Recipe: progression
+Grinder: unknown
+Gunther <3: progression
 Gus <3: progression
+Haley <3: progression
+Hardwood Preservation Chamber: filler
+Harvey <3: progression
+Hashbrowns Recipe: progression
+Haste Elixir Recipe: progression
+Haste Elixir: unknown
+Health Bonus: filler
+Heavy Tapper Recipe: progression
+Heavy Tapper: useful
+Hero Elixir Recipe: progression
+Hero Elixir: unknown
+Hopper Recipe: progression
+Hopper: filler
+Hops Starter: progression
+Horse Flute: useful
+Hot Java Ring: filler
+Hyper Speed-Gro Recipe: progression
+Ice Cream Recipe: progression
+Immunity Band: filler
+Immunity Bonus: useful
+Inflation Trap: trap
+Iridium Band: useful
+Iridium Bomb: progression
+Iridium Fireplace: filler
+Iridium Snake Milk: useful
+Iridium Sprinkler: useful
+Iron Dirk: unknown
+Iron Edge: unknown
+Iron Lamp-post Recipe: progression
+Island Farmhouse: progression
+Island Mailbox: useful
+Island North Turtle: progression
+Island Obelisk: progression
+Island Resort: progression
+Island Trader: progression
+Island West Turtle: progression
+Jack-O-Lantern Recipe: progression
+Jade Ring: useful
 Jas <3: progression
+Jasper <3: progression
+Jazz Seeds: progression
+Jinxed Trap: trap
 Jodi <3: progression
+Joel <3: progression
+Joja Cola: filler
+JotPK: Extra Life: useful
+JotPK: Increased Drop Rate: useful
+JotPK: Progressive Ammo: progression
+JotPK: Progressive Boots: progression
+JotPK: Progressive Gun: progression
+Jukebox Ring: filler
+Juna <3: progression
+Junimo Chest: useful
+Junimo Hut: useful
+Junimo Kart: Extra Life: progression
+Kale Seeds: progression
+Keg: useful
 Kent <3: progression
+Key To The Town: useful
+Kittyfish Spell: progression
 Krobus <3: progression
+Kudgel: unknown
+Lacey <3: progression
+Lance <3: progression
+Lava Katana: unknown
+Leah <3: progression
+Leather Boots: unknown
 Leo <3: progression
+Leprechaun Hat: useful
 Lewis <3: progression
+Lightning Elixir: unknown
+Lightning Rod: filler
 Linus <3: progression
+Livin' Off The Land: filler
+Lobster Bisque Recipe: progression
+Loom: useful
+Luck Bonus: progression
+Luck Level: progression
+Lucky Lunch Recipe: progression
+Lucky Ring: filler
+Lupini: 'Tropical Fish #173': filler
+Lupini: 1000 Years From Now: filler
+Lupini: Clouds: filler
+Lupini: Land Of Clay: filler
+Lupini: Portrait Of A Mermaid: useful
+Lupini: Red Eagle: filler
+Lupini: Solar Kingdom: filler
+Lupini: The Serpent: filler
+Lupini: Three Trees: filler
+Magic Bait Recipe: progression
+Magic Elixir Recipe: progression
+Magic Level: progression
+Magic Rock Candy: useful
+Magnet Ring: filler
+Magnet: filler
+Magnifying Glass: progression
+Maki Roll Recipe: progression
+Mango Sapling: progression
+Mango Sticky Rice Recipe: progression
+Maple Bar Recipe: progression
+Marble Brazier Recipe: progression
+Marlon <3: progression
+Marlon's Boat Paddle: progression
 Marnie <3: progression
+Martin <3: progression
+Maru <3: progression
+Master Slingshot: unknown
+Mastery Of The Five Ways: useful
+Mayonnaise Machine: useful
+Melon Seeds: progression
+Meow Trap: trap
+Mill: useful
+Minecarts Repair: useful
+Miner's Treat Recipe: progression
+Mini-Fridge: filler
+Mini-Obelisk Recipe: progression
+Mini-Obelisk: useful
+Mini-Shipping Bin: progression
+Mining Level: progression
+Mining Mastery: progression
+Mixed Berry Pie Recipe: progression
+Monster Musk Recipe: progression
+Monster Musk: filler
+Monsters Trap: trap
+Moonlight Jellies Banner: filler
+Morgan <3: progression
+Morgan's Schooling: progression
+Morris <3: progression
+Moss Soup Recipe: progression
+Mounted Trout: filler
+Movement Speed Bonus: useful
+Mr Qi's Plane Ride: useful
+Mr. Ginger <3: progression
+Mr. Qi's Hat: filler
+Mummy Mask: filler
+Mushroom Berry Rice Recipe: progression
+Mushroom Boxes: progression
+Mushroom Kebab Recipe: progression
+Mushroom Tree Seed: filler
+Napalm Ring: useful
+Nauseated Trap: trap
+Neanderthal Skeleton Recipe: progression
+Nexus: Adventurer's Guild Runes: progression
+Nexus: Aurora Vineyard Runes: progression
+Nexus: Farm Runes: progression
+Nexus: Junimo Woods Runes: progression
+Nexus: Outpost Runes: progression
+Nexus: Sprite Spring Runes: progression
+Nexus: Wizard Runes: progression
+Nudge Trap: trap
+Obsidian Edge: unknown
+Oil Maker: useful
+Olivia <3: progression
+Omelet Recipe: progression
+Open Professor Snail Cave: progression
+Orange Sapling: progression
+Ossified Blade: unknown
+Ostrich Incubator Recipe: progression
+Ostrich Incubator: useful
+Pale Broth Recipe: progression
 Pam <3: progression
-Pierre <3: progression
-Robin <3: progression
-Sandy <3: progression
-Vincent <3: progression
-Willy <3: progression
-Wizard <3: progression
+Pancakes Recipe: progression
+Pariah Trap: trap
+Parrot Express: useful
+Parsnip Seeds: progression
+Parsnip Soup Recipe: progression
+Peach Sapling: progression
+Pearl: useful
+Pemmican Recipe: progression
+Pendant of Community: progression
+Pendant of Depths: progression
+Pendant of Elders: progression
+Penny <3: progression
+Pepper Poppers Recipe: progression
+Pepper Seeds: progression
 Pet <3: progression
+Phoenix Ring: useful
+Pierre <3: progression
+Pierre's Missing Stocklist: useful
+Pineapple Seeds: progression
+Pink Cake Recipe: progression
+Pirate's Sword: unknown
+Pizza Recipe: progression
+Plum Pudding Recipe: progression
+Poi Recipe: progression
+Pomegranate Sapling: progression
+Poppy Seeds: progression
+Poppyseed Muffin Recipe: progression
+Potato Seeds: progression
+Powdermelon Seeds: progression
+Power: Animal Catalogue: useful
+Power: Book of Mysteries: progression
+Power: Dwarvish Safety Manual: progression
+Power: Friendship 101: useful
+Power: Horse: The Book: useful
+Power: Jack Be Nimble, Jack Be Thick: useful
+Power: Jewels Of The Sea: useful
+Power: Mapping Cave Systems: useful
+Power: Monster Compendium: useful
+Power: Ol' Slitherlegs: progression
+Power: Price Catalogue: useful
+Power: Raccoon Journal: useful
+Power: The Alleyway Buffet: progression
+Power: The Art O' Crabbing: useful
+Power: The Diamond Hunter: useful
+Power: Treasure Appraisal Guide: useful
+Power: Way Of The Wind pt. 1: progression
+Power: Way Of The Wind pt. 2: useful
+Power: Woody's Secret: useful
+Preservation Chamber: unknown
+Preserves Jar: filler
+Pressure Nozzle: useful
+Prismatic Shard: useful
+Prize Ticket: filler
+Progressive Axe: progression
+Progressive Backpack: progression
+Progressive Barn: progression
+Progressive Club: progression
+Progressive Coop: progression
+Progressive Dagger: useful
+Progressive Fishing Rod: progression
+Progressive Footwear: useful
+Progressive Hoe: progression
+Progressive House: progression
+Progressive Lost Book: progression
+Progressive Mine Elevator: progression
+Progressive Movie Theater: progression
+Progressive Pan: useful
+Progressive Pickaxe: progression
+Progressive Raccoon: progression
+Progressive Scythe: progression
+Progressive Season: progression
+Progressive Shed: useful
+Progressive Skull Cavern Elevator: useful
+Progressive Slingshot: progression
+Progressive Sword: progression
+Progressive Trash Can: progression
+Progressive Watering Can: progression
+Progressive Weapon: progression
+Progressive Woods Obelisk Sigils: progression
+Protection Ring: useful
+Pterodactyl Skeleton L Recipe: progression
+Pterodactyl Skeleton M Recipe: progression
+Pterodactyl Skeleton R Recipe: progression
+Pumpkin Pie Recipe: progression
+Pumpkin Seeds: progression
+Pumpkin Soup Recipe: progression
+Qi Walnut Room: useful
+Quality Bobber Recipe: progression
+Quality Bobber: filler
+Quality Sprinkler: filler
+Radish Salad Recipe: progression
+Radish Seeds: progression
+Railroad Boulder Removed: progression
+Random Teleport Trap: trap
+Rare Seed: useful
 Rarecrow #1: useful
 Rarecrow #2: progression
 Rarecrow #3: progression
@@ -192,1326 +512,1006 @@ Rarecrow #5: progression
 Rarecrow #6: useful
 Rarecrow #7: progression
 Rarecrow #8: progression
-Straw Hat: filler
-Golden Pumpkin: filler
-Barbed Hook: useful
-Dressed Spinner: useful
-Magnet: filler
-Sailor's Cap: filler
-Pearl: useful
-Cone Hat: filler
-Iridium Fireplace: filler
-Lupini: Red Eagle: filler
-Lupini: Portrait Of A Mermaid: useful
-Lupini: Solar Kingdom: filler
-Lupini: Clouds: filler
-Lupini: 1000 Years From Now: filler
-Lupini: Three Trees: filler
-Lupini: The Serpent: filler
-Lupini: 'Tropical Fish #173': filler
-Lupini: Land Of Clay: filler
-Special Order Board: progression
-Solar Panel Recipe: progression
-Geode Crusher Recipe: progression
-Farm Computer Recipe: progression
-Bone Mill Recipe: progression
-Fiber Seeds Recipe: progression
-Stone Chest Recipe: progression
-Quality Bobber Recipe: progression
-Mini-Obelisk Recipe: progression
-Monster Musk Recipe: progression
-Sewing Machine: filler
-Coffee Maker: useful
-Mini-Fridge: filler
-Mini-Shipping Bin: progression
-Deluxe Fish Tank: filler
-10 Qi Gems: useful
-20 Qi Gems: progression
-25 Qi Gems: progression
-35 Qi Gems: useful
-40 Qi Gems: progression
-50 Qi Gems: useful
-100 Qi Gems: useful
-Rare Seed: useful
-Apple Sapling: progression
-Apricot Sapling: useful
-Cherry Sapling: useful
-Orange Sapling: progression
-Pomegranate Sapling: progression
-Peach Sapling: progression
-Banana Sapling: useful
-Mango Sapling: progression
-Boat Repair: progression
-Open Professor Snail Cave: progression
-Island North Turtle: progression
-Island West Turtle: progression
-Island Farmhouse: progression
-Island Mailbox: useful
-Farm Obelisk: useful
-Dig Site Bridge: progression
-Island Trader: progression
-Volcano Bridge: progression
-Volcano Exit Shortcut: useful
-Island Resort: progression
-Parrot Express: useful
-Qi Walnut Room: useful
-Pineapple Seeds: progression
-Taro Tuber: progression
-Weather Report: useful
-Fortune Teller: useful
-Livin' Off The Land: filler
-The Queen of Sauce: progression
-Fishing Information Broadcasting Service: useful
-Sinister Signal: filler
-Dark Talisman: progression
-Ostrich Incubator Recipe: progression
-Cute Baby: progression
-Ugly Baby: progression
-Deluxe Scarecrow Recipe: progression
-Treehouse: progression
-Coffee Bean: progression
-Progressive Weapon: progression
-Progressive Sword: progression
-Progressive Club: progression
-Progressive Dagger: useful
-Progressive Slingshot: progression
-Progressive Footwear: useful
-Small Glow Ring: useful
-Glow Ring: filler
-Small Magnet Ring: filler
-Magnet Ring: filler
-Slime Charmer Ring: useful
-Warrior Ring: useful
-Vampire Ring: useful
-Savage Ring: useful
-Ring of Yoba: useful
-Sturdy Ring: useful
-Burglar's Ring: filler
-Iridium Band: useful
-Jukebox Ring: filler
-Amethyst Ring: filler
-Topaz Ring: filler
-Aquamarine Ring: useful
-Jade Ring: useful
-Emerald Ring: filler
-Ruby Ring: filler
-Wedding Ring: filler
-Crabshell Ring: filler
-Napalm Ring: useful
-Thorns Ring: useful
-Lucky Ring: filler
-Hot Java Ring: filler
-Protection Ring: useful
-Soul Sapper Ring: useful
-Phoenix Ring: useful
-Immunity Band: filler
-Glowstone Ring: filler
-Fairy Dust Recipe: progression
-Heavy Tapper Recipe: progression
-Hyper Speed-Gro Recipe: progression
-Deluxe Fertilizer Recipe: progression
-Hopper Recipe: progression
-Magic Bait Recipe: progression
-Jack-O-Lantern Recipe: progression
-Tub o' Flowers Recipe: progression
-Moonlight Jellies Banner: filler
-Starport Decal: filler
-Golden Egg: filler
-Algae Soup Recipe: progression
-Artichoke Dip Recipe: progression
-Autumn's Bounty Recipe: progression
-Baked Fish Recipe: progression
-Banana Pudding Recipe: progression
-Bean Hotpot Recipe: progression
-Blackberry Cobbler Recipe: progression
-Blueberry Tart Recipe: progression
-Bread Recipe: progression
-Bruschetta Recipe: progression
-Carp Surprise Recipe: progression
-Cheese Cauliflower Recipe: progression
-Chocolate Cake Recipe: progression
-Chowder Recipe: progression
-Coleslaw Recipe: progression
-Complete Breakfast Recipe: progression
-Cookies Recipe: progression
-Crab Cakes Recipe: progression
-Cranberry Candy Recipe: progression
-Cranberry Sauce Recipe: progression
-Crispy Bass Recipe: progression
-Dish O' The Sea Recipe: progression
-Eggplant Parmesan Recipe: progression
-Escargot Recipe: progression
-Farmer's Lunch Recipe: progression
-Fiddlehead Risotto Recipe: progression
-Fish Stew Recipe: progression
-Fish Taco Recipe: progression
-Fried Calamari Recipe: progression
-Fried Eel Recipe: progression
-Fried Egg Recipe: progression
-Fried Mushroom Recipe: progression
-Fruit Salad Recipe: progression
-Ginger Ale Recipe: progression
-Glazed Yams Recipe: progression
-Hashbrowns Recipe: progression
-Ice Cream Recipe: progression
-Lobster Bisque Recipe: progression
-Lucky Lunch Recipe: progression
-Maki Roll Recipe: progression
-Mango Sticky Rice Recipe: progression
-Maple Bar Recipe: progression
-Miner's Treat Recipe: progression
-Omelet Recipe: progression
-Pale Broth Recipe: progression
-Pancakes Recipe: progression
-Parsnip Soup Recipe: progression
-Pepper Poppers Recipe: progression
-Pink Cake Recipe: progression
-Pizza Recipe: progression
-Plum Pudding Recipe: progression
-Poi Recipe: progression
-Poppyseed Muffin Recipe: progression
-Pumpkin Pie Recipe: progression
-Pumpkin Soup Recipe: progression
-Radish Salad Recipe: progression
+Recycling Bin: filler
+Recycling Machine: useful
+Red Cabbage Seeds: progression
 Red Plate Recipe: progression
+Resource Pack: 1 Crab Pot: filler
+Resource Pack: 1 Mahogany Seed: filler
+Resource Pack: 1 Warp Totem: Beach: filler
+Resource Pack: 1 Warp Totem: Desert: filler
+Resource Pack: 1 Warp Totem: Farm: filler
+Resource Pack: 1 Warp Totem: Island: filler
+Resource Pack: 1 Warp Totem: Mountains: filler
+Resource Pack: 10 Bait: filler
+Resource Pack: 10 Basic Fertilizer: filler
+Resource Pack: 10 Basic Retaining Soil: filler
+Resource Pack: 10 Calico Egg: filler
+Resource Pack: 10 Clay: filler
+Resource Pack: 10 Coal: filler
+Resource Pack: 10 Deluxe Fertilizer: filler
+Resource Pack: 10 Deluxe Retaining Soil: filler
+Resource Pack: 10 Fall Seeds: filler
+Resource Pack: 10 Hardwood: filler
+Resource Pack: 10 Hyper Speed-Gro: filler
+Resource Pack: 10 Iridium Ore: filler
+Resource Pack: 10 Mahogany Seed: filler
+Resource Pack: 10 Qi Seasoning: filler
+Resource Pack: 10 Quartz: filler
+Resource Pack: 10 Speed-Gro: filler
+Resource Pack: 10 Spring Seeds: filler
+Resource Pack: 10 Summer Seeds: filler
+Resource Pack: 10 Tree Fertilizer: filler
+Resource Pack: 10 Warp Totem: Beach: filler
+Resource Pack: 10 Warp Totem: Desert: filler
+Resource Pack: 10 Warp Totem: Farm: filler
+Resource Pack: 10 Warp Totem: Island: filler
+Resource Pack: 10 Warp Totem: Mountains: filler
+Resource Pack: 10 Winter Seeds: filler
+Resource Pack: 100 Calico Egg: filler
+Resource Pack: 100 Copper Ore: filler
+Resource Pack: 100 Iron Ore: filler
+Resource Pack: 100 Stone: filler
+Resource Pack: 100 Wood: filler
+Resource Pack: 1000 Money: filler
+Resource Pack: 10000 Money: filler
+Resource Pack: 12 Deluxe Speed-Gro: filler
+Resource Pack: 12 Frozen Geode: filler
+Resource Pack: 12 Geode: filler
+Resource Pack: 12 Gold Ore: filler
+Resource Pack: 12 Magma Geode: filler
+Resource Pack: 12 Quality Fertilizer: filler
+Resource Pack: 12 Quality Retaining Soil: filler
+Resource Pack: 120 Calico Egg: filler
+Resource Pack: 125 Copper Ore: filler
+Resource Pack: 14 Deluxe Fertilizer: filler
+Resource Pack: 14 Deluxe Retaining Soil: filler
+Resource Pack: 14 Hyper Speed-Gro: filler
+Resource Pack: 14 Tree Fertilizer: filler
+Resource Pack: 15 Clay: filler
+Resource Pack: 15 Coal: filler
+Resource Pack: 15 Fiber: filler
+Resource Pack: 15 Hardwood: filler
+Resource Pack: 15 Iridium Ore: filler
+Resource Pack: 15 Mixed Flower Seeds: filler
+Resource Pack: 15 Mixed Seeds: filler
+Resource Pack: 15 Quartz: filler
+Resource Pack: 150 Copper Ore: filler
+Resource Pack: 1500 Money: filler
+Resource Pack: 16 Frozen Geode: filler
+Resource Pack: 18 Deluxe Fertilizer: filler
+Resource Pack: 18 Deluxe Retaining Soil: filler
+Resource Pack: 18 Geode: filler
+Resource Pack: 18 Hyper Speed-Gro: filler
+Resource Pack: 18 Tree Fertilizer: filler
+Resource Pack: 2 Artifact Trove: filler
+Resource Pack: 2 Crab Pot: filler
+Resource Pack: 2 Deluxe Fertilizer: filler
+Resource Pack: 2 Deluxe Retaining Soil: filler
+Resource Pack: 2 Hyper Speed-Gro: filler
+Resource Pack: 2 Life Elixir: filler
+Resource Pack: 2 Mega Bomb: filler
+Resource Pack: 2 Omni Geode: filler
+Resource Pack: 2 Qi Gem: filler
+Resource Pack: 2 Tree Fertilizer: filler
+Resource Pack: 2 Triple Shot Espresso: useful
+Resource Pack: 20 Bait: filler
+Resource Pack: 20 Basic Fertilizer: filler
+Resource Pack: 20 Basic Retaining Soil: filler
+Resource Pack: 20 Calico Egg: useful
+Resource Pack: 20 Cinder Shard: filler
+Resource Pack: 20 Clay: filler
+Resource Pack: 20 Coal: filler
+Resource Pack: 20 Deluxe Bait: filler
+Resource Pack: 20 Deluxe Fertilizer: filler
+Resource Pack: 20 Deluxe Retaining Soil: filler
+Resource Pack: 20 Deluxe Speed-Gro: filler
+Resource Pack: 20 Fall Seeds: filler
+Resource Pack: 20 Hardwood: filler
+Resource Pack: 20 Hyper Speed-Gro: filler
+Resource Pack: 20 Iridium Ore: filler
+Resource Pack: 20 Magic Bait: filler
+Resource Pack: 20 Quality Fertilizer: filler
+Resource Pack: 20 Quality Retaining Soil: filler
+Resource Pack: 20 Quartz: filler
+Resource Pack: 20 Speed-Gro: filler
+Resource Pack: 20 Spring Seeds: filler
+Resource Pack: 20 Summer Seeds: filler
+Resource Pack: 20 Tree Fertilizer: filler
+Resource Pack: 20 Winter Seeds: filler
+Resource Pack: 200 Calico Egg: useful
+Resource Pack: 2000 Money: filler
+Resource Pack: 24 Geode: filler
+Resource Pack: 25 Copper Ore: filler
+Resource Pack: 25 Gold Ore: filler
+Resource Pack: 25 Iron Ore: filler
+Resource Pack: 25 Stone: filler
+Resource Pack: 25 Wood: filler
+Resource Pack: 28 Deluxe Speed-Gro: filler
+Resource Pack: 28 Quality Fertilizer: filler
+Resource Pack: 28 Quality Retaining Soil: filler
+Resource Pack: 3 Bomb: filler
+Resource Pack: 3 Crab Pot: filler
+Resource Pack: 3 Magic Elixir: unknown
+Resource Pack: 3 Magma Geode: filler
+Resource Pack: 3 Mahogany Seed: filler
+Resource Pack: 3 Travel Core: unknown
+Resource Pack: 3 Warp Totem: Beach: filler
+Resource Pack: 3 Warp Totem: Desert: filler
+Resource Pack: 3 Warp Totem: Farm: filler
+Resource Pack: 3 Warp Totem: Island: filler
+Resource Pack: 3 Warp Totem: Mountains: filler
+Resource Pack: 3 Water Shifter: unknown
+Resource Pack: 30 Bait: filler
+Resource Pack: 30 Basic Fertilizer: filler
+Resource Pack: 30 Basic Retaining Soil: filler
+Resource Pack: 30 Calico Egg: useful
+Resource Pack: 30 Fall Seeds: filler
+Resource Pack: 30 Fiber: filler
+Resource Pack: 30 Speed-Gro: filler
+Resource Pack: 30 Spring Seeds: filler
+Resource Pack: 30 Summer Seeds: filler
+Resource Pack: 30 Winter Seeds: filler
+Resource Pack: 35 Calico Egg: useful
+Resource Pack: 36 Deluxe Speed-Gro: filler
+Resource Pack: 36 Quality Fertilizer: filler
+Resource Pack: 36 Quality Retaining Soil: filler
+Resource Pack: 38 Gold Ore: filler
+Resource Pack: 4 Crab Pot: filler
+Resource Pack: 4 Deluxe Speed-Gro: filler
+Resource Pack: 4 Frozen Geode: filler
+Resource Pack: 4 Mystery Box: filler
+Resource Pack: 4 Omni Geode: filler
+Resource Pack: 4 Quality Fertilizer: filler
+Resource Pack: 4 Quality Retaining Soil: filler
+Resource Pack: 40 Bait: filler
+Resource Pack: 40 Basic Fertilizer: filler
+Resource Pack: 40 Basic Retaining Soil: filler
+Resource Pack: 40 Calico Egg: filler
+Resource Pack: 40 Deluxe Speed-Gro: filler
+Resource Pack: 40 Fall Seeds: filler
+Resource Pack: 40 Quality Fertilizer: filler
+Resource Pack: 40 Quality Retaining Soil: filler
+Resource Pack: 40 Speed-Gro: filler
+Resource Pack: 40 Spring Seeds: filler
+Resource Pack: 40 Summer Seeds: filler
+Resource Pack: 40 Winter Seeds: filler
+Resource Pack: 45 Fiber: filler
+Resource Pack: 5 Cherry Bomb: filler
+Resource Pack: 5 Clay: filler
+Resource Pack: 5 Coal: filler
+Resource Pack: 5 Coffee: filler
+Resource Pack: 5 Crab Pot: filler
+Resource Pack: 5 Hardwood Display: unknown
+Resource Pack: 5 Hardwood: filler
+Resource Pack: 5 Iridium Ore: filler
+Resource Pack: 5 Mahogany Seed: filler
+Resource Pack: 5 Quartz: filler
+Resource Pack: 5 Staircase: filler
+Resource Pack: 5 Warp Totem: Beach: filler
+Resource Pack: 5 Warp Totem: Desert: filler
+Resource Pack: 5 Warp Totem: Farm: filler
+Resource Pack: 5 Warp Totem: Island: filler
+Resource Pack: 5 Warp Totem: Mountains: filler
+Resource Pack: 5 Wooden Display: unknown
+Resource Pack: 50 Bait: filler
+Resource Pack: 50 Basic Fertilizer: filler
+Resource Pack: 50 Basic Retaining Soil: filler
+Resource Pack: 50 Calico Egg: useful
+Resource Pack: 50 Copper Ore: filler
+Resource Pack: 50 Fall Seeds: filler
+Resource Pack: 50 Gold Ore: filler
+Resource Pack: 50 Iron Ore: filler
+Resource Pack: 50 Speed-Gro: filler
+Resource Pack: 50 Spring Seeds: filler
+Resource Pack: 50 Stone: filler
+Resource Pack: 50 Summer Seeds: filler
+Resource Pack: 50 Winter Seeds: filler
+Resource Pack: 50 Wood: filler
+Resource Pack: 500 Money: filler
+Resource Pack: 5000 Money: filler
+Resource Pack: 6 Crab Pot: filler
+Resource Pack: 6 Deluxe Fertilizer: filler
+Resource Pack: 6 Deluxe Retaining Soil: filler
+Resource Pack: 6 Geode: filler
+Resource Pack: 6 Hyper Speed-Gro: filler
+Resource Pack: 6 Magma Geode: filler
+Resource Pack: 6 Omni Geode: filler
+Resource Pack: 6 Tree Fertilizer: filler
+Resource Pack: 60 Bait: filler
+Resource Pack: 60 Basic Fertilizer: filler
+Resource Pack: 60 Basic Retaining Soil: filler
+Resource Pack: 60 Fall Seeds: filler
+Resource Pack: 60 Fiber: filler
+Resource Pack: 60 Speed-Gro: filler
+Resource Pack: 60 Spring Seeds: filler
+Resource Pack: 60 Summer Seeds: filler
+Resource Pack: 60 Winter Seeds: filler
+Resource Pack: 7 Mahogany Seed: filler
+Resource Pack: 7 Warp Totem: Beach: filler
+Resource Pack: 7 Warp Totem: Desert: filler
+Resource Pack: 7 Warp Totem: Farm: filler
+Resource Pack: 7 Warp Totem: Island: filler
+Resource Pack: 7 Warp Totem: Mountains: filler
+Resource Pack: 75 Copper Ore: filler
+Resource Pack: 75 Iron Ore: filler
+Resource Pack: 75 Stone: filler
+Resource Pack: 75 Wood: filler
+Resource Pack: 8 Frozen Geode: filler
+Resource Pack: 8 Omni Geode: filler
+Resource Pack: 9 Magma Geode: filler
+Resource Pack: 9 Mahogany Seed: filler
+Resource Pack: 9 Warp Totem: Beach: filler
+Resource Pack: 9 Warp Totem: Desert: filler
+Resource Pack: 9 Warp Totem: Farm: filler
+Resource Pack: 9 Warp Totem: Island: filler
+Resource Pack: 9 Warp Totem: Mountains: filler
+Restoration Table: unknown
+Return Scepter: useful
 Rhubarb Pie Recipe: progression
+Rhubarb Seeds: progression
 Rice Pudding Recipe: progression
+Rice Shoot: filler
+Riley <3: progression
+Ring of Yoba: useful
 Roasted Hazelnuts Recipe: progression
+Robin <3: progression
 Roots Platter Recipe: progression
+Ruby Ring: filler
+Rustic Plank Floor Recipe: progression
+Rusty Key: progression
+Rusty Sword: unknown
+Sailor's Cap: filler
 Salad Recipe: progression
 Salmon Dinner Recipe: progression
+Sam <3: progression
+Sandy <3: progression
 Sashimi Recipe: progression
-Seafoam Pudding Recipe: progression
-Shrimp Cocktail Recipe: progression
-Spaghetti Recipe: progression
-Spicy Eel Recipe: progression
-Squid Ink Ravioli Recipe: progression
-Stir Fry Recipe: progression
-Strange Bun Recipe: progression
-Stuffing Recipe: progression
-Super Meal Recipe: progression
-Survival Burger Recipe: progression
-Tom Kha Soup Recipe: progression
-Tortilla Recipe: progression
-Triple Shot Espresso Recipe: progression
-Tropical Curry Recipe: progression
-Trout Soup Recipe: progression
-Vegetable Medley Recipe: progression
-Gate Recipe: progression
-Wood Fence Recipe: progression
-Deluxe Retaining Soil Recipe: progression
-Grass Starter Recipe: progression
-Wood Floor Recipe: progression
-Rustic Plank Floor Recipe: progression
-Straw Floor Recipe: progression
-Weathered Floor Recipe: progression
-Crystal Floor Recipe: progression
-Stone Floor Recipe: progression
-Stone Walkway Floor Recipe: progression
-Brick Floor Recipe: progression
-Wood Path Recipe: progression
-Gravel Path Recipe: progression
-Cobblestone Path Recipe: progression
-Stepping Stone Path Recipe: progression
-Crystal Path Recipe: progression
-Wedding Ring Recipe: progression
-Warp Totem: Desert Recipe: progression
-Warp Totem: Island Recipe: progression
-Torch Recipe: progression
-Campfire Recipe: progression
-Wooden Brazier Recipe: progression
-Stone Brazier Recipe: progression
-Gold Brazier Recipe: progression
-Carved Brazier Recipe: progression
-Stump Brazier Recipe: progression
-Barrel Brazier Recipe: progression
-Skull Brazier Recipe: progression
-Marble Brazier Recipe: progression
-Wood Lamp-post Recipe: progression
-Iron Lamp-post Recipe: progression
-Furnace Recipe: progression
-Wicked Statue Recipe: progression
-Chest Recipe: progression
-Wood Sign Recipe: progression
-Stone Sign Recipe: progression
-Railroad Boulder Removed: progression
-Fruit Bats: useful
-Mushroom Boxes: progression
-The Gateway Gazette: useful
-Burnt Trap: trap
-Darkness Trap: trap
-Frozen Trap: trap
-Jinxed Trap: trap
-Nauseated Trap: trap
-Slimed Trap: trap
-Weakness Trap: trap
-Taxes Trap: trap
-Random Teleport Trap: trap
-The Crows Trap: trap
-Monsters Trap: trap
-Entrance Reshuffle Trap: unknown
-Debris Trap: trap
-Shuffle Trap: trap
-Temporary Winter Trap: unknown
-Pariah Trap: trap
-Drought Trap: trap
-Time Flies Trap: trap
-Babies Trap: trap
-Meow Trap: trap
-Bark Trap: filler
-Depression Trap: unknown
-Benjamin Budton Trap: trap
-Inflation Trap: trap
-Bomb Trap: trap
-Resource Pack: 500 Money: filler
-Resource Pack: 1000 Money: filler
-Resource Pack: 1500 Money: filler
-Resource Pack: 2000 Money: filler
-Resource Pack: 25 Stone: filler
-Resource Pack: 50 Stone: filler
-Resource Pack: 75 Stone: filler
-Resource Pack: 100 Stone: filler
-Resource Pack: 25 Wood: filler
-Resource Pack: 50 Wood: filler
-Resource Pack: 75 Wood: filler
-Resource Pack: 100 Wood: filler
-Resource Pack: 5 Hardwood: filler
-Resource Pack: 10 Hardwood: filler
-Resource Pack: 15 Hardwood: filler
-Resource Pack: 20 Hardwood: filler
-Resource Pack: 15 Fiber: filler
-Resource Pack: 30 Fiber: filler
-Resource Pack: 45 Fiber: filler
-Resource Pack: 60 Fiber: filler
-Resource Pack: 5 Coal: filler
-Resource Pack: 10 Coal: filler
-Resource Pack: 15 Coal: filler
-Resource Pack: 20 Coal: filler
-Resource Pack: 5 Clay: filler
-Resource Pack: 10 Clay: filler
-Resource Pack: 15 Clay: filler
-Resource Pack: 20 Clay: filler
-Resource Pack: 1 Warp Totem: Beach: filler
-Resource Pack: 3 Warp Totem: Beach: filler
-Resource Pack: 5 Warp Totem: Beach: filler
-Resource Pack: 7 Warp Totem: Beach: filler
-Resource Pack: 9 Warp Totem: Beach: filler
-Resource Pack: 10 Warp Totem: Beach: filler
-Resource Pack: 1 Warp Totem: Desert: filler
-Resource Pack: 3 Warp Totem: Desert: filler
-Resource Pack: 5 Warp Totem: Desert: filler
-Resource Pack: 7 Warp Totem: Desert: filler
-Resource Pack: 9 Warp Totem: Desert: filler
-Resource Pack: 10 Warp Totem: Desert: filler
-Resource Pack: 1 Warp Totem: Farm: filler
-Resource Pack: 3 Warp Totem: Farm: filler
-Resource Pack: 5 Warp Totem: Farm: filler
-Resource Pack: 7 Warp Totem: Farm: filler
-Resource Pack: 9 Warp Totem: Farm: filler
-Resource Pack: 10 Warp Totem: Farm: filler
-Resource Pack: 1 Warp Totem: Island: filler
-Resource Pack: 3 Warp Totem: Island: filler
-Resource Pack: 5 Warp Totem: Island: filler
-Resource Pack: 7 Warp Totem: Island: filler
-Resource Pack: 9 Warp Totem: Island: filler
-Resource Pack: 10 Warp Totem: Island: filler
-Resource Pack: 1 Warp Totem: Mountains: filler
-Resource Pack: 3 Warp Totem: Mountains: filler
-Resource Pack: 5 Warp Totem: Mountains: filler
-Resource Pack: 7 Warp Totem: Mountains: filler
-Resource Pack: 9 Warp Totem: Mountains: filler
-Resource Pack: 10 Warp Totem: Mountains: filler
-Resource Pack: 6 Geode: filler
-Resource Pack: 12 Geode: filler
-Resource Pack: 18 Geode: filler
-Resource Pack: 24 Geode: filler
-Resource Pack: 4 Frozen Geode: filler
-Resource Pack: 8 Frozen Geode: filler
-Resource Pack: 12 Frozen Geode: filler
-Resource Pack: 16 Frozen Geode: filler
-Resource Pack: 3 Magma Geode: filler
-Resource Pack: 6 Magma Geode: filler
-Resource Pack: 9 Magma Geode: filler
-Resource Pack: 12 Magma Geode: filler
-Resource Pack: 2 Omni Geode: filler
-Resource Pack: 4 Omni Geode: filler
-Resource Pack: 6 Omni Geode: filler
-Resource Pack: 8 Omni Geode: filler
-Resource Pack: 25 Copper Ore: filler
-Resource Pack: 50 Copper Ore: filler
-Resource Pack: 75 Copper Ore: filler
-Resource Pack: 100 Copper Ore: filler
-Resource Pack: 125 Copper Ore: filler
-Resource Pack: 150 Copper Ore: filler
-Resource Pack: 25 Iron Ore: filler
-Resource Pack: 50 Iron Ore: filler
-Resource Pack: 75 Iron Ore: filler
-Resource Pack: 100 Iron Ore: filler
-Resource Pack: 12 Gold Ore: filler
-Resource Pack: 25 Gold Ore: filler
-Resource Pack: 38 Gold Ore: filler
-Resource Pack: 50 Gold Ore: filler
-Resource Pack: 5 Iridium Ore: filler
-Resource Pack: 10 Iridium Ore: filler
-Resource Pack: 15 Iridium Ore: filler
-Resource Pack: 20 Iridium Ore: filler
-Resource Pack: 5 Quartz: filler
-Resource Pack: 10 Quartz: filler
-Resource Pack: 15 Quartz: filler
-Resource Pack: 20 Quartz: filler
-Resource Pack: 10 Basic Fertilizer: filler
-Resource Pack: 20 Basic Fertilizer: filler
-Resource Pack: 30 Basic Fertilizer: filler
-Resource Pack: 40 Basic Fertilizer: filler
-Resource Pack: 50 Basic Fertilizer: filler
-Resource Pack: 60 Basic Fertilizer: filler
-Resource Pack: 10 Basic Retaining Soil: filler
-Resource Pack: 20 Basic Retaining Soil: filler
-Resource Pack: 30 Basic Retaining Soil: filler
-Resource Pack: 40 Basic Retaining Soil: filler
-Resource Pack: 50 Basic Retaining Soil: filler
-Resource Pack: 60 Basic Retaining Soil: filler
-Resource Pack: 10 Speed-Gro: filler
-Resource Pack: 20 Speed-Gro: filler
-Resource Pack: 30 Speed-Gro: filler
-Resource Pack: 40 Speed-Gro: filler
-Resource Pack: 50 Speed-Gro: filler
-Resource Pack: 60 Speed-Gro: filler
-Resource Pack: 4 Quality Fertilizer: filler
-Resource Pack: 12 Quality Fertilizer: filler
-Resource Pack: 20 Quality Fertilizer: filler
-Resource Pack: 28 Quality Fertilizer: filler
-Resource Pack: 36 Quality Fertilizer: filler
-Resource Pack: 40 Quality Fertilizer: filler
-Resource Pack: 4 Quality Retaining Soil: filler
-Resource Pack: 12 Quality Retaining Soil: filler
-Resource Pack: 20 Quality Retaining Soil: filler
-Resource Pack: 28 Quality Retaining Soil: filler
-Resource Pack: 36 Quality Retaining Soil: filler
-Resource Pack: 40 Quality Retaining Soil: filler
-Resource Pack: 4 Deluxe Speed-Gro: filler
-Resource Pack: 12 Deluxe Speed-Gro: filler
-Resource Pack: 20 Deluxe Speed-Gro: filler
-Resource Pack: 28 Deluxe Speed-Gro: filler
-Resource Pack: 36 Deluxe Speed-Gro: filler
-Resource Pack: 40 Deluxe Speed-Gro: filler
-Resource Pack: 2 Deluxe Fertilizer: filler
-Resource Pack: 6 Deluxe Fertilizer: filler
-Resource Pack: 10 Deluxe Fertilizer: filler
-Resource Pack: 14 Deluxe Fertilizer: filler
-Resource Pack: 18 Deluxe Fertilizer: filler
-Resource Pack: 20 Deluxe Fertilizer: filler
-Resource Pack: 2 Deluxe Retaining Soil: filler
-Resource Pack: 6 Deluxe Retaining Soil: filler
-Resource Pack: 10 Deluxe Retaining Soil: filler
-Resource Pack: 14 Deluxe Retaining Soil: filler
-Resource Pack: 18 Deluxe Retaining Soil: filler
-Resource Pack: 20 Deluxe Retaining Soil: filler
-Resource Pack: 2 Hyper Speed-Gro: filler
-Resource Pack: 6 Hyper Speed-Gro: filler
-Resource Pack: 10 Hyper Speed-Gro: filler
-Resource Pack: 14 Hyper Speed-Gro: filler
-Resource Pack: 18 Hyper Speed-Gro: filler
-Resource Pack: 20 Hyper Speed-Gro: filler
-Resource Pack: 2 Tree Fertilizer: filler
-Resource Pack: 6 Tree Fertilizer: filler
-Resource Pack: 10 Tree Fertilizer: filler
-Resource Pack: 14 Tree Fertilizer: filler
-Resource Pack: 18 Tree Fertilizer: filler
-Resource Pack: 20 Tree Fertilizer: filler
-Resource Pack: 10 Spring Seeds: filler
-Resource Pack: 20 Spring Seeds: filler
-Resource Pack: 30 Spring Seeds: filler
-Resource Pack: 40 Spring Seeds: filler
-Resource Pack: 50 Spring Seeds: filler
-Resource Pack: 60 Spring Seeds: filler
-Resource Pack: 10 Summer Seeds: filler
-Resource Pack: 20 Summer Seeds: filler
-Resource Pack: 30 Summer Seeds: filler
-Resource Pack: 40 Summer Seeds: filler
-Resource Pack: 50 Summer Seeds: filler
-Resource Pack: 60 Summer Seeds: filler
-Resource Pack: 10 Fall Seeds: filler
-Resource Pack: 20 Fall Seeds: filler
-Resource Pack: 30 Fall Seeds: filler
-Resource Pack: 40 Fall Seeds: filler
-Resource Pack: 50 Fall Seeds: filler
-Resource Pack: 60 Fall Seeds: filler
-Resource Pack: 10 Winter Seeds: filler
-Resource Pack: 20 Winter Seeds: filler
-Resource Pack: 30 Winter Seeds: filler
-Resource Pack: 40 Winter Seeds: filler
-Resource Pack: 50 Winter Seeds: filler
-Resource Pack: 60 Winter Seeds: filler
-Resource Pack: 1 Mahogany Seed: filler
-Resource Pack: 3 Mahogany Seed: filler
-Resource Pack: 5 Mahogany Seed: filler
-Resource Pack: 7 Mahogany Seed: filler
-Resource Pack: 9 Mahogany Seed: filler
-Resource Pack: 10 Mahogany Seed: filler
-Resource Pack: 10 Bait: filler
-Resource Pack: 20 Bait: filler
-Resource Pack: 30 Bait: filler
-Resource Pack: 40 Bait: filler
-Resource Pack: 50 Bait: filler
-Resource Pack: 60 Bait: filler
-Resource Pack: 1 Crab Pot: filler
-Resource Pack: 2 Crab Pot: filler
-Resource Pack: 3 Crab Pot: filler
-Resource Pack: 4 Crab Pot: filler
-Resource Pack: 5 Crab Pot: filler
-Resource Pack: 6 Crab Pot: filler
-Friendship Bonus (1 <3): unknown
-Friendship Bonus (2 <3): useful
-Friendship Bonus (3 <3): unknown
-Friendship Bonus (4 <3): unknown
-15 Qi Gems: progression
-Solar Panel: filler
-Geode Crusher: useful
-Farm Computer: filler
-Bone Mill: useful
-Fiber Seeds: progression
-Chest: filler
-Stone Chest: filler
-Quality Bobber: filler
-Mini-Obelisk: useful
-Monster Musk: filler
-Sprinkler: filler
-Quality Sprinkler: filler
-Iridium Sprinkler: useful
+Savage Ring: useful
 Scarecrow: filler
-Deluxe Scarecrow: useful
-Furnace: filler
-Charcoal Kiln: useful
-Lightning Rod: filler
-Resource Pack: 5000 Money: filler
-Resource Pack: 10000 Money: filler
-Junimo Chest: useful
-Horse Flute: useful
-Pierre's Missing Stocklist: useful
-Hopper: filler
-Enricher: filler
-Pressure Nozzle: useful
-Deconstructor: useful
-Key To The Town: useful
-Galaxy Soul: useful
-Mushroom Tree Seed: filler
-Resource Pack: 20 Magic Bait: filler
-Resource Pack: 10 Qi Seasoning: filler
-Mr. Qi's Hat: filler
-Aquatic Sanctuary: filler
-Exotic Double Bed: filler
-Resource Pack: 2 Qi Gem: filler
-Golden Walnut: progression
-Fairy Dust: filler
+Scarlett <3: progression
+Scarlett's Job Offer: unknown
+Seafoam Pudding Recipe: progression
+Seafoam Pudding: filler
+Seaweed Salad Recipe: progression
+Sebastian <3: progression
 Seed Maker: filler
-Keg: useful
-Cask: useful
-Preserves Jar: filler
-Bee House: useful
-Garden Pot: useful
-Cheese Press: useful
-Mayonnaise Machine: useful
-Loom: useful
-Oil Maker: useful
-Recycling Machine: useful
-Worm Bin: filler
-Tapper: filler
-Heavy Tapper: useful
-Slime Incubator: useful
+Sewing Machine: filler
+Shadow Dagger: unknown
+Shane <3: progression
+Sheila <3: progression
+Shiko <3: progression
+Shipping Bin: progression
+Shrimp Cocktail Recipe: progression
+Shuffle Trap: trap
+Silo: useful
+Silver Saber: unknown
+Sinister Signal: filler
+Skull Brazier Recipe: progression
+Skull Key: progression
+Slime Charmer Ring: useful
 Slime Egg-Press: useful
-Crystalarium: useful
-Ostrich Incubator: useful
-Resource Pack: 5 Staircase: filler
-Auto-Petter: useful
-Auto-Grabber: useful
-Luck Level: progression
-Magic Level: progression
+Slime Hutch: progression
+Slime Incubator: useful
+Slimed Trap: trap
+Slingshot: unknown
+Small Glow Ring: useful
+Small Magnet Ring: filler
 Socializing Level: progression
-Archaeology Level: progression
-Cooking Level: progression
-Binning Level: progression
-Tractor Garage: useful
-Woods Obelisk: progression
-Spell: Clear Debris: useful
-Spell: Till: useful
-Spell: Water: unknown
+Solar Panel Recipe: progression
+Solar Panel: filler
+Sophia <3: progression
+Soul Sapper Ring: useful
+Space Boots: unknown
+Spaghetti Recipe: progression
+Spangle Seeds: useful
+Special Order Board: progression
+Special Pumpkin Soup Recipe: progression
 Spell: Blink: progression
-Spell: Evac: progression
-Spell: Haste: unknown
-Spell: Heal: unknown
+Spell: Bloodmana: unknown
 Spell: Buff: unknown
-Spell: Shockwave: useful
+Spell: Clear Debris: useful
+Spell: Descend: unknown
+Spell: Evac: progression
 Spell: Fireball: unknown
 Spell: Frostbolt: useful
-Spell: Teleport: unknown
+Spell: Haste: unknown
+Spell: Heal: unknown
 Spell: Lantern: unknown
-Spell: Tendrils: unknown
-Spell: Photosynthesis: progression
-Spell: Descend: unknown
-Spell: Meteor: unknown
-Spell: Bloodmana: unknown
 Spell: Lucksteal: unknown
-Spell: Spirit: unknown
+Spell: Meteor: unknown
+Spell: Photosynthesis: progression
 Spell: Rewind: unknown
-Pendant of Community: progression
-Pendant of Elders: progression
-Pendant of Depths: progression
-Juna <3: progression
-Jasper <3: progression
-Alec <3: progression
-Yoba <3: progression
-Eugene <3: progression
-Wellwick <3: progression
-Mr. Ginger <3: progression
-Shiko <3: progression
-Delores <3: progression
-Ayeisha <3: progression
-Riley <3: progression
-Claire <3: progression
-Lance <3: progression
-Olivia <3: progression
-Sophia <3: progression
-Victor <3: progression
-Andy <3: progression
-Apples <3: progression
-Gunther <3: progression
-Martin <3: progression
-Marlon <3: progression
-Morgan <3: progression
-Scarlett <3: progression
+Spell: Shockwave: useful
+Spell: Spirit: unknown
+Spell: Teleport: unknown
+Spell: Tendrils: unknown
+Spell: Till: useful
+Spell: Water: unknown
+Spicy Eel Recipe: progression
+Spring: progression
+Sprinkler: filler
+Squid Hat: filler
+Squid Ink Ravioli Recipe: progression
+Stable: useful
+Stardrop Tea: filler
+Stardrop: mcguffin
+Starfruit Seeds: progression
+Starport Decal: filler
+Steel Falchion: unknown
+Steel Smallsword: unknown
+Stepping Stone Path Recipe: progression
+Stir Fry Recipe: progression
+Stone Brazier Recipe: progression
+Stone Chest Recipe: progression
+Stone Chest: filler
+Stone Floor Recipe: progression
+Stone Sign Recipe: progression
+Stone Walkway Floor Recipe: progression
+Strange Bun Recipe: progression
+Straw Floor Recipe: progression
+Straw Hat: filler
+Strawberry Seeds: progression
+Stuffing Recipe: progression
+Stump Brazier Recipe: progression
+Sturdy Ring: useful
+Summer Squash Seeds: progression
+Summer: progression
+Sunflower Seeds: progression
+Super Meal Recipe: progression
+Survival Burger Recipe: progression
 Susan <3: progression
-Morris <3: progression
-Alecto <3: progression
-Zic <3: progression
-Lacey <3: progression
-Gregory <3: progression
-Sheila <3: progression
-Joel <3: progression
-Progressive Woods Obelisk Sigils: progression
-Progressive Skull Cavern Elevator: useful
-Baked Berry Oatmeal Recipe: progression
-Big Bark Burger Recipe: progression
-Flower Cookie Recipe: progression
-Frog Legs Recipe: progression
-Glazed Butterfish Recipe: progression
-Mixed Berry Pie Recipe: progression
-Mushroom Berry Rice Recipe: progression
-Seaweed Salad Recipe: progression
-Void Delight Recipe: progression
-Void Salmon Sushi Recipe: progression
-Mushroom Kebab Recipe: progression
-Crayfish Soup Recipe: progression
-Pemmican Recipe: progression
-Void Mint Tea Recipe: progression
-Ginger Tincture Recipe: progression
-Special Pumpkin Soup Recipe: progression
-Void Mint Seeds: unknown
-Vile Ancient Fruit Seeds: unknown
-Marlon's Boat Paddle: progression
-Diamond Wand: unknown
-Iridium Bomb: progression
-Void Spirit Peace Agreement: useful
-Kittyfish Spell: progression
-Nexus: Adventurer's Guild Runes: progression
-Nexus: Junimo Woods Runes: progression
-Nexus: Aurora Vineyard Runes: progression
-Nexus: Sprite Spring Runes: progression
-Nexus: Outpost Runes: progression
-Nexus: Farm Runes: progression
-Nexus: Wizard Runes: progression
-Fable Reef Portal: progression
-Tempered Galaxy Sword: unknown
-Tempered Galaxy Dagger: unknown
-Tempered Galaxy Hammer: unknown
-Grandpa's Shed: useful
-Aurora Vineyard Tablet: progression
-Scarlett's Job Offer: unknown
-Morgan's Schooling: progression
-Magic Elixir Recipe: progression
-Travel Core Recipe: progression
-Haste Elixir Recipe: progression
-Hero Elixir Recipe: progression
-Armor Elixir Recipe: useful
-Neanderthal Skeleton Recipe: progression
-Pterodactyl Skeleton L Recipe: progression
-Pterodactyl Skeleton M Recipe: progression
-Pterodactyl Skeleton R Recipe: progression
 T-Rex Skeleton L Recipe: progression
 T-Rex Skeleton M Recipe: progression
 T-Rex Skeleton R Recipe: progression
-Resource Pack: 3 Magic Elixir: unknown
-Resource Pack: 3 Travel Core: unknown
-Preservation Chamber: unknown
-Hardwood Preservation Chamber: filler
-Resource Pack: 3 Water Shifter: unknown
-Resource Pack: 5 Hardwood Display: unknown
-Resource Pack: 5 Wooden Display: unknown
-Grinder: unknown
-Ancient Battery Production Station: unknown
-Hero Elixir: unknown
-Aegis Elixir: unknown
-Haste Elixir: unknown
-Lightning Elixir: unknown
-Armor Elixir: unknown
-Gravity Elixir: unknown
-Barbarian Elixir: unknown
-Fish Trap Bonus: filler
-Free Cactis: filler
-Power: Dwarvish Safety Manual: progression
-Power: The Alleyway Buffet: progression
-Seafoam Pudding: filler
-'Squid Kid': filler
-Trap Bobber: filler
-Progressive Lost Book: progression
-Health Bonus: filler
-Resource Pack: 5 Cherry Bomb: filler
-Progressive Pan: useful
-Prize Ticket: filler
-Bite Rate Bonus: filler
-Fishing Bar Size Bonus: filler
-Book: The Art O' Crabbing: useful
-Resource Pack: 15 Mixed Seeds: filler
-Mummy Mask: filler
-Resource Pack: 15 Mixed Flower Seeds: filler
-Big Stone Chest Recipe: progression
-Foraging Mastery: progression
-Dish O' The Sea: filler
-Mounted Trout: filler
-Power: Monster Compendium: useful
-Power: Price Catalogue: useful
-Resource Pack: 35 Calico Egg: useful
-Nudge Trap: trap
-Carrot Seeds: progression
-Resource Pack: 20 Cinder Shard: filler
-Power: Animal Catalogue: useful
-Powdermelon Seeds: progression
-Summer Squash Seeds: progression
-Power: Way Of The Wind pt. 1: progression
-Power: Woody's Secret: useful
-Power: Friendship 101: useful
-Recycling Bin: filler
-Composter: filler
-Progressive Raccoon: progression
-Leprechaun Hat: useful
-Resource Pack: 2 Artifact Trove: filler
-Trash Bin: filler
-Resource Pack: 30 Calico Egg: useful
-Treasure Chest: useful
-Resource Pack: 100 Calico Egg: filler
-Energy Bonus: filler
-Resource Pack: 2 Triple Shot Espresso: useful
-Progressive Scythe: progression
-Resource Pack: 2 Life Elixir: filler
-Resource Pack: 200 Calico Egg: useful
-Advanced Recycling Machine: filler
-5 Golden Walnuts: progression
-Resource Pack: 5 Coffee: filler
-Big Chest Recipe: progression
-Power: Ol' Slitherlegs: progression
-Damage Bonus: useful
-Power: Raccoon Journal: useful
-3 Golden Walnuts: progression
-Resource Pack: 20 Calico Egg: useful
-Resource Pack: 2 Mega Bomb: filler
-Power: Way Of The Wind pt. 2: useful
-Bucket Hat: filler
-Resource Pack: 10 Calico Egg: filler
-Power: Jewels Of The Sea: useful
+Tapper: filler
+Taro Tuber: progression
+Taxes Trap: trap
+Tempered Broadsword: unknown
+Tempered Galaxy Dagger: unknown
+Tempered Galaxy Hammer: unknown
+Tempered Galaxy Sword: unknown
+Templar's Blade: unknown
+Temporary Winter Trap: unknown
 Tent Kit: filler
-Power: The Diamond Hunter: useful
-Resource Pack: 4 Mystery Box: filler
-Defense Bonus: filler
-Prismatic Shard: useful
-Resource Pack: 20 Deluxe Bait: filler
-Stardrop Tea: filler
-Broccoli Seeds: progression
-Resource Pack: 3 Bomb: filler
-Immunity Bonus: useful
-Calico Statue: filler
-Power: Book of Mysteries: progression
-Resource Pack: 40 Calico Egg: filler
-Mr Qi's Plane Ride: useful
-Gil's Hat: filler
-Squid Hat: filler
-Power: Treasure Appraisal Guide: useful
-Resource Pack: 120 Calico Egg: filler
-Farming Mastery: progression
-Power: Jack Be Nimble, Jack Be Thick: useful
-Blue Grass Starter Recipe: progression
-Fish Smoker Recipe: progression
-Mastery Of The Five Ways: useful
-Mining Mastery: progression
-Fishing Mastery: progression
-Moss Soup Recipe: progression
-Power: Horse: The Book: useful
-Dehydrator Recipe: progression
 Text Sign Recipe: progression
-Power: Mapping Cave Systems: useful
-Fish Casserole Recipe: progression
-Tilesanity: Calico Desert (4-6): progression
-Tilesanity: Standard Farm (12-4): progression
-Tilesanity: Standard Farm (14-1): progression
-Resource Pack: 50 Calico Egg: useful
-Tilesanity: Standard Farm (15-11): progression
-Tilesanity: Bus Stop (4-5): progression
-Tilesanity: Pelican Town (5-12): progression
-Tilesanity: Standard Farm (15-8): progression
-Tilesanity: Standard Farm (3-6): progression
-Tilesanity: Standard Farm (8-3): progression
-Tilesanity: Standard Farm (14-2): progression
-Tilesanity: Standard Farm (13-11): progression
-Combat Mastery: progression
-Tilesanity: Pelican Town (12-6): progression
-Tilesanity: Cindersap Forest (20-7): unknown
-Tilesanity: Railroad (1-10): unknown
-Tilesanity: Pelican Beach (7-1): unknown
-Tilesanity: Cindersap Forest (15-14): unknown
-Tilesanity: Cindersap Forest (1-3): unknown
-Tilesanity: Pelican Town (3-8): unknown
-Tilesanity: Cindersap Forest (16-6): unknown
-Tilesanity: Pelican Town (19-16): unknown
-Tilesanity: Cindersap Forest (11-2): unknown
-Tilesanity: Cindersap Forest (18-12): unknown
-Tilesanity: Pelican Beach (4-3): unknown
-Tilesanity: Pelican Town (5-20): unknown
-Tilesanity: Pelican Town (0-12): unknown
-Tilesanity: Mountains (8-3): unknown
-Tilesanity: Pelican Town (14-19): unknown
-Tilesanity: Calico Desert (9-9): unknown
-Tilesanity: Calico Desert (9-7): unknown
-Restoration Table: unknown
-Tilesanity: Pelican Town (8-13): unknown
-Tilesanity: Mountains (1-4): unknown
-Tilesanity: Cindersap Forest (15-4): unknown
-Tilesanity: Calico Desert (2-11): unknown
-Tilesanity: Cindersap Forest (8-2): unknown
-Tilesanity: Pelican Town (7-14): unknown
-Tilesanity: Calico Desert (2-2): unknown
-Tilesanity: Mountains (5-1): unknown
-Tilesanity: Cindersap Forest (18-7): unknown
-Tilesanity: Pelican Town (10-11): unknown
-Tilesanity: Pelican Town (4-19): unknown
-Tilesanity: Cindersap Forest (19-11): unknown
-Tilesanity: Calico Desert (1-2): unknown
-Tilesanity: Cindersap Forest (5-19): unknown
-Tilesanity: Cindersap Forest (22-7): unknown
-Tilesanity: Pelican Town (12-7): unknown
-Tilesanity: Pelican Town (9-18): unknown
-Tilesanity: Calico Desert (0-10): unknown
-Tilesanity: Pelican Town (3-16): unknown
-Tilesanity: Pelican Town (5-17): unknown
-Tilesanity: Cindersap Forest (15-18): unknown
-Tilesanity: Pelican Town (19-8): unknown
-Tilesanity: Calico Desert (9-11): unknown
-Tilesanity: Pelican Town (13-19): unknown
-Tilesanity: Calico Desert (9-2): unknown
-Tilesanity: Mountains (9-5): unknown
-Tilesanity: Mountains (15-2): unknown
-Tilesanity: Mountains (4-3): unknown
-Tilesanity: Pelican Town (4-6): unknown
-Tilesanity: Railroad (1-11): unknown
-Tilesanity: Railroad (9-8): unknown
-Tilesanity: Backwoods (9-3): unknown
-Tilesanity: Cindersap Forest (18-18): unknown
-Tilesanity: Cindersap Forest (12-3): unknown
-Digger's Delight Recipe: unknown
-Tilesanity: Calico Desert (7-3): unknown
-Tilesanity: Pelican Town (1-12): unknown
-Tilesanity: Calico Desert (5-10): unknown
-Tilesanity: Standard Farm (11-3): unknown
-Tilesanity: Pelican Town (10-3): unknown
-Tilesanity: Pelican Town (14-5): unknown
-Tilesanity: Mountains (5-6): unknown
-Tilesanity: Cindersap Forest (6-7): unknown
-Tilesanity: Secret Woods (10-3): unknown
-Tilesanity: Mountains (0-3): unknown
-Tilesanity: Cindersap Forest (5-8): unknown
-Tilesanity: Pelican Town (2-17): unknown
-Tilesanity: Cindersap Forest (7-3): unknown
-Tilesanity: Standard Farm (15-7): unknown
-Tilesanity: Standard Farm (7-9): unknown
-Tilesanity: Bus Stop (4-2): unknown
-Tilesanity: Cindersap Forest (14-0): unknown
-Tilesanity: Standard Farm (13-5): unknown
-Tilesanity: Railroad (4-7): unknown
-Tilesanity: Cindersap Forest (6-1): unknown
-Power: The Art O' Crabbing: useful
-Tilesanity: Cindersap Forest (9-11): unknown
-Grilled Cheese Recipe: progression
-Tilesanity: Bus Stop (7-1): unknown
-Tilesanity: Calico Desert (8-3): unknown
-Tilesanity: Pelican Town (4-8): unknown
+The Crows Trap: trap
+The Gateway Gazette: useful
+The Queen of Sauce: progression
+The Slammer: unknown
+Thermal Boots: unknown
+Thorns Ring: useful
 Tilesanity: Backwoods (3-7): unknown
-Tilesanity: Standard Farm (2-6): unknown
-Tilesanity: Standard Farm (4-7): unknown
-Tilesanity: Bus Stop (3-2): unknown
-Tilesanity: Calico Desert (0-4): unknown
-Tilesanity: Calico Desert (4-2): unknown
-Tilesanity: Pelican Town (3-7): unknown
-Tilesanity: Calico Desert (4-9): unknown
-Tilesanity: Cindersap Forest (19-5): unknown
-Tilesanity: Pelican Town (6-12): unknown
-Tilesanity: Calico Desert (0-11): unknown
-Tilesanity: Cindersap Forest (8-3): unknown
-Tilesanity: Pelican Town (1-13): unknown
-Tilesanity: Cindersap Forest (16-3): unknown
-Tilesanity: Calico Desert (8-6): unknown
-Tilesanity: Calico Desert (2-3): unknown
-Tilesanity: Pelican Town (4-12): unknown
-Tilesanity: Mountains (0-2): unknown
-Tilesanity: Cindersap Forest (15-6): unknown
-Tilesanity: Cindersap Forest (11-4): unknown
-Tilesanity: Calico Desert (1-10): unknown
-Tilesanity: Cindersap Forest (17-6): unknown
-Tilesanity: Calico Desert (1-3): unknown
-Tilesanity: Cindersap Forest (17-3): unknown
-Tilesanity: Pelican Town (4-7): unknown
-Tilesanity: Mountains (1-3): unknown
-Tilesanity: Cindersap Forest (17-7): unknown
-Tilesanity: Pelican Town (5-6): unknown
-Tilesanity: Calico Desert (0-8): unknown
-Tilesanity: Calico Desert (8-5): unknown
-Tilesanity: Calico Desert (7-1): unknown
-Tilesanity: Calico Desert (0-2): unknown
-Tilesanity: Cindersap Forest (15-7): unknown
-Tilesanity: Calico Desert (4-10): unknown
-Tilesanity: Calico Desert (7-5): unknown
-Tilesanity: Cindersap Forest (17-5): unknown
-Tilesanity: Calico Desert (9-3): unknown
-Tilesanity: Mountains (2-1): unknown
-Tilesanity: Pelican Town (5-16): unknown
-Tilesanity: Cindersap Forest (10-1): unknown
-Tilesanity: Pelican Town (5-11): unknown
-Tilesanity: Pelican Town (6-11): unknown
-Tilesanity: Pelican Town (3-12): unknown
-Tilesanity: Calico Desert (8-7): unknown
-Tilesanity: Pelican Town (6-5): unknown
-Tilesanity: Cindersap Forest (9-6): unknown
-Tilesanity: Cindersap Forest (6-2): unknown
-Tilesanity: Cindersap Forest (11-7): unknown
-Tilesanity: Pelican Town (7-11): unknown
-Tilesanity: Cindersap Forest (9-1): unknown
-Tilesanity: Calico Desert (9-10): unknown
-Tilesanity: Pelican Town (6-14): unknown
-Tilesanity: Cindersap Forest (16-4): unknown
-Tilesanity: Cindersap Forest (19-7): unknown
-Tilesanity: Pelican Town (1-14): unknown
-Tilesanity: Pelican Town (2-14): unknown
-Tilesanity: Pelican Town (2-19): unknown
-Tilesanity: Cindersap Forest (21-15): unknown
-Tilesanity: Pelican Town (1-2): unknown
-Tilesanity: Cindersap Forest (22-6): unknown
-Tilesanity: Cindersap Forest (8-1): unknown
-Tilesanity: Pelican Town (3-15): unknown
-Tilesanity: Cindersap Forest (16-7): unknown
-Tilesanity: Pelican Town (7-7): unknown
-Tilesanity: Cindersap Forest (7-2): unknown
-Tilesanity: Mountains (1-6): unknown
-Tilesanity: Cindersap Forest (18-20): unknown
-Tilesanity: Secret Woods (4-3): unknown
-Tilesanity: Pelican Town (21-11): unknown
-Tilesanity: Cindersap Forest (18-10): unknown
-Tilesanity: Pelican Town (5-4): unknown
-Tilesanity: Calico Desert (8-9): unknown
-Tilesanity: Pelican Town (9-7): unknown
-Tilesanity: Cindersap Forest (19-20): unknown
-Tilesanity: Cindersap Forest (20-5): unknown
-Tilesanity: Pelican Town (2-18): unknown
-Tilesanity: Pelican Town (18-8): unknown
-Tilesanity: Pelican Beach (2-3): unknown
-Tilesanity: Cindersap Forest (13-9): unknown
-Tilesanity: Pelican Town (8-11): unknown
-Tilesanity: Pelican Town (3-5): unknown
-Tilesanity: Mountains (5-2): unknown
-Tilesanity: Pelican Town (4-14): unknown
-Tilesanity: Mountains (2-3): unknown
-Tilesanity: Cindersap Forest (13-8): unknown
-Tilesanity: Pelican Town (2-13): unknown
-Tilesanity: Mountains (3-3): unknown
-Tilesanity: Mountains (0-4): unknown
-Tilesanity: Cindersap Forest (18-8): unknown
-Tilesanity: Mountains (3-1): unknown
-Tilesanity: Cindersap Forest (11-10): unknown
-Tilesanity: Mountains (1-1): unknown
-Tilesanity: Pelican Town (3-3): unknown
-Tilesanity: Pelican Town (8-5): unknown
-Tilesanity: Mountains (4-1): unknown
-Tilesanity: Mountains (1-0): unknown
-Tilesanity: Pelican Town (11-10): unknown
-Tilesanity: Mountains (6-1): unknown
-Tilesanity: Cindersap Forest (17-8): unknown
-Tilesanity: Pelican Town (8-16): unknown
-Tilesanity: Mountains (12-3): unknown
-Tilesanity: Cindersap Forest (21-16): unknown
-Tilesanity: Pelican Town (18-15): unknown
-Tilesanity: Cindersap Forest (9-13): unknown
-Tilesanity: Cindersap Forest (21-19): unknown
-Tilesanity: Cindersap Forest (15-8): unknown
-Tilesanity: Cindersap Forest (19-6): unknown
-Tilesanity: Pelican Town (4-15): unknown
-Tilesanity: Cindersap Forest (15-9): unknown
-Tilesanity: Pelican Town (19-1): unknown
-Tilesanity: Railroad (8-11): unknown
-Tilesanity: Railroad (7-10): unknown
-Tilesanity: Pelican Town (3-11): unknown
-Tilesanity: Backwoods (8-3): unknown
-Tilesanity: Calico Desert (1-7): unknown
-Tilesanity: Standard Farm (0-12): unknown
-Tilesanity: Calico Desert (0-9): unknown
-Tilesanity: Cindersap Forest (8-15): unknown
-Tilesanity: Mountains (2-2): unknown
-Tilesanity: Pelican Town (3-14): unknown
-Tilesanity: Cindersap Forest (10-6): unknown
-Tilesanity: Secret Woods (8-2): unknown
-Tilesanity: Cindersap Forest (20-15): unknown
-Tilesanity: Standard Farm (1-10): unknown
-Tilesanity: Pelican Town (1-10): unknown
-Tilesanity: Standard Farm (5-12): unknown
-Tilesanity: Bus Stop (7-2): unknown
-Tilesanity: Standard Farm (8-11): unknown
-Tilesanity: Pelican Town (4-9): unknown
-Tilesanity: Cindersap Forest (16-5): unknown
-Tilesanity: Cindersap Forest (20-4): unknown
-Tilesanity: Cindersap Forest (1-16): unknown
-Tilesanity: Calico Desert (1-8): unknown
-Tilesanity: Cindersap Forest (17-16): unknown
-Tilesanity: Cindersap Forest (15-17): unknown
-Tilesanity: Pelican Town (2-15): unknown
-Tilesanity: Pelican Town (1-15): unknown
-Tilesanity: Cindersap Forest (20-6): unknown
-Tilesanity: Pelican Town (7-16): unknown
-Tilesanity: Mountains (3-2): unknown
-Tilesanity: Cindersap Forest (5-18): unknown
-Tilesanity: Cindersap Forest (11-14): unknown
-Tilesanity: Cindersap Forest (12-13): unknown
-Tilesanity: Pelican Town (5-10): unknown
-Tilesanity: Pelican Town (4-16): unknown
 Tilesanity: Backwoods (7-2): unknown
-Tilesanity: Cindersap Forest (12-5): unknown
-Tilesanity: Cindersap Forest (12-10): unknown
-Tilesanity: Cindersap Forest (7-1): unknown
-Tilesanity: Pelican Town (1-3): unknown
-Tilesanity: Railroad (6-11): unknown
-Tilesanity: Mountains (5-3): unknown
-Tilesanity: Pelican Town (9-9): unknown
-Tilesanity: Cindersap Forest (22-5): unknown
-Tilesanity: Cindersap Forest (15-10): unknown
-Tilesanity: Pelican Town (5-3): unknown
-Tilesanity: Pelican Town (4-3): unknown
-Tilesanity: Pelican Town (0-13): unknown
-Tilesanity: Pelican Town (11-13): unknown
-Tilesanity: Pelican Town (5-5): unknown
-Tilesanity: Mountains (4-2): unknown
-Tilesanity: Mountains (4-4): unknown
-Tilesanity: Cindersap Forest (8-11): unknown
-Tilesanity: Mountains (5-7): unknown
-Tilesanity: Pelican Town (11-4): unknown
-Tilesanity: Pelican Town (12-3): unknown
-Tilesanity: Cindersap Forest (5-10): unknown
-Tilesanity: Cindersap Forest (10-9): unknown
-Tilesanity: Pelican Town (5-13): unknown
-Tilesanity: Pelican Town (6-13): unknown
-Tilesanity: Cindersap Forest (12-8): unknown
-Tilesanity: Pelican Town (7-13): unknown
-Tilesanity: Cindersap Forest (11-9): unknown
-Tilesanity: Cindersap Forest (11-8): unknown
-Tilesanity: Pelican Town (8-15): unknown
-Tilesanity: Pelican Town (10-13): unknown
-Tilesanity: Cindersap Forest (9-8): unknown
-Tilesanity: Mountains (0-7): unknown
-Tilesanity: Pelican Town (3-2): unknown
-Tilesanity: Pelican Town (2-6): unknown
-Tilesanity: Pelican Town (1-6): unknown
-Tilesanity: Cindersap Forest (21-4): unknown
-Tilesanity: Pelican Town (10-14): unknown
-Tilesanity: Pelican Town (9-10): unknown
-Tilesanity: Cindersap Forest (10-10): unknown
-Tilesanity: Pelican Town (0-17): unknown
-Tilesanity: Cindersap Forest (10-11): unknown
-Tilesanity: Pelican Town (5-18): unknown
-Tilesanity: Pelican Town (4-1): unknown
-Tilesanity: Cindersap Forest (7-8): unknown
-Tilesanity: Railroad (4-11): unknown
-Tilesanity: Cindersap Forest (5-17): unknown
-Tilesanity: Pelican Town (4-2): unknown
-Tilesanity: Pelican Town (8-4): unknown
-Tilesanity: Mountains (2-5): unknown
-Tilesanity: Cindersap Forest (23-4): unknown
-Tilesanity: Pelican Town (10-12): unknown
-Tilesanity: Cindersap Forest (8-8): unknown
-Tilesanity: Cindersap Forest (7-9): unknown
-Tilesanity: Pelican Town (7-15): unknown
-Tilesanity: Pelican Town (7-17): unknown
-Tilesanity: Mountains (6-5): unknown
-Tilesanity: Mountains (2-0): unknown
-Tilesanity: Pelican Town (1-4): unknown
-Tilesanity: Railroad (7-9): unknown
-Tilesanity: Railroad (6-9): unknown
-Tilesanity: Pelican Town (6-7): unknown
-Tilesanity: Pelican Town (9-15): unknown
-Tilesanity: Pelican Town (6-17): unknown
-Tilesanity: Cindersap Forest (21-7): unknown
-Tilesanity: Railroad (5-11): unknown
-Tilesanity: Cindersap Forest (22-4): unknown
-Tilesanity: Pelican Town (2-2): unknown
-Tilesanity: Pelican Town (9-6): unknown
-Tilesanity: Pelican Town (10-15): unknown
-Tilesanity: Pelican Town (9-16): unknown
-Tilesanity: Pelican Town (11-11): unknown
-Tilesanity: Pelican Town (6-2): unknown
-Tilesanity: Cindersap Forest (21-6): unknown
-Tilesanity: Pelican Town (7-3): unknown
-Tilesanity: Mountains (1-7): unknown
-Tilesanity: Pelican Town (5-2): unknown
-Tilesanity: Pelican Town (11-14): unknown
-Tilesanity: Cindersap Forest (7-4): unknown
-Tilesanity: Pelican Town (7-2): unknown
-Tilesanity: Pelican Town (13-11): unknown
-Tilesanity: Pelican Town (9-2): unknown
-Tilesanity: Pelican Town (15-14): unknown
-Tilesanity: Pelican Town (16-2): unknown
-Tilesanity: Cindersap Forest (4-3): unknown
-Tilesanity: Pelican Town (13-14): unknown
-Tilesanity: Cindersap Forest (3-3): unknown
-Tilesanity: Pelican Town (12-14): unknown
-Tilesanity: Mountains (6-6): unknown
-Tilesanity: Railroad (1-9): unknown
-Tilesanity: Pelican Town (13-16): unknown
-Tilesanity: Pelican Town (13-12): unknown
-Tilesanity: Railroad (8-8): unknown
-Tilesanity: Cindersap Forest (2-2): unknown
+Tilesanity: Backwoods (8-3): unknown
+Tilesanity: Backwoods (9-3): unknown
+Tilesanity: Bus Stop (3-2): unknown
+Tilesanity: Bus Stop (4-2): unknown
+Tilesanity: Bus Stop (4-5): progression
+Tilesanity: Bus Stop (7-1): unknown
+Tilesanity: Bus Stop (7-2): unknown
 Tilesanity: Calico Desert (0-1): unknown
-Tilesanity: Cindersap Forest (18-3): unknown
-Tilesanity: Pelican Town (6-3): unknown
-Tilesanity: Railroad (6-10): unknown
-Tilesanity: Pelican Town (5-15): unknown
-Tilesanity: Pelican Town (6-16): unknown
-Tilesanity: Pelican Town (11-5): unknown
-Tilesanity: Pelican Town (5-1): unknown
-Tilesanity: Pelican Town (11-7): unknown
-Tilesanity: Pelican Town (9-4): unknown
-Tilesanity: Pelican Town (3-17): unknown
-Tilesanity: Cindersap Forest (6-4): unknown
-Tilesanity: Pelican Town (14-13): unknown
-Tilesanity: Cindersap Forest (6-3): unknown
-Tilesanity: Pelican Town (11-9): unknown
-Tilesanity: Mountains (7-4): unknown
-Tilesanity: Railroad (8-10): unknown
-Tilesanity: Pelican Town (13-7): unknown
-Tilesanity: Pelican Town (7-1): unknown
-Tilesanity: Cindersap Forest (5-11): unknown
-Tilesanity: Mountains (6-7): unknown
-Tilesanity: Pelican Town (16-1): unknown
-Tilesanity: Pelican Town (9-17): unknown
-Tilesanity: Cindersap Forest (5-9): unknown
-Tilesanity: Pelican Town (15-2): unknown
-Tilesanity: Pelican Town (11-18): unknown
-Tilesanity: Pelican Town (16-4): unknown
-Tilesanity: Railroad (8-7): unknown
-Tilesanity: Pelican Town (15-4): unknown
-Tilesanity: Pelican Town (13-3): unknown
-Tilesanity: Pelican Town (14-1): unknown
-Tilesanity: Cindersap Forest (3-12): unknown
-Tilesanity: Cindersap Forest (4-16): unknown
-Tilesanity: Pelican Town (10-5): unknown
-Tilesanity: Pelican Town (6-18): unknown
-Tilesanity: Mountains (3-6): unknown
-Tilesanity: Mountains (7-2): unknown
-Tilesanity: Mountains (3-7): unknown
-Tilesanity: Pelican Town (12-12): unknown
-Tilesanity: Pelican Town (4-18): unknown
-Tilesanity: Pelican Town (14-6): unknown
-Tilesanity: Cindersap Forest (16-9): unknown
-Tilesanity: Railroad (6-12): unknown
-Tilesanity: Pelican Town (7-4): unknown
-Tilesanity: Cindersap Forest (9-9): unknown
-Tilesanity: Pelican Town (3-6): unknown
-Tilesanity: Cindersap Forest (5-2): unknown
-Tilesanity: Mountains (2-7): unknown
-Tilesanity: Railroad (4-9): unknown
-Tilesanity: Pelican Town (15-0): unknown
-Tilesanity: Pelican Town (10-1): unknown
-Tilesanity: Pelican Town (11-21): unknown
-Tilesanity: Mountains (2-6): unknown
-Tilesanity: Pelican Town (9-1): unknown
-Tilesanity: Cindersap Forest (2-12): unknown
-Tilesanity: Cindersap Forest (3-5): unknown
-Tilesanity: Railroad (5-8): unknown
-Tilesanity: Pelican Town (9-5): unknown
-Tilesanity: Railroad (5-10): unknown
-Tilesanity: Pelican Town (10-20): unknown
-Tilesanity: Pelican Town (20-4): unknown
-Tilesanity: Cindersap Forest (6-9): unknown
-Tilesanity: Pelican Town (8-3): unknown
-Tilesanity: Cindersap Forest (4-4): unknown
-Tilesanity: Railroad (4-10): unknown
-Tilesanity: Cindersap Forest (4-2): unknown
-Tilesanity: Cindersap Forest (6-5): unknown
-Tilesanity: Cindersap Forest (7-5): unknown
-Tilesanity: Cindersap Forest (16-10): unknown
-Tilesanity: Pelican Town (12-11): unknown
-Tilesanity: Cindersap Forest (17-9): unknown
-Tilesanity: Mountains (7-3): unknown
-Tilesanity: Pelican Town (8-19): unknown
-Tilesanity: Cindersap Forest (6-8): unknown
-Tilesanity: Mountains (7-7): unknown
-Tilesanity: Railroad (6-8): unknown
-Tilesanity: Cindersap Forest (9-10): unknown
-Tilesanity: Cindersap Forest (8-9): unknown
-Tilesanity: Mountains (3-5): unknown
-Tilesanity: Pelican Town (12-13): unknown
-Tilesanity: Railroad (3-11): unknown
-Tilesanity: Pelican Town (7-18): unknown
-Tilesanity: Cindersap Forest (23-5): unknown
-Tilesanity: Mountains (4-6): unknown
-Tilesanity: Pelican Town (3-1): unknown
-Tilesanity: Pelican Town (16-0): unknown
-Tilesanity: Pelican Town (10-16): unknown
-Tilesanity: Railroad (5-9): unknown
-Tilesanity: Railroad (10-11): unknown
-Tilesanity: Railroad (11-10): unknown
-Tilesanity: Pelican Town (12-15): unknown
-Tilesanity: Mountains (8-7): unknown
-Tilesanity: Pelican Town (10-21): unknown
-Tilesanity: Pelican Town (14-10): unknown
-Tilesanity: Cindersap Forest (17-13): unknown
-Tilesanity: Cindersap Forest (15-13): unknown
-Tilesanity: Cindersap Forest (19-10): unknown
-Tilesanity: Pelican Town (12-20): unknown
-Tilesanity: Secret Woods (11-3): unknown
-Tilesanity: Pelican Town (16-6): unknown
-Tilesanity: Cindersap Forest (2-17): unknown
-Tilesanity: Cindersap Forest (17-15): unknown
-Tilesanity: Cindersap Forest (1-14): unknown
-Tilesanity: Cindersap Forest (13-14): unknown
-Tilesanity: Cindersap Forest (18-14): unknown
-Tilesanity: Railroad (13-10): unknown
-Tilesanity: Mountains (10-6): unknown
-Tilesanity: Pelican Town (15-13): unknown
-Tilesanity: Pelican Town (12-18): unknown
-Tilesanity: Cindersap Forest (4-10): unknown
-Tilesanity: Pelican Town (12-19): unknown
-Tilesanity: Pelican Town (7-19): unknown
-Tilesanity: Cindersap Forest (17-12): unknown
-Tilesanity: Pelican Town (13-9): unknown
-Tilesanity: Mountains (9-3): unknown
-Tilesanity: Railroad (1-8): unknown
-Tilesanity: Cindersap Forest (4-13): unknown
-Tilesanity: Mountains (8-2): unknown
-Tilesanity: Cindersap Forest (4-8): unknown
-Tilesanity: Railroad (0-8): unknown
-Tilesanity: Pelican Town (16-3): unknown
-Tilesanity: Cindersap Forest (4-7): unknown
-Tilesanity: Railroad (7-7): unknown
-Tilesanity: Railroad (11-11): unknown
-Tilesanity: Pelican Town (11-2): unknown
-Tilesanity: Secret Woods (8-4): unknown
-Tilesanity: Cindersap Forest (3-18): unknown
-Tilesanity: Pelican Town (15-8): unknown
-Tilesanity: Secret Woods (10-4): unknown
-Tilesanity: Standard Farm (14-3): unknown
-Tilesanity: Pelican Town (15-3): unknown
-Tilesanity: Railroad (10-8): unknown
+Tilesanity: Calico Desert (0-10): unknown
+Tilesanity: Calico Desert (0-11): unknown
+Tilesanity: Calico Desert (0-2): unknown
+Tilesanity: Calico Desert (0-4): unknown
+Tilesanity: Calico Desert (0-8): unknown
+Tilesanity: Calico Desert (0-9): unknown
+Tilesanity: Calico Desert (1-10): unknown
+Tilesanity: Calico Desert (1-2): unknown
+Tilesanity: Calico Desert (1-3): unknown
+Tilesanity: Calico Desert (1-7): unknown
+Tilesanity: Calico Desert (1-8): unknown
+Tilesanity: Calico Desert (2-11): unknown
+Tilesanity: Calico Desert (2-2): unknown
+Tilesanity: Calico Desert (2-3): unknown
+Tilesanity: Calico Desert (4-10): unknown
+Tilesanity: Calico Desert (4-2): unknown
+Tilesanity: Calico Desert (4-6): progression
+Tilesanity: Calico Desert (4-9): unknown
+Tilesanity: Calico Desert (5-10): unknown
+Tilesanity: Calico Desert (7-1): unknown
+Tilesanity: Calico Desert (7-3): unknown
+Tilesanity: Calico Desert (7-5): unknown
+Tilesanity: Calico Desert (8-3): unknown
+Tilesanity: Calico Desert (8-5): unknown
+Tilesanity: Calico Desert (8-6): unknown
+Tilesanity: Calico Desert (8-7): unknown
+Tilesanity: Calico Desert (8-9): unknown
+Tilesanity: Calico Desert (9-10): unknown
+Tilesanity: Calico Desert (9-11): unknown
+Tilesanity: Calico Desert (9-2): unknown
+Tilesanity: Calico Desert (9-3): unknown
+Tilesanity: Calico Desert (9-7): unknown
+Tilesanity: Calico Desert (9-9): unknown
+Tilesanity: Cindersap Forest (0-0): unknown
 Tilesanity: Cindersap Forest (0-2): unknown
-Tilesanity: Cindersap Forest (6-13): unknown
-Tilesanity: Pelican Town (14-3): unknown
+Tilesanity: Cindersap Forest (1-1): unknown
+Tilesanity: Cindersap Forest (1-12): unknown
+Tilesanity: Cindersap Forest (1-13): unknown
+Tilesanity: Cindersap Forest (1-14): unknown
+Tilesanity: Cindersap Forest (1-16): unknown
+Tilesanity: Cindersap Forest (1-3): unknown
+Tilesanity: Cindersap Forest (10-1): unknown
+Tilesanity: Cindersap Forest (10-10): unknown
+Tilesanity: Cindersap Forest (10-11): unknown
+Tilesanity: Cindersap Forest (10-14): unknown
+Tilesanity: Cindersap Forest (10-6): unknown
+Tilesanity: Cindersap Forest (10-9): unknown
+Tilesanity: Cindersap Forest (11-10): unknown
+Tilesanity: Cindersap Forest (11-14): unknown
+Tilesanity: Cindersap Forest (11-2): unknown
+Tilesanity: Cindersap Forest (11-4): unknown
+Tilesanity: Cindersap Forest (11-7): unknown
+Tilesanity: Cindersap Forest (11-8): unknown
+Tilesanity: Cindersap Forest (11-9): unknown
+Tilesanity: Cindersap Forest (12-10): unknown
+Tilesanity: Cindersap Forest (12-13): unknown
+Tilesanity: Cindersap Forest (12-3): unknown
+Tilesanity: Cindersap Forest (12-5): unknown
+Tilesanity: Cindersap Forest (12-8): unknown
+Tilesanity: Cindersap Forest (13-14): unknown
+Tilesanity: Cindersap Forest (13-8): unknown
+Tilesanity: Cindersap Forest (13-9): unknown
+Tilesanity: Cindersap Forest (14-0): unknown
+Tilesanity: Cindersap Forest (14-14): unknown
+Tilesanity: Cindersap Forest (14-19): unknown
+Tilesanity: Cindersap Forest (15-10): unknown
+Tilesanity: Cindersap Forest (15-12): unknown
+Tilesanity: Cindersap Forest (15-13): unknown
+Tilesanity: Cindersap Forest (15-14): unknown
+Tilesanity: Cindersap Forest (15-17): unknown
+Tilesanity: Cindersap Forest (15-18): unknown
+Tilesanity: Cindersap Forest (15-4): unknown
+Tilesanity: Cindersap Forest (15-6): unknown
+Tilesanity: Cindersap Forest (15-7): unknown
+Tilesanity: Cindersap Forest (15-8): unknown
+Tilesanity: Cindersap Forest (15-9): unknown
+Tilesanity: Cindersap Forest (16-10): unknown
+Tilesanity: Cindersap Forest (16-12): unknown
+Tilesanity: Cindersap Forest (16-13): unknown
+Tilesanity: Cindersap Forest (16-3): unknown
+Tilesanity: Cindersap Forest (16-4): unknown
+Tilesanity: Cindersap Forest (16-5): unknown
+Tilesanity: Cindersap Forest (16-6): unknown
+Tilesanity: Cindersap Forest (16-7): unknown
+Tilesanity: Cindersap Forest (16-9): unknown
+Tilesanity: Cindersap Forest (17-12): unknown
+Tilesanity: Cindersap Forest (17-13): unknown
+Tilesanity: Cindersap Forest (17-15): unknown
+Tilesanity: Cindersap Forest (17-16): unknown
+Tilesanity: Cindersap Forest (17-3): unknown
+Tilesanity: Cindersap Forest (17-5): unknown
+Tilesanity: Cindersap Forest (17-6): unknown
+Tilesanity: Cindersap Forest (17-7): unknown
+Tilesanity: Cindersap Forest (17-8): unknown
+Tilesanity: Cindersap Forest (17-9): unknown
+Tilesanity: Cindersap Forest (18-10): unknown
+Tilesanity: Cindersap Forest (18-12): unknown
+Tilesanity: Cindersap Forest (18-14): unknown
+Tilesanity: Cindersap Forest (18-18): unknown
+Tilesanity: Cindersap Forest (18-20): unknown
+Tilesanity: Cindersap Forest (18-3): unknown
+Tilesanity: Cindersap Forest (18-7): unknown
+Tilesanity: Cindersap Forest (18-8): unknown
+Tilesanity: Cindersap Forest (19-10): unknown
+Tilesanity: Cindersap Forest (19-11): unknown
+Tilesanity: Cindersap Forest (19-18): unknown
+Tilesanity: Cindersap Forest (19-20): unknown
+Tilesanity: Cindersap Forest (19-5): unknown
+Tilesanity: Cindersap Forest (19-6): unknown
+Tilesanity: Cindersap Forest (19-7): unknown
+Tilesanity: Cindersap Forest (2-12): unknown
+Tilesanity: Cindersap Forest (2-15): unknown
+Tilesanity: Cindersap Forest (2-17): unknown
+Tilesanity: Cindersap Forest (2-2): unknown
+Tilesanity: Cindersap Forest (2-8): unknown
+Tilesanity: Cindersap Forest (20-15): unknown
+Tilesanity: Cindersap Forest (20-4): unknown
+Tilesanity: Cindersap Forest (20-5): unknown
+Tilesanity: Cindersap Forest (20-6): unknown
+Tilesanity: Cindersap Forest (20-7): unknown
+Tilesanity: Cindersap Forest (21-15): unknown
+Tilesanity: Cindersap Forest (21-16): unknown
+Tilesanity: Cindersap Forest (21-19): unknown
+Tilesanity: Cindersap Forest (21-4): unknown
+Tilesanity: Cindersap Forest (21-6): unknown
+Tilesanity: Cindersap Forest (21-7): unknown
+Tilesanity: Cindersap Forest (22-4): unknown
+Tilesanity: Cindersap Forest (22-5): unknown
+Tilesanity: Cindersap Forest (22-6): unknown
+Tilesanity: Cindersap Forest (22-7): unknown
+Tilesanity: Cindersap Forest (23-4): unknown
+Tilesanity: Cindersap Forest (23-5): unknown
 Tilesanity: Cindersap Forest (3-11): unknown
-Tilesanity: Pelican Town (12-17): unknown
-Tilesanity: Railroad (2-7): unknown
-Tilesanity: Pelican Town (13-18): unknown
-Tilesanity: Pelican Town (9-20): unknown
-Tilesanity: Pelican Town (12-16): unknown
+Tilesanity: Cindersap Forest (3-12): unknown
+Tilesanity: Cindersap Forest (3-18): unknown
+Tilesanity: Cindersap Forest (3-3): unknown
+Tilesanity: Cindersap Forest (3-5): unknown
 Tilesanity: Cindersap Forest (3-7): unknown
-Tilesanity: Pelican Town (11-20): unknown
-Tilesanity: Mountains (9-6): unknown
-Tilesanity: Pelican Town (15-9): unknown
-Tilesanity: Railroad (2-11): unknown
-Tilesanity: Mountains (4-5): unknown
-Tilesanity: Pelican Town (10-9): unknown
-Tilesanity: Pelican Town (13-5): unknown
-Tilesanity: Cindersap Forest (4-11): unknown
-Tilesanity: Pelican Town (15-6): unknown
-Tilesanity: Pelican Town (14-2): unknown
-Tilesanity: Railroad (0-11): unknown
-Tilesanity: Mountains (8-4): unknown
-Tilesanity: Pelican Town (13-15): unknown
-Tilesanity: Pelican Town (11-15): unknown
-Tilesanity: Cindersap Forest (4-14): unknown
-Tilesanity: Railroad (12-9): unknown
-Tilesanity: Pelican Town (15-5): unknown
-Tilesanity: Pelican Beach (7-0): unknown
-Tilesanity: Railroad (3-7): unknown
-Tilesanity: Cindersap Forest (6-12): unknown
-Tilesanity: Pelican Town (13-8): unknown
-Tilesanity: Pelican Town (1-18): unknown
-Tilesanity: Cindersap Forest (4-9): unknown
-Tilesanity: Pelican Town (14-14): unknown
-Tilesanity: Mountains (12-1): unknown
-Tilesanity: Mountains (8-6): unknown
-Tilesanity: Mountains (9-7): unknown
 Tilesanity: Cindersap Forest (3-8): unknown
 Tilesanity: Cindersap Forest (3-9): unknown
-Tilesanity: Pelican Town (13-2): unknown
-Tilesanity: Pelican Town (15-7): unknown
-Tilesanity: Cindersap Forest (0-0): unknown
-Tilesanity: Railroad (9-9): unknown
-Tilesanity: Pelican Town (14-4): unknown
-Tilesanity: Mountains (9-4): unknown
-Tilesanity: Railroad (11-9): unknown
-Tilesanity: Pelican Town (6-19): unknown
-Tilesanity: Pelican Town (15-19): unknown
-Tilesanity: Railroad (7-8): unknown
-Tilesanity: Pelican Town (9-3): unknown
-Tilesanity: Pelican Town (4-20): unknown
-Tilesanity: Cindersap Forest (16-12): unknown
-Tilesanity: Pelican Town (11-19): unknown
-Tilesanity: Pelican Town (15-10): unknown
-Tilesanity: Railroad (0-10): unknown
-Tilesanity: Pelican Town (18-12): unknown
-Tilesanity: Secret Woods (9-6): unknown
-Tilesanity: Pelican Beach (5-3): unknown
-Tilesanity: Cindersap Forest (10-14): unknown
-Tilesanity: Mountains (11-2): unknown
-Tilesanity: Pelican Town (19-11): unknown
-Tilesanity: Pelican Town (12-1): unknown
-Tilesanity: Railroad (12-8): unknown
-Tilesanity: Cindersap Forest (14-19): unknown
-Tilesanity: Cindersap Forest (19-18): unknown
-Tilesanity: Cindersap Forest (15-12): unknown
-Tilesanity: Pelican Town (11-3): unknown
-Tilesanity: Pelican Town (13-17): unknown
-Tilesanity: Pelican Town (6-20): unknown
-Tilesanity: Pelican Town (10-2): unknown
-Tilesanity: Cindersap Forest (1-12): unknown
-Tilesanity: Pelican Town (8-18): unknown
-Tilesanity: Pelican Town (11-1): unknown
-Tilesanity: Pelican Town (13-1): unknown
-Tilesanity: Cindersap Forest (1-1): unknown
-Tilesanity: Pelican Town (10-7): unknown
-Tilesanity: Mountains (6-4): unknown
-Tilesanity: Railroad (6-7): unknown
-Tilesanity: Pelican Town (11-8): unknown
-Tilesanity: Pelican Town (11-17): unknown
-Tilesanity: Railroad (2-8): unknown
-Tilesanity: Pelican Town (12-2): unknown
-Tilesanity: Railroad (10-10): unknown
-Tilesanity: Cindersap Forest (16-13): unknown
-Tilesanity: Cindersap Forest (14-14): unknown
-Tilesanity: Mountains (10-7): unknown
-Tilesanity: Cindersap Forest (2-15): unknown
-Tilesanity: Pelican Town (15-18): unknown
-Tilesanity: Pelican Town (2-1): unknown
-Tilesanity: Cindersap Forest (1-13): unknown
-Tilesanity: Pelican Town (14-12): unknown
-Tilesanity: Pelican Town (4-17): unknown
-Tilesanity: Mountains (7-6): unknown
-Tilesanity: Pelican Town (7-20): unknown
-Tilesanity: Pelican Town (3-19): unknown
-Tilesanity: Pelican Town (17-10): unknown
-Tilesanity: Railroad (0-9): unknown
-Tilesanity: Railroad (12-11): unknown
+Tilesanity: Cindersap Forest (4-10): unknown
+Tilesanity: Cindersap Forest (4-11): unknown
+Tilesanity: Cindersap Forest (4-13): unknown
+Tilesanity: Cindersap Forest (4-14): unknown
+Tilesanity: Cindersap Forest (4-16): unknown
+Tilesanity: Cindersap Forest (4-2): unknown
+Tilesanity: Cindersap Forest (4-3): unknown
+Tilesanity: Cindersap Forest (4-4): unknown
+Tilesanity: Cindersap Forest (4-7): unknown
+Tilesanity: Cindersap Forest (4-8): unknown
+Tilesanity: Cindersap Forest (4-9): unknown
+Tilesanity: Cindersap Forest (5-10): unknown
+Tilesanity: Cindersap Forest (5-11): unknown
+Tilesanity: Cindersap Forest (5-17): unknown
+Tilesanity: Cindersap Forest (5-18): unknown
+Tilesanity: Cindersap Forest (5-19): unknown
+Tilesanity: Cindersap Forest (5-2): unknown
+Tilesanity: Cindersap Forest (5-8): unknown
+Tilesanity: Cindersap Forest (5-9): unknown
+Tilesanity: Cindersap Forest (6-1): unknown
+Tilesanity: Cindersap Forest (6-12): unknown
+Tilesanity: Cindersap Forest (6-13): unknown
+Tilesanity: Cindersap Forest (6-2): unknown
+Tilesanity: Cindersap Forest (6-3): unknown
+Tilesanity: Cindersap Forest (6-4): unknown
+Tilesanity: Cindersap Forest (6-5): unknown
+Tilesanity: Cindersap Forest (6-7): unknown
+Tilesanity: Cindersap Forest (6-8): unknown
+Tilesanity: Cindersap Forest (6-9): unknown
+Tilesanity: Cindersap Forest (7-1): unknown
+Tilesanity: Cindersap Forest (7-2): unknown
+Tilesanity: Cindersap Forest (7-3): unknown
+Tilesanity: Cindersap Forest (7-4): unknown
+Tilesanity: Cindersap Forest (7-5): unknown
+Tilesanity: Cindersap Forest (7-8): unknown
+Tilesanity: Cindersap Forest (7-9): unknown
+Tilesanity: Cindersap Forest (8-1): unknown
+Tilesanity: Cindersap Forest (8-11): unknown
 Tilesanity: Cindersap Forest (8-12): unknown
-Tilesanity: Secret Woods (10-1): unknown
-Tilesanity: Cindersap Forest (2-8): unknown
+Tilesanity: Cindersap Forest (8-15): unknown
+Tilesanity: Cindersap Forest (8-2): unknown
+Tilesanity: Cindersap Forest (8-3): unknown
+Tilesanity: Cindersap Forest (8-8): unknown
+Tilesanity: Cindersap Forest (8-9): unknown
+Tilesanity: Cindersap Forest (9-1): unknown
+Tilesanity: Cindersap Forest (9-10): unknown
+Tilesanity: Cindersap Forest (9-11): unknown
+Tilesanity: Cindersap Forest (9-13): unknown
+Tilesanity: Cindersap Forest (9-6): unknown
+Tilesanity: Cindersap Forest (9-8): unknown
+Tilesanity: Cindersap Forest (9-9): unknown
+Tilesanity: Mountains (0-2): unknown
+Tilesanity: Mountains (0-3): unknown
+Tilesanity: Mountains (0-4): unknown
+Tilesanity: Mountains (0-7): unknown
+Tilesanity: Mountains (1-0): unknown
+Tilesanity: Mountains (1-1): unknown
+Tilesanity: Mountains (1-3): unknown
+Tilesanity: Mountains (1-4): unknown
+Tilesanity: Mountains (1-6): unknown
+Tilesanity: Mountains (1-7): unknown
+Tilesanity: Mountains (10-6): unknown
+Tilesanity: Mountains (10-7): unknown
+Tilesanity: Mountains (11-2): unknown
+Tilesanity: Mountains (12-1): unknown
+Tilesanity: Mountains (12-3): unknown
+Tilesanity: Mountains (15-2): unknown
+Tilesanity: Mountains (2-0): unknown
+Tilesanity: Mountains (2-1): unknown
+Tilesanity: Mountains (2-2): unknown
+Tilesanity: Mountains (2-3): unknown
+Tilesanity: Mountains (2-5): unknown
+Tilesanity: Mountains (2-6): unknown
+Tilesanity: Mountains (2-7): unknown
+Tilesanity: Mountains (3-1): unknown
+Tilesanity: Mountains (3-2): unknown
+Tilesanity: Mountains (3-3): unknown
+Tilesanity: Mountains (3-5): unknown
+Tilesanity: Mountains (3-6): unknown
+Tilesanity: Mountains (3-7): unknown
+Tilesanity: Mountains (4-1): unknown
+Tilesanity: Mountains (4-2): unknown
+Tilesanity: Mountains (4-3): unknown
+Tilesanity: Mountains (4-4): unknown
+Tilesanity: Mountains (4-5): unknown
+Tilesanity: Mountains (4-6): unknown
+Tilesanity: Mountains (5-1): unknown
+Tilesanity: Mountains (5-2): unknown
+Tilesanity: Mountains (5-3): unknown
+Tilesanity: Mountains (5-6): unknown
+Tilesanity: Mountains (5-7): unknown
+Tilesanity: Mountains (6-1): unknown
+Tilesanity: Mountains (6-4): unknown
+Tilesanity: Mountains (6-5): unknown
+Tilesanity: Mountains (6-6): unknown
+Tilesanity: Mountains (6-7): unknown
+Tilesanity: Mountains (7-2): unknown
+Tilesanity: Mountains (7-3): unknown
+Tilesanity: Mountains (7-4): unknown
+Tilesanity: Mountains (7-6): unknown
+Tilesanity: Mountains (7-7): unknown
+Tilesanity: Mountains (8-2): unknown
+Tilesanity: Mountains (8-3): unknown
+Tilesanity: Mountains (8-4): unknown
+Tilesanity: Mountains (8-6): unknown
+Tilesanity: Mountains (8-7): unknown
+Tilesanity: Mountains (9-3): unknown
+Tilesanity: Mountains (9-4): unknown
+Tilesanity: Mountains (9-5): unknown
+Tilesanity: Mountains (9-6): unknown
+Tilesanity: Mountains (9-7): unknown
+Tilesanity: Pelican Beach (2-3): unknown
+Tilesanity: Pelican Beach (4-3): unknown
+Tilesanity: Pelican Beach (5-3): unknown
+Tilesanity: Pelican Beach (7-0): unknown
+Tilesanity: Pelican Beach (7-1): unknown
+Tilesanity: Pelican Town (0-12): unknown
+Tilesanity: Pelican Town (0-13): unknown
+Tilesanity: Pelican Town (0-17): unknown
+Tilesanity: Pelican Town (1-10): unknown
+Tilesanity: Pelican Town (1-12): unknown
+Tilesanity: Pelican Town (1-13): unknown
+Tilesanity: Pelican Town (1-14): unknown
+Tilesanity: Pelican Town (1-15): unknown
+Tilesanity: Pelican Town (1-18): unknown
+Tilesanity: Pelican Town (1-2): unknown
+Tilesanity: Pelican Town (1-3): unknown
+Tilesanity: Pelican Town (1-4): unknown
+Tilesanity: Pelican Town (1-6): unknown
+Tilesanity: Pelican Town (10-1): unknown
+Tilesanity: Pelican Town (10-11): unknown
+Tilesanity: Pelican Town (10-12): unknown
+Tilesanity: Pelican Town (10-13): unknown
+Tilesanity: Pelican Town (10-14): unknown
+Tilesanity: Pelican Town (10-15): unknown
+Tilesanity: Pelican Town (10-16): unknown
+Tilesanity: Pelican Town (10-2): unknown
+Tilesanity: Pelican Town (10-20): unknown
+Tilesanity: Pelican Town (10-21): unknown
+Tilesanity: Pelican Town (10-3): unknown
+Tilesanity: Pelican Town (10-5): unknown
+Tilesanity: Pelican Town (10-7): unknown
+Tilesanity: Pelican Town (10-9): unknown
+Tilesanity: Pelican Town (11-1): unknown
+Tilesanity: Pelican Town (11-10): unknown
+Tilesanity: Pelican Town (11-11): unknown
+Tilesanity: Pelican Town (11-13): unknown
+Tilesanity: Pelican Town (11-14): unknown
+Tilesanity: Pelican Town (11-15): unknown
+Tilesanity: Pelican Town (11-17): unknown
+Tilesanity: Pelican Town (11-18): unknown
+Tilesanity: Pelican Town (11-19): unknown
+Tilesanity: Pelican Town (11-2): unknown
+Tilesanity: Pelican Town (11-20): unknown
+Tilesanity: Pelican Town (11-21): unknown
+Tilesanity: Pelican Town (11-3): unknown
+Tilesanity: Pelican Town (11-4): unknown
+Tilesanity: Pelican Town (11-5): unknown
+Tilesanity: Pelican Town (11-7): unknown
+Tilesanity: Pelican Town (11-8): unknown
+Tilesanity: Pelican Town (11-9): unknown
+Tilesanity: Pelican Town (12-1): unknown
+Tilesanity: Pelican Town (12-11): unknown
+Tilesanity: Pelican Town (12-12): unknown
+Tilesanity: Pelican Town (12-13): unknown
+Tilesanity: Pelican Town (12-14): unknown
+Tilesanity: Pelican Town (12-15): unknown
+Tilesanity: Pelican Town (12-16): unknown
+Tilesanity: Pelican Town (12-17): unknown
+Tilesanity: Pelican Town (12-18): unknown
+Tilesanity: Pelican Town (12-19): unknown
+Tilesanity: Pelican Town (12-2): unknown
+Tilesanity: Pelican Town (12-20): unknown
+Tilesanity: Pelican Town (12-3): unknown
+Tilesanity: Pelican Town (12-6): progression
+Tilesanity: Pelican Town (12-7): unknown
+Tilesanity: Pelican Town (13-1): unknown
+Tilesanity: Pelican Town (13-11): unknown
+Tilesanity: Pelican Town (13-12): unknown
+Tilesanity: Pelican Town (13-14): unknown
+Tilesanity: Pelican Town (13-15): unknown
+Tilesanity: Pelican Town (13-16): unknown
+Tilesanity: Pelican Town (13-17): unknown
+Tilesanity: Pelican Town (13-18): unknown
+Tilesanity: Pelican Town (13-19): unknown
+Tilesanity: Pelican Town (13-2): unknown
+Tilesanity: Pelican Town (13-3): unknown
+Tilesanity: Pelican Town (13-5): unknown
+Tilesanity: Pelican Town (13-7): unknown
+Tilesanity: Pelican Town (13-8): unknown
+Tilesanity: Pelican Town (13-9): unknown
+Tilesanity: Pelican Town (14-1): unknown
+Tilesanity: Pelican Town (14-10): unknown
+Tilesanity: Pelican Town (14-12): unknown
+Tilesanity: Pelican Town (14-13): unknown
+Tilesanity: Pelican Town (14-14): unknown
 Tilesanity: Pelican Town (14-16): unknown
+Tilesanity: Pelican Town (14-19): unknown
+Tilesanity: Pelican Town (14-2): unknown
+Tilesanity: Pelican Town (14-3): unknown
+Tilesanity: Pelican Town (14-4): unknown
+Tilesanity: Pelican Town (14-5): unknown
+Tilesanity: Pelican Town (14-6): unknown
+Tilesanity: Pelican Town (15-0): unknown
+Tilesanity: Pelican Town (15-10): unknown
+Tilesanity: Pelican Town (15-13): unknown
+Tilesanity: Pelican Town (15-14): unknown
+Tilesanity: Pelican Town (15-18): unknown
+Tilesanity: Pelican Town (15-19): unknown
+Tilesanity: Pelican Town (15-2): unknown
+Tilesanity: Pelican Town (15-3): unknown
+Tilesanity: Pelican Town (15-4): unknown
+Tilesanity: Pelican Town (15-5): unknown
+Tilesanity: Pelican Town (15-6): unknown
+Tilesanity: Pelican Town (15-7): unknown
+Tilesanity: Pelican Town (15-8): unknown
+Tilesanity: Pelican Town (15-9): unknown
+Tilesanity: Pelican Town (16-0): unknown
+Tilesanity: Pelican Town (16-1): unknown
+Tilesanity: Pelican Town (16-2): unknown
+Tilesanity: Pelican Town (16-3): unknown
+Tilesanity: Pelican Town (16-4): unknown
+Tilesanity: Pelican Town (16-6): unknown
+Tilesanity: Pelican Town (17-10): unknown
+Tilesanity: Pelican Town (18-12): unknown
+Tilesanity: Pelican Town (18-15): unknown
+Tilesanity: Pelican Town (18-8): unknown
+Tilesanity: Pelican Town (19-1): unknown
+Tilesanity: Pelican Town (19-11): unknown
+Tilesanity: Pelican Town (19-16): unknown
+Tilesanity: Pelican Town (19-8): unknown
+Tilesanity: Pelican Town (2-1): unknown
+Tilesanity: Pelican Town (2-13): unknown
+Tilesanity: Pelican Town (2-14): unknown
+Tilesanity: Pelican Town (2-15): unknown
+Tilesanity: Pelican Town (2-17): unknown
+Tilesanity: Pelican Town (2-18): unknown
+Tilesanity: Pelican Town (2-19): unknown
+Tilesanity: Pelican Town (2-2): unknown
+Tilesanity: Pelican Town (2-6): unknown
+Tilesanity: Pelican Town (20-4): unknown
+Tilesanity: Pelican Town (21-11): unknown
+Tilesanity: Pelican Town (3-1): unknown
+Tilesanity: Pelican Town (3-11): unknown
+Tilesanity: Pelican Town (3-12): unknown
+Tilesanity: Pelican Town (3-14): unknown
+Tilesanity: Pelican Town (3-15): unknown
+Tilesanity: Pelican Town (3-16): unknown
+Tilesanity: Pelican Town (3-17): unknown
+Tilesanity: Pelican Town (3-19): unknown
+Tilesanity: Pelican Town (3-2): unknown
+Tilesanity: Pelican Town (3-3): unknown
+Tilesanity: Pelican Town (3-5): unknown
+Tilesanity: Pelican Town (3-6): unknown
+Tilesanity: Pelican Town (3-7): unknown
+Tilesanity: Pelican Town (3-8): unknown
+Tilesanity: Pelican Town (4-1): unknown
+Tilesanity: Pelican Town (4-12): unknown
+Tilesanity: Pelican Town (4-14): unknown
+Tilesanity: Pelican Town (4-15): unknown
+Tilesanity: Pelican Town (4-16): unknown
+Tilesanity: Pelican Town (4-17): unknown
+Tilesanity: Pelican Town (4-18): unknown
+Tilesanity: Pelican Town (4-19): unknown
+Tilesanity: Pelican Town (4-2): unknown
+Tilesanity: Pelican Town (4-20): unknown
+Tilesanity: Pelican Town (4-3): unknown
+Tilesanity: Pelican Town (4-6): unknown
+Tilesanity: Pelican Town (4-7): unknown
+Tilesanity: Pelican Town (4-8): unknown
+Tilesanity: Pelican Town (4-9): unknown
+Tilesanity: Pelican Town (5-1): unknown
+Tilesanity: Pelican Town (5-10): unknown
+Tilesanity: Pelican Town (5-11): unknown
+Tilesanity: Pelican Town (5-12): progression
+Tilesanity: Pelican Town (5-13): unknown
+Tilesanity: Pelican Town (5-15): unknown
+Tilesanity: Pelican Town (5-16): unknown
+Tilesanity: Pelican Town (5-17): unknown
+Tilesanity: Pelican Town (5-18): unknown
+Tilesanity: Pelican Town (5-2): unknown
+Tilesanity: Pelican Town (5-20): unknown
+Tilesanity: Pelican Town (5-3): unknown
+Tilesanity: Pelican Town (5-4): unknown
+Tilesanity: Pelican Town (5-5): unknown
+Tilesanity: Pelican Town (5-6): unknown
+Tilesanity: Pelican Town (6-11): unknown
+Tilesanity: Pelican Town (6-12): unknown
+Tilesanity: Pelican Town (6-13): unknown
+Tilesanity: Pelican Town (6-14): unknown
+Tilesanity: Pelican Town (6-16): unknown
+Tilesanity: Pelican Town (6-17): unknown
+Tilesanity: Pelican Town (6-18): unknown
+Tilesanity: Pelican Town (6-19): unknown
+Tilesanity: Pelican Town (6-2): unknown
+Tilesanity: Pelican Town (6-20): unknown
+Tilesanity: Pelican Town (6-3): unknown
+Tilesanity: Pelican Town (6-5): unknown
+Tilesanity: Pelican Town (6-7): unknown
+Tilesanity: Pelican Town (7-1): unknown
+Tilesanity: Pelican Town (7-11): unknown
+Tilesanity: Pelican Town (7-13): unknown
+Tilesanity: Pelican Town (7-14): unknown
+Tilesanity: Pelican Town (7-15): unknown
+Tilesanity: Pelican Town (7-16): unknown
+Tilesanity: Pelican Town (7-17): unknown
+Tilesanity: Pelican Town (7-18): unknown
+Tilesanity: Pelican Town (7-19): unknown
+Tilesanity: Pelican Town (7-2): unknown
+Tilesanity: Pelican Town (7-20): unknown
+Tilesanity: Pelican Town (7-3): unknown
+Tilesanity: Pelican Town (7-4): unknown
+Tilesanity: Pelican Town (7-7): unknown
+Tilesanity: Pelican Town (8-11): unknown
+Tilesanity: Pelican Town (8-13): unknown
+Tilesanity: Pelican Town (8-15): unknown
+Tilesanity: Pelican Town (8-16): unknown
+Tilesanity: Pelican Town (8-18): unknown
+Tilesanity: Pelican Town (8-19): unknown
+Tilesanity: Pelican Town (8-3): unknown
+Tilesanity: Pelican Town (8-4): unknown
+Tilesanity: Pelican Town (8-5): unknown
+Tilesanity: Pelican Town (9-1): unknown
+Tilesanity: Pelican Town (9-10): unknown
+Tilesanity: Pelican Town (9-15): unknown
+Tilesanity: Pelican Town (9-16): unknown
+Tilesanity: Pelican Town (9-17): unknown
+Tilesanity: Pelican Town (9-18): unknown
+Tilesanity: Pelican Town (9-2): unknown
+Tilesanity: Pelican Town (9-20): unknown
+Tilesanity: Pelican Town (9-3): unknown
+Tilesanity: Pelican Town (9-4): unknown
+Tilesanity: Pelican Town (9-5): unknown
+Tilesanity: Pelican Town (9-6): unknown
+Tilesanity: Pelican Town (9-7): unknown
+Tilesanity: Pelican Town (9-9): unknown
+Tilesanity: Railroad (0-10): unknown
+Tilesanity: Railroad (0-11): unknown
+Tilesanity: Railroad (0-8): unknown
+Tilesanity: Railroad (0-9): unknown
+Tilesanity: Railroad (1-10): unknown
+Tilesanity: Railroad (1-11): unknown
+Tilesanity: Railroad (1-8): unknown
+Tilesanity: Railroad (1-9): unknown
+Tilesanity: Railroad (10-10): unknown
+Tilesanity: Railroad (10-11): unknown
+Tilesanity: Railroad (10-8): unknown
+Tilesanity: Railroad (11-10): unknown
+Tilesanity: Railroad (11-11): unknown
+Tilesanity: Railroad (11-9): unknown
+Tilesanity: Railroad (12-11): unknown
+Tilesanity: Railroad (12-8): unknown
+Tilesanity: Railroad (12-9): unknown
+Tilesanity: Railroad (13-10): unknown
+Tilesanity: Railroad (2-11): unknown
+Tilesanity: Railroad (2-7): unknown
+Tilesanity: Railroad (2-8): unknown
+Tilesanity: Railroad (3-11): unknown
+Tilesanity: Railroad (3-7): unknown
+Tilesanity: Railroad (4-10): unknown
+Tilesanity: Railroad (4-11): unknown
+Tilesanity: Railroad (4-7): unknown
+Tilesanity: Railroad (4-9): unknown
+Tilesanity: Railroad (5-10): unknown
+Tilesanity: Railroad (5-11): unknown
+Tilesanity: Railroad (5-8): unknown
+Tilesanity: Railroad (5-9): unknown
+Tilesanity: Railroad (6-10): unknown
+Tilesanity: Railroad (6-11): unknown
+Tilesanity: Railroad (6-12): unknown
+Tilesanity: Railroad (6-7): unknown
+Tilesanity: Railroad (6-8): unknown
+Tilesanity: Railroad (6-9): unknown
+Tilesanity: Railroad (7-10): unknown
+Tilesanity: Railroad (7-7): unknown
+Tilesanity: Railroad (7-8): unknown
+Tilesanity: Railroad (7-9): unknown
+Tilesanity: Railroad (8-10): unknown
+Tilesanity: Railroad (8-11): unknown
+Tilesanity: Railroad (8-7): unknown
+Tilesanity: Railroad (8-8): unknown
+Tilesanity: Railroad (9-8): unknown
+Tilesanity: Railroad (9-9): unknown
+Tilesanity: Secret Woods (10-1): unknown
+Tilesanity: Secret Woods (10-3): unknown
+Tilesanity: Secret Woods (10-4): unknown
+Tilesanity: Secret Woods (11-3): unknown
+Tilesanity: Secret Woods (4-3): unknown
+Tilesanity: Secret Woods (8-2): unknown
+Tilesanity: Secret Woods (8-4): unknown
+Tilesanity: Secret Woods (9-6): unknown
+Tilesanity: Standard Farm (0-12): unknown
+Tilesanity: Standard Farm (1-10): unknown
+Tilesanity: Standard Farm (11-3): unknown
+Tilesanity: Standard Farm (12-4): progression
+Tilesanity: Standard Farm (13-11): progression
+Tilesanity: Standard Farm (13-5): unknown
+Tilesanity: Standard Farm (14-1): progression
+Tilesanity: Standard Farm (14-2): progression
+Tilesanity: Standard Farm (14-3): unknown
+Tilesanity: Standard Farm (15-11): progression
+Tilesanity: Standard Farm (15-7): unknown
+Tilesanity: Standard Farm (15-8): progression
+Tilesanity: Standard Farm (2-6): unknown
+Tilesanity: Standard Farm (3-6): progression
+Tilesanity: Standard Farm (4-7): unknown
+Tilesanity: Standard Farm (5-12): unknown
+Tilesanity: Standard Farm (7-9): unknown
+Tilesanity: Standard Farm (8-11): unknown
+Tilesanity: Standard Farm (8-3): progression
+Time Flies Trap: trap
+Tom Kha Soup Recipe: progression
+Tomato Seeds: progression
+Topaz Ring: filler
+Torch Recipe: progression
+Tortilla Recipe: progression
+Tractor Garage: useful
+Trap Bobber: filler
+Trash Bin: filler
+Travel Core Recipe: progression
+Traveling Merchant Discount: useful
+Traveling Merchant Metal Detector: progression
+Traveling Merchant Stock Size: useful
+Traveling Merchant: Friday: progression
+Traveling Merchant: Monday: progression
+Traveling Merchant: Saturday: progression
+Traveling Merchant: Sunday: progression
+Traveling Merchant: Thursday: progression
+Traveling Merchant: Tuesday: progression
+Traveling Merchant: Wednesday: progression
+Treasure Chest: useful
+Treehouse: progression
+Triple Shot Espresso Recipe: progression
+Tropical Curry Recipe: progression
+Trout Soup Recipe: progression
+Tub o' Flowers Recipe: progression
+Tulip Bulb: progression
+Tundra Boots: unknown
+Ugly Baby: progression
+Vampire Ring: useful
+Vegetable Medley Recipe: progression
+Victor <3: progression
+Vile Ancient Fruit Seeds: unknown
+Vincent <3: progression
+Void Delight Recipe: progression
+Void Mint Seeds: unknown
+Void Mint Tea Recipe: progression
+Void Salmon Sushi Recipe: progression
+Void Spirit Peace Agreement: useful
+Volcano Bridge: progression
+Volcano Exit Shortcut: useful
+Warp Totem: Desert Recipe: progression
+Warp Totem: Island Recipe: progression
+Warrior Ring: useful
+Water Obelisk: useful
+Weakness Trap: trap
+Weather Report: useful
+Weathered Floor Recipe: progression
+Wedding Ring Recipe: progression
+Wedding Ring: filler
+Well: progression
+Wellwick <3: progression
+Wheat Seeds: progression
+Wicked Kris: unknown
+Wicked Statue Recipe: progression
+Willy <3: progression
+Wind Spire: unknown
+Winter: progression
+Wizard <3: progression
+Wood Club: unknown
+Wood Fence Recipe: progression
+Wood Floor Recipe: progression
+Wood Lamp-post Recipe: progression
+Wood Mallet: unknown
+Wood Path Recipe: progression
+Wood Sign Recipe: progression
+Wooden Blade: unknown
+Wooden Brazier Recipe: progression
+Woods Obelisk: progression
+Work Boots: unknown
+Worm Bin: filler
+Yam Seeds: progression
+Yoba <3: progression
+Zic <3: progression
