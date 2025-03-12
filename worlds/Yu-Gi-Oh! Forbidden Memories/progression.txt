@@ -123,7 +123,7 @@ Cyber Soldier: unknown
 Cyber-Stein: filler
 D. Human: unknown
 Dancing Elf: unknown
-Dark Artist: unknown
+Dark Artist: filler
 Dark Assailant: unknown
 Dark Chimera: filler
 Dark Elf: unknown
@@ -132,7 +132,7 @@ Dark Gray: unknown
 Dark Hole: unknown
 Dark King of the Abyss: unknown
 Dark Magic Ritual: filler
-Dark Magician: unknown
+Dark Magician: useful
 Dark Plant: filler
 Dark Prisoner: unknown
 Dark Rabbit: unknown
@@ -276,7 +276,7 @@ Harpie Lady Sisters: unknown
 Harpie Lady: filler
 Harpie's Feather Duster: unknown
 Harpie's Pet Dragon: unknown
-Hercules Beetle: unknown
+Hercules Beetle: filler
 Hero of the East: unknown
 Hibikime: filler
 High Tide Gyojin: unknown
@@ -306,7 +306,7 @@ Insect Soldiers of the Sky: unknown
 Invader from Another Dimension: filler
 Invader of the Throne: unknown
 Invigoration: unknown
-Invisible Wire: unknown
+Invisible Wire: filler
 Javelin Beetle Pact: unknown
 Javelin Beetle: useful
 Jellyfish: unknown
@@ -326,12 +326,12 @@ Kanan the Swordmistress: filler
 Kanikabuto: filler
 Kappa Avenger: unknown
 Karbonala Warrior: unknown
-Kattapillar: unknown
+Kattapillar: filler
 Kazejin: filler
 Key Mace #2: unknown
 Key Mace: unknown
 Killer Needle: filler
-King Fog: unknown
+King Fog: filler
 King of Yamimakai: filler
 Kojikocy: filler
 Korogashi: filler
@@ -373,7 +373,7 @@ Lucky Trinket: unknown
 Lunar Queen Elzaim: unknown
 M-warrior #1: unknown
 M-warrior #2: unknown
-Mabarrel: unknown
+Mabarrel: filler
 Machine Attacker: unknown
 Machine Conversion Factory: unknown
 Machine King: unknown
@@ -449,9 +449,9 @@ Mystic Clown: unknown
 Mystic Horseman: unknown
 Mystic Lamp: filler
 Mystical Capture Chain: filler
-Mystical Elf: unknown
+Mystical Elf: filler
 Mystical Moon: filler
-Mystical Sand: unknown
+Mystical Sand: filler
 Mystical Sheep #1: unknown
 Mystical Sheep #2: filler
 Neck Hunter: unknown
@@ -546,7 +546,7 @@ Sea King Dragon: filler
 Sectarian of Secrets: filler
 Seiyaryu: useful
 Sengenjin: useful
-Serpent Marauder: unknown
+Serpent Marauder: filler
 Serpent Night Dragon: useful
 Shadow Ghoul: filler
 Shadow Specter: unknown
@@ -595,7 +595,7 @@ Stone Ogre Grotto: unknown
 Stop Defense: filler
 Stuffed Animal: filler
 Succubus Knight: unknown
-Suijin: unknown
+Suijin: useful
 Summoned Skull: unknown
 Super War-lion: unknown
 Supporter in the Shadows: unknown
@@ -627,7 +627,7 @@ The Little Swordsman of Aile: filler
 The Melting Red Shadow: filler
 The Shadow Who Controls the Dark: filler
 The Snake Hair: unknown
-The Statue of Easter Island: unknown
+The Statue of Easter Island: filler
 The Thing That Hides in the Mud: unknown
 The Wandering Doomed: filler
 The Wicked Worm Beast: unknown
@@ -666,7 +666,7 @@ Umi: unknown
 Unknown Warrior of Fiend: unknown
 Uraby: unknown
 Ushi Oni: unknown
-Vermillion Sparrow: unknown
+Vermillion Sparrow: filler
 Versago the Destroyer: unknown
 Vile Germs: unknown
 Violent Rain: filler
@@ -713,7 +713,7 @@ Yado Karu: unknown
 Yaiba Robo: unknown
 Yamadron Ritual: unknown
 Yamadron: filler
-Yamatano Dragon Scroll: unknown
+Yamatano Dragon Scroll: filler
 Yami: unknown
 Yaranzo: filler
 Yashinoki: unknown
@@ -721,7 +721,7 @@ Yormungarde: unknown
 Zanki: filler
 Zarigun: filler
 Zera Ritual: filler
-Zera The Mant: unknown
+Zera The Mant: filler
 Zoa: useful
 Zombie Warrior: unknown
 Zone Eater: unknown
