@@ -18,7 +18,7 @@ Post-Earth Elemental: unknown
 Post-Cloud Elemental: unknown
 Post-Pirate Invasion: useful
 Post-Queen Slime: filler
-Post-Aquatic Scourge: unknown
+Post-Aquatic Scourge: progression
 Post-The Twins: progression
 Post-Brimstone Elemental: unknown
 Post-The Destroyer: progression
@@ -62,7 +62,7 @@ Post-Colossal Squid: unknown
 Post-Reaper Shark: unknown
 Post-Eidolon Wyrm: unknown
 Post-Mauler: filler
-Post-Nuclear Terror: unknown
+Post-Nuclear Terror: useful
 Post-Acid Rain Tier 3: unknown
 Post-The Old Duke: unknown
 Post-The Devourer of Gods: unknown
@@ -91,21 +91,21 @@ Reward: Flipper: filler
 Reward: Frog Leg: filler
 Reward: Shoe Spikes: filler
 Reward: Tabi: filler
-Reward: Black Belt: unknown
+Reward: Black Belt: filler
 Reward: Flying Carpet: unknown
 Reward: Moon Charm: filler
 Reward: Neptune's Shell: filler
 Reward: Compass: filler
 Reward: Depth Meter: filler
 Reward: Radar: filler
-Reward: Tally Counter: unknown
+Reward: Tally Counter: filler
 Reward: Lifeform Analyzer: filler
 Reward: DPS Meter: filler
 Reward: Stopwatch: filler
 Reward: Metal Detector: filler
 Reward: Fisherman's Pocket Guide: filler
 Reward: Weather Radio: filler
-Reward: Sextant: unknown
+Reward: Sextant: useful
 Reward: Band of Regeneration: filler
 Reward: Celestial Magnet: filler
 Reward: Nature's Gift: filler
@@ -148,13 +148,13 @@ Reward: Angler Earring: filler
 Reward: Tackle Box: filler
 Reward: Lavaproof Fishing Hook: useful
 Reward: Red Counterweight: filler
-Reward: Yoyo Glove: unknown
+Reward: Yoyo Glove: useful
 Reward: Diving Helmet: unknown
 Reward: Jellyfish Necklace: filler
 Reward: Corrupt Flask: unknown
 Reward: Crimson Flask: filler
 Reward: Craw Carapace: filler
-Reward: Giant Shell: unknown
+Reward: Giant Shell: filler
 Reward: Fungal Carapace: unknown
 Reward: Life Jelly: unknown
 Reward: Vital Jelly: useful
@@ -183,7 +183,7 @@ Reward: Gladiator's Locket: unknown
 Reward: Wulfrum Acrobatics Pack: unknown
 Reward: Depths Charm: filler
 Reward: Anechoic Plating: filler
-Reward: Iron Boots: unknown
+Reward: Iron Boots: filler
 Reward: Sprit Glyph: unknown
 Reward: Abyssal Amulet: filler
 Reward: Coins: filler
