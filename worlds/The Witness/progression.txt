@@ -11,8 +11,8 @@ Bunker Entry (Door): progression
 Bunker Entry (Panel): progression
 Bunker Laser: progression
 Bunker Panels: progression
-Bunker Tinted Glass Door: progression
 Bunker Tinted Glass Door (Panel): progression
+Bunker Tinted Glass Door: progression
 Bunker UV Room Entry (Door): progression
 Caves Doors: progression
 Caves Elevator Controls (Panel): progression
@@ -25,6 +25,7 @@ Caves Shortcuts: progression
 Caves Swamp Shortcut (Door): progression
 Challenge Entry (Door): progression
 Challenge Entry (Panel): progression
+Challenge Tunnels Entry (Door): filler
 Colored Dots: progression
 Colored Squares: progression
 Desert Control Panels: progression
@@ -45,6 +46,10 @@ Desert Pond Room Entry (Door): progression
 Desert Surface 3 Control (Panel): progression
 Desert Surface 8 Control (Panel): progression
 Dots: progression
+Energy Capacity: useful
+Energy Fill (Max): filler
+Energy Fill (Small): filler
+Energy Fill: filler
 Eraser: progression
 Full Dots: progression
 Functioning Brain: filler
@@ -54,8 +59,8 @@ Glass Factory Entry (Door): progression
 Glass Factory Entry (Panel): progression
 Invisible Dots: progression
 Jungle Doors: progression
-Jungle Laser: progression
 Jungle Laser Shortcut (Door): progression
+Jungle Laser: progression
 Jungle Monastery Garden Shortcut (Door): progression
 Jungle Popup Wall (Door): progression
 Jungle Popup Wall (Panel): progression
@@ -87,8 +92,8 @@ Monastery Entry Left (Panel): progression
 Monastery Entry Outer (Door): progression
 Monastery Entry Right (Panel): progression
 Monastery Garden Entry (Door): progression
-Monastery Laser: progression
 Monastery Laser Shortcut (Door): progression
+Monastery Laser: progression
 Monastery Obelisk Key: progression
 Monastery Panels: progression
 Monastery Shortcuts: progression
@@ -155,10 +160,10 @@ Quarry Stoneworks Side Exit (Door): progression
 Quarry Stoneworks Stairs (Door): progression
 Rotated Shapers: progression
 Shadows Door Timer (Panel): progression
-Shadows Laser: progression
 Shadows Laser Entry Left (Door): progression
 Shadows Laser Entry Right (Door): progression
 Shadows Laser Room Doors: progression
+Shadows Laser: progression
 Shadows Ledge Barrier (Door): progression
 Shadows Lower Doors: progression
 Shadows Quarry Barrier (Door): progression
@@ -167,8 +172,8 @@ Shapers: progression
 Slowness: trap
 Sound Dots: progression
 Speed Boost: filler
-Stars: progression
 Stars + Same Colored Symbol: progression
+Stars: progression
 Swamp Between Bridges First Door: progression
 Swamp Between Bridges Second Door: progression
 Swamp Blue Water Pump (Door): progression
@@ -177,13 +182,14 @@ Swamp Cyan Water Pump (Door): progression
 Swamp Doors: progression
 Swamp Entry (Door): progression
 Swamp Entry (Panel): progression
-Swamp Laser: progression
 Swamp Laser Shortcut (Door): progression
+Swamp Laser: progression
 Swamp Long Bridge (Panel): progression
 Swamp Maze Controls (Panel): progression
 Swamp Panels: progression
 Swamp Platform Shortcut (Door): progression
 Swamp Platform Shortcut (Panel): progression
+Swamp Platform Shortcut Door: unknown
 Swamp Purple Water Pump (Door): progression
 Swamp Red Underwater Exit (Door): progression
 Swamp Red Water Pump (Door): progression
@@ -191,7 +197,6 @@ Swamp Rotating Bridge (Panel): progression
 Swamp Shortcuts: progression
 Swamp Sliding Bridge (Panel): progression
 Swamp Water Pumps: progression
-Symmetry: progression
 Symmetry Island Doors: progression
 Symmetry Island Lower (Door): progression
 Symmetry Island Lower (Panel): progression
@@ -199,6 +204,7 @@ Symmetry Island Panels: progression
 Symmetry Island Upper (Door): progression
 Symmetry Island Upper (Panel): progression
 Symmetry Laser: progression
+Symmetry: progression
 Theater Entry (Door): progression
 Theater Entry (Panel): progression
 Theater Exit (Panel): progression
@@ -229,15 +235,16 @@ Town Tower First (Door): progression
 Town Tower Fourth (Door): progression
 Town Tower Second (Door): progression
 Town Tower Third (Door): progression
+Town Windmill Entry (Door): progression
 Town Wooden Roof Stairs (Door): progression
 Treehouse Drawbridge (Door): progression
 Treehouse Drawbridge (Panel): progression
 Treehouse Entry Doors: progression
 Treehouse First & Second Doors (Panel): progression
 Treehouse First (Door): progression
-Treehouse Laser: progression
 Treehouse Laser House Door Timer (Panel): progression
 Treehouse Laser House Entry (Door): progression
+Treehouse Laser: progression
 Treehouse Obelisk Key: progression
 Treehouse Panels: progression
 Treehouse Second (Door): progression
@@ -259,10 +266,3 @@ Windmill & Theater Panels: progression
 Windmill Entry (Door): progression
 Windmill Entry (Panel): progression
 Windmill Turn Control (Panel): progression
-Energy Capacity: useful
-Energy Fill (Small): filler
-Energy Fill: filler
-Energy Fill (Max): filler
-Challenge Tunnels Entry (Door): filler
-Town Windmill Entry (Door): progression
-Swamp Platform Shortcut Door: unknown
