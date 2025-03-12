@@ -64,7 +64,7 @@ FlashBlade: useful
 Flea Vest: unknown
 Flint Edge: filler
 Fragment: unknown
-FrenzyBand: unknown
+FrenzyBand: filler
 Frog: unknown
 Full Ether: filler
 Full Tonic: filler
@@ -135,7 +135,7 @@ MuscleRing: unknown
 Nova Armor: useful
 OzziePants: unknown
 Pearl Edge: filler
-Pendant: unknown
+Pendant: progression
 Petal: unknown
 PicoMagnum: unknown
 Plasma Gun: unknown
@@ -216,4 +216,4 @@ White Vest: useful
 WonderShot: useful
 Wood Sword: unknown
 Yakra Key: unknown
-ZodiacCape: unknown
+ZodiacCape: filler
