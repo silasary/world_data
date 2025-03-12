@@ -1,198 +1,198 @@
-Memory of a Distant World: mcguffin
-Limsa Lominsa and Middle La Noscea Access: progression
-Gridania and Central Shroud Access: progression
-Ul'dah and Central Thanalan Access: progression
-Lower La Noscea Access: unknown
-Eastern La Noscea Access: unknown
-Western La Noscea Access: unknown
-Upper La Noscea Access: unknown
-Outer La Noscea Access: unknown
-Wolves' Den Pier Access: unknown
-East Shroud Access: unknown
-South Shroud Access: progression
-North Shroud Access: unknown
-Western Thanalan Access: progression
-Eastern Thanalan Access: unknown
-Southern Thanalan Access: progression
-Northern Thanalan Access: unknown
-Coerthas Central Highlands Access: unknown
-Mor Dhona Access: progression
-Ishgard Access: unknown
-Coerthas Western Highlands Access: progression
-The Sea of Clouds Access: progression
-The Dravanian Forelands Access: unknown
-The Churning Mists Access: unknown
-The Dravanian Hinterlands and Idyllshire Access: unknown
-Azys Lla Access: progression
-Rhalgr's Reach Access: unknown
-The Fringes Access: progression
-The Peaks Access: unknown
-The Lochs Access: unknown
-Kugane Access: progression
-The Ruby Sea Access: progression
-Yanxia Access: unknown
-The Azim Steppe Access: unknown
-The Crystarium Access: progression
-Lakeland Access: unknown
-Kholusia Access: unknown
-Eulmore Access: unknown
-Amh Araeng Access: progression
-Il Mheg Access: unknown
-The Rak'tika Greatwood Access: unknown
-The Tempest Access: unknown
-Old Sharlayan Access: progression
-Labyrinthos Access: unknown
-Ultima Thule Access: unknown
-Thavnair Access: unknown
-Radz-at-Han Access: unknown
-Garlemald Access: unknown
-Mare Lamentorum Access: unknown
-Gangos Access: unknown
-Elpis Access: progression
-Bahamut Key: unknown
-Alexander Key: unknown
-Omega Key: progression
-Eden Key: progression
-Pandaemonium Key: unknown
-Arcadion Key: progression
-Tuliyollal Access: unknown
-Urqopacha Access: unknown
-Kozama'uka Access: unknown
-Yak T'el Access: progression
-Shaaloani Access: unknown
-Heritage Found Access: unknown
-Living Memory Access: mcguffin
-Solution Nine Access: unknown
-Lugworm: unknown
-Pill Bug: unknown
-Floating Minnow: unknown
-Goby Ball: unknown
-Rat Tail: unknown
-Steel Jig: unknown
-Moth Pupa: unknown
-Crayfish Ball: unknown
-Sinking Minnow: unknown
-Northern Krill: unknown
-Bloodworm: unknown
-Wildfowl Fly: unknown
-Butterworm: unknown
-Midge Basket: unknown
-Chocobo Fly: unknown
-Yumizuno: unknown
-Spoon Worm: unknown
-Crow Fly: unknown
-Spinnerbait: unknown
-Shrimp Cage Feeder: unknown
-Herring Ball: unknown
-Syrphid Basket: unknown
-Glowworm: unknown
-Stonefly Nymph: unknown
-Heavy Steel Jig: unknown
-Honey Worm: unknown
-Stem Borer: unknown
-Snurble Fly: unknown
-Mythril Spoon Lure: unknown
-Spinner: unknown
-Krill Cage Feeder: unknown
-Streamer: unknown
-Bass Ball: unknown
-Topwater Frog: unknown
-Caddisfly Larva: unknown
-Rainbow Spoon Lure: unknown
-Silver Spoon Lure: unknown
-Freshwater Boilie: unknown
-Rolling Stone: unknown
-Saltwater Boilie: unknown
-Sand Leech: unknown
-Sand Gecko: unknown
-Balloon Bug: unknown
-Hoverworm: unknown
-Metal Spinner: unknown
-Purse Web Spider: unknown
-Brute Leech: unknown
-Giant Crane Fly: unknown
-Red Balloon: unknown
-Goblin Jig: unknown
-Bladed Steel Jig: unknown
-Signature Skyball: unknown
-Fiend Worm: unknown
-Versatile Lure: unknown
-Magma Worm: unknown
-Nightcrawler: unknown
-Salmon Roe: unknown
-Midge Larva: unknown
-Stonefly Larva: unknown
-Suspending Minnow: unknown
-Silkworm: unknown
-Live Shrimp: unknown
-Bream Lure: unknown
-Blue Bobbit: unknown
-Marble Nymph: unknown
-Fruit Worm: unknown
-Robber Ball: unknown
-Baitbugs: unknown
-Moyebi Shrimp: unknown
-Squid Strip: unknown
-Short Bill Minnow: unknown
-Desert Dessert Frog: unknown
-Jerked Ovim: unknown
-Shrimp Ball: unknown
-Mackerel Strip: unknown
-Gold Salmon Roe: unknown
-Leech: unknown
-Sky Spoon Lure: unknown
-Mayfly: unknown
-Grey Worm: unknown
-Chimera Worm: unknown
-Panic Jig: unknown
-Stardust: unknown
-Pot Of Stardust: unknown
-Select Bait Ball: unknown
-Plump Worm: unknown
-Popper Lure: unknown
-Golden Stonefly Nymph: unknown
-Honeybee: unknown
-Crimson Lugworm: unknown
-Shucked Clam: unknown
-Silkmoth Pupa: unknown
-White Worm: unknown
-Cloud-Eye Carp: unknown
-Basket Of Red Maggots: unknown
-Yak T'El Crab: unknown
-Cactuar Jig: unknown
-Dragonfly: unknown
-Ghost Nipper: unknown
-5 PLD Levels: useful
-5 WAR Levels: useful
-5 DRK Levels: useful
-5 GNB Levels: unknown
-5 WHM Levels: useful
-5 SCH Levels: useful
-5 AST Levels: useful
-5 SGE Levels: useful
-5 MNK Levels: useful
-5 DRG Levels: useful
-5 NIN Levels: progression
-5 SAM Levels: useful
-5 RPR Levels: useful
-5 VPR Levels: useful
-5 BRD Levels: useful
-5 MCH Levels: unknown
-5 DNC Levels: useful
-5 BLM Levels: useful
-5 SMN Levels: useful
-5 RDM Levels: useful
-5 PCT Levels: useful
-5 BLU Levels: unknown
-5 CRP Levels: filler
-5 BSM Levels: filler
+/pet: unknown
+5 ALC Levels: filler
 5 ARM Levels: filler
+5 AST Levels: useful
+5 BLM Levels: useful
+5 BLU Levels: unknown
+5 BRD Levels: useful
+5 BSM Levels: filler
+5 BTN Levels: filler
+5 CRP Levels: filler
+5 CUL Levels: filler
+5 DNC Levels: useful
+5 DRG Levels: useful
+5 DRK Levels: useful
+5 FSH Levels: filler
+5 GNB Levels: unknown
 5 GSM Levels: filler
 5 LTW Levels: unknown
-5 WVR Levels: filler
-5 ALC Levels: filler
-5 CUL Levels: filler
+5 MCH Levels: unknown
 5 MIN Levels: filler
-5 BTN Levels: filler
-5 FSH Levels: filler
-/pet: unknown
+5 MNK Levels: useful
+5 NIN Levels: progression
+5 PCT Levels: useful
+5 PLD Levels: useful
+5 RDM Levels: useful
+5 RPR Levels: useful
+5 SAM Levels: useful
+5 SCH Levels: useful
+5 SGE Levels: useful
+5 SMN Levels: useful
+5 VPR Levels: useful
+5 WAR Levels: useful
+5 WHM Levels: useful
+5 WVR Levels: filler
+Alexander Key: unknown
+Amh Araeng Access: progression
+Arcadion Key: progression
+Azys Lla Access: progression
+Bahamut Key: unknown
+Baitbugs: unknown
+Balloon Bug: unknown
+Basket Of Red Maggots: unknown
+Bass Ball: unknown
+Bladed Steel Jig: unknown
+Bloodworm: unknown
+Blue Bobbit: unknown
+Bream Lure: unknown
+Brute Leech: unknown
+Butterworm: unknown
+Cactuar Jig: unknown
+Caddisfly Larva: unknown
+Chimera Worm: unknown
+Chocobo Fly: unknown
+Cloud-Eye Carp: unknown
+Coerthas Central Highlands Access: unknown
+Coerthas Western Highlands Access: progression
+Crayfish Ball: unknown
+Crimson Lugworm: unknown
+Crow Fly: unknown
+Desert Dessert Frog: unknown
+Dragonfly: unknown
+East Shroud Access: unknown
+Eastern La Noscea Access: unknown
+Eastern Thanalan Access: unknown
+Eden Key: progression
+Elpis Access: progression
+Eulmore Access: unknown
+Fiend Worm: unknown
+Floating Minnow: unknown
+Freshwater Boilie: unknown
+Fruit Worm: unknown
+Gangos Access: unknown
+Garlemald Access: unknown
+Ghost Nipper: unknown
+Giant Crane Fly: unknown
+Glowworm: unknown
+Goblin Jig: unknown
+Goby Ball: unknown
+Gold Salmon Roe: unknown
+Golden Stonefly Nymph: unknown
+Grey Worm: unknown
+Gridania and Central Shroud Access: progression
+Heavy Steel Jig: unknown
+Heritage Found Access: unknown
+Herring Ball: unknown
+Honey Worm: unknown
+Honeybee: unknown
+Hoverworm: unknown
+Il Mheg Access: unknown
+Ishgard Access: unknown
+Jerked Ovim: unknown
+Kholusia Access: unknown
+Kozama'uka Access: unknown
+Krill Cage Feeder: unknown
+Kugane Access: progression
+Labyrinthos Access: unknown
+Lakeland Access: unknown
+Leech: unknown
+Limsa Lominsa and Middle La Noscea Access: progression
+Live Shrimp: unknown
+Living Memory Access: mcguffin
+Lower La Noscea Access: unknown
+Lugworm: unknown
+Mackerel Strip: unknown
+Magma Worm: unknown
+Marble Nymph: unknown
+Mare Lamentorum Access: unknown
+Mayfly: unknown
+Memory of a Distant World: mcguffin
+Metal Spinner: unknown
+Midge Basket: unknown
+Midge Larva: unknown
+Mor Dhona Access: progression
+Moth Pupa: unknown
+Moyebi Shrimp: unknown
+Mythril Spoon Lure: unknown
+Nightcrawler: unknown
+North Shroud Access: unknown
+Northern Krill: unknown
+Northern Thanalan Access: unknown
+Old Sharlayan Access: progression
+Omega Key: progression
+Outer La Noscea Access: unknown
+Pandaemonium Key: unknown
+Panic Jig: unknown
+Pill Bug: unknown
+Plump Worm: unknown
+Popper Lure: unknown
+Pot Of Stardust: unknown
+Purse Web Spider: unknown
+Radz-at-Han Access: unknown
+Rainbow Spoon Lure: unknown
+Rat Tail: unknown
+Red Balloon: unknown
+Rhalgr's Reach Access: unknown
+Robber Ball: unknown
+Rolling Stone: unknown
+Salmon Roe: unknown
+Saltwater Boilie: unknown
+Sand Gecko: unknown
+Sand Leech: unknown
+Select Bait Ball: unknown
+Shaaloani Access: unknown
+Short Bill Minnow: unknown
+Shrimp Ball: unknown
+Shrimp Cage Feeder: unknown
+Shucked Clam: unknown
+Signature Skyball: unknown
+Silkmoth Pupa: unknown
+Silkworm: unknown
+Silver Spoon Lure: unknown
+Sinking Minnow: unknown
+Sky Spoon Lure: unknown
+Snurble Fly: unknown
+Solution Nine Access: unknown
+South Shroud Access: progression
+Southern Thanalan Access: progression
+Spinner: unknown
+Spinnerbait: unknown
+Spoon Worm: unknown
+Squid Strip: unknown
+Stardust: unknown
+Steel Jig: unknown
+Stem Borer: unknown
+Stonefly Larva: unknown
+Stonefly Nymph: unknown
+Streamer: unknown
+Suspending Minnow: unknown
+Syrphid Basket: unknown
+Thavnair Access: unknown
+The Azim Steppe Access: unknown
+The Churning Mists Access: unknown
+The Crystarium Access: progression
+The Dravanian Forelands Access: unknown
+The Dravanian Hinterlands and Idyllshire Access: unknown
+The Fringes Access: progression
+The Lochs Access: unknown
+The Peaks Access: unknown
+The Rak'tika Greatwood Access: unknown
+The Ruby Sea Access: progression
+The Sea of Clouds Access: progression
+The Tempest Access: unknown
+Topwater Frog: unknown
+Tuliyollal Access: unknown
+Ul'dah and Central Thanalan Access: progression
+Ultima Thule Access: unknown
+Upper La Noscea Access: unknown
+Urqopacha Access: unknown
+Versatile Lure: unknown
+Western La Noscea Access: unknown
+Western Thanalan Access: progression
+White Worm: unknown
+Wildfowl Fly: unknown
+Wolves' Den Pier Access: unknown
+Yak T'El Crab: unknown
+Yak T'el Access: progression
+Yanxia Access: unknown
+Yumizuno: unknown
