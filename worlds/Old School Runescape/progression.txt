@@ -1,35 +1,35 @@
-Area: Lumbridge: progression
-Area: Lumbridge Swamp: progression
-Area: HAM Hideout: progression
-Area: Lumbridge Farms: progression
-Area: South of Varrock: progression
-Area: East Varrock: progression
+Area: Al Kharid: progression
+Area: Barbarian Village: progression
 Area: Central Varrock: progression
+Area: Citharede Abbey: progression
+Area: Corsair Cove: progression
+Area: Crafting Guild: progression
+Area: Crandor: progression
+Area: Draynor Manor: progression
+Area: Draynor Village: progression
+Area: Dwarven Mines: progression
+Area: East Varrock: progression
+Area: Edgeville: progression
+Area: Falador Farms: progression
+Area: Falador: progression
+Area: HAM Hideout: progression
+Area: Ice Mountain: progression
+Area: Karamja: progression
+Area: Lumbridge Farms: progression
+Area: Lumbridge Swamp: progression
+Area: Lumbridge: progression
+Area: Monastery: progression
+Area: Mudskipper Point: progression
+Area: Port Sarim: progression
+Area: Rimmington: progression
+Area: South of Varrock: progression
 Area: Varrock Palace: progression
 Area: West Varrock: progression
-Area: Edgeville: progression
-Area: Barbarian Village: progression
-Area: Draynor Manor: progression
-Area: Falador: progression
-Area: Dwarven Mines: progression
-Area: Ice Mountain: progression
-Area: Monastery: progression
-Area: Falador Farms: progression
-Area: Port Sarim: progression
-Area: Mudskipper Point: progression
-Area: Karamja: progression
-Area: Crandor: progression
-Area: Rimmington: progression
-Area: Crafting Guild: progression
-Area: Draynor Village: progression
-Area: Wizard Tower: progression
-Area: Corsair Cove: progression
-Area: Al Kharid: progression
-Area: Citharede Abbey: progression
 Area: Wilderness: progression
+Area: Wizard Tower: progression
 Progressive Armor: progression
-Progressive Weapons: progression
-Progressive Tools: useful
-Progressive Ranged Weapons: useful
-Progressive Ranged Armor: useful
 Progressive Magic: useful
+Progressive Ranged Armor: useful
+Progressive Ranged Weapons: useful
+Progressive Tools: useful
+Progressive Weapons: progression
