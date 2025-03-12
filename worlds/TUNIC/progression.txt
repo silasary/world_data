@@ -1,16 +1,23 @@
 ATT Offering: useful
 Anklet: useful
+Atoll Northeast Fuse: progression
+Atoll Northwest Fuse: progression
+Atoll Southeast Fuse: progression
+Atoll Southwest Fuse: progression
 Aura's Gem: useful
 Back To Work: useful
+Beneath the Vault Fuse: progression
 Blue Questagon: progression
 Bone Card: useful
 Bracer: useful
 Card Slot: useful
+Cathedral Elevator Fuse: progression
 Cyan Peril Ring: useful
 DEF Offering: useful
 Dagger Strap: useful
 Dath Stone: useful
 Dusty: useful
+East Bell: progression
 Effigy: useful
 Fairy: progression
 Fire Bomb x2: filler
@@ -23,15 +30,23 @@ Firecracker x6: filler
 Flask Shard: useful
 Fool Trap: trap
 Forever Friend: useful
+Fortress Candles Fuse: progression
+Fortress Courtyard Fuse: progression
+Fortress Courtyard Upper Fuse: progression
+Fortress Door Left Fuse: progression
+Fortress Door Right Fuse: progression
+Fortress Exterior Fuse 1: progression
+Fortress Exterior Fuse 2: progression
 Fortress Vault Key: progression
 Glass Cannon: useful
 Gold Questagon: mcguffin
 Golden Coin: mcguffin
+Grass: filler
 Green Questagon: progression
 Gun: useful
-HP Berry: filler
 HP Berry x2: filler
 HP Berry x3: filler
+HP Berry: filler
 HP Offering: useful
 Hero Relic - ATT: progression
 Hero Relic - DEF: progression
@@ -70,33 +85,38 @@ Ladders to Frog's Domain: progression
 Ladders to Lower Forest: progression
 Ladders to West Bell: progression
 Lantern: progression
+Library Lab Fuse: progression
 Louder Echo: useful
 Lucky Cup: useful
-Lure: filler
 Lure x2: filler
-MP Berry: filler
+Lure: filler
 MP Berry x2: filler
 MP Berry x3: filler
+MP Berry: filler
 MP Offering: useful
 Magic Dagger: progression
 Magic Echo: useful
 Magic Orb: progression
 Magic Wand: progression
-Money x1: filler
-Money x10: filler
 Money x100: filler
+Money x10: filler
 Money x128: useful
 Money x15: filler
 Money x16: filler
-Money x20: filler
+Money x1: filler
 Money x200: useful
-Money x25: filler
+Money x20: filler
 Money x255: useful
+Money x25: filler
+Money x2: filler
 Money x30: filler
 Money x32: filler
+Money x3: filler
 Money x40: filler
 Money x48: filler
+Money x4: filler
 Money x50: filler
+Money x5: filler
 Money x64: filler
 Mr Mayor: useful
 Muffling Bell: useful
@@ -136,6 +156,8 @@ Phonomath: useful
 Potion Flask: useful
 Potion Offering: useful
 Power Up: useful
+Quarry Fuse 1: progression
+Quarry Fuse 2: progression
 Red Questagon: progression
 Regal Weasel: useful
 SP Offering: useful
@@ -145,37 +167,15 @@ Secret Legend: useful
 Shield: useful
 Spring Falls: useful
 Stick: progression
-Sword: progression
-Sword Upgrade: progression
-Tincture: useful
-Vintage: useful
-Grass: filler
-Money x2: filler
-Money x4: filler
-Money x5: filler
-Money x3: filler
 Swamp Fuse 1: progression
-Fortress Door Right Fuse: progression
-Fortress Door Left Fuse: progression
-Library Lab Fuse: progression
-West Bell: progression
-Ziggurat Teleporter Fuse: progression
 Swamp Fuse 2: progression
 Swamp Fuse 3: progression
-Fortress Candles Fuse: progression
-Fortress Courtyard Fuse: progression
-Atoll Southwest Fuse: progression
-Fortress Courtyard Upper Fuse: progression
-Quarry Fuse 2: progression
-Atoll Southeast Fuse: progression
-Ziggurat Miniboss Fuse: progression
-Atoll Northeast Fuse: progression
-East Bell: progression
-Atoll Northwest Fuse: progression
-Fortress Exterior Fuse 2: progression
-Cathedral Elevator Fuse: progression
-Beneath the Vault Fuse: progression
+Sword Upgrade: progression
+Sword: progression
+Tincture: useful
+Vintage: useful
+West Bell: progression
 West Furnace Fuse: progression
-Fortress Exterior Fuse 1: progression
 West Garden Fuse: progression
-Quarry Fuse 1: progression
+Ziggurat Miniboss Fuse: progression
+Ziggurat Teleporter Fuse: progression
