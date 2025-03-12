@@ -17,6 +17,7 @@ GRANDPA: progression
 ISHIZU_ISHTAR: progression
 JILL: progression
 KANE_MINION_A: progression
+KANE_MINION_B: progression
 KANE_MINION_C: progression
 KANE_MINION_D: progression
 KEMO: progression
@@ -25,6 +26,7 @@ MAKO_TSUNAMI: progression
 MAXIMILLION_PEGASUS: progression
 NIBBLES: progression
 PROFESSOR_JEREMY_HARRISON: progression
+REX_RAPTOR: progression
 ROGER: progression
 SHADI: progression
 SNIPES_CROSSHAIR: filler
