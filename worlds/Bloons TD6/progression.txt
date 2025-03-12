@@ -6,7 +6,7 @@ AcceleratedAerodarts-KUnlock: progression
 AcidStability-KUnlock: progression
 AdmiralBrickell-HUnlock: unknown
 Adora-HUnlock: progression
-AdorasTemple-MUnlock: unknown
+AdorasTemple-MUnlock: useful
 AdvancedLogistics-KUnlock: unknown
 AeronauticSubsidy-KUnlock: progression
 AirforceUpgrades-KUnlock: useful
@@ -247,6 +247,6 @@ Wingmonkey-KUnlock: progression
 WinterPark-MUnlock: progression
 WizardMonkey-TUnlock: progression
 Workshop-MUnlock: unknown
-XFactor-MUnlock: unknown
+XFactor-MUnlock: progression
 XrayUltra-KUnlock: progression
 Monkey Knowledge: useful
