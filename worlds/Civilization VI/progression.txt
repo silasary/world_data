@@ -1,265 +1,265 @@
-Pottery: useful
-Animal Husbandry: progression
-Mining: progression
-Sailing: useful
-Astrology: unknown
-Irrigation: progression
-Archery: progression
-Writing: progression
-Masonry: useful
-Bronze Working: progression
-The Wheel: filler
-Celestial Navigation: unknown
-Currency: unknown
-Horseback Riding: filler
-Iron Working: progression
-Shipbuilding: useful
-Mathematics: unknown
-Construction: filler
-Engineering: useful
-Military Tactics: filler
-Apprenticeship: unknown
-Machinery: progression
-Education: unknown
-Stirrups: filler
-Military Engineering: unknown
-Castles: progression
-Cartography: progression
-Mass Production: unknown
-Banking: unknown
-Gunpowder: filler
-Printing: progression
-Square Rigging: progression
-Astronomy: filler
-Metal Casting: filler
-Siege Tactics: filler
-Industrialization: unknown
-Scientific Theory: progression
-Ballistics: filler
-Military Science: unknown
-Steam Power: progression
-Sanitation: filler
-Economics: unknown
-Rifling: filler
-Flight: unknown
-Replaceable Parts: unknown
-Steel: unknown
-Electricity: unknown
-Radio: progression
-Chemistry: unknown
-Combustion: useful
-Advanced Flight: unknown
-Rocketry: unknown
-Advanced Ballistics: filler
-Combined Arms: useful
-Plastics: useful
-Computers: progression
-Nuclear Fission: unknown
-Synthetic Materials: useful
-Telecommunications: filler
-Satellites: unknown
-Guidance Systems: filler
-Lasers: filler
-Composites: useful
-Stealth Technology: useful
-Robotics: useful
-Nanotechnology: unknown
-Nuclear Fusion: useful
-Buttress: filler
-Refining: progression
-Seasteads: useful
-Advanced AI: useful
-Advanced Power Cells: filler
-Cybernetics: filler
-Smart Materials: unknown
-Predictive Systems: useful
-Offworld Mission: unknown
-Future Tech: filler
-Code of Laws: progression
-Craftsmanship: filler
-Foreign Trade: progression
-Military Tradition: filler
-State Workforce: progression
-Early Empire: unknown
-Mysticism: unknown
-Games Recreation: unknown
-Political Philosophy: useful
-Drama and Poetry: filler
-Military Training: filler
-Defensive Tactics: filler
-Recorded History: filler
-Theology: filler
-Naval Tradition: filler
-Feudalism: filler
-Civil Service: progression
-Mercenaries: progression
-Medieval Faires: filler
-Guilds: filler
-Divine Right: progression
-Exploration: useful
-Humanism: unknown
-Diplomatic Service: unknown
-Reformed Church: progression
-Mercantilism: progression
-The Enlightenment: filler
-Colonialism: filler
-Civil Engineering: progression
-Nationalism: progression
-Opera and Ballet: filler
-Natural History: unknown
-Scorched Earth: filler
-Urbanization: unknown
-Conservation: unknown
-Capitalism: unknown
-Nuclear Program: unknown
-Mass Media: filler
-Mobilization: filler
-Ideology: filler
-Suffrage: useful
-Totalitarianism: useful
-Class Struggle: progression
-Cold War: filler
-Professional Sports: unknown
-Cultural Heritage: progression
-Rapid Deployment: filler
-Space Race: filler
-Globalization: progression
-Social Media: unknown
-Future Civic: unknown
-Environmentalism: filler
-Corporate Libertarianism: useful
-Digital Democracy: useful
-Synthetic Technocracy: useful
-Near Future Governance: filler
-Global Warming Mitigation: filler
-Smart Power Doctrine: progression
-Information Warfare: unknown
-Exodus Imperative: filler
-Cultural Hegemony: useful
-Progressive Campus: progression
-Progressive Theater: progression
-Progressive Holy Site: progression
-Progressive Encampment: progression
-Progressive Commercial Hub: progression
-Progressive Harbor: useful
-Progressive Industrial Zone: progression
-Progressive Preserve: progression
-Progressive Entertainment Complex: progression
-Progressive Neighborhood: filler
-Progressive Aerodrome: progression
-Progressive Diplomatic Quarter: progression
-Progressive Space Port: useful
-Progressive Era: progression
-Gold: Small: unknown
-Gold: Medium: filler
-Gold: Large: unknown
-Faith: Small: filler
-Faith: Medium: filler
-Faith: Large: filler
-Diplomatic Favor: filler
-Governor Title: filler
-Envoy: filler
-Relic: filler
-Scout: unknown
 Additional Population: unknown
+Advanced AI: useful
+Advanced Ballistics: filler
+Advanced Flight: unknown
+Advanced Power Cells: filler
+Animal Husbandry: progression
+Apprenticeship: unknown
+Archery: progression
+Astrology: unknown
+Astronomy: filler
+Ballistics: filler
+Banking: unknown
+Bronze Working: progression
 Builder: unknown
-Trader: unknown
-Settler: useful
-Gold:Medium: filler
+Buttress: filler
+CIVIC_CIVIL_SERVICE: progression
+CIVIC_CLASS_STRUGGLE: progression
+CIVIC_CODE_OF_LAWS: progression
+CIVIC_COLD_WAR: filler
+CIVIC_COLONIALISM: filler
+CIVIC_CORPORATE_LIBERTARIANISM: useful
+CIVIC_CRAFTSMANSHIP: filler
+CIVIC_CULTURAL_HEGEMONY: useful
+CIVIC_DEFENSIVE_TACTICS: filler
+CIVIC_DIGITAL_DEMOCRACY: useful
+CIVIC_DIVINE_RIGHT: progression
+CIVIC_EARLY_EMPIRE: progression
+CIVIC_EXODUS_IMPERATIVE: filler
+CIVIC_EXPLORATION: useful
+CIVIC_FUTURE_CIVIC: progression
+CIVIC_GLOBALIZATION: progression
+CIVIC_GLOBAL_WARMING_MITIGATION: filler
+CIVIC_GUILDS: filler
+CIVIC_IDEOLOGY: filler
+CIVIC_INFORMATION_WARFARE: progression
+CIVIC_MASS_MEDIA: filler
+CIVIC_MERCANTILISM: progression
+CIVIC_MERCENARIES: progression
+CIVIC_MILITARY_TRADITION: filler
+CIVIC_MILITARY_TRAINING: filler
+CIVIC_MOBILIZATION: filler
+CIVIC_NATIONALISM: progression
+CIVIC_NAVAL_TRADITION: filler
+CIVIC_NEAR_FUTURE_GOVERNANCE: filler
+CIVIC_OPERA_BALLET: filler
+CIVIC_POLITICAL_PHILOSOPHY: useful
+CIVIC_PROFESSIONAL_SPORTS: progression
+CIVIC_RAPID_DEPLOYMENT: filler
+CIVIC_RECORDED_HISTORY: filler
+CIVIC_REFORMED_CHURCH: progression
+CIVIC_SMART_POWER_DOCTRINE: progression
+CIVIC_SOCIAL_MEDIA: progression
+CIVIC_SPACE_RACE: filler
+CIVIC_SYNTHETIC_TECHNOCRACY: useful
+CIVIC_TOTALITARIANISM: useful
+Capitalism: unknown
+Cartography: progression
+Castles: progression
+Celestial Navigation: unknown
+Chemistry: unknown
+Civil Engineering: progression
+Civil Service: progression
+Class Struggle: progression
+Code of Laws: progression
+Cold War: filler
+Colonialism: filler
+Combined Arms: useful
+Combustion: useful
+Composites: useful
+Computers: progression
+Conservation: unknown
+Construction: filler
+Corporate Libertarianism: useful
+Craftsmanship: filler
+Cultural Hegemony: useful
+Cultural Heritage: progression
+Currency: unknown
+Cybernetics: filler
+Defensive Tactics: filler
+Digital Democracy: useful
+Diplomatic Favor: filler
+Diplomatic Service: unknown
+Divine Right: progression
+Drama and Poetry: filler
+Early Empire: unknown
+Economics: unknown
+Education: unknown
+Electricity: unknown
+Engineering: useful
+Environmentalism: filler
+Envoy: filler
+Exodus Imperative: filler
+Exploration: useful
+Faith: Large: filler
+Faith: Medium: filler
+Faith: Small: filler
 Faith:Large: filler
 Faith:Medium: filler
-CIVIC_SYNTHETIC_TECHNOCRACY: useful
 Faith:Small: filler
-TECH_PLASTICS: useful
-TECH_METAL_CASTING: filler
-CIVIC_POLITICAL_PHILOSOPHY: useful
-CIVIC_OPERA_BALLET: filler
-TECH_GUNPOWDER: filler
-CIVIC_INFORMATION_WARFARE: progression
-TECH_RIFLING: filler
-TECH_CASTLES: progression
-CIVIC_MILITARY_TRADITION: filler
-PROGRESSIVE_SPACE_PORT: useful
-CIVIC_GUILDS: filler
-TECH_LASERS: filler
-CIVIC_RAPID_DEPLOYMENT: filler
-PROGRESSIVE_HOLY_SITE: progression
-CIVIC_EXPLORATION: useful
-PROGRESSIVE_DIPLOMATIC_QUARTER: progression
-TECH_ADVANCED_AI: useful
-PROGRESSIVE_ENTERTAINMENT_COMPLEX: progression
-TECH_ADVANCED_BALLISTICS: filler
-TECH_COMBUSTION: useful
-CIVIC_MERCANTILISM: progression
-CIVIC_COLONIALISM: filler
-TECH_BALLISTICS: filler
-TECH_SQUARE_RIGGING: progression
-TECH_SAILING: useful
-TECH_PREDICTIVE_SYSTEMS: useful
-CIVIC_DIGITAL_DEMOCRACY: useful
-CIVIC_COLD_WAR: filler
-TECH_BUTTRESS: filler
-TECH_STEEL: progression
-TECH_PRINTING: progression
-CIVIC_SOCIAL_MEDIA: progression
-CIVIC_MASS_MEDIA: filler
-CIVIC_REFORMED_CHURCH: progression
-CIVIC_TOTALITARIANISM: useful
-TECH_ARCHERY: progression
-TECH_CARTOGRAPHY: progression
-CIVIC_DIVINE_RIGHT: progression
-TECH_THE_WHEEL: filler
-TECH_COMBINED_ARMS: useful
-TECH_ADVANCED_POWER_CELLS: filler
-TECH_MILITARY_TACTICS: filler
-CIVIC_CIVIL_SERVICE: progression
-TECH_IRON_WORKING: progression
-CIVIC_NATIONALISM: progression
-CIVIC_CLASS_STRUGGLE: progression
-CIVIC_RECORDED_HISTORY: filler
-TECH_STEALTH_TECHNOLOGY: useful
-CIVIC_CULTURAL_HEGEMONY: useful
-CIVIC_PROFESSIONAL_SPORTS: progression
-CIVIC_NAVAL_TRADITION: filler
-CIVIC_SMART_POWER_DOCTRINE: progression
-TECH_COMPOSITES: useful
-CIVIC_DEFENSIVE_TACTICS: filler
-TECH_ROBOTICS: useful
-CIVIC_EXODUS_IMPERATIVE: filler
-CIVIC_IDEOLOGY: filler
+Feudalism: filler
+Flight: unknown
+Foreign Trade: progression
+Future Civic: unknown
+Future Tech: filler
+Games Recreation: unknown
+Global Warming Mitigation: filler
+Globalization: progression
+Gold: Large: unknown
+Gold: Medium: filler
+Gold: Small: unknown
+Gold:Medium: filler
+Governor Title: filler
+Guidance Systems: filler
+Guilds: filler
+Gunpowder: filler
+Horseback Riding: filler
+Humanism: unknown
+Ideology: filler
+Industrialization: unknown
+Information Warfare: unknown
+Iron Working: progression
+Irrigation: progression
+Lasers: filler
+Machinery: progression
+Masonry: useful
+Mass Media: filler
+Mass Production: unknown
+Mathematics: unknown
+Medieval Faires: filler
+Mercantilism: progression
+Mercenaries: progression
+Metal Casting: filler
+Military Engineering: unknown
+Military Science: unknown
+Military Tactics: filler
+Military Tradition: filler
+Military Training: filler
+Mining: progression
+Mobilization: filler
+Mysticism: unknown
+Nanotechnology: unknown
+Nationalism: progression
+Natural History: unknown
+Naval Tradition: filler
+Near Future Governance: filler
+Nuclear Fission: unknown
+Nuclear Fusion: useful
+Nuclear Program: unknown
+Offworld Mission: unknown
+Opera and Ballet: filler
 PROGRESSIVE_AERODROME: progression
-TECH_STEAM_POWER: progression
-TECH_CYBERNETICS: filler
-PROGRESSIVE_ENCAMPMENT: progression
-CIVIC_EARLY_EMPIRE: progression
-PROGRESSIVE_THEATER: progression
-CIVIC_GLOBAL_WARMING_MITIGATION: filler
-TECH_POTTERY: useful
-TECH_NUCLEAR_FUSION: useful
-PROGRESSIVE_PRESERVE: progression
-CIVIC_CORPORATE_LIBERTARIANISM: useful
-TECH_SCIENTIFIC_THEORY: progression
-CIVIC_NEAR_FUTURE_GOVERNANCE: filler
-TECH_RADIO: progression
-TECH_STIRRUPS: filler
-CIVIC_CRAFTSMANSHIP: filler
-PROGRESSIVE_COMMERCIAL_HUB: progression
-CIVIC_MILITARY_TRAINING: filler
-PROGRESSIVE_INDUSTRIAL_ZONE: progression
-CIVIC_SPACE_RACE: filler
-TECH_SYNTHETIC_MATERIALS: useful
-CIVIC_FUTURE_CIVIC: progression
-TECH_MACHINERY: progression
-TECH_ASTRONOMY: filler
-CIVIC_MERCENARIES: progression
-TECH_ENGINEERING: useful
-CIVIC_CODE_OF_LAWS: progression
-PROGRESSIVE_NEIGHBORHOOD: filler
-TECH_CONSTRUCTION: filler
-TECH_GUIDANCE_SYSTEMS: filler
-CIVIC_GLOBALIZATION: progression
 PROGRESSIVE_CAMPUS: progression
-CIVIC_MOBILIZATION: filler
+PROGRESSIVE_COMMERCIAL_HUB: progression
+PROGRESSIVE_DIPLOMATIC_QUARTER: progression
+PROGRESSIVE_ENCAMPMENT: progression
+PROGRESSIVE_ENTERTAINMENT_COMPLEX: progression
+PROGRESSIVE_HOLY_SITE: progression
+PROGRESSIVE_INDUSTRIAL_ZONE: progression
+PROGRESSIVE_NEIGHBORHOOD: filler
+PROGRESSIVE_PRESERVE: progression
+PROGRESSIVE_SPACE_PORT: useful
+PROGRESSIVE_THEATER: progression
+Plastics: useful
+Political Philosophy: useful
+Pottery: useful
+Predictive Systems: useful
+Printing: progression
+Professional Sports: unknown
+Progressive Aerodrome: progression
+Progressive Campus: progression
+Progressive Commercial Hub: progression
+Progressive Diplomatic Quarter: progression
+Progressive Encampment: progression
+Progressive Entertainment Complex: progression
+Progressive Era: progression
+Progressive Harbor: useful
+Progressive Holy Site: progression
+Progressive Industrial Zone: progression
+Progressive Neighborhood: filler
+Progressive Preserve: progression
+Progressive Space Port: useful
+Progressive Theater: progression
+Radio: progression
+Rapid Deployment: filler
+Recorded History: filler
+Refining: progression
+Reformed Church: progression
+Relic: filler
+Replaceable Parts: unknown
+Rifling: filler
+Robotics: useful
+Rocketry: unknown
+Sailing: useful
+Sanitation: filler
+Satellites: unknown
+Scientific Theory: progression
+Scorched Earth: filler
+Scout: unknown
+Seasteads: useful
+Settler: useful
+Shipbuilding: useful
+Siege Tactics: filler
+Smart Materials: unknown
+Smart Power Doctrine: progression
+Social Media: unknown
+Space Race: filler
+Square Rigging: progression
+State Workforce: progression
+Stealth Technology: useful
+Steam Power: progression
+Steel: unknown
+Stirrups: filler
+Suffrage: useful
+Synthetic Materials: useful
+Synthetic Technocracy: useful
+TECH_ADVANCED_AI: useful
+TECH_ADVANCED_BALLISTICS: filler
+TECH_ADVANCED_POWER_CELLS: filler
 TECH_ANIMAL_HUSBANDRY: progression
+TECH_ARCHERY: progression
+TECH_ASTRONOMY: filler
+TECH_BALLISTICS: filler
+TECH_BUTTRESS: filler
+TECH_CARTOGRAPHY: progression
+TECH_CASTLES: progression
+TECH_COMBINED_ARMS: useful
+TECH_COMBUSTION: useful
+TECH_COMPOSITES: useful
 TECH_COMPUTERS: progression
+TECH_CONSTRUCTION: filler
+TECH_CYBERNETICS: filler
+TECH_ENGINEERING: useful
+TECH_GUIDANCE_SYSTEMS: filler
+TECH_GUNPOWDER: filler
 TECH_HORSEBACK_RIDING: filler
+TECH_IRON_WORKING: progression
+TECH_LASERS: filler
+TECH_MACHINERY: progression
+TECH_METAL_CASTING: filler
+TECH_MILITARY_TACTICS: filler
+TECH_NUCLEAR_FUSION: useful
+TECH_PLASTICS: useful
+TECH_POTTERY: useful
+TECH_PREDICTIVE_SYSTEMS: useful
+TECH_PRINTING: progression
+TECH_RADIO: progression
+TECH_RIFLING: filler
+TECH_ROBOTICS: useful
+TECH_SAILING: useful
+TECH_SCIENTIFIC_THEORY: progression
+TECH_SQUARE_RIGGING: progression
+TECH_STEALTH_TECHNOLOGY: useful
+TECH_STEAM_POWER: progression
+TECH_STEEL: progression
+TECH_STIRRUPS: filler
+TECH_SYNTHETIC_MATERIALS: useful
+TECH_THE_WHEEL: filler
+Telecommunications: filler
+The Enlightenment: filler
+The Wheel: filler
+Theology: filler
+Totalitarianism: useful
+Trader: unknown
+Urbanization: unknown
+Writing: progression
