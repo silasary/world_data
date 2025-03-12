@@ -1,95 +1,95 @@
-Blacksmith: progression
-Enchantress: progression
+1,000 Gold Stimulus: filler
+1000 Gold: filler
+3,000 Gold Stimulus: filler
+3000 Gold: filler
+5,000 Gold Stimulus: filler
+5000 Gold: filler
 Architect: useful
-Progressive Knights: useful
-Progressive Mages: useful
-Progressive Barbarians: useful
-Progressive Knaves: useful
-Progressive Shinobis: useful
-Progressive Miners: useful
-Progressive Liches: useful
-Progressive Spellthieves: useful
-Dragons: progression
-Traitors: useful
-Health Up: progression
-Mana Up: progression
-Attack Up: progression
-Magic Damage Up: progression
 Armor Up: useful
-Equip Up: useful
+Attack Up: progression
+Balance Runes: useful
+Blacksmith - Cape: unknown
+Blacksmith - Chest: unknown
+Blacksmith - Helm: unknown
+Blacksmith - Limbs: unknown
+Blacksmith - Sword: unknown
+Blacksmith: progression
+Blood Blueprints: useful
+Bounty Runes: filler
+Calypso's Compass Shrine: unknown
+Charon's Obol Shrine: unknown
 Crit Chance Up: useful
 Crit Damage Up: useful
-Down Strike Up: filler
-Gold Gain Up: filler
-Potion Efficiency Up: filler
-Invulnerability Time Up: filler
-Mana Cost Down: filler
-Death Defiance: useful
-Haggling: useful
-Randomize Children: useful
-Progressive Blueprints: useful
-Squire Blueprints: useful
-Silver Blueprints: useful
-Guardian Blueprints: useful
-Imperial Blueprints: useful
-Royal Blueprints: useful
-Knight Blueprints: useful
-Ranger Blueprints: useful
-Sky Blueprints: useful
-Dragon Blueprints: useful
-Slayer Blueprints: useful
-Blood Blueprints: useful
-Sage Blueprints: useful
-Retribution Blueprints: useful
-Holy Blueprints: useful
-Dark Blueprints: useful
-Vault Runes: progression
-Sprint Runes: progression
-Vampire Runes: useful
-Sky Runes: progression
-Siphon Runes: useful
-Retaliation Runes: filler
-Bounty Runes: filler
-Haste Runes: filler
 Curse Runes: filler
-Grace Runes: filler
-Balance Runes: useful
-Enchantress - Sword: unknown
-Enchantress - Helm: unknown
-Enchantress - Chest: unknown
-Enchantress - Limbs: unknown
+Dark Blueprints: useful
+Death Defiance: useful
+Defeat Alexander IV: progression
+Defeat Alexander: progression
+Defeat Astrodotus: progression
+Defeat Herodotus: progression
+Defeat Khidr: progression
+Defeat Neo Khidr: progression
+Defeat Ponce de Freon: progression
+Defeat Ponce de Leon: progression
+Defeat The Fountain: progression
+Down Strike Up: filler
+Dragon Blueprints: useful
+Dragons: progression
 Enchantress - Cape: filler
-Blacksmith - Sword: unknown
-Blacksmith - Helm: unknown
-Blacksmith - Chest: unknown
-Blacksmith - Limbs: unknown
-Blacksmith - Cape: unknown
-Charon's Obol Shrine: unknown
-Hyperion's Ring Shrine: unknown
-Hermes' Boots Shrine: unknown
+Enchantress - Chest: unknown
+Enchantress - Helm: unknown
+Enchantress - Limbs: unknown
+Enchantress - Sword: unknown
+Enchantress: progression
+Equip Up: useful
+Genetic Lottery: unknown
+Gold Gain Up: filler
+Grace Runes: filler
+Guardian Blueprints: useful
+Haggling: useful
+Haste Runes: filler
+Health Up: progression
+Hedgehog's Curse: unknown
 Helios' Blessing Shrine: unknown
-Calypso's Compass Shrine: unknown
+Hermes' Boots Shrine: unknown
+Holy Blueprints: useful
+Hyperion's Ring Shrine: unknown
+Imperial Blueprints: useful
+Invulnerability Time Up: filler
+Knight Blueprints: useful
+Magic Damage Up: progression
+Mana Cost Down: filler
+Mana Up: progression
 Nerdy Glasses Shrine: unknown
 Phar's Guidance Shrine: unknown
-Progressive Spending: useful
 Piece of the Fountain: progression
-Triple Stat Increase: filler
-1,000 Gold Stimulus: filler
-3,000 Gold Stimulus: filler
-5,000 Gold Stimulus: filler
+Potion Efficiency Up: filler
+Progressive Barbarians: useful
+Progressive Blueprints: useful
+Progressive Knaves: useful
+Progressive Knights: useful
+Progressive Liches: useful
+Progressive Mages: useful
+Progressive Miners: useful
+Progressive Shinobis: useful
+Progressive Spellthieves: useful
+Progressive Spending: useful
 Random Teleport: unknown
-Hedgehog's Curse: unknown
+Randomize Children: useful
+Ranger Blueprints: useful
+Retaliation Runes: filler
+Retribution Blueprints: useful
+Royal Blueprints: useful
+Sage Blueprints: useful
+Silver Blueprints: useful
+Siphon Runes: useful
+Sky Blueprints: useful
+Sky Runes: progression
+Slayer Blueprints: useful
+Sprint Runes: progression
+Squire Blueprints: useful
+Traitors: useful
+Triple Stat Increase: filler
+Vampire Runes: useful
+Vault Runes: progression
 Vertigo: unknown
-Genetic Lottery: unknown
-1000 Gold: filler
-3000 Gold: filler
-5000 Gold: filler
-Defeat Khidr: progression
-Defeat Alexander: progression
-Defeat Ponce de Leon: progression
-Defeat Herodotus: progression
-Defeat Neo Khidr: progression
-Defeat Alexander IV: progression
-Defeat Ponce de Freon: progression
-Defeat Astrodotus: progression
-Defeat The Fountain: progression
