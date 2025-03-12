@@ -24,14 +24,14 @@ Cloth Armor: filler
 Coffin: filler
 Crystal Armor: filler
 Crystal Gauntlet: filler
-Crystal Helm: unknown
+Crystal Helm: filler
 Crystal Ring: unknown
 Crystal Shield: unknown
 Crystal: unknown
 Cure Staff: filler
 Cure2: filler
 Cure3: filler
-Cursed Ring: unknown
+Cursed Ring: filler
 Darkness Crystal: unknown
 Diamond Armor: filler
 Diamond Shield: filler
@@ -60,7 +60,7 @@ Full Moon: filler
 Fusoya: progression
 GaiaDrum: filler
 Great Bow: filler
-Grimoire: unknown
+Grimoire: filler
 Gungnir: filler
 Headband: filler
 Heal: filler
@@ -95,6 +95,7 @@ Package: progression
 Paladin Helm: filler
 Pink Tail: progression
 Poison Axe: filler
+Power Shirt: filler
 Protect Ring: filler
 Rat Tail: unknown
 Rosa: progression
