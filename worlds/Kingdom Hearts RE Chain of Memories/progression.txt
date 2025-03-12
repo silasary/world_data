@@ -46,7 +46,7 @@ Enemy Card Air Pirate: unknown
 Enemy Card Air Soldier: useful
 Enemy Card Ansem: useful
 Enemy Card Aquatank: unknown
-Enemy Card Axel: unknown
+Enemy Card Axel: useful
 Enemy Card Bandit: unknown
 Enemy Card Barrel Spider: useful
 Enemy Card Black Fungus: unknown
@@ -122,7 +122,7 @@ Key to Rewards Wonderland: filler
 Sleight Aeroga: useful
 Sleight Aerora: filler
 Sleight Aqua Splash: filler
-Sleight Ars Arcanum: unknown
+Sleight Ars Arcanum: useful
 Sleight Bind: unknown
 Sleight Blitz: useful
 Sleight Blizzaga: useful
@@ -155,7 +155,7 @@ Sleight Hummingbird LV2: filler
 Sleight Hummingbird LV3: useful
 Sleight Idyll Romp: useful
 Sleight Judgement: unknown
-Sleight Lethal Frame: unknown
+Sleight Lethal Frame: useful
 Sleight Lucky Bounty LV2: unknown
 Sleight Lucky Bounty LV3: unknown
 Sleight Magic LV2: useful
@@ -172,7 +172,7 @@ Sleight Raging Storm: useful
 Sleight Ragnarok: unknown
 Sleight Reflect Raid: useful
 Sleight Sandstorm LV2: useful
-Sleight Sandstorm LV3: unknown
+Sleight Sandstorm LV3: useful
 Sleight Shock Impact: unknown
 Sleight Showtime LV2: useful
 Sleight Showtime LV3: unknown
@@ -190,7 +190,7 @@ Sleight Stun Impact: useful
 Sleight Surprise! LV2: useful
 Sleight Surprise! LV3: useful
 Sleight Synchro: filler
-Sleight Teleport: unknown
+Sleight Teleport: useful
 Sleight Terror: useful
 Sleight Thundaga: unknown
 Sleight Thundara: unknown
@@ -204,7 +204,7 @@ Sleight Warpinator: useful
 Sleight Wild Crush: unknown
 Sleight Zantetsuken: filler
 Victory: progression
-World Card 100 Acre Wood: unknown
+World Card 100 Acre Wood: progression
 World Card Agrabah: unknown
 World Card Atlantica: unknown
 World Card Destiny Islands: unknown
