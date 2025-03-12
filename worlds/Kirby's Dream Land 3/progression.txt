@@ -1,39 +1,39 @@
-Burning: progression
-Stone: progression
-Ice: progression
-Needle: progression
-Clean: progression
-Parasol: progression
-Spark: progression
-Cutter: progression
-Rick: progression
-Kine: progression
-Coo: progression
-Nago: progression
-ChuChu: progression
-Pitch: progression
-Heart Star: progression
 1-Up: filler
-Maxim Tomato: filler
-Invincible Candy: filler
-Little Star: filler
-Medium Star: filler
 Big Star: filler
-Gooey Bag: trap
-Slowness: trap
-Eject Ability: trap
-Rick Spawn: progression
-Kine Spawn: progression
-Coo Spawn: progression
-Nago Spawn: progression
-ChuChu Spawn: progression
-Pitch Spawn: progression
-No Ability: filler
 Burning Ability: progression
-Stone Ability: progression
-Ice Ability: progression
-Needle Ability: progression
+Burning: progression
+ChuChu Spawn: progression
+ChuChu: progression
 Clean Ability: progression
-Parasol Ability: progression
-Spark Ability: progression
+Clean: progression
+Coo Spawn: progression
+Coo: progression
 Cutter Ability: progression
+Cutter: progression
+Eject Ability: trap
+Gooey Bag: trap
+Heart Star: progression
+Ice Ability: progression
+Ice: progression
+Invincible Candy: filler
+Kine Spawn: progression
+Kine: progression
+Little Star: filler
+Maxim Tomato: filler
+Medium Star: filler
+Nago Spawn: progression
+Nago: progression
+Needle Ability: progression
+Needle: progression
+No Ability: filler
+Parasol Ability: progression
+Parasol: progression
+Pitch Spawn: progression
+Pitch: progression
+Rick Spawn: progression
+Rick: progression
+Slowness: trap
+Spark Ability: progression
+Spark: progression
+Stone Ability: progression
+Stone: progression
