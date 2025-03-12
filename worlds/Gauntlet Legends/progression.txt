@@ -1,34 +1,46 @@
-Key: filler
-Lightning Potion: filler
-Light Potion: filler
-Acid Potion: filler
-Fire Potion: filler
-Acid Breath: filler
-Lightning Breath: filler
-Fire Breath: filler
-Light Amulet: filler
-Acid Amulet: filler
-Lightning Amulet: filler
-Fire Amulet: filler
-Electric Shield: filler
-Fire Shield: filler
-Invisibility: filler
-Levitate: filler
-Speed Boots: filler
 3-Way Shot: filler
 5-Way Shot: filler
-Rapid Fire: filler
-Reflective Shot: filler
-Reflective Shield: filler
-Super Shot: filler
-Timestop: filler
-Phoenix Familiar: filler
-Growth: filler
-Shrink: filler
-Thunder Hammer: filler
-Invulnerability: filler
+Acid Amulet: filler
+Acid Breath: filler
+Acid Potion: filler
+Castle Obelisk 2: progression
+Chimera Mirror Shard: progression
+Dragon Mirror Shard: progression
+Electric Shield: filler
+Fire Amulet: filler
+Fire Breath: filler
+Fire Potion: filler
+Fire Shield: filler
+Flame of Tarkana: useful
 Fruit: filler
+Gold: filler
+Growth: filler
+Ice Axe of Untar: useful
+Invisibility: filler
+Invulnerability: filler
+Key: filler
+Levitate: filler
+Light Amulet: filler
+Light Potion: filler
+Lightning Amulet: filler
+Lightning Breath: filler
+Lightning Potion: filler
+Lightning Shield: filler
+Marker's Javelin: useful
 Meat: filler
+Mountain Obelisk 1: progression
+Mountain Obelisk 2: progression
+Mountain Obelisk 3: progression
+Phoenix Familiar: filler
+Plague Fiend Mirror Shard: progression
+Poison Fruit: trap
+Rapid Fire: filler
+Reflective Shield: filler
+Reflective Shot: filler
+Runestone 10: progression
+Runestone 11: progression
+Runestone 12: progression
+Runestone 13: progression
 Runestone 1: progression
 Runestone 2: progression
 Runestone 3: progression
@@ -38,24 +50,12 @@ Runestone 6: mcguffin
 Runestone 7: progression
 Runestone 8: progression
 Runestone 9: mcguffin
-Runestone 10: progression
-Runestone 11: progression
-Runestone 12: progression
-Runestone 13: progression
-Ice Axe of Untar: useful
-Flame of Tarkana: useful
 Scimitar of Decapitation: useful
-Marker's Javelin: useful
+Shrink: filler
 Soul Savior: useful
-Gold: filler
-Mountain Obelisk 2: progression
-Yeti Mirror Shard: progression
-Plague Fiend Mirror Shard: progression
-Poison Fruit: trap
-Lightning Shield: filler
-Mountain Obelisk 3: progression
-Castle Obelisk 2: progression
-Chimera Mirror Shard: progression
-Dragon Mirror Shard: progression
-Mountain Obelisk 1: progression
+Speed Boots: filler
+Super Shot: filler
+Thunder Hammer: filler
+Timestop: filler
 Town Obelisk 2: progression
+Yeti Mirror Shard: progression
