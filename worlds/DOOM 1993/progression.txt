@@ -1,191 +1,191 @@
-Hangar (E1M1): progression
-Hangar (E1M1) - Computer area map: filler
-Nuclear Plant (E1M2): progression
-Nuclear Plant (E1M2) - Red keycard: progression
-Nuclear Plant (E1M2) - Computer area map: filler
-Toxin Refinery (E1M3): progression
-Toxin Refinery (E1M3) - Yellow keycard: progression
-Toxin Refinery (E1M3) - Blue keycard: progression
-Toxin Refinery (E1M3) - Computer area map: filler
-Command Control (E1M4): progression
-Command Control (E1M4) - Yellow keycard: progression
-Command Control (E1M4) - Blue keycard: progression
-Command Control (E1M4) - Computer area map: filler
-Phobos Lab (E1M5): progression
-Phobos Lab (E1M5) - Blue keycard: progression
-Phobos Lab (E1M5) - Yellow keycard: progression
-Phobos Lab (E1M5) - Computer area map: filler
-Central Processing (E1M6): progression
-Central Processing (E1M6) - Blue keycard: progression
-Central Processing (E1M6) - Red keycard: progression
-Central Processing (E1M6) - Yellow keycard: progression
-Central Processing (E1M6) - Computer area map: filler
-Computer Station (E1M7): progression
-Computer Station (E1M7) - Yellow keycard: progression
-Computer Station (E1M7) - Blue keycard: progression
-Computer Station (E1M7) - Red keycard: progression
-Computer Station (E1M7) - Computer area map: filler
-Phobos Anomaly (E1M8): progression
-Phobos Anomaly (E1M8) - Computer area map: filler
-Military Base (E1M9): progression
-Military Base (E1M9) - Yellow keycard: progression
-Military Base (E1M9) - Red keycard: progression
-Military Base (E1M9) - Blue keycard: progression
-Military Base (E1M9) - Computer area map: filler
-Deimos Anomaly (E2M1): progression
-Deimos Anomaly (E2M1) - Blue keycard: progression
-Deimos Anomaly (E2M1) - Red keycard: progression
-Deimos Anomaly (E2M1) - Computer area map: filler
-Containment Area (E2M2): progression
-Containment Area (E2M2) - Blue keycard: progression
-Containment Area (E2M2) - Yellow keycard: progression
-Containment Area (E2M2) - Red keycard: progression
-Containment Area (E2M2) - Computer area map: filler
-Refinery (E2M3): progression
-Refinery (E2M3) - Blue keycard: progression
-Refinery (E2M3) - Computer area map: filler
-Deimos Lab (E2M4): progression
-Deimos Lab (E2M4) - Blue keycard: progression
-Deimos Lab (E2M4) - Yellow keycard: progression
-Deimos Lab (E2M4) - Computer area map: filler
-Command Center (E2M5): progression
-Command Center (E2M5) - Computer area map: filler
-Halls of the Damned (E2M6): progression
-Halls of the Damned (E2M6) - Blue skull key: progression
-Halls of the Damned (E2M6) - Yellow skull key: progression
-Halls of the Damned (E2M6) - Red skull key: progression
-Halls of the Damned (E2M6) - Computer area map: filler
-Spawning Vats (E2M7): progression
-Spawning Vats (E2M7) - Red keycard: progression
-Spawning Vats (E2M7) - Yellow keycard: progression
-Spawning Vats (E2M7) - Blue keycard: progression
-Spawning Vats (E2M7) - Computer area map: filler
-Tower of Babel (E2M8): progression
-Tower of Babel (E2M8) - Computer area map: filler
-Fortress of Mystery (E2M9): progression
-Fortress of Mystery (E2M9) - Blue skull key: progression
-Fortress of Mystery (E2M9) - Red skull key: progression
-Fortress of Mystery (E2M9) - Yellow skull key: progression
-Fortress of Mystery (E2M9) - Computer area map: filler
-Hell Keep (E3M1): progression
-Hell Keep (E3M1) - Computer area map: filler
-Slough of Despair (E3M2): progression
-Slough of Despair (E3M2) - Blue skull key: progression
-Slough of Despair (E3M2) - Computer area map: filler
-Pandemonium (E3M3): progression
-Pandemonium (E3M3) - Blue skull key: progression
-Pandemonium (E3M3) - Computer area map: filler
-House of Pain (E3M4): progression
-House of Pain (E3M4) - Blue skull key: progression
-House of Pain (E3M4) - Yellow skull key: progression
-House of Pain (E3M4) - Red skull key: progression
-House of Pain (E3M4) - Computer area map: filler
-Unholy Cathedral (E3M5): progression
-Unholy Cathedral (E3M5) - Blue skull key: progression
-Unholy Cathedral (E3M5) - Yellow skull key: progression
-Unholy Cathedral (E3M5) - Computer area map: filler
-Mt. Erebus (E3M6): progression
-Mt. Erebus (E3M6) - Blue skull key: progression
-Mt. Erebus (E3M6) - Computer area map: filler
-Limbo (E3M7): progression
-Limbo (E3M7) - Blue skull key: progression
-Limbo (E3M7) - Red skull key: progression
-Limbo (E3M7) - Yellow skull key: progression
-Limbo (E3M7) - Computer area map: filler
-Dis (E3M8): progression
-Dis (E3M8) - Computer area map: filler
-Warrens (E3M9): progression
-Warrens (E3M9) - Blue skull key: progression
-Warrens (E3M9) - Red skull key: progression
-Warrens (E3M9) - Computer area map: filler
-Shotgun: progression
-Rocket launcher: progression
-Plasma gun: progression
-Chainsaw: progression
-Chaingun: progression
+Against Thee Wickedly (E4M6) - Blue skull key: progression
+Against Thee Wickedly (E4M6) - Complete: progression
+Against Thee Wickedly (E4M6) - Computer area map: filler
+Against Thee Wickedly (E4M6) - Red skull key: progression
+Against Thee Wickedly (E4M6) - Yellow skull key: progression
+Against Thee Wickedly (E4M6): progression
+And Hell Followed (E4M7) - Blue skull key: progression
+And Hell Followed (E4M7) - Complete: progression
+And Hell Followed (E4M7) - Computer area map: filler
+And Hell Followed (E4M7) - Red skull key: progression
+And Hell Followed (E4M7) - Yellow skull key: progression
+And Hell Followed (E4M7): progression
+Armor: filler
 BFG9000: progression
 Backpack: progression
-Armor: filler
-Mega Armor: filler
 Berserk: filler
-Invulnerability: filler
-Partial invisibility: filler
-Supercharge: filler
-Medikit: filler
 Box of bullets: filler
 Box of rockets: filler
 Box of shotgun shells: filler
-Energy cell pack: filler
-Hangar (E1M1) - Complete: progression
-Nuclear Plant (E1M2) - Complete: progression
-Toxin Refinery (E1M3) - Complete: progression
-Command Control (E1M4) - Complete: progression
-Phobos Lab (E1M5) - Complete: progression
+Central Processing (E1M6) - Blue keycard: progression
 Central Processing (E1M6) - Complete: progression
-Computer Station (E1M7) - Complete: progression
-Phobos Anomaly (E1M8) - Complete: progression
-Military Base (E1M9) - Complete: progression
-Deimos Anomaly (E2M1) - Complete: progression
-Containment Area (E2M2) - Complete: progression
-Refinery (E2M3) - Complete: progression
-Deimos Lab (E2M4) - Complete: progression
+Central Processing (E1M6) - Computer area map: filler
+Central Processing (E1M6) - Red keycard: progression
+Central Processing (E1M6) - Yellow keycard: progression
+Central Processing (E1M6): progression
+Chaingun: progression
+Chainsaw: progression
 Command Center (E2M5) - Complete: progression
-Halls of the Damned (E2M6) - Complete: progression
-Spawning Vats (E2M7) - Complete: progression
-Tower of Babel (E2M8) - Complete: progression
-Fortress of Mystery (E2M9) - Complete: progression
-Hell Keep (E3M1) - Complete: progression
-Slough of Despair (E3M2) - Complete: progression
-Pandemonium (E3M3) - Complete: progression
-House of Pain (E3M4) - Complete: progression
-Unholy Cathedral (E3M5) - Complete: progression
-Mt. Erebus (E3M6) - Complete: progression
-Limbo (E3M7) - Complete: progression
+Command Center (E2M5) - Computer area map: filler
+Command Center (E2M5): progression
+Command Control (E1M4) - Blue keycard: progression
+Command Control (E1M4) - Complete: progression
+Command Control (E1M4) - Computer area map: filler
+Command Control (E1M4) - Yellow keycard: progression
+Command Control (E1M4): progression
+Computer Station (E1M7) - Blue keycard: progression
+Computer Station (E1M7) - Complete: progression
+Computer Station (E1M7) - Computer area map: filler
+Computer Station (E1M7) - Red keycard: progression
+Computer Station (E1M7) - Yellow keycard: progression
+Computer Station (E1M7): progression
+Containment Area (E2M2) - Blue keycard: progression
+Containment Area (E2M2) - Complete: progression
+Containment Area (E2M2) - Computer area map: filler
+Containment Area (E2M2) - Red keycard: progression
+Containment Area (E2M2) - Yellow keycard: progression
+Containment Area (E2M2): progression
+Deimos Anomaly (E2M1) - Blue keycard: progression
+Deimos Anomaly (E2M1) - Complete: progression
+Deimos Anomaly (E2M1) - Computer area map: filler
+Deimos Anomaly (E2M1) - Red keycard: progression
+Deimos Anomaly (E2M1): progression
+Deimos Lab (E2M4) - Blue keycard: progression
+Deimos Lab (E2M4) - Complete: progression
+Deimos Lab (E2M4) - Computer area map: filler
+Deimos Lab (E2M4) - Yellow keycard: progression
+Deimos Lab (E2M4): progression
 Dis (E3M8) - Complete: progression
-Warrens (E3M9) - Complete: progression
-Hell Beneath (E4M1) - Red skull key: progression
-Hell Beneath (E4M1) - Blue skull key: progression
-Perfect Hatred (E4M2) - Yellow skull key: progression
-Perfect Hatred (E4M2) - Blue skull key: progression
-Sever the Wicked (E4M3) - Red skull key: progression
-Sever the Wicked (E4M3) - Blue skull key: progression
-Unruly Evil (E4M4) - Red skull key: progression
-They Will Repent (E4M5) - Yellow skull key: progression
-They Will Repent (E4M5) - Red skull key: progression
-They Will Repent (E4M5) - Blue skull key: progression
-Against Thee Wickedly (E4M6) - Blue skull key: progression
-Against Thee Wickedly (E4M6) - Yellow skull key: progression
-Against Thee Wickedly (E4M6) - Red skull key: progression
-And Hell Followed (E4M7) - Blue skull key: progression
-And Hell Followed (E4M7) - Yellow skull key: progression
-And Hell Followed (E4M7) - Red skull key: progression
-Unto the Cruel (E4M8) - Yellow skull key: progression
-Unto the Cruel (E4M8) - Red skull key: progression
-Fear (E4M9) - Yellow skull key: progression
-Hell Beneath (E4M1): progression
-Hell Beneath (E4M1) - Complete: progression
-Hell Beneath (E4M1) - Computer area map: filler
-Perfect Hatred (E4M2): progression
-Perfect Hatred (E4M2) - Complete: progression
-Perfect Hatred (E4M2) - Computer area map: filler
-Sever the Wicked (E4M3): progression
-Sever the Wicked (E4M3) - Complete: progression
-Sever the Wicked (E4M3) - Computer area map: filler
-Unruly Evil (E4M4): progression
-Unruly Evil (E4M4) - Complete: progression
-Unruly Evil (E4M4) - Computer area map: filler
-They Will Repent (E4M5): progression
-They Will Repent (E4M5) - Complete: progression
-They Will Repent (E4M5) - Computer area map: filler
-Against Thee Wickedly (E4M6): progression
-Against Thee Wickedly (E4M6) - Complete: progression
-Against Thee Wickedly (E4M6) - Computer area map: filler
-And Hell Followed (E4M7): progression
-And Hell Followed (E4M7) - Complete: progression
-And Hell Followed (E4M7) - Computer area map: filler
-Unto the Cruel (E4M8): progression
-Unto the Cruel (E4M8) - Complete: progression
-Unto the Cruel (E4M8) - Computer area map: filler
-Fear (E4M9): progression
+Dis (E3M8) - Computer area map: filler
+Dis (E3M8): progression
+Energy cell pack: filler
 Fear (E4M9) - Complete: progression
 Fear (E4M9) - Computer area map: filler
+Fear (E4M9) - Yellow skull key: progression
+Fear (E4M9): progression
+Fortress of Mystery (E2M9) - Blue skull key: progression
+Fortress of Mystery (E2M9) - Complete: progression
+Fortress of Mystery (E2M9) - Computer area map: filler
+Fortress of Mystery (E2M9) - Red skull key: progression
+Fortress of Mystery (E2M9) - Yellow skull key: progression
+Fortress of Mystery (E2M9): progression
+Halls of the Damned (E2M6) - Blue skull key: progression
+Halls of the Damned (E2M6) - Complete: progression
+Halls of the Damned (E2M6) - Computer area map: filler
+Halls of the Damned (E2M6) - Red skull key: progression
+Halls of the Damned (E2M6) - Yellow skull key: progression
+Halls of the Damned (E2M6): progression
+Hangar (E1M1) - Complete: progression
+Hangar (E1M1) - Computer area map: filler
+Hangar (E1M1): progression
+Hell Beneath (E4M1) - Blue skull key: progression
+Hell Beneath (E4M1) - Complete: progression
+Hell Beneath (E4M1) - Computer area map: filler
+Hell Beneath (E4M1) - Red skull key: progression
+Hell Beneath (E4M1): progression
+Hell Keep (E3M1) - Complete: progression
+Hell Keep (E3M1) - Computer area map: filler
+Hell Keep (E3M1): progression
+House of Pain (E3M4) - Blue skull key: progression
+House of Pain (E3M4) - Complete: progression
+House of Pain (E3M4) - Computer area map: filler
+House of Pain (E3M4) - Red skull key: progression
+House of Pain (E3M4) - Yellow skull key: progression
+House of Pain (E3M4): progression
+Invulnerability: filler
+Limbo (E3M7) - Blue skull key: progression
+Limbo (E3M7) - Complete: progression
+Limbo (E3M7) - Computer area map: filler
+Limbo (E3M7) - Red skull key: progression
+Limbo (E3M7) - Yellow skull key: progression
+Limbo (E3M7): progression
+Medikit: filler
+Mega Armor: filler
+Military Base (E1M9) - Blue keycard: progression
+Military Base (E1M9) - Complete: progression
+Military Base (E1M9) - Computer area map: filler
+Military Base (E1M9) - Red keycard: progression
+Military Base (E1M9) - Yellow keycard: progression
+Military Base (E1M9): progression
+Mt. Erebus (E3M6) - Blue skull key: progression
+Mt. Erebus (E3M6) - Complete: progression
+Mt. Erebus (E3M6) - Computer area map: filler
+Mt. Erebus (E3M6): progression
+Nuclear Plant (E1M2) - Complete: progression
+Nuclear Plant (E1M2) - Computer area map: filler
+Nuclear Plant (E1M2) - Red keycard: progression
+Nuclear Plant (E1M2): progression
+Pandemonium (E3M3) - Blue skull key: progression
+Pandemonium (E3M3) - Complete: progression
+Pandemonium (E3M3) - Computer area map: filler
+Pandemonium (E3M3): progression
+Partial invisibility: filler
+Perfect Hatred (E4M2) - Blue skull key: progression
+Perfect Hatred (E4M2) - Complete: progression
+Perfect Hatred (E4M2) - Computer area map: filler
+Perfect Hatred (E4M2) - Yellow skull key: progression
+Perfect Hatred (E4M2): progression
+Phobos Anomaly (E1M8) - Complete: progression
+Phobos Anomaly (E1M8) - Computer area map: filler
+Phobos Anomaly (E1M8): progression
+Phobos Lab (E1M5) - Blue keycard: progression
+Phobos Lab (E1M5) - Complete: progression
+Phobos Lab (E1M5) - Computer area map: filler
+Phobos Lab (E1M5) - Yellow keycard: progression
+Phobos Lab (E1M5): progression
+Plasma gun: progression
+Refinery (E2M3) - Blue keycard: progression
+Refinery (E2M3) - Complete: progression
+Refinery (E2M3) - Computer area map: filler
+Refinery (E2M3): progression
+Rocket launcher: progression
+Sever the Wicked (E4M3) - Blue skull key: progression
+Sever the Wicked (E4M3) - Complete: progression
+Sever the Wicked (E4M3) - Computer area map: filler
+Sever the Wicked (E4M3) - Red skull key: progression
+Sever the Wicked (E4M3): progression
+Shotgun: progression
+Slough of Despair (E3M2) - Blue skull key: progression
+Slough of Despair (E3M2) - Complete: progression
+Slough of Despair (E3M2) - Computer area map: filler
+Slough of Despair (E3M2): progression
+Spawning Vats (E2M7) - Blue keycard: progression
+Spawning Vats (E2M7) - Complete: progression
+Spawning Vats (E2M7) - Computer area map: filler
+Spawning Vats (E2M7) - Red keycard: progression
+Spawning Vats (E2M7) - Yellow keycard: progression
+Spawning Vats (E2M7): progression
+Supercharge: filler
+They Will Repent (E4M5) - Blue skull key: progression
+They Will Repent (E4M5) - Complete: progression
+They Will Repent (E4M5) - Computer area map: filler
+They Will Repent (E4M5) - Red skull key: progression
+They Will Repent (E4M5) - Yellow skull key: progression
+They Will Repent (E4M5): progression
+Tower of Babel (E2M8) - Complete: progression
+Tower of Babel (E2M8) - Computer area map: filler
+Tower of Babel (E2M8): progression
+Toxin Refinery (E1M3) - Blue keycard: progression
+Toxin Refinery (E1M3) - Complete: progression
+Toxin Refinery (E1M3) - Computer area map: filler
+Toxin Refinery (E1M3) - Yellow keycard: progression
+Toxin Refinery (E1M3): progression
+Unholy Cathedral (E3M5) - Blue skull key: progression
+Unholy Cathedral (E3M5) - Complete: progression
+Unholy Cathedral (E3M5) - Computer area map: filler
+Unholy Cathedral (E3M5) - Yellow skull key: progression
+Unholy Cathedral (E3M5): progression
+Unruly Evil (E4M4) - Complete: progression
+Unruly Evil (E4M4) - Computer area map: filler
+Unruly Evil (E4M4) - Red skull key: progression
+Unruly Evil (E4M4): progression
+Unto the Cruel (E4M8) - Complete: progression
+Unto the Cruel (E4M8) - Computer area map: filler
+Unto the Cruel (E4M8) - Red skull key: progression
+Unto the Cruel (E4M8) - Yellow skull key: progression
+Unto the Cruel (E4M8): progression
+Warrens (E3M9) - Blue skull key: progression
+Warrens (E3M9) - Complete: progression
+Warrens (E3M9) - Computer area map: filler
+Warrens (E3M9) - Red skull key: progression
+Warrens (E3M9): progression
