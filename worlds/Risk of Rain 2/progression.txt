@@ -1,51 +1,51 @@
-Common Item: filler
-Uncommon Item: filler
-Legendary Item: useful
+1000 Exp: filler
+Abandoned Aqueduct: progression
+Abyssal Depths: progression
+Aphelian Sanctuary: progression
+Beads of Fealty: progression
 Boss Item: useful
+Combat Trap: trap
+Commencement: progression
+Common Item: filler
+Dio's Best Friend: progression
+Distant Roost (2): progression
+Distant Roost: progression
 Equipment: filler
-Item Scrap, White: filler
+Hidden Realm: A Moment, Fractured: progression
+Hidden Realm: A Moment, Whole: progression
+Hidden Realm: Bazaar Between Time: progression
+Hidden Realm: Bulwark's Ambry: progression
+Hidden Realm: Gilded Coast: progression
 Item Scrap, Green: filler
 Item Scrap, Red: filler
+Item Scrap, White: filler
 Item Scrap, Yellow: filler
-Void Item: filler
-Dio's Best Friend: progression
-Beads of Fealty: progression
-Radar Scanner: useful
-Money: filler
+Legendary Item: useful
 Lunar Coin: filler
-1000 Exp: filler
 Lunar Item: trap
+Money: filler
 Mountain Trap: trap
-Time Warp Trap: trap
-Combat Trap: trap
-Teleport Trap: trap
+Progressive Stage: progression
+Radar Scanner: useful
+Rallypoint Delta: progression
+Scorched Acres: progression
+Siphoned Forest: progression
+Siren's Call: progression
+Sky Meadow: progression
 Stage 1: progression
 Stage 2: progression
 Stage 3: progression
 Stage 4: progression
-Progressive Stage: progression
-Distant Roost: progression
-Distant Roost (2): progression
-Titanic Plains: progression
-Titanic Plains (2): progression
-Verdant Falls: progression
-Abandoned Aqueduct: progression
-Wetland Aspect: progression
-Rallypoint Delta: progression
-Scorched Acres: progression
-Abyssal Depths: progression
-Siren's Call: progression
-Sundered Grove: progression
-Sky Meadow: progression
-Hidden Realm: Bulwark's Ambry: progression
-Hidden Realm: Bazaar Between Time: progression
-Hidden Realm: Gilded Coast: progression
-Hidden Realm: A Moment, Whole: progression
-Hidden Realm: A Moment, Fractured: progression
-Void Fields: progression
-Commencement: progression
-Siphoned Forest: progression
-Aphelian Sanctuary: progression
 Sulfur Pools: progression
-Void Locus: progression
+Sundered Grove: progression
+Teleport Trap: trap
 The Planetarium: progression
+Time Warp Trap: trap
+Titanic Plains (2): progression
+Titanic Plains: progression
+Uncommon Item: filler
+Verdant Falls: progression
+Void Fields: progression
+Void Item: filler
+Void Locus: progression
+Wetland Aspect: progression
