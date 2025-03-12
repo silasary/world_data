@@ -1,20 +1,20 @@
 A Forgotten Hero: filler
 Abandoned Mine Access: progression
-Accessory Shop: progression
 Accessory Shop Merch 1: progression
 Accessory Shop Merch 2: progression
-Achievement Society: progression
+Accessory Shop: progression
 Achievement Society Bronze: progression
 Achievement Society Hero Ranking: progression
+Achievement Society: progression
 Aire: mcguffin
 Aleior: mcguffin
 Allaby: progression
 Alwe: progression
 Aoi: mcguffin
 Appraisers Shop: progression
-Armor Shop: progression
 Armor Shop Merch 1: progression
 Armor Shop Merch 2: progression
+Armor Shop: progression
 Auditorium: progression
 Barnard: mcguffin
 Bbaba: progression
@@ -22,11 +22,11 @@ Bounty Hill Access: progression
 CJ: progression
 Cabana: progression
 Caine: mcguffin
-Card Shop: progression
 Card Shop Extra Pack 1: progression
 Card Shop Extra Pack 2: progression
 Card Shop Extra Pack 3: progression
 Card Shop Extra Pack 4: progression
+Card Shop: progression
 Carrie: progression
 Cassandra: mcguffin
 Castle Harganthia Access: progression
@@ -58,10 +58,10 @@ Escape From Combat: useful
 Eucrisse Access: progression
 Euma: mcguffin
 Falward: mcguffin
-Farm: progression
 Farm Prod 1: progression
 Farm Prod 2: progression
 Farm Prod 3: progression
+Farm: progression
 Faye: mcguffin
 Fire Runeshards: useful
 Fishing Rod Upgrade 1: progression
@@ -72,9 +72,9 @@ Fishing Site 3: progression
 Fishing Site 4: progression
 Fishing Site Prod 2: progression
 Fishing Site Prod 3: progression
-Fishing Spot: progression
 Fishing Spot Prod 1: progression
 Fishing Spot Prod 3: progression
+Fishing Spot: progression
 Food: useful
 Foxiel: mcguffin
 Francesca: progression
@@ -102,14 +102,14 @@ Hildi: progression
 Hiro: progression
 Hishahn Old Town Access: progression
 Hogan: progression
-Hot Spring: progression
 Hot Spring Benefits 1: progression
 Hot Spring Benefits 2: progression
+Hot Spring: progression
 Huang: progression
-Hunters Cabin: progression
 Hunters Cabin Prod 1: progression
 Hunters Cabin Prod 2: progression
 Hunters Cabin Prod 3: progression
+Hunters Cabin: progression
 Ice Cave Access: progression
 Impershi-arc Access: progression
 Iris: mcguffin
@@ -171,19 +171,19 @@ Obtain Baqua: useful
 Ormond: progression
 Paquia: progression
 Pastole: progression
-Pasturage: progression
 Pasturage Prod 1: progression
 Pasturage Prod 2: progression
 Pasturage Prod 3: progression
+Pasturage: progression
 Perrielle: mcguffin
 Pieter: progression
 Pohl: progression
 Proving Grounds Access: progression
 Prunella: mcguffin
-Quarry: progression
 Quarry Prod 1: progression
 Quarry Prod 2: progression
 Quarry Prod 3: progression
+Quarry: progression
 Quinn: progression
 Racing Stables: progression
 Redthroat Ridge Access: progression
@@ -192,9 +192,9 @@ Remodel The Workshop: progression
 Resource Depot Cap 1: progression
 Resource Depot Cap 2: progression
 Resource Depot Cap 3: progression
-Restauraunt: progression
 Restauraunt Menu 1: progression
 Restauraunt Menu 2: progression
+Restauraunt: progression
 Revival Items: useful
 Reyna: mcguffin
 Riufan: progression
@@ -202,10 +202,10 @@ Rody: progression
 Rohan: mcguffin
 Rudy: progression
 Rune Lens Lab Access: progression
-Rune Shop: progression
 Rune Shop Merch 1: progression
 Rune Shop Merch 2: progression
 Rune Shop Sell Shards: progression
+Rune Shop: progression
 Runebarrows Access: progression
 Sabine: mcguffin
 Scarlet: mcguffin
@@ -215,10 +215,10 @@ Selbineth: mcguffin
 Shandar Ridge Access: progression
 Shixeen: mcguffin
 Skyd: mcguffin
-Smithy: progression
 Smithy 1: progression
 Smithy 2: progression
 Smithy 3: progression
+Smithy: progression
 Snowpeak Pass Access: progression
 Squash: progression
 Stables Egg Rarity 1: progression
@@ -235,16 +235,16 @@ Stowpack Cap 3: progression
 Stowpack Shop: progression
 Sumire: mcguffin
 Syd: progression
-Theater: progression
 Theater Repertoire 1: progression
 Theater Repertoire 2: progression
 Theater Repertoire 3: progression
 Theater Repertoire 4: progression
-Tool Shop: progression
+Theater: progression
 Tool Shop Merchandise 1: progression
 Tool Shop Merchandise 2: progression
-Trading House: progression
+Tool Shop: progression
 Trading House Renovation: progression
+Trading House: progression
 Trading Post: progression
 Trading Specialties: progression
 Treasury Cap 1: progression
