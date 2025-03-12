@@ -1,44 +1,21 @@
-Gun - Up: progression
-Gun - Horizontal: progression
-Gun - Down: progression
-Gun - Homing: progression
-Spring 49 - Level Select: progression
-Level Select Door Key: progression
-Spring 54 - Is This The End?: progression
-Spring 55 - Intentional Bug: progression
 A01 Key: progression
 A01.1 Key: progression
-Spring 46 - Will You Snail?: progression
 A02 Key: progression
-Spring 47 - Goals: progression
 A02.1 Key - Hat Room: progression
 A02.1 Snail Hat: progression
-Spring 48 - First Secret: progression
 A03 Key: progression
 A03.1 Key: progression
-Spring 03 - First Feelings: progression
-Spring 05 - Diana: progression
-Spring 16 - The Last Call: progression
-Spring 33 - Reunited: progression
 A04 Key: progression
-Spring 06 - An Exciting Update: progression
 A05 Key: progression
 A06 Key: progression
 A07 Key: progression
 A08 Key: progression
-Spring 21 - A Special Message: progression
 A09 Key: progression
 A10 Key: progression
 A10.1 Key: progression
-Spring 13 - No Turning Back: progression
-Spring 27 - The Invisible War: progression
 A10.2 Key: progression
-Spring 29 - Squishy Humans: progression
-Spring 32 - Leaving Home: progression
-Spring 34 - Expansion: progression
 A11 Key: progression
 A12 Key: progression
-Spring 50 - The Challenge Begins: progression
 A13 Key: progression
 A14 Key: progression
 A14.1 Key: progression
@@ -49,24 +26,19 @@ A18 Key: progression
 A19 Key: progression
 A20 Key: progression
 A21 Key: progression
-Spring 51 - First Chapter Complete: progression
+Alternative Ending Room Key: progression
+Alternative Ending: progression
 B01 Key: progression
-Spring 01 - First Memories: progression
 B02 Key: progression
-Spring 04 - First Questions: progression
 B03 Key: progression
-Spring 09 - Banned: progression
 B03.1 Key: progression
-Spring 08 - The Truth: progression
 B04 Key: progression
 B04.1 Key: progression
 B04.2 Key: progression
 B04.3 Key - Emotions Module: progression
-Fixed Emotions Module: progression
 B04.4 Key: progression
 B05 Key: progression
 B06 Key: progression
-Spring 10 - Project Squid: progression
 B07 Key: progression
 B08 Key: progression
 B09 Key: progression
@@ -80,16 +52,10 @@ B16 Key: progression
 B17 Key: progression
 B18 Key: progression
 B19 Key: progression
-Spring 12 - Jealous: progression
 C01 Key: progression
-Spring 17 - Politics: progression
 C01.1 Key: progression
-Spring 20 - New Life: progression
-Spring 25 - Approval: progression
 C02 Key: progression
-Spring 18 - Out of Control: progression
 C03 Key: progression
-Spring 07 - Metal Angels: progression
 C04 Key: progression
 C05 Key: progression
 C06 Key: progression
@@ -98,70 +64,58 @@ C08 Key: progression
 C09 Key: progression
 C10 Key: progression
 C10 Thin Fish: progression
-C11 Key: progression
 C11 Jellyfish: progression
-C12 Key: progression
+C11 Key: progression
 C12 Baby Squid: progression
-C13 Key: progression
+C12 Key: progression
 C13 Baby Squid: progression
+C13 Key: progression
 C13.1 Key - Water Pump Room: progression
-Water Pump Switch: progression
 C14 Key: progression
-C15 Key: progression
 C15 Jellyfish: progression
+C15 Key: progression
 C15 Thin Fish: progression
-C16 Key: progression
 C16 Baby Squid: progression
+C16 Key: progression
 C17 Key: progression
 C18 Key: progression
 C18 Square Fish: progression
 C19 Key: progression
-C21 Square Fish: progression
-C21 Baby Squid: progression
 C20 Key: progression
-Spring 23 - Squid's Factory: progression
+C21 Baby Squid: progression
 C21 Key: progression
 C21 Mama Squid: progression
+C21 Square Fish: progression
 C22 Key: progression
-Spring 14 - Bad News: progression
 D01 Key: progression
-Spring 22 - No Sleep: progression
 D02 Key: progression
-Spring 24 - Simulations: progression
 D03 Key: progression
 D03.1 Key: progression
 D04 Key: progression
-Spring 19 - The Horizon: progression
 D05 Key: progression
 D05 Snail: progression
-Spring 26 - The First Wipe: progression
 D05.1 Key: progression
 D05.1 Snail: progression
-Spring 30 - The Second Wipe: progression
 D05.2 Key: progression
 D05.2 Snail: progression
-Spring 31 - Back At Home: progression
-Spring 35 - The Afterworld: progression
-Spring 36 - New Information: progression
 D06 Key: progression
-Spring 28 - Evil: progression
 D06.1 Key: progression
-D06.1 Small Pink Bubble: progression
-D06.1 Medium Pink Bubble: progression
 D06.1 Large Pink Bubble: progression
+D06.1 Medium Pink Bubble: progression
+D06.1 Small Pink Bubble: progression
 D06.2 Key: progression
-D06.2 Small Pink Bubble: progression
-D06.2 Medium Pink Bubble: progression
 D06.2 Large Pink Bubble: progression
+D06.2 Medium Pink Bubble: progression
+D06.2 Small Pink Bubble: progression
 D06.3 Key: progression
-D06.3 Small Pink Bubble: progression
-D06.3 Medium Pink Bubble: progression
 D06.3 Large Pink Bubble: progression
-D06.4 Key: progression
-D06.4 Small Pink Bubble: progression
-D06.4 Medium Pink Bubble: progression
-D06.4 Large Pink Bubble: progression
+D06.3 Medium Pink Bubble: progression
+D06.3 Small Pink Bubble: progression
 D06.4 Boss Pink Bubble: progression
+D06.4 Key: progression
+D06.4 Large Pink Bubble: progression
+D06.4 Medium Pink Bubble: progression
+D06.4 Small Pink Bubble: progression
 D06.5 Key: progression
 D07 Key: progression
 D08 Key: progression
@@ -184,42 +138,32 @@ D17 Red Bubble: progression
 D18 Key: progression
 D19 Key: progression
 D20 Key: progression
-Spring 15 - Ethical Questions: progression
 E01 Key: progression
 E02 Key: progression
 E03 Key: progression
 E03.1 Key: progression
 E04 Key: progression
-E05 Key: progression
 E05 Fish: progression
-Spring 11 - First Simulations: progression
-Spring 40 - The Strange War: progression
-Spring 44 - Mixed News: progression
+E05 Key: progression
 E06 Key: progression
-Spring 37 - Secret Friends: progression
-Spring 38 - Torn Apart: progression
-Spring 52 - Showdown: progression
 E06.1 Key: progression
-Spring 41 - Black Hole Computation: progression
-Spring 42 - The Seed of The Universe: progression
-Spring 43 - Planting a Seed: progression
 E07 Key: progression
 E08 Key: progression
 E09 Key: progression
 E10 Key: progression
-E11 Key: progression
-E11 Jellyfish: progression
-E11 Square Fish: progression
 E11 Green Bubble: progression
+E11 Jellyfish: progression
+E11 Key: progression
+E11 Square Fish: progression
 E12 Key: progression
 E13 Key: progression
-E14 Key: progression
 E14 Boss Fish: progression
+E14 Key: progression
 E14 Square Fish: progression
 E15 Key: progression
 E15.1 Key: progression
-E15.1 Small Pink Bubble: progression
 E15.1 Large Pink Bubble: progression
+E15.1 Small Pink Bubble: progression
 E15.2 Key: progression
 E15.2 White Bubble: progression
 E16 Key: progression
@@ -227,18 +171,74 @@ E17 Key: progression
 E18 Key: progression
 E18 Squid the AI: progression
 E19 Key - Final Level: progression
-Spring 53 - A Broken Soul: progression
-Alternative Ending: progression
-Alternative Ending Room Key: progression
-Spring 45 - The Solution: progression
 E19.1 Key - Locked Heart: progression
-Spring 02 - A Test: progression
-Spring 39 - Mutation: progression
-Spring 56 - Final Collision: progression
+EP Goal: progression
 Exploration Point: progression
+Fishing Goal: progression
+Fixed Emotions Module: progression
+Gun - Down: progression
+Gun - Homing: progression
+Gun - Horizontal: progression
+Gun - Up: progression
+Level Select Door Key: progression
+Spring 01 - First Memories: progression
+Spring 02 - A Test: progression
+Spring 03 - First Feelings: progression
+Spring 04 - First Questions: progression
+Spring 05 - Diana: progression
+Spring 06 - An Exciting Update: progression
+Spring 07 - Metal Angels: progression
+Spring 08 - The Truth: progression
+Spring 09 - Banned: progression
+Spring 10 - Project Squid: progression
+Spring 11 - First Simulations: progression
+Spring 12 - Jealous: progression
+Spring 13 - No Turning Back: progression
+Spring 14 - Bad News: progression
+Spring 15 - Ethical Questions: progression
+Spring 16 - The Last Call: progression
+Spring 17 - Politics: progression
+Spring 18 - Out of Control: progression
+Spring 19 - The Horizon: progression
+Spring 20 - New Life: progression
+Spring 21 - A Special Message: progression
+Spring 22 - No Sleep: progression
+Spring 23 - Squid's Factory: progression
+Spring 24 - Simulations: progression
+Spring 25 - Approval: progression
+Spring 26 - The First Wipe: progression
+Spring 27 - The Invisible War: progression
+Spring 28 - Evil: progression
+Spring 29 - Squishy Humans: progression
+Spring 30 - The Second Wipe: progression
+Spring 31 - Back At Home: progression
+Spring 32 - Leaving Home: progression
+Spring 33 - Reunited: progression
+Spring 34 - Expansion: progression
+Spring 35 - The Afterworld: progression
+Spring 36 - New Information: progression
+Spring 37 - Secret Friends: progression
+Spring 38 - Torn Apart: progression
+Spring 39 - Mutation: progression
+Spring 40 - The Strange War: progression
+Spring 41 - Black Hole Computation: progression
+Spring 42 - The Seed of The Universe: progression
+Spring 43 - Planting a Seed: progression
+Spring 44 - Mixed News: progression
+Spring 45 - The Solution: progression
+Spring 46 - Will You Snail?: progression
+Spring 47 - Goals: progression
+Spring 48 - First Secret: progression
+Spring 49 - Level Select: progression
+Spring 50 - The Challenge Begins: progression
+Spring 51 - First Chapter Complete: progression
+Spring 52 - Showdown: progression
+Spring 53 - A Broken Soul: progression
+Spring 54 - Is This The End?: progression
+Spring 55 - Intentional Bug: progression
+Spring 56 - Final Collision: progression
 Springs And EP Goal: progression
 Springs Goal: progression
-EP Goal: progression
-Fishing Goal: progression
 Springs, EP And Fishing Goal: progression
+Water Pump Switch: progression
 smiley: filler
