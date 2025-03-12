@@ -1,105 +1,105 @@
-Water Pot Bottom: progression
-Wax Pot Bottom: progression
-Ash Pot Bottom: progression
-Oil Pot Bottom: progression
-Cloth Pot Bottom: progression
-Wood Pot Bottom: progression
-Crystal Pot Bottom: progression
-Lightning Pot Bottom: progression
-Sand Pot Bottom: progression
-Metal Pot Bottom: progression
-Water Pot Top: progression
-Wax Pot Top: progression
-Ash Pot Top: progression
-Oil Pot Top: progression
-Cloth Pot Top: progression
-Wood Pot Top: progression
-Crystal Pot Top: progression
-Lightning Pot Top: progression
-Sand Pot Top: progression
-Metal Pot Top: progression
-Key for Office Elevator: progression
-Key for Bedroom Elevator: progression
-Key for Three Floor Elevator: progression
-Key for Workshop: progression
-Key for Office: progression
-Key for Prehistoric Room: progression
-Key for Greenhouse Room: progression
-Key for Ocean Room: progression
-Key for Projector Room: progression
-Key for Generator Room: progression
-Key for Egypt Room: progression
-Key for Library Room: progression
-Key for Shaman Room: progression
-Key for UFO Room: progression
-Key for Torture Room: progression
-Key for Puzzle Room: progression
-Key for Bedroom: progression
-Key for Underground Lake Room: progression
-Key for Janitor Closet: progression
-Key for Front Door: progression
-Crawling: progression
-Victory: progression
-Water Pot Bottom DUPE: progression
-Wax Pot Bottom DUPE: progression
-Ash Pot Bottom DUPE: progression
-Oil Pot Bottom DUPE: progression
-Cloth Pot Bottom DUPE: progression
-Wood Pot Bottom DUPE: progression
-Crystal Pot Bottom DUPE: progression
-Lightning Pot Bottom DUPE: progression
-Sand Pot Bottom DUPE: progression
-Metal Pot Bottom DUPE: progression
-Water Pot Top DUPE: progression
-Wax Pot Top DUPE: progression
-Ash Pot Top DUPE: progression
-Oil Pot Top DUPE: progression
-Cloth Pot Top DUPE: progression
-Wood Pot Top DUPE: progression
-Crystal Pot Top DUPE: progression
-Lightning Pot Top DUPE: progression
-Sand Pot Top DUPE: progression
-Metal Pot Top DUPE: progression
-Empty: filler
-Easier Lyre: filler
-Water Always Available in Lobby: filler
-Wax Always Available in Library: filler
-Wax Always Available in Anansi Room: filler
-Wax Always Available in Shaman Room: filler
-Ash Always Available in Office: filler
 Ash Always Available in Burial Room: filler
-Oil Always Available in Prehistoric Room: filler
-Cloth Always Available in Egypt: filler
+Ash Always Available in Office: filler
+Ash Pot Bottom DUPE: progression
+Ash Pot Bottom: progression
+Ash Pot Complete DUPE: progression
+Ash Pot Complete: progression
+Ash Pot Top DUPE: progression
+Ash Pot Top: progression
 Cloth Always Available in Burial Room: filler
-Wood Always Available in Workshop: filler
-Wood Always Available in Blue Maze: filler
-Wood Always Available in Pegasus Room: filler
-Wood Always Available in Gods Room: filler
+Cloth Always Available in Egypt: filler
+Cloth Pot Bottom DUPE: progression
+Cloth Pot Bottom: progression
+Cloth Pot Complete DUPE: progression
+Cloth Pot Complete: progression
+Cloth Pot Top DUPE: progression
+Cloth Pot Top: progression
+Crawling: progression
 Crystal Always Available in Lobby: filler
 Crystal Always Available in Ocean: filler
-Sand Always Available in Greenhouse Room: filler
-Sand Always Available in Ocean: filler
-Metal Always Available in Projector Room: filler
+Crystal Pot Bottom DUPE: progression
+Crystal Pot Bottom: progression
+Crystal Pot Complete DUPE: progression
+Crystal Pot Complete: progression
+Crystal Pot Top DUPE: progression
+Crystal Pot Top: progression
+Easier Lyre: filler
+Empty: filler
+Heal: filler
+Key for Bedroom Elevator: progression
+Key for Bedroom: progression
+Key for Egypt Room: progression
+Key for Front Door: progression
+Key for Generator Room: progression
+Key for Greenhouse Room: progression
+Key for Janitor Closet: progression
+Key for Library Room: progression
+Key for Ocean Room: progression
+Key for Office Elevator: progression
+Key for Office: progression
+Key for Prehistoric Room: progression
+Key for Projector Room: progression
+Key for Puzzle Room: progression
+Key for Shaman Room: progression
+Key for Three Floor Elevator: progression
+Key for Torture Room: progression
+Key for UFO Room: progression
+Key for Underground Lake Room: progression
+Key for Workshop: progression
+Lightning Pot Bottom DUPE: progression
+Lightning Pot Bottom: progression
+Lightning Pot Complete DUPE: progression
+Lightning Pot Complete: progression
+Lightning Pot Top DUPE: progression
+Lightning Pot Top: progression
 Metal Always Available in Bedroom: filler
 Metal Always Available in Prehistoric: filler
-Heal: filler
-Water Pot Complete: progression
-Wax Pot Complete: progression
-Ash Pot Complete: progression
-Oil Pot Complete: progression
-Cloth Pot Complete: progression
-Wood Pot Complete: progression
-Crystal Pot Complete: progression
-Lightning Pot Complete: progression
-Sand Pot Complete: progression
-Metal Pot Complete: progression
-Water Pot Complete DUPE: progression
-Wax Pot Complete DUPE: progression
-Ash Pot Complete DUPE: progression
-Oil Pot Complete DUPE: progression
-Cloth Pot Complete DUPE: progression
-Wood Pot Complete DUPE: progression
-Crystal Pot Complete DUPE: progression
-Lightning Pot Complete DUPE: progression
-Sand Pot Complete DUPE: progression
+Metal Always Available in Projector Room: filler
+Metal Pot Bottom DUPE: progression
+Metal Pot Bottom: progression
 Metal Pot Complete DUPE: progression
+Metal Pot Complete: progression
+Metal Pot Top DUPE: progression
+Metal Pot Top: progression
+Oil Always Available in Prehistoric Room: filler
+Oil Pot Bottom DUPE: progression
+Oil Pot Bottom: progression
+Oil Pot Complete DUPE: progression
+Oil Pot Complete: progression
+Oil Pot Top DUPE: progression
+Oil Pot Top: progression
+Sand Always Available in Greenhouse Room: filler
+Sand Always Available in Ocean: filler
+Sand Pot Bottom DUPE: progression
+Sand Pot Bottom: progression
+Sand Pot Complete DUPE: progression
+Sand Pot Complete: progression
+Sand Pot Top DUPE: progression
+Sand Pot Top: progression
+Victory: progression
+Water Always Available in Lobby: filler
+Water Pot Bottom DUPE: progression
+Water Pot Bottom: progression
+Water Pot Complete DUPE: progression
+Water Pot Complete: progression
+Water Pot Top DUPE: progression
+Water Pot Top: progression
+Wax Always Available in Anansi Room: filler
+Wax Always Available in Library: filler
+Wax Always Available in Shaman Room: filler
+Wax Pot Bottom DUPE: progression
+Wax Pot Bottom: progression
+Wax Pot Complete DUPE: progression
+Wax Pot Complete: progression
+Wax Pot Top DUPE: progression
+Wax Pot Top: progression
+Wood Always Available in Blue Maze: filler
+Wood Always Available in Gods Room: filler
+Wood Always Available in Pegasus Room: filler
+Wood Always Available in Workshop: filler
+Wood Pot Bottom DUPE: progression
+Wood Pot Bottom: progression
+Wood Pot Complete DUPE: progression
+Wood Pot Complete: progression
+Wood Pot Top DUPE: progression
+Wood Pot Top: progression
