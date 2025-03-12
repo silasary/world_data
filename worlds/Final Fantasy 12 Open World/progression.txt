@@ -14,10 +14,10 @@ Adamantite: unknown
 Addle: useful
 Adrammelech: unknown
 Aegis Shield: unknown
-Aero: unknown
 Aero Mote: filler
-Aeroga: unknown
+Aero: unknown
 Aeroga Mote: filler
+Aeroga: unknown
 Aevis Killer: unknown
 Agate Ring: unknown
 Aged Turtle Shell: unknown
@@ -34,8 +34,8 @@ Ann's Letter: progression
 Antarctic Wind: unknown
 Antares: unknown
 Antidote: unknown
-Aqua: unknown
 Aqua Shot: unknown
+Aqua: unknown
 Aquara Mote: filler
 Aquarius Gem: unknown
 Arc Scale: unknown
@@ -56,8 +56,8 @@ Astrakhan Hat: unknown
 Avenger: unknown
 Bacchus's Wine: unknown
 Balaclava: unknown
-Balance: useful
 Balance Mote: filler
+Balance: useful
 Balfonheim Aeropass: progression
 Baltoro Seed: unknown
 Bamboo Arrows: unknown
@@ -82,8 +82,8 @@ Berserker Bracers: unknown
 Betelgeuse: unknown
 Bhuj: unknown
 Bhujerba Aeropass: progression
-Bio: useful
 Bio Mote: filler
+Bio: useful
 Black Belt: unknown
 Black Bolts: unknown
 Black Cowl: unknown
@@ -114,9 +114,9 @@ Bone of Byblos: unknown
 Bonebreaker: unknown
 Bonecrusher: useful
 Bony Trophy: unknown
-Book of Orgain: unknown
 Book of Orgain-Cent: unknown
 Book of Orgain-Mille: unknown
+Book of Orgain: unknown
 Bowgun: unknown
 Bowline Sash: unknown
 Braid Wool: unknown
@@ -136,9 +136,9 @@ Bronze Helm: unknown
 Bronze Mace: unknown
 Bronze Shield: unknown
 Brown Tuft: unknown
-Bubble: useful
 Bubble Belt: unknown
 Bubble Mote: filler
+Bubble: useful
 Buckler: unknown
 Bundle of Feathers: unknown
 Bundle of Needles: unknown
@@ -163,9 +163,9 @@ Centurio Hero's Badge: unknown
 Chainmail: unknown
 Chakra Band: unknown
 Chanter's Djellaba: unknown
-Chaos: unknown
 Chaos Bombs: unknown
 Chaos Mace: unknown
+Chaos: unknown
 Chaperon: unknown
 Charge: unknown
 Charged Gizzard: unknown
@@ -201,15 +201,14 @@ Crown of Laurels: unknown
 Cruel Trophy: unknown
 Crystal Shield: unknown
 Cuchulainn: unknown
-Cura: unknown
 Cura Mote: filler
+Cura: unknown
 Curaga: useful
 Curaja: unknown
 Cure: unknown
 Cypress Pole: unknown
 Dagger: unknown
 Damascus Steel: unknown
-Dark: unknown
 Dark Crystal: unknown
 Dark Energy: unknown
 Dark Magicite: unknown
@@ -217,12 +216,13 @@ Dark Matter: unknown
 Dark Mote: filler
 Dark Shot: unknown
 Dark Stone: unknown
+Dark: unknown
 Darkga: unknown
 Darkra: unknown
 Dawn Shard: progression
-Death: useful
 Death Powder: unknown
 Death's-Head: unknown
+Death: useful
 Deathbringer: unknown
 Decoy: useful
 Defender: unknown
@@ -246,8 +246,8 @@ Diamond Helm: unknown
 Diamond Shield: unknown
 Diamond Sword: unknown
 Disable: unknown
-Dispel: unknown
 Dispel Mote: filler
+Dispel: unknown
 Dispelga: unknown
 Domaine Calvados: unknown
 Doom Mace: unknown
@@ -305,10 +305,10 @@ Fiery Arrows: unknown
 Fine Wool: unknown
 Fira: useful
 Firaga: unknown
-Fire: useful
 Fire Crystal: unknown
 Fire Magicite: unknown
 Fire Stone: unknown
+Fire: useful
 Firefly: unknown
 First Aid: unknown
 Fish Scale: unknown
@@ -316,8 +316,8 @@ Flame Shield: unknown
 Flame Staff: unknown
 Flametongue: unknown
 Flare: unknown
-Float: unknown
 Float Mote: filler
+Float: unknown
 Fomalhaut: unknown
 Forbidden Flesh: unknown
 Foul Flesh: unknown
@@ -376,8 +376,8 @@ Grand Helm: unknown
 Grand Mace: unknown
 Gravesoil Trophy: unknown
 Graviga: unknown
-Gravity: useful
 Gravity Mote: filler
+Gravity: useful
 Great Serpent's Fang: unknown
 Great Trango: unknown
 Greataxe: unknown
@@ -395,8 +395,8 @@ Handaxe: unknown
 Handkerchief: unknown
 Hashmal: unknown
 Haste: useful
-Hastega: unknown
 Hastega Mote: filler
+Hastega: unknown
 Headband: unknown
 Headgear: unknown
 Headguard: unknown
@@ -409,13 +409,13 @@ Hi-Ether: filler
 Hi-Potion: filler
 Hide-covered Trophy: unknown
 High Arcana: unknown
-Holy: unknown
 Holy Crystal: unknown
 Holy Lance: unknown
 Holy Magicite: unknown
 Holy Mote: filler
 Holy Rod: unknown
 Holy Stone: unknown
+Holy: unknown
 Horakhty's Flame: unknown
 Horn: unknown
 Horned Hat: unknown
@@ -481,8 +481,8 @@ Leathern Trophy: unknown
 Lente's Tear: progression
 Leo Gem: unknown
 Leshach Halcyon: unknown
-Libra: unknown
 Libra Gem: unknown
+Libra: unknown
 Lifewick: unknown
 Light Woven Shirt: unknown
 Lightning Arrows: unknown
@@ -552,9 +552,9 @@ Muramasa: unknown
 Murasame: unknown
 Musk Stick: unknown
 Mystletainn: unknown
-Mythril: unknown
 Mythril Blade: unknown
 Mythril Sword: unknown
+Mythril: unknown
 Nalbina Aeropass: progression
 Nebra Succulent: unknown
 Nihopalaoa: unknown
@@ -568,18 +568,18 @@ Oaken Pole: unknown
 Obelisk: useful
 Odiferous Trophy: unknown
 Officer's Hat: unknown
-Oil: unknown
 Oil Bombs: unknown
+Oil: unknown
 Omega Badge: unknown
-Onion: unknown
 Onion Arrows: unknown
 Onion Bolts: unknown
 Onion Bombs: unknown
 Onion Shot: unknown
+Onion: unknown
 Opal Ring: unknown
 Orange Tuft: unknown
-Orichalcum: unknown
 Orichalcum Dirk: unknown
+Orichalcum: unknown
 Orochi: unknown
 Orrachea Armlet: unknown
 Osafune: unknown
@@ -605,8 +605,8 @@ Platinum Sword: unknown
 Poach: useful
 Pointed Horn: unknown
 Pointy Hat: unknown
-Poison: unknown
 Poison Bombs: unknown
+Poison: unknown
 Poisona: useful
 Potion: filler
 Power Armlet: unknown
@@ -635,15 +635,15 @@ Rat Tail: unknown
 Recurve Crossbow: unknown
 Red Cap: unknown
 Reflect: unknown
-Reflectga: useful
 Reflectga Mote: filler
+Reflectga: useful
 Regen: unknown
 Remedy: unknown
 Renew: useful
 Renewing Morion: unknown
 Reptilian Trophy: unknown
-Reverse: unknown
 Reverse Mote: filler
+Reverse: unknown
 Revive: unknown
 Ribbon: unknown
 Rime Fang: unknown
@@ -653,8 +653,8 @@ Ring of Renewal: useful
 Ring of the Light: progression
 Ring of the Toad: unknown
 Ringmail: unknown
-Rod: unknown
 Rod of Faith: unknown
+Rod: unknown
 Rose Corsage: unknown
 Round Shield: unknown
 Rubber Suit: unknown
@@ -662,8 +662,8 @@ Ruby Ring: unknown
 Runeblade: unknown
 Rusted Scrap of Armor: unknown
 Sage's Ring: unknown
-Sagittarius: unknown
 Sagittarius Gem: unknown
+Sagittarius: unknown
 Sakura-saezuri: useful
 Salamand Halcyon: unknown
 Sallet: unknown
@@ -673,8 +673,8 @@ Sash: unknown
 Save the Queen: unknown
 Scale Armor: unknown
 Scarletite: unknown
-Scathe: unknown
 Scathe Mote: filler
+Scathe: unknown
 Scorpio Gem: unknown
 Scorpion Tail: unknown
 Scourge: unknown
@@ -690,16 +690,16 @@ Serum: unknown
 Shades of Black: unknown
 Shadestone: unknown
 Shear: useful
-Shell: unknown
 Shell Shield: unknown
+Shell: unknown
 Shelled Trophy: progression
 Shellga: unknown
 Shemhazai: useful
 Shepherd's Bolero: unknown
 Shielded Armor: unknown
 Shikari Nagasa: unknown
-Shock: unknown
 Shock Mote: filler
+Shock: unknown
 Shortbow: unknown
 Sickle Trophy: unknown
 Sickle-Blade: unknown
@@ -798,8 +798,8 @@ Tourmaline Ring: useful
 Tournesol: unknown
 Toxify: unknown
 Traitor's Bow: unknown
-Traveler: unknown
 Traveler's Vestment: unknown
+Traveler: unknown
 Treaty-Blade: progression
 Trident: unknown
 Tube Fuse: progression
@@ -809,14 +809,14 @@ Turtle Shell: unknown
 Turtleshell Choker: unknown
 Tyrant Bone: filler
 Tyrant Hide: unknown
-Ultima: unknown
 Ultima Blade: unknown
+Ultima: unknown
 Undin Halcyon: unknown
 Unpurified Ether: unknown
 Vampyr Fang: unknown
 Vanish: unknown
-Vanishga: unknown
 Vanishga Mote: filler
+Vanishga: unknown
 Vega: unknown
 Venetian Shield: unknown
 Vengeful Trophy: unknown
@@ -830,8 +830,8 @@ Vrsabha: unknown
 Vrscika: unknown
 War Hammer: unknown
 Wargod's Band: unknown
-Warp: unknown
 Warp Mote: filler
+Warp: unknown
 Water Bombs: unknown
 Water Crystal: unknown
 Water Magicite: unknown
