@@ -1,5 +1,5 @@
 1 Coin: filler
-10 Coins: unknown
+10 Coins: filler
 100 Coins: unknown
 101 Coins: unknown
 102 Coins: unknown
@@ -43,7 +43,7 @@
 137 Coins: unknown
 138 Coins: unknown
 139 Coins: unknown
-14 Coins: unknown
+14 Coins: filler
 140 Coins: unknown
 141 Coins: unknown
 142 Coins: unknown
@@ -65,7 +65,7 @@
 157 Coins: unknown
 158 Coins: unknown
 159 Coins: unknown
-16 Coins: unknown
+16 Coins: filler
 160 Coins: unknown
 161 Coins: unknown
 162 Coins: unknown
@@ -75,27 +75,27 @@
 166 Coins: unknown
 167 Coins: unknown
 168 Coins: unknown
-17 Coins: unknown
-18 Coins: unknown
+17 Coins: filler
+18 Coins: filler
 19 Coins: filler
 2 Coins: filler
-20 Coins: unknown
+20 Coins: filler
 21 Coins: filler
-22 Coins: unknown
-23 Coins: unknown
-24 Coins: unknown
-25 Coins: unknown
-26 Coins: unknown
-27 Coins: unknown
+22 Coins: filler
+23 Coins: filler
+24 Coins: filler
+25 Coins: filler
+26 Coins: filler
+27 Coins: filler
 28 Coins: filler
 29 Coins: filler
 3 Coins: filler
 30 Coins: filler
 31 Coins: filler
 32 Coins: filler
-33 Coins: unknown
-34 Coins: unknown
-35 Coins: unknown
+33 Coins: filler
+34 Coins: filler
+35 Coins: filler
 36 Coins: unknown
 37 Coins: unknown
 38 Coins: unknown
@@ -111,7 +111,7 @@
 47 Coins: unknown
 48 Coins: unknown
 49 Coins: unknown
-5 Coins: unknown
+5 Coins: filler
 50 Coins: unknown
 51 Coins: unknown
 52 Coins: unknown
@@ -133,7 +133,7 @@
 67 Coins: unknown
 68 Coins: unknown
 69 Coins: unknown
-7 Coins: unknown
+7 Coins: filler
 70 Coins: unknown
 71 Coins: unknown
 72 Coins: unknown
@@ -233,15 +233,15 @@ Cancel Auto Scroll - Turtle Zone 3: unknown
 Cancel Auto Scroll - Turtle Zone Secret Course: unknown
 Cancel Auto Scroll: unknown
 Carrot: progression
-Easy Mode: unknown
+Easy Mode: useful
 Fire Flower: progression
 Hippo Bubble: progression
 Macro Coin: mcguffin
 Macro Zone 1 - The Ant Monsters Midway Bell: unknown
-Macro Zone 1 Midway Bell: unknown
+Macro Zone 1 Midway Bell: progression
 Macro Zone 2 Midway Bell: progression
 Macro Zone 3 - Fiery Mario-Special Agent Midway Bell: unknown
-Macro Zone 3 Midway Bell: unknown
+Macro Zone 3 Midway Bell: progression
 Macro Zone 4 - One Mighty Mouse Midway Bell: unknown
 Macro Zone 4 Midway Bell: filler
 Macro Zone Progression x2: unknown
@@ -251,9 +251,9 @@ Macro Zone Secret 2: progression
 Mario Coin Fragment: mcguffin
 Mario Coin: progression
 Mario Zone 1 - Fiery Blocks Midway Bell: progression
-Mario Zone 1 Midway Bell: unknown
+Mario Zone 1 Midway Bell: progression
 Mario Zone 2 - Mario the Circus Star! Midway Bell: progression
-Mario Zone 2 Midway Bell: unknown
+Mario Zone 2 Midway Bell: filler
 Mario Zone 3 - Beware: Jagged Spikes Midway Bell: progression
 Mario Zone 3 Midway Bell: filler
 Mario Zone 4 - Three Mean Pigs! Midway Bell: progression
@@ -275,7 +275,7 @@ Pumpkin Zone 2 - Cyclops Course Midway Bell: unknown
 Pumpkin Zone 2 Midway Bell: progression
 Pumpkin Zone 3 Midway Bell: progression
 Pumpkin Zone 4 - Witch's Mansion Midway Bell: unknown
-Pumpkin Zone 4 Midway Bell: unknown
+Pumpkin Zone 4 Midway Bell: filler
 Pumpkin Zone Progression x2: unknown
 Pumpkin Zone Progression: progression
 Pumpkin Zone Secret 1: progression
@@ -300,10 +300,10 @@ Tree Zone Progression: progression
 Tree Zone Secret: progression
 Turtle Coin: mcguffin
 Turtle Zone 1 - Cheep Cheep Course Midway Bell: unknown
-Turtle Zone 1 Midway Bell: unknown
+Turtle Zone 1 Midway Bell: filler
 Turtle Zone 2 - Turtle Zone Midway Bell: progression
 Turtle Zone 2 Midway Bell: progression
-Turtle Zone 3 Midway Bell: unknown
+Turtle Zone 3 Midway Bell: filler
 Turtle Zone Progression x2: unknown
 Turtle Zone Progression: progression
 Turtle Zone Secret: progression
