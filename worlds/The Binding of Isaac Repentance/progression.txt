@@ -37,9 +37,9 @@ Bag Of Crafting: unknown
 Ball Of Bandages: unknown
 Ball Of Tar: unknown
 Bar Of Soap: unknown
-Battery: unknown
 Battery Bum Item: unknown
 Battery Pack: unknown
+Battery: unknown
 Bbf: unknown
 Bean: unknown
 Beggar Item: unknown
@@ -90,8 +90,8 @@ Bomb Bag: unknown
 Bomb Bum Item: unknown
 Bomber Boy: unknown
 Bone Spurs: unknown
-Book Of Belial: unknown
 Book Of Belial Passive: unknown
+Book Of Belial: unknown
 Book Of Revelations: unknown
 Book Of Secrets: unknown
 Book Of Shadows: unknown
@@ -103,14 +103,14 @@ Boomerang: unknown
 Booster Pack: unknown
 Boss Item: useful
 Bot Fly: unknown
-Box: unknown
 Box Of Friends: unknown
 Box Of Spiders: unknown
+Box: unknown
 Bozo: unknown
 Breakfast: unknown
 Breath Of Life: unknown
-Brimstone: unknown
 Brimstone Bombs: unknown
+Brimstone: unknown
 Brittle Bones: unknown
 Broken Glass Cannon: unknown
 Broken Modem: unknown
@@ -178,10 +178,10 @@ Curse Room Item: useful
 Curse Trap: trap
 Cursed Eye: unknown
 D Infinity: unknown
-D1: unknown
-D10: unknown
 D100: unknown
+D10: unknown
 D12: unknown
+D1: unknown
 D20: unknown
 D4: unknown
 D6: unknown
@@ -192,8 +192,8 @@ Dads Key: unknown
 Dads Lost Coin: unknown
 Dads Note: unknown
 Dads Ring: unknown
-Damocles: unknown
 Damocles Passive: unknown
+Damocles: unknown
 Dark Arts: unknown
 Dark Bum: unknown
 Dark Matter: unknown
@@ -321,8 +321,8 @@ Guppys Tail: unknown
 Habit: unknown
 Haemolacria: unknown
 Hallowed Ground: unknown
-Halo: unknown
 Halo Of Flies: unknown
+Halo: unknown
 Harlequin Baby: unknown
 Head Of Krampus: unknown
 Head Of The Keeper: unknown
@@ -349,8 +349,8 @@ Immaculate Conception: unknown
 Immaculate Heart: unknown
 Incubus: unknown
 Infamy: unknown
-Infestation: unknown
 Infestation 2: unknown
+Infestation: unknown
 Inner Child: unknown
 Inner Eye: unknown
 Intruder: unknown
@@ -444,8 +444,8 @@ Marrow: unknown
 Mars: unknown
 Match Book: unknown
 Maw Of The Void: unknown
-Meat: unknown
 Meat Cleaver: unknown
+Meat: unknown
 Mega Bean: unknown
 Mega Blast: unknown
 Mega Mush: unknown
@@ -593,8 +593,8 @@ Remote Detonator: unknown
 Restock: unknown
 Retro Vision Trap: trap
 Revelation: unknown
-Robo Baby: unknown
 Robo Baby 2: unknown
+Robo Baby: unknown
 Rock Bottom: unknown
 Rocket In A Jar: unknown
 Roid Rage: unknown
@@ -653,8 +653,8 @@ Smelter: unknown
 Snack: unknown
 Socks: unknown
 Sol: unknown
-Soul: unknown
 Soul Locket: unknown
+Soul: unknown
 Soy Milk: unknown
 Spear Of Destiny: unknown
 Speed Ball: unknown
@@ -701,14 +701,14 @@ Taurus: unknown
 Tear Detonator: unknown
 Tech 5: unknown
 Tech X: unknown
-Technology: unknown
 Technology 2: unknown
 Technology Zero: unknown
+Technology: unknown
 Telekinesis: unknown
 Telepathy Book: unknown
-Teleport: unknown
 Teleport 2: unknown
 Teleport Trap: trap
+Teleport: unknown
 Terra: unknown
 The Jar: unknown
 The Nail: unknown
@@ -750,8 +750,8 @@ Void: unknown
 Voodoo Head: unknown
 Wafer: unknown
 Wait What: unknown
-Wavy Cap: unknown
 Wavy Cap Trap: trap
+Wavy Cap: unknown
 We Need To Go Deeper: unknown
 White Pony: unknown
 Whore Of Babylon: unknown
