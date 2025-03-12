@@ -1,123 +1,36 @@
-Teddiursa: progression
-Ledyba: progression
-Poochyena: unknown
-Houndour: unknown
-Spheal: unknown
-Baltoy: unknown
-Mareep: unknown
-Gulpin: unknown
-Seedot: unknown
-Spinarak: unknown
-Numel: unknown
-Carvanha: unknown
-Shroomish: unknown
-Delcatty: unknown
-Voltorb: progression
-Makuhita: unknown
-Vulpix: unknown
-Duskull: unknown
-Ralts: unknown
-Mawile: unknown
-Snorunt: unknown
-Pineco: progression
-Natu: progression
-Roselia: unknown
-Meowth: unknown
-Swinub: progression
-Spearow: unknown
-Grimer: unknown
-Seel: unknown
-Lunatone: progression
-Zangoose: unknown
-Nosepass: unknown
-Togepi: progression
-Paras: unknown
-Growlithe: unknown
-Shellder: unknown
-Beedrill: unknown
-Pidgeotto: progression
-Tangela: unknown
-Butterfree: progression
-Magneton: useful
-Venomoth: progression
-Weepinbell: unknown
-Arbok: unknown
-Primeape: unknown
-Hypno: unknown
-Raticate: unknown
-Golduck: unknown
-Sableye: unknown
-Dodrio: progression
-Farfetch'd: unknown
+10 Poke Snacks: unknown
+2 Antidotes: filler
+2 Burn Heals: filler
+2 Ethers: unknown
+2 Full Heals: unknown
+2 Full Restores: unknown
+2 Hyper Potions: unknown
+2 Max Potions: unknown
+2 PP Ups: unknown
+2 Revives: unknown
+2 White Herbs: unknown
+3 Full Heals: unknown
+3 Great Balls: unknown
+3 Hyper Potions: unknown
+3 Max Ethers: filler
+3 Poke Balls: unknown
+3 Potions: unknown
+3 Rare Candies: unknown
+3 Super Potions: unknown
+3 Timer Balls: unknown
+3 Ultra Balls: unknown
+4 Full Heals: unknown
+5 Poke Balls: unknown
+5 Ultra Balls: unknown
 Altaria: unknown
-Kangaskhan: progression
-Banette: unknown
-Magmar: unknown
-Pinsir: progression
-Magcargo: unknown
-Rapidash: unknown
-Hitmonchan: unknown
-Hitmonlee: unknown
-Lickitung: unknown
-Scyther: unknown
-Chansey: unknown
-Solrock: unknown
-Starmie: progression
-Electabuzz: unknown
-Swellow: unknown
-Snorlax: unknown
-Poliwrath: progression
-Mr. Mime: unknown
-Dugtrio: unknown
-Manectric: unknown
-Salamence: progression
-Marowak: unknown
-Lapras: unknown
-Lugia: progression
-Zapdos: unknown
-Articuno: progression
-Moltres: progression
-Tauros: unknown
-Rhydon: unknown
-Exeggutor: unknown
-Dragonite: progression
+Amulet Coin: unknown
+Antidote: filler
+Arbok: unknown
 Aron: progression
-Gligar: unknown
-Hoppip: unknown
-Larvitar: unknown
-Meditite: unknown
-Phanpy: unknown
-Sandshrew: unknown
-Shuckle: unknown
-Surskit: progression
-Trapinch: progression
-Wooper: progression
-Zubat: unknown
-Bonsly Bingo Card: progression
-Charmander Bingo Card: unknown
-Dragonair Bingo Card: unknown
-Golduck Bingo Card: unknown
-Houndoom Bingo Card: unknown
-Lotad Bingo Card: unknown
-Magikarp Bingo Card: progression
-Nidorino Bingo Card: unknown
-Pikachu Bingo Card: unknown
-Scyther Bingo Card: unknown
-Sudowoodo Bingo Card: progression
-Cologne Case: unknown
-Gonzap's Key: progression
-Krane Memo 1: unknown
-Krane Memo 2: unknown
-Krane Memo 3: unknown
-Krane Memo 4: unknown
-Krane Memo 5: filler
-Miror Radar: progression
-Pregym Pass: unknown
-Progressive Key: progression
-Pyrite Colosseum Pass: unknown
-Realgam Colosseum Pass: unknown
-Shadow Pokemon List: unknown
-Spot Monitor: progression
+Articuno: progression
+Awakening: filler
+Baltoy: unknown
+Banette: unknown
 Battle CD 01: unknown
 Battle CD 02: unknown
 Battle CD 03: unknown
@@ -168,6 +81,145 @@ Battle CD 47: unknown
 Battle CD 48: filler
 Battle CD 49: unknown
 Battle CD 50: filler
+Beedrill: unknown
+Bonsly Bingo Card: progression
+Burn Heal: filler
+Butterfree: progression
+Carbos: filler
+Carvanha: unknown
+Chansey: unknown
+Charmander Bingo Card: unknown
+Cologne Case: unknown
+Delcatty: unknown
+Dodrio: progression
+Dragonair Bingo Card: unknown
+Dragonite: progression
+Dugtrio: unknown
+Duskull: unknown
+Eevolution Stone: unknown
+Electabuzz: unknown
+Elixir: filler
+Ether: filler
+Exeggutor: unknown
+Experience Share: unknown
+Farfetch'd: unknown
+Fire Stone: filler
+Focus Band: unknown
+Full Heal: useful
+Full Restore: filler
+Gligar: unknown
+Golduck Bingo Card: unknown
+Golduck: unknown
+Gonzap's Key: progression
+Great Ball: useful
+Grimer: unknown
+Growlithe: unknown
+Gulpin: unknown
+HP Up: unknown
+Hitmonchan: unknown
+Hitmonlee: unknown
+Hoppip: unknown
+Houndoom Bingo Card: unknown
+Houndour: unknown
+Hyper Potion: useful
+Hypno: unknown
+Ice Heal: filler
+Iron: unknown
+Kangaskhan: progression
+Krane Memo 1: unknown
+Krane Memo 2: unknown
+Krane Memo 3: unknown
+Krane Memo 4: unknown
+Krane Memo 5: filler
+Lapras: unknown
+Larvitar: unknown
+Leaf Stone: useful
+Ledyba: progression
+Leftovers: unknown
+Lickitung: unknown
+Lotad Bingo Card: unknown
+Lucky Egg: unknown
+Lugia: progression
+Lum Berry: unknown
+Lunatone: progression
+Luxury Ball: unknown
+Macho Brace: unknown
+Magcargo: unknown
+Magikarp Bingo Card: progression
+Magmar: unknown
+Magneton: useful
+Makuhita: unknown
+Manectric: unknown
+Mareep: unknown
+Marowak: unknown
+Master Ball: unknown
+Mawile: unknown
+Max Elixir: unknown
+Max Ether: filler
+Max Potion: unknown
+Max Revive: unknown
+Meditite: unknown
+Meowth: unknown
+Miror B's Afro: filler
+Miror Radar: progression
+Moltres: progression
+Moomoo Milk: useful
+Mr. Mime: unknown
+Natu: progression
+Nidorino Bingo Card: unknown
+Nosepass: unknown
+Numel: unknown
+PP Max: unknown
+PP Up: filler
+Paralyze Heal: filler
+Paras: unknown
+Phanpy: unknown
+Pidgeotto: progression
+Pikachu Bingo Card: unknown
+Pineco: progression
+Pinsir: progression
+Poke Ball: filler
+Poliwrath: progression
+Poochyena: unknown
+Potion: filler
+Pregym Pass: unknown
+Primeape: unknown
+Progressive Key: progression
+Protein: filler
+Pyrite Colosseum Pass: unknown
+Ralts: unknown
+Rapidash: unknown
+Rare Candy: useful
+Raticate: unknown
+Realgam Colosseum Pass: unknown
+Revive: filler
+Rhydon: unknown
+Roselia: unknown
+Sableye: unknown
+Salamence: progression
+Sandshrew: unknown
+Scyther Bingo Card: unknown
+Scyther: unknown
+Seedot: unknown
+Seel: unknown
+Shadow Pokemon List: unknown
+Shellder: unknown
+Shroomish: unknown
+Shuckle: unknown
+Snorlax: unknown
+Snorunt: unknown
+Solrock: unknown
+Soothe Bell: unknown
+Spearow: unknown
+Spheal: unknown
+Spinarak: unknown
+Spot Monitor: progression
+Starmie: progression
+Sudowoodo Bingo Card: progression
+Super Potion: filler
+Surskit: progression
+Swellow: unknown
+Swinub: progression
 TM01 Focus Punch: unknown
 TM02 Dragon Claw: unknown
 TM03 Water Pulse: unknown
@@ -212,73 +264,21 @@ TM47 Steel Wing: unknown
 TM48 Skill Swap: unknown
 TM49 Snatch: unknown
 TM50 Overheat: unknown
-Amulet Coin: unknown
-Antidote: filler
-Awakening: filler
-Burn Heal: filler
-Carbos: filler
-Elixir: filler
-Ether: filler
-Experience Share: unknown
-Fire Stone: filler
-Focus Band: unknown
-Full Heal: useful
-Full Restore: filler
-Great Ball: useful
-HP Up: unknown
-Hyper Potion: useful
-Ice Heal: filler
-Iron: unknown
-Leaf Stone: useful
-Leftovers: unknown
-Lucky Egg: unknown
-Lum Berry: unknown
-Luxury Ball: unknown
-Macho Brace: unknown
-Master Ball: unknown
-Max Elixir: unknown
-Max Ether: filler
-Max Potion: unknown
-Max Revive: unknown
-Moomoo Milk: useful
-Paralyze Heal: filler
-Poke Ball: filler
-Potion: filler
-PP Max: unknown
-PP Up: filler
-Protein: filler
-Rare Candy: useful
-Revive: filler
-Soothe Bell: unknown
-Super Potion: filler
+Tangela: unknown
+Tauros: unknown
+Teddiursa: progression
 Thunderstone: filler
+Togepi: progression
+Trapinch: progression
 Ultra Ball: unknown
+Venomoth: progression
+Voltorb: progression
+Vulpix: unknown
 Water Stone: unknown
+Weepinbell: unknown
+Wooper: progression
 Yellow Flute: filler
+Zangoose: unknown
+Zapdos: unknown
 Zinc: unknown
-2 Antidotes: filler
-2 Burn Heals: filler
-2 Ethers: unknown
-2 Full Heals: unknown
-2 Full Restores: unknown
-2 Hyper Potions: unknown
-2 Max Potions: unknown
-2 PP Ups: unknown
-2 Revives: unknown
-2 White Herbs: unknown
-3 Full Heals: unknown
-3 Great Balls: unknown
-3 Hyper Potions: unknown
-3 Max Ethers: filler
-3 Potions: unknown
-3 Poke Balls: unknown
-3 Rare Candies: unknown
-3 Super Potions: unknown
-3 Timer Balls: unknown
-3 Ultra Balls: unknown
-4 Full Heals: unknown
-5 Poke Balls: unknown
-5 Ultra Balls: unknown
-10 Poke Snacks: unknown
-Eevolution Stone: unknown
-Miror B's Afro: filler
+Zubat: unknown
