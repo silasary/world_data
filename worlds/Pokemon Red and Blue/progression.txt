@@ -1,93 +1,16 @@
-Master Ball: useful
-Ultra Ball: filler
-Great Ball: filler
-Poke Ball: filler
-Town Map: progression
-Bicycle: progression
-Pokedex: progression
-Moon Stone: progression
-Antidote: filler
-Burn Heal: filler
-Ice Heal: filler
-Awakening: filler
-Paralyze Heal: filler
-Full Restore: filler
-Max Potion: filler
-Hyper Potion: filler
-Super Potion: filler
-Potion: filler
-Boulder Badge: progression
-Cascade Badge: progression
-Thunder Badge: progression
-Rainbow Badge: progression
-Soul Badge: progression
-Marsh Badge: progression
-Volcano Badge: progression
-Earth Badge: progression
-Escape Rope: filler
-Repel: filler
-Old Amber: progression
-Fire Stone: progression
-Thunder Stone: progression
-Water Stone: progression
-HP Up: filler
-Protein: filler
-Iron: filler
-Carbos: filler
-Calcium: filler
-Rare Candy: filler
-Dome Fossil: progression
-Helix Fossil: progression
-Secret Key: progression
-Bike Voucher: progression
-X Accuracy: filler
-Leaf Stone: progression
-Card Key: progression
-Nugget: filler
-Poke Doll: filler
-Full Heal: filler
-Revive: filler
-Max Revive: filler
-Guard Spec: filler
-Super Repel: filler
-Max Repel: filler
-Dire Hit: filler
 10 Coins: filler
-Fresh Water: filler
-Soda Pop: filler
-Lemonade: filler
-S.S. Ticket: progression
-Gold Teeth: progression
-X Attack: filler
-X Defend: filler
-X Speed: filler
-X Special: filler
-Coin Case: progression
-Oak's Parcel: progression
-Item Finder: progression
-Silph Scope: progression
-Poke Flute: progression
-Lift Key: progression
-Exp. All: progression
-Old Rod: progression
-Good Rod: progression
-Super Rod: progression
-PP Up: filler
-Ether: filler
-Max Ether: filler
-Elixir: filler
-Max Elixir: filler
-Tea: progression
-Plant Key: progression
-Mansion Key: progression
-Hideout Key: progression
-Safari Pass: progression
-Poison Trap: trap
-Paralyze Trap: trap
-Ice Trap: trap
-Fire Trap: trap
-20 Coins: filler
 100 Coins: filler
+20 Coins: filler
+Antidote: filler
+Awakening: filler
+Bicycle: progression
+Bike Voucher: progression
+Boulder Badge: progression
+Burn Heal: filler
+Calcium: filler
+Carbos: filler
+Card Key 10F: progression
+Card Key 11F: progression
 Card Key 2F: progression
 Card Key 3F: progression
 Card Key 4F: progression
@@ -96,115 +19,192 @@ Card Key 6F: progression
 Card Key 7F: progression
 Card Key 8F: progression
 Card Key 9F: progression
-Card Key 10F: progression
-Card Key 11F: progression
-Progressive Card Key: progression
-Sleep Trap: trap
+Card Key: progression
+Cascade Badge: progression
+Coin Case: progression
+Dire Hit: filler
+Dome Fossil: progression
+Earth Badge: progression
+Elixir: filler
+Escape Rope: filler
+Ether: filler
+Exp. All: progression
+Fire Stone: progression
+Fire Trap: trap
+Flippers: progression
+Fresh Water: filler
+Full Heal: filler
+Full Restore: filler
+Gold Teeth: progression
+Good Rod: progression
+Great Ball: filler
+Guard Spec: filler
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Flash: progression
-TM01 Mega Punch: useful
-TM02 Razor Wind: filler
-TM03 Swords Dance: useful
-TM04 Whirlwind: filler
-TM05 Mega Kick: useful
-TM06 Toxic: useful
-TM07 Horn Drill: useful
-TM08 Body Slam: useful
-TM09 Take Down: useful
-TM10 Double Edge: useful
-TM11 Bubble Beam: useful
-TM12 Water Gun: filler
-TM13 Ice Beam: useful
-TM14 Blizzard: useful
-TM15 Hyper Beam: useful
-TM16 Pay Day: useful
-TM17 Submission: useful
-TM18 Counter: filler
-TM19 Seismic Toss: useful
-TM20 Rage: useful
-TM21 Mega Drain: useful
-TM22 Solar Beam: useful
-TM23 Dragon Rage: useful
-TM24 Thunderbolt: useful
-TM25 Thunder: useful
-TM26 Earthquake: useful
-TM27 Fissure: useful
-TM28 Dig: useful
-TM29 Psychic: useful
-TM30 Teleport: filler
-TM31 Mimic: useful
-TM32 Double Team: useful
-TM33 Reflect: useful
-TM34 Bide: filler
-TM35 Metronome: useful
-TM36 Self-Destruct: useful
-TM37 Egg Bomb: useful
-TM38 Fire Blast: useful
-TM39 Swift: useful
-TM40 Skull Bash: filler
-TM41 Soft-Boiled: useful
-TM42 Dream Eater: useful
-TM43 Sky Attack: filler
-TM44 Rest: useful
-TM45 Thunder Wave: useful
-TM46 Psywave: filler
-TM47 Explosion: useful
-TM48 Rock Slide: useful
-TM49 Tri Attack: useful
-TM50 Substitute: useful
-TM01: useful
-TM02: useful
-TM03: useful
-TM04: useful
-TM05: useful
-TM06: useful
-TM07: useful
-TM08: useful
-TM09: useful
-TM10: useful
-TM11: useful
-TM12: useful
-TM13: useful
-TM14: useful
-TM15: useful
-TM16: useful
-TM17: useful
-TM18: useful
-TM19: useful
-TM20: useful
-TM21: useful
-TM22: useful
-TM23: useful
-TM24: useful
-TM25: useful
-TM26: useful
-TM27: useful
-TM28: useful
-TM29: useful
-TM30: useful
-TM31: useful
-TM32: useful
-TM33: useful
-TM34: useful
-TM35: useful
-TM36: useful
-TM37: useful
-TM38: useful
-TM39: useful
-TM40: useful
-TM41: useful
-TM42: useful
-TM43: useful
-TM44: useful
-TM45: useful
-TM46: useful
-TM47: useful
-TM48: useful
-TM49: useful
-TM50: useful
-Flippers: progression
-Safari Ball: filler
+HP Up: filler
+Helix Fossil: progression
+Hideout Key: progression
+Hyper Potion: filler
+Ice Heal: filler
+Ice Trap: trap
+Iron: filler
+Item Finder: progression
 Laptop: useful
+Leaf Stone: progression
+Lemonade: filler
+Lift Key: progression
+Mansion Key: progression
+Marsh Badge: progression
+Master Ball: useful
+Max Elixir: filler
+Max Ether: filler
+Max Potion: filler
+Max Repel: filler
+Max Revive: filler
+Moon Stone: progression
+Nugget: filler
+Oak's Parcel: progression
+Old Amber: progression
+Old Rod: progression
+PP Up: filler
+Paralyze Heal: filler
+Paralyze Trap: trap
+Plant Key: progression
+Poison Trap: trap
+Poke Ball: filler
+Poke Doll: filler
+Poke Flute: progression
+Pokedex: progression
+Potion: filler
+Progressive Card Key: progression
+Protein: filler
+Rainbow Badge: progression
+Rare Candy: filler
+Repel: filler
+Revive: filler
+S.S. Ticket: progression
+Safari Ball: filler
+Safari Pass: progression
+Secret Key: progression
+Silph Scope: progression
+Sleep Trap: trap
+Soda Pop: filler
+Soul Badge: progression
+Super Potion: filler
+Super Repel: filler
+Super Rod: progression
+TM01 Mega Punch: useful
+TM01: useful
+TM02 Razor Wind: filler
+TM02: useful
+TM03 Swords Dance: useful
+TM03: useful
+TM04 Whirlwind: filler
+TM04: useful
+TM05 Mega Kick: useful
+TM05: useful
+TM06 Toxic: useful
+TM06: useful
+TM07 Horn Drill: useful
+TM07: useful
+TM08 Body Slam: useful
+TM08: useful
+TM09 Take Down: useful
+TM09: useful
+TM10 Double Edge: useful
+TM10: useful
+TM11 Bubble Beam: useful
+TM11: useful
+TM12 Water Gun: filler
+TM12: useful
+TM13 Ice Beam: useful
+TM13: useful
+TM14 Blizzard: useful
+TM14: useful
+TM15 Hyper Beam: useful
+TM15: useful
+TM16 Pay Day: useful
+TM16: useful
+TM17 Submission: useful
+TM17: useful
+TM18 Counter: filler
+TM18: useful
+TM19 Seismic Toss: useful
+TM19: useful
+TM20 Rage: useful
+TM20: useful
+TM21 Mega Drain: useful
+TM21: useful
+TM22 Solar Beam: useful
+TM22: useful
+TM23 Dragon Rage: useful
+TM23: useful
+TM24 Thunderbolt: useful
+TM24: useful
+TM25 Thunder: useful
+TM25: useful
+TM26 Earthquake: useful
+TM26: useful
+TM27 Fissure: useful
+TM27: useful
+TM28 Dig: useful
+TM28: useful
+TM29 Psychic: useful
+TM29: useful
+TM30 Teleport: filler
+TM30: useful
+TM31 Mimic: useful
+TM31: useful
+TM32 Double Team: useful
+TM32: useful
+TM33 Reflect: useful
+TM33: useful
+TM34 Bide: filler
+TM34: useful
+TM35 Metronome: useful
+TM35: useful
+TM36 Self-Destruct: useful
+TM36: useful
+TM37 Egg Bomb: useful
+TM37: useful
+TM38 Fire Blast: useful
+TM38: useful
+TM39 Swift: useful
+TM39: useful
+TM40 Skull Bash: filler
+TM40: useful
+TM41 Soft-Boiled: useful
+TM41: useful
+TM42 Dream Eater: useful
+TM42: useful
+TM43 Sky Attack: filler
+TM43: useful
+TM44 Rest: useful
+TM44: useful
+TM45 Thunder Wave: useful
+TM45: useful
+TM46 Psywave: filler
+TM46: useful
+TM47 Explosion: useful
+TM47: useful
+TM48 Rock Slide: useful
+TM48: useful
+TM49 Tri Attack: useful
+TM49: useful
+TM50 Substitute: useful
+TM50: useful
+Tea: progression
+Thunder Badge: progression
+Thunder Stone: progression
+Town Map: progression
+Ultra Ball: filler
+Volcano Badge: progression
+Water Stone: progression
+X Accuracy: filler
+X Attack: filler
+X Defend: filler
+X Special: filler
+X Speed: filler
