@@ -1,203 +1,203 @@
-Black: progression
-Red: progression
-Blue: progression
-Yellow: progression
-Green: progression
-Orange: progression
-Gray: progression
-Brown: progression
-Purple: progression
-Starting Room - Back Right Door: progression
-Starting Room - Rhyme Room Entrance: progression
-Hidden Room - Dead End Door: progression
-Hidden Room - Knight Night Entrance: progression
-The Seeker - Entrance: progression
-Hidden Room - Rhyme Room Entrance: progression
-Second Room - Exit Door: progression
-Hub Room - Crossroads Entrance: progression
-Hub Room - Tenacious Entrance: progression
-Hub Room - Shortcut to Hedge Maze: progression
-Hub Room - Near RAT Door: progression
-The Traveled - Entrance: progression
-Pilgrim Room - Sun Painting: progression
-Pilgrim Room - Shortcut to The Seeker: progression
-Crossroads - Tenacious Entrance: progression
-The Discerning - Entrance: progression
-Crossroads - Tower Entrance: progression
-Crossroads - Tower Back Entrance: progression
-Crossroads - Words Sword Door: progression
-Crossroads - Eye Wall: progression
-Crossroads - Hollow Hallway: progression
-Crossroads - Roof Access: progression
-Lost Area - Exit: progression
-Amen Name Area - Exit: progression
-The Tenacious - Shortcut to Hub Room: progression
-Symmetry Room - Near Far Door: progression
-Symmetry Room - Warts Straw Door: progression
-Symmetry Room - Leaf Feel Door: progression
-Outside The Agreeable - Tenacious Entrance: progression
-Outside The Agreeable - Black Door: progression
-The Agreeable - Entrance: progression
-Starting Room - Street Painting: progression
-Outside The Agreeable - Purple Barrier: progression
-Outside The Agreeable - Hallway Door: unknown
-Outside The Agreeable - Lookout Entrance: progression
-Dread Hallway - Tenacious Entrance: progression
-The Agreeable - Shortcut to Hedge Maze: progression
-The Perceptive - Entrance: progression
-Starting Room - Hedge Maze Painting: progression
-The Observant - Entrance: progression
-The Fearless (First Floor) - Second Floor: progression
-The Fearless (Second Floor) - Third Floor: progression
-The Observant - Backside Door: progression
-The Observant - Stairs: progression
-The Incomparable - Eight Door: progression
-Orange Tower - Second Floor: progression
-Orange Tower - Third Floor: progression
-Orange Tower - Fourth Floor: progression
-Orange Tower - Fifth Floor: progression
-Orange Tower - Sixth Floor: progression
-Orange Tower - Seventh Floor: progression
-Orange Tower First Floor - Shortcut to Hub Room: progression
-Orange Tower First Floor - Salt Pepper Door: progression
-Orange Tower Third Floor - Red Barrier: progression
-Orange Tower Third Floor - Rhyme Room Entrance: progression
-Color Hunt - Orange Barrier: progression
-Orange Tower Fourth Floor - Hot Crusts Door: progression
-Orange Tower Fifth Floor - Welcome Back: progression
-Mastery: progression
-Starting Room - Flower Painting: progression
-Courtyard - Green Barrier: progression
-Courtyard - Backside Door: progression
-The Colorful - White Door: progression
-The Colorful - Black Door: progression
-The Colorful - Red Door: progression
-The Colorful - Yellow Door: progression
-The Colorful - Blue Door: progression
-The Colorful - Purple Door: progression
-The Colorful - Orange Door: progression
-The Colorful - Green Door: progression
-The Colorful - Brown Door: progression
-The Colorful - Gray Door: progression
-Welcome Back Area - Shortcut to Starting Room: progression
-Owl Hallway - Shortcut to Hedge Maze: progression
-Outside The Initiated - Shortcut to Hub Room: progression
-Outside The Initiated - Blue Barrier: progression
-Outside The Initiated - Orange Barrier: progression
-The Initiated - Entrance: progression
-Color Hunt - Green Barrier: progression
-Color Hunt - Purple Barrier: progression
-Champion's Rest - Entrance: progression
-Outside The Initiated - Eight Door: progression
-The Traveled - Color Hallways Entrance: progression
-The Bold - Entrance: progression
-Starting Room - Pencil Painting: progression
-The Steady - Entrance: progression
-The Undeterred - Entrance: progression
-Starting Room - Blue Painting: progression
-Outside The Undeterred - Green Painting: progression
-Outside The Undeterred - Twos: progression
-Outside The Undeterred - Threes: progression
-Outside The Undeterred - Number Hunt: progression
-Outside The Undeterred - Fours: progression
-Number Hunt - Fives: progression
-Number Hunt - Challenge Entrance: progression
-Number Hunt - Door to Directional Gallery: progression
-Number Hunt - Sixes: progression
-Number Hunt - Sevens: progression
-Number Hunt - Eights: progression
-Number Hunt - Nines: progression
-Outside The Undeterred - Zero Door: progression
-Directional Gallery - Shortcut to The Undeterred: progression
-Directional Gallery - Yellow Barrier: progression
-Color Hunt - Shortcut to The Steady: progression
-The Bearer - Entrance: progression
-The Bearer - Backside Door: progression
-The Bearer - Shortcut to Tower: progression
-Knight Night Room - Exit: progression
-The Artistic (Smiley) - Door to Panda: progression
-The Artistic (Panda) - Door to Lattice: progression
-The Artistic (Lattice) - Door to Apple: progression
-The Artistic (Apple) - Door to Smiley: progression
-The Eyes They See - Exit: progression
-The Wondrous - Entrance: progression
-Starting Room - Symmetry Painting: progression
-The Wondrous - Exit: progression
-Hallway Room (2) - Exit: progression
-Hallway Room (3) - Exit: progression
-Hallway Room (4) - Exit: progression
-The Wanderer - Entrance: progression
-Outside The Wanderer - Tower Entrance: progression
-Art Gallery - Second Floor: progression
-Art Gallery - Third Floor: progression
-Art Gallery - Fourth Floor: progression
-Art Gallery - Fifth Floor: progression
-Orange Tower Fifth Floor - Quadruple Intersection: progression
-Rhyme Room (Smiley) - Door to Target: progression
-Rhyme Room (Cross) - Exit: progression
-Rhyme Room (Circle) - Door to Smiley: progression
-Rhyme Room (Looped Square) - Door to Circle: progression
-Rhyme Room (Looped Square) - Door to Cross: progression
-Rhyme Room (Looped Square) - Door to Target: progression
-Rhyme Room (Target) - Door to Cross: progression
-Room Room - Cellar Exit: progression
-The Wise - Entrance: progression
-The Scientific - Entrance: progression
-Challenge Room - Welcome Door: progression
-Rhyme Room Doors: progression
-Dead End Area Access: progression
-Entrances to The Tenacious: progression
-Hedge Maze Doors: progression
-Entrance to The Traveled: progression
-Crossroads - Tower Entrances: progression
-Crossroads Doors: progression
-Symmetry Doors: progression
-Color Hunt Barriers: progression
-Hallway Room Doors: progression
-Observant Doors: progression
-Fearless Doors: progression
-Backside Doors: progression
-Orange Tower First Floor - Shortcuts: progression
-Welcome Back Doors: progression
-Colorful Doors: progression
-Directional Gallery Doors: progression
-Artistic Doors: progression
-:): filler
-The Feeling of Being Lost: filler
-Wanderlust: filler
-Empty White Hallways: filler
-Slowness Trap: trap
-Iceland Trap: trap
-Atbash Trap: trap
-Puzzle Skip: useful
-Progressive Hallway Room: progression
-Progressive Fearless: progression
-Progressive Orange Tower: progression
-Progressive Colorful: progression
-Progressive Art Gallery: progression
 1 Sunwarp: progression
 2 Sunwarp: progression
 3 Sunwarp: progression
 4 Sunwarp: progression
 5 Sunwarp: progression
 6 Sunwarp: progression
-Compass Room - Lookout Entrance: progression
-Hallway Room (1) - Exit: progression
-Sunwarps: progression
-Progressive Pilgrimage: progression
-Color Hunt - EXIT (Panel): progression
-Outside The Wanderer - WANDERLUST (Panel): progression
-Tenacious Entrance Panels: progression
-Compass Room Panels: progression
-Hub Room - TRACE (Panel): progression
-The Perceptive - GAZE (Panel): progression
+:): filler
+Amen Name Area - Exit: progression
+Art Gallery - Fifth Floor: progression
+Art Gallery - Fourth Floor: progression
+Art Gallery - Second Floor: progression
+Art Gallery - Third Floor: progression
+Artistic Doors: progression
+Atbash Trap: trap
+Backside Doors: progression
 Backside Entrance Panels: progression
-Outside The Initiated - OXEN (Panel): progression
-Outside The Wondrous - SHRINK (Panel): progression
-Starting Room - HIDDEN (Panel): progression
+Black: progression
+Blue: progression
+Brown: progression
+Challenge Room - Welcome Door: progression
+Champion's Rest - Entrance: progression
+Color Hunt - EXIT (Panel): progression
+Color Hunt - Green Barrier: progression
+Color Hunt - Orange Barrier: progression
+Color Hunt - Purple Barrier: progression
+Color Hunt - Shortcut to The Steady: progression
+Color Hunt Barriers: progression
+Colorful Doors: progression
+Compass Room - Lookout Entrance: progression
+Compass Room Panels: progression
+Courtyard - Backside Door: progression
+Courtyard - Green Barrier: progression
+Crossroads - Eye Wall: progression
+Crossroads - Hollow Hallway: progression
 Crossroads - NOPE (Panel): progression
-Giant Seven Panels: progression
-Hallway Room Panels: progression
-Outside The Undeterred - PEN (Panel): progression
-Progressive Number Hunt: progression
+Crossroads - Roof Access: progression
+Crossroads - Tenacious Entrance: progression
+Crossroads - Tower Back Entrance: progression
+Crossroads - Tower Entrance: progression
+Crossroads - Tower Entrances: progression
+Crossroads - Words Sword Door: progression
+Crossroads Doors: progression
+Dead End Area Access: progression
+Directional Gallery - Shortcut to The Undeterred: progression
 Directional Gallery - TURN, LEARN (Panels): progression
+Directional Gallery - Yellow Barrier: progression
+Directional Gallery Doors: progression
+Dread Hallway - Tenacious Entrance: progression
+Empty White Hallways: filler
+Entrance to The Traveled: progression
+Entrances to The Tenacious: progression
+Fearless Doors: progression
+Giant Seven Panels: progression
+Gray: progression
+Green: progression
+Hallway Room (1) - Exit: progression
+Hallway Room (2) - Exit: progression
+Hallway Room (3) - Exit: progression
+Hallway Room (4) - Exit: progression
+Hallway Room Doors: progression
+Hallway Room Panels: progression
+Hedge Maze Doors: progression
+Hidden Room - Dead End Door: progression
+Hidden Room - Knight Night Entrance: progression
+Hidden Room - Rhyme Room Entrance: progression
+Hub Room - Crossroads Entrance: progression
+Hub Room - Near RAT Door: progression
+Hub Room - Shortcut to Hedge Maze: progression
+Hub Room - TRACE (Panel): progression
+Hub Room - Tenacious Entrance: progression
+Iceland Trap: trap
+Knight Night Room - Exit: progression
+Lost Area - Exit: progression
+Mastery: progression
+Number Hunt - Challenge Entrance: progression
+Number Hunt - Door to Directional Gallery: progression
+Number Hunt - Eights: progression
+Number Hunt - Fives: progression
+Number Hunt - Nines: progression
+Number Hunt - Sevens: progression
+Number Hunt - Sixes: progression
+Observant Doors: progression
+Orange Tower - Fifth Floor: progression
+Orange Tower - Fourth Floor: progression
+Orange Tower - Second Floor: progression
+Orange Tower - Seventh Floor: progression
+Orange Tower - Sixth Floor: progression
+Orange Tower - Third Floor: progression
+Orange Tower Fifth Floor - Quadruple Intersection: progression
+Orange Tower Fifth Floor - Welcome Back: progression
+Orange Tower First Floor - Salt Pepper Door: progression
+Orange Tower First Floor - Shortcut to Hub Room: progression
+Orange Tower First Floor - Shortcuts: progression
+Orange Tower Fourth Floor - Hot Crusts Door: progression
+Orange Tower Third Floor - Red Barrier: progression
+Orange Tower Third Floor - Rhyme Room Entrance: progression
+Orange: progression
+Outside The Agreeable - Black Door: progression
+Outside The Agreeable - Hallway Door: unknown
+Outside The Agreeable - Lookout Entrance: progression
+Outside The Agreeable - Purple Barrier: progression
+Outside The Agreeable - Tenacious Entrance: progression
+Outside The Initiated - Blue Barrier: progression
+Outside The Initiated - Eight Door: progression
+Outside The Initiated - OXEN (Panel): progression
+Outside The Initiated - Orange Barrier: progression
+Outside The Initiated - Shortcut to Hub Room: progression
+Outside The Undeterred - Fours: progression
+Outside The Undeterred - Green Painting: progression
+Outside The Undeterred - Number Hunt: progression
+Outside The Undeterred - PEN (Panel): progression
+Outside The Undeterred - Threes: progression
+Outside The Undeterred - Twos: progression
+Outside The Undeterred - Zero Door: progression
+Outside The Wanderer - Tower Entrance: progression
+Outside The Wanderer - WANDERLUST (Panel): progression
+Outside The Wondrous - SHRINK (Panel): progression
+Owl Hallway - Shortcut to Hedge Maze: progression
+Pilgrim Room - Shortcut to The Seeker: progression
+Pilgrim Room - Sun Painting: progression
+Progressive Art Gallery: progression
+Progressive Colorful: progression
+Progressive Fearless: progression
+Progressive Hallway Room: progression
+Progressive Number Hunt: progression
+Progressive Orange Tower: progression
+Progressive Pilgrimage: progression
+Purple: progression
+Puzzle Skip: useful
+Red: progression
+Rhyme Room (Circle) - Door to Smiley: progression
+Rhyme Room (Cross) - Exit: progression
+Rhyme Room (Looped Square) - Door to Circle: progression
+Rhyme Room (Looped Square) - Door to Cross: progression
+Rhyme Room (Looped Square) - Door to Target: progression
+Rhyme Room (Smiley) - Door to Target: progression
+Rhyme Room (Target) - Door to Cross: progression
+Rhyme Room Doors: progression
+Room Room - Cellar Exit: progression
+Second Room - Exit Door: progression
+Slowness Trap: trap
+Starting Room - Back Right Door: progression
+Starting Room - Blue Painting: progression
+Starting Room - Flower Painting: progression
+Starting Room - HIDDEN (Panel): progression
+Starting Room - Hedge Maze Painting: progression
+Starting Room - Pencil Painting: progression
+Starting Room - Rhyme Room Entrance: progression
+Starting Room - Street Painting: progression
+Starting Room - Symmetry Painting: progression
+Sunwarps: progression
+Symmetry Doors: progression
+Symmetry Room - Leaf Feel Door: progression
+Symmetry Room - Near Far Door: progression
+Symmetry Room - Warts Straw Door: progression
+Tenacious Entrance Panels: progression
+The Agreeable - Entrance: progression
+The Agreeable - Shortcut to Hedge Maze: progression
+The Artistic (Apple) - Door to Smiley: progression
+The Artistic (Lattice) - Door to Apple: progression
+The Artistic (Panda) - Door to Lattice: progression
+The Artistic (Smiley) - Door to Panda: progression
+The Bearer - Backside Door: progression
+The Bearer - Entrance: progression
+The Bearer - Shortcut to Tower: progression
+The Bold - Entrance: progression
+The Colorful - Black Door: progression
+The Colorful - Blue Door: progression
+The Colorful - Brown Door: progression
+The Colorful - Gray Door: progression
+The Colorful - Green Door: progression
+The Colorful - Orange Door: progression
+The Colorful - Purple Door: progression
+The Colorful - Red Door: progression
+The Colorful - White Door: progression
+The Colorful - Yellow Door: progression
+The Discerning - Entrance: progression
+The Eyes They See - Exit: progression
+The Fearless (First Floor) - Second Floor: progression
+The Fearless (Second Floor) - Third Floor: progression
+The Feeling of Being Lost: filler
+The Incomparable - Eight Door: progression
+The Initiated - Entrance: progression
+The Observant - Backside Door: progression
+The Observant - Entrance: progression
+The Observant - Stairs: progression
+The Perceptive - Entrance: progression
+The Perceptive - GAZE (Panel): progression
+The Scientific - Entrance: progression
+The Seeker - Entrance: progression
+The Steady - Entrance: progression
+The Tenacious - Shortcut to Hub Room: progression
+The Traveled - Color Hallways Entrance: progression
+The Traveled - Entrance: progression
+The Undeterred - Entrance: progression
+The Wanderer - Entrance: progression
+The Wise - Entrance: progression
+The Wondrous - Entrance: progression
+The Wondrous - Exit: progression
+Wanderlust: filler
+Welcome Back Area - Shortcut to Starting Room: progression
+Welcome Back Doors: progression
+Yellow: progression
