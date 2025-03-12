@@ -624,7 +624,7 @@ Acid Spore Vents (Infested Missile Turret): unknown
 Calcified Armor (Infested Bunker): unknown
 Artillery Ducts (Bile Launcher): unknown
 Frightful Fleshwelder (Infested Siege Tank): unknown
-Additional Maximum Supply: unknown
+Additional Maximum Supply: filler
 Decreased Maximum Supply: trap
 Primordial Fury (Guardian): unknown
 Broodling Packing (Zerg): unknown
@@ -635,3 +635,4 @@ Healing Adaptation (Ultralisk/Tyrannozor): unknown
 Devouring Ones: unknown
 Rapid Hibernation (Infested Banshee): unknown
 Vespene Efficiency (Zerg): unknown
+Excavating Claws (Zerg): unknown
