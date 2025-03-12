@@ -1,65 +1,92 @@
-Progressive Undernet Rank: progression
-CACDCPas: progression
-CSciPass: progression
-CYokaPas: progression
-CBeacPas: progression
-WWW ID: progression
-OrderSys: useful
-ModTools: useful
-ExpMem: useful
-SpinWht: useful
-SpinPink: useful
-SpinYllw: useful
-SpinRed: useful
-SpinBlue: useful
-SpinGrn: useful
-SpinOrange: useful
-SpinPurple: useful
-SpinDark: useful
-HPMemory: useful
-RegUP1: filler
-RegUP2: useful
-RegUP3: useful
-Mr Famous' Wristband: filler
-SubMem: filler
-SubPET: progression
-Needle: progression
-PETCase: progression
-Hammer: progression
-Unlocker: useful
-Untrap: filler
-LockEnmy: filler
-MiniEnrg: filler
-FullEnrg: filler
-SneakRun: useful
+1 BugFrag: filler
+10 BugFrags: filler
+10000z: useful
+1000z: filler
+1200z: filler
+1400z: filler
+1600z: filler
+1800z: filler
+2000z: filler
+200z: filler
+30 BugFrags: filler
+30000z: useful
+3000z: filler
+50000z: useful
+500z: filler
+600z: filler
+800z: filler
+9000z: filler
+900z: filler
 AirShoes *: useful
 AirShot3 *: useful
+Airshoes: useful
+AlphaArmΩ V: useful
 AntiNavi M: useful
 AntiRecv B: filler
 AntiSword Y: useful
 Aqua+30 *: useful
+Attack+1 (Pink): filler
+Attack+1 (White): filler
 Aura F: useful
 BambooSword N: useful
 Barr100 E: useful
 Barr200 E: useful
 Barrier E: useful
 Barrier L: filler
+Bass+ X: useful
+BassGS X: useful
+BeastMan B: filler
+BeastMan V2 B: filler
+BeastMan V3 B: useful
 BlkBomb1 P: useful
 BlkBomb2 S: useful
+BowlMan B: filler
+BowlMan V2 B: filler
+BowlMan V3 B: useful
+BrkChrg: useful
+BubblMan B: filler
+BubblMan V2 B: filler
+BubblMan V3 B: useful
+Bubbler C: progression
+CACDCPas: progression
+CBeacPas: progression
+CSciPass: progression
+CYokaPas: progression
 Cannon C: filler
+Charge+1 (Pink): filler
+Charge+1 (White): filler
+Collect: useful
 CopyDmg *: filler
 CustSwrd Z: filler
+DarkAura A: useful
+DeltaRay Z: useful
+DesertMan D: filler
+DesertMan V2 D: filler
+DesertMan V3 D: useful
+DrillMan D: filler
+DrillMan V2 D: filler
+DrillMan V3 D: useful
 DynaWave V: progression
 ElecSwrd P: useful
+ExpMem: useful
 Fire+30 *: filler
 FireRat H: useful
 FireSwrd P: progression
+FlamMan F: filler
+FlamMan V2 F: filler
+FlamMan V3 F: useful
+FlashMan F: filler
+FlashMan V2 F: filler
+FlashMan V3 F: useful
+Fountain *: useful
 FstGauge *: useful
+FullEnrg: filler
 GaiaBlde *: useful
 Geddon1 *: filler
 Geddon1 D: filler
 Geddon3 U: useful
 Geyser B: useful
+GigFldr1: useful
 GrabBack K: progression
 GrabRvng A: filler
 GrabRvng Y: filler
@@ -67,26 +94,63 @@ GtStrght S: useful
 Guardian O: useful
 GutImpact H: useful
 GutImpct J: useful
-GutPunch E: filler
 GutPunch B: filler
+GutPunch E: filler
 GutStrgt Q: useful
+GutsMan G: filler
+GutsMan V2 G: filler
+GutsMan V3 G: useful
+HP+100 (Pink): filler
+HP+100 (Yellow): filler
+HP+200 (Yellow): useful
+HP+500 (Yellow): useful
+HPMemory: useful
 Hammer T: useful
+Hammer: progression
 HeatSide T: filler
 HeroSwrd P: useful
 HiCannon *: filler
 Hole *: useful
+HoleMetr H: progression
+HubBatc: useful
 IceStage *: filler
 Invis *: useful
 Jealousy J: filler
+Jungle: useful
+KingMan K: filler
+KingMan V2 K: filler
+KingMan V3 K: useful
 Lance S: useful
+LockEnmy: filler
 LongSwrd E: filler
 Magnum1 A: progression
+MetalMan M: filler
+MetalMan V2 M: filler
+MetalMan V3 M: useful
+MiniEnrg: filler
+ModTools: useful
+Mr Famous' Wristband: filler
 Muramasa M: useful
 Navi+40 *: filler
+Needle: progression
+OilBody: useful
+OrderSys: useful
+PETCase: progression
 Panic C: filler
 PanlOut3 *: filler
+Parasol: progression
+PlantMan P: filler
+PlantMan V2 P: filler
+PlantMan V3 P: useful
 Poltergeist G: filler
+Press: progression
 Prism Q: useful
+Progressive Undernet Rank: progression
+ProtoMan B: filler
+ProtoMan V2 B: filler
+ProtoMan V3 B: useful
+Punk P: useful
+QuickGge: useful
 Recov10 *: filler
 Recov120 *: useful
 Recov120 O: filler
@@ -96,17 +160,39 @@ Recov200 N: filler
 Recov30 *: progression
 Recov300 R: useful
 Recov50 G: filler
+RegUP1: filler
+RegUP2: useful
+RegUP3: useful
 Repair *: filler
 Repair A: filler
 Rockcube *: filler
+Roll R: filler
+Roll V2 R: filler
+Roll V3 R: useful
 Rook F: filler
 Salamndr *: useful
 SandStage C: filler
+SetSand: useful
+Shadow J: progression
+Shake1 S: progression
 SideGun S: filler
 Slasher B: useful
 SloGauge *: unknown
+SloGuage *: filler
 Snake D: useful
 Snctuary C: useful
+SneakRun: useful
+SonicWav W: progression
+Speed+1 (Yellow): filler
+SpinBlue: useful
+SpinDark: useful
+SpinGrn: useful
+SpinOrange: useful
+SpinPink: useful
+SpinPurple: useful
+SpinRed: useful
+SpinWht: useful
+SpinYllw: useful
 Spreader *: useful
 Spreader N: useful
 Spreader P: useful
@@ -116,110 +202,24 @@ StepSwrd M: useful
 StepSwrd N: useful
 StepSwrd O: useful
 StpCross S: useful
+SubMem: filler
+SubPET: progression
 Sword E: filler
 Team1 *: useful
 Team2 *: useful
 Thndrblt *: useful
 Tornado L: filler
-Fountain *: useful
+UnderSht: useful
+Unlocker: useful
+Untrap: filler
 VarSword B: useful
 VarSword F: useful
+WWW ID: progression
 WideSwrd C: progression
 WideSwrd E: filler
 WideSwrd L: filler
+WpnLV+1 (Pink): filler
+WpnLV+1 (White): filler
+WpnLV+1 (Yellow): filler
 Yo-Yo1 D: filler
 ZeusHammer Z: useful
-Bass+ X: useful
-DeltaRay Z: useful
-Punk P: useful
-DarkAura A: useful
-AlphaArmΩ V: useful
-SonicWav W: progression
-Bubbler C: progression
-Shake1 S: progression
-HoleMetr H: progression
-Shadow J: progression
-Roll R: filler
-Roll V2 R: filler
-Roll V3 R: useful
-GutsMan G: filler
-GutsMan V2 G: filler
-GutsMan V3 G: useful
-ProtoMan B: filler
-ProtoMan V2 B: filler
-ProtoMan V3 B: useful
-FlashMan F: filler
-FlashMan V2 F: filler
-FlashMan V3 F: useful
-BeastMan B: filler
-BeastMan V2 B: filler
-BeastMan V3 B: useful
-BubblMan B: filler
-BubblMan V2 B: filler
-BubblMan V3 B: useful
-DesertMan D: filler
-DesertMan V2 D: filler
-DesertMan V3 D: useful
-PlantMan P: filler
-PlantMan V2 P: filler
-PlantMan V3 P: useful
-FlamMan F: filler
-FlamMan V2 F: filler
-FlamMan V3 F: useful
-DrillMan D: filler
-DrillMan V2 D: filler
-DrillMan V3 D: useful
-MetalMan M: filler
-MetalMan V2 M: filler
-MetalMan V3 M: useful
-KingMan K: filler
-KingMan V2 K: filler
-KingMan V3 K: useful
-BowlMan B: filler
-BowlMan V2 B: filler
-BowlMan V3 B: useful
-Airshoes: useful
-Attack+1 (White): filler
-Attack+1 (Pink): filler
-BrkChrg: useful
-Charge+1 (Pink): filler
-Charge+1 (White): filler
-Collect: useful
-GigFldr1: useful
-HP+100 (Pink): filler
-HP+100 (Yellow): filler
-HP+200 (Yellow): useful
-HP+500 (Yellow): useful
-HubBatc: useful
-Jungle: useful
-OilBody: useful
-QuickGge: useful
-SetSand: useful
-Speed+1 (Yellow): filler
-WpnLV+1 (White): filler
-WpnLV+1 (Pink): filler
-WpnLV+1 (Yellow): filler
-Press: progression
-UnderSht: useful
-200z: filler
-500z: filler
-600z: filler
-800z: filler
-900z: filler
-1000z: filler
-1200z: filler
-1400z: filler
-1600z: filler
-1800z: filler
-2000z: filler
-3000z: filler
-9000z: filler
-10000z: useful
-30000z: useful
-50000z: useful
-30 BugFrags: filler
-10 BugFrags: filler
-1 BugFrag: filler
-Parasol: progression
-SloGuage *: filler
-BassGS X: useful
