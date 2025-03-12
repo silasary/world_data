@@ -155,6 +155,7 @@ MiddleOfTheRoad-MUnlock: unknown
 MidnightMansion-MUnlock: unknown
 MilitaryConscription-KUnlock: unknown
 MoMonkeyMoney-KUnlock: progression
+Monkey Knowledge: useful
 Monkey Money: filler
 MonkeyAce-TUnlock: progression
 MonkeyBuccaneer-TUnlock: useful
@@ -249,4 +250,3 @@ WizardMonkey-TUnlock: progression
 Workshop-MUnlock: unknown
 XFactor-MUnlock: progression
 XrayUltra-KUnlock: progression
-Monkey Knowledge: useful
