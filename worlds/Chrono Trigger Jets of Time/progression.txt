@@ -7,7 +7,7 @@ Aeon Blade: filler
 Aeon Helm: filler
 Aeon Suit: filler
 Air Gun: unknown
-AlloyBlade: unknown
+AlloyBlade: filler
 Amulet: useful
 Auto Gun: filler
 Ayla: unknown
@@ -33,13 +33,13 @@ BronzeFist: unknown
 BronzeHelm: unknown
 BronzeMail: unknown
 C. Trigger: progression
-CeraTopper: unknown
+CeraTopper: filler
 Charm Top: unknown
 Clone: progression
 CometArrow: filler
 Crisis Arm: unknown
 Crono: unknown
-Dark Helm: unknown
+Dark Helm: filler
 Dark Mail: filler
 Dark Saber: unknown
 DarkScythe: unknown
@@ -61,7 +61,7 @@ Feather: unknown
 Fist: unknown
 Flash Mail: filler
 FlashBlade: useful
-Flea Vest: unknown
+Flea Vest: filler
 Flint Edge: filler
 Fragment: unknown
 FrenzyBand: filler
@@ -74,7 +74,7 @@ Gloom Cape: unknown
 Gloom Helm: useful
 Glow Helm: filler
 Gold Erng: filler
-Gold Helm: unknown
+Gold Helm: filler
 Gold Rock: unknown
 Gold Stud: unknown
 Gold Suit: unknown
@@ -84,7 +84,7 @@ GreenDream: filler
 Hammer Arm: unknown
 Haste Helm: useful
 Heal: filler
-Hero Medal: unknown
+Hero Medal: progression
 Hide Cap: unknown
 Hide Tunic: unknown
 Hit Ring: filler
@@ -118,7 +118,7 @@ Magus: unknown
 MaidenSuit: unknown
 Marle: unknown
 Masamune: unknown
-MegaElixir: unknown
+MegaElixir: filler
 Megablast: filler
 MegatonArm: unknown
 Memory Cap: filler
@@ -129,22 +129,22 @@ Mid Tonic: filler
 MirageHand: unknown
 Mist Robe: filler
 Moon Armor: filler
-Moon Stone: unknown
+Moon Stone: progression
 Mop: unknown
-MuscleRing: unknown
+MuscleRing: filler
 Nova Armor: useful
 OzziePants: unknown
 Pearl Edge: filler
 Pendant: progression
 Petal: unknown
 PicoMagnum: unknown
-Plasma Gun: unknown
+Plasma Gun: filler
 Power Meal: filler
 Power Ring: filler
 Power Seal: unknown
 Power Tab: filler
-PowerGlove: unknown
-PowerScarf: unknown
+PowerGlove: filler
+PowerScarf: filler
 Prism Helm: unknown
 PrismDress: unknown
 PrismShard: progression
@@ -152,15 +152,15 @@ PrismSpecs: unknown
 R'bow Helm: filler
 Race Log: unknown
 Rage Band: unknown
-Rainbow: unknown
+Rainbow: filler
 RavenArmor: unknown
 Red Katana: useful
 Red Mail: filler
 Red Vest: filler
 Revive: filler
 Ribbon: unknown
-Robin Bow: unknown
-Robo's Rbn: unknown
+Robin Bow: filler
+Robo's Rbn: progression
 Robo: unknown
 Rock Helm: useful
 Ruby Armor: filler
@@ -169,9 +169,9 @@ Ruby Knife: progression
 Ruby Vest: filler
 Rune Blade: filler
 Safe Helm: filler
-Sage Bow: unknown
+Sage Bow: filler
 Seed: unknown
-SeraphSong: unknown
+SeraphSong: filler
 Shelter: filler
 Shield: filler
 Shiva Edge: filler
@@ -184,7 +184,7 @@ SilverStud: filler
 Siren: unknown
 Slasher 2: unknown
 Slasher: filler
-SonicArrow: unknown
+SonicArrow: filler
 Speed Belt: filler
 Speed Tab: filler
 Star Sword: filler
@@ -195,20 +195,20 @@ Sun Shades: filler
 Sun Stone: unknown
 Swallow: unknown
 Taban Helm: filler
-Taban Suit: unknown
+Taban Suit: filler
 Taban Vest: filler
 Terra Arm: filler
 Third Eye: filler
 Time Hat: filler
 Tin Arm: unknown
-Titan Vest: unknown
+Titan Vest: filler
 Toma's Pop: progression
 Tonic: filler
 Tools: unknown
 Valkerye: useful
 VedicBlade: filler
 Vigil Hat: filler
-Wall Ring: unknown
+Wall Ring: filler
 Wallet: filler
 White Mail: filler
 White Rock: unknown
