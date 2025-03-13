@@ -566,5 +566,6 @@ Transport: Tractor: unknown
 Transport: Trains: unknown
 Transport: Truck: unknown
 Trap: Alpha Spitter: trap
+Trap: Can of Beans: unknown
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Not the Bees: trap
