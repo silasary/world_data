@@ -2,11 +2,11 @@ Boss Token: mcguffin
 Bull: progression
 Climb: progression
 Coin: filler
-Create Coin: unknown
-Dash: unknown
+Create Coin: progression
+Dash: progression
 Death Trap: trap
-Dragon: unknown
-Duck: unknown
+Dragon: progression
+Duck: progression
 Garlic Bread: filler
 Garlic Breath: filler
 Garlic Burger: filler
@@ -17,22 +17,22 @@ Garlic Pesto: filler
 Garlic Sandwich: filler
 Garlic Soda: filler
 Garlic Tea: filler
-Garlic: unknown
-Grease Trap: unknown
+Garlic: progression
+Grease Trap: trap
 Heart: filler
 High-Jump: unknown
-Jet: unknown
-Mt. Teapot - Boss Unlock: unknown
+Jet: progression
+Mt. Teapot - Boss Unlock: progression
 Mt. Teapot: unknown
 Nothing: filler
 Noxious Fart: filler
 Parsley Woods - Boss Unlock: progression
 Parsley Woods: progression
 Progressive Powerup: unknown
-Real Estate: unknown
+Real Estate: mcguffin
 Rice Beach - Boss Unlock: progression
 Rice Beach: progression
-SS Tea Cup - Boss Unlock: unknown
+SS Tea Cup - Boss Unlock: progression
 SS Tea Cup: unknown
 Sherbet Land - Boss Unlock: progression
 Sherbet Land: progression
