@@ -2,6 +2,7 @@ Advanced Energy: unknown
 Ancient Tablet: filler
 Bard: unknown
 Blacksmith: unknown
+Boost: progression
 Boss Key (Dungeon 1): progression
 Boss Key (Dungeon 2): progression
 Crystal Bullet: useful
@@ -16,6 +17,7 @@ HP Crystal Shard: useful
 Healer: unknown
 Idol of protection: unknown
 Idol of time: useful
+Lucky Heart: useful
 Mercant: progression
 Overcharge: unknown
 Power of protection: unknown
@@ -33,19 +35,20 @@ Super Crystals x15: useful
 Super Crystals x2: useful
 Super Crystals x5: useful
 Supershot: progression
+Surf: progression
 XP Crystals x100: unknown
 XP Crystals x10: filler
 XP Crystals x140: filler
 XP Crystals x15: filler
 XP Crystals x20: filler
 XP Crystals x25: filler
-XP Crystals x30: unknown
+XP Crystals x30: filler
 XP Crystals x35: filler
 XP Crystals x40: filler
 XP Crystals x45: filler
 XP Crystals x50: filler
 XP Crystals x55: unknown
-XP Crystals x5: unknown
+XP Crystals x5: filler
 XP Crystals x60: filler
 XP Crystals x70: filler
 XP Crystals x75: unknown
