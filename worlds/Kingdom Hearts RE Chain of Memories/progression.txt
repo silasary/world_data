@@ -86,7 +86,7 @@ Enemy Card Sea Neon: unknown
 Enemy Card Search Ghost: unknown
 Enemy Card Shadow: useful
 Enemy Card Soldier: useful
-Enemy Card Tornado Step: unknown
+Enemy Card Tornado Step: useful
 Enemy Card Trickmaster: unknown
 Enemy Card Ursula: unknown
 Enemy Card Vexen: unknown
@@ -192,7 +192,7 @@ Sleight Surprise! LV3: useful
 Sleight Synchro: filler
 Sleight Teleport: useful
 Sleight Terror: useful
-Sleight Thundaga: unknown
+Sleight Thundaga: useful
 Sleight Thundara: unknown
 Sleight Thunder Raid: useful
 Sleight Tornado: useful
