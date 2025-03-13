@@ -326,6 +326,7 @@ Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
 Recipe: Automated Speed Wiring: unknown
 Recipe: Automated Wiring: progression
+Recipe: Basic Iron Ingot: unknown
 Recipe: Battery: useful
 Recipe: Beacon: useful
 Recipe: Biomass (Alien Protein): progression
