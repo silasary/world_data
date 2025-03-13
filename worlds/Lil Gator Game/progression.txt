@@ -3,7 +3,7 @@ Art Palette (Craft): unknown
 Artsy Beret (Craft): filler
 Balloon (Item): useful
 Big Leaf (Item): unknown
-Blue Scooter Board (Craft): unknown
+Blue Scooter Board (Craft): progression
 Bowling Bomb (Item): useful
 Bracelet: progression
 Broken Scooter Board: progression
@@ -11,11 +11,11 @@ Bubble Gum (Item): useful
 Bucket (Item): filler
 Bug Net (Item): progression
 Cardboard Spear (Craft): filler
-Cheese Sandwich: unknown
+Cheese Sandwich: progression
 Chessboard (Craft): progression
 Craft Stuff x15: filler
 Craft Stuff x30: filler
-Detective Cowl (Craft): unknown
+Detective Cowl (Craft): filler
 Friend x2: mcguffin
 Friend x3: mcguffin
 Friend x4: mcguffin
@@ -27,7 +27,7 @@ Inner Tube (Craft): unknown
 Laser Sword (Craft): progression
 Magic Ore: progression
 Martin (Item): progression
-Ninja Headband (Craft): unknown
+Ninja Headband (Craft): filler
 Nunchaku (Item): progression
 Oversized Pencil (Craft): progression
 Paint Blaster (Item): progression
@@ -36,18 +36,18 @@ Paleolithic Tool (Item): progression
 Plastic Fangs (Item): filler
 Platter (Item): unknown
 Pointy Floppy Thing (Craft): progression
-Pot Lid (Item): unknown
+Pot Lid (Item): progression
 Pot?: useful
 Princess Tiara (Craft): unknown
 Princess Wand (Craft): progression
 Ragdoll (Craft): filler
 Retainer: unknown
 Shuriken (Item): progression
-Skateboard (Craft): useful
+Skateboard (Craft): progression
 Skater Helmet (Craft): filler
 Skipping Rock (Item): useful
 Slime Hat (Craft): filler
-Sorbet: unknown
+Sorbet: progression
 Space Blaster (Item): progression
 Space Dome (Item): unknown
 Stick (Item): progression
@@ -59,4 +59,4 @@ Trampoline (Item): progression
 Trash Can Lid (Item): progression
 Water: progression
 Western Wide Brim (Item): unknown
-Wrench (Item): unknown
+Wrench (Item): progression
