@@ -1,3 +1,4 @@
+Activate Palace Lobby Whirlpool: unknown
 American Egg: mcguffin
 Apple: progression
 Bat Egg: mcguffin
@@ -63,6 +64,7 @@ Open Heaven's Path Exit: progression
 Open Kerrington's Heart: progression
 Open Lake Lobby Teleport: progression
 Open Mr. Kerrington Painting Gate: unknown
+Open Observatory Shortcut: unknown
 Open Palace Lobby Teleport: progression
 Open Palace-Lostleaf Connector: progression
 Open Prismic Palace Basement: unknown
@@ -77,6 +79,7 @@ Robot Egg: mcguffin
 Roll: progression
 Shroom: mcguffin
 Snowstorm Egg: mcguffin
+Specter Egg: unknown
 Spooky Egg: unknown
 Sprint: progression
 Starlit Egg: mcguffin
