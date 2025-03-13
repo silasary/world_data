@@ -15,6 +15,7 @@ DOX: progression
 EGGER_BALDWIN: progression
 ESPA_ROBA: progression
 FENDER_SHRILL: progression
+FENG_LONG: progression
 GRANDPA: progression
 ISHIZU_ISHTAR: progression
 JILL: progression
@@ -28,11 +29,13 @@ LUMIS: progression
 MAKO_TSUNAMI: progression
 MAXIMILLION_PEGASUS: progression
 MELODY: progression
+MOKUBA_KAIBA: progression
 NIBBLES: progression
 NORMAN: progression
 PROFESSOR_JEREMY_HARRISON: progression
 REX_RAPTOR: progression
 ROGER: progression
+SERENITY_WHEELER: progression
 SHADI: progression
 SNIPES_CROSSHAIR: filler
 STRINGER: progression
@@ -42,6 +45,7 @@ THE_PUPPETEER: progression
 TICK_TOCK: progression
 TRISTAN_TAYLOR: progression
 VENOM_B: progression
+VENOM_C: progression
 WEEVIL_UNDERWOOD: progression
 YAMI_BAKURA: progression
 YUGIS_MOTHER: progression
