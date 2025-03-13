@@ -17,11 +17,13 @@ Card: Heartburn: filler
 Card: Hunger: filler
 Card: Keehee: filler
 Card: Mighty Wall: unknown
+Card: Pale Carpy: unknown
 Card: Pom: filler
 Card: Preston: filler
 Card: Raay: filler
 Card: Rattles: unknown
 Card: Seedragon: unknown
+Card: Skritch: unknown
 Carry: progression
 Checkered Egg: unknown
 Climb: progression
@@ -51,6 +53,7 @@ Moonlight Egg: mcguffin
 Mr. Kerrington's Wings: progression
 Open Armada Lobby Teleport: progression
 Open Church Basement: progression
+Open Crypt: unknown
 Open Deep Woods: progression
 Open Earth Lobby Castle Door: progression
 Open Gallery Lobby Door: progression
