@@ -114,6 +114,7 @@ Building: Walls Metal: unknown
 Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
+Bundle: AI Expansion Server: unknown
 Bundle: AI Limiter: unknown
 Bundle: Adaptive Control Unit: unknown
 Bundle: Adequate Pioneering Statue: unknown
