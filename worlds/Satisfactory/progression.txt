@@ -224,7 +224,7 @@ Bundle: Paleberry: filler
 Bundle: Parachute: filler
 Bundle: Petroleum Coke: filler
 Bundle: Plasma Spitter Remains: filler
-Bundle: Plastic: unknown
+Bundle: Plastic: filler
 Bundle: Plutonium Fuel Rod: unknown
 Bundle: Plutonium Pellet: unknown
 Bundle: Plutonium Waste: unknown
