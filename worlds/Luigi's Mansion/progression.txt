@@ -50,7 +50,7 @@ Clockwork Room Boo (Booscaster): mcguffin
 Club Key: progression
 Cold Storage Boo (Boolderdash): mcguffin
 Cold Storage Key: progression
-Conservatory Boo (Boomeo): unknown
+Conservatory Boo (Boomeo): mcguffin
 Conservatory Key: progression
 Diamond Key: progression
 Diamond: useful
@@ -68,6 +68,7 @@ Hidden Room Boo (GumBoo): mcguffin
 Ice Element Medal: progression
 Ice Trap: trap
 King Boo Hallway Key: unknown
+Kitchen Key: progression
 Large Heart: filler
 Laundry Key: progression
 Laundry Room Boo (Boogie): mcguffin
@@ -103,9 +104,10 @@ Sitting Room Boo (Boolivia): mcguffin
 Small Heart: filler
 Spade Key: unknown
 Storage Room Boo (Game Boo): mcguffin
-Storage Room Key: unknown
+Storage Room Key: progression
 Study Boo (TaBoo): mcguffin
 Tea Room Boo (Mr. Boojangles): mcguffin
+Tea Room Key: progression
 Telephone Room Boo (Boomerang): mcguffin
 Twin's Room Boo (Booris): unknown
 Twins Bedroom Key: unknown
