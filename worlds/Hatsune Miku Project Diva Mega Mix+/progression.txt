@@ -28,6 +28,7 @@
 1925 [EXTREME]: unknown
 1925 [HARD]: progression
 1925 [NORMAL]: unknown
+1925: unknown
 2.14 [EXTREME]: unknown
 24-hour Cinderella (Full Spec Edition) [EXTREME]: unknown
 24-hour Cinderella (Full Spec Edition) [HARD]: unknown
@@ -36,11 +37,13 @@
 2D Dream Fever [EXTREME]: unknown
 2D Dream Fever [HARD]: progression
 2D Dream Fever [NORMAL]: unknown
+2D Dream Fever: unknown
 39 Music! [EASY]: unknown
 39 Music! [EXEXTREME]: unknown
 39 Music! [EXTREME]: unknown
 39 Music! [HARD]: progression
 39 Music! [NORMAL]: unknown
+39 Music!: unknown
 39 [EASY]: unknown
 39 [EXEXTREME]: unknown
 39 [EXTREME]: unknown
@@ -84,6 +87,7 @@ ACUTE [EXEXTREME]: unknown
 ACUTE [EXTREME]: unknown
 ACUTE [HARD]: unknown
 ACUTE [NORMAL]: unknown
+ACUTE: progression
 AFTER BURNER [EASY]: unknown
 AFTER BURNER [EXEXTREME]: unknown
 AFTER BURNER [EXTREME]: unknown
@@ -122,6 +126,7 @@ Adolescence [EXEXTREME]: unknown
 Adolescence [EXTREME]: unknown
 Adolescence [HARD]: unknown
 Adolescence [NORMAL]: unknown
+Adolescence: progression
 After Epochs [EXTREME]: unknown
 After Epochs [HARD]: unknown
 Agape Happy [EXTREME]: unknown
@@ -130,6 +135,7 @@ Ageage Again [EXEXTREME]: unknown
 Ageage Again [EXTREME]: unknown
 Ageage Again [HARD]: unknown
 Ageage Again [NORMAL]: unknown
+Ageage Again: unknown
 Ah, It's a Wonderful Cat Life [EXEXTREME]: unknown
 Ah, It's a Wonderful Cat Life [EXTREME]: unknown
 Ah, It's a Wonderful Cat Life [HARD]: unknown
@@ -146,6 +152,7 @@ Aikotoba [EXEXTREME]: unknown
 Aikotoba [EXTREME]: unknown
 Aikotoba [HARD]: unknown
 Aikotoba [NORMAL]: unknown
+Aikotoba: unknown
 Aimai Liar [EASY]: unknown
 Aimai Liar [EXTREME]: unknown
 Aimai Liar [HARD]: unknown
@@ -159,6 +166,7 @@ Akatsuki Arrival [EXEXTREME]: unknown
 Akatsuki Arrival [EXTREME]: unknown
 Akatsuki Arrival [HARD]: unknown
 Akatsuki Arrival [NORMAL]: unknown
+Akatsuki Arrival: unknown
 Albino -revive- [EXTREME]: unknown
 Ali Baba [EXTREME]: unknown
 Alice Blue [EXTREME]: unknown
@@ -236,6 +244,7 @@ Arifureta Sekai Seifuku [EXEXTREME]: unknown
 Arifureta Sekai Seifuku [EXTREME]: progression
 Arifureta Sekai Seifuku [HARD]: unknown
 Arifureta Sekai Seifuku [NORMAL]: unknown
+Arifureta Sekai Seifuku: unknown
 As You Like It [EXTREME]: unknown
 As You Like It [HARD]: unknown
 As it is, as it is, without change [EXEXTREME]: unknown
@@ -369,6 +378,7 @@ Black Gold [EXEXTREME]: unknown
 Black Gold [EXTREME]: unknown
 Black Gold [HARD]: unknown
 Black Gold [NORMAL]: unknown
+Black Gold: progression
 Black Swan [EXTREME]: unknown
 Black Swan [HARD]: unknown
 Black*Rock Shooter [EASY]: unknown
@@ -521,6 +531,7 @@ Change Me [EXEXTREME]: unknown
 Change Me [EXTREME]: unknown
 Change Me [HARD]: unknown
 Change Me [NORMAL]: unknown
+Change Me: unknown
 Charles [EXTREME]: unknown
 Charles [HARD]: unknown
 Cherry Blossom Banquet [EXTREME]: unknown
@@ -562,6 +573,7 @@ Close and Open, Demons and The Dead [EXEXTREME]: unknown
 Close and Open, Demons and The Dead [EXTREME]: unknown
 Close and Open, Demons and The Dead [HARD]: unknown
 Close and Open, Demons and The Dead [NORMAL]: unknown
+Close and Open, Demons and The Dead: unknown
 Clover Club [EASY]: unknown
 Clover Club [EXEXTREME]: unknown
 Clover Club [EXTREME]: unknown
@@ -770,6 +782,7 @@ Doubleganger [EXEXTREME]: unknown
 Doubleganger [EXTREME]: unknown
 Doubleganger [HARD]: unknown
 Doubleganger [NORMAL]: unknown
+Doubleganger: progression
 Doubutsu Uranai [EXTREME]: unknown
 Down Timer [EXEXTREME]: unknown
 Down Timer [EXTREME]: unknown
@@ -835,6 +848,7 @@ Electrosaturator [EXEXTREME]: unknown
 Electrosaturator [EXTREME]: unknown
 Electrosaturator [HARD]: unknown
 Electrosaturator [NORMAL]: unknown
+Electrosaturator: unknown
 Elegant Medley - Glossy Mixture [EASY]: unknown
 Elegant Medley - Glossy Mixture [EXTREME]: unknown
 Elegant Medley - Glossy Mixture [HARD]: unknown
@@ -1005,6 +1019,7 @@ Gemini [EXEXTREME]: unknown
 Gemini [EXTREME]: unknown
 Gemini [HARD]: unknown
 Gemini [NORMAL]: unknown
+Gemini: unknown
 Get Jinxed [EXTREME]: unknown
 Ghost City Tokyo [EXTREME]: unknown
 Ghost City Tokyo [HARD]: unknown
@@ -1013,6 +1028,7 @@ Ghost Rule [EXEXTREME]: unknown
 Ghost Rule [EXTREME]: unknown
 Ghost Rule [HARD]: unknown
 Ghost Rule [NORMAL]: unknown
+Ghost Rule: unknown
 Ghosts Play to the Audience [EXTREME]: unknown
 Ghosts Play to the Audience [HARD]: unknown
 Gift from the Princess who Brought Sleep [EXTREME]: unknown
@@ -1023,6 +1039,7 @@ Gigantic Girl [EXEXTREME]: unknown
 Gigantic Girl [EXTREME]: unknown
 Gigantic Girl [HARD]: unknown
 Gigantic Girl [NORMAL]: unknown
+Gigantic Girl: unknown
 Gimme x Gimme [EXTREME]: unknown
 Gimme x Gimme [HARD]: unknown
 GimmexGimme [EXTREME]: unknown
@@ -1060,6 +1077,7 @@ Glory 3usi9 [EXEXTREME]: unknown
 Glory 3usi9 [EXTREME]: unknown
 Glory 3usi9 [HARD]: unknown
 Glory 3usi9 [NORMAL]: unknown
+Glory 3usi9: unknown
 Glory Steady Go! [EXTREME]: unknown
 Go Google It [EXTREME]: unknown
 Go Google It [HARD]: unknown
@@ -1069,6 +1087,7 @@ God-Tier Tune [EXEXTREME]: unknown
 God-Tier Tune [EXTREME]: unknown
 God-Tier Tune [HARD]: progression
 God-Tier Tune [NORMAL]: unknown
+God-Tier Tune: progression
 God-ish [EXTREME]: unknown
 God-ish [HARD]: unknown
 Good Morning, First Year [EXEXTREME]: unknown
@@ -1092,6 +1111,7 @@ Grumpy Waltz [EXEXTREME]: unknown
 Grumpy Waltz [EXTREME]: unknown
 Grumpy Waltz [HARD]: unknown
 Grumpy Waltz [NORMAL]: unknown
+Grumpy Waltz: unknown
 Guchatta na [EXTREME]: unknown
 Guchatta na [HARD]: unknown
 HANN (Alone) [EASY]: unknown
@@ -1109,6 +1129,7 @@ HIBANA [EXEXTREME]: unknown
 HIBANA [EXTREME]: unknown
 HIBANA [HARD]: unknown
 HIBANA [NORMAL]: unknown
+HIBANA: progression
 HIKIZURI [EXTREME]: unknown
 HIKIZURI [HARD]: unknown
 Haka Tomo [EXTREME]: unknown
@@ -1136,6 +1157,7 @@ Hand in Hand [EXEXTREME]: unknown
 Hand in Hand [EXTREME]: unknown
 Hand in Hand [HARD]: unknown
 Hand in Hand [NORMAL]: unknown
+Hand in Hand: progression
 Hao [EXTREME]: unknown
 Happy Cheat Day [EXTREME]: unknown
 Happy Coaster [EXTREME]: unknown
@@ -1192,6 +1214,7 @@ Hibikase [EXEXTREME]: unknown
 Hibikase [EXTREME]: unknown
 Hibikase [HARD]: unknown
 Hibikase [NORMAL]: unknown
+Hibikase: unknown
 Hidden Boss [EXTREME]: unknown
 Hidden Boss [HARD]: unknown
 Hidden Boss [NORMAL]: unknown
@@ -1214,6 +1237,7 @@ Hm? Ah, Yes. [EXEXTREME]: unknown
 Hm? Ah, Yes. [EXTREME]: unknown
 Hm? Ah, Yes. [HARD]: unknown
 Hm? Ah, Yes. [NORMAL]: unknown
+Hm? Ah, Yes.: unknown
 Hoi [EXTREME]: unknown
 Hole-dwelling [EXEXTREME]: unknown
 Hole-dwelling [EXTREME]: unknown
@@ -1411,6 +1435,7 @@ Jigsaw puzzle [EXEXTREME]: unknown
 Jigsaw puzzle [EXTREME]: progression
 Jigsaw puzzle [HARD]: unknown
 Jigsaw puzzle [NORMAL]: unknown
+Jigsaw puzzle: unknown
 Jitter Doll [EXTREME]: unknown
 Joker Smiles. [EXTREME]: unknown
 Journal of My Forgotten Fantasies [EXTREME]: unknown
@@ -1520,6 +1545,7 @@ Knife [EXEXTREME]: unknown
 Knife [EXTREME]: unknown
 Knife [HARD]: unknown
 Knife [NORMAL]: unknown
+Knife: unknown
 Knight of Light [EASY]: unknown
 Knight of Light [EXEXTREME]: unknown
 Knight of Light [EXTREME]: unknown
@@ -1672,6 +1698,7 @@ Love is War [EXEXTREME]: unknown
 Love is War [EXTREME]: unknown
 Love is War [HARD]: unknown
 Love is War [NORMAL]: unknown
+Love is War: unknown
 Love me, Love me, Love me [EXEXTREME]: unknown
 Love me, Love me, Love me [EXTREME]: unknown
 Love! Snow! Really Magic [EXTREME]: unknown
@@ -1685,6 +1712,7 @@ Love-Colored Ward [EXEXTREME]: unknown
 Love-Colored Ward [EXTREME]: unknown
 Love-Colored Ward [HARD]: unknown
 Love-Colored Ward [NORMAL]: unknown
+Love-Colored Ward: unknown
 Love-Hate [EASY]: progression
 Love-Hate [EXEXTREME]: unknown
 Love-Hate [EXTREME]: unknown
@@ -1765,6 +1793,7 @@ Magnet [EXEXTREME]: unknown
 Magnet [EXTREME]: unknown
 Magnet [HARD]: unknown
 Magnet [NORMAL]: unknown
+Magnet: unknown
 Makeup [EXTREME]: unknown
 Makeup [HARD]: unknown
 Manimani [EXTREME]: unknown
@@ -1898,6 +1927,7 @@ Monochrome Blue Sky [EXEXTREME]: unknown
 Monochrome Blue Sky [EXTREME]: unknown
 Monochrome Blue Sky [HARD]: unknown
 Monochrome Blue Sky [NORMAL]: unknown
+Monochrome Blue Sky: unknown
 Moon Revenge [EXTREME]: unknown
 MoonWest River [EXTREME]: unknown
 Moonlight [EXTREME]: unknown
@@ -2041,6 +2071,7 @@ Nostalogic [EXEXTREME]: unknown
 Nostalogic [EXTREME]: unknown
 Nostalogic [HARD]: unknown
 Nostalogic [NORMAL]: unknown
+Nostalogic: unknown
 Not Photogenic [EXTREME]: unknown
 Now Choose [EASY]: unknown
 Now Choose [EXEXTREME]: unknown
@@ -2070,6 +2101,7 @@ Odds & Ends [EXEXTREME]: unknown
 Odds & Ends [EXTREME]: unknown
 Odds & Ends [HARD]: unknown
 Odds & Ends [NORMAL]: unknown
+Odds & Ends: unknown
 Odo [EASY]: unknown
 Odo [EXTREME]: unknown
 Odo [HARD]: unknown
@@ -2211,6 +2243,7 @@ Piano x Forte x Scandal [EXEXTREME]: unknown
 Piano x Forte x Scandal [EXTREME]: unknown
 Piano x Forte x Scandal [HARD]: unknown
 Piano x Forte x Scandal [NORMAL]: unknown
+Piano x Forte x Scandal: progression
 Pierrot [EXTREME]: unknown
 Pink Moon [EASY]: unknown
 Pink Moon [EXEXTREME]: unknown
@@ -2269,6 +2302,7 @@ Promise [EXEXTREME]: unknown
 Promise [EXTREME]: unknown
 Promise [HARD]: unknown
 Promise [NORMAL]: unknown
+Promise: unknown
 Psi [EXTREME]: unknown
 Psi [HARD]: unknown
 Psychic Psychic [EXTREME]: unknown
@@ -2292,6 +2326,7 @@ Quartet of Multiple Futures -Quartet Theme- [EXEXTREME]: unknown
 Quartet of Multiple Futures -Quartet Theme- [EXTREME]: unknown
 Quartet of Multiple Futures -Quartet Theme- [HARD]: unknown
 Quartet of Multiple Futures -Quartet Theme- [NORMAL]: unknown
+Quartet of Multiple Futures -Quartet Theme-: unknown
 Quirky Medley - Giga-Remix [EASY]: unknown
 Quirky Medley - Giga-Remix [EXTREME]: unknown
 Quirky Medley - Giga-Remix [HARD]: unknown
@@ -2384,6 +2419,7 @@ Rin-chan Now! [EXEXTREME]: unknown
 Rin-chan Now! [EXTREME]: unknown
 Rin-chan Now! [HARD]: unknown
 Rin-chan Now! [NORMAL]: unknown
+Rin-chan Now!: unknown
 RinRin Signal -Append Mix- [EASY]: progression
 RinRin Signal -Append Mix- [EXEXTREME]: unknown
 RinRin Signal -Append Mix- [EXTREME]: unknown
@@ -2417,6 +2453,7 @@ Roshin Yukai [EXEXTREME]: unknown
 Roshin Yukai [EXTREME]: unknown
 Roshin Yukai [HARD]: unknown
 Roshin Yukai [NORMAL]: unknown
+Roshin Yukai: progression
 Rotk ppchen [EXEXTREME]: unknown
 Rotk ppchen [EXTREME]: unknown
 Rotk ppchen [HARD]: unknown
@@ -2476,6 +2513,7 @@ Sadistic.Music Factory [EXEXTREME]: unknown
 Sadistic.Music Factory [EXTREME]: unknown
 Sadistic.Music Factory [HARD]: unknown
 Sadistic.Music Factory [NORMAL]: unknown
+Sadistic.Music Factory: unknown
 Sage [EXTREME]: unknown
 Sage [HARD]: unknown
 Saihate [EASY]: progression
@@ -2535,6 +2573,7 @@ Sekiranun Graffiti [EXEXTREME]: unknown
 Sekiranun Graffiti [EXTREME]: unknown
 Sekiranun Graffiti [HARD]: unknown
 Sekiranun Graffiti [NORMAL]: unknown
+Sekiranun Graffiti: unknown
 Self-Inflicted Achromatic [EXTREME]: unknown
 Self-Inflicted Achromatic [HARD]: unknown
 Selfish Princess [EXTREME]: unknown
@@ -2622,6 +2661,7 @@ Snowman [EXEXTREME]: unknown
 Snowman [EXTREME]: unknown
 Snowman [HARD]: unknown
 Snowman [NORMAL]: unknown
+Snowman: unknown
 So Much Loving You* -DIVA Edit- [EASY]: unknown
 So Much Loving You* -DIVA Edit- [EXEXTREME]: unknown
 So Much Loving You* -DIVA Edit- [EXTREME]: unknown
@@ -2646,6 +2686,7 @@ Solitude's End -extend edition- [EXEXTREME]: unknown
 Solitude's End -extend edition- [EXTREME]: unknown
 Solitude's End -extend edition- [HARD]: unknown
 Solitude's End -extend edition- [NORMAL]: unknown
+Solitude's End -extend edition-: unknown
 Solitude's End [EASY]: unknown
 Solitude's End [EXEXTREME]: unknown
 Solitude's End [EXTREME]: unknown
@@ -2682,6 +2723,7 @@ Soundless Voice [EXEXTREME]: unknown
 Soundless Voice [EXTREME]: unknown
 Soundless Voice [HARD]: progression
 Soundless Voice [NORMAL]: unknown
+Soundless Voice: unknown
 Souvenir [EXTREME]: unknown
 Spider Thread Monopoly [EXTREME]: unknown
 Splatter Party [EXEXTREME]: unknown
@@ -2755,6 +2797,7 @@ Strobo Nights [EXEXTREME]: unknown
 Strobo Nights [EXTREME]: unknown
 Strobo Nights [HARD]: unknown
 Strobo Nights [NORMAL]: unknown
+Strobo Nights: progression
 Sudoku! [EXTREME]: unknown
 Sudoku! [HARD]: unknown
 Sugar Conspiracy Theory [EXTREME]: unknown
@@ -2773,6 +2816,7 @@ Suna no Wakusei feat. Hatsune Miku [EXEXTREME]: unknown
 Suna no Wakusei feat. Hatsune Miku [EXTREME]: unknown
 Suna no Wakusei feat. Hatsune Miku [HARD]: unknown
 Suna no Wakusei feat. Hatsune Miku [NORMAL]: unknown
+Suna no Wakusei feat. Hatsune Miku: unknown
 Sunset Slope [EXTREME]: unknown
 Sunset Slope [HARD]: unknown
 Supatto! Spy & Spyce [EXTREME]: unknown
@@ -2800,6 +2844,7 @@ Systematic Love [EXEXTREME]: unknown
 Systematic Love [EXTREME]: unknown
 Systematic Love [HARD]: progression
 Systematic Love [NORMAL]: unknown
+Systematic Love: unknown
 SyumatsuDiscord [EXTREME]: unknown
 THE BADDEST [EXTREME]: unknown
 THE DYING MESSAGE [EXTREME]: unknown
@@ -2845,6 +2890,7 @@ Tengaku [EXEXTREME]: unknown
 Tengaku [EXTREME]: unknown
 Tengaku [HARD]: unknown
 Tengaku [NORMAL]: unknown
+Tengaku: progression
 Teo [EASY]: unknown
 Teo [EXEXTREME]: unknown
 Teo [EXTREME]: unknown
@@ -2906,6 +2952,7 @@ The Intense Voice of Hatsune Miku [EXEXTREME]: unknown
 The Intense Voice of Hatsune Miku [EXTREME]: progression
 The Intense Voice of Hatsune Miku [HARD]: unknown
 The Intense Voice of Hatsune Miku [NORMAL]: unknown
+The Intense Voice of Hatsune Miku: progression
 The Iron Maiden and the Dreamy Princess [EXTREME]: unknown
 The Legendary Witch [EXTREME]: unknown
 The Literati's Love Letter [EXTREME]: unknown
@@ -3009,6 +3056,7 @@ Thousand Year Solo (DIVA Edit) [EXEXTREME]: unknown
 Thousand Year Solo (DIVA Edit) [EXTREME]: unknown
 Thousand Year Solo (DIVA Edit) [HARD]: unknown
 Thousand Year Solo (DIVA Edit) [NORMAL]: unknown
+Thousand Year Solo (DIVA Edit): unknown
 Thriller [EASY]: unknown
 Thriller [EXTREME]: unknown
 Thriller [HARD]: unknown
@@ -3023,6 +3071,7 @@ Time Machine [EXEXTREME]: unknown
 Time Machine [EXTREME]: unknown
 Time Machine [HARD]: unknown
 Time Machine [NORMAL]: unknown
+Time Machine: unknown
 Tiny Bunny [EXTREME]: unknown
 Tiny Bunny [HARD]: unknown
 To The Extent in Which You Forget Your Talent [EXEXTREME]: unknown
@@ -3080,6 +3129,7 @@ Tricolore Airline [EXEXTREME]: unknown
 Tricolore Airline [EXTREME]: unknown
 Tricolore Airline [HARD]: unknown
 Tricolore Airline [NORMAL]: unknown
+Tricolore Airline: unknown
 Triple Baka [EXEXTREME]: unknown
 Triple Baka [EXTREME]: unknown
 Triple Baka [HARD]: unknown
@@ -3098,6 +3148,7 @@ Two Breaths Walking [EXEXTREME]: unknown
 Two Breaths Walking [EXTREME]: unknown
 Two Breaths Walking [HARD]: unknown
 Two Breaths Walking [NORMAL]: unknown
+Two Breaths Walking: unknown
 Two-Sided Lovers [EASY]: unknown
 Two-Sided Lovers [EXEXTREME]: unknown
 Two-Sided Lovers [EXTREME]: unknown
@@ -3123,6 +3174,7 @@ Unhappy Refrain [EXEXTREME]: unknown
 Unhappy Refrain [EXTREME]: unknown
 Unhappy Refrain [HARD]: unknown
 Unhappy Refrain [NORMAL]: unknown
+Unhappy Refrain: unknown
 Unknown Mother Goose [EXTREME]: unknown
 Unknown Mother Goose [HARD]: unknown
 Unplanned Apoptosis [EXTREME]: unknown
@@ -3150,6 +3202,7 @@ VOC@LOID in Love [EXEXTREME]: unknown
 VOC@LOID in Love [EXTREME]: unknown
 VOC@LOID in Love [HARD]: unknown
 VOC@LOID in Love [NORMAL]: unknown
+VOC@LOID in Love: unknown
 VOiCE -DIVA MIX- [EASY]: progression
 VOiCE -DIVA MIX- [EXEXTREME]: unknown
 VOiCE -DIVA MIX- [EXTREME]: unknown
@@ -3229,6 +3282,7 @@ When First Love Ends [EXEXTREME]: unknown
 When First Love Ends [EXTREME]: unknown
 When First Love Ends [HARD]: unknown
 When First Love Ends [NORMAL]: unknown
+When First Love Ends: unknown
 When I was absent from school [EXTREME]: unknown
 While I'm next to you [EXTREME]: unknown
 Whisper Whisper Whisper [EXTREME]: unknown
@@ -3249,6 +3303,7 @@ Wintry Winds [EXEXTREME]: unknown
 Wintry Winds [EXTREME]: unknown
 Wintry Winds [HARD]: unknown
 Wintry Winds [NORMAL]: unknown
+Wintry Winds: unknown
 Wolf Girl [EASY]: unknown
 Wolf Girl [EXEXTREME]: unknown
 Wolf Girl [EXTREME]: unknown
@@ -3270,11 +3325,13 @@ World's End Dance Hall -Live Dance Edition- [EXEXTREME]: unknown
 World's End Dance Hall -Live Dance Edition- [EXTREME]: unknown
 World's End Dance Hall -Live Dance Edition- [HARD]: unknown
 World's End Dance Hall -Live Dance Edition- [NORMAL]: unknown
+World's End Dance Hall -Live Dance Edition-: unknown
 World's End Umbrella [EASY]: unknown
 World's End Umbrella [EXEXTREME]: unknown
 World's End Umbrella [EXTREME]: unknown
 World's End Umbrella [HARD]: unknown
 World's End Umbrella [NORMAL]: unknown
+World's End Umbrella: unknown
 Worldwide Wander [EXEXTREME]: unknown
 Worldwide Wander [EXTREME]: unknown
 Worldwide Wander [HARD]: unknown
@@ -3447,6 +3504,7 @@ shake it! [EXEXTREME]: unknown
 shake it! [EXTREME]: progression
 shake it! [HARD]: unknown
 shake it! [NORMAL]: unknown
+shake it!: unknown
 shiningray -Ver.2018- [EXTREME]: unknown
 shiningray -Ver.2018- [HARD]: unknown
 shiningray -Ver.2018- [NORMAL]: unknown
