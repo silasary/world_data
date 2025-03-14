@@ -1,507 +1,507 @@
-Knight Crystal: useful
-Monk Crystal: useful
-Thief Crystal: useful
-Dragoon Crystal: useful
-Ninja Crystal: useful
-Samurai Crystal: useful
-Berserker Crystal: useful
-Hunter Crystal: useful
-MysticKnight Crystal: useful
-WhiteMage Crystal: useful
-BlackMage Crystal: useful
-TimeMage Crystal: useful
-Summoner Crystal: useful
-BlueMage Crystal: useful
-RedMage Crystal: useful
-Trainer Crystal: progression
-Chemist Crystal: useful
-Geomancer Crystal: useful
-Bard Crystal: useful
-Dancer Crystal: useful
-Mimic Crystal: useful
-Freelancer Crystal: useful
-Ice Sword Magic: useful
-Bolt Sword Magic: useful
-Venom Sword Magic: useful
-Mute Sword Magic: useful
-Sleep Sword Magic: useful
-Fire2 Sword Magic: useful
-Ice2 Sword Magic: useful
-Bolt2 Sword Magic: useful
-Drain Sword Magic: useful
-Break Sword Magic: useful
-Bio Sword Magic: useful
-Fire3 Sword Magic: useful
-Ice3 Sword Magic: useful
-Bolt3 Sword Magic: useful
-Holy Sword Magic: useful
-Flare Sword Magic: useful
-Psych Sword Magic: useful
-Cure White Magic: useful
-Scan White Magic: useful
-Antdt White Magic: useful
-Mute White Magic: useful
-Armor White Magic: useful
-Size White Magic: useful
-Cure2 White Magic: useful
-Life White Magic: useful
-Charm White Magic: useful
-Image White Magic: useful
-Shell White Magic: useful
-Heal White Magic: useful
-Cure3 White Magic: useful
-Wall White Magic: useful
-Bersk White Magic: useful
-Life2 White Magic: useful
-Holy White Magic: useful
-Dispel White Magic: useful
-Fire Black Magic: useful
-Ice Black Magic: useful
-Bolt Black Magic: useful
-Venom Black Magic: useful
-Sleep Black Magic: useful
-Toad Black Magic: useful
-Fire2 Black Magic: useful
-Ice2 Black Magic: useful
-Bolt2 Black Magic: useful
-Drain Black Magic: useful
-Break Black Magic: useful
-Bio Black Magic: useful
-Fire3 Black Magic: useful
-Ice3 Black Magic: useful
-Bolt3 Black Magic: useful
-Flare Black Magic: useful
-Doom Black Magic: useful
-Psych Black Magic: useful
-Slow Time Magic: useful
-Regen Time Magic: useful
-Void Time Magic: useful
-Haste Time Magic: useful
-Float Time Magic: useful
-Demi Time Magic: useful
-Stop Time Magic: useful
-Comet Time Magic: useful
-Slow2 Time Magic: useful
-Reset Time Magic: useful
-Qrter Time Magic: useful
-Hast2 Time Magic: useful
-Old Time Magic: useful
-Meteo Time Magic: useful
-Quick Time Magic: useful
-Xzone Time Magic: useful
-Chocob Esper Magic: useful
-Sylph Esper Magic: useful
-Remora Esper Magic: useful
-Shiva Esper Magic: useful
-Ramuh Esper Magic: useful
-Ifrit Esper Magic: useful
-Titan Esper Magic: useful
-Golem Esper Magic: useful
-Shoat Esper Magic: useful
-Crbnkl Esper Magic: useful
-Syldra Esper Magic: useful
-Odin Esper Magic: useful
-Phenix Esper Magic: useful
-Levia Esper Magic: useful
-Bahmut Esper Magic: useful
-Power Song Magic: useful
-Speed Song Magic: useful
-Vitality Song Magic: useful
-Magic Song Magic: useful
-Hero Song Magic: useful
-Requiem Song Magic: useful
-Love Song Magic: useful
-Charm Song Magic: useful
-Condemn Blue Magic: useful
-Roulette Blue Magic: useful
-AquaRake Blue Magic: useful
-L5 Doom Blue Magic: useful
-L4 Qrter Blue Magic: useful
-L2 Old Blue Magic: useful
-L3 Flare Blue Magic: useful
-FrogSong Blue Magic: useful
-TinySong Blue Magic: useful
-Flash Blue Magic: useful
-Time Slip Blue Magic: useful
-MoonFlut Blue Magic: useful
-DethClaw Blue Magic: useful
-Aero Blue Magic: useful
+100 Gil: filler
+1000 Gil: useful
+10000 Gil (#1): useful
+10000 Gil (#2): useful
+12000 Gil (#1): useful
+12000 Gil (#2): useful
+12000 Gil (#3): useful
+15000 Gil: useful
+18000 Gil: useful
+1st Tablet: progression
+2-Wield Ability: useful
+20000 Gil: useful
+2500 Gil: useful
+25000 Gil: useful
+2nd Tablet: progression
+300 Gil: filler
+3rd Tablet: progression
+4400 Gil: useful
+4900 Gil: useful
+4th Tablet: progression
+5000 Gil (#1): useful
+5000 Gil (#2): useful
+5000 Gil (#3): useful
+5000 Gil (#4): useful
+8000 Gil (#1): useful
+8000 Gil (#2): useful
+8000 Gil (#3): useful
+9000 Gil (#1): useful
+9000 Gil (#2): useful
+9000 Gil (#3): useful
+9500 Gil: useful
+9900 Gil: useful
+???? Blue Magic: useful
+Adamantite: progression
+Aegis Shield Item: useful
 Aero 2 Blue Magic: useful
 Aero 3 Blue Magic: useful
-Emission Blue Magic: useful
-GblinPnch Blue Magic: useful
-DrkShock Blue Magic: useful
-GuardOff Blue Magic: useful
-Fusion Blue Magic: useful
-MindBlst Blue Magic: useful
-Vampire Blue Magic: useful
-Hammer Blue Magic: useful
-BigGuard Blue Magic: useful
-Exploder Blue Magic: useful
-???? Blue Magic: useful
-Blowfish Blue Magic: useful
-WhiteWind Blue Magic: useful
-Missile Blue Magic: useful
-Kick Ability: useful
-BuildUp Ability: useful
-Mantra Ability: useful
-Escape Ability: useful
-Steal Ability: useful
-Mug Ability: useful
-Jump Ability: useful
-DrgnSwd Ability: useful
-Smoke Ability: useful
-Image Ability: useful
-Throw Ability: useful
-SwdSlap Ability: useful
-GilToss Ability: useful
-Slash Ability: useful
-Animals Ability: useful
+Aero Blue Magic: useful
+Agility Ability: useful
 Aim Ability: useful
-X-Fight Ability: useful
-Conjure Ability: useful
-Observe Ability: useful
+Air Blade Item: useful
+Air Knife Item: useful
 Analyze Ability: useful
-Tame Ability: useful
-Control Ability: useful
-Catch Ability: progression
-Mix Ability: useful
-Drink Ability: useful
-Pray Ability: useful
-Revive Ability: useful
-Terrain Ability: useful
-Hide Ability: useful
-Sing Ability: useful
-Flirt Ability: useful
-Dance Ability: useful
-Mimic Ability: useful
-MgcSwrd Lv.1 Ability: filler
-MgcSwrd Lv.2 Ability: filler
-MgcSwrd Lv.3 Ability: filler
-MgcSwrd Lv.4 Ability: useful
-MgcSwrd Lv.5 Ability: useful
-MgcSwrd Lv.6 Ability: useful
-White Lv.1 Ability: filler
-White Lv.2 Ability: filler
-White Lv.3 Ability: filler
-White Lv.4 Ability: useful
-White Lv.5 Ability: useful
-White Lv.6 Ability: useful
+Ancient Sword Item: useful
+Angel Gwn Item: useful
+Angel Ring Item: useful
+Animals Ability: useful
+Antdt White Magic: useful
+Anti Barrier: progression
+AntiMagic Bow Item: useful
+Antidote Item: filler
+Apollo's Harp Item: useful
+AquaRake Blue Magic: useful
+Armor White Magic: useful
+Artemis Bow Item: useful
+Assassin Item: useful
+Avis Killer Item: useful
+Bahmut Esper Magic: useful
+Bandana Item: filler
+Bard Crystal: useful
+Bard's Surplice Item: useful
+Barrier Ability: useful
+Battle Axe Item: filler
+BeastKiller Item: useful
+Berserk Ability: useful
+Berserker Crystal: useful
+Bersk White Magic: useful
+Big Bridge Key: progression
+BigGuard Blue Magic: useful
+Bio Black Magic: useful
+Bio Sword Magic: useful
+Bizen Item: filler
 Black Lv.1 Ability: filler
 Black Lv.2 Ability: filler
 Black Lv.3 Ability: filler
 Black Lv.4 Ability: useful
 Black Lv.5 Ability: useful
 Black Lv.6 Ability: useful
+Black Robe Item: useful
+BlackMage Crystal: useful
+Blowfish Blue Magic: useful
+Blue Ability: useful
+BlueMage Crystal: useful
+Bolt Black Magic: useful
+Bolt Sword Magic: useful
+Bolt2 Black Magic: useful
+Bolt2 Sword Magic: useful
+Bolt3 Black Magic: useful
+Bolt3 Sword Magic: useful
+Bone Mail Item: useful
+Bracelet: progression
+Brave Blade Item: useful
+Brawl Ability: useful
+Break Black Magic: useful
+Break Sword Magic: useful
+Broadsword Item: filler
+Bronze Armor Item: filler
+Bronze Helm Item: filler
+Bronze Shield Item: filler
+BuildUp Ability: useful
+Cabin Item: filler
+Catch Ability: progression
+Caution Ability: useful
+Chain Whip Item: filler
+Charm Song Magic: useful
+Charm White Magic: useful
+Chemist Crystal: useful
+Chicken Knife Item: useful
+Chocob Esper Magic: useful
+Circlet Item: filler
+Comet Time Magic: useful
+Condemn Blue Magic: useful
+Conjure Ability: useful
+Control Ability: useful
+CopperPlt Item: filler
+Coral Ring Item: useful
+Coral Sword Item: useful
+CornaJar Item: useful
+Cotton Robe Item: filler
+Counter Ability: useful
+Cover Ability: useful
+Crbnkl Esper Magic: useful
+Crystal Armor Item: useful
+Crystal Helm Item: useful
+Crystal Shield Item: useful
+Cure White Magic: useful
+Cure2 White Magic: useful
+Cure3 White Magic: useful
+Cursed Ring Item: filler
+Cursed Shield Item: useful
+Dagger Item: filler
+Dance Ability: useful
+Dancer Crystal: useful
+Dancing Dagger Item: useful
+DarkHood Item: useful
+DarkMatter Item: useful
+DarkSuit Item: useful
+Darkness Bow Item: useful
+Dbl Grip Ability: useful
+DblLance Item: useful
+Defender Sword Item: useful
+Demi Time Magic: useful
+DethClaw Blue Magic: useful
+DiamndPlt Item: useful
+Diamond Armlet Item: filler
+Diamond Armor Item: useful
+Diamond Helm Item: useful
+Diamond Shield Item: useful
+Dispel White Magic: useful
+DmgFloor Ability: filler
+Doom Black Magic: useful
+DoomCut Item: useful
+Drag Time Magic: useful
+Dragon's Whisker Item: useful
+DragonFang Item: useful
+Dragoon Crystal: useful
+Dragoon Lance Item: useful
+Drain Black Magic: useful
+Drain Sword Item: useful
+Drain Sword Magic: useful
+Dream Harp Item: filler
+DrgnSwd Ability: useful
+Drink Ability: useful
+DrkShock Blue Magic: useful
+Earth Bell Item: useful
+Earth Hammer Item: useful
+Elder Branch: progression
+Elf Cape Item: useful
+Elixir Item: useful
+Elven Bow Item: useful
+Emission Blue Magic: useful
+Enhancer Item: useful
+Epee Sword Item: useful
+Equip Armors Ability: filler
+Equip Axes Ability: filler
+Equip Bows Ability: filler
+Equip Harps Ability: filler
+Equip Katana Ability: filler
+Equip Ribbon Ability: filler
+Equip Rods Ability: filler
+Equip Shield Ability: filler
+Equip Spears Ability: filler
+Equip Swords Ability: filler
+Equip Whips Ability: filler
+Escape Ability: useful
+Ether Item: filler
+Evade Ability: useful
+Excailbur Item: filler
+Excalibur Item: useful
+Exit Time Magic: useful
+Exploder Blue Magic: useful
+Eyedrop Item: filler
+Falls Page: progression
+Fire Black Magic: useful
+Fire Bow Item: filler
+Fire Rod Item: useful
+Fire Sword Magic: useful
+Fire2 Black Magic: useful
+Fire2 Sword Magic: useful
+Fire3 Black Magic: useful
+Fire3 Sword Magic: useful
+Flail Item: filler
+Flame Ring Item: useful
+Flame Scroll Item: filler
+Flame Shield Item: useful
+Flame Whip Item: useful
+Flametongue Item: useful
+Flare Black Magic: useful
+Flare Sword Magic: useful
+Flash Blue Magic: useful
+Flirt Ability: useful
+Float Time Magic: useful
+Forged Item: useful
+Freelancer Crystal: useful
+FrogSong Blue Magic: useful
+Full Moon Item: useful
+Fusion Blue Magic: useful
+Gaia Gear Item: useful
+Gale Bow Item: useful
+Gauntlets Item: useful
+GblinPnch Blue Magic: useful
+Genji Armor Item: useful
+Genji Gloves Item: useful
+Genji Helm Item: useful
+Genji Shield Item: useful
+Geomancer Crystal: useful
+Giant Drink Item: filler
+Giant's Axe Item: useful
+Giant's Gloves Item: useful
+GilToss Ability: useful
+Giyaman Item: filler
+Glasses Item: filler
+Gold Hairpin Item: useful
+Golden Armor Item: useful
+Golden Helm Item: useful
+Golden Shield Item: filler
+Golem Esper Magic: useful
+Golem Item: useful
+GrnBeret Item: filler
+Guard Ring Item: useful
+GuardOff Blue Magic: useful
+Guardian Item: useful
+HP +10% Ability: filler
+HP +20% Ability: filler
+HP +30% Ability: useful
+Hammer Blue Magic: useful
+Hardened Dagger Item: useful
+Hast2 Time Magic: useful
+Haste Time Magic: useful
+Heal White Magic: useful
+Healing Staff Item: useful
+Heavy Spear Item: useful
+Hero Drink Item: filler
+Hero Song Magic: useful
+HiPotion Item: filler
+Hide Ability: useful
+Hiryuu Call: progression
+Holy Lance Item: useful
+Holy Sword Magic: useful
+Holy White Magic: useful
+Hunter Crystal: useful
+Hypno Helm Item: useful
+Ice Black Magic: useful
+Ice Bow Item: filler
+Ice Rod Item: useful
+Ice Shield Item: useful
+Ice Sword Magic: useful
+Ice2 Black Magic: useful
+Ice2 Sword Magic: useful
+Ice3 Black Magic: useful
+Ice3 Sword Magic: useful
+IceBrand Item: useful
+Ifrit Esper Magic: useful
+Ifrit's Fire: progression
+Image Ability: useful
+Image White Magic: useful
+Iron Armor Item: filler
+Iron Helm Item: filler
+Iron Shield Item: filler
+Javelin Item: useful
+Judgement Staff Item: useful
+Jump Ability: useful
+Kaiser Knuckles Item: useful
+Katana Item: filler
+Kick Ability: useful
+Killer Bow Item: useful
+Knife Item: filler
+Knight Crystal: useful
+Kodachi Item: useful
+Kotetsu Item: filler
+Kunai Item: filler
+L2 Old Blue Magic: useful
+L3 Flare Blue Magic: useful
+L4 Qrter Blue Magic: useful
+L5 Doom Blue Magic: useful
+Lamia's Harp Item: filler
+Lamia's Tiara Item: useful
+Leather Armor Item: filler
+Leather Cap Item: useful
+Leather Shield Item: filler
+Leather Shoes Item: filler
+Levia Esper Magic: useful
+Life White Magic: useful
+Life2 White Magic: useful
+Lillith Rod Item: useful
+Love Song Magic: useful
+LuckMallet Item: filler
+Lumina Robe Item: useful
+MP +10% Ability: filler
+MP +30% Ability: useful
+Mage Masher Item: useful
+Magic Lamp Item: useful
+Magic Song Magic: useful
+Magus Item: useful
+Maiden's Kiss Item: filler
+ManEater Item: useful
+Mantra Ability: useful
+Masamune Item: useful
+Medicine Ability: filler
+Meteo Time Magic: useful
+MgcSwrd Lv.1 Ability: filler
+MgcSwrd Lv.2 Ability: filler
+MgcSwrd Lv.3 Ability: filler
+MgcSwrd Lv.4 Ability: useful
+MgcSwrd Lv.5 Ability: useful
+MgcSwrd Lv.6 Ability: useful
+Mimic Ability: useful
+Mimic Crystal: useful
+MindBlst Blue Magic: useful
+Mirage Radar: progression
+Mirage Vest Item: useful
+Missile Blue Magic: useful
+Mix Ability: useful
+Monk Crystal: useful
+Moogle Suit: progression
+MoonFlut Blue Magic: useful
+Morning Star Item: filler
+Mug Ability: useful
+Murasume Item: useful
+Mute Sword Magic: useful
+Mute White Magic: useful
+MysticKnight Crystal: useful
+Mythril Armor Item: filler
+Mythril Glove Item: filler
+Mythril Hammer Item: useful
+Mythril Helm Item: filler
+Mythril Knife Item: filler
+Mythril Shield Item: filler
+Mythril Spear Item: filler
+Mythril Staff Item: filler
+Mythril Sword Item: filler
+Ninja Crystal: useful
+Observe Ability: useful
+Odin Esper Magic: useful
+Ogre Killer Item: useful
+Old Time Magic: useful
+Orialcon Item: useful
+Partisan Item: useful
+Phenix Esper Magic: useful
+Phoenix Down Item: useful
+Pinwheel Item: useful
+Plumed Hat Item: useful
+Potion Item: filler
+Power Drink Item: filler
+Power Song Magic: useful
+Power Staff Item: useful
+Power Wrist Item: useful
+Pray Ability: useful
+Preemptive Ability: useful
+Protect Drink Item: filler
+Psych Black Magic: useful
+Psych Sword Magic: useful
+Pyramid Page: progression
+Qrter Time Magic: useful
+Quick Time Magic: useful
+Ragnarok Item: useful
+Rainbow Dress Item: useful
+Ramuh Esper Magic: useful
+Ramuh Item: useful
+Red Lv.1 Ability: useful
+Red Lv.2 Ability: useful
+Red Lv.3 Ability: useful
+Red Shoes Item: useful
+RedMage Crystal: useful
+RegalCut Item: filler
+Regen Time Magic: useful
+Remora Esper Magic: useful
+Requiem Song Magic: useful
+Reset Time Magic: useful
+Revive Ability: useful
+Revivify Item: filler
+Ribbon Item: useful
+RisingSun Item: useful
+Rod Item: filler
+Roulette Blue Magic: useful
+Rune Axe Item: useful
+Rune Chime Item: useful
+RuneEdge Item: useful
+Running Shoes Item: useful
+Sage's Staff Item: useful
+Samurai Crystal: useful
+SandwormBait: progression
+Scan White Magic: useful
+Shell White Magic: useful
+Shiva Esper Magic: useful
+Shoat Esper Magic: useful
+Shoat Item: useful
+Shrine Page: progression
+Shuriken Item: filler
+Silk robe Item: filler
+Silver Armlet Item: filler
+Silver Bow Item: useful
+Silver Harp Item: useful
+Silver Plate Item: useful
+Sing Ability: useful
+Size White Magic: useful
+Slash Ability: useful
+Sleep Black Magic: useful
+Sleep Sword Magic: useful
+Slow Time Magic: useful
+Slow2 Time Magic: useful
+Slumber Sword Item: useful
+Smoke Ability: useful
+Soft Item: filler
+Soot Item: filler
+Spear Item: filler
+Speed Drink Item: filler
+Speed Song Magic: useful
+Staff Item: filler
+Staff of Light Item: useful
+Steal Ability: useful
+Stealth Suit Item: useful
+Steamship Key: progression
+Stop Time Magic: useful
+Strength Item: useful
+Submarine Key: progression
+Summon Lv.1 Ability: filler
+Summon Lv.2 Ability: filler
+Summon Lv.3 Ability: filler
+Summon Lv.4 Ability: useful
+Summon Lv.5 Ability: useful
+Summoner Crystal: useful
+SwdSlap Ability: useful
+Syldra Esper Magic: useful
+Sylph Esper Magic: useful
+Tame Ability: useful
+Tempest Item: useful
+Tent Item: filler
+Terrain Ability: useful
+Thief Crystal: useful
+Thief Knife Item: useful
+Thief's Glove Item: useful
+Thor Hammer Item: useful
+Thornlet Item: useful
+Throw Ability: useful
+Thunder Bow Item: filler
+Thunder Rod Item: useful
+Thunder Scroll Item: filler
+Thunder Whip Item: useful
+Tiger Mask Item: useful
 Time Lv.1 Ability: filler
 Time Lv.2 Ability: filler
 Time Lv.3 Ability: filler
 Time Lv.4 Ability: useful
 Time Lv.5 Ability: useful
 Time Lv.6 Ability: useful
-Summon Lv.1 Ability: filler
-Summon Lv.2 Ability: filler
-Summon Lv.3 Ability: filler
-Summon Lv.4 Ability: useful
-Summon Lv.5 Ability: useful
-Red Lv.1 Ability: useful
-Red Lv.2 Ability: useful
-Red Lv.3 Ability: useful
-X-Magic Ability: useful
-Blue Ability: useful
-Equip Shield Ability: filler
-Equip Armors Ability: filler
-Equip Ribbon Ability: filler
-Equip Swords Ability: filler
-Equip Spears Ability: filler
-Equip Katana Ability: filler
-Equip Axes Ability: filler
-Equip Bows Ability: filler
-Equip Whips Ability: filler
-Equip Harps Ability: filler
-Agility Ability: useful
-HP +10% Ability: filler
-HP +20% Ability: filler
-HP +30% Ability: useful
-MP +10% Ability: filler
-MP +30% Ability: useful
-Brawl Ability: useful
-Dbl Grip Ability: useful
-2-Wield Ability: useful
-Medicine Ability: filler
-Cover Ability: useful
-Counter Ability: useful
-Evade Ability: useful
-Barrier Ability: useful
-Berserk Ability: useful
-Caution Ability: useful
-Preemptive Ability: useful
-DmgFloor Ability: filler
-Equip Rods Ability: filler
-Knife Item: filler
-Dagger Item: filler
-Mythril Knife Item: filler
-Kunai Item: filler
-Mage Masher Item: useful
-Guardian Item: useful
-Kodachi Item: useful
-Orialcon Item: useful
-Air Knife Item: useful
-Assassin Item: useful
-Hardened Dagger Item: useful
-Broadsword Item: filler
-RegalCut Item: filler
-Mythril Sword Item: filler
-Coral Sword Item: useful
-Ancient Sword Item: useful
-Epee Sword Item: useful
-Slumber Sword Item: useful
-Defender Sword Item: useful
-Excalibur Item: useful
-Ragnarok Item: useful
-Javelin Item: useful
-Spear Item: filler
-Mythril Spear Item: filler
-Trident Item: useful
-Wind Spear Item: useful
-Partisan Item: useful
-Heavy Spear Item: useful
-DblLance Item: useful
-Holy Lance Item: useful
-Dragoon Lance Item: useful
-Battle Axe Item: filler
-Mythril Hammer Item: useful
-Ogre Killer Item: useful
-War Hammer Item: useful
-Venom Axe Item: useful
-Earth Hammer Item: useful
-Rune Axe Item: useful
-Thor Hammer Item: useful
-Katana Item: filler
-Air Blade Item: useful
-Kotetsu Item: filler
-Bizen Item: filler
-Forged Item: useful
-Murasume Item: useful
-Masamune Item: useful
-Tempest Item: useful
-Rod Item: filler
-Fire Rod Item: useful
-Ice Rod Item: useful
-Thunder Rod Item: useful
-Venom Rod Item: useful
-Lillith Rod Item: useful
-Wizard Rod Item: useful
-Staff Item: filler
-Mythril Staff Item: filler
-Power Staff Item: useful
-Healing Staff Item: useful
-Staff of Light Item: useful
-Sage's Staff Item: useful
-Judgement Staff Item: useful
-Fire Bow Item: filler
-Ice Bow Item: filler
-Thunder Bow Item: filler
-Darkness Bow Item: useful
-Killer Bow Item: useful
-Elven Bow Item: useful
-Yoichi Bow Item: useful
-Artemis Bow Item: useful
-Silver Harp Item: useful
-Dream Harp Item: filler
-Lamia's Harp Item: filler
-Apollo's Harp Item: useful
-Whip Item: filler
-Chain Whip Item: filler
-Thunder Whip Item: useful
-Flame Whip Item: useful
-Dragon's Whisker Item: useful
-Giyaman Item: filler
-Earth Bell Item: useful
-Rune Chime Item: useful
+Time Slip Blue Magic: useful
+TimeMage Crystal: useful
 Tinkerbell Item: useful
-Drain Sword Item: useful
-RuneEdge Item: useful
-Flametongue Item: useful
-IceBrand Item: useful
-Full Moon Item: useful
-Shuriken Item: filler
-Pinwheel Item: useful
-Excailbur Item: filler
-BeastKiller Item: useful
-Flail Item: filler
-Morning Star Item: filler
-Wonder Wand Item: useful
-Brave Blade Item: useful
-Soot Item: filler
-Chicken Knife Item: useful
-RisingSun Item: useful
-Silver Bow Item: useful
-Gale Bow Item: useful
-AntiMagic Bow Item: useful
-Avis Killer Item: useful
-DoomCut Item: useful
-Giant's Axe Item: useful
-ManEater Item: useful
-Thief Knife Item: useful
-Dancing Dagger Item: useful
-Enhancer Item: useful
-Leather Shield Item: filler
-Bronze Shield Item: filler
-Iron Shield Item: filler
-Mythril Shield Item: filler
-Golden Shield Item: filler
-Aegis Shield Item: useful
-Diamond Shield Item: useful
-Crystal Shield Item: useful
-Leather Cap Item: useful
-Bronze Helm Item: filler
-Iron Helm Item: filler
-Mythril Helm Item: filler
-Golden Helm Item: useful
-Diamond Helm Item: useful
-Crystal Helm Item: useful
-Plumed Hat Item: useful
-Tricorn Hat Item: useful
-Magus Item: useful
-Circlet Item: filler
-Gold Hairpin Item: useful
-Ribbon Item: useful
-Bandana Item: filler
-GrnBeret Item: filler
-DarkHood Item: useful
-Lamia's Tiara Item: useful
-Leather Armor Item: filler
-Bronze Armor Item: filler
-Iron Armor Item: filler
-Mythril Armor Item: filler
-Golden Armor Item: useful
-Diamond Armor Item: useful
-Crystal Armor Item: useful
-CopperPlt Item: filler
+TinySong Blue Magic: useful
+Titan Esper Magic: useful
+Toad Black Magic: useful
+Trainer Crystal: progression
 Training Suit Item: filler
-Silver Plate Item: useful
-Stealth Suit Item: useful
-DiamndPlt Item: useful
-DarkSuit Item: useful
-Cotton Robe Item: filler
-Silk robe Item: filler
-Gaia Gear Item: useful
-Bard's Surplice Item: useful
-Lumina Robe Item: useful
-Black Robe Item: useful
-White Robe Item: useful
-Mirage Vest Item: useful
-Guard Ring Item: useful
-Thief's Glove Item: useful
-Giant's Gloves Item: useful
-Elf Cape Item: useful
-Cursed Ring Item: filler
-Glasses Item: filler
-Running Shoes Item: useful
-Mythril Glove Item: filler
-Silver Armlet Item: filler
-Diamond Armlet Item: filler
-Strength Item: useful
-Power Wrist Item: useful
-Angel Gwn Item: useful
-Angel Ring Item: useful
-Flame Ring Item: useful
-Coral Ring Item: useful
-Bone Mail Item: useful
-Leather Shoes Item: filler
-Kaiser Knuckles Item: useful
-Gauntlets Item: useful
-Tiger Mask Item: useful
-Flame Shield Item: useful
-CornaJar Item: useful
-Genji Shield Item: useful
-Genji Helm Item: useful
-Genji Armor Item: useful
-Genji Gloves Item: useful
-Wall Ring Item: useful
-Hypno Helm Item: useful
-Thornlet Item: useful
-Ice Shield Item: useful
-Cursed Shield Item: useful
-Rainbow Dress Item: useful
-Red Shoes Item: useful
-Potion Item: filler
-HiPotion Item: filler
-Ether Item: filler
-Elixir Item: useful
-Phoenix Down Item: useful
-Maiden's Kiss Item: filler
-Revivify Item: filler
-TurtleShell Item: filler
-Antidote Item: filler
-Eyedrop Item: filler
-DragonFang Item: useful
-DarkMatter Item: useful
-Soft Item: filler
-LuckMallet Item: filler
-Magic Lamp Item: useful
-Tent Item: filler
-Cabin Item: filler
-Giant Drink Item: filler
-Power Drink Item: filler
-Speed Drink Item: filler
-Protect Drink Item: filler
-Hero Drink Item: filler
-Ramuh Item: useful
-Shoat Item: useful
-Golem Item: useful
-Flame Scroll Item: filler
-Water Scroll Item: filler
-Thunder Scroll Item: filler
-100 Gil: filler
-300 Gil: filler
-1000 Gil: useful
-5000 Gil (#1): useful
-9900 Gil: useful
-8000 Gil (#1): useful
-4400 Gil: useful
-10000 Gil (#1): useful
-5000 Gil (#2): useful
-8000 Gil (#2): useful
-5000 Gil (#3): useful
-9000 Gil (#1): useful
-18000 Gil: useful
-2500 Gil: useful
-4900 Gil: useful
-9500 Gil: useful
-9000 Gil (#2): useful
-8000 Gil (#3): useful
-10000 Gil (#2): useful
-12000 Gil (#1): useful
-12000 Gil (#2): useful
-9000 Gil (#3): useful
-12000 Gil (#3): useful
-5000 Gil (#4): useful
-15000 Gil: useful
-20000 Gil: useful
-25000 Gil: useful
-Walse Tower Key: progression
-Steamship Key: progression
-Ifrit's Fire: progression
-SandwormBait: progression
-Big Bridge Key: progression
-Hiryuu Call: progression
-Submarine Key: progression
-Anti Barrier: progression
-Bracelet: progression
-Pyramid Page: progression
-Shrine Page: progression
 Trench Page: progression
-Falls Page: progression
-Mirage Radar: progression
-Adamantite: progression
-Moogle Suit: progression
-Elder Branch: progression
-1st Tablet: progression
-2nd Tablet: progression
-3rd Tablet: progression
-4th Tablet: progression
-Fire Sword Magic: useful
-Drag Time Magic: useful
-Exit Time Magic: useful
+Tricorn Hat Item: useful
+Trident Item: useful
+TurtleShell Item: filler
+Vampire Blue Magic: useful
+Venom Axe Item: useful
+Venom Black Magic: useful
+Venom Rod Item: useful
+Venom Sword Magic: useful
+Vitality Song Magic: useful
+Void Time Magic: useful
+Wall Ring Item: useful
+Wall White Magic: useful
+Walse Tower Key: progression
+War Hammer Item: useful
+Water Scroll Item: filler
+Whip Item: filler
+White Lv.1 Ability: filler
+White Lv.2 Ability: filler
+White Lv.3 Ability: filler
+White Lv.4 Ability: useful
+White Lv.5 Ability: useful
+White Lv.6 Ability: useful
+White Robe Item: useful
+WhiteMage Crystal: useful
+WhiteWind Blue Magic: useful
+Wind Spear Item: useful
+Wizard Rod Item: useful
+Wonder Wand Item: useful
+X-Fight Ability: useful
+X-Magic Ability: useful
+Xzone Time Magic: useful
+Yoichi Bow Item: useful

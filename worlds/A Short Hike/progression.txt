@@ -1,31 +1,4 @@
-Stick: progression
-Seashell: progression
-Golden Feather: progression
-Silver Feather: useful
-Bucket: progression
-Bait: filler
-Progressive Fishing Rod: progression
-Shovel: progression
-Toy Shovel: progression
-Compass: useful
-Medal: filler
-Shell Necklace: progression
-Wristwatch: progression
-Motorboat Key: progression
-Pickaxe: useful
-Fishing Journal: useful
-A Stormy View Map: filler
-The King Map: filler
-The Treasure of Sid Beach Map: filler
-In Her Shadow Map: filler
-Sunhat: filler
-Baseball Cap: filler
-Provincial Park Hat: filler
-Headband: progression
-Running Shoes: useful
-Camping Permit: progression
-Walkie Talkie: useful
-7 Coins: filler
+13 Coins: filler
 15 Coins: filler
 18 Coins: filler
 21 Coins: filler
@@ -34,6 +7,33 @@ Walkie Talkie: useful
 32 Coins: useful
 33 Coins: useful
 50 Coins: useful
-13 Coins: filler
+7 Coins: filler
+A Stormy View Map: filler
+Bait: filler
+Baseball Cap: filler
 Boating Manual: filler
+Bucket: progression
+Camping Permit: progression
+Compass: useful
+Fishing Journal: useful
 Fishing Rod: progression
+Golden Feather: progression
+Headband: progression
+In Her Shadow Map: filler
+Medal: filler
+Motorboat Key: progression
+Pickaxe: useful
+Progressive Fishing Rod: progression
+Provincial Park Hat: filler
+Running Shoes: useful
+Seashell: progression
+Shell Necklace: progression
+Shovel: progression
+Silver Feather: useful
+Stick: progression
+Sunhat: filler
+The King Map: filler
+The Treasure of Sid Beach Map: filler
+Toy Shovel: progression
+Walkie Talkie: useful
+Wristwatch: progression

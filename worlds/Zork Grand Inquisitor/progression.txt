@@ -1,45 +1,54 @@
+AIMFIZ Scroll: Transport Caster to Someone Else's Location: filler
+Artifact of Magic: mcguffin
+BAYALA Scroll: Deform Body: filler
+BITTYJOO Scroll: Make Lies Undetectable: filler
+BLORB Scroll: Safely Protect a Small Object: filler
+BLORPLE Scroll: Explore an Object's Mystic Connections: filler
+BOOZNIK Scroll: Reverse Spells in Spellbook: filler
+BORCH Scroll: Put Insects to Sleep: filler
 Brog's Bickering Torch: filler
 Brog's Flickering Torch: progression
 Brog's Grue Egg: progression
 Brog's Plank: progression
+CASKLY Scroll: Cause Perfection: filler
+CLEESH Scroll: Change a Creature Into a Small Amphibian: filler
+CONBAK Scroll: Build Strong Bodies 12 Different Ways: filler
+Cigar: progression
+Cocoa Ingredients: progression
+DABHHU Scroll: Ensure Complete Obedience: filler
+DRILBO Scroll: Strip a Floor of Yellowed Wax: filler
+ESPNIS Scroll: Sleep: filler
+EXEX Scroll: Make Things Move With Greater Speed: filler
+FAIFT Scroll: Change Appearance to Look Younger: filler
+FILFRE Scroll: Create Gratuitous Fireworks: filler
+FIZMO Scroll: Cause Stopped-Up Pipes to Unclog: filler
+FOBLUB Scroll: Glue Audience to Seats: filler
+FRIPPLE Scroll: Erect a Magical Barrier: filler
+FROTZ Scroll: Cause Something to Give Off Light: filler
+FWEEP Scroll: Turn Caster Into a Bat: filler
 Flatheadia Fudge: progression
+Frobozz Electric Gadget: filler
+GASPAR Scroll: Provide for Your Own Resurrection: filler
+GHEL-OOH Scroll: Suspend Subject in a Gelatinous Substance: filler
+GILCH Scroll: Astral Travel: filler
+GIRGOL Scroll: Stop Time: filler
+GIZGUM Scroll: Predict Visits From Relatives: filler
+GLOTH Scroll: Fold Dough 83 Times: filler
+GNUSTO Scroll: Write a Magic Spell Into a Spellbook: filler
+GOLMAC Scroll: Travel Temporally: filler
+GONDAR Scroll: Extinguish Fire: filler
+GORCH Scroll: Create Ladder: filler
+GUNCHO Scroll: Banish Victim to Another Plane of Existence: filler
 Griff's Air Pump: progression
 Griff's Dragon Tooth: progression
 Griff's Inflatable Raft: progression
 Griff's Inflatable Sea Captain: progression
 Hammer: progression
-Hungus Lard: progression
-Jar of Hotbugs: progression
-Lantern: progression
-Large Telegraph Hammer: progression
-Lucy's Playing Card: 1 Pip: progression
-Lucy's Playing Card: 2 Pips: progression
-Lucy's Playing Card: 3 Pips: progression
-Lucy's Playing Card: 4 Pips: progression
-Map: progression
-Mead Light: progression
-Moss of Mareilon: progression
-Mug: progression
-Old Scratch Card: progression
-Perma-Suck Machine: progression
-Plastic Six-Pack Holder: progression
-Pouch of Zorkmids: progression
-Prozork Tablet: progression
-Quelbee Honeycomb: progression
-Rope: progression
-Scroll Fragment: ANS: progression
-Scroll Fragment: GIV: progression
-Shovel: progression
-Snapdragon: progression
-Student ID: progression
-Subway Token: progression
-Sword: progression
-ZIMDOR Scroll: progression
-Zork Rocks: progression
 Hotspot: 666 Mailbox: progression
 Hotspot: Alpine's Quandry Card Slots: progression
 Hotspot: Blank Scroll Box: progression
 Hotspot: Blinds: progression
+Hotspot: Bucket: progression
 Hotspot: Candy Machine Buttons: progression
 Hotspot: Candy Machine Coin Slot: progression
 Hotspot: Candy Machine Vacuum Slot: progression
@@ -53,20 +62,21 @@ Hotspot: Dirt Mound: progression
 Hotspot: Dock Winch: progression
 Hotspot: Dragon Claw: progression
 Hotspot: Dragon Nostrils: progression
+Hotspot: Dungeon Master's House Exit: progression
 Hotspot: Dungeon Master's Lair Entrance: progression
 Hotspot: Flood Control Buttons: progression
 Hotspot: Flood Control Doors: progression
 Hotspot: Frozen Treat Machine Coin Slot: progression
 Hotspot: Frozen Treat Machine Doors: progression
-Hotspot: Glass Case: progression
-Hotspot: Grand Inquisitor Doll: progression
 Hotspot: GUE Tech Door: progression
 Hotspot: GUE Tech Grass: progression
+Hotspot: Glass Case: progression
+Hotspot: Grand Inquisitor Doll: progression
 Hotspot: Hades Phone Buttons: progression
 Hotspot: Hades Phone Receiver: progression
-Hotspot: Harry: progression
 Hotspot: Harry's Ashtray: progression
 Hotspot: Harry's Bird Bath: progression
+Hotspot: Harry: progression
 Hotspot: In Magic We Trust Door: progression
 Hotspot: Jack's Door: progression
 Hotspot: Loudspeaker Volume Buttons: progression
@@ -85,6 +95,7 @@ Hotspot: Soda Machine Buttons: progression
 Hotspot: Soda Machine Coin Slot: progression
 Hotspot: Souvenir Coin Slot: progression
 Hotspot: Spell Checker: progression
+Hotspot: Spell Lab Bridge Exit: progression
 Hotspot: Spell Lab Chasm: progression
 Hotspot: Spring Mushroom: progression
 Hotspot: Student ID Machine: progression
@@ -93,125 +104,120 @@ Hotspot: Tavern Fly: progression
 Hotspot: Totemizer Switch: progression
 Hotspot: Totemizer Wheels: progression
 Hotspot: Well: progression
+Hotspots: Crossroads: progression
+Hotspots: Dragon Archipelago: progression
+Hotspots: Dungeon Master's Lair: progression
+Hotspots: Flood Control Dam #3: progression
+Hotspots: GUE Tech: progression
+Hotspots: Hades: progression
+Hotspots: Monastery: progression
+Hotspots: Past Port Foozle: progression
+Hotspots: Port Foozle: progression
+Hotspots: Spell Lab: progression
+Hotspots: White House: progression
+Hungus Lard: progression
+IMALI Scroll: Worsen Eyesight: filler
+IZYUK Scroll: Fly Like a Bird: filler
+Infinite Corridor Trap: trap
+Inquisition Propaganda Flyer: filler
+JINDAK Scroll: Detect Magic: filler
+Jar of Hotbugs: progression
+KEPMKOMN Scroll: Cause Massive Destruction to Edifices: filler
+KOAASST Scroll: Play Soothing Ambient Music: filler
+KRAK Scroll: Slow Time Drastically: filler
+KREBF Scroll: Repair Willful Damage: filler
+LESOCH Scroll: Gust of Wind: filler
+LEXDOM Scroll: Create Lock and Key: filler
+LIDIBO Scroll: Make a Creature Think You Are Really Ugly: filler
+LISKON Scroll: Shrink a Living Thing: filler
+LOBAL Scroll: Sharpen Hearing: filler
+LOKTAR Scroll: Cause Temporal Distension: filler
+Lantern: progression
+Large Telegraph Hammer: progression
+Lucy's Playing Card: 1 Pip: progression
+Lucy's Playing Card: 2 Pips: progression
+Lucy's Playing Card: 3 Pips: progression
+Lucy's Playing Card: 4 Pips: progression
+MALYON Scroll: Animate Inanimate Objects: filler
+MEEF Scroll: Cause Plants to Wilt: filler
+MELBOR Scroll: Protect From Harm by Evil Beings: filler
+MUSDEX Scroll: Improve Muscle Tone: filler
+Magic Contraband: filler
+Map: progression
+Mead Light: progression
+Monastery Rope: progression
+Moss of Mareilon: progression
+Mug: progression
+NERZO Scroll: Balance Checkbook: filler
+NIKMO Scroll: Cause Urge to Initiate a Temporary Relationship: filler
+NITFOL Scroll: Converse With Beasts in Their Own Tongue: filler
+Nonsensical Inquisition Paperwork: filler
+OTSUNG Scroll: Erase Spell Written in Spellbook: filler
+Old Scratch Card: progression
+PAX-TEN Scroll: Slow Productivity Through Confusion: filler
+PULVER Scroll: Dry Liquids: filler
+Perma-Suck Machine: progression
+Plastic Six-Pack Holder: progression
+Pouch of Zorkmids: progression
+Prozork Tablet: progression
+QUELBO Scroll: Transmute Coconuts Into Gold: filler
+Quelbee Honeycomb: progression
+Reverse Controls Trap: trap
+Rope: progression
+STEGAW Scroll: Turn Eggs Into Ripe Guano: filler
+SWANZO Scroll: Exorcise an Inhabiting Presence: filler
+Sandwitch Wrapper: filler
+Scroll Fragment: ANS: progression
+Scroll Fragment: GIV: progression
+Shovel: progression
+Snapdragon: progression
+Spell: BEBURTT: progression
 Spell: GLORF: progression
 Spell: GOLGATEM: progression
 Spell: IGRAM: progression
 Spell: KENDALL: progression
 Spell: NARWILE: progression
+Spell: OBIDIL: progression
 Spell: REZROV: progression
+Spell: SNAVIG: progression
 Spell: THROCK: progression
 Spell: VOXAM: useful
+Spell: YASTARD: progression
+Student ID: progression
+Subway Destination: Crossroads: progression
 Subway Destination: Flood Control Dam #3: progression
 Subway Destination: Hades: progression
 Subway Destination: Monastery: progression
+Subway Token: progression
+Sword: progression
+TINSOT Scroll: Freeze Into Place: unknown
+Teleport Trap: trap
+Teleporter Destination: Crossroads: progression
 Teleporter Destination: Dungeon Master's Lair: progression
 Teleporter Destination: GUE Tech: progression
 Teleporter Destination: Hades: progression
 Teleporter Destination: Monastery Station: progression
 Teleporter Destination: Spell Lab: progression
-Totemizer Destination: Hall of Inquisition: progression
-Totemizer Destination: Infinity: filler
-Totemizer Destination: Straight to Hell: progression
-Totemizer Destination: Surface of Merz: filler
 Totem: Brog: progression
 Totem: Griff: progression
 Totem: Lucy: progression
-Inquisition Propaganda Flyer: filler
-Unreadable Spell Scroll: filler
-Magic Contraband: filler
-Frobozz Electric Gadget: filler
-Nonsensical Inquisition Paperwork: filler
-LOKTAR Scroll: Cause Temporal Distension: filler
-Zork Tour Landmark: mcguffin
-Spell: YASTARD: progression
-MEEF Scroll: Cause Plants to Wilt: filler
-LOBAL Scroll: Sharpen Hearing: filler
-GUNCHO Scroll: Banish Victim to Another Plane of Existence: filler
-BAYALA Scroll: Deform Body: filler
-IMALI Scroll: Worsen Eyesight: filler
-Hotspot: Dungeon Master's House Exit: progression
-KOAASST Scroll: Play Soothing Ambient Music: filler
-GILCH Scroll: Astral Travel: filler
-FOBLUB Scroll: Glue Audience to Seats: filler
-FILFRE Scroll: Create Gratuitous Fireworks: filler
-Hotspot: Spell Lab Bridge Exit: progression
-SWANZO Scroll: Exorcise an Inhabiting Presence: filler
-AIMFIZ Scroll: Transport Caster to Someone Else's Location: filler
-Hotspots: Past Port Foozle: progression
-Teleport Trap: trap
-ZVision Trap: trap
-Hotspots: Crossroads: progression
-Hotspots: Port Foozle: progression
-ZOOKA Scroll: Turn Eggs Into Overripe Cabbage: filler
-NERZO Scroll: Balance Checkbook: filler
-NITFOL Scroll: Converse With Beasts in Their Own Tongue: filler
-FIZMO Scroll: Cause Stopped-Up Pipes to Unclog: filler
-Reverse Controls Trap: trap
-Hotspots: Monastery: progression
-LIDIBO Scroll: Make a Creature Think You Are Really Ugly: filler
-EXEX Scroll: Make Things Move With Greater Speed: filler
-DRILBO Scroll: Strip a Floor of Yellowed Wax: filler
-MUSDEX Scroll: Improve Muscle Tone: filler
-PULVER Scroll: Dry Liquids: filler
-MELBOR Scroll: Protect From Harm by Evil Beings: filler
+Totemizer Destination: Hall of Inquisition: progression
+Totemizer Destination: Infinity: filler
 Totemizer Destination: Newark, New Jersey: progression
-GHEL-OOH Scroll: Suspend Subject in a Gelatinous Substance: filler
-YOMIN Scroll: Mind Probe: filler
-GIZGUM Scroll: Predict Visits From Relatives: filler
-Hotspots: Flood Control Dam #3: progression
-Hotspots: Dragon Archipelago: progression
-QUELBO Scroll: Transmute Coconuts Into Gold: filler
-Spell: SNAVIG: progression
+Totemizer Destination: Straight to Hell: progression
+Totemizer Destination: Surface of Merz: filler
 UMBOZ Scroll: Obviate Need for Dusting: filler
-LESOCH Scroll: Gust of Wind: filler
-Spell: BEBURTT: progression
-Subway Destination: Crossroads: progression
-YONK Scroll: Augment the Power of Certain Spells: filler
-BLORPLE Scroll: Explore an Object's Mystic Connections: filler
-Hotspots: GUE Tech: progression
-BLORB Scroll: Safely Protect a Small Object: filler
-KEPMKOMN Scroll: Cause Massive Destruction to Edifices: filler
-Sandwitch Wrapper: filler
-FROTZ Scroll: Cause Something to Give Off Light: filler
-Teleporter Destination: Crossroads: progression
-GOLMAC Scroll: Travel Temporally: filler
-VAXUM Scroll: Make a Hostile Creature Your Friend: filler
-KRAK Scroll: Slow Time Drastically: filler
-Infinite Corridor Trap: trap
-FRIPPLE Scroll: Erect a Magical Barrier: filler
-Hotspots: White House: progression
-Cigar: progression
-BORCH Scroll: Put Insects to Sleep: filler
-Hotspots: Dungeon Master's Lair: progression
-GIRGOL Scroll: Stop Time: filler
-Artifact of Magic: mcguffin
-OTSUNG Scroll: Erase Spell Written in Spellbook: filler
-NIKMO Scroll: Cause Urge to Initiate a Temporary Relationship: filler
-DABHHU Scroll: Ensure Complete Obedience: filler
-Hotspots: Hades: progression
-Hotspot: Bucket: progression
-GONDAR Scroll: Extinguish Fire: filler
-BITTYJOO Scroll: Make Lies Undetectable: filler
-GASPAR Scroll: Provide for Your Own Resurrection: filler
-Hotspots: Spell Lab: progression
-ZIMBOR Scroll: Turn One Really Big City Into Lots of Tiny, Little Ashes: filler
-CASKLY Scroll: Cause Perfection: filler
-VEZZA Scroll: View the Future: filler
-Cocoa Ingredients: progression
-PAX-TEN Scroll: Slow Productivity Through Confusion: filler
+Unreadable Spell Scroll: filler
 VARDIK Scroll: Shield a Mind From an Evil Spirit: filler
-LEXDOM Scroll: Create Lock and Key: filler
-STEGAW Scroll: Turn Eggs Into Ripe Guano: filler
-Monastery Rope: progression
-MALYON Scroll: Animate Inanimate Objects: filler
-FWEEP Scroll: Turn Caster Into a Bat: filler
-GNUSTO Scroll: Write a Magic Spell Into a Spellbook: filler
+VAXUM Scroll: Make a Hostile Creature Your Friend: filler
+VEZZA Scroll: View the Future: filler
 Well Rope: progression
-GORCH Scroll: Create Ladder: filler
-ESPNIS Scroll: Sleep: filler
-LISKON Scroll: Shrink a Living Thing: filler
+YOMIN Scroll: Mind Probe: filler
+YONK Scroll: Augment the Power of Certain Spells: filler
 YOZOZZO Scroll: Turn Person Into a Mallard: filler
-CLEESH Scroll: Change a Creature Into a Small Amphibian: filler
-Spell: OBIDIL: progression
-BOOZNIK Scroll: Reverse Spells in Spellbook: filler
-IZYUK Scroll: Fly Like a Bird: filler
+ZIMBOR Scroll: Turn One Really Big City Into Lots of Tiny, Little Ashes: filler
+ZIMDOR Scroll: progression
+ZOOKA Scroll: Turn Eggs Into Overripe Cabbage: filler
+ZVision Trap: trap
+Zork Rocks: progression
+Zork Tour Landmark: mcguffin

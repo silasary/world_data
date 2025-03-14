@@ -73,8 +73,8 @@ Acorn: filler
 Acorns: filler
 Amulet of Annihilation: filler
 Ash: filler
-Atlas: useful
 Atlas Medallion: filler
+Atlas: useful
 Atom Smasher: progression
 Aura: filler
 Barrier: useful
@@ -99,8 +99,8 @@ Double Drain: useful
 Drain: filler
 Dry Ice: filler
 Energize: useful
-Energy Core: progression
 Energy Core Fragment: progression
+Energy Core: progression
 Escape: filler
 Ethanol: filler
 Explosion: useful
@@ -119,11 +119,11 @@ Heal: filler
 Herbal Essence: filler
 Honey: filler
 Horn Spear: progression
-Iron: filler
 Iron Bracer: filler
+Iron: filler
 Knight Basher: progression
-Lance: useful
 Lance (Weapon): progression
+Lance: useful
 Laser Lance: progression
 Levitate: progression
 Lightning Storm: useful

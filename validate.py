@@ -1,6 +1,7 @@
 import os
+from pathlib import Path
 
-from models import ItemClassification, load_datapackage
+from models import ItemClassification, load_datapackage, save_datapackage
 from utils import world_folder
 
 valid_classifications = set(ItemClassification.__members__.keys())
@@ -9,11 +10,19 @@ unknowns_by_world = {}
 all_items = {}
 
 def validate_world(world_name) -> None:
-    world_path = world_folder / world_name
+    world_path: Path = world_folder / world_name
     progression_txt = world_path / "progression.txt"
-    if not progression_txt.exists():
-        raise FileNotFoundError(f"progression.txt not found in {world_name}")
-    dp = load_datapackage(world_name)
+    # if not progression_txt.exists():
+    #     raise FileNotFoundError(f"progression.txt not found in {world_name}")
+    redirect = world_path / "redirect.txt"
+    if redirect.exists() and progression_txt.exists():
+        dp = load_datapackage(world_name, None, False)
+        dp = load_datapackage(world_name, dp)
+        save_datapackage(world_name, dp)
+        progression_txt.unlink()
+    else:
+        dp = load_datapackage(world_name)
+
     # assert dp.items, f"datapackage for {world_name} is empty"
     unknowns = {i for i in dp.items if dp.items[i] == ItemClassification.unknown}
     if unknowns:

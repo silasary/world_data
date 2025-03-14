@@ -144,8 +144,8 @@ Super: progression
 TenArrows: filler
 ThreeBombs: filler
 ThreeHundredRupees: filler
-TwentyRupees: filler
 TwentyRupees2: filler
+TwentyRupees: filler
 Varia: progression
 Wave: progression
 XRay: useful

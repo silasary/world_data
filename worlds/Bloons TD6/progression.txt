@@ -6,7 +6,7 @@ AcceleratedAerodarts-KUnlock: progression
 AcidStability-KUnlock: progression
 AdmiralBrickell-HUnlock: unknown
 Adora-HUnlock: progression
-AdorasTemple-MUnlock: unknown
+AdorasTemple-MUnlock: useful
 AdvancedLogistics-KUnlock: unknown
 AeronauticSubsidy-KUnlock: progression
 AirforceUpgrades-KUnlock: useful
@@ -133,7 +133,7 @@ IncreasedLifespan-KUnlock: unknown
 Infernal-MUnlock: unknown
 InlandRevenueStreams-KUnlock: progression
 InsiderTrades-KUnlock: progression
-JustOneMore-KUnlock: unknown
+JustOneMore-KUnlock: useful
 KartsNDarts-MUnlock: unknown
 LingeringMagic-KUnlock: progression
 Logs-MUnlock: progression
@@ -155,6 +155,7 @@ MiddleOfTheRoad-MUnlock: unknown
 MidnightMansion-MUnlock: unknown
 MilitaryConscription-KUnlock: unknown
 MoMonkeyMoney-KUnlock: progression
+Monkey Knowledge: useful
 Monkey Money: filler
 MonkeyAce-TUnlock: progression
 MonkeyBuccaneer-TUnlock: useful
@@ -247,6 +248,5 @@ Wingmonkey-KUnlock: progression
 WinterPark-MUnlock: progression
 WizardMonkey-TUnlock: progression
 Workshop-MUnlock: unknown
-XFactor-MUnlock: unknown
+XFactor-MUnlock: progression
 XrayUltra-KUnlock: progression
-Monkey Knowledge: useful

@@ -1,167 +1,167 @@
-White Chaos Emerald: unknown
-Cyan Chaos Emerald: unknown
-Red Chaos Emerald: unknown
-Green Chaos Emerald: unknown
+1 Ring: filler
+10 Rings: filler
+2 Rings: filler
+20 Rings: filler
+5 Rings: filler
+Air Fleet Alien: progression
+Air Fleet President Aircraft: unknown
+Black Comet Soldier: progression
 Blue Chaos Emerald: unknown
-Purple Chaos Emerald: unknown
-Yellow Chaos Emerald: unknown
-Goodbye Forever: unknown
-Stage:Westopolis: unknown
-Stage:Digital Circuit: unknown
-Stage:Glyphic Canyon: progression
-Stage:Lethal Highway: unknown
-Stage:Cryptic Castle: unknown
-Stage:Prison Island: unknown
-Stage:Circus Park: progression
-Stage:Central City: unknown
-Stage:The Doom: progression
-Stage:Sky Troops: unknown
-Stage:Mad Matrix: unknown
-Stage:Death Ruins: progression
-Stage:The Ark: progression
-Stage:Air Fleet: unknown
-Stage:Iron Jungle: progression
-Stage:Space Gadget: unknown
-Stage:Lost Impact: unknown
-Stage:Gun Fortress: progression
-Stage:Black Comet: progression
-Stage:Lava Shelter: progression
-Stage:Cosmic Fall: unknown
-Stage:Final Haunt: unknown
-Westopolis Soldier: progression
-Westopolis Alien: progression
+Boss Token: mcguffin
+Central City Big Bomb: progression
+Central City Little Bomb: progression
+Circus Park Soldier: progression
+Cryptic Castle Cream: unknown
+Cryptic Castle Lantern: progression
+Cyan Chaos Emerald: unknown
+Dark Token: unknown
+Death Ruins Alien: progression
+Final Haunt Shield: unknown
+Final Token: unknown
+Gauge:Dark-10000: filler
+Gauge:Dark-1000: filler
+Gauge:Dark-100: filler
+Gauge:Dark-15000: filler
+Gauge:Dark-1: filler
+Gauge:Dark-20000: filler
+Gauge:Dark-2000: filler
+Gauge:Dark-30000: unknown
+Gauge:Dark-5000: filler
+Gauge:Dark-500: filler
+Gauge:Dark-5: filler
+Gauge:Hero-10000: filler
+Gauge:Hero-1000: filler
+Gauge:Hero-100: filler
+Gauge:Hero-15000: filler
+Gauge:Hero-1: filler
+Gauge:Hero-20000: filler
+Gauge:Hero-2000: filler
+Gauge:Hero-30000: filler
+Gauge:Hero-5000: filler
+Gauge:Hero-500: filler
+Gauge:Hero-5: unknown
 Glyphic Canyon Alien: progression
 Glyphic Canyon Temple: progression
+Goodbye Forever: unknown
+Green Chaos Emerald: unknown
+Gun Fortress Computer: progression
+Hero Token: unknown
+Iron Jungle Egg Balloon: unknown
+Iron Jungle Soldier: progression
+Lava Shelter Defense: progression
 Lethal Highway Tank: unknown
-Cryptic Castle Lantern: progression
-Cryptic Castle Cream: unknown
-Prison Island Soldier: progression
-Prison Island Disc: progression
-Circus Park Soldier: progression
-Central City Big Bomb: unknown
-Central City Little Bomb: progression
-The Doom Soldier: progression
-The Doom Researcher: progression
-Sky Troops Egg Ship: unknown
-Sky Troops Temple: unknown
+Lost Impact Artificial Chaos: progression
 Mad Matrix Bomb: progression
 Mad Matrix Terminal: progression
-Death Ruins Alien: progression
-The Ark Defense Unit: unknown
-Air Fleet President Aircraft: unknown
-Air Fleet Alien: progression
-Iron Jungle Soldier: progression
-Iron Jungle Egg Balloon: unknown
-Space Gadget Defense Unit: unknown
-Lost Impact Artificial Chaos: progression
-Gun Fortress Computer: progression
-Black Comet Soldier: progression
-Lava Shelter Defense: progression
-Final Haunt Shield: unknown
-Nothing Junk: unknown
-Gauge:Hero-1: filler
-Gauge:Hero-5: unknown
-Gauge:Hero-100: unknown
-Gauge:Hero-500: filler
-Gauge:Hero-1000: filler
-Gauge:Hero-2000: filler
-Gauge:Hero-5000: filler
-Gauge:Hero-10000: filler
-Gauge:Hero-15000: filler
-Gauge:Hero-20000: filler
-Gauge:Hero-30000: filler
-Gauge:Dark-1: filler
-Gauge:Dark-5: unknown
-Gauge:Dark-100: filler
-Gauge:Dark-500: filler
-Gauge:Dark-1000: filler
-Gauge:Dark-2000: filler
-Gauge:Dark-5000: filler
-Gauge:Dark-10000: filler
-Gauge:Dark-15000: filler
-Gauge:Dark-20000: filler
-Gauge:Dark-30000: unknown
-1 Ring: filler
-2 Rings: filler
-5 Rings: filler
-10 Rings: filler
-20 Rings: filler
-Hero Token: unknown
-Dark Token: unknown
 Mission Token: mcguffin
-Final Token: unknown
+Nothing Junk: unknown
 Objective Token: unknown
-Weapon:Pistol: progression
-Weapon:Sub Machine Gun: unknown
-Weapon:Semi Automatic Rifle: progression
-Weapon:Heavy Machine Gun: unknown
-Weapon:Gatling Gun: unknown
-Weapon:Egg Gun: unknown
-Weapon:Light Shot: unknown
-Weapon:Flash Shot: progression
-Weapon:Ring Shot: unknown
-Weapon:Heavy Shot: unknown
-Weapon:Grenade Launcher: unknown
-Weapon:Bazooka: unknown
-Weapon:Tank Cannon: unknown
-Weapon:Black Barrel: unknown
-Weapon:Big Barrel: progression
-Weapon:Egg Bazooka: progression
-Weapon:RPG: unknown
+Prison Island Disc: progression
+Prison Island Soldier: progression
+Purple Chaos Emerald: unknown
+Red Chaos Emerald: unknown
+Sky Troops Egg Ship: progression
+Sky Troops Temple: unknown
+Space Gadget Defense Unit: unknown
+Stage:Air Fleet: unknown
+Stage:Black Comet: progression
+Stage:Black Doom Cosmic Fall: progression
+Stage:Central City: unknown
+Stage:Circus Park: progression
+Stage:Cosmic Fall: unknown
+Stage:Cryptic Castle: unknown
+Stage:Death Ruins: progression
+Stage:Digital Circuit: unknown
+Stage:Egg Breaker Cryptic Castle: progression
+Stage:Egg Dealer Black Comet: progression
+Stage:Final Haunt: unknown
+Stage:Glyphic Canyon: progression
+Stage:Gun Fortress: progression
+Stage:Heavy Dog: progression
+Stage:Iron Jungle: progression
+Stage:Lava Shelter: progression
+Stage:Lethal Highway: unknown
+Stage:Lost Impact: unknown
+Stage:Mad Matrix: unknown
+Stage:Prison Island: unknown
+Stage:Sky Troops: unknown
+Stage:Space Gadget: unknown
+Stage:The Ark: progression
+Stage:The Doom: progression
+Stage:Westopolis: unknown
+The Ark Defense Unit: unknown
+The Doom Researcher: progression
+The Doom Soldier: progression
+Vehicle: Air Saucer: unknown
+Vehicle: Armored Car: unknown
+Vehicle: Black Hawk: unknown
+Vehicle: Black Turret: unknown
+Vehicle: Black Volt: unknown
+Vehicle: Convertible: unknown
+Vehicle: Gun Cannon: unknown
+Vehicle: Gun Jumper: unknown
+Vehicle: Gun Lift: unknown
+Vehicle: Gun Motorcycle: unknown
+Vehicle: Gun Turret: unknown
+Vehicle: Standard Car: unknown
 Weapon:4-Shot RPG: unknown
 Weapon:8-Shot RPG: unknown
-Weapon:Worm Shooter: progression
-Weapon:Wide Worm Shooter: progression
+Weapon:Bazooka: unknown
+Weapon:Big Barrel: progression
 Weapon:Big Worm Shooter: unknown
-Weapon:Vacuum Pod: unknown
-Weapon:Laser Rifle: unknown
-Weapon:Splitter: unknown
-Weapon:Refractor: unknown
-Weapon:Survival Knife: unknown
+Weapon:Black Barrel: unknown
 Weapon:Black Sword: progression
-Weapon:Dark Hammer: unknown
-Weapon:Egg Spear: unknown
-Weapon:Speed Limit Sign: unknown
-Weapon:Digital Pole: unknown
 Weapon:Canyon Pole: unknown
-Weapon:Lethal Pole: unknown
-Weapon:Cryptic Torch: progression
-Weapon:Prison Branch: unknown
 Weapon:Circus Pole: unknown
-Weapon:Stop Sign: unknown
-Weapon:Doom Pole: unknown
-Weapon:Sky Pole: unknown
-Weapon:Matrix Pole: unknown
-Weapon:Ruins Branch: unknown
-Weapon:Fleet Pole: unknown
-Weapon:Iron Pole: unknown
-Weapon:Gadget Pole: unknown
-Weapon:Impact Pole: unknown
-Weapon:Fortress Pole: unknown
-Weapon:Lava Shovel: unknown
 Weapon:Cosmic Pole: unknown
+Weapon:Cryptic Torch: progression
+Weapon:Dark Hammer: unknown
+Weapon:Digital Pole: unknown
+Weapon:Doom Pole: unknown
+Weapon:Egg Bazooka: progression
+Weapon:Egg Gun: unknown
+Weapon:Egg Spear: unknown
+Weapon:Egg Vacuum: progression
+Weapon:Flash Shot: progression
+Weapon:Fleet Pole: unknown
+Weapon:Fortress Pole: unknown
+Weapon:Gadget Pole: unknown
+Weapon:Gatling Gun: unknown
+Weapon:Grenade Launcher: unknown
 Weapon:Haunt Pole: unknown
+Weapon:Heal Cannon: unknown
+Weapon:Heavy Machine Gun: unknown
+Weapon:Heavy Shot: unknown
+Weapon:Impact Pole: unknown
+Weapon:Iron Pole: unknown
+Weapon:Laser Rifle: unknown
 Weapon:Last Pole: unknown
+Weapon:Lava Shovel: unknown
+Weapon:Lethal Pole: unknown
+Weapon:Light Shot: unknown
+Weapon:Matrix Pole: unknown
+Weapon:Omochao Gun: progression
+Weapon:Pistol: progression
+Weapon:Prison Branch: unknown
+Weapon:RPG: progression
+Weapon:Refractor: unknown
+Weapon:Ring Shot: unknown
+Weapon:Ruins Branch: unknown
 Weapon:Samurai Blade: progression
 Weapon:Satellite Gun: unknown
-Weapon:Egg Vacuum: progression
-Weapon:Omochao Gun: progression
-Weapon:Heal Cannon: unknown
+Weapon:Semi Automatic Rifle: progression
 Weapon:Shadow Rifle: unknown
-Vehicle: Standard Car: unknown
-Vehicle: Convertible: unknown
-Vehicle: Armored Car: unknown
-Vehicle: Gun Motorcycle: unknown
-Vehicle: Gun Jumper: unknown
-Vehicle: Gun Cannon: unknown
-Vehicle: Air Saucer: unknown
-Vehicle: Black Hawk: unknown
-Vehicle: Black Volt: unknown
-Vehicle: Gun Turret: unknown
-Vehicle: Black Turret: unknown
-Vehicle: Gun Lift: unknown
-Stage:Egg Dealer Black Comet: progression
-Stage:Egg Breaker Cryptic Castle: progression
-Stage:Black Doom Cosmic Fall: progression
-Stage:Heavy Dog: progression
-Boss Token: mcguffin
+Weapon:Sky Pole: unknown
+Weapon:Speed Limit Sign: unknown
+Weapon:Splitter: unknown
+Weapon:Stop Sign: unknown
+Weapon:Sub Machine Gun: unknown
+Weapon:Survival Knife: unknown
+Weapon:Tank Cannon: unknown
+Weapon:Vacuum Pod: unknown
+Weapon:Wide Worm Shooter: progression
+Weapon:Worm Shooter: progression
+Westopolis Alien: progression
+Westopolis Soldier: progression
+White Chaos Emerald: unknown
+Yellow Chaos Emerald: unknown

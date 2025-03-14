@@ -1,26 +1,26 @@
 5 Bonus Tiles: progression
-×3W 0,0: useful
-Extra turn: progression
-×2L 2,10: useful
-P: progression
-T: progression
-×2W 7,1: useful
-×2L 14,0: useful
-×3L 0,14: useful
-×2L 2,4: useful
-×2W 12,10: useful
-U: progression
-×3L 12,4: useful
-×2W 14,14: useful
-×3L 7,13: useful
 5 Letters: progression
-×2L 7,1: useful
-S: progression
 E: progression
-×2L 12,4: useful
-×3W 14,0: useful
+Extra turn: progression
+P: progression
+S: progression
+T: progression
+U: progression
 ×2L 0,14: useful
-×2W 0,0: useful
-×2L 7,13: useful
 ×2L 12,10: useful
+×2L 12,4: useful
+×2L 14,0: useful
+×2L 2,10: useful
+×2L 2,4: useful
+×2L 7,13: useful
+×2L 7,1: useful
+×2W 0,0: useful
+×2W 12,10: useful
+×2W 14,14: useful
+×2W 7,1: useful
+×3L 0,14: useful
+×3L 12,4: useful
+×3L 7,13: useful
+×3W 0,0: useful
+×3W 14,0: useful
 ×3W 2,10: useful

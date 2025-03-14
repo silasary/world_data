@@ -1,82 +1,82 @@
-Progressive Traction: progression
-Progressive Turning: useful
-Progressive Acceleration: progression
-Progressive Top Speed: filler
-Progressive Air Brake: filler
-Progressive Cooling: progression
-Progressive Repair: useful
-R-60 Repulsorgrip: unknown
-R-80 Repulsorgrip: unknown
-R-100 Repulsorgrip: unknown
-R-300 Repulsorgrip: unknown
-R-600 Repulsorgrip: unknown
-Control Shift Plate: unknown
-Control Vectro Jet: unknown
-Control Coupling: unknown
-Control Nozzle: unknown
-Control Stabilizer: unknown
-44 PCX Injector: unknown
-Dual 32PCX Injector: unknown
-Quad 32PCX Injector: unknown
-Quad 44PCX Injector: unknown
-Mag-6 Injector: unknown
-Plug3 Thrust Coil: unknown
-Plug5 Thrust Coil: unknown
-Plug8 Thrust Coil: unknown
-Block5 Thrust Coil: unknown
-Block6 Thrust Coil: unknown
-Mark III Air Brake: unknown
-Mark IV Air Brake: unknown
-Mark V Air Brake: unknown
-Tri-Jet Air Brake: unknown
-Quadrijet Air Brake: unknown
-Stack-3 Radiator: unknown
-Stack-6 Radiator: unknown
-Rod Coolant Pump: unknown
-Dual Coolant Pump: unknown
-Turbo Coolant Pump: unknown
-Dual Power Cell: unknown
-Quad Power Cell: unknown
-Cluster Power Plug: unknown
-Rotary Power Plug: unknown
-Cluster2 Power Plug: unknown
-Anakin Skywalker: unknown
-Teemto Pagalies: useful
-Sebulba: unknown
-Ratts Tyerell: unknown
-Aldar Beedo: useful
-Mawhonic: unknown
-Ark 'Bumpy' Roose: unknown
-Wan Sandage: unknown
-Mars Guo: unknown
-Ebe Endocott: unknown
-Dud Bolt: unknown
-Gasgano: unknown
-Clegg Holdfast: unknown
-Elan Mak: unknown
-Neva Kee: filler
-Bozzie Baranta: unknown
-Boles Roor: filler
-Ody Mandrell: unknown
-Fud Sang: unknown
-Ben Quadrinaros: unknown
-Slide Paramita: unknown
-Toy Dampner: unknown
-Bullseye Navior: unknown
-Pit Droid: unknown
-Semi-Pro Circuit Pass: unknown
-Galactic Circuit Pass: unknown
-Invitational Circuit Pass: unknown
-Progressive Circuit Pass: unknown
-400 Truguts: unknown
-600 Truguts: unknown
-800 Truguts: unknown
 1000 Truguts: filler
 1400 Truguts: useful
 2100 Truguts: filler
 2800 Truguts: unknown
 3500 Truguts: unknown
+400 Truguts: unknown
+44 PCX Injector: unknown
+600 Truguts: unknown
+800 Truguts: unknown
+Aldar Beedo: useful
 Amateur Course Unlock: progression
-Semi-Pro Course Unlock: unknown
+Anakin Skywalker: unknown
+Ark 'Bumpy' Roose: unknown
+Ben Quadrinaros: unknown
+Block5 Thrust Coil: unknown
+Block6 Thrust Coil: unknown
+Boles Roor: filler
+Bozzie Baranta: unknown
+Bullseye Navior: unknown
+Clegg Holdfast: unknown
+Cluster Power Plug: unknown
+Cluster2 Power Plug: unknown
+Control Coupling: unknown
+Control Nozzle: unknown
+Control Shift Plate: unknown
+Control Stabilizer: unknown
+Control Vectro Jet: unknown
+Dual 32PCX Injector: unknown
+Dual Coolant Pump: unknown
+Dual Power Cell: unknown
+Dud Bolt: unknown
+Ebe Endocott: unknown
+Elan Mak: unknown
+Fud Sang: unknown
+Galactic Circuit Pass: unknown
 Galactic Course Unlock: unknown
+Gasgano: unknown
+Invitational Circuit Pass: unknown
 Invitational Course Unlock: progression
+Mag-6 Injector: unknown
+Mark III Air Brake: unknown
+Mark IV Air Brake: unknown
+Mark V Air Brake: unknown
+Mars Guo: unknown
+Mawhonic: unknown
+Neva Kee: filler
+Ody Mandrell: unknown
+Pit Droid: unknown
+Plug3 Thrust Coil: unknown
+Plug5 Thrust Coil: unknown
+Plug8 Thrust Coil: unknown
+Progressive Acceleration: progression
+Progressive Air Brake: filler
+Progressive Circuit Pass: unknown
+Progressive Cooling: progression
+Progressive Repair: useful
+Progressive Top Speed: filler
+Progressive Traction: progression
+Progressive Turning: useful
+Quad 32PCX Injector: unknown
+Quad 44PCX Injector: unknown
+Quad Power Cell: unknown
+Quadrijet Air Brake: unknown
+R-100 Repulsorgrip: unknown
+R-300 Repulsorgrip: unknown
+R-60 Repulsorgrip: unknown
+R-600 Repulsorgrip: unknown
+R-80 Repulsorgrip: unknown
+Ratts Tyerell: unknown
+Rod Coolant Pump: unknown
+Rotary Power Plug: unknown
+Sebulba: unknown
+Semi-Pro Circuit Pass: unknown
+Semi-Pro Course Unlock: unknown
+Slide Paramita: unknown
+Stack-3 Radiator: unknown
+Stack-6 Radiator: unknown
+Teemto Pagalies: useful
+Toy Dampner: unknown
+Tri-Jet Air Brake: unknown
+Turbo Coolant Pump: unknown
+Wan Sandage: unknown

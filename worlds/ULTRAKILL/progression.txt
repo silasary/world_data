@@ -1,73 +1,4 @@
-Revolver - Piercer: progression
-Revolver - Marksman: progression
-Revolver - Sharpshooter: progression
-Revolver - Standard: unknown
-Revolver - Alternate: progression
-Shotgun - Core Eject: progression
-Shotgun - Pump Charge: progression
-Shotgun - Sawed-On: progression
-Shotgun - Standard: unknown
-Shotgun - Alternate: progression
-Nailgun - Attractor: progression
-Nailgun - Overheat: progression
-Nailgun - JumpStart: progression
-Nailgun - Standard: unknown
-Nailgun - Alternate: useful
-Railcannon - Electric: progression
-Railcannon - Screwdriver: useful
-Railcannon - Malicious: useful
-Rocket Launcher - Freezeframe: progression
-Rocket Launcher - S.R.S. Cannon: progression
-Rocket Launcher - Firestarter: useful
-Secondary Fire - Piercer: progression
-Secondary Fire - Marksman: progression
-Secondary Fire - Sharpshooter: progression
-Secondary Fire - Core Eject: progression
-Secondary Fire - Pump Charge: useful
-Secondary Fire - Sawed-On: useful
-Secondary Fire - Attractor: useful
-Secondary Fire - Overheat: useful
-Secondary Fire - JumpStart: progression
-Secondary Fire - Freezeframe: useful
-Secondary Fire - S.R.S. Cannon: progression
-Secondary Fire - Firestarter: progression
-Feedbacker: useful
-Knuckleblaster: progression
-Whiplash: mcguffin
-Stamina Bar: progression
-Wall Jump: progression
-Slide: mcguffin
-Slam: unknown
-Blue Skull (0-2): progression
-Blue Skull (0-S): progression
-Red Skull (0-S): progression
-Red Skull (1-1): progression
-Blue Skull (1-1): useful
-Blue Skull (1-2): useful
-Red Skull (1-2): progression
-Blue Skull (1-3): useful
-Red Skull (1-3): progression
-Blue Skull (1-4): useful
-Blue Skull (2-3): progression
-Red Skull (2-3): progression
-Blue Skull (2-4): progression
-Red Skull (2-4): progression
-Blue Skull (4-2): progression
-Red Skull (4-2): unknown
-Blue Skull (4-3): progression
-Blue Skull (4-4): unknown
-Blue Skull (5-1): progression
-Blue Skull (5-2): progression
-Red Skull (5-2): filler
-Blue Skull (5-3): progression
-Red Skull (5-3): progression
-Red Skull (6-1): filler
-Red Skull (7-1): filler
-Blue Skull (7-1): progression
-Red Skull (7-2): filler
-Red Skull (7-S): progression
-Blue Skull (7-S): progression
-Blue Skull (P-2): progression
++10,000P: filler
 0-1: INTO THE FIRE: progression
 0-2: THE MEATGRINDER: progression
 0-3: DOUBLE DOWN: filler
@@ -97,9 +28,32 @@ Blue Skull (P-2): progression
 7-2: LIGHT UP THE NIGHT: filler
 7-3: NO SOUND, NO MEMORY: progression
 7-4: ...LIKE ANTENNAS TO HEAVEN: unknown
-P-1: SOUL SURVIVOR: progression
-P-2: WAIT OF THE WORLD: progression
-OVERTURE: THE MOUTH OF HELL: unknown
+Air Jump: filler
+Blue Skull (0-2): progression
+Blue Skull (0-S): progression
+Blue Skull (1-1): useful
+Blue Skull (1-2): useful
+Blue Skull (1-3): useful
+Blue Skull (1-4): useful
+Blue Skull (2-3): progression
+Blue Skull (2-4): progression
+Blue Skull (4-2): progression
+Blue Skull (4-3): progression
+Blue Skull (4-4): unknown
+Blue Skull (5-1): progression
+Blue Skull (5-2): progression
+Blue Skull (5-3): progression
+Blue Skull (7-1): progression
+Blue Skull (7-S): progression
+Blue Skull (P-2): progression
+Clash Mode: unknown
+Confusing Aura: trap
+Dual Wield: filler
+Feedbacker: useful
+Hands-Free Mode: trap
+Hard Damage: trap
+Infinite Stamina: filler
+Knuckleblaster: progression
 LAYER 1: LIMBO: unknown
 LAYER 2: LUST: unknown
 LAYER 3: GLUTTONY: unknown
@@ -107,26 +61,72 @@ LAYER 4: GREED: unknown
 LAYER 5: WRATH: unknown
 LAYER 6: HERESY: unknown
 LAYER 7: VIOLENCE: unknown
-+10,000P: filler
-Overheal: filler
-Dual Wield: filler
-Infinite Stamina: filler
-Air Jump: filler
-Soap: filler
-Confusing Aura: trap
-Quick Charge: filler
-Hard Damage: trap
-Stamina Limiter: trap
-Wall Jump Limiter: trap
-Weapon Malfunction: trap
-Radiant Aura: trap
-Hands-Free Mode: trap
-Short-Term Sandstorm: trap
 Limbo Switch I: filler
 Limbo Switch II: progression
 Limbo Switch III: progression
 Limbo Switch IV: progression
+Nailgun - Alternate: useful
+Nailgun - Attractor: progression
+Nailgun - JumpStart: progression
+Nailgun - Overheat: progression
+Nailgun - Standard: unknown
+OVERTURE: THE MOUTH OF HELL: unknown
+Overheal: filler
+P-1: SOUL SURVIVOR: progression
+P-2: WAIT OF THE WORLD: progression
+Quick Charge: filler
+Radiant Aura: trap
+Railcannon - Electric: progression
+Railcannon - Malicious: useful
+Railcannon - Screwdriver: useful
+Red Skull (0-S): progression
+Red Skull (1-1): progression
+Red Skull (1-2): progression
+Red Skull (1-3): progression
+Red Skull (2-3): progression
+Red Skull (2-4): progression
+Red Skull (4-2): unknown
+Red Skull (5-2): filler
+Red Skull (5-3): progression
+Red Skull (6-1): filler
+Red Skull (7-1): filler
+Red Skull (7-2): filler
+Red Skull (7-S): progression
+Revolver - Alternate: progression
+Revolver - Marksman: progression
+Revolver - Piercer: progression
+Revolver - Sharpshooter: progression
+Revolver - Standard: unknown
+Rocket Launcher - Firestarter: useful
+Rocket Launcher - Freezeframe: progression
+Rocket Launcher - S.R.S. Cannon: progression
+Secondary Fire - Attractor: useful
+Secondary Fire - Core Eject: progression
+Secondary Fire - Firestarter: progression
+Secondary Fire - Freezeframe: useful
+Secondary Fire - JumpStart: progression
+Secondary Fire - Marksman: progression
+Secondary Fire - Overheat: useful
+Secondary Fire - Piercer: progression
+Secondary Fire - Pump Charge: useful
+Secondary Fire - S.R.S. Cannon: progression
+Secondary Fire - Sawed-On: useful
+Secondary Fire - Sharpshooter: progression
+Short-Term Sandstorm: trap
+Shotgun - Alternate: progression
+Shotgun - Core Eject: progression
+Shotgun - Pump Charge: progression
+Shotgun - Sawed-On: progression
+Shotgun - Standard: unknown
+Slam: unknown
+Slide: mcguffin
+Soap: filler
+Stamina Bar: progression
+Stamina Limiter: trap
 Violence Switch I: progression
 Violence Switch II: progression
 Violence Switch III: progression
-Clash Mode: unknown
+Wall Jump Limiter: trap
+Wall Jump: progression
+Weapon Malfunction: trap
+Whiplash: mcguffin

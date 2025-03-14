@@ -1,68 +1,213 @@
-Bundle: Adaptive Control Unit: unknown
+Building: AWESOME Shop: unknown
+Building: AWESOME Sink: progression
+Building: Assembler: unknown
+Building: Billboard Set: unknown
+Building: Biomass Burner: unknown
+Building: Blender: progression
+Building: Blueprint Designer: useful
+Building: Ceiling Light: unknown
+Building: Clean Pipeline Mk.1: unknown
+Building: Clean Pipeline Mk.2: unknown
+Building: Coal Generator: unknown
+Building: Concrete Pillar: unknown
+Building: Constructor: unknown
+Building: Conveyor Ceiling Mount: unknown
+Building: Conveyor Lift Floor Hole: unknown
+Building: Conveyor Lift Mk.1: progression
+Building: Conveyor Lift Mk.2: progression
+Building: Conveyor Lift Mk.3: unknown
+Building: Conveyor Lift Mk.4: useful
+Building: Conveyor Lift Mk.5: unknown
+Building: Conveyor Merger: progression
+Building: Conveyor Mk.1: unknown
+Building: Conveyor Mk.2: progression
+Building: Conveyor Mk.3: useful
+Building: Conveyor Mk.4: unknown
+Building: Conveyor Mk.5: unknown
+Building: Conveyor Splitter: progression
+Building: Conveyor Wall Mount: unknown
+Building: Conveyor Walls: unknown
+Building: Corner Ramp Pack: unknown
+Building: Display Sign Bundle: unknown
+Building: Door Walls: unknown
+Building: Double Ramp Pack: unknown
+Building: Equipment Workshop: unknown
+Building: Flood Light Tower: unknown
+Building: Fluid Buffer: unknown
+Building: Foundation: useful
+Building: Foundry: unknown
+Building: Frame Pillar: unknown
+Building: Frame foundation: unknown
+Building: Fuel Generator: unknown
+Building: Gates: unknown
+Building: Geothermal Generator: useful
+Building: Half Foundation: unknown
+Building: Industrial Fluid Buffer: unknown
+Building: Industrial Railing: unknown
+Building: Industrial Storage Container: useful
+Building: Industrial Walkways: unknown
+Building: Inverted Corner Ramp Pack: unknown
+Building: Inverted Ramp Pack: unknown
+Building: Inverted Ramp Wall Bundle: unknown
+Building: Jump Pad: useful
+Building: Label Sign Bundle: unknown
+Building: Ladder: useful
+Building: Lights Control Panel: unknown
+Building: Lookout Tower: useful
+Building: MAM: progression
+Building: Manufacturer: progression
+Building: Metal Beams: unknown
+Building: Metal Pillar: unknown
+Building: Miner Mk.1: unknown
+Building: Miner Mk.2: progression
+Building: Miner Mk.3: progression
+Building: Modern Catwalks: unknown
+Building: Modern Railing: unknown
+Building: Nuclear Power Plant: useful
+Building: Oil Extractor: progression
+Building: Packager: useful
+Building: Painted Beams: unknown
+Building: Particle Accelerator: useful
+Building: Personal Storage Box: useful
+Building: Pipeline Floor Hole: unknown
+Building: Pipeline Junction Cross: unknown
+Building: Pipeline Pump Mk.1: progression
+Building: Pipeline Pump Mk.2: progression
+Building: Pipeline Wall Hole: unknown
+Building: Pipes Mk.1: unknown
+Building: Pipes Mk.2: progression
+Building: Power Pole Mk.2: unknown
+Building: Power Pole Mk.3: unknown
+Building: Power Storage: useful
+Building: Power Switch: useful
+Building: Power Tower: useful
+Building: Priority Power Switch: unknown
+Building: Programmable Splitter: unknown
+Building: Quarter Pipe Extensions Pack: unknown
+Building: Quarter Pipes Pack: unknown
+Building: Radar Tower: unknown
+Building: Ramp Wall Bundle: unknown
+Building: Refinery: unknown
+Building: Resource Well Pressurizer: useful
+Building: Road Barrier: unknown
+Building: Roof Corners: unknown
+Building: Roofs: unknown
+Building: Smart Splitter: unknown
+Building: Smelter: unknown
+Building: Space Elevator: unknown
+Building: Stackable Conveyor Pole: unknown
+Building: Stackable Pipeline Support: unknown
+Building: Stairs: unknown
+Building: Steel-framed Windows: unknown
+Building: Storage Container: unknown
+Building: Street Light: unknown
+Building: Tilted Walls: unknown
+Building: U-Jelly Landing Pad: useful
+Building: Valve: unknown
+Building: Wall Mounted Flood Light: unknown
+Building: Wall Outlet Mk.1: unknown
+Building: Wall Outlet Mk.2: useful
+Building: Wall Outlet Mk.3: unknown
+Building: Wall Pipeline Support: unknown
+Building: Walls Concrete: unknown
+Building: Walls Metal: unknown
+Building: Walls Orange: useful
+Building: Water Extractor: progression
+Building: Windowed Walls: unknown
+Bundle: AI Expansion Server: unknown
 Bundle: AI Limiter: unknown
+Bundle: Adaptive Control Unit: unknown
+Bundle: Adequate Pioneering Statue: unknown
 Bundle: Alclad Aluminum Sheet: unknown
-Bundle: Blue Power Slug: unknown
-Bundle: Yellow Power Slug: unknown
+Bundle: Alien DNA Capsule: unknown
+Bundle: Alien Power Matrix: filler
 Bundle: Alien Protein: unknown
-Bundle: Purple Power Slug: unknown
 Bundle: Aluminum Casing: filler
 Bundle: Aluminum Ingot: unknown
 Bundle: Aluminum Scrap: unknown
 Bundle: Assembly Director System: unknown
 Bundle: Automated Wiring: unknown
+Bundle: Bacon Agaric: filler
 Bundle: Battery: unknown
 Bundle: Bauxite: unknown
 Bundle: Beacon: filler
+Bundle: Beryl Nut: unknown
+Bundle: Biochemical Sculptor: unknown
 Bundle: Biomass: unknown
 Bundle: Black Powder: unknown
+Bundle: Blade Runners: useful
+Bundle: Blue Power Slug: unknown
+Bundle: Boom Box: unknown
 Bundle: Cable: filler
 Bundle: Caterium Ingot: unknown
 Bundle: Caterium Ore: unknown
+Bundle: Chainsaw: unknown
 Bundle: Circuit Board: unknown
+Bundle: Cluster Nobelisk: unknown
 Bundle: Coal: filler
 Bundle: Color Cartridge: unknown
 Bundle: Compacted Coal: unknown
 Bundle: Computer: unknown
 Bundle: Concrete: filler
+Bundle: Confusing Creature Statue: filler
 Bundle: Cooling System: unknown
 Bundle: Copper Ingot: filler
 Bundle: Copper Ore: unknown
 Bundle: Copper Powder: unknown
 Bundle: Copper Sheet: unknown
-Bundle: Adequate Pioneering Statue: unknown
 Bundle: Crystal Oscillator: unknown
+Bundle: Cup (gold): unknown
+Bundle: Cup: filler
+Bundle: Diamonds: unknown
 Bundle: Electromagnetic Control Rod: filler
 Bundle: Empty Canister: filler
 Bundle: Empty Fluid Tank: unknown
 Bundle: Encased Industrial Beam: useful
 Bundle: Encased Plutonium Cell: unknown
 Bundle: Encased Uranium Cell: unknown
-Bundle: Fabric: unknown
+Bundle: Explosive Rebar: unknown
 Bundle: FICSIT Coupon: unknown
+Bundle: Fabric: unknown
+Bundle: Factory Cart (golden): unknown
+Bundle: Factory Cart: filler
 Bundle: Flower Petals: filler
 Bundle: Fused Modular Frame: unknown
+Bundle: Gas Filter: unknown
+Bundle: Gas Mask: unknown
+Bundle: Gas Nobelisk: unknown
+Bundle: Golden Nut Statue: unknown
 Bundle: Hard Drive: unknown
+Bundle: Hatcher Remains: unknown
+Bundle: Hazmat Suit: useful
 Bundle: Heat Sink: unknown
 Bundle: Heavy Modular Frame: unknown
 Bundle: High-Speed Connector: filler
-Bundle: Satisfactory Pioneering Statue: unknown
-Bundle: Pretty Good Pioneering Statue: unknown
+Bundle: Hog Remains: filler
+Bundle: Homing Rifle Ammo: unknown
+Bundle: Hover Pack: useful
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
+Bundle: Iron Rebar: filler
 Bundle: Iron Rod: filler
-Bundle: Golden Nut Statue: unknown
+Bundle: Jetpack: unknown
 Bundle: Leaves: unknown
 Bundle: Limestone: filler
+Bundle: Lizard Doggo Statue: filler
 Bundle: Magnetic Field Generator: unknown
+Bundle: Medicinal Inhaler: unknown
 Bundle: Mercer Sphere: unknown
 Bundle: Modular Engine: unknown
 Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
-Bundle: Non-fissile Uranium: unknown
+Bundle: Neural-Quantum Processor: unknown
+Bundle: Nobelisk Detonator: unknown
+Bundle: Nobelisk: useful
+Bundle: Non-fissile Uranium: filler
 Bundle: Nuclear Pasta: filler
-Bundle: Lizard Doggo Statue: filler
+Bundle: Nuke Nobelisk: unknown
+Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: unknown
 Bundle: Packaged Fuel: unknown
@@ -71,265 +216,237 @@ Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
 Bundle: Packaged Nitrogen Gas: filler
 Bundle: Packaged Oil: unknown
+Bundle: Packaged Rocket Fuel: filler
 Bundle: Packaged Sulfuric Acid: filler
 Bundle: Packaged Turbofuel: filler
 Bundle: Packaged Water: unknown
+Bundle: Paleberry: filler
+Bundle: Parachute: filler
 Bundle: Petroleum Coke: filler
-Bundle: Plastic: unknown
+Bundle: Plasma Spitter Remains: filler
+Bundle: Plastic: filler
 Bundle: Plutonium Fuel Rod: unknown
 Bundle: Plutonium Pellet: unknown
 Bundle: Plutonium Waste: unknown
 Bundle: Polymer Resin: unknown
+Bundle: Portable Miner: filler
 Bundle: Power Shard: filler
-Bundle: Confusing Creature Statue: filler
 Bundle: Pressure Conversion Cube: unknown
+Bundle: Pretty Good Pioneering Statue: unknown
+Bundle: Pulse Nobelisk: filler
+Bundle: Purple Power Slug: unknown
 Bundle: Quantum Computer: filler
-Bundle: Quartz Crystal: unknown
+Bundle: Quartz Crystal: filler
 Bundle: Quickwire: filler
 Bundle: Radio Control Unit: filler
 Bundle: Raw Quartz: unknown
+Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
+Bundle: Rifle Ammo: unknown
+Bundle: Rifle: filler
 Bundle: Rotor: unknown
 Bundle: Rubber: unknown
+Bundle: SAM Fluctuator: filler
 Bundle: SAM Ore: unknown
+Bundle: Satisfactory Pioneering Statue: unknown
 Bundle: Screw: filler
+Bundle: Shatter Rebar: unknown
 Bundle: Silica: filler
+Bundle: Silver Hog Statue: filler
 Bundle: Smart Plating: useful
 Bundle: Smokeless Powder: filler
 Bundle: Solid Biofuel: filler
 Bundle: Somersloop: filler
 Bundle: Stator: unknown
-Bundle: Silver Hog Statue: filler
 Bundle: Steel Beam: filler
 Bundle: Steel Ingot: filler
 Bundle: Steel Pipe: unknown
+Bundle: Stinger Remains: filler
+Bundle: Stun Rebar: filler
 Bundle: Sulfur: unknown
 Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
 Bundle: Turbo Motor: unknown
-Bundle: Hog Remains: filler
-Bundle: Uranium: filler
+Bundle: Turbo Rifle Ammo: filler
 Bundle: Uranium Fuel Rod: unknown
 Bundle: Uranium Waste: unknown
+Bundle: Uranium: filler
 Bundle: Versatile Framework: unknown
 Bundle: Wire: filler
 Bundle: Wood: filler
-Bundle: Plasma Spitter Remains: filler
-Bundle: Stinger Remains: filler
-Bundle: Hatcher Remains: unknown
-Bundle: Alien DNA Capsule: unknown
-Bundle: Bacon Agaric: filler
-Bundle: Beryl Nut: unknown
-Bundle: Blade Runners: useful
-Bundle: Boom Box: unknown
-Bundle: Chainsaw: unknown
-Bundle: Cluster Nobelisk: unknown
-Bundle: Cup: filler
-Bundle: Cup (gold): unknown
-Bundle: Explosive Rebar: unknown
-Bundle: Factory Cart: filler
-Bundle: Factory Cart (golden): unknown
-Bundle: Gas Mask: unknown
-Bundle: Gas Nobelisk: unknown
-Bundle: Hazmat Suit: useful
-Bundle: Homing Rifle Ammo: unknown
-Bundle: Hover Pack: useful
-Bundle: Iron Rebar: filler
-Bundle: Jetpack: unknown
-Bundle: Medicinal Inhaler: unknown
-Bundle: Nobelisk: useful
-Bundle: Nobelisk Detonator: unknown
-Bundle: Nuke Nobelisk: unknown
-Bundle: Object Scanner: filler
-Bundle: Paleberry: filler
-Bundle: Parachute: filler
-Bundle: Pulse Nobelisk: filler
-Bundle: Rebar Gun: filler
-Bundle: Rifle: filler
-Bundle: Rifle Ammo: unknown
-Bundle: Shatter Rebar: unknown
-Bundle: Stun Rebar: filler
-Bundle: Turbo Rifle Ammo: filler
 Bundle: Xeno-Basher: filler
 Bundle: Xeno-Zapper: useful
+Bundle: Yellow Power Slug: unknown
 Bundle: Zipline: useful
-Bundle: Portable Miner: filler
-Bundle: Gas Filter: unknown
-Small Inflated Pocket Dimension: useful
-Inflated Pocket Dimension: useful
+Customizer: Arrow Patterns: unknown
+Customizer: Asphalt Foundation Material: unknown
+Customizer: Coated Concrete Foundation Material: unknown
+Customizer: Concrete Foundation Material: unknown
+Customizer: Concrete Wall Material: unknown
+Customizer: Dotted Line Patterns: unknown
+Customizer: Factory Icon Patterns: unknown
+Customizer: Factory Zone Patterns: unknown
+Customizer: Glass Roof Material: unknown
+Customizer: Grip Metal Foundation Material: unknown
+Customizer: Metal Roof Material: unknown
+Customizer: Number Patterns: unknown
+Customizer: Pathway Patterns: unknown
+Customizer: Solid Line Patterns: unknown
+Customizer: Steel Wall Material: unknown
+Customizer: Tar Roof Material: unknown
+Customizer: Transportation Icon Patterns: unknown
+Dimensional Depot upload from inventory: unknown
+Doggo Gas Nobelisk: unknown
+Doggo Nuke Nobelisk: unknown
+Doggo Pulse Nobelisk: unknown
+Doggo with PowerSlug: unknown
 Expanded Toolbelt: useful
-Recipe: Reinforced Iron Plate: unknown
+Hatcher: unknown
+Hog Alpha: unknown
+Hog Basic: unknown
+Hog Cliff Nuclear: unknown
+Hog Cliff: unknown
+Hog Johnny: unknown
+Inflated Pocket Dimension: useful
+Not The Bees: unknown
+Nuclear Waste (ground): unknown
+Plutonium Waste (ground): unknown
+Recipe: AI Limiter: progression
+Recipe: Adaptive Control Unit: progression
 Recipe: Adhered Iron Plate: progression
-Recipe: Bolted Iron Plate: unknown
-Recipe: Stitched Iron Plate: unknown
-Recipe: Rotor: progression
-Recipe: Copper Rotor: progression
-Recipe: Steel Rotor: progression
-Recipe: Stator: progression
-Recipe: Quickwire Stator: progression
-Recipe: Plastic: unknown
-Recipe: Residual Plastic: useful
-Recipe: Recycled Plastic: progression
-Recipe: Rubber: unknown
-Recipe: Residual Rubber: progression
-Recipe: Recycled Rubber: progression
-Recipe: Iron Plate: unknown
-Recipe: Coated Iron Plate: unknown
-Recipe: Steel Coated Plate: useful
-Recipe: Iron Rod: unknown
-Recipe: Steel Rod: unknown
-Recipe: Screw: unknown
-Recipe: Cast Screw: useful
-Recipe: Steel Screw: useful
-Recipe: Wire: unknown
-Recipe: Fused Wire: useful
-Recipe: Iron Wire: progression
-Recipe: Caterium Wire: progression
-Recipe: Cable: unknown
-Recipe: Coated Cable: useful
-Recipe: Insulated Cable: unknown
-Recipe: Quickwire Cable: progression
-Recipe: Quickwire: progression
-Recipe: Fused Quickwire: unknown
-Recipe: Copper Sheet: unknown
-Recipe: Steamed Copper Sheet: unknown
-Recipe: Steel Pipe: useful
-Recipe: Steel Beam: unknown
-Recipe: Heavy Oil Residue: unknown
-Recipe: Polymer Resin: useful
-Recipe: Fuel: progression
-Recipe: Residual Fuel: useful
-Recipe: Diluted Fuel (refinery): useful
-Recipe: Concrete: unknown
-Recipe: Rubber Concrete: unknown
-Recipe: Wet Concrete: useful
-Recipe: Fine Concrete: unknown
-Recipe: Silica: unknown
-Recipe: Cheap Silica: progression
-Recipe: Quartz Crystal: progression
-Recipe: Pure Quartz Crystal: unknown
-Recipe: Iron Ingot: unknown
-Recipe: Pure Iron Ingot: useful
-Recipe: Iron Alloy Ingot: unknown
-Recipe: Steel Ingot: progression
-Recipe: Coke Steel Ingot: unknown
-Recipe: Compacted Steel Ingot: unknown
-Recipe: Solid Steel Ingot: progression
-Recipe: Copper Ingot: unknown
-Recipe: Copper Alloy Ingot: progression
-Recipe: Pure Copper Ingot: useful
-Recipe: Caterium Ingot: progression
-Recipe: Pure Caterium Ingot: useful
-Recipe: Petroleum Coke: progression
-Recipe: Compacted Coal: unknown
-Recipe: Motor: useful
-Recipe: Rigour Motor: unknown
-Recipe: Electric Motor: progression
-Recipe: Modular Frame: unknown
+Recipe: Alclad Aluminum Sheet: unknown
+Recipe: Alclad Casing: progression
+Recipe: Alien DNA Capsule: unknown
+Recipe: Alumina Solution: progression
+Recipe: Aluminum Beam: progression
+Recipe: Aluminum Casing: progression
+Recipe: Aluminum Ingot: progression
+Recipe: Aluminum Scrap: unknown
+Recipe: Assembly Director System: progression
+Recipe: Automated Miner: useful
+Recipe: Automated Speed Wiring: unknown
+Recipe: Automated Wiring: progression
+Recipe: Basic Iron Ingot: unknown
+Recipe: Battery: useful
+Recipe: Beacon: useful
+Recipe: Biomass (Alien Protein): progression
+Recipe: Biomass (Leaves): unknown
+Recipe: Biomass (Mycelia): unknown
+Recipe: Biomass (Wood): unknown
+Recipe: Black Powder: progression
+Recipe: Blade Runners: useful
 Recipe: Bolted Frame: unknown
-Recipe: Steeled Frame: unknown
-Recipe: Heavy Modular Frame: progression
-Recipe: Heavy Flexible Frame: unknown
-Recipe: Heavy Encased Frame: progression
+Recipe: Bolted Iron Plate: unknown
+Recipe: Cable: unknown
+Recipe: Cast Screw: useful
+Recipe: Caterium Circuit Board: unknown
+Recipe: Caterium Computer: progression
+Recipe: Caterium Ingot: progression
+Recipe: Caterium Wire: progression
+Recipe: Chainsaw: unknown
+Recipe: Cheap Silica: progression
+Recipe: Circuit Board: unknown
+Recipe: Classic Battery: progression
+Recipe: Cloudy Diamonds: unknown
+Recipe: Cluster Nobelisk: filler
+Recipe: Coated Cable: useful
+Recipe: Coated Iron Canister: progression
+Recipe: Coated Iron Plate: unknown
+Recipe: Coke Steel Ingot: unknown
+Recipe: Compacted Coal: unknown
+Recipe: Compacted Steel Ingot: unknown
+Recipe: Computer: progression
+Recipe: Concrete: unknown
+Recipe: Cooling Device: progression
+Recipe: Cooling System: progression
+Recipe: Copper Alloy Ingot: progression
+Recipe: Copper Ingot: unknown
+Recipe: Copper Powder: useful
+Recipe: Copper Rotor: progression
+Recipe: Copper Sheet: unknown
+Recipe: Crystal Beacon: unknown
+Recipe: Crystal Computer: progression
+Recipe: Crystal Oscillator: progression
+Recipe: Dark Matter Trap: unknown
+Recipe: Diluted Fuel (refinery): useful
+Recipe: Diluted Fuel: useful
+Recipe: Diluted Packaged Fuel: unknown
+Recipe: Electric Motor: progression
+Recipe: Electrode - Aluminum Scrap: unknown
+Recipe: Electrode Circuit Board: unknown
+Recipe: Electromagnetic Connection Rod: progression
+Recipe: Electromagnetic Control Rod: progression
+Recipe: Empty Canister: filler
+Recipe: Empty Fluid Tank: unknown
 Recipe: Encased Industrial Beam: unknown
 Recipe: Encased Industrial Pipe: progression
-Recipe: Computer: progression
-Recipe: Crystal Computer: progression
-Recipe: Caterium Computer: progression
-Recipe: Circuit Board: unknown
-Recipe: Electrode Circuit Board: unknown
-Recipe: Silicon Circuit Board: progression
-Recipe: Caterium Circuit Board: unknown
-Recipe: Crystal Oscillator: progression
-Recipe: Insulated Crystal Oscillator: progression
-Recipe: AI Limiter: progression
-Recipe: Electromagnetic Control Rod: progression
-Recipe: Electromagnetic Connection Rod: progression
-Recipe: High-Speed Connector: progression
-Recipe: Silicon High-Speed Connector: progression
-Recipe: Smart Plating: progression
-Recipe: Plastic Smart Plating: useful
-Recipe: Versatile Framework: progression
-Recipe: Flexible Framework: unknown
-Recipe: Automated Wiring: progression
-Recipe: Automated Speed Wiring: unknown
-Recipe: Modular Engine: progression
-Recipe: Adaptive Control Unit: progression
-Recipe: Diluted Fuel: useful
-Recipe: Alumina Solution: progression
-Recipe: Automated Miner: useful
-Recipe: Aluminum Scrap: unknown
-Recipe: Electrode - Aluminum Scrap: unknown
-Recipe: Instant Scrap: progression
-Recipe: Aluminum Ingot: progression
-Recipe: Pure Aluminum Ingot: progression
-Recipe: Alclad Aluminum Sheet: unknown
-Recipe: Aluminum Casing: progression
-Recipe: Alclad Casing: progression
-Recipe: Heat Sink: progression
-Recipe: Heat Exchanger: progression
-Recipe: Nitrogen Gas: unknown
-Recipe: Nitric Acid: unknown
-Recipe: Fused Modular Frame: useful
-Recipe: Heat-Fused Frame: progression
-Recipe: Radio Control Unit: progression
-Recipe: Radio Connection Unit: unknown
-Recipe: Radio Control System: progression
-Recipe: Pressure Conversion Cube: unknown
-Recipe: Cooling System: progression
-Recipe: Cooling Device: progression
-Recipe: Turbo Motor: unknown
-Recipe: Turbo Electric Motor: unknown
-Recipe: Turbo Pressure Motor: progression
-Recipe: Battery: useful
-Recipe: Classic Battery: progression
-Recipe: Supercomputer: useful
-Recipe: OC Supercomputer: useful
-Recipe: Super-State Computer: unknown
-Recipe: Sulfuric Acid: progression
-Recipe: Encased Uranium Cell: progression
-Recipe: Infused Uranium Cell: unknown
-Recipe: Uranium Fuel Rod: unknown
-Recipe: Uranium Fuel Unit: useful
-Recipe: Beacon: useful
-Recipe: Crystal Beacon: unknown
-Recipe: Non-fissile Uranium: progression
-Recipe: Fertile Uranium: unknown
-Recipe: Plutonium Pellet: progression
 Recipe: Encased Plutonium Cell: progression
-Recipe: Instant Plutonium Cell: useful
-Recipe: Plutonium Fuel Rod: progression
-Recipe: Plutonium Fuel Unit: useful
-Recipe: Gas Filter: unknown
-Recipe: Iodine Infused Filter: unknown
-Recipe: Assembly Director System: progression
-Recipe: Magnetic Field Generator: unknown
-Recipe: Copper Powder: useful
-Recipe: Nuclear Pasta: unknown
-Recipe: Thermal Propulsion Rocket: unknown
-Recipe: Pulse Nobelisk: unknown
-Recipe: Hatcher Protein: progression
-Recipe: Hog Protein: progression
-Recipe: Spitter Protein: progression
-Recipe: Stinger Protein: unknown
-Recipe: Biomass (Leaves): unknown
-Recipe: Biomass (Wood): unknown
-Recipe: Biomass (Mycelia): unknown
-Recipe: Biomass (Alien Protein): progression
-Recipe: Turbo Rifle Ammo (Packaged): unknown
+Recipe: Encased Uranium Cell: progression
+Recipe: Explosive Rebar: unknown
 Recipe: Fabric: progression
-Recipe: Polyester Fabric: unknown
-Recipe: Solid Biofuel: useful
+Recipe: Factory Cart: unknown
+Recipe: Fertile Uranium: unknown
+Recipe: Ficsite Ingot (Aluminum): useful
+Recipe: Ficsite Ingot (Caterium): progression
+Recipe: Ficsite Trigon: progression
+Recipe: Ficsonium: useful
+Recipe: Fine Black Powder: progression
+Recipe: Fine Concrete: unknown
+Recipe: Flexible Framework: unknown
+Recipe: Fuel: progression
+Recipe: Fused Modular Frame: useful
+Recipe: Fused Quickwire: unknown
+Recipe: Fused Wire: useful
+Recipe: Gas Filter: unknown
+Recipe: Gas Mask: unknown
+Recipe: Gas Nobelisk: useful
+Recipe: Golden Factory Cart: unknown
+Recipe: Hatcher Protein: progression
+Recipe: Hazmat Suit: unknown
+Recipe: Heat Exchanger: progression
+Recipe: Heat Sink: progression
+Recipe: Heat-Fused Frame: progression
+Recipe: Heavy Encased Frame: progression
+Recipe: Heavy Flexible Frame: unknown
+Recipe: Heavy Modular Frame: progression
+Recipe: Heavy Oil Residue: unknown
+Recipe: High-Speed Connector: progression
+Recipe: Hog Protein: progression
+Recipe: Homing Rifle Ammo: unknown
+Recipe: Infused Uranium Cell: unknown
+Recipe: Instant Plutonium Cell: useful
+Recipe: Instant Scrap: progression
+Recipe: Insulated Cable: unknown
+Recipe: Insulated Crystal Oscillator: progression
+Recipe: Iodine Infused Filter: unknown
+Recipe: Iron Alloy Ingot: unknown
+Recipe: Iron Ingot: unknown
+Recipe: Iron Plate: unknown
+Recipe: Iron Rebar: filler
+Recipe: Iron Rod: unknown
+Recipe: Iron Wire: progression
+Recipe: Leached Copper Ingot: progression
 Recipe: Liquid Biofuel: useful
-Recipe: Empty Canister: filler
-Recipe: Coated Iron Canister: progression
-Recipe: Steel Canister: unknown
-Recipe: Empty Fluid Tank: unknown
+Recipe: Magnetic Field Generator: unknown
+Recipe: Modular Engine: progression
+Recipe: Modular Frame: unknown
+Recipe: Molded Steel Pipe: progression
+Recipe: Motor: useful
+Recipe: Nitric Acid: unknown
+Recipe: Nitrogen Gas: unknown
+Recipe: Nobelisk: progression
+Recipe: Non-fissile Uranium: progression
+Recipe: Nuclear Pasta: unknown
+Recipe: Nuke Nobelisk: unknown
+Recipe: Nutritional Inhaler: useful
+Recipe: OC Supercomputer: useful
+Recipe: Object Scanner: unknown
+Recipe: Oil-Based Diamonds: unknown
 Recipe: Packaged Alumina Solution: progression
 Recipe: Packaged Fuel: unknown
-Recipe: Diluted Packaged Fuel: unknown
 Recipe: Packaged Heavy Oil Residue: progression
+Recipe: Packaged Ionized Fuel: useful
 Recipe: Packaged Liquid Biofuel: unknown
 Recipe: Packaged Nitric Acid: unknown
 Recipe: Packaged Nitrogen Gas: progression
@@ -337,232 +454,119 @@ Recipe: Packaged Oil: unknown
 Recipe: Packaged Sulfuric Acid: unknown
 Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
-Recipe: Turbofuel: unknown
-Recipe: Turbo Heavy Fuel: unknown
-Recipe: Turbo Blend Fuel: progression
-Recipe: Hazmat Suit: unknown
-Recipe: Gas Mask: unknown
-Recipe: Black Powder: progression
-Recipe: Blade Runners: useful
-Recipe: Chainsaw: unknown
-Recipe: Cluster Nobelisk: filler
-Recipe: Explosive Rebar: unknown
-Recipe: Factory Cart: unknown
-Recipe: Gas Nobelisk: useful
-Recipe: Golden Factory Cart: unknown
-Recipe: Homing Rifle Ammo: unknown
-Recipe: Iron Rebar: filler
-Recipe: Nobelisk: progression
-Recipe: Nuke Nobelisk: unknown
-Recipe: Nutritional Inhaler: useful
-Recipe: Object Scanner: unknown
 Recipe: Parachute: unknown
-Recipe: Protein Inhaler: unknown
-Recipe: Rebar Gun: unknown
-Recipe: Rifle: unknown
-Recipe: Rifle Ammo: progression
-Recipe: Shatter Rebar: useful
-Recipe: Stun Rebar: unknown
-Recipe: Therapeutic Inhaler: progression
-Recipe: Turbo Rifle Ammo: useful
-Recipe: Vitamin Inhaler: unknown
-Recipe: Xeno-Basher: unknown
-Recipe: Xeno-Zapper: unknown
-Recipe: Zipline: useful
-Recipe: Fine Black Powder: progression
-Recipe: Smokeless Powder: unknown
-Recipe: Alien DNA Capsule: unknown
+Recipe: Petroleum Coke: progression
+Recipe: Pink Diamonds: progression
+Recipe: Plastic Smart Plating: useful
+Recipe: Plastic: unknown
+Recipe: Plutonium Fuel Rod: progression
+Recipe: Plutonium Fuel Unit: useful
+Recipe: Plutonium Pellet: progression
+Recipe: Polyester Fabric: unknown
+Recipe: Polymer Resin: useful
 Recipe: Power Shard (1): progression
 Recipe: Power Shard (2): useful
 Recipe: Power Shard (5): progression
-Building: Constructor: unknown
-Building: Assembler: unknown
-Building: Manufacturer: progression
-Building: Packager: useful
-Building: Refinery: unknown
-Building: Blender: progression
-Building: Particle Accelerator: useful
-Building: Biomass Burner: unknown
-Building: Coal Generator: unknown
-Building: Geothermal Generator: useful
-Building: Nuclear Power Plant: useful
-Building: Miner Mk.1: unknown
-Building: Miner Mk.2: progression
-Building: Miner Mk.3: progression
-Building: Oil Extractor: progression
-Building: Water Extractor: progression
-Building: Smelter: unknown
-Building: Foundry: unknown
-Building: Fuel Generator: unknown
-Building: Resource Well Pressurizer: useful
-Building: Equipment Workshop: unknown
-Building: AWESOME Sink: progression
-Building: AWESOME Shop: unknown
-Building: Painted Beams: unknown
-Building: Blueprint Designer: useful
-Building: Fluid Buffer: unknown
-Building: Industrial Fluid Buffer: unknown
-Building: Jump Pad: useful
-Building: Ladder: useful
-Building: MAM: progression
-Building: Personal Storage Box: useful
-Building: Power Storage: useful
-Building: U-Jelly Landing Pad: useful
-Building: Power Switch: useful
-Building: Priority Power Switch: unknown
-Building: Storage Container: unknown
-Building: Lookout Tower: useful
-Building: Power Pole Mk.2: unknown
-Building: Power Pole Mk.3: unknown
-Building: Industrial Storage Container: useful
-Building: Conveyor Merger: progression
-Building: Conveyor Splitter: progression
-Building: Conveyor Mk.1: unknown
-Building: Conveyor Mk.2: progression
-Building: Conveyor Mk.3: useful
-Building: Conveyor Mk.4: unknown
-Building: Conveyor Mk.5: unknown
-Building: Conveyor Lift Mk.1: progression
-Building: Conveyor Lift Mk.2: progression
-Building: Conveyor Lift Mk.3: unknown
-Building: Conveyor Lift Mk.4: useful
-Building: Conveyor Lift Mk.5: unknown
-Building: Metal Beams: unknown
-Building: Stackable Conveyor Pole: unknown
-Building: Conveyor Wall Mount: unknown
-Building: Conveyor Lift Floor Hole: unknown
-Building: Conveyor Ceiling Mount: unknown
-Building: Pipes Mk.1: unknown
-Building: Pipes Mk.2: progression
-Building: Pipeline Pump Mk.1: progression
-Building: Pipeline Pump Mk.2: progression
-Building: Pipeline Junction Cross: unknown
-Building: Valve: unknown
-Building: Stackable Pipeline Support: unknown
-Building: Wall Pipeline Support: unknown
-Building: Pipeline Wall Hole: unknown
-Building: Pipeline Floor Hole: unknown
-Building: Lights Control Panel: unknown
-Building: Wall Mounted Flood Light: unknown
-Building: Street Light: unknown
-Building: Flood Light Tower: unknown
-Building: Ceiling Light: unknown
-Building: Power Tower: useful
-Building: Walls Orange: useful
-Building: Radar Tower: unknown
-Building: Smart Splitter: unknown
-Building: Programmable Splitter: unknown
-Building: Label Sign Bundle: unknown
-Building: Display Sign Bundle: unknown
-Building: Billboard Set: unknown
-Building: Walls Metal: unknown
-Building: Metal Pillar: unknown
-Building: Concrete Pillar: unknown
-Building: Frame Pillar: unknown
-Building: Walls Concrete: unknown
-Building: Foundation: useful
-Building: Half Foundation: unknown
-Building: Corner Ramp Pack: unknown
-Building: Inverted Ramp Pack: unknown
-Building: Inverted Corner Ramp Pack: unknown
-Building: Quarter Pipes Pack: unknown
-Building: Quarter Pipe Extensions Pack: unknown
-Building: Frame foundation: unknown
-Building: Wall Outlet Mk.1: unknown
-Building: Wall Outlet Mk.2: useful
-Building: Wall Outlet Mk.3: unknown
-Building: Modern Catwalks: unknown
-Building: Industrial Walkways: unknown
-Building: Stairs: unknown
-Building: Clean Pipeline Mk.1: unknown
-Building: Clean Pipeline Mk.2: unknown
-Building: Road Barrier: unknown
-Building: Modern Railing: unknown
-Building: Industrial Railing: unknown
-Building: Double Ramp Pack: unknown
-Building: Conveyor Walls: unknown
-Building: Inverted Ramp Wall Bundle: unknown
-Building: Ramp Wall Bundle: unknown
-Building: Door Walls: unknown
-Building: Tilted Walls: unknown
-Building: Windowed Walls: unknown
-Building: Steel-framed Windows: unknown
-Building: Gates: unknown
-Building: Roofs: unknown
-Building: Roof Corners: unknown
-Customizer: Asphalt Foundation Material: unknown
-Customizer: Concrete Foundation Material: unknown
-Customizer: Concrete Wall Material: unknown
-Customizer: Glass Roof Material: unknown
-Customizer: Grip Metal Foundation Material: unknown
-Customizer: Coated Concrete Foundation Material: unknown
-Customizer: Metal Roof Material: unknown
-Customizer: Steel Wall Material: unknown
-Customizer: Tar Roof Material: unknown
-Customizer: Arrow Patterns: unknown
-Customizer: Dotted Line Patterns: unknown
-Customizer: Solid Line Patterns: unknown
-Customizer: Factory Icon Patterns: unknown
-Customizer: Transportation Icon Patterns: unknown
-Customizer: Number Patterns: unknown
-Customizer: Pathway Patterns: unknown
-Customizer: Factory Zone Patterns: unknown
-Transport: Drones: useful
-Transport: Trains: unknown
-Transport: Fluid Trains: unknown
-Transport: Tractor: unknown
-Transport: Truck: unknown
-Transport: Explorer: unknown
-Transport: Factory Cart: unknown
-Transport: Factory Cart (golden): filler
-Transport: Cyber Wagon: unknown
-Transport: Hypertube: progression
-Transport: Hypertube Floor Hole: filler
-Transport: Hypertube Wall Support: unknown
-Transport: Hypertube Wall Hole: useful
-Hog Basic: unknown
-Hog Alpha: unknown
-Hog Johnny: unknown
-Hog Cliff: unknown
-Hog Cliff Nuclear: unknown
-Not The Bees: unknown
-Hatcher: unknown
-Doggo Pulse Nobelisk: unknown
-Doggo Nuke Nobelisk: unknown
-Doggo with PowerSlug: unknown
-Doggo Gas Nobelisk: unknown
-Spore Flower: unknown
-Stinger Gas: unknown
-Stinger Elite: unknown
-Stinger Small: unknown
-Spitter Forest: unknown
-Spitter Forest Alpha: unknown
-Nuclear Waste (ground): unknown
-Plutonium Waste (ground): unknown
-Building: Space Elevator: unknown
-Trap: Doggo with Pulse Nobelisk: trap
-Recipe: Ficsonium: useful
-Trap: Not the Bees: trap
-Bundle: Packaged Rocket Fuel: filler
-Recipe: Packaged Ionized Fuel: useful
-Bundle: Alien Power Matrix: filler
-Bundle: SAM Fluctuator: filler
-Recipe: Tempered Caterium Ingot: progression
-Recipe: Aluminum Beam: progression
-Recipe: Ficsite Trigon: progression
-Recipe: Cloudy Diamonds: unknown
-Recipe: Leached Copper Ingot: progression
-Bundle: Diamonds: unknown
-Recipe: Pink Diamonds: progression
-Bundle: Biochemical Sculptor: unknown
-Recipe: Ficsite Ingot (Aluminum): useful
-Recipe: Molded Steel Pipe: progression
-Dimensional Depot upload from inventory: unknown
-Trap: Alpha Spitter: trap
+Recipe: Pressure Conversion Cube: unknown
+Recipe: Protein Inhaler: unknown
+Recipe: Pulse Nobelisk: unknown
+Recipe: Pure Aluminum Ingot: progression
+Recipe: Pure Caterium Ingot: useful
+Recipe: Pure Copper Ingot: useful
+Recipe: Pure Iron Ingot: useful
+Recipe: Pure Quartz Crystal: unknown
+Recipe: Quartz Crystal: progression
+Recipe: Quartz Purification: unknown
+Recipe: Quickwire Cable: progression
+Recipe: Quickwire Stator: progression
+Recipe: Quickwire: progression
+Recipe: Radio Connection Unit: unknown
+Recipe: Radio Control System: progression
+Recipe: Radio Control Unit: progression
 Recipe: Reanimated SAM: unknown
-Recipe: Oil-Based Diamonds: unknown
-Recipe: Dark Matter Trap: unknown
+Recipe: Rebar Gun: unknown
+Recipe: Recycled Plastic: progression
+Recipe: Recycled Rubber: progression
+Recipe: Reinforced Iron Plate: unknown
+Recipe: Residual Fuel: useful
+Recipe: Residual Plastic: useful
+Recipe: Residual Rubber: progression
+Recipe: Rifle Ammo: progression
+Recipe: Rifle: unknown
 Recipe: Rigor Motor: unknown
-Recipe: Ficsite Ingot (Caterium): progression
-Bundle: Neural-Quantum Processor: unknown
+Recipe: Rigour Motor: unknown
+Recipe: Rotor: progression
+Recipe: Rubber Concrete: unknown
+Recipe: Rubber: unknown
+Recipe: Screw: unknown
+Recipe: Shatter Rebar: useful
+Recipe: Silica: unknown
+Recipe: Silicon Circuit Board: progression
+Recipe: Silicon High-Speed Connector: progression
+Recipe: Smart Plating: progression
+Recipe: Smokeless Powder: unknown
+Recipe: Solid Biofuel: useful
+Recipe: Solid Steel Ingot: progression
+Recipe: Spitter Protein: progression
+Recipe: Stator: progression
+Recipe: Steamed Copper Sheet: unknown
+Recipe: Steel Beam: unknown
+Recipe: Steel Canister: unknown
+Recipe: Steel Coated Plate: useful
+Recipe: Steel Ingot: progression
+Recipe: Steel Pipe: useful
+Recipe: Steel Rod: unknown
+Recipe: Steel Rotor: progression
+Recipe: Steel Screw: useful
+Recipe: Steeled Frame: unknown
+Recipe: Stinger Protein: unknown
+Recipe: Stitched Iron Plate: unknown
+Recipe: Stun Rebar: unknown
+Recipe: Sulfuric Acid: progression
+Recipe: Super-State Computer: unknown
+Recipe: Supercomputer: useful
+Recipe: Tempered Caterium Ingot: progression
 Recipe: Tempered Copper Ingot: unknown
+Recipe: Therapeutic Inhaler: progression
+Recipe: Thermal Propulsion Rocket: unknown
+Recipe: Turbo Blend Fuel: progression
+Recipe: Turbo Electric Motor: unknown
+Recipe: Turbo Heavy Fuel: unknown
+Recipe: Turbo Motor: unknown
+Recipe: Turbo Pressure Motor: progression
+Recipe: Turbo Rifle Ammo (Packaged): unknown
+Recipe: Turbo Rifle Ammo: useful
+Recipe: Turbofuel: unknown
+Recipe: Uranium Fuel Rod: unknown
+Recipe: Uranium Fuel Unit: useful
+Recipe: Versatile Framework: progression
+Recipe: Vitamin Inhaler: unknown
+Recipe: Wet Concrete: useful
+Recipe: Wire: unknown
+Recipe: Xeno-Basher: unknown
+Recipe: Xeno-Zapper: unknown
+Recipe: Zipline: useful
+Small Inflated Pocket Dimension: useful
+Spitter Forest Alpha: unknown
+Spitter Forest: unknown
+Spore Flower: unknown
+Stinger Elite: unknown
+Stinger Gas: unknown
+Stinger Small: unknown
+Transport: Cyber Wagon: unknown
+Transport: Drones: useful
+Transport: Explorer: unknown
+Transport: Factory Cart (golden): filler
+Transport: Factory Cart: unknown
+Transport: Fluid Trains: unknown
+Transport: Hypertube Floor Hole: filler
+Transport: Hypertube Wall Hole: useful
+Transport: Hypertube Wall Support: unknown
+Transport: Hypertube: progression
+Transport: Tractor: unknown
+Transport: Trains: unknown
+Transport: Truck: unknown
+Trap: Alpha Spitter: trap
+Trap: Can of Beans: unknown
+Trap: Doggo with Pulse Nobelisk: trap
+Trap: Not the Bees: trap

@@ -1,8 +1,5 @@
 Checkmark: progression
 Filler: filler
-Puzzle 1: progression
-Puzzle 10: progression
-Puzzle 100: progression
 Puzzle 1000: progression
 Puzzle 1001: progression
 Puzzle 1002: progression
@@ -13,7 +10,7 @@ Puzzle 1006: progression
 Puzzle 1007: progression
 Puzzle 1008: progression
 Puzzle 1009: progression
-Puzzle 101: progression
+Puzzle 100: progression
 Puzzle 1010: progression
 Puzzle 1011: progression
 Puzzle 1012: progression
@@ -24,7 +21,7 @@ Puzzle 1016: progression
 Puzzle 1017: progression
 Puzzle 1018: progression
 Puzzle 1019: progression
-Puzzle 102: progression
+Puzzle 101: progression
 Puzzle 1020: progression
 Puzzle 1021: progression
 Puzzle 1022: progression
@@ -35,7 +32,7 @@ Puzzle 1026: progression
 Puzzle 1027: progression
 Puzzle 1028: progression
 Puzzle 1029: progression
-Puzzle 103: progression
+Puzzle 102: progression
 Puzzle 1030: progression
 Puzzle 1031: progression
 Puzzle 1032: progression
@@ -46,7 +43,7 @@ Puzzle 1036: progression
 Puzzle 1037: progression
 Puzzle 1038: progression
 Puzzle 1039: progression
-Puzzle 104: progression
+Puzzle 103: progression
 Puzzle 1040: progression
 Puzzle 1041: progression
 Puzzle 1042: progression
@@ -57,7 +54,7 @@ Puzzle 1046: progression
 Puzzle 1047: progression
 Puzzle 1048: progression
 Puzzle 1049: progression
-Puzzle 105: progression
+Puzzle 104: progression
 Puzzle 1050: progression
 Puzzle 1051: progression
 Puzzle 1052: progression
@@ -68,7 +65,7 @@ Puzzle 1056: progression
 Puzzle 1057: progression
 Puzzle 1058: progression
 Puzzle 1059: progression
-Puzzle 106: progression
+Puzzle 105: progression
 Puzzle 1060: progression
 Puzzle 1061: progression
 Puzzle 1062: progression
@@ -79,7 +76,7 @@ Puzzle 1066: progression
 Puzzle 1067: progression
 Puzzle 1068: progression
 Puzzle 1069: progression
-Puzzle 107: progression
+Puzzle 106: progression
 Puzzle 1070: progression
 Puzzle 1071: progression
 Puzzle 1072: progression
@@ -90,7 +87,7 @@ Puzzle 1076: progression
 Puzzle 1077: progression
 Puzzle 1078: progression
 Puzzle 1079: progression
-Puzzle 108: progression
+Puzzle 107: progression
 Puzzle 1080: progression
 Puzzle 1081: progression
 Puzzle 1082: progression
@@ -101,7 +98,7 @@ Puzzle 1086: progression
 Puzzle 1087: progression
 Puzzle 1088: progression
 Puzzle 1089: progression
-Puzzle 109: progression
+Puzzle 108: progression
 Puzzle 1090: progression
 Puzzle 1091: progression
 Puzzle 1092: progression
@@ -112,8 +109,8 @@ Puzzle 1096: progression
 Puzzle 1097: progression
 Puzzle 1098: progression
 Puzzle 1099: progression
-Puzzle 11: progression
-Puzzle 110: progression
+Puzzle 109: progression
+Puzzle 10: progression
 Puzzle 1100: progression
 Puzzle 1101: progression
 Puzzle 1102: progression
@@ -124,7 +121,7 @@ Puzzle 1106: progression
 Puzzle 1107: progression
 Puzzle 1108: progression
 Puzzle 1109: progression
-Puzzle 111: progression
+Puzzle 110: progression
 Puzzle 1110: progression
 Puzzle 1111: progression
 Puzzle 1112: progression
@@ -135,7 +132,7 @@ Puzzle 1116: progression
 Puzzle 1117: progression
 Puzzle 1118: progression
 Puzzle 1119: progression
-Puzzle 112: progression
+Puzzle 111: progression
 Puzzle 1120: progression
 Puzzle 1121: progression
 Puzzle 1122: progression
@@ -146,7 +143,7 @@ Puzzle 1126: progression
 Puzzle 1127: progression
 Puzzle 1128: progression
 Puzzle 1129: progression
-Puzzle 113: progression
+Puzzle 112: progression
 Puzzle 1130: progression
 Puzzle 1131: progression
 Puzzle 1132: progression
@@ -157,7 +154,7 @@ Puzzle 1136: progression
 Puzzle 1137: progression
 Puzzle 1138: progression
 Puzzle 1139: progression
-Puzzle 114: progression
+Puzzle 113: progression
 Puzzle 1140: progression
 Puzzle 1141: progression
 Puzzle 1142: progression
@@ -168,7 +165,7 @@ Puzzle 1146: progression
 Puzzle 1147: progression
 Puzzle 1148: progression
 Puzzle 1149: progression
-Puzzle 115: progression
+Puzzle 114: progression
 Puzzle 1150: progression
 Puzzle 1151: progression
 Puzzle 1152: progression
@@ -179,7 +176,7 @@ Puzzle 1156: progression
 Puzzle 1157: progression
 Puzzle 1158: progression
 Puzzle 1159: progression
-Puzzle 116: progression
+Puzzle 115: progression
 Puzzle 1160: progression
 Puzzle 1161: progression
 Puzzle 1162: progression
@@ -190,7 +187,7 @@ Puzzle 1166: progression
 Puzzle 1167: progression
 Puzzle 1168: progression
 Puzzle 1169: progression
-Puzzle 117: progression
+Puzzle 116: progression
 Puzzle 1170: progression
 Puzzle 1171: progression
 Puzzle 1172: progression
@@ -201,7 +198,7 @@ Puzzle 1176: progression
 Puzzle 1177: progression
 Puzzle 1178: progression
 Puzzle 1179: progression
-Puzzle 118: progression
+Puzzle 117: progression
 Puzzle 1180: progression
 Puzzle 1181: progression
 Puzzle 1182: progression
@@ -212,7 +209,7 @@ Puzzle 1186: progression
 Puzzle 1187: progression
 Puzzle 1188: progression
 Puzzle 1189: progression
-Puzzle 119: progression
+Puzzle 118: progression
 Puzzle 1190: progression
 Puzzle 1191: progression
 Puzzle 1192: progression
@@ -223,8 +220,8 @@ Puzzle 1196: progression
 Puzzle 1197: progression
 Puzzle 1198: progression
 Puzzle 1199: progression
-Puzzle 12: progression
-Puzzle 120: progression
+Puzzle 119: progression
+Puzzle 11: progression
 Puzzle 1200: progression
 Puzzle 1201: progression
 Puzzle 1202: progression
@@ -235,7 +232,7 @@ Puzzle 1206: progression
 Puzzle 1207: progression
 Puzzle 1208: progression
 Puzzle 1209: progression
-Puzzle 121: progression
+Puzzle 120: progression
 Puzzle 1210: progression
 Puzzle 1211: progression
 Puzzle 1212: progression
@@ -246,7 +243,7 @@ Puzzle 1216: progression
 Puzzle 1217: progression
 Puzzle 1218: progression
 Puzzle 1219: progression
-Puzzle 122: progression
+Puzzle 121: progression
 Puzzle 1220: progression
 Puzzle 1221: progression
 Puzzle 1222: progression
@@ -257,7 +254,7 @@ Puzzle 1226: progression
 Puzzle 1227: progression
 Puzzle 1228: progression
 Puzzle 1229: progression
-Puzzle 123: progression
+Puzzle 122: progression
 Puzzle 1230: progression
 Puzzle 1231: progression
 Puzzle 1232: progression
@@ -268,7 +265,7 @@ Puzzle 1236: progression
 Puzzle 1237: progression
 Puzzle 1238: progression
 Puzzle 1239: progression
-Puzzle 124: progression
+Puzzle 123: progression
 Puzzle 1240: progression
 Puzzle 1241: progression
 Puzzle 1242: progression
@@ -279,7 +276,7 @@ Puzzle 1246: progression
 Puzzle 1247: progression
 Puzzle 1248: progression
 Puzzle 1249: progression
-Puzzle 125: progression
+Puzzle 124: progression
 Puzzle 1250: progression
 Puzzle 1251: progression
 Puzzle 1252: progression
@@ -290,7 +287,7 @@ Puzzle 1256: progression
 Puzzle 1257: progression
 Puzzle 1258: progression
 Puzzle 1259: progression
-Puzzle 126: progression
+Puzzle 125: progression
 Puzzle 1260: progression
 Puzzle 1261: progression
 Puzzle 1262: progression
@@ -301,7 +298,7 @@ Puzzle 1266: progression
 Puzzle 1267: progression
 Puzzle 1268: progression
 Puzzle 1269: progression
-Puzzle 127: progression
+Puzzle 126: progression
 Puzzle 1270: progression
 Puzzle 1271: progression
 Puzzle 1272: progression
@@ -312,7 +309,7 @@ Puzzle 1276: progression
 Puzzle 1277: progression
 Puzzle 1278: progression
 Puzzle 1279: progression
-Puzzle 128: progression
+Puzzle 127: progression
 Puzzle 1280: progression
 Puzzle 1281: progression
 Puzzle 1282: progression
@@ -323,7 +320,7 @@ Puzzle 1286: progression
 Puzzle 1287: progression
 Puzzle 1288: progression
 Puzzle 1289: progression
-Puzzle 129: progression
+Puzzle 128: progression
 Puzzle 1290: progression
 Puzzle 1291: progression
 Puzzle 1292: progression
@@ -334,8 +331,8 @@ Puzzle 1296: progression
 Puzzle 1297: progression
 Puzzle 1298: progression
 Puzzle 1299: progression
-Puzzle 13: progression
-Puzzle 130: progression
+Puzzle 129: progression
+Puzzle 12: progression
 Puzzle 1300: progression
 Puzzle 1301: progression
 Puzzle 1302: progression
@@ -346,7 +343,7 @@ Puzzle 1306: progression
 Puzzle 1307: progression
 Puzzle 1308: progression
 Puzzle 1309: progression
-Puzzle 131: progression
+Puzzle 130: progression
 Puzzle 1310: progression
 Puzzle 1311: progression
 Puzzle 1312: progression
@@ -357,7 +354,7 @@ Puzzle 1316: progression
 Puzzle 1317: progression
 Puzzle 1318: progression
 Puzzle 1319: progression
-Puzzle 132: progression
+Puzzle 131: progression
 Puzzle 1320: progression
 Puzzle 1321: progression
 Puzzle 1322: progression
@@ -368,7 +365,7 @@ Puzzle 1326: progression
 Puzzle 1327: progression
 Puzzle 1328: progression
 Puzzle 1329: progression
-Puzzle 133: progression
+Puzzle 132: progression
 Puzzle 1330: progression
 Puzzle 1331: progression
 Puzzle 1332: progression
@@ -379,7 +376,7 @@ Puzzle 1336: progression
 Puzzle 1337: progression
 Puzzle 1338: progression
 Puzzle 1339: progression
-Puzzle 134: progression
+Puzzle 133: progression
 Puzzle 1340: progression
 Puzzle 1341: progression
 Puzzle 1342: progression
@@ -390,7 +387,7 @@ Puzzle 1346: progression
 Puzzle 1347: progression
 Puzzle 1348: progression
 Puzzle 1349: progression
-Puzzle 135: progression
+Puzzle 134: progression
 Puzzle 1350: progression
 Puzzle 1351: progression
 Puzzle 1352: progression
@@ -401,7 +398,7 @@ Puzzle 1356: progression
 Puzzle 1357: progression
 Puzzle 1358: progression
 Puzzle 1359: progression
-Puzzle 136: useful
+Puzzle 135: progression
 Puzzle 1360: progression
 Puzzle 1361: progression
 Puzzle 1362: progression
@@ -412,7 +409,7 @@ Puzzle 1366: progression
 Puzzle 1367: progression
 Puzzle 1368: progression
 Puzzle 1369: progression
-Puzzle 137: progression
+Puzzle 136: useful
 Puzzle 1370: progression
 Puzzle 1371: progression
 Puzzle 1372: progression
@@ -423,7 +420,7 @@ Puzzle 1376: progression
 Puzzle 1377: progression
 Puzzle 1378: progression
 Puzzle 1379: progression
-Puzzle 138: progression
+Puzzle 137: progression
 Puzzle 1380: progression
 Puzzle 1381: progression
 Puzzle 1382: progression
@@ -434,7 +431,7 @@ Puzzle 1386: progression
 Puzzle 1387: progression
 Puzzle 1388: progression
 Puzzle 1389: progression
-Puzzle 139: progression
+Puzzle 138: progression
 Puzzle 1390: progression
 Puzzle 1391: progression
 Puzzle 1392: progression
@@ -445,8 +442,8 @@ Puzzle 1396: progression
 Puzzle 1397: progression
 Puzzle 1398: progression
 Puzzle 1399: progression
-Puzzle 14: progression
-Puzzle 140: progression
+Puzzle 139: progression
+Puzzle 13: progression
 Puzzle 1400: progression
 Puzzle 1401: progression
 Puzzle 1402: progression
@@ -457,7 +454,7 @@ Puzzle 1406: progression
 Puzzle 1407: progression
 Puzzle 1408: progression
 Puzzle 1409: progression
-Puzzle 141: progression
+Puzzle 140: progression
 Puzzle 1410: progression
 Puzzle 1411: progression
 Puzzle 1412: progression
@@ -468,7 +465,7 @@ Puzzle 1416: progression
 Puzzle 1417: progression
 Puzzle 1418: progression
 Puzzle 1419: progression
-Puzzle 142: progression
+Puzzle 141: progression
 Puzzle 1420: progression
 Puzzle 1421: progression
 Puzzle 1422: progression
@@ -479,7 +476,7 @@ Puzzle 1426: progression
 Puzzle 1427: progression
 Puzzle 1428: progression
 Puzzle 1429: progression
-Puzzle 143: progression
+Puzzle 142: progression
 Puzzle 1430: progression
 Puzzle 1431: progression
 Puzzle 1432: progression
@@ -490,7 +487,7 @@ Puzzle 1436: progression
 Puzzle 1437: progression
 Puzzle 1438: progression
 Puzzle 1439: progression
-Puzzle 144: progression
+Puzzle 143: progression
 Puzzle 1440: progression
 Puzzle 1441: progression
 Puzzle 1442: progression
@@ -501,7 +498,7 @@ Puzzle 1446: progression
 Puzzle 1447: progression
 Puzzle 1448: progression
 Puzzle 1449: progression
-Puzzle 145: progression
+Puzzle 144: progression
 Puzzle 1450: progression
 Puzzle 1451: progression
 Puzzle 1452: progression
@@ -512,7 +509,7 @@ Puzzle 1456: progression
 Puzzle 1457: progression
 Puzzle 1458: progression
 Puzzle 1459: progression
-Puzzle 146: progression
+Puzzle 145: progression
 Puzzle 1460: progression
 Puzzle 1461: progression
 Puzzle 1462: progression
@@ -523,7 +520,7 @@ Puzzle 1466: progression
 Puzzle 1467: progression
 Puzzle 1468: progression
 Puzzle 1469: progression
-Puzzle 147: progression
+Puzzle 146: progression
 Puzzle 1470: progression
 Puzzle 1471: progression
 Puzzle 1472: progression
@@ -534,7 +531,7 @@ Puzzle 1476: progression
 Puzzle 1477: progression
 Puzzle 1478: progression
 Puzzle 1479: progression
-Puzzle 148: progression
+Puzzle 147: progression
 Puzzle 1480: progression
 Puzzle 1481: progression
 Puzzle 1482: progression
@@ -545,7 +542,7 @@ Puzzle 1486: progression
 Puzzle 1487: progression
 Puzzle 1488: progression
 Puzzle 1489: progression
-Puzzle 149: progression
+Puzzle 148: progression
 Puzzle 1490: progression
 Puzzle 1491: progression
 Puzzle 1492: progression
@@ -556,8 +553,8 @@ Puzzle 1496: progression
 Puzzle 1497: progression
 Puzzle 1498: progression
 Puzzle 1499: progression
-Puzzle 15: progression
-Puzzle 150: progression
+Puzzle 149: progression
+Puzzle 14: progression
 Puzzle 1500: progression
 Puzzle 1501: progression
 Puzzle 1502: progression
@@ -568,7 +565,7 @@ Puzzle 1506: progression
 Puzzle 1507: progression
 Puzzle 1508: progression
 Puzzle 1509: progression
-Puzzle 151: progression
+Puzzle 150: progression
 Puzzle 1510: progression
 Puzzle 1511: progression
 Puzzle 1512: progression
@@ -579,7 +576,7 @@ Puzzle 1516: progression
 Puzzle 1517: progression
 Puzzle 1518: progression
 Puzzle 1519: progression
-Puzzle 152: progression
+Puzzle 151: progression
 Puzzle 1520: progression
 Puzzle 1521: progression
 Puzzle 1522: progression
@@ -590,7 +587,7 @@ Puzzle 1526: progression
 Puzzle 1527: progression
 Puzzle 1528: progression
 Puzzle 1529: progression
-Puzzle 153: progression
+Puzzle 152: progression
 Puzzle 1530: progression
 Puzzle 1531: progression
 Puzzle 1532: progression
@@ -601,7 +598,7 @@ Puzzle 1536: progression
 Puzzle 1537: progression
 Puzzle 1538: progression
 Puzzle 1539: progression
-Puzzle 154: progression
+Puzzle 153: progression
 Puzzle 1540: progression
 Puzzle 1541: progression
 Puzzle 1542: progression
@@ -612,7 +609,7 @@ Puzzle 1546: progression
 Puzzle 1547: progression
 Puzzle 1548: progression
 Puzzle 1549: progression
-Puzzle 155: progression
+Puzzle 154: progression
 Puzzle 1550: progression
 Puzzle 1551: progression
 Puzzle 1552: progression
@@ -623,7 +620,7 @@ Puzzle 1556: progression
 Puzzle 1557: progression
 Puzzle 1558: progression
 Puzzle 1559: progression
-Puzzle 156: progression
+Puzzle 155: progression
 Puzzle 1560: progression
 Puzzle 1561: progression
 Puzzle 1562: progression
@@ -634,7 +631,7 @@ Puzzle 1566: progression
 Puzzle 1567: progression
 Puzzle 1568: progression
 Puzzle 1569: progression
-Puzzle 157: progression
+Puzzle 156: progression
 Puzzle 1570: progression
 Puzzle 1571: progression
 Puzzle 1572: progression
@@ -645,7 +642,7 @@ Puzzle 1576: progression
 Puzzle 1577: progression
 Puzzle 1578: progression
 Puzzle 1579: progression
-Puzzle 158: progression
+Puzzle 157: progression
 Puzzle 1580: progression
 Puzzle 1581: progression
 Puzzle 1582: progression
@@ -656,7 +653,7 @@ Puzzle 1586: progression
 Puzzle 1587: progression
 Puzzle 1588: progression
 Puzzle 1589: progression
-Puzzle 159: progression
+Puzzle 158: progression
 Puzzle 1590: progression
 Puzzle 1591: progression
 Puzzle 1592: progression
@@ -667,8 +664,8 @@ Puzzle 1596: progression
 Puzzle 1597: progression
 Puzzle 1598: progression
 Puzzle 1599: progression
-Puzzle 16: progression
-Puzzle 160: progression
+Puzzle 159: progression
+Puzzle 15: progression
 Puzzle 1600: progression
 Puzzle 1601: progression
 Puzzle 1602: progression
@@ -679,7 +676,7 @@ Puzzle 1606: progression
 Puzzle 1607: progression
 Puzzle 1608: progression
 Puzzle 1609: progression
-Puzzle 161: progression
+Puzzle 160: progression
 Puzzle 1610: progression
 Puzzle 1611: progression
 Puzzle 1612: progression
@@ -690,7 +687,7 @@ Puzzle 1616: progression
 Puzzle 1617: progression
 Puzzle 1618: progression
 Puzzle 1619: progression
-Puzzle 162: progression
+Puzzle 161: progression
 Puzzle 1620: progression
 Puzzle 1621: progression
 Puzzle 1622: progression
@@ -701,7 +698,7 @@ Puzzle 1626: progression
 Puzzle 1627: progression
 Puzzle 1628: progression
 Puzzle 1629: progression
-Puzzle 163: progression
+Puzzle 162: progression
 Puzzle 1630: progression
 Puzzle 1631: progression
 Puzzle 1632: progression
@@ -712,7 +709,7 @@ Puzzle 1636: progression
 Puzzle 1637: progression
 Puzzle 1638: progression
 Puzzle 1639: progression
-Puzzle 164: progression
+Puzzle 163: progression
 Puzzle 1640: progression
 Puzzle 1641: progression
 Puzzle 1642: progression
@@ -723,7 +720,7 @@ Puzzle 1646: progression
 Puzzle 1647: progression
 Puzzle 1648: progression
 Puzzle 1649: progression
-Puzzle 165: progression
+Puzzle 164: progression
 Puzzle 1650: progression
 Puzzle 1651: progression
 Puzzle 1652: progression
@@ -734,7 +731,7 @@ Puzzle 1656: progression
 Puzzle 1657: progression
 Puzzle 1658: progression
 Puzzle 1659: progression
-Puzzle 166: progression
+Puzzle 165: progression
 Puzzle 1660: progression
 Puzzle 1661: progression
 Puzzle 1662: progression
@@ -745,7 +742,7 @@ Puzzle 1666: progression
 Puzzle 1667: progression
 Puzzle 1668: progression
 Puzzle 1669: progression
-Puzzle 167: progression
+Puzzle 166: progression
 Puzzle 1670: progression
 Puzzle 1671: progression
 Puzzle 1672: progression
@@ -756,7 +753,7 @@ Puzzle 1676: progression
 Puzzle 1677: progression
 Puzzle 1678: progression
 Puzzle 1679: progression
-Puzzle 168: progression
+Puzzle 167: progression
 Puzzle 1680: progression
 Puzzle 1681: progression
 Puzzle 1682: progression
@@ -767,7 +764,7 @@ Puzzle 1686: progression
 Puzzle 1687: progression
 Puzzle 1688: progression
 Puzzle 1689: progression
-Puzzle 169: progression
+Puzzle 168: progression
 Puzzle 1690: progression
 Puzzle 1691: progression
 Puzzle 1692: progression
@@ -778,8 +775,8 @@ Puzzle 1696: progression
 Puzzle 1697: progression
 Puzzle 1698: progression
 Puzzle 1699: progression
-Puzzle 17: progression
-Puzzle 170: progression
+Puzzle 169: progression
+Puzzle 16: progression
 Puzzle 1700: progression
 Puzzle 1701: progression
 Puzzle 1702: progression
@@ -790,7 +787,7 @@ Puzzle 1706: progression
 Puzzle 1707: progression
 Puzzle 1708: progression
 Puzzle 1709: progression
-Puzzle 171: progression
+Puzzle 170: progression
 Puzzle 1710: progression
 Puzzle 1711: progression
 Puzzle 1712: progression
@@ -801,7 +798,7 @@ Puzzle 1716: progression
 Puzzle 1717: progression
 Puzzle 1718: progression
 Puzzle 1719: progression
-Puzzle 172: progression
+Puzzle 171: progression
 Puzzle 1720: progression
 Puzzle 1721: progression
 Puzzle 1722: progression
@@ -812,7 +809,7 @@ Puzzle 1726: progression
 Puzzle 1727: progression
 Puzzle 1728: progression
 Puzzle 1729: progression
-Puzzle 173: progression
+Puzzle 172: progression
 Puzzle 1730: progression
 Puzzle 1731: progression
 Puzzle 1732: progression
@@ -823,7 +820,7 @@ Puzzle 1736: progression
 Puzzle 1737: progression
 Puzzle 1738: progression
 Puzzle 1739: progression
-Puzzle 174: progression
+Puzzle 173: progression
 Puzzle 1740: progression
 Puzzle 1741: progression
 Puzzle 1742: progression
@@ -834,7 +831,7 @@ Puzzle 1746: progression
 Puzzle 1747: progression
 Puzzle 1748: progression
 Puzzle 1749: progression
-Puzzle 175: progression
+Puzzle 174: progression
 Puzzle 1750: progression
 Puzzle 1751: progression
 Puzzle 1752: progression
@@ -845,7 +842,7 @@ Puzzle 1756: progression
 Puzzle 1757: progression
 Puzzle 1758: progression
 Puzzle 1759: progression
-Puzzle 176: progression
+Puzzle 175: progression
 Puzzle 1760: progression
 Puzzle 1761: progression
 Puzzle 1762: progression
@@ -856,7 +853,7 @@ Puzzle 1766: progression
 Puzzle 1767: progression
 Puzzle 1768: progression
 Puzzle 1769: progression
-Puzzle 177: progression
+Puzzle 176: progression
 Puzzle 1770: progression
 Puzzle 1771: progression
 Puzzle 1772: progression
@@ -867,7 +864,7 @@ Puzzle 1776: progression
 Puzzle 1777: progression
 Puzzle 1778: progression
 Puzzle 1779: progression
-Puzzle 178: progression
+Puzzle 177: progression
 Puzzle 1780: progression
 Puzzle 1781: progression
 Puzzle 1782: progression
@@ -878,7 +875,7 @@ Puzzle 1786: progression
 Puzzle 1787: progression
 Puzzle 1788: progression
 Puzzle 1789: progression
-Puzzle 179: progression
+Puzzle 178: progression
 Puzzle 1790: progression
 Puzzle 1791: progression
 Puzzle 1792: progression
@@ -889,8 +886,8 @@ Puzzle 1796: progression
 Puzzle 1797: progression
 Puzzle 1798: progression
 Puzzle 1799: progression
-Puzzle 18: progression
-Puzzle 180: progression
+Puzzle 179: progression
+Puzzle 17: progression
 Puzzle 1800: progression
 Puzzle 1801: progression
 Puzzle 1802: progression
@@ -901,7 +898,7 @@ Puzzle 1806: progression
 Puzzle 1807: progression
 Puzzle 1808: progression
 Puzzle 1809: progression
-Puzzle 181: progression
+Puzzle 180: progression
 Puzzle 1810: progression
 Puzzle 1811: progression
 Puzzle 1812: progression
@@ -912,7 +909,7 @@ Puzzle 1816: progression
 Puzzle 1817: progression
 Puzzle 1818: progression
 Puzzle 1819: progression
-Puzzle 182: progression
+Puzzle 181: progression
 Puzzle 1820: progression
 Puzzle 1821: progression
 Puzzle 1822: progression
@@ -923,7 +920,7 @@ Puzzle 1826: progression
 Puzzle 1827: progression
 Puzzle 1828: progression
 Puzzle 1829: progression
-Puzzle 183: progression
+Puzzle 182: progression
 Puzzle 1830: progression
 Puzzle 1831: progression
 Puzzle 1832: progression
@@ -934,7 +931,7 @@ Puzzle 1836: progression
 Puzzle 1837: progression
 Puzzle 1838: progression
 Puzzle 1839: progression
-Puzzle 184: progression
+Puzzle 183: progression
 Puzzle 1840: progression
 Puzzle 1841: progression
 Puzzle 1842: progression
@@ -945,7 +942,7 @@ Puzzle 1846: progression
 Puzzle 1847: progression
 Puzzle 1848: progression
 Puzzle 1849: progression
-Puzzle 185: progression
+Puzzle 184: progression
 Puzzle 1850: progression
 Puzzle 1851: progression
 Puzzle 1852: progression
@@ -956,7 +953,7 @@ Puzzle 1856: progression
 Puzzle 1857: progression
 Puzzle 1858: progression
 Puzzle 1859: progression
-Puzzle 186: progression
+Puzzle 185: progression
 Puzzle 1860: progression
 Puzzle 1861: progression
 Puzzle 1862: progression
@@ -967,7 +964,7 @@ Puzzle 1866: progression
 Puzzle 1867: progression
 Puzzle 1868: progression
 Puzzle 1869: progression
-Puzzle 187: progression
+Puzzle 186: progression
 Puzzle 1870: progression
 Puzzle 1871: progression
 Puzzle 1872: progression
@@ -978,7 +975,7 @@ Puzzle 1876: progression
 Puzzle 1877: progression
 Puzzle 1878: progression
 Puzzle 1879: progression
-Puzzle 188: progression
+Puzzle 187: progression
 Puzzle 1880: progression
 Puzzle 1881: progression
 Puzzle 1882: progression
@@ -989,7 +986,7 @@ Puzzle 1886: progression
 Puzzle 1887: progression
 Puzzle 1888: progression
 Puzzle 1889: progression
-Puzzle 189: progression
+Puzzle 188: progression
 Puzzle 1890: progression
 Puzzle 1891: progression
 Puzzle 1892: progression
@@ -1000,8 +997,8 @@ Puzzle 1896: progression
 Puzzle 1897: progression
 Puzzle 1898: progression
 Puzzle 1899: progression
-Puzzle 19: progression
-Puzzle 190: progression
+Puzzle 189: progression
+Puzzle 18: progression
 Puzzle 1900: progression
 Puzzle 1901: progression
 Puzzle 1902: progression
@@ -1012,7 +1009,7 @@ Puzzle 1906: progression
 Puzzle 1907: progression
 Puzzle 1908: progression
 Puzzle 1909: progression
-Puzzle 191: progression
+Puzzle 190: progression
 Puzzle 1910: progression
 Puzzle 1911: progression
 Puzzle 1912: progression
@@ -1023,7 +1020,7 @@ Puzzle 1916: progression
 Puzzle 1917: progression
 Puzzle 1918: progression
 Puzzle 1919: progression
-Puzzle 192: progression
+Puzzle 191: progression
 Puzzle 1920: progression
 Puzzle 1921: progression
 Puzzle 1922: progression
@@ -1034,7 +1031,7 @@ Puzzle 1926: progression
 Puzzle 1927: progression
 Puzzle 1928: progression
 Puzzle 1929: progression
-Puzzle 193: progression
+Puzzle 192: progression
 Puzzle 1930: progression
 Puzzle 1931: progression
 Puzzle 1932: progression
@@ -1045,7 +1042,7 @@ Puzzle 1936: progression
 Puzzle 1937: progression
 Puzzle 1938: progression
 Puzzle 1939: progression
-Puzzle 194: progression
+Puzzle 193: progression
 Puzzle 1940: progression
 Puzzle 1941: progression
 Puzzle 1942: progression
@@ -1056,7 +1053,7 @@ Puzzle 1946: progression
 Puzzle 1947: progression
 Puzzle 1948: progression
 Puzzle 1949: progression
-Puzzle 195: progression
+Puzzle 194: progression
 Puzzle 1950: progression
 Puzzle 1951: progression
 Puzzle 1952: progression
@@ -1067,7 +1064,7 @@ Puzzle 1956: progression
 Puzzle 1957: progression
 Puzzle 1958: progression
 Puzzle 1959: progression
-Puzzle 196: progression
+Puzzle 195: progression
 Puzzle 1960: progression
 Puzzle 1961: progression
 Puzzle 1962: progression
@@ -1078,7 +1075,7 @@ Puzzle 1966: progression
 Puzzle 1967: progression
 Puzzle 1968: progression
 Puzzle 1969: progression
-Puzzle 197: progression
+Puzzle 196: progression
 Puzzle 1970: progression
 Puzzle 1971: progression
 Puzzle 1972: progression
@@ -1089,7 +1086,7 @@ Puzzle 1976: progression
 Puzzle 1977: progression
 Puzzle 1978: progression
 Puzzle 1979: progression
-Puzzle 198: progression
+Puzzle 197: progression
 Puzzle 1980: progression
 Puzzle 1981: progression
 Puzzle 1982: progression
@@ -1100,7 +1097,7 @@ Puzzle 1986: progression
 Puzzle 1987: progression
 Puzzle 1988: progression
 Puzzle 1989: progression
-Puzzle 199: progression
+Puzzle 198: progression
 Puzzle 1990: progression
 Puzzle 1991: progression
 Puzzle 1992: progression
@@ -1111,10 +1108,11 @@ Puzzle 1996: progression
 Puzzle 1997: progression
 Puzzle 1998: progression
 Puzzle 1999: progression
-Puzzle 2: progression
-Puzzle 20: progression
-Puzzle 200: progression
+Puzzle 199: progression
+Puzzle 19: progression
+Puzzle 1: progression
 Puzzle 2000: progression
+Puzzle 200: progression
 Puzzle 201: progression
 Puzzle 202: progression
 Puzzle 203: progression
@@ -1124,7 +1122,7 @@ Puzzle 206: progression
 Puzzle 207: progression
 Puzzle 208: progression
 Puzzle 209: progression
-Puzzle 21: progression
+Puzzle 20: progression
 Puzzle 210: progression
 Puzzle 211: progression
 Puzzle 212: progression
@@ -1135,7 +1133,7 @@ Puzzle 216: progression
 Puzzle 217: progression
 Puzzle 218: progression
 Puzzle 219: progression
-Puzzle 22: progression
+Puzzle 21: progression
 Puzzle 220: progression
 Puzzle 221: progression
 Puzzle 222: progression
@@ -1146,7 +1144,7 @@ Puzzle 226: progression
 Puzzle 227: progression
 Puzzle 228: progression
 Puzzle 229: progression
-Puzzle 23: progression
+Puzzle 22: progression
 Puzzle 230: progression
 Puzzle 231: progression
 Puzzle 232: progression
@@ -1157,7 +1155,7 @@ Puzzle 236: progression
 Puzzle 237: progression
 Puzzle 238: progression
 Puzzle 239: progression
-Puzzle 24: progression
+Puzzle 23: progression
 Puzzle 240: progression
 Puzzle 241: progression
 Puzzle 242: progression
@@ -1168,7 +1166,7 @@ Puzzle 246: progression
 Puzzle 247: progression
 Puzzle 248: progression
 Puzzle 249: progression
-Puzzle 25: progression
+Puzzle 24: progression
 Puzzle 250: progression
 Puzzle 251: progression
 Puzzle 252: progression
@@ -1179,7 +1177,7 @@ Puzzle 256: progression
 Puzzle 257: progression
 Puzzle 258: progression
 Puzzle 259: progression
-Puzzle 26: progression
+Puzzle 25: progression
 Puzzle 260: progression
 Puzzle 261: progression
 Puzzle 262: progression
@@ -1190,7 +1188,7 @@ Puzzle 266: progression
 Puzzle 267: progression
 Puzzle 268: progression
 Puzzle 269: progression
-Puzzle 27: progression
+Puzzle 26: progression
 Puzzle 270: progression
 Puzzle 271: progression
 Puzzle 272: progression
@@ -1201,7 +1199,7 @@ Puzzle 276: progression
 Puzzle 277: progression
 Puzzle 278: progression
 Puzzle 279: progression
-Puzzle 28: progression
+Puzzle 27: progression
 Puzzle 280: progression
 Puzzle 281: progression
 Puzzle 282: progression
@@ -1212,7 +1210,7 @@ Puzzle 286: progression
 Puzzle 287: progression
 Puzzle 288: progression
 Puzzle 289: progression
-Puzzle 29: progression
+Puzzle 28: progression
 Puzzle 290: progression
 Puzzle 291: progression
 Puzzle 292: progression
@@ -1223,8 +1221,8 @@ Puzzle 296: progression
 Puzzle 297: progression
 Puzzle 298: progression
 Puzzle 299: progression
-Puzzle 3: progression
-Puzzle 30: progression
+Puzzle 29: progression
+Puzzle 2: progression
 Puzzle 300: progression
 Puzzle 301: progression
 Puzzle 302: progression
@@ -1235,7 +1233,7 @@ Puzzle 306: progression
 Puzzle 307: progression
 Puzzle 308: progression
 Puzzle 309: progression
-Puzzle 31: progression
+Puzzle 30: progression
 Puzzle 310: progression
 Puzzle 311: progression
 Puzzle 312: progression
@@ -1246,7 +1244,7 @@ Puzzle 316: progression
 Puzzle 317: progression
 Puzzle 318: progression
 Puzzle 319: progression
-Puzzle 32: progression
+Puzzle 31: progression
 Puzzle 320: progression
 Puzzle 321: progression
 Puzzle 322: progression
@@ -1257,7 +1255,7 @@ Puzzle 326: progression
 Puzzle 327: progression
 Puzzle 328: progression
 Puzzle 329: progression
-Puzzle 33: progression
+Puzzle 32: progression
 Puzzle 330: progression
 Puzzle 331: progression
 Puzzle 332: progression
@@ -1268,7 +1266,7 @@ Puzzle 336: progression
 Puzzle 337: progression
 Puzzle 338: progression
 Puzzle 339: progression
-Puzzle 34: progression
+Puzzle 33: progression
 Puzzle 340: progression
 Puzzle 341: progression
 Puzzle 342: progression
@@ -1279,7 +1277,7 @@ Puzzle 346: progression
 Puzzle 347: progression
 Puzzle 348: progression
 Puzzle 349: progression
-Puzzle 35: progression
+Puzzle 34: progression
 Puzzle 350: progression
 Puzzle 351: progression
 Puzzle 352: progression
@@ -1290,7 +1288,7 @@ Puzzle 356: progression
 Puzzle 357: progression
 Puzzle 358: progression
 Puzzle 359: progression
-Puzzle 36: progression
+Puzzle 35: progression
 Puzzle 360: progression
 Puzzle 361: progression
 Puzzle 362: progression
@@ -1301,7 +1299,7 @@ Puzzle 366: progression
 Puzzle 367: progression
 Puzzle 368: progression
 Puzzle 369: progression
-Puzzle 37: progression
+Puzzle 36: progression
 Puzzle 370: progression
 Puzzle 371: progression
 Puzzle 372: progression
@@ -1312,7 +1310,7 @@ Puzzle 376: progression
 Puzzle 377: progression
 Puzzle 378: progression
 Puzzle 379: progression
-Puzzle 38: progression
+Puzzle 37: progression
 Puzzle 380: progression
 Puzzle 381: progression
 Puzzle 382: progression
@@ -1323,7 +1321,7 @@ Puzzle 386: progression
 Puzzle 387: progression
 Puzzle 388: progression
 Puzzle 389: progression
-Puzzle 39: progression
+Puzzle 38: progression
 Puzzle 390: progression
 Puzzle 391: progression
 Puzzle 392: progression
@@ -1334,8 +1332,8 @@ Puzzle 396: progression
 Puzzle 397: progression
 Puzzle 398: progression
 Puzzle 399: progression
-Puzzle 4: progression
-Puzzle 40: progression
+Puzzle 39: progression
+Puzzle 3: progression
 Puzzle 400: progression
 Puzzle 401: progression
 Puzzle 402: progression
@@ -1346,7 +1344,7 @@ Puzzle 406: progression
 Puzzle 407: progression
 Puzzle 408: progression
 Puzzle 409: progression
-Puzzle 41: progression
+Puzzle 40: progression
 Puzzle 410: progression
 Puzzle 411: progression
 Puzzle 412: progression
@@ -1357,7 +1355,7 @@ Puzzle 416: progression
 Puzzle 417: progression
 Puzzle 418: progression
 Puzzle 419: progression
-Puzzle 42: progression
+Puzzle 41: progression
 Puzzle 420: progression
 Puzzle 421: progression
 Puzzle 422: progression
@@ -1368,7 +1366,7 @@ Puzzle 426: progression
 Puzzle 427: progression
 Puzzle 428: progression
 Puzzle 429: progression
-Puzzle 43: progression
+Puzzle 42: progression
 Puzzle 430: progression
 Puzzle 431: progression
 Puzzle 432: progression
@@ -1379,7 +1377,7 @@ Puzzle 436: progression
 Puzzle 437: progression
 Puzzle 438: progression
 Puzzle 439: progression
-Puzzle 44: progression
+Puzzle 43: progression
 Puzzle 440: progression
 Puzzle 441: progression
 Puzzle 442: progression
@@ -1390,7 +1388,7 @@ Puzzle 446: progression
 Puzzle 447: progression
 Puzzle 448: progression
 Puzzle 449: progression
-Puzzle 45: progression
+Puzzle 44: progression
 Puzzle 450: progression
 Puzzle 451: progression
 Puzzle 452: progression
@@ -1401,7 +1399,7 @@ Puzzle 456: progression
 Puzzle 457: progression
 Puzzle 458: progression
 Puzzle 459: progression
-Puzzle 46: progression
+Puzzle 45: progression
 Puzzle 460: progression
 Puzzle 461: progression
 Puzzle 462: progression
@@ -1412,7 +1410,7 @@ Puzzle 466: progression
 Puzzle 467: progression
 Puzzle 468: progression
 Puzzle 469: progression
-Puzzle 47: progression
+Puzzle 46: progression
 Puzzle 470: progression
 Puzzle 471: progression
 Puzzle 472: progression
@@ -1423,7 +1421,7 @@ Puzzle 476: progression
 Puzzle 477: progression
 Puzzle 478: progression
 Puzzle 479: progression
-Puzzle 48: progression
+Puzzle 47: progression
 Puzzle 480: progression
 Puzzle 481: progression
 Puzzle 482: progression
@@ -1434,7 +1432,7 @@ Puzzle 486: progression
 Puzzle 487: progression
 Puzzle 488: progression
 Puzzle 489: progression
-Puzzle 49: progression
+Puzzle 48: progression
 Puzzle 490: progression
 Puzzle 491: progression
 Puzzle 492: progression
@@ -1445,8 +1443,8 @@ Puzzle 496: progression
 Puzzle 497: progression
 Puzzle 498: progression
 Puzzle 499: progression
-Puzzle 5: progression
-Puzzle 50: progression
+Puzzle 49: progression
+Puzzle 4: progression
 Puzzle 500: progression
 Puzzle 501: progression
 Puzzle 502: progression
@@ -1457,7 +1455,7 @@ Puzzle 506: progression
 Puzzle 507: progression
 Puzzle 508: progression
 Puzzle 509: progression
-Puzzle 51: progression
+Puzzle 50: progression
 Puzzle 510: progression
 Puzzle 511: progression
 Puzzle 512: progression
@@ -1468,7 +1466,7 @@ Puzzle 516: progression
 Puzzle 517: progression
 Puzzle 518: progression
 Puzzle 519: progression
-Puzzle 52: progression
+Puzzle 51: progression
 Puzzle 520: progression
 Puzzle 521: progression
 Puzzle 522: progression
@@ -1479,7 +1477,7 @@ Puzzle 526: progression
 Puzzle 527: progression
 Puzzle 528: progression
 Puzzle 529: progression
-Puzzle 53: progression
+Puzzle 52: progression
 Puzzle 530: progression
 Puzzle 531: progression
 Puzzle 532: progression
@@ -1490,7 +1488,7 @@ Puzzle 536: progression
 Puzzle 537: progression
 Puzzle 538: progression
 Puzzle 539: progression
-Puzzle 54: progression
+Puzzle 53: progression
 Puzzle 540: progression
 Puzzle 541: progression
 Puzzle 542: progression
@@ -1501,7 +1499,7 @@ Puzzle 546: progression
 Puzzle 547: progression
 Puzzle 548: progression
 Puzzle 549: progression
-Puzzle 55: progression
+Puzzle 54: progression
 Puzzle 550: progression
 Puzzle 551: progression
 Puzzle 552: progression
@@ -1512,7 +1510,7 @@ Puzzle 556: progression
 Puzzle 557: progression
 Puzzle 558: progression
 Puzzle 559: progression
-Puzzle 56: progression
+Puzzle 55: progression
 Puzzle 560: progression
 Puzzle 561: progression
 Puzzle 562: progression
@@ -1523,7 +1521,7 @@ Puzzle 566: progression
 Puzzle 567: progression
 Puzzle 568: progression
 Puzzle 569: progression
-Puzzle 57: progression
+Puzzle 56: progression
 Puzzle 570: progression
 Puzzle 571: progression
 Puzzle 572: progression
@@ -1534,7 +1532,7 @@ Puzzle 576: progression
 Puzzle 577: progression
 Puzzle 578: progression
 Puzzle 579: progression
-Puzzle 58: progression
+Puzzle 57: progression
 Puzzle 580: progression
 Puzzle 581: progression
 Puzzle 582: progression
@@ -1545,7 +1543,7 @@ Puzzle 586: progression
 Puzzle 587: progression
 Puzzle 588: progression
 Puzzle 589: progression
-Puzzle 59: progression
+Puzzle 58: progression
 Puzzle 590: progression
 Puzzle 591: progression
 Puzzle 592: progression
@@ -1556,8 +1554,8 @@ Puzzle 596: progression
 Puzzle 597: progression
 Puzzle 598: progression
 Puzzle 599: progression
-Puzzle 6: progression
-Puzzle 60: progression
+Puzzle 59: progression
+Puzzle 5: progression
 Puzzle 600: progression
 Puzzle 601: progression
 Puzzle 602: progression
@@ -1568,7 +1566,7 @@ Puzzle 606: progression
 Puzzle 607: progression
 Puzzle 608: progression
 Puzzle 609: progression
-Puzzle 61: progression
+Puzzle 60: progression
 Puzzle 610: progression
 Puzzle 611: progression
 Puzzle 612: progression
@@ -1579,7 +1577,7 @@ Puzzle 616: progression
 Puzzle 617: progression
 Puzzle 618: progression
 Puzzle 619: progression
-Puzzle 62: progression
+Puzzle 61: progression
 Puzzle 620: progression
 Puzzle 621: progression
 Puzzle 622: progression
@@ -1590,7 +1588,7 @@ Puzzle 626: progression
 Puzzle 627: progression
 Puzzle 628: progression
 Puzzle 629: progression
-Puzzle 63: progression
+Puzzle 62: progression
 Puzzle 630: progression
 Puzzle 631: progression
 Puzzle 632: progression
@@ -1601,7 +1599,7 @@ Puzzle 636: progression
 Puzzle 637: progression
 Puzzle 638: progression
 Puzzle 639: progression
-Puzzle 64: progression
+Puzzle 63: progression
 Puzzle 640: progression
 Puzzle 641: progression
 Puzzle 642: progression
@@ -1612,7 +1610,7 @@ Puzzle 646: progression
 Puzzle 647: progression
 Puzzle 648: progression
 Puzzle 649: progression
-Puzzle 65: progression
+Puzzle 64: progression
 Puzzle 650: progression
 Puzzle 651: progression
 Puzzle 652: progression
@@ -1623,7 +1621,7 @@ Puzzle 656: progression
 Puzzle 657: progression
 Puzzle 658: progression
 Puzzle 659: progression
-Puzzle 66: progression
+Puzzle 65: progression
 Puzzle 660: progression
 Puzzle 661: progression
 Puzzle 662: progression
@@ -1634,7 +1632,7 @@ Puzzle 666: progression
 Puzzle 667: progression
 Puzzle 668: progression
 Puzzle 669: progression
-Puzzle 67: progression
+Puzzle 66: progression
 Puzzle 670: progression
 Puzzle 671: progression
 Puzzle 672: progression
@@ -1645,7 +1643,7 @@ Puzzle 676: progression
 Puzzle 677: progression
 Puzzle 678: progression
 Puzzle 679: progression
-Puzzle 68: progression
+Puzzle 67: progression
 Puzzle 680: progression
 Puzzle 681: progression
 Puzzle 682: progression
@@ -1656,7 +1654,7 @@ Puzzle 686: progression
 Puzzle 687: progression
 Puzzle 688: progression
 Puzzle 689: progression
-Puzzle 69: progression
+Puzzle 68: progression
 Puzzle 690: progression
 Puzzle 691: progression
 Puzzle 692: progression
@@ -1667,8 +1665,8 @@ Puzzle 696: progression
 Puzzle 697: progression
 Puzzle 698: progression
 Puzzle 699: progression
-Puzzle 7: progression
-Puzzle 70: progression
+Puzzle 69: progression
+Puzzle 6: progression
 Puzzle 700: progression
 Puzzle 701: progression
 Puzzle 702: progression
@@ -1679,7 +1677,7 @@ Puzzle 706: progression
 Puzzle 707: progression
 Puzzle 708: progression
 Puzzle 709: progression
-Puzzle 71: progression
+Puzzle 70: progression
 Puzzle 710: progression
 Puzzle 711: progression
 Puzzle 712: progression
@@ -1690,7 +1688,7 @@ Puzzle 716: progression
 Puzzle 717: progression
 Puzzle 718: progression
 Puzzle 719: progression
-Puzzle 72: progression
+Puzzle 71: progression
 Puzzle 720: progression
 Puzzle 721: progression
 Puzzle 722: progression
@@ -1701,7 +1699,7 @@ Puzzle 726: progression
 Puzzle 727: progression
 Puzzle 728: progression
 Puzzle 729: progression
-Puzzle 73: progression
+Puzzle 72: progression
 Puzzle 730: progression
 Puzzle 731: progression
 Puzzle 732: progression
@@ -1712,7 +1710,7 @@ Puzzle 736: progression
 Puzzle 737: progression
 Puzzle 738: progression
 Puzzle 739: progression
-Puzzle 74: progression
+Puzzle 73: progression
 Puzzle 740: progression
 Puzzle 741: progression
 Puzzle 742: progression
@@ -1723,7 +1721,7 @@ Puzzle 746: progression
 Puzzle 747: progression
 Puzzle 748: progression
 Puzzle 749: progression
-Puzzle 75: progression
+Puzzle 74: progression
 Puzzle 750: progression
 Puzzle 751: progression
 Puzzle 752: progression
@@ -1734,7 +1732,7 @@ Puzzle 756: progression
 Puzzle 757: progression
 Puzzle 758: progression
 Puzzle 759: progression
-Puzzle 76: progression
+Puzzle 75: progression
 Puzzle 760: progression
 Puzzle 761: progression
 Puzzle 762: progression
@@ -1745,7 +1743,7 @@ Puzzle 766: progression
 Puzzle 767: progression
 Puzzle 768: progression
 Puzzle 769: progression
-Puzzle 77: progression
+Puzzle 76: progression
 Puzzle 770: progression
 Puzzle 771: progression
 Puzzle 772: progression
@@ -1756,7 +1754,7 @@ Puzzle 776: progression
 Puzzle 777: progression
 Puzzle 778: progression
 Puzzle 779: progression
-Puzzle 78: progression
+Puzzle 77: progression
 Puzzle 780: progression
 Puzzle 781: progression
 Puzzle 782: progression
@@ -1767,7 +1765,7 @@ Puzzle 786: progression
 Puzzle 787: progression
 Puzzle 788: progression
 Puzzle 789: progression
-Puzzle 79: progression
+Puzzle 78: progression
 Puzzle 790: progression
 Puzzle 791: progression
 Puzzle 792: progression
@@ -1778,8 +1776,8 @@ Puzzle 796: progression
 Puzzle 797: progression
 Puzzle 798: progression
 Puzzle 799: progression
-Puzzle 8: progression
-Puzzle 80: progression
+Puzzle 79: progression
+Puzzle 7: progression
 Puzzle 800: progression
 Puzzle 801: progression
 Puzzle 802: progression
@@ -1790,7 +1788,7 @@ Puzzle 806: progression
 Puzzle 807: progression
 Puzzle 808: progression
 Puzzle 809: progression
-Puzzle 81: progression
+Puzzle 80: progression
 Puzzle 810: progression
 Puzzle 811: progression
 Puzzle 812: progression
@@ -1801,7 +1799,7 @@ Puzzle 816: progression
 Puzzle 817: progression
 Puzzle 818: progression
 Puzzle 819: progression
-Puzzle 82: progression
+Puzzle 81: progression
 Puzzle 820: progression
 Puzzle 821: progression
 Puzzle 822: progression
@@ -1812,7 +1810,7 @@ Puzzle 826: progression
 Puzzle 827: progression
 Puzzle 828: progression
 Puzzle 829: progression
-Puzzle 83: progression
+Puzzle 82: progression
 Puzzle 830: progression
 Puzzle 831: progression
 Puzzle 832: progression
@@ -1823,7 +1821,7 @@ Puzzle 836: progression
 Puzzle 837: progression
 Puzzle 838: progression
 Puzzle 839: progression
-Puzzle 84: progression
+Puzzle 83: progression
 Puzzle 840: progression
 Puzzle 841: progression
 Puzzle 842: progression
@@ -1834,7 +1832,7 @@ Puzzle 846: progression
 Puzzle 847: progression
 Puzzle 848: progression
 Puzzle 849: progression
-Puzzle 85: progression
+Puzzle 84: progression
 Puzzle 850: progression
 Puzzle 851: progression
 Puzzle 852: progression
@@ -1845,7 +1843,7 @@ Puzzle 856: progression
 Puzzle 857: progression
 Puzzle 858: progression
 Puzzle 859: progression
-Puzzle 86: progression
+Puzzle 85: progression
 Puzzle 860: progression
 Puzzle 861: progression
 Puzzle 862: progression
@@ -1856,7 +1854,7 @@ Puzzle 866: progression
 Puzzle 867: progression
 Puzzle 868: progression
 Puzzle 869: progression
-Puzzle 87: progression
+Puzzle 86: progression
 Puzzle 870: progression
 Puzzle 871: progression
 Puzzle 872: progression
@@ -1867,7 +1865,7 @@ Puzzle 876: progression
 Puzzle 877: progression
 Puzzle 878: progression
 Puzzle 879: progression
-Puzzle 88: progression
+Puzzle 87: progression
 Puzzle 880: progression
 Puzzle 881: progression
 Puzzle 882: progression
@@ -1878,7 +1876,7 @@ Puzzle 886: progression
 Puzzle 887: progression
 Puzzle 888: progression
 Puzzle 889: progression
-Puzzle 89: progression
+Puzzle 88: progression
 Puzzle 890: progression
 Puzzle 891: progression
 Puzzle 892: progression
@@ -1889,8 +1887,8 @@ Puzzle 896: progression
 Puzzle 897: progression
 Puzzle 898: progression
 Puzzle 899: progression
-Puzzle 9: progression
-Puzzle 90: progression
+Puzzle 89: progression
+Puzzle 8: progression
 Puzzle 900: progression
 Puzzle 901: progression
 Puzzle 902: progression
@@ -1901,7 +1899,7 @@ Puzzle 906: progression
 Puzzle 907: progression
 Puzzle 908: progression
 Puzzle 909: progression
-Puzzle 91: progression
+Puzzle 90: progression
 Puzzle 910: progression
 Puzzle 911: progression
 Puzzle 912: progression
@@ -1912,7 +1910,7 @@ Puzzle 916: progression
 Puzzle 917: progression
 Puzzle 918: progression
 Puzzle 919: progression
-Puzzle 92: progression
+Puzzle 91: progression
 Puzzle 920: progression
 Puzzle 921: progression
 Puzzle 922: progression
@@ -1923,7 +1921,7 @@ Puzzle 926: progression
 Puzzle 927: progression
 Puzzle 928: progression
 Puzzle 929: progression
-Puzzle 93: progression
+Puzzle 92: progression
 Puzzle 930: progression
 Puzzle 931: progression
 Puzzle 932: progression
@@ -1934,7 +1932,7 @@ Puzzle 936: progression
 Puzzle 937: progression
 Puzzle 938: progression
 Puzzle 939: progression
-Puzzle 94: progression
+Puzzle 93: progression
 Puzzle 940: progression
 Puzzle 941: progression
 Puzzle 942: progression
@@ -1945,7 +1943,7 @@ Puzzle 946: progression
 Puzzle 947: progression
 Puzzle 948: progression
 Puzzle 949: progression
-Puzzle 95: progression
+Puzzle 94: progression
 Puzzle 950: progression
 Puzzle 951: progression
 Puzzle 952: progression
@@ -1956,7 +1954,7 @@ Puzzle 956: progression
 Puzzle 957: progression
 Puzzle 958: progression
 Puzzle 959: progression
-Puzzle 96: progression
+Puzzle 95: progression
 Puzzle 960: progression
 Puzzle 961: progression
 Puzzle 962: progression
@@ -1967,7 +1965,7 @@ Puzzle 966: progression
 Puzzle 967: progression
 Puzzle 968: progression
 Puzzle 969: progression
-Puzzle 97: progression
+Puzzle 96: progression
 Puzzle 970: progression
 Puzzle 971: progression
 Puzzle 972: progression
@@ -1978,7 +1976,7 @@ Puzzle 976: progression
 Puzzle 977: progression
 Puzzle 978: progression
 Puzzle 979: progression
-Puzzle 98: progression
+Puzzle 97: progression
 Puzzle 980: progression
 Puzzle 981: progression
 Puzzle 982: progression
@@ -1989,7 +1987,7 @@ Puzzle 986: progression
 Puzzle 987: progression
 Puzzle 988: progression
 Puzzle 989: progression
-Puzzle 99: progression
+Puzzle 98: progression
 Puzzle 990: progression
 Puzzle 991: progression
 Puzzle 992: progression
@@ -2000,5 +1998,7 @@ Puzzle 996: progression
 Puzzle 997: progression
 Puzzle 998: progression
 Puzzle 999: progression
+Puzzle 99: progression
+Puzzle 9: progression
 Reroll: useful
 Skip: useful

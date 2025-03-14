@@ -49,12 +49,12 @@ OST Progressive Yellow Pikmin: progression
 OST Red Pikmin: progression
 OST Yellow Onion: progression
 OST Yellow Pikmin: progression
-Oatchi: progression
 Oatchi Anti-Electrifier: useful
 Oatchi Scorch Guard: progression
 Oatchi Sniff Saver: useful
 Oatchi Thermal Defense: useful
 Oatchi Tuff Stuff: useful
+Oatchi: progression
 Olimar: progression
 Pikpik Carrot: useful
 Plucking Whistle: useful
@@ -122,8 +122,8 @@ Subzero Sauna: progression
 Survey Drone: useful
 Thermal Defense: useful
 Trackonator: useful
-Treasure: mcguffin
 Treasure Gauge: useful
+Treasure: mcguffin
 Triple Threat: useful
 Tuff Stuff: useful
 Ultimate Testing Range: progression

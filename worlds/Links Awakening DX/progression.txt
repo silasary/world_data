@@ -5,6 +5,7 @@
 50 Rupees: mcguffin
 500 Rupees: mcguffin
 Angler Key: progression
+Bad Heart Container: bad_name
 Ballad of the Wind Fish: progression
 Bananas: progression
 Bird Key: progression
@@ -23,6 +24,7 @@ Compass (Face Shrine): filler
 Compass (Key Cavern): filler
 Compass (Tail Cave): filler
 Compass (Turtle Rock): filler
+Compass: bad_name
 Conch Horn: mcguffin
 Coral Triangle: mcguffin
 Dog Food: progression
@@ -41,18 +43,22 @@ Fishing Hook: progression
 Flippers: progression
 Frog's Song of Soul: progression
 Full Moon Cello: mcguffin
+Gel: trap
 Gold Leaf: mcguffin
 Heart Container: useful
 Heart Piece: useful
 Hibiscus: progression
 Honeycomb: progression
 Hookshot: progression
+Key: bad_name
 Letter: progression
 Magic Powder: progression
 Magic Rod: progression
 Magnifying Glass: progression
 Magnifying Lens: progression
 Manbo's Mambo: useful
+Map: bad_name
+Master Stalfos' Message: filler
 Max Arrows Upgrade: useful
 Max Bombs Upgrade: useful
 Max Powder Upgrade: useful
@@ -67,6 +73,7 @@ Nightmare Key (Face Shrine): progression
 Nightmare Key (Key Cavern): progression
 Nightmare Key (Tail Cave): progression
 Nightmare Key (Turtle Rock): progression
+Nightmare Key: progression
 Nothing: filler
 Ocarina: progression
 Organ of Evening Calm: mcguffin
@@ -103,6 +110,7 @@ Stone Beak (Face Shrine): filler
 Stone Beak (Key Cavern): filler
 Stone Beak (Tail Cave): filler
 Stone Beak (Turtle Rock): filler
+Stone Beak: bad_name
 Surf Harp: mcguffin
 Tail Key: progression
 Thunder Drum: mcguffin
@@ -110,11 +118,3 @@ Toadstool: progression
 Wind Marimba: mcguffin
 Yoshi Doll: progression
 Zol Attack: trap
-Master Stalfos' Message: filler
-Gel: trap
-Nightmare Key: progression
-Stone Beak: bad_name
-Bad Heart Container: bad_name
-Key: bad_name
-Compass: bad_name
-Map: bad_name

@@ -1,12 +1,12 @@
-Nothing: filler
-Score Bonus: filler
-Task Advance: useful
-Starting Turner: useful
-Reserved: filler
-Starting Paint Can: useful
 Booster Bumper: progression
 Hazard Bumper: progression
-Treasure Bumper: progression
-Rainbow Trap: trap
-Spinner Trap: trap
 Killer Trap: trap
+Nothing: filler
+Rainbow Trap: trap
+Reserved: filler
+Score Bonus: filler
+Spinner Trap: trap
+Starting Paint Can: useful
+Starting Turner: useful
+Task Advance: useful
+Treasure Bumper: progression

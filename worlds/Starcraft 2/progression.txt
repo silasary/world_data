@@ -15,10 +15,12 @@
 ATX Laser Battery (Battlecruiser): progression
 Aberration: progression
 Ability Efficiency (Kerrigan Tier 6): useful
+Acid Spore Vents (Infested Missile Turret): unknown
 Adapted Spines (Lurker): useful
 Adaptive Medpacks (Medic): progression
 Adaptive Plating (Roach): useful
 Adaptive Talons (Impaler): filler
+Additional Maximum Supply: filler
 Additional Starting Minerals: filler
 Additional Starting Supply: filler
 Additional Starting Vespene: filler
@@ -38,6 +40,7 @@ Advanced Siege Tech (Siege Tank): useful
 Advanced Targeting (Planetary Fortress): useful
 Advanced Targeting Mechanics (Immortal/Annihilator): progression
 Advanced Targeting Optics (Banshee): progression
+Advanced Targeting Optics (Infested Banshee): unknown
 Aerodynamic Glaive Shape (Mutalisk): useful
 Afterburners (Medivac): filler
 Afterburners (Valkyrie): filler
@@ -47,6 +50,7 @@ Anabolic Synthesis (Ultralisk): filler
 Ancillary Carapace (Hydralisk): filler
 Anion Pulse-Crystals (Phoenix/Mirage): useful
 Annihilator: progression
+Antennae (Overlord): unknown
 Anti-Armor Missile (Raven): filler
 Anti-Mechanical Munition (Viking): useful
 Apial Sensors (Scout): filler
@@ -56,18 +60,25 @@ Ares-Class Targeting System (Goliath): useful
 Argus Jewel (Corsair): useful
 Argus Talisman (Dark Archon): useful
 Armored Suit Module (Nova Suit Module): progression
+Artillery Ducts (Bile Launcher): unknown
 Ascendant: progression
 Auto Launchers (Vulture): useful
 Auto-Repair (Vulture): useful
 Automated Extractors (Kerrigan Tier 3): useful
 Automated Refinery: useful
 Avenger: progression
+Balanced Roots (Infested Siege Tank): unknown
 Baneling Aspect (Zergling): progression
+Baneling Incubation (Aberration): unknown
 Banshee: progression
+Barrage of Spikes (Tyrannozor): unknown
 Battlecruiser: progression
 Behemoth Plating (Battlecruiser): useful
+Bile Launcher: unknown
 Bio Mechanical Repair Drone (Raven): progression
+Bio-Mechanical Stockpiling (Zerg): unknown
 Bio-Mechanical Transfusion (Swarm Queen): useful
+Bioelectric Payload (Infested Missile Turret): unknown
 Black Market Launchers (Widow Mine): filler
 Blazefire Gunblade (Nova Weapon): progression
 Blink (Dark Templar/Avenger/Blood Hunter): progression
@@ -79,6 +90,7 @@ Blood Shield (Supplicant): filler
 Bloodshard Resonance (Havoc): useful
 Brood Lord Aspect (Mutalisk/Corruptor): progression
 Brood Queen: progression
+Broodling Packing (Zerg): unknown
 Brynhilds: progression
 Bunker: useful
 Burrow (Swarm Host): filler
@@ -86,13 +98,16 @@ Burrow Charge (Ultralisk): useful
 Burst Capacitors (Diamondback): filler
 Button With a Skull on It (Thor): progression
 C20A Canister Rifle (Nova Weapon): progression
+Calcified Armor (Infested Bunker): unknown
 Carrier: progression
 Carrion Strain (Swarm Host): useful
+Catalytic Boosters (Bullfrog): unknown
 Caustic Spray (Corruptor): useful
 Cellular Reactor: useful
 Centrifugal Hooks (Baneling): useful
 Centurion: progression
 Cerberus Mine (Spider Mine): filler
+Chain Reaction (Kerrigan Passive): unknown
 Chain Reaction (Kerrigan Tier 2): progression
 Chaotic Attunement (Ascendant): useful
 Charge (Predator): filler
@@ -109,7 +124,10 @@ Combat Sensor Array (Scout): useful
 Combat Shield (Marine): progression
 Command Center Reactor: useful
 Concealment (Widow Mine): progression
+Concentrated Spew (Infested Diamondback): unknown
 Concussive Shells (Marauder): useful
+Construct Regeneration (Aberration): unknown
+Construct Regeneration (Corruptor): unknown
 Corpser Strain (Roach): useful
 Corrosive Acid (Baneling): useful
 Corrosive Spray (Devourer): useful
@@ -117,14 +135,17 @@ Corruption (Corruptor): useful
 Corruptor: progression
 Corsair: progression
 Covert Ops Engines (Battlecruiser): useful
+Creep Stomach (Zerg): unknown
 Creeper Strain (Swarm Host): filler
 Crius Suit (Ghost): useful
+Crushing Grip (Kerrigan Ability): useful
 Crushing Grip (Kerrigan Tier 2): progression
 Cyclone: progression
-Dark Archon: progression
 Dark Archon Meld (Dark Templar): useful
+Dark Archon: progression
 Dark Templar: progression
 Death Heads: useful
+Decreased Maximum Supply: trap
 Deep Tunnel (Ravager): useful
 Deep Tunnel (Swarm Queen): useful
 Defensive Matrix (Science Vessel): useful
@@ -134,6 +155,7 @@ Destroyer: progression
 Detect Weakness (Havoc): useful
 Devil Dogs: filler
 Devourer Aspect (Mutalisk/Corruptor): useful
+Devouring Ones: unknown
 Diamondback: progression
 Disintegrating Particles (Stalker/Instigator/Slayer): progression
 Displacement Field (Wraith): filler
@@ -158,8 +180,10 @@ Enhanced Strider Servos (Dragoon): filler
 Enhanced Targeting: useful
 Ensnare (Brood Queen): useful
 Evolved Carapace (Brood Lord): useful
+Excavating Claws (Zerg): unknown
 Executioner Missiles (Widow Mine): useful
 Expanded Hull (Medivac): filler
+Explosive Spores (Guardian): unknown
 Eye of Wrath (Wrathwalker): filler
 Feedback (Dark Archon): useful
 Firebat: progression
@@ -170,12 +194,14 @@ Force Field (Sentry): filler
 Forged Chassis (Energizer): useful
 Fortified Bunker (Bunker): useful
 Frenzy (Hydralisk): useful
+Frightful Fleshwelder (Infested Siege Tank): unknown
 Fungal Growth (Brood Queen): useful
+Fury (Kerrigan Passive): unknown
 Fury (Kerrigan Tier 6): progression
 G-4 Clusterbomb (Reaper): progression
 Gaping Maw (Devourer): useful
-Ghost: progression
 Ghost Visor (Nova Equipment): useful
+Ghost: progression
 Glial Reconstitution (Roach): useful
 Goliath: progression
 Graduating Range (Siege Tank): progression
@@ -194,6 +220,7 @@ Hammer Securities: useful
 Hardened Carapace (Zergling): useful
 Hardened Tentacle Spines (Impaler): useful
 Havoc: useful
+Healing Adaptation (Ultralisk/Tyrannozor): unknown
 Hel's Angels: progression
 Hellbat Aspect (Hellion): progression
 Hellfire Shotgun (Nova Weapon): progression
@@ -210,12 +237,14 @@ Hive Mind Emulator: progression
 Holo Decoy (Nova Gadget): progression
 Hostile Environment Adaptation (SCV): filler
 Hull of Past Glories (Carrier): useful
+Hunter Killers: unknown
 Hunter Strain (Baneling): useful
 Hunter-Seeker Weapon (Raven): progression
 Hydralisk: progression
 Hydriodic Bile (Roach): useful
 Hyperflight Rotors (Banshee): filler
 Hyperfluxor (Diamondback): useful
+Immobilization Wave (Kerrigan Ability): unknown
 Immortal: progression
 Impaler Aspect (Hydralisk): progression
 Impaler Rounds (Spectre): useful
@@ -228,6 +257,7 @@ Infernal Plating (Hellion): useful
 Infernal Pre-Igniter (Firebat): useful
 Infest Broodlings (Kerrigan Tier 6): progression
 Infested Banshees: useful
+Infested Dusk Wings: unknown
 Infested Medics: useful
 Infested Siege Tanks: useful
 Infested Terran (Infestor): useful
@@ -303,6 +333,7 @@ Mirage: progression
 Missile Turret: useful
 Monarch Blades (Ultralisk): useful
 Monomolecular Blade (Nova Weapon): progression
+Monstrous Resilience (Aberration): unknown
 Mothership: progression
 Multi-Lock Weapons System (Goliath): useful
 Muscular Augments (Hydralisk): useful
@@ -327,8 +358,8 @@ Optimized Ordnance: useful
 Oracle: progression
 Orbital Assimilators: useful
 Orbital Depots: useful
-Orbital Strike: useful
 Orbital Strike (Spear of Adun Calldown): useful
+Orbital Strike: useful
 Organic Carapace (Roach): useful
 Organic Carapace (Swarm Host): useful
 Organic Carapace (Swarm Queen): filler
@@ -338,6 +369,7 @@ Pacification Protocol (Colossus): useful
 Paralytic Barbs (Viper): useful
 Parasitic Bomb (Viper): useful
 Particle Reflection (Stalker/Instigator/Slayer): progression
+Pathogen Projectors (Defiler): unknown
 Perdition Turret: progression
 Phase Blaster (Warp Prism): progression
 Phase Bulwark (Adept): useful
@@ -349,13 +381,17 @@ Plasma Rifle (Nova Weapon): progression
 Porous Cartilage (Brood Lord): useful
 Potent Bile (Ravager): useful
 Power Overwhelming (Ascendant): useful
-Predator: filler
 Predator's Fury (Predator): useful
+Predator: filler
+Predatory Consumption (Defiler): unknown
 Prescient Spores (Devourer): useful
 Pressurized Glands (Swarm Host): progression
 Primal Adaptation (Guardian): useful
 Primal Form (Kerrigan): useful
+Primal Igniter Aspect (Roach): unknown
+Primordial Fury (Guardian): unknown
 Progressive Augmented Thrusters (Planetary Fortress): useful
+Progressive Baneling Launch (Aberration): unknown
 Progressive Cross-Spectrum Dampeners (Banshee): filler
 Progressive Defensive Matrix (Battlecruiser): useful
 Progressive Fire-Suppression System: useful
@@ -413,14 +449,20 @@ Psionic Lash (Spectre): progression
 Psionic Shift (Kerrigan Tier 2): progression
 Pulse Grenades (Nova Gadget): progression
 Purifier Beam (Spear of Adun Calldown): useful
+Pygalisk: unknown
 Pylon Overcharge (Spear of Adun Calldown): useful
 Quantic Reactor (Tempest): filler
 Quatro: useful
+Questline Key #1: unknown
+Questline Key #2: unknown
+Questline Key #3: unknown
 Raid Artillery (Liberator): progression
 Railgun Turret (Raven): useful
 Rangefinder Oculus (Nova Equipment): useful
+Rapid Bombardment (Bile Launcher): unknown
 Rapid Deployment Tube (Medivac): filler
 Rapid Fire Launchers (Cyclone): useful
+Rapid Hibernation (Infested Banshee): unknown
 Rapid Incubation (Swarm Host): useful
 Rapid Metamorph (Baneling): useful
 Rapid Power Cycling (Wrathwalker): useful
@@ -430,8 +472,8 @@ Raptor Strain (Zergling): useful
 Ravager Aspect (Roach): useful
 Raven: progression
 Reaper: progression
-Reaver: progression
 Reaver Capacity (Reaver): filler
+Reaver: progression
 Reclamation (Energizer): useful
 Reconstruction Beam (Spear of Adun Auto-Cast): progression
 Reforged Bloodshard Core (Destroyer): useful
@@ -463,6 +505,7 @@ Resource Efficiency (Valkyrie): useful
 Resource Efficiency (Warhound): useful
 Resource Efficiency (Wraith): useful
 Restoration (Medic): filler
+Retinal Augmentation (Infested Marine): unknown
 Ripwave Missiles (Viking): useful
 Roach: progression
 Rocket Barrage (Banshee): useful
@@ -515,6 +558,7 @@ Soronan Acid (Guardian): useful
 Soul Augmentation (Supplicant): filler
 Spacetime Anchor (Arbiter): useful
 Spartan Company: progression
+Spawn Banelings (Kerrigan Ability): unknown
 Spawn Banelings (Kerrigan Tier 4): progression
 Spawn Larvae (Swarm Queen): useful
 Spawn Leviathan (Kerrigan Tier 7): progression
@@ -532,10 +576,13 @@ Stasis Calibration (Oracle): useful
 Stealth Drive (Corsair): useful
 Stealth Drive (Oracle): useful
 Stim Infusion (Nova Gadget): progression
+Stimpack (Pygalisk): unknown
 Structure Armor: useful
+Subterranean Scales (Nydus Worm/Echidna Worm): unknown
 Sundering Glaive (Mutalisk): useful
 Superior Warp Gates: useful
 Supplicant: filler
+Sustained Cultivation Ventricles (InfSCV Build Charges): unknown
 Sustaining Disruption (Corsair): useful
 Swarm Host: progression
 Swarm Queen: progression
@@ -556,12 +603,15 @@ Time Stop (Spear of Adun Calldown): progression
 Tissue Assimilation (Ultralisk): useful
 Titanium Housing (Missile Turret): filler
 Torrasque Strain (Ultralisk): useful
+Trapdoor Adaptation (Defiler): unknown
 Trigger Override (Wraith): useful
 Trillic Compression System (Dragoon): useful
 Tunneling Claws (Roach): filler
 Tunneling Jaws (Baneling): useful
 Twin Drones (Kerrigan Tier 5): useful
+Twin Drones (Zerg): unknown
 Twin-Linked Flamethrower (Hellion): filler
+Tyrannozor Aspect (Ultralisk): unknown
 U-238 Rounds (Reaper): useful
 Ultra-Capacitors: useful
 Ultralisk: progression
@@ -571,10 +621,12 @@ Vanadium Plating: useful
 Vanguard: progression
 Ventral Sacs (Overlord): useful
 Vespene Efficiency (Kerrigan Tier 5): useful
+Vespene Efficiency (Zerg): unknown
 Vicious Glaive (Mutalisk): useful
 Viking: progression
 Vile Strain (Roach): useful
 Viper Aspect (Mutalisk/Corruptor): progression
+Viral Contamination (Infested Liberator): unknown
 Virulent Microbes (Viper): useful
 Virulent Spores (Scourge): useful
 Void Ray: progression
@@ -591,5 +643,6 @@ Winged Nightmares: progression
 Wraith: progression
 Wrathwalker: progression
 Zealot: progression
-Zergling: progression
 Zergling Reconstitution (Kerrigan Tier 3): filler
+Zergling Reconstitution (Zerg): unknown
+Zergling: progression

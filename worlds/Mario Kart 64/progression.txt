@@ -1,159 +1,113 @@
-Progressive Cup Unlock: progression
-Progressive Course Unlock: unknown
-Banana Power: useful
 Banana Bunch Power: useful
-Green Shell Power: useful
-Triple Green Shell Power: useful
-Red Shell Power: progression
-Triple Red Shell Power: progression
+Banana Power: useful
+Banana Trap: trap
+Banshee Boardwalk Item Boxes 1: filler
+Banshee Boardwalk Item Boxes 2: filler
+Banshee Boardwalk Item Boxes 3: filler
+Banshee Boardwalk Item Boxes 4: filler
 Blue Shell Power: progression
-Lightning Power: progression
-Fake Item Box Power: progression
-Star Power: progression
-Ghost Power: useful
-Mushroom Power: progression
-Triple Mushroom Power: progression
-Super Mushroom Power: progression
-Feather Power: progression
-P2 Banana Power: useful
-P2 Banana Bunch Power: useful
-P2 Green Shell Power: useful
-P2 Triple Green Shell Power: useful
-P2 Red Shell Power: progression
-P2 Triple Red Shell Power: progression
-P2 Blue Shell Power: progression
-P2 Lightning Power: progression
-P2 Fake Item Box Power: progression
-P2 Star Power: progression
-P2 Ghost Power: useful
-P2 Mushroom Power: progression
-P2 Triple Mushroom Power: progression
-P2 Super Mushroom Power: progression
-P2 Feather Power: progression
-Mario: progression
-Luigi: progression
-Peach: progression
-Toad: progression
-Yoshi: progression
-D.K.: progression
-Wario: progression
-Bowser: progression
-Progressive Drift Mario: progression
-Progressive Drift Luigi: progression
-Progressive Drift Peach: progression
-Progressive Drift Toad: progression
-Progressive Drift Yoshi: progression
-Progressive Drift D.K.: progression
-Progressive Drift Wario: progression
-Progressive Drift Bowser: progression
-Off-Road Tires Mario: progression
-Off-Road Tires Luigi: progression
-Off-Road Tires Peach: progression
-Off-Road Tires Toad: progression
-Off-Road Tires Yoshi: progression
-Off-Road Tires D.K.: progression
-Off-Road Tires Wario: progression
-Off-Road Tires Bowser: progression
-Winter Tires Mario: progression
-Winter Tires Luigi: progression
-Winter Tires Peach: progression
-Winter Tires Toad: progression
-Winter Tires Yoshi: progression
-Winter Tires D.K.: progression
-Winter Tires Wario: progression
-Winter Tires Bowser: progression
-Starting Item Mario: useful
-Starting Item Luigi: useful
-Starting Item Peach: useful
-Starting Item Toad: useful
-Starting Item Yoshi: useful
-Starting Item D.K.: useful
-Starting Item Wario: useful
-Starting Item Bowser: useful
-Railings - Choco Mountain: useful
-Railings - Royal Raceway: useful
-Railings - Bowser's Castle: useful
-Railings - D.K.'s Jungle Parkway: progression
-Railings - Yoshi Valley Main Track: progression
-Railings - Yoshi Valley Maze: progression
-Railings - Banshee Boardwalk North: progression
-Railings - Banshee Boardwalk South: progression
-Railings - Rainbow Road 1: progression
-Railings - Rainbow Road 2: progression
-Railings - Rainbow Road 3: progression
-Railings - Rainbow Road 4: useful
-Railings - Rainbow Road 5: progression
-Yellow Switch: progression
-Red Switch: progression
-Green Switch: progression
 Blue Switch: progression
+Bomb Trap: trap
+Bowser's Castle Item Boxes 1: filler
+Bowser's Castle Item Boxes 2: filler
+Bowser's Castle Item Boxes 3: filler
+Bowser: progression
+Choco Mountain Item Boxes 1: filler
+Choco Mountain Item Boxes 2: filler
+Choco Mountain Item Boxes 3: filler
+D.K.'s Jungle Parkway Item Boxes 1: filler
+D.K.'s Jungle Parkway Item Boxes 2: filler
+D.K.'s Jungle Parkway Item Boxes 3: filler
+D.K.'s Jungle Parkway Item Boxes 4: filler
+D.K.'s Jungle Parkway Item Boxes 5: filler
+D.K.: progression
+Fake Item Box Power: progression
+Feather Power: progression
+Frappe Snowland Item Boxes 1: filler
+Frappe Snowland Item Boxes 2: filler
+Frappe Snowland Item Boxes 3: filler
+Ghost Power: useful
+Green Shell Power: useful
+Green Shell Trap: trap
+Green Switch: progression
 Item Box Respawning: useful
-Luigi Raceway Special Item Box: filler
-Koopa Troopa Beach Special Item Box: filler
-Luigi Raceway Item Boxes 1: filler
-Luigi Raceway Item Boxes 2: filler
-Luigi Raceway Item Boxes 3: filler
-Moo Moo Farm Item Boxes 1: filler
-Moo Moo Farm Item Boxes 2: filler
-Moo Moo Farm Item Boxes 3: filler
-Moo Moo Farm Item Boxes 4: filler
+Item Roulette: filler
+Kalimari Desert Item Boxes 1: filler
+Kalimari Desert Item Boxes 2: filler
+Kalimari Desert Item Boxes 3: filler
 Koopa Troopa Beach Item Boxes 1: filler
 Koopa Troopa Beach Item Boxes 2: filler
 Koopa Troopa Beach Item Boxes 3: filler
 Koopa Troopa Beach Item Boxes 4: filler
 Koopa Troopa Beach Item Boxes 5: filler
 Koopa Troopa Beach Item Boxes 6: filler
-Kalimari Desert Item Boxes 1: filler
-Kalimari Desert Item Boxes 2: filler
-Kalimari Desert Item Boxes 3: filler
-Toads Turnpike Item Boxes 1: unknown
-Toads Turnpike Item Boxes 2: unknown
-Toads Turnpike Item Boxes 3: filler
-Toads Turnpike Item Boxes 4: filler
-Frappe Snowland Item Boxes 1: filler
-Frappe Snowland Item Boxes 2: filler
-Frappe Snowland Item Boxes 3: filler
-Choco Mountain Item Boxes 1: filler
-Choco Mountain Item Boxes 2: filler
-Choco Mountain Item Boxes 3: filler
+Koopa Troopa Beach Special Item Box: filler
+Lakitu Trap: trap
+Lightning Power: progression
+Lightning Trap: trap
+Luigi Raceway Item Boxes 1: filler
+Luigi Raceway Item Boxes 2: filler
+Luigi Raceway Item Boxes 3: filler
+Luigi Raceway Special Item Box: filler
+Luigi: progression
 Mario Raceway Item Boxes 1: filler
 Mario Raceway Item Boxes 2: filler
 Mario Raceway Item Boxes 3: filler
-Wario Stadium Item Boxes 1: filler
-Wario Stadium Item Boxes 2: filler
-Wario Stadium Item Boxes 3: filler
-Wario Stadium Item Boxes 4: filler
-Wario Stadium Item Boxes 5: filler
-Wario Stadium Item Boxes 6: filler
-Sherbet Land First Item Boxes: filler
-Sherbet Land Left Of Rock Item Boxes: useful
-Sherbet Land Right Of Rock Item Box: filler
-Sherbet Land Cave Item Boxes: filler
-Sherbet Land Last Item Boxes: useful
-Royal Raceway Item Boxes 1: filler
-Royal Raceway Item Boxes 2: filler
-Royal Raceway Item Boxes 3: filler
-Royal Raceway Item Boxes 4: filler
-Bowser's Castle Item Boxes 1: filler
-Bowser's Castle Item Boxes 2: filler
-Bowser's Castle Item Boxes 3: filler
-D.K.'s Jungle Parkway Item Boxes 1: filler
-D.K.'s Jungle Parkway Item Boxes 2: filler
-D.K.'s Jungle Parkway Item Boxes 3: filler
-D.K.'s Jungle Parkway Item Boxes 4: filler
-D.K.'s Jungle Parkway Item Boxes 5: filler
-Yoshi Valley Field Item Boxes: filler
-Yoshi Valley Maze Entry Right Item Boxes: progression
-Yoshi Valley Maze Bridge Item Boxes: filler
-Yoshi Valley Maze Rightmost Item Boxes: filler
-Yoshi Valley Maze Leftmost Fork Boxes: progression
-Yoshi Valley Maze Leftmost Ledge Boxes: filler
-Yoshi Valley Hairpin Turn Item Boxes: filler
-Yoshi Valley Giant Egg Item Boxes: filler
-Banshee Boardwalk Item Boxes 1: filler
-Banshee Boardwalk Item Boxes 2: filler
-Banshee Boardwalk Item Boxes 3: filler
-Banshee Boardwalk Item Boxes 4: filler
+Mario: progression
+Moo Moo Farm Item Boxes 1: filler
+Moo Moo Farm Item Boxes 2: filler
+Moo Moo Farm Item Boxes 3: filler
+Moo Moo Farm Item Boxes 4: filler
+Mushroom Power: progression
+Off-Road Tires Bowser: progression
+Off-Road Tires D.K.: progression
+Off-Road Tires Luigi: progression
+Off-Road Tires Mario: progression
+Off-Road Tires Peach: progression
+Off-Road Tires Toad: progression
+Off-Road Tires Wario: progression
+Off-Road Tires Yoshi: progression
+P2 Banana Bunch Power: useful
+P2 Banana Power: useful
+P2 Blue Shell Power: progression
+P2 Fake Item Box Power: progression
+P2 Feather Power: progression
+P2 Ghost Power: useful
+P2 Green Shell Power: useful
+P2 Lightning Power: progression
+P2 Mushroom Power: progression
+P2 Red Shell Power: progression
+P2 Star Power: progression
+P2 Super Mushroom Power: progression
+P2 Triple Green Shell Power: useful
+P2 Triple Mushroom Power: progression
+P2 Triple Red Shell Power: progression
+Peach: progression
+Progressive Course Unlock: unknown
+Progressive Course: progression
+Progressive Cup Unlock: progression
+Progressive Cup: progression
+Progressive Drift Bowser: progression
+Progressive Drift D.K.: progression
+Progressive Drift Luigi: progression
+Progressive Drift Mario: progression
+Progressive Drift Peach: progression
+Progressive Drift Toad: progression
+Progressive Drift Wario: progression
+Progressive Drift Yoshi: progression
+Railings - Banshee Boardwalk North: progression
+Railings - Banshee Boardwalk South: progression
+Railings - Bowser's Castle: useful
+Railings - Choco Mountain: useful
+Railings - D.K.'s Jungle Parkway: progression
+Railings - Rainbow Road 1: progression
+Railings - Rainbow Road 2: progression
+Railings - Rainbow Road 3: progression
+Railings - Rainbow Road 4: useful
+Railings - Rainbow Road 5: progression
+Railings - Royal Raceway: useful
+Railings - Yoshi Valley Main Track: progression
+Railings - Yoshi Valley Maze: progression
 Rainbow Road Item Boxes 1: filler
 Rainbow Road Item Boxes 2: filler
 Rainbow Road Item Boxes 3: filler
@@ -163,23 +117,69 @@ Rainbow Road Item Boxes 6: filler
 Rainbow Road Item Boxes 7: filler
 Rainbow Road Item Boxes 8: filler
 Random Item: useful
-Banana Trap: trap
-Green Shell Trap: trap
-Bomb Trap: trap
-Lightning Trap: trap
-Progressive Cup: progression
-Progressive Course: progression
+Red Shell Power: progression
+Red Switch: progression
+Royal Raceway Item Boxes 1: filler
+Royal Raceway Item Boxes 2: filler
+Royal Raceway Item Boxes 3: filler
+Royal Raceway Item Boxes 4: filler
+Sherbet Land Bypass Item Box: filler
+Sherbet Land Cave Item Boxes: filler
+Sherbet Land First Item Boxes: filler
+Sherbet Land Item Boxes 1: filler
+Sherbet Land Item Boxes 2: filler
+Sherbet Land Item Boxes 3: filler
+Sherbet Land Item Boxes 4: filler
+Sherbet Land Last Item Boxes: useful
+Sherbet Land Left Of Rock Item Boxes: useful
+Sherbet Land Right Of Rock Item Box: filler
+Star Power: progression
+Starting Item Bowser: useful
+Starting Item D.K.: useful
+Starting Item Luigi: useful
+Starting Item Mario: useful
+Starting Item Peach: useful
+Starting Item Toad: useful
+Starting Item Wario: useful
+Starting Item Yoshi: useful
+Super Mushroom Power: progression
 Toad's Turnpike Item Boxes 1: filler
 Toad's Turnpike Item Boxes 2: filler
 Toad's Turnpike Item Boxes 3: filler
 Toad's Turnpike Item Boxes 4: filler
-Sherbet Land Item Boxes 1: filler
-Sherbet Land Item Boxes 2: filler
-Sherbet Land Bypass Item Box: filler
-Sherbet Land Item Boxes 3: filler
-Sherbet Land Item Boxes 4: filler
+Toad: progression
+Toads Turnpike Item Boxes 1: unknown
+Toads Turnpike Item Boxes 2: unknown
+Toads Turnpike Item Boxes 3: filler
+Toads Turnpike Item Boxes 4: filler
+Triple Green Shell Power: useful
+Triple Mushroom Power: progression
+Triple Red Shell Power: progression
+Wario Stadium Item Boxes 1: filler
+Wario Stadium Item Boxes 2: filler
+Wario Stadium Item Boxes 3: filler
+Wario Stadium Item Boxes 4: filler
+Wario Stadium Item Boxes 5: filler
+Wario Stadium Item Boxes 6: filler
+Wario: progression
+Winter Tires Bowser: progression
+Winter Tires D.K.: progression
+Winter Tires Luigi: progression
+Winter Tires Mario: progression
+Winter Tires Peach: progression
+Winter Tires Toad: progression
+Winter Tires Wario: progression
+Winter Tires Yoshi: progression
+Yellow Switch: progression
+Yoshi Valley Field Item Boxes: filler
+Yoshi Valley Giant Egg Item Boxes: filler
+Yoshi Valley Hairpin Turn Item Boxes: filler
+Yoshi Valley Maze Bridge Item Boxes: filler
 Yoshi Valley Maze Entry Item Boxes: filler
+Yoshi Valley Maze Entry Right Item Boxes: progression
 Yoshi Valley Maze Left Fork Item Boxes: filler
 Yoshi Valley Maze Left Ledge Item Boxes: filler
-Item Roulette: filler
-Lakitu Trap: trap
+Yoshi Valley Maze Leftmost Fork Boxes: progression
+Yoshi Valley Maze Leftmost Ledge Boxes: filler
+Yoshi Valley Maze Rightmost Item Boxes: filler
+Yoshi: progression

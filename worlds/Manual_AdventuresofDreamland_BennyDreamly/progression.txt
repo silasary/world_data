@@ -1,39 +1,39 @@
-E Button: progression
-Hint Fragment G: progression
-Progressive Command: progression
-Hint Fragment L: progression
-Puzzle Piece 4: progression
-Puzzle Piece 1: progression
-Progressive Room: progression
-Puzzle (3/4): progression
-Puzzle: progression
-Clue 1: useful
-Magnifying Glass: progression
-Puzzle (2/4): progression
-Hint Fragment B: progression
-Puzzle (1/4): progression
-Bucket: progression
-Hint Fragment C: progression
-Hint Fragment K: progression
-Puzzle Piece 3: progression
-Glue Stick: progression
-N Button: progression
+Broom: progression
 Bucket with Water: progression
-S Button: progression
-Puzzle Piece 2: progression
-Hint Fragment D: progression
-Hint Fragment A: progression
-Hint Fragment H: progression
+Bucket: progression
+Clue 1-2: useful
+Clue 1: useful
+E Button: progression
+Glue Stick: progression
 Hint 1: useful
-W Button: progression
+Hint 3: progression
+Hint Fragment A: progression
+Hint Fragment B: progression
+Hint Fragment C: progression
+Hint Fragment D: progression
+Hint Fragment E: progression
+Hint Fragment F: progression
+Hint Fragment G: progression
+Hint Fragment H: progression
+Hint Fragment I: progression
+Hint Fragment J: progression
+Hint Fragment K: progression
+Hint Fragment L: progression
 Hint Fragment M: progression
 Key: progression
-Hint Fragment I: progression
-Broom: progression
-Hint Fragment F: progression
-Hint 3: progression
-Hint Fragment E: progression
 Lighter: progression
+Magnifying Glass: progression
+N Button: progression
+Progressive Command: progression
+Progressive Room: progression
+Puzzle (1/4): progression
+Puzzle (2/4): progression
+Puzzle (3/4): progression
 Puzzle (4/4): progression
-Hint Fragment J: progression
-Clue 1-2: useful
+Puzzle Piece 1: progression
+Puzzle Piece 2: progression
+Puzzle Piece 3: progression
+Puzzle Piece 4: progression
+Puzzle: progression
+S Button: progression
+W Button: progression

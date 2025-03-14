@@ -1,167 +1,28 @@
-Achilles Keepsake: progression
-Ambrosia: filler
-Aphrodite Keepsake: progression
-Approval Process Pact Level: progression
-Ares Keepsake: useful
-Artemis Keepsake: progression
-Athena Keepsake: progression
-Benefits Package Pact Level: unknown
-Boon Boost Helper: filler
-Bow Hidden Aspect: useful
-Bow Weapon Unlock Item: progression
-Brilliant Gemstones Item: progression
-Calisthenics Program Pact Level: progression
-Cerberus Keepsake: progression
-Chaos Keepsake: progression
-Charon Keepsake: progression
-Convenience Fee Pact Level: unknown
-Court Musician Sentence Item: filler
-Court Musician Stand Item: filler
-Damage Control Pact Level: useful
-Darker Thirst Item: useful
-Darkness: filler
-Deluxe Contractor Desk Item: unknown
-Demeter Keepsake: useful
-Diamonds: filler
-Dionysus Keepsake: progression
-Dusa Keepsake: progression
-Eurydice Keepsake: progression
-Extreme Measures Pact Level: useful
-Fated Keys Item: unknown
-Fishing Rod Item: filler
-Fist Hidden Aspect: unknown
-Fist Weapon Unlock Item: progression
-Forced Overtime Pact Level: progression
-Fountain Asphodel Item: filler
-Fountain Elysium Item: unknown
-Fountain Tartarus Item: useful
-Fountain Upgrade1 Item: filler
-Fountain Upgrade2 Item: useful
-Gemstones: filler
-Gun Hidden Aspect: useful
-Gun Weapon Unlock Item: useful
-Hard Labor Pact Level: progression
-Health Punishment: trap
-Heightened Security Pact Level: useful
-Hermes Keepsake: progression
-Hypnos Keepsake: progression
-Infernal Trove1 Item: unknown
-Infernal Trove2 Item: unknown
-Infernal Trove3 Item: unknown
-Initial Money Helper: useful
-Jury Summons Pact Level: progression
-Keepsake Collection Item: progression
-Keys: filler
-Lasting Consequences Pact Level: progression
-Max Health Helper: useful
-Megaera Keepsake: progression
-Middle Management Pact Level: useful
-Money Punishment: trap
-Nectar: filler
-Nyx Keepsake: progression
-Orpheus Keepsake: progression
-Patroclus Keepsake: progression
-Personal Liability Pact Level: unknown
-Pitch Black Darkness Item: useful
-Poseidon Keepsake: progression
-Routine Inspection Pact Level: useful
-Shield Hidden Aspect: useful
-Shield Weapon Unlock Item: progression
-Sisyphus Keepsake: progression
-Skelly Keepsake: progression
-Spear Hidden Aspect: useful
-Spear Weapon Unlock Item: unknown
-Sword Hidden Aspect: unknown
-Sword Weapon Unlock Item: unknown
-Thanatos Keepsake: progression
-Tight Deadline Pact Level: useful
-TitanBlood: filler
-Underworld Customs Pact Level: progression
-Urns Of Wealth1 Item: unknown
-Urns Of Wealth2 Item: useful
-Urns Of Wealth3 Item: filler
-Vanquishers Keep Item: filler
-Vintage Nectar Item: filler
-Zeus Keepsake: progression
-HardLaborPactLevel: progression
-LastingConsequencesPactLevel: progression
-ConvenienceFeePactLevel: progression
-JurySummonsPactLevel: progression
-ExtremeMeasuresPactLevel: progression
-CalisthenicsProgramPactLevel: progression
-BenefitsPackagePactLevel: progression
-MiddleManagementPactLevel: progression
-UnderworldCustomsPactLevel: progression
-ForcedOvertimePactLevel: progression
-HeightenedSecurityPactLevel: progression
-RoutineInspectionPactLevel: progression
-DamageControlPactLevel: progression
-ApprovalProcessPactLevel: progression
-TightDeadlinePactLevel: progression
-PersonalLiabilityPactLevel: progression
-CerberusKeepsake: progression
-AchillesKeepsake: progression
-NyxKeepsake: progression
-ThanatosKeepsake: progression
-CharonKeepsake: progression
-HypnosKeepsake: progression
-MegaeraKeepsake: progression
-OrpheusKeepsake: progression
-DusaKeepsake: progression
-SkellyKeepsake: progression
-ZeusKeepsake: progression
-PoseidonKeepsake: progression
-AthenaKeepsake: progression
-AphroditeKeepsake: progression
-AresKeepsake: progression
-ArtemisKeepsake: progression
-DionysusKeepsake: progression
-HermesKeepsake: progression
-DemeterKeepsake: progression
-ChaosKeepsake: progression
-SisyphusKeepsake: progression
-EurydiceKeepsake: progression
-PatroclusKeepsake: progression
-SwordWeaponUnlockItem: progression
-BowWeaponUnlockItem: progression
-SpearWeaponUnlockItem: progression
-ShieldWeaponUnlockItem: progression
-FistWeaponUnlockItem: progression
-GunWeaponUnlockItem: progression
-FountainUpgrade1Item: progression
-FountainUpgrade2Item: progression
-FountainTartarusItem: progression
-FountainAsphodelItem: progression
-FountainElysiumItem: progression
-UrnsOfWealth1Item: progression
-UrnsOfWealth2Item: progression
-UrnsOfWealth3Item: progression
-InfernalTrove1Item: progression
-InfernalTrove2Item: progression
-InfernalTrove3Item: progression
-KeepsakeCollectionItem: progression
-DeluxeContractorDeskItem: progression
-VanquishersKeepItem: progression
-FishingRodItem: progression
-CourtMusicianSentenceItem: progression
-CourtMusicianStandItem: progression
-PitchBlackDarknessItem: progression
-FatedKeysItem: progression
-BrilliantGemstonesItem: progression
-VintageNectarItem: progression
-DarkerThirstItem: progression
-SwordHiddenAspect: progression
-BowHiddenAspect: progression
-SpearHiddenAspect: progression
-ShieldHiddenAspect: progression
-FistHiddenAspect: progression
-GunHiddenAspect: progression
-MoneyPunishment: trap
-HealthPunishment: trap
-MaxHealthHelper: useful
-BoonBoostHelper: useful
 ASimpleJobEventItem: progression
 AViolentPastEventItem: progression
+Achilles Keepsake: progression
+AchillesKeepsake: progression
+Ambrosia: filler
+Aphrodite Keepsake: progression
+AphroditeKeepsake: progression
+Approval Process Pact Level: progression
+ApprovalProcessPactLevel: progression
+Ares Keepsake: useful
+AresKeepsake: progression
+Artemis Keepsake: progression
+ArtemisKeepsake: progression
+Athena Keepsake: progression
+AthenaKeepsake: progression
+Benefits Package Pact Level: unknown
+BenefitsPackagePactLevel: progression
+Boon Boost Helper: filler
+BoonBoostHelper: useful
+Bow Hidden Aspect: useful
+Bow Weapon Unlock Item: progression
+BowHiddenAspect: progression
+BowWeaponUnlockItem: progression
+Brilliant Gemstones Item: progression
+BrilliantGemstonesItem: progression
 BrosVictory: progression
 BrosVictoryBowWeapon: progression
 BrosVictoryFistWeapon: progression
@@ -169,23 +30,80 @@ BrosVictoryGunWeapon: progression
 BrosVictoryShieldWeapon: progression
 BrosVictorySpearWeapon: progression
 BrosVictorySwordWeapon: progression
+Calisthenics Program Pact Level: progression
+CalisthenicsProgramPactLevel: progression
+Cerberus Keepsake: progression
+CerberusKeepsake: progression
+Chaos Keepsake: progression
+ChaosKeepsake: progression
+Charon Keepsake: progression
+CharonKeepsake: progression
 ChthonicColleaguesEventItem: progression
 ChthonicKnowledgeEventItem: progression
 CloseAtHeartEventItem: progression
+Convenience Fee Pact Level: unknown
+ConvenienceFeePactLevel: progression
+Court Musician Sentence Item: filler
+Court Musician Stand Item: filler
+CourtMusicianSentenceItem: progression
+CourtMusicianStandItem: progression
 CustomerLoyaltyEventItem: progression
+Damage Control Pact Level: useful
+DamageControlPactLevel: progression
 DarkReflectionsEventItem: progression
+Darker Thirst Item: useful
+DarkerThirstItem: progression
+Darkness: filler
+Deluxe Contractor Desk Item: unknown
+DeluxeContractorDeskItem: progression
+Demeter Keepsake: useful
+DemeterKeepsake: progression
 DenizensOfTheDeepEventItem: progression
+Diamonds: filler
+Dionysus Keepsake: progression
+DionysusKeepsake: progression
 DistantRelativesEventItem: progression
 DivinePairingsEventItem: progression
-GoddessOfLoveEventItem: progression
-GoddessOfSeasonsEventItem: progression
-GoddessOfTheHuntEventItem: progression
-GoddessOfWisdomEventItem: progression
+Dusa Keepsake: progression
+DusaKeepsake: progression
+Eurydice Keepsake: progression
+EurydiceKeepsake: progression
+Extreme Measures Pact Level: useful
+ExtremeMeasuresPactLevel: progression
+Fated Keys Item: unknown
+FatedKeysItem: progression
+Fishing Rod Item: filler
+FishingRodItem: progression
+Fist Hidden Aspect: unknown
+Fist Weapon Unlock Item: progression
+FistHiddenAspect: progression
+FistWeaponUnlockItem: progression
+Forced Overtime Pact Level: progression
+ForcedOvertimePactLevel: progression
+Fountain Asphodel Item: filler
+Fountain Elysium Item: unknown
+Fountain Tartarus Item: useful
+Fountain Upgrade1 Item: filler
+Fountain Upgrade2 Item: useful
+FountainAsphodelItem: progression
+FountainElysiumItem: progression
+FountainTartarusItem: progression
+FountainUpgrade1Item: progression
+FountainUpgrade2Item: progression
+Gemstones: filler
 GodOfSwiftnessEventItem: progression
 GodOfTheHeavensEventItem: progression
 GodOfTheSeaEventItem: progression
 GodOfWarEventItem: progression
 GodOfWineEventItem: progression
+GoddessOfLoveEventItem: progression
+GoddessOfSeasonsEventItem: progression
+GoddessOfTheHuntEventItem: progression
+GoddessOfWisdomEventItem: progression
+Gun Hidden Aspect: useful
+Gun Weapon Unlock Item: useful
+GunHiddenAspect: progression
+GunWeaponUnlockItem: progression
 HadesVictory: progression
 HadesVictoryBowWeapon: progression
 HadesVictoryFistWeapon: progression
@@ -193,10 +111,34 @@ HadesVictoryGunWeapon: progression
 HadesVictoryShieldWeapon: progression
 HadesVictorySpearWeapon: progression
 HadesVictorySwordWeapon: progression
+Hard Labor Pact Level: progression
+HardLaborPactLevel: progression
 HarshConditionsEventItem: progression
+Health Punishment: trap
+HealthPunishment: trap
+Heightened Security Pact Level: useful
+HeightenedSecurityPactLevel: progression
+Hermes Keepsake: progression
+HermesKeepsake: progression
+Hypnos Keepsake: progression
+HypnosKeepsake: progression
+Infernal Trove1 Item: unknown
+Infernal Trove2 Item: unknown
+Infernal Trove3 Item: useful
 InfernalArmsEventItem: progression
+InfernalTrove1Item: progression
+InfernalTrove2Item: progression
+InfernalTrove3Item: progression
+Initial Money Helper: useful
 InitialMoneyHelper: useful
 IsThereNoEscape?EventItem: progression
+Jury Summons Pact Level: progression
+JurySummonsPactLevel: progression
+Keepsake Collection Item: progression
+KeepsakeCollectionItem: progression
+Keys: filler
+Lasting Consequences Pact Level: progression
+LastingConsequencesPactLevel: progression
 LernieVictory: progression
 LernieVictoryBowWeapon: progression
 LernieVictoryFistWeapon: progression
@@ -205,6 +147,8 @@ LernieVictoryShieldWeapon: progression
 LernieVictorySpearWeapon: progression
 LernieVictorySwordWeapon: progression
 MasterOfArmsEventItem: progression
+Max Health Helper: useful
+MaxHealthHelper: useful
 MegVictory: progression
 MegVictoryBowWeapon: progression
 MegVictoryFistWeapon: progression
@@ -212,10 +156,49 @@ MegVictoryGunWeapon: progression
 MegVictoryShieldWeapon: progression
 MegVictorySpearWeapon: progression
 MegVictorySwordWeapon: progression
+Megaera Keepsake: progression
+MegaeraKeepsake: progression
+Middle Management Pact Level: useful
+MiddleManagementPactLevel: progression
+Money Punishment: trap
+MoneyPunishment: trap
+Nectar: filler
+Nyx Keepsake: progression
+NyxKeepsake: progression
+Orpheus Keepsake: progression
+OrpheusKeepsake: progression
+Patroclus Keepsake: progression
+PatroclusKeepsake: progression
+Personal Liability Pact Level: unknown
+PersonalLiabilityPactLevel: progression
+Pitch Black Darkness Item: useful
+PitchBlackDarknessItem: progression
+Poseidon Keepsake: progression
+PoseidonKeepsake: progression
 PowerWithoutEqualEventItem: progression
 PrimordialBanesEventItem: progression
 PrimordialBoonsEventItem: progression
+Routine Inspection Pact Level: useful
+RoutineInspectionPactLevel: progression
+Shield Hidden Aspect: useful
+Shield Weapon Unlock Item: progression
+ShieldHiddenAspect: progression
+ShieldWeaponUnlockItem: progression
+Sisyphus Keepsake: progression
+SisyphusKeepsake: progression
+Skelly Keepsake: progression
+SkellyKeepsake: progression
 SlashedBenefitsEventItem: progression
+Spear Hidden Aspect: useful
+Spear Weapon Unlock Item: unknown
+SpearHiddenAspect: progression
+SpearWeaponUnlockItem: progression
+Sword Hidden Aspect: useful
+Sword Weapon Unlock Item: unknown
+SwordHiddenAspect: progression
+SwordWeaponUnlockItem: progression
+Thanatos Keepsake: progression
+ThanatosKeepsake: progression
 TheAdamantRailEventItem: progression
 TheEternalSpearEventItem: progression
 TheHeartSeekingBowEventItem: progression
@@ -224,4 +207,21 @@ TheShieldOfChaosEventItem: progression
 TheStygianBladeEventItem: progression
 TheTwinFistsEventItem: progression
 TheUselessTrinketEventItem: progression
+Tight Deadline Pact Level: useful
+TightDeadlinePactLevel: progression
+TitanBlood: filler
+Underworld Customs Pact Level: progression
+UnderworldCustomsPactLevel: progression
+Urns Of Wealth1 Item: unknown
+Urns Of Wealth2 Item: useful
+Urns Of Wealth3 Item: filler
+UrnsOfWealth1Item: progression
+UrnsOfWealth2Item: progression
+UrnsOfWealth3Item: progression
+Vanquishers Keep Item: filler
+VanquishersKeepItem: progression
+Vintage Nectar Item: filler
+VintageNectarItem: progression
 WantonRansackingEventItem: progression
+Zeus Keepsake: progression
+ZeusKeepsake: progression

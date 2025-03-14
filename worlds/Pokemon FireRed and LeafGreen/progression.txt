@@ -29,7 +29,6 @@ Bright Powder: unknown
 Burn Heal: filler
 Calcium: filler
 Carbos: filler
-Card Key: progression
 Card Key 10F: progression
 Card Key 11F: progression
 Card Key 2F: progression
@@ -40,6 +39,7 @@ Card Key 6F: progression
 Card Key 7F: progression
 Card Key 8F: progression
 Card Key 9F: progression
+Card Key: progression
 Cascade Badge: progression
 Charcoal: unknown
 Cheri Berry: filler
@@ -261,26 +261,34 @@ TM02: useful
 TM03: useful
 TM04: useful
 TM05: useful
+TM06 Toxic: unknown
 TM06: useful
+TM07 Hail: useful
 TM07: useful
 TM08: useful
+TM09 Bullet Seed: unknown
 TM09: useful
 TM10: useful
+TM11 Sunny Day: filler
 TM11: useful
 TM12: useful
 TM13: useful
 TM14: useful
 TM15: useful
+TM16 Light Screen: unknown
 TM16: useful
+TM17 Protect: filler
 TM17: useful
 TM18: useful
 TM19: useful
 TM20: useful
+TM21 Frustration: unknown
 TM21: useful
 TM22: useful
 TM23: useful
 TM24: useful
 TM25: useful
+TM26 Earthquake: useful
 TM26: useful
 TM27: useful
 TM28: useful
@@ -289,21 +297,28 @@ TM30: useful
 TM31: useful
 TM32: useful
 TM33: useful
+TM34 Shock Wave: unknown
 TM34: useful
 TM35: useful
 TM36: useful
 TM37: useful
 TM38: useful
+TM39 Rock Tomb: unknown
 TM39: useful
 TM40: useful
 TM41: useful
 TM42: useful
+TM43 Secret Power: unknown
 TM43: useful
+TM44 Rest: filler
 TM44: useful
 TM45: useful
+TM46 Thief: filler
 TM46: useful
+TM47 Steel Wing: unknown
 TM47: useful
 TM48: useful
+TM49 Snatch: unknown
 TM49: useful
 TM50: useful
 Tamato Berry: filler
@@ -341,18 +356,3 @@ Yellow Flute: filler
 Yellow Scarf: filler
 Yellow Shard: filler
 Zinc: filler
-TM07 Hail: useful
-TM11 Sunny Day: filler
-TM17 Protect: filler
-TM26 Earthquake: useful
-TM44 Rest: filler
-TM46 Thief: filler
-TM43 Secret Power: unknown
-TM21 Frustration: unknown
-TM49 Snatch: unknown
-TM16 Light Screen: unknown
-TM39 Rock Tomb: unknown
-TM47 Steel Wing: unknown
-TM09 Bullet Seed: unknown
-TM06 Toxic: unknown
-TM34 Shock Wave: unknown

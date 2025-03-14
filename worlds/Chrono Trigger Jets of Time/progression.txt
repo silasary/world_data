@@ -1,219 +1,219 @@
-Wood Sword: unknown
-Iron Blade: unknown
-SteelSaber: unknown
-Lode Sword: unknown
-Red Katana: useful
-Flint Edge: filler
-Dark Saber: unknown
-Aeon Blade: filler
-Demon Edge: filler
-AlloyBlade: unknown
-Star Sword: filler
-VedicBlade: filler
-Kali Blade: unknown
-Shiva Edge: filler
-Bolt Sword: useful
-Slasher: filler
-Bronze Bow: unknown
-Iron Bow: filler
-Lode Bow: unknown
-Robin Bow: unknown
-Sage Bow: unknown
-Dream Bow: useful
-CometArrow: filler
-SonicArrow: unknown
-Valkerye: useful
-Siren: unknown
-Air Gun: unknown
-Dart Gun: filler
-Auto Gun: filler
-PicoMagnum: unknown
-Plasma Gun: unknown
-Ruby Gun: unknown
-Dream Gun: filler
-Megablast: filler
-Shock Wave: filler
-WonderShot: useful
-Graedus: filler
-Tin Arm: unknown
-Hammer Arm: unknown
-MirageHand: unknown
-Stone Arm: filler
-DoomFinger: filler
-Magma Hand: filler
-MegatonArm: unknown
-Big Hand: useful
-Kaiser Arm: filler
-Giga Arm: filler
-Terra Arm: filler
-Crisis Arm: unknown
-BronzeEdge: unknown
-Iron Sword: unknown
-Masamune: unknown
-FlashBlade: useful
-Pearl Edge: filler
-Rune Blade: filler
-BraveSword: filler
-Grand Leon: progression
-Demon Hit: unknown
-Fist: unknown
-Iron Fist: unknown
-BronzeFist: unknown
-DarkScythe: unknown
-Hurricane: unknown
-StarScythe: unknown
-DoomSickle: unknown
-Mop: unknown
-Bent Sword: progression
-Bent Hilt: progression
-Swallow: unknown
-Slasher 2: unknown
-Rainbow: unknown
-Hide Tunic: unknown
-Karate Gi: filler
-BronzeMail: unknown
-MaidenSuit: unknown
-Iron Suit: unknown
-Titan Vest: unknown
-Gold Suit: unknown
-Ruby Vest: filler
-Dark Mail: unknown
-Mist Robe: filler
-Meso Mail: unknown
-Lumin Robe: unknown
-Flash Mail: filler
-Lode Vest: useful
-Aeon Suit: filler
-ZodiacCape: unknown
-Nova Armor: useful
-PrismDress: unknown
-Moon Armor: filler
-Ruby Armor: filler
-RavenArmor: unknown
-Gloom Cape: unknown
-White Mail: filler
-Black Mail: filler
-Blue Mail: filler
-Red Mail: filler
-White Vest: useful
-Black Vest: useful
-Blue Vest: filler
-Red Vest: filler
-Taban Vest: filler
-Taban Suit: unknown
-Hide Cap: unknown
-BronzeHelm: unknown
-Iron Helm: unknown
-Beret: unknown
-Gold Helm: unknown
-Rock Helm: useful
-CeraTopper: unknown
-Glow Helm: filler
-Lode Helm: filler
-Aeon Helm: filler
-Prism Helm: unknown
-Doom Helm: unknown
-Dark Helm: unknown
-Gloom Helm: useful
-Safe Helm: filler
-Taban Helm: filler
-Sight Cap: filler
-Memory Cap: filler
-Time Hat: filler
-Vigil Hat: filler
-OzziePants: unknown
-Haste Helm: useful
-R'bow Helm: filler
-MermaidCap: filler
-Bandana: unknown
-Ribbon: unknown
-PowerGlove: unknown
-Defender: unknown
-MagicScarf: filler
-Amulet: useful
-Dash Ring: unknown
-Hit Ring: filler
-Power Ring: filler
-Magic Ring: filler
-Wall Ring: unknown
-SilverErng: unknown
-Gold Erng: filler
-SilverStud: filler
-Gold Stud: unknown
-SightScope: useful
-Charm Top: unknown
-Rage Band: unknown
-FrenzyBand: unknown
-Third Eye: filler
-Wallet: filler
-GreenDream: filler
-Berserker: unknown
-PowerScarf: unknown
-Speed Belt: filler
-Black Rock: unknown
-Blue Rock: unknown
-SilverRock: unknown
-White Rock: unknown
-Gold Rock: unknown
-Hero Medal: unknown
-MuscleRing: unknown
-Flea Vest: unknown
-Magic Seal: filler
-Power Seal: unknown
-Robo's Rbn: unknown
-SeraphSong: unknown
-Sun Shades: filler
-PrismSpecs: unknown
-Tonic: unknown
-Mid Tonic: filler
-Full Tonic: filler
-Ether: filler
-Mid Ether: filler
-Full Ether: filler
-Elixir: filler
-HyperEther: filler
-MegaElixir: unknown
-Heal: filler
-Revive: filler
-Shelter: filler
-Power Meal: filler
-Lapis: filler
-Barrier: filler
-Shield: filler
-Power Tab: filler
-Magic Tab: filler
-Speed Tab: filler
-Petal: unknown
-Fang: unknown
-Horn: unknown
-Feather: unknown
-Seed: unknown
-Bike Key: unknown
-Pendant: unknown
-Gate Key: progression
-PrismShard: progression
-C. Trigger: progression
-Tools: unknown
-Jerky: progression
-Dreamstone: progression
-Race Log: unknown
-Moon Stone: unknown
-Sun Stone: unknown
-Ruby Knife: progression
-Yakra Key: unknown
-Clone: unknown
-Toma's Pop: progression
-2 Petals: unknown
 2 Fangs: unknown
-2 Horns: unknown
 2 Feathers: unknown
-Fragment: unknown
-JetsOfTime: unknown
+2 Horns: unknown
+2 Petals: unknown
 APItem: unknown
-Crono: unknown
-Marle: unknown
-Lucca: unknown
-Robo: unknown
-Frog: unknown
+Aeon Blade: filler
+Aeon Helm: filler
+Aeon Suit: filler
+Air Gun: unknown
+AlloyBlade: filler
+Amulet: useful
+Auto Gun: filler
 Ayla: unknown
+Bandana: unknown
+Barrier: filler
+Bent Hilt: progression
+Bent Sword: progression
+Beret: unknown
+Berserker: unknown
+Big Hand: useful
+Bike Key: unknown
+Black Mail: filler
+Black Rock: unknown
+Black Vest: useful
+Blue Mail: filler
+Blue Rock: unknown
+Blue Vest: filler
+Bolt Sword: useful
+BraveSword: filler
+Bronze Bow: unknown
+BronzeEdge: unknown
+BronzeFist: unknown
+BronzeHelm: unknown
+BronzeMail: unknown
+C. Trigger: progression
+CeraTopper: filler
+Charm Top: unknown
+Clone: progression
+CometArrow: filler
+Crisis Arm: useful
+Crono: unknown
+Dark Helm: filler
+Dark Mail: filler
+Dark Saber: unknown
+DarkScythe: unknown
+Dart Gun: filler
+Dash Ring: unknown
+Defender: unknown
+Demon Edge: filler
+Demon Hit: unknown
+Doom Helm: unknown
+DoomFinger: filler
+DoomSickle: unknown
+Dream Bow: useful
+Dream Gun: filler
+Dreamstone: progression
+Elixir: filler
+Ether: filler
+Fang: unknown
+Feather: unknown
+Fist: unknown
+Flash Mail: filler
+FlashBlade: useful
+Flea Vest: filler
+Flint Edge: filler
+Fragment: unknown
+FrenzyBand: filler
+Frog: unknown
+Full Ether: filler
+Full Tonic: filler
+Gate Key: progression
+Giga Arm: filler
+Gloom Cape: unknown
+Gloom Helm: useful
+Glow Helm: filler
+Gold Erng: filler
+Gold Helm: filler
+Gold Rock: unknown
+Gold Stud: unknown
+Gold Suit: unknown
+Graedus: filler
+Grand Leon: progression
+GreenDream: filler
+Hammer Arm: unknown
+Haste Helm: useful
+Heal: filler
+Hero Medal: progression
+Hide Cap: unknown
+Hide Tunic: unknown
+Hit Ring: filler
+Horn: unknown
+Hurricane: unknown
+HyperEther: filler
+Iron Blade: unknown
+Iron Bow: filler
+Iron Fist: unknown
+Iron Helm: unknown
+Iron Suit: unknown
+Iron Sword: unknown
+Jerky: progression
+JetsOfTime: unknown
+Kaiser Arm: filler
+Kali Blade: unknown
+Karate Gi: filler
+Lapis: filler
+Lode Bow: unknown
+Lode Helm: filler
+Lode Sword: unknown
+Lode Vest: useful
+Lucca: unknown
+Lumin Robe: unknown
+Magic Ring: filler
+Magic Seal: filler
+Magic Tab: filler
+MagicScarf: filler
+Magma Hand: filler
 Magus: unknown
+MaidenSuit: unknown
+Marle: unknown
+Masamune: unknown
+MegaElixir: filler
+Megablast: filler
+MegatonArm: unknown
+Memory Cap: filler
+MermaidCap: filler
+Meso Mail: unknown
+Mid Ether: filler
+Mid Tonic: filler
+MirageHand: unknown
+Mist Robe: filler
+Moon Armor: filler
+Moon Stone: progression
+Mop: unknown
+MuscleRing: filler
+Nova Armor: useful
+OzziePants: unknown
+Pearl Edge: filler
+Pendant: progression
+Petal: unknown
+PicoMagnum: unknown
+Plasma Gun: filler
+Power Meal: filler
+Power Ring: filler
+Power Seal: unknown
+Power Tab: filler
+PowerGlove: filler
+PowerScarf: filler
+Prism Helm: unknown
+PrismDress: unknown
+PrismShard: progression
+PrismSpecs: unknown
+R'bow Helm: filler
+Race Log: unknown
+Rage Band: unknown
+Rainbow: filler
+RavenArmor: unknown
+Red Katana: useful
+Red Mail: filler
+Red Vest: filler
+Revive: filler
+Ribbon: unknown
+Robin Bow: filler
+Robo's Rbn: progression
+Robo: unknown
+Rock Helm: useful
+Ruby Armor: filler
+Ruby Gun: unknown
+Ruby Knife: progression
+Ruby Vest: filler
+Rune Blade: filler
+Safe Helm: filler
+Sage Bow: filler
+Seed: unknown
+SeraphSong: filler
+Shelter: filler
+Shield: filler
+Shiva Edge: filler
+Shock Wave: filler
+Sight Cap: filler
+SightScope: useful
+SilverErng: filler
+SilverRock: unknown
+SilverStud: filler
+Siren: unknown
+Slasher 2: unknown
+Slasher: filler
+SonicArrow: filler
+Speed Belt: filler
+Speed Tab: filler
+Star Sword: filler
+StarScythe: unknown
+SteelSaber: unknown
+Stone Arm: filler
+Sun Shades: filler
+Sun Stone: unknown
+Swallow: unknown
+Taban Helm: filler
+Taban Suit: filler
+Taban Vest: filler
+Terra Arm: filler
+Third Eye: filler
+Time Hat: filler
+Tin Arm: unknown
+Titan Vest: filler
+Toma's Pop: progression
+Tonic: filler
+Tools: unknown
+Valkerye: useful
+VedicBlade: filler
+Vigil Hat: filler
+Wall Ring: filler
+Wallet: filler
+White Mail: filler
+White Rock: unknown
+White Vest: useful
+WonderShot: useful
+Wood Sword: unknown
+Yakra Key: unknown
+ZodiacCape: filler

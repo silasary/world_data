@@ -1,59 +1,59 @@
-Cutter: progression
-Rotator: progression
-Painter: progression
-Rotator (CCW): progression
-Color Mixer: progression
-Stacker: progression
-Quad Cutter: progression
-Double Painter: progression
-Rotator (180°): progression
-Quad Painter: progression
 Balancer: progression
-Tunnel: progression
-Compact Merger: progression
-Tunnel Tier II: progression
-Compact Splitter: progression
-Trash: progression
-Chaining Extractor: useful
 Belt Reader: progression
-Storage: progression
-Switch: progression
-Item Filter: progression
-Display: useful
-Wires: progression
-Constant Signal: progression
-Logic Gates: progression
-Virtual Processing: progression
-Blueprints: progression
+Belt: progression
+Belts Clearing Trap: trap
 Big Belt Upgrade: progression
 Big Miner Upgrade: useful
-Big Processors Upgrade: useful
 Big Painting Upgrade: useful
-Small Belt Upgrade: filler
-Small Miner Upgrade: filler
-Small Processors Upgrade: filler
-Small Painting Upgrade: filler
+Big Processors Upgrade: useful
+Big Random Upgrade: useful
 Blueprint Shapes Bundle: filler
-Level Shapes Bundle: filler
-Upgrade Shapes Bundle: filler
-Locked Building Trap: trap
-Throttled Building Trap: trap
-Malfunctioning Trap: trap
-Inventory Draining Trap: trap
 Blueprint Shapes Draining Trap: trap
-Level Shapes Draining Trap: trap
-Upgrade Shapes Draining Trap: trap
-Belt: progression
+Blueprints: progression
+Chaining Extractor: useful
+Color Mixer: progression
+Compact Merger: progression
+Compact Splitter: progression
+Constant Signal: progression
+Cutter: progression
+Display: useful
+Double Painter: progression
 Extractor: progression
-Inflation Trap: trap
 Gigantic Belt Upgrade: progression
 Gigantic Miner Upgrade: useful
-Gigantic Processors Upgrade: useful
 Gigantic Painting Upgrade: useful
+Gigantic Processors Upgrade: useful
+Inflation Trap: trap
+Inventory Draining Trap: trap
+Item Filter: progression
+Level Shapes Bundle: filler
+Level Shapes Draining Trap: trap
+Locked Building Trap: trap
+Logic Gates: progression
+Malfunctioning Trap: trap
+Painter: progression
+Quad Cutter: progression
+Quad Painter: progression
 Rising Belt Upgrade: progression
 Rising Miner Upgrade: useful
-Rising Processors Upgrade: useful
 Rising Painting Upgrade: useful
-Big Random Upgrade: useful
+Rising Processors Upgrade: useful
+Rotator (180°): progression
+Rotator (CCW): progression
+Rotator: progression
+Small Belt Upgrade: filler
+Small Miner Upgrade: filler
+Small Painting Upgrade: filler
+Small Processors Upgrade: filler
 Small Random Upgrade: filler
-Belts Clearing Trap: trap
+Stacker: progression
+Storage: progression
+Switch: progression
+Throttled Building Trap: trap
+Trash: progression
+Tunnel Tier II: progression
+Tunnel: progression
+Upgrade Shapes Bundle: filler
+Upgrade Shapes Draining Trap: trap
+Virtual Processing: progression
+Wires: progression

@@ -1,192 +1,192 @@
-Eternal Crown: useful
-Security Visor: filler
-Engineer Goggles: filler
-Leather Helmet: filler
-Copper Helmet: filler
-Pointy Hat: filler
-Dragoon Helmet: filler
-Buckle Hat: filler
 Advisor Hat: filler
-Librarian Hat: filler
-Combat Helmet: filler
-Captain's Cap: filler
-Lab Glasses: filler
-Empire Crown: filler
-Viletian Crown: filler
-Sunglasses: filler
-Old Coat: filler
-Trendy Jacket: filler
-Security Vest: filler
-Leather Jerkin: filler
-Copper Breastplate: filler
-Traveler's Cloak: filler
-Dragoon Armor: filler
-Midnight Cloak: filler
 Advisor Robe: filler
-Librarian Robe: filler
-Military Armor: filler
-Captain's Uniform: filler
-Lab Coat: filler
-Empress Robe: filler
-Princess Dress: filler
-Eternal Coat: useful
-Synthetic Plume: filler
-Cheveur Plume: filler
-Metal Wristband: filler
-Nymph Hairband: filler
-Mother o' Pearl: filler
-Bird Statue: useful
-Chaos Stole: filler
-Pendulum: useful
-Chaos Horn: filler
-Filigree Clasp: filler
-Azure Stole: filler
-Ancient Coin: filler
-Shiny Rock: filler
-Galaxy Earrings: useful
-Selen's Bangle: useful
-Glass Pumpkin: useful
-Gilded Egg: useful
-Meyef: filler
-Griffin: filler
-Merchant Crow: progression
-Kobo: progression
-Sprite: filler
-Demon: filler
-Potion: filler
-Ether: filler
-Sand Vial: filler
-Hi-Potion: filler
-Hi-Ether: filler
-Sand Bottle: filler
-Berry Pick-Mi-Up: filler
-Berry Pick-Mi-Up+: filler
-Mind Refresh: filler
-Mind Refresh ULTRA: filler
-Antidote: filler
-Chaos Rose: filler
-Warp Shard: filler
-Dream Wisp: filler
-PlaceHolderItem1: filler
-Lachiemi Sun: filler
-Jerky: filler
-Biscuit: filler
-Fried Cheveur: filler
-Sautéed Wyvern Tail: filler
-Unagi Roll: filler
-Cheveur au Vin: filler
-Royal Casserole: filler
-Spaghetti: filler
-Plump Maggot: filler
-Orange Juice: filler
-Filigree Tea: filler
-Empress Cake: filler
-Rotten Tail: filler
 Alchemy Tools: filler
-Galaxy Stone: filler
-Essence Crystal: filler
-Gold Ring: filler
-Gold Necklace: filler
-Herb: filler
-Mushroom: filler
-Plasma Crystal: filler
-Plasma IV Bag: filler
+Ancient Coin: filler
+Antidote: filler
+Arm Cannon: filler
+Aura Blast: filler
+Aura Serpent: filler
+Azure Stole: filler
+Bee Trap: trap
+Berry Pick-Mi-Up+: filler
+Berry Pick-Mi-Up: filler
+Bird Statue: useful
+Biscuit: filler
+Blade Orb: filler
+Bleak Ring: useful
+Blood Orb: filler
+Blue Orb: filler
+Bombardment: filler
+Buckle Hat: filler
+Captain's Cap: filler
+Captain's Uniform: filler
+Celestial Sash: progression
+Chaos Blades: filler
+Chaos Horn: filler
+Chaos Rose: filler
+Chaos Stole: filler
+Chaos Trap: trap
 Cheveur Drumstick: filler
-Wyvern Tail: filler
-Eel Meat: filler
+Cheveur Plume: filler
+Cheveur au Vin: filler
 Cheveux Breast: filler
-Food Synthesizer: filler
 Cheveux Feather: filler
-Siren Ink: filler
-Plasma Core: filler
-Silver Ore: filler
+Colossal Blade: filler
+Colossal Hammer: filler
+Combat Helmet: filler
+Copper Breastplate: filler
+Copper Helmet: filler
+Corruption: filler
+Crimson Vortex: filler
+Dark Flames: filler
+Demon: filler
+Djinn Inferno: progression
+Dragoon Armor: filler
+Dragoon Helmet: filler
+Dream Wisp: filler
+Dusk Ring: filler
+Economizer Ring: filler
+Eel Meat: filler
+Elevator Keycard: progression
+Empire Crown: filler
+Empire Orb: filler
+Empress Cake: filler
+Empress Robe: filler
+Engineer Goggles: filler
+Essence Crystal: filler
+Eternal Brooch: filler
+Eternal Coat: useful
+Eternal Crown: useful
+Ether: filler
+Eye Orb: filler
+Filigree Clasp: filler
+Filigree Tea: filler
+Fire Orb: progression
+Food Synthesizer: filler
+Forbidden Tome: filler
+Fried Cheveur: filler
+Frozen Spires: filler
+Galaxy Earrings: useful
+Galaxy Stone: filler
+Gas Mask: progression
+Gilded Egg: useful
+Glass Pumpkin: useful
+Goddess Brooch: filler
+Gold Necklace: filler
+Gold Ring: filler
+Greed Brooch: filler
+Griffin: filler
+Gun Orb: filler
+Herb: filler
+Hi-Ether: filler
+Hi-Potion: filler
 Historical Documents: filler
+Hope Ring: filler
+Ice Orb: filler
+Icicle Ring: filler
+Infernal Flames: progression
+Iron Orb: filler
+Jerky: filler
+Jewelry Box: useful
+Kobo: progression
+Lab Coat: filler
+Lab Glasses: filler
+Lachiemi Sun: filler
+Laser Access A: progression
+Laser Access M: unknown
+Leather Helmet: filler
+Leather Jerkin: filler
+Librarian Hat: filler
+Librarian Robe: filler
+Library Keycard V: progression
+Lightwall: progression
 MapReveal 0: filler
 MapReveal 1: filler
 MapReveal 2: filler
-Timespinner Wheel: progression
-Timespinner Spindle: progression
-Timespinner Gear 1: progression
-Timespinner Gear 2: progression
-Timespinner Gear 3: progression
-Twin Pyramid Key: progression
-Celestial Sash: progression
-Succubus Hairpin: progression
-Talaria Attachment: progression
-Water Mask: progression
-Gas Mask: progression
-Soul Scanner: filler
+Max Aura: filler
+Max HP: filler
+Max Sand: filler
+Merchant Crow: progression
+Metal Wristband: filler
+Meteor Sparrow Trap: trap
+Meyef: filler
+Midnight Cloak: filler
+Military Armor: filler
+Mind Refresh ULTRA: filler
+Mind Refresh: filler
+Modern Warp Beacon: progression
+Mother o' Pearl: filler
+Mushroom: filler
+Mysterious Warp Beacon: progression
+Nether Orb: filler
+Neurotoxin Trap: trap
+Nymph Hairband: filler
+Oculus Ring: progression
+Old Coat: filler
+Orange Juice: filler
+Pendulum: useful
+PlaceHolderItem1: filler
+Plasma Core: filler
+Plasma Crystal: filler
+Plasma Geyser: progression
+Plasma IV Bag: filler
+Plasma Orb: progression
+Plump Maggot: filler
+Pointy Hat: filler
+Poison Trap: trap
+Potion: filler
+Princess Dress: filler
+Pyro Ring: progression
+Radiant Orb: filler
+Rotten Tail: filler
+Royal Casserole: filler
+Royal Ring: progression
+Sand Bottle: filler
+Sand Vial: filler
+Sanguine Ring: filler
+Sautéed Wyvern Tail: filler
+Scythe Ring: filler
 Security Keycard A: progression
 Security Keycard B: progression
 Security Keycard C: progression
 Security Keycard D: progression
-Library Keycard V: progression
-Tablet: progression
-Elevator Keycard: progression
-Jewelry Box: useful
-Goddess Brooch: filler
-Wyrm Brooch: filler
-Greed Brooch: filler
-Eternal Brooch: filler
-Blue Orb: filler
-Blade Orb: filler
-Fire Orb: progression
-Plasma Orb: progression
-Iron Orb: filler
-Ice Orb: filler
-Wind Orb: filler
-Gun Orb: filler
-Umbra Orb: filler
-Empire Orb: filler
-Eye Orb: filler
-Blood Orb: filler
-Forbidden Tome: filler
-Shattered Orb: filler
-Nether Orb: filler
-Radiant Orb: filler
-Aura Blast: filler
-Colossal Blade: filler
-Infernal Flames: progression
-Plasma Geyser: progression
-Colossal Hammer: filler
-Frozen Spires: filler
-Storm Eye: filler
-Arm Cannon: filler
-Dark Flames: filler
-Aura Serpent: filler
-Chaos Blades: filler
-Crimson Vortex: filler
-Djinn Inferno: progression
-Bombardment: filler
-Corruption: filler
-Lightwall: progression
-Bleak Ring: useful
-Scythe Ring: filler
-Pyro Ring: progression
-Royal Ring: progression
-Shield Ring: filler
-Icicle Ring: filler
-Tailwind Ring: filler
-Economizer Ring: filler
-Dusk Ring: filler
-Star of Lachiem: useful
-Oculus Ring: progression
-Sanguine Ring: filler
-Sun Ring: filler
-Silence Ring: filler
+Security Vest: filler
+Security Visor: filler
+Selen's Bangle: useful
 Shadow Seal: useful
-Hope Ring: filler
-Max HP: filler
-Max Aura: filler
-Timeworn Warp Beacon: progression
-Modern Warp Beacon: progression
-Mysterious Warp Beacon: progression
-Meteor Sparrow Trap: trap
-Poison Trap: trap
-Chaos Trap: trap
-Neurotoxin Trap: trap
-Bee Trap: trap
-Max Sand: filler
+Shattered Orb: filler
+Shield Ring: filler
+Shiny Rock: filler
+Silence Ring: filler
+Silver Ore: filler
+Siren Ink: filler
+Soul Scanner: filler
+Spaghetti: filler
+Sprite: filler
+Star of Lachiem: useful
+Storm Eye: filler
+Succubus Hairpin: progression
+Sun Ring: filler
+Sunglasses: filler
+Synthetic Plume: filler
+Tablet: progression
+Tailwind Ring: filler
+Talaria Attachment: progression
 Throw Stun Trap: trap
-Laser Access A: progression
-Laser Access M: unknown
+Timespinner Gear 1: progression
+Timespinner Gear 2: progression
+Timespinner Gear 3: progression
+Timespinner Spindle: progression
+Timespinner Wheel: progression
+Timeworn Warp Beacon: progression
+Traveler's Cloak: filler
+Trendy Jacket: filler
+Twin Pyramid Key: progression
+Umbra Orb: filler
+Unagi Roll: filler
+Viletian Crown: filler
+Warp Shard: filler
+Water Mask: progression
+Wind Orb: filler
+Wyrm Brooch: filler
+Wyvern Tail: filler

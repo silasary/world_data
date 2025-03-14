@@ -1,393 +1,427 @@
-Nothing: filler
-First Degree Card: filler
-Second Degree Card: filler
-Third Degree Card: filler
-Fourth Degree Card: filler
-Diploma: filler
-Ultra Stone: useful
-Koopa Fortress Key: progression
-Ruins Key: progression
-Pulse Stone: progression
-Tubba Castle Key: progression
-Crystal Palace Key: progression
-Lunar Stone: progression
-Pyramid Stone: progression
-Diamond Stone: progression
-Kooper Shell: progression
-Bowser Castle Key: progression
-Forest Pass: progression
-Boo Weight: progression
-Boo Portrait: progression
-Crystal Berry: progression
-Storeroom Key: progression
-Toy Train: progression
-Boo Record: progression
-Frying Pan: progression
-Dictionary: progression
-Mystery Note: progression
-Crystal Ball: progression
-Cookbook: progression
-Jade Raven: progression
-Magical Seed: progression
-MagicalSeed2: progression
-MagicalSeed3: progression
-MagicalSeed4: progression
-Calculator: progression
-Snowman Bucket: progression
-Snowman Scarf: progression
-Red Key: progression
-Blue Key: progression
-Letter to Merlon: progression
-Letter to Goompa: progression
-Letter to Mort T: progression
-Letter to Russ T: progression
-Letter to Mayor Penguin: progression
-Letter to Merlow: progression
-Letter to Fice T: progression
-Letter to Nomadimouse: progression
-Letter to Minh T: progression
-Letter to Goompapa 1: progression
-Letter to Igor: progression
-Letter to Franky: progression
-Letter to Muss T: progression
-Letter to Koover 1: progression
-Letter to Fishmael: progression
-Letter to Koover 2: progression
-Letter to Mr E: progression
-Letter to Miss T: progression
-Letter to Little Mouser: progression
-Letter to Dane T 1: progression
-Letter to Red Yoshi Kid: progression
-Letter to Dane T 2: progression
-Letter to Frost T: progression
-Letter to Goompapa 2: progression
-Artifact: progression
-Letter to Kolorado: progression
-Dolly: progression
-Water Stone: progression
-Magical Bean: progression
-Fertile Soil: progression
-Miracle Water: progression
-Volcano Vase: progression
-Koot Tape: progression
-Lyrics: progression
-Melody: progression
-Mailbag: progression
-Odd Key: progression
-Star Stone: progression
-Koot Koopa Legends: progression
-Luigi Autograph: progression
-Koot Empty Wallet: progression
-Merluvlee Autograph: progression
-Koot Old Photo: progression
-Koot Glasses: progression
-Koot Package: progression
-Koot Red Jar: progression
-Warehouse Key: progression
-Silver Credit: filler
-Gold Credit: filler
-Fire Flower: filler
-Snowman Doll: filler
-Thunder Rage: filler
-Shooting Star: filler
-Thunder Bolt: filler
-Pebble: filler
-Dusty Hammer: filler
-Insecticide Herb: filler
-Stone Cap: filler
-Tasty Tonic: progression
-Mushroom: filler
-Volt Shroom: filler
-Super Shroom: progression
-Dried Shroom: filler
-Ultra Shroom: filler
-Sleepy Sheep: progression
-POW Block: filler
-Hustle Drink: filler
-Stop Watch: filler
-Whackas Bump: filler
-Apple: filler
-Life Shroom: useful
-Mystery: filler
-Repel Gel: filler
-Fright Jar: filler
-Dizzy Dial: filler
-Super Soda: filler
-Lemon: progression
-Lime: progression
-Jammin Jelly: filler
-Maple Syrup: filler
-Honey Syrup: filler
-Goomnut: progression
-Koopa Leaf: progression
-Dried Pasta: filler
-Dried Fruit: filler
-Strange Leaf: progression
-Cake Mix: progression
-Egg: filler
-Coconut: progression
-Melon: filler
-Stinky Herb: filler
-Iced Potato: filler
-Spicy Soup: filler
-Apple Pie: filler
-Honey Ultra: filler
-Maple Ultra: filler
-Jelly Ultra: useful
-Koopasta: filler
-Fried Shroom: filler
-Shroom Cake: filler
-Shroom Steak: filler
-Hot Shroom: filler
-Sweet Shroom: filler
-Yummy Meal: filler
-Healthy Juice: filler
-Bland Meal: filler
-Deluxe Feast: filler
-Special Shake: filler
-Big Cookie: filler
-Cake: filler
-Mistake: filler
-Koopa Tea: filler
-Honey Super: filler
-Maple Super: filler
-Jelly Super: filler
-Spaghetti: filler
-Egg Missile: filler
-Fried Egg: filler
-Honey Shroom: filler
-Honey Candy: filler
-Electro Pop: filler
-Fire Pop: filler
-Lime Candy: filler
-Coco Pop: filler
-Lemon Candy: filler
-Jelly Pop: useful
-Strange Cake: filler
-Kooky Cookie: filler
-Frozen Fries: filler
-Potato Salad: filler
-Nutty Cake: filler
-Maple Shroom: filler
-Boiled Egg: filler
-Yoshi Cookie: filler
-Jelly Shroom: filler
-Spin Smash: filler
-Multibounce: useful
-Power Plus: useful
-Dodge Master: useful
-Power Bounce: useful
-Spike Shield: useful
-First Attack: filler
-HP Plus: useful
-Quake Hammer: filler
-Double Dip: filler
-Sleep Stomp: filler
-Fire Shield: useful
-Quick Change: useful
-D-Down Pound: filler
-Dizzy Stomp: useful
-Mini Smash Charge: filler
-Pretty Lucky: filler
-Feeling Fine: filler
-Attack FX A: filler
+3x Star Pieces: progression
 All or Nothing: useful
-HP Drain: filler
-Mini Jump Charge: filler
-Slow Go: filler
-FP Plus: useful
-Mega Rush: useful
-Ice Power: useful
-Defend Plus: useful
-Pay Off: filler
-Money Money: filler
-Chill Out: filler
-Happy Heart: filler
-Zap Tap: useful
-Berserker: filler
-Right On: filler
-Runaway Pay: useful
-Refund: useful
-Flower Saver: useful
-Triple Dip: filler
-Hammer Throw: filler
-Mega Quake: useful
-Smash Charge: filler
-Jump Charge: useful
-Super Smash Charge: useful
-Super Jump Charge: useful
-Power Rush: filler
-Auto Jump: filler
-Auto Smash: filler
-Crazy Heart: filler
-Last Stand: useful
-Close Call: useful
-P-Up D-Down: useful
-Lucky Day: useful
-Mega HP Drain: filler
-P-Down D-Up: filler
-Power Quake: useful
-Auto Multibounce: filler
-Flower Fanatic: useful
-Heart Finder: filler
-Flower Finder: filler
-Spin Attack: filler
-Dizzy Attack: filler
-I Spy: filler
-Speedy Spin: filler
-Bump Attack: filler
-Power Jump: filler
-Super Jump: filler
-Mega Jump: filler
-Power Smash: filler
-Super Smash: filler
-Mega Smash: filler
-Deep Focus: filler
-Super Focus: filler
-Shrink Smash: filler
-D-Down Jump: useful
-Shrink Stomp: filler
-Damage Dodge: useful
-Quake Bounce: useful
-DeepFocus2: filler
-DeepFocus3: filler
-HPPlusB: useful
-FPPlusB: useful
-HappyHeartB: filler
-HappyHeartX: filler
-FlowerSaverB: useful
-FlowerSaverX: useful
-DamageDodgeB: useful
-DamageDodgeX: useful
-PowerPlusB: useful
-PowerPlusX: useful
-DefendPlusX: useful
-DefendPlusY: useful
-Happy Flower: filler
-HappyFlowerB: filler
-HappyFlowerX: filler
-Group Focus: filler
-Peekaboo: filler
-Attack FX D: filler
+Apple Pie: filler
+Apple: filler
+Artifact: progression
+Attack FX A: filler
 Attack FX B: filler
-Attack FX E: filler
 Attack FX C: filler
+Attack FX D: filler
+Attack FX E: filler
+Attack FX F2: filler
+Attack FX F3: filler
+Attack FX F4: filler
+Attack FX F5: filler
 Attack FX F: filler
-HPPlusC: useful
-HPPlusX: useful
-HPPlusY: useful
-FPPlusC: useful
-FPPlusX: useful
-FPPlusY: useful
-Healthy Healthy: filler
-Coin: filler
-Star Piece: progression
-KoopaFortressKeyA: progression
-KoopaFortressKeyB: progression
-KoopaFortressKeyC: progression
-KoopaFortressKeyD: progression
-RuinsKeyA: progression
-RuinsKeyB: progression
-RuinsKeyC: progression
-RuinsKeyD: progression
-TubbaCastleKeyA: progression
-TubbaCastleKeyB: progression
-TubbaCastleKeyC: progression
+Auto Jump: filler
+Auto Multibounce: filler
+Auto Smash: filler
+BakingButter: filler
+BakingCleanser: filler
+BakingCream: filler
+BakingEgg: filler
+BakingFlour: filler
+BakingMilk: filler
+BakingSalt: filler
+BakingStrawberry: filler
+BakingSugar: filler
+BakingWater: filler
+Berserker: filler
+Big Cookie: filler
+BigMap: filler
+Bland Meal: filler
+Blue Berry: progression
+Blue Key: progression
+BlueBerry: filler
+BlueBerryKey1: filler
+BlueBerryKey2: filler
+BlueBerryProxy2: filler
+Boiled Egg: filler
+Bombette Upgrade: useful
+Bombette: progression
+BombetteUp2: useful
+Boo Portrait: progression
+Boo Record: progression
+Boo Weight: progression
+Boots1Icon: filler
+Boots2Icon: filler
+Boots3Icon: filler
+Boots: filler
+BootsProxy2: progression
+BootsProxy3: progression
+Bow Upgrade: useful
+Bow: progression
+BowUp2: useful
+Bowser Castle Key: progression
 BowserCastleKeyA: progression
 BowserCastleKeyB: progression
 BowserCastleKeyC: progression
 BowserCastleKeyD: progression
 BowserCastleKeyE: progression
-Prison Key: filler
-PrisonKeyB: filler
-StarPiece00: progression
-StarPiece01: progression
-StarPiece02: progression
-StarPiece03: progression
-StarPiece04: progression
-StarPiece05: progression
-StarPiece06: progression
-StarPiece07: progression
-StarPiece08: progression
-StarPiece09: progression
-StarPiece0A: progression
-StarPiece0B: progression
-StarPiece0C: progression
-StarPiece0D: progression
-StarPiece0E: progression
-StarPiece0F: progression
-StarPiece10: progression
-StarPiece11: progression
-StarPiece12: progression
-StarPiece13: progression
-StarPiece14: progression
-StarPiece15: progression
-StarPiece16: progression
-StarPiece17: progression
-StarPiece18: progression
-StarPiece19: progression
-StarPiece1A: progression
-StarPiece1B: progression
-StarPiece1C: progression
-StarPiece1D: progression
-StarPiece1E: progression
-StarPiece1F: progression
-StarPiece20: progression
-StarPiece21: progression
-StarPiece22: progression
-StarPiece23: progression
-StarPiece24: progression
-StarPiece25: progression
-StarPiece26: progression
-StarPiece27: progression
-StarPiece28: progression
-StarPiece29: progression
-StarPiece2A: progression
-StarPiece2B: progression
-StarPiece2C: progression
-StarPiece2D: progression
-StarPiece2E: progression
-StarPiece2F: progression
-StarPiece30: progression
-StarPiece31: progression
-StarPiece32: progression
-StarPiece33: progression
-StarPiece34: progression
-StarPiece35: progression
-StarPiece36: progression
-StarPiece37: progression
-StarPiece38: progression
-StarPiece39: progression
-StarPiece3A: progression
-StarPiece3B: progression
-StarPiece3C: progression
-StarPiece3D: progression
-StarPiece3E: progression
-StarPiece3F: progression
-StarPiece40: progression
-StarPiece41: progression
-StarPiece42: progression
-StarPiece43: progression
-StarPiece44: progression
-StarPiece45: progression
-StarPiece46: progression
-StarPiece47: progression
-StarPiece48: progression
-StarPiece49: progression
-StarPiece4A: progression
-StarPiece4B: progression
-StarPiece4C: progression
-StarPiece4D: progression
-StarPiece4E: progression
-StarPiece4F: progression
-StarPiece50: progression
-StarPiece51: progression
-3x Star Pieces: progression
-ThreeStarPieces1: progression
-ThreeStarPieces2: progression
-ThreeStarPieces3: progression
-ThreeStarPieces4: progression
+Bubble Berry: progression
+BubbleBerry: filler
+BubbleBerryKey: filler
+BubbleBerryProxy2: filler
+Bump Attack: filler
+Cake Mix: progression
+Cake: filler
+CakeBare: filler
+CakeBatter: filler
+CakeBowl: filler
+CakeDone: filler
+CakeKey: filler
+CakeMixed: filler
+CakePan: filler
+CakeProxy: filler
+CakeWithBerries: filler
+CakeWithIcing: filler
+Calculator: progression
+Chill Out: filler
+Close Call: useful
+Coco Pop: filler
+Coconut: progression
+Coin: filler
+Cookbook: progression
+Crazy Heart: filler
+Crystal Ball: progression
+Crystal Berry: progression
+Crystal Palace Key: progression
+D-Down Jump: useful
+D-Down Pound: filler
+Damage Dodge: useful
+DamageDodgeB: useful
+DamageDodgeX: useful
+Deep Focus: filler
+DeepFocus2: filler
+DeepFocus3: filler
+Defend Plus: useful
+DefendPlusX: useful
+DefendPlusY: useful
+Deluxe Feast: filler
+Diamond Stone: progression
+Dictionary: progression
+Diploma: filler
+Dizzy Attack: filler
+Dizzy Dial: filler
+Dizzy Stomp: useful
+Dodge Master: useful
+Dolly: progression
+Double Dip: filler
+Dried Fruit: filler
+Dried Pasta: filler
+Dried Shroom: filler
+Dusty Hammer: filler
+Egg Missile: filler
+Egg: filler
+Electro Pop: filler
+FP Plus: useful
+FPPlusB: useful
+FPPlusC: useful
+FPPlusX: useful
+FPPlusY: useful
+Feeling Fine: filler
+Fertile Soil: progression
+Fire Flower: filler
+Fire Pop: filler
+Fire Shield: useful
+First Attack: filler
+First Degree Card: filler
+Flower Fanatic: useful
+Flower Finder: filler
+Flower Saver: useful
+FlowerPoint: filler
+FlowerSaverB: useful
+FlowerSaverX: useful
+Forest Pass: progression
+Fourth Degree Card: filler
+Fried Egg: filler
+Fried Shroom: filler
+Fright Jar: filler
+Frozen Fries: filler
+Frying Pan: progression
+Gold Credit: filler
+Goombario Upgrade: useful
+Goombario: progression
+GoombarioUp2: useful
+Goomnut: progression
+Goompa: filler
+GoompaUp1: filler
+GoompaUp2: filler
+Group Focus: filler
+HP Drain: filler
+HP Plus: useful
+HPPlusB: useful
+HPPlusC: useful
+HPPlusX: useful
+HPPlusY: useful
+Hammer Throw: filler
+Hammer1Icon: filler
+Hammer2Icon: filler
+Hammer3Icon: filler
+Hammer: filler
+HammerProxy2: progression
+HammerProxy3: progression
+Happy Flower: filler
+Happy Heart: filler
+HappyFlowerB: filler
+HappyFlowerX: filler
+HappyHeartB: filler
+HappyHeartX: filler
+Healthy Healthy: filler
+Healthy Juice: filler
+Heart Finder: filler
+Heart: filler
+HeartPiece: filler
+HeartPoint: filler
+HomewardShroom: filler
+Honey Candy: filler
+Honey Shroom: filler
+Honey Super: filler
+Honey Syrup: filler
+Honey Ultra: filler
+Hot Shroom: filler
+Hustle Drink: filler
+I Spy: filler
+Ice Power: useful
+Iced Potato: filler
+Insecticide Herb: filler
+ItemsIcon: filler
+Jade Raven: progression
+Jammin Jelly: filler
+Jelly Pop: useful
+Jelly Shroom: filler
+Jelly Super: filler
+Jelly Ultra: useful
+JellyShroom2: filler
+JellyShroom3: filler
+JellyShroom4: filler
+JellyShroom5: filler
+JellyShroom6: filler
+Jump Charge: useful
+JumpChargeProxy2: useful
+JumpChargeProxy3: useful
+Kaiden: filler
+Kooky Cookie: filler
+Koopa Fortress Key: progression
+Koopa Leaf: progression
+Koopa Tea: filler
+KoopaFortressKeyA: progression
+KoopaFortressKeyB: progression
+KoopaFortressKeyC: progression
+KoopaFortressKeyD: progression
+Koopasta: filler
+Kooper Shell: progression
+Kooper Upgrade: useful
+Kooper: progression
+KooperUp2: useful
+Koot Empty Wallet: progression
+Koot Glasses: progression
+Koot Koopa Legends: progression
+Koot Old Photo: progression
+Koot Package: progression
+Koot Red Jar: progression
+Koot Tape: progression
+KootAltPhoto: filler
+KootShell: filler
+Lakilester Upgrade: useful
+Lakilester: progression
+LakilesterUp2: useful
+Last Stand: useful
+Lemon Candy: filler
+Lemon: progression
+Letter to Dane T 1: progression
+Letter to Dane T 2: progression
+Letter to Fice T: progression
+Letter to Fishmael: progression
+Letter to Franky: progression
+Letter to Frost T: progression
+Letter to Goompa: progression
+Letter to Goompapa 1: progression
+Letter to Goompapa 2: progression
+Letter to Igor: progression
+Letter to Kolorado: progression
+Letter to Koover 1: progression
+Letter to Koover 2: progression
+Letter to Little Mouser: progression
+Letter to Mayor Penguin: progression
+Letter to Merlon: progression
+Letter to Merlow: progression
+Letter to Minh T: progression
+Letter to Miss T: progression
+Letter to Mort T: progression
+Letter to Mr E: progression
+Letter to Muss T: progression
+Letter to Nomadimouse: progression
+Letter to Red Yoshi Kid: progression
+Letter to Russ T: progression
+Life Shroom: useful
+Lime Candy: filler
+Lime: progression
+Lucky Day: useful
+LuckyStar: filler
+Luigi Autograph: progression
+Lunar Stone: progression
+Lyrics: progression
+Magical Bean: progression
+Magical Seed: progression
+MagicalSeed2: progression
+MagicalSeed3: progression
+MagicalSeed4: progression
+Mailbag: progression
+Maple Shroom: filler
+Maple Super: filler
+Maple Syrup: filler
+Maple Ultra: filler
+Mega HP Drain: filler
+Mega Jump: filler
+Mega Quake: useful
+Mega Rush: useful
+Mega Smash: filler
+Melody: progression
+Melon: filler
+Merluvlee Autograph: progression
+Mini Jump Charge: filler
+Mini Smash Charge: filler
+Miracle Water: progression
+Mistake: filler
+Money Money: filler
+MultiWorldGeneric: filler
+MultiWorldKey00: filler
+MultiWorldKey01: filler
+MultiWorldKey02: filler
+MultiWorldKey03: filler
+MultiWorldKey04: filler
+MultiWorldKey05: filler
+MultiWorldKey06: filler
+MultiWorldKey07: filler
+MultiWorldKey08: filler
+MultiWorldKey09: filler
+MultiWorldKey0A: filler
+MultiWorldKey0B: filler
+MultiWorldKey0C: filler
+MultiWorldKey0D: filler
+MultiWorldKey0E: filler
+MultiWorldKey0F: filler
+MultiWorldKey10: filler
+MultiWorldKey11: filler
+MultiWorldKey12: filler
+MultiWorldKey13: filler
+MultiWorldKey14: filler
+MultiWorldKey15: filler
+MultiWorldKey16: filler
+MultiWorldKey17: filler
+MultiWorldKey18: filler
+MultiWorldKey19: filler
+MultiWorldKey1A: filler
+MultiWorldKey1B: filler
+MultiWorldKey1C: filler
+MultiWorldKey1D: filler
+MultiWorldKey1E: filler
+MultiWorldKey1F: filler
+MultiWorldKey20: filler
+MultiWorldKey21: filler
+MultiWorldKey22: filler
+MultiWorldKey23: filler
+MultiWorldKey24: filler
+MultiWorldKey25: filler
+MultiWorldKey26: filler
+MultiWorldKey27: filler
+MultiWorldKey28: filler
+MultiWorldKey29: filler
+MultiWorldKey2A: filler
+MultiWorldKey2B: filler
+MultiWorldKey2C: filler
+MultiWorldKey2D: filler
+MultiWorldKey2E: filler
+MultiWorldKey2F: filler
+MultiWorldKey30: filler
+MultiWorldKey31: filler
+MultiWorldKey32: filler
+MultiWorldKey33: filler
+MultiWorldKey34: filler
+MultiWorldKey35: filler
+MultiWorldKey36: filler
+MultiWorldKey37: filler
+MultiWorldKey38: filler
+MultiWorldKey39: filler
+MultiWorldKey3A: filler
+MultiWorldKey3B: filler
+MultiWorldKey3C: filler
+MultiWorldKey3D: filler
+MultiWorldKey3E: filler
+MultiWorldKey3F: filler
+MultiWorldKey40: filler
+MultiWorldKey41: filler
+MultiWorldKey42: filler
+MultiWorldKey43: filler
+MultiWorldKey44: filler
+MultiWorldKey45: filler
+MultiWorldKey46: filler
+MultiWorldKey47: filler
+MultiWorldKey48: filler
+MultiWorldKey49: filler
+MultiWorldKey4A: filler
+MultiWorldKey4B: filler
+MultiWorldKey4C: filler
+MultiWorldKey4D: filler
+MultiWorldKey4E: filler
+MultiWorldKey4F: filler
+MultiWorldKey50: filler
+MultiWorldKey51: filler
+MultiWorldKey52: filler
+MultiWorldKey53: filler
+MultiWorldKey54: filler
+MultiWorldKey55: filler
+MultiWorldKey56: filler
+MultiWorldKey57: filler
+MultiWorldKey58: filler
+MultiWorldKey59: filler
+MultiWorldKey5A: filler
+MultiWorldKey5B: filler
+MultiWorldKey5C: filler
+Multibounce: useful
+Mushroom: filler
+Mystery Note: progression
+Mystery: filler
+MysteryScroll: filler
+Mystical Key: progression
+Nothing: filler
+Nutty Cake: filler
+Odd Key: progression
+P-Down D-Up: filler
+P-Up D-Down: useful
+POW Block: filler
+Parakarry Upgrade: useful
+Parakarry: progression
+ParakarryUp2: useful
+PartnerAttack: filler
+Pay Off: filler
+PeachKey1: filler
+PeachKey2: filler
+Pebble: filler
+Peekaboo: filler
+PleaseComeBack: filler
+Potato Salad: filler
+Pouch Upgrade: useful
+PouchB: useful
+PouchC: useful
+PouchD: useful
+PouchE: useful
+Power Bounce: useful
+Power Jump: filler
+Power Plus: useful
+Power Quake: useful
+Power Rush: filler
+Power Smash: filler
 Power Star: progression
+PowerJumpProxy2: filler
+PowerJumpProxy3: filler
+PowerPlusB: useful
+PowerPlusX: useful
+PowerSmash2: filler
+PowerSmash3: filler
+PowerSmashProxy2: filler
+PowerSmashProxy3: filler
 PowerStar01: progression
 PowerStar02: progression
 PowerStar03: progression
@@ -515,173 +549,193 @@ PowerStar7C: progression
 PowerStar7D: progression
 PowerStar7E: progression
 PowerStar7F: progression
-MultiWorldGeneric: filler
-MultiWorldKey00: filler
-MultiWorldKey01: filler
-MultiWorldKey02: filler
-MultiWorldKey03: filler
-MultiWorldKey04: filler
-MultiWorldKey05: filler
-MultiWorldKey06: filler
-MultiWorldKey07: filler
-MultiWorldKey08: filler
-MultiWorldKey09: filler
-MultiWorldKey0A: filler
-MultiWorldKey0B: filler
-MultiWorldKey0C: filler
-MultiWorldKey0D: filler
-MultiWorldKey0E: filler
-MultiWorldKey0F: filler
-MultiWorldKey10: filler
-MultiWorldKey11: filler
-MultiWorldKey12: filler
-MultiWorldKey13: filler
-MultiWorldKey14: filler
-MultiWorldKey15: filler
-MultiWorldKey16: filler
-MultiWorldKey17: filler
-MultiWorldKey18: filler
-MultiWorldKey19: filler
-MultiWorldKey1A: filler
-MultiWorldKey1B: filler
-MultiWorldKey1C: filler
-MultiWorldKey1D: filler
-MultiWorldKey1E: filler
-MultiWorldKey1F: filler
-MultiWorldKey20: filler
-MultiWorldKey21: filler
-MultiWorldKey22: filler
-MultiWorldKey23: filler
-MultiWorldKey24: filler
-MultiWorldKey25: filler
-MultiWorldKey26: filler
-MultiWorldKey27: filler
-MultiWorldKey28: filler
-MultiWorldKey29: filler
-MultiWorldKey2A: filler
-MultiWorldKey2B: filler
-MultiWorldKey2C: filler
-MultiWorldKey2D: filler
-MultiWorldKey2E: filler
-MultiWorldKey2F: filler
-MultiWorldKey30: filler
-MultiWorldKey31: filler
-MultiWorldKey32: filler
-MultiWorldKey33: filler
-MultiWorldKey34: filler
-MultiWorldKey35: filler
-MultiWorldKey36: filler
-MultiWorldKey37: filler
-MultiWorldKey38: filler
-MultiWorldKey39: filler
-MultiWorldKey3A: filler
-MultiWorldKey3B: filler
-MultiWorldKey3C: filler
-MultiWorldKey3D: filler
-MultiWorldKey3E: filler
-MultiWorldKey3F: filler
-MultiWorldKey40: filler
-MultiWorldKey41: filler
-MultiWorldKey42: filler
-MultiWorldKey43: filler
-MultiWorldKey44: filler
-MultiWorldKey45: filler
-MultiWorldKey46: filler
-MultiWorldKey47: filler
-MultiWorldKey48: filler
-MultiWorldKey49: filler
-MultiWorldKey4A: filler
-MultiWorldKey4B: filler
-MultiWorldKey4C: filler
-MultiWorldKey4D: filler
-MultiWorldKey4E: filler
-MultiWorldKey4F: filler
-MultiWorldKey50: filler
-MultiWorldKey51: filler
-MultiWorldKey52: filler
-MultiWorldKey53: filler
-MultiWorldKey54: filler
-MultiWorldKey55: filler
-MultiWorldKey56: filler
-MultiWorldKey57: filler
-MultiWorldKey58: filler
-MultiWorldKey59: filler
-MultiWorldKey5A: filler
-MultiWorldKey5B: filler
-MultiWorldKey5C: filler
-CakeProxy: filler
-Blue Berry: progression
-BlueBerryProxy2: filler
-Red Berry: progression
-RedBerryProxy2: filler
-Yellow Berry: progression
-YellowBerryProxy2: filler
-Bubble Berry: progression
-BubbleBerryProxy2: filler
+Present: filler
+Pretty Lucky: filler
+Prison Key: filler
+PrisonKey1: filler
+PrisonKey2: filler
+PrisonKey3: filler
+PrisonKey4: filler
+PrisonKeyB: filler
 Progressive Boots: progression
-BootsProxy2: progression
-BootsProxy3: progression
 Progressive Hammer: progression
-HammerProxy2: progression
-HammerProxy3: progression
-Progressive Smash Charge: filler
-SmashChargeProxy2: filler
-SmashChargeProxy3: filler
 Progressive Jump Charge: useful
-JumpChargeProxy2: useful
-JumpChargeProxy3: useful
 Progressive Power Jump: filler
-PowerJumpProxy2: filler
-PowerJumpProxy3: filler
 Progressive Power Smash: filler
-PowerSmashProxy2: filler
-PowerSmashProxy3: filler
 Progressive Quake Hammer: useful
+Progressive Smash Charge: filler
+Pulse Stone: progression
+Pyramid Stone: progression
+Quake Bounce: useful
+Quake Hammer: filler
 QuakeHammerProxy2: useful
 QuakeHammerProxy3: useful
-Pouch Upgrade: useful
-PouchB: useful
-PouchC: useful
-PouchD: useful
-PouchE: useful
-Star Beam: progression
-Goombario Upgrade: useful
-Kooper Upgrade: useful
-Bombette Upgrade: useful
-Parakarry Upgrade: useful
-Watt Upgrade: useful
-Sushie Upgrade: useful
-Lakilester Upgrade: useful
-Bow Upgrade: useful
-GoombarioUp2: useful
-KooperUp2: useful
-BombetteUp2: useful
-ParakarryUp2: useful
-WattUp2: useful
-SushieUp2: useful
-LakilesterUp2: useful
-BowUp2: useful
-Goombario: progression
-Kooper: progression
-Bombette: progression
-Parakarry: progression
-Watt: progression
-Sushie: progression
-Lakilester: progression
-Bow: progression
-Boots: filler
-SuperBoots: filler
-UltraBoots: filler
-Hammer: filler
-SuperHammer: filler
-UltraHammer: filler
-LuckyStar: filler
-HomewardShroom: filler
-BigMap: filler
-Mystical Key: progression
-SuspiciousNote: filler
+Quick Change: useful
+Red Berry: progression
+Red Key: progression
+RedBerry: filler
+RedBerryKey: filler
+RedBerryProxy2: filler
+Refund: useful
+Repel Gel: filler
+Right On: filler
+Ruins Key: progression
+RuinsKeyA: progression
+RuinsKeyB: progression
+RuinsKeyC: progression
+RuinsKeyD: progression
+Runaway Pay: useful
 Screwdriver: filler
+Second Degree Card: filler
+ShellCrack: filler
+Shooting Star: filler
+Shrink Smash: filler
+Shrink Stomp: filler
+Shroom Cake: filler
+Shroom Steak: filler
+Silver Credit: filler
+Sleep Stomp: filler
+Sleepy Sheep: progression
+Slow Go: filler
+Smash Charge: filler
+SmashChargeProxy2: filler
+SmashChargeProxy3: filler
+SneakyParasol: filler
+Snowman Bucket: progression
+Snowman Doll: filler
+Snowman Scarf: progression
+Spaghetti: filler
+Special Shake: filler
+Speedy Spin: filler
+Spicy Soup: filler
+Spike Shield: useful
+Spin Attack: filler
+Spin Smash: filler
+Star Beam: progression
+Star Piece: progression
+Star Stone: progression
+StarPiece00: progression
+StarPiece01: progression
+StarPiece02: progression
+StarPiece03: progression
+StarPiece04: progression
+StarPiece05: progression
+StarPiece06: progression
+StarPiece07: progression
+StarPiece08: progression
+StarPiece09: progression
+StarPiece0A: progression
+StarPiece0B: progression
+StarPiece0C: progression
+StarPiece0D: progression
+StarPiece0E: progression
+StarPiece0F: progression
+StarPiece10: progression
+StarPiece11: progression
+StarPiece12: progression
+StarPiece13: progression
+StarPiece14: progression
+StarPiece15: progression
+StarPiece16: progression
+StarPiece17: progression
+StarPiece18: progression
+StarPiece19: progression
+StarPiece1A: progression
+StarPiece1B: progression
+StarPiece1C: progression
+StarPiece1D: progression
+StarPiece1E: progression
+StarPiece1F: progression
+StarPiece20: progression
+StarPiece21: progression
+StarPiece22: progression
+StarPiece23: progression
+StarPiece24: progression
+StarPiece25: progression
+StarPiece26: progression
+StarPiece27: progression
+StarPiece28: progression
+StarPiece29: progression
+StarPiece2A: progression
+StarPiece2B: progression
+StarPiece2C: progression
+StarPiece2D: progression
+StarPiece2E: progression
+StarPiece2F: progression
+StarPiece30: progression
+StarPiece31: progression
+StarPiece32: progression
+StarPiece33: progression
+StarPiece34: progression
+StarPiece35: progression
+StarPiece36: progression
+StarPiece37: progression
+StarPiece38: progression
+StarPiece39: progression
+StarPiece3A: progression
+StarPiece3B: progression
+StarPiece3C: progression
+StarPiece3D: progression
+StarPiece3E: progression
+StarPiece3F: progression
+StarPiece40: progression
+StarPiece41: progression
+StarPiece42: progression
+StarPiece43: progression
+StarPiece44: progression
+StarPiece45: progression
+StarPiece46: progression
+StarPiece47: progression
+StarPiece48: progression
+StarPiece49: progression
+StarPiece4A: progression
+StarPiece4B: progression
+StarPiece4C: progression
+StarPiece4D: progression
+StarPiece4E: progression
+StarPiece4F: progression
+StarPiece50: progression
+StarPiece51: progression
+StarPoint: filler
+Stinky Herb: filler
+Stone Cap: filler
+Stop Watch: filler
+Storeroom Key: progression
+Strange Cake: filler
+Strange Leaf: progression
+Super Focus: filler
+Super Jump Charge: useful
+Super Jump: filler
+Super Shroom: progression
+Super Smash Charge: useful
+Super Smash: filler
+Super Soda: filler
+SuperBoots: filler
+SuperHammer: filler
+Sushie Upgrade: useful
+Sushie: progression
+SushieUp2: useful
+SuspiciousNote: filler
+Sweet Shroom: filler
+Tasty Tonic: progression
+Third Degree Card: filler
+ThreeStarPieces1: progression
+ThreeStarPieces2: progression
+ThreeStarPieces3: progression
+ThreeStarPieces4: progression
+Thunder Bolt: filler
+Thunder Rage: filler
 ToadDoll: filler
+Toy Train: progression
+Triple Dip: filler
+Tubba Castle Key: progression
+TubbaCastleKeyA: progression
+TubbaCastleKeyB: progression
+TubbaCastleKeyC: progression
+Ultra Shroom: filler
+Ultra Stone: useful
+UltraBoots: filler
+UltraHammer: filler
 UnusedLetter01: filler
 UnusedLetter02: filler
 UnusedLetter03: filler
@@ -689,72 +743,18 @@ UnusedLetter04: filler
 UnusedLetter05: filler
 UnusedLetter06: filler
 UnusedLetter07: filler
-BakingSugar: filler
-BakingSalt: filler
-BakingEgg: filler
-BakingCream: filler
-BakingStrawberry: filler
-BakingButter: filler
-BakingCleanser: filler
-BakingWater: filler
-BakingFlour: filler
-BakingMilk: filler
-PeachKey1: filler
-SneakyParasol: filler
-KootShell: filler
-KootAltPhoto: filler
-PeachKey2: filler
-PrisonKey1: filler
-PrisonKey2: filler
-PrisonKey3: filler
-PrisonKey4: filler
-PleaseComeBack: filler
-BlueBerry: filler
-RedBerry: filler
+Volcano Vase: progression
+Volt Shroom: filler
+Warehouse Key: progression
+Water Stone: progression
+Watt Upgrade: useful
+Watt: progression
+WattUp2: useful
+Whackas Bump: filler
+Yellow Berry: progression
 YellowBerry: filler
-BubbleBerry: filler
-JellyShroom2: filler
-JellyShroom3: filler
-JellyShroom4: filler
-JellyShroom5: filler
-JellyShroom6: filler
-MysteryScroll: filler
-PowerSmash2: filler
-PowerSmash3: filler
-ShellCrack: filler
-Kaiden: filler
-Attack FX F2: filler
-Attack FX F3: filler
-Attack FX F4: filler
-Attack FX F5: filler
-PartnerAttack: filler
-Heart: filler
-HeartPiece: filler
-StarPoint: filler
-HeartPoint: filler
-FlowerPoint: filler
-Present: filler
-CakeDone: filler
-CakeBare: filler
-CakePan: filler
-CakeBatter: filler
-CakeBowl: filler
-CakeMixed: filler
-CakeWithIcing: filler
-CakeWithBerries: filler
-Hammer1Icon: filler
-Hammer2Icon: filler
-Hammer3Icon: filler
-Boots1Icon: filler
-Boots2Icon: filler
-Boots3Icon: filler
-ItemsIcon: filler
-CakeKey: filler
-BlueBerryKey1: filler
-BlueBerryKey2: filler
-RedBerryKey: filler
 YellowBerryKey: filler
-BubbleBerryKey: filler
-GoompaUp1: filler
-GoompaUp2: filler
-Goompa: filler
+YellowBerryProxy2: filler
+Yoshi Cookie: filler
+Yummy Meal: filler
+Zap Tap: useful

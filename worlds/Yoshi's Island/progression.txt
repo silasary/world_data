@@ -8,6 +8,8 @@
 Anytime Egg: useful
 Anywhere Pow: filler
 Arrow Wheel: progression
+Bandit Consumables: progression
+Bandit Watermelons: progression
 Beanstalk: progression
 Bonus 1: progression
 Bonus 2: progression
@@ -15,7 +17,9 @@ Bonus 3: progression
 Bonus 4: progression
 Bonus 5: progression
 Bonus 6: progression
+Bonus Consumables: progression
 Bonus Panels: progression
+Boss Clear: progression
 Bucket: progression
 Car Morph: progression
 Chomp Rock: progression
@@ -51,6 +55,7 @@ Pocket Ice Melon: filler
 Pocket Melon: filler
 Poochy: progression
 Reversal Trap: trap
+Saved Baby Luigi: progression
 Secret Lens: progression
 Skis: progression
 Spring Ball: progression
@@ -67,8 +72,3 @@ World 3 Gate: progression
 World 4 Gate: progression
 World 5 Gate: progression
 World 6 Gate: progression
-Bonus Consumables: progression
-Bandit Consumables: progression
-Bandit Watermelons: progression
-Boss Clear: progression
-Saved Baby Luigi: progression

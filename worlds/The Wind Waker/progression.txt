@@ -1,82 +1,90 @@
-Telescope: filler
-Wind Waker: progression
-Grappling Hook: progression
-Spoils Bag: progression
-Boomerang: progression
-Deku Leaf: progression
-Tingle Tuner: progression
-Iron Boots: progression
-Magic Armor: progression
-Bait Bag: progression
-Bombs: progression
-Delivery Bag: progression
-Hookshot: progression
-Skull Hammer: progression
-Power Bracelets: progression
-Hero's Charm: filler
-Hurricane Spin: filler
-Dragon Tingle Statue: progression
-Forbidden Tingle Statue: progression
-Goddess Tingle Statue: progression
-Earth Tingle Statue: progression
-Wind Tingle Statue: progression
-Wind's Requiem: progression
-Ballad of Gales: progression
-Command Melody: progression
-Earth God's Lyric: progression
-Wind God's Aria: progression
-Song of Passing: progression
-Triforce Shard 1: progression
-Triforce Shard 2: progression
-Triforce Shard 3: progression
-Triforce Shard 4: progression
-Triforce Shard 5: progression
-Triforce Shard 6: progression
-Triforce Shard 7: progression
-Triforce Shard 8: progression
-Skull Necklace: filler
-Boko Baba Seed: filler
-Golden Feather: filler
-Knight's Crest: filler
-Red Chu Jelly: filler
-Green Chu Jelly: filler
-Joy Pendant: filler
 All-Purpose Bait: filler
-Hyoi Pear: filler
-Note to Mom: progression
-Maggie's Letter: progression
-Moblin's Letter: progression
+Bait Bag: progression
+Ballad of Gales: progression
+Beedle's Chart: filler
+Blue Rupee: filler
+Boat's Sail: progression
+Boko Baba Seed: filler
+Bombs: progression
+Boomerang: progression
 Cabana Deed: progression
-Fill-Up Coupon: filler
-Nayru's Pearl: progression
+Command Melody: progression
+DRC Big Key: progression
+DRC Compass: filler
+DRC Dungeon Map: filler
+DRC Small Key: progression
+Deku Leaf: progression
+Delivery Bag: progression
 Din's Pearl: progression
+Dragon Tingle Statue: progression
+ET Big Key: progression
+ET Compass: filler
+ET Dungeon Map: filler
+ET Small Key: progression
+Earth God's Lyric: progression
+Earth Tingle Statue: progression
+Empty Bottle: progression
+FF Compass: filler
+FF Dungeon Map: filler
+FW Big Key: progression
+FW Compass: filler
+FW Dungeon Map: filler
+FW Small Key: progression
 Farore's Pearl: progression
-Progressive Sword: progression
-Progressive Shield: progression
-Progressive Picto Box: progression
+Fill-Up Coupon: filler
+Forbidden Tingle Statue: progression
+Ghost Ship Chart: progression
+Goddess Tingle Statue: progression
+Golden Feather: filler
+Grappling Hook: progression
+Great Fairy Chart: filler
+Green Chu Jelly: filler
+Green Rupee: filler
+Heart Container: filler
+Hero's Charm: filler
+Hookshot: progression
+Hurricane Spin: filler
+Hyoi Pear: filler
+Iron Boots: progression
+Joy Pendant: filler
+Knight's Crest: filler
+Light Ring Chart: filler
+Maggie's Letter: progression
+Magic Armor: progression
+Moblin's Letter: progression
+Nayru's Pearl: progression
+Note to Mom: progression
+Octo Chart: filler
+Orange Rupee: filler
+Piece of Heart: filler
+Platform Chart: filler
+Power Bracelets: progression
+Progressive Bomb Bag: useful
 Progressive Bow: progression
 Progressive Magic Meter: progression
+Progressive Picto Box: progression
 Progressive Quiver: progression
-Progressive Bomb Bag: useful
+Progressive Shield: progression
+Progressive Sword: progression
 Progressive Wallet: progression
-Empty Bottle: progression
-Triforce Chart 1: progression
-Triforce Chart 2: progression
-Triforce Chart 3: progression
-Triforce Chart 4: progression
-Triforce Chart 5: progression
-Triforce Chart 6: progression
-Triforce Chart 7: progression
-Triforce Chart 8: progression
-Treasure Chart 1: progression
-Treasure Chart 2: progression
-Treasure Chart 3: progression
-Treasure Chart 4: progression
-Treasure Chart 5: progression
-Treasure Chart 6: progression
-Treasure Chart 7: progression
-Treasure Chart 8: progression
-Treasure Chart 9: progression
+Purple Rupee: filler
+Rainbow Rupee: filler
+Red Chu Jelly: filler
+Red Rupee: filler
+Secret Cave Chart: filler
+Silver Rupee: filler
+Skull Hammer: progression
+Skull Necklace: filler
+Song of Passing: progression
+Spoils Bag: progression
+Submarine Chart: filler
+Telescope: filler
+Tingle Tuner: progression
+Tingle's Chart: filler
+TotG Big Key: progression
+TotG Compass: filler
+TotG Dungeon Map: filler
+TotG Small Key: progression
 Treasure Chart 10: progression
 Treasure Chart 11: progression
 Treasure Chart 12: progression
@@ -87,6 +95,7 @@ Treasure Chart 16: progression
 Treasure Chart 17: progression
 Treasure Chart 18: progression
 Treasure Chart 19: progression
+Treasure Chart 1: progression
 Treasure Chart 20: progression
 Treasure Chart 21: progression
 Treasure Chart 22: progression
@@ -97,6 +106,7 @@ Treasure Chart 26: progression
 Treasure Chart 27: progression
 Treasure Chart 28: progression
 Treasure Chart 29: progression
+Treasure Chart 2: progression
 Treasure Chart 30: progression
 Treasure Chart 31: progression
 Treasure Chart 32: progression
@@ -107,47 +117,37 @@ Treasure Chart 36: progression
 Treasure Chart 37: progression
 Treasure Chart 38: progression
 Treasure Chart 39: progression
+Treasure Chart 3: progression
 Treasure Chart 40: progression
 Treasure Chart 41: progression
-Tingle's Chart: filler
-Ghost Ship Chart: progression
-Octo Chart: filler
-Great Fairy Chart: filler
-Secret Cave Chart: filler
-Light Ring Chart: filler
-Platform Chart: filler
-Beedle's Chart: filler
-Submarine Chart: filler
-Green Rupee: filler
-Blue Rupee: filler
-Yellow Rupee: filler
-Red Rupee: filler
-Purple Rupee: filler
-Orange Rupee: filler
-Silver Rupee: filler
-Rainbow Rupee: filler
-Piece of Heart: filler
-Heart Container: filler
-DRC Big Key: progression
-DRC Small Key: progression
-FW Big Key: progression
-FW Small Key: progression
-TotG Big Key: progression
-TotG Small Key: progression
-ET Big Key: progression
-ET Small Key: progression
+Treasure Chart 4: progression
+Treasure Chart 5: progression
+Treasure Chart 6: progression
+Treasure Chart 7: progression
+Treasure Chart 8: progression
+Treasure Chart 9: progression
+Triforce Chart 1: progression
+Triforce Chart 2: progression
+Triforce Chart 3: progression
+Triforce Chart 4: progression
+Triforce Chart 5: progression
+Triforce Chart 6: progression
+Triforce Chart 7: progression
+Triforce Chart 8: progression
+Triforce Shard 1: progression
+Triforce Shard 2: progression
+Triforce Shard 3: progression
+Triforce Shard 4: progression
+Triforce Shard 5: progression
+Triforce Shard 6: progression
+Triforce Shard 7: progression
+Triforce Shard 8: progression
 WT Big Key: progression
-WT Small Key: progression
-DRC Dungeon Map: filler
-DRC Compass: filler
-FW Dungeon Map: filler
-FW Compass: filler
-TotG Dungeon Map: filler
-TotG Compass: filler
-FF Dungeon Map: filler
-FF Compass: filler
-ET Dungeon Map: filler
-ET Compass: filler
-WT Dungeon Map: filler
 WT Compass: filler
-Boat's Sail: progression
+WT Dungeon Map: filler
+WT Small Key: progression
+Wind God's Aria: progression
+Wind Tingle Statue: progression
+Wind Waker: progression
+Wind's Requiem: progression
+Yellow Rupee: filler

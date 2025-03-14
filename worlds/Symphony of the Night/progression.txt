@@ -1,320 +1,320 @@
+1 hit KO 30: trap
+1 hit KO 60: trap
+10 heart subtract: trap
+10 hp subtract: trap
+50 heart subtract: trap
+50 hp subtract: trap
+80% max heart: trap
+80% max hp: trap
+80% max mp: trap
+Alucard mail: useful
+Alucard shield: useful
+Alucard sword: useful
+Alucart mail: useful
+Alucart shield: useful
+Alucart sword: useful
+Ankh of life: useful
+Antivenom: filler
+Apple: filler
+Aquamarine: filler
+Attack potion: filler
+Axe Lord 1: trap
+Axe Lord 2: trap
+Axe Lord armor: filler
+AxeLord shield: useful
+Badelaire: useful
+Ballroom mask: useful
+Banana: filler
+Bandanna: useful
+Barley tea: filler
+Basilard: useful
+Bastard sword: useful
+Bat card: useful
+Bat pentagram: filler
+Bekatowa: useful
+Beryl circlet: useful
+Blood cloak: useful
+Bloodstone: useful
+Blue knuckles: useful
+Boomerang: filler
+Boss token: progression
+Brilliant mail: useful
+Broadsword: useful
+Bronze cuirass: useful
+Buffalo star: filler
+Bwaka knife: filler
+Cat-eye circl.: useful
+Chakram: useful
+Cheese: filler
+Cheesecake: filler
+Chinese bun: filler
+Circlet: useful
+Claymore: useful
+Close random teleport: trap
+Cloth cape: useful
+Cloth tunic: useful
+Combat knife: useful
+Coral circlet: useful
+Covenant stone: useful
+Crissaegrim: useful
+Cross shuriken: filler
+Crystal cloak: useful
+Cube of zoe: progression
+Curry rice: filler
+Cutlass: useful
+Damascus sword: useful
+Dark armor: useful
+Dark blade: useful
+Dark shield: useful
+Demon card: progression
+Diamond plate: useful
+Diamond: filler
+Dim sum set: filler
+Dracula tunic: useful
+Dragon helm: useful
+Duplicator: useful
+Dynamite: filler
+Echo of bat: progression
+Elixir: filler
+Elven cloak: useful
+Estoc: useful
+Experience boost 10k: useful
+Experience boost 1k: useful
+Experience boost 5k: useful
+Exploration token: progression
+Eye of vlad: progression
+Faerie card: useful
+Faerie scroll: useful
+Falchion: useful
+Fall damage 10: trap
+Fall damage 5: trap
+Felt hat: useful
+Fire boomerang: filler
+Fire mail: useful
+Fire of bat: useful
+Fire shield: useful
+Firebrand: useful
+Fist of tulkas: useful
+Flamberge: useful
+Flame star: filler
+Force of echo: useful
+Form of mist: progression
+Frankfurter: filler
+Fury plate: useful
+Garnet: filler
+Gas cloud: useful
+Gauntlet: useful
+Ghost card: useful
+Gladius: useful
+God's Garb: useful
+Goddess shield: useful
+Goggles: useful
+Gold circlet: useful
+Gold plate: useful
+Gold ring: progression
+Gram: useful
+Grape juice: filler
+Grapes: filler
+Gravity boots: progression
+Great sword: useful
+Green tea: filler
+Gurthang: useful
+Gyros plate: filler
+Half max heart: trap
+Half max hp: trap
+Half max mp: trap
+Ham and eggs: filler
+Hamburger: filler
+Hammer: filler
+Harper: useful
+Healing mail: useful
+Heart Vessel: useful
+Heart broach: useful
+Heart of vlad: progression
+Heart refresh: filler
+Heart restore: useful
+Heaven sword: useful
+Herald shield: useful
+Hide cuirass: useful
+High potion: filler
+Holbein dagger: useful
+Holy glasses: progression
+Holy mail: useful
+Holy rod: useful
+Holy sword: useful
+Holy symbol: progression
+Hp restore: useful
+Hunter sword: useful
+Ice cream: filler
+Ice floor 10: trap
+Ice floor 5: trap
+Ice mail: useful
+Icebrand: useful
+Iron ball: filler
+Iron cuirass: useful
+Iron fist: useful
+Iron shield: useful
+Javelin: filler
+Jewel knuckles: useful
+Jewel of open: progression
+Jewel sword: useful
+Joseph's cloak: useful
+Karma coin: filler
+Katana: useful
+King's stone: useful
+Knight shield: useful
+Knuckle duster: useful
+Lapis lazuli: useful
+Leap stone: progression
+Leather hat: useful
+Leather shield: useful
+Library card: filler
+Life Vessel: useful
+Life apple: filler
+Lightning mail: useful
+Luck potion: filler
+Luminus: useful
+Lunch A: filler
+Lunch B: filler
+Mablung sword: useful
+Mace: useful
+Magic missile: filler
+Manna prism: filler
+Marsil: useful
+Masamune: useful
+Max heart boost 10: useful
+Max heart boost 50: useful
+Max hp boost 10: useful
+Max hp boost 50: useful
+Max mp boost 10: useful
+Max mp boost 50: useful
+Meal ticket: filler
+Medal: useful
+Medusa shield: useful
+Merman statue: progression
+Mirror cuirass: useful
+Miso soup: filler
+Mojo mail: useful
 Monster vial 1: filler
 Monster vial 2: filler
 Monster vial 3: filler
-Shield rod: useful
-Leather shield: useful
-Knight shield: useful
-Iron shield: useful
-AxeLord shield: useful
-Herald shield: useful
-Dark shield: useful
-Goddess shield: useful
-Shaman shield: useful
-Medusa shield: useful
-Skull shield: useful
-Fire shield: useful
-Alucard shield: useful
-Sword of dawn: useful
-Basilard: useful
-Short sword: useful
-Combat knife: useful
-Nunchaku: useful
-Were bane: useful
-Rapier: useful
-Karma coin: filler
-Magic missile: filler
-Red rust: filler
-Takemitsu: useful
-Shotel: useful
-Orange: filler
-Apple: filler
-Banana: filler
-Grapes: filler
-Strawberry: filler
-Pineapple: filler
-Peanuts: filler
-Toadstool: filler
-Shiitake: filler
-Cheesecake: filler
-Shortcake: filler
-Tart: filler
-Parfait: filler
-Pudding: filler
-Ice cream: filler
-Frankfurter: filler
-Hamburger: filler
-Pizza: filler
-Cheese: filler
-Ham and eggs: filler
-Omelette: filler
-Morning set: filler
-Lunch A: filler
-Lunch B: filler
-Curry rice: filler
-Gyros plate: filler
-Spaghetti: filler
-Grape juice: filler
-Barley tea: filler
-Green tea: filler
-Natou: filler
-Ramen: filler
-Miso soup: filler
-Sushi: filler
-Pork bun: filler
-Red bean bun: filler
-Chinese bun: filler
-Dim sum set: filler
-Pot roast: filler
-Sirloin: filler
-Turkey: filler
-Meal ticket: filler
-Neutron bomb: filler
-Power of sire: filler
-Pentagram: filler
-Bat pentagram: filler
-Shuriken: filler
-Cross shuriken: filler
-Buffalo star: filler
-Flame star: filler
-TNT: filler
-Bwaka knife: filler
-Boomerang: filler
-Javelin: filler
-Tyrfing: filler
-Namakura: filler
-Knuckle duster: useful
-Gladius: useful
-Scimitar: useful
-Cutlass: useful
-Saber: useful
-Falchion: useful
-Broadsword: useful
-Bekatowa: useful
-Damascus sword: useful
-Hunter sword: useful
-Estoc: useful
-Bastard sword: useful
-Jewel knuckles: useful
-Claymore: useful
-Talwar: useful
-Katana: useful
-Flamberge: useful
-Iron fist: useful
-Zwei hander: useful
-Sword of hador: useful
-Luminus: useful
-Harper: useful
-Obsidian sword: useful
-Gram: useful
-Jewel sword: useful
-Mormegil: useful
-Firebrand: useful
-Thunderbrand: useful
-Icebrand: useful
-Stone sword: useful
-Holy sword: useful
-Terminus est: useful
-Marsil: useful
-Dark blade: useful
-Heaven sword: useful
-Fist of tulkas: useful
-Gurthang: useful
-Mourneblade: useful
-Alucard sword: useful
-Mablung sword: useful
-Badelaire: useful
-Sword familiar: useful
-Great sword: useful
-Mace: useful
-Morningstar: useful
-Holy rod: useful
-Star flail: useful
 Moon rod: useful
-Chakram: useful
-Fire boomerang: filler
-Iron ball: filler
-Holbein dagger: useful
-Blue knuckles: useful
-Dynamite: filler
-Osafune katana: useful
-Masamune: useful
+Moonstone: useful
+Mormegil: useful
+Morning set: filler
+Morningstar: useful
+Mourneblade: useful
+Mp restore: useful
 Muramasa: useful
-Heart refresh: filler
-Runesword: useful
-Antivenom: filler
-Uncurse: filler
-Life apple: filler
-Hammer: filler
-Str. potion: filler
-Luck potion: filler
-Smart potion: filler
-Attack potion: filler
-Shield potion: filler
+Mystic pendant: useful
+Namakura: filler
+Natou: filler
+Nauglamir: useful
+Necklace of j: useful
+Neutron bomb: filler
+Nunchaku: useful
+Obsidian sword: useful
+Omelette: filler
+Onyx: filler
+Opal circlet: useful
+Opal: filler
+Orange: filler
+Osafune katana: useful
+Parfait: filler
+Peanuts: filler
+Pentagram: filler
+Pineapple: filler
+Pizza: filler
+Platinum mail: useful
+Pork bun: filler
+Pot roast: filler
+Potion: filler
+Power of mist: useful
+Power of sire: filler
+Power of wolf: useful
+Pudding: filler
+Ramen: filler
+Rapier: useful
+Red bean bun: filler
+Red rust: filler
+Resist dark: filler
 Resist fire: filler
-Resist thunder: filler
+Resist holy: filler
 Resist ice: filler
 Resist stone: filler
-Resist holy: filler
-Resist dark: filler
-Potion: filler
-High potion: filler
-Elixir: filler
-Manna prism: filler
-Vorpal blade: useful
-Crissaegrim: useful
-Yasutsuna: useful
-Library card: filler
-Alucart shield: useful
-Alucart sword: useful
-Cloth tunic: useful
-Hide cuirass: useful
-Bronze cuirass: useful
-Iron cuirass: useful
-Steel cuirass: useful
+Resist thunder: filler
+Reverse cloak: useful
+Rib of vlad: progression
+Ring of arcana: useful
+Ring of ares: useful
+Ring of feanor: useful
+Ring of pales: useful
+Ring of varda: useful
+Ring of vlad: progression
+Royal cloak: useful
+Ruby circlet: useful
+Runesword: useful
+Saber: useful
+Scimitar: useful
+Secret boots: filler
+Shaman shield: useful
+Shield potion: filler
+Shield rod: useful
+Shiitake: filler
+Short sword: useful
+Shortcake: filler
+Shotel: useful
+Shuriken: filler
+Silver crown: useful
 Silver plate: useful
-Gold plate: useful
-Platinum mail: useful
-Diamond plate: useful
-Fire mail: useful
-Lightning mail: useful
-Ice mail: useful
-Mirror cuirass: useful
+Silver ring: progression
+Sirloin: filler
+Skill of wolf: useful
+Skull shield: useful
+Smart potion: filler
+Soul of bat: progression
+Soul of wolf: progression
+Spaghetti: filler
 Spike breaker: progression
-Alucard mail: useful
-Dark armor: useful
-Healing mail: useful
-Holy mail: useful
-Walk armor: useful
-Brilliant mail: useful
-Mojo mail: useful
-Fury plate: useful
-Dracula tunic: useful
-God's Garb: useful
-Axe Lord armor: filler
-Alucart mail: useful
-Sunglasses: useful
-Ballroom mask: useful
-Bandanna: useful
-Felt hat: useful
-Velvet hat: useful
-Goggles: useful
-Leather hat: useful
-Holy glasses: progression
+Spirit orb: useful
+Star flail: useful
+Staurolite: useful
+Steel cuirass: useful
 Steel helm: useful
 Stone mask: useful
-Circlet: useful
-Gold circlet: useful
-Ruby circlet: useful
-Opal circlet: useful
-Topaz circlet: useful
-Beryl circlet: useful
-Cat-eye circl.: useful
-Coral circlet: useful
-Dragon helm: useful
-Silver crown: useful
-Wizard hat: useful
-Cloth cape: useful
-Reverse cloak: useful
-Elven cloak: useful
-Crystal cloak: useful
-Royal cloak: useful
-Blood cloak: useful
-Joseph's cloak: useful
-Twilight cloak: useful
-Moonstone: useful
+Stone sword: useful
+Str. potion: filler
+Strawberry: filler
+Sunglasses: useful
 Sunstone: useful
-Bloodstone: useful
-Staurolite: useful
-Ring of pales: useful
-Zircon: filler
-Aquamarine: filler
-Turquoise: filler
-Onyx: filler
-Garnet: filler
-Opal: filler
-Diamond: filler
-Lapis lazuli: useful
-Ring of ares: useful
-Gold ring: progression
-Silver ring: progression
-Ring of varda: useful
-Ring of arcana: useful
-Mystic pendant: useful
-Heart broach: useful
-Necklace of j: useful
-Gauntlet: useful
-Ankh of life: useful
-Ring of feanor: useful
-Medal: useful
-Talisman: useful
-Duplicator: useful
-King's stone: useful
-Covenant stone: useful
-Nauglamir: useful
-Secret boots: filler
-Heart Vessel: useful
-Life Vessel: useful
-Soul of bat: progression
-Fire of bat: useful
-Echo of bat: progression
-Force of echo: useful
-Soul of wolf: progression
-Power of wolf: useful
-Skill of wolf: useful
-Form of mist: progression
-Power of mist: useful
-Gas cloud: useful
-Cube of zoe: progression
-Spirit orb: useful
-Gravity boots: progression
-Leap stone: progression
-Holy symbol: progression
-Faerie scroll: useful
-Jewel of open: progression
-Merman statue: progression
-Bat card: useful
-Ghost card: useful
-Faerie card: useful
-Demon card: progression
+Sushi: filler
 Sword card: useful
-Heart of vlad: progression
-Tooth of vlad: progression
-Rib of vlad: progression
-Ring of vlad: progression
-Eye of vlad: progression
-Victory: progression
-Boss token: progression
-Exploration token: progression
-Experience boost 1k: useful
-Experience boost 5k: useful
-Experience boost 10k: useful
-Max hp boost 10: useful
-Max hp boost 50: useful
-Max heart boost 10: useful
-Max heart boost 50: useful
-Max mp boost 10: useful
-Max mp boost 50: useful
-Hp restore: useful
-Heart restore: useful
-Mp restore: useful
-Half max hp: trap
-80% max hp: trap
-Half max heart: trap
-80% max heart: trap
-Half max mp: trap
-80% max mp: trap
-10 hp subtract: trap
-50 hp subtract: trap
-10 heart subtract: trap
-50 heart subtract: trap
-Turn into stone: trap
+Sword familiar: useful
+Sword of dawn: useful
+Sword of hador: useful
+TNT: filler
+Takemitsu: useful
+Talisman: useful
+Talwar: useful
+Tart: filler
 Teleport to zone entrance: trap
-Close random teleport: trap
-1 hit KO 30: trap
-1 hit KO 60: trap
-Fall damage 5: trap
-Fall damage 10: trap
-Ice floor 5: trap
-Ice floor 10: trap
-Axe Lord 1: trap
-Axe Lord 2: trap
+Terminus est: useful
+Thunderbrand: useful
+Toadstool: filler
+Tooth of vlad: progression
+Topaz circlet: useful
+Turkey: filler
+Turn into stone: trap
+Turquoise: filler
+Twilight cloak: useful
+Tyrfing: filler
+Uncurse: filler
+Velvet hat: useful
+Victory: progression
+Vorpal blade: useful
+Walk armor: useful
+Were bane: useful
+Wizard hat: useful
+Yasutsuna: useful
+Zircon: filler
+Zwei hander: useful

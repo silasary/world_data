@@ -8,11 +8,11 @@ Agrabah: progression
 Air Combo Plus: useful
 All Puppies: progression
 Angel Bangle: useful
-Ansem's Report 1: progression
 Ansem's Report 10: progression
 Ansem's Report 11: progression
 Ansem's Report 12: progression
 Ansem's Report 13: progression
+Ansem's Report 1: progression
 Ansem's Report 2: progression
 Ansem's Report 3: progression
 Ansem's Report 4: progression
@@ -94,8 +94,8 @@ Grand Mallet: useful
 Gravity Arts: progression
 Gravity Break: useful
 Green Trinity: progression
-Guard: progression
 Guard Earring: useful
+Guard: progression
 Halloween Town: progression
 Heartguard: useful
 Herc's Shield: useful
@@ -137,6 +137,7 @@ Moogle Badge: useful
 Morning Star: useful
 Mushu: progression
 Mythril Shield: useful
+Mythril: unknown
 Neverland: progression
 Oathkeeper: progression
 Oblivion: progression
@@ -146,6 +147,7 @@ Olympus Coliseum: progression
 Omega Arts: useful
 One-Winged Angel: useful
 Onyx Shield: useful
+Orichalcum: unknown
 Pegasus Cup: progression
 Phil Cup: progression
 Postcard: progression
@@ -297,6 +299,7 @@ Puppy 96: progression
 Puppy 97: progression
 Puppy 98: progression
 Puppy 99: progression
+Puppy: mcguffin
 Ragnarok: useful
 Ramuh Belt: useful
 Raven's Claw: useful
@@ -326,6 +329,7 @@ Stout Shield: useful
 Strength Increase: useful
 Strike Raid: useful
 Stun Impact: useful
+Superglide: unknown
 Tech Boost: useful
 Tent: filler
 Theon Vol. 6: progression
@@ -359,4 +363,3 @@ Wonderland: progression
 Wooden Sword: useful
 Yellow Trinity: progression
 Zantetsuken: useful
-Superglide: unknown

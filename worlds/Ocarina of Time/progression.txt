@@ -4,10 +4,10 @@ Arrows (5): filler
 Biggoron Sword: useful
 Bolero of Fire: progression
 Bomb Bag: progression
-Bombchus: progression
 Bombchus (10): progression
 Bombchus (20): progression
 Bombchus (5): progression
+Bombchus: progression
 Bombs (10): filler
 Bombs (20): filler
 Bombs (5): filler
@@ -18,7 +18,7 @@ Boss Key (Ganons Castle): progression
 Boss Key (Shadow Temple): progression
 Boss Key (Spirit Temple): progression
 Boss Key (Water Temple): progression
-Bottle: progression
+Boss Key: progression
 Bottle with Big Poe: progression
 Bottle with Blue Fire: progression
 Bottle with Blue Potion: progression
@@ -29,8 +29,11 @@ Bottle with Green Potion: progression
 Bottle with Milk: progression
 Bottle with Poe: progression
 Bottle with Red Potion: progression
+Bottle: progression
 Bow: progression
 Broken Sword: progression
+Bunny Hood: filler
+Buy Magic Bean: progression
 Claim Check: progression
 Cojiro: progression
 Compass (Bottom of the Well): filler
@@ -43,6 +46,7 @@ Compass (Jabu Jabus Belly): filler
 Compass (Shadow Temple): filler
 Compass (Spirit Temple): filler
 Compass (Water Temple): filler
+Compass: filler
 Deku Nut Capacity: useful
 Deku Nuts (10): filler
 Deku Nuts (5): filler
@@ -50,6 +54,7 @@ Deku Seeds (30): filler
 Deku Shield: filler
 Deku Stick (1): filler
 Deku Stick Capacity: useful
+Deliver Letter: progression
 Dins Fire: progression
 Double Defense: useful
 Eponas Song: progression
@@ -57,9 +62,14 @@ Eyeball Frog: progression
 Eyedrops: progression
 Farores Wind: progression
 Fire Arrows: progression
+Fire Medallion: progression
+Forest Medallion: progression
+Gerudo Mask: filler
 Gerudo Membership Card: progression
 Giants Knife: progression
 Gold Skulltula Token: mcguffin
+Goron Mask: filler
+Goron Ruby: progression
 Goron Tunic: progression
 Heart Container: mcguffin
 Hover Boots: progression
@@ -67,11 +77,14 @@ Hylian Shield: filler
 Ice Arrows: progression
 Ice Trap: trap
 Iron Boots: progression
+Keaton Mask: filler
+Kokiri Emerald: progression
 Kokiri Sword: progression
 Lens of Truth: progression
 Light Arrows: progression
-Magic Bean: progression
+Light Medallion: progression
 Magic Bean Pack: progression
+Magic Bean: progression
 Magic Meter: progression
 Map (Bottom of the Well): filler
 Map (Deku Tree): filler
@@ -83,7 +96,10 @@ Map (Jabu Jabus Belly): filler
 Map (Shadow Temple): filler
 Map (Spirit Temple): filler
 Map (Water Temple): filler
+Map: filler
+Mask of Truth: progression
 Megaton Hammer: progression
+Milk: filler
 Minuet of Forest: progression
 Mirror Shield: progression
 Nayrus Love: progression
@@ -91,8 +107,8 @@ Nocturne of Shadow: progression
 Ocarina: progression
 Odd Mushroom: progression
 Odd Potion: progression
-Piece of Heart: mcguffin
 Piece of Heart (Treasure Chest Game): mcguffin
+Piece of Heart: mcguffin
 Poachers Saw: progression
 Pocket Cucco: progression
 Pocket Egg: progression
@@ -112,7 +128,11 @@ Rupees (5): filler
 Rupees (50): filler
 Rutos Letter: progression
 Sarias Song: progression
+Scarecrow Song: progression
+Sell Big Poe: progression
 Serenade of Water: progression
+Shadow Medallion: progression
+Skull Mask: progression
 Slingshot: progression
 Small Key (Bottom of the Well): progression
 Small Key (Fire Temple): progression
@@ -132,40 +152,20 @@ Small Key Ring (Shadow Temple): progression
 Small Key Ring (Spirit Temple): progression
 Small Key Ring (Thieves Hideout): progression
 Small Key Ring (Water Temple): progression
+Small Key: progression
 Song of Storms: progression
 Song of Time: progression
+Spirit Medallion: progression
+Spooky Mask: filler
 Stone of Agony: progression
 Suns Song: progression
+Time Travel: progression
 Triforce Piece: mcguffin
+Triforce: progression
+Water Medallion: progression
 Weird Egg: progression
 Zeldas Letter: progression
 Zeldas Lullaby: progression
-Zora Tunic: progression
-Deliver Letter: progression
-Sell Big Poe: progression
-Skull Mask: progression
-Spooky Mask: filler
-Keaton Mask: filler
-Bunny Hood: filler
-Mask of Truth: progression
-Boss Key: progression
-Compass: filler
-Map: filler
-Small Key: progression
-Milk: filler
-Goron Mask: filler
 Zora Mask: filler
-Gerudo Mask: filler
-Buy Magic Bean: progression
-Time Travel: progression
-Scarecrow Song: progression
-Triforce: progression
-Kokiri Emerald: progression
-Goron Ruby: progression
 Zora Sapphire: progression
-Forest Medallion: progression
-Fire Medallion: progression
-Water Medallion: progression
-Spirit Medallion: progression
-Shadow Medallion: progression
-Light Medallion: progression
+Zora Tunic: progression

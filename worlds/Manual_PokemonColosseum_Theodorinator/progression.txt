@@ -1,74 +1,114 @@
-Makuhita: unknown
-Bayleef: unknown
-Quilava: unknown
-Croconaw: unknown
-Slugma: progression
-Noctowl: unknown
-Flaafy: unknown
-Skiploom: unknown
-Quagsire: unknown
-Misdreavus: unknown
-Furret: unknown
-Yanma: unknown
-Remoraid: unknown
-Mantine: unknown
-Qwilfish: unknown
-Meditite: progression
-Dunsparce: unknown
-Swablu: unknown
-Sudowoodo: progression
-Hitmontop: progression
-Entei: unknown
-Ledian: unknown
-Suicune: progression
-Gligar: unknown
-Stantler: progression
-Piloswine: unknown
-Sneasel: unknown
-Aipom: unknown
-Murkrow: unknown
-Forretress: unknown
-Ariados: unknown
-Granbull: unknown
-Vibrava: unknown
-Raikou: unknown
-Sunflora: unknown
-Delibird: unknown
-Heracross: progression
-Skarmory: progression
-Miltank: unknown
+2 Full Heals: unknown
+2 Hyper Potions: unknown
+2 Max Ethers: unknown
+2 Max Potions: filler
+2 Max Revives: unknown
+2 Timer Balls: unknown
+2 Ultra Balls: unknown
+3 Elixirs: unknown
+3 Ethers: filler
+3 Hyper Potions: unknown
+3 Max Potions: filler
+3 PP Ups: filler
+3 Rare Candies: filler
+3 Revives: unknown
+3 Super Potions: unknown
+3 Ultra Balls: unknown
+4 Ultra Balls: unknown
+5 Great Balls: unknown
+5 Poke Balls: unknown
+5 Ultra Balls: unknown
 Absol: progression
-Houndoom: unknown
-Tropius: unknown
-Metagross: progression
-Tyranitar: unknown
-Smeargle: unknown
-Ursaring: unknown
-Shuckle: unknown
-Togetic: progression
-Plusle: unknown
+Aipom: unknown
+Amulet Coin: unknown
+Antidote: filler
+Ariados: unknown
+Awakening: filler
+Bayleef: unknown
+Blackglasses: filler
 Blue ID Badge: progression
+Burn Heal: filler
+Carbos: filler
 Cologne Case: unknown
+Croconaw: unknown
+D Disk: unknown
+Delibird: unknown
 Duel Square Pass: unknown
+Dunsparce: unknown
 Ein File C: unknown
 Ein File F: unknown
 Ein File H: unknown
 Ein File P: unknown
 Ein File S: unknown
+Elixir: filler
+Entei: unknown
+Experience Share: unknown
+Flaafy: unknown
+Forretress: progression
+Full Heal: filler
+Full Restore: unknown
+Furret: unknown
+Gligar: unknown
+Granbull: unknown
+Great Ball: filler
 Green ID Badge: progression
+HP Up: unknown
+Heracross: progression
+Hitmontop: progression
+Houndoom: unknown
+Hyper Potion: filler
+Ice Heal: filler
+Iron: unknown
+L Disk: progression
+Ledian: unknown
+Ludicolo dancing salsa: filler
+Macho Brace: filler
+Makuhita: unknown
+Mantine: unknown
+Master Ball: unknown
+Max Elixir: filler
+Max Potion: unknown
+Meditite: progression
+Metagross: progression
+Miltank: unknown
+Misdreavus: unknown
+Moomoo Milk: unknown
+Murkrow: unknown
+Noctowl: unknown
+Paralyze Heal: filler
 Phenac Stadium Pass: unknown
+Piloswine: unknown
+Plusle: unknown
+Poke Ball: filler
+Potion: filler
 Pregym Pass: unknown
 Progression Key: progression
+Protein: filler
 Pyrite Colosseum Pass: unknown
+Quagsire: progression
+Quick Claw: unknown
+Quilava: unknown
+Qwilfish: unknown
+Raikou: unknown
 Red ID Badge: unknown
+Remoraid: unknown
+Revive: filler
+Shuckle: unknown
+Silk Scarf: unknown
+Skarmory: progression
+Skiploom: unknown
+Slugma: progression
 Small Tablet: progression
+Smeargle: unknown
+Sneasel: unknown
+Stantler: progression
 Steel Teeth: progression
 Strategy Memo: unknown
-Time Flute: useful
-Yellow ID Badge: unknown
-D Disk: unknown
-L Disk: progression
-U Disk: unknown
+Sudowoodo: progression
+Suicune: progression
+Sunflora: unknown
+Super Potion: filler
+Swablu: unknown
 TM01 Focus Punch: unknown
 TM02 Dragon Claw: unknown
 TM05 Roar: unknown
@@ -107,55 +147,15 @@ TM46 Thief: unknown
 TM47 Steel Wing: unknown
 TM48 Skill Swap: unknown
 TM49 Snatch: unknown
-Amulet Coin: unknown
-Antidote: filler
-Awakening: filler
-Blackglasses: filler
-Burn Heal: filler
-Carbos: filler
-Elixir: filler
-Experience Share: unknown
-Full Heal: filler
-Full Restore: unknown
-Great Ball: filler
-HP Up: unknown
-Hyper Potion: filler
-Ice Heal: filler
-Iron: unknown
-Macho Brace: filler
-Master Ball: unknown
-Max Elixir: filler
-Max Potion: unknown
-Moomoo Milk: unknown
-Paralyze Heal: filler
-Poke Ball: filler
-Potion: filler
-Protein: filler
-Quick Claw: unknown
-Revive: filler
-Silk Scarf: unknown
-Super Potion: filler
+Time Flute: useful
+Togetic: progression
+Tropius: unknown
+Tyranitar: unknown
+U Disk: unknown
 Ultra Ball: unknown
+Ursaring: unknown
+Vibrava: unknown
 White Herb: unknown
+Yanma: unknown
+Yellow ID Badge: unknown
 Zinc: unknown
-2 Full Heals: unknown
-2 Hyper Potions: unknown
-2 Max Ethers: unknown
-2 Max Potions: filler
-2 Max Revives: unknown
-2 Ultra Balls: unknown
-2 Timer Balls: unknown
-3 Elixirs: unknown
-3 Ethers: filler
-3 Hyper Potions: unknown
-3 Max Potions: filler
-3 PP Ups: filler
-3 Rare Candies: filler
-3 Revives: unknown
-3 Super Potions: unknown
-3 Ultra Balls: unknown
-4 Ultra Balls: unknown
-5 Great Balls: unknown
-5 Poke Balls: unknown
-5 Ultra Balls: unknown
-Ludicolo dancing salsa: filler

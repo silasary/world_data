@@ -96,8 +96,8 @@ Chambers Gold Key: progression
 Chambers Master Bonus Key: unknown
 Chambers Silver Key: progression
 Confuse Trap: trap
-Copper Coin: unknown
 Copper Coin Pile: unknown
+Copper Coin: unknown
 Copper Coins: unknown
 Damage Potion: unknown
 Damage Upgrade: useful
@@ -143,16 +143,16 @@ Fix CL3 East Bridge: progression
 Fix CL3 Fall Bridge: unknown
 Fix Dune Sharks Bridge: unknown
 Frost Trap: trap
-Frying Pan: progression
 Frying Pan Fragment: unknown
-Gold Coin: unknown
+Frying Pan: progression
 Gold Coin Pile: unknown
+Gold Coin: unknown
 Gold Coins: unknown
 Gold Key: unknown
 Gold Ring: unknown
 Green Chest: filler
-Hammer: unknown
 Hammer Fragment: unknown
+Hammer: unknown
 Health Upgrade: useful
 Invulnerability Potion: unknown
 Mana Drain Trap: trap
@@ -210,10 +210,10 @@ Open AvF9 Exit: unknown
 Open AvF9 NE Room Left Side: unknown
 Open AvF9 NE Room Top Side: unknown
 Open AvF9 SW Secret Room: unknown
-Open AvF9 Secret Passage: unknown
 Open AvF9 Secret Passage End: unknown
 Open AvF9 Secret Passage North Room: unknown
 Open AvF9 Secret Passage South Room: unknown
+Open AvF9 Secret Passage: unknown
 Open AvF9 Simon Says Room: unknown
 Open AvF9 South Room Right Side: unknown
 Open AvF9 South Room Top Side: unknown
@@ -248,9 +248,10 @@ Open PrF2 Middle Entrance Room: unknown
 Open PrF2 Middle Shortcut Bottom: unknown
 Open PrF2 Middle Shortcut Top: unknown
 Open PrF2 West Treasure Room: unknown
+Open PrF3 Bonus Portal Progress: unknown
 Open PrF3 Bonus Portal: unknown
-Open PrF3 Bonus Room: unknown
 Open PrF3 Bonus Room Side Hall: unknown
+Open PrF3 Bonus Room: unknown
 Open PrF3 Boss Gate: unknown
 Open PrF3 Entrance Room: unknown
 Open PrF3 NW Treasure Room: unknown
@@ -268,8 +269,8 @@ Open TF1 North Jail: unknown
 Open TF1 Telarian Gate: unknown
 Open TF1 Trapped Guard Gate: unknown
 Open TF2 Back of Indiana Jones Hallway: unknown
-Open TF2 Boulder Room: unknown
 Open TF2 Boulder Room Secret Passage: unknown
+Open TF2 Boulder Room: unknown
 Open TF2 East Ice Pillar Gate: unknown
 Open TF2 East Jail: unknown
 Open TF2 Indiana Jones Hallway: unknown
@@ -288,20 +289,21 @@ Open TF3 SE Boss Fall Room: unknown
 Open TF3 South Gate: unknown
 Open TF3 West Boss Fall Room: unknown
 Orange: unknown
-Ore: unknown
+Ore: progression
 Paladin Combo: progression
 Paladin Healing: progression
 Paladin Holy Storm: unknown
-Pickaxe: unknown
 Pickaxe Fragment: unknown
+Pickaxe: unknown
 Poison Trap: trap
 Priest Combo: unknown
-Priest Cripple Aura: unknown
 Priest Cripple Aura Mana Drain: unknown
+Priest Cripple Aura: unknown
 Priest Draining Field: unknown
 Prison Bonus Key: useful
 Prison Boss Rune A: unknown
 Prison Boss Rune n: unknown
+Prison Boss Rune y Progress: unknown
 Prison Boss Rune y: unknown
 Prison Bronze Key: progression
 Prison Floor 1 Master Bronze Key: progression
@@ -318,7 +320,7 @@ Prison Master Bonus Key: unknown
 Prison Silver Key: progression
 Progressive Paladin Armor: unknown
 Progressive Paladin Charge Damage: unknown
-Progressive Paladin Charge Range: unknown
+Progressive Paladin Charge Range: useful
 Progressive Paladin Combo Healing: unknown
 Progressive Paladin Combo Mana: useful
 Progressive Paladin Combo Nova: unknown
@@ -330,7 +332,7 @@ Progressive Paladin Holy Storm Damage: unknown
 Progressive Paladin Holy Storm Duration: unknown
 Progressive Paladin Mana Pool: useful
 Progressive Paladin Move Speed: unknown
-Progressive Paladin Shield: unknown
+Progressive Paladin Shield: useful
 Progressive Paladin Sword Arc: unknown
 Progressive Paladin Sword Damage: unknown
 Progressive Priest Armor: unknown
@@ -437,8 +439,8 @@ Progressive Wizard Mana Pool: unknown
 Progressive Wizard Meteor Strike Damage: unknown
 Progressive Wizard Meteor Strike Meteors: unknown
 Progressive Wizard Move Speed: unknown
-Pumps Lever: unknown
 Pumps Lever Fragment: unknown
+Pumps Lever: unknown
 Purple Chest: filler
 Pyramid of Fear Master Bonus Key: unknown
 Random Stat Upgrade: unknown
@@ -450,8 +452,8 @@ Red Diamond: filler
 Rejuvenation Potion: filler
 Rune Key: progression
 Serious Health Upgrade: unknown
-Silver Coin: unknown
 Silver Coin Pile: unknown
+Silver Coin: unknown
 Silver Coins: unknown
 Silver Key: unknown
 Small Diamond: filler
@@ -483,7 +485,7 @@ Teleport ChF12 Middle Item: unknown
 Teleport PrF2 West Rune Puzzle Item: unknown
 Teleport PrF2 West Treasure Room Item: unknown
 Temple Floor 1 Master Gold Key: unknown
-Temple Floor 1 Master Silver Key: unknown
+Temple Floor 1 Master Silver Key: progression
 Temple Floor 2 Master Gold Key: unknown
 Temple Floor 2 Master Silver Key: unknown
 Thief Combo: progression
@@ -499,4 +501,3 @@ Wizard Fire Nova: unknown
 Wizard Fire Shield: unknown
 Wizard Meteor Strike: unknown
 Wood Chest: filler
-Open PrF3 Bonus Portal Progress: unknown
