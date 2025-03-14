@@ -1,278 +1,278 @@
-Victory: unknown
-Quick Blitz: filler
-Blitz: filler
-Magic Hour: filler
-Meteor Crash: filler
-Sliding Dash: filler
-Fire Dash: filler
-Dark Haze: filler
-Sonic Blade: filler
-Chaos Blade: filler
-Zantetsuken: filler
-Strike Raid: filler
-Freeze Raid: filler
-Treasure Raid: filler
-Spark Raid: filler
-Wind Raid: filler
-Fire Surge: filler
-Barrier Surge: filler
-Thunder Surge: filler
-Aerial Slam: filler
-Ars Solum: filler
-Ars Arcanum: filler
-Time Splicer: filler
-Poison Edge: filler
-Wishing Edge: filler
-Blizzard Edge: filler
-Stun Edge: filler
-Slot Edge: filler
-Fire Strike: filler
-Confusion Strike: filler
-Blinding Strike: filler
-Tornado Strike: filler
-Brutal Blast: filler
-Magnet Spiral: filler
-Salvation: filler
-Windcutter: filler
-Limit Storm: filler
-Collision Magnet: filler
-Geo Impact: filler
-Sacrifice: filler
-Break Time: filler
-Fire: filler
-Fira: filler
-Firaga: filler
-Dark Firaga: filler
-Fission Firaga: filler
-Triple Firaga: filler
-Crawling Fire: filler
-Blizzard: filler
-Blizzara: filler
-Blizzaga: filler
-Triple Blizzaga: filler
-Thunder: filler
-Thundara: filler
-Thundaga: filler
-Thundaga Shot: filler
-Cure: filler
-Cura: filler
-Curaga: filler
-Esuna: filler
-Mine Shield: filler
-Mine Square: filler
-Seeker Mine: filler
-Zero Gravity: filler
-Zero Gravira: filler
-Zero Graviga: filler
-Magnet: filler
-Magnera: filler
-Magnega: filler
-Munny Magnet: filler
-Energy Magnet: filler
-D-Link Magnet: filler
-Aero: filler
-Aerora: filler
-Aeroga: filler
-Warp: filler
-Faith: filler
-Deep Freeze: filler
-Glacier: filler
-Ice Barrage: filler
-Firaga Burst: filler
-Raging Storm: filler
-Mega Flare: filler
-Quake: filler
-Tornado: filler
-Meteor: filler
-Transcendence: filler
-Mini: filler
-Blackout: filler
-Ignite: filler
-Confuse: filler
-Bind: filler
-Poison: filler
-Slow: filler
-Stop: filler
-Stopra: filler
-Stopga: filler
-Sleep: filler
-Mega-Potion: filler
-Mega-Ether: filler
-Elixir: filler
-Megalixir: filler
-Vanish: filler
-Union Rush: filler
-Voltage Stack: useful
-Trinity Limit: useful
-Illusion-F: filler
-Illusion-L: filler
-Illusion-V: filler
-Illusion-R: filler
-Illusion-B: filler
-High Jump: progression
-Thunder Roll: useful
-Firewheel: useful
-Air Slide: progression
-Ice Slide: progression
-Reversal: useful
-Glide: progression
-Superglide: progression
-Fire Glide: progression
-Homing Slide: progression
-Teleport: useful
-Sonic Impact: progression
-Doubleflight: progression
-Renewal Block: useful
-Focus Block: useful
-Stun Block: useful
-Poison Block: useful
-Renewal Barrier: useful
-Focus Barrier: useful
-Confuse Barrier: useful
-Stop Barrier: useful
-Counter Rush: useful
-Counter Hammer: useful
-Reversal Slash: useful
-Counter Blast: useful
-Payback Raid: useful
-Payback Surge: useful
-Payback Fang: useful
-Aerial Recovery: useful
-Meteor Shower: useful
-Flame Salvo: useful
-Dark Volley: useful
-Ragnarok: useful
-Thunderstorm: useful
-Bio Barrage: useful
-Prism Rain: useful
-Pulse Bomb: useful
-Photon Charge: useful
-Absolute Zero: useful
-Lightning Ray: useful
-Ultima Cannon: useful
-Lightbloom: useful
-Multivortex: useful
-Critical Impact: useful
-Spellweaver: useful
-Fever Pitch: useful
-Firestorm: useful
-Diamond Dust: useful
-Thunderbolt: useful
-Cyclone: useful
-Bladecharge: useful
-Sky Climber: useful
-Rockbreaker: useful
-Ghost Drive: useful
-Rhythm Mixer: useful
-Dark Impulse: useful
-Wingblade: useful
-Frozen Fortune: useful
-Treasure Magnet: useful
-HP Prize Plus: useful
-Link Prize Plus: useful
-Lucky Strike: useful
-HP Boost: useful
-Fire Boost: useful
-Blizzard Boost: useful
-Thunder Boost: useful
-Cure Boost: useful
-Item Boost: useful
-Attack Haste: useful
-Magic Haste: useful
-Combo F Boost: useful
-Finish Boost: useful
-Combo Plus: useful
-Air Combo Plus: useful
-Fire Screen: useful
-Blizzard Screen: useful
-Thunder Screen: useful
-Dark Screen: useful
-Reload Boost: useful
-Defender: useful
-EXP Chance: useful
-EXP Walker: useful
-Damage Syphon: useful
-Second Chance: useful
-Once More: useful
-Leaf Bracer: useful
-(V) Treasure Trove: useful
-(V) Stroke of Midnight: useful
-(V) Fairy Stars: useful
-(V) Victory Line: useful
-(V) Mark of a Hero: useful
-(V) Hyperdrive: useful
-(V) Pixie Petal: useful
-(V) Ultima Weapon: useful
-(V) Sweetstack: useful
-(V) Frolic Flame: useful
-(V) Lost Memory: useful
-(V) Void Gear: useful
-(V) No Name: useful
-(V) Royal Radiance: useful
-(T) Treasure Trove: useful
-(T) Stroke of Midnight: useful
-(T) Fairy Stars: useful
-(T) Victory Line: useful
-(T) Mark of a Hero: useful
-(T) Hyperdrive: useful
-(T) Pixie Petal: useful
-(T) Ultima Weapon: useful
-(T) Sweetstack: useful
+(A) Brightcrest: useful
+(A) Destiny's Embrace: useful
+(A) Fairy Stars: useful
+(A) Hyperdrive: useful
+(A) Mark of a Hero: useful
+(A) Master's Defender: useful
+(A) No Name: useful
+(A) Pixie Petal: useful
+(A) Royal Radiance: useful
+(A) Stormfall: useful
+(A) Stroke of Midnight: useful
+(A) Sweetstack: useful
+(A) Treasure Trove: useful
+(A) Ultima Weapon: useful
+(A) Victory Line: useful
+(A) Void Gear: useful
+(T) Chaos Ripper: useful
 (T) Darkgnaw: useful
 (T) Ends of the Earth: useful
-(T) Chaos Ripper: useful
-(T) Void Gear: useful
+(T) Fairy Stars: useful
+(T) Hyperdrive: useful
+(T) Mark of a Hero: useful
 (T) No Name: useful
+(T) Pixie Petal: useful
 (T) Royal Radiance: useful
-(A) Treasure Trove: useful
-(A) Stroke of Midnight: useful
-(A) Fairy Stars: useful
-(A) Victory Line: useful
-(A) Mark of a Hero: useful
-(A) Hyperdrive: useful
-(A) Pixie Petal: useful
-(A) Ultima Weapon: useful
-(A) Sweetstack: useful
-(A) Destiny's Embrace: useful
-(A) Stormfall: useful
-(A) Brightcrest: useful
-(A) Void Gear: useful
-(A) No Name: useful
-(A) Royal Radiance: useful
-(A) Master's Defender: useful
-Wayfinder Ventus: progression
+(T) Stroke of Midnight: useful
+(T) Sweetstack: useful
+(T) Treasure Trove: useful
+(T) Ultima Weapon: useful
+(T) Victory Line: useful
+(T) Void Gear: useful
+(V) Fairy Stars: useful
+(V) Frolic Flame: useful
+(V) Hyperdrive: useful
+(V) Lost Memory: useful
+(V) Mark of a Hero: useful
+(V) No Name: useful
+(V) Pixie Petal: useful
+(V) Royal Radiance: useful
+(V) Stroke of Midnight: useful
+(V) Sweetstack: useful
+(V) Treasure Trove: useful
+(V) Ultima Weapon: useful
+(V) Victory Line: useful
+(V) Void Gear: useful
+Absolute Zero: useful
+Aerial Recovery: useful
+Aerial Slam: filler
+Aero: filler
+Aeroga: filler
+Aerora: filler
+Air Combo Plus: useful
+Air Slide: progression
+Aqua D-Link: useful
+Ars Arcanum: filler
+Ars Solum: filler
+Attack Haste: useful
+Barrier Surge: filler
+Bind: filler
+Bio Barrage: useful
+Blackout: filler
+Bladecharge: useful
+Blinding Strike: filler
+Blitz: filler
+Blizzaga: filler
+Blizzara: filler
+Blizzard Boost: useful
+Blizzard Edge: filler
+Blizzard Screen: useful
+Blizzard: filler
+Break Time: filler
+Brutal Blast: filler
+Castle of Dreams: progression
+Chaos Blade: filler
+Cinderella D-Link: useful
+Collision Magnet: filler
+Combo F Boost: useful
+Combo Plus: useful
+Confuse Barrier: useful
+Confuse: filler
+Confusion Strike: filler
+Counter Blast: useful
+Counter Hammer: useful
+Counter Rush: useful
+Crawling Fire: filler
+Critical Impact: useful
+Cura: filler
+Curaga: filler
+Cure Boost: useful
+Cure: filler
+Cyclone: useful
+D-Link Magnet: filler
+Damage Syphon: useful
+Dark Firaga: filler
+Dark Haze: filler
+Dark Impulse: useful
+Dark Screen: useful
+Dark Volley: useful
+Deck Capacity Increase: useful
+Deep Freeze: filler
+Deep Space: progression
+Defender: useful
+Diamond Dust: useful
+Disney Town: progression
+Donald D-Link: useful
+Doubleflight: progression
+Dwarf Woodlands: progression
+EXP Chance: useful
+EXP Walker: useful
+Elixir: filler
+Enchanted Dominion: progression
+Energy Magnet: filler
+Esuna: filler
+Experiment 626 D-Link: useful
+Faith: filler
+Fever Pitch: useful
+Finish Boost: useful
+Fira: filler
+Firaga Burst: filler
+Firaga: filler
+Fire Boost: useful
+Fire Dash: filler
+Fire Glide: progression
+Fire Screen: useful
+Fire Strike: filler
+Fire Surge: filler
+Fire: filler
+Firestorm: useful
+Firewheel: useful
+Fission Firaga: filler
+Flame Salvo: useful
+Focus Barrier: useful
+Focus Block: useful
+Freeze Raid: filler
+Frozen Fortune: useful
+Geo Impact: filler
+Ghost Drive: useful
+Glacier: filler
+Glide: progression
+Goofy D-Link: useful
+HP Boost: useful
+HP Increase: useful
+HP Prize Plus: useful
+High Jump: progression
+Homing Slide: progression
+Hunny Pot Board: useful
+Ice Barrage: filler
+Ice Slide: progression
+Ignite: filler
+Illusion-B: filler
+Illusion-F: filler
+Illusion-L: filler
+Illusion-R: filler
+Illusion-V: filler
+Item Boost: useful
+Keyblade Board: useful
+Leaf Bracer: useful
+Lightbloom: useful
+Lightning Ray: useful
+Limit Storm: filler
+Link Prize Plus: useful
+Lucky Strike: useful
+Magic Haste: useful
+Magic Hour: filler
+Magnega: filler
+Magnera: filler
+Magnet Spiral: filler
+Magnet: filler
+Maleficent D-Link: useful
+Mega Flare: filler
+Mega-Ether: filler
+Mega-Potion: filler
+Megalixir: filler
+Meteor Crash: filler
+Meteor Shower: useful
+Meteor: filler
+Mickey D-Link: useful
+Mine Shield: filler
+Mine Square: filler
+Mini: filler
+Mirage Arena: progression
+Multivortex: useful
+Munny Magnet: filler
+Never Land: progression
+Olympus Coliseum: progression
+Once More: useful
+Payback Fang: useful
+Payback Raid: useful
+Payback Surge: useful
+Pete D-Link: useful
+Peter Pan D-Link: useful
+Photon Charge: useful
+Poison Block: useful
+Poison Edge: filler
+Poison: filler
+Prism Rain: useful
+Pulse Bomb: useful
+Quake: filler
+Quick Blitz: filler
+Radiant Garden: progression
+Raging Storm: filler
+Ragnarok: useful
+Realm of Darkness: progression
+Reload Boost: useful
+Renewal Barrier: useful
+Renewal Block: useful
+Reversal Slash: useful
+Reversal: useful
+Rhythm Mixer: useful
+Rockbreaker: useful
+Royal Board: useful
+Sacrifice: filler
+Salvation: filler
+Second Chance: useful
+Secret Board: useful
+Seeker Mine: filler
+Skull Board: useful
+Sky Climber: useful
+Sleep: filler
+Sliding Dash: filler
+Slot Edge: filler
+Slow: filler
+Snow White D-Link: useful
+Sonic Blade: filler
+Sonic Impact: progression
+Spaceship Board: useful
+Spark Raid: filler
+Spellweaver: useful
+Stop Barrier: useful
+Stop: filler
+Stopga: filler
+Stopra: filler
+Strike Raid: filler
+Stun Block: useful
+Stun Edge: filler
+Superglide: progression
+Teleport: useful
+Terra D-Link: useful
+The Mysterious Tower: progression
+Thundaga Shot: filler
+Thundaga: filler
+Thundara: filler
+Thunder Boost: useful
+Thunder Roll: useful
+Thunder Screen: useful
+Thunder Surge: filler
+Thunder: filler
+Thunderbolt: useful
+Thunderstorm: useful
+Time Splicer: filler
+Toon Board: useful
+Tornado Strike: filler
+Tornado: filler
+Transcendence: filler
+Treasure Magnet: useful
+Treasure Raid: filler
+Trinity Limit: useful
+Triple Blizzaga: filler
+Triple Firaga: filler
+Ultima Cannon: useful
+Union Rush: filler
+Vanish: filler
+Ventus D-Link: useful
+Victory: unknown
+Voltage Stack: useful
+Warp: filler
 Wayfinder Aqua: progression
 Wayfinder Terra: progression
-Dwarf Woodlands: progression
-Castle of Dreams: progression
-Enchanted Dominion: progression
-The Mysterious Tower: progression
-Radiant Garden: progression
-Mirage Arena: progression
-Olympus Coliseum: progression
-Deep Space: progression
-Realm of Darkness: progression
-Never Land: progression
-Disney Town: progression
-HP Increase: useful
-Deck Capacity Increase: useful
-Mickey D-Link: useful
-Donald D-Link: useful
-Goofy D-Link: useful
-Experiment 626 D-Link: useful
-Peter Pan D-Link: useful
-Maleficent D-Link: useful
-Cinderella D-Link: useful
-Snow White D-Link: useful
+Wayfinder Ventus: progression
+Wind Raid: filler
+Windcutter: filler
+Wingblade: useful
+Wishing Edge: filler
 Zack D-Link: useful
-Pete D-Link: useful
-Aqua D-Link: useful
-Ventus D-Link: useful
-Terra D-Link: useful
-Keyblade Board: useful
-Royal Board: useful
-Spaceship Board: useful
-Toon Board: useful
-Hunny Pot Board: useful
-Secret Board: useful
-Skull Board: useful
+Zantetsuken: filler
+Zero Graviga: filler
+Zero Gravira: filler
+Zero Gravity: filler
