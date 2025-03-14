@@ -3,7 +3,7 @@ buried bento: progression
 claw: progression
 climber cargo: progression
 drill: progression
-driller dispatch: unknown
+driller dispatch: progression
 fly: progression
 friend freight: progression
 grandpa goods: progression
@@ -11,4 +11,4 @@ history haul: progression
 key: progression
 mayor missive: progression
 paper pack: progression
-wife word: unknown
+wife word: progression
