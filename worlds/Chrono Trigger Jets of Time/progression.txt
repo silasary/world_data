@@ -1,219 +1,219 @@
-2 Fangs: unknown
-2 Feathers: unknown
-2 Horns: unknown
-2 Petals: unknown
-APItem: unknown
+2 Fangs: bad_name
+2 Feathers: bad_name
+2 Horns: bad_name
+2 Petals: bad_name
+APItem: bad_name
 Aeon Blade: filler
 Aeon Helm: filler
 Aeon Suit: filler
-Air Gun: unknown
+Air Gun: bad_name
 AlloyBlade: filler
-Amulet: useful
+Amulet: filler
 Auto Gun: filler
-Ayla: unknown
-Bandana: unknown
+Ayla: bad_name
+Bandana: filler
 Barrier: filler
 Bent Hilt: progression
 Bent Sword: progression
-Beret: unknown
-Berserker: unknown
-Big Hand: useful
-Bike Key: unknown
+Beret: filler
+Berserker: filler
+Big Hand: filler
+Bike Key: bad_name
 Black Mail: filler
-Black Rock: unknown
-Black Vest: useful
+Black Rock: bad_name
+Black Vest: filler
 Blue Mail: filler
-Blue Rock: unknown
+Blue Rock: bad_name
 Blue Vest: filler
-Bolt Sword: useful
+Bolt Sword: filler
 BraveSword: filler
-Bronze Bow: unknown
-BronzeEdge: unknown
-BronzeFist: unknown
-BronzeHelm: unknown
-BronzeMail: unknown
+Bronze Bow: bad_name
+BronzeEdge: bad_name
+BronzeFist: bad_name
+BronzeHelm: bad_name
+BronzeMail: filler
 C. Trigger: progression
 CeraTopper: filler
-Charm Top: unknown
+Charm Top: bad_name
 Clone: progression
 CometArrow: filler
-Crisis Arm: useful
-Crono: unknown
+Crisis Arm: filler
+Crono: bad_name
 Dark Helm: filler
 Dark Mail: filler
-Dark Saber: unknown
-DarkScythe: unknown
+Dark Saber: filler
+DarkScythe: bad_name
 Dart Gun: filler
-Dash Ring: unknown
-Defender: unknown
+Dash Ring: filler
+Defender: filler
 Demon Edge: filler
-Demon Hit: unknown
-Doom Helm: unknown
+Demon Hit: filler
+Doom Helm: bad_name
 DoomFinger: filler
-DoomSickle: unknown
-Dream Bow: useful
+DoomSickle: filler
+Dream Bow: filler
 Dream Gun: filler
 Dreamstone: progression
 Elixir: filler
 Ether: filler
-Fang: unknown
-Feather: unknown
-Fist: unknown
+Fang: bad_name
+Feather: bad_name
+Fist: bad_name
 Flash Mail: filler
-FlashBlade: useful
+FlashBlade: filler
 Flea Vest: filler
 Flint Edge: filler
-Fragment: unknown
+Fragment: mcguffin
 FrenzyBand: filler
-Frog: unknown
+Frog: bad_name
 Full Ether: filler
 Full Tonic: filler
 Gate Key: progression
 Giga Arm: filler
-Gloom Cape: unknown
-Gloom Helm: useful
+Gloom Cape: filler
+Gloom Helm: filler
 Glow Helm: filler
 Gold Erng: filler
 Gold Helm: filler
-Gold Rock: unknown
-Gold Stud: unknown
-Gold Suit: unknown
+Gold Rock: bad_name
+Gold Stud: filler
+Gold Suit: filler
 Graedus: filler
 Grand Leon: progression
 GreenDream: filler
-Hammer Arm: unknown
-Haste Helm: useful
+Hammer Arm: filler
+Haste Helm: filler
 Heal: filler
 Hero Medal: progression
-Hide Cap: unknown
-Hide Tunic: unknown
+Hide Cap: bad_name
+Hide Tunic: bad_name
 Hit Ring: filler
-Horn: unknown
-Hurricane: unknown
+Horn: bad_name
+Hurricane: filler
 HyperEther: filler
-Iron Blade: unknown
+Iron Blade: filler
 Iron Bow: filler
-Iron Fist: unknown
-Iron Helm: unknown
-Iron Suit: unknown
-Iron Sword: unknown
+Iron Fist: bad_name
+Iron Helm: filler
+Iron Suit: filler
+Iron Sword: filler
 Jerky: progression
-JetsOfTime: unknown
+JetsOfTime: progression
 Kaiser Arm: filler
-Kali Blade: unknown
+Kali Blade: filler
 Karate Gi: filler
 Lapis: filler
-Lode Bow: unknown
+Lode Bow: filler
 Lode Helm: filler
-Lode Sword: unknown
-Lode Vest: useful
-Lucca: unknown
-Lumin Robe: unknown
+Lode Sword: filler
+Lode Vest: filler
+Lucca: bad_name
+Lumin Robe: filler
 Magic Ring: filler
 Magic Seal: filler
 Magic Tab: filler
 MagicScarf: filler
 Magma Hand: filler
-Magus: unknown
-MaidenSuit: unknown
-Marle: unknown
-Masamune: unknown
+Magus: bad_name
+MaidenSuit: filler
+Marle: bad_name
+Masamune: bad_name
 MegaElixir: filler
 Megablast: filler
-MegatonArm: unknown
+MegatonArm: filler
 Memory Cap: filler
 MermaidCap: filler
-Meso Mail: unknown
+Meso Mail: filler
 Mid Ether: filler
 Mid Tonic: filler
-MirageHand: unknown
+MirageHand: filler
 Mist Robe: filler
 Moon Armor: filler
 Moon Stone: progression
-Mop: unknown
+Mop: filler
 MuscleRing: filler
-Nova Armor: useful
-OzziePants: unknown
+Nova Armor: filler
+OzziePants: bad_name
 Pearl Edge: filler
 Pendant: progression
-Petal: unknown
-PicoMagnum: unknown
+Petal: bad_name
+PicoMagnum: filler
 Plasma Gun: filler
 Power Meal: filler
 Power Ring: filler
-Power Seal: unknown
+Power Seal: filler
 Power Tab: filler
 PowerGlove: filler
 PowerScarf: filler
-Prism Helm: unknown
-PrismDress: unknown
+Prism Helm: filler
+PrismDress: filler
 PrismShard: progression
-PrismSpecs: unknown
+PrismSpecs: filler
 R'bow Helm: filler
-Race Log: unknown
-Rage Band: unknown
+Race Log: bad_name
+Rage Band: filler
 Rainbow: filler
-RavenArmor: unknown
-Red Katana: useful
+RavenArmor: bad_name
+Red Katana: filler
 Red Mail: filler
 Red Vest: filler
 Revive: filler
-Ribbon: unknown
+Ribbon: filler
 Robin Bow: filler
 Robo's Rbn: progression
-Robo: unknown
-Rock Helm: useful
+Robo: bad_name
+Rock Helm: filler
 Ruby Armor: filler
-Ruby Gun: unknown
+Ruby Gun: filler
 Ruby Knife: progression
 Ruby Vest: filler
 Rune Blade: filler
 Safe Helm: filler
 Sage Bow: filler
-Seed: unknown
+Seed: bad_name
 SeraphSong: filler
 Shelter: filler
 Shield: filler
 Shiva Edge: filler
 Shock Wave: filler
 Sight Cap: filler
-SightScope: useful
+SightScope: filler
 SilverErng: filler
-SilverRock: unknown
+SilverRock: bad_name
 SilverStud: filler
-Siren: unknown
-Slasher 2: unknown
+Siren: filler
+Slasher 2: filler
 Slasher: filler
 SonicArrow: filler
 Speed Belt: filler
 Speed Tab: filler
 Star Sword: filler
-StarScythe: unknown
-SteelSaber: unknown
+StarScythe: filler
+SteelSaber: filler
 Stone Arm: filler
 Sun Shades: filler
-Sun Stone: unknown
-Swallow: unknown
+Sun Stone: bad_name
+Swallow: filler
 Taban Helm: filler
 Taban Suit: filler
 Taban Vest: filler
 Terra Arm: filler
 Third Eye: filler
 Time Hat: filler
-Tin Arm: unknown
+Tin Arm: bad_name
 Titan Vest: filler
 Toma's Pop: progression
 Tonic: filler
-Tools: unknown
-Valkerye: useful
+Tools: bad_name
+Valkerye: filler
 VedicBlade: filler
 Vigil Hat: filler
 Wall Ring: filler
 Wallet: filler
 White Mail: filler
-White Rock: unknown
-White Vest: useful
-WonderShot: useful
-Wood Sword: unknown
-Yakra Key: unknown
+White Rock: bad_name
+White Vest: filler
+WonderShot: filler
+Wood Sword: bad_name
+Yakra Key: bad_name
 ZodiacCape: filler
