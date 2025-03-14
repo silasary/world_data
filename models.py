@@ -51,11 +51,11 @@ class Datapackage:
         return True
 
 
-def load_datapackage(game_name, dp: Datapackage = None) -> Datapackage:
+def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = True) -> Datapackage:
     if dp is None:
         dp = Datapackage()
     game_name = game_name.replace("/", "_").replace(":", "_")
-    if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")):
+    if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")) and follow_redirect:
         game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
     info_yaml = world_folder.joinpath(game_name, "info.yaml")
     if info_yaml.exists():
