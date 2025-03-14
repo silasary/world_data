@@ -3,19 +3,19 @@ Anti-tank Rocket: unknown
 Battery: progression
 Bejeweled Box: progression
 Bishop Plug: unknown
-Blue Herb: unknown
+Blue Herb: useful
 Bolt Cutters: unknown
-Boxed Electronic Part 1: unknown
-Boxed Electronic Part 2: unknown
+Boxed Electronic Part 1: progression
+Boxed Electronic Part 2: progression
 Car Key: progression
 Chemical Flamethrower: unknown
 Club Key: progression
-Combat Knife: unknown
+Combat Knife: useful
 Courtyard Key: unknown
 Damage Trap: unknown
 Diamond Key: progression
 Dispersal Cartridge - Empty: unknown
-Electronic Gadget: unknown
+Electronic Gadget: progression
 Film - 3F Locker: unknown
 Film - Commemorative: unknown
 Film - Hiding Place: filler
@@ -23,24 +23,24 @@ Film - Lion Statue: unknown
 Film - Rising Rookie: filler
 First Aid Spray: useful
 Flame Rounds: unknown
-Flamethrower Fuel: unknown
-Flash Grenade: unknown
+Flamethrower Fuel: useful
+Flash Grenade: useful
 Fuse - Break Room Hallway: progression
 Fuse - Main Hall: unknown
 GM 79: unknown
-Green Herb: unknown
+Green Herb: useful
 Gun Stock - Matilda: useful
 Gunpowder - Large: useful
-Gunpowder: unknown
-Hand Grenade: unknown
-Handgun Ammo: unknown
+Gunpowder: useful
+Hand Grenade: useful
+Handgun Ammo: useful
 Heart Key: unknown
 High Capacity Mag - MQ 11: unknown
 High Voltage Condenser - Spark Shot: useful
 High-Capacity Mag - JMB Hp3: useful
 High-Capacity Magazine - Matilda: unknown
-High-Grade Gunpowder - White: unknown
-High-Grade Gunpowder - Yellow: unknown
+High-Grade Gunpowder - White: useful
+High-Grade Gunpowder - Yellow: useful
 High-Powered Rounds: useful
 Hip Pouch: useful
 ID Wristband - General Staff: progression
@@ -49,31 +49,31 @@ ID Wristband - Visitor: unknown
 Ink Ribbon: unknown
 JMB Hp3: useful
 Joint Plug: progression
-King Plug: unknown
+King Plug: progression
 Knight Plug: unknown
 Lab Digital Video Cassette: unknown
 Large Gear: progression
 Large-Caliber Handgun Ammo: unknown
 Lightning Hawk: unknown
-Lion Medallion: unknown
-Long Barrel - Lightning Hawk: unknown
+Lion Medallion: progression
+Long Barrel - Lightning Hawk: useful
 Long Barrel - W-870: useful
 M19: unknown
-MAG Ammo: unknown
+MAG Ammo: useful
 MQ 11: useful
 Maiden Medallion: progression
 Matilda: unknown
-Mechanic Jack Handle: unknown
+Mechanic Jack Handle: progression
 Minigun: unknown
 Muzzle Brake - Matilda: unknown
 Needle Cartridges: unknown
-Parking Garage Key Card: unknown
+Parking Garage Key Card: progression
 Pawn Plug: progression
 Poison Trap: unknown
-Queen Plug: unknown
+Queen Plug: progression
 Quickdraw Army: unknown
 Red Book: unknown
-Red Dot Sight - Lightning Hawk: unknown
+Red Dot Sight - Lightning Hawk: useful
 Red Herb: useful
 Regulator - Flamethrower: unknown
 Reinforced Frame - SLS 60: useful
@@ -82,7 +82,7 @@ SLS 60: unknown
 STARS Badge: unknown
 Scepter: unknown
 Sewers Key: progression
-Shotgun Shells: unknown
+Shotgun Shells: useful
 Shotgun Stock - W-870: useful
 Shoulder Stock - GM 79: unknown
 Signal Modulator: unknown
@@ -91,9 +91,9 @@ Small Gear: progression
 Spade Key: progression
 Spare Key: progression
 Spark Shot: useful
-Speed Loader - SLS 60: unknown
+Speed Loader - SLS 60: useful
 Square Crank: progression
-Statue Left Arm: unknown
+Statue Left Arm: progression
 Submachine Gun Ammo: useful
 Suppressor - MQ 11: useful
 T-Bar Handle: progression
@@ -105,5 +105,5 @@ Upgrade Chip - Admin: unknown
 Valve Handle: progression
 Victory: unknown
 W-870: useful
-Weapons Locker Key Card: unknown
+Weapons Locker Key Card: progression
 Wooden Boards: useful
