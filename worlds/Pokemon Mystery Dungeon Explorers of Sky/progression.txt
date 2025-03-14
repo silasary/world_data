@@ -20,7 +20,7 @@ Calcium: filler
 Celebi: unknown
 Charge Synth: unknown
 Charity Robe: filler
-Chasm Cave: unknown
+Chasm Cave: progression
 Chatot Repellent: useful
 Chrono Veil: filler
 Concealed Ruins: progression
@@ -128,14 +128,14 @@ Power Globe: filler
 Pretty Box: filler
 Protein: filler
 Psyche Globe: filler
-Purify Veil: unknown
+Purify Veil: filler
 Quicksand Cave: progression
 Rainbow Veil: filler
 Rare Fossil: filler
 Recruit Evolution: useful
 Recruitment Sensor: filler
 Recruitment: progression
-Regice: unknown
+Regice: useful
 Registeel: useful
 Relic Fragment Shard: progression
 Revive Robe: filler
@@ -179,7 +179,7 @@ Sunflora SE: progression
 Surrounded Sea: progression
 Team Charm SE: progression
 Team Name Trap: trap
-Temporal Tower: unknown
+Temporal Tower: progression
 Terra Cymbal: progression
 Terra Globe: filler
 Terra Ring: filler
