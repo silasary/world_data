@@ -1,56 +1,56 @@
 10 Bolts: unknown
-Air Jumper: unknown
-Ark - Depths: unknown
-Ark - Entrance: unknown
-Ark - Machinery: unknown
-Burst Energy Upgrade: unknown
-Burst Spark: unknown
-Catch Block: unknown
-Catch Interrupt: unknown
-Central Station: unknown
-Chain Booster: unknown
-Chain Dasher: unknown
-City Center: unknown
-Clone Array: unknown
-Current Arc: unknown
-Cycle Kick: unknown
-Distant Detonation: unknown
-Dodge Slider: unknown
-Emergency Accumulator: unknown
-Emergency Heal: unknown
-Energy Absorber: unknown
-Energy Multiplier: unknown
-Erupting Beam: unknown
-Flying Strike: unknown
-Frame Amplifier: unknown
-Function Overload: unknown
-Gravity Dash: unknown
-Gravity Freeze: unknown
-Grip Enhancer: unknown
-Hardware Barrier: unknown
-Health Upgrade: unknown
-Heavenly Piledrive: unknown
-Highway: unknown
-Hologram Trap: unknown
-Junkyard: unknown
-Light Alloy: unknown
-Magnet Chassis: unknown
-Mountains: unknown
-Nullifying Layer: unknown
-Ore Mines: unknown
-Overflow Converter: unknown
-Piercing Drill: unknown
-Power Extender: unknown
-Power Plant: unknown
-Protection Timer: unknown
-Repair Enhancer: unknown
-Rescue Token: unknown
-Rising Upper: unknown
-Screen Interrupt: unknown
-Speed Basher: unknown
-Steelworks: unknown
-Support Platform: unknown
-Surface Render: unknown
-Surge Protector: unknown
-Underflow Guard: unknown
-Warehouse Area: unknown
+Air Jumper: useful
+Ark - Depths: progression
+Ark - Entrance: progression
+Ark - Machinery: progression
+Burst Energy Upgrade: filler
+Burst Spark: filler
+Catch Block: useful
+Catch Interrupt: filler
+Central Station: progression
+Chain Booster: useful
+Chain Dasher: useful
+City Center: progression
+Clone Array: filler
+Current Arc: filler
+Cycle Kick: filler
+Distant Detonation: filler
+Dodge Slider: useful
+Emergency Accumulator: useful
+Emergency Heal: filler
+Energy Absorber: useful
+Energy Multiplier: useful
+Erupting Beam: filler
+Flying Strike: filler
+Frame Amplifier: useful
+Function Overload: filler
+Gravity Dash: filler
+Gravity Freeze: filler
+Grip Enhancer: useful
+Hardware Barrier: filler
+Health Upgrade: filler
+Heavenly Piledrive: filler
+Highway: progression
+Hologram Trap: filler
+Junkyard: progression
+Light Alloy: useful
+Magnet Chassis: useful
+Mountains: progression
+Nullifying Layer: useful
+Ore Mines: progression
+Overflow Converter: useful
+Piercing Drill: filler
+Power Extender: useful
+Power Plant: progression
+Protection Timer: useful
+Repair Enhancer: useful
+Rescue Token: progression
+Rising Upper: filler
+Screen Interrupt: filler
+Speed Basher: useful
+Steelworks: progression
+Support Platform: filler
+Surface Render: filler
+Surge Protector: useful
+Underflow Guard: useful
+Warehouse Area: progression

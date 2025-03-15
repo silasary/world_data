@@ -1,14 +1,14 @@
 Artifact Slot: progression
 Books: progression
-Cat: unknown
-Dizzy: unknown
-Drake: unknown
-FTL Engine Upgrade: unknown
-Isaac: unknown
+Cat: useful
+Dizzy: progression
+Drake: progression
+FTL Engine Upgrade: progression
+Isaac: progression
 Max: progression
-Peri: unknown
+Peri: progression
 Reminder to Hydrate: unknown
-Repair Yard Removal Credit: unknown
-Repair Yard Repair Credit: unknown
-Repair Yard Upgrade Credit: unknown
+Repair Yard Removal Credit: useful
+Repair Yard Repair Credit: useful
+Repair Yard Upgrade Credit: progression
 Riggs: progression

@@ -1,6 +1,6 @@
 300 SL Roadster: useful
 Acorn Cup Pass: progression
-Ancient Tires: unknown
+Ancient Tires: useful
 Azure Roller: useful
 B Dasher: useful
 Baby Daisy: useful
@@ -11,42 +11,42 @@ Baby Rosalina: useful
 Badwagon: useful
 Banana Cup Pass: progression
 Bell Cup Pass: progression
-Biddybuggy: unknown
-Birdo: unknown
+Biddybuggy: useful
+Birdo: useful
 Blue Falcon: useful
 Blue Standard: useful
-Bone Rattler: unknown
+Bone Rattler: useful
 Boomerang Cup Pass: progression
 Bowser Jr.: useful
 Bowser Kite: useful
-Bowser: unknown
+Bowser: useful
 Button: useful
 Cat Cruiser: useful
 Cat Peach: useful
 Cherry Cup Pass: progression
 Circuit Special: useful
 City Tripper: useful
-Cloud Glider: unknown
+Cloud Glider: useful
 Coins: filler
 Comet: useful
 Crimson Slim: useful
 Crossing Cup Pass: progression
 Cushion: useful
-Cyber Slick: unknown
+Cyber Slick: useful
 Daisy: filler
 Diddy Kong: useful
 Donkey Kong: useful
 Dry Bones: useful
 Dry Bowser: useful
-Egg Cup Pass: unknown
+Egg Cup Pass: mcguffin
 Feather Cup Pass: progression
-Flame Rider: unknown
+Flame Rider: useful
 Flower Cup Pass: progression
 Flower Glider: useful
 Fruit Cup Pass: progression
 Funky Kong: useful
 GLA Tires: useful
-GLA: unknown
+GLA: useful
 Gold Glider: useful
 Gold Standard: useful
 Gold Tires: useful
@@ -54,13 +54,13 @@ Gold Trophy: progression
 Golden Dash Cup Pass: progression
 Hot Monster: useful
 Hylian Kite: filler
-Iggy: unknown
+Iggy: useful
 Inkling Boy: useful
 Inkling Girl: useful
 Inkstriker: useful
 Isabelle: useful
 Jet Bike: useful
-Kamek: unknown
+Kamek: useful
 King Boo: useful
 Koopa Clown: filler
 Koopa Troopa: useful
@@ -82,7 +82,7 @@ Master Cycle Zero: useful
 Master Cycle: useful
 Metal Mario: useful
 Metal: useful
-Mii: unknown
+Mii: useful
 Monster: useful
 Moon Cup Pass: progression
 Morton: useful
@@ -101,18 +101,18 @@ Peachette: useful
 Petey Piranha: useful
 Pink Gold Peach: useful
 Pipe Frame: filler
-Plane Glider: unknown
-Prancer: unknown
+Plane Glider: useful
+Prancer: useful
 Propeller Cup Pass: progression
 Rainbow Road Master: progression
 Retro Off-Road: useful
 Rock Cup Pass: progression
-Roller: unknown
+Roller: useful
 Rosalina: useful
 Roy: useful
 Shell Cup Pass: progression
 Shy Guy: useful
-Slick: unknown
+Slick: useful
 Slim: useful
 Sneeker: useful
 Special Cup Pass: progression
@@ -122,8 +122,8 @@ Sponge: useful
 Sport Bike: useful
 Sports Coupe: filler
 Standard ATV: useful
-Standard Bike: unknown
-Standard Kart: unknown
+Standard Bike: useful
+Standard Kart: useful
 Standard Wheels: useful
 Star Cup Pass: progression
 Steel Driver: useful
@@ -131,17 +131,17 @@ Streetle: useful
 Super Glider: useful
 Tanooki Kart: useful
 Tanooki Mario: useful
-Teddy Buggy: unknown
+Teddy Buggy: useful
 The Duke: useful
 Toad: useful
 Toadette: useful
 Tri-Speeder: useful
 Triforce Cup Pass: progression
-Triforce Tires: unknown
+Triforce Tires: useful
 Turnip Cup Pass: progression
-Varmint: unknown
+Varmint: useful
 Villager (Female): useful
-Villager (Male): unknown
+Villager (Male): useful
 W 25 Silver Arrow: useful
 Waddle Wing: useful
 Waluigi: useful
@@ -151,5 +151,5 @@ Wendy: useful
 Wiggler: useful
 Wild Wiggler: useful
 Wood: useful
-Yoshi Bike: unknown
+Yoshi Bike: useful
 Yoshi: useful
