@@ -1,9 +1,9 @@
 Card Set Aero: filler
-Card Set Bambi: unknown
+Card Set Bambi: useful
 Card Set Blizzard: unknown
 Card Set Bond of Flame: unknown
 Card Set Cloud: useful
-Card Set Crabclaw: unknown
+Card Set Crabclaw: useful
 Card Set Cure: filler
 Card Set Diamond Dust: filler
 Card Set Divine Rose: unknown
@@ -93,14 +93,14 @@ Enemy Card Vexen: unknown
 Enemy Card White Mushroom: unknown
 Enemy Card Wight Knight: filler
 Enemy Card Wizard: useful
-Enemy Card Wyvern: unknown
+Enemy Card Wyvern: useful
 Enemy Card Xaldin: unknown
 Enemy Card Xemnas: useful
 Enemy Card Xigbar: filler
 Enemy Card Yellow Opera: filler
 Enemy Card Zexion: useful
 Friend Card Aladdin: progression
-Friend Card Ariel: unknown
+Friend Card Ariel: progression
 Friend Card Beast: unknown
 Friend Card Donald: progression
 Friend Card Goofy: progression
@@ -213,5 +213,5 @@ World Card Hollow Bastion: unknown
 World Card Monstro: useful
 World Card Neverland: useful
 World Card Olympus Coliseum: progression
-World Card Twilight Town: unknown
+World Card Twilight Town: progression
 World Card Wonderland: progression
