@@ -1,161 +1,161 @@
-2 Full Heals: unknown
-2 Hyper Potions: unknown
-2 Max Ethers: unknown
+2 Full Heals: filler
+2 Hyper Potions: useful
+2 Max Ethers: filler
 2 Max Potions: filler
-2 Max Revives: unknown
-2 Timer Balls: unknown
-2 Ultra Balls: unknown
-3 Elixirs: unknown
+2 Max Revives: useful
+2 Timer Balls: useful
+2 Ultra Balls: useful
+3 Elixirs: filler
 3 Ethers: filler
-3 Hyper Potions: unknown
+3 Hyper Potions: useful
 3 Max Potions: filler
 3 PP Ups: filler
 3 Rare Candies: filler
-3 Revives: unknown
-3 Super Potions: unknown
-3 Ultra Balls: unknown
-4 Ultra Balls: unknown
-5 Great Balls: unknown
-5 Poke Balls: unknown
-5 Ultra Balls: unknown
+3 Revives: useful
+3 Super Potions: useful
+3 Ultra Balls: useful
+4 Ultra Balls: useful
+5 Great Balls: useful
+5 Poke Balls: useful
+5 Ultra Balls: useful
 Absol: progression
-Aipom: unknown
-Amulet Coin: unknown
+Aipom: progression
+Amulet Coin: useful
 Antidote: filler
-Ariados: unknown
+Ariados: progression
 Awakening: filler
-Bayleef: unknown
+Bayleef: progression
 Blackglasses: filler
 Blue ID Badge: progression
 Burn Heal: filler
 Carbos: filler
-Cologne Case: unknown
-Croconaw: unknown
-D Disk: unknown
-Delibird: unknown
-Duel Square Pass: unknown
-Dunsparce: unknown
-Ein File C: unknown
-Ein File F: unknown
-Ein File H: unknown
-Ein File P: unknown
-Ein File S: unknown
+Cologne Case: useful
+Croconaw: progression
+D Disk: progression
+Delibird: progression
+Duel Square Pass: progression
+Dunsparce: progression
+Ein File C: filler
+Ein File F: filler
+Ein File H: filler
+Ein File P: filler
+Ein File S: filler
 Elixir: filler
-Entei: unknown
-Experience Share: unknown
-Flaafy: unknown
+Entei: progression
+Experience Share: useful
+Flaafy: progression
 Forretress: progression
 Full Heal: filler
-Full Restore: unknown
-Furret: unknown
-Gligar: unknown
-Granbull: unknown
+Full Restore: useful
+Furret: progression
+Gligar: progression
+Granbull: progression
 Great Ball: filler
 Green ID Badge: progression
-HP Up: unknown
+HP Up: useful
 Heracross: progression
 Hitmontop: progression
-Houndoom: unknown
+Houndoom: progression
 Hyper Potion: filler
 Ice Heal: filler
-Iron: unknown
+Iron: useful
 L Disk: progression
-Ledian: unknown
+Ledian: progression
 Ludicolo dancing salsa: filler
 Macho Brace: filler
-Makuhita: unknown
-Mantine: unknown
-Master Ball: unknown
+Makuhita: progression
+Mantine: progression
+Master Ball: useful
 Max Elixir: filler
-Max Potion: unknown
+Max Potion: useful
 Meditite: progression
 Metagross: progression
-Miltank: unknown
-Misdreavus: unknown
-Moomoo Milk: unknown
-Murkrow: unknown
-Noctowl: unknown
+Miltank: progression
+Misdreavus: progression
+Moomoo Milk: useful
+Murkrow: progression
+Noctowl: progression
 Paralyze Heal: filler
-Phenac Stadium Pass: unknown
-Piloswine: unknown
-Plusle: unknown
+Phenac Stadium Pass: progression
+Piloswine: progression
+Plusle: useful
 Poke Ball: filler
 Potion: filler
-Pregym Pass: unknown
+Pregym Pass: progression
 Progression Key: progression
 Protein: filler
-Pyrite Colosseum Pass: unknown
+Pyrite Colosseum Pass: progression
 Quagsire: progression
-Quick Claw: unknown
-Quilava: unknown
-Qwilfish: unknown
-Raikou: unknown
-Red ID Badge: unknown
-Remoraid: unknown
+Quick Claw: useful
+Quilava: progression
+Qwilfish: progression
+Raikou: progression
+Red ID Badge: progression
+Remoraid: progression
 Revive: filler
-Shuckle: unknown
-Silk Scarf: unknown
+Shuckle: progression
+Silk Scarf: useful
 Skarmory: progression
-Skiploom: unknown
+Skiploom: progression
 Slugma: progression
 Small Tablet: progression
-Smeargle: unknown
-Sneasel: unknown
+Smeargle: progression
+Sneasel: progression
 Stantler: progression
 Steel Teeth: progression
-Strategy Memo: unknown
+Strategy Memo: filler
 Sudowoodo: progression
 Suicune: progression
-Sunflora: unknown
+Sunflora: progression
 Super Potion: filler
-Swablu: unknown
-TM01 Focus Punch: unknown
-TM02 Dragon Claw: unknown
-TM05 Roar: unknown
-TM06 Toxic: unknown
-TM07 Hail: unknown
-TM10 Hidden Power: unknown
-TM11 Sunny Day: unknown
-TM12 Taunt: unknown
-TM13 Ice Beam: unknown
-TM14 Blizzard: unknown
-TM15 Hyper Beam: unknown
-TM16 Light Screen: unknown
-TM17 Protect: unknown
+Swablu: progression
+TM01 Focus Punch: useful
+TM02 Dragon Claw: useful
+TM05 Roar: useful
+TM06 Toxic: useful
+TM07 Hail: useful
+TM10 Hidden Power: useful
+TM11 Sunny Day: useful
+TM12 Taunt: useful
+TM13 Ice Beam: useful
+TM14 Blizzard: useful
+TM15 Hyper Beam: useful
+TM16 Light Screen: useful
+TM17 Protect: useful
 TM18 Rain Dance: filler
-TM19 Giga Drain: unknown
-TM20 Safeguard: unknown
-TM22 Solarbeam: unknown
-TM23 Iron Tail: unknown
-TM24 Thunderbolt: unknown
-TM25 Thunder: unknown
-TM26 Earthquake: unknown
+TM19 Giga Drain: useful
+TM20 Safeguard: useful
+TM22 Solarbeam: useful
+TM23 Iron Tail: useful
+TM24 Thunderbolt: useful
+TM25 Thunder: useful
+TM26 Earthquake: useful
 TM27 Return: useful
-TM29 Psychic: unknown
-TM30 Shadow Ball: unknown
-TM31 Brick Break: unknown
-TM32 Double Team: unknown
-TM33 Reflect: unknown
-TM35 Flamethrower: unknown
-TM36 Sludge Bomb: unknown
-TM37 Sandstorm: unknown
-TM38 Fire Blast: unknown
-TM41 Torment: unknown
-TM44 Rest: unknown
-TM45 Attract: unknown
-TM46 Thief: unknown
-TM47 Steel Wing: unknown
-TM48 Skill Swap: unknown
-TM49 Snatch: unknown
+TM29 Psychic: useful
+TM30 Shadow Ball: useful
+TM31 Brick Break: useful
+TM32 Double Team: useful
+TM33 Reflect: useful
+TM35 Flamethrower: useful
+TM36 Sludge Bomb: useful
+TM37 Sandstorm: useful
+TM38 Fire Blast: useful
+TM41 Torment: useful
+TM44 Rest: useful
+TM45 Attract: useful
+TM46 Thief: useful
+TM47 Steel Wing: useful
+TM48 Skill Swap: useful
+TM49 Snatch: useful
 Time Flute: useful
 Togetic: progression
-Tropius: unknown
-Tyranitar: unknown
-U Disk: unknown
-Ultra Ball: unknown
-Ursaring: unknown
-Vibrava: unknown
-White Herb: unknown
-Yanma: unknown
-Yellow ID Badge: unknown
-Zinc: unknown
+Tropius: progression
+Tyranitar: progression
+U Disk: progression
+Ultra Ball: useful
+Ursaring: progression
+Vibrava: progression
+White Herb: filler
+Yanma: progression
+Yellow ID Badge: progression
+Zinc: useful

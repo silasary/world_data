@@ -1,59 +1,59 @@
 Coin: filler
-Goomba's Shoe (SMB3): unknown
-Luigi (SMB2): unknown
-Mario (SMB2): unknown
-Peach (SMB2): unknown
-Progressive Powerup (SMB Lost Levels): unknown
-Progressive Powerup (SMB): unknown
-Progressive Powerup (SMB3): unknown
-SMB Bowser Completion: unknown
-SMB Bowser Star Completion: unknown
-SMB Lost Levels World 8 Bowser Completion: unknown
-SMB Lost Levels World D Bowser Completion: unknown
-SMB2 Wart Completion: unknown
-SMB3 Bowser Completion: unknown
-Toad (SMB2): unknown
+Goomba's Shoe (SMB3): progression
+Luigi (SMB2): useful
+Mario (SMB2): useful
+Peach (SMB2): useful
+Progressive Powerup (SMB Lost Levels): useful
+Progressive Powerup (SMB): useful
+Progressive Powerup (SMB3): useful
+SMB Bowser Completion: progression
+SMB Bowser Star Completion: progression
+SMB Lost Levels World 8 Bowser Completion: progression
+SMB Lost Levels World D Bowser Completion: progression
+SMB2 Wart Completion: progression
+SMB3 Bowser Completion: progression
+Toad (SMB2): useful
 World 1 Key (SMB Lost Levels): progression
-World 1 Key (SMB): unknown
-World 1 Key (SMB2): unknown
-World 1 Key (SMB3): unknown
-World 1 Star Key (SMB): unknown
-World 2 Key (SMB Lost Levels): unknown
-World 2 Key (SMB): unknown
-World 2 Key (SMB2): unknown
-World 2 Key (SMB3): unknown
-World 2 Star Key (SMB): unknown
-World 3 Key (SMB Lost Levels): unknown
-World 3 Key (SMB): unknown
-World 3 Key (SMB2): unknown
-World 3 Key (SMB3): unknown
-World 3 Star Key (SMB): unknown
-World 4 Key (SMB Lost Levels): unknown
-World 4 Key (SMB): unknown
-World 4 Key (SMB2): unknown
-World 4 Key (SMB3): unknown
-World 4 Star Key (SMB): unknown
-World 5 Key (SMB Lost Levels): unknown
+World 1 Key (SMB): progression
+World 1 Key (SMB2): progression
+World 1 Key (SMB3): progression
+World 1 Star Key (SMB): progression
+World 2 Key (SMB Lost Levels): progression
+World 2 Key (SMB): progression
+World 2 Key (SMB2): progression
+World 2 Key (SMB3): progression
+World 2 Star Key (SMB): progression
+World 3 Key (SMB Lost Levels): progression
+World 3 Key (SMB): progression
+World 3 Key (SMB2): progression
+World 3 Key (SMB3): progression
+World 3 Star Key (SMB): progression
+World 4 Key (SMB Lost Levels): progression
+World 4 Key (SMB): progression
+World 4 Key (SMB2): progression
+World 4 Key (SMB3): progression
+World 4 Star Key (SMB): progression
+World 5 Key (SMB Lost Levels): progression
 World 5 Key (SMB): progression
-World 5 Key (SMB2): unknown
-World 5 Key (SMB3): unknown
-World 5 Star Key (SMB): unknown
-World 6 Key (SMB Lost Levels): unknown
-World 6 Key (SMB): unknown
+World 5 Key (SMB2): progression
+World 5 Key (SMB3): progression
+World 5 Star Key (SMB): progression
+World 6 Key (SMB Lost Levels): progression
+World 6 Key (SMB): progression
 World 6 Key (SMB2): progression
-World 6 Key (SMB3): unknown
-World 6 Star Key (SMB): unknown
-World 7 Key (SMB Lost Levels): unknown
-World 7 Key (SMB): unknown
+World 6 Key (SMB3): progression
+World 6 Star Key (SMB): progression
+World 7 Key (SMB Lost Levels): progression
+World 7 Key (SMB): progression
 World 7 Key (SMB2): progression
-World 7 Key (SMB3): unknown
-World 7 Star Key (SMB): unknown
-World 8 Key (SMB Lost Levels): unknown
+World 7 Key (SMB3): progression
+World 7 Star Key (SMB): progression
+World 8 Key (SMB Lost Levels): progression
 World 8 Key (SMB): progression
-World 8 Key (SMB3): unknown
-World 8 Star Key (SMB): unknown
-World 9 Key (SMB Lost Levels): unknown
-World A Key (SMB Lost Levels): unknown
+World 8 Key (SMB3): progression
+World 8 Star Key (SMB): progression
+World 9 Key (SMB Lost Levels): progression
+World A Key (SMB Lost Levels): progression
 World B Key (SMB Lost Levels): progression
-World C Key (SMB Lost Levels): unknown
-World D Key (SMB Lost Levels): unknown
+World C Key (SMB Lost Levels): progression
+World D Key (SMB Lost Levels): progression

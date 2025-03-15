@@ -1,84 +1,84 @@
-Battle Leap: unknown
-Battle Pound: unknown
+Battle Leap: useful
+Battle Pound: useful
 Blood Rage: useful
-Bouncer Blockade: unknown
-Bowling Ball Turret: unknown
-Call to Arms: unknown
-Challenge Key - Assault: unknown
-Challenge Key - Chicken!: unknown
-Challenge Key - Death From Above: unknown
-Challenge Key - Moving Core: unknown
-Challenge Key - No Towers Allowed: unknown
-Challenge Key - Ogre Crush: unknown
-Challenge Key - Raining Goblins: unknown
-Challenge Key - Treasure Hunt: unknown
-Challenge Key - Unlikely Allies: unknown
-Challenge Key - Warping Core: unknown
-Challenge Key - Wizardry: unknown
-Challenge Key - Zippy Terror: unknown
-Circular Slice: unknown
+Bouncer Blockade: useful
+Bowling Ball Turret: useful
+Call to Arms: useful
+Challenge Key - Assault: progression
+Challenge Key - Chicken!: progression
+Challenge Key - Death From Above: progression
+Challenge Key - Moving Core: progression
+Challenge Key - No Towers Allowed: progression
+Challenge Key - Ogre Crush: progression
+Challenge Key - Raining Goblins: progression
+Challenge Key - Treasure Hunt: progression
+Challenge Key - Unlikely Allies: progression
+Challenge Key - Warping Core: progression
+Challenge Key - Wizardry: progression
+Challenge Key - Zippy Terror: progression
+Circular Slice: useful
 Crystal Key: mcguffin
-Darkness Trap: unknown
-Deadly Striker Tower: unknown
-Deluxe Present: unknown
-Electric Aura: unknown
-Enemy Drain: unknown
-Enrage Aura: unknown
-Ethereal Spike Trap: unknown
-Extravagant Present: unknown
+Darkness Trap: useful
+Deadly Striker Tower: useful
+Deluxe Present: useful
+Electric Aura: useful
+Enemy Drain: useful
+Enrage Aura: useful
+Ethereal Spike Trap: useful
+Extravagant Present: useful
 Filler: unknown
-Fireball Tower: unknown
-Flash Heal: unknown
-Forest Golem: unknown
-Gas Trap: unknown
-Harpoon Turret: unknown
-Hawk Stance: unknown
-Healing Aura: unknown
-Hero Boost: unknown
-Holographic Decoy: unknown
-Inferno Trap: unknown
-Invisibility Field: unknown
-Invisibility: unknown
-Joust: unknown
-Key Fragment - Ancient Dragon: unknown
+Fireball Tower: useful
+Flash Heal: useful
+Forest Golem: useful
+Gas Trap: useful
+Harpoon Turret: useful
+Hawk Stance: useful
+Healing Aura: useful
+Hero Boost: useful
+Holographic Decoy: useful
+Inferno Trap: useful
+Invisibility Field: useful
+Invisibility: useful
+Joust: useful
+Key Fragment - Ancient Dragon: progression
 Key Fragment - Demon Lord: mcguffin
 Key Fragment - Goblin Mech: progression
-Lightning Stance: unknown
-Lightning Tower: unknown
-Mage Minion: unknown
-Magic Blockade: unknown
-Mana Bomb: unknown
+Lightning Stance: useful
+Lightning Tower: useful
+Mage Minion: useful
+Magic Blockade: useful
+Mana Bomb: useful
 Mana Crystal (100K): useful
 Mana Crystal (20K): useful
-Mana Crystal (50K): unknown
-Minion Commands: unknown
-Move Tower: unknown
-Mushroom Spore Tower: unknown
-Nature Pylon: unknown
-Nature's Gift: unknown
-Ogre Minion: unknown
-Orc Minion: unknown
-Overcharge: unknown
-Party Popper Tower: unknown
-Physical Beam: unknown
-Piercing Shot: unknown
-Piercing Spreadshot: unknown
-Proton Charge Blast: unknown
-Purity Bomb: unknown
-Reflection Beam: unknown
-Remote Defense Boost: unknown
-Shock Beam: unknown
-Siphon Stance: unknown
-Slice 'n' Dice Blockade: unknown
-Small Present: unknown
-Spider Minion: unknown
-Strength Drain Aura: unknown
-Thorn Shot: unknown
-Tornado Stance: unknown
-Tower Boost: unknown
-Tower Buff Beam: unknown
-Turtle Stance: unknown
-Upgrade Aura: unknown
+Mana Crystal (50K): filler
+Minion Commands: useful
+Move Tower: useful
+Mushroom Spore Tower: useful
+Nature Pylon: useful
+Nature's Gift: useful
+Ogre Minion: useful
+Orc Minion: useful
+Overcharge: useful
+Party Popper Tower: useful
+Physical Beam: useful
+Piercing Shot: useful
+Piercing Spreadshot: useful
+Proton Charge Blast: useful
+Purity Bomb: useful
+Reflection Beam: useful
+Remote Defense Boost: useful
+Shock Beam: useful
+Siphon Stance: useful
+Slice 'n' Dice Blockade: useful
+Small Present: useful
+Spider Minion: useful
+Strength Drain Aura: useful
+Thorn Shot: useful
+Tornado Stance: useful
+Tower Boost: useful
+Tower Buff Beam: useful
+Turtle Stance: useful
+Upgrade Aura: useful
 Warrior Minion: useful
-Web Wall: unknown
-Wheel o' Fortuna: unknown
+Web Wall: useful
+Wheel o' Fortuna: useful
