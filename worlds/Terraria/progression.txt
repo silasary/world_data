@@ -7,8 +7,8 @@ Post-Adult Eidolon Wyrm: unknown
 Post-Aquatic Scourge: progression
 Post-Armored Digger: unknown
 Post-Astrum Aureus: unknown
-Post-Astrum Deus: unknown
-Post-Brimstone Elemental: unknown
+Post-Astrum Deus: progression
+Post-Brimstone Elemental: progression
 Post-Calamitas Clone: progression
 Post-Calamity Evil Boss: unknown
 Post-Ceaseless Void: progression
@@ -36,7 +36,7 @@ Post-Great Sand Shark: filler
 Post-Hardmode Giant Clam: filler
 Post-Ice Queen: filler
 Post-King Slime: filler
-Post-Leviathan and Anahita: unknown
+Post-Leviathan and Anahita: progression
 Post-Lunar Events: progression
 Post-Lunatic Cultist: progression
 Post-Martian Madness: useful
@@ -50,14 +50,14 @@ Post-Old One's Army Tier 3: useful
 Post-Pirate Invasion: useful
 Post-Plaguebringer: unknown
 Post-Plantera: progression
-Post-Polterghast: unknown
+Post-Polterghast: progression
 Post-Primordial Wyrm: filler
 Post-Profaned Guardians: unknown
 Post-Providence, the Profaned Goddess: unknown
 Post-Pumpking: filler
 Post-Queen Bee: progression
 Post-Queen Slime: filler
-Post-Ravager: unknown
+Post-Ravager: progression
 Post-Reaper Shark: unknown
 Post-Santa-NK1: filler
 Post-Signus, Envoy of the Devourer: filler
@@ -68,8 +68,8 @@ Post-Supreme Witch, Calamitas: progression
 Post-The Destroyer: progression
 Post-The Devourer of Gods: unknown
 Post-The Dragonfolly: progression
-Post-The Old Duke: unknown
-Post-The Perforators: unknown
+Post-The Old Duke: progression
+Post-The Perforators: progression
 Post-The Plaguebringer Goliath: progression
 Post-The Slime God: unknown
 Post-The Twins: progression
@@ -157,7 +157,7 @@ Reward: Pocket Mirror: filler
 Reward: Portable Cement Mixer: filler
 Reward: Putrid Scent: filler
 Reward: Radar: filler
-Reward: Raider's Talisman: unknown
+Reward: Raider's Talisman: filler
 Reward: Red Counterweight: filler
 Reward: Rifle Scope: filler
 Reward: Rod of Discord: filler
@@ -167,7 +167,7 @@ Reward: Scuttler's Jewel: filler
 Reward: Sextant: useful
 Reward: Shark Tooth Necklace: filler
 Reward: Shoe Spikes: filler
-Reward: Spelunker's Amulet: unknown
+Reward: Spelunker's Amulet: filler
 Reward: Sprit Glyph: unknown
 Reward: Star Cloak: filler
 Reward: Step Stool: filler
@@ -180,9 +180,9 @@ Reward: Titan Glove: filler
 Reward: Torch God's Favor: filler
 Reward: Treasure Magnet: filler
 Reward: Trifold Map: filler
-Reward: Trinket of Chi: unknown
-Reward: Unstable Granite Core: unknown
-Reward: Ursa Sergeant: unknown
+Reward: Trinket of Chi: filler
+Reward: Unstable Granite Core: filler
+Reward: Ursa Sergeant: filler
 Reward: Vital Jelly: useful
 Reward: Vitamins: filler
 Reward: Voltaic Jelly: unknown
