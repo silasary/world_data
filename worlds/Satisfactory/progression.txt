@@ -452,6 +452,7 @@ Recipe: Packaged Liquid Biofuel: unknown
 Recipe: Packaged Nitric Acid: unknown
 Recipe: Packaged Nitrogen Gas: progression
 Recipe: Packaged Oil: unknown
+Recipe: Packaged Rocket Fuel: useful
 Recipe: Packaged Sulfuric Acid: unknown
 Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
@@ -459,7 +460,7 @@ Recipe: Parachute: unknown
 Recipe: Petroleum Coke: progression
 Recipe: Pink Diamonds: progression
 Recipe: Plastic Smart Plating: useful
-Recipe: Plastic: unknown
+Recipe: Plastic: progression
 Recipe: Plutonium Fuel Rod: progression
 Recipe: Plutonium Fuel Unit: useful
 Recipe: Plutonium Pellet: progression
