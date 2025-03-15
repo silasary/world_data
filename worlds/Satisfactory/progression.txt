@@ -261,7 +261,7 @@ Bundle: Somersloop: filler
 Bundle: Stator: unknown
 Bundle: Steel Beam: filler
 Bundle: Steel Ingot: filler
-Bundle: Steel Pipe: unknown
+Bundle: Steel Pipe: filler
 Bundle: Stinger Remains: filler
 Bundle: Stun Rebar: filler
 Bundle: Sulfur: unknown
