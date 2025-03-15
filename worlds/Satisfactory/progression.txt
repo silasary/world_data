@@ -126,7 +126,7 @@ Bundle: Alien Protein: unknown
 Bundle: Aluminum Casing: filler
 Bundle: Aluminum Ingot: unknown
 Bundle: Aluminum Scrap: unknown
-Bundle: Assembly Director System: unknown
+Bundle: Assembly Director System: useful
 Bundle: Automated Wiring: unknown
 Bundle: Bacon Agaric: filler
 Bundle: Battery: unknown
