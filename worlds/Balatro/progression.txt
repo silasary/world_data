@@ -1,9 +1,9 @@
 8 Ball: progression
 Abandoned Deck Black Stake: progression
-Abandoned Deck Blue Stake: unknown
+Abandoned Deck Blue Stake: progression
 Abandoned Deck Gold Stake: progression
 Abandoned Deck Green Stake: progression
-Abandoned Deck Orange Stake: unknown
+Abandoned Deck Orange Stake: progression
 Abandoned Deck Purple Stake: progression
 Abandoned Deck Red Stake: progression
 Abandoned Deck White Stake: unknown
@@ -117,7 +117,7 @@ Crystal Ball/Omen Globe 1: progression
 Crystal Ball/Omen Globe 2: progression
 DNA: progression
 Death: useful
-Deja Vu: unknown
+Deja Vu: useful
 Delayed Gratification: progression
 Devious Joker: progression
 Diet Cola: progression
@@ -137,7 +137,7 @@ Erratic Deck Black Stake: progression
 Erratic Deck Blue Stake: progression
 Erratic Deck Gold Stake: progression
 Erratic Deck Green Stake: progression
-Erratic Deck Orange Stake: unknown
+Erratic Deck Orange Stake: progression
 Erratic Deck Purple Stake: progression
 Erratic Deck Red Stake: progression
 Erratic Deck White Stake: progression
@@ -153,9 +153,9 @@ Fortune Teller: progression
 Four Fingers: progression
 Free Buffoon Pack: filler
 Free Consumable Pack: filler
-Ghost Deck Black Stake: unknown
+Ghost Deck Black Stake: progression
 Ghost Deck Blue Stake: progression
-Ghost Deck Gold Stake: unknown
+Ghost Deck Gold Stake: progression
 Ghost Deck Green Stake: progression
 Ghost Deck Orange Stake: progression
 Ghost Deck Purple Stake: progression
@@ -173,7 +173,7 @@ Grabber/Nacho Tong 2: progression
 Greedy Joker: progression
 Green Deck Black Stake: progression
 Green Deck Blue Stake: progression
-Green Deck Gold Stake: unknown
+Green Deck Gold Stake: progression
 Green Deck Green Stake: progression
 Green Deck Orange Stake: progression
 Green Deck Purple Stake: progression
@@ -251,8 +251,8 @@ Mad Joker: progression
 Madness: progression
 Magic Deck Black Stake: progression
 Magic Deck Blue Stake: progression
-Magic Deck Gold Stake: unknown
-Magic Deck Green Stake: unknown
+Magic Deck Gold Stake: progression
+Magic Deck Green Stake: progression
 Magic Deck Orange Stake: progression
 Magic Deck Purple Stake: progression
 Magic Deck Red Stake: progression
@@ -297,11 +297,11 @@ Overstock/Overstock Plus 1: progression
 Overstock/Overstock Plus 2: progression
 Paint Brush/Palette 1: progression
 Paint Brush/Palette 2: progression
-Painted Deck Black Stake: unknown
+Painted Deck Black Stake: progression
 Painted Deck Blue Stake: progression
-Painted Deck Gold Stake: unknown
+Painted Deck Gold Stake: progression
 Painted Deck Green Stake: progression
-Painted Deck Orange Stake: unknown
+Painted Deck Orange Stake: progression
 Painted Deck Purple Stake: progression
 Painted Deck Red Stake: progression
 Painted Deck White Stake: unknown
@@ -324,7 +324,7 @@ Plasma Deck Blue Stake: progression
 Plasma Deck Gold Stake: progression
 Plasma Deck Green Stake: progression
 Plasma Deck Orange Stake: unknown
-Plasma Deck Purple Stake: unknown
+Plasma Deck Purple Stake: progression
 Plasma Deck Red Stake: progression
 Plasma Deck White Stake: progression
 Plasma Deck: progression
@@ -340,7 +340,7 @@ Red Deck Black Stake: progression
 Red Deck Blue Stake: unknown
 Red Deck Gold Stake: unknown
 Red Deck Green Stake: progression
-Red Deck Orange Stake: unknown
+Red Deck Orange Stake: progression
 Red Deck Purple Stake: progression
 Red Deck Red Stake: useful
 Red Deck White Stake: progression
@@ -450,12 +450,12 @@ Wraith: useful
 Wrathful Joker: progression
 Yellow Deck Black Stake: progression
 Yellow Deck Blue Stake: progression
-Yellow Deck Gold Stake: unknown
-Yellow Deck Green Stake: unknown
-Yellow Deck Orange Stake: unknown
+Yellow Deck Gold Stake: progression
+Yellow Deck Green Stake: progression
+Yellow Deck Orange Stake: progression
 Yellow Deck Purple Stake: progression
 Yellow Deck Red Stake: progression
-Yellow Deck White Stake: unknown
+Yellow Deck White Stake: progression
 Yellow Deck: progression
 Yorick: progression
 Zany Joker: progression
