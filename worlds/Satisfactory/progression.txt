@@ -427,6 +427,7 @@ Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
 Recipe: Iron Rod: unknown
 Recipe: Iron Wire: progression
+Recipe: Leached Caterium Ingot: unknown
 Recipe: Leached Copper Ingot: progression
 Recipe: Liquid Biofuel: useful
 Recipe: Magnetic Field Generator: unknown
