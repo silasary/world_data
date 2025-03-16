@@ -45,9 +45,11 @@ Goat (Wants Goat food): filler
 Goat 2: filler
 Grandma: filler
 Grandpa (leads to Lune): progression
+Grandpa (unlocks Nome's prison): unknown
 Grandpa (unlocks south-eastern lake): progression
 Grandpa (unlocks south-western tunnel): progression
 Grandpa 2: filler
+Grandpa: unknown
 Great Door (to Model Town room): unknown
 Great Door (to Zantetsu Sword chest): progression
 Great Door / Soul of Detection: progression
@@ -83,6 +85,8 @@ Mermaid Nana: filler
 Mermaid Queen (leads to Act 4): progression
 Mermaid Statue (leading to Durean): progression
 Mermaid Statue (leading to Ghost Ship): progression
+Mermaid Statue (leading to Rockbird): unknown
+Mermaid by the Mermaid Tears chest: unknown
 Model Town 2: progression
 Mole (gives Shield Bracelet): progression
 Mole / Soul of Light (Greenwood Leaf): progression
@@ -104,6 +108,7 @@ Old Man (Leo's house with painting): unknown
 Old Man 2: filler
 Old Man: filler
 Old Woman (Village Chief's house): progression
+Phoenix: unknown
 Plant (gives Actinidia Leaves): progression
 Plant (gives Medical Herbs): unknown
 Plant 2: filler
@@ -115,6 +120,7 @@ Queen Magridd (gives VIP Card): progression
 Recovery Sword: useful
 Red-Hot Ball: progression
 Red-Hot Mirror: progression
+Red-Hot Stick: unknown
 Rotator: useful
 Second Cat in Leo's Lab main room: progression
 Second Crocodile (to sleepy bird): progression
@@ -130,6 +136,8 @@ Snail Racer: filler
 Snail: filler
 Soldier (Dok; accompanies Dr. Leo): progression
 Soldier (guarding Left Tower): progression
+Soldier (guarding Right Tower): unknown
+Soldier (unlocks Magridd Castle): unknown
 Soldier / Soul of Reality: progression
 Soldier 10: filler
 Soldier 11: filler
@@ -151,11 +159,13 @@ Squirrel (leads to Ice Armor chest): progression
 Squirrel (trades Psycho Sword): progression
 Squirrel 2: unknown
 Squirrel: filler
+Steps (to Marie's attic): unknown
 Steps (to second floor): progression
 Strange Bottle: filler
 Super Bracelet: useful
 Sword of Life: progression
 Teddy (Tool Shop Owner's son): progression
+The Soul Blade: unknown
 Thunder Ring: useful
 Tool Shop Owner: progression
 Tornado: useful
@@ -172,3 +182,4 @@ Zantetsu Sword: progression
 a door key: unknown
 a mobile key: unknown
 a pass: progression
+the Big Pearl: unknown
