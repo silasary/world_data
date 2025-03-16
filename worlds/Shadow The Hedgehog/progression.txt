@@ -58,7 +58,7 @@ Nothing Junk: unknown
 Objective Token: unknown
 Prison Island Disc: progression
 Prison Island Soldier: progression
-Purple Chaos Emerald: unknown
+Purple Chaos Emerald: mcguffin
 Red Chaos Emerald: unknown
 Sky Troops Egg Ship: progression
 Sky Troops Temple: unknown
@@ -83,7 +83,7 @@ Stage:Lava Shelter: progression
 Stage:Lethal Highway: unknown
 Stage:Lost Impact: unknown
 Stage:Mad Matrix: unknown
-Stage:Prison Island: unknown
+Stage:Prison Island: progression
 Stage:Sky Troops: unknown
 Stage:Space Gadget: unknown
 Stage:The Ark: progression
