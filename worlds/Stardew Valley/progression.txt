@@ -882,6 +882,7 @@ The Slammer: unknown
 Thermal Boots: unknown
 Thorns Ring: useful
 Tilesanity: Backwoods (3-7): unknown
+Tilesanity: Backwoods (6-2): unknown
 Tilesanity: Backwoods (7-2): unknown
 Tilesanity: Backwoods (8-3): unknown
 Tilesanity: Backwoods (9-3): unknown
@@ -945,6 +946,7 @@ Tilesanity: Cindersap Forest (10-7): unknown
 Tilesanity: Cindersap Forest (10-9): unknown
 Tilesanity: Cindersap Forest (11-10): unknown
 Tilesanity: Cindersap Forest (11-14): unknown
+Tilesanity: Cindersap Forest (11-17): unknown
 Tilesanity: Cindersap Forest (11-2): unknown
 Tilesanity: Cindersap Forest (11-4): unknown
 Tilesanity: Cindersap Forest (11-7): unknown
@@ -1011,6 +1013,7 @@ Tilesanity: Cindersap Forest (18-13): unknown
 Tilesanity: Cindersap Forest (18-14): unknown
 Tilesanity: Cindersap Forest (18-15): unknown
 Tilesanity: Cindersap Forest (18-18): unknown
+Tilesanity: Cindersap Forest (18-19): unknown
 Tilesanity: Cindersap Forest (18-20): unknown
 Tilesanity: Cindersap Forest (18-3): unknown
 Tilesanity: Cindersap Forest (18-7): unknown
@@ -1019,6 +1022,7 @@ Tilesanity: Cindersap Forest (19-10): unknown
 Tilesanity: Cindersap Forest (19-11): unknown
 Tilesanity: Cindersap Forest (19-17): unknown
 Tilesanity: Cindersap Forest (19-18): unknown
+Tilesanity: Cindersap Forest (19-19): unknown
 Tilesanity: Cindersap Forest (19-20): unknown
 Tilesanity: Cindersap Forest (19-5): unknown
 Tilesanity: Cindersap Forest (19-6): unknown
@@ -1126,6 +1130,9 @@ Tilesanity: Cindersap Forest (9-1): unknown
 Tilesanity: Cindersap Forest (9-10): unknown
 Tilesanity: Cindersap Forest (9-11): unknown
 Tilesanity: Cindersap Forest (9-13): unknown
+Tilesanity: Cindersap Forest (9-14): unknown
+Tilesanity: Cindersap Forest (9-15): unknown
+Tilesanity: Cindersap Forest (9-16): unknown
 Tilesanity: Cindersap Forest (9-6): unknown
 Tilesanity: Cindersap Forest (9-8): unknown
 Tilesanity: Cindersap Forest (9-9): unknown
@@ -1199,6 +1206,7 @@ Tilesanity: Mountains (9-4): unknown
 Tilesanity: Mountains (9-5): unknown
 Tilesanity: Mountains (9-6): unknown
 Tilesanity: Mountains (9-7): unknown
+Tilesanity: Pelican Beach (2-2): unknown
 Tilesanity: Pelican Beach (2-3): unknown
 Tilesanity: Pelican Beach (3-0): unknown
 Tilesanity: Pelican Beach (3-1): unknown
@@ -1211,6 +1219,7 @@ Tilesanity: Pelican Beach (6-3): unknown
 Tilesanity: Pelican Beach (7-0): unknown
 Tilesanity: Pelican Beach (7-1): unknown
 Tilesanity: Pelican Beach (9-3): unknown
+Tilesanity: Pelican Beach (9-4): unknown
 Tilesanity: Pelican Beach (9-5): unknown
 Tilesanity: Pelican Town (0-12): unknown
 Tilesanity: Pelican Town (0-13): unknown
@@ -1300,9 +1309,11 @@ Tilesanity: Pelican Town (14-13): unknown
 Tilesanity: Pelican Town (14-14): unknown
 Tilesanity: Pelican Town (14-15): unknown
 Tilesanity: Pelican Town (14-16): unknown
+Tilesanity: Pelican Town (14-17): unknown
 Tilesanity: Pelican Town (14-18): unknown
 Tilesanity: Pelican Town (14-19): unknown
 Tilesanity: Pelican Town (14-2): unknown
+Tilesanity: Pelican Town (14-20): unknown
 Tilesanity: Pelican Town (14-3): unknown
 Tilesanity: Pelican Town (14-4): unknown
 Tilesanity: Pelican Town (14-5): unknown
@@ -1310,6 +1321,7 @@ Tilesanity: Pelican Town (14-6): unknown
 Tilesanity: Pelican Town (14-7): unknown
 Tilesanity: Pelican Town (15-0): unknown
 Tilesanity: Pelican Town (15-10): unknown
+Tilesanity: Pelican Town (15-11): unknown
 Tilesanity: Pelican Town (15-13): unknown
 Tilesanity: Pelican Town (15-14): unknown
 Tilesanity: Pelican Town (15-16): unknown
@@ -1326,6 +1338,8 @@ Tilesanity: Pelican Town (15-9): unknown
 Tilesanity: Pelican Town (16-0): unknown
 Tilesanity: Pelican Town (16-1): unknown
 Tilesanity: Pelican Town (16-11): unknown
+Tilesanity: Pelican Town (16-14): unknown
+Tilesanity: Pelican Town (16-16): unknown
 Tilesanity: Pelican Town (16-2): unknown
 Tilesanity: Pelican Town (16-3): unknown
 Tilesanity: Pelican Town (16-4): unknown
@@ -1337,6 +1351,7 @@ Tilesanity: Pelican Town (17-4): unknown
 Tilesanity: Pelican Town (18-12): unknown
 Tilesanity: Pelican Town (18-15): unknown
 Tilesanity: Pelican Town (18-16): unknown
+Tilesanity: Pelican Town (18-17): unknown
 Tilesanity: Pelican Town (18-19): unknown
 Tilesanity: Pelican Town (18-8): unknown
 Tilesanity: Pelican Town (19-1): unknown
@@ -1358,7 +1373,9 @@ Tilesanity: Pelican Town (21-12): unknown
 Tilesanity: Pelican Town (21-9): unknown
 Tilesanity: Pelican Town (22-17): unknown
 Tilesanity: Pelican Town (22-18): unknown
+Tilesanity: Pelican Town (22-19): unknown
 Tilesanity: Pelican Town (22-9): unknown
+Tilesanity: Pelican Town (25-12): unknown
 Tilesanity: Pelican Town (3-1): unknown
 Tilesanity: Pelican Town (3-11): unknown
 Tilesanity: Pelican Town (3-12): unknown
@@ -1519,8 +1536,10 @@ Tilesanity: Secret Woods (10-1): unknown
 Tilesanity: Secret Woods (10-3): unknown
 Tilesanity: Secret Woods (10-4): unknown
 Tilesanity: Secret Woods (10-6): unknown
+Tilesanity: Secret Woods (11-2): unknown
 Tilesanity: Secret Woods (11-3): unknown
 Tilesanity: Secret Woods (4-3): unknown
+Tilesanity: Secret Woods (6-1): unknown
 Tilesanity: Secret Woods (6-2): unknown
 Tilesanity: Secret Woods (8-2): unknown
 Tilesanity: Secret Woods (8-4): unknown
@@ -1536,6 +1555,7 @@ Tilesanity: Standard Farm (13-5): unknown
 Tilesanity: Standard Farm (14-1): progression
 Tilesanity: Standard Farm (14-2): progression
 Tilesanity: Standard Farm (14-3): unknown
+Tilesanity: Standard Farm (14-8): unknown
 Tilesanity: Standard Farm (15-11): progression
 Tilesanity: Standard Farm (15-7): unknown
 Tilesanity: Standard Farm (15-8): progression
