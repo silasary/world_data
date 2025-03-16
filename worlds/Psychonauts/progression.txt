@@ -1,33 +1,33 @@
 Adult Coach's Mind: progression
-Benny's Brain: progression
+Benny's Brain: mcguffin
 Birthday Cake: progression
-Bobby's Brain: progression
+Bobby's Brain: mcguffin
 Boyd's Mind: progression
 Candle: progression
 Cherry Wood Pipe: useful
-Chloe's Brain: progression
-Chops' Brain: progression
-Clem's Brain: progression
+Chloe's Brain: mcguffin
+Chops' Brain: mcguffin
+Clem's Brain: mcguffin
 Cobweb Duster: progression
 Condor Egg: useful
 Confusion Ammo Up: useful
-Crow Feather: progression
-Crystal's Brain: progression
+Crow Feather: filler
+Crystal's Brain: mcguffin
 Dinosaur Bone: useful
 Diver's Helmet: useful
-Dogen's Brain: progression
+Dogen's Brain: mcguffin
 Dowsing Rod: progression
 Dufflebag Tag: useful
 Dufflebag: useful
 Eagle Claw: useful
 Edgar's Mind: progression
-Elka's Brain: progression
-Elton's Brain: progression
+Elka's Brain: mcguffin
+Elton's Brain: mcguffin
 Fertility Idol: useful
-Filler: filler
+Filler: bad_name
 Flowers: progression
 Fossil: useful
-Franke's Brain: progression
+Franke's Brain: mcguffin
 Fred's Letter: progression
 Fred's Mind: progression
 Glass Eye: useful
@@ -39,28 +39,28 @@ Golden Acorn: useful
 Hatbox Tag: useful
 Hatbox: useful
 Hedge Trimmers: progression
-JT's Brain: progression
+JT's Brain: mcguffin
 Kid Coach's Mind: progression
-Kitty's Brain: progression
+Kitty's Brain: mcguffin
 Large Arrowhead Bundle: filler
 Lili's Bracelet: progression
 Linda's Mind: progression
 Loboto Painting: progression
 Lungfish Call: progression
-Maloof's Brain: progression
+Maloof's Brain: mcguffin
 Max Ammo Up: useful
 Max Lives Up: useful
 Megaphone: progression
 Memory Vault: useful
-Mikhail's Brain: progression
-Milka's Brain: progression
+Mikhail's Brain: mcguffin
+Milka's Brain: mcguffin
 Milla's Mind: progression
 Miner's Skull: useful
 Musket: progression
-Nils' Brain: progression
+Nils' Brain: mcguffin
 Oarsman's Badge: progression
 Palm Megabomb: useful
-Phoebe's Brain: progression
+Phoebe's Brain: mcguffin
 Pirate Scope: useful
 Plunger: progression
 Priceless Coin: progression
@@ -72,12 +72,12 @@ Progressive Marksmanship: progression
 Progressive Pyrokinesis: progression
 Progressive Shield: progression
 Progressive Telekinesis: progression
-PsiCard: useful
+PsiCard: filler
 PsiChallengeMarker: useful
 Psychonauts Comic Issue #1: useful
 Purse Tag: useful
 Purse: useful
-Quentin's Brain: progression
+Quentin's Brain: mcguffin
 Rolling Pin: progression
 Sasha's Button: progression
 Sasha's Mind: progression
@@ -89,9 +89,9 @@ Stop Sign: progression
 Straight Jacket: progression
 Suitcase Tag: useful
 Suitcase: useful
-Super Palm Bomb: progression
+Super Palm Bomb: useful
 Turkey Sandwich: useful
-Vernon's Brain: progression
-Victory: progression
+Vernon's Brain: mcguffin
+Victory: bad_name
 Voodoo Doll: useful
-Watering Can: progression
+Watering Can: filler
