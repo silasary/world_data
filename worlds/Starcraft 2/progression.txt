@@ -122,6 +122,7 @@ Cloak (Battlecruiser): useful
 Cloak (Liberator): filler
 Cloak (Predator): filler
 Cloaking Module (Sentry/Energizer/Havoc): useful
+Cloud Dispersal (Infested Liberator): unknown
 Colossus: progression
 Combat Drugs (Reaper): filler
 Combat Sensor Array (Scout): useful
@@ -302,10 +303,12 @@ Khalai Ingenuity: useful
 Khaydarin Amulet (High Templar/Signifier): useful
 Khaydarin Core (Arbiter): useful
 Khaydarin Monolith: progression
+Kinetic Blast (Kerrigan Ability): unknown
 Kinetic Blast (Kerrigan Tier 1): progression
 Kinetic Foam (Firebat): useful
 Kinetic Foam (HERC): useful
 Kinetic Foam (Marauder): useful
+Kinetic Foam (Reaper): unknown
 Large Scale Field Construction (Thor): filler
 Laser Targeting System (Banshee): filler
 Laser Targeting System (Liberator): filler
@@ -358,7 +361,9 @@ Neutron Shields (Corsair): filler
 Nexus Overcharge: useful
 Nothing: trap
 Noxious Strain (Ultralisk): filler
+Null Shroud (Mist Wing): unknown
 Nyx-Class Cloaking Module (Spectre): useful
+Obliterate (Archon): unknown
 Observer: filler
 Ocular Implants (Ghost): useful
 Optical Flare (Medic): filler
@@ -516,6 +521,7 @@ Resource Efficiency (Predator): filler
 Resource Efficiency (Raven): useful
 Resource Efficiency (Reaver): useful
 Resource Efficiency (Scourge): progression
+Resource Efficiency (Scout): unknown
 Resource Efficiency (Siege Tank): useful
 Resource Efficiency (Spectre): useful
 Resource Efficiency (Swarm Host): useful
@@ -613,6 +619,7 @@ Swarmling Strain (Zergling): useful
 Tac Nuke Strike (Nova Ability): progression
 Tactical Jump (Battlecruiser): useful
 Tactical Jump (Hercules): useful
+Tactical Jump (Science Vessel): unknown
 Targeting Optics (Cyclone): useful
 Tech Reactor: useful
 Tectonic Destabilizers (Tempest): filler
