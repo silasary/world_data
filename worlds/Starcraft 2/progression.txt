@@ -42,6 +42,7 @@ Advanced Targeting (Planetary Fortress): useful
 Advanced Targeting Mechanics (Immortal/Annihilator): progression
 Advanced Targeting Optics (Banshee): progression
 Advanced Targeting Optics (Infested Banshee): unknown
+Aerial Tracking (Annihilator): unknown
 Aerodynamic Glaive Shape (Mutalisk): useful
 Afterburners (Medivac): filler
 Afterburners (Valkyrie): filler
@@ -265,6 +266,7 @@ Infested Banshees: useful
 Infested Diamondback: unknown
 Infested Dusk Wings: unknown
 Infested Medics: useful
+Infested Missile Turret: unknown
 Infested Siege Breakers: unknown
 Infested Siege Tanks: useful
 Infested Terran (Infestor): useful
@@ -328,6 +330,7 @@ Malignant Creep (Kerrigan Tier 5): useful
 Marauder: progression
 Marine: progression
 Mass Recall (Spear of Adun Calldown): useful
+Matrix Overload (Protoss): unknown
 Matrix Overload: useful
 Matter Dispersion (Vanguard): useful
 Medic: progression
@@ -339,6 +342,7 @@ Microbial Shroud (Infestor): useful
 Midnight Riders: useful
 Mirage: progression
 Missile Turret: useful
+Mist Wing: unknown
 Monarch Blades (Ultralisk): useful
 Monomolecular Blade (Nova Weapon): progression
 Monstrous Resilience (Aberration): unknown
@@ -362,6 +366,7 @@ Optimized Logistics (Goliath): filler
 Optimized Logistics (Hellion): filler
 Optimized Logistics (Liberator): filler
 Optimized Logistics (Marine): filler
+Optimized Ordnance (Protoss): unknown
 Optimized Ordnance: useful
 Oracle: progression
 Orbital Assimilators: useful
@@ -419,6 +424,7 @@ Progressive Protoss Shields: useful
 Progressive Protoss Weapon Upgrade: useful
 Progressive Protoss Weapon/Armor Upgrade: useful
 Progressive Proxy Pylon (Spear of Adun Calldown): useful
+Progressive Regenerative Bio-Steel (Terran): unknown
 Progressive Regenerative Bio-Steel: progression
 Progressive Replenishable Magazine (Vulture): filler
 Progressive Stealth Suit Module (Nova Suit Module): progression
@@ -453,6 +459,7 @@ Progressive Zerg Weapon Upgrade: useful
 Progressive Zerg Weapon/Armor Upgrade: useful
 Projectile Accelerator (Bunker): useful
 Prolonged Dispersion (Guardian): useful
+Propellant Sacs (Guardian): unknown
 Psi Disrupter: progression
 Psionic Lash (Spectre): progression
 Psionic Shift (Kerrigan Tier 2): progression
@@ -477,6 +484,7 @@ Rapid Metamorph (Baneling): useful
 Rapid Power Cycling (Wrathwalker): useful
 Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
 Rapid Regeneration (Mutalisk): useful
+Rapid Reignition Systems (Medivac): unknown
 Raptor Strain (Zergling): useful
 Ravager Aspect (Roach): useful
 Raven: progression
@@ -487,6 +495,7 @@ Reclamation (Energizer): useful
 Reconstruction Beam (Spear of Adun Auto-Cast): progression
 Reforged Bloodshard Core (Destroyer): useful
 Regenerative Acid (Baneling): filler
+Regenerative Plating (Infested Bunker): unknown
 Reinforced Plating (Warhound): useful
 Resonating Glaives (Adept): useful
 Resource Efficiency (Aberration): unknown
@@ -588,6 +597,7 @@ Stealth Drive (Oracle): useful
 Stim Infusion (Nova Gadget): progression
 Stimpack (Pygalisk): unknown
 Structure Armor: useful
+Strut Enhancements (Stalwart): unknown
 Subterranean Scales (Nydus Worm/Echidna Worm): unknown
 Suffused With Vermin (Bullfrog): unknown
 Sundering Glaive (Mutalisk): useful
