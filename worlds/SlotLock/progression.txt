@@ -19,6 +19,7 @@ Unlock Bonus Slot 135: unknown
 Unlock Bonus Slot 142: unknown
 Unlock Bonus Slot 150: unknown
 Unlock Bonus Slot 154: unknown
+Unlock Bonus Slot 15: unknown
 Unlock Bonus Slot 166: unknown
 Unlock Bonus Slot 167: progression
 Unlock Bonus Slot 171: unknown
@@ -31,6 +32,8 @@ Unlock Bonus Slot 214: unknown
 Unlock Bonus Slot 247: unknown
 Unlock Bonus Slot 249: unknown
 Unlock Bonus Slot 24: unknown
+Unlock Bonus Slot 251: unknown
+Unlock Bonus Slot 253: unknown
 Unlock Bonus Slot 264: unknown
 Unlock Bonus Slot 268: unknown
 Unlock Bonus Slot 270: unknown
@@ -52,6 +55,7 @@ Unlock Bonus Slot 311: unknown
 Unlock Bonus Slot 314: unknown
 Unlock Bonus Slot 31: unknown
 Unlock Bonus Slot 323: unknown
+Unlock Bonus Slot 327: unknown
 Unlock Bonus Slot 32: unknown
 Unlock Bonus Slot 332: unknown
 Unlock Bonus Slot 336: unknown
@@ -120,9 +124,11 @@ Unlock Gryph_Dice6: unknown
 Unlock Gryph_Puzzles: progression
 Unlock Ratdra2: unknown
 Unlock SandraDLCBasic: unknown
+Unlock SandraDLCBoth: unknown
 Unlock SandraDoomE2: progression
 Unlock SandraDoomIIE1: unknown
 Unlock SandraEmerald: progression
+Unlock SandraLTTP: unknown
 Unlock Santdra2: progression
 Unlock Santdra: progression
 Unlock SlotLock: progression
