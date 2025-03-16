@@ -73,7 +73,7 @@ Stage:Cryptic Castle: unknown
 Stage:Death Ruins: progression
 Stage:Digital Circuit: unknown
 Stage:Egg Breaker Cryptic Castle: progression
-Stage:Egg Breaker Mad Matrix: unknown
+Stage:Egg Breaker Mad Matrix: progression
 Stage:Egg Dealer Black Comet: progression
 Stage:Final Haunt: unknown
 Stage:Glyphic Canyon: progression
@@ -107,7 +107,7 @@ Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
 Weapon:4-Shot RPG: unknown
 Weapon:8-Shot RPG: unknown
-Weapon:Bazooka: unknown
+Weapon:Bazooka: progression
 Weapon:Big Barrel: progression
 Weapon:Big Worm Shooter: unknown
 Weapon:Black Barrel: unknown
