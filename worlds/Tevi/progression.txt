@@ -55,7 +55,7 @@ Celia Type-A: Stunning: unknown
 Celia Type-B: Halo: unknown
 Celia Type-B: Prism: unknown
 Celia Type-C: Barrage: filler
-Celia Type-C: Panoptic: unknown
+Celia Type-C: Panoptic: filler
 Celia: progression
 Cherry Bunny Potion: useful
 Cloud Bomb: unknown
@@ -97,7 +97,7 @@ Cursed 6: filler
 Dagger: progression
 Daisy Chain: unknown
 Deadly Reach: useful
-Debuff Counter: unknown
+Debuff Counter: filler
 Decay Antidote: useful
 Decay Mask: progression
 Deft A: unknown
