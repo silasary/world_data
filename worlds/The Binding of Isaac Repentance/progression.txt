@@ -577,7 +577,7 @@ Random Chest: filler
 Random Coin: filler
 Random Heart: filler
 Random Key: filler
-Random Pickup: unknown
+Random Pickup: filler
 Random Pill: trap
 Random Trinket: filler
 Raw Liver: unknown
@@ -639,7 +639,7 @@ Sharp Plug: unknown
 Sharp Straw: unknown
 Shell Game Item: unknown
 Shoop Da Whoop: unknown
-Shop Item: unknown
+Shop Item: useful
 Sinus Infection: unknown
 Sissy Longlegs: unknown
 Sister Maggy: unknown
