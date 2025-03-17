@@ -16,6 +16,7 @@ Letter R: progression
 Letter S: progression
 Letter T: progression
 Letter U: unknown
+Letter V: unknown
 Letter Y: unknown
 Letter Z: unknown
 Suggestion: filler
@@ -31,4 +32,4 @@ The Letter S: unknown
 The Letter T: progression
 The Letter V: progression
 Time: useful
-Yellow Letters: unknown
+Yellow Letters: progression
