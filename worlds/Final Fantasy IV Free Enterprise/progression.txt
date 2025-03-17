@@ -2,28 +2,43 @@ Adamant Armor: useful
 Adamant: unknown
 Aegis Shield: filler
 AgApple: filler
+Ancient Sword: unknown
+Antidote: unknown
 Archer Bow: filler
 Artemis Arrows: filler
+Artemis Bow: unknown
 Assassin Dagger: filler
 Asura Summon: filler
+AuApple: unknown
+Avenger: unknown
 Bacchus: filler
 Baham Summon: filler
 Bandanna: filler
-Baron Key: unknown
+Bard Tunic: unknown
+Baron Key: progression
+Bestiary: unknown
 BigBomb: filler
+Black Armor: unknown
 Black Belt: filler
+Black Gauntlet: unknown
 Black Shirt: filler
 Black Sword: filler
 Blizzard Spear: filler
 Blizzard: filler
+Bomb: unknown
 Boreas: filler
 Cabin: filler
 Cat Claw: filler
 Cecil: progression
+Change Rod: unknown
 Charm Claw: filler
+Charm Harp: unknown
 Charm Rod: filler
+Cid: useful
 Cloth Armor: filler
 Coffin: filler
+Cross Bow: unknown
+Cross: unknown
 Crystal Armor: filler
 Crystal Gauntlet: filler
 Crystal Helm: filler
@@ -31,12 +46,20 @@ Crystal Ring: unknown
 Crystal Shield: unknown
 Crystal: unknown
 Cure Staff: filler
+Cure1: unknown
 Cure2: filler
 Cure3: filler
 Cursed Ring: filler
-Darkness Crystal: unknown
+Darkness Armor: filler
+Darkness Arrows: unknown
+Darkness Crystal: progression
+Darkness Gauntlet: unknown
+Defense Sword: unknown
 Diamond Armor: filler
+Diamond Gauntlet: unknown
+Diamond Ring: unknown
 Diamond Shield: filler
+DietFood: unknown
 Dragon Whip: filler
 Dragoon Armor: filler
 Dragoon Gauntlet: filler
@@ -44,26 +67,40 @@ Dragoon Helm: filler
 Dragoon Shield: filler
 Dragoon Spear: filler
 Drain Spear: filler
+Drain Sword: unknown
+Dreamer Harp: unknown
 Dwarf Axe: filler
+EagleEye: unknown
 Earth Crystal: progression
 Earth Hammer: filler
+EchoNote: unknown
 Edge: progression
 Edward: progression
 Elixir: filler
 Elven Bow: filler
+Ether1: unknown
 Ether2: filler
+Excalibur: unknown
+Exit: filler
 Eyedrops: filler
+Fire Armor: unknown
 Fire Arrows: filler
+Fire Claw: unknown
 Fire Shield: filler
 Fire Sword: filler
 FireBomb: filler
+Flame Rod: unknown
+Flame Spear: unknown
 Flame Whip: unknown
 Full Moon: filler
 Fusoya: progression
+Gaea Hat: unknown
 GaiaDrum: filler
+Glass Mask: unknown
 Great Bow: filler
 Grimoire: filler
 Gungnir: filler
+Hand Axe: unknown
 Headband: filler
 Heal: filler
 Heroine Armor: useful
@@ -71,19 +108,40 @@ Hook: progression
 HrGlass1: filler
 HrGlass2: filler
 HrGlass3: filler
+Ice Armor: unknown
+Ice Arrows: filler
 Ice Brand: filler
+Ice Claw: unknown
+Ice Rod: unknown
 Ice Shield: filler
 Illusion: filler
+Iron Arrows: unknown
+Iron Gauntlet: unknown
+Iron Helm: unknown
+Iron Shield: unknown
 Kain: progression
-Legend Sword: unknown
+Kamikaze: unknown
+Karate Gi: filler
+Leather Armor: unknown
+Leather Hat: unknown
+Legend Sword: progression
 Levia Summon: filler
+Life Staff: unknown
+Life: unknown
 Light Sword: filler
+Lilith Rod: filler
+Lit Arrows: unknown
 Lit-Bolt: filler
 Long Katana: filler
 Luca Key: unknown
 Lunar Staff: filler
-Magma Key: unknown
+Magma Key: progression
+MaidKiss: unknown
 Masamune: useful
+Medusa Arrows: unknown
+MoonVeil: unknown
+Murasame: unknown
+Mute Arrows: unknown
 Mute Dagger: filler
 MuteBell: filler
 Ninja Mask: filler
@@ -91,15 +149,27 @@ Ninja Shirt: filler
 Ninja Star: filler
 Ninja Sword: filler
 None: unknown
+Notus: unknown
 Odin Summon: filler
 Ogre Axe: filler
 Package: progression
+Paladin Armor: unknown
 Paladin Helm: filler
+Paladin Shield: unknown
+Palom: useful
+Pass: unknown
 Pink Tail: progression
+Poison Arrows: unknown
 Poison Axe: filler
+Poison Claw: unknown
+Porom: useful
 Power Shirt: filler
+Power Staff: filler
+Prisoner Clothes: unknown
 Protect Ring: filler
 Rat Tail: unknown
+Ribbon: unknown
+Rod: unknown
 Rosa: progression
 Ruby Ring: filler
 Rune Axe: filler
@@ -108,32 +178,55 @@ Rydia: progression
 Samurai Armor: filler
 Samurai Arrows: filler
 Samurai Bow: filler
+Samurai Gauntlet: unknown
 Samurai Helm: filler
 Samurai Shield: filler
 SandRuby: unknown
+Shadow Armor: unknown
+Shadow Gauntlet: unknown
+Shadow Helm: unknown
+Shadow Sword: unknown
+Short Bow: unknown
+Shuriken: unknown
 Silence Staff: filler
+Silver Armor: unknown
 Silver Gauntlet: filler
+Silver Hammer: unknown
+Silver Helm: unknown
+Silver Ring: filler
+Silver Shield: unknown
 Silver Staff: filler
+Silver Sword: filler
 Siren: filler
 Slumber Sword: filler
+Soft: unknown
 SomaDrop: filler
 Sorcerer Robe: filler
 Spear: filler
 Spoon: mcguffin
+Staff: unknown
 StarVeil: useful
 Stardust Rod: useful
 Stardust: filler
 Strength Ring: filler
 Sylph Summon: useful
+Tellah: unknown
 Tent: filler
+ThorRage: unknown
+Thunder Claw: filler
 Thunder Rod: filler
 Tiara: filler
-Tower Key: unknown
-TwinHarp: unknown
+Tower Key: progression
+TwinHarp: progression
+Unihorn: unknown
 Vampire: filler
+Whistle: unknown
+White Arrows: filler
 White Shirt: unknown
 Wind Spear: filler
 Wizard Hat: filler
 Wizard Robe: filler
+Wooden Hammer: unknown
+Yang: unknown
 Zeus Gauntlet: filler
 ZeusRage: filler
