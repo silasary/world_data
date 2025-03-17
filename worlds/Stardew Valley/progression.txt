@@ -1235,6 +1235,7 @@ Tilesanity: Mountains (9-5): unknown
 Tilesanity: Mountains (9-6): unknown
 Tilesanity: Mountains (9-7): unknown
 Tilesanity: Pelican Beach (1-1): unknown
+Tilesanity: Pelican Beach (10-3): unknown
 Tilesanity: Pelican Beach (10-4): unknown
 Tilesanity: Pelican Beach (11-4): unknown
 Tilesanity: Pelican Beach (2-2): unknown
@@ -1392,6 +1393,7 @@ Tilesanity: Pelican Town (17-17): unknown
 Tilesanity: Pelican Town (17-19): unknown
 Tilesanity: Pelican Town (17-20): unknown
 Tilesanity: Pelican Town (17-4): unknown
+Tilesanity: Pelican Town (17-9): unknown
 Tilesanity: Pelican Town (18-11): unknown
 Tilesanity: Pelican Town (18-12): unknown
 Tilesanity: Pelican Town (18-15): unknown
@@ -1593,8 +1595,10 @@ Tilesanity: Secret Woods (11-2): unknown
 Tilesanity: Secret Woods (11-3): unknown
 Tilesanity: Secret Woods (3-3): unknown
 Tilesanity: Secret Woods (4-3): unknown
+Tilesanity: Secret Woods (5-4): unknown
 Tilesanity: Secret Woods (6-1): unknown
 Tilesanity: Secret Woods (6-2): unknown
+Tilesanity: Secret Woods (8-1): unknown
 Tilesanity: Secret Woods (8-2): unknown
 Tilesanity: Secret Woods (8-4): unknown
 Tilesanity: Secret Woods (9-2): unknown
