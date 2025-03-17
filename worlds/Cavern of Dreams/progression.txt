@@ -1,6 +1,6 @@
 Activate Armada Lobby Red Pipe Updraft: progression
 Activate Palace Lobby Whirlpool: progression
-Aerial Tail: unknown
+Aerial Tail: progression
 American Egg: mcguffin
 Apple: progression
 Bat Egg: mcguffin
@@ -24,7 +24,7 @@ Card: Hunger: filler
 Card: Keehee: filler
 Card: Luna: filler
 Card: Mighty Wall: filler
-Card: Mr. Kerrington: unknown
+Card: Mr. Kerrington: filler
 Card: Pale Carpy: filler
 Card: Pom: filler
 Card: Preston: filler
@@ -32,7 +32,7 @@ Card: Raay: filler
 Card: Rattles: filler
 Card: Seedragon: filler
 Card: Shelwart: filler
-Card: Shroom: unknown
+Card: Shroom: filler
 Card: Skritch: filler
 Card: Sniffles: filler
 Card: The Gobbler!: filler
@@ -48,12 +48,12 @@ Easter Zig-zag Egg: mcguffin
 Extend Fire Lobby Frying Pans: progression
 Fish Food: progression
 Fishbones Egg: mcguffin
-Flower Egg: unknown
+Flower Egg: mcguffin
 Free Armada Buddies: progression
 Ghost Egg: mcguffin
 Gratitude 1: progression
 Gratitude 2: progression
-Gratitude 4: unknown
+Gratitude 4: progression
 Green Starry Egg: mcguffin
 Grounded Tail: progression
 Hatchable Egg: Gallery of Nightmares: progression
@@ -64,7 +64,7 @@ Horn: progression
 Jester Boots: progression
 Lady Opal's Egg 1: progression
 Lady Opal's Egg 2: progression
-Lady Opal's Egg 3: unknown
+Lady Opal's Egg 3: progression
 Lady Opal's Head: progression
 Lower Deep Woods Egg: mcguffin
 Medicine: progression
@@ -112,5 +112,5 @@ Sun Egg: mcguffin
 Swim: progression
 Topple Mighty Wall: progression
 Unclog Kerrington's Heart: progression
-Unfreeze Prismic Palace: unknown
+Unfreeze Prismic Palace: progression
 Wings: progression
