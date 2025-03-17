@@ -14,7 +14,7 @@ Battle Koma; Bo-bobo-4 [Bobobo-bo Bo-bobo]: unknown
 Battle Koma; Bo-bobo-5 [Bobobo-bo Bo-bobo]: unknown
 Battle Koma; Bo-bobo-6-Laughter [Bobobo-bo Bo-bobo]: useful
 Battle Koma; Bo-bobo-6-Power [Bobobo-bo Bo-bobo]: unknown
-Battle Koma; Bo-bobo-7 [Bobobo-bo Bo-bobo]: unknown
+Battle Koma; Bo-bobo-7 [Bobobo-bo Bo-bobo]: useful
 Battle Koma; CaramelMan J-8 (Dr. Slump): unknown
 Battle Koma; Dio-4 (JoJo's Bizarre Adventure): unknown
 Battle Koma; Dio-5-Knowledge (JoJo's Bizarre Adventure): unknown
@@ -97,6 +97,7 @@ Battle Koma; Kenshiro-8 (Fist Of The North Star): unknown
 Battle Koma; Killua-4 (Hunter x Hunter): unknown
 Battle Koma; Killua-5 (Hunter x Hunter): unknown
 Battle Koma; Kinnikuman-5 (Kinnikuman): useful
+Battle Koma; Kinnikuman-7 (Kinnikuman): useful
 Battle Koma; Kurama-4 (Yu Yu Hakusho): unknown
 Battle Koma; Lenalee-4 (Devil Gray-Man): unknown
 Battle Koma; Lenalee-5 (Devil Gray-Man): unknown
@@ -108,7 +109,7 @@ Battle Koma; Luffy-7 (One Piece): unknown
 Battle Koma; Luffy-8 (One Piece): unknown
 Battle Koma; Majin Buu-6-Laughter (Dragonball): unknown
 Battle Koma; Majin Buu-6-Power (Dragonball): unknown
-Battle Koma; Momotaro-4 (Sakigake!! Otokujuku): unknown
+Battle Koma; Momotaro-4 (Sakigake!! Otokujuku): useful
 Battle Koma; Momotaro-5 (Sakigake!! Otokujuku): unknown
 Battle Koma; Momotaro-6-Knowledge (Sakigake!! Otokujuku): unknown
 Battle Koma; Momotaro-6-Power (Sakigake!! Otokujuku): unknown
@@ -162,7 +163,7 @@ Battle Koma; Sanji-4 (One Piece): unknown
 Battle Koma; Sanji-5-Laughter (One Piece): unknown
 Battle Koma; Sanji-5-Power (One Piece): useful
 Battle Koma; Sanji-6 (One Piece): unknown
-Battle Koma; Sasuke-7 (Naruto): unknown
+Battle Koma; Sasuke-7 (Naruto): useful
 Battle Koma; Sasuke-8-Knowledge (Naruto): unknown
 Battle Koma; Sasuke-8-Power (Naruto): unknown
 Battle Koma; Seiya-4 (Saint Seiya): unknown
@@ -316,7 +317,7 @@ Support Koma; Buffalo Man-2 (Kinnikuman): useful
 Support Koma; Buffalo Man-3 (Kinnikuman): unknown
 Support Koma; Byakuya-2 (Bleach): useful
 Support Koma; Byakuya-3 (Bleach): unknown
-Support Koma; Cascade-2 (Midori no Makibaoh): unknown
+Support Koma; Cascade-2 (Midori no Makibaoh): useful
 Support Koma; Cascade-3 (Midori no Makibaoh): unknown
 Support Koma; Cerberus-3 (Eyeshield 21): unknown
 Support Koma; Chad-2 (Bleach): unknown
@@ -335,7 +336,7 @@ Support Koma; Dakki-2 (Houshin Engi): unknown
 Support Koma; Dakki-3 (Houshin Engi): unknown
 Support Koma; Date-2 (Sakigake!! Otokujuku): unknown
 Support Koma; Date-3 (Sakigake!! Otokujuku): unknown
-Support Koma; Devil Bat-3 (Eyeshield 21): unknown
+Support Koma; Devil Bat-3 (Eyeshield 21): useful
 Support Koma; Dio-2 (JoJo's Bizarre Adventure): unknown
 Support Koma; Dio-3 (JoJo's Bizarre Adventure): unknown
 Support Koma; Don Patch-2 (Bobobo-bo Bo-bobo): unknown
@@ -462,7 +463,7 @@ Support Koma; Kawamura-3 (Prince Of Tennis): useful
 Support Koma; Kazuki-2 (Busou Renkin): unknown
 Support Koma; Kazuki-3 (Busou Renkin): unknown
 Support Koma; Kenshin-2 (Rurouni Kenshin): unknown
-Support Koma; Kenshin-3 (Rurouni Kenshin): unknown
+Support Koma; Kenshin-3 (Rurouni Kenshin): useful
 Support Koma; Kenshiro-2 (Fist Of The North Star): unknown
 Support Koma; Kenshiro-3 (Fist Of The North Star): unknown
 Support Koma; Killua-2 (Hunter x Hunter): useful
@@ -572,7 +573,7 @@ Support Koma; Sakura-3 (Naruto): unknown
 Support Koma; Sanji-2 (One Piece): unknown
 Support Koma; Sanji-3 (One Piece): unknown
 Support Koma; Sanosuke-2 (Rurouni Kenshin): unknown
-Support Koma; Sanosuke-3 (Rurouni Kenshin): unknown
+Support Koma; Sanosuke-3 (Rurouni Kenshin): useful
 Support Koma; Satsuki-2 (Ichigo 100%): unknown
 Support Koma; Satsuki-3 (Ichigo 100%): unknown
 Support Koma; Seiya-2 (Saint Seiya): unknown
@@ -600,7 +601,7 @@ Support Koma; Sven-3 (Black Cat): unknown
 Support Koma; Ta-chan-2: unknown
 Support Koma; Ta-chan-3: unknown
 Support Koma; Taikobou-3 (Houshin Engi): unknown
-Support Koma; Taikoubou-2 (Houshin Engi): unknown
+Support Koma; Taikoubou-2 (Houshin Engi): useful
 Support Koma; Taison-2 (Rokudenashi Blues): unknown
 Support Koma; Taison-3 (Rokudenashi Blues): unknown
 Support Koma; Taizo-2 (Taizo Mote King Saga): useful
@@ -626,7 +627,7 @@ Support Koma; Uryu-2 (Bleach): useful
 Support Koma; Uryu-3 (Bleach): unknown
 Support Koma; Usopp-2 (One Piece): unknown
 Support Koma; Vegeta-2 (Dragonball): unknown
-Support Koma; Vegeta-3 (Dragonball): unknown
+Support Koma; Vegeta-3 (Dragonball): useful
 Support Koma; Volvo-2 (Kochikame): unknown
 Support Koma; Volvo-3 (Kochikame): unknown
 Support Koma; Wars Man-2 (Kinnikuman): unknown
