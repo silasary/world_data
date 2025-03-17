@@ -1,325 +1,325 @@
-Backpack: filler
-Big backpack: filler
-Leather helmet: filler
-Leather body armor: filler
-Leather greaves: filler
-Flippers: filler
-Head light: filler
+Advanced Battery: filler
+Advanced Scarecrow: filler
+Advanced biofuel refiner: filler
+Advanced collection net: filler
+Advanced grill: filler
 Advanced head light: filler
-Oxygen bottle: filler
-Zipline tool: progression
+Advanced large crop plot: filler
+Advanced medium crop plot: filler
+Advanced purifier: filler
+Advanced small crop plot: filler
+Advanced stationary anchor: filler
+Antenna: progression
+Backpack: filler
+Balboa Island Frequency: progression
+Basic bow: filler
+Battery charger: filler
+Battery: progression
+Beehive: filler
+Big backpack: filler
+Binoculars: filler
+Biofuel refiner: filler
+Birds nest: progression
+Bolt: progression
+Bucket: filler
+Caravan Island Frequency: progression
+Circuit board: progression
+Clay bowl: filler
+Cookingpot: filler
+Drinking glass: filler
+Electric Smelter: filler
+Electric grill: filler
+Electric purifier: filler
 Electric zipline tool: filler
 Empty bottle: progression
 Empty canteen: filler
-Bucket: filler
-Clay bowl: filler
-Drinking glass: filler
-Healing salve: filler
-Good healing salve: filler
-Cookingpot: filler
-Juicer: filler
-Advanced grill: filler
-Electric grill: filler
-Advanced purifier: filler
-Electric purifier: filler
-Advanced small crop plot: filler
-Advanced medium crop plot: filler
-Advanced large crop plot: filler
-Grass plot: progression
-Medium crop plot: filler
-Large crop plot: filler
-Scarecrow: filler
-Advanced Scarecrow: filler
-Sprinkler: filler
-Honey: filler
-Battery: progression
-Advanced Battery: filler
-Bolt: progression
-Circuit board: progression
-Hinge: progression
-Stationary anchor: filler
-Advanced stationary anchor: filler
 Engine controls: filler
 Engine: progression
-Receiver: progression
-Antenna: progression
-Steering Wheel: progression
-Battery charger: filler
-Wind turbine: filler
-Hammock: filler
-Beehive: filler
-Biofuel refiner: filler
-Advanced biofuel refiner: filler
-Birds nest: progression
-Simple collection net: filler
-Advanced collection net: filler
-Smelter: progression
-Electric Smelter: filler
-Fuel tank: filler
-Water tank: filler
-Fuel pipe: filler
-Water pipe: filler
-Recycler: filler
-Storage: filler
-Large Storage: filler
-Trashcan: filler
-Zipline: filler
 Firework: filler
+Flippers: filler
+Fuel pipe: filler
+Fuel tank: filler
+Good healing salve: filler
+Grass plot: progression
+Hammock: filler
+Head light: filler
+Healing salve: filler
+Hinge: progression
+Honey: filler
+Juicer: filler
+Large Storage: filler
+Large crop plot: filler
+Leather body armor: filler
+Leather greaves: filler
+Leather helmet: filler
+Machete: progression
+Medium crop plot: filler
+Metal arrow: filler
 Metal axe: filler
-Titanium axe: filler
-Binoculars: filler
-Metal fishing rod: filler
-Scrap hook: filler
-Titanium hook: filler
 Metal detector: progression
+Metal fishing rod: filler
+Metal spear: progression
+Net canister: progression
+Net launcher: progression
+Oxygen bottle: filler
+Receiver: progression
+Recycler: filler
+Resource Pack: 1 Clay: filler
+Resource Pack: 1 CopperOre: filler
+Resource Pack: 1 ExplosiveGoo: filler
+Resource Pack: 1 MetalOre: filler
+Resource Pack: 1 Plank: filler
+Resource Pack: 1 Plastic: filler
+Resource Pack: 1 Raw_Beet: filler
+Resource Pack: 1 Raw_Potato: filler
+Resource Pack: 1 Sand: filler
+Resource Pack: 1 Scrap: filler
+Resource Pack: 1 SeaVine: filler
+Resource Pack: 1 Stone: filler
+Resource Pack: 1 Thatch: filler
+Resource Pack: 1 TitaniumOre: filler
+Resource Pack: 10 Clay: filler
+Resource Pack: 10 CopperOre: filler
+Resource Pack: 10 ExplosiveGoo: filler
+Resource Pack: 10 MetalOre: filler
+Resource Pack: 10 Plank: filler
+Resource Pack: 10 Plastic: filler
+Resource Pack: 10 Raw_Beet: filler
+Resource Pack: 10 Raw_Potato: filler
+Resource Pack: 10 Sand: filler
+Resource Pack: 10 Scrap: filler
+Resource Pack: 10 SeaVine: filler
+Resource Pack: 10 Stone: filler
+Resource Pack: 10 Thatch: filler
+Resource Pack: 10 TitaniumOre: filler
+Resource Pack: 11 Clay: filler
+Resource Pack: 11 CopperOre: filler
+Resource Pack: 11 ExplosiveGoo: filler
+Resource Pack: 11 MetalOre: filler
+Resource Pack: 11 Plank: filler
+Resource Pack: 11 Plastic: filler
+Resource Pack: 11 Raw_Beet: filler
+Resource Pack: 11 Raw_Potato: filler
+Resource Pack: 11 Sand: filler
+Resource Pack: 11 Scrap: filler
+Resource Pack: 11 SeaVine: filler
+Resource Pack: 11 Stone: filler
+Resource Pack: 11 Thatch: filler
+Resource Pack: 11 TitaniumOre: filler
+Resource Pack: 12 Clay: filler
+Resource Pack: 12 CopperOre: filler
+Resource Pack: 12 ExplosiveGoo: filler
+Resource Pack: 12 MetalOre: filler
+Resource Pack: 12 Plank: filler
+Resource Pack: 12 Plastic: filler
+Resource Pack: 12 Raw_Beet: filler
+Resource Pack: 12 Raw_Potato: filler
+Resource Pack: 12 Sand: filler
+Resource Pack: 12 Scrap: filler
+Resource Pack: 12 SeaVine: filler
+Resource Pack: 12 Stone: filler
+Resource Pack: 12 Thatch: filler
+Resource Pack: 12 TitaniumOre: filler
+Resource Pack: 13 Clay: filler
+Resource Pack: 13 CopperOre: filler
+Resource Pack: 13 ExplosiveGoo: filler
+Resource Pack: 13 MetalOre: filler
+Resource Pack: 13 Plank: filler
+Resource Pack: 13 Plastic: filler
+Resource Pack: 13 Raw_Beet: filler
+Resource Pack: 13 Raw_Potato: filler
+Resource Pack: 13 Sand: filler
+Resource Pack: 13 Scrap: filler
+Resource Pack: 13 SeaVine: filler
+Resource Pack: 13 Stone: filler
+Resource Pack: 13 Thatch: filler
+Resource Pack: 13 TitaniumOre: filler
+Resource Pack: 14 Clay: filler
+Resource Pack: 14 CopperOre: filler
+Resource Pack: 14 ExplosiveGoo: filler
+Resource Pack: 14 MetalOre: filler
+Resource Pack: 14 Plank: filler
+Resource Pack: 14 Plastic: filler
+Resource Pack: 14 Raw_Beet: filler
+Resource Pack: 14 Raw_Potato: filler
+Resource Pack: 14 Sand: filler
+Resource Pack: 14 Scrap: filler
+Resource Pack: 14 SeaVine: filler
+Resource Pack: 14 Stone: filler
+Resource Pack: 14 Thatch: filler
+Resource Pack: 14 TitaniumOre: filler
+Resource Pack: 15 Clay: filler
+Resource Pack: 15 CopperOre: filler
+Resource Pack: 15 ExplosiveGoo: filler
+Resource Pack: 15 MetalOre: filler
+Resource Pack: 15 Plank: filler
+Resource Pack: 15 Plastic: filler
+Resource Pack: 15 Raw_Beet: filler
+Resource Pack: 15 Raw_Potato: filler
+Resource Pack: 15 Sand: filler
+Resource Pack: 15 Scrap: filler
+Resource Pack: 15 SeaVine: filler
+Resource Pack: 15 Stone: filler
+Resource Pack: 15 Thatch: filler
+Resource Pack: 15 TitaniumOre: filler
+Resource Pack: 2 Clay: filler
+Resource Pack: 2 CopperOre: filler
+Resource Pack: 2 ExplosiveGoo: filler
+Resource Pack: 2 MetalOre: filler
+Resource Pack: 2 Plank: filler
+Resource Pack: 2 Plastic: filler
+Resource Pack: 2 Raw_Beet: filler
+Resource Pack: 2 Raw_Potato: filler
+Resource Pack: 2 Sand: filler
+Resource Pack: 2 Scrap: filler
+Resource Pack: 2 SeaVine: filler
+Resource Pack: 2 Stone: filler
+Resource Pack: 2 Thatch: filler
+Resource Pack: 2 TitaniumOre: filler
+Resource Pack: 3 Clay: filler
+Resource Pack: 3 CopperOre: filler
+Resource Pack: 3 ExplosiveGoo: filler
+Resource Pack: 3 MetalOre: filler
+Resource Pack: 3 Plank: filler
+Resource Pack: 3 Plastic: filler
+Resource Pack: 3 Raw_Beet: filler
+Resource Pack: 3 Raw_Potato: filler
+Resource Pack: 3 Sand: filler
+Resource Pack: 3 Scrap: filler
+Resource Pack: 3 SeaVine: filler
+Resource Pack: 3 Stone: filler
+Resource Pack: 3 Thatch: filler
+Resource Pack: 3 TitaniumOre: filler
+Resource Pack: 4 Clay: filler
+Resource Pack: 4 CopperOre: filler
+Resource Pack: 4 ExplosiveGoo: filler
+Resource Pack: 4 MetalOre: filler
+Resource Pack: 4 Plank: filler
+Resource Pack: 4 Plastic: filler
+Resource Pack: 4 Raw_Beet: filler
+Resource Pack: 4 Raw_Potato: filler
+Resource Pack: 4 Sand: filler
+Resource Pack: 4 Scrap: filler
+Resource Pack: 4 SeaVine: filler
+Resource Pack: 4 Stone: filler
+Resource Pack: 4 Thatch: filler
+Resource Pack: 4 TitaniumOre: filler
+Resource Pack: 5 Clay: filler
+Resource Pack: 5 CopperOre: filler
+Resource Pack: 5 ExplosiveGoo: filler
+Resource Pack: 5 MetalOre: filler
+Resource Pack: 5 Plank: filler
+Resource Pack: 5 Plastic: filler
+Resource Pack: 5 Raw_Beet: filler
+Resource Pack: 5 Raw_Potato: filler
+Resource Pack: 5 Sand: filler
+Resource Pack: 5 Scrap: filler
+Resource Pack: 5 SeaVine: filler
+Resource Pack: 5 Stone: filler
+Resource Pack: 5 Thatch: filler
+Resource Pack: 5 TitaniumOre: filler
+Resource Pack: 6 Clay: filler
+Resource Pack: 6 CopperOre: filler
+Resource Pack: 6 ExplosiveGoo: filler
+Resource Pack: 6 MetalOre: filler
+Resource Pack: 6 Plank: filler
+Resource Pack: 6 Plastic: filler
+Resource Pack: 6 Raw_Beet: filler
+Resource Pack: 6 Raw_Potato: filler
+Resource Pack: 6 Sand: filler
+Resource Pack: 6 Scrap: filler
+Resource Pack: 6 SeaVine: filler
+Resource Pack: 6 Stone: filler
+Resource Pack: 6 Thatch: filler
+Resource Pack: 6 TitaniumOre: filler
+Resource Pack: 7 Clay: filler
+Resource Pack: 7 CopperOre: filler
+Resource Pack: 7 ExplosiveGoo: filler
+Resource Pack: 7 MetalOre: filler
+Resource Pack: 7 Plank: filler
+Resource Pack: 7 Plastic: filler
+Resource Pack: 7 Raw_Beet: filler
+Resource Pack: 7 Raw_Potato: filler
+Resource Pack: 7 Sand: filler
+Resource Pack: 7 Scrap: filler
+Resource Pack: 7 SeaVine: filler
+Resource Pack: 7 Stone: filler
+Resource Pack: 7 Thatch: filler
+Resource Pack: 7 TitaniumOre: filler
+Resource Pack: 8 Clay: filler
+Resource Pack: 8 CopperOre: filler
+Resource Pack: 8 ExplosiveGoo: filler
+Resource Pack: 8 MetalOre: filler
+Resource Pack: 8 Plank: filler
+Resource Pack: 8 Plastic: filler
+Resource Pack: 8 Raw_Beet: filler
+Resource Pack: 8 Raw_Potato: filler
+Resource Pack: 8 Sand: filler
+Resource Pack: 8 Scrap: filler
+Resource Pack: 8 SeaVine: filler
+Resource Pack: 8 Stone: filler
+Resource Pack: 8 Thatch: filler
+Resource Pack: 8 TitaniumOre: filler
+Resource Pack: 9 Clay: filler
+Resource Pack: 9 CopperOre: filler
+Resource Pack: 9 ExplosiveGoo: filler
+Resource Pack: 9 MetalOre: filler
+Resource Pack: 9 Plank: filler
+Resource Pack: 9 Plastic: filler
+Resource Pack: 9 Raw_Beet: filler
+Resource Pack: 9 Raw_Potato: filler
+Resource Pack: 9 Sand: filler
+Resource Pack: 9 Scrap: filler
+Resource Pack: 9 SeaVine: filler
+Resource Pack: 9 Stone: filler
+Resource Pack: 9 Thatch: filler
+Resource Pack: 9 TitaniumOre: filler
+Scarecrow: filler
+Scrap hook: filler
 Shear: progression
 Shovel: progression
-Sweep net: filler
-Basic bow: filler
+Simple collection net: filler
+Smelter: progression
+Sprinkler: filler
+Stationary anchor: filler
+Steering Wheel: progression
 Stone arrow: filler
-Metal arrow: filler
-Titanium arrow: filler
-Metal spear: progression
-Machete: progression
-Titanium sword: filler
-Net launcher: progression
-Net canister: progression
-Vasagatan Frequency: progression
-Balboa Island Frequency: progression
+Storage: filler
+Sweep net: filler
 Tangaroa Frequency: progression
-Varuna Point Frequency: progression
 Temperance Frequency: progression
+Titanium arrow: filler
+Titanium axe: filler
+Titanium hook: filler
+Titanium sword: filler
+Trashcan: filler
 Utopia Frequency: progression
-Caravan Island Frequency: progression
-progressive-salve: filler
+Varuna Point Frequency: progression
+Vasagatan Frequency: progression
+Water pipe: filler
+Water tank: filler
+Wind turbine: filler
+Zipline tool: progression
+Zipline: filler
+progressive-anchor: filler
+progressive-axe: filler
 progressive-backpack: filler
-progressive-containers: filler
-progressive-headlight: filler
+progressive-battery: progression
 progressive-biofuel: filler
 progressive-bottle: progression
-progressive-grill: filler
-progressive-purifier: filler
+progressive-bow: filler
+progressive-containers: filler
 progressive-crop-plot: progression
-progressive-battery: progression
-progressive-anchor: filler
 progressive-engine: progression
-progressive-scarecrow: filler
+progressive-frequency: progression
+progressive-grill: filler
+progressive-headlight: filler
+progressive-hook: filler
+progressive-metals: filler
 progressive-net: progression
+progressive-purifier: filler
+progressive-salve: filler
+progressive-scarecrow: filler
+progressive-spear: filler
 progressive-storage: filler
 progressive-zipline: progression
-progressive-metals: filler
-progressive-bow: filler
-progressive-axe: filler
-progressive-hook: filler
-progressive-spear: filler
-progressive-frequency: progression
-Resource Pack: 1 Plank: filler
-Resource Pack: 2 Plank: filler
-Resource Pack: 3 Plank: filler
-Resource Pack: 4 Plank: filler
-Resource Pack: 5 Plank: filler
-Resource Pack: 6 Plank: filler
-Resource Pack: 7 Plank: filler
-Resource Pack: 8 Plank: filler
-Resource Pack: 9 Plank: filler
-Resource Pack: 10 Plank: filler
-Resource Pack: 11 Plank: filler
-Resource Pack: 12 Plank: filler
-Resource Pack: 13 Plank: filler
-Resource Pack: 14 Plank: filler
-Resource Pack: 15 Plank: filler
-Resource Pack: 1 Plastic: filler
-Resource Pack: 2 Plastic: filler
-Resource Pack: 3 Plastic: filler
-Resource Pack: 4 Plastic: filler
-Resource Pack: 5 Plastic: filler
-Resource Pack: 6 Plastic: filler
-Resource Pack: 7 Plastic: filler
-Resource Pack: 8 Plastic: filler
-Resource Pack: 9 Plastic: filler
-Resource Pack: 10 Plastic: filler
-Resource Pack: 11 Plastic: filler
-Resource Pack: 12 Plastic: filler
-Resource Pack: 13 Plastic: filler
-Resource Pack: 14 Plastic: filler
-Resource Pack: 15 Plastic: filler
-Resource Pack: 1 Clay: filler
-Resource Pack: 2 Clay: filler
-Resource Pack: 3 Clay: filler
-Resource Pack: 4 Clay: filler
-Resource Pack: 5 Clay: filler
-Resource Pack: 6 Clay: filler
-Resource Pack: 7 Clay: filler
-Resource Pack: 8 Clay: filler
-Resource Pack: 9 Clay: filler
-Resource Pack: 10 Clay: filler
-Resource Pack: 11 Clay: filler
-Resource Pack: 12 Clay: filler
-Resource Pack: 13 Clay: filler
-Resource Pack: 14 Clay: filler
-Resource Pack: 15 Clay: filler
-Resource Pack: 1 Stone: filler
-Resource Pack: 2 Stone: filler
-Resource Pack: 3 Stone: filler
-Resource Pack: 4 Stone: filler
-Resource Pack: 5 Stone: filler
-Resource Pack: 6 Stone: filler
-Resource Pack: 7 Stone: filler
-Resource Pack: 8 Stone: filler
-Resource Pack: 9 Stone: filler
-Resource Pack: 10 Stone: filler
-Resource Pack: 11 Stone: filler
-Resource Pack: 12 Stone: filler
-Resource Pack: 13 Stone: filler
-Resource Pack: 14 Stone: filler
-Resource Pack: 15 Stone: filler
-Resource Pack: 1 Scrap: filler
-Resource Pack: 2 Scrap: filler
-Resource Pack: 3 Scrap: filler
-Resource Pack: 4 Scrap: filler
-Resource Pack: 5 Scrap: filler
-Resource Pack: 6 Scrap: filler
-Resource Pack: 7 Scrap: filler
-Resource Pack: 8 Scrap: filler
-Resource Pack: 9 Scrap: filler
-Resource Pack: 10 Scrap: filler
-Resource Pack: 11 Scrap: filler
-Resource Pack: 12 Scrap: filler
-Resource Pack: 13 Scrap: filler
-Resource Pack: 14 Scrap: filler
-Resource Pack: 15 Scrap: filler
-Resource Pack: 1 SeaVine: filler
-Resource Pack: 2 SeaVine: filler
-Resource Pack: 3 SeaVine: filler
-Resource Pack: 4 SeaVine: filler
-Resource Pack: 5 SeaVine: filler
-Resource Pack: 6 SeaVine: filler
-Resource Pack: 7 SeaVine: filler
-Resource Pack: 8 SeaVine: filler
-Resource Pack: 9 SeaVine: filler
-Resource Pack: 10 SeaVine: filler
-Resource Pack: 11 SeaVine: filler
-Resource Pack: 12 SeaVine: filler
-Resource Pack: 13 SeaVine: filler
-Resource Pack: 14 SeaVine: filler
-Resource Pack: 15 SeaVine: filler
-Resource Pack: 1 Thatch: filler
-Resource Pack: 2 Thatch: filler
-Resource Pack: 3 Thatch: filler
-Resource Pack: 4 Thatch: filler
-Resource Pack: 5 Thatch: filler
-Resource Pack: 6 Thatch: filler
-Resource Pack: 7 Thatch: filler
-Resource Pack: 8 Thatch: filler
-Resource Pack: 9 Thatch: filler
-Resource Pack: 10 Thatch: filler
-Resource Pack: 11 Thatch: filler
-Resource Pack: 12 Thatch: filler
-Resource Pack: 13 Thatch: filler
-Resource Pack: 14 Thatch: filler
-Resource Pack: 15 Thatch: filler
-Resource Pack: 1 Sand: filler
-Resource Pack: 2 Sand: filler
-Resource Pack: 3 Sand: filler
-Resource Pack: 4 Sand: filler
-Resource Pack: 5 Sand: filler
-Resource Pack: 6 Sand: filler
-Resource Pack: 7 Sand: filler
-Resource Pack: 8 Sand: filler
-Resource Pack: 9 Sand: filler
-Resource Pack: 10 Sand: filler
-Resource Pack: 11 Sand: filler
-Resource Pack: 12 Sand: filler
-Resource Pack: 13 Sand: filler
-Resource Pack: 14 Sand: filler
-Resource Pack: 15 Sand: filler
-Resource Pack: 1 Raw_Beet: filler
-Resource Pack: 2 Raw_Beet: filler
-Resource Pack: 3 Raw_Beet: filler
-Resource Pack: 4 Raw_Beet: filler
-Resource Pack: 5 Raw_Beet: filler
-Resource Pack: 6 Raw_Beet: filler
-Resource Pack: 7 Raw_Beet: filler
-Resource Pack: 8 Raw_Beet: filler
-Resource Pack: 9 Raw_Beet: filler
-Resource Pack: 10 Raw_Beet: filler
-Resource Pack: 11 Raw_Beet: filler
-Resource Pack: 12 Raw_Beet: filler
-Resource Pack: 13 Raw_Beet: filler
-Resource Pack: 14 Raw_Beet: filler
-Resource Pack: 15 Raw_Beet: filler
-Resource Pack: 1 Raw_Potato: filler
-Resource Pack: 2 Raw_Potato: filler
-Resource Pack: 3 Raw_Potato: filler
-Resource Pack: 4 Raw_Potato: filler
-Resource Pack: 5 Raw_Potato: filler
-Resource Pack: 6 Raw_Potato: filler
-Resource Pack: 7 Raw_Potato: filler
-Resource Pack: 8 Raw_Potato: filler
-Resource Pack: 9 Raw_Potato: filler
-Resource Pack: 10 Raw_Potato: filler
-Resource Pack: 11 Raw_Potato: filler
-Resource Pack: 12 Raw_Potato: filler
-Resource Pack: 13 Raw_Potato: filler
-Resource Pack: 14 Raw_Potato: filler
-Resource Pack: 15 Raw_Potato: filler
-Resource Pack: 1 MetalOre: filler
-Resource Pack: 2 MetalOre: filler
-Resource Pack: 3 MetalOre: filler
-Resource Pack: 4 MetalOre: filler
-Resource Pack: 5 MetalOre: filler
-Resource Pack: 6 MetalOre: filler
-Resource Pack: 7 MetalOre: filler
-Resource Pack: 8 MetalOre: filler
-Resource Pack: 9 MetalOre: filler
-Resource Pack: 10 MetalOre: filler
-Resource Pack: 11 MetalOre: filler
-Resource Pack: 12 MetalOre: filler
-Resource Pack: 13 MetalOre: filler
-Resource Pack: 14 MetalOre: filler
-Resource Pack: 15 MetalOre: filler
-Resource Pack: 1 TitaniumOre: filler
-Resource Pack: 2 TitaniumOre: filler
-Resource Pack: 3 TitaniumOre: filler
-Resource Pack: 4 TitaniumOre: filler
-Resource Pack: 5 TitaniumOre: filler
-Resource Pack: 6 TitaniumOre: filler
-Resource Pack: 7 TitaniumOre: filler
-Resource Pack: 8 TitaniumOre: filler
-Resource Pack: 9 TitaniumOre: filler
-Resource Pack: 10 TitaniumOre: filler
-Resource Pack: 11 TitaniumOre: filler
-Resource Pack: 12 TitaniumOre: filler
-Resource Pack: 13 TitaniumOre: filler
-Resource Pack: 14 TitaniumOre: filler
-Resource Pack: 15 TitaniumOre: filler
-Resource Pack: 1 CopperOre: filler
-Resource Pack: 2 CopperOre: filler
-Resource Pack: 3 CopperOre: filler
-Resource Pack: 4 CopperOre: filler
-Resource Pack: 5 CopperOre: filler
-Resource Pack: 6 CopperOre: filler
-Resource Pack: 7 CopperOre: filler
-Resource Pack: 8 CopperOre: filler
-Resource Pack: 9 CopperOre: filler
-Resource Pack: 10 CopperOre: filler
-Resource Pack: 11 CopperOre: filler
-Resource Pack: 12 CopperOre: filler
-Resource Pack: 13 CopperOre: filler
-Resource Pack: 14 CopperOre: filler
-Resource Pack: 15 CopperOre: filler
-Resource Pack: 1 ExplosiveGoo: filler
-Resource Pack: 2 ExplosiveGoo: filler
-Resource Pack: 3 ExplosiveGoo: filler
-Resource Pack: 4 ExplosiveGoo: filler
-Resource Pack: 5 ExplosiveGoo: filler
-Resource Pack: 6 ExplosiveGoo: filler
-Resource Pack: 7 ExplosiveGoo: filler
-Resource Pack: 8 ExplosiveGoo: filler
-Resource Pack: 9 ExplosiveGoo: filler
-Resource Pack: 10 ExplosiveGoo: filler
-Resource Pack: 11 ExplosiveGoo: filler
-Resource Pack: 12 ExplosiveGoo: filler
-Resource Pack: 13 ExplosiveGoo: filler
-Resource Pack: 14 ExplosiveGoo: filler
-Resource Pack: 15 ExplosiveGoo: filler
