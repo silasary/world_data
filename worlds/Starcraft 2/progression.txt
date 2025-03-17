@@ -132,6 +132,7 @@ Combat Sensor Array (Scout): useful
 Combat Shield (Marine): progression
 Command Center Reactor: useful
 Comorbidity (Defiler): unknown
+Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Spew (Infested Diamondback): unknown
 Concussive Shells (Marauder): useful
@@ -531,6 +532,7 @@ Resource Efficiency (HERC): useful
 Resource Efficiency (Hydralisk): useful
 Resource Efficiency (Liberator): filler
 Resource Efficiency (Medic): filler
+Resource Efficiency (Missile Turret): unknown
 Resource Efficiency (Predator): filler
 Resource Efficiency (Raven): useful
 Resource Efficiency (Reaver): useful
