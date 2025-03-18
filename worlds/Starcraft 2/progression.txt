@@ -14,6 +14,7 @@
 9 Kerrigan Levels: progression
 ATX Laser Battery (Battlecruiser): progression
 Aberration: progression
+Ability Efficiency (Arbiter): useful
 Ability Efficiency (Kerrigan Passive): unknown
 Ability Efficiency (Kerrigan Tier 6): useful
 Acid Spore Vents (Infested Missile Turret): useful
@@ -66,7 +67,7 @@ Argus Jewel (Corsair): useful
 Argus Talisman (Dark Archon): useful
 Armor Melting Blasters (Oppressor): unknown
 Armored Suit Module (Nova Suit Module): progression
-Artillery Ducts (Bile Launcher): unknown
+Artillery Ducts (Bile Launcher): useful
 Ascendant: progression
 Auto Launchers (Vulture): useful
 Auto-Repair (Vulture): useful
@@ -78,7 +79,7 @@ Balanced Roots (Infested Siege Tank): unknown
 Baneling Aspect (Zergling): progression
 Baneling Incubation (Aberration): unknown
 Banshee: progression
-Barrage of Spikes (Tyrannozor): unknown
+Barrage of Spikes (Tyrannozor): useful
 Battlecruiser: progression
 Behemoth Plating (Battlecruiser): useful
 Bile Launcher: unknown
@@ -290,6 +291,7 @@ Improved Osmosis (Devourer): filler
 Improved Overlords (Kerrigan Tier 3): useful
 Improved Overlords (Overlord): unknown
 Incinerator Gauntlets (Firebat): filler
+Increased Building Construction Speed: filler
 Increased Shield Regeneration: unknown
 Incubator Chamber (Swarm Queen): useful
 Infernal Plating (Hellion): useful
@@ -356,6 +358,7 @@ Launching Vector Compensator (Valkyrie): filler
 Leaping Strike (Kerrigan Ability): unknown
 Leaping Strike (Kerrigan Tier 1): progression
 Leg Enhancements (Zealot/Sentinel/Centurion): useful
+Lesser Shadow Fury (Dark Templar): useful
 Liberator: progression
 Lockdown (Ghost): useful
 Locust Metabolic Boost (Swarm Host): filler
@@ -375,6 +378,7 @@ Mass Recall (Spear of Adun Calldown): useful
 Matrix Overload (Protoss): unknown
 Matrix Overload: useful
 Matter Dispersion (Vanguard): useful
+Mechanical Know-how (Terran): useful
 Medic: progression
 Medivac: progression
 Mend (Kerrigan Tier 4): progression
@@ -420,6 +424,7 @@ Optimized Ordnance (Protoss): unknown
 Optimized Ordnance: useful
 Oracle: progression
 Orbital Assimilators: useful
+Orbital Depots (Terran): useful
 Orbital Depots: useful
 Orbital Strike (Spear of Adun Calldown): useful
 Orbital Strike: useful
@@ -651,7 +656,7 @@ Soronan Acid (Guardian): useful
 Soul Augmentation (Supplicant): filler
 Spacetime Anchor (Arbiter): useful
 Spartan Company: progression
-Spawn Banelings (Kerrigan Ability): unknown
+Spawn Banelings (Kerrigan Ability): progression
 Spawn Banelings (Kerrigan Tier 4): progression
 Spawn Larvae (Swarm Queen): useful
 Spawn Leviathan (Kerrigan Tier 7): progression
@@ -696,6 +701,7 @@ Temporal Acceleration Beam (Oracle): useful
 Temporal Field (Spear of Adun Calldown): useful
 Thermite Filaments (Hellion): useful
 Thor: progression
+Thornshells: progression
 Time Stop (Spear of Adun Calldown): progression
 Tissue Assimilation (Ultralisk): useful
 Titanium Housing (Missile Turret): filler
@@ -743,6 +749,7 @@ Winged Nightmares: progression
 Wraith: progression
 Wrathwalker: progression
 Zealot: progression
+Zenith Pitch (Supplicant): progression
 Zergling Reconstitution (Kerrigan Tier 3): filler
 Zergling Reconstitution (Zerg): unknown
 Zergling: progression
