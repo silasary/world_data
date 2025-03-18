@@ -16,7 +16,7 @@ ATX Laser Battery (Battlecruiser): progression
 Aberration: progression
 Ability Efficiency (Kerrigan Passive): unknown
 Ability Efficiency (Kerrigan Tier 6): useful
-Acid Spore Vents (Infested Missile Turret): unknown
+Acid Spore Vents (Infested Missile Turret): useful
 Acidic Enzymes (Infested Siege Tank): unknown
 Adapted Spines (Lurker): useful
 Adaptive Medpacks (Medic): progression
@@ -543,6 +543,7 @@ Rapid Reignition Systems (Medivac): unknown
 Raptor Strain (Zergling): useful
 Ravager Aspect (Roach): useful
 Raven: progression
+Ravenous Appetite (Nydus Worm): useful
 Reaper: progression
 Reaver Capacity (Reaver): filler
 Reaver: progression
@@ -709,6 +710,7 @@ Vanguard: progression
 Ventral Sacs (Overlord): useful
 Vespene Efficiency (Kerrigan Tier 5): useful
 Vespene Efficiency (Zerg): unknown
+Vespene Synthesis (Predator): useful
 Vicious Glaive (Mutalisk): useful
 Viking: progression
 Vile Strain (Roach): useful
