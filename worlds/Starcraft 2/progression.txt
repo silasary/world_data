@@ -190,7 +190,7 @@ Drilling Claws (Widow Mine): filler
 Drop-Pods (Kerrigan Ability): unknown
 Drop-Pods (Kerrigan Tier 7): progression
 Dual-Fusion Welders (SCV): useful
-Ducal Blades (Pygalisk): unknown
+Ducal Blades (Pygalisk): useful
 Durable Materials (Raven): filler
 Dusk Wings: useful
 EMP Rounds (Ghost): useful
@@ -210,6 +210,7 @@ Evolved Carapace (Brood Lord): useful
 Excavating Claws (Zerg): unknown
 Executioner Missiles (Widow Mine): useful
 Expanded Hull (Medivac): filler
+Expeditionary Hull (Scout): useful
 Explosive Spores (Guardian): unknown
 Eye of Wrath (Wrathwalker): filler
 Feedback (Dark Archon): useful
@@ -228,6 +229,7 @@ Frightful Fleshwelder (Infested Siege Tank): unknown
 Fungal Growth (Brood Queen): useful
 Fury (Kerrigan Passive): unknown
 Fury (Kerrigan Tier 6): progression
+Fusion Mortars (Vanguard): useful
 G-4 Clusterbomb (Reaper): progression
 Gaping Maw (Devourer): useful
 Generate Creep (Overlord): unknown
@@ -306,6 +308,7 @@ Infested Marine: unknown
 Infested Medics: useful
 Infested Missile Turret: unknown
 Infested Siege Breakers: unknown
+Infested Siege Tank: progression
 Infested Siege Tanks: useful
 Infested Terran (Infestor): useful
 Infestor: progression
@@ -527,6 +530,7 @@ Progressive Zerg Weapon/Armor Upgrade: useful
 Projectile Accelerator (Bunker): useful
 Prolonged Dispersion (Guardian): useful
 Propellant Sacs (Guardian): unknown
+Protective Cover (Aberration): useful
 Psi Disrupter: progression
 Psionic Lash (Spectre): progression
 Psionic Shift (Kerrigan Tier 2): progression
@@ -652,6 +656,7 @@ Solar Lance (Spear of Adun Calldown): progression
 Solarite Lens (Dawnbringer): unknown
 Solarite Payload (Reaver): useful
 Solarite Reactor (Caladrius): unknown
+Sonic Disrupter (Psi Disrupter): progression
 Soronan Acid (Guardian): useful
 Soul Augmentation (Supplicant): filler
 Spacetime Anchor (Arbiter): useful
@@ -744,6 +749,7 @@ Warhound: progression
 Warp Harmonization: useful
 Warp Prism: progression
 Widow Mine: progression
+Wild Mutation (Kerrigan Ability): progression
 Wild Mutation (Kerrigan Tier 4): progression
 Winged Nightmares: progression
 Wraith: progression
