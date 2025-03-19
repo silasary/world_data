@@ -11,6 +11,7 @@ Building: Clean Pipeline Mk.2: unknown
 Building: Coal Generator: unknown
 Building: Concrete Pillar: unknown
 Building: Constructor: unknown
+Building: Converter: unknown
 Building: Conveyor Ceiling Mount: unknown
 Building: Conveyor Lift Floor Hole: unknown
 Building: Conveyor Lift Mk.1: progression
@@ -75,7 +76,7 @@ Building: Pipeline Junction Cross: unknown
 Building: Pipeline Pump Mk.1: progression
 Building: Pipeline Pump Mk.2: progression
 Building: Pipeline Wall Hole: unknown
-Building: Pipes Mk.1: unknown
+Building: Pipes Mk.1: progression
 Building: Pipes Mk.2: progression
 Building: Power Pole Mk.2: unknown
 Building: Power Pole Mk.3: unknown
@@ -83,7 +84,7 @@ Building: Power Storage: useful
 Building: Power Switch: useful
 Building: Power Tower: useful
 Building: Priority Power Switch: unknown
-Building: Programmable Splitter: unknown
+Building: Programmable Splitter: progression
 Building: Quarter Pipe Extensions Pack: unknown
 Building: Quarter Pipes Pack: unknown
 Building: Radar Tower: unknown
@@ -241,6 +242,7 @@ Bundle: Quartz Crystal: filler
 Bundle: Quickwire: filler
 Bundle: Radio Control Unit: filler
 Bundle: Raw Quartz: unknown
+Bundle: Reanimated SAM: unknown
 Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
 Bundle: Rifle Ammo: unknown
@@ -313,6 +315,7 @@ Inflated Pocket Dimension: useful
 Not The Bees: unknown
 Nuclear Waste (ground): unknown
 Plutonium Waste (ground): unknown
+Recipe: AI Expansion Server: unknown
 Recipe: AI Limiter: progression
 Recipe: Adaptive Control Unit: progression
 Recipe: Adhered Iron Plate: progression
@@ -369,6 +372,8 @@ Recipe: Copper Sheet: unknown
 Recipe: Crystal Beacon: unknown
 Recipe: Crystal Computer: progression
 Recipe: Crystal Oscillator: progression
+Recipe: Dark Matter Crystal: unknown
+Recipe: Dark Matter Crystallization: unknown
 Recipe: Dark Matter Trap: unknown
 Recipe: Diluted Fuel (refinery): useful
 Recipe: Diluted Fuel: useful
@@ -394,9 +399,10 @@ Recipe: Ficsite Trigon: progression
 Recipe: Ficsonium: useful
 Recipe: Fine Black Powder: progression
 Recipe: Fine Concrete: unknown
-Recipe: Flexible Framework: unknown
+Recipe: Flexible Framework: progression
 Recipe: Fuel: progression
 Recipe: Fused Modular Frame: useful
+Recipe: Fused Quartz Crystal: unknown
 Recipe: Fused Quickwire: unknown
 Recipe: Fused Wire: useful
 Recipe: Gas Filter: unknown
@@ -429,6 +435,7 @@ Recipe: Iron Rod: unknown
 Recipe: Iron Wire: progression
 Recipe: Leached Caterium Ingot: progression
 Recipe: Leached Copper Ingot: progression
+Recipe: Leached Iron ingot: unknown
 Recipe: Liquid Biofuel: useful
 Recipe: Magnetic Field Generator: unknown
 Recipe: Modular Engine: progression
@@ -436,7 +443,9 @@ Recipe: Modular Frame: unknown
 Recipe: Molded Beam: unknown
 Recipe: Molded Steel Pipe: progression
 Recipe: Motor: useful
+Recipe: Neural-Quantum Processor: unknown
 Recipe: Nitric Acid: unknown
+Recipe: Nitro Rocket Fuel: unknown
 Recipe: Nitrogen Gas: unknown
 Recipe: Nobelisk: progression
 Recipe: Non-fissile Uranium: progression
@@ -460,6 +469,7 @@ Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
 Recipe: Parachute: unknown
 Recipe: Petroleum Coke: progression
+Recipe: Petroleum Diamonds: unknown
 Recipe: Pink Diamonds: progression
 Recipe: Plastic Smart Plating: useful
 Recipe: Plastic: progression
@@ -487,7 +497,7 @@ Recipe: Quickwire: progression
 Recipe: Radio Connection Unit: unknown
 Recipe: Radio Control System: progression
 Recipe: Radio Control Unit: progression
-Recipe: Reanimated SAM: unknown
+Recipe: Reanimated SAM: progression
 Recipe: Rebar Gun: unknown
 Recipe: Recycled Plastic: progression
 Recipe: Recycled Rubber: progression
@@ -530,11 +540,14 @@ Recipe: Stun Rebar: unknown
 Recipe: Sulfuric Acid: progression
 Recipe: Super-State Computer: unknown
 Recipe: Supercomputer: useful
+Recipe: Superposition Oscillator: unknown
 Recipe: Tempered Caterium Ingot: progression
 Recipe: Tempered Copper Ingot: unknown
 Recipe: Therapeutic Inhaler: progression
 Recipe: Thermal Propulsion Rocket: unknown
+Recipe: Time Crystal: unknown
 Recipe: Turbo Blend Fuel: progression
+Recipe: Turbo Diamonds: unknown
 Recipe: Turbo Electric Motor: unknown
 Recipe: Turbo Heavy Fuel: unknown
 Recipe: Turbo Motor: unknown
