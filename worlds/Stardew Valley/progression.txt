@@ -882,6 +882,8 @@ The Slammer: unknown
 Thermal Boots: unknown
 Thorns Ring: useful
 Tilesanity: Backwoods (3-7): unknown
+Tilesanity: Backwoods (4-3): unknown
+Tilesanity: Backwoods (4-4): unknown
 Tilesanity: Backwoods (6-2): unknown
 Tilesanity: Backwoods (7-2): unknown
 Tilesanity: Backwoods (8-3): unknown
@@ -949,6 +951,7 @@ Tilesanity: Cindersap Forest (10-1): unknown
 Tilesanity: Cindersap Forest (10-10): unknown
 Tilesanity: Cindersap Forest (10-11): unknown
 Tilesanity: Cindersap Forest (10-14): unknown
+Tilesanity: Cindersap Forest (10-18): unknown
 Tilesanity: Cindersap Forest (10-19): unknown
 Tilesanity: Cindersap Forest (10-4): unknown
 Tilesanity: Cindersap Forest (10-6): unknown
@@ -1050,6 +1053,7 @@ Tilesanity: Cindersap Forest (18-8): unknown
 Tilesanity: Cindersap Forest (19-10): unknown
 Tilesanity: Cindersap Forest (19-11): unknown
 Tilesanity: Cindersap Forest (19-14): unknown
+Tilesanity: Cindersap Forest (19-15): unknown
 Tilesanity: Cindersap Forest (19-17): unknown
 Tilesanity: Cindersap Forest (19-18): unknown
 Tilesanity: Cindersap Forest (19-19): unknown
@@ -1143,6 +1147,7 @@ Tilesanity: Cindersap Forest (5-7): unknown
 Tilesanity: Cindersap Forest (5-8): unknown
 Tilesanity: Cindersap Forest (5-9): unknown
 Tilesanity: Cindersap Forest (6-1): unknown
+Tilesanity: Cindersap Forest (6-10): unknown
 Tilesanity: Cindersap Forest (6-12): unknown
 Tilesanity: Cindersap Forest (6-13): unknown
 Tilesanity: Cindersap Forest (6-17): unknown
@@ -1269,6 +1274,7 @@ Tilesanity: Pelican Beach (1-1): unknown
 Tilesanity: Pelican Beach (10-3): unknown
 Tilesanity: Pelican Beach (10-4): unknown
 Tilesanity: Pelican Beach (11-0): unknown
+Tilesanity: Pelican Beach (11-3): unknown
 Tilesanity: Pelican Beach (11-4): unknown
 Tilesanity: Pelican Beach (2-2): unknown
 Tilesanity: Pelican Beach (2-3): unknown
@@ -1277,6 +1283,7 @@ Tilesanity: Pelican Beach (2-7): unknown
 Tilesanity: Pelican Beach (3-0): unknown
 Tilesanity: Pelican Beach (3-1): unknown
 Tilesanity: Pelican Beach (3-2): unknown
+Tilesanity: Pelican Beach (3-4): unknown
 Tilesanity: Pelican Beach (4-0): unknown
 Tilesanity: Pelican Beach (4-1): unknown
 Tilesanity: Pelican Beach (4-2): unknown
@@ -1368,6 +1375,7 @@ Tilesanity: Pelican Town (12-3): unknown
 Tilesanity: Pelican Town (12-4): unknown
 Tilesanity: Pelican Town (12-6): progression
 Tilesanity: Pelican Town (12-7): unknown
+Tilesanity: Pelican Town (12-8): unknown
 Tilesanity: Pelican Town (12-9): unknown
 Tilesanity: Pelican Town (13-1): unknown
 Tilesanity: Pelican Town (13-10): unknown
@@ -1660,6 +1668,7 @@ Tilesanity: Railroad (8-7): unknown
 Tilesanity: Railroad (8-8): unknown
 Tilesanity: Railroad (9-8): unknown
 Tilesanity: Railroad (9-9): unknown
+Tilesanity: Secret Woods (0-3): unknown
 Tilesanity: Secret Woods (1-2): unknown
 Tilesanity: Secret Woods (1-3): unknown
 Tilesanity: Secret Woods (1-6): unknown
