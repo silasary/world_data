@@ -48,7 +48,7 @@ Silver Shield Key: progression
 Snowdrift Key: progression
 Stormcall Key: progression
 Stormcloud Key: progression
-Unlock: The Arcane Passage: unknown
+Unlock: The Arcane Passage: progression
 Unlock: The Clandestine Passage: progression
 Unlock: The Cloaked Entrance: unknown
 Unlock: The Cloaked Threshold: progression
@@ -86,7 +86,7 @@ Unlock: The Quiet Archway: progression
 Unlock: The Sealed Chamber: progression
 Unlock: The Sealed Gateway: progression
 Unlock: The Sealed Threshold: progression
-Unlock: The Secret Passageway: unknown
+Unlock: The Secret Passageway: progression
 Unlock: The Secret Threshold: progression
 Unlock: The Secretive Door: progression
 Unlock: The Shadowed Threshold: unknown
@@ -95,6 +95,7 @@ Unlock: The Silent Vault: progression
 Unlock: The Unknown Arch: unknown
 Unlock: The Unknown Gateway: unknown
 Unlock: The Unmarked Passage: progression
+Unlock: The Unseen Archway: progression
 Unlock: The Unseen Passage: unknown
 Unlock: The Unspoken Gate: progression
 Unlock: The Untold Gateway: progression
