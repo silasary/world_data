@@ -37,6 +37,7 @@ Advanced Construction (SCV): useful
 Advanced Healing AI (Medivac): filler
 Advanced Laser Technology (Wraith): progression
 Advanced Medic Facilities (Medic): filler
+Advanced Optics (Terran): useful
 Advanced Optics: useful
 Advanced Photon Blasters (Scout): useful
 Advanced Siege Tech (Siege Tank): useful
@@ -166,6 +167,7 @@ Cyclone: progression
 Dark Archon Meld (Dark Templar): useful
 Dark Archon: progression
 Dark Templar: progression
+Dawnbringer: progression
 Death Heads: useful
 Decreased Maximum Supply: trap
 Deep Tunnel (Infested Siege Tank): unknown
@@ -432,6 +434,7 @@ Optimized Logistics (Goliath): filler
 Optimized Logistics (Hellion): filler
 Optimized Logistics (Liberator): filler
 Optimized Logistics (Marine): filler
+Optimized Logistics (Oppressor): useful
 Optimized Ordnance (Protoss): unknown
 Optimized Ordnance: useful
 Oracle: progression
@@ -589,6 +592,7 @@ Resource Efficiency (Centurion): useful
 Resource Efficiency (Corruptor): useful
 Resource Efficiency (Cyclone): useful
 Resource Efficiency (Dark Templar/Avenger/Blood Hunter): useful
+Resource Efficiency (Destroyer): useful
 Resource Efficiency (Diamondback): useful
 Resource Efficiency (Firebat): useful
 Resource Efficiency (Ghost): useful
