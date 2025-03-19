@@ -77,6 +77,7 @@ Unlock: The Hidden Vault: progression
 Unlock: The Inconspicuous Door: progression
 Unlock: The Locked Doorway: progression
 Unlock: The Locked Gateway: unknown
+Unlock: The Lost Portal: unknown
 Unlock: The Mysterious Doorway: progression
 Unlock: The Mysterious Vault: unknown
 Unlock: The Mystical Passage: unknown
@@ -97,6 +98,7 @@ Unlock: The Unknown Gateway: unknown
 Unlock: The Unmarked Passage: progression
 Unlock: The Unseen Archway: progression
 Unlock: The Unseen Passage: unknown
+Unlock: The Unseen Portal: unknown
 Unlock: The Unspoken Gate: progression
 Unlock: The Untold Gateway: progression
 Unlock: The Vanishing Archway: progression
