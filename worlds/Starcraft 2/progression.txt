@@ -247,6 +247,7 @@ Ghost: progression
 Glial Reconstitution (Roach): useful
 Goliath: progression
 Graduating Range (Siege Tank): progression
+Grapple Pull (HERC): useful
 Gravitic Boosters (Observer): filler
 Gravitic Drive (Warp Prism): filler
 Gravitic Thrusters (Scout): filler
@@ -297,6 +298,7 @@ Immobilization Wave (Kerrigan Ability): unknown
 Immortal: progression
 Impaler Aspect (Hydralisk): progression
 Impaler Rounds (Spectre): useful
+Improved Barrier (Immortal): useful
 Improved Nano-Repair (Science Vessel): useful
 Improved Osmosis (Devourer): filler
 Improved Overlords (Kerrigan Tier 3): useful
@@ -314,7 +316,7 @@ Infested Banshees: useful
 Infested Bunker: unknown
 Infested Diamondback: unknown
 Infested Dusk Wings: unknown
-Infested Marine: unknown
+Infested Marine: progression
 Infested Medics: useful
 Infested Missile Turret: unknown
 Infested Siege Breakers: unknown
@@ -396,6 +398,7 @@ Matter Dispersion (Vanguard): useful
 Mechanical Know-how (Terran): useful
 Medic: progression
 Medivac: progression
+Mend (Kerrigan Ability): progression
 Mend (Kerrigan Tier 4): progression
 Metabolic Boost (Zergling): filler
 Micro-Filtering (Terran): unknown
@@ -405,6 +408,7 @@ Midnight Riders: useful
 Mirage: progression
 Missile Turret: useful
 Mist Wing: unknown
+Mobile Chrono Beam (Energizer): progression
 Modernized Servos (Instigator): unknown
 Monarch Blades (Ultralisk): useful
 Monomolecular Blade (Nova Weapon): progression
@@ -442,6 +446,7 @@ Oracle: progression
 Orbital Assimilators: useful
 Orbital Depots (Terran): useful
 Orbital Depots: useful
+Orbital Module (Planetary Fortress): useful
 Orbital Strike (Spear of Adun Calldown): useful
 Orbital Strike: useful
 Organic Carapace (Roach): useful
@@ -699,6 +704,7 @@ Stealth Drive (Corsair): useful
 Stealth Drive (Oracle): useful
 Stim Infusion (Nova Gadget): progression
 Stimpack (Pygalisk): unknown
+Structure Armor (Terran): useful
 Structure Armor: useful
 Strut Enhancements (Stalwart): unknown
 Subterranean Scales (Nydus Worm/Echidna Worm): unknown
@@ -755,7 +761,7 @@ Viking: progression
 Vile Strain (Roach): useful
 Violent Enzymes (Infested Diamondback): unknown
 Viper Aspect (Mutalisk/Corruptor): progression
-Viral Contamination (Infested Liberator): unknown
+Viral Contamination (Infested Liberator): useful
 Virulent Microbes (Viper): useful
 Virulent Spores (Scourge): useful
 Void Ray: progression
