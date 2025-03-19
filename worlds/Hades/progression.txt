@@ -81,7 +81,7 @@ FistWeaponUnlockItem: progression
 Forced Overtime Pact Level: progression
 ForcedOvertimePactLevel: progression
 Fountain Asphodel Item: filler
-Fountain Elysium Item: unknown
+Fountain Elysium Item: useful
 Fountain Tartarus Item: useful
 Fountain Upgrade1 Item: filler
 Fountain Upgrade2 Item: useful
