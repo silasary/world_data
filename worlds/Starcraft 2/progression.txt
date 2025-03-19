@@ -50,6 +50,7 @@ Aerodynamic Glaive Shape (Mutalisk): useful
 Afterburners (Medivac): filler
 Afterburners (Valkyrie): filler
 Agony Launchers (Vanguard): useful
+Amplified Assimilators (Protoss): useful
 Amplified Assimilators: useful
 Anabolic Synthesis (Ultralisk): filler
 Ancillary Carapace (Hydralisk): filler
@@ -121,6 +122,7 @@ Carrion Strain (Swarm Host): useful
 Catalytic Boosters (Bullfrog): unknown
 Caustic Mucus (Infested Diamondback): unknown
 Caustic Spray (Corruptor): useful
+Cellular Reactor (Terran): useful
 Cellular Reactor: useful
 Centrifugal Hooks (Baneling): useful
 Centurion: progression
@@ -194,6 +196,8 @@ Disruptor: progression
 Distortion Blasters (Banshee): useful
 Domination (Nova Ability): progression
 Dominion Trooper: unknown
+Double Graviton Beam (Phoenix): useful
+Double Shield Recharge (Sentry): progression
 Dragoon: progression
 Drilling Claws (Widow Mine): filler
 Drop-Pods (Kerrigan Ability): unknown
@@ -352,6 +356,7 @@ Jump Jets (Hellion): filler
 Jump Jets (Siege Tank): progression
 Jump Suit Module (Nova Suit Module): progression
 Khalai Ingenuity: useful
+Khalai Replicators (Reaver): useful
 Khalai Takeover (Hive Mind Emulator): unknown
 Khaydarin Amulet (High Templar/Signifier): useful
 Khaydarin Core (Arbiter): useful
