@@ -137,6 +137,7 @@ Cloak (Predator): filler
 Cloaking Module (Sentry/Energizer/Havoc): useful
 Cloud Dispersal (Infested Liberator): unknown
 Colossus: progression
+Combat Carapace (Pygalisk): useful
 Combat Drugs (Reaper): filler
 Combat Sensor Array (Scout): useful
 Combat Shield (Marine): progression
@@ -156,7 +157,7 @@ Corruption (Corruptor): useful
 Corruptor: progression
 Corsair: progression
 Covert Ops Engines (Battlecruiser): useful
-Creep Stomach (Zerg): unknown
+Creep Stomach (Zerg): useful
 Creeper Strain (Swarm Host): filler
 Crius Suit (Ghost): useful
 Crushing Grip (Kerrigan Ability): useful
@@ -695,7 +696,7 @@ Stimpack (Pygalisk): unknown
 Structure Armor: useful
 Strut Enhancements (Stalwart): unknown
 Subterranean Scales (Nydus Worm/Echidna Worm): unknown
-Suffused With Vermin (Bullfrog): unknown
+Suffused With Vermin (Bullfrog): useful
 Sundering Glaive (Mutalisk): useful
 Superior Warp Gates: useful
 Supplicant: filler
