@@ -96,6 +96,8 @@ laser-shooting-speed-5: filler
 laser-shooting-speed-6: filler
 laser-shooting-speed-7: filler
 laser-turret: useful
+laser-weapons-damage-3: unknown
+laser-weapons-damage-5: unknown
 laser: useful
 logistic-robotics: useful
 logistic-science-pack: useful
