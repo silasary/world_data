@@ -50,7 +50,6 @@
 39 [HARD]: unknown
 39 [NORMAL]: unknown
 39: unknown
-39: unknown
 404: False Image [EXTREME]: unknown
 4BLOOD [EXTREME]: unknown
 8 Awesome Angles of YouTube [EXTREME]: unknown
@@ -503,6 +502,7 @@ Cantarella [EXEXTREME]: progression
 Cantarella [EXTREME]: unknown
 Cantarella [HARD]: unknown
 Cantarella [NORMAL]: unknown
+Cantarella: unknown
 Cat Communication [EXTREME]: unknown
 Cat Food [EASY]: unknown
 Cat Food [EXEXTREME]: unknown
@@ -1922,6 +1922,7 @@ Miracle Paint [EXEXTREME]: progression
 Miracle Paint [EXTREME]: unknown
 Miracle Paint [HARD]: unknown
 Miracle Paint [NORMAL]: unknown
+Miracle Paint: unknown
 Mirrrrrors [EXTREME]: unknown
 Mirrrrrors [HARD]: unknown
 Mischievous Function [EASY]: unknown
@@ -2784,6 +2785,7 @@ StargazeR [EXEXTREME]: unknown
 StargazeR [EXTREME]: unknown
 StargazeR [HARD]: progression
 StargazeR [NORMAL]: unknown
+StargazeR: unknown
 Starlite*Lydian [EASY]: unknown
 Starlite*Lydian [EXEXTREME]: unknown
 Starlite*Lydian [EXTREME]: unknown
