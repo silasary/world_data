@@ -69,9 +69,11 @@ Armor Melting Blasters (Oppressor): unknown
 Armored Suit Module (Nova Suit Module): progression
 Artillery Ducts (Bile Launcher): useful
 Ascendant: progression
+Assimilation Aura (Kerrigan Ability): unknown
 Auto Launchers (Vulture): useful
 Auto-Repair (Vulture): useful
 Automated Extractors (Kerrigan Tier 3): useful
+Automated Extractors (Zerg): useful
 Automated Refinery (Terran): useful
 Automated Refinery: useful
 Avenger: progression
@@ -116,6 +118,7 @@ Calcified Armor (Infested Bunker): unknown
 Carrier: progression
 Carrion Strain (Swarm Host): useful
 Catalytic Boosters (Bullfrog): unknown
+Caustic Mucus (Infested Diamondback): unknown
 Caustic Spray (Corruptor): useful
 Cellular Reactor: useful
 Centrifugal Hooks (Baneling): useful
@@ -145,7 +148,7 @@ Concentrated Fire (Primal Igniter): unknown
 Concentrated Spew (Infested Diamondback): unknown
 Concussive Shells (Marauder): useful
 Construct Regeneration (Aberration): unknown
-Construct Regeneration (Corruptor): unknown
+Construct Regeneration (Corruptor): useful
 Corpser Strain (Roach): useful
 Corrosive Acid (Baneling): useful
 Corrosive Spray (Devourer): useful
@@ -304,6 +307,7 @@ Infest Broodlings (Kerrigan Passive): unknown
 Infest Broodlings (Kerrigan Tier 6): progression
 Infested Banshee: unknown
 Infested Banshees: useful
+Infested Bunker: unknown
 Infested Diamondback: unknown
 Infested Dusk Wings: unknown
 Infested Marine: unknown
@@ -370,6 +374,7 @@ Lockdown (Ghost): useful
 Locust Metabolic Boost (Swarm Host): filler
 Lurker Aspect (Hydralisk): progression
 MULE (Command Center): unknown
+Macroscopic Recuperation (Zerg): unknown
 Maelstrom (Dark Archon): useful
 Maelstrom Rounds (Siege Tank): progression
 Mag-Field Accelerators (Cyclone): useful
@@ -496,7 +501,7 @@ Progressive Protoss Shields: useful
 Progressive Protoss Weapon Upgrade: useful
 Progressive Protoss Weapon/Armor Upgrade: useful
 Progressive Proxy Pylon (Spear of Adun Calldown): useful
-Progressive Regenerative Bio-Steel (Terran): unknown
+Progressive Regenerative Bio-Steel (Terran): progression
 Progressive Regenerative Bio-Steel: progression
 Progressive Replenishable Magazine (Vulture): filler
 Progressive Stealth Suit Module (Nova Suit Module): progression
