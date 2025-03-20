@@ -6,38 +6,48 @@ Apple Egg: mcguffin
 Apple: progression
 Bat Egg: mcguffin
 Birds Egg: mcguffin
+Blorange Striped Egg: mcguffin
 Blue Dotted Egg: mcguffin
+Blue Moon Egg: mcguffin
 Bricked Egg: mcguffin
 Bubble Conch: progression
 Bubble: progression
+Burning Egg: mcguffin
 Card: Bigstar: filler
 Card: Boiby: filler
 Card: Boxed Nightmare: filler
 Card: Carpy: filler
 Card: Dumpling: filler
+Card: Eternal: filler
 Card: F.I.S.H: filler
 Card: Frozen King: filler
 Card: Fynn's Siblings: filler
 Card: Fynn: filler
+Card: Gabby Grove: filler
 Card: Hawhaw: filler
 Card: Heartburn: filler
 Card: Hunger: filler
 Card: Keehee: filler
+Card: Lady Opal: filler
 Card: Luna: filler
 Card: Mighty Wall: filler
 Card: Mr. Kerrington: filler
 Card: Pale Carpy: filler
+Card: Poki-Poki: filler
 Card: Pom: filler
 Card: Preston: filler
 Card: Raay: filler
 Card: Rattles: filler
 Card: Reaper: filler
 Card: Sage: filler
+Card: Sappleing: filler
 Card: Seedragon: filler
+Card: Shelnert: filler
 Card: Shelwart: filler
 Card: Shroom: filler
 Card: Skritch: filler
 Card: Sniffles: filler
+Card: Starving Art: filler
 Card: The Gobbler!: filler
 Carry: progression
 Checkered Egg: mcguffin
@@ -80,6 +90,7 @@ Moonlight Egg: mcguffin
 Mr. Kerrington's Wings: progression
 Open Armada Cockpit: progression
 Open Armada Lobby Teleport: progression
+Open Bigstar Cave: progression
 Open Bubble Conch Room: progression
 Open Church Basement: progression
 Open Church: progression
@@ -88,10 +99,14 @@ Open Deep Woods: progression
 Open Earth Lobby Castle Door: progression
 Open Foyer Doors: progression
 Open Gallery Lobby Door: progression
+Open Gallery Lobby Hedge Maze: progression
 Open Gallery Lobby Teleport: progression
 Open Gallery-Armada Connector: progression
+Open Gobbler Cave: progression
 Open Heaven's Path Exit: progression
+Open Heaven's Path Race Entrance: progression
 Open Kerrington's Heart: progression
+Open Kerrington's Medicine Pool: progression
 Open Lake Lobby Teleport: progression
 Open Luna's House: progression
 Open Mr. Kerrington Painting Gate: progression
@@ -103,6 +118,7 @@ Open Prismic Palace Gate: progression
 Open Skull's Diamond Eye: progression
 Open Treehouse: progression
 Open Valley Snowcastle: progression
+Open Water Lobby Chest #1: progression
 Open Water Lobby Chest #2: progression
 Ornate Egg: mcguffin
 Raise Armada Lobby Pipes: progression
@@ -114,20 +130,26 @@ Reveal Observatory Item: progression
 Ripped Egg: mcguffin
 Robot Egg: mcguffin
 Roll: progression
+Run Palace Lobby Faucet: progression
 Sage's Gloves: progression
 Seaweed Egg: progression
+Shelnert's Fish: progression
 Shroom: mcguffin
-Snooze Gobbler: unknown
+Smiley Egg: mcguffin
+Snooze Gobbler: progression
 Snowfall Egg: mcguffin
 Snowstorm Egg: mcguffin
 Specter Egg: mcguffin
 Spooky Egg: mcguffin
 Sprint: progression
+Stained Glass Egg: mcguffin
 Starlit Egg: mcguffin
 Sun Egg: mcguffin
+Sunshine Egg: mcguffin
 Swim: progression
 Topple Mighty Wall: progression
 Unclog Kerrington's Heart: progression
 Unfreeze Prismic Palace: progression
+Water Wastes of Eternity Plants: progression
 Wings: progression
 Zig-zag Egg: mcguffin
