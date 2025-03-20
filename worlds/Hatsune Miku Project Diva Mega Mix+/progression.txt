@@ -715,6 +715,7 @@ Decorator [EXEXTREME]: unknown
 Decorator [EXTREME]: unknown
 Decorator [HARD]: unknown
 Decorator [NORMAL]: unknown
+Decorator: unknown
 Deep Sea City Underground [EASY]: unknown
 Deep Sea City Underground [EXEXTREME]: unknown
 Deep Sea City Underground [EXTREME]: unknown
@@ -2161,6 +2162,7 @@ Ooedo Julianight [EXEXTREME]: unknown
 Ooedo Julianight [EXTREME]: progression
 Ooedo Julianight [HARD]: progression
 Ooedo Julianight [NORMAL]: unknown
+Ooedo Julianight: unknown
 Open the Door (Just a joke chart) [EXEXTREME]: unknown
 Open the Door (Just a joke chart) [EXTREME]: unknown
 Open the Door (Just a joke chart) [HARD]: unknown
