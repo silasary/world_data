@@ -229,9 +229,11 @@ Executioner Missiles (Widow Mine): useful
 Expanded Hull (Medivac): filler
 Expeditionary Hull (Scout): useful
 Explosive Spores (Guardian): unknown
+Extra Supplies (Command Center): unknown
 Eye of Wrath (Wrathwalker): filler
 Feedback (Dark Archon): useful
 Feedback (Signifier): unknown
+Field-Assist Target System (Battlecruiser): unknown
 Fire Lance (Colossus): unknown
 Firebat: progression
 Flashbang Grenades (Nova Gadget): progression
@@ -247,6 +249,7 @@ Fungal Growth (Brood Queen): useful
 Fury (Kerrigan Passive): unknown
 Fury (Kerrigan Tier 6): progression
 Fusion Mortars (Vanguard): useful
+Fusion Reactor (Fusion Core): unknown
 G-4 Clusterbomb (Reaper): progression
 Gaping Maw (Devourer): useful
 Generate Creep (Overlord): unknown
@@ -358,6 +361,7 @@ Jotun: useful
 Juggernaut Plating (Firebat): useful
 Juggernaut Plating (HERC): useful
 Juggernaut Plating (Marauder): useful
+Jump (Skylord): unknown
 Jump Jets (Goliath): progression
 Jump Jets (Hellion): filler
 Jump Jets (Siege Tank): progression
@@ -435,6 +439,7 @@ Nano Projector (Medic): filler
 Nano Projectors (Firebat): useful
 Neosteel Bunker (Bunker): useful
 Neutron Shields (Corsair): filler
+Nexus Overcharge (Protoss): unknown
 Nexus Overcharge: useful
 Nothing: trap
 Noxious Strain (Ultralisk): filler
@@ -456,6 +461,7 @@ Optimized Logistics (Oppressor): useful
 Optimized Ordnance (Protoss): unknown
 Optimized Ordnance: useful
 Oracle: progression
+Orbital Assimilators (Protoss): unknown
 Orbital Assimilators: useful
 Orbital Depots (Terran): useful
 Orbital Depots: useful
@@ -604,6 +610,7 @@ Reaper: progression
 Reaver Capacity (Reaver): filler
 Reaver: progression
 Reclamation (Energizer): useful
+Reconstruction (Instigator): unknown
 Reconstruction Beam (Spear of Adun Auto-Cast): progression
 Reforged Bloodshard Core (Destroyer): useful
 Regenerative Acid (Baneling): filler
@@ -754,6 +761,7 @@ Time Stop (Spear of Adun Calldown): progression
 Tissue Assimilation (Ultralisk): useful
 Titanium Housing (Missile Turret): filler
 Torrasque Strain (Ultralisk): useful
+Torrasque: unknown
 Trapdoor Adaptation (Defiler): unknown
 Trigger Override (Wraith): useful
 Trillic Compression System (Dragoon): useful
