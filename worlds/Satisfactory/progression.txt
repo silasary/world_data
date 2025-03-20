@@ -396,6 +396,7 @@ Recipe: Factory Cart: unknown
 Recipe: Fertile Uranium: unknown
 Recipe: Ficsite Ingot (Aluminum): useful
 Recipe: Ficsite Ingot (Caterium): progression
+Recipe: Ficsite Ingot (Iron): unknown
 Recipe: Ficsite Trigon: progression
 Recipe: Ficsonium: useful
 Recipe: Fine Black Powder: progression
@@ -528,6 +529,7 @@ Recipe: Stator: progression
 Recipe: Steamed Copper Sheet: unknown
 Recipe: Steel Beam: unknown
 Recipe: Steel Canister: unknown
+Recipe: Steel Cast Plate: unknown
 Recipe: Steel Coated Plate: useful
 Recipe: Steel Ingot: progression
 Recipe: Steel Pipe: useful
