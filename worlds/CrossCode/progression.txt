@@ -93,8 +93,8 @@ Bronze Mail: progression
 Brostick of Force+: progression
 Brostick of Force: progression
 Bubblebelt: progression
-Bug Shell x2: unknown
-Bug Shell x3: unknown
+Bug Shell x2: filler
+Bug Shell x3: filler
 Bug Shell x5: filler
 Bug Shell: filler
 Bull Stompers: progression
@@ -114,7 +114,7 @@ Cerberus Fang: progression
 Champion's Towel: filler
 Cheese Cracker x5: unknown
 Cheese Cracker: filler
-Cheese Spaetzle x3: unknown
+Cheese Spaetzle x3: useful
 Cheese Spaetzle: filler
 Chef Sandwich x2: unknown
 Chef Sandwich x3: filler
@@ -175,10 +175,10 @@ Cross Sandwich: filler
 Crystal Leek x4: filler
 Crystal Leek: filler
 Crystal Plate: progression
-Crystal Water x3: unknown
-Crystal Water x4: unknown
+Crystal Water x3: filler
+Crystal Water x4: filler
 Crystal Water: filler
-Cup o' Coffee x6: unknown
+Cup o' Coffee x6: filler
 Cup o' Coffee: filler
 Curly Fern x4: filler
 Curly Fern: filler
@@ -205,13 +205,13 @@ Dragon's Bandana+: progression
 Dragon's Bandana: progression
 Dream Globe: filler
 Dried Grass Hat: progression
-Drill Stone x3: unknown
+Drill Stone x3: filler
 Drill Stone: filler
 Dropped Mic: filler
 Dry Fin: filler
 Dungeon Heart: filler
 Durian: filler
-Echo Roll x5: unknown
+Echo Roll x5: filler
 Echo Roll: filler
 Edge o' All x2: useful
 Edge o' All: progression
@@ -228,7 +228,7 @@ Energy Espresso x2: unknown
 Energy Espresso x4: unknown
 Energy Espresso: filler
 Enlightened Halo: progression
-Epic Metal x2: unknown
+Epic Metal x2: useful
 Epic Metal: filler
 Eternal Salami+: progression
 Eternal Salami: progression
@@ -273,7 +273,7 @@ Fruit Salad x6: unknown
 Fruit Salad: filler
 Fruit Set: filler
 Full Course x2: unknown
-Full Course x4: unknown
+Full Course x4: useful
 Full Course: filler
 Full Rhombus Pass: progression
 Furious Hothead+: progression
@@ -287,7 +287,7 @@ Galaxy Spiral Drill: progression
 Garden Booster: progression
 Garnet: filler
 Geo-Data #3469: progression
-Geta Glue x3: unknown
+Geta Glue x3: filler
 Geta Glue: filler
 Geta Straps: filler
 Geta Wood: filler
@@ -502,7 +502,7 @@ Mantis Whip: progression
 Marinated Meat: filler
 Marksmen Trigger: progression
 Maroon Cave Pass: progression
-Maroon Chestnut x2: unknown
+Maroon Chestnut x2: filler
 Maroon Chestnut x4: filler
 Maroon Chestnut: filler
 Maroon Probe: progression
@@ -539,7 +539,7 @@ Mistwalkers: progression
 Moistured Line: filler
 Moon Chunk: filler
 Moon Fruit x3: filler
-Moon Fruit x4: unknown
+Moon Fruit x4: filler
 Moon Fruit: filler
 Mooncake: filler
 Moonstone: filler
@@ -586,7 +586,7 @@ Pepper Night Tea: filler
 Perfect Karrot: filler
 Perforated Tophat: filler
 Petal Cloak: progression
-Phoenix Feather x4: unknown
+Phoenix Feather x4: filler
 Phoenix Feather: filler
 Piggybank: filler
 Pike Wood x5: filler
@@ -712,7 +712,7 @@ Sandwich: filler
 Scarecrown: progression
 Scouting Visor: progression
 Scrappy Plate: progression
-Sea Disc x3: unknown
+Sea Disc x3: filler
 Sea Disc: filler
 Season Apples x5: filler
 Season Apples: filler
@@ -976,7 +976,7 @@ Slot Unlock: Willis Waldmahl (Harbor Backer Items): progression
 Slot Unlock: Willis Waldmahl (Rhombus Backer Items): progression
 Smelter Parts: progression
 Smokaway: progression
-Snack Mix x6: unknown
+Snack Mix x6: filler
 Snack Mix: filler
 Sneaky Shiv x2: unknown
 Sneaky Shiv: progression
@@ -1016,7 +1016,7 @@ Steel Comb: filler
 Steel Edge: progression
 Steel Goggles: progression
 Steel Mail: progression
-Sticky Web x2: unknown
+Sticky Web x2: filler
 Sticky Web: filler
 Stone Key: progression
 Stone of Ages: progression
@@ -1026,7 +1026,7 @@ Stone of Truth: progression
 Stone of Valor: progression
 Storage Unit #1: progression
 Stout Backplate x2: unknown
-Stout Backplate x3: unknown
+Stout Backplate x3: filler
 Stout Backplate: filler
 Strange Shard: filler
 Strawberry Hat: progression
@@ -1106,7 +1106,7 @@ Vanilla Ice Cream x2: unknown
 Vanilla Ice Cream x4: unknown
 Vanilla Ice Cream: filler
 Veggie Burger: filler
-Veggie Set x2: unknown
+Veggie Set x2: filler
 Veggie Set x5: unknown
 Veggie Set: filler
 Veggie Sticks: filler
