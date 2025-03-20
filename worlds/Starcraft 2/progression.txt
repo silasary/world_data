@@ -144,6 +144,7 @@ Colossus: progression
 Combat Carapace (Pygalisk): useful
 Combat Drugs (Reaper): filler
 Combat Sensor Array (Scout): useful
+Combat Sensor Array (Scout/Oppressor/Caladrius/Mist Wing): unknown
 Combat Shield (Marine): progression
 Command Center Reactor: useful
 Comorbidity (Defiler): unknown
@@ -216,6 +217,7 @@ Energizer: progression
 Energy Suit Module (Nova Suit Module): useful
 Enhanced Cloak Field (Arbiter): filler
 Enhanced Cluster Launchers (Valkyrie): useful
+Enhanced Combustion Engines (Siege Tank): unknown
 Enhanced Mitochondria (Brood Queen): useful
 Enhanced Strider Servos (Dragoon): filler
 Enhanced Targeting (Protoss): unknown
@@ -313,6 +315,7 @@ Incinerator Gauntlets (Firebat): filler
 Increased Building Construction Speed: filler
 Increased Shield Regeneration: unknown
 Incubator Chamber (Swarm Queen): useful
+Indomitable Will (Dark Archon): unknown
 Infernal Plating (Hellion): useful
 Infernal Pre-Igniter (Firebat): useful
 Infest Broodlings (Kerrigan Passive): unknown
@@ -496,6 +499,7 @@ Pressurized Glands (Swarm Host): progression
 Primal Adaptation (Guardian): useful
 Primal Form (Kerrigan): useful
 Primal Igniter Aspect (Roach): unknown
+Primal Tenacity (Primal Igniter): unknown
 Primordial Fury (Guardian): unknown
 Prismatic Range (Void Ray): unknown
 Probe Warpin (Protoss): unknown
@@ -543,6 +547,7 @@ Progressive Terran Vehicle Weapon: useful
 Progressive Terran Weapon Upgrade: useful
 Progressive Terran Weapon/Armor Upgrade: useful
 Progressive Tomahawk Power Cells (Wraith): filler
+Progressive Transport Hook (Siege Tank): unknown
 Progressive Tri-Lithium Power Cell (Diamondback): useful
 Progressive Warp Relocate (Protoss): unknown
 Progressive Zerg Armor Upgrade: useful
@@ -586,6 +591,8 @@ Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
 Rapid Regeneration (Mutalisk): useful
 Rapid Reignition Systems (Medivac): unknown
 Rapid Reinforcement (Terran/Zerg): unknown
+Rapid Reload (Thor): unknown
+Rapid-Fire Cannon (Vanguard): unknown
 Raptor Strain (Zergling): useful
 Ravager Aspect (Roach): useful
 Raven: progression
