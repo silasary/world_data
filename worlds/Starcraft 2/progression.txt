@@ -61,6 +61,7 @@ Annihilator: progression
 Antennae (Overlord): unknown
 Anti-Armor Missile (Raven): filler
 Anti-Mechanical Munition (Viking): useful
+Anti-Surface Countermeasures (Dawnbringer): useful
 Apial Sensors (Scout): filler
 Apocalypse (Kerrigan Ability): unknown
 Apocalypse (Kerrigan Tier 7): progression
@@ -121,7 +122,7 @@ Calcified Armor (Infested Bunker): unknown
 Carrier: progression
 Carrion Strain (Swarm Host): useful
 Catalytic Boosters (Bullfrog): unknown
-Caustic Mucus (Infested Diamondback): unknown
+Caustic Mucus (Infested Diamondback): useful
 Caustic Spray (Corruptor): useful
 Cellular Reactor (Terran): useful
 Cellular Reactor: useful
@@ -151,7 +152,7 @@ Comorbidity (Defiler): unknown
 Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Fire (Primal Igniter): unknown
-Concentrated Spew (Infested Diamondback): unknown
+Concentrated Spew (Infested Diamondback): useful
 Concussive Shells (Marauder): useful
 Construct Regeneration (Aberration): unknown
 Construct Regeneration (Corruptor): useful
@@ -280,7 +281,7 @@ Hammer Securities: useful
 Hardened Carapace (Zergling): useful
 Hardened Tentacle Spines (Impaler): useful
 Havoc: useful
-Healing Adaptation (Ultralisk/Tyrannozor): unknown
+Healing Adaptation (Ultralisk/Tyrannozor): useful
 Hel's Angels: progression
 Hellbat Aspect (Hellion): progression
 Hellfire Shotgun (Nova Weapon): progression
@@ -400,7 +401,7 @@ Lockdown (Ghost): useful
 Locust Metabolic Boost (Swarm Host): filler
 Lurker Aspect (Hydralisk): progression
 MULE (Command Center): unknown
-Macroscopic Recuperation (Zerg): unknown
+Macroscopic Recuperation (Zerg): useful
 Maelstrom (Dark Archon): useful
 Maelstrom Rounds (Siege Tank): progression
 Mag-Field Accelerators (Cyclone): useful
@@ -441,6 +442,7 @@ Mutalisk: progression
 Nano Projector (Medic): filler
 Nano Projectors (Firebat): useful
 Neosteel Bunker (Bunker): useful
+Network Disruption (Corsair): useful
 Neutron Shields (Corsair): filler
 Nexus Overcharge (Protoss): unknown
 Nexus Overcharge: useful
@@ -470,6 +472,7 @@ Orbital Depots (Terran): useful
 Orbital Depots: useful
 Orbital Module (Planetary Fortress): useful
 Orbital Strike (Spear of Adun Calldown): useful
+Orbital Strike (Terran): useful
 Orbital Strike: useful
 Organic Carapace (Roach): useful
 Organic Carapace (Swarm Host): useful
@@ -482,7 +485,7 @@ Pacification Protocol (Colossus): useful
 Paralytic Barbs (Viper): useful
 Parasitic Bomb (Viper): useful
 Particle Reflection (Stalker/Instigator/Slayer): progression
-Pathogen Projectors (Defiler): unknown
+Pathogen Projectors (Defiler): useful
 Peer Contempt (Skirmisher): progression
 Perdition Turret: progression
 Phantom Dash (Mist Wing): unknown
@@ -503,6 +506,7 @@ Pneumatized Carapace (Overlord): unknown
 Porous Cartilage (Brood Lord): useful
 Potent Bile (Ravager): useful
 Power Overwhelming (Ascendant): useful
+Power Siphon (Archon): useful
 Predator's Fury (Predator): useful
 Predator: filler
 Predatory Consumption (Defiler): unknown
@@ -639,6 +643,7 @@ Resource Efficiency (Liberator): filler
 Resource Efficiency (Medic): filler
 Resource Efficiency (Medivac): unknown
 Resource Efficiency (Missile Turret): unknown
+Resource Efficiency (Nydus Worm/Echidna Worm): useful
 Resource Efficiency (Predator): filler
 Resource Efficiency (Raven): useful
 Resource Efficiency (Reaper): unknown
@@ -731,6 +736,7 @@ Stabilizer Medpacks (Medic): progression
 Stalker: progression
 Stalwart: unknown
 Stasis Calibration (Oracle): useful
+Stasis Expansion (Oracle): useful
 Stealth Drive (Corsair): useful
 Stealth Drive (Oracle): useful
 Stim Infusion (Nova Gadget): progression
@@ -741,6 +747,7 @@ Strut Enhancements (Stalwart): unknown
 Subterranean Scales (Nydus Worm/Echidna Worm): unknown
 Suffused With Vermin (Bullfrog): useful
 Sundering Glaive (Mutalisk): useful
+Superior Warp Gates (Protoss): useful
 Superior Warp Gates: useful
 Supplicant: filler
 Sustained Cultivation Ventricles (InfSCV Build Charges): unknown
@@ -773,7 +780,7 @@ Trillic Compression System (Dragoon): useful
 Tunneling Claws (Roach): filler
 Tunneling Jaws (Baneling): useful
 Twin Drones (Kerrigan Tier 5): useful
-Twin Drones (Zerg): unknown
+Twin Drones (Zerg): progression
 Twin-Linked Flamethrower (Hellion): filler
 Tyrannozor Aspect (Ultralisk): unknown
 Tyrant's Protection (Tyrannozor): unknown
