@@ -105,6 +105,7 @@ Blood Hunter: progression
 Blood Shield (Supplicant): filler
 Bloodshard Resonance (Havoc): useful
 Bosonic Core (Oracle): unknown
+Braced Exoskeleton (Infested Banshee): useful
 Brainwashing (Hive Mind Emulator): unknown
 Brood Lord Aspect (Mutalisk/Corruptor): progression
 Brood Queen: progression
@@ -118,6 +119,7 @@ Burrow Charge (Ultralisk): useful
 Burst Capacitors (Diamondback): filler
 Button With a Skull on It (Thor): progression
 C20A Canister Rifle (Nova Weapon): progression
+Caladrius: progression
 Calcified Armor (Infested Bunker): unknown
 Carrier: progression
 Carrion Strain (Swarm Host): useful
@@ -246,7 +248,8 @@ Forged Chassis (Energizer): useful
 Fortified Bunker (Bunker): useful
 Frenzy (Hydralisk): useful
 Frightful Fleshwelder (Infested Banshee): unknown
-Frightful Fleshwelder (Infested Siege Tank): unknown
+Frightful Fleshwelder (Infested Liberator): useful
+Frightful Fleshwelder (Infested Siege Tank): useful
 Fungal Growth (Brood Queen): useful
 Fury (Kerrigan Passive): unknown
 Fury (Kerrigan Tier 6): progression
@@ -273,6 +276,7 @@ Grooved Spines (Hydralisk): useful
 Guardian Aspect (Mutalisk/Corruptor): useful
 Guardian Shell (Spear of Adun Auto-Cast): unknown
 Guardian Shell: useful
+Guerilla Missiles (Liberator): useful
 HERC: progression
 Hailstorm Launcher (Dominion Trooper): unknown
 Hallucination (High Templar/Signifier): filler
@@ -323,6 +327,7 @@ Increased Building Construction Speed: filler
 Increased Shield Regeneration: unknown
 Incubator Chamber (Swarm Queen): useful
 Indomitable Will (Dark Archon): unknown
+Induce Scopophobia (Observer): useful
 Infernal Plating (Hellion): useful
 Infernal Pre-Igniter (Firebat): useful
 Infest Broodlings (Kerrigan Passive): unknown
@@ -384,6 +389,7 @@ Kinetic Foam (Firebat): useful
 Kinetic Foam (HERC): useful
 Kinetic Foam (Marauder): useful
 Kinetic Foam (Reaper): unknown
+Kryhas Cloak (Avenger): useful
 Large Scale Field Construction (Thor): filler
 Laser Targeting System (Banshee): filler
 Laser Targeting System (Liberator): filler
@@ -634,6 +640,7 @@ Resource Efficiency (Corruptor): useful
 Resource Efficiency (Cyclone): useful
 Resource Efficiency (Dark Templar/Avenger/Blood Hunter): useful
 Resource Efficiency (Destroyer): useful
+Resource Efficiency (Devastator Turret): useful
 Resource Efficiency (Diamondback): useful
 Resource Efficiency (Firebat): useful
 Resource Efficiency (Ghost): useful
@@ -791,6 +798,7 @@ Ultra-Capacitors: useful
 Ultralisk: progression
 Unshackled Psionic Storm (High Templar/Signifier): useful
 Valkyrie: progression
+Vanadium Plating (Terran): useful
 Vanadium Plating: useful
 Vanguard: progression
 Ventral Sacs (Overlord): useful
