@@ -24,7 +24,7 @@ Campaign Tier 2 Column 4: progression
 Campaign Tier 2 Column 5: useful
 Campaign Tier 3 Column 1: progression
 Campaign Tier 3 Column 2: progression
-Campaign Tier 3 Column 3: unknown
+Campaign Tier 3 Column 3: filler
 Campaign Tier 3 Column 4: progression
 Campaign Tier 3 Column 5: progression
 Campaign Tier 4 Column 1: progression
@@ -75,7 +75,7 @@ LD23 Refer to Mar 05 Banlist Unlock: useful
 LD24 Refer to Sept 04 Banlist Unlock: unknown
 LD25 Low Life Points Unlock: progression
 LD26 All except Toons forbidden Unlock: useful
-LD27 All except Spirits forbidden Unlock: unknown
+LD27 All except Spirits forbidden Unlock: useful
 LD28 All except Dragons forbidden Unlock: unknown
 LD29 All except Spellcasters forbidden Unlock: useful
 LD30 All except Light forbidden Unlock: unknown
@@ -84,7 +84,7 @@ LD32 Decks with multiples forbidden Unlock: progression
 LD33 Special Summons forbidden Unlock: unknown
 LD34 Normal Summons forbidden Unlock: progression
 LD35 All except Zombies forbidden Unlock: progression
-LD36 All except Earth forbidden Unlock: unknown
+LD36 All except Earth forbidden Unlock: filler
 LD37 All except Water forbidden Unlock: progression
 LD38 Refer to Mar 04 Banlist Unlock: unknown
 LD39 Monsters forbidden Unlock: useful
@@ -99,7 +99,7 @@ Machine Collection A: progression
 Machine Collection B: useful
 Monster Destroy Collection: useful
 No Banlist: useful
-PHARAOH'S SERVANT: unknown
+PHARAOH'S SERVANT: filler
 PHARAONIC GUARDIAN: useful
 Quick/Counter Collection: progression
 RISE OF DESTINY: useful
