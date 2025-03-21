@@ -23,6 +23,7 @@ Chaos Control Trap: trap
 Cheetah: filler
 Condor: filler
 Confusion Trap: trap
+Controller Drift Trap: trap
 Cutscene Trap: trap
 Cyan Chaos Emerald: progression
 Dark Fruit: filler
@@ -39,6 +40,7 @@ Emblem: mcguffin
 Empty Can: filler
 Exposition Trap: trap
 Extra Life: filler
+Fishing Trap: unknown
 Five Rings: filler
 Flower Pot: filler
 Gorilla: filler
@@ -59,6 +61,7 @@ Hero Fruit: filler
 Hero Garden Fruit: filler
 Hero Seed: filler
 Ice Trap: trap
+Input Sequence Trap: unknown
 Invincibility: filler
 Knuckles - Air Necklace: progression
 Knuckles - Hammer Gloves: progression
@@ -68,7 +71,9 @@ Knuckles - Sunglasses: progression
 Lime Green Mono-Tone Egg: filler
 Lime Green Shiny Egg: filler
 Lime Green Two-Tone Egg: filler
+Literature Trap: unknown
 Magnetic Shield: filler
+Math Quiz Trap: unknown
 Mint Candy: filler
 Mushroom: filler
 Normal Egg: filler
@@ -90,6 +95,8 @@ Pink Fruit: filler
 Pink Mono-Tone Egg: filler
 Pink Shiny Egg: filler
 Pink Two-Tone Egg: filler
+Poison Trap: unknown
+Pokemon Trivia Trap: unknown
 Pong Trap: trap
 Pumpkin: filler
 Purple Chaos Drive: filler
@@ -129,6 +136,7 @@ Sky Blue Shiny Egg: filler
 Sky Blue Two-Tone Egg: filler
 Slow Trap: trap
 Smart Fruit: filler
+Snake Trap: trap
 Sonic - Ancient Light: filler
 Sonic - Bounce Bracelet: progression
 Sonic - Flame Ring: progression
@@ -153,6 +161,7 @@ Tiger: filler
 Tiny Trap: trap
 Triangle Fruit: filler
 Triangle Seed: filler
+Trivia Trap: trap
 Twenty Rings: filler
 Unicorn: filler
 Warthog: filler
