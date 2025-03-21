@@ -81,8 +81,10 @@ Unlock: The Locked Doorway: progression
 Unlock: The Locked Gateway: unknown
 Unlock: The Lost Portal: unknown
 Unlock: The Mysterious Doorway: progression
+Unlock: The Mysterious Passage: unknown
 Unlock: The Mysterious Vault: unknown
 Unlock: The Mystical Passage: unknown
+Unlock: The Obscured Arch: unknown
 Unlock: The Obscured Doorway: progression
 Unlock: The Phantom Vault: progression
 Unlock: The Quiet Archway: progression
@@ -91,6 +93,7 @@ Unlock: The Sealed Gateway: progression
 Unlock: The Sealed Threshold: progression
 Unlock: The Secret Passageway: progression
 Unlock: The Secret Threshold: progression
+Unlock: The Secreted Door: unknown
 Unlock: The Secretive Door: progression
 Unlock: The Shadowed Threshold: unknown
 Unlock: The Silent Passage: progression
