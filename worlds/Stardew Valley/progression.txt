@@ -813,7 +813,7 @@ Spell: Buff: unknown
 Spell: Clear Debris: useful
 Spell: Descend: unknown
 Spell: Evac: progression
-Spell: Fireball: unknown
+Spell: Fireball: useful
 Spell: Frostbolt: useful
 Spell: Haste: unknown
 Spell: Heal: unknown
