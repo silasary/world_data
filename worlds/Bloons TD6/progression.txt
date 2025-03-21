@@ -173,7 +173,7 @@ MuddyPuddles-MUnlock: progression
 NavalUpgrades-KUnlock: progression
 NinjaMonkey-TUnlock: useful
 ObynGreenfoot-HUnlock: progression
-OffTheCoast-MUnlock: unknown
+OffTheCoast-MUnlock: progression
 OneMoreSpike-KUnlock: progression
 OneTwoTree-MUnlock: progression
 PaintStripper-KUnlock: progression
@@ -195,7 +195,7 @@ QuietStreet-MUnlock: unknown
 Quincy-HUnlock: progression
 Rake-MUnlock: progression
 RapidRazors-KUnlock: progression
-Ravine-MUnlock: unknown
+Ravine-MUnlock: progression
 RecurringRangs-KUnlock: progression
 Resort-MUnlock: progression
 Rosalia-HUnlock: useful
