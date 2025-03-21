@@ -386,7 +386,7 @@ Recipe: Electromagnetic Connection Rod: progression
 Recipe: Electromagnetic Control Rod: progression
 Recipe: Empty Canister: filler
 Recipe: Empty Fluid Tank: unknown
-Recipe: Encased Industrial Beam: unknown
+Recipe: Encased Industrial Beam: progression
 Recipe: Encased Industrial Pipe: progression
 Recipe: Encased Plutonium Cell: progression
 Recipe: Encased Uranium Cell: progression
