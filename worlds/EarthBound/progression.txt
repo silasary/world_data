@@ -20,7 +20,7 @@ Bottle of Water: filler
 Bowl of Rice Gruel: filler
 Bracer of Kings: useful
 Brain Food Lunch: filler
-Brain Stone: unknown
+Brain Stone: filler
 Bread Roll: filler
 Broken Air Gun: unknown
 Broken Antenna: unknown
@@ -53,7 +53,7 @@ Coin of Silence: useful
 Coin of Slumber: useful
 Cold Remedy: filler
 Combat Yo-yo: unknown
-Contact Lens: unknown
+Contact Lens: progression
 Cookie: filler
 Copper Bracelet: filler
 Counter-PSI Unit: filler
@@ -69,7 +69,7 @@ Death Ray: unknown
 Deep Darkness Teleport: progression
 Defense Ribbon: unknown
 Defense Shower: unknown
-Defense Spray: unknown
+Defense Spray: filler
 Deluxe Fry Pan: filler
 Diadem of Kings: useful
 Diamond Band: filler
@@ -187,7 +187,7 @@ Progressive Bat: useful
 Progressive Bracelet: useful
 Progressive Fry Pan: useful
 Progressive Gun: useful
-Progressive Other: unknown
+Progressive Other: progression
 Progressive Poo PSI: useful
 Protein Drink: filler
 Protractor: filler
