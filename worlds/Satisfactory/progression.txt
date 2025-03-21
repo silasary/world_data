@@ -40,7 +40,7 @@ Building: Foundation: useful
 Building: Foundry: unknown
 Building: Frame Pillar: unknown
 Building: Frame foundation: unknown
-Building: Fuel Generator: unknown
+Building: Fuel Generator: progression
 Building: Gates: unknown
 Building: Geothermal Generator: useful
 Building: Half Foundation: unknown
@@ -592,3 +592,4 @@ Trap: Can of Beans: unknown
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown
 Trap: Not the Bees: trap
+Trap: Small Stinger: trap
