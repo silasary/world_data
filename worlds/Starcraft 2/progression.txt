@@ -47,6 +47,7 @@ Advanced Targeting Mechanics (Immortal/Annihilator): progression
 Advanced Targeting Optics (Banshee): progression
 Advanced Targeting Optics (Infested Banshee): unknown
 Aerial Tracking (Annihilator): unknown
+Aerial Tracking (Wrathwalker): progression
 Aerodynamic Glaive Shape (Mutalisk): useful
 Afterburners (Medivac): filler
 Afterburners (Valkyrie): filler
@@ -66,6 +67,7 @@ Apial Sensors (Scout): filler
 Apocalypse (Kerrigan Ability): unknown
 Apocalypse (Kerrigan Tier 7): progression
 Arbiter: progression
+Arc Inducers (Stalwart): useful
 Ares-Class Targeting System (Goliath): useful
 Argus Jewel (Corsair): useful
 Argus Talisman (Dark Archon): useful
@@ -89,6 +91,7 @@ Banshee: progression
 Barrage of Spikes (Tyrannozor): useful
 Battlecruiser: progression
 Behemoth Plating (Battlecruiser): useful
+Behemoth Reactor (Battlecruiser): filler
 Bile Launcher: unknown
 Bio Mechanical Repair Drone (Raven): progression
 Bio-Mechanical Stockpiling (Zerg): unknown
@@ -197,6 +200,7 @@ Disintegrating Particles (Stalker/Instigator/Slayer): progression
 Disintegration (Tempest): unknown
 Displacement Field (Wraith): filler
 Disruptive Transfer (Adept): unknown
+Disruptor Dispersion (Immortal/Annihilator): useful
 Disruptor: progression
 Distortion Blasters (Banshee): useful
 Domination (Nova Ability): progression
@@ -336,7 +340,7 @@ Infested Banshee: unknown
 Infested Banshees: useful
 Infested Bunker: unknown
 Infested Diamondback: unknown
-Infested Dusk Wings: unknown
+Infested Dusk Wings: progression
 Infested Liberator: unknown
 Infested Marine: progression
 Infested Medics: useful
@@ -516,7 +520,7 @@ Power Overwhelming (Ascendant): useful
 Power Siphon (Archon): useful
 Predator's Fury (Predator): useful
 Predator: filler
-Predatory Consumption (Defiler): unknown
+Predatory Consumption (Defiler): useful
 Prescient Spores (Devourer): useful
 Pressurized Glands (Swarm Host): progression
 Primal Adaptation (Guardian): useful
@@ -528,9 +532,10 @@ Prismatic Range (Void Ray): unknown
 Probe Warpin (Protoss): unknown
 Progressive Augmented Thrusters (Planetary Fortress): useful
 Progressive Automated Mitosis (Infested Siege Tank): unknown
-Progressive Baneling Launch (Aberration): unknown
+Progressive Baneling Launch (Aberration): progression
 Progressive Cross-Spectrum Dampeners (Banshee): filler
 Progressive Defensive Matrix (Battlecruiser): useful
+Progressive Fire-Suppression System (Terran): useful
 Progressive Fire-Suppression System: useful
 Progressive Fungal Snare (Infested Diamondback): unknown
 Progressive High Impact Payload (Thor): useful
@@ -589,6 +594,7 @@ Propellant Sacs (Guardian): unknown
 Protective Cover (Aberration): useful
 Psi Disrupter: progression
 Psionic Lash (Spectre): progression
+Psionic Shift (Kerrigan Ability): progression
 Psionic Shift (Kerrigan Tier 2): progression
 Pulse Grenades (Nova Gadget): progression
 Purifier Beam (Spear of Adun Calldown): useful
@@ -760,7 +766,7 @@ Sundering Glaive (Mutalisk): useful
 Superior Warp Gates (Protoss): useful
 Superior Warp Gates: useful
 Supplicant: filler
-Sustained Cultivation Ventricles (InfSCV Build Charges): unknown
+Sustained Cultivation Ventricles (InfSCV Build Charges): useful
 Sustaining Disruption (Corsair): useful
 Swarm Host: progression
 Swarm Queen: progression
