@@ -18,17 +18,17 @@ Company Building: unknown
 Company Credit: progression
 Cruiser: unknown
 Dine: unknown
-Experimentation: unknown
+Experimentation: progression
 Extension ladder: unknown
 Flashlight: progression
 HauntTrap: trap
 Inventory Slot: useful
 InverseTeleporter: useful
-Jetpack: unknown
+Jetpack: progression
 Less Time: trap
 Lockpicker: filler
 LoudHorn: unknown
-March: unknown
+March: progression
 Money: filler
 More Time: useful
 Offense: progression
@@ -47,7 +47,7 @@ TZP-Inhalant: unknown
 Teleporter: useful
 Terminal: unknown
 Titan: unknown
-Vow: unknown
+Vow: progression
 Walkie-talkie: progression
 Weed killer: unknown
 Zap gun: progression
