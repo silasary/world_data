@@ -41,6 +41,7 @@ Advanced Medic Facilities (Medic): filler
 Advanced Optics (Terran): useful
 Advanced Optics: useful
 Advanced Photon Blasters (Scout): useful
+Advanced Photon Blasters (Scout/Oppressor/Mist Wing): unknown
 Advanced Siege Tech (Siege Tank): useful
 Advanced Targeting (Planetary Fortress): useful
 Advanced Targeting Mechanics (Immortal/Annihilator): progression
@@ -61,6 +62,7 @@ Anion Pulse-Crystals (Phoenix/Mirage/Skirmisher): unknown
 Annihilator: progression
 Antennae (Overlord): unknown
 Anti-Armor Missile (Raven): filler
+Anti-Armor Munitions (Devastator Turret): unknown
 Anti-Mechanical Munition (Viking): useful
 Anti-Surface Countermeasures (Dawnbringer): useful
 Apial Sensors (Scout): filler
@@ -139,6 +141,7 @@ Chain Reaction (Kerrigan Tier 2): progression
 Chaotic Attunement (Ascendant): useful
 Charge (Predator): filler
 Chitinous Plating (Ultralisk): useful
+Chrono Shear (Intercessor): unknown
 Chrono Surge (Spear of Adun Calldown): useful
 Chronostatic Reinforcement (Arbiter): useful
 Cloak (Battlecruiser): useful
@@ -158,6 +161,7 @@ Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Fire (Primal Igniter): unknown
 Concentrated Spew (Infested Diamondback): useful
+Concussive Grenades (Devastator Turret): unknown
 Concussive Shells (Marauder): useful
 Construct Regeneration (Aberration): unknown
 Construct Regeneration (Corruptor): useful
@@ -296,6 +300,7 @@ Hellfire Shotgun (Nova Weapon): progression
 Hellion: progression
 Hellstorm Batteries (Missile Turret): useful
 Hercules: progression
+Heroic Fortitude (Kerrigan Passive): unknown
 Heroic Fortitude (Kerrigan Tier 1): progression
 Hi-Sec Auto Tracking: useful
 High Archon (Archon): useful
@@ -362,6 +367,7 @@ Internal Tech Module (Marauder): filler
 Internal Tech Module (Raven): filler
 Internal Tech Module (Siege Tank): filler
 Internal Tech Module (Wraith): filler
+Interplanetary Range (Tempest): unknown
 Ion Thrusters (Diamondback): useful
 Ion Thrusters (Vulture): filler
 Ionic Force Field (Nova Gadget): progression
@@ -664,6 +670,7 @@ Resource Efficiency (Reaper): unknown
 Resource Efficiency (Reaver): useful
 Resource Efficiency (Scourge): progression
 Resource Efficiency (Scout): unknown
+Resource Efficiency (Sentinel): unknown
 Resource Efficiency (Siege Tank): useful
 Resource Efficiency (Spectre): useful
 Resource Efficiency (Swarm Host): useful
