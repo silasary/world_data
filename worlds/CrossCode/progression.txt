@@ -25,6 +25,7 @@ Assault Vest: progression
 Asteroid Belt: progression
 Asteroid Chunk: filler
 Autumn Ingredients: progression
+Autumn Leaves x13: unknown
 Autumn Leaves x4: filler
 Autumn Leaves: filler
 Autumn Probe: progression
@@ -42,6 +43,7 @@ Batboy: filler
 Battered Fist x2: unknown
 Battered Fist: progression
 Bear Beer x3: filler
+Bear Beer x5: unknown
 Bear Beer: filler
 Bear Cicada x3: filler
 Bear Cicada: filler
@@ -191,6 +193,7 @@ Deadly Dancers: progression
 Dented Crown: progression
 Desert Sandals: progression
 Dessert Vest: progression
+Diabolic Horns x2: unknown
 Diabolic Horns: filler
 Diamond: filler
 Dirty Rubble x4: filler
@@ -210,6 +213,7 @@ Drill Stone: filler
 Dropped Mic: filler
 Dry Fin: filler
 Dungeon Heart: filler
+Durian x4: unknown
 Durian: filler
 Echo Roll x5: filler
 Echo Roll: filler
@@ -369,6 +373,7 @@ Gold Surprise Egg: filler
 Golden Bars x2: unknown
 Golden Bars x3: unknown
 Golden Bars x4: unknown
+Golden Bars x5: unknown
 Golden Bars x6: unknown
 Golden Bars: filler
 Golden Bug: progression
@@ -421,8 +426,10 @@ Hightech Valve: progression
 Holiday Boots: filler
 Holiday Hat: filler
 Holiday Present: progression
+Hotsauce x2: unknown
 Hotsauce x6: unknown
 Hotsauce: filler
+Hoverpad x3: unknown
 Hoverpad: filler
 Huge Nut x4: unknown
 Huge Nut: filler
@@ -520,8 +527,10 @@ Mellow Water: filler
 Menacing Aura: filler
 Metal Down x2: unknown
 Metal Down: filler
+Metal Gears x2: unknown
 Metal Gears x3: filler
 Metal Gears: filler
+Metal Needles x4: unknown
 Metal Needles: filler
 Meteor Chunk: filler
 Meteor Shade: progression
@@ -591,11 +600,13 @@ Phoenix Feather: filler
 Piggybank: filler
 Pike Wood x5: filler
 Pike Wood x6: unknown
+Pike Wood x7: unknown
 Pike Wood: filler
 Pink Petal x3: filler
 Pink Petal: filler
 Pioneer Vest+: progression
 Pioneer Vest: progression
+Plain Cube x2: unknown
 Plain Cube x3: unknown
 Plain Cube: filler
 Plate of Chests: progression
@@ -657,6 +668,7 @@ Rainbow Gem x3: filler
 Rainbow Gem: filler
 Ramming Shell: progression
 Rapier Carrot: progression
+Raw Meat x3: unknown
 Raw Meat x5: unknown
 Raw Meat x6: unknown
 Raw Meat: filler
@@ -668,6 +680,7 @@ Red Bandana: progression
 Red Flame Shade: progression
 Red Liz: filler
 Refined Metal x2: unknown
+Refined Metal x3: unknown
 Refined Metal: filler
 Rice Cracker: filler
 Ridge Booster: progression
@@ -714,6 +727,7 @@ Scouting Visor: progression
 Scrappy Plate: progression
 Sea Disc x3: filler
 Sea Disc: filler
+Season Apples x4: unknown
 Season Apples x5: filler
 Season Apples: filler
 Second Hide: progression
@@ -1012,6 +1026,7 @@ Steel Bamboo x4: filler
 Steel Bamboo: filler
 Steel Boots: progression
 Steel Comb x4: filler
+Steel Comb x5: unknown
 Steel Comb: filler
 Steel Edge: progression
 Steel Goggles: progression
@@ -1045,6 +1060,7 @@ Survivor's Blade: progression
 Sweet Berry Tea x2: filler
 Sweet Berry Tea x4: unknown
 Sweet Berry Tea x5: unknown
+Sweet Berry Tea x7: unknown
 Sweet Berry Tea: filler
 Sweet Lemonjuice: filler
 Swiftspike x2: unknown
@@ -1113,6 +1129,7 @@ Veggie Sticks: filler
 Veggie Wraps x3: filler
 Veggie Wraps: filler
 Venom Shroom x4: filler
+Venom Shroom x9: unknown
 Venom Shroom: filler
 Vermillion Mantle: progression
 Very Large Ember: progression
@@ -1122,6 +1139,7 @@ Virus Root x4: unknown
 Virus Root x5: unknown
 Virus Root: filler
 Vivid Water x5: filler
+Vivid Water x7: unknown
 Vivid Water: filler
 Warkeeper: progression
 Wave: progression
