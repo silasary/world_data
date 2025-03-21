@@ -1,3 +1,4 @@
+Bombs: progression
 Charge: progression
 ETank: progression
 Grapple: progression
@@ -7,14 +8,15 @@ Ice: unknown
 Missile: filler
 Morph: progression
 Nothing: filler
-Plasma: unknown
+Plasma: progression
 PowerBomb: useful
 ReserveTank: progression
-ScrewAttack: unknown
+ScrewAttack: progression
+SpaceJump: progression
 Spazer: progression
 SpeedBooster: progression
 SpringBall: useful
 Super: useful
-Varia: unknown
+Varia: progression
 Wave: progression
 XRayScope: useful
