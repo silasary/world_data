@@ -81,16 +81,16 @@ Stage:Gun Fortress: progression
 Stage:Heavy Dog: progression
 Stage:Iron Jungle: progression
 Stage:Lava Shelter: progression
-Stage:Lethal Highway: unknown
+Stage:Lethal Highway: progression
 Stage:Lost Impact: unknown
 Stage:Mad Matrix: unknown
 Stage:Prison Island: progression
-Stage:Sky Troops: unknown
+Stage:Sky Troops: progression
 Stage:Space Gadget: unknown
 Stage:The Ark: progression
 Stage:The Doom: progression
 Stage:Westopolis: unknown
-The Ark Defense Unit: unknown
+The Ark Defense Unit: progression
 The Doom Researcher: progression
 The Doom Soldier: progression
 Vehicle: Air Saucer: unknown
@@ -128,7 +128,7 @@ Weapon:Fleet Pole: unknown
 Weapon:Fortress Pole: unknown
 Weapon:Gadget Pole: unknown
 Weapon:Gatling Gun: unknown
-Weapon:Grenade Launcher: unknown
+Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: unknown
 Weapon:Heal Cannon: unknown
 Weapon:Heavy Machine Gun: unknown
@@ -139,7 +139,7 @@ Weapon:Laser Rifle: unknown
 Weapon:Last Pole: unknown
 Weapon:Lava Shovel: unknown
 Weapon:Lethal Pole: unknown
-Weapon:Light Shot: unknown
+Weapon:Light Shot: progression
 Weapon:Matrix Pole: unknown
 Weapon:Omochao Gun: progression
 Weapon:Pistol: progression
