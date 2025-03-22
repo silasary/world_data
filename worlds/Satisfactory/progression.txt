@@ -242,7 +242,7 @@ Bundle: Quartz Crystal: filler
 Bundle: Quickwire: filler
 Bundle: Radio Control Unit: filler
 Bundle: Raw Quartz: unknown
-Bundle: Reanimated SAM: unknown
+Bundle: Reanimated SAM: filler
 Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
 Bundle: Rifle Ammo: unknown
