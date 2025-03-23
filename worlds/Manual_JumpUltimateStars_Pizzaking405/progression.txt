@@ -91,12 +91,13 @@ Battle Koma; Kenshin-6-Knowledge (Rurouni Kenshin): unknown
 Battle Koma; Kenshin-6-Power (Rurouni Kenshin): useful
 Battle Koma; Kenshiro-4 (Fist Of The North Star): unknown
 Battle Koma; Kenshiro-5 (Fist Of The North Star): useful
-Battle Koma; Kenshiro-6 (Fist Of The North Star): unknown
+Battle Koma; Kenshiro-6 (Fist Of The North Star): useful
 Battle Koma; Kenshiro-7 (Fist Of The North Star): unknown
 Battle Koma; Kenshiro-8 (Fist Of The North Star): useful
 Battle Koma; Killua-4 (Hunter x Hunter): unknown
 Battle Koma; Killua-5 (Hunter x Hunter): unknown
 Battle Koma; Kinnikuman-5 (Kinnikuman): useful
+Battle Koma; Kinnikuman-6 (Kinnikuman): useful
 Battle Koma; Kinnikuman-7 (Kinnikuman): useful
 Battle Koma; Kurama-4 (Yu Yu Hakusho): unknown
 Battle Koma; Lenalee-4 (Devil Gray-Man): useful
@@ -164,7 +165,7 @@ Battle Koma; Sanji-5-Laughter (One Piece): unknown
 Battle Koma; Sanji-5-Power (One Piece): useful
 Battle Koma; Sanji-6 (One Piece): unknown
 Battle Koma; Sasuke-7 (Naruto): useful
-Battle Koma; Sasuke-8-Knowledge (Naruto): unknown
+Battle Koma; Sasuke-8-Knowledge (Naruto): useful
 Battle Koma; Sasuke-8-Power (Naruto): unknown
 Battle Koma; Seiya-4 (Saint Seiya): unknown
 Battle Koma; Seiya-5 (Saint Seiya): unknown
@@ -197,7 +198,7 @@ Battle Koma; Yugi-6 (Yu-Gi-Oh): unknown
 Battle Koma; Yusuke-4 (Yu Yu Hakusho): unknown
 Battle Koma; Yusuke-5 (Yu Yu Hakusho): unknown
 Battle Koma; Yusuke-6 (Yu Yu Hakusho): unknown
-Battle Koma; Zoro-4 (One Piece): unknown
+Battle Koma; Zoro-4 (One Piece): useful
 Battle Koma; Zoro-5-Laughter (One Piece): unknown
 Battle Koma; Zoro-5-Power (One Piece): useful
 Battle Koma; Zoro-6 (One Piece): useful
@@ -320,7 +321,7 @@ Support Koma; Byakuya-3 (Bleach): unknown
 Support Koma; Cascade-2 (Midori no Makibaoh): useful
 Support Koma; Cascade-3 (Midori no Makibaoh): useful
 Support Koma; Cerberus-3 (Eyeshield 21): unknown
-Support Koma; Chad-2 (Bleach): unknown
+Support Koma; Chad-2 (Bleach): useful
 Support Koma; Chad-3 (Bleach): useful
 Support Koma; Chief Ohara-2(Kochikame): useful
 Support Koma; Chief Ohara-3 (Kochikame): unknown
@@ -651,6 +652,6 @@ Support Koma; Yukime-3 (Hell Teacher Nube): unknown
 Support Koma; Yusuke-2 (Yu Yu Hakusho): unknown
 Support Koma; Yusuke-3 (Yu Yu Hakusho): useful
 Support Koma; Zoro-2 (One Piece): unknown
-Support Koma; Zoro-3 (One Piece): unknown
+Support Koma; Zoro-3 (One Piece): useful
 Support Koma; Zura-2 (Gintama): unknown
 Support Koma; Zura/Elizabeth-3 (Gintama): useful
