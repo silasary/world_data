@@ -194,7 +194,7 @@ Bundle: Iron Plate: filler
 Bundle: Iron Rebar: filler
 Bundle: Iron Rod: filler
 Bundle: Jetpack: unknown
-Bundle: Leaves: unknown
+Bundle: Leaves: filler
 Bundle: Limestone: filler
 Bundle: Lizard Doggo Statue: filler
 Bundle: Magnetic Field Generator: unknown
