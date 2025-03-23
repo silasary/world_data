@@ -33,6 +33,7 @@ KANE_MINION_A: progression
 KANE_MINION_B: progression
 KANE_MINION_C: progression
 KANE_MINION_D: progression
+KANE_MINION_E: unknown
 KEMO: progression
 KREIGER: progression
 Kanan the Swordmistress: unknown
