@@ -21,8 +21,10 @@ BigBomb: filler
 Black Armor: unknown
 Black Belt: filler
 Black Gauntlet: unknown
+Black Helm: unknown
 Black Shirt: filler
 Black Sword: filler
+Blitz Whip: unknown
 Blizzard Spear: filler
 Blizzard: filler
 Bomb: unknown
@@ -52,6 +54,7 @@ Cure1: unknown
 Cure2: filler
 Cure3: filler
 Cursed Ring: filler
+Dancing Dagger: unknown
 Darkness Armor: filler
 Darkness Arrows: unknown
 Darkness Crystal: progression
@@ -159,6 +162,7 @@ Odin Summon: filler
 Ogre Axe: filler
 Package: progression
 Paladin Armor: unknown
+Paladin Gauntlet: unknown
 Paladin Helm: filler
 Paladin Shield: unknown
 Palom: useful
