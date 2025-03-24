@@ -18,5 +18,6 @@ SpeedBooster: progression
 SpringBall: useful
 Super: useful
 Varia: progression
+WallJump: unknown
 Wave: progression
 XRayScope: useful
