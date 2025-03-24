@@ -25,7 +25,7 @@ City in The Sky Small Key: progression
 Empty Bottle (Fishing Hole): unknown
 Female Ant: mcguffin
 Female Beetle: mcguffin
-Female Butterfly: unknown
+Female Butterfly: progression
 Female Dayfly: useful
 Female Dragonfly: mcguffin
 Female Ladybug: mcguffin
@@ -73,6 +73,8 @@ Male Dragonfly: mcguffin
 Male Ladybug: mcguffin
 Male Mantis: mcguffin
 Male Phasmid: unknown
+Male Pill Bug: mcguffin
+Male Snail: progression
 Male Stag Beetle: mcguffin
 Milk (half) (Sera Bottle): useful
 North Faron Woods Gate Keys: progression
