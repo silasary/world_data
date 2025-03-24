@@ -16,6 +16,7 @@ Cryptic Castle Lantern: progression
 Cyan Chaos Emerald: unknown
 Dark Token: unknown
 Death Ruins Alien: progression
+Final Boss Token: unknown
 Final Haunt Shield: progression
 Final Token: unknown
 Gauge:Dark-10000: filler
@@ -63,7 +64,9 @@ Red Chaos Emerald: unknown
 Sky Troops Egg Ship: progression
 Sky Troops Temple: unknown
 Space Gadget Defense Unit: progression
+Stage Melee Weapons: unknown
 Stage:Air Fleet: unknown
+Stage:Black Bull Death Ruins: unknown
 Stage:Black Comet: progression
 Stage:Black Doom Cosmic Fall: progression
 Stage:Central City: unknown
@@ -71,10 +74,14 @@ Stage:Circus Park: progression
 Stage:Cosmic Fall: unknown
 Stage:Cryptic Castle: progression
 Stage:Death Ruins: progression
+Stage:Diablon Black Comet: unknown
+Stage:Diablon Gun Fortress: unknown
 Stage:Digital Circuit: unknown
 Stage:Egg Breaker Cryptic Castle: progression
+Stage:Egg Breaker Iron Jungle: unknown
 Stage:Egg Breaker Mad Matrix: progression
 Stage:Egg Dealer Black Comet: progression
+Stage:Egg Dealer Lava Shelter: unknown
 Stage:Final Haunt: unknown
 Stage:Glyphic Canyon: progression
 Stage:Gun Fortress: progression
