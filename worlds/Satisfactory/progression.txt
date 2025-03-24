@@ -38,7 +38,7 @@ Building: Equipment Workshop: unknown
 Building: Flood Light Tower: unknown
 Building: Fluid Buffer: unknown
 Building: Foundation: useful
-Building: Foundry: unknown
+Building: Foundry: progression
 Building: Frame Pillar: unknown
 Building: Frame foundation: unknown
 Building: Fuel Generator: progression
@@ -106,11 +106,11 @@ Building: Storage Container: unknown
 Building: Street Light: unknown
 Building: Tilted Walls: unknown
 Building: U-Jelly Landing Pad: useful
-Building: Valve: unknown
+Building: Valve: useful
 Building: Wall Mounted Flood Light: unknown
 Building: Wall Outlet Mk.1: unknown
 Building: Wall Outlet Mk.2: useful
-Building: Wall Outlet Mk.3: unknown
+Building: Wall Outlet Mk.3: useful
 Building: Wall Pipeline Support: unknown
 Building: Walls Concrete: unknown
 Building: Walls Metal: unknown
@@ -119,7 +119,7 @@ Building: Water Extractor: progression
 Building: Windowed Walls: unknown
 Bundle: AI Expansion Server: unknown
 Bundle: AI Limiter: unknown
-Bundle: Adaptive Control Unit: unknown
+Bundle: Adaptive Control Unit: filler
 Bundle: Adequate Pioneering Statue: unknown
 Bundle: Alclad Aluminum Sheet: unknown
 Bundle: Alien DNA Capsule: unknown
@@ -143,21 +143,21 @@ Bundle: Blue Power Slug: unknown
 Bundle: Boom Box: unknown
 Bundle: Cable: filler
 Bundle: Caterium Ingot: unknown
-Bundle: Caterium Ore: unknown
+Bundle: Caterium Ore: filler
 Bundle: Chainsaw: unknown
 Bundle: Circuit Board: unknown
 Bundle: Cluster Nobelisk: unknown
 Bundle: Coal: filler
 Bundle: Color Cartridge: unknown
 Bundle: Compacted Coal: unknown
-Bundle: Computer: unknown
+Bundle: Computer: useful
 Bundle: Concrete: filler
 Bundle: Confusing Creature Statue: filler
 Bundle: Cooling System: unknown
 Bundle: Copper Ingot: filler
 Bundle: Copper Ore: unknown
 Bundle: Copper Powder: unknown
-Bundle: Copper Sheet: unknown
+Bundle: Copper Sheet: filler
 Bundle: Crystal Oscillator: unknown
 Bundle: Cup (gold): unknown
 Bundle: Cup: filler
@@ -179,11 +179,11 @@ Bundle: Gas Filter: unknown
 Bundle: Gas Mask: unknown
 Bundle: Gas Nobelisk: unknown
 Bundle: Golden Nut Statue: unknown
-Bundle: Hard Drive: unknown
+Bundle: Hard Drive: progression
 Bundle: Hatcher Remains: unknown
 Bundle: Hazmat Suit: useful
 Bundle: Heat Sink: unknown
-Bundle: Heavy Modular Frame: unknown
+Bundle: Heavy Modular Frame: useful
 Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
 Bundle: Homing Rifle Ammo: unknown
@@ -200,7 +200,7 @@ Bundle: Lizard Doggo Statue: filler
 Bundle: Magnetic Field Generator: unknown
 Bundle: Medicinal Inhaler: unknown
 Bundle: Mercer Sphere: unknown
-Bundle: Modular Engine: unknown
+Bundle: Modular Engine: filler
 Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
@@ -242,7 +242,7 @@ Bundle: Quantum Computer: filler
 Bundle: Quartz Crystal: filler
 Bundle: Quickwire: filler
 Bundle: Radio Control Unit: filler
-Bundle: Raw Quartz: unknown
+Bundle: Raw Quartz: filler
 Bundle: Reanimated SAM: filler
 Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
@@ -252,6 +252,7 @@ Bundle: Rotor: unknown
 Bundle: Rubber: unknown
 Bundle: SAM Fluctuator: filler
 Bundle: SAM Ore: unknown
+Bundle: SAM: filler
 Bundle: Satisfactory Pioneering Statue: unknown
 Bundle: Screw: filler
 Bundle: Shatter Rebar: unknown
@@ -331,7 +332,7 @@ Recipe: Aluminum Ingot: progression
 Recipe: Aluminum Scrap: unknown
 Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
-Recipe: Automated Speed Wiring: unknown
+Recipe: Automated Speed Wiring: progression
 Recipe: Automated Wiring: progression
 Recipe: Basic Iron Ingot: unknown
 Recipe: Battery: useful
@@ -354,11 +355,11 @@ Recipe: Chainsaw: unknown
 Recipe: Cheap Silica: progression
 Recipe: Circuit Board: unknown
 Recipe: Classic Battery: progression
-Recipe: Cloudy Diamonds: unknown
+Recipe: Cloudy Diamonds: progression
 Recipe: Cluster Nobelisk: filler
 Recipe: Coated Cable: useful
 Recipe: Coated Iron Canister: progression
-Recipe: Coated Iron Plate: unknown
+Recipe: Coated Iron Plate: progression
 Recipe: Coke Steel Ingot: unknown
 Recipe: Compacted Coal: unknown
 Recipe: Compacted Steel Ingot: unknown
@@ -370,11 +371,11 @@ Recipe: Copper Alloy Ingot: progression
 Recipe: Copper Ingot: unknown
 Recipe: Copper Powder: useful
 Recipe: Copper Rotor: progression
-Recipe: Copper Sheet: unknown
+Recipe: Copper Sheet: progression
 Recipe: Crystal Beacon: unknown
 Recipe: Crystal Computer: progression
 Recipe: Crystal Oscillator: progression
-Recipe: Dark Matter Crystal: unknown
+Recipe: Dark Matter Crystal: progression
 Recipe: Dark Matter Crystallization: unknown
 Recipe: Dark Matter Trap: unknown
 Recipe: Diluted Fuel (refinery): useful
@@ -382,7 +383,7 @@ Recipe: Diluted Fuel: useful
 Recipe: Diluted Packaged Fuel: unknown
 Recipe: Electric Motor: progression
 Recipe: Electrode - Aluminum Scrap: unknown
-Recipe: Electrode Circuit Board: unknown
+Recipe: Electrode Circuit Board: progression
 Recipe: Electromagnetic Connection Rod: progression
 Recipe: Electromagnetic Control Rod: progression
 Recipe: Empty Canister: filler
@@ -394,10 +395,10 @@ Recipe: Encased Uranium Cell: progression
 Recipe: Explosive Rebar: unknown
 Recipe: Fabric: progression
 Recipe: Factory Cart: unknown
-Recipe: Fertile Uranium: unknown
+Recipe: Fertile Uranium: progression
 Recipe: Ficsite Ingot (Aluminum): useful
 Recipe: Ficsite Ingot (Caterium): progression
-Recipe: Ficsite Ingot (Iron): unknown
+Recipe: Ficsite Ingot (Iron): progression
 Recipe: Ficsite Trigon: progression
 Recipe: Ficsonium: useful
 Recipe: Fine Black Powder: progression
@@ -405,10 +406,10 @@ Recipe: Fine Concrete: unknown
 Recipe: Flexible Framework: progression
 Recipe: Fuel: progression
 Recipe: Fused Modular Frame: useful
-Recipe: Fused Quartz Crystal: unknown
+Recipe: Fused Quartz Crystal: progression
 Recipe: Fused Quickwire: unknown
 Recipe: Fused Wire: useful
-Recipe: Gas Filter: unknown
+Recipe: Gas Filter: useful
 Recipe: Gas Mask: unknown
 Recipe: Gas Nobelisk: useful
 Recipe: Golden Factory Cart: unknown
@@ -460,7 +461,7 @@ Recipe: OC Supercomputer: useful
 Recipe: Object Scanner: unknown
 Recipe: Oil-Based Diamonds: unknown
 Recipe: Packaged Alumina Solution: progression
-Recipe: Packaged Fuel: unknown
+Recipe: Packaged Fuel: progression
 Recipe: Packaged Heavy Oil Residue: progression
 Recipe: Packaged Ionized Fuel: useful
 Recipe: Packaged Liquid Biofuel: unknown
@@ -475,6 +476,7 @@ Recipe: Parachute: unknown
 Recipe: Petroleum Coke: progression
 Recipe: Petroleum Diamonds: unknown
 Recipe: Pink Diamonds: progression
+Recipe: Plastic AI Limiter: progression
 Recipe: Plastic Smart Plating: useful
 Recipe: Plastic: progression
 Recipe: Plutonium Fuel Rod: progression
@@ -523,7 +525,7 @@ Recipe: Silica: unknown
 Recipe: Silicon Circuit Board: progression
 Recipe: Silicon High-Speed Connector: progression
 Recipe: Smart Plating: progression
-Recipe: Smokeless Powder: unknown
+Recipe: Smokeless Powder: progression
 Recipe: Solid Biofuel: useful
 Recipe: Solid Steel Ingot: progression
 Recipe: Spitter Protein: progression
@@ -531,7 +533,7 @@ Recipe: Stator: progression
 Recipe: Steamed Copper Sheet: unknown
 Recipe: Steel Beam: unknown
 Recipe: Steel Canister: unknown
-Recipe: Steel Cast Plate: unknown
+Recipe: Steel Cast Plate: progression
 Recipe: Steel Coated Plate: useful
 Recipe: Steel Ingot: progression
 Recipe: Steel Pipe: useful
@@ -546,6 +548,7 @@ Recipe: Sulfuric Acid: progression
 Recipe: Super-State Computer: unknown
 Recipe: Supercomputer: useful
 Recipe: Superposition Oscillator: unknown
+Recipe: Synthetic Power Shard: progression
 Recipe: Tempered Caterium Ingot: progression
 Recipe: Tempered Copper Ingot: unknown
 Recipe: Therapeutic Inhaler: progression
@@ -560,7 +563,7 @@ Recipe: Turbo Pressure Motor: progression
 Recipe: Turbo Rifle Ammo (Packaged): unknown
 Recipe: Turbo Rifle Ammo: useful
 Recipe: Turbofuel: unknown
-Recipe: Uranium Fuel Rod: unknown
+Recipe: Uranium Fuel Rod: progression
 Recipe: Uranium Fuel Unit: useful
 Recipe: Versatile Framework: progression
 Recipe: Vitamin Inhaler: unknown
@@ -589,9 +592,11 @@ Transport: Hypertube: progression
 Transport: Tractor: unknown
 Transport: Trains: unknown
 Transport: Truck: unknown
+Trap: Alpha Hog: unknown
 Trap: Alpha Spitter: trap
 Trap: Can of Beans: unknown
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown
+Trap: Hatcher: unknown
 Trap: Not the Bees: trap
 Trap: Small Stinger: trap
