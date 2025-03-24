@@ -447,7 +447,7 @@ Recipe: Modular Frame: unknown
 Recipe: Molded Beam: unknown
 Recipe: Molded Steel Pipe: progression
 Recipe: Motor: useful
-Recipe: Neural-Quantum Processor: unknown
+Recipe: Neural-Quantum Processor: progression
 Recipe: Nitric Acid: unknown
 Recipe: Nitro Rocket Fuel: unknown
 Recipe: Nitrogen Gas: unknown
