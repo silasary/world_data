@@ -6,6 +6,9 @@ Unlock Bingo2: progression
 Unlock Bingo3: progression
 Unlock Bingo: progression
 Unlock Bonus Slot 100: unknown
+Unlock Bonus Slot 101: unknown
+Unlock Bonus Slot 105: unknown
+Unlock Bonus Slot 106: unknown
 Unlock Bonus Slot 107: unknown
 Unlock Bonus Slot 108: unknown
 Unlock Bonus Slot 114: unknown
@@ -18,6 +21,7 @@ Unlock Bonus Slot 132: progression
 Unlock Bonus Slot 133: unknown
 Unlock Bonus Slot 134: unknown
 Unlock Bonus Slot 135: unknown
+Unlock Bonus Slot 139: unknown
 Unlock Bonus Slot 141: unknown
 Unlock Bonus Slot 142: unknown
 Unlock Bonus Slot 144: unknown
@@ -30,15 +34,20 @@ Unlock Bonus Slot 166: unknown
 Unlock Bonus Slot 167: progression
 Unlock Bonus Slot 170: unknown
 Unlock Bonus Slot 171: unknown
+Unlock Bonus Slot 182: unknown
+Unlock Bonus Slot 184: unknown
 Unlock Bonus Slot 187: unknown
 Unlock Bonus Slot 188: unknown
 Unlock Bonus Slot 199: unknown
 Unlock Bonus Slot 201: unknown
 Unlock Bonus Slot 209: unknown
+Unlock Bonus Slot 212: unknown
 Unlock Bonus Slot 214: unknown
 Unlock Bonus Slot 221: unknown
 Unlock Bonus Slot 228: unknown
 Unlock Bonus Slot 235: unknown
+Unlock Bonus Slot 238: unknown
+Unlock Bonus Slot 246: unknown
 Unlock Bonus Slot 247: unknown
 Unlock Bonus Slot 249: unknown
 Unlock Bonus Slot 24: unknown
@@ -47,6 +56,7 @@ Unlock Bonus Slot 253: unknown
 Unlock Bonus Slot 254: unknown
 Unlock Bonus Slot 256: unknown
 Unlock Bonus Slot 259: unknown
+Unlock Bonus Slot 262: unknown
 Unlock Bonus Slot 263: unknown
 Unlock Bonus Slot 264: unknown
 Unlock Bonus Slot 268: unknown
@@ -59,8 +69,11 @@ Unlock Bonus Slot 280: unknown
 Unlock Bonus Slot 281: unknown
 Unlock Bonus Slot 285: unknown
 Unlock Bonus Slot 287: unknown
+Unlock Bonus Slot 288: unknown
 Unlock Bonus Slot 289: unknown
 Unlock Bonus Slot 28: unknown
+Unlock Bonus Slot 295: unknown
+Unlock Bonus Slot 297: unknown
 Unlock Bonus Slot 301: unknown
 Unlock Bonus Slot 302: unknown
 Unlock Bonus Slot 303: unknown
@@ -85,27 +98,40 @@ Unlock Bonus Slot 335: unknown
 Unlock Bonus Slot 336: unknown
 Unlock Bonus Slot 339: unknown
 Unlock Bonus Slot 340: unknown
+Unlock Bonus Slot 341: unknown
+Unlock Bonus Slot 342: unknown
 Unlock Bonus Slot 345: unknown
+Unlock Bonus Slot 346: unknown
 Unlock Bonus Slot 354: unknown
 Unlock Bonus Slot 355: unknown
+Unlock Bonus Slot 356: unknown
 Unlock Bonus Slot 357: unknown
 Unlock Bonus Slot 364: unknown
 Unlock Bonus Slot 370: unknown
 Unlock Bonus Slot 373: unknown
+Unlock Bonus Slot 374: unknown
 Unlock Bonus Slot 376: unknown
 Unlock Bonus Slot 377: unknown
 Unlock Bonus Slot 379: unknown
+Unlock Bonus Slot 37: unknown
+Unlock Bonus Slot 389: unknown
 Unlock Bonus Slot 392: unknown
 Unlock Bonus Slot 393: unknown
+Unlock Bonus Slot 394: unknown
 Unlock Bonus Slot 395: unknown
 Unlock Bonus Slot 399: unknown
 Unlock Bonus Slot 403: unknown
 Unlock Bonus Slot 405: unknown
 Unlock Bonus Slot 407: unknown
 Unlock Bonus Slot 408: unknown
+Unlock Bonus Slot 409: unknown
 Unlock Bonus Slot 419: unknown
+Unlock Bonus Slot 420: unknown
 Unlock Bonus Slot 423: unknown
+Unlock Bonus Slot 425: unknown
+Unlock Bonus Slot 42: unknown
 Unlock Bonus Slot 431: unknown
+Unlock Bonus Slot 435: unknown
 Unlock Bonus Slot 440: unknown
 Unlock Bonus Slot 442: unknown
 Unlock Bonus Slot 445: unknown
@@ -113,9 +139,12 @@ Unlock Bonus Slot 451: unknown
 Unlock Bonus Slot 455: unknown
 Unlock Bonus Slot 456: unknown
 Unlock Bonus Slot 457: unknown
+Unlock Bonus Slot 458: unknown
 Unlock Bonus Slot 462: unknown
 Unlock Bonus Slot 464: unknown
+Unlock Bonus Slot 465: unknown
 Unlock Bonus Slot 466: unknown
+Unlock Bonus Slot 467: unknown
 Unlock Bonus Slot 468: unknown
 Unlock Bonus Slot 469: unknown
 Unlock Bonus Slot 46: unknown
@@ -123,6 +152,8 @@ Unlock Bonus Slot 470: unknown
 Unlock Bonus Slot 471: unknown
 Unlock Bonus Slot 476: unknown
 Unlock Bonus Slot 47: unknown
+Unlock Bonus Slot 484: unknown
+Unlock Bonus Slot 485: unknown
 Unlock Bonus Slot 487: unknown
 Unlock Bonus Slot 489: unknown
 Unlock Bonus Slot 490: unknown
@@ -131,14 +162,21 @@ Unlock Bonus Slot 499: unknown
 Unlock Bonus Slot 49: unknown
 Unlock Bonus Slot 4: unknown
 Unlock Bonus Slot 500: unknown
+Unlock Bonus Slot 50: unknown
 Unlock Bonus Slot 51: unknown
+Unlock Bonus Slot 54: unknown
 Unlock Bonus Slot 55: unknown
 Unlock Bonus Slot 58: unknown
+Unlock Bonus Slot 5: unknown
 Unlock Bonus Slot 61: unknown
 Unlock Bonus Slot 62: unknown
 Unlock Bonus Slot 63: unknown
+Unlock Bonus Slot 6: unknown
+Unlock Bonus Slot 70: unknown
+Unlock Bonus Slot 73: unknown
 Unlock Bonus Slot 78: unknown
 Unlock Bonus Slot 81: unknown
+Unlock Bonus Slot 82: unknown
 Unlock Bonus Slot 88: unknown
 Unlock Bonus Slot 90: unknown
 Unlock Bonus Slot 91: unknown
@@ -172,6 +210,7 @@ Unlock Gryph_Dice3: unknown
 Unlock Gryph_Dice6: unknown
 Unlock Gryph_Puzzles: progression
 Unlock Ratdra2: unknown
+Unlock Ratdra3: unknown
 Unlock SandraDLCBasic: unknown
 Unlock SandraDLCBoth: unknown
 Unlock SandraDoomE2: progression
@@ -179,6 +218,8 @@ Unlock SandraDoomIIE1: unknown
 Unlock SandraDoomIIE3: unknown
 Unlock SandraEmerald: progression
 Unlock SandraLTTP: unknown
+Unlock SandraPuzzles4: unknown
+Unlock SandraYacht3: unknown
 Unlock Santdra2: progression
 Unlock Santdra: progression
 Unlock SlotLock: progression
@@ -195,4 +236,6 @@ Unlock karina-sc2: progression
 Unlock karrina-T: unknown
 Unlock patchy-bn: progression
 Unlock patchy-mmx1-2: unknown
+Unlock patchy-mmx3-1: unknown
 Unlock pipcytus2: progression
+Unlock pipfishing: unknown
