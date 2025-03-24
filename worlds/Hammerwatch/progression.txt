@@ -134,7 +134,7 @@ Enable Queen Arena Buttons: unknown
 Fire Trap: trap
 Fish: unknown
 Fix CL1 Blue Bridge: unknown
-Fix CL1 Green Bridge: unknown
+Fix CL1 Green Bridge: progression
 Fix CL1 Red Bridge: unknown
 Fix CL2 Double Bridge: unknown
 Fix CL2 Exit Bridge: unknown
@@ -201,7 +201,7 @@ Open AvF8 NE Cache: unknown
 Open AvF8 NW Shortcut: unknown
 Open AvF8 Puzzle Room: unknown
 Open AvF8 South Area Left Side: unknown
-Open AvF8 South Area Right Side: unknown
+Open AvF8 South Area Right Side: progression
 Open AvF8 Spike Turret Island Left Shortcut: unknown
 Open AvF8 Spike Turret Island Top Shortcut: unknown
 Open AvF9 Bonus Portal Passage: unknown
@@ -290,7 +290,7 @@ Open TF3 NE Boss Fall Room: unknown
 Open TF3 SE Boss Fall Room: unknown
 Open TF3 South Gate: unknown
 Open TF3 West Boss Fall Room: unknown
-Orange: unknown
+Orange: filler
 Ore: progression
 Paladin Combo: progression
 Paladin Healing: progression
