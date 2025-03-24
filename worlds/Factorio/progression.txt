@@ -97,9 +97,9 @@ laser-shooting-speed-5: filler
 laser-shooting-speed-6: filler
 laser-shooting-speed-7: filler
 laser-turret: useful
-laser-weapons-damage-2: unknown
+laser-weapons-damage-2: filler
 laser-weapons-damage-3: unknown
-laser-weapons-damage-4: unknown
+laser-weapons-damage-4: filler
 laser-weapons-damage-5: filler
 laser-weapons-damage-6: filler
 laser: useful
