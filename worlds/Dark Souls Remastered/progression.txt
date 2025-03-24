@@ -19,6 +19,7 @@ Bastard Sword: useful
 Battle Axe: useful
 Bellowing Dragoncrest Ring: useful
 Bequeathed Lord Soul Shard (Four Kings): mcguffin
+Bequeathed Lord Soul Shard (Seath): unknown
 Binoculars: filler
 Black Firebomb: filler
 Black Iron Greatshield: useful
@@ -26,14 +27,18 @@ Black Iron Helm: useful
 Black Iron Leggings: filler
 Black Knight Greataxe: useful
 Black Knight Halberd: useful
+Black Knight Helm: unknown
 Black Leather Boots: useful
 Black Separation Crystal: filler
 Black Sorcerer Boots: useful
+Black Sorcerer Gauntlets: unknown
 Blacksmith Hammer: useful
 Blighttown Key: progression
 Bloated Head: useful
 Bloated Sorcerer Head: useful
 Blood-Stained Skirt: useful
+Bloodbite Ring: unknown
+Bloodred Moss Clump: unknown
 Blooming Purple Moss Clump: filler
 Blue Eye Orb: filler
 Blue Tearstone Ring: useful
@@ -41,11 +46,14 @@ Blue Titanite Chunk: useful
 Blue Titanite Slab: useful
 Bonewheel Shield: useful
 Book of the Guilty: unknown
+Boots of the Explorer: unknown
 Bottomless Box: useful
 Bracelet of the Great Lord: useful
 Brass Helm: unknown
 Brass Leggings: useful
 Brigand Armor: useful
+Brigand Gauntlets: unknown
+BroadSword: unknown
 Broken Pendant: progression
 Broken Straight Sword: filler
 Buckler: unknown
@@ -63,6 +71,7 @@ Catarina Gauntlets: useful
 Catarina Helm: useful
 Chain Armor: useful
 Chain Helm: filler
+Chain Leggings: unknown
 Chaos Blade: useful
 Chaos Flame Ember: useful
 Charcoal Pine Resin: filler
@@ -88,14 +97,17 @@ Crystal Ember: useful
 Crystal Greatsword: unknown
 Crystal Straight Sword: useful
 Crystalline Armor: useful
+Crystalline Gauntlets: unknown
 Cursebite Ring: useful
 Dagger: unknown
 Dark Armor: unknown
 Dark Ember: useful
 Dark Hand: useful
 Dark Leggings: useful
+Dark Mask: unknown
 Dark Silver Tracer: filler
 Darkmoon Blade Covenant Ring: unknown
+Darkmoon Seance Ring: unknown
 Darksign: filler
 Darksword: useful
 Demon Great Machete: unknown
@@ -151,7 +163,9 @@ Giant Gauntlets: useful
 Giant Leggings: unknown
 Giant Shield: filler
 Giant's Halberd: unknown
+Gold Coin: unknown
 Gold Pine Resin: useful
+Gold Tracer: unknown
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: unknown
 Golem Axe: useful
@@ -165,10 +179,12 @@ Grass Crest Shield: useful
 Gravelord Sword: useful
 Greatshield of Artorias: useful
 Greatsword of Artorias (Cursed): useful
+Greatsword of Artorias: unknown
 Green Blossom: useful
 Green Titanite Shard: useful
 Guardian Armor: useful
 Guardian Gauntlets: unknown
+Guardian Soul: unknown
 Halberd: unknown
 Hammer of Vamos: useful
 Hard Leather Armor: useful
@@ -179,16 +195,20 @@ Heavy Bolt: useful
 Heavy Boots: unknown
 Heavy Crossbow: useful
 Helm of Artorias: unknown
+Helm of the Wise: unknown
 Hollow Soldier Shield: useful
 Hollow Warrior Armor: unknown
 Hollow Warrior Waistcloth: unknown
 Holy Trousers: filler
 Homeward Bone: unknown
+Hornet Ring: unknown
 Humanity: useful
 Indictment: unknown
+Iron Bracelet: unknown
 Iron Leggings: useful
 Iron Round Shield: unknown
 Ivory Talisman: useful
+Key to Depths: unknown
 Key to New Londo Ruins: progression
 Key to the Seal: progression
 Knight Gauntlets: useful
@@ -211,11 +231,13 @@ Leather Boots: filler
 Leather Gauntlets: filler
 Leather Gloves: useful
 Leather Shield: useful
+Leggings of Artorias: unknown
 Leggings of Favor: useful
 Leggings of Thorns: unknown
 Lifehunt Scythe: useful
 Light Crossbow: useful
 Lloyd's Talisman: filler
+Logan's Catalyst: unknown
 Longbow: filler
 Longsword: unknown
 Lord Soul (Bed of Chaos): progression
@@ -234,6 +256,7 @@ Miracle: Gravelord Sword Dance: useful
 Miracle: Great Heal Excerpt: unknown
 Miracle: Great Heal: useful
 Miracle: Great Lightning Spear: useful
+Miracle: Great Magic Barrier: unknown
 Miracle: Heal: useful
 Miracle: Homeward: filler
 Miracle: Karmic Justice: useful
@@ -245,6 +268,7 @@ Miracle: Wrath of the Gods: useful
 Moonlight Arrow: useful
 Moonlight Gloves: useful
 Moonlight Greatsword: useful
+Morning Star: unknown
 Murakumo: unknown
 Mystery Key: progression
 Notched Whip: useful
@@ -276,19 +300,23 @@ Pyromancy: Combustion: useful
 Pyromancy: Fire Orb: useful
 Pyromancy: Fire Surge: useful
 Pyromancy: Fire Tempest: useful
+Pyromancy: Fire Whip: unknown
 Pyromancy: Fireball: useful
 Pyromancy: Flash Sweat: useful
 Pyromancy: Great Fireball: useful
 Pyromancy: Iron Flesh: useful
+Pyromancy: Poison Mist: unknown
 Pyromancy: Toxic Mist: useful
 Red Eye Orb: filler
 Red Sign Soapstone: useful
 Red Titanite Chunk: useful
 Red Titanite Slab: useful
 Red and White Round Shield: filler
+Reinforced Club: unknown
 Repairbox: useful
 Residence Key: useful
 Ring of Favor and Protection: useful
+Ring of Sacrifice: unknown
 Ring of the Evil Eye: unknown
 Ring of the Sun Princess: useful
 Ring of the Sun's Firstborn: useful
@@ -306,6 +334,7 @@ Sewer Chamber Key: progression
 Shadow Garb: useful
 Shadow Gauntlets: useful
 Shadow Leggings: filler
+Short Bow: unknown
 Shotel: filler
 Silver Coin: useful
 Silver Knight Armor: useful
@@ -318,11 +347,13 @@ Slumbering Dragoncrest Ring: useful
 Small Leather Shield: useful
 Smough's Hammer: filler
 Smough's Helm: useful
+Smough's Leggings: unknown
 Snickering Top Hat: useful
 Sniper Crossbow: unknown
 Sorcerer Boots: useful
 Sorcerer Cloak: useful
 Sorcerer Gauntlets: useful
+Sorcery: Aural Decoy: unknown
 Sorcery: Cast Light: unknown
 Sorcery: Chameleon: useful
 Sorcery: Crystal Magic Weapon: useful
@@ -334,6 +365,7 @@ Sorcery: Fall Control: useful
 Sorcery: Great Heavy Soul Arrow: useful
 Sorcery: Great Soul Arrow: useful
 Sorcery: Heavy Soul Arrow: useful
+Sorcery: Hidden Body: unknown
 Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
 Sorcery: Pursuers: useful
@@ -342,6 +374,7 @@ Sorcery: Soul Spear: useful
 Sorcery: Strong Magic Shield: useful
 Sorcery: White Dragon Breath: useful
 Soul of Artorias: useful
+Soul of Gwyn, Lord of Cinder: unknown
 Soul of Gwyndolin: useful
 Soul of Manus: useful
 Soul of Moonlight Butterfly: useful
@@ -375,6 +408,7 @@ Tattered Cloth Hood: useful
 Tattered Cloth Machette: useful
 Tattered Cloth Robe: useful
 Thief Mask: useful
+Throwing Knife: unknown
 Tiny Being's Ring: unknown
 Titanite Catch Pole: useful
 Titanite Chunk: useful
@@ -399,6 +433,7 @@ White Titanite Slab: useful
 Winged Spear: useful
 Witch Cloak: useful
 Witch Hat: useful
+Wolf Ring: unknown
 Wood Bolt: filler
 Wooden Arrow: useful
 Wooden Shield: useful
