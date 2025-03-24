@@ -51,6 +51,7 @@ Stormcall Key: progression
 Stormcloud Key: progression
 Unlock: The Arcane Door: progression
 Unlock: The Arcane Passage: progression
+Unlock: The Arcane Threshold: unknown
 Unlock: The Clandestine Passage: progression
 Unlock: The Cloaked Entrance: unknown
 Unlock: The Cloaked Threshold: progression
@@ -62,6 +63,7 @@ Unlock: The Cryptic Vault: progression
 Unlock: The Disguised Gateway: unknown
 Unlock: The Echoing Passage: progression
 Unlock: The Elusive Door: progression
+Unlock: The Enchanted Passage: unknown
 Unlock: The Enigmatic Portal: progression
 Unlock: The Faint Doorway: progression
 Unlock: The Faint Path: progression
@@ -104,6 +106,7 @@ Unlock: The Shadowed Portal: progression
 Unlock: The Shadowed Threshold: unknown
 Unlock: The Silent Passage: progression
 Unlock: The Silent Vault: progression
+Unlock: The Unfathomable Door: unknown
 Unlock: The Unknown Arch: unknown
 Unlock: The Unknown Gateway: unknown
 Unlock: The Unmarked Passage: progression
