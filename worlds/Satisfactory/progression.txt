@@ -250,7 +250,7 @@ Bundle: Reinforced Iron Plate: filler
 Bundle: Rifle Ammo: unknown
 Bundle: Rifle: filler
 Bundle: Rotor: unknown
-Bundle: Rubber: unknown
+Bundle: Rubber: filler
 Bundle: SAM Fluctuator: filler
 Bundle: SAM Ore: unknown
 Bundle: SAM: filler
