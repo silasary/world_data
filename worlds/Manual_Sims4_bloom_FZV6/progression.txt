@@ -30,14 +30,18 @@ Job - Biz: unknown
 Job - Crime: unknown
 Job - Freelance: unknown
 Job - Painter: unknown
+Job - Tech: unknown
 Job - Writer: unknown
 Kids - Misc. Furniture: unknown
 Kids - Toddlers Furniture: unknown
 Loves Outdoors: unknown
 Magic: unknown
+Make Enemy: unknown
 Must Demote: unknown
+Must Go To Batuu: unknown
 Must Quit Job: trap
 Must Skip Work: unknown
+Neat: unknown
 Off-the-Grid - Plumbing: useful
 Outgoing: unknown
 Paranoid: unknown
@@ -54,6 +58,7 @@ Storage - Dressers: unknown
 Storage - Misc.: unknown
 Surfaces - Shelves, Cabinets, and Misc.: unknown
 Surfaces - Tables: unknown
+Transportation: unknown
 Unflirty: unknown
 Vegetarian: unknown
 §1000: unknown
