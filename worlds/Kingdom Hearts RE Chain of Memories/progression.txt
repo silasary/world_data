@@ -1,12 +1,12 @@
 Card Set Aero: filler
 Card Set Bambi: useful
-Card Set Blizzard: unknown
+Card Set Blizzard: useful
 Card Set Bond of Flame: unknown
 Card Set Cloud: useful
 Card Set Crabclaw: useful
 Card Set Cure: filler
 Card Set Diamond Dust: filler
-Card Set Divine Rose: unknown
+Card Set Divine Rose: useful
 Card Set Dumbo: filler
 Card Set Elixir: useful
 Card Set Ether: useful
@@ -41,7 +41,7 @@ Card Set Tinker Bell: filler
 Card Set Total Eclipse: useful
 Card Set Two Become One: useful
 Card Set Ultima Weapon: useful
-Card Set Wishing Star: unknown
+Card Set Wishing Star: useful
 Enemy Card Air Pirate: unknown
 Enemy Card Air Soldier: useful
 Enemy Card Ansem: useful
@@ -78,12 +78,12 @@ Enemy Card Parasite Cage: useful
 Enemy Card Pirate: useful
 Enemy Card Powerwild: filler
 Enemy Card Red Nocturne: filler
-Enemy Card Riku: unknown
+Enemy Card Riku: useful
 Enemy Card Roxas: useful
 Enemy Card Saix: filler
-Enemy Card Screwdiver: unknown
+Enemy Card Screwdiver: useful
 Enemy Card Sea Neon: unknown
-Enemy Card Search Ghost: unknown
+Enemy Card Search Ghost: useful
 Enemy Card Shadow: useful
 Enemy Card Soldier: useful
 Enemy Card Tornado Step: useful
@@ -115,7 +115,7 @@ Key to Rewards Halloween Town: useful
 Key to Rewards Hollow Bastion: useful
 Key to Rewards Monstro: useful
 Key to Rewards Neverland: useful
-Key to Rewards Olympus Coliseum: unknown
+Key to Rewards Olympus Coliseum: progression
 Key to Rewards Traverse Town: useful
 Key to Rewards Twilight Town: useful
 Key to Rewards Wonderland: filler
@@ -123,7 +123,7 @@ Sleight Aeroga: useful
 Sleight Aerora: filler
 Sleight Aqua Splash: filler
 Sleight Ars Arcanum: useful
-Sleight Bind: unknown
+Sleight Bind: useful
 Sleight Blitz: useful
 Sleight Blizzaga: useful
 Sleight Blizzara: filler
@@ -150,14 +150,14 @@ Sleight Goofy Tornado LV3: filler
 Sleight Graviga: unknown
 Sleight Gravira: unknown
 Sleight Holy: filler
-Sleight Homing Blizzara: unknown
+Sleight Homing Blizzara: useful
 Sleight Hummingbird LV2: filler
 Sleight Hummingbird LV3: useful
 Sleight Idyll Romp: useful
-Sleight Judgement: unknown
+Sleight Judgement: useful
 Sleight Lethal Frame: useful
 Sleight Lucky Bounty LV2: unknown
-Sleight Lucky Bounty LV3: unknown
+Sleight Lucky Bounty LV3: useful
 Sleight Magic LV2: useful
 Sleight Magic LV3: filler
 Sleight Magnet Spiral: unknown
@@ -175,7 +175,7 @@ Sleight Sandstorm LV2: useful
 Sleight Sandstorm LV3: useful
 Sleight Shock Impact: unknown
 Sleight Showtime LV2: useful
-Sleight Showtime LV3: unknown
+Sleight Showtime LV3: useful
 Sleight Sliding Dash: filler
 Sleight Sonic Blade: unknown
 Sleight Spiral Wave LV2: unknown
@@ -208,8 +208,8 @@ World Card 100 Acre Wood: progression
 World Card Agrabah: progression
 World Card Atlantica: unknown
 World Card Destiny Islands: unknown
-World Card Halloween Town: unknown
-World Card Hollow Bastion: unknown
+World Card Halloween Town: progression
+World Card Hollow Bastion: progression
 World Card Monstro: useful
 World Card Neverland: useful
 World Card Olympus Coliseum: progression
