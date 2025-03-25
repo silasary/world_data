@@ -26,7 +26,7 @@ Gauge:Dark-15000: filler
 Gauge:Dark-1: filler
 Gauge:Dark-20000: filler
 Gauge:Dark-2000: filler
-Gauge:Dark-30000: unknown
+Gauge:Dark-30000: filler
 Gauge:Dark-5000: filler
 Gauge:Dark-500: filler
 Gauge:Dark-5: filler
@@ -64,26 +64,26 @@ Red Chaos Emerald: progression
 Sky Troops Egg Ship: progression
 Sky Troops Temple: unknown
 Space Gadget Defense Unit: progression
-Stage Melee Weapons: unknown
+Stage Melee Weapons: progression
 Stage:Air Fleet: unknown
 Stage:Black Bull Death Ruins: unknown
 Stage:Black Comet: progression
 Stage:Black Doom Cosmic Fall: progression
-Stage:Central City: unknown
+Stage:Central City: progression
 Stage:Circus Park: progression
 Stage:Cosmic Fall: unknown
 Stage:Cryptic Castle: progression
 Stage:Death Ruins: progression
 Stage:Diablon Black Comet: unknown
-Stage:Diablon Final Haunt: unknown
+Stage:Diablon Final Haunt: progression
 Stage:Diablon Gun Fortress: unknown
-Stage:Digital Circuit: unknown
+Stage:Digital Circuit: progression
 Stage:Egg Breaker Cryptic Castle: progression
 Stage:Egg Breaker Iron Jungle: unknown
 Stage:Egg Breaker Mad Matrix: progression
 Stage:Egg Dealer Black Comet: progression
 Stage:Egg Dealer Cosmic Fall: unknown
-Stage:Egg Dealer Lava Shelter: unknown
+Stage:Egg Dealer Lava Shelter: progression
 Stage:Final Haunt: unknown
 Stage:Glyphic Canyon: progression
 Stage:Gun Fortress: progression
@@ -91,8 +91,8 @@ Stage:Heavy Dog: progression
 Stage:Iron Jungle: progression
 Stage:Lava Shelter: progression
 Stage:Lethal Highway: progression
-Stage:Lost Impact: unknown
-Stage:Mad Matrix: unknown
+Stage:Lost Impact: progression
+Stage:Mad Matrix: progression
 Stage:Prison Island: progression
 Stage:Sky Troops: progression
 Stage:Space Gadget: unknown
@@ -139,7 +139,7 @@ Weapon:Gadget Pole: unknown
 Weapon:Gatling Gun: unknown
 Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: unknown
-Weapon:Heal Cannon: unknown
+Weapon:Heal Cannon: progression
 Weapon:Heavy Machine Gun: unknown
 Weapon:Heavy Shot: progression
 Weapon:Impact Pole: unknown
