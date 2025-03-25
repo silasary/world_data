@@ -11,7 +11,7 @@ Battle Koma; Arale-6-Laughter (Dr. Slump): unknown
 Battle Koma; Arale-6-Power (Dr. Slump): useful
 Battle Koma; Arale-7 (Dr. Slump): unknown
 Battle Koma; Bo-bobo-4 [Bobobo-bo Bo-bobo]: unknown
-Battle Koma; Bo-bobo-5 [Bobobo-bo Bo-bobo]: unknown
+Battle Koma; Bo-bobo-5 [Bobobo-bo Bo-bobo]: useful
 Battle Koma; Bo-bobo-6-Laughter [Bobobo-bo Bo-bobo]: useful
 Battle Koma; Bo-bobo-6-Power [Bobobo-bo Bo-bobo]: unknown
 Battle Koma; Bo-bobo-7 [Bobobo-bo Bo-bobo]: useful
@@ -99,16 +99,16 @@ Battle Koma; Killua-5 (Hunter x Hunter): unknown
 Battle Koma; Kinnikuman-5 (Kinnikuman): useful
 Battle Koma; Kinnikuman-6 (Kinnikuman): useful
 Battle Koma; Kinnikuman-7 (Kinnikuman): useful
-Battle Koma; Kinnikuman-8 (Kinnikuman): unknown
+Battle Koma; Kinnikuman-8 (Kinnikuman): useful
 Battle Koma; Kurama-4 (Yu Yu Hakusho): unknown
 Battle Koma; Lenalee-4 (Devil Gray-Man): useful
 Battle Koma; Lenalee-5 (Devil Gray-Man): unknown
 Battle Koma; Luffy-4 (One Piece): unknown
 Battle Koma; Luffy-5 (One Piece): useful
 Battle Koma; Luffy-6-Laughter (One Piece): unknown
-Battle Koma; Luffy-6-Power (One Piece): unknown
+Battle Koma; Luffy-6-Power (One Piece): useful
 Battle Koma; Luffy-7 (One Piece): unknown
-Battle Koma; Luffy-8 (One Piece): unknown
+Battle Koma; Luffy-8 (One Piece): useful
 Battle Koma; Majin Buu-6-Laughter (Dragonball): unknown
 Battle Koma; Majin Buu-6-Power (Dragonball): unknown
 Battle Koma; Momotaro-4 (Sakigake!! Otokujuku): useful
@@ -134,12 +134,12 @@ Battle Koma; Naruto-4-Power (Naruto): useful
 Battle Koma; Naruto-5 (Naruto): unknown
 Battle Koma; Naruto-6 (Naruto): unknown
 Battle Koma; Naruto-7 (Naruto): useful
-Battle Koma; Naruto-8 (Naruto): unknown
+Battle Koma; Naruto-8 (Naruto): useful
 Battle Koma; Neuro/Yako-4-Knowledge (Majin Tantei Nougami Neuro): unknown
 Battle Koma; Neuro/Yako-4-Power (Majin Tantei Nougami Neuro): unknown
 Battle Koma; Neuro/Yako-5 (Majin Tantei Nougami Neuro): unknown
 Battle Koma; Piccolo-4 (Dragonball): unknown
-Battle Koma; Piccolo-5 (Dragonball): unknown
+Battle Koma; Piccolo-5 (Dragonball): useful
 Battle Koma; Raoh-6 (Fist Of The North Star): unknown
 Battle Koma; Raoh-7 (Fist Of The North Star): unknown
 Battle Koma; Raoh-8 (Fist Of The North Star): unknown
@@ -169,7 +169,7 @@ Battle Koma; Sasuke-7 (Naruto): useful
 Battle Koma; Sasuke-8-Knowledge (Naruto): useful
 Battle Koma; Sasuke-8-Power (Naruto): unknown
 Battle Koma; Seiya-4 (Saint Seiya): unknown
-Battle Koma; Seiya-5 (Saint Seiya): unknown
+Battle Koma; Seiya-5 (Saint Seiya): useful
 Battle Koma; Seiya-6 (Saint Seiya): unknown
 Battle Koma; Seiya-7 (Saint Seiya): unknown
 Battle Koma; Seiya-8 (Saint Seiya): useful
@@ -178,7 +178,7 @@ Battle Koma; Taikoubou-5 (Houshin Engi): unknown
 Battle Koma; Taikoubou-6-Knowledge (Houshin Engi): unknown
 Battle Koma; Taikoubou-6-Laughter (Houshin Engi): useful
 Battle Koma; Train-4 (Black Cat): unknown
-Battle Koma; Train-5-Knowledge (Black Cat): unknown
+Battle Koma; Train-5-Knowledge (Black Cat): useful
 Battle Koma; Train-5-Power (Black Cat): unknown
 Battle Koma; Tsuna/Reborn-4 (Home Tutor Hitman Reborn!): unknown
 Battle Koma; Tsuna/Reborn-5 (Home Tutor Hitman Reborn!): unknown
@@ -228,7 +228,7 @@ Help Komas; No Blindness: useful
 Help Komas; No Burn: useful
 Help Komas; No Confusion: unknown
 Help Komas; No Freeze: useful
-Help Komas; No Judgement: unknown
+Help Komas; No Judgement: useful
 Help Komas; No Paralysis: unknown
 Help Komas; No Posion: unknown
 Help Komas; No Seal: unknown
@@ -250,13 +250,13 @@ Max Deck Size +1: progression
 Planet Clear Token: mcguffin
 Planet Unlock; Bleach: unknown
 Planet Unlock; Bobo-bo Bo-bobo: unknown
-Planet Unlock; Buso Renkin: unknown
+Planet Unlock; Buso Renkin: progression
 Planet Unlock; Captain Tsubasa: unknown
 Planet Unlock; Cobra: progression
 Planet Unlock; Death Note: unknown
 Planet Unlock; Devil Gray-Man: progression
 Planet Unlock; Dr. Slump: unknown
-Planet Unlock; Dragon Ball: unknown
+Planet Unlock; Dragon Ball: progression
 Planet Unlock; Eyeshield 21: progression
 Planet Unlock; Fist Of The North Star: progression
 Planet Unlock; Gintama: unknown
@@ -336,10 +336,10 @@ Support Koma; Crystal Boy-2 (Cobra): useful
 Support Koma; Crystal Boy-3 (Cobra): useful
 Support Koma; Dakki-2 (Houshin Engi): unknown
 Support Koma; Dakki-3 (Houshin Engi): unknown
-Support Koma; Date-2 (Sakigake!! Otokujuku): unknown
-Support Koma; Date-3 (Sakigake!! Otokujuku): unknown
+Support Koma; Date-2 (Sakigake!! Otokujuku): useful
+Support Koma; Date-3 (Sakigake!! Otokujuku): useful
 Support Koma; Devil Bat-3 (Eyeshield 21): useful
-Support Koma; Dio-2 (JoJo's Bizarre Adventure): unknown
+Support Koma; Dio-2 (JoJo's Bizarre Adventure): useful
 Support Koma; Dio-3 (JoJo's Bizarre Adventure): unknown
 Support Koma; Don Patch-2 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Don Patch-3 (Bobobo-bo Bo-bobo): unknown
@@ -349,16 +349,16 @@ Support Koma; Enchuu-2 (Muhyo and Roji's Bureau): unknown
 Support Koma; Enchuu-3 (Muhyo and Roji's Bureau): unknown
 Support Koma; Eve-2 (Black Cat): unknown
 Support Koma; Eve-3 (Black Cat): useful
-Support Koma; Franky-2 (One Piece): unknown
+Support Koma; Franky-2 (One Piece): useful
 Support Koma; Franky-3 (One Piece): unknown
 Support Koma; Fuji-2 (Prince Of Tennis): unknown
 Support Koma; Fuji-3 (Prince Of Tennis): useful
-Support Koma; Furious Fighter-2 (Kinnikuman): unknown
+Support Koma; Furious Fighter-2 (Kinnikuman): useful
 Support Koma; Furious Fighter-3 (Kinnikuman): unknown
-Support Koma; Fuusuke-2 (Ninku): unknown
+Support Koma; Fuusuke-2 (Ninku): useful
 Support Koma; Fuusuke-3 (Ninku): unknown
 Support Koma; Gaara-2 (Naruto): unknown
-Support Koma; Gaara-3 (Naruto): unknown
+Support Koma; Gaara-3 (Naruto): useful
 Support Koma; Gaoh-2 (Bobobo-bo Bo-bobo): useful
 Support Koma; Gaoh-3 (Bobobo-bo Bo-bobo): unknown
 Support Koma; Gasser-2 (Bobobo-bo Bo-bobo): unknown
@@ -366,7 +366,7 @@ Support Koma; Gasser-3 (Bobobo-bo Bo-bobo): useful
 Support Koma; Gatchan-3 (Dr. Slump): useful
 Support Koma; Genzo-2 (Captain Tsubasa): unknown
 Support Koma; Genzo-3 (Captain Tsubasa): unknown
-Support Koma; Gintoki-2 (Gintama): unknown
+Support Koma; Gintoki-2 (Gintama): useful
 Support Koma; Gintoki-3 (Gintama): unknown
 Support Koma; Giorno-2 (JoJo's Bizarre Adventure): unknown
 Support Koma; Giorno-3 (JoJo's Bizarre Adventure): useful
@@ -414,8 +414,8 @@ Support Koma; Hisoka-3 (Hunter x Hunter): unknown
 Support Koma; Hitsugaya-2 (Bleach): unknown
 Support Koma; Hitsugaya-3 (Bleach): unknown
 Support Koma; Hyoga-2 (Saint Seiya): unknown
-Support Koma; Hyoga-3 (Saint Seiya): unknown
-Support Koma; Hyuga-2 (Captain Tsubasa): unknown
+Support Koma; Hyoga-3 (Saint Seiya): useful
+Support Koma; Hyuga-2 (Captain Tsubasa): useful
 Support Koma; Hyuga-3 (Captain Tsubasa): unknown
 Support Koma; I-Pin-2 (Home Tutor Hitman Reborn!): unknown
 Support Koma; I-Pin-3 (Home Tutor Hitman Reborn!): unknown
@@ -453,7 +453,7 @@ Support Koma; Kagura-2 (Gintama): unknown
 Support Koma; Kagura-3 (Gintama): useful
 Support Koma; Kaiba-2 (Yu-Gi-Oh): unknown
 Support Koma; Kaiba-3 (Yu-Gi-Oh): useful
-Support Koma; Kaido-2 (Prince Of Tennis): unknown
+Support Koma; Kaido-2 (Prince Of Tennis): useful
 Support Koma; Kaido-3 (Prince Of Tennis): unknown
 Support Koma; Kaipan Deka-2 (Kochikame): unknown
 Support Koma; Kakashi-2 (Naruto): useful
@@ -470,7 +470,7 @@ Support Koma; Kenshiro-2 (Fist Of The North Star): unknown
 Support Koma; Kenshiro-3 (Fist Of The North Star): unknown
 Support Koma; Killua-2 (Hunter x Hunter): useful
 Support Koma; Killua-3 (Hunter x Hunter): useful
-Support Koma; Kiyo Hiko-2 (Pyuu to Fuku! Jaguar): unknown
+Support Koma; Kiyo Hiko-2 (Pyuu to Fuku! Jaguar): useful
 Support Koma; Kiyo Hiko-3 (Pyuu to Fuku! Jaguar): unknown
 Support Koma; Kon-3 (Bleach): unknown
 Support Koma; Kondo-2 (Gintama): useful
@@ -481,7 +481,7 @@ Support Koma; Kurama-2 (Yu Yu Hakusho): unknown
 Support Koma; Kurama-3 (Yu Yu Hakusho): useful
 Support Koma; Kurapika-2 (Hunter x Hunter): unknown
 Support Koma; Kurapika-3 (Hunter x Hunter): unknown
-Support Koma; Kurita-2 (Eyeshield 21): unknown
+Support Koma; Kurita-2 (Eyeshield 21): useful
 Support Koma; Kurita-3 (Eyeshield 21): unknown
 Support Koma; Kuroro-2 (Hunter x Hunter): useful
 Support Koma; Kuroro-3 (Hunter x Hunter): unknown
@@ -511,7 +511,7 @@ Support Koma; Momoshiro-2 (Prince Of Tennis): unknown
 Support Koma; Momoshiro-3 (Prince Of Tennis): useful
 Support Koma; Momotaro-2 (Sakigake!! Otokujuku): unknown
 Support Koma; Momotaro-3 (Sakigake!! Otokujuku): unknown
-Support Koma; Mongolia Man-2 (Kinnikuman): unknown
+Support Koma; Mongolia Man-2 (Kinnikuman): useful
 Support Koma; Monta-2 (Eyeshield 21): unknown
 Support Koma; Monta-3 (Eyeshield 21): unknown
 Support Koma; Muhyo-2 (Muhyo and Roji's Bureau): unknown
@@ -531,14 +531,14 @@ Support Koma; Near-3 (Death Note): unknown
 Support Koma; Neuro/Yako-2 (Majin Tantei Nougami Neuro): unknown
 Support Koma; Neuro/Yako-3 (Majin Tantei Nougami Neuro): unknown
 Support Koma; Nube-2 (Hell Teacher Nube): unknown
-Support Koma; Nube-3 (Hell Teacher Nube): unknown
+Support Koma; Nube-3 (Hell Teacher Nube): useful
 Support Koma; Okita-2 (Gintama): useful
 Support Koma; Okita-3 (Gintama): unknown
 Support Koma; Orihime-2 (Bleach): unknown
 Support Koma; Orihime-3 (Bleach): unknown
 Support Koma; Piccolo-2 (Dragonball): unknown
 Support Koma; Piccolo-3 (Dragonball): unknown
-Support Koma; Piko-2 (Muhyo and Roji's Bureau): unknown
+Support Koma; Piko-2 (Muhyo and Roji's Bureau): useful
 Support Koma; Piko-3 (Muhyo and Roji's Bureau): useful
 Support Koma; Poo-kun-3 (Dr. Slump): unknown
 Support Koma; Raito/ Ryuk-3 (Death Note): unknown
@@ -562,8 +562,8 @@ Support Koma; Ryoma-2 (Prince Of Tennis): unknown
 Support Koma; Ryoma-3 Prince Of Tennis): unknown
 Support Koma; Ryota-2 (Slam Dunk): unknown
 Support Koma; Ryota-3 (Slam Dunk): unknown
-Support Koma; Ryotsu-2 (Kochikame): unknown
-Support Koma; Ryotsu-3 (Kochikame): unknown
+Support Koma; Ryotsu-2 (Kochikame): useful
+Support Koma; Ryotsu-3 (Kochikame): useful
 Support Koma; Ryunnosuke-2 (Kochikame): unknown
 Support Koma; Ryunnosuke-3 (Kochikame): unknown
 Support Koma; Sa-Chan-2 (Gintama): unknown
@@ -576,7 +576,7 @@ Support Koma; Sanji-2 (One Piece): unknown
 Support Koma; Sanji-3 (One Piece): useful
 Support Koma; Sanosuke-2 (Rurouni Kenshin): unknown
 Support Koma; Sanosuke-3 (Rurouni Kenshin): useful
-Support Koma; Satsuki-2 (Ichigo 100%): unknown
+Support Koma; Satsuki-2 (Ichigo 100%): useful
 Support Koma; Satsuki-3 (Ichigo 100%): useful
 Support Koma; Seiya-2 (Saint Seiya): unknown
 Support Koma; Seiya-3 (Saint Seiya): unknown
@@ -626,12 +626,12 @@ Support Koma; Tsukasa-3 (Ichigo 100%): unknown
 Support Koma; Tsuna/Reborn-2 (Home Tutor Hitman Reborn!): unknown
 Support Koma; Tsuna/Reborn-3 (Home Tutor Hitman Reborn!): useful
 Support Koma; Uryu-2 (Bleach): useful
-Support Koma; Uryu-3 (Bleach): unknown
+Support Koma; Uryu-3 (Bleach): useful
 Support Koma; Usopp-2 (One Piece): unknown
-Support Koma; Vegeta-2 (Dragonball): unknown
+Support Koma; Vegeta-2 (Dragonball): useful
 Support Koma; Vegeta-3 (Dragonball): useful
 Support Koma; Volvo-2 (Kochikame): unknown
-Support Koma; Volvo-3 (Kochikame): unknown
+Support Koma; Volvo-3 (Kochikame): useful
 Support Koma; Wars Man-2 (Kinnikuman): unknown
 Support Koma; Wars Man-3 (Kinnikuman): unknown
 Support Koma; Yahiko-2 (Rurouni Kenshin): unknown
@@ -641,7 +641,7 @@ Support Koma; Yamamoto-3 (Home Tutor Hitman Reborn!): unknown
 Support Koma; Yoh-2 (Shaman King): unknown
 Support Koma; Yoh-3 (Shaman King): unknown
 Support Koma; Yoichi-2 (Muhyo and Roji's Bureau): unknown
-Support Koma; Yoichi-3 (Muhyo and Roji's Bureau): unknown
+Support Koma; Yoichi-3 (Muhyo and Roji's Bureau): useful
 Support Koma; Yoruichi-2 (Bleach): unknown
 Support Koma; Yoruichi-3 (Bleach): unknown
 Support Koma; Yugi-2 (Yu-Gi-Oh): useful
