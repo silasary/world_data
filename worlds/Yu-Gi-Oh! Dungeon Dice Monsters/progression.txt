@@ -19,6 +19,7 @@ DIESEL_KANE: unknown
 DIRECTOR_LUCIUS: unknown
 DORIS: progression
 DOX: progression
+DUKE_DEVLIN: unknown
 EGGER_BALDWIN: progression
 ESPA_ROBA: progression
 FENDER_SHRILL: progression
@@ -29,6 +30,7 @@ GRANDPA: progression
 ISHIZU_ISHTAR: progression
 JACKPOT: unknown
 JILL: progression
+JOEY_WHEELER: unknown
 JOHNNY_STEPS: unknown
 KAIBAS_BUTLER: unknown
 KANE_MINION_A: progression
@@ -36,13 +38,16 @@ KANE_MINION_B: progression
 KANE_MINION_C: progression
 KANE_MINION_D: progression
 KANE_MINION_E: unknown
+KANE_MINION_F: unknown
 KEMO: progression
 KREIGER: progression
 Kanan the Swordmistress: unknown
 LINT_GREENDALE: progression
+LLOYD: unknown
 LUMIS: progression
 MAI_VALENTINE: unknown
 MAKO_TSUNAMI: progression
+MARIK_ISHTAR: unknown
 MAXIMILLION_PEGASUS: progression
 MELODY: progression
 MISS_MADUSA: progression
@@ -54,6 +59,7 @@ ODION: unknown
 PANIK: unknown
 PARA: progression
 PARADOX: unknown
+PAUL: unknown
 PROFESSOR_JEREMY_HARRISON: progression
 REX_RAPTOR: progression
 ROGER: progression
@@ -73,6 +79,7 @@ THE_MERCHANT: unknown
 THE_PUPPETEER: progression
 THUG_A: unknown
 THUG_B: unknown
+THUG_C: unknown
 TICK_TOCK: progression
 TRISTAN_TAYLOR: progression
 UMBRA: unknown
