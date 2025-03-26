@@ -30,6 +30,7 @@ Card 03 (Bazooka Bush): unknown
 Card 05 (Undead Boulder): unknown
 Card 06 (Snarky Radish): unknown
 Card 07 (Snarky Tree): unknown
+Card 08 (Eyeball Plant): unknown
 Card 11 (Potted Gloop): unknown
 Card 15 (Frosty Face): unknown
 Card 16 (Fire Face): useful
@@ -145,6 +146,7 @@ Lightning Shard: unknown
 Lock On: unknown
 Lucky Clover: unknown
 Maid Outfit: unknown
+Necromancer's Helmet: unknown
 Neon Lightbulb: useful
 Ninja Chopsticks: useful
 Nurse Hat: unknown
@@ -155,6 +157,7 @@ Officer's Coat: useful
 Officer's Helmet: useful
 Paper Fan: unknown
 Phyrnna's Blessing: unknown
+Pixel Popper: unknown
 Pizza: unknown
 Platinum Star: useful
 Pope Hat: useful
@@ -162,7 +165,9 @@ Post-Jotun: unknown
 Post-Neon Valkyrie: unknown
 Power Paw: unknown
 Protect: useful
+Pumpkin Head: unknown
 Puppy Hat: unknown
+Purging Flame: unknown
 Ranger Skirt: useful
 Red Dress: useful
 Red Ribbon: useful
@@ -221,3 +226,4 @@ Wind Orb: unknown
 Winged Boots: progression
 Wizard Hat: unknown
 Wooden Key: unknown
+Wrath of Zeus: unknown
