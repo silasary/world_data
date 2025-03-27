@@ -250,7 +250,7 @@ Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
 Bundle: Rifle Ammo: unknown
 Bundle: Rifle: filler
-Bundle: Rotor: unknown
+Bundle: Rotor: filler
 Bundle: Rubber: filler
 Bundle: SAM Fluctuator: filler
 Bundle: SAM Ore: unknown
@@ -489,7 +489,7 @@ Recipe: Polymer Resin: useful
 Recipe: Power Shard (1): progression
 Recipe: Power Shard (2): useful
 Recipe: Power Shard (5): progression
-Recipe: Pressure Conversion Cube: unknown
+Recipe: Pressure Conversion Cube: progression
 Recipe: Protein Inhaler: unknown
 Recipe: Pulse Nobelisk: unknown
 Recipe: Pure Aluminum Ingot: progression
