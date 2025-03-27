@@ -421,7 +421,7 @@ Recipe: Heat Exchanger: progression
 Recipe: Heat Sink: progression
 Recipe: Heat-Fused Frame: progression
 Recipe: Heavy Encased Frame: progression
-Recipe: Heavy Flexible Frame: unknown
+Recipe: Heavy Flexible Frame: progression
 Recipe: Heavy Modular Frame: progression
 Recipe: Heavy Oil Residue: unknown
 Recipe: High-Speed Connector: progression
