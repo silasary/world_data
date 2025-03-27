@@ -386,7 +386,7 @@ Law Card: Sabers antilaw: unknown
 Law Card: Sabers: filler
 Law Card: Sharpshoot antilaw: unknown
 Law Card: Sharpshoot: filler
-Law Card: Shell antilaw: unknown
+Law Card: Shell antilaw: filler
 Law Card: Shell: filler
 Law Card: Silence antilaw: filler
 Law Card: Silence: filler
@@ -411,7 +411,7 @@ Law Card: Swords: unknown
 Law Card: Target All antilaw: unknown
 Law Card: Target All: filler
 Law Card: Target Area antilaw: filler
-Law Card: Target Area: unknown
+Law Card: Target Area: filler
 Law Card: Techniques antilaw: unknown
 Law Card: Techniques: unknown
 Law Card: Time Magic antilaw: filler
