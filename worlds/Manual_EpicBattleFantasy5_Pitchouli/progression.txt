@@ -13,6 +13,7 @@ Barrier: useful
 Berzerker: unknown
 Big Eyebrows: unknown
 Bind: unknown
+Bitey Badge: unknown
 Black Fang: unknown
 Black Hole: unknown
 Book of Spells: unknown
@@ -29,18 +30,21 @@ Captain's Hat: useful
 Card 01 (Baby Bush): unknown
 Card 02 (Big Bush): useful
 Card 03 (Bazooka Bush): unknown
+Card 04 (Creepy Idol): unknown
 Card 05 (Undead Boulder): unknown
 Card 06 (Snarky Radish): unknown
 Card 07 (Snarky Tree): unknown
 Card 08 (Eyeball Plant): unknown
 Card 09 (Beholding Bat): unknown
 Card 11 (Potted Gloop): unknown
+Card 13 (Sandstone Gloop): unknown
 Card 15 (Frosty Face): unknown
 Card 16 (Fire Face): useful
 Card 17 (Cursed Medallion): unknown
 Card 18 (Cursed Chest): unknown
 Card 19 (Spy Satellite): unknown
 Card 21 (Lava Slime): useful
+Card 23 (Volcano Slime): unknown
 Card 25 (Angry Bee): useful
 Card 26 (Fighter Bee): unknown
 Card 27 (Mountain Goat): unknown
@@ -103,6 +107,7 @@ Dragon's Feather: unknown
 Drill Bits: unknown
 Eagle Eye: unknown
 Emerald Cyclone: useful
+Emerald Earrings: unknown
 Emerald Smasher: useful
 Emerald of Life: progression
 Encore: unknown
@@ -113,8 +118,10 @@ Fairy Bombs: unknown
 Fairy Bow: useful
 Fairy: unknown
 Fake Mustache: unknown
+Fat Fly: unknown
 Fenrir's Jaw: unknown
 Fire Orb: unknown
+Flame Suit: unknown
 Flower Bobble: unknown
 Fur Dress: unknown
 Fur Hat: unknown
@@ -155,6 +162,7 @@ Leafy Boots: unknown
 Lightning Badge: unknown
 Lightning Shard: unknown
 Lock On: unknown
+Love Blade: unknown
 Lucky Clover: unknown
 Magnetic Boots: unknown
 Maid Outfit: unknown
@@ -183,6 +191,7 @@ Protect: useful
 Pumpkin Head: unknown
 Puppy Hat: unknown
 Purging Flame: unknown
+Purify: unknown
 Ranger Skirt: useful
 Red Dress: useful
 Red Ribbon: useful
@@ -238,6 +247,7 @@ Tsunami: unknown
 Turtle Gi: unknown
 Turtle Shell: unknown
 Ultra Pro 9000X: useful
+Viking Buckler: unknown
 Viking Fur: unknown
 Vortex Cannon: unknown
 Water Orb: unknown
