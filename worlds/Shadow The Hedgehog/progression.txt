@@ -55,7 +55,7 @@ Lost Impact Artificial Chaos: progression
 Mad Matrix Bomb: progression
 Mad Matrix Terminal: progression
 Mission Token: mcguffin
-Nothing Junk: unknown
+Nothing Junk: filler
 Objective Token: unknown
 Prison Island Disc: progression
 Prison Island Soldier: progression
@@ -83,7 +83,7 @@ Stage:Egg Breaker Cryptic Castle: progression
 Stage:Egg Breaker Iron Jungle: unknown
 Stage:Egg Breaker Mad Matrix: progression
 Stage:Egg Dealer Black Comet: progression
-Stage:Egg Dealer Cosmic Fall: unknown
+Stage:Egg Dealer Cosmic Fall: progression
 Stage:Egg Dealer Lava Shelter: progression
 Stage:Final Haunt: unknown
 Stage:Glyphic Canyon: progression
@@ -155,7 +155,7 @@ Weapon:Omochao Gun: progression
 Weapon:Pistol: progression
 Weapon:Prison Branch: unknown
 Weapon:RPG: progression
-Weapon:Refractor: unknown
+Weapon:Refractor: progression
 Weapon:Ring Shot: unknown
 Weapon:Ruins Branch: unknown
 Weapon:Samurai Blade: progression
