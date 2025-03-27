@@ -34,7 +34,7 @@
 24-hour Cinderella (Full Spec Edition) [HARD]: unknown
 2D Dream Fever [EASY]: unknown
 2D Dream Fever [EXEXTREME]: unknown
-2D Dream Fever [EXTREME]: unknown
+2D Dream Fever [EXTREME]: progression
 2D Dream Fever [HARD]: progression
 2D Dream Fever [NORMAL]: unknown
 2D Dream Fever: unknown
@@ -805,7 +805,7 @@ Dream Crow Shadow [EXTREME]: unknown
 Dream to the Future [EXTREME]: unknown
 Dream-Eating Monochrome Baku [EASY]: unknown
 Dream-Eating Monochrome Baku [EXEXTREME]: unknown
-Dream-Eating Monochrome Baku [EXTREME]: unknown
+Dream-Eating Monochrome Baku [EXTREME]: progression
 Dream-Eating Monochrome Baku [HARD]: unknown
 Dream-Eating Monochrome Baku [NORMAL]: unknown
 Dream-Eating Monochrome Baku: unknown
@@ -1111,6 +1111,7 @@ Gothic and Loneliness ~I'm the very DIVA~ [EXEXTREME]: unknown
 Gothic and Loneliness ~I'm the very DIVA~ [EXTREME]: unknown
 Gothic and Loneliness ~I'm the very DIVA~ [HARD]: unknown
 Gothic and Loneliness ~I'm the very DIVA~ [NORMAL]: unknown
+Gothic and Loneliness ~Im the very DIVA~ [EXEXTREME]: unknown
 Gothic and Loneliness ~Im the very DIVA~ [EXTREME]: unknown
 Greenlights Serenade [EASY]: unknown
 Greenlights Serenade [EXEXTREME]: unknown
@@ -1536,7 +1537,7 @@ Kimi Ni [NORMAL]: unknown
 Kimi no Koto ga Suki de Gomennasai [EXTREME]: unknown
 Kimi no Taion [EASY]: unknown
 Kimi no Taion [EXEXTREME]: unknown
-Kimi no Taion [EXTREME]: unknown
+Kimi no Taion [EXTREME]: progression
 Kimi no Taion [HARD]: progression
 Kimi no Taion [NORMAL]: unknown
 Kimi no Taion: unknown
@@ -2252,7 +2253,7 @@ Perfect Piece [EXTREME]: unknown
 Perfect-area complete! [EXTREME]: unknown
 Perfect-area complete! [HARD]: unknown
 Perico Space Shipper [EASY]: unknown
-Perico Space Shipper [EXEXTREME]: unknown
+Perico Space Shipper [EXEXTREME]: progression
 Perico Space Shipper [EXTREME]: unknown
 Perico Space Shipper [HARD]: unknown
 Perico Space Shipper [NORMAL]: unknown
@@ -2479,7 +2480,7 @@ Rosary Pale [NORMAL]: unknown
 Rosary Pale: unknown
 Roshin Yukai [EASY]: progression
 Roshin Yukai [EXEXTREME]: unknown
-Roshin Yukai [EXTREME]: unknown
+Roshin Yukai [EXTREME]: progression
 Roshin Yukai [HARD]: unknown
 Roshin Yukai [NORMAL]: unknown
 Roshin Yukai: progression
@@ -2691,7 +2692,7 @@ Snowdome [EXTREME]: unknown
 Snowdome [HARD]: unknown
 Snowman [EASY]: unknown
 Snowman [EXEXTREME]: unknown
-Snowman [EXTREME]: unknown
+Snowman [EXTREME]: progression
 Snowman [HARD]: unknown
 Snowman [NORMAL]: unknown
 Snowman: unknown
@@ -2866,7 +2867,7 @@ Super*Affection [EXTREME]: unknown
 Super*Affection [HARD]: unknown
 Sweet Devil [EASY]: unknown
 Sweet Devil [EXEXTREME]: unknown
-Sweet Devil [EXTREME]: unknown
+Sweet Devil [EXTREME]: progression
 Sweet Devil [HARD]: unknown
 Sweet Devil [NORMAL]: unknown
 Sweet Devil: unknown
@@ -2880,7 +2881,7 @@ Symphony [EXTREME]: unknown
 Synthesize the Future [EXTREME]: unknown
 Systematic Love [EASY]: unknown
 Systematic Love [EXEXTREME]: unknown
-Systematic Love [EXTREME]: unknown
+Systematic Love [EXTREME]: progression
 Systematic Love [HARD]: progression
 Systematic Love [NORMAL]: unknown
 Systematic Love: unknown
@@ -3344,7 +3345,7 @@ Winter Alice [NORMAL]: unknown
 Winter Cleaning [EXTREME]: unknown
 Wintry Winds [EASY]: unknown
 Wintry Winds [EXEXTREME]: unknown
-Wintry Winds [EXTREME]: unknown
+Wintry Winds [EXTREME]: progression
 Wintry Winds [HARD]: unknown
 Wintry Winds [NORMAL]: unknown
 Wintry Winds: unknown
