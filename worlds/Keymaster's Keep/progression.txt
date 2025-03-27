@@ -94,6 +94,7 @@ Unlock: The Obscured Arch: unknown
 Unlock: The Obscured Doorway: progression
 Unlock: The Obscured Portal: unknown
 Unlock: The Obscured Vault: unknown
+Unlock: The Phantom Passage: unknown
 Unlock: The Phantom Vault: progression
 Unlock: The Quiet Archway: progression
 Unlock: The Quiet Threshold: unknown
@@ -123,6 +124,7 @@ Unlock: The Unseen Passage: progression
 Unlock: The Unseen Portal: unknown
 Unlock: The Unspoken Gate: progression
 Unlock: The Untold Gateway: progression
+Unlock: The Untraceable Path: unknown
 Unlock: The Vanishing Archway: progression
 Unlock: The Vanishing Door: unknown
 Unlock: The Vault of Whispers: progression
