@@ -84,7 +84,7 @@ Building: Power Pole Mk.3: unknown
 Building: Power Storage: useful
 Building: Power Switch: useful
 Building: Power Tower: useful
-Building: Priority Power Switch: unknown
+Building: Priority Power Switch: useful
 Building: Programmable Splitter: progression
 Building: Quarter Pipe Extensions Pack: unknown
 Building: Quarter Pipes Pack: unknown
@@ -265,7 +265,7 @@ Bundle: Smart Plating: useful
 Bundle: Smokeless Powder: filler
 Bundle: Solid Biofuel: filler
 Bundle: Somersloop: filler
-Bundle: Stator: unknown
+Bundle: Stator: filler
 Bundle: Steel Beam: filler
 Bundle: Steel Ingot: filler
 Bundle: Steel Pipe: filler
@@ -341,7 +341,7 @@ Recipe: Battery: useful
 Recipe: Beacon: useful
 Recipe: Biomass (Alien Protein): progression
 Recipe: Biomass (Leaves): unknown
-Recipe: Biomass (Mycelia): unknown
+Recipe: Biomass (Mycelia): progression
 Recipe: Biomass (Wood): unknown
 Recipe: Black Powder: progression
 Recipe: Blade Runners: useful
@@ -526,6 +526,7 @@ Recipe: Shatter Rebar: useful
 Recipe: Silica: unknown
 Recipe: Silicon Circuit Board: progression
 Recipe: Silicon High-Speed Connector: progression
+Recipe: Singularity Cell: progression
 Recipe: Smart Plating: progression
 Recipe: Smokeless Powder: progression
 Recipe: Solid Biofuel: useful
@@ -593,7 +594,7 @@ Transport: Hypertube Wall Support: unknown
 Transport: Hypertube: progression
 Transport: Tractor: unknown
 Transport: Trains: unknown
-Transport: Truck: unknown
+Transport: Truck: useful
 Trap: Alpha Hog: unknown
 Trap: Alpha Spitter: trap
 Trap: Can of Beans: unknown
