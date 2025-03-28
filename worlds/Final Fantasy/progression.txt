@@ -1,6 +1,6 @@
 Adamant: progression
 AegisShield: useful
-AirOrb: progression
+AirOrb: mcguffin
 BaneSword: filler
 Black: filler
 BlackShirt: filler
@@ -26,9 +26,9 @@ Cube: progression
 Defense: filler
 DragonArmor: useful
 DragonSword: filler
-EarthOrb: progression
+EarthOrb: mcguffin
 Falchon: filler
-FireOrb: progression
+FireOrb: mcguffin
 FlameArmor: filler
 FlameShield: filler
 FlameSword: filler
@@ -156,7 +156,7 @@ Ruby: progression
 RuneSword: filler
 Sabre: filler
 Scimitar: filler
-Shard: progression
+Shard: mcguffin
 Ship: progression
 ShortSword: filler
 Sigil: progression
@@ -180,7 +180,7 @@ Tent: filler
 ThorHammer: filler
 Tnt: progression
 Vorpal: useful
-WaterOrb: progression
+WaterOrb: mcguffin
 WereSword: filler
 WhiteShirt: filler
 Wizard: filler
