@@ -1,80 +1,80 @@
 1 Coin: filler
 10 Coins: filler
-100 Coins: unknown
-101 Coins: unknown
-102 Coins: unknown
-103 Coins: unknown
-104 Coins: unknown
-105 Coins: unknown
-106 Coins: unknown
-107 Coins: unknown
-108 Coins: unknown
-109 Coins: unknown
+100 Coins: filler
+101 Coins: filler
+102 Coins: filler
+103 Coins: filler
+104 Coins: filler
+105 Coins: filler
+106 Coins: filler
+107 Coins: filler
+108 Coins: filler
+109 Coins: filler
 11 Coins: filler
-110 Coins: unknown
-111 Coins: unknown
-112 Coins: unknown
-113 Coins: unknown
-114 Coins: unknown
-115 Coins: unknown
-116 Coins: unknown
-117 Coins: unknown
-118 Coins: unknown
-119 Coins: unknown
+110 Coins: filler
+111 Coins: filler
+112 Coins: filler
+113 Coins: filler
+114 Coins: filler
+115 Coins: filler
+116 Coins: filler
+117 Coins: filler
+118 Coins: filler
+119 Coins: filler
 12 Coins: filler
-120 Coins: unknown
-121 Coins: unknown
-122 Coins: unknown
-123 Coins: unknown
-124 Coins: unknown
-125 Coins: unknown
-126 Coins: unknown
-127 Coins: unknown
-128 Coins: unknown
-129 Coins: unknown
+120 Coins: filler
+121 Coins: filler
+122 Coins: filler
+123 Coins: filler
+124 Coins: filler
+125 Coins: filler
+126 Coins: filler
+127 Coins: filler
+128 Coins: filler
+129 Coins: filler
 13 Coins: filler
-130 Coins: unknown
-131 Coins: unknown
-132 Coins: unknown
-133 Coins: unknown
-134 Coins: unknown
-135 Coins: unknown
-136 Coins: unknown
-137 Coins: unknown
-138 Coins: unknown
-139 Coins: unknown
+130 Coins: filler
+131 Coins: filler
+132 Coins: filler
+133 Coins: filler
+134 Coins: filler
+135 Coins: filler
+136 Coins: filler
+137 Coins: filler
+138 Coins: filler
+139 Coins: filler
 14 Coins: filler
-140 Coins: unknown
-141 Coins: unknown
-142 Coins: unknown
-143 Coins: unknown
-144 Coins: unknown
-145 Coins: unknown
-146 Coins: unknown
-147 Coins: unknown
-148 Coins: unknown
-149 Coins: unknown
+140 Coins: filler
+141 Coins: filler
+142 Coins: filler
+143 Coins: filler
+144 Coins: filler
+145 Coins: filler
+146 Coins: filler
+147 Coins: filler
+148 Coins: filler
+149 Coins: filler
 15 Coins: filler
-150 Coins: unknown
-151 Coins: unknown
-152 Coins: unknown
-153 Coins: unknown
-154 Coins: unknown
-155 Coins: unknown
-156 Coins: unknown
-157 Coins: unknown
-158 Coins: unknown
-159 Coins: unknown
+150 Coins: filler
+151 Coins: filler
+152 Coins: filler
+153 Coins: filler
+154 Coins: filler
+155 Coins: filler
+156 Coins: filler
+157 Coins: filler
+158 Coins: filler
+159 Coins: filler
 16 Coins: filler
-160 Coins: unknown
-161 Coins: unknown
-162 Coins: unknown
-163 Coins: unknown
-164 Coins: unknown
-165 Coins: unknown
-166 Coins: unknown
-167 Coins: unknown
-168 Coins: unknown
+160 Coins: filler
+161 Coins: filler
+162 Coins: filler
+163 Coins: filler
+164 Coins: filler
+165 Coins: filler
+166 Coins: filler
+167 Coins: filler
+168 Coins: filler
 17 Coins: filler
 18 Coins: filler
 19 Coins: filler
@@ -96,173 +96,173 @@
 33 Coins: filler
 34 Coins: filler
 35 Coins: filler
-36 Coins: unknown
-37 Coins: unknown
-38 Coins: unknown
-39 Coins: unknown
+36 Coins: filler
+37 Coins: filler
+38 Coins: filler
+39 Coins: filler
 4 Coins: filler
-40 Coins: unknown
-41 Coins: unknown
-42 Coins: unknown
-43 Coins: unknown
-44 Coins: unknown
-45 Coins: unknown
-46 Coins: unknown
-47 Coins: unknown
-48 Coins: unknown
-49 Coins: unknown
+40 Coins: filler
+41 Coins: filler
+42 Coins: filler
+43 Coins: filler
+44 Coins: filler
+45 Coins: filler
+46 Coins: filler
+47 Coins: filler
+48 Coins: filler
+49 Coins: filler
 5 Coins: filler
-50 Coins: unknown
-51 Coins: unknown
-52 Coins: unknown
-53 Coins: unknown
-54 Coins: unknown
-55 Coins: unknown
-56 Coins: unknown
-57 Coins: unknown
-58 Coins: unknown
-59 Coins: unknown
+50 Coins: filler
+51 Coins: filler
+52 Coins: filler
+53 Coins: filler
+54 Coins: filler
+55 Coins: filler
+56 Coins: filler
+57 Coins: filler
+58 Coins: filler
+59 Coins: filler
 6 Coins: filler
-60 Coins: unknown
-61 Coins: unknown
-62 Coins: unknown
-63 Coins: unknown
-64 Coins: unknown
-65 Coins: unknown
-66 Coins: unknown
-67 Coins: unknown
-68 Coins: unknown
-69 Coins: unknown
+60 Coins: filler
+61 Coins: filler
+62 Coins: filler
+63 Coins: filler
+64 Coins: filler
+65 Coins: filler
+66 Coins: filler
+67 Coins: filler
+68 Coins: filler
+69 Coins: filler
 7 Coins: filler
-70 Coins: unknown
-71 Coins: unknown
-72 Coins: unknown
-73 Coins: unknown
-74 Coins: unknown
-75 Coins: unknown
-76 Coins: unknown
-77 Coins: unknown
-78 Coins: unknown
-79 Coins: unknown
+70 Coins: filler
+71 Coins: filler
+72 Coins: filler
+73 Coins: filler
+74 Coins: filler
+75 Coins: filler
+76 Coins: filler
+77 Coins: filler
+78 Coins: filler
+79 Coins: filler
 8 Coins: filler
-80 Coins: unknown
-81 Coins: unknown
-82 Coins: unknown
-83 Coins: unknown
-84 Coins: unknown
-85 Coins: unknown
-86 Coins: unknown
-87 Coins: unknown
-88 Coins: unknown
-89 Coins: unknown
+80 Coins: filler
+81 Coins: filler
+82 Coins: filler
+83 Coins: filler
+84 Coins: filler
+85 Coins: filler
+86 Coins: filler
+87 Coins: filler
+88 Coins: filler
+89 Coins: filler
 9 Coins: filler
-90 Coins: unknown
-91 Coins: unknown
-92 Coins: unknown
-93 Coins: unknown
-94 Coins: unknown
-95 Coins: unknown
-96 Coins: unknown
-97 Coins: unknown
-98 Coins: unknown
-99 Coins: unknown
-Auto Scroll - Hippo Zone: unknown
+90 Coins: filler
+91 Coins: filler
+92 Coins: filler
+93 Coins: filler
+94 Coins: filler
+95 Coins: filler
+96 Coins: filler
+97 Coins: filler
+98 Coins: filler
+99 Coins: filler
+Auto Scroll - Hippo Zone: trap
 Auto Scroll - Macro Zone 1: trap
-Auto Scroll - Macro Zone 2: unknown
+Auto Scroll - Macro Zone 2: trap
 Auto Scroll - Macro Zone 3: trap
 Auto Scroll - Macro Zone 4: trap
-Auto Scroll - Macro Zone Secret Course: unknown
+Auto Scroll - Macro Zone Secret Course: trap
 Auto Scroll - Mario Zone 1: trap
-Auto Scroll - Mario Zone 2: unknown
-Auto Scroll - Mario Zone 3: unknown
-Auto Scroll - Mario Zone 4: unknown
-Auto Scroll - Mario's Castle: unknown
-Auto Scroll - Mushroom Zone: unknown
+Auto Scroll - Mario Zone 2: trap
+Auto Scroll - Mario Zone 3: trap
+Auto Scroll - Mario Zone 4: trap
+Auto Scroll - Mario's Castle: trap
+Auto Scroll - Mushroom Zone: trap
 Auto Scroll - Pumpkin Zone 1: trap
-Auto Scroll - Pumpkin Zone 2: unknown
-Auto Scroll - Pumpkin Zone 3: unknown
+Auto Scroll - Pumpkin Zone 2: trap
+Auto Scroll - Pumpkin Zone 3: trap
 Auto Scroll - Pumpkin Zone 4: trap
 Auto Scroll - Pumpkin Zone Secret Course 1: trap
-Auto Scroll - Pumpkin Zone Secret Course 2: unknown
+Auto Scroll - Pumpkin Zone Secret Course 2: trap
 Auto Scroll - Scenic Course: trap
-Auto Scroll - Space Zone 1: unknown
-Auto Scroll - Space Zone 2: unknown
-Auto Scroll - Space Zone Secret Course: unknown
+Auto Scroll - Space Zone 1: trap
+Auto Scroll - Space Zone 2: trap
+Auto Scroll - Space Zone Secret Course: trap
 Auto Scroll - Tree Zone 1: trap
-Auto Scroll - Tree Zone 2: unknown
-Auto Scroll - Tree Zone 3: unknown
+Auto Scroll - Tree Zone 2: trap
+Auto Scroll - Tree Zone 3: trap
 Auto Scroll - Tree Zone 4: trap
 Auto Scroll - Tree Zone 5: trap
 Auto Scroll - Tree Zone Secret Course: trap
 Auto Scroll - Turtle Zone 1: trap
-Auto Scroll - Turtle Zone 2: unknown
+Auto Scroll - Turtle Zone 2: trap
 Auto Scroll - Turtle Zone 3: trap
-Auto Scroll - Turtle Zone Secret Course: unknown
-Auto Scroll: unknown
+Auto Scroll - Turtle Zone Secret Course: trap
+Auto Scroll: trap
 Cancel Auto Scroll - Hippo Zone: progression
-Cancel Auto Scroll - Macro Zone 1: useful
+Cancel Auto Scroll - Macro Zone 1: progression
 Cancel Auto Scroll - Macro Zone 2: progression
-Cancel Auto Scroll - Macro Zone 3: unknown
+Cancel Auto Scroll - Macro Zone 3: progression
 Cancel Auto Scroll - Macro Zone 4: progression
-Cancel Auto Scroll - Macro Zone Secret Course: unknown
-Cancel Auto Scroll - Mario Zone 1: unknown
-Cancel Auto Scroll - Mario Zone 2: unknown
-Cancel Auto Scroll - Mario Zone 3: unknown
+Cancel Auto Scroll - Macro Zone Secret Course: useful
+Cancel Auto Scroll - Mario Zone 1: progression
+Cancel Auto Scroll - Mario Zone 2: useful
+Cancel Auto Scroll - Mario Zone 3: progression
 Cancel Auto Scroll - Mario Zone 4: progression
-Cancel Auto Scroll - Mario's Castle: unknown
-Cancel Auto Scroll - Mushroom Zone: unknown
+Cancel Auto Scroll - Mario's Castle: progression
+Cancel Auto Scroll - Mushroom Zone: progression
 Cancel Auto Scroll - Pumpkin Zone 1: progression
-Cancel Auto Scroll - Pumpkin Zone 2: unknown
+Cancel Auto Scroll - Pumpkin Zone 2: progression
 Cancel Auto Scroll - Pumpkin Zone 3: progression
-Cancel Auto Scroll - Pumpkin Zone 4: unknown
-Cancel Auto Scroll - Pumpkin Zone Secret Course 1: unknown
-Cancel Auto Scroll - Pumpkin Zone Secret Course 2: unknown
-Cancel Auto Scroll - Scenic Course: progression
+Cancel Auto Scroll - Pumpkin Zone 4: progression
+Cancel Auto Scroll - Pumpkin Zone Secret Course 1: progression
+Cancel Auto Scroll - Pumpkin Zone Secret Course 2: progression
+Cancel Auto Scroll - Scenic Course: useful
 Cancel Auto Scroll - Space Zone 1: progression
 Cancel Auto Scroll - Space Zone 2: progression
 Cancel Auto Scroll - Space Zone Secret Course: progression
 Cancel Auto Scroll - Tree Zone 1: progression
-Cancel Auto Scroll - Tree Zone 2: unknown
+Cancel Auto Scroll - Tree Zone 2: progression
 Cancel Auto Scroll - Tree Zone 3: progression
 Cancel Auto Scroll - Tree Zone 4: progression
-Cancel Auto Scroll - Tree Zone 5: unknown
-Cancel Auto Scroll - Tree Zone Secret Course: unknown
+Cancel Auto Scroll - Tree Zone 5: progression
+Cancel Auto Scroll - Tree Zone Secret Course: progression
 Cancel Auto Scroll - Turtle Zone 1: progression
 Cancel Auto Scroll - Turtle Zone 2: progression
-Cancel Auto Scroll - Turtle Zone 3: progression
-Cancel Auto Scroll - Turtle Zone Secret Course: progression
-Cancel Auto Scroll: unknown
+Cancel Auto Scroll - Turtle Zone 3: useful
+Cancel Auto Scroll - Turtle Zone Secret Course: useful
+Cancel Auto Scroll: progression
 Carrot: progression
 Easy Mode: useful
 Fire Flower: progression
 Hippo Bubble: progression
 Macro Coin: mcguffin
-Macro Zone 1 - The Ant Monsters Midway Bell: useful
+Macro Zone 1 - The Ant Monsters Midway Bell: progression
 Macro Zone 1 Midway Bell: progression
-Macro Zone 2 - In the Syrup Sea Midway Bell: useful
+Macro Zone 2 - In the Syrup Sea Midway Bell: progression
 Macro Zone 2 Midway Bell: progression
-Macro Zone 3 - Fiery Mario-Special Agent Midway Bell: unknown
+Macro Zone 3 - Fiery Mario-Special Agent Midway Bell: progression
 Macro Zone 3 Midway Bell: progression
-Macro Zone 4 - One Mighty Mouse Midway Bell: unknown
+Macro Zone 4 - One Mighty Mouse Midway Bell: filler
 Macro Zone 4 Midway Bell: filler
 Macro Zone Progression x2: progression
 Macro Zone Progression: progression
 Macro Zone Secret 1: progression
 Macro Zone Secret 2: progression
 Mario Coin Fragment: mcguffin
-Mario Coin: progression
+Mario Coin: mcguffin
 Mario Zone 1 - Fiery Blocks Midway Bell: progression
 Mario Zone 1 Midway Bell: progression
-Mario Zone 2 - Mario the Circus Star! Midway Bell: progression
+Mario Zone 2 - Mario the Circus Star! Midway Bell: filler
 Mario Zone 2 Midway Bell: filler
-Mario Zone 3 - Beware: Jagged Spikes Midway Bell: progression
+Mario Zone 3 - Beware: Jagged Spikes Midway Bell: filler
 Mario Zone 3 Midway Bell: filler
-Mario Zone 4 - Three Mean Pigs! Midway Bell: progression
+Mario Zone 4 - Three Mean Pigs! Midway Bell: filler
 Mario Zone 4 Midway Bell: filler
 Mario Zone Progression x2: progression
 Mario Zone Progression: progression
 Mario's Castle Midway Bell: progression
-Mushroom Zone Midway Bell: progression
+Mushroom Zone Midway Bell: filler
 Mushroom: progression
 Normal Mode: trap
 Pipe Traversal - Down: progression
@@ -271,20 +271,21 @@ Pipe Traversal - Right: progression
 Pipe Traversal - Up: progression
 Pipe Traversal: progression
 Pumpkin Coin: mcguffin
+Pumpkin Zone 1 - Bat Course Midway Bell: progression
 Pumpkin Zone 1 Midway Bell: progression
-Pumpkin Zone 2 - Cyclops Course Midway Bell: unknown
-Pumpkin Zone 2 Midway Bell: progression
-Pumpkin Zone 3 - Ghost House Midway Bell: unknown
-Pumpkin Zone 3 Midway Bell: progression
-Pumpkin Zone 4 - Witch's Mansion Midway Bell: useful
+Pumpkin Zone 2 - Cyclops Course Midway Bell: filler
+Pumpkin Zone 2 Midway Bell: filler
+Pumpkin Zone 3 - Ghost House Midway Bell: filler
+Pumpkin Zone 3 Midway Bell: filler
+Pumpkin Zone 4 - Witch's Mansion Midway Bell: filler
 Pumpkin Zone 4 Midway Bell: filler
-Pumpkin Zone Progression x2: unknown
+Pumpkin Zone Progression x2: progression
 Pumpkin Zone Progression: progression
 Pumpkin Zone Secret 1: progression
 Pumpkin Zone Secret 2: progression
 Space Coin: mcguffin
 Space Physics: progression
-Space Zone 1 - Moon Stage Midway Bell: progression
+Space Zone 1 - Moon Stage Midway Bell: filler
 Space Zone 1 Midway Bell: filler
 Space Zone 2 - Star Stage Midway Bell: progression
 Space Zone 2 Midway Bell: progression
@@ -292,23 +293,26 @@ Space Zone Progression: progression
 Space Zone Secret: progression
 Super Star Duration Increase: filler
 Swim: progression
-Tree Coin: progression
-Tree Zone 1 - Invincibility! Midway Bell: progression
+Tree Coin: mcguffin
+Tree Zone 1 - Invincibility! Midway Bell: filler
 Tree Zone 1 Midway Bell: filler
+Tree Zone 2 - In the Trees Midway Bell: progression
 Tree Zone 2 Midway Bell: progression
+Tree Zone 4 - Honeybees Midway Bell: progression
 Tree Zone 4 Midway Bell: progression
+Tree Zone 5 - The Big Bird Midway Bell: filler
 Tree Zone 5 Midway Bell: filler
 Tree Zone Progression x2: progression
 Tree Zone Progression: progression
 Tree Zone Secret: progression
 Turtle Coin: mcguffin
-Turtle Zone 1 - Cheep Cheep Course Midway Bell: useful
+Turtle Zone 1 - Cheep Cheep Course Midway Bell: filler
 Turtle Zone 1 Midway Bell: filler
 Turtle Zone 2 - Turtle Zone Midway Bell: progression
 Turtle Zone 2 Midway Bell: progression
-Turtle Zone 3 - Whale Course Midway Bell: unknown
+Turtle Zone 3 - Whale Course Midway Bell: filler
 Turtle Zone 3 Midway Bell: filler
-Turtle Zone Progression x2: unknown
+Turtle Zone Progression x2: progression
 Turtle Zone Progression: progression
 Turtle Zone Secret: progression
 Water Physics: progression
