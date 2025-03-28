@@ -301,7 +301,7 @@ Law Card: Color Magic antilaw: filler
 Law Card: Color Magic: unknown
 Law Card: Confuse antilaw: unknown
 Law Card: Confuse: unknown
-Law Card: Control antilaw: unknown
+Law Card: Control antilaw: filler
 Law Card: Control: filler
 Law Card: Copycat antilaw: filler
 Law Card: Copycat: unknown
@@ -322,7 +322,7 @@ Law Card: Dmg2: Viera antilaw: filler
 Law Card: Dmg2: Viera: unknown
 Law Card: Dmg2: moogle: filler
 Law Card: Elementals antilaw: filler
-Law Card: Elementals: unknown
+Law Card: Elementals: filler
 Law Card: Fight antilaw: filler
 Law Card: Fight: filler
 Law Card: Fire antilaw: unknown
