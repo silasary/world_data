@@ -4,7 +4,7 @@
 5 coins: filler
 50 coins: filler
 Blue Switch Palace: progression
-Boss Token: progression
+Boss Token: mcguffin
 Carry: progression
 Climb: progression
 Green Switch Palace: progression
@@ -21,7 +21,7 @@ Spin Jump: progression
 Stun Trap: trap
 Super Star Activate: progression
 Swim: progression
-The Princess: progression
+The Princess: mcguffin
 Thwimp Trap: trap
 Timer Trap: trap
 Yellow Switch Palace: progression
