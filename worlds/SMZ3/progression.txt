@@ -113,7 +113,7 @@ Missile: progression
 MoonPearl: progression
 Morph: progression
 Mushroom: progression
-Nothing: unknown
+Nothing: filler
 OneHundredRupees: filler
 OneRupee: filler
 Plasma: progression
