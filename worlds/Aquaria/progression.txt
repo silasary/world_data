@@ -39,7 +39,7 @@ Crab cake: useful
 Divine Soup: useful
 Divine soup: useful
 Door to the Cathedral opened: progression
-Dual Form: unknown
+Dual Form: progression
 Dual form: progression
 Dumbo Ice Cream: useful
 Dumbo ice cream: useful
@@ -185,7 +185,7 @@ Seed Bag: filler
 Seed bag: filler
 Shark Fin Soup: useful
 Shark fin soup: useful
-Shield Song: unknown
+Shield Song: useful
 Shield song: useful
 Sight Poultice: useful
 Sight poultice: useful
@@ -216,11 +216,11 @@ Spider roll: useful
 Spirit Form: progression
 Spirit form: progression
 Stone Head: filler
-Stone head: unknown
+Stone head: filler
 Sun Form: progression
 Sun Key: useful
 Sun form: progression
-Sun key: unknown
+Sun key: useful
 Swamp Cake: useful
 Swamp cake: useful
 Tasty Cake: useful
@@ -232,17 +232,17 @@ Tough Cake: useful
 Tough cake: useful
 Transturtle Abyss right: progression
 Transturtle Arnassi Ruins: progression
-Transturtle Arnassi ruins: unknown
+Transturtle Arnassi ruins: progression
 Transturtle Final Boss: progression
 Transturtle Forest bottom left: progression
 Transturtle Home Water: useful
 Transturtle Home Waters: useful
-Transturtle Home water: unknown
+Transturtle Home water: useful
 Transturtle Kelp Forest bottom left: progression
 Transturtle Open Water top right: progression
 Transturtle Open Waters top right: progression
 Transturtle Simon Says: progression
-Transturtle Simon says: unknown
+Transturtle Simon says: progression
 Transturtle Veil top left: progression
 Transturtle Veil top right: progression
 Trident: filler
