@@ -18,9 +18,11 @@ Unlock Bonus Slot 10: progression
 Unlock Bonus Slot 111: progression
 Unlock Bonus Slot 114: progression
 Unlock Bonus Slot 117: progression
+Unlock Bonus Slot 11: unknown
 Unlock Bonus Slot 121: progression
 Unlock Bonus Slot 122: progression
 Unlock Bonus Slot 124: progression
+Unlock Bonus Slot 125: unknown
 Unlock Bonus Slot 127: progression
 Unlock Bonus Slot 128: progression
 Unlock Bonus Slot 12: progression
@@ -50,6 +52,7 @@ Unlock Bonus Slot 170: progression
 Unlock Bonus Slot 171: progression
 Unlock Bonus Slot 173: progression
 Unlock Bonus Slot 176: progression
+Unlock Bonus Slot 177: unknown
 Unlock Bonus Slot 178: progression
 Unlock Bonus Slot 180: progression
 Unlock Bonus Slot 182: progression
@@ -70,6 +73,7 @@ Unlock Bonus Slot 20: progression
 Unlock Bonus Slot 210: progression
 Unlock Bonus Slot 211: progression
 Unlock Bonus Slot 212: progression
+Unlock Bonus Slot 213: unknown
 Unlock Bonus Slot 214: progression
 Unlock Bonus Slot 215: progression
 Unlock Bonus Slot 219: progression
@@ -79,6 +83,7 @@ Unlock Bonus Slot 221: progression
 Unlock Bonus Slot 223: progression
 Unlock Bonus Slot 226: progression
 Unlock Bonus Slot 228: progression
+Unlock Bonus Slot 229: unknown
 Unlock Bonus Slot 22: progression
 Unlock Bonus Slot 230: progression
 Unlock Bonus Slot 235: progression
@@ -263,6 +268,7 @@ Unlock Bonus Slot 55: progression
 Unlock Bonus Slot 58: progression
 Unlock Bonus Slot 59: progression
 Unlock Bonus Slot 5: progression
+Unlock Bonus Slot 60: unknown
 Unlock Bonus Slot 61: progression
 Unlock Bonus Slot 62: progression
 Unlock Bonus Slot 63: progression
@@ -280,8 +286,10 @@ Unlock Bonus Slot 7: progression
 Unlock Bonus Slot 81: progression
 Unlock Bonus Slot 82: progression
 Unlock Bonus Slot 83: progression
+Unlock Bonus Slot 84: unknown
 Unlock Bonus Slot 85: progression
 Unlock Bonus Slot 86: progression
+Unlock Bonus Slot 87: unknown
 Unlock Bonus Slot 88: progression
 Unlock Bonus Slot 8: progression
 Unlock Bonus Slot 90: progression
@@ -292,6 +300,7 @@ Unlock Bonus Slot 94: progression
 Unlock Bonus Slot 96: progression
 Unlock Bonus Slot 98: progression
 Unlock Bonus Slot 99: progression
+Unlock Bonus Slot 9: unknown
 Unlock Bonuses2: progression
 Unlock Bonuses3: progression
 Unlock Bonuses4: progression
