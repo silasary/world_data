@@ -1,8 +1,8 @@
-ATM Card: unknown
+ATM Card: progression
 Bad Key Machine: progression
-Baddest Beam: filler
-Bag of Dragonite: filler
-Bag of Fries: unknown
+Baddest Beam: useful
+Bag of Dragonite: useful
+Bag of Fries: filler
 Banana: filler
 Baseball Cap: filler
 Bazooka: useful
@@ -10,45 +10,45 @@ Bean Croquette: filler
 Beef Jerky: filler
 Bicycle: useful
 Big Bottle Rocket: useful
-Big League Bat: filler
-Bionic Slingshot: unknown
+Big League Bat: useful
+Bionic Slingshot: filler
 Boiled Egg: filler
 Bomb: filler
 Bottle Rocket: filler
-Bottle of DXwater: filler
+Bottle of DXwater: useful
 Bottle of Water: filler
 Bowl of Rice Gruel: filler
 Bracer of Kings: useful
-Brain Food Lunch: filler
+Brain Food Lunch: useful
 Brain Stone: filler
 Bread Roll: filler
-Broken Air Gun: unknown
-Broken Antenna: unknown
+Broken Air Gun: filler
+Broken Antenna: useful
 Broken Bazooka: useful
-Broken Cannon: unknown
-Broken Gadget: filler
-Broken Harmonica: unknown
-Broken Iron: unknown
+Broken Cannon: useful
+Broken Gadget: useful
+Broken Harmonica: useful
+Broken Iron: filler
 Broken Laser: useful
-Broken Machine: unknown
+Broken Machine: useful
 Broken Pipe: useful
-Broken Spray Can: useful
-Broken Trumpet: unknown
-Broken Tube: filler
+Broken Spray Can: filler
+Broken Trumpet: filler
+Broken Tube: useful
 Calorie Stick: filler
 Can of Fruit Juice: filler
 Carrot Key: progression
 Carton of Cream: filler
-Casey Bat: unknown
-Charm Coin: unknown
+Casey Bat: filler
+Charm Coin: useful
 Cheap Bracelet: filler
-Chef's Fry Pan: unknown
+Chef's Fry Pan: useful
 Chef's Special: filler
 Cherub's Band: useful
 Chick: filler
 Chicken: filler
 Cloak of Kings: useful
-Coin of Defense: filler
+Coin of Defense: useful
 Coin of Silence: useful
 Coin of Slumber: useful
 Cold Remedy: filler
@@ -56,65 +56,65 @@ Combat Yo-yo: unknown
 Contact Lens: progression
 Cookie: filler
 Copper Bracelet: filler
-Counter-PSI Unit: filler
-Cracked Bat: trap
+Counter-PSI Unit: useful
+Cracked Bat: filler
 Croissant: filler
-Crusher Beam: filler
+Crusher Beam: useful
 Crystal Charm: filler
 Cup of Coffee: filler
 Cup of Lifenoodles: useful
 Cup of Noodles: filler
 Dalaam Teleport: progression
-Death Ray: unknown
+Death Ray: useful
 Deep Darkness Teleport: progression
-Defense Ribbon: unknown
-Defense Shower: unknown
+Defense Ribbon: useful
+Defense Shower: useful
 Defense Spray: filler
 Deluxe Fry Pan: filler
 Diadem of Kings: useful
-Diamond Band: filler
+Diamond Band: useful
 Diamond: progression
 Double Beam: useful
 Double Burger: filler
-Dusty Dunes Teleport: unknown
-Earth Pendant: unknown
+Dusty Dunes Teleport: progression
+Earth Pendant: useful
 Eraser Eraser: progression
-Exit Mouse: unknown
+Exit Mouse: useful
 Flame Pendant: useful
 Flying Man: useful
 For Sale Sign: filler
 Fourside Teleport: progression
 Franklin Badge: progression
-French Fry Pan: filler
+French Fry Pan: useful
 Fresh Egg: filler
 Fry Pan: filler
-Gaia Beam: unknown
+Gaia Beam: useful
 Gelato de Resort: filler
-Goddess Band: unknown
+Goddess Band: useful
 Goddess Ribbon: useful
-Gold Bracelet: unknown
-Great Charm: trap
-Guts Capsule: filler
+Gold Bracelet: filler
+Great Charm: filler
+Guts Capsule: useful
 Gutsy Bat: useful
-HP-Sucker: filler
-Hall of Fame Bat: unknown
+HP-Sucker: useful
+Hall of Fame Bat: useful
 Hamburger: filler
-Hand-Aid: filler
-Handbag Strap: unknown
+Hand-Aid: useful
+Handbag Strap: filler
 Happy-Happy Village Teleport: progression
 Hard Hat: filler
 Hawk Eye: progression
 Heavy Bazooka: useful
 Hieroglyph Copy: progression
 Holmes Hat: filler
-Holy Fry Pan: unknown
+Holy Fry Pan: useful
 Horn of Life: useful
-Hungry HP-Sucker: unknown
+Hungry HP-Sucker: useful
 Hyper Beam: useful
 IQ Capsule: useful
 Insecticide Spray: filler
 Insignificant Item: progression
-Jar of Delisauce: filler
+Jar of Delisauce: useful
 Jar of Fly Honey: progression
 Jar of Hot Sauce: filler
 Jeff: progression
@@ -127,41 +127,41 @@ Key to the Tower: progression
 King Banana: progression
 Kraken Soup: filler
 Large Pizza: filler
-Laser Gun: unknown
+Laser Gun: filler
 Legendary Bat: useful
 Letter For Tony: progression
 Lost Underworld Teleport: progression
-Luck Capsule: filler
-Lucky Coin: filler
-Lucky Sandwich: filler
+Luck Capsule: useful
+Lucky Coin: useful
+Lucky Sandwich: useful
 Luxury Jerky: filler
-Magic Fry Pan: unknown
+Magic Fry Pan: useful
 Magic Pudding: useful
 Magic Tart: useful
-Magic Truffle: filler
-Magicant Bat: filler
-Magicant Teleport: unknown
-Magnum Air Gun: unknown
+Magic Truffle: useful
+Magicant Bat: useful
+Magicant Teleport: progression
+Magnum Air Gun: filler
 Mammoth Burger: filler
 Meteorite Piece: progression
-Meteornium: unknown
-Meteotite: filler
+Meteornium: useful
+Meteotite: useful
 Mining Permit: progression
 Minor League Bat: filler
 Molokheiya Soup: filler
-Monkey's Love: unknown
-Moon Beam Gun: unknown
-Mr. Baseball Bat: unknown
+Monkey's Love: filler
+Moon Beam Gun: useful
+Mr. Baseball Bat: useful
 Mr. Baseball Cap: filler
-Mr. Saturn Coin: filler
+Mr. Saturn Coin: useful
 Multi Bottle Rocket: useful
 Mummy Wrap: filler
 Ness: progression
-Neutralizer: filler
+Neutralizer: useful
 Night Pendant: useful
-Non-Stick Frypan: filler
+Non-Stick Frypan: useful
 Onett Teleport: progression
-PSI Caramel: filler
+PSI Caramel: useful
 Pair of Dirty Socks: filler
 Pak of Bubble Gum: progression
 Pasta di Summers: filler
@@ -169,16 +169,16 @@ Paula: progression
 Peanut Cheese Bar: filler
 Pencil Eraser: progression
 Pharaoh's Curse: filler
-Photograph: mcguffin
+Photograph: trap
 Picnic Lunch: filler
 Picture Postcard: filler
 Piggy Jelly: filler
 Piggy Nose: progression
-Pixie's Bracelet: filler
+Pixie's Bracelet: useful
 Pizza: filler
-Plain Roll: trap
+Plain Roll: filler
 Plain Yogurt: filler
-Platinum Band: filler
+Platinum Band: useful
 Police Badge: progression
 Poo: progression
 Pop Gun: filler
@@ -187,80 +187,80 @@ Progressive Bat: useful
 Progressive Bracelet: useful
 Progressive Fry Pan: useful
 Progressive Gun: useful
-Progressive Other: progression
+Progressive Other: useful
 Progressive Poo PSI: useful
 Protein Drink: filler
 Protractor: filler
 Rabbit's Foot: useful
-Rain Pendant: filler
-Receiver Phone: unknown
+Rain Pendant: useful
+Receiver Phone: filler
 Red Ribbon: filler
 Refreshing Herb: useful
-Repel Sandwich: unknown
-Repel Superwich: filler
+Repel Sandwich: useful
+Repel Superwich: useful
 Ribbon: filler
-Rock Candy: filler
+Rock Candy: useful
 Royal Iced Tea: filler
 Ruler: filler
-Rust Promoter DX: unknown
+Rust Promoter DX: useful
 Rust Promoter: filler
 Salt Packet: filler
-Sand Lot Bat: unknown
+Sand Lot Bat: filler
 Saturn Ribbon: useful
 Saturn Valley Teleport: progression
 Scaraba Teleport: progression
 Sea Pendant: useful
-Secret Herb: filler
-Shield Killer: unknown
-Shiny Coin: unknown
-Show Ticket: unknown
+Secret Herb: useful
+Shield Killer: useful
+Shiny Coin: useful
+Show Ticket: filler
 Shyness Book: progression
 Signed Banana: progression
 Silver Bracelet: filler
-Slime Generator: filler
-Slingshot: progression
+Slime Generator: useful
+Slingshot: filler
 Snake Bag: filler
 Snake: filler
-Sound Stone: unknown
-Souvenir Coin: unknown
-Spectrum Beam: filler
-Speed Capsule: filler
+Sound Stone: mcguffin
+Souvenir Coin: useful
+Spectrum Beam: useful
+Speed Capsule: useful
 Spicy Jerky: filler
 Sprig of Parsley: filler
 Stag Beetle: filler
-Star Pendant: unknown
+Star Pendant: useful
 Stun Gun: filler
-Sudden Guts Pill: filler
+Sudden Guts Pill: useful
 Sugar Packet: filler
 Summers Teleport: progression
-Super Bomb: filler
+Super Bomb: useful
 Super Plush Bear: useful
 Suporma: trap
 Sword of Kings: useful
-T-Rex's Bat: filler
-Talisman Coin: unknown
-Talisman Ribbon: filler
+T-Rex's Bat: useful
+Talisman Coin: useful
+Talisman Ribbon: useful
 Teddy Bear: filler
 Tee Ball Bat: filler
-Tenda Lavapants: unknown
+Tenda Lavapants: progression
 Tenda Village Teleport: progression
 Tendakraut: progression
 Thick Fry Pan: filler
-Threed Teleport: unknown
+Threed Teleport: progression
 Tin of Cocoa: filler
 Tiny Key: progression
 Tiny Ruby: progression
 Toothbrush: filler
 Toy Air Gun: filler
 Travel Charm: filler
-Trick Yo-yo: unknown
+Trick Yo-yo: filler
 Trout Yogurt: filler
-Twoson Teleport: unknown
+Twoson Teleport: progression
 UFO Engine: progression
-Ultimate Bat: filler
+Ultimate Bat: useful
 Vial of Serum: filler
 Viper: filler
-Vital Capsule: filler
+Vital Capsule: useful
 Wad of Bills: progression
 Wet Towel: filler
 Winters Teleport: progression
