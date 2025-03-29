@@ -355,7 +355,7 @@ Law Card: Knightswords antilaw: filler
 Law Card: Knightswords: unknown
 Law Card: Knives antilaw: filler
 Law Card: Knives: unknown
-Law Card: Knuckles antilaw: unknown
+Law Card: Knuckles antilaw: filler
 Law Card: Knuckles: unknown
 Law Card: Law Cards antilaw: unknown
 Law Card: Law Cards: unknown
@@ -403,7 +403,7 @@ Law Card: Status: filler
 Law Card: Steal antilaw: unknown
 Law Card: Steal: filler
 Law Card: Stop antilaw: unknown
-Law Card: Stop: unknown
+Law Card: Stop: filler
 Law Card: Summon antilaw: filler
 Law Card: Summon: unknown
 Law Card: Swords antilaw: filler
