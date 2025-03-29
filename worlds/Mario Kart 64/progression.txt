@@ -83,7 +83,7 @@ P2 Triple Green Shell Power: useful
 P2 Triple Mushroom Power: progression
 P2 Triple Red Shell Power: progression
 Peach: progression
-Progressive Course Unlock: unknown
+Progressive Course Unlock: progression
 Progressive Course: progression
 Progressive Cup Unlock: progression
 Progressive Cup: progression
@@ -116,7 +116,7 @@ Rainbow Road Item Boxes 5: filler
 Rainbow Road Item Boxes 6: filler
 Rainbow Road Item Boxes 7: filler
 Rainbow Road Item Boxes 8: filler
-Random Item: useful
+Random Item: filler
 Red Shell Power: progression
 Red Switch: progression
 Royal Raceway Item Boxes 1: filler
@@ -130,8 +130,8 @@ Sherbet Land Item Boxes 1: filler
 Sherbet Land Item Boxes 2: filler
 Sherbet Land Item Boxes 3: filler
 Sherbet Land Item Boxes 4: filler
-Sherbet Land Last Item Boxes: useful
-Sherbet Land Left Of Rock Item Boxes: useful
+Sherbet Land Last Item Boxes: filler
+Sherbet Land Left Of Rock Item Boxes: filler
 Sherbet Land Right Of Rock Item Box: filler
 Star Power: progression
 Starting Item Bowser: useful
@@ -148,8 +148,8 @@ Toad's Turnpike Item Boxes 2: filler
 Toad's Turnpike Item Boxes 3: filler
 Toad's Turnpike Item Boxes 4: filler
 Toad: progression
-Toads Turnpike Item Boxes 1: unknown
-Toads Turnpike Item Boxes 2: unknown
+Toads Turnpike Item Boxes 1: filler
+Toads Turnpike Item Boxes 2: filler
 Toads Turnpike Item Boxes 3: filler
 Toads Turnpike Item Boxes 4: filler
 Triple Green Shell Power: useful
@@ -176,10 +176,10 @@ Yoshi Valley Giant Egg Item Boxes: filler
 Yoshi Valley Hairpin Turn Item Boxes: filler
 Yoshi Valley Maze Bridge Item Boxes: filler
 Yoshi Valley Maze Entry Item Boxes: filler
-Yoshi Valley Maze Entry Right Item Boxes: progression
+Yoshi Valley Maze Entry Right Item Boxes: filler
 Yoshi Valley Maze Left Fork Item Boxes: filler
 Yoshi Valley Maze Left Ledge Item Boxes: filler
-Yoshi Valley Maze Leftmost Fork Boxes: progression
+Yoshi Valley Maze Leftmost Fork Boxes: filler
 Yoshi Valley Maze Leftmost Ledge Boxes: filler
 Yoshi Valley Maze Rightmost Item Boxes: filler
 Yoshi: progression
