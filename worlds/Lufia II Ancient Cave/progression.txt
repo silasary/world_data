@@ -1,415 +1,415 @@
-Charred newt: useful
-Potion: useful
-Hi-Potion: useful
-Ex-Potion: useful
-Magic jar: useful
-Hi-Magic: useful
-Ex-Magic: useful
-Regain: useful
-Miracle: useful
-Antidote: useful
-Awake: useful
-Shriek: useful
-Mystery pin: useful
-Power gourd: useful
-Mind gourd: useful
-Magic guard: useful
-Life potion: useful
-Spell potion: useful
-Power potion: useful
-Speed potion: useful
-Mind potion: useful
-Brave: useful
-Sour cider: useful
-Sleep ball: useful
-Confuse ball: useful
-Freeze ball: useful
-Smoke ball: useful
-Ice ball: useful
-Fire ball: useful
-Terror ball: useful
-Boomerang: useful
-Big boomer: useful
-Ex-boomer: useful
-Curselifter: useful
-Secret fruit: useful
-Holy fruit: useful
-Breeze fruit: useful
-Charm fruit: useful
-Dark fruit: useful
-Earth fruit: useful
-Flame fruit: useful
-Magic fruit: useful
-Frypan: useful
-Knife: useful
-Small knife: useful
-Rapier: useful
-Battle knife: useful
-Dagger: useful
-Insect crush: useful
-Long knife: useful
-Short sword: useful
-Light knife: useful
-Kukri: useful
-Gladius: useful
-Cold rapier: useful
-Scimitar: useful
-Deadly sword: useful
-SuhrCustom11: useful
-Bronze sword: useful
-Fire dagger: useful
-War rapier: useful
-Long sword: useful
-Beserk blade: useful
-Multi sword: useful
-Rockbreaker: useful
-Broadsword: useful
-Estok: useful
-Silvo rapier: useful
-Burn sword: useful
-Dekar blade: useful
-Crazy blade: useful
-Deadly sword (fake): useful
-Luck rapier: useful
-Aqua sword: useful
-Red saber: useful
-Lucky blade: useful
-Mist rapier: useful
-Boom sword: useful
-Freeze sword: useful
-Silver sword: useful
-Flying blow: useful
-Super sword: useful
-Buster sword: useful
-Rune rapier: useful
-Old sword: useful
-Lizard blow: useful
-Zirco sword: useful
-Sizzle sword: useful
-Blaze sword: useful
-Myth blade: useful
-Gades blade: useful
-Sky sword: useful
-Snow sword: useful
-Fry sword: useful
-Franshiska: useful
-Thunder ax: useful
-Hand ax: useful
-Bronze ax: useful
-Rainy ax: useful
-Great ax: useful
-Zirco ax: useful
-Mega ax: useful
-Mace: useful
-Rod: useful
-Staff: useful
-Deadly rod: useful
-Sleep rod: useful
-Long staff: useful
-Holy staff: useful
-Morning star: useful
-Pounder rod: useful
-Crystal wand: useful
-Silver rod: useful
-Zirco rod: useful
-Zirco flail: useful
-Spark staff: useful
-Whip: useful
-Wire: useful
-Chain: useful
-Aqua whip: useful
-Cutter whip: useful
-Royal whip: useful
-Holy whip: useful
-Zirco whip: useful
+Absorb: useful
+Agony helm: useful
 Air whip: useful
-Fatal pick: useful
-Spear: useful
-Trident: useful
-Halberd: useful
-Heavy lance: useful
-Water spear: useful
-Dragon spear: useful
-Vice pliers: useful
-Coma hit: useful
-Figgoru: useful
-Superdriver: useful
-Stun gun: useful
-Battledriver: useful
-Launcher: useful
-Freeze bow: useful
-Cursed bow: useful
+Ancient key: progression
+Anger brace: useful
+Angry ring: useful
+Antidote: useful
+Apron shield: useful
 Apron: useful
-Dress: useful
-Cloth: useful
-Lab-coat: useful
-Hide armor: useful
-Frock: useful
-Robe: useful
-Cloth armor: useful
-Coat: useful
-Tough hide: useful
-Light dress: useful
-Light armor: useful
-Camu armor: useful
+Aqua helm: useful
+Aqua sword: useful
+Aqua whip: useful
+Arty: progression
+Awake: useful
+BLAZE: progression
 Baggy: useful
-Tight dress: useful
-Chainmail: useful
-Holy wings: useful
-Ironmail: useful
-Toga: useful
-Chain armor: useful
-Thick cloth: useful
-Stone plate: useful
-Long robe: useful
-Plated cloth: useful
-Iron plate: useful
-Metal mail: useful
-Silk toga: useful
-Silver armor: useful
-Light jacket: useful
-Metal coat: useful
-Silver mail: useful
-Power jacket: useful
-Quilted silk: useful
-Metal armor: useful
-Power cape: useful
-Magic bikini: useful
-Silver robe: useful
-Evening gown: useful
-Plate armor: useful
-Plati plate: useful
-Silk robe: useful
-Revive armor: useful
-Crystal mail: useful
-Crystal robe: useful
-Heal armor: useful
-Metal jacket: useful
-Deadly armor: useful
-Eron dress: useful
+Bat rock: useful
+Battle knife: useful
+Battledriver: useful
+Bee rock: useful
+Beret: useful
+Beserk blade: useful
+Big boomer: useful
+Big shield: useful
+Black eye: useful
+Blaze sword: useful
+Blizzard: useful
+Block shield: useful
+Blue beret: useful
+Bolt shield: useful
+Bolt: useful
+Boom sword: useful
+Boom turban: useful
+Boomerang: useful
+Bracelet: useful
+Brave: useful
+Bravery: useful
+Breeze fruit: useful
 Bright armor: useful
 Bright cloth: useful
-Power robe: useful
-Magic scale: useful
-Ghostclothes: useful
-Royal dress: useful
-Full mail: useful
-Old armor: useful
-Zircon plate: useful
-Zircon armor: useful
-Mirak plate: useful
-Ruse armor: useful
-Chop board: useful
-Small shield: useful
-Hide shield: useful
-Buckler: useful
-Mini shield: useful
-Wood shield: useful
-Bracelet: useful
-Power brace: useful
-Kite shield: useful
-Tough gloves: useful
-Brone shield: useful
-Anger brace: useful
-Block shield: useful
-Tecto gloves: useful
-Round shield: useful
-Pearl brace: useful
-Fayza shield: useful
-Big shield: useful
-Tall shield: useful
-Silvo shield: useful
-Spike shield: useful
-Slash shield: useful
-Mage shield: useful
-Tuff buckler: useful
-Tect buckler: useful
-Gold gloves: useful
-Gold shield: useful
-Plati gloves: useful
-Plati shield: useful
-Gauntlet: useful
-Rune gloves: useful
-Holy shield: useful
-Zirco gloves: useful
-Zirco shield: useful
-Old shield: useful
-Flame shield: useful
-Water gaunt: useful
-Bolt shield: useful
-Cryst shield: useful
-Dark mirror: useful
-Apron shield: useful
-Pot: useful
-Beret: useful
-Cap: useful
-Cloth helmet: useful
-Hairband: useful
-Headband: useful
-Hide helmet: useful
-Jet helm: useful
-Red beret: useful
-Glass cap: useful
-Wood helmet: useful
-Blue beret: useful
+Brill helm: useful
+Broadsword: useful
 Brone helmet: useful
-Stone helmet: useful
-Cloche: useful
-Fury helmet: useful
-Iron helmet: useful
-Tight helmet: useful
-Turban: useful
-Plate cap: useful
-Roomy helmet: useful
-Tight turban: useful
-Glass cloche: useful
-Plate helmet: useful
-Rock helmet: useful
-Jute helmet: useful
-Shade hat: useful
-Metal cloche: useful
-SilverHelmet: useful
-Fury ribbon: useful
-Silver hat: useful
-Eron hat: useful
+Brone shield: useful
+Bronze ax: useful
+Bronze sword: useful
+Buckler: useful
+Burn sword: useful
+Buster sword: useful
+Camu armor: useful
+Camu jewel: useful
+Cancer rock: useful
+Cap: useful
+Catfish jwl.: useful
+Chain armor: useful
+Chain: useful
+Chainmail: useful
+Champion: useful
+Charm fruit: useful
+Charred newt: useful
+Chop board: useful
 Circlet: useful
-Golden helm: useful
-Gold band: useful
-Plati band: useful
-Plati helm: useful
+Cloche: useful
+Cloth armor: useful
+Cloth helmet: useful
+Cloth: useful
+Coat: useful
+Cold rapier: useful
+Coma hit: useful
+Coma: useful
+Confuse ball: useful
+Confuse: useful
+Courage: useful
+Crazy blade: useful
+Cryst shield: useful
+Crystal mail: useful
+Crystal robe: useful
+Crystal wand: useful
 Crysto beret: useful
 Crysto helm: useful
-Holy cap: useful
-Safety hat: useful
-Zirco band: useful
-Zirco helmet: useful
-Old helmet: useful
-Agony helm: useful
-Boom turban: useful
-Aqua helm: useful
-Ice hairband: useful
-Hairpin: useful
-Brill helm: useful
-Ear jewel: useful
-Glass brace: useful
-Glass ring: useful
-Earring: useful
-Speedy ring: useful
-Power ring: useful
-Muscle ring: useful
-Protect ring: useful
-Mind ring: useful
-Witch ring: useful
-Fire ring: useful
-Water ring: useful
-Ice ring: useful
-Thunder ring: useful
-Fury ring: useful
-Mystery ring: useful
-Sonic ring: useful
-Hipower ring: useful
-Trick ring: useful
-Fake ring: useful
-S-power ring: useful
-S-mind ring: useful
-S-pro ring: useful
-S-witch ring: useful
-Undead ring: useful
-Rocket ring: useful
-Ghost ring: useful
-Angry ring: useful
-S-myst ring: useful
-Dia ring: useful
-Sea ring: useful
-Dragon ring: useful
-Engage ring: useful
-Horse rock: useful
-Eagle rock: useful
-Lion fang: useful
-Bee rock: useful
-Snake rock: useful
-Cancer rock: useful
-Pumkin jewel: useful
-Uni jewel: useful
-Mysto jewel: useful
-Samu jewel: useful
-Bat rock: useful
-Hidora rock: useful
-Flame jewel: useful
-Water jewel: useful
-Thundo jewel: useful
-Earth jewel: useful
-Twist jewel: useful
-Gloom jewel: useful
-Tidal jewel: useful
-Magma rock: useful
-Evil jewel: useful
-Gorgon rock: useful
-Song rock: useful
-Kraken rock: useful
-Catfish jwl.: useful
-Camu jewel: useful
-Spido jewel: useful
-Gorgan rock: useful
-Light jewel: useful
-Black eye: useful
-Silver eye: useful
-Gold eye: useful
-Iris sword: progression
-Iris shield: progression
-Iris helmet: progression
-Iris armor: progression
-Iris ring: progression
-Iris jewel: progression
-Iris staff: progression
-Iris pot: progression
-Iris tiara: progression
-Selan: progression
-Guy: progression
-Arty: progression
-Dekar: progression
-Tia: progression
-Lexis: progression
-JELZE: progression
-FLASH: progression
-GUSTO: progression
-ZEPPY: progression
+Cursed bow: useful
+Curselifter: useful
+Cutter whip: useful
 DARBI: progression
-SULLY: progression
-BLAZE: progression
-Ancient key: progression
-Flash: useful
-Bolt: useful
-Thunder: useful
-Spark: useful
+Dagger: useful
+Dark fruit: useful
+Dark mirror: useful
+Deadly armor: useful
+Deadly rod: useful
+Deadly sword (fake): useful
+Deadly sword: useful
+Deflect: useful
+Dekar blade: useful
+Dekar: progression
+Destroy: useful
+Dia ring: useful
+Dragon ring: useful
+Dragon spear: useful
+Dragon: useful
+Dread: useful
+Dress: useful
+Droplet: useful
+Drowsy: useful
+Eagle rock: useful
+Ear jewel: useful
+Earring: useful
+Earth fruit: useful
+Earth jewel: useful
+Engage ring: useful
+Eron dress: useful
+Eron hat: useful
+Estok: useful
+Evening gown: useful
+Evil jewel: useful
+Ex-Magic: useful
+Ex-Potion: useful
+Ex-boomer: useful
+FLASH: progression
+Fake ring: useful
+Fake: useful
+Fatal pick: useful
+Fayza shield: useful
+Figgoru: useful
+Fire ball: useful
+Fire dagger: useful
+Fire ring: useful
 Fireball: useful
 Firebird: useful
-Droplet: useful
-Vortex: useful
-Dragon: useful
+Flame fruit: useful
+Flame jewel: useful
+Flame shield: useful
+Flash: useful
+Flying blow: useful
+Franshiska: useful
+Freeze ball: useful
+Freeze bow: useful
+Freeze sword: useful
+Frock: useful
+Fry sword: useful
+Fry: useful
+Frypan: useful
+Full mail: useful
+Fury helmet: useful
+Fury ribbon: useful
+Fury ring: useful
+GUSTO: progression
+Gades blade: useful
 Gale: useful
-Blizzard: useful
+Gauntlet: useful
+Ghost ring: useful
+Ghostclothes: useful
+Gladius: useful
+Glass brace: useful
+Glass cap: useful
+Glass cloche: useful
+Glass ring: useful
+Gloom jewel: useful
+Gold band: useful
+Gold eye: useful
+Gold gloves: useful
+Gold shield: useful
+Golden helm: useful
+Gorgan rock: useful
+Gorgon rock: useful
+Great ax: useful
+Guy: progression
+Hairband: useful
+Hairpin: useful
+Halberd: useful
+Hand ax: useful
+Headband: useful
+Heal armor: useful
+Heavy lance: useful
+Hi-Magic: useful
+Hi-Potion: useful
+Hide armor: useful
+Hide helmet: useful
+Hide shield: useful
+Hidora rock: useful
+Hipower ring: useful
+Holy cap: useful
+Holy fruit: useful
+Holy shield: useful
+Holy staff: useful
+Holy whip: useful
+Holy wings: useful
+Horse rock: useful
 Ice Valk: useful
-Perish: useful
-Destroy: useful
-Drowsy: useful
-Coma: useful
-Dread: useful
-Deflect: useful
-Absorb: useful
-Fake: useful
-Trick: useful
-Confuse: useful
-Bravery: useful
-Courage: useful
+Ice ball: useful
+Ice hairband: useful
+Ice ring: useful
+Insect crush: useful
+Iris armor: progression
+Iris helmet: progression
+Iris jewel: progression
+Iris pot: progression
+Iris ring: progression
+Iris shield: progression
+Iris staff: progression
+Iris sword: progression
+Iris tiara: progression
+Iron helmet: useful
+Iron plate: useful
+Ironmail: useful
+JELZE: progression
+Jet helm: useful
+Jute helmet: useful
+Kite shield: useful
+Knife: useful
+Kraken rock: useful
+Kukri: useful
+Lab-coat: useful
+Launcher: useful
+Lexis: progression
+Life potion: useful
+Light armor: useful
+Light dress: useful
+Light jacket: useful
+Light jewel: useful
+Light knife: useful
+Lion fang: useful
+Lizard blow: useful
+Long knife: useful
+Long robe: useful
+Long staff: useful
+Long sword: useful
+Luck rapier: useful
+Lucky blade: useful
+Mace: useful
+Mage shield: useful
+Magic bikini: useful
+Magic fruit: useful
+Magic guard: useful
+Magic jar: useful
+Magic scale: useful
+Magma rock: useful
+Mega ax: useful
+Metal armor: useful
+Metal cloche: useful
+Metal coat: useful
+Metal jacket: useful
+Metal mail: useful
+Mind gourd: useful
+Mind potion: useful
+Mind ring: useful
+Mini shield: useful
+Miracle: useful
+Mirak plate: useful
 Mirror: useful
+Mist rapier: useful
+Morning star: useful
+Multi sword: useful
+Muscle ring: useful
+Mystery pin: useful
+Mystery ring: useful
+Mysto jewel: useful
+Myth blade: useful
+Old armor: useful
+Old helmet: useful
+Old shield: useful
+Old sword: useful
+Pearl brace: useful
+Perish: useful
+Plate armor: useful
+Plate cap: useful
+Plate helmet: useful
+Plated cloth: useful
+Plati band: useful
+Plati gloves: useful
+Plati helm: useful
+Plati plate: useful
+Plati shield: useful
+Poison: useful
+Pot: useful
+Potion: useful
+Pounder rod: useful
+Power brace: useful
+Power cape: useful
+Power gourd: useful
+Power jacket: useful
+Power potion: useful
+Power ring: useful
+Power robe: useful
+Protect ring: useful
+Pumkin jewel: useful
+Quilted silk: useful
+Rainy ax: useful
+Rally: useful
+Rapier: useful
+Red beret: useful
+Red saber: useful
+Regain: useful
+Revive armor: useful
+Robe: useful
+Rock helmet: useful
+Rockbreaker: useful
+Rocket ring: useful
+Rod: useful
+Roomy helmet: useful
+Round shield: useful
+Royal dress: useful
+Royal whip: useful
+Rune gloves: useful
+Rune rapier: useful
+Ruse armor: useful
+S-mind ring: useful
+S-myst ring: useful
+S-power ring: useful
+S-pro ring: useful
+S-witch ring: useful
+SULLY: progression
+Safety hat: useful
+Samu jewel: useful
+Scimitar: useful
+Sea ring: useful
+Secret fruit: useful
+Selan: progression
+Shade hat: useful
+Shield: useful
+Short sword: useful
+Shriek: useful
+Silk robe: useful
+Silk toga: useful
+Silver armor: useful
+Silver eye: useful
+Silver hat: useful
+Silver mail: useful
+Silver robe: useful
+Silver rod: useful
+Silver sword: useful
+SilverHelmet: useful
+Silvo rapier: useful
+Silvo shield: useful
+Sizzle sword: useful
+Sky sword: useful
+Slash shield: useful
+Sleep ball: useful
+Sleep rod: useful
+Small knife: useful
+Small shield: useful
+Smoke ball: useful
+Snake rock: useful
+Snow sword: useful
+Song rock: useful
+Sonic ring: useful
+Sour cider: useful
+Spark staff: useful
+Spark: useful
+Spear: useful
+Speed potion: useful
+Speedy ring: useful
+Spell potion: useful
+Spido jewel: useful
+Spike shield: useful
+Staff: useful
+Stone helmet: useful
+Stone plate: useful
 Strong: useful
 Stronger: useful
-Champion: useful
-Poison: useful
-Rally: useful
+Stun gun: useful
+SuhrCustom11: useful
+Super sword: useful
+Superdriver: useful
+Tall shield: useful
+Tect buckler: useful
+Tecto gloves: useful
+Terror ball: useful
+Thick cloth: useful
+Thunder ax: useful
+Thunder ring: useful
+Thunder: useful
+Thundo jewel: useful
+Tia: progression
+Tidal jewel: useful
+Tight dress: useful
+Tight helmet: useful
+Tight turban: useful
+Toga: useful
+Tough gloves: useful
+Tough hide: useful
+Trick ring: useful
+Trick: useful
+Trident: useful
+Tuff buckler: useful
+Turban: useful
+Twist jewel: useful
+Undead ring: useful
+Uni jewel: useful
 Valor: useful
-Fry: useful
-Zap: useful
-Shield: useful
+Vice pliers: useful
+Vortex: useful
 Waken: useful
+War rapier: useful
+Water gaunt: useful
+Water jewel: useful
+Water ring: useful
+Water spear: useful
+Whip: useful
+Wire: useful
+Witch ring: useful
+Wood helmet: useful
+Wood shield: useful
+ZEPPY: progression
+Zap: useful
+Zirco ax: useful
+Zirco band: useful
+Zirco flail: useful
+Zirco gloves: useful
+Zirco helmet: useful
+Zirco rod: useful
+Zirco shield: useful
+Zirco sword: useful
+Zirco whip: useful
+Zircon armor: useful
+Zircon plate: useful
