@@ -2,7 +2,7 @@ A.Leaf: unknown
 Angelfish / Soul of Shield: progression
 Angelfish 2: filler
 Angelfish 3: filler
-Angelfish 4: unknown
+Angelfish 4: filler
 Angelfish: filler
 Architect (stairs to Leo's house): progression
 Bird (gives Red-Hot Mirror): progression
@@ -23,19 +23,19 @@ Cat 3: filler
 Cat 4: filler
 Chest of Drawers (Herb storage): progression
 Chest of Drawers (gives Mystic Armor): progression
-Chest of Drawers: unknown
+Chest of Drawers: progression
 Critical Sword: useful
 Crocodile (to Deer): progression
 Dancing Grandma 1: progression
 Dancing Grandma 2: progression
 Deer (unlocks Magic Bell crystal): progression
-Delicious Seeds: unknown
+Delicious Seeds: progression
 Dog 2: unknown
 Dog 4: filler
 Dog 5: filler
 Dog: filler
 Doll: filler
-Dolphin (leading to Big Pearl chest): unknown
+Dolphin (leading to Big Pearl chest): progression
 Dolphin (saves Lue from prison): progression
 Dolphin (unlocks north-eastern platform): progression
 Dolphin: filler
@@ -66,12 +66,12 @@ Goat 2: filler
 Goat's Food: filler
 Grandma: filler
 Grandpa (leads to Lune): progression
-Grandpa (unlocks Nome's prison): unknown
+Grandpa (unlocks Nome's prison): progression
 Grandpa (unlocks south-eastern lake): progression
 Grandpa (unlocks south-western tunnel): progression
 Grandpa 2: filler
-Grandpa: unknown
-Great Door (to Model Town room): unknown
+Grandpa: filler
+Great Door (to Model Town room): progression
 Great Door (to Zantetsu Sword chest): progression
 Great Door / Soul of Detection: progression
 Green Stone: mcguffin
@@ -82,7 +82,7 @@ Ice Armor: progression
 Iron Armor: progression
 Ivy (leads to the 2-chest room): progression
 Ivy (to Emblem A tile): progression
-Ivy (to Recovery Sword crystal): unknown
+Ivy (to Recovery Sword crystal): progression
 Ivy (to south-eastern Grass Valley): progression
 Ivy 2: filler
 King Magridd (leads to Act 7): progression
@@ -91,9 +91,9 @@ Leo's sleeping Cat (gives Door Key): progression
 Light Armor: progression
 Light Arrow: useful
 Lisa: progression
-Locked Door to south-western room: unknown
+Locked Door to south-western room: progression
 Lonely Goat: filler
-Lucky Blade: unknown
+Lucky Blade: useful
 Lue (gives Thunder Ring): progression
 Magic Armor: progression
 Magic Bell: useful
@@ -105,7 +105,7 @@ Marie (leads to Act 6): progression
 Medical Herb: filler
 Mermaid (gives Bubble Armor): progression
 Mermaid (gives Magic Flare): progression
-Mermaid (gives Medical Herb): unknown
+Mermaid (gives Medical Herb): progression
 Mermaid (gives Red-Hot Stick): progression
 Mermaid (unlocks Lue's prison): progression
 Mermaid 2: filler
@@ -118,10 +118,10 @@ Mermaid 8: filler
 Mermaid 9: filler
 Mermaid Nana: filler
 Mermaid Queen (leads to Act 4): progression
-Mermaid Statue (leading to Blester): unknown
+Mermaid Statue (leading to Blester): progression
 Mermaid Statue (leading to Durean): progression
 Mermaid Statue (leading to Ghost Ship): progression
-Mermaid Statue (leading to Rockbird): unknown
+Mermaid Statue (leading to Rockbird): progression
 Mermaid by the Mermaid Tears chest: unknown
 Mermaid's Tears: progression
 Model Town 1: progression
@@ -132,16 +132,16 @@ Mole 2: filler
 Mole's Ribbon: progression
 Monmo the Mole: progression
 Monmo's hole: progression
-Mountain King (gives Phoenix): unknown
+Mountain King (gives Phoenix): progression
 Mouse (gives Spark Bomb): progression
 Mouse (unlocks Mouse hole): progression
 Mouse 2: filler
-Mouse 3: unknown
+Mouse 3: filler
 Mouse 4: filler
 Mouse 5: filler
 Mushroom (unlocks southern tunnel): progression
 Mushroom 3: unknown
-Mushroom Shoes: unknown
+Mushroom Shoes: progression
 Mushroom: filler
 Mystic Armor: progression
 Nome (leads to Act 5): progression
@@ -152,7 +152,7 @@ Old Man: filler
 Old Woman (Village Chief's house): progression
 Phoenix: unknown
 Plant (gives Actinidia Leaves): progression
-Plant (gives Medical Herbs): unknown
+Plant (gives Medical Herbs): progression
 Plant 2: filler
 Plant: filler
 Platinum Card: progression
@@ -163,14 +163,14 @@ Queen Magridd (gives VIP Card): progression
 Recovery Sword: useful
 Red-Hot Ball: progression
 Red-Hot Mirror: progression
-Red-Hot Stick: unknown
+Red-Hot Stick: progression
 Rotator: useful
 Second Cat in Leo's Lab main room: progression
 Second Crocodile (to sleepy bird): progression
 Shield Bracelet: useful
 Silver Stone: mcguffin
 Singer (unlocks concert hall): progression
-Singer: unknown
+Singer: progression
 Sleeping Dolphin (unlocks secret cave): progression
 Sleeping Mushroom (unlocks lair in Lune): progression
 Sleeping Soldier (gives Elemental Mail): progression
@@ -184,9 +184,9 @@ Snail: filler
 Soldier (Dok; accompanies Dr. Leo): progression
 Soldier (accompanies Dr. Leo): progression
 Soldier (guarding Left Tower): progression
-Soldier (guarding Right Tower): unknown
+Soldier (guarding Right Tower): progression
 Soldier (has Platinum Card): progression
-Soldier (unlocks Magridd Castle): unknown
+Soldier (unlocks Magridd Castle): progression
 Soldier / Soul of Reality: progression
 Soldier 10: filler
 Soldier 11: filler
@@ -210,10 +210,10 @@ Spirit Sword: progression
 Squirrel (gives Emblem C): progression
 Squirrel (leads to Ice Armor chest): progression
 Squirrel (trades Psycho Sword): progression
-Squirrel 2: unknown
+Squirrel 2: filler
 Squirrel: filler
-Stairs (to Power Plant): unknown
-Steps (to Marie's attic): unknown
+Stairs (to Power Plant): progression
+Steps (to Marie's attic): progression
 Steps (to second floor): progression
 Strange Bottle: filler
 Super Bracelet: useful
@@ -234,8 +234,8 @@ Woodstin Trio deer: progression
 Woodstin Trio dog: progression
 Woodstin Trio squirrel: progression
 Zantetsu Sword: progression
-a door key: unknown
-a mobile key: unknown
+a door key: progression
+a mobile key: progression
 a pass: progression
-the Big Pearl: unknown
-the VIP Card: unknown
+the Big Pearl: progression
+the VIP Card: progression
