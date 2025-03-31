@@ -396,7 +396,7 @@ Recipe: Encased Industrial Beam: progression
 Recipe: Encased Industrial Pipe: progression
 Recipe: Encased Plutonium Cell: progression
 Recipe: Encased Uranium Cell: progression
-Recipe: Explosive Rebar: unknown
+Recipe: Explosive Rebar: useful
 Recipe: Fabric: progression
 Recipe: Factory Cart: unknown
 Recipe: Fertile Uranium: progression
