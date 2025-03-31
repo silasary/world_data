@@ -26,6 +26,7 @@ Billiards Boo (Boohoo): mcguffin
 Billiards Key: progression
 Bomb: trap
 Boneyard Key: unknown
+Bonk Trap: trap
 Boo Radar: progression
 Boolossus MiniBoo 10: unknown
 Boolossus MiniBoo 11: unknown
@@ -60,10 +61,11 @@ Diamond: useful
 Dining Room Boo (Boodacious): unknown
 Dining Room Key: progression
 Emerald: filler
-Family Hallway Key: unknown
+Family Hallway Key: useful
 Fire Element Medal: progression
 Fortune Teller Boo (Booigi): mcguffin
 Fortune Teller Key: useful
+Ghost: filler
 Gold Diamond: filler
 Guest Room Boo (Boonita): mcguffin
 Heart Key: progression
@@ -94,11 +96,12 @@ Nothing: filler
 Nursery Boo (TurBoo): mcguffin
 Nursery Key: progression
 Parlor Boo (BamBoo): mcguffin
-Parlor Key: unknown
+Parlor Key: useful
 Pipe Room Boo (Booffant): mcguffin
 Pipe Room Key: unknown
 Poison Mushroom: trap
 Poltergust 4000: useful
+Possession Trap: trap
 Projection Room Boo (ShamBoo): mcguffin
 Rec Room Boo (Booregard): mcguffin
 Ruby: filler
@@ -119,6 +122,6 @@ Tea Room Key: progression
 Telephone Room Boo (Boomerang): mcguffin
 Telephone Room Key: progression
 Twin's Room Boo (Booris): mcguffin
-Twins Bedroom Key: unknown
+Twins Bedroom Key: useful
 Wardrobe Boo (GameBoo Advance): mcguffin
 Water Element Medal: progression
