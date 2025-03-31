@@ -4,7 +4,7 @@
 Apples: filler
 Bathhouse Cassette: unknown
 Bathhouse Fish: unknown
-Bathhouse Flower: unknown
+Bathhouse Flower: progression
 Bathhouse Key: progression
 Bathhouse Seed: unknown
 Bathhouse Ticket: progression
@@ -18,6 +18,7 @@ Gary's Garden Ticket: progression
 Hairball City Cassette: progression
 Hairball City Fish: progression
 Hairball City Key: progression
+Hairball City Seed: unknown
 Hairball City Ticket: progression
 Iron Boots Trap: trap
 Key: progression
