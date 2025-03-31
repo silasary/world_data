@@ -145,7 +145,7 @@ Bundle: Blade Runners: useful
 Bundle: Blue Power Slug: unknown
 Bundle: Boom Box: unknown
 Bundle: Cable: filler
-Bundle: Caterium Ingot: unknown
+Bundle: Caterium Ingot: filler
 Bundle: Caterium Ore: filler
 Bundle: Chainsaw: unknown
 Bundle: Circuit Board: unknown
@@ -161,7 +161,7 @@ Bundle: Copper Ingot: filler
 Bundle: Copper Ore: unknown
 Bundle: Copper Powder: unknown
 Bundle: Copper Sheet: filler
-Bundle: Crystal Oscillator: unknown
+Bundle: Crystal Oscillator: filler
 Bundle: Cup (gold): unknown
 Bundle: Cup: filler
 Bundle: Diamonds: unknown
@@ -208,7 +208,7 @@ Bundle: Modular Engine: filler
 Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
-Bundle: Neural-Quantum Processor: unknown
+Bundle: Neural-Quantum Processor: filler
 Bundle: Nobelisk Detonator: unknown
 Bundle: Nobelisk: useful
 Bundle: Non-fissile Uranium: filler
@@ -217,7 +217,7 @@ Bundle: Nuke Nobelisk: unknown
 Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: unknown
-Bundle: Packaged Fuel: unknown
+Bundle: Packaged Fuel: filler
 Bundle: Packaged Heavy Oil Residue: unknown
 Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
@@ -428,7 +428,7 @@ Recipe: Heavy Modular Frame: progression
 Recipe: Heavy Oil Residue: unknown
 Recipe: High-Speed Connector: progression
 Recipe: Hog Protein: progression
-Recipe: Homing Rifle Ammo: unknown
+Recipe: Homing Rifle Ammo: useful
 Recipe: Infused Uranium Cell: unknown
 Recipe: Instant Plutonium Cell: useful
 Recipe: Instant Scrap: progression
@@ -565,7 +565,7 @@ Recipe: Turbo Electric Motor: unknown
 Recipe: Turbo Heavy Fuel: unknown
 Recipe: Turbo Motor: unknown
 Recipe: Turbo Pressure Motor: progression
-Recipe: Turbo Rifle Ammo (Packaged): unknown
+Recipe: Turbo Rifle Ammo (Packaged): useful
 Recipe: Turbo Rifle Ammo: useful
 Recipe: Turbofuel: unknown
 Recipe: Uranium Fuel Rod: progression
