@@ -71,7 +71,7 @@ Stage:Black Comet: progression
 Stage:Black Doom Cosmic Fall: progression
 Stage:Black Doom Final Haunt: unknown
 Stage:Black Doom Gun Fortress: unknown
-Stage:Blue Falcon: unknown
+Stage:Blue Falcon: progression
 Stage:Central City: progression
 Stage:Circus Park: progression
 Stage:Cosmic Fall: unknown
@@ -98,7 +98,7 @@ Stage:Lost Impact: progression
 Stage:Mad Matrix: progression
 Stage:Prison Island: progression
 Stage:Sky Troops: progression
-Stage:Space Gadget: unknown
+Stage:Space Gadget: progression
 Stage:The Ark: progression
 Stage:The Doom: progression
 Stage:Westopolis: unknown
@@ -117,7 +117,7 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
-Weapon:4-Shot RPG: unknown
+Weapon:4-Shot RPG: progression
 Weapon:8-Shot RPG: unknown
 Weapon:Bazooka: progression
 Weapon:Big Barrel: progression
