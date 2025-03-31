@@ -5,6 +5,7 @@ Apples: filler
 Bathhouse Fish: unknown
 Bathhouse Key: progression
 Bathhouse Ticket: progression
+Bugs: unknown
 Cassette: mcguffin
 Coin: mcguffin
 Freeze Trap: trap
@@ -21,8 +22,10 @@ Public Pool Cassette: progression
 Public Pool Key: progression
 Public Pool Ticket: progression
 Salmon Creek Forest Key: progression
+Salmon Creek Forest Seed: unknown
 Salmon Creek Forest Ticket: progression
 Super Jump: unknown
+Tadpole HQ Cassette: unknown
 Tadpole HQ Key: progression
 Tadpole HQ Ticket: progression
 Turbine Town Cassette: progression
