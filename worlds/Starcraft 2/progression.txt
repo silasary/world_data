@@ -74,7 +74,7 @@ Arc Inducers (Stalwart): useful
 Ares-Class Targeting System (Goliath): useful
 Argus Jewel (Corsair): useful
 Argus Talisman (Dark Archon): useful
-Armor Melting Blasters (Oppressor): unknown
+Armor Melting Blasters (Oppressor): useful
 Armored Suit Module (Nova Suit Module): progression
 Artillery Ducts (Bile Launcher): useful
 Ascendant: progression
@@ -149,7 +149,7 @@ Cloak (Battlecruiser): useful
 Cloak (Liberator): filler
 Cloak (Predator): filler
 Cloaking Module (Sentry/Energizer/Havoc): useful
-Cloud Dispersal (Infested Liberator): unknown
+Cloud Dispersal (Infested Liberator): progression
 Colossus: progression
 Combat Carapace (Pygalisk): useful
 Combat Drugs (Reaper): filler
@@ -189,7 +189,7 @@ Decreased Maximum Supply: trap
 Deep Tunnel (Infested Siege Tank): unknown
 Deep Tunnel (Ravager): useful
 Deep Tunnel (Swarm Queen): useful
-Defender Mode (Infested Liberator): unknown
+Defender Mode (Infested Liberator): progression
 Defensive Matrix (Science Vessel): useful
 Defiler: progression
 Deploy Fenix (Spear of Adun Calldown): progression
@@ -326,7 +326,7 @@ Hydralisk: progression
 Hydriodic Bile (Roach): useful
 Hyperflight Rotors (Banshee): filler
 Hyperfluxor (Diamondback): useful
-Immobilization Wave (Kerrigan Ability): unknown
+Immobilization Wave (Kerrigan Ability): useful
 Immortal: progression
 Impaler Aspect (Hydralisk): progression
 Impaler Rounds (Spectre): useful
@@ -343,7 +343,7 @@ Indomitable Will (Dark Archon): unknown
 Induce Scopophobia (Observer): useful
 Infernal Plating (Hellion): useful
 Infernal Pre-Igniter (Firebat): useful
-Infest Broodlings (Kerrigan Passive): unknown
+Infest Broodlings (Kerrigan Passive): progression
 Infest Broodlings (Kerrigan Tier 6): progression
 Infested Banshee: unknown
 Infested Banshees: useful
@@ -397,7 +397,7 @@ Khalai Takeover (Hive Mind Emulator): unknown
 Khaydarin Amulet (High Templar/Signifier): useful
 Khaydarin Core (Arbiter): useful
 Khaydarin Monolith: progression
-Kinetic Blast (Kerrigan Ability): unknown
+Kinetic Blast (Kerrigan Ability): progression
 Kinetic Blast (Kerrigan Tier 1): progression
 Kinetic Foam (Firebat): useful
 Kinetic Foam (HERC): useful
@@ -461,13 +461,14 @@ Monstrous Resilience (Corruptor): unknown
 Mothership: progression
 Multi-Lock Weapons System (Goliath): useful
 Muscular Augments (Hydralisk): useful
+Mutagen Vents (Bullfrog): useful
 Mutalisk: progression
 Nano Projector (Medic): filler
 Nano Projectors (Firebat): useful
 Neosteel Bunker (Bunker): useful
 Network Disruption (Corsair): useful
 Neutron Shields (Corsair): filler
-Nexus Overcharge (Protoss): unknown
+Nexus Overcharge (Protoss): progression
 Nexus Overcharge: useful
 Nothing: trap
 Noxious Strain (Ultralisk): filler
@@ -746,7 +747,7 @@ Solar Bombardment (Spear of Adun Calldown): useful
 Solar Lance (Spear of Adun Calldown): progression
 Solarite Lens (Dawnbringer): unknown
 Solarite Payload (Reaver): useful
-Solarite Reactor (Caladrius): unknown
+Solarite Reactor (Caladrius): useful
 Sonic Disrupter (Psi Disrupter): progression
 Soronan Acid (Guardian): useful
 Soul Augmentation (Supplicant): filler
@@ -777,7 +778,7 @@ Stim Infusion (Nova Gadget): progression
 Stimpack (Pygalisk): unknown
 Structure Armor (Terran): useful
 Structure Armor: useful
-Strut Enhancements (Stalwart): unknown
+Strut Enhancements (Stalwart): useful
 Subterranean Scales (Nydus Worm/Echidna Worm): unknown
 Suffused With Vermin (Bullfrog): useful
 Sundering Glaive (Mutalisk): useful
