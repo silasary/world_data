@@ -179,7 +179,7 @@ Bundle: Factory Cart: filler
 Bundle: Ficsite Ingot: filler
 Bundle: Flower Petals: filler
 Bundle: Fused Modular Frame: unknown
-Bundle: Gas Filter: unknown
+Bundle: Gas Filter: filler
 Bundle: Gas Mask: unknown
 Bundle: Gas Nobelisk: unknown
 Bundle: Golden Nut Statue: unknown
