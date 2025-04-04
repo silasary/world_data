@@ -278,7 +278,7 @@ Bundle: Sulfur: unknown
 Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
-Bundle: Turbo Motor: unknown
+Bundle: Turbo Motor: filler
 Bundle: Turbo Rifle Ammo: filler
 Bundle: Uranium Fuel Rod: unknown
 Bundle: Uranium Waste: unknown
@@ -496,7 +496,7 @@ Recipe: Power Shard (2): useful
 Recipe: Power Shard (5): progression
 Recipe: Pressure Conversion Cube: progression
 Recipe: Protein Inhaler: unknown
-Recipe: Pulse Nobelisk: unknown
+Recipe: Pulse Nobelisk: progression
 Recipe: Pure Aluminum Ingot: progression
 Recipe: Pure Caterium Ingot: useful
 Recipe: Pure Copper Ingot: useful
