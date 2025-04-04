@@ -334,6 +334,7 @@ Recipe: Alumina Solution: progression
 Recipe: Aluminum Beam: progression
 Recipe: Aluminum Casing: progression
 Recipe: Aluminum Ingot: progression
+Recipe: Aluminum Rod: unknown
 Recipe: Aluminum Scrap: unknown
 Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
