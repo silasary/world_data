@@ -191,7 +191,7 @@ Bundle: Heat Sink: unknown
 Bundle: Heavy Modular Frame: useful
 Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
-Bundle: Homing Rifle Ammo: unknown
+Bundle: Homing Rifle Ammo: filler
 Bundle: Hover Pack: useful
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
