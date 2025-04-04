@@ -55,6 +55,7 @@ Unlock: The Arcane Threshold: unknown
 Unlock: The Clandestine Passage: progression
 Unlock: The Cloaked Entrance: unknown
 Unlock: The Cloaked Threshold: progression
+Unlock: The Cloaked Vault: unknown
 Unlock: The Concealed Threshold: progression
 Unlock: The Concealed Vault: progression
 Unlock: The Cryptic Chamber: progression
@@ -70,9 +71,11 @@ Unlock: The Enigmatic Threshold: unknown
 Unlock: The Faded Gateway: unknown
 Unlock: The Faint Doorway: progression
 Unlock: The Faint Path: progression
+Unlock: The Faint Threshold: unknown
 Unlock: The Forgotten Door: progression
 Unlock: The Forgotten Gateway: progression
 Unlock: The Forgotten Portal: unknown
+Unlock: The Forgotten Threshold: unknown
 Unlock: The Ghosted Passageway: progression
 Unlock: The Ghostly Passage: progression
 Unlock: The Hidden Archway: progression
