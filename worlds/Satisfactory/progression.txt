@@ -340,6 +340,7 @@ Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
 Recipe: Automated Speed Wiring: progression
 Recipe: Automated Wiring: progression
+Recipe: Ballistic Warp Drive: unknown
 Recipe: Basic Iron Ingot: unknown
 Recipe: Battery: useful
 Recipe: Beacon: useful
