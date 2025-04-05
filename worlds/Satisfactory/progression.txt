@@ -482,7 +482,7 @@ Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
 Recipe: Parachute: unknown
 Recipe: Petroleum Coke: progression
-Recipe: Petroleum Diamonds: unknown
+Recipe: Petroleum Diamonds: progression
 Recipe: Pink Diamonds: progression
 Recipe: Plastic AI Limiter: progression
 Recipe: Plastic Smart Plating: useful
