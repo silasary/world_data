@@ -120,7 +120,7 @@ Building: Walls Metal: unknown
 Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
-Bundle: AI Expansion Server: unknown
+Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: unknown
 Bundle: Adaptive Control Unit: filler
 Bundle: Adequate Pioneering Statue: unknown
@@ -552,7 +552,7 @@ Recipe: Steel Screw: useful
 Recipe: Steeled Frame: unknown
 Recipe: Stinger Protein: unknown
 Recipe: Stitched Iron Plate: progression
-Recipe: Stun Rebar: unknown
+Recipe: Stun Rebar: useful
 Recipe: Sulfuric Acid: progression
 Recipe: Super-State Computer: unknown
 Recipe: Supercomputer: useful
