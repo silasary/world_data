@@ -529,7 +529,7 @@ Recipe: Rubber Concrete: unknown
 Recipe: Rubber: unknown
 Recipe: Screw: unknown
 Recipe: Shatter Rebar: useful
-Recipe: Silica: unknown
+Recipe: Silica: progression
 Recipe: Silicon Circuit Board: progression
 Recipe: Silicon High-Speed Connector: progression
 Recipe: Singularity Cell: progression
