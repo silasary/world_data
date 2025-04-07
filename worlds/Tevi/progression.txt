@@ -45,7 +45,7 @@ C. Count Frenzy: Preemptive: filler
 C. Count Frenzy: Uprise: unknown
 C. Rank Frenzy: Attack: useful
 C. Rank Frenzy: Defend: filler
-C. Rank Frenzy: Fierce: unknown
+C. Rank Frenzy: Fierce: filler
 C. Rank Frenzy: Focus A: useful
 C. Rank Frenzy: Focus MAX: useful
 C. Rank Frenzy: Focus S: unknown
@@ -60,7 +60,7 @@ Celia Type-C: Barrage: filler
 Celia Type-C: Panoptic: filler
 Celia: progression
 Cherry Bunny Potion: useful
-Cloud Bomb: unknown
+Cloud Bomb: useful
 Cluster Bomb: progression
 Cocoa Truffles: unknown
 Coffee Break: unknown
@@ -237,7 +237,7 @@ Quick Bomber: filler
 Quick Break: unknown
 Quickstab: Flurry: unknown
 Quickstab: Lightning: unknown
-Quickstab: Sunder: unknown
+Quickstab: Sunder: filler
 Rabi Boots: progression
 Rainbow Bunny Potion: useful
 Rainbowba: unknown
@@ -313,7 +313,7 @@ Thick Pillar: filler
 Titanium Spanner: unknown
 Toasted Meringue Waffle: filler
 Tornado Spin: Flurry: useful
-Tornado Spin: Grav Reversal: unknown
+Tornado Spin: Grav Reversal: filler
 Tornado Spin: Pressure: filler
 Trinketeer's Fortune: useful
 Triple Threat: unknown
