@@ -161,6 +161,7 @@ Combat Drugs (Reaper): filler
 Combat Sensor Array (Scout): useful
 Combat Sensor Array (Scout/Oppressor/Caladrius/Mist Wing): unknown
 Combat Shield (Marine): progression
+Command Center Reactor (Command Center): useful
 Command Center Reactor: useful
 Comorbidity (Defiler): unknown
 Compressed Rocket Fuel (Liberator): unknown
@@ -648,7 +649,7 @@ Rapid Metamorph (Baneling): useful
 Rapid Power Cycling (Wrathwalker): useful
 Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
 Rapid Regeneration (Mutalisk): useful
-Rapid Reignition Systems (Medivac): unknown
+Rapid Reignition Systems (Medivac): filler
 Rapid Reinforcement (Terran/Zerg): unknown
 Rapid Reload (Thor): unknown
 Rapid-Fire Cannon (Vanguard): unknown
