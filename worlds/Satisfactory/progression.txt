@@ -612,3 +612,4 @@ Trap: Hog: unknown
 Trap: Not the Bees: trap
 Trap: Nuclear Waste Drop: trap
 Trap: Small Stinger: trap
+Trap: Stinger: trap
