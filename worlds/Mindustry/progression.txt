@@ -14,6 +14,7 @@ Core: Foundation: unknown
 Cryofluid Mixer: unknown
 Cyclone: unknown
 Disperse: unknown
+Door: unknown
 Duct Router: unknown
 Eruption Drill: unknown
 Force Projector: unknown
@@ -86,6 +87,7 @@ Smite: unknown
 Spore Press: unknown
 Sublimate: unknown
 Surge Smelter: unknown
+Surge Tower: unknown
 Surge Wall: unknown
 Swarmer: unknown
 Thorium Wall: unknown
