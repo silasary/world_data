@@ -1,6 +1,6 @@
 Baby Daisy: useful
 Baby Luigi: useful
-Baby Mario: unknown
+Baby Mario: useful
 Baby Peach: trap
 Balloon Battle Access: progression
 Banana Cup Mirror: progression
@@ -9,12 +9,12 @@ Birdo: useful
 Bit Bike: progression
 Blue Falcon: useful
 Booster Seat: useful
-Bowser Jr.: unknown
+Bowser Jr.: useful
 Bowser: useful
 Bullet Bike: useful
 Cheep Charger: useful
 Classic Dragster: useful
-Coins Battle Access: unknown
+Coins Battle Access: progression
 Daisy: useful
 Daytripper: useful
 Diddy Kong: filler
@@ -46,10 +46,10 @@ Mii Outfit A: useful
 Mii Outfit B: useful
 Mini Beast: useful
 Mushroom Cup Mirror: progression
-Mushroom Cup: unknown
+Mushroom Cup: progression
 Offroader: useful
 Peach: useful
-Phantom: unknown
+Phantom: useful
 Piranha Prowler: useful
 Quacker: useful
 Rosalina: unknown
@@ -62,11 +62,11 @@ Special Cup Mirror: progression
 Special Cup: mcguffin
 Sprinter: useful
 Standard Bike L: useful
-Standard Bike M: unknown
+Standard Bike M: useful
 Standard Bike S: useful
 Standard Kart L: useful
 Standard Kart M: unknown
-Standard Kart S: unknown
+Standard Kart S: useful
 Star Cup Mirror: progression
 Star Cup: progression
 Sugarscoot: useful
