@@ -3,6 +3,7 @@ Airblast Drill: unknown
 Atmospheric Concentrator: unknown
 Basic Assembler Module: unknown
 Battery Diode: unknown
+Battery: unknown
 Blast Mixer: unknown
 Bridge Conduit: unknown
 Bridge Conveyor: unknown
@@ -55,10 +56,12 @@ Neoplasia Reactor: unknown
 Overdrive Dome: unknown
 Overdrive Projector: unknown
 Parallax: unknown
+Payload Router: unknown
 Phase Weaver: unknown
 Plastanium Compressor: unknown
 Plastanium Conveyor: unknown
 Plastanium Wall: unknown
+Plated Conduit: unknown
 Pneumatic Drill: progression
 Power Node: unknown
 Prime Refabricator: unknown
