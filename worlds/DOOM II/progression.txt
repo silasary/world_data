@@ -14,6 +14,7 @@ Bloodfalls (MAP25): progression
 Box of bullets: filler
 Box of rockets: filler
 Box of shotgun shells: filler
+Bullet capacity: unknown
 Chaingun: progression
 Chainsaw: progression
 Circle of Death (MAP11) - Blue keycard: progression
@@ -30,6 +31,7 @@ Downtown (MAP13) - Computer area map: filler
 Downtown (MAP13) - Red keycard: progression
 Downtown (MAP13) - Yellow keycard: progression
 Downtown (MAP13): progression
+Energy cell capacity: unknown
 Energy cell pack: filler
 Entryway (MAP01) - Complete: progression
 Entryway (MAP01) - Computer area map: filler
