@@ -27,7 +27,7 @@ Hail: unknown
 Illuminator: unknown
 Impact Drill: progression
 Incinerator: unknown
-Inverted Sorter: unknown
+Inverted Sorter: useful
 Junction: unknown
 Kiln: unknown
 Lancer: unknown
@@ -99,6 +99,7 @@ Surge Smelter: unknown
 Surge Tower: unknown
 Surge Wall: unknown
 Swarmer: unknown
+Switch: filler
 Thorium Wall: unknown
 Titanium Conveyor: unknown
 Tsunami: unknown
