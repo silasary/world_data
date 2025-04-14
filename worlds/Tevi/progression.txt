@@ -55,7 +55,7 @@ Celia Type-A: Beguile: filler
 Celia Type-A: Meteoric: filler
 Celia Type-A: Stunning: filler
 Celia Type-B: Halo: filler
-Celia Type-B: Prism: unknown
+Celia Type-B: Prism: filler
 Celia Type-C: Barrage: filler
 Celia Type-C: Panoptic: filler
 Celia: progression
@@ -335,4 +335,4 @@ Weak Dominance A: filler
 Weak Dominance B: useful
 Whimsical Waffle of Wonder: unknown
 Whipcrack: filler
-Windmill Strike: unknown
+Windmill Strike: useful
