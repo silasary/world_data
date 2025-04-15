@@ -37,6 +37,7 @@ Automap (E4M8): unknown
 Automap (E4M9): unknown
 Automap (E5M4): unknown
 Automap (E5M7): unknown
+Automap (E5M8): unknown
 Automap (MAP01): filler
 Automap (MAP02): unknown
 Automap (MAP03): unknown
@@ -89,6 +90,7 @@ BlueCard (MAP04): unknown
 BlueCard (MAP09): unknown
 BlueCard (MAP10): unknown
 BlueCard (MAP11): unknown
+BlueCard (MAP12): unknown
 BlueCard (MAP13): unknown
 BlueCard (MAP15): unknown
 BlueCard (MAP17): progression
@@ -155,6 +157,7 @@ Infrared: unknown
 InvulnerabilitySphere: unknown
 KeyBlue (E1M2): unknown
 KeyBlue (E1M5): unknown
+KeyBlue (E1M7): unknown
 KeyBlue (E1M9): unknown
 KeyBlue (E2M3): unknown
 KeyBlue (E2M4): unknown
