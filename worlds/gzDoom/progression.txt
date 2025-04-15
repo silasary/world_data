@@ -130,6 +130,7 @@ ChexBlueCard (E2M1): useful
 ChexBlueCard (E2M3): progression
 ChexBlueCard (E2M4): unknown
 ChexBlueCard (E3M1): unknown
+ChexBlueCard (E3M3): unknown
 ChexBlueCard (E3M4): unknown
 ChexRedCard (E1M1): progression
 ChexRedCard (E1M3): unknown
@@ -200,6 +201,7 @@ KeyGreen (E3M3): unknown
 KeyGreen (E3M4): unknown
 KeyGreen (E3M5): progression
 KeyGreen (E3M6): useful
+KeyGreen (E3M7): unknown
 KeyGreen (E3M9): unknown
 KeyGreen (E4M1): unknown
 KeyGreen (E4M3): unknown
