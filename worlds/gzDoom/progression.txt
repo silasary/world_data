@@ -137,6 +137,7 @@ ChexRedCard (E3M3): unknown
 ChexYellowCard (E1M2): unknown
 ChexYellowCard (E1M5): unknown
 ChexYellowCard (E2M2): unknown
+ChexYellowCard (E2M4): unknown
 ChexYellowCard (E2M5): unknown
 ChexYellowCard (E3M1): unknown
 ChexYellowCard (E3M3): progression
@@ -339,6 +340,7 @@ RedCard (E2M2): unknown
 RedCard (E2M7): unknown
 RedCard (MAP03): unknown
 RedCard (MAP05): unknown
+RedCard (MAP11): unknown
 RedCard (MAP15): unknown
 RedCard (MAP17): unknown
 RedCard (MAP24): progression
