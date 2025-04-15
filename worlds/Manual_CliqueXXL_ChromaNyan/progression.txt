@@ -56,6 +56,7 @@ Button Activation 207: unknown
 Button Activation 208: unknown
 Button Activation 20: unknown
 Button Activation 210: unknown
+Button Activation 212: unknown
 Button Activation 213: unknown
 Button Activation 215: unknown
 Button Activation 216: unknown
@@ -123,6 +124,7 @@ Button Activation 33: unknown
 Button Activation 341: unknown
 Button Activation 345: unknown
 Button Activation 346: unknown
+Button Activation 347: unknown
 Button Activation 348: unknown
 Button Activation 349: unknown
 Button Activation 350: unknown
@@ -245,6 +247,7 @@ Button Activation 572: unknown
 Button Activation 574: unknown
 Button Activation 575: unknown
 Button Activation 578: unknown
+Button Activation 580: unknown
 Button Activation 584: unknown
 Button Activation 585: unknown
 Button Activation 593: unknown
@@ -307,6 +310,7 @@ Button Activation 688: unknown
 Button Activation 689: unknown
 Button Activation 68: unknown
 Button Activation 693: unknown
+Button Activation 695: unknown
 Button Activation 696: unknown
 Button Activation 697: progression
 Button Activation 698: unknown
@@ -421,6 +425,7 @@ Button Activation 89: unknown
 Button Activation 900: unknown
 Button Activation 901: unknown
 Button Activation 909: unknown
+Button Activation 90: unknown
 Button Activation 911: unknown
 Button Activation 912: unknown
 Button Activation 914: unknown
@@ -430,6 +435,7 @@ Button Activation 926: unknown
 Button Activation 927: unknown
 Button Activation 929: unknown
 Button Activation 930: progression
+Button Activation 933: unknown
 Button Activation 934: unknown
 Button Activation 937: unknown
 Button Activation 939: unknown
@@ -455,6 +461,7 @@ Button Activation 969: unknown
 Button Activation 96: unknown
 Button Activation 970: unknown
 Button Activation 971: unknown
+Button Activation 972: unknown
 Button Activation 973: unknown
 Button Activation 975: unknown
 Button Activation 976: unknown
