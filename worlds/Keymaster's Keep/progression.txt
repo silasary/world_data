@@ -51,7 +51,7 @@ Stormcall Key: progression
 Stormcloud Key: progression
 Unlock: The Arcane Door: progression
 Unlock: The Arcane Passage: progression
-Unlock: The Arcane Threshold: unknown
+Unlock: The Arcane Threshold: progression
 Unlock: The Clandestine Passage: progression
 Unlock: The Cloaked Entrance: unknown
 Unlock: The Cloaked Threshold: progression
@@ -105,7 +105,7 @@ Unlock: The Obscured Vault: unknown
 Unlock: The Phantom Passage: unknown
 Unlock: The Phantom Vault: progression
 Unlock: The Quiet Archway: progression
-Unlock: The Quiet Threshold: unknown
+Unlock: The Quiet Threshold: progression
 Unlock: The Sealed Chamber: progression
 Unlock: The Sealed Gateway: progression
 Unlock: The Sealed Threshold: progression
