@@ -1,0 +1,70 @@
+Armor (+1): useful
+Backpack: useful
+Button: unknown
+Cell Ammo (+1): filler
+Dive: progression
+Door: progression
+Exit: filler
+Green Armor: useful
+Heal (+1): useful
+Invulnerability: useful
+Jump Trap: trap
+Jump: progression
+Large Medkit: filler
+Megahealth: filler
+Mouse Trap: trap
+Nail Ammo (+1): useful
+Nothing: filler
+Progressive Backpack: progression
+Progressive Biosuit: progression
+Progressive Grenade Launcher: progression
+Progressive Invisibility: useful
+Progressive Invulnerability: useful
+Progressive Nailgun: progression
+Progressive Rocket Launcher: progression
+Progressive Shotgun: progression
+Progressive Super Nailgun: progression
+Progressive Super Shotgun: progression
+Progressive Thunderbolt: progression
+Red Armor: useful
+Rocket Ammo (+1): filler
+Rocket Damage Remover: unknown
+Rocket Jump: progression
+Run: progression
+Shotgun Ammo (+1): filler
+Small Medkit: filler
+Sound Trap: trap
+e1m1 Automap: useful
+e1m2 Automap: useful
+e1m2 Unlock: progression
+e1m3 Automap: useful
+e1m3 Gold Key: unknown
+e1m3 Unlock: progression
+e1m4 Automap: useful
+e1m4 Unlock: unknown
+e1m5 Automap: useful
+e1m5 Unlock: useful
+e1m6 Automap: useful
+e1m6 Silver Key: progression
+e1m6 Unlock: unknown
+e1m7 Automap: useful
+e1m7 Unlock: unknown
+e1m8 Automap: useful
+e1m8 Silver Key: progression
+e1m8 Unlock: unknown
+e2m1 Automap: useful
+e2m1 Silver Key: unknown
+e2m2 Automap: useful
+e2m2 Unlock: unknown
+e2m3 Automap: useful
+e2m3 Gold Key: progression
+e2m3 Unlock: unknown
+e2m4 Automap: useful
+e2m4 Unlock: useful
+e2m5 Automap: useful
+e2m5 Unlock: progression
+e2m6 Automap: useful
+e2m6 Unlock: progression
+e2m7 Automap: useful
+e2m7 Gold Key: progression
+e2m7 Unlock: unknown

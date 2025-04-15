@@ -1,0 +1,410 @@
+ArmorBonus: filler
+Automap (E1M1): filler
+Automap (E1M2): filler
+Automap (E1M3): filler
+Automap (E1M4): filler
+Automap (E1M5): filler
+Automap (E1M6): filler
+Automap (E1M7): filler
+Automap (E1M8): filler
+Automap (E1M9): filler
+Automap (E2M1): filler
+Automap (E2M2): filler
+Automap (E2M3): filler
+Automap (E2M4): filler
+Automap (E2M5): unknown
+Automap (E2M6): unknown
+Automap (E2M7): unknown
+Automap (E2M8): unknown
+Automap (E2M9): unknown
+Automap (E3M1): unknown
+Automap (E3M2): unknown
+Automap (E3M3): unknown
+Automap (E3M4): unknown
+Automap (E3M5): unknown
+Automap (E3M6): unknown
+Automap (E3M7): unknown
+Automap (E3M8): unknown
+Automap (E3M9): unknown
+Automap (E4M1): unknown
+Automap (E4M2): unknown
+Automap (E4M3): unknown
+Automap (E4M4): unknown
+Automap (E4M5): unknown
+Automap (E4M6): unknown
+Automap (E4M7): unknown
+Automap (E4M8): unknown
+Automap (E4M9): unknown
+Automap (E5M4): unknown
+Automap (E5M7): unknown
+Automap (MAP01): filler
+Automap (MAP02): unknown
+Automap (MAP03): unknown
+Automap (MAP04): unknown
+Automap (MAP05): unknown
+Automap (MAP06): unknown
+Automap (MAP07): unknown
+Automap (MAP08): unknown
+Automap (MAP09): unknown
+Automap (MAP10): unknown
+Automap (MAP11): unknown
+Automap (MAP12): unknown
+Automap (MAP13): unknown
+Automap (MAP14): unknown
+Automap (MAP15): unknown
+Automap (MAP16): unknown
+Automap (MAP17): unknown
+Automap (MAP18): unknown
+Automap (MAP19): unknown
+Automap (MAP20): unknown
+Automap (MAP21): unknown
+Automap (MAP22): unknown
+Automap (MAP23): unknown
+Automap (MAP24): unknown
+Automap (MAP25): unknown
+Automap (MAP26): unknown
+Automap (MAP27): unknown
+Automap (MAP28): unknown
+Automap (MAP29): unknown
+Automap (MAP30): unknown
+Automap (MAP31): unknown
+Automap (MAP32): unknown
+BFG 9000: progression
+Backpack: unknown
+BagOfHolding: useful
+Berserk: unknown
+BlueArmor: filler
+BlueCard (E1M3): progression
+BlueCard (E1M4): unknown
+BlueCard (E1M5): unknown
+BlueCard (E1M6): unknown
+BlueCard (E1M7): progression
+BlueCard (E1M9): unknown
+BlueCard (E2M1): progression
+BlueCard (E2M2): progression
+BlueCard (E2M3): unknown
+BlueCard (E2M7): progression
+BlueCard (MAP03): unknown
+BlueCard (MAP04): unknown
+BlueCard (MAP09): unknown
+BlueCard (MAP10): unknown
+BlueCard (MAP11): unknown
+BlueCard (MAP13): unknown
+BlueCard (MAP15): unknown
+BlueCard (MAP17): progression
+BlueCard (MAP24): unknown
+BlueCard (MAP26): unknown
+BlueSkull (E2M6): unknown
+BlueSkull (E2M9): progression
+BlueSkull (E3M2): unknown
+BlueSkull (E3M3): unknown
+BlueSkull (E3M4): unknown
+BlueSkull (E3M6): unknown
+BlueSkull (E3M7): unknown
+BlueSkull (E3M9): unknown
+BlueSkull (E4M1): unknown
+BlueSkull (E4M2): progression
+BlueSkull (E4M3): unknown
+BlueSkull (E4M5): unknown
+BlueSkull (E4M6): unknown
+BlueSkull (E4M7): progression
+BlueSkull (MAP18): unknown
+BlueSkull (MAP19): unknown
+BlueSkull (MAP22): unknown
+BlueSkull (MAP25): unknown
+BlurSphere: unknown
+Bullets: filler
+Chaingun: unknown
+Chainsaw: unknown
+Chaos Device: useful
+ChexArmor: useful
+ChexBlueCard (E1M1): progression
+ChexBlueCard (E1M3): unknown
+ChexBlueCard (E1M4): unknown
+ChexBlueCard (E1M5): unknown
+ChexBlueCard (E2M1): useful
+ChexBlueCard (E2M3): progression
+ChexBlueCard (E2M4): unknown
+ChexBlueCard (E3M1): unknown
+ChexBlueCard (E3M4): unknown
+ChexRedCard (E1M1): progression
+ChexRedCard (E1M3): unknown
+ChexRedCard (E2M1): progression
+ChexRedCard (E2M2): unknown
+ChexRedCard (E2M4): unknown
+ChexRedCard (E3M1): unknown
+ChexRedCard (E3M3): unknown
+ChexYellowCard (E1M2): unknown
+ChexYellowCard (E1M5): unknown
+ChexYellowCard (E2M2): unknown
+ChexYellowCard (E2M5): unknown
+ChexYellowCard (E3M1): unknown
+ChexYellowCard (E3M3): progression
+ChexYellowCard (E3M4): progression
+Dragon Claw: unknown
+EnchantedShield: useful
+Energy Cells: filler
+Ethereal Crossbow: unknown
+Firemace: unknown
+Gauntlets of the Necromancer: unknown
+GreenArmor: useful
+HealthBonus: filler
+Hellstaff: useful
+Infrared: unknown
+InvulnerabilitySphere: unknown
+KeyBlue (E1M2): unknown
+KeyBlue (E1M5): unknown
+KeyBlue (E1M9): unknown
+KeyBlue (E2M3): unknown
+KeyBlue (E2M4): unknown
+KeyBlue (E2M5): unknown
+KeyBlue (E2M7): unknown
+KeyBlue (E2M9): unknown
+KeyBlue (E3M2): unknown
+KeyBlue (E3M6): progression
+KeyBlue (E3M7): unknown
+KeyBlue (E4M2): unknown
+KeyBlue (E4M3): unknown
+KeyBlue (E4M5): unknown
+KeyBlue (E4M6): unknown
+KeyBlue (E4M7): unknown
+KeyBlue (E5M1): unknown
+KeyBlue (E5M6): unknown
+KeyBlue (E5M7): unknown
+KeyBlue (E5M9): progression
+KeyGreen (E1M2): unknown
+KeyGreen (E1M3): unknown
+KeyGreen (E1M4): unknown
+KeyGreen (E1M5): unknown
+KeyGreen (E1M9): unknown
+KeyGreen (E2M1): unknown
+KeyGreen (E2M2): unknown
+KeyGreen (E2M3): unknown
+KeyGreen (E2M4): unknown
+KeyGreen (E2M5): unknown
+KeyGreen (E2M7): progression
+KeyGreen (E2M9): unknown
+KeyGreen (E3M1): useful
+KeyGreen (E3M2): unknown
+KeyGreen (E3M4): unknown
+KeyGreen (E3M5): progression
+KeyGreen (E3M6): useful
+KeyGreen (E3M9): unknown
+KeyGreen (E4M1): unknown
+KeyGreen (E4M3): unknown
+KeyGreen (E4M5): unknown
+KeyGreen (E4M6): unknown
+KeyGreen (E4M7): unknown
+KeyGreen (E5M1): unknown
+KeyGreen (E5M2): progression
+KeyGreen (E5M3): unknown
+KeyGreen (E5M4): unknown
+KeyGreen (E5M5): progression
+KeyGreen (E5M6): unknown
+KeyGreen (E5M7): unknown
+KeyGreen (E5M9): unknown
+KeyYellow (E1M1): progression
+KeyYellow (E1M2): unknown
+KeyYellow (E1M4): unknown
+KeyYellow (E1M5): unknown
+KeyYellow (E1M7): unknown
+KeyYellow (E1M9): unknown
+KeyYellow (E2M1): unknown
+KeyYellow (E2M2): unknown
+KeyYellow (E2M3): unknown
+KeyYellow (E2M5): unknown
+KeyYellow (E2M7): unknown
+KeyYellow (E2M9): unknown
+KeyYellow (E3M1): unknown
+KeyYellow (E3M2): unknown
+KeyYellow (E3M3): unknown
+KeyYellow (E3M4): progression
+KeyYellow (E3M5): unknown
+KeyYellow (E3M6): progression
+KeyYellow (E3M7): progression
+KeyYellow (E3M9): unknown
+KeyYellow (E4M1): progression
+KeyYellow (E4M2): unknown
+KeyYellow (E4M3): unknown
+KeyYellow (E4M5): unknown
+KeyYellow (E4M7): unknown
+KeyYellow (E4M8): unknown
+KeyYellow (E4M9): unknown
+KeyYellow (E5M1): unknown
+KeyYellow (E5M2): unknown
+KeyYellow (E5M3): unknown
+KeyYellow (E5M5): unknown
+KeyYellow (E5M6): unknown
+KeyYellow (E5M7): unknown
+KeyYellow (E5M9): progression
+LAZ Device: unknown
+Large Zorcher: unknown
+Level Access (E1M1): progression
+Level Access (E1M2): progression
+Level Access (E1M3): unknown
+Level Access (E1M4): unknown
+Level Access (E1M5): unknown
+Level Access (E1M6): unknown
+Level Access (E1M7): unknown
+Level Access (E1M8): unknown
+Level Access (E1M9): progression
+Level Access (E2M1): progression
+Level Access (E2M2): unknown
+Level Access (E2M3): progression
+Level Access (E2M4): unknown
+Level Access (E2M5): progression
+Level Access (E2M7): unknown
+Level Access (E2M8): unknown
+Level Access (E2M9): progression
+Level Access (E3M1): progression
+Level Access (E3M2): unknown
+Level Access (E3M3): unknown
+Level Access (E3M4): progression
+Level Access (E3M5): progression
+Level Access (E3M8): progression
+Level Access (E3M9): unknown
+Level Access (E4M1): unknown
+Level Access (E4M2): unknown
+Level Access (E4M3): unknown
+Level Access (E4M4): progression
+Level Access (E4M5): unknown
+Level Access (E4M6): unknown
+Level Access (E4M7): unknown
+Level Access (E4M8): progression
+Level Access (E4M9): progression
+Level Access (E5M1): unknown
+Level Access (E5M2): progression
+Level Access (E5M3): unknown
+Level Access (E5M4): unknown
+Level Access (E5M5): unknown
+Level Access (E5M7): unknown
+Level Access (E5M8): unknown
+Level Access (E5M9): progression
+Level Access (MAP01): unknown
+Level Access (MAP02): unknown
+Level Access (MAP03): unknown
+Level Access (MAP04): unknown
+Level Access (MAP05): unknown
+Level Access (MAP07): unknown
+Level Access (MAP08): progression
+Level Access (MAP09): unknown
+Level Access (MAP13): unknown
+Level Access (MAP14): unknown
+Level Access (MAP15): unknown
+Level Access (MAP19): unknown
+Level Access (MAP21): unknown
+Level Access (MAP22): unknown
+Level Access (MAP25): progression
+Level Access (MAP27): progression
+Level Access (MAP28): unknown
+Level Access (MAP29): progression
+Level Access (MAP30): unknown
+Level Access (MAP31): unknown
+Level Clear (E1M1): progression
+Level Clear (E1M2): unknown
+Level Clear (E1M4): unknown
+Level Clear (E1M9): unknown
+Level Clear (E2M1): unknown
+Level Clear (E2M2): unknown
+Level Clear (E2M4): unknown
+Level Clear (E2M5): unknown
+Level Clear (E2M7): unknown
+Level Clear (E3M1): unknown
+Level Clear (E3M3): unknown
+Level Clear (E4M1): unknown
+Level Clear (E4M2): unknown
+Level Clear (E4M3): unknown
+Level Clear (E4M4): unknown
+Level Clear (E4M7): unknown
+Level Clear (E5M1): unknown
+Level Clear (MAP01): unknown
+Level Clear (MAP07): unknown
+Level Clear (MAP27): mcguffin
+Level Clear (MAP29): mcguffin
+Level Clear (MAP31): unknown
+Medikit: filler
+Megasphere: unknown
+Morph Ovum: unknown
+Mystic Urn: unknown
+Phasing Zorcher: useful
+Phoenix Rod: unknown
+Plasma Rifle: progression
+RadSuit: useful
+RedCard (E1M2): unknown
+RedCard (E1M7): unknown
+RedCard (E1M9): unknown
+RedCard (E2M1): unknown
+RedCard (E2M2): unknown
+RedCard (E2M7): unknown
+RedCard (MAP03): unknown
+RedCard (MAP05): unknown
+RedCard (MAP15): unknown
+RedCard (MAP17): unknown
+RedCard (MAP24): progression
+RedFlemKey (E3M5): unknown
+RedSkull (E2M6): unknown
+RedSkull (E2M9): unknown
+RedSkull (E3M7): unknown
+RedSkull (E3M9): unknown
+RedSkull (E4M1): unknown
+RedSkull (E4M3): progression
+RedSkull (E4M4): unknown
+RedSkull (E4M5): unknown
+RedSkull (E4M6): unknown
+RedSkull (E4M8): progression
+RedSkull (MAP16): unknown
+RedSkull (MAP19): unknown
+RedSkull (MAP21): progression
+RedSkull (MAP27): progression
+RedSkull (MAP28): unknown
+Ring of Invincibility: progression
+Rocket Launcher: progression
+Rockets: filler
+Shadowsphere: useful
+Shotgun Shells: filler
+Shotgun: progression
+SilverShield: useful
+SlimeProofSuit: unknown
+Soulsphere: useful
+Stimpack: filler
+Super Bootspork: unknown
+Super Shotgun: unknown
+SuperChexArmor: unknown
+SuperchargeBreakfast: unknown
+Time Bomb of the Ancients: useful
+Tome of Power: useful
+Torch: useful
+UltraGoggles: unknown
+Wings of Wrath: useful
+YellowCard (E1M3): progression
+YellowCard (E1M4): unknown
+YellowCard (E1M5): unknown
+YellowCard (E1M9): unknown
+YellowCard (E2M2): unknown
+YellowCard (E2M4): unknown
+YellowCard (E2M7): unknown
+YellowCard (MAP04): unknown
+YellowCard (MAP05): unknown
+YellowCard (MAP06): unknown
+YellowCard (MAP10): unknown
+YellowCard (MAP12): unknown
+YellowCard (MAP15): progression
+YellowCard (MAP26): unknown
+YellowFlemKey (E3M5): unknown
+YellowSkull (E2M6): unknown
+YellowSkull (E2M9): unknown
+YellowSkull (E3M4): unknown
+YellowSkull (E3M5): unknown
+YellowSkull (E3M7): unknown
+YellowSkull (E4M2): unknown
+YellowSkull (E4M5): unknown
+YellowSkull (E4M6): unknown
+YellowSkull (E4M7): unknown
+YellowSkull (E4M9): progression
+YellowSkull (MAP17): progression
+YellowSkull (MAP18): unknown
+YellowSkull (MAP19): unknown
+YellowSkull (MAP23): unknown
+YellowSkull (MAP27): unknown
+Zorch Propulsor: unknown
+ZorchPack: useful
