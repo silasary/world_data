@@ -133,6 +133,7 @@ ChexBlueCard (E3M1): unknown
 ChexBlueCard (E3M4): unknown
 ChexRedCard (E1M1): progression
 ChexRedCard (E1M3): unknown
+ChexRedCard (E1M5): unknown
 ChexRedCard (E2M1): progression
 ChexRedCard (E2M2): unknown
 ChexRedCard (E2M4): unknown
@@ -141,9 +142,11 @@ ChexRedCard (E3M3): unknown
 ChexYellowCard (E1M2): unknown
 ChexYellowCard (E1M5): unknown
 ChexYellowCard (E2M2): unknown
+ChexYellowCard (E2M3): unknown
 ChexYellowCard (E2M4): unknown
 ChexYellowCard (E2M5): unknown
 ChexYellowCard (E3M1): unknown
+ChexYellowCard (E3M2): unknown
 ChexYellowCard (E3M3): progression
 ChexYellowCard (E3M4): progression
 Dragon Claw: unknown
@@ -167,6 +170,7 @@ KeyBlue (E2M5): unknown
 KeyBlue (E2M7): unknown
 KeyBlue (E2M9): unknown
 KeyBlue (E3M2): unknown
+KeyBlue (E3M3): unknown
 KeyBlue (E3M6): progression
 KeyBlue (E3M7): unknown
 KeyBlue (E4M2): unknown
@@ -309,6 +313,7 @@ Level Access (MAP28): unknown
 Level Access (MAP29): progression
 Level Access (MAP30): unknown
 Level Access (MAP31): unknown
+Level Access (MAP32): unknown
 Level Clear (E1M1): progression
 Level Clear (E1M2): unknown
 Level Clear (E1M4): unknown
@@ -328,6 +333,7 @@ Level Clear (E4M7): unknown
 Level Clear (E5M1): unknown
 Level Clear (MAP01): unknown
 Level Clear (MAP07): unknown
+Level Clear (MAP23): unknown
 Level Clear (MAP27): mcguffin
 Level Clear (MAP29): mcguffin
 Level Clear (MAP31): unknown
