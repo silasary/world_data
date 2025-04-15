@@ -96,6 +96,7 @@ BlueCard (MAP15): unknown
 BlueCard (MAP17): progression
 BlueCard (MAP24): unknown
 BlueCard (MAP26): unknown
+BlueFlemKey (E3M5): unknown
 BlueSkull (E2M6): unknown
 BlueSkull (E2M9): progression
 BlueSkull (E3M2): unknown
@@ -266,6 +267,7 @@ Level Access (E3M2): unknown
 Level Access (E3M3): unknown
 Level Access (E3M4): progression
 Level Access (E3M5): progression
+Level Access (E3M7): unknown
 Level Access (E3M8): progression
 Level Access (E3M9): unknown
 Level Access (E4M1): unknown
