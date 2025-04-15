@@ -289,6 +289,7 @@ Level Access (E5M2): progression
 Level Access (E5M3): unknown
 Level Access (E5M4): unknown
 Level Access (E5M5): unknown
+Level Access (E5M6): unknown
 Level Access (E5M7): unknown
 Level Access (E5M8): unknown
 Level Access (E5M9): progression
@@ -316,6 +317,7 @@ Level Access (MAP31): unknown
 Level Access (MAP32): unknown
 Level Clear (E1M1): progression
 Level Clear (E1M2): unknown
+Level Clear (E1M3): unknown
 Level Clear (E1M4): unknown
 Level Clear (E1M9): unknown
 Level Clear (E2M1): unknown
@@ -325,12 +327,14 @@ Level Clear (E2M5): unknown
 Level Clear (E2M7): unknown
 Level Clear (E3M1): unknown
 Level Clear (E3M3): unknown
+Level Clear (E3M9): unknown
 Level Clear (E4M1): unknown
 Level Clear (E4M2): unknown
 Level Clear (E4M3): unknown
 Level Clear (E4M4): unknown
 Level Clear (E4M7): unknown
 Level Clear (E5M1): unknown
+Level Clear (E5M7): unknown
 Level Clear (MAP01): unknown
 Level Clear (MAP07): unknown
 Level Clear (MAP23): unknown
@@ -422,6 +426,7 @@ YellowSkull (E4M9): progression
 YellowSkull (MAP17): progression
 YellowSkull (MAP18): unknown
 YellowSkull (MAP19): unknown
+YellowSkull (MAP21): unknown
 YellowSkull (MAP23): unknown
 YellowSkull (MAP27): unknown
 Zorch Propulsor: unknown
