@@ -13,6 +13,7 @@ Combustion Generator: progression
 Conduit: progression
 Core: Foundation: unknown
 Cryofluid Mixer: unknown
+Cultivator: unknown
 Cyclone: unknown
 Disperse: unknown
 Door: unknown
@@ -60,6 +61,7 @@ Overdrive Dome: unknown
 Overdrive Projector: unknown
 Parallax: unknown
 Payload Router: unknown
+Phase Conveyor: unknown
 Phase Weaver: unknown
 Plastanium Compressor: unknown
 Plastanium Conveyor: unknown
