@@ -118,6 +118,11 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
+Warp:Circus Park: unknown
+Warp:Cosmic Fall: unknown
+Warp:Diablon Gun Fortress: unknown
+Warp:Lost Impact: unknown
+Warp:Westopolis: unknown
 Weapon:4-Shot RPG: progression
 Weapon:8-Shot RPG: unknown
 Weapon:Bazooka: progression
@@ -144,7 +149,7 @@ Weapon:Gatling Gun: unknown
 Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: unknown
 Weapon:Heal Cannon: progression
-Weapon:Heavy Machine Gun: unknown
+Weapon:Heavy Machine Gun: useful
 Weapon:Heavy Shot: progression
 Weapon:Impact Pole: unknown
 Weapon:Iron Pole: unknown
