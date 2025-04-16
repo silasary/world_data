@@ -7,6 +7,7 @@ GATE_HI_CC: progression
 GATE_HI_GW: progression
 GATE_HI_SH: unknown
 GATE_HI_VS: progression
+GATE_LF_SB: unknown
 GATE_LF_SU: progression
 GATE_MS_SL: unknown
 GATE_OE_SU: unknown
