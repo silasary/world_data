@@ -46,6 +46,7 @@ e1m4 Unlock: unknown
 e1m5 Automap: useful
 e1m5 Unlock: useful
 e1m6 Automap: useful
+e1m6 Gold Key: unknown
 e1m6 Silver Key: progression
 e1m6 Unlock: unknown
 e1m7 Automap: useful
@@ -63,6 +64,7 @@ e2m3 Unlock: unknown
 e2m4 Automap: useful
 e2m4 Unlock: useful
 e2m5 Automap: useful
+e2m5 Gold Key: unknown
 e2m5 Unlock: progression
 e2m6 Automap: useful
 e2m6 Unlock: progression
