@@ -35,6 +35,7 @@ Automap (E4M6): unknown
 Automap (E4M7): unknown
 Automap (E4M8): unknown
 Automap (E4M9): unknown
+Automap (E5M3): unknown
 Automap (E5M4): unknown
 Automap (E5M7): unknown
 Automap (E5M8): unknown
@@ -226,6 +227,7 @@ KeyYellow (E2M1): unknown
 KeyYellow (E2M2): unknown
 KeyYellow (E2M3): unknown
 KeyYellow (E2M5): unknown
+KeyYellow (E2M6): unknown
 KeyYellow (E2M7): unknown
 KeyYellow (E2M9): unknown
 KeyYellow (E3M1): unknown
@@ -431,5 +433,6 @@ YellowSkull (MAP19): unknown
 YellowSkull (MAP21): unknown
 YellowSkull (MAP23): unknown
 YellowSkull (MAP27): unknown
+YellowSkull (MAP28): unknown
 Zorch Propulsor: unknown
 ZorchPack: useful
