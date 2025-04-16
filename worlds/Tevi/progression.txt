@@ -1,7 +1,7 @@
 Acrobat: filler
 Act Tough: unknown
 Aerial Accel: unknown
-Aerial Agility: unknown
+Aerial Agility: filler
 Aerial Assist: unknown
 Aerial Kinetics: filler
 Air Combo: Focus: unknown
@@ -201,7 +201,7 @@ MP Surge: Battle Start: useful
 MP Surge: Brawl: unknown
 MP Surge: Break: useful
 MP Surge: Concuss: filler
-MP Surge: Dodge: unknown
+MP Surge: Dodge: filler
 MP Surge: Explosives: filler
 MP Surge: Recovery: filler
 MP Surge: Soul: useful
