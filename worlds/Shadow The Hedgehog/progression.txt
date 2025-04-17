@@ -6,19 +6,19 @@
 Air Fleet Alien: progression
 Air Fleet President Aircraft: progression
 Black Comet Soldier: progression
-Blue Chaos Emerald: unknown
+Blue Chaos Emerald: progression
 Boss Token: mcguffin
 Central City Big Bomb: progression
 Central City Little Bomb: progression
 Circus Park Soldier: progression
-Cryptic Castle Cream: unknown
+Cryptic Castle Cream: progression
 Cryptic Castle Lantern: progression
 Cyan Chaos Emerald: unknown
-Dark Token: unknown
+Dark Token: mcguffin
 Death Ruins Alien: progression
-Final Boss Token: unknown
+Final Boss Token: progression
 Final Haunt Shield: progression
-Final Token: unknown
+Final Token: mcguffin
 Gauge:Dark-10000: filler
 Gauge:Dark-1000: filler
 Gauge:Dark-100: filler
@@ -40,23 +40,23 @@ Gauge:Hero-2000: filler
 Gauge:Hero-30000: filler
 Gauge:Hero-5000: filler
 Gauge:Hero-500: filler
-Gauge:Hero-5: unknown
+Gauge:Hero-5: filler
 Glyphic Canyon Alien: progression
 Glyphic Canyon Temple: progression
 Goodbye Forever: unknown
-Green Chaos Emerald: unknown
+Green Chaos Emerald: progression
 Gun Fortress Computer: progression
-Hero Token: unknown
+Hero Token: mcguffin
 Iron Jungle Egg Balloon: progression
 Iron Jungle Soldier: progression
 Lava Shelter Defense: progression
-Lethal Highway Tank: unknown
+Lethal Highway Tank: progression
 Lost Impact Artificial Chaos: progression
 Mad Matrix Bomb: progression
 Mad Matrix Terminal: progression
 Mission Token: mcguffin
 Nothing Junk: filler
-Objective Token: unknown
+Objective Token: mcguffin
 Prison Island Disc: progression
 Prison Island Soldier: progression
 Purple Chaos Emerald: mcguffin
@@ -65,12 +65,12 @@ Sky Troops Egg Ship: progression
 Sky Troops Temple: progression
 Space Gadget Defense Unit: progression
 Stage Melee Weapons: progression
-Stage:Air Fleet: unknown
-Stage:Black Bull Death Ruins: unknown
+Stage:Air Fleet: progression
+Stage:Black Bull Death Ruins: progression
 Stage:Black Bull Lethal Highway: progression
 Stage:Black Comet: progression
 Stage:Black Doom Cosmic Fall: progression
-Stage:Black Doom Final Haunt: unknown
+Stage:Black Doom Final Haunt: progression
 Stage:Black Doom Gun Fortress: unknown
 Stage:Blue Falcon: progression
 Stage:Central City: progression
@@ -88,7 +88,7 @@ Stage:Egg Breaker Mad Matrix: progression
 Stage:Egg Dealer Black Comet: progression
 Stage:Egg Dealer Cosmic Fall: progression
 Stage:Egg Dealer Lava Shelter: progression
-Stage:Final Haunt: unknown
+Stage:Final Haunt: progression
 Stage:Glyphic Canyon: progression
 Stage:Gun Fortress: progression
 Stage:Heavy Dog: progression
@@ -102,7 +102,7 @@ Stage:Sky Troops: progression
 Stage:Space Gadget: progression
 Stage:The Ark: progression
 Stage:The Doom: progression
-Stage:Westopolis: unknown
+Stage:Westopolis: progression
 The Ark Defense Unit: progression
 The Doom Researcher: progression
 The Doom Soldier: progression
@@ -124,11 +124,11 @@ Warp:Diablon Gun Fortress: unknown
 Warp:Lost Impact: unknown
 Warp:Westopolis: unknown
 Weapon:4-Shot RPG: progression
-Weapon:8-Shot RPG: unknown
+Weapon:8-Shot RPG: progression
 Weapon:Bazooka: progression
 Weapon:Big Barrel: progression
 Weapon:Big Worm Shooter: progression
-Weapon:Black Barrel: unknown
+Weapon:Black Barrel: progression
 Weapon:Black Sword: progression
 Weapon:Canyon Pole: unknown
 Weapon:Circus Pole: unknown
@@ -145,7 +145,7 @@ Weapon:Flash Shot: progression
 Weapon:Fleet Pole: unknown
 Weapon:Fortress Pole: unknown
 Weapon:Gadget Pole: unknown
-Weapon:Gatling Gun: unknown
+Weapon:Gatling Gun: progression
 Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: unknown
 Weapon:Heal Cannon: progression
@@ -164,15 +164,15 @@ Weapon:Pistol: progression
 Weapon:Prison Branch: unknown
 Weapon:RPG: progression
 Weapon:Refractor: progression
-Weapon:Ring Shot: unknown
+Weapon:Ring Shot: progression
 Weapon:Ruins Branch: unknown
 Weapon:Samurai Blade: progression
-Weapon:Satellite Gun: unknown
+Weapon:Satellite Gun: progression
 Weapon:Semi Automatic Rifle: progression
-Weapon:Shadow Rifle: unknown
+Weapon:Shadow Rifle: progression
 Weapon:Sky Pole: unknown
 Weapon:Speed Limit Sign: unknown
-Weapon:Splitter: unknown
+Weapon:Splitter: progression
 Weapon:Stop Sign: unknown
 Weapon:Sub Machine Gun: progression
 Weapon:Survival Knife: unknown
@@ -182,5 +182,5 @@ Weapon:Wide Worm Shooter: progression
 Weapon:Worm Shooter: progression
 Westopolis Alien: progression
 Westopolis Soldier: progression
-White Chaos Emerald: unknown
-Yellow Chaos Emerald: unknown
+White Chaos Emerald: progression
+Yellow Chaos Emerald: progression
