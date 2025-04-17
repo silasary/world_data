@@ -347,6 +347,7 @@ Level Clear (E3M1): unknown
 Level Clear (E3M3): unknown
 Level Clear (E3M4): unknown
 Level Clear (E3M5): unknown
+Level Clear (E3M6): unknown
 Level Clear (E3M9): unknown
 Level Clear (E4M1): unknown
 Level Clear (E4M2): unknown
@@ -359,6 +360,7 @@ Level Clear (MAP01): unknown
 Level Clear (MAP03): unknown
 Level Clear (MAP07): unknown
 Level Clear (MAP23): unknown
+Level Clear (MAP24): unknown
 Level Clear (MAP27): mcguffin
 Level Clear (MAP29): mcguffin
 Level Clear (MAP31): unknown
