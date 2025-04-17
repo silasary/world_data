@@ -76,7 +76,7 @@ Battle Koma; Jotaro-5-Power (JoJo's Bizarre Adventure): unknown
 Battle Koma; Jotaro-6 (JoJo's Bizarre Adventure): useful
 Battle Koma; Kagura-4 [Gintama]: unknown
 Battle Koma; Kagura-5 [Gintama]: unknown
-Battle Koma; Kagura-6-Laughter (Gintama): unknown
+Battle Koma; Kagura-6-Laughter (Gintama): useful
 Battle Koma; Kagura-6-Power (Gintama): useful
 Battle Koma; Kakashi-4 (Naruto): useful
 Battle Koma; Kakashi-5 (Naruto): unknown
@@ -176,7 +176,7 @@ Battle Koma; Seiya-7 (Saint Seiya): unknown
 Battle Koma; Seiya-8 (Saint Seiya): useful
 Battle Koma; Taikoubou-4 (Houshin Engi): unknown
 Battle Koma; Taikoubou-5 (Houshin Engi): unknown
-Battle Koma; Taikoubou-6-Knowledge (Houshin Engi): unknown
+Battle Koma; Taikoubou-6-Knowledge (Houshin Engi): useful
 Battle Koma; Taikoubou-6-Laughter (Houshin Engi): useful
 Battle Koma; Train-4 (Black Cat): useful
 Battle Koma; Train-5-Knowledge (Black Cat): useful
@@ -231,7 +231,7 @@ Help Komas; No Confusion: unknown
 Help Komas; No Freeze: useful
 Help Komas; No Judgement: useful
 Help Komas; No Paralysis: unknown
-Help Komas; No Posion: unknown
+Help Komas; No Posion: useful
 Help Komas; No Seal: unknown
 Help Komas; No Shock: useful
 Help Komas; No Speed-Down: unknown
@@ -320,7 +320,7 @@ Support Koma; Brocken Jr.-3 (Kinnikuman): unknown
 Support Koma; Buffalo Man-2 (Kinnikuman): useful
 Support Koma; Buffalo Man-3 (Kinnikuman): unknown
 Support Koma; Byakuya-2 (Bleach): useful
-Support Koma; Byakuya-3 (Bleach): unknown
+Support Koma; Byakuya-3 (Bleach): useful
 Support Koma; Cascade-2 (Midori no Makibaoh): useful
 Support Koma; Cascade-3 (Midori no Makibaoh): useful
 Support Koma; Cerberus-3 (Eyeshield 21): useful
@@ -621,7 +621,7 @@ Support Koma; Toki-2 (Fist Of The North Star): useful
 Support Koma; Toki-3 (Fist Of The North Star): unknown
 Support Koma; Train-2 (Black Cat): useful
 Support Koma; Train-3 (Black Cat): useful
-Support Koma; Trunks-2 (Dragonball): unknown
+Support Koma; Trunks-2 (Dragonball): useful
 Support Koma; Trunks-3 (Dragonball): unknown
 Support Koma; Tsubasa-2 (Captain Tsubasa): unknown
 Support Koma; Tsukasa-2 (Ichigo 100%): unknown
