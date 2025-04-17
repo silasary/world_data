@@ -118,6 +118,7 @@ BlueSkull (E4M6): unknown
 BlueSkull (E4M7): progression
 BlueSkull (MAP18): unknown
 BlueSkull (MAP19): unknown
+BlueSkull (MAP21): unknown
 BlueSkull (MAP22): unknown
 BlueSkull (MAP25): unknown
 BlurSphere: unknown
@@ -402,6 +403,7 @@ RedSkull (E4M8): progression
 RedSkull (MAP16): unknown
 RedSkull (MAP19): unknown
 RedSkull (MAP21): progression
+RedSkull (MAP22): unknown
 RedSkull (MAP27): progression
 RedSkull (MAP28): unknown
 Ring of Invincibility: progression
