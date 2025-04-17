@@ -24,7 +24,7 @@ Automap (E3M4): unknown
 Automap (E3M5): unknown
 Automap (E3M6): unknown
 Automap (E3M7): unknown
-Automap (E3M8): unknown
+Automap (E3M8): useful
 Automap (E3M9): unknown
 Automap (E4M1): unknown
 Automap (E4M2): unknown
@@ -334,6 +334,7 @@ Level Clear (E1M1): progression
 Level Clear (E1M2): unknown
 Level Clear (E1M3): unknown
 Level Clear (E1M4): unknown
+Level Clear (E1M5): unknown
 Level Clear (E1M9): unknown
 Level Clear (E2M1): unknown
 Level Clear (E2M2): unknown
@@ -343,6 +344,8 @@ Level Clear (E2M5): unknown
 Level Clear (E2M7): unknown
 Level Clear (E3M1): unknown
 Level Clear (E3M3): unknown
+Level Clear (E3M4): unknown
+Level Clear (E3M5): unknown
 Level Clear (E3M9): unknown
 Level Clear (E4M1): unknown
 Level Clear (E4M2): unknown
@@ -360,7 +363,7 @@ Level Clear (MAP31): unknown
 Medikit: filler
 Megasphere: unknown
 Morph Ovum: unknown
-Mystic Urn: unknown
+Mystic Urn: useful
 Phasing Zorcher: useful
 Phoenix Rod: unknown
 Plasma Rifle: progression
