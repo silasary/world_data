@@ -20,11 +20,13 @@ Bottle 1: progression
 Bottle 2: progression
 Bottle 3: progression
 Bottle 4: progression
+Bow Butterfly: useful
 Cane of Pacci: progression
 Dig Butterfly: useful
 Dog Food: progression
 DownThrust: progression
 Dungeon Compass (CoF): useful
+Dungeon Compass (DHC): useful
 Dungeon Compass (FoW): useful
 Dungeon Map (DWS): useful
 Dungeon Map (FoW): useful
@@ -70,3 +72,4 @@ Sword Beam: progression
 Tingle Trophy: progression
 Wakeup Mushroom: progression
 Water Element: progression
+Wind Element: progression
