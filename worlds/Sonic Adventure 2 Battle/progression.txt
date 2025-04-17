@@ -12,7 +12,7 @@ Blue Mono-Tone Egg: filler
 Blue Shiny Egg: filler
 Blue Two-Tone Egg: filler
 Blue Wool Beanie: filler
-Breakout Trap: unknown
+Breakout Trap: trap
 Brown Mono-Tone Egg: filler
 Brown Shiny Egg: filler
 Brown Two-Tone Egg: filler
@@ -42,7 +42,7 @@ Emblem: mcguffin
 Empty Can: filler
 Exposition Trap: trap
 Extra Life: filler
-Fishing Trap: unknown
+Fishing Trap: trap
 Five Rings: filler
 Flower Pot: filler
 Gorilla: filler
@@ -70,18 +70,18 @@ Knuckles - Hammer Gloves: progression
 Knuckles - Mystic Melody: progression
 Knuckles - Shovel Claws: progression
 Knuckles - Sunglasses: progression
-Light Up Path Trap: unknown
+Light Up Path Trap: trap
 Lime Green Mono-Tone Egg: filler
 Lime Green Shiny Egg: filler
 Lime Green Two-Tone Egg: filler
-Literature Trap: unknown
+Literature Trap: trap
 Magnetic Shield: filler
-Math Quiz Trap: unknown
+Math Quiz Trap: trap
 Mint Candy: filler
 Mushroom: filler
 Normal Egg: filler
 Normal Shiny Egg: filler
-Number Sequence Trap: unknown
+Number Sequence Trap: trap
 OmoTrap: trap
 Orange Fruit: filler
 Orange Mono-Tone Egg: filler
@@ -95,14 +95,14 @@ Parrot: filler
 Peacock: filler
 Penguin: filler
 Phoenix: filler
-Pinball Trap: unknown
+Pinball Trap: trap
 Pink Fruit: filler
 Pink Mono-Tone Egg: filler
 Pink Shiny Egg: filler
 Pink Two-Tone Egg: filler
-Poison Trap: unknown
-Pokemon Count Trap: unknown
-Pokemon Trivia Trap: unknown
+Poison Trap: trap
+Pokemon Count Trap: trap
+Pokemon Trivia Trap: trap
 Pong Trap: trap
 Pumpkin: filler
 Purple Chaos Drive: filler
