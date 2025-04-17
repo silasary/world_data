@@ -35,6 +35,7 @@ Automap (E4M6): unknown
 Automap (E4M7): unknown
 Automap (E4M8): unknown
 Automap (E4M9): unknown
+Automap (E5M1): unknown
 Automap (E5M3): unknown
 Automap (E5M4): unknown
 Automap (E5M7): unknown
@@ -355,6 +356,7 @@ Level Clear (E4M7): unknown
 Level Clear (E5M1): unknown
 Level Clear (E5M7): unknown
 Level Clear (MAP01): unknown
+Level Clear (MAP03): unknown
 Level Clear (MAP07): unknown
 Level Clear (MAP23): unknown
 Level Clear (MAP27): mcguffin
