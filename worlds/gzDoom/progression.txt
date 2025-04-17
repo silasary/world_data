@@ -89,6 +89,7 @@ BlueCard (E2M4): unknown
 BlueCard (E2M7): progression
 BlueCard (MAP03): unknown
 BlueCard (MAP04): unknown
+BlueCard (MAP05): unknown
 BlueCard (MAP09): unknown
 BlueCard (MAP10): unknown
 BlueCard (MAP11): unknown
@@ -185,6 +186,7 @@ KeyBlue (E4M5): unknown
 KeyBlue (E4M6): unknown
 KeyBlue (E4M7): unknown
 KeyBlue (E5M1): unknown
+KeyBlue (E5M3): unknown
 KeyBlue (E5M5): unknown
 KeyBlue (E5M6): unknown
 KeyBlue (E5M7): unknown
@@ -319,6 +321,7 @@ Level Access (MAP19): unknown
 Level Access (MAP21): unknown
 Level Access (MAP22): unknown
 Level Access (MAP23): unknown
+Level Access (MAP24): unknown
 Level Access (MAP25): progression
 Level Access (MAP27): progression
 Level Access (MAP28): unknown
