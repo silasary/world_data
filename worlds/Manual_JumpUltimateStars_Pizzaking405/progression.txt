@@ -50,7 +50,7 @@ Battle Koma; Goku-4-Laughter (Dragonball): unknown
 Battle Koma; Goku-4-Power (Dragonball): unknown
 Battle Koma; Goku-5 (Dragonball): useful
 Battle Koma; Goku-6 (Dragonball): useful
-Battle Koma; Goku-7 (Dragonball): unknown
+Battle Koma; Goku-7 (Dragonball): useful
 Battle Koma; Gon-4 (Hunter x Hunter): useful
 Battle Koma; Gon-5 (Hunter x Hunter): unknown
 Battle Koma; Gon-6 (Hunter x Hunter): useful
@@ -80,7 +80,7 @@ Battle Koma; Kagura-6-Laughter (Gintama): unknown
 Battle Koma; Kagura-6-Power (Gintama): useful
 Battle Koma; Kakashi-4 (Naruto): useful
 Battle Koma; Kakashi-5 (Naruto): unknown
-Battle Koma; Kakashi-6-Knowledge (Naruto): unknown
+Battle Koma; Kakashi-6-Knowledge (Naruto): useful
 Battle Koma; Kakashi-6-Laughter (Naruto): useful
 Battle Koma; Kazuki-4 (Busou Renkin): useful
 Battle Koma; Kazuki-5 (Busou Renkin): unknown
@@ -386,7 +386,7 @@ Support Koma; Gon-3 (Hunter x Hunter): useful
 Support Koma; Gotenks-2 (Dragonball): useful
 Support Koma; Gotenks-3 (Dragonball): unknown
 Support Koma; Gyro-2 (JoJo's Bizarre Adventure): useful
-Support Koma; Gyro-3 (JoJo's Bizarre Adventure): unknown
+Support Koma; Gyro-3 (JoJo's Bizarre Adventure): useful
 Support Koma; Hamii-2 (Pyuu to Fuku! Jaguar): unknown
 Support Koma; Hamii-3 (Pyuu to Fuku! Jaguar): useful
 Support Koma; Hammer-2 (Pyuu to Fuku! Jaguar): useful
@@ -506,7 +506,7 @@ Support Koma; Luffy-2 (One Piece): useful
 Support Koma; Luffy-3 (One Piece): useful
 Support Koma; Makibao-2 (Midori no Makibaoh): useful
 Support Koma; Makibao-3 (Midori no Makibaoh): unknown
-Support Koma; Mello-2 (Death Note): unknown
+Support Koma; Mello-2 (Death Note): useful
 Support Koma; Mello-3 (Death Note): useful
 Support Koma; Misa-2 (Death Note): unknown
 Support Koma; Misa-3 (Death Note): unknown
@@ -597,7 +597,7 @@ Support Koma; Shun-2 (Saint Seiya): unknown
 Support Koma; Shun-3 (Saint Seiya): useful
 Support Koma; Soge King-3 (One Piece): unknown
 Support Koma; Special Assembly-3 (Kochikame): unknown
-Support Koma; Spin-2 (Taizo Mote King Saga): unknown
+Support Koma; Spin-2 (Taizo Mote King Saga): useful
 Support Koma; Spin-3 (Taizo Mote King Saga): unknown
 Support Koma; Superstar Man-2 (Tottemo! Lucky Man): unknown
 Support Koma; Superstar Man-3 (Tottemo! Lucky Man): unknown
@@ -643,7 +643,7 @@ Support Koma; Yamamoto-2 (Home Tutor Hitman Reborn!): unknown
 Support Koma; Yamamoto-3 (Home Tutor Hitman Reborn!): unknown
 Support Koma; Yoh-2 (Shaman King): unknown
 Support Koma; Yoh-3 (Shaman King): unknown
-Support Koma; Yoichi-2 (Muhyo and Roji's Bureau): unknown
+Support Koma; Yoichi-2 (Muhyo and Roji's Bureau): useful
 Support Koma; Yoichi-3 (Muhyo and Roji's Bureau): useful
 Support Koma; Yoruichi-2 (Bleach): unknown
 Support Koma; Yoruichi-3 (Bleach): useful
