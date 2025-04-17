@@ -14,7 +14,7 @@ ProgressiveSword: unknown
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
 SpawnBoomerang: unknown
-SpawnBoulderNPC: unknown
+SpawnBoulderNPC: progression
 SpawnBurgerChest: progression
 SpawnCompassChest: useful
 SpawnDarkstoneChest: unknown
