@@ -119,10 +119,14 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
+Warp:Central City: unknown
 Warp:Circus Park: unknown
 Warp:Cosmic Fall: unknown
 Warp:Diablon Gun Fortress: unknown
+Warp:Lethal Highway: unknown
 Warp:Lost Impact: unknown
+Warp:Sky Troops: unknown
+Warp:The Last Way: unknown
 Warp:Westopolis: unknown
 Weapon:4-Shot RPG: progression
 Weapon:8-Shot RPG: progression
