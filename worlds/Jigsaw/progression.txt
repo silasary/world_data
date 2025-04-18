@@ -20,14 +20,14 @@ Ace!: unknown
 All-star!: unknown
 Amazeballs!: filler
 Bang on!: unknown
-Beaming!: unknown
+Beaming!: filler
 Bold move!: unknown
 Boom!: unknown
 Boss move!: unknown
-Bravo!: unknown
+Bravo!: filler
 Champ!: unknown
 Chef's kiss!: unknown
-Crisp!: unknown
+Crisp!: filler
 Crushed it!: unknown
 Crème de la crème!: unknown
 Delightful!: unknown
@@ -40,31 +40,32 @@ Flawless!: unknown
 Gleaming!: unknown
 Go you!: unknown
 Gold star!: unknown
-Gorgeous!: unknown
+Good job!: filler
+Gorgeous!: filler
 Great work!: unknown
-Heck yes!: unknown
-High five!: unknown
+Heck yes!: filler
+High five!: filler
 Iconic!: unknown
 Impressive!: unknown
 Joyful!: unknown
 Keep it up!: unknown
 Keep slaying!: unknown
-Killer move!: unknown
+Killer move!: filler
 King stuff!: unknown
-Legend stuff!: unknown
+Legend stuff!: filler
 Legendary!: unknown
 Look at you!: unknown
-Love it!: unknown
+Love it!: filler
 Lush!: unknown
 Masterful!: unknown
 Nailed it!: filler
 Nice touch!: unknown
-Nifty!: unknown
+Nifty!: filler
 Niiice!: unknown
 No cap!: unknown
 No flaws!: unknown
 Peak form!: unknown
-Perfection!: unknown
+Perfection!: filler
 Power move!: unknown
 Powerhouse!: unknown
 Prime!: unknown
@@ -72,7 +73,7 @@ Proud of you!: unknown
 Puzzle Piece: progression
 Radiant!: unknown
 Right on!: filler
-Rockstar!: unknown
+Rockstar!: filler
 Sharp thinking!: unknown
 Showstopper!: unknown
 Slick!: unknown
@@ -85,7 +86,7 @@ Splendid!: unknown
 Squawks: filler
 Style points!: unknown
 Super clean!: unknown
-Superstar!: unknown
+Superstar!: filler
 Sweet!: unknown
 That’s it!: unknown
 Thrilling!: unknown
@@ -101,7 +102,7 @@ Whiz!: unknown
 Whoa, nice!: unknown
 Woohoo!: unknown
 Woot!: unknown
-Wowsers!: unknown
+Wowsers!: filler
 Wowza!: unknown
 Yayyy!: unknown
 Yes, queen!: unknown
