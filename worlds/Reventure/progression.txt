@@ -4,7 +4,7 @@ DarkstoneLeverLeft: unknown
 DarkstoneLeverMiddle: unknown
 DarkstoneLeverRight: unknown
 EnableCloset: unknown
-Gem: unknown
+Gem: mcguffin
 GrowChicken: unknown
 GrowVine: progression
 Nothing: filler
