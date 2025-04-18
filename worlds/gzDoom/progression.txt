@@ -42,6 +42,7 @@ Automap (E5M4): unknown
 Automap (E5M6): unknown
 Automap (E5M7): unknown
 Automap (E5M8): unknown
+Automap (E5M9): unknown
 Automap (MAP01): filler
 Automap (MAP02): unknown
 Automap (MAP03): unknown
@@ -130,6 +131,7 @@ Chainsaw: unknown
 Chaos Device: useful
 ChexArmor: useful
 ChexBlueCard (E1M1): progression
+ChexBlueCard (E1M2): unknown
 ChexBlueCard (E1M3): unknown
 ChexBlueCard (E1M4): unknown
 ChexBlueCard (E1M5): unknown
@@ -154,6 +156,7 @@ ChexRedCard (E3M3): unknown
 ChexRedCard (E3M4): unknown
 ChexYellowCard (E1M2): unknown
 ChexYellowCard (E1M3): unknown
+ChexYellowCard (E1M4): unknown
 ChexYellowCard (E1M5): unknown
 ChexYellowCard (E2M2): unknown
 ChexYellowCard (E2M3): unknown
@@ -355,6 +358,7 @@ Level Clear (E2M7): unknown
 Level Clear (E2M8): unknown
 Level Clear (E2M9): unknown
 Level Clear (E3M1): unknown
+Level Clear (E3M2): unknown
 Level Clear (E3M3): unknown
 Level Clear (E3M4): unknown
 Level Clear (E3M5): unknown
