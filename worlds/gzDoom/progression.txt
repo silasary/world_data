@@ -218,6 +218,7 @@ KeyGreen (E3M6): useful
 KeyGreen (E3M7): unknown
 KeyGreen (E3M9): unknown
 KeyGreen (E4M1): unknown
+KeyGreen (E4M2): unknown
 KeyGreen (E4M3): unknown
 KeyGreen (E4M5): unknown
 KeyGreen (E4M6): unknown
@@ -378,6 +379,7 @@ Plasma Rifle: progression
 RadSuit: useful
 Rapid Zorcher: unknown
 RedCard (E1M2): unknown
+RedCard (E1M6): unknown
 RedCard (E1M7): unknown
 RedCard (E1M9): unknown
 RedCard (E2M1): unknown
