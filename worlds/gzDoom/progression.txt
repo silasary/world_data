@@ -149,6 +149,7 @@ ChexRedCard (E2M3): unknown
 ChexRedCard (E2M4): unknown
 ChexRedCard (E2M5): unknown
 ChexRedCard (E3M1): unknown
+ChexRedCard (E3M2): unknown
 ChexRedCard (E3M3): unknown
 ChexRedCard (E3M4): unknown
 ChexYellowCard (E1M2): unknown
@@ -342,6 +343,7 @@ Level Clear (E1M2): unknown
 Level Clear (E1M3): unknown
 Level Clear (E1M4): unknown
 Level Clear (E1M5): unknown
+Level Clear (E1M7): unknown
 Level Clear (E1M8): unknown
 Level Clear (E1M9): unknown
 Level Clear (E2M1): unknown
@@ -351,12 +353,14 @@ Level Clear (E2M4): unknown
 Level Clear (E2M5): unknown
 Level Clear (E2M7): unknown
 Level Clear (E2M8): unknown
+Level Clear (E2M9): unknown
 Level Clear (E3M1): unknown
 Level Clear (E3M3): unknown
 Level Clear (E3M4): unknown
 Level Clear (E3M5): unknown
 Level Clear (E3M6): unknown
 Level Clear (E3M7): unknown
+Level Clear (E3M8): unknown
 Level Clear (E3M9): unknown
 Level Clear (E4M1): unknown
 Level Clear (E4M2): unknown
