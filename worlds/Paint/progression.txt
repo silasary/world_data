@@ -6,9 +6,9 @@ Ellipse: filler
 Eraser/Color Eraser: progression
 Fill With Color: filler
 Flip Horizontal Trap: unknown
-Flip Vertical Trap: unknown
+Flip Vertical Trap: trap
 Free-Form Select: filler
-Invert Colors Trap: unknown
+Invert Colors Trap: trap
 Line: filler
 Magnifier: useful
 Pencil: progression
