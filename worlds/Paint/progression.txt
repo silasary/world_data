@@ -5,6 +5,8 @@ Curve: filler
 Ellipse: filler
 Eraser/Color Eraser: progression
 Fill With Color: filler
+Flip Horizontal Trap: unknown
+Flip Vertical Trap: unknown
 Free-Form Select: filler
 Invert Colors Trap: unknown
 Line: filler
