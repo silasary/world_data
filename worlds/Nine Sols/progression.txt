@@ -33,6 +33,7 @@
 (Database) Dusk Guardian Recording Device 6: unknown
 (Database) Evacuation Notice For Miners: unknown
 (Database) Farmland Markings: filler
+(Database) Galactic Dock Sign: unknown
 (Database) Jie Clan Family Precept: filler
 (Database) Lake Yaochi Stele: filler
 (Database) Mutated Crops: filler
@@ -51,6 +52,7 @@
 (Database) Water Synthesis Pipeline Panel: unknown
 (Database) Yellow Water Report: filler
 (Poison) Medicinal Citrine: useful
+(Poison) Oriander: unknown
 (Poison) Porcine Gem: unknown
 (Poison) Residual Hair: unknown
 (Poison) Turtle Scorpion: useful
@@ -65,6 +67,7 @@
 (Recyclable) Standard Component: filler
 Abandoned Mines Access Token: progression
 Abandoned Mines Chip: useful
+Agricultural Zone Chip: unknown
 Arrow: Cloud Piercer: unknown
 Arrow: Shadow Hunter: unknown
 Arrow: Thunder Buster: unknown
@@ -79,8 +82,10 @@ Dark Steel: useful
 Divine Hand Jade: unknown
 Empyrean District Chip: useful
 Firestorm Ring: useful
+Focus Jade: unknown
 Gene Eradicator: unknown
 Greater Tao Fruit: useful
+Harness Force Jade: unknown
 Hedgehog Jade: useful
 Herb Catalyst: useful
 Homing Darts: progression
@@ -89,20 +94,25 @@ Ji's Hair: progression
 Jin x320: filler
 Jin x50: filler
 Jin x800: filler
+Mob Quell Jade - Yin: unknown
 Mystic Nymph: Scout Mode: unknown
 Poem Hidden in the Immortal's Portrait: filler
 Power Reservoir Chip: unknown
 Qi Blade Jade: useful
+Qi Swipe Jade: unknown
 Research Center Chip: unknown
 Revival Jade: useful
+Rhizomatic Bomb: unknown
 Seal of Fuxi: progression
 Seal of Goumang: progression
 Seal of Ji: progression
+Seal of Jiequan: unknown
 Seal of Kuafu: unknown
 Seal of Nuwa: unknown
 Soul Reaper Jade: unknown
 Soul-Severing Blade: unknown
 Steely Jade: unknown
+Super Mutant Buster: unknown
 Swift Descent Jade: useful
 Tai-Chi Kick: progression
 Tao Fruit: useful
