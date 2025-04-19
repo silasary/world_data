@@ -140,6 +140,7 @@ ChexBlueCard (E2M2): unknown
 ChexBlueCard (E2M3): progression
 ChexBlueCard (E2M4): unknown
 ChexBlueCard (E3M1): unknown
+ChexBlueCard (E3M2): unknown
 ChexBlueCard (E3M3): unknown
 ChexBlueCard (E3M4): unknown
 ChexRedCard (E1M1): progression
@@ -328,9 +329,11 @@ Level Access (MAP05): unknown
 Level Access (MAP07): unknown
 Level Access (MAP08): progression
 Level Access (MAP09): unknown
+Level Access (MAP12): unknown
 Level Access (MAP13): unknown
 Level Access (MAP14): unknown
 Level Access (MAP15): unknown
+Level Access (MAP17): unknown
 Level Access (MAP19): unknown
 Level Access (MAP21): unknown
 Level Access (MAP22): unknown
@@ -406,6 +409,7 @@ RedCard (E1M9): unknown
 RedCard (E2M1): unknown
 RedCard (E2M2): unknown
 RedCard (E2M7): unknown
+RedCard (MAP02): unknown
 RedCard (MAP03): unknown
 RedCard (MAP05): unknown
 RedCard (MAP11): unknown
@@ -413,6 +417,7 @@ RedCard (MAP13): unknown
 RedCard (MAP15): unknown
 RedCard (MAP17): unknown
 RedCard (MAP24): progression
+RedCard (MAP26): unknown
 RedFlemKey (E3M5): unknown
 RedSkull (E2M6): unknown
 RedSkull (E2M9): unknown
@@ -463,6 +468,7 @@ YellowCard (E2M7): unknown
 YellowCard (MAP04): unknown
 YellowCard (MAP05): unknown
 YellowCard (MAP06): unknown
+YellowCard (MAP09): unknown
 YellowCard (MAP10): unknown
 YellowCard (MAP12): unknown
 YellowCard (MAP15): progression
