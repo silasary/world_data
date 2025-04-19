@@ -19,6 +19,7 @@
 (Database) Ancient Weapon Console: useful
 (Database) Anomalous Root Node: filler
 (Database) Apeman Surveillance Footage: unknown
+(Database) Camp Scroll: unknown
 (Database) Cave Stone Inscription: useful
 (Database) Coffin Inscription: filler
 (Database) Council Digital Signage: progression
@@ -34,6 +35,8 @@
 (Database) Evacuation Notice For Miners: unknown
 (Database) Farmland Markings: filler
 (Database) Galactic Dock Sign: unknown
+(Database) Guard Production Station: unknown
+(Database) Hexachrem Vault Scroll: unknown
 (Database) Jie Clan Family Precept: filler
 (Database) Lake Yaochi Stele: filler
 (Database) Mutated Crops: filler
@@ -72,7 +75,9 @@ Arrow: Cloud Piercer: unknown
 Arrow: Shadow Hunter: unknown
 Arrow: Thunder Buster: unknown
 Avarice Jade: useful
+Bearing Jade: unknown
 Bloody Crimson Hibiscus: filler
+Breather Jade: unknown
 Central Core Chip: useful
 Charged Strike: progression
 Cloud Leap: progression
@@ -80,6 +85,7 @@ Computing Unit: unknown
 Cultivation Jade: unknown
 Dark Steel: useful
 Divine Hand Jade: unknown
+Elevator Access Token: unknown
 Empyrean District Chip: useful
 Firestorm Ring: useful
 Focus Jade: unknown
@@ -96,6 +102,7 @@ Jin x50: filler
 Jin x800: filler
 Mob Quell Jade - Yin: unknown
 Mystic Nymph: Scout Mode: unknown
+Pipe Vial: unknown
 Poem Hidden in the Immortal's Portrait: filler
 Power Reservoir Chip: unknown
 Qi Blade Jade: useful
