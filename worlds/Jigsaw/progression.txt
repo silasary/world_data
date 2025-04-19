@@ -35,7 +35,7 @@ Crisp!: filler
 Crushed it!: unknown
 Crème de la crème!: filler
 Delightful!: unknown
-Deluxe!: unknown
+Deluxe!: filler
 Dreamy!: unknown
 Epic!: unknown
 Fantastic!: filler
@@ -61,14 +61,15 @@ Legendary!: unknown
 Look at you!: unknown
 Love it!: filler
 Lush!: unknown
-Masterful!: unknown
+Masterful!: filler
 Nailed it!: filler
 Nice touch!: unknown
 Nifty!: filler
 Niiice!: unknown
 No cap!: unknown
 No flaws!: filler
-Peak form!: unknown
+On fire!: filler
+Peak form!: filler
 Perfection!: filler
 Power move!: filler
 Powerhouse!: unknown
@@ -84,9 +85,9 @@ Slick!: unknown
 Smooth!: unknown
 Snappy!: unknown
 So cool!: unknown
-So proud!: unknown
+So proud!: filler
 Solid!: unknown
-Splendid!: unknown
+Splendid!: filler
 Squawks: filler
 Style points!: unknown
 Super clean!: unknown
@@ -102,7 +103,7 @@ Vibes!: unknown
 Vivid!: unknown
 Way to go!: unknown
 Well done!: unknown
-Whiz!: unknown
+Whiz!: filler
 Whoa, nice!: unknown
 Woohoo!: unknown
 Woot!: unknown
