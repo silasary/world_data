@@ -4,6 +4,7 @@ E: progression
 Extra turn: progression
 G: unknown
 H: unknown
+N: unknown
 O: unknown
 P: progression
 S: progression
@@ -25,10 +26,12 @@ W: unknown
 ×2W 14,14: useful
 ×2W 7,13: unknown
 ×2W 7,1: useful
+×3L 0,0: unknown
 ×3L 0,14: useful
 ×3L 12,4: useful
 ×3L 14,0: unknown
 ×3L 2,10: unknown
+×3L 2,4: unknown
 ×3L 7,13: useful
 ×3W 0,0: useful
 ×3W 0,14: unknown
