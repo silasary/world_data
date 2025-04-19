@@ -1,13 +1,14 @@
 Additional Palette Color: progression
 Airbrush: useful
-Brush: unknown
+Brush: progression
 Curve: filler
 Ellipse: filler
 Eraser/Color Eraser: progression
 Fill With Color: filler
 Free-Form Select: filler
+Invert Colors Trap: unknown
 Line: filler
-Magnifier: unknown
+Magnifier: useful
 Pencil: progression
 Pick Color: useful
 Polygon: unknown
@@ -20,3 +21,4 @@ Rectangle: unknown
 Rounded Rectangle: filler
 Select: useful
 Text: filler
+Undo Trap: unknown
