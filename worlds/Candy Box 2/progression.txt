@@ -1,6 +1,7 @@
 20 Candies: filler
 3 Chocolate Bars: progression
 4 Chocolate Bars: progression
+500 Candies: unknown
 Advanced Grimoire: progression
 Beginners' Grimoire: progression
 Black Magic Grimoire: unknown
@@ -16,6 +17,7 @@ Giant Spoon: progression
 Green Fin: progression
 HP Bar: useful
 Heart Pendant: progression
+Heart Plug: unknown
 Iron Axe: progression
 Knight Body Armour: progression
 L Stone: unknown
@@ -45,6 +47,7 @@ Sorceress' Cauldron: progression
 Sorceress' Hat: unknown
 Sponge: unknown
 Summoning Tribal Spear: progression
+Third House Key: unknown
 Time Ring: unknown
 Tribal Spear: progression
 Troll's Bludgeon: progression
