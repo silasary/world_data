@@ -1,6 +1,6 @@
 1 Puzzle Piece: mcguffin
 10 Puzzle Pieces: progression
-10/10!: unknown
+10/10!: filler
 100 Puzzle Pieces: progression
 104 Puzzle Pieces: unknown
 107 Puzzle Pieces: unknown
@@ -20,12 +20,12 @@
 72 Puzzle Pieces: progression
 78 Puzzle Pieces: unknown
 8 Puzzle Pieces: progression
-A real one!: unknown
+A real one!: filler
 A+ effort!: unknown
 Ace!: filler
-All-star!: unknown
+All-star!: filler
 Amazeballs!: filler
-Bang on!: unknown
+Bang on!: filler
 Beaming!: filler
 Bold move!: unknown
 Boom!: unknown
@@ -33,8 +33,9 @@ Boss move!: unknown
 Bravo!: filler
 Champ!: unknown
 Chef's kiss!: unknown
+Clean win!: filler
 Crisp!: filler
-Crushed it!: unknown
+Crushed it!: filler
 Crème de la crème!: filler
 Delightful!: unknown
 Deluxe!: filler
@@ -43,7 +44,7 @@ Epic!: unknown
 Fantastic!: filler
 Fire!: unknown
 Flawless!: unknown
-Gleaming!: unknown
+Gleaming!: filler
 Go you!: unknown
 Gold star!: unknown
 Good job!: filler
@@ -61,23 +62,23 @@ Killer move!: filler
 King stuff!: unknown
 Legend stuff!: filler
 Legendary!: unknown
-Look at you!: unknown
+Look at you!: filler
 Love it!: filler
-Lush!: unknown
-Magic!: unknown
+Lush!: filler
+Magic!: filler
 Masterful!: filler
 Nailed it!: filler
 Nice touch!: unknown
 Nifty!: filler
-Niiice!: unknown
+Niiice!: filler
 No cap!: unknown
 No flaws!: filler
 On fire!: filler
 Peak form!: filler
 Perfection!: filler
 Power move!: filler
-Powerhouse!: unknown
-Prime!: unknown
+Powerhouse!: filler
+Prime!: filler
 Proud of you!: unknown
 Puzzle Piece: progression
 Radiant!: unknown
@@ -86,7 +87,7 @@ Rockstar!: filler
 Sharp thinking!: unknown
 Showstopper!: unknown
 Slick!: unknown
-Smooth!: unknown
+Smooth!: filler
 Snappy!: unknown
 So cool!: unknown
 So proud!: filler
@@ -100,9 +101,9 @@ Sweet!: unknown
 That’s it!: unknown
 Thrilling!: unknown
 Too good!: unknown
-Top tier!: unknown
+Top tier!: filler
 Ultra win!: filler
-Unreal!: unknown
+Unreal!: filler
 Vibes!: unknown
 Vivid!: unknown
 Way to go!: unknown
@@ -113,12 +114,12 @@ Woohoo!: unknown
 Woot!: unknown
 Wowsers!: filler
 Wowza!: unknown
-Yayyy!: unknown
+Yayyy!: filler
 Yes, queen!: unknown
 Yesss!: unknown
 You did it!: unknown
 You rock!: unknown
-You shine!: unknown
+You shine!: filler
 Yum!: unknown
 Zesty!: unknown
 Zing!: unknown
