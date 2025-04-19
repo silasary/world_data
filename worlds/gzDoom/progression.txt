@@ -21,7 +21,7 @@ Automap (E3M1): unknown
 Automap (E3M2): unknown
 Automap (E3M3): unknown
 Automap (E3M4): unknown
-Automap (E3M5): unknown
+Automap (E3M5): progression
 Automap (E3M6): unknown
 Automap (E3M7): unknown
 Automap (E3M8): useful
@@ -76,7 +76,7 @@ Automap (MAP30): unknown
 Automap (MAP31): unknown
 Automap (MAP32): unknown
 BFG 9000: progression
-Backpack: unknown
+Backpack: useful
 BagOfHolding: useful
 Berserk: unknown
 BlueArmor: filler
@@ -180,11 +180,11 @@ Hellstaff: useful
 Infrared: unknown
 InvulnerabilitySphere: unknown
 KeyBlue (E1M2): unknown
-KeyBlue (E1M5): unknown
+KeyBlue (E1M5): progression
 KeyBlue (E1M7): unknown
-KeyBlue (E1M9): unknown
+KeyBlue (E1M9): progression
 KeyBlue (E2M3): unknown
-KeyBlue (E2M4): unknown
+KeyBlue (E2M4): progression
 KeyBlue (E2M5): unknown
 KeyBlue (E2M7): unknown
 KeyBlue (E2M9): unknown
@@ -194,7 +194,7 @@ KeyBlue (E3M6): progression
 KeyBlue (E3M7): unknown
 KeyBlue (E4M2): unknown
 KeyBlue (E4M3): unknown
-KeyBlue (E4M5): unknown
+KeyBlue (E4M5): progression
 KeyBlue (E4M6): unknown
 KeyBlue (E4M7): unknown
 KeyBlue (E5M1): unknown
@@ -203,7 +203,7 @@ KeyBlue (E5M5): unknown
 KeyBlue (E5M6): unknown
 KeyBlue (E5M7): unknown
 KeyBlue (E5M9): progression
-KeyGreen (E1M2): unknown
+KeyGreen (E1M2): progression
 KeyGreen (E1M3): unknown
 KeyGreen (E1M4): unknown
 KeyGreen (E1M5): unknown
@@ -219,14 +219,14 @@ KeyGreen (E2M9): unknown
 KeyGreen (E3M1): useful
 KeyGreen (E3M2): unknown
 KeyGreen (E3M3): unknown
-KeyGreen (E3M4): unknown
+KeyGreen (E3M4): progression
 KeyGreen (E3M5): progression
 KeyGreen (E3M6): useful
 KeyGreen (E3M7): unknown
 KeyGreen (E3M9): unknown
-KeyGreen (E4M1): unknown
+KeyGreen (E4M1): progression
 KeyGreen (E4M2): unknown
-KeyGreen (E4M3): unknown
+KeyGreen (E4M3): progression
 KeyGreen (E4M5): unknown
 KeyGreen (E4M6): unknown
 KeyGreen (E4M7): unknown
@@ -236,41 +236,41 @@ KeyGreen (E5M3): unknown
 KeyGreen (E5M4): unknown
 KeyGreen (E5M5): progression
 KeyGreen (E5M6): unknown
-KeyGreen (E5M7): unknown
-KeyGreen (E5M9): unknown
+KeyGreen (E5M7): progression
+KeyGreen (E5M9): progression
 KeyYellow (E1M1): progression
-KeyYellow (E1M2): unknown
+KeyYellow (E1M2): progression
 KeyYellow (E1M4): unknown
 KeyYellow (E1M5): unknown
 KeyYellow (E1M7): unknown
 KeyYellow (E1M9): unknown
 KeyYellow (E2M1): unknown
-KeyYellow (E2M2): unknown
+KeyYellow (E2M2): progression
 KeyYellow (E2M3): unknown
-KeyYellow (E2M5): unknown
+KeyYellow (E2M5): progression
 KeyYellow (E2M6): unknown
 KeyYellow (E2M7): unknown
 KeyYellow (E2M9): unknown
-KeyYellow (E3M1): unknown
+KeyYellow (E3M1): progression
 KeyYellow (E3M2): unknown
 KeyYellow (E3M3): unknown
 KeyYellow (E3M4): progression
-KeyYellow (E3M5): unknown
+KeyYellow (E3M5): progression
 KeyYellow (E3M6): progression
 KeyYellow (E3M7): progression
 KeyYellow (E3M9): unknown
 KeyYellow (E4M1): progression
 KeyYellow (E4M2): unknown
-KeyYellow (E4M3): unknown
-KeyYellow (E4M5): unknown
-KeyYellow (E4M7): unknown
+KeyYellow (E4M3): progression
+KeyYellow (E4M5): progression
+KeyYellow (E4M7): progression
 KeyYellow (E4M8): unknown
-KeyYellow (E4M9): unknown
+KeyYellow (E4M9): progression
 KeyYellow (E5M1): unknown
-KeyYellow (E5M2): unknown
+KeyYellow (E5M2): progression
 KeyYellow (E5M3): unknown
 KeyYellow (E5M4): unknown
-KeyYellow (E5M5): unknown
+KeyYellow (E5M5): progression
 KeyYellow (E5M6): unknown
 KeyYellow (E5M7): unknown
 KeyYellow (E5M9): progression
@@ -292,7 +292,7 @@ Level Access (E2M4): unknown
 Level Access (E2M5): progression
 Level Access (E2M6): unknown
 Level Access (E2M7): unknown
-Level Access (E2M8): unknown
+Level Access (E2M8): progression
 Level Access (E2M9): progression
 Level Access (E3M1): progression
 Level Access (E3M2): unknown
@@ -303,23 +303,23 @@ Level Access (E3M6): unknown
 Level Access (E3M7): unknown
 Level Access (E3M8): progression
 Level Access (E3M9): unknown
-Level Access (E4M1): unknown
+Level Access (E4M1): progression
 Level Access (E4M2): unknown
 Level Access (E4M3): unknown
 Level Access (E4M4): progression
-Level Access (E4M5): unknown
+Level Access (E4M5): progression
 Level Access (E4M6): unknown
 Level Access (E4M7): unknown
 Level Access (E4M8): progression
 Level Access (E4M9): progression
 Level Access (E5M1): unknown
 Level Access (E5M2): progression
-Level Access (E5M3): unknown
+Level Access (E5M3): progression
 Level Access (E5M4): unknown
-Level Access (E5M5): unknown
+Level Access (E5M5): progression
 Level Access (E5M6): unknown
 Level Access (E5M7): unknown
-Level Access (E5M8): unknown
+Level Access (E5M8): progression
 Level Access (E5M9): progression
 Level Access (MAP01): unknown
 Level Access (MAP02): unknown
