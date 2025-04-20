@@ -53,7 +53,7 @@ Go you!: unknown
 Gold star!: unknown
 Good job!: filler
 Gorgeous!: filler
-Great work!: unknown
+Great work!: filler
 Heck yes!: filler
 High five!: filler
 Hyped!: unknown
@@ -63,7 +63,7 @@ Joyful!: unknown
 Keep it up!: filler
 Keep slaying!: filler
 Killer move!: filler
-King stuff!: unknown
+King stuff!: filler
 Legend stuff!: filler
 Legendary!: unknown
 Look at you!: filler
@@ -88,7 +88,7 @@ Puzzle Piece: progression
 Radiant!: filler
 Right on!: filler
 Rockstar!: filler
-Sharp thinking!: unknown
+Sharp thinking!: filler
 Showstopper!: unknown
 Slick!: unknown
 Smooth!: filler
@@ -104,15 +104,15 @@ Superstar!: filler
 Sweet!: unknown
 That’s it!: unknown
 Thrilling!: unknown
-Too good!: unknown
+Too good!: filler
 Top tier!: filler
 Ultra win!: filler
 Unreal!: filler
 Vibes!: filler
 Vivid!: filler
 Way to go!: unknown
-Well done!: unknown
-Well played!: unknown
+Well done!: filler
+Well played!: filler
 Whiz!: filler
 Whoa, nice!: unknown
 Woohoo!: unknown
