@@ -36,6 +36,7 @@
 (Database) Farmland Markings: filler
 (Database) Galactic Dock Sign: unknown
 (Database) Guard Production Station: unknown
+(Database) Haotian Sphere Model: unknown
 (Database) Hexachrem Vault Scroll: unknown
 (Database) Jie Clan Family Precept: filler
 (Database) Lake Yaochi Stele: filler
@@ -44,6 +45,7 @@
 (Database) Pharmacy Panel: filler
 (Database) Prisoner's Bamboo Scroll I: filler
 (Database) Prisoner's Bamboo Scroll II: filler
+(Database) Radiant Pagoda Control Panel: unknown
 (Database) Rhizomatic Energy Meter: filler
 (Database) Secret Mural I: filler
 (Database) Secret Mural II: filler
@@ -65,12 +67,14 @@
 (Recyclable) Passenger Token: A-Shou: filler
 (Recyclable) Passenger Token: Aimu: filler
 (Recyclable) Passenger Token: Jihai: unknown
+(Recyclable) Passenger Token: Shiyangyue: unknown
 (Recyclable) Passenger Token: Xipu: filler
 (Recyclable) Passenger Token: Yangfan: unknown
 (Recyclable) Standard Component: filler
 Abandoned Mines Access Token: progression
 Abandoned Mines Chip: useful
 Agricultural Zone Chip: unknown
+Ancient Penglai Ballad: unknown
 Arrow: Cloud Piercer: unknown
 Arrow: Shadow Hunter: unknown
 Arrow: Thunder Buster: unknown
@@ -120,9 +124,11 @@ Soul Reaper Jade: unknown
 Soul-Severing Blade: unknown
 Steely Jade: unknown
 Super Mutant Buster: unknown
+Swift Blade Jade: unknown
 Swift Descent Jade: useful
 Tai-Chi Kick: progression
 Tao Fruit: useful
+Thunderburst Bomb: unknown
 Tianhuo Serum: progression
 Twin Tao Fruit: unknown
 Unbounded Counter: unknown
