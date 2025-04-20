@@ -63,6 +63,7 @@ Liquid Junction: progression
 Liquid Router: unknown
 Liquid Tank: unknown
 Logic Display: filler
+Logic Processor: unknown
 Mass Driver: unknown
 Mechanical Pump: unknown
 Meltdown: unknown
@@ -115,6 +116,7 @@ Reinforced Surge Wall: useful
 Repair Point: unknown
 Repair Turret: unknown
 Ripple: unknown
+Rotary Pump: unknown
 Router: progression
 Salvo: progression
 Segment: unknown
