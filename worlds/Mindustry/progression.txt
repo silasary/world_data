@@ -54,7 +54,7 @@ Large Power Node: useful
 Large Solar Panel: unknown
 Large Surge Wall: unknown
 Large Thorium Wall: unknown
-Large Titanium Wall: unknown
+Large Titanium Wall: useful
 Large Tungsten Wall: unknown
 Laser Drill: unknown
 Launch Pad: unknown
@@ -70,7 +70,7 @@ Meltdown: unknown
 Melter: unknown
 Memory Bank: unknown
 Mend Projector: unknown
-Mender: unknown
+Mender: useful
 Message: unknown
 Micro Processor: unknown
 Multi-Press: unknown
@@ -116,7 +116,7 @@ Reinforced Surge Wall: useful
 Repair Point: unknown
 Repair Turret: unknown
 Ripple: unknown
-Rotary Pump: unknown
+Rotary Pump: filler
 Router: progression
 Salvo: progression
 Segment: unknown
