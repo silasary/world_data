@@ -196,6 +196,7 @@ KeyBlue (E3M2): unknown
 KeyBlue (E3M3): unknown
 KeyBlue (E3M6): progression
 KeyBlue (E3M7): unknown
+KeyBlue (E3M9): unknown
 KeyBlue (E4M2): unknown
 KeyBlue (E4M3): unknown
 KeyBlue (E4M5): progression
@@ -388,6 +389,7 @@ Level Clear (E4M9): unknown
 Level Clear (E5M1): unknown
 Level Clear (E5M2): unknown
 Level Clear (E5M5): unknown
+Level Clear (E5M6): unknown
 Level Clear (E5M7): unknown
 Level Clear (E5M8): unknown
 Level Clear (E5M9): unknown
