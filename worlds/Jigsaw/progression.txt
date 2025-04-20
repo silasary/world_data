@@ -35,7 +35,7 @@ Bold move!: filler
 Boom!: unknown
 Boss move!: unknown
 Bravo!: filler
-Champ!: unknown
+Champ!: filler
 Chef's kiss!: unknown
 Clean win!: filler
 Crisp!: filler
@@ -46,7 +46,7 @@ Deluxe!: filler
 Dreamy!: unknown
 Epic!: unknown
 Fantastic!: filler
-Fire!: unknown
+Fire!: filler
 Flawless!: unknown
 Gleaming!: filler
 Go you!: unknown
@@ -60,8 +60,8 @@ Hyped!: unknown
 Iconic!: filler
 Impressive!: filler
 Joyful!: unknown
-Keep it up!: unknown
-Keep slaying!: unknown
+Keep it up!: filler
+Keep slaying!: filler
 Killer move!: filler
 King stuff!: unknown
 Legend stuff!: filler
@@ -85,7 +85,7 @@ Powerhouse!: filler
 Prime!: filler
 Proud of you!: unknown
 Puzzle Piece: progression
-Radiant!: unknown
+Radiant!: filler
 Right on!: filler
 Rockstar!: filler
 Sharp thinking!: unknown
@@ -120,11 +120,11 @@ Woot!: filler
 Wowsers!: filler
 Wowza!: unknown
 Yayyy!: filler
-Yes, queen!: unknown
-Yesss!: unknown
+Yes, queen!: filler
+Yesss!: filler
 You did it!: unknown
-You rock!: unknown
+You rock!: filler
 You shine!: filler
 Yum!: unknown
 Zesty!: unknown
-Zing!: unknown
+Zing!: filler
