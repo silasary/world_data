@@ -39,6 +39,7 @@ Automap (E5M1): unknown
 Automap (E5M2): unknown
 Automap (E5M3): unknown
 Automap (E5M4): unknown
+Automap (E5M5): unknown
 Automap (E5M6): unknown
 Automap (E5M7): unknown
 Automap (E5M8): unknown
@@ -119,6 +120,8 @@ BlueSkull (E4M3): unknown
 BlueSkull (E4M5): unknown
 BlueSkull (E4M6): unknown
 BlueSkull (E4M7): progression
+BlueSkull (MAP14): unknown
+BlueSkull (MAP16): unknown
 BlueSkull (MAP18): unknown
 BlueSkull (MAP19): unknown
 BlueSkull (MAP21): unknown
@@ -209,6 +212,7 @@ KeyGreen (E1M3): unknown
 KeyGreen (E1M4): unknown
 KeyGreen (E1M5): unknown
 KeyGreen (E1M6): progression
+KeyGreen (E1M7): unknown
 KeyGreen (E1M9): unknown
 KeyGreen (E2M1): unknown
 KeyGreen (E2M2): unknown
@@ -413,6 +417,7 @@ RedCard (E2M2): unknown
 RedCard (E2M7): unknown
 RedCard (MAP02): unknown
 RedCard (MAP03): unknown
+RedCard (MAP04): unknown
 RedCard (MAP05): unknown
 RedCard (MAP11): unknown
 RedCard (MAP13): unknown
