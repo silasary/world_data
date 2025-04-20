@@ -14,7 +14,7 @@
 40 Precursor Orbs: unknown
 400 Precursor Orbs: unknown
 5 Precursor Orbs: useful
-50 Precursor Orbs: unknown
+50 Precursor Orbs: progression
 500 Precursor Orbs: unknown
 8 Precursor Orbs: unknown
 80 Precursor Orbs: unknown
@@ -38,9 +38,9 @@ Green Eco Pill: filler
 Jump Dive: progression
 Jump Kick: useful
 Jungle Elevator: progression
-Kick: unknown
+Kick: progression
 Ledge Trap: unknown
-Pacifism Trap: unknown
+Pacifism Trap: trap
 Power Cell: progression
 Punch Uppercut: useful
 Punch: progression
@@ -62,7 +62,7 @@ Scout Fly - Sentinel Beach: useful
 Scout Fly - Snowy Mountain: useful
 Scout Fly - Spider Cave: useful
 Scout Fly - Volcanic Crater: useful
-Slippery Trap: unknown
+Slippery Trap: trap
 Snowy Fort Gate: progression
 Snowy Mountain Gondola: useful
 Teleport Trap: unknown
