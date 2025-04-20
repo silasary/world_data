@@ -11,8 +11,10 @@ Bridge Conduit: unknown
 Bridge Conveyor: unknown
 Carbide Crucible: unknown
 Carbide Wall: unknown
+Coal Centrifuge: unknown
 Combustion Generator: progression
 Conduit: progression
+Container: unknown
 Core: Foundation: unknown
 Core: Nucleus: unknown
 Cryofluid Mixer: unknown
