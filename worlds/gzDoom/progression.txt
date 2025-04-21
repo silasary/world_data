@@ -16,7 +16,7 @@ Automap (E2M5): unknown
 Automap (E2M6): unknown
 Automap (E2M7): unknown
 Automap (E2M8): unknown
-Automap (E2M9): unknown
+Automap (E2M9): useful
 Automap (E3M1): unknown
 Automap (E3M2): unknown
 Automap (E3M3): unknown
@@ -198,7 +198,7 @@ KeyBlue (E3M2): unknown
 KeyBlue (E3M3): unknown
 KeyBlue (E3M6): progression
 KeyBlue (E3M7): unknown
-KeyBlue (E3M9): unknown
+KeyBlue (E3M9): progression
 KeyBlue (E4M2): unknown
 KeyBlue (E4M3): unknown
 KeyBlue (E4M5): progression
@@ -206,6 +206,7 @@ KeyBlue (E4M6): unknown
 KeyBlue (E4M7): unknown
 KeyBlue (E5M1): unknown
 KeyBlue (E5M3): unknown
+KeyBlue (E5M4): unknown
 KeyBlue (E5M5): unknown
 KeyBlue (E5M6): unknown
 KeyBlue (E5M7): unknown
@@ -237,7 +238,7 @@ KeyGreen (E4M1): progression
 KeyGreen (E4M2): unknown
 KeyGreen (E4M3): progression
 KeyGreen (E4M5): unknown
-KeyGreen (E4M6): unknown
+KeyGreen (E4M6): progression
 KeyGreen (E4M7): unknown
 KeyGreen (E5M1): unknown
 KeyGreen (E5M2): progression
@@ -398,6 +399,7 @@ Level Clear (E4M9): unknown
 Level Clear (E5M1): unknown
 Level Clear (E5M2): unknown
 Level Clear (E5M3): unknown
+Level Clear (E5M4): unknown
 Level Clear (E5M5): unknown
 Level Clear (E5M6): unknown
 Level Clear (E5M7): unknown
@@ -491,6 +493,7 @@ YellowCard (MAP06): unknown
 YellowCard (MAP09): unknown
 YellowCard (MAP10): unknown
 YellowCard (MAP12): unknown
+YellowCard (MAP13): unknown
 YellowCard (MAP15): progression
 YellowCard (MAP26): unknown
 YellowFlemKey (E3M5): unknown
