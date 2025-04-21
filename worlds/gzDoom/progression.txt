@@ -95,6 +95,7 @@ BlueCard (E2M7): progression
 BlueCard (MAP03): unknown
 BlueCard (MAP04): unknown
 BlueCard (MAP05): unknown
+BlueCard (MAP06): unknown
 BlueCard (MAP09): unknown
 BlueCard (MAP10): unknown
 BlueCard (MAP11): unknown
@@ -142,6 +143,7 @@ ChexBlueCard (E2M1): useful
 ChexBlueCard (E2M2): unknown
 ChexBlueCard (E2M3): progression
 ChexBlueCard (E2M4): unknown
+ChexBlueCard (E2M5): unknown
 ChexBlueCard (E3M1): unknown
 ChexBlueCard (E3M2): unknown
 ChexBlueCard (E3M3): unknown
@@ -336,6 +338,7 @@ Level Access (MAP05): unknown
 Level Access (MAP07): unknown
 Level Access (MAP08): progression
 Level Access (MAP09): unknown
+Level Access (MAP10): unknown
 Level Access (MAP12): unknown
 Level Access (MAP13): unknown
 Level Access (MAP14): unknown
