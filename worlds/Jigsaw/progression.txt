@@ -33,7 +33,7 @@ Amazeballs!: filler
 Bang on!: filler
 Beaming!: filler
 Bold move!: filler
-Boom!: unknown
+Boom!: filler
 Boss move!: filler
 Bravo!: filler
 Champ!: filler
@@ -50,14 +50,14 @@ Fantastic!: filler
 Fire!: filler
 Flawless!: unknown
 Gleaming!: filler
-Go you!: unknown
-Gold star!: unknown
+Go you!: filler
+Gold star!: filler
 Good job!: filler
 Gorgeous!: filler
 Great work!: filler
 Heck yes!: filler
 High five!: filler
-Hyped!: unknown
+Hyped!: filler
 Iconic!: filler
 Impressive!: filler
 Joyful!: filler
@@ -76,7 +76,7 @@ Nailed it!: filler
 Nice touch!: unknown
 Nifty!: filler
 Niiice!: filler
-No cap!: unknown
+No cap!: filler
 No flaws!: filler
 On fire!: filler
 Peak form!: filler
@@ -84,7 +84,7 @@ Perfection!: filler
 Power move!: filler
 Powerhouse!: filler
 Prime!: filler
-Proud of you!: unknown
+Proud of you!: filler
 Puzzle Piece: progression
 Radiant!: filler
 Right on!: filler
@@ -119,7 +119,7 @@ Whoa, nice!: filler
 Woohoo!: unknown
 Woot!: filler
 Wowsers!: filler
-Wowza!: unknown
+Wowza!: filler
 Yayyy!: filler
 Yes, queen!: filler
 Yesss!: filler
