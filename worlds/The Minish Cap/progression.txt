@@ -14,7 +14,7 @@ Big Key (CoF): progression
 Big Key (DHC): progression
 Big Key (DWS): progression
 Big Key (FoW): progression
-Big Key (PoW): unknown
+Big Key (PoW): progression
 Big Key (ToD): progression
 Big Wallet: progression
 Blue Book (History of Masks): progression
@@ -35,8 +35,8 @@ Dungeon Compass (DHC): useful
 Dungeon Compass (DWS): useful
 Dungeon Compass (FoW): useful
 Dungeon Compass (PoW): useful
-Dungeon Compass (ToD): unknown
-Dungeon Map (CoF): unknown
+Dungeon Compass (ToD): useful
+Dungeon Map (CoF): useful
 Dungeon Map (DHC): useful
 Dungeon Map (DWS): useful
 Dungeon Map (FoW): useful
@@ -60,7 +60,7 @@ Kinstone Falls: progression
 Kinstone Swamps: mcguffin
 Lantern: progression
 LonLon Key: progression
-Long Spin: unknown
+Long Spin: progression
 Mole Mitts: progression
 Ocarina: progression
 Pegasus Boots: progression
@@ -76,7 +76,7 @@ Recovery Heart: filler
 Red Book (Hyrulian Bestiary): progression
 Remote Bomb: progression
 Roc's Cape: progression
-Rock Breaker: unknown
+Rock Breaker: progression
 Roll Attack: progression
 Small Key (CoF): progression
 Small Key (DHC): progression
