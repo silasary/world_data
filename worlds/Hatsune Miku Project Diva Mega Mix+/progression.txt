@@ -3490,6 +3490,7 @@ break;down [EXEXTREME]: progression
 break;down [EXTREME]: progression
 break;down [HARD]: progression
 break;down [NORMAL]: progression
+break;down: unknown
 celluloid [EXTREME]: progression
 celluloid [HARD]: progression
 crossing field [EXTREME]: progression
