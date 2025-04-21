@@ -37,7 +37,7 @@
 (Database) Galactic Dock Sign: unknown
 (Database) Guard Production Station: unknown
 (Database) Haotian Sphere Model: unknown
-(Database) Hexachrem Vault Scroll: unknown
+(Database) Hexachrem Vault Scroll: useful
 (Database) Jie Clan Family Precept: filler
 (Database) Lake Yaochi Stele: filler
 (Database) Mutated Crops: filler
@@ -94,7 +94,7 @@ Divine Hand Jade: unknown
 Elevator Access Token: unknown
 Empyrean District Chip: useful
 Firestorm Ring: useful
-Focus Jade: unknown
+Focus Jade: useful
 Gene Eradicator: unknown
 Greater Tao Fruit: useful
 Harness Force Jade: unknown
