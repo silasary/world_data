@@ -2,7 +2,7 @@ Acrobat: filler
 Act Tough: unknown
 Aerial Accel: filler
 Aerial Agility: filler
-Aerial Assist: unknown
+Aerial Assist: filler
 Aerial Kinetics: filler
 Air Combo: Focus: unknown
 Airy Powder: progression
@@ -179,7 +179,7 @@ Knives Out: filler
 Lemon Bunny Potion: useful
 Library Key: useful
 Life Steal: filler
-Low Defence Bomber: unknown
+Low Defence Bomber: filler
 Lucky 7: A: filler
 Lucky 7: B: filler
 Lucky 7: C: unknown
@@ -189,10 +189,10 @@ MP Quicken: Bloodlust: unknown
 MP Quicken: Combo: useful
 MP Quicken: Melee: useful
 MP Quicken: Sacrifice: unknown
-MP Quicken: Steady: unknown
+MP Quicken: Steady: filler
 MP Quicken: Step Up: useful
 MP Quicken: Style: useful
-MP Quicken: Sugar Rush: unknown
+MP Quicken: Sugar Rush: filler
 MP Reset A: unknown
 MP Reset B: useful
 MP Saver: Fireworks: unknown
@@ -208,7 +208,7 @@ MP Surge: Soul: useful
 MP Surge: Tag Out: useful
 Magic Cannon: useful
 Magic Mixer: filler
-Mana Armor: unknown
+Mana Armor: filler
 Mana Flare: useful
 Mana Platform: useful
 Memorial Bookmark: filler
