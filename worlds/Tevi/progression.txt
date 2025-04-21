@@ -1,6 +1,6 @@
 Acrobat: filler
 Act Tough: unknown
-Aerial Accel: unknown
+Aerial Accel: filler
 Aerial Agility: filler
 Aerial Assist: unknown
 Aerial Kinetics: filler
@@ -119,7 +119,7 @@ Dodge: Golden Luck: filler
 Dodge: Headstrong: filler
 Dodge: Optimize: useful
 Dodge: Panic Switch: unknown
-Dogfight: unknown
+Dogfight: filler
 Dominator: unknown
 Double Airstrike: useful
 Double Drop: useful
