@@ -267,7 +267,7 @@ Open PrF3 South Exit Room Right Side: unknown
 Open TF1 East Jail: unknown
 Open TF1 Fireball Runway Passages: unknown
 Open TF1 NE Node Hallway: unknown
-Open TF1 North Jail: unknown
+Open TF1 North Jail: progression
 Open TF1 Telarian Gate: unknown
 Open TF1 Trapped Guard Gate: progression
 Open TF2 Back of Indiana Jones Hallway: progression
@@ -288,7 +288,7 @@ Open TF2 West Ice Pillar Gate: unknown
 Open TF2 West Jail: unknown
 Open TF3 NE Boss Fall Room: unknown
 Open TF3 SE Boss Fall Room: progression
-Open TF3 South Gate: unknown
+Open TF3 South Gate: progression
 Open TF3 West Boss Fall Room: unknown
 Orange: filler
 Ore: progression
