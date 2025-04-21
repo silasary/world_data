@@ -34,10 +34,10 @@ Bang on!: filler
 Beaming!: filler
 Bold move!: filler
 Boom!: unknown
-Boss move!: unknown
+Boss move!: filler
 Bravo!: filler
 Champ!: filler
-Chef's kiss!: unknown
+Chef's kiss!: filler
 Clean win!: filler
 Crisp!: filler
 Crushed it!: filler
@@ -60,7 +60,7 @@ High five!: filler
 Hyped!: unknown
 Iconic!: filler
 Impressive!: filler
-Joyful!: unknown
+Joyful!: filler
 Keep it up!: filler
 Keep slaying!: filler
 Killer move!: filler
@@ -93,7 +93,7 @@ Sharp thinking!: filler
 Showstopper!: unknown
 Slick!: unknown
 Smooth!: filler
-Snappy!: unknown
+Snappy!: filler
 So cool!: filler
 So proud!: filler
 Solid!: filler
@@ -103,7 +103,7 @@ Style points!: filler
 Super clean!: unknown
 Superstar!: filler
 Sweet!: unknown
-That’s it!: unknown
+That’s it!: filler
 Thrilling!: unknown
 Too good!: filler
 Top tier!: filler
@@ -111,11 +111,11 @@ Ultra win!: filler
 Unreal!: filler
 Vibes!: filler
 Vivid!: filler
-Way to go!: unknown
+Way to go!: filler
 Well done!: filler
 Well played!: filler
 Whiz!: filler
-Whoa, nice!: unknown
+Whoa, nice!: filler
 Woohoo!: unknown
 Woot!: filler
 Wowsers!: filler
