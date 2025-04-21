@@ -101,9 +101,9 @@ Solid!: filler
 Splendid!: filler
 Squawks: filler
 Style points!: filler
-Super clean!: unknown
+Super clean!: filler
 Superstar!: filler
-Sweet!: unknown
+Sweet!: filler
 That’s it!: filler
 Thrilling!: unknown
 Too good!: filler
@@ -117,7 +117,7 @@ Well done!: filler
 Well played!: filler
 Whiz!: filler
 Whoa, nice!: filler
-Woohoo!: unknown
+Woohoo!: filler
 Woot!: filler
 Wowsers!: filler
 Wowza!: filler
@@ -127,6 +127,6 @@ Yesss!: filler
 You did it!: filler
 You rock!: filler
 You shine!: filler
-Yum!: unknown
-Zesty!: unknown
+Yum!: filler
+Zesty!: filler
 Zing!: filler
