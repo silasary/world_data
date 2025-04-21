@@ -294,7 +294,7 @@ Orange: filler
 Ore: progression
 Paladin Combo: progression
 Paladin Healing: progression
-Paladin Holy Storm: unknown
+Paladin Holy Storm: progression
 Pickaxe Fragment: unknown
 Pickaxe: unknown
 Poison Trap: trap
@@ -323,7 +323,7 @@ Prison Silver Key: progression
 Progressive Paladin Armor: unknown
 Progressive Paladin Charge Damage: unknown
 Progressive Paladin Charge Range: useful
-Progressive Paladin Combo Healing: unknown
+Progressive Paladin Combo Healing: useful
 Progressive Paladin Combo Mana: useful
 Progressive Paladin Combo Nova: unknown
 Progressive Paladin Combo Timer: useful
@@ -331,7 +331,7 @@ Progressive Paladin Divine Wrath: unknown
 Progressive Paladin Healing Efficiency: unknown
 Progressive Paladin Health Pool: useful
 Progressive Paladin Holy Storm Damage: unknown
-Progressive Paladin Holy Storm Duration: unknown
+Progressive Paladin Holy Storm Duration: useful
 Progressive Paladin Mana Pool: useful
 Progressive Paladin Move Speed: unknown
 Progressive Paladin Shield: useful
