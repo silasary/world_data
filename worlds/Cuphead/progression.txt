@@ -8,6 +8,7 @@ Dash: unknown
 Duck: unknown
 Fast Fire: unknown
 Heart: unknown
+Ingredient: mcguffin
 Lobber: unknown
 P. Sugar: unknown
 Parry: unknown
@@ -16,6 +17,7 @@ Plane Gun: unknown
 Plane Parry: unknown
 Plane Shrink: unknown
 Plane Super: unknown
+Progressive Charge: progression
 Progressive Lobber: unknown
 Roundabout: unknown
 Smoke Bomb: unknown
@@ -23,6 +25,6 @@ Spread: unknown
 Super Art I: unknown
 Super Art II: unknown
 Super Art III: unknown
-Super Recharge: unknown
+Super Recharge: useful
 Twin Heart: unknown
 Whetstone: unknown
