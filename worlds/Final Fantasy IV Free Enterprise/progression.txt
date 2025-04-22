@@ -28,7 +28,7 @@ Black Sword: filler
 Blitz Whip: unknown
 Blizzard Spear: filler
 Blizzard: filler
-Bomb: unknown
+Bomb: useful
 Boomerang: filler
 Boreas: filler
 Cabin: filler
@@ -83,7 +83,7 @@ Dwarf Axe: filler
 EagleEye: unknown
 Earth Crystal: progression
 Earth Hammer: filler
-EchoNote: unknown
+EchoNote: filler
 Edge: progression
 Edward: progression
 Elixir: filler
@@ -154,7 +154,7 @@ Medusa Arrows: filler
 Middle Katana: unknown
 MoonVeil: useful
 Murasame: useful
-Mute Arrows: unknown
+Mute Arrows: filler
 Mute Dagger: filler
 MuteBell: filler
 Ninja Mask: filler
@@ -204,7 +204,7 @@ Shadow Sword: unknown
 Short Bow: unknown
 Shuriken: unknown
 Silence Staff: filler
-SilkWeb: unknown
+SilkWeb: filler
 Silver Armor: unknown
 Silver Gauntlet: filler
 Silver Hammer: filler
