@@ -182,6 +182,7 @@ Ethereal Crossbow: unknown
 Firemace: unknown
 Gauntlets of the Necromancer: unknown
 GreenArmor: useful
+HappySphere: unknown
 HealthBonus: filler
 Hellstaff: useful
 Infrared: unknown
@@ -292,6 +293,7 @@ KeyYellow (E5M7): unknown
 KeyYellow (E5M9): progression
 LAZ Device: unknown
 Large Zorcher: unknown
+Level Access (E1A1): unknown
 Level Access (E1M1): progression
 Level Access (E1M2): progression
 Level Access (E1M3): unknown
@@ -301,6 +303,7 @@ Level Access (E1M6): unknown
 Level Access (E1M7): unknown
 Level Access (E1M8): unknown
 Level Access (E1M9): progression
+Level Access (E2A1): unknown
 Level Access (E2M1): progression
 Level Access (E2M2): unknown
 Level Access (E2M3): progression
@@ -444,6 +447,7 @@ Mystic Urn: useful
 Phasing Zorcher: useful
 Phoenix Rod: unknown
 Plasma Rifle: progression
+PyramidKey (E2A1): unknown
 RadSuit: useful
 Rapid Zorcher: unknown
 RedCard (E1M2): unknown
@@ -476,6 +480,7 @@ RedSkull (E4M5): unknown
 RedSkull (E4M6): unknown
 RedSkull (E4M7): unknown
 RedSkull (E4M8): progression
+RedSkull (MAP14): unknown
 RedSkull (MAP16): unknown
 RedSkull (MAP19): unknown
 RedSkull (MAP21): progression
@@ -491,6 +496,7 @@ Shotgun: progression
 SilverShield: useful
 SlimeProofSuit: unknown
 Soulsphere: useful
+SquareKey (E1A8): unknown
 Stimpack: filler
 Super Bootspork: unknown
 Super Shotgun: unknown
