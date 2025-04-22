@@ -191,7 +191,7 @@ Battle Koma; Vegeta-5-Power (Dragonball): unknown
 Battle Koma; Vegeta-6 [Dragonball]: useful
 Battle Koma; Vegetto-8 (Dragonball): useful
 Battle Koma; Yoh-4-Knowledge (Shaman king): useful
-Battle Koma; Yoh-4-Laughter (Shaman king): unknown
+Battle Koma; Yoh-4-Laughter (Shaman king): useful
 Battle Koma; Yoh-5 (Shaman king): unknown
 Battle Koma; Yoh-6 (Shaman king): useful
 Battle Koma; Yugi-4 (Yu-Gi-Oh): useful
@@ -266,7 +266,7 @@ Planet Unlock; Houshin Engi: progression
 Planet Unlock; I"s: progression
 Planet Unlock; Ichigo 100%: progression
 Planet Unlock; J-Blackhole Boss: progression
-Planet Unlock; J-Galaxy Boss: unknown
+Planet Unlock; J-Galaxy Boss: progression
 Planet Unlock; J-Space Boss: unknown
 Planet Unlock; Jigoku Sensei Nube: progression
 Planet Unlock; JoJo's Bizarre Adventure: progression
@@ -302,7 +302,7 @@ Support Koma; Aizen-3 (Bleach): useful
 Support Koma; Allen-2 (Devil Gray-Man): useful
 Support Koma; Allen-3 (Devil Gray-Man): unknown
 Support Koma; Anna-2 (Shaman King): useful
-Support Koma; Anna-3 (Shaman King): unknown
+Support Koma; Anna-3 (Shaman King): useful
 Support Koma; Arale-2 (Dr. Slump): useful
 Support Koma; Arale-3 (Dr. Slump): unknown
 Support Koma; Atobe-2 (Prince Of Tennis): unknown
@@ -415,7 +415,7 @@ Support Koma; Hisoka-2 (Hunter x Hunter): useful
 Support Koma; Hisoka-3 (Hunter x Hunter): unknown
 Support Koma; Hitsugaya-2 (Bleach): unknown
 Support Koma; Hitsugaya-3 (Bleach): unknown
-Support Koma; Hyoga-2 (Saint Seiya): unknown
+Support Koma; Hyoga-2 (Saint Seiya): useful
 Support Koma; Hyoga-3 (Saint Seiya): useful
 Support Koma; Hyuga-2 (Captain Tsubasa): useful
 Support Koma; Hyuga-3 (Captain Tsubasa): unknown
@@ -478,7 +478,7 @@ Support Koma; Kiyo Hiko-3 (Pyuu to Fuku! Jaguar): unknown
 Support Koma; Kon-3 (Bleach): unknown
 Support Koma; Kondo-2 (Gintama): useful
 Support Koma; Kondo-3 (Gintama): useful
-Support Koma; Krillin-2 (Dragonball): unknown
+Support Koma; Krillin-2 (Dragonball): useful
 Support Koma; Krillin-3 (Dragonball): unknown
 Support Koma; Kurama-2 (Yu Yu Hakusho): unknown
 Support Koma; Kurama-3 (Yu Yu Hakusho): useful
@@ -600,7 +600,7 @@ Support Koma; Special Assembly-3 (Kochikame): unknown
 Support Koma; Spin-2 (Taizo Mote King Saga): useful
 Support Koma; Spin-3 (Taizo Mote King Saga): unknown
 Support Koma; Superstar Man-2 (Tottemo! Lucky Man): unknown
-Support Koma; Superstar Man-3 (Tottemo! Lucky Man): unknown
+Support Koma; Superstar Man-3 (Tottemo! Lucky Man): useful
 Support Koma; Sven-2 (Black Cat): unknown
 Support Koma; Sven-3 (Black Cat): unknown
 Support Koma; Ta-chan-2: useful
