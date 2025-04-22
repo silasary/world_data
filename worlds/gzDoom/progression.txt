@@ -92,6 +92,7 @@ BlueCard (E2M2): progression
 BlueCard (E2M3): unknown
 BlueCard (E2M4): unknown
 BlueCard (E2M7): progression
+BlueCard (MAP02): unknown
 BlueCard (MAP03): unknown
 BlueCard (MAP04): unknown
 BlueCard (MAP05): unknown
@@ -128,6 +129,7 @@ BlueSkull (MAP19): unknown
 BlueSkull (MAP21): unknown
 BlueSkull (MAP22): unknown
 BlueSkull (MAP25): unknown
+BlueSkull (MAP27): unknown
 BlurSphere: unknown
 Bullets: filler
 Chaingun: unknown
