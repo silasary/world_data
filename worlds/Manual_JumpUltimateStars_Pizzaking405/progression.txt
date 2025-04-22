@@ -62,7 +62,7 @@ Battle Koma; Hiei-5 (Yu Yu Hakusho): useful
 Battle Koma; Hitsugaya-4 (Bleach): unknown
 Battle Koma; Hitsugaya-5 (Bleach): useful
 Battle Koma; Hitsugaya-6 (Bleach): unknown
-Battle Koma; Ichigo-4 (Bleach): unknown
+Battle Koma; Ichigo-4 (Bleach): useful
 Battle Koma; Ichigo-5 (Bleach): useful
 Battle Koma; Ichigo-6 (Bleach): useful
 Battle Koma; Ichigo-7 (Bleach): unknown
@@ -116,7 +116,7 @@ Battle Koma; Momotaro-4 (Sakigake!! Otokujuku): useful
 Battle Koma; Momotaro-5 (Sakigake!! Otokujuku): useful
 Battle Koma; Momotaro-6-Knowledge (Sakigake!! Otokujuku): unknown
 Battle Koma; Momotaro-6-Power (Sakigake!! Otokujuku): useful
-Battle Koma; Muhyo-4 (Muhyo and Roji's Bureau): unknown
+Battle Koma; Muhyo-4 (Muhyo and Roji's Bureau): useful
 Battle Koma; Muhyo-5 (Muhyo and Roji's Bureau): unknown
 Battle Koma; Muhyo-6 (Muhyo and Roji's Bureau): useful
 Battle Koma; Muhyo-7 (Muhyo and Roji's Bureau): unknown
@@ -159,7 +159,7 @@ Battle Koma; Ryotsu-6-Laughter (Kochikame): unknown
 Battle Koma; Ryotsu-6-Power (Kochikame): unknown
 Battle Koma; Ryotsu-7 (Kochikame): unknown
 Battle Koma; Sakura-4 (Naruto): unknown
-Battle Koma; Sakura-5 [Naruto]: unknown
+Battle Koma; Sakura-5 [Naruto]: useful
 Battle Koma; Sakura-6-Laughter [Naruto]: unknown
 Battle Koma; Sakura-6-Power [Naruto]: useful
 Battle Koma; Sanji-4 (One Piece): unknown
@@ -250,7 +250,7 @@ Help Komas; Wall Jump: useful
 Max Deck Size +1: progression
 Planet Clear Token: mcguffin
 Planet Unlock; Bleach: unknown
-Planet Unlock; Bobo-bo Bo-bobo: unknown
+Planet Unlock; Bobo-bo Bo-bobo: progression
 Planet Unlock; Buso Renkin: progression
 Planet Unlock; Captain Tsubasa: unknown
 Planet Unlock; Cobra: progression
@@ -636,7 +636,7 @@ Support Koma; Vegeta-3 (Dragonball): useful
 Support Koma; Volvo-2 (Kochikame): useful
 Support Koma; Volvo-3 (Kochikame): useful
 Support Koma; Wars Man-2 (Kinnikuman): useful
-Support Koma; Wars Man-3 (Kinnikuman): unknown
+Support Koma; Wars Man-3 (Kinnikuman): useful
 Support Koma; Yahiko-2 (Rurouni Kenshin): useful
 Support Koma; Yahiko-3 (Rurouni Kenshin): useful
 Support Koma; Yamamoto-2 (Home Tutor Hitman Reborn!): unknown
