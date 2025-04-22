@@ -66,9 +66,14 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
 
     prog_txt = world_folder.joinpath(game_name, "progression.txt")
     if prog_txt.exists():
-        progressionFile = open(prog_txt, "r", encoding="utf-8")
-        text = progressionFile.read()
-        progressionFile.close()
+        try:
+            progressionFile = open(prog_txt, "r", encoding="utf-8", errors="backslashreplace")
+            text = progressionFile.read()
+            progressionFile.close()
+        except UnicodeDecodeError as e:
+            print(f"Error reading {prog_txt}: {e}")
+            raise
+
         for x in text.splitlines():
             if not x:
                 continue
@@ -103,13 +108,13 @@ def save_datapackage(game_name, dp: Datapackage) -> None:
     progressionFile = world_folder.joinpath(game_name, "progression.txt")
     lines = [f"{k}: {v.name}" for k, v in dp.items.items()]
     lines.sort()
-    progressionFile.write_text("\n".join(lines) + "\n")
+    progressionFile.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     return dp
 
 def save_complex(game_name, dp: Datapackage, info: dict[str, ItemClassification]) -> None:
     dump = yaml.dump({"categories": dp.categories, "items": info})
-    world_folder.joinpath(game_name, "info.yaml").write_text(dump)
+    world_folder.joinpath(game_name, "info.yaml").write_text(dump, encoding="utf-8")
     progressionFile = world_folder.joinpath(game_name, "progression.txt")
     if progressionFile.exists():
         progressionFile.unlink()
