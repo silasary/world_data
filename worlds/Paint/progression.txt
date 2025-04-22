@@ -24,4 +24,4 @@ Rectangle: unknown
 Rounded Rectangle: filler
 Select: useful
 Text: filler
-Undo Trap: unknown
+Undo Trap: trap
