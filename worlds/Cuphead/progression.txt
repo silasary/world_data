@@ -2,7 +2,7 @@
 3 Coins: unknown
 Chaser: unknown
 Coffee: unknown
-Coin: unknown
+Coin: filler
 Contract: unknown
 Dash: progression
 Duck: unknown
@@ -18,13 +18,13 @@ Plane Parry: unknown
 Plane Shrink: unknown
 Plane Super: unknown
 Progressive Charge: progression
-Progressive Lobber: unknown
+Progressive Lobber: useful
 Roundabout: unknown
 Smoke Bomb: unknown
 Spread: unknown
 Super Art I: unknown
 Super Art II: unknown
-Super Art III: unknown
+Super Art III: useful
 Super Recharge: useful
 Twin Heart: useful
 Whetstone: unknown
