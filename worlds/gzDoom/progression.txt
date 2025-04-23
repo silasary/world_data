@@ -1,4 +1,5 @@
 ArmorBonus: filler
+ArmorDiamond: filler
 Automap (E1M1): filler
 Automap (E1M2): filler
 Automap (E1M3): filler
@@ -181,7 +182,7 @@ EnchantedShield: useful
 Energy Cells: filler
 Ethereal Crossbow: unknown
 Firemace: unknown
-FishTank: unknown
+FishTank: filler
 Gauntlets of the Necromancer: unknown
 GreenArmor: useful
 HappySphere: unknown
