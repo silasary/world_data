@@ -360,6 +360,7 @@ Level Access (MAP14): unknown
 Level Access (MAP15): unknown
 Level Access (MAP16): unknown
 Level Access (MAP17): unknown
+Level Access (MAP18): unknown
 Level Access (MAP19): unknown
 Level Access (MAP20): unknown
 Level Access (MAP21): unknown
@@ -430,18 +431,22 @@ Level Clear (MAP10): unknown
 Level Clear (MAP11): unknown
 Level Clear (MAP12): unknown
 Level Clear (MAP13): unknown
+Level Clear (MAP14): unknown
 Level Clear (MAP15): unknown
 Level Clear (MAP16): unknown
 Level Clear (MAP17): unknown
+Level Clear (MAP18): unknown
 Level Clear (MAP19): unknown
 Level Clear (MAP20): unknown
 Level Clear (MAP21): unknown
 Level Clear (MAP23): unknown
 Level Clear (MAP24): unknown
 Level Clear (MAP25): unknown
+Level Clear (MAP26): unknown
 Level Clear (MAP27): mcguffin
 Level Clear (MAP28): unknown
 Level Clear (MAP29): mcguffin
+Level Clear (MAP30): unknown
 Level Clear (MAP31): unknown
 Level Clear (MAP32): unknown
 Medikit: filler
@@ -465,6 +470,7 @@ RedCard (MAP02): unknown
 RedCard (MAP03): unknown
 RedCard (MAP04): unknown
 RedCard (MAP05): unknown
+RedCard (MAP06): unknown
 RedCard (MAP11): unknown
 RedCard (MAP13): unknown
 RedCard (MAP15): unknown
@@ -484,6 +490,7 @@ RedSkull (E4M5): unknown
 RedSkull (E4M6): unknown
 RedSkull (E4M7): unknown
 RedSkull (E4M8): progression
+RedSkull (MAP08): unknown
 RedSkull (MAP14): unknown
 RedSkull (MAP16): unknown
 RedSkull (MAP19): unknown
