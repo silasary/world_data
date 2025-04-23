@@ -186,6 +186,7 @@ FishTank: filler
 Gauntlets of the Necromancer: unknown
 GreenArmor: useful
 HappySphere: unknown
+Health: unknown
 HealthBonus: filler
 Hellstaff: useful
 Infrared: unknown
@@ -425,6 +426,7 @@ Level Clear (MAP02): unknown
 Level Clear (MAP03): unknown
 Level Clear (MAP04): unknown
 Level Clear (MAP05): unknown
+Level Clear (MAP06): unknown
 Level Clear (MAP07): unknown
 Level Clear (MAP09): unknown
 Level Clear (MAP10): unknown
