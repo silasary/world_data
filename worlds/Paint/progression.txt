@@ -14,7 +14,7 @@ Line: filler
 Magnifier: useful
 Pencil: progression
 Pick Color: useful
-Polygon: unknown
+Polygon: useful
 Progressive Canvas Height: progression
 Progressive Canvas Width: progression
 Progressive Color Depth (Blue): progression
