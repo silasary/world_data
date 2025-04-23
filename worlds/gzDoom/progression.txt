@@ -175,11 +175,13 @@ ChexYellowCard (E3M1): unknown
 ChexYellowCard (E3M2): unknown
 ChexYellowCard (E3M3): progression
 ChexYellowCard (E3M4): progression
+CircleKey (E2A4): unknown
 Dragon Claw: unknown
 EnchantedShield: useful
 Energy Cells: filler
 Ethereal Crossbow: unknown
 Firemace: unknown
+FishTank: unknown
 Gauntlets of the Necromancer: unknown
 GreenArmor: useful
 HappySphere: unknown
@@ -496,6 +498,7 @@ Shotgun: progression
 SilverShield: useful
 SlimeProofSuit: unknown
 Soulsphere: useful
+SquareBackpack: unknown
 SquareKey (E1A8): unknown
 Stimpack: filler
 Super Bootspork: unknown
