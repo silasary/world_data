@@ -8,6 +8,7 @@
 [Staff] 1 Engineer: filler
 [Staff] 1 Scientist: filler
 [Tech] ADVENT Priest Autopsy: unknown
+[Tech] ADVENT Purifier Autopsy: unknown
 [Tech] ADVENT Trooper Autopsy: useful
 [Tech] ADVENT Turret Breakdown: useful
 [Tech] Alien Biotech: unknown
@@ -25,3 +26,4 @@
 [Tech] The Lost Autopsy: useful
 [Tech] Warlock Weapons: useful
 [Upgrade] Advanced Laser Sight: filler
+[Upgrade] Superior Scope: filler
