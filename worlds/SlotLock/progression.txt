@@ -37,6 +37,7 @@ Unlock Bonus Slot 128: progression
 Unlock Bonus Slot 129: progression
 Unlock Bonus Slot 12: progression
 Unlock Bonus Slot 130: progression
+Unlock Bonus Slot 131: unknown
 Unlock Bonus Slot 132: progression
 Unlock Bonus Slot 133: progression
 Unlock Bonus Slot 134: progression
@@ -68,6 +69,7 @@ Unlock Bonus Slot 159: progression
 Unlock Bonus Slot 15: progression
 Unlock Bonus Slot 160: unknown
 Unlock Bonus Slot 161: progression
+Unlock Bonus Slot 162: unknown
 Unlock Bonus Slot 164: progression
 Unlock Bonus Slot 165: progression
 Unlock Bonus Slot 166: progression
@@ -160,6 +162,7 @@ Unlock Bonus Slot 254: progression
 Unlock Bonus Slot 255: unknown
 Unlock Bonus Slot 256: progression
 Unlock Bonus Slot 259: progression
+Unlock Bonus Slot 260: unknown
 Unlock Bonus Slot 262: progression
 Unlock Bonus Slot 263: progression
 Unlock Bonus Slot 264: progression
@@ -225,6 +228,7 @@ Unlock Bonus Slot 320: progression
 Unlock Bonus Slot 321: progression
 Unlock Bonus Slot 322: unknown
 Unlock Bonus Slot 323: progression
+Unlock Bonus Slot 324: unknown
 Unlock Bonus Slot 326: unknown
 Unlock Bonus Slot 327: progression
 Unlock Bonus Slot 328: progression
@@ -251,6 +255,8 @@ Unlock Bonus Slot 347: progression
 Unlock Bonus Slot 348: progression
 Unlock Bonus Slot 349: unknown
 Unlock Bonus Slot 34: progression
+Unlock Bonus Slot 350: unknown
+Unlock Bonus Slot 351: unknown
 Unlock Bonus Slot 352: unknown
 Unlock Bonus Slot 353: progression
 Unlock Bonus Slot 354: progression
@@ -325,6 +331,7 @@ Unlock Bonus Slot 418: progression
 Unlock Bonus Slot 419: progression
 Unlock Bonus Slot 41: progression
 Unlock Bonus Slot 420: progression
+Unlock Bonus Slot 421: unknown
 Unlock Bonus Slot 422: progression
 Unlock Bonus Slot 423: progression
 Unlock Bonus Slot 424: progression
@@ -334,9 +341,11 @@ Unlock Bonus Slot 428: progression
 Unlock Bonus Slot 429: unknown
 Unlock Bonus Slot 42: progression
 Unlock Bonus Slot 431: progression
+Unlock Bonus Slot 432: unknown
 Unlock Bonus Slot 435: progression
 Unlock Bonus Slot 436: unknown
 Unlock Bonus Slot 437: progression
+Unlock Bonus Slot 438: unknown
 Unlock Bonus Slot 439: unknown
 Unlock Bonus Slot 43: progression
 Unlock Bonus Slot 440: progression
@@ -382,6 +391,7 @@ Unlock Bonus Slot 478: progression
 Unlock Bonus Slot 479: progression
 Unlock Bonus Slot 47: progression
 Unlock Bonus Slot 480: unknown
+Unlock Bonus Slot 481: unknown
 Unlock Bonus Slot 482: unknown
 Unlock Bonus Slot 483: progression
 Unlock Bonus Slot 484: progression
