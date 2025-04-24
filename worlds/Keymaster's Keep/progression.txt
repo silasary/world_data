@@ -99,6 +99,7 @@ Unlock: The Mysterious Doorway: progression
 Unlock: The Mysterious Passage: unknown
 Unlock: The Mysterious Vault: unknown
 Unlock: The Mystical Passage: unknown
+Unlock: The Obscure Passage: mcguffin
 Unlock: The Obscured Arch: unknown
 Unlock: The Obscured Doorway: progression
 Unlock: The Obscured Portal: unknown
@@ -113,13 +114,14 @@ Unlock: The Sealed Threshold: progression
 Unlock: The Secret Passageway: progression
 Unlock: The Secret Threshold: progression
 Unlock: The Secret Vault: unknown
-Unlock: The Secreted Door: unknown
+Unlock: The Secreted Door: mcguffin
 Unlock: The Secretive Door: progression
 Unlock: The Shadowed Portal: progression
 Unlock: The Shadowed Threshold: progression
 Unlock: The Shadowy Passage: unknown
 Unlock: The Shrouded Gateway: unknown
 Unlock: The Shrouded Portal: unknown
+Unlock: The Silent Archway: mcguffin
 Unlock: The Silent Passage: progression
 Unlock: The Silent Threshold: unknown
 Unlock: The Silent Vault: progression
