@@ -4,6 +4,7 @@ Aston Martin Permit: progression
 Audi Permit: unknown
 BMW Permit: progression
 Brake Balance Controller: useful
+Carbon Driveshaft: unknown
 Chevrolet Permit: progression
 Citroën Permit: progression
 Daihatsu Permit: progression
@@ -11,16 +12,25 @@ Dirt Racing Tires: progression
 Displacement Increase: useful
 Dodge Permit: progression
 Fiat Permit: progression
+Ford Permit: unknown
 Free car wash: filler
+Full Engine Balancing: unknown
 Honda & Acura Permit: progression
 Jaguar Permit: progression
 Lancia Permit: progression
 Lister Permit: progression
 Lotus Permit: progression
 Mazda Permit: progression
+Mercedes-Benz Permit: unknown
 Mini & MG Permit: progression
 Mitsubishi Permit: progression
+Nissan Permit: unknown
 Opel/Vauxhall Permit: progression
+Performance Chip: unknown
+Peugeot Permit: unknown
+Plymouth Permit: unknown
+Port & Polish: unknown
+Progressive Clutch: unknown
 Progressive Flywheel: useful
 Progressive Intercooler: useful
 Progressive License: progression
@@ -35,10 +45,20 @@ Progressive Weight Reduction: useful
 RUF Permit: progression
 Racing Modification: progression
 Renault Permit: progression
+Shelby Permit: unknown
 Simulation Tires: useful
 Sports Brakes: progression
+Subaru Permit: unknown
+Suzuki Permit: unknown
+TCS Controller: unknown
 TVR Permit: progression
+Tommy Kaira Permit: unknown
+Toyota Permit: unknown
 Trophy: mcguffin
+Vector Permit: unknown
+Venturi Permit: unknown
+Volkswagen Permit: unknown
 Won All Euro-Pacific Events: progression
 Won All Nationals Events: progression
+Won GT World League: mcguffin
 Yaw Control System: useful

@@ -208,7 +208,7 @@ Filler arc: unknown
 Help Komas; Air Dash: useful
 Help Komas; Assault: useful
 Help Komas; Auto-Guard: useful
-Help Komas; Blades Defense+: unknown
+Help Komas; Blades Defense+: useful
 Help Komas; Bravery: unknown
 Help Komas; Coin SP+: useful
 Help Komas; Combative Spirit: unknown
@@ -431,7 +431,7 @@ Support Koma; Iori-2 (I"s): unknown
 Support Koma; Iori-3 (I"s): unknown
 Support Koma; Itsuki-2 (I"s): useful
 Support Koma; Itsuki-3 (I"s): useful
-Support Koma; J-2 (Sakigake!! Otokujuku): unknown
+Support Koma; J-2 (Sakigake!! Otokujuku): useful
 Support Koma; J-3 (Sakigake!! Otokujuku): unknown
 Support Koma; Jaguar-2 (Pyuu to Fuku! Jaguar): useful
 Support Koma; Jaguar-3 (Pyuu to Fuku! Jaguar): unknown
@@ -472,6 +472,7 @@ Support Koma; Kenshiro-2 (Fist Of The North Star): unknown
 Support Koma; Kenshiro-3 (Fist Of The North Star): unknown
 Support Koma; Killua-2 (Hunter x Hunter): useful
 Support Koma; Killua-3 (Hunter x Hunter): useful
+Support Koma; Kinnikuman-2 (Kinnikuman): useful
 Support Koma; Kinnikuman-3 (Kinnikuman): useful
 Support Koma; Kiyo Hiko-2 (Pyuu to Fuku! Jaguar): useful
 Support Koma; Kiyo Hiko-3 (Pyuu to Fuku! Jaguar): unknown

@@ -6,7 +6,7 @@ Curve: filler
 Ellipse: filler
 Eraser/Color Eraser: progression
 Fill With Color: filler
-Flip Horizontal Trap: unknown
+Flip Horizontal Trap: trap
 Flip Vertical Trap: trap
 Free-Form Select: filler
 Invert Colors Trap: trap
@@ -14,7 +14,7 @@ Line: filler
 Magnifier: useful
 Pencil: progression
 Pick Color: useful
-Polygon: unknown
+Polygon: useful
 Progressive Canvas Height: progression
 Progressive Canvas Width: progression
 Progressive Color Depth (Blue): progression

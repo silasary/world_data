@@ -62,6 +62,7 @@ Prison Island Soldier: progression
 Purple Chaos Emerald: mcguffin
 Red Chaos Emerald: progression
 Shadow Rifle Magazine: unknown
+Shadow Rifle Receiver: useful
 Sky Troops Egg Ship: progression
 Sky Troops Temple: progression
 Space Gadget Defense Unit: progression
@@ -119,10 +120,14 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
+Warp:Air Fleet: progression
+Warp:Black Doom Gun Fortress: progression
 Warp:Central City: unknown
 Warp:Circus Park: unknown
 Warp:Cosmic Fall: unknown
 Warp:Diablon Gun Fortress: unknown
+Warp:Gun Fortress: progression
+Warp:Lava Shelter: progression
 Warp:Lethal Highway: unknown
 Warp:Lost Impact: unknown
 Warp:Sky Troops: unknown
@@ -148,7 +153,7 @@ Weapon:Egg Spear: unknown
 Weapon:Egg Vacuum: progression
 Weapon:Flash Shot: progression
 Weapon:Fleet Pole: unknown
-Weapon:Fortress Pole: unknown
+Weapon:Fortress Pole: filler
 Weapon:Gadget Pole: unknown
 Weapon:Gatling Gun: progression
 Weapon:Grenade Launcher: progression
@@ -176,9 +181,9 @@ Weapon:Satellite Gun: progression
 Weapon:Semi Automatic Rifle: progression
 Weapon:Shadow Rifle: progression
 Weapon:Sky Pole: unknown
-Weapon:Speed Limit Sign: unknown
+Weapon:Speed Limit Sign: filler
 Weapon:Splitter: progression
-Weapon:Stop Sign: unknown
+Weapon:Stop Sign: filler
 Weapon:Sub Machine Gun: progression
 Weapon:Survival Knife: unknown
 Weapon:Tank Cannon: unknown
