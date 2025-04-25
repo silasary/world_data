@@ -20,7 +20,7 @@ Progressive Canvas Width: progression
 Progressive Color Depth (Blue): progression
 Progressive Color Depth (Green): progression
 Progressive Color Depth (Red): progression
-Rectangle: unknown
+Rectangle: useful
 Rounded Rectangle: filler
 Select: useful
 Text: filler
