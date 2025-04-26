@@ -1,5 +1,7 @@
 ArmorBonus: filler
+ArmorBrick: unknown
 ArmorDiamond: filler
+ArmorWood: unknown
 Automap (E1M1): useful
 Automap (E1M2): useful
 Automap (E1M3): useful
@@ -9,6 +11,7 @@ Automap (E1M6): useful
 Automap (E1M7): useful
 Automap (E1M8): useful
 Automap (E1M9): useful
+Automap (E2A6): unknown
 Automap (E2M1): useful
 Automap (E2M2): useful
 Automap (E2M3): useful
@@ -176,7 +179,14 @@ ChexYellowCard (E3M1): progression
 ChexYellowCard (E3M2): progression
 ChexYellowCard (E3M3): progression
 ChexYellowCard (E3M4): progression
+CircleKey (E1A3): unknown
 CircleKey (E2A4): unknown
+CircoolAid: unknown
+CubeKey (E2A1): unknown
+CubeKey (E2A6): unknown
+DevilSphere: unknown
+DiamondRune (E2A12): unknown
+DiamondRune (E2A5): unknown
 Dragon Claw: progression
 EnchantedShield: filler
 Energy Cells: filler
@@ -298,6 +308,9 @@ KeyYellow (E5M9): progression
 LAZ Device: progression
 Large Zorcher: progression
 Level Access (E1A1): unknown
+Level Access (E1A3): unknown
+Level Access (E1A6): unknown
+Level Access (E1A7): unknown
 Level Access (E1M1): progression
 Level Access (E1M2): progression
 Level Access (E1M3): progression
@@ -308,6 +321,8 @@ Level Access (E1M7): progression
 Level Access (E1M8): progression
 Level Access (E1M9): progression
 Level Access (E2A1): unknown
+Level Access (E2A12): unknown
+Level Access (E2A9): unknown
 Level Access (E2M1): progression
 Level Access (E2M2): progression
 Level Access (E2M3): progression
@@ -451,6 +466,7 @@ Level Clear (MAP29): mcguffin
 Level Clear (MAP30): unknown
 Level Clear (MAP31): mcguffin
 Level Clear (MAP32): unknown
+Locationator: unknown
 Medikit: filler
 Megasphere: filler
 Morph Ovum: filler
@@ -458,6 +474,7 @@ Mystic Urn: filler
 Phasing Zorcher: progression
 Phoenix Rod: progression
 Plasma Rifle: progression
+Powerzade: unknown
 PyramidKey (E2A1): unknown
 RadSuit: filler
 Rapid Zorcher: progression
@@ -509,7 +526,11 @@ Shotgun: progression
 SilverShield: filler
 SlimeProofSuit: filler
 Soulsphere: progression
+SphereKey (E2A1): unknown
+SphereKey (E2A7): unknown
 SquareBackpack: unknown
+SquareKey (E1A4): unknown
+SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
 Stimpack: filler
 Super Bootspork: progression
@@ -519,6 +540,8 @@ SuperchargeBreakfast: filler
 Time Bomb of the Ancients: filler
 Tome of Power: filler
 Torch: filler
+TrapezoidKey (E1A7): unknown
+TriangleKey (E1A2): unknown
 UltraGoggles: filler
 Wings of Wrath: filler
 YellowCard (E1M3): progression
