@@ -32,7 +32,7 @@ Ivory Drift Key: progression
 Ivory Sprout Key: progression
 Mahogany Bark Key: progression
 Midnight Abyss Key: progression
-Midnight Shade Key: unknown
+Midnight Shade Key: progression
 Obsidian Core Key: progression
 Obsidian Wraith Key: progression
 Onyx Eclipse Key: progression
@@ -67,11 +67,12 @@ Unlock: The Elusive Door: progression
 Unlock: The Enchanted Gateway: unknown
 Unlock: The Enchanted Passage: unknown
 Unlock: The Enigmatic Portal: progression
-Unlock: The Enigmatic Threshold: unknown
+Unlock: The Enigmatic Threshold: progression
 Unlock: The Faded Gateway: progression
 Unlock: The Faint Doorway: progression
 Unlock: The Faint Path: progression
 Unlock: The Faint Threshold: unknown
+Unlock: The Forbidden Entrance: progression
 Unlock: The Forgotten Door: progression
 Unlock: The Forgotten Gateway: progression
 Unlock: The Forgotten Portal: unknown
@@ -103,7 +104,7 @@ Unlock: The Mystical Passage: unknown
 Unlock: The Obscure Passage: mcguffin
 Unlock: The Obscured Arch: unknown
 Unlock: The Obscured Doorway: progression
-Unlock: The Obscured Portal: unknown
+Unlock: The Obscured Portal: progression
 Unlock: The Obscured Vault: unknown
 Unlock: The Phantom Passage: unknown
 Unlock: The Phantom Vault: progression
@@ -130,8 +131,8 @@ Unlock: The Unfathomable Door: progression
 Unlock: The Unknown Arch: unknown
 Unlock: The Unknown Gateway: unknown
 Unlock: The Unmarked Passage: progression
-Unlock: The Unmarked Vault: unknown
-Unlock: The Unraveled Door: unknown
+Unlock: The Unmarked Vault: progression
+Unlock: The Unraveled Door: progression
 Unlock: The Unseen Archway: progression
 Unlock: The Unseen Door: unknown
 Unlock: The Unseen Passage: progression
@@ -143,7 +144,7 @@ Unlock: The Vanishing Archway: progression
 Unlock: The Vanishing Door: unknown
 Unlock: The Vault of Whispers: progression
 Unlock: The Veiled Passage: progression
-Unlock: The Veiled Path: unknown
+Unlock: The Veiled Path: progression
 Unlock: The Whispered Portal: progression
 Unlock: The Whispering Door: progression
 Useless Key: filler
