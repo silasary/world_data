@@ -32,6 +32,7 @@ Automatic Pencil Sharpener: unknown
 Axe of Gentle Woodcutting: unknown
 Azure Oracle's Prophecy Scroll: unknown
 Banana Peel Band-Aid: unknown
+Banana Peel Boots: unknown
 Banana Peels: unknown
 Banana of Slippery Peels: unknown
 Barberry of Hairless Thorns: unknown
@@ -40,6 +41,7 @@ Begonia of Sunlight Aversion: unknown
 Belt of Loosening Tightness: unknown
 Bizarre Bubble Wrap: unknown
 Bizarre Bubblegum Shield: unknown
+Bizarre Dreamcatcher Amulet: unknown
 Blackberry of Thornless Bushes: unknown
 Blueberry of Color Blindness: unknown
 Blueberry of Red Hues: unknown
@@ -64,6 +66,7 @@ Bubblewrap Battering Ram: unknown
 Bucket of Dehydrated Water: unknown
 Bungee Cord of Balance: unknown
 Bungee Jumping Boots: unknown
+Cactus Juice: unknown
 Caffeine Boost: unknown
 Caffeine-Infused Combat Boots: unknown
 Captain's Fancy Hat: unknown
@@ -76,6 +79,7 @@ Celestial Chalice of Healing: unknown
 Celestial Chronicle Scroll: unknown
 Celestial Compass of Orientation: unknown
 Celestial Compass of the Wayfinder: unknown
+Celestial Crown Jewel: unknown
 Celestial Crown of Justice: unknown
 Celestial Map Scroll: unknown
 Celestial Quiver of the Divine: unknown
@@ -96,6 +100,7 @@ Chrysanthemum of Petal Shedding: unknown
 Cloak of Camouflage in Plain Sight: unknown
 Cloudberry of Gravitational Defiance: unknown
 Confused Cat Whisker Wand: unknown
+Confusion Grenade: unknown
 Cooking Pot of Raw Cuisine: unknown
 Coral of Dullness Enhancement: unknown
 Corgi Treat Dispenser: unknown
@@ -152,6 +157,7 @@ Dreamcatcher Necklace: unknown
 Dreamcatcher's Chalice: unknown
 Dreamcatcher's Journey: unknown
 Dreamcatcher's Scepter: unknown
+Dreamcatcher's Web of Illusions: unknown
 Dreamweaver's Loom: unknown
 Dwarven Iron Fist Gauntlets: unknown
 El'goroth's Eternal Eye of Insight: unknown
@@ -173,6 +179,7 @@ Emberflame Shield: unknown
 Emberheart Amulet: unknown
 Emberheart Choker: unknown
 Emberheart Shield: unknown
+Emberheart's Blessing: unknown
 Embersteel Sword: unknown
 Emberstone Shield: unknown
 Emberwing Cloak: unknown
@@ -187,6 +194,7 @@ Enchanted Quill of Knowledge: unknown
 Enchanted Quill: unknown
 Enchanted Quiver of Arrows: unknown
 Enchanted Quiver: unknown
+Enoki of Tangled Straightness: unknown
 Eternity's Edge Longsword: unknown
 Ethereal Eclipse Orb: unknown
 Ethereal Elixir Flask: unknown
@@ -201,6 +209,7 @@ Feathered Crown: unknown
 Featherfall Cloak: unknown
 Fern of Cold Resistance: unknown
 Fiddlehead Feathered Hat: unknown
+Fiendfetter's Boots: unknown
 Fiendish Fork of Despair: unknown
 Fiery Ember Sword: unknown
 Fiery Fable Tome: unknown
@@ -217,6 +226,7 @@ Fireheart Gauntlets: unknown
 Fishin' For Trouble Rod: unknown
 Fishing Rod of Fish Repellent: unknown
 Flameheart Helm: unknown
+Flameheart Shield: unknown
 Flameheart Sword: unknown
 Flappy Wings: unknown
 Flax Seed of Cotton Softness: unknown
@@ -226,6 +236,7 @@ Flying Fuzzy Slippers: unknown
 Flying Monkey Cape: unknown
 Flying Pineapple Launcher: unknown
 Flying Pizza Crusts: unknown
+Forgotten Lunchbox of Wonder: unknown
 Forgotten Password Cracker: unknown
 Forgotten Recipe: unknown
 Forgotten Relic: unknown
@@ -244,6 +255,7 @@ Furry Boots: unknown
 Furry Feline Companion: unknown
 Furry Feline Fancy Hat: unknown
 Furry Feline Shield: unknown
+Furry Flare Gun: unknown
 Furry Fuzz Bomb: unknown
 Furry Muffin Top of Warmth: unknown
 Furry Socks of Confusion: unknown
@@ -280,6 +292,7 @@ Gloves of Butterfingers: unknown
 Glowing Amulet of Health: unknown
 Glowing Grappling Hook: unknown
 Glowing Gummy Worms: unknown
+Glowing Mushroom Ring: unknown
 Goblet of Spilled Drinks: unknown
 Golden Amulet of the Ancients: unknown
 Golden Bacon Slicer: unknown
@@ -296,6 +309,7 @@ Golden Giggle Potions: unknown
 Golden Giggle Powder: unknown
 Golden Goose Egg: unknown
 Golden Gorgon Helm: unknown
+Golden Griffin Feather Quill: unknown
 Golden Griffin Feather: unknown
 Golden Gryphon Figurine: unknown
 Golden Gryphon Staff: unknown
@@ -304,6 +318,7 @@ Golden Gryphon's Horn: unknown
 Golden Lasso of Truth: unknown
 Golden Sun Chariot: unknown
 Gooseberry of Feather Plucking: unknown
+Grapefruit of Tiny Hugeness: unknown
 Grappling Hook of Downward Ascent: unknown
 Gravity Boots for Cats: unknown
 Gravity-Defying Furry Slippers: unknown
@@ -352,6 +367,7 @@ Ironwood Longbow: unknown
 Jackfruit of Lightness Enhancement: unknown
 Jelly Bean Jaunt: unknown
 Jellybean Grenade: unknown
+Joke Jar of Jelly Beans: unknown
 Joke Shop Jester's Jester: unknown
 Jolly Jelly Bean Jetpack: unknown
 Jolly Jelly Donut Jar: unknown
@@ -371,6 +387,7 @@ Key for Storage Room 13: unknown
 Key for Storage Room 14: unknown
 Key for Storage Room 15: unknown
 Key for Storage Room 16: unknown
+Key for Storage Room 17: unknown
 Key for Storage Room 18: unknown
 Key for Storage Room 19: unknown
 Key for Storage Room 20: unknown
@@ -412,6 +429,8 @@ Lobster of Vegetarianism: unknown
 Lockpick: useful
 Loyal Loyalty Token: unknown
 Lucky Breaker: unknown
+Lucky Coinpurse: unknown
+Lucky Leaf of Fortune: unknown
 Lucky Llama Luck Charm: unknown
 Lucky Socks of Doom: unknown
 Luminous Cloak: unknown
@@ -458,6 +477,7 @@ Moonwhisper: unknown
 Mulberry of Rapid Decomposition: unknown
 Mushroom of Shrinking: unknown
 Mysterious Cheese Cubes: unknown
+Mysterious Map Tiles: unknown
 Mysterious Marshmallow Treats: unknown
 Mysterious Moleskine Notes: unknown
 Mysterious Pocketwatch: unknown
@@ -467,6 +487,7 @@ Mystery Meat of the Gods: unknown
 Mystic Mirror of Mirth: unknown
 Mystic Oracle's Scrying Stone: unknown
 Mythic Helm: unknown
+Mythic Scepter: unknown
 Mythril Chainmail Hauberk: unknown
 Mythril Mace of Might: unknown
 Mythril Medallion of Courage: unknown
@@ -476,9 +497,11 @@ Nightshade Wand: unknown
 Nightshroud Cloak: unknown
 Ninja Boots: unknown
 Ninja Noodle Gun: unknown
+Ninja Nose Guard: unknown
 Ninja Pajamas: unknown
 Ninja Sneakers: unknown
 Ninja Starfish Cape: unknown
+Ninja Stars: unknown
 Ninja's Favorite Scarf: unknown
 Ohm's Law Gauntlets: unknown
 Onion of Tear Prevention: unknown
@@ -507,6 +530,7 @@ Pocket Portal to Nowhere: unknown
 Pocket Portal to the Beach: unknown
 Pocket-sized Black Hole: unknown
 Pogo Stick Legs: unknown
+Pogo Stick Propulsion System: unknown
 Pogo Stick Shield: unknown
 Pogo Stick of Agility: unknown
 Pogo Stick of Jump: unknown
@@ -560,6 +584,7 @@ Robo-Raccoon Repair Kit: unknown
 Robot Buttermilk Biscuit Maker: unknown
 Robot Rockstar Rhythm Stick: unknown
 Robot Uprising Disks: unknown
+Robot Uprising Serum: unknown
 Robot Uprising Whistle: unknown
 Rocket Fuel Caffeine Pills: unknown
 Rocket Fuel Coffee Beans: unknown
@@ -579,6 +604,7 @@ Runebound Tome: unknown
 Runekeeper's Axe: unknown
 Runestone Axe: unknown
 Runestone of Power: unknown
+Runestone of Resilience: unknown
 Rye of Whiskey Aversion: unknown
 S'mores Rocket: unknown
 Safe Key: unknown
@@ -611,6 +637,7 @@ Shadowweave Cloak: unknown
 Shattered Mirror of Self-Doubt: unknown
 Shimmering Scale Armor: unknown
 Shiny Coin Purse: unknown
+Shovel of Dirt Creation: unknown
 Silly Sock Puppet: unknown
 Silverberry of Lead Heaviness: unknown
 Snacktastic Food Carton: unknown
@@ -634,15 +661,18 @@ Sparkle Snake Oil: unknown
 Sparkly Sock Drawer Surprise: unknown
 Sparkly Sock Drawer: unknown
 Sparkly Tiara Helmet: unknown
+Spellbound Boots: unknown
 Spellbound Chalice of Life: unknown
 Spellbound Mirror: unknown
 Spellbound Quiver of Arrows: unknown
 Spellbound Quiver: unknown
 Spicebush of Mildness Induction: unknown
+Spicy Chili Sauce of Doom: unknown
 Spicy Mustache Wax: unknown
 Spicy Taco of Power: unknown
 Spinning Top Grenade: unknown
 Spinning Top Hat of Strategy: unknown
+Spinning Top of Confusion: unknown
 Spoon of Soup Splashing: unknown
 Squirrel Nutmeg of Distraction: filler
 Squishy Robot Remote: unknown
@@ -654,6 +684,7 @@ Starlight Chariot: unknown
 Starlight Salad Tongs: unknown
 Starlight Seraphim Ring: unknown
 Starlight Serpentscale Armor: unknown
+Stone of Despair: unknown
 Stormcaller's Horn: unknown
 Stormsurge Boots: unknown
 Stormsurge Gauntlets: unknown
@@ -678,6 +709,7 @@ Tickle Me Trinket: unknown
 Time Traveler's Tinfoil Hat: unknown
 Time Warp Toilet Brushes: unknown
 Time Warp Tonic: unknown
+Tinderbox of Dampness: unknown
 Tofu of Texture Confusion: unknown
 Torch of Cold Illumination: unknown
 Turbo Toilet Brush: unknown
