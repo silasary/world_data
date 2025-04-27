@@ -2,6 +2,7 @@ ArmorBonus: filler
 ArmorBrick: unknown
 ArmorDiamond: filler
 ArmorWood: unknown
+Automap (E1A8): unknown
 Automap (E1M1): useful
 Automap (E1M2): useful
 Automap (E1M3): useful
@@ -190,6 +191,7 @@ DiamondRune (E2A5): unknown
 Dragon Claw: progression
 EnchantedShield: filler
 Energy Cells: filler
+EnviroSuit: unknown
 Ethereal Crossbow: progression
 Firemace: progression
 FishTank: filler
@@ -311,6 +313,7 @@ Level Access (E1A1): unknown
 Level Access (E1A3): unknown
 Level Access (E1A6): unknown
 Level Access (E1A7): unknown
+Level Access (E1A9): unknown
 Level Access (E1M1): progression
 Level Access (E1M2): progression
 Level Access (E1M3): progression
@@ -476,6 +479,7 @@ Phoenix Rod: progression
 Plasma Rifle: progression
 Powerzade: unknown
 PyramidKey (E2A1): unknown
+PyramidKey (E2A3): unknown
 RadSuit: filler
 Rapid Zorcher: progression
 RedCard (E1M2): progression
@@ -530,8 +534,10 @@ SphereKey (E2A1): unknown
 SphereKey (E2A7): unknown
 SquareBackpack: unknown
 SquareKey (E1A4): unknown
+SquareKey (E1A5): unknown
 SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
+SquareKey (E2A8): unknown
 Stimpack: filler
 Super Bootspork: progression
 Super Shotgun: progression
