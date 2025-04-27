@@ -46,7 +46,7 @@ Cid: useful
 Cloth Armor: filler
 Coffin: filler
 Cross Bow: filler
-Cross: unknown
+Cross: filler
 Crystal Armor: filler
 Crystal Gauntlet: filler
 Crystal Helm: filler
@@ -199,7 +199,7 @@ Samurai Bow: filler
 Samurai Gauntlet: unknown
 Samurai Helm: filler
 Samurai Shield: filler
-SandRuby: unknown
+SandRuby: progression
 Shadow Armor: filler
 Shadow Gauntlet: filler
 Shadow Helm: unknown
@@ -209,7 +209,7 @@ Short Katana: filler
 Shuriken: filler
 Silence Staff: filler
 SilkWeb: filler
-Silver Armor: unknown
+Silver Armor: filler
 Silver Gauntlet: filler
 Silver Hammer: filler
 Silver Helm: filler
