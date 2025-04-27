@@ -201,6 +201,8 @@ HappySphere: unknown
 Health: unknown
 HealthBonus: filler
 Hellstaff: progression
+HolySphere: unknown
+HotSauce: unknown
 Infrared: filler
 InvulnerabilitySphere: filler
 KeyBlue (E1M2): progression
@@ -394,6 +396,8 @@ Level Access (MAP29): progression
 Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Clear (E1A4): unknown
+Level Clear (E1A5): unknown
 Level Clear (E1M1): mcguffin
 Level Clear (E1M2): mcguffin
 Level Clear (E1M3): mcguffin
@@ -403,6 +407,8 @@ Level Clear (E1M6): mcguffin
 Level Clear (E1M7): mcguffin
 Level Clear (E1M8): mcguffin
 Level Clear (E1M9): mcguffin
+Level Clear (E2A3): unknown
+Level Clear (E2A8): unknown
 Level Clear (E2M1): mcguffin
 Level Clear (E2M2): mcguffin
 Level Clear (E2M3): mcguffin
@@ -527,6 +533,7 @@ Rockets: filler
 Shadowsphere: filler
 Shotgun Shells: filler
 Shotgun: progression
+SillySphere: unknown
 SilverShield: filler
 SlimeProofSuit: filler
 Soulsphere: progression
