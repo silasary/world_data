@@ -181,9 +181,12 @@ ChexYellowCard (E3M2): progression
 ChexYellowCard (E3M3): progression
 ChexYellowCard (E3M4): progression
 CircleKey (E1A3): unknown
+CircleKey (E1A8): unknown
 CircleKey (E2A4): unknown
 CircoolAid: unknown
+CrescentRune (E2A12): unknown
 CubeKey (E2A1): unknown
+CubeKey (E2A2): unknown
 CubeKey (E2A6): unknown
 DevilSphere: unknown
 DiamondRune (E2A12): unknown
@@ -196,11 +199,13 @@ Ethereal Crossbow: progression
 Firemace: progression
 FishTank: filler
 Gauntlets of the Necromancer: progression
+GoonadesVO: unknown
 GreenArmor: filler
 HappySphere: unknown
 Health: unknown
 HealthBonus: filler
 Hellstaff: progression
+HexagonKey (E2A12): unknown
 HolySphere: unknown
 HotSauce: unknown
 Infrared: filler
@@ -556,6 +561,7 @@ Tome of Power: filler
 Torch: filler
 TrapezoidKey (E1A7): unknown
 TriangleKey (E1A2): unknown
+TriangleKey (E1A4): unknown
 UltraGoggles: filler
 Wings of Wrath: filler
 YellowCard (E1M3): progression
