@@ -100,7 +100,7 @@ Faith:Small: filler
 Feudalism: filler
 Flight: unknown
 Foreign Trade: progression
-Future Civic: unknown
+Future Civic: progression
 Future Tech: filler
 Games Recreation: unknown
 Global Warming Mitigation: filler
@@ -117,7 +117,7 @@ Horseback Riding: filler
 Humanism: unknown
 Ideology: filler
 Industrialization: unknown
-Information Warfare: unknown
+Information Warfare: useful
 Iron Working: progression
 Irrigation: progression
 Lasers: filler
