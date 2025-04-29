@@ -30,6 +30,8 @@ Compass Room - Lookout Entrance: progression
 Compass Room Panels: progression
 Courtyard - Backside Door: progression
 Courtyard - Green Barrier: progression
+Courtyard - Ordinal Panels: unknown
+Crossroads - DECAY (Panel): unknown
 Crossroads - Eye Wall: progression
 Crossroads - Hollow Hallway: progression
 Crossroads - NOPE (Panel): progression
@@ -92,6 +94,7 @@ Orange Tower First Floor - Salt Pepper Door: progression
 Orange Tower First Floor - Shortcut to Hub Room: progression
 Orange Tower First Floor - Shortcuts: progression
 Orange Tower Fourth Floor - Hot Crusts Door: progression
+Orange Tower Panels: unknown
 Orange Tower Third Floor - Red Barrier: progression
 Orange Tower Third Floor - Rhyme Room Entrance: progression
 Orange: progression
@@ -115,6 +118,7 @@ Outside The Undeterred - Zero Door: progression
 Outside The Wanderer - Tower Entrance: progression
 Outside The Wanderer - WANDERLUST (Panel): progression
 Outside The Wondrous - SHRINK (Panel): progression
+Owl Hallway - STRAYS (Panel): unknown
 Owl Hallway - Shortcut to Hedge Maze: progression
 Pilgrim Room - Shortcut to The Seeker: progression
 Pilgrim Room - Sun Painting: progression
@@ -125,6 +129,7 @@ Progressive Hallway Room: progression
 Progressive Number Hunt: progression
 Progressive Orange Tower: progression
 Progressive Pilgrimage: progression
+Progressive Suits Area: unknown
 Purple: progression
 Puzzle Skip: useful
 Red: progression
@@ -136,9 +141,11 @@ Rhyme Room (Looped Square) - Door to Target: progression
 Rhyme Room (Smiley) - Door to Target: progression
 Rhyme Room (Target) - Door to Cross: progression
 Rhyme Room Doors: progression
+Room Room - BROOMED, LAYS, BASE (Panels): unknown
 Room Room - Cellar Exit: progression
 Second Room - Exit Door: progression
 Slowness Trap: trap
+Speed Boost: unknown
 Starting Room - Back Right Door: progression
 Starting Room - Blue Painting: progression
 Starting Room - Flower Painting: progression
