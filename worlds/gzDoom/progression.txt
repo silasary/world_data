@@ -405,8 +405,11 @@ Level Access (MAP29): progression
 Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Clear (E1A1): unknown
+Level Clear (E1A2): unknown
 Level Clear (E1A4): unknown
 Level Clear (E1A5): unknown
+Level Clear (E1A8): unknown
 Level Clear (E1M1): mcguffin
 Level Clear (E1M2): mcguffin
 Level Clear (E1M3): mcguffin
@@ -416,8 +419,11 @@ Level Clear (E1M6): mcguffin
 Level Clear (E1M7): mcguffin
 Level Clear (E1M8): mcguffin
 Level Clear (E1M9): mcguffin
+Level Clear (E2A11): unknown
+Level Clear (E2A2): unknown
 Level Clear (E2A3): unknown
 Level Clear (E2A8): unknown
+Level Clear (E2A9): unknown
 Level Clear (E2M1): mcguffin
 Level Clear (E2M2): mcguffin
 Level Clear (E2M3): mcguffin
@@ -490,6 +496,7 @@ Megasphere: filler
 Morph Ovum: filler
 Mystic Urn: filler
 OoziVO: unknown
+OozisVO: unknown
 Phasing Zorcher: progression
 Phoenix Rod: progression
 Plasma Rifle: progression
@@ -557,6 +564,7 @@ SquareKey (E1A5): unknown
 SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
 SquareKey (E2A8): unknown
+StarRune (E2A10): unknown
 Stimpack: filler
 Super Bootspork: progression
 Super Shotgun: progression
