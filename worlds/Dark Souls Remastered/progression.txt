@@ -7,13 +7,14 @@ Archive Prison Extra Key: progression
 Archive Tower Cell Key: progression
 Archive Tower Giant Cell Key: progression
 Archive Tower Giant Door Key: progression
-Armor Smithbox: unknown
+Armor Smithbox: filler
 Armor of Thorns: useful
 Armor of the Glorious: unknown
 Armor of the Sun: filler
 Astora's Straight Sword: filler
 Balder Armor: unknown
 Balder Gauntlets: filler
+Balder Helm: unknown
 Balder Shield: unknown
 Balder Side Sword: unknown
 Bandit's Knife: unknown
@@ -135,6 +136,7 @@ Demon Titanite: useful
 Demon's Catalyst: unknown
 Demon's Greataxe: unknown
 Dingy Gloves: unknown
+Dingy Hood: unknown
 Divine Blessing: unknown
 Divine Ember: useful
 Dragon Bone Fist: useful
@@ -150,6 +152,7 @@ Dragonslayer Arrow: useful
 Dragonslayer Spear: useful
 Dried Finger: useful
 Dung Pie: filler
+Dusk Crown Ring: unknown
 Eagle Shield: useful
 East Wood Grain Ring: unknown
 Eastern Armor: useful
@@ -176,7 +179,7 @@ Fire Keeper Soul (Blighttown): unknown
 Fire Keeper Soul (Darkmoon Knightess): unknown
 Fire Keeper Soul (Daughter of Chaos): useful
 Fire Keeper Soul (Duke's Archives): useful
-Fire Keeper Soul (New Londo): unknown
+Fire Keeper Soul (New Londo): useful
 Fire Keeper Soul (Undead Parish): useful
 Firebomb: filler
 Flamberge: useful
@@ -195,17 +198,21 @@ Giant's Halberd: unknown
 Gold Coin: unknown
 Gold Pine Resin: useful
 Gold Tracer: unknown
+Gold-Hemmed Black Cloak: unknown
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: unknown
+Golem Armor: unknown
 Golem Axe: useful
 Golem Gauntlets: unknown
 Golem Leggings: useful
 Gough's Armor: useful
 Gough's Gauntlets: useful
 Gough's Great Arrow: useful
+Gough's Greatbow: unknown
 Gough's Helm: unknown
 Grass Crest Shield: useful
 Gravelord Sword: useful
+Greataxe: unknown
 Greatshield of Artorias: useful
 Greatsword of Artorias (Cursed): useful
 Greatsword of Artorias: unknown
@@ -213,6 +220,7 @@ Green Blossom: useful
 Green Titanite Shard: useful
 Guardian Armor: useful
 Guardian Gauntlets: unknown
+Guardian Helm: unknown
 Guardian Soul: filler
 Halberd: unknown
 Hammer of Vamos: useful
@@ -222,6 +230,7 @@ Hard Leather Gauntlets: unknown
 Havel's Greatshield: unknown
 Havel's Helm: useful
 Havel's Ring: unknown
+Hawk Ring: unknown
 Heater Shield: unknown
 Heavy Bolt: useful
 Heavy Boots: unknown
@@ -285,8 +294,10 @@ Lord's Blade Robe: useful
 Lord's Blade Waistcloth: useful
 Lordvessel: mcguffin
 Lucerne: filler
+Mace: unknown
 Maiden Gloves: useful
 Mail Breaker: filler
+Manus Catalyst: unknown
 Mask of the Child: unknown
 Mask of the Father: useful
 Mask of the Mother: unknown
@@ -306,6 +317,7 @@ Miracle: Karmic Justice: useful
 Miracle: Lightning Spear: unknown
 Miracle: Magic Barrier: useful
 Miracle: Replenishment: filler
+Miracle: Soothing Sunlight: unknown
 Miracle: Sunlight Blade: useful
 Miracle: Vow of Silence: useful
 Miracle: Wrath of the Gods: useful
@@ -335,6 +347,7 @@ Peculiar Doll: progression
 Pendant: progression
 Pharis's Hat: filler
 Pierce Shield: useful
+Pike: unknown
 Plank Shield: filler
 Poison Arrow: useful
 Poison Throwing Knife: filler
@@ -360,6 +373,7 @@ Pyromancy: Great Fireball: useful
 Pyromancy: Iron Flesh: useful
 Pyromancy: Poison Mist: unknown
 Pyromancy: Toxic Mist: useful
+Rapier: unknown
 Red Eye Orb: filler
 Red Sign Soapstone: useful
 Red Titanite Chunk: useful
@@ -451,7 +465,7 @@ Soul of a Proud Knight: useful
 Souvenir of Reprisal: filler
 Spear: unknown
 Speckled Stoneplate Ring: useful
-Spider Shield: unknown
+Spider Shield: filler
 Spiked Shield: filler
 Standard Arrow: unknown
 Standard Bolt: useful
@@ -488,6 +502,7 @@ Twinkling Titanite: useful
 Uchigatana: useful
 Undead Asylum F2 West Key: progression
 Velka's Rapier: useful
+Velka's Talisman: unknown
 Very Large Ember: useful
 Wanderer Boots: useful
 Wanderer Coat: useful
@@ -511,3 +526,4 @@ Wooden Shield: useful
 Xanthous Crown: useful
 Xanthous Gloves: useful
 Xanthous Overcoat: unknown
+Zweihander: unknown
