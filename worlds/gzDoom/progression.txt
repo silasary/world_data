@@ -182,6 +182,7 @@ ChexYellowCard (E3M3): progression
 ChexYellowCard (E3M4): progression
 CircleKey (E1A2): unknown
 CircleKey (E1A3): unknown
+CircleKey (E1A7): unknown
 CircleKey (E1A8): unknown
 CircleKey (E2A4): unknown
 CircoolAid: unknown
@@ -540,6 +541,7 @@ Ring of Invincibility: filler
 Rocket Launcher: progression
 Rockets: filler
 Shadowsphere: filler
+ShotbowVO: unknown
 Shotgun Shells: filler
 Shotgun: progression
 SillySphere: unknown
