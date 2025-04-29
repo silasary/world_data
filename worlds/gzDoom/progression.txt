@@ -576,6 +576,7 @@ Torch: filler
 TrapezoidKey (E1A7): unknown
 TriangleKey (E1A2): unknown
 TriangleKey (E1A4): unknown
+TriangleKey (E2A4): unknown
 UltraGoggles: filler
 Wings of Wrath: filler
 YellowCard (E1M3): progression
