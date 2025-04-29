@@ -3,6 +3,7 @@ Brake Balance Controller: unknown
 Carbon Drive Shaft: useful
 Chevrolet Permit: unknown
 Dodge Permit: progression
+Engine Balancing: useful
 Honda/Acura Permit: unknown
 Increase Displacement: unknown
 Mazda Permit: progression
@@ -19,10 +20,11 @@ Progressive Suspension: useful
 Progressive Turbo Kit: useful
 Progressive Weight Reduction: useful
 Racing Hard/Hard Tires: useful
+Racing Modification: useful
 Racing Soft/Hard Tires: unknown
 Racing Soft/Soft Tires: useful
 Rear Medium Stabilizers: unknown
-Rear Soft Stabilizers: unknown
+Rear Soft Stabilizers: useful
 Semi Racing Soft/Hard Tires: useful
 Sports Brake Kit: useful
 Subaru Permit: progression
