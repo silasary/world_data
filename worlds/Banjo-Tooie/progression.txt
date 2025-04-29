@@ -19,6 +19,8 @@ Breegull Blaster: progression
 Brown Jinjo: progression
 CCL: Central Cavern Warp Pad: unknown
 CCL: World Entry and Exit Warp Pad: unknown
+CK: Bottom of the Tower Warp Pad: unknown
+CK: Top of the Tower Warp Pad: unknown
 Cauldron Keep: progression
 Cheato Page: useful
 Chuffy: progression
@@ -40,7 +42,11 @@ Flap Flip: progression
 Flight Pad: progression
 Flutter: progression
 GGM: Inside Wumba's Wigwam Warp Pad: unknown
+GGM: Near the Train Station Warp Pad: unknown
+GGM: Outside Mumbo's Skull Warp Pad: unknown
 GGM: Outside the Crushing Shed Warp Pad: unknown
+GGM: World Entry and Exit Warp Pad: unknown
+GI Floor 1: Entrance Door Warp Pad: unknown
 GI Floor 2: Outside Wumba's Wigwam Warp Pad: unknown
 GI Floor 3: Outside Mumbo's Skull Warp Pad: unknown
 GI Floor 4: Near the Crushers Warp Pad: unknown
@@ -56,7 +62,10 @@ Ground Rat-a-tat Rap: progression
 Grunty Industries: progression
 Grunty Warp Spell: trap
 Grunty's Industries: progression
+HFP: Fire Side - Lower Area (Mumbo) Warp Pad: unknown
+HFP: Fire Side - Upper Area Warp Pad: unknown
 HFP: Ice Side - Inside Icicle Grotto Warp Pad: unknown
+HFP: Ice Side - Lower Area (Wumba) Warp Pad: unknown
 HFP: Ice Side - Upper Area Warp Pad: unknown
 HFP: Icy Side Train Station: progression
 HFP: Lava Side Train Station: progression
@@ -84,6 +93,7 @@ IoH: Wasteland Silo: useful
 IoH: Wooded Hollow Silo: unknown
 JRL: Atlantis Warp Pad: unknown
 JRL: Big Fish Cavern Warp Pad: unknown
+JRL: Lockers Cavern Warp Pad: unknown
 JRL: Sunken Ship Warp Pad: unknown
 JRL: Town Center Warp Pad: progression
 Jiggy: progression
@@ -92,6 +102,9 @@ Jolly Roger's Lagoon: progression
 Leg Spring: progression
 MT: Kickball Stadium Lobby Warp Pad: unknown
 MT: Near Wumba's Wigwam Warp Pad: unknown
+MT: Outside Mumbo's Skull Warp Pad: unknown
+MT: Prison Compound Warp Pad: unknown
+MT: World Entry and Exit Warp Pad: unknown
 Mayahem Temple: progression
 Mumbo Token: progression
 Mumbo: EMP: progression
@@ -128,6 +141,7 @@ Squish Trap: trap
 Stilt Stride: progression
 Sub-Aqua Egg Aiming: progression
 TDL: Outside Mumbo's Skull Warp Pad: unknown
+TDL: Outside Wumba's Wigwam Warp Pad: unknown
 TDL: Stomping Plains Warp Pad: unknown
 TDL: Top of the Mountain Warp Pad: unknown
 TDL: Train Station: progression
@@ -146,8 +160,10 @@ Trip Trap: trap
 Turbo Trainers: progression
 WW: Behind the Big Top Tent Warp Pad: unknown
 WW: Outside Mumbo's Skull Warp Pad: useful
+WW: Outside Wumba's Wigwam Warp Pad: unknown
 WW: Space Zone Warp Pad: unknown
 WW: Train Station: progression
+WW: World Entry and Exit Warp Pad: unknown
 White Jinjo: progression
 Wing Whack: progression
 Witchyworld: progression
