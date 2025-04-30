@@ -1,7 +1,7 @@
 100 Candies: unknown
 20 Candies: filler
 3 Chocolate Bars: progression
-3 Lollipops: unknown
+3 Lollipops: progression
 4 Chocolate Bars: progression
 500 Candies: filler
 A Stone: mcguffin
@@ -9,7 +9,7 @@ Advanced Grimoire: progression
 Beginners' Grimoire: progression
 Black Magic Grimoire: unknown
 Boots of Introspection: progression
-Candy Merchant's Hat: unknown
+Candy Merchant's Hat: useful
 Chocolate Bar: progression
 Desert Fortress Key: progression
 Desert bird feather: progression
