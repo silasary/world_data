@@ -336,6 +336,7 @@ Level Access (E1M8): progression
 Level Access (E1M9): progression
 Level Access (E2A1): unknown
 Level Access (E2A12): unknown
+Level Access (E2A7): unknown
 Level Access (E2A9): unknown
 Level Access (E2M1): progression
 Level Access (E2M2): progression
@@ -503,6 +504,7 @@ Plasma Rifle: progression
 Powerzade: unknown
 PyramidKey (E2A1): unknown
 PyramidKey (E2A3): unknown
+PyramidKey (E2A7): unknown
 QuadcannonVO: unknown
 RadSuit: filler
 Rapid Zorcher: progression
@@ -545,6 +547,7 @@ RedSkull (MAP21): progression
 RedSkull (MAP22): progression
 RedSkull (MAP27): progression
 RedSkull (MAP28): progression
+RhombusKey (E1A7): unknown
 Ring of Invincibility: filler
 Rocket Launcher: progression
 Rockets: filler
@@ -565,6 +568,7 @@ SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
 SquareKey (E2A8): unknown
 StarRune (E2A10): unknown
+StarRune (E2A5): unknown
 Stimpack: filler
 Super Bootspork: progression
 Super Shotgun: progression
