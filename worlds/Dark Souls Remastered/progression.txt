@@ -121,7 +121,7 @@ Crystal Ring Shield: unknown
 Crystal Straight Sword: useful
 Crystalline Armor: useful
 Crystalline Gauntlets: unknown
-Crystalline Helm: unknown
+Crystalline Helm: filler
 Cursebite Ring: useful
 Dagger: unknown
 Dark Armor: unknown
@@ -477,6 +477,7 @@ Spider Shield: filler
 Spiked Shield: filler
 Standard Arrow: unknown
 Standard Bolt: useful
+Steel Armor: filler
 Steel Leggings: useful
 Stone Gauntlets: unknown
 Stone Greatshield: useful
@@ -485,7 +486,7 @@ Sunlight Maggot: progression
 Sunlight Medal: useful
 Sunlight Shield: useful
 Sunlight Straight Sword: unknown
-Sunlight Talisman: unknown
+Sunlight Talisman: filler
 Symbol of Avarice: useful
 Talisman: unknown
 Target Shield: unknown
