@@ -1,7 +1,7 @@
 ArmorBonus: filler
 ArmorBrick: unknown
 ArmorDiamond: filler
-ArmorWood: unknown
+ArmorWood: filler
 Automap (E1A8): unknown
 Automap (E1M1): useful
 Automap (E1M2): useful
