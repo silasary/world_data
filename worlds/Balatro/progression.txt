@@ -6,14 +6,14 @@ Abandoned Deck Green Stake: progression
 Abandoned Deck Orange Stake: progression
 Abandoned Deck Purple Stake: progression
 Abandoned Deck Red Stake: progression
-Abandoned Deck White Stake: unknown
+Abandoned Deck White Stake: progression
 Abandoned Deck: progression
 Abstract Joker: progression
 Acrobat: progression
 Anaglyph Deck Black Stake: progression
 Anaglyph Deck Blue Stake: progression
 Anaglyph Deck Gold Stake: progression
-Anaglyph Deck Green Stake: unknown
+Anaglyph Deck Green Stake: progression
 Anaglyph Deck Orange Stake: progression
 Anaglyph Deck Purple Stake: progression
 Anaglyph Deck Red Stake: progression
@@ -34,7 +34,7 @@ Baron: progression
 Baseball Card: progression
 Black Deck Black Stake: progression
 Black Deck Blue Stake: progression
-Black Deck Gold Stake: unknown
+Black Deck Gold Stake: progression
 Black Deck Green Stake: progression
 Black Deck Orange Stake: progression
 Black Deck Purple Stake: progression
@@ -48,7 +48,7 @@ Blank/Antimatter 1: progression
 Blank/Antimatter 2: progression
 Bloodstone: progression
 Blue Deck Black Stake: progression
-Blue Deck Blue Stake: unknown
+Blue Deck Blue Stake: progression
 Blue Deck Gold Stake: progression
 Blue Deck Green Stake: progression
 Blue Deck Orange Stake: progression
@@ -304,7 +304,7 @@ Painted Deck Green Stake: progression
 Painted Deck Orange Stake: progression
 Painted Deck Purple Stake: progression
 Painted Deck Red Stake: progression
-Painted Deck White Stake: unknown
+Painted Deck White Stake: progression
 Painted Deck: progression
 Pareidolia: progression
 Perishable Trap: trap
@@ -323,7 +323,7 @@ Plasma Deck Black Stake: progression
 Plasma Deck Blue Stake: progression
 Plasma Deck Gold Stake: progression
 Plasma Deck Green Stake: progression
-Plasma Deck Orange Stake: unknown
+Plasma Deck Orange Stake: progression
 Plasma Deck Purple Stake: progression
 Plasma Deck Red Stake: progression
 Plasma Deck White Stake: progression
@@ -337,8 +337,8 @@ Receive Buffoon Pack: filler
 Receive Consumable Pack: filler
 Red Card: progression
 Red Deck Black Stake: progression
-Red Deck Blue Stake: unknown
-Red Deck Gold Stake: unknown
+Red Deck Blue Stake: progression
+Red Deck Gold Stake: progression
 Red Deck Green Stake: progression
 Red Deck Orange Stake: progression
 Red Deck Purple Stake: progression
@@ -461,7 +461,7 @@ Yorick: progression
 Zany Joker: progression
 Zodiac Deck Black Stake: progression
 Zodiac Deck Blue Stake: progression
-Zodiac Deck Gold Stake: unknown
+Zodiac Deck Gold Stake: progression
 Zodiac Deck Green Stake: progression
 Zodiac Deck Orange Stake: progression
 Zodiac Deck Purple Stake: progression
