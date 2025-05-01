@@ -1,5 +1,5 @@
 1-Up: useful
-Back Alley Heist Bottle(s): unknown
+Back Alley Heist Bottle(s): progression
 Ball Trap: unknown
 Bentley Jumpscare Trap: unknown
 Boneyard Casino Bottle(s): progression
@@ -20,7 +20,7 @@ Grave Undertaking Bottle(s): unknown
 Gunboat Graveyard Bottle(s): unknown
 Hacking: progression
 High Class Heist Bottle(s): mcguffin
-Ice Physics Trap: unknown
+Ice Physics Trap: trap
 Into the Machine Bottle(s): progression
 Lair of the Beast Bottle(s): mcguffin
 Mine: useful
@@ -35,7 +35,7 @@ SSE Blueprints: progression
 SSE Key: progression
 Speed Change Trap: unknown
 Stealthy Approach Bottle(s): unknown
-Straight to the Top Bottle(s): unknown
+Straight to the Top Bottle(s): progression
 Sunset Snake Eyes: progression
 Tide of Terror: progression
 ToT Blueprints: useful
