@@ -2,7 +2,7 @@ Angry Aztec Chunky Blueprint: mcguffin
 Angry Aztec Diddy Blueprint: mcguffin
 Angry Aztec Donkey Blueprint: mcguffin
 Angry Aztec Lanky Blueprint: unknown
-Angry Aztec Tiny Blueprint: unknown
+Angry Aztec Tiny Blueprint: filler
 Baboon Balloon: progression
 Baboon Blast: progression
 Banana Fairy: mcguffin
@@ -12,14 +12,15 @@ Barrels: unknown
 Battle Crown: mcguffin
 Bongos: unknown
 Chimpy Charge: progression
-Chunky: unknown
+Chunky: progression
 Climbing: progression
 Coconut: progression
 Creepy Castle Chunky Blueprint: mcguffin
-Creepy Castle Diddy Blueprint: unknown
+Creepy Castle Diddy Blueprint: filler
 Creepy Castle Donkey Blueprint: mcguffin
 Creepy Castle Lanky Blueprint: mcguffin
 Creepy Castle Tiny Blueprint: unknown
+Crystal Caves Chunky Blueprint: filler
 Crystal Caves Diddy Blueprint: unknown
 Crystal Caves Donkey Blueprint: useful
 Crystal Caves Tiny Blueprint: progression
@@ -29,7 +30,7 @@ DK Isles Donkey Blueprint: unknown
 DK Isles Lanky Blueprint: filler
 DK Isles Tiny Blueprint: unknown
 Diddy: progression
-Diving: unknown
+Diving: progression
 Donkey: progression
 Fairy Camera: progression
 Feather: unknown
@@ -51,7 +52,7 @@ Gloomy Galleon Tiny Blueprint: mcguffin
 Golden Banana: mcguffin
 Gorilla Gone: progression
 Gorilla Grab: progression
-Grape: unknown
+Grape: progression
 Guitar: progression
 Homing Ammo: unknown
 Hunky Chunky: progression
@@ -61,7 +62,7 @@ Ice Trap (Slow): unknown
 Jungle Japes Chunky Blueprint: unknown
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
-Jungle Japes Lanky Blueprint: unknown
+Jungle Japes Lanky Blueprint: filler
 Jungle Japes Tiny Blueprint: mcguffin
 Junk Item (Melon Slice): filler
 Key 1: progression
@@ -73,11 +74,12 @@ Key 6: progression
 Key 7: progression
 Key 8: unknown
 Lanky: progression
-Mini Monkey: unknown
+Mini Monkey: progression
 Monkeyport: unknown
 Nintendo Coin: progression
 Oranges: progression
-Orangstand: unknown
+Orangstand Sprint: progression
+Orangstand: progression
 Peanut: progression
 Pearl: mcguffin
 Pineapple: progression
