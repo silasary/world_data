@@ -1,77 +1,80 @@
-Amoonguss: unknown
-Armaldo: unknown
-Backpacker after second battle: unknown
-Backpacker after third battle: unknown
-Backpacker before third battle: unknown
-Barbaracle: unknown
-Barraskewda: unknown
-Basculin Red-Striped: unknown
-Beartic: unknown
-Bellossom: unknown
-Bouffalant: unknown
-Bronzong: unknown
-Chansey: unknown
-Charjabug: unknown
-Charmeleon: unknown
-Claydol: unknown
-Clefable: unknown
-Coalossal: unknown
-Copperajah: unknown
-Crawdaunt: unknown
-Dubwool: unknown
-Dugtrio: unknown
-Dunsparce: unknown
-Duraludon: unknown
-Dynite Ore: unknown
-Eldegoss: unknown
-Greedent: unknown
-Grovyle: unknown
-Haunter: unknown
-Heliolisk: unknown
-Hitmonchan: unknown
-Jellicent: unknown
-Jigglypuff: unknown
-Jolteon: unknown
-Kadabra: unknown
-Kangaskhan: unknown
-Klang: unknown
-Lairon: unknown
-Linoone: unknown
-Luxray: unknown
-Lycanroc Dawn: unknown
-Lycanroc Dusk: unknown
-Magmar: unknown
-Malamar: unknown
-Metang: unknown
-Mudsdale: unknown
-Musharna: unknown
-Nidoqueen: unknown
-Noctowl: unknown
-Octillery: unknown
-Orbeetle: unknown
-Palpitoad: unknown
-Passimian: unknown
-Politoed: unknown
-Polteageist: unknown
-Pyukumuku: unknown
-Quagsire: unknown
-Ribombee: unknown
-Salazzle: unknown
-Scientist after first battle: unknown
-Scientist after third battle: unknown
-Scientist before second battle: unknown
-Scientist before third battle: unknown
-Scyther: unknown
-Sigilyph: unknown
-Skarmory: unknown
-Slowbro: unknown
-Sneasel: unknown
-Swoobat: unknown
-Talonflame: unknown
-Torkoal: unknown
-Tyrantrum: unknown
-Unfezant: unknown
-Vikavolt: unknown
-Wailmer: unknown
-Wartortle: unknown
-Wigglytuff: unknown
+Amoonguss: useful
+Armaldo: useful
+Azumarill: unknown
+Backpacker after second battle: useful
+Backpacker after third battle: useful
+Backpacker before third battle: useful
+Barbaracle: useful
+Barraskewda: useful
+Basculin Red-Striped: useful
+Beartic: useful
+Bellossom: useful
+Bouffalant: useful
+Bronzong: useful
+Chansey: useful
+Charjabug: useful
+Charmeleon: useful
+Claydol: useful
+Clefable: useful
+Coalossal: useful
+Copperajah: useful
+Crawdaunt: useful
+Dubwool: useful
+Dugtrio: useful
+Dunsparce: useful
+Duraludon: useful
+Dynite Ore: filler
+Eldegoss: useful
+Greedent: useful
+Grovyle: useful
+Haunter: useful
+Heliolisk: useful
+Hitmonchan: useful
+Jellicent: useful
+Jigglypuff: useful
+Jolteon: useful
+Kadabra: useful
+Kangaskhan: useful
+Klang: useful
+Lairon: useful
+Linoone: useful
+Luxray: useful
+Lycanroc Dawn: useful
+Lycanroc Dusk: useful
+Magmar: useful
+Malamar: useful
+Metang: useful
+Mudsdale: useful
+Musharna: useful
+Nidoqueen: useful
+Noctowl: useful
+Octillery: useful
+Orbeetle: useful
+Palpitoad: useful
+Passimian: useful
+Politoed: useful
+Polteageist: useful
+Pyukumuku: useful
+Quagsire: useful
+Ribombee: useful
+Salazzle: useful
+Sceptile: unknown
+Scientist after first battle: useful
+Scientist after third battle: useful
+Scientist before second battle: useful
+Scientist before third battle: useful
+Scyther: useful
+Sealeo: unknown
+Sigilyph: useful
+Skarmory: useful
+Slowbro: useful
+Sneasel: useful
+Swoobat: useful
+Talonflame: useful
+Torkoal: useful
+Tyrantrum: useful
+Unfezant: useful
+Vikavolt: useful
+Wailmer: useful
+Wartortle: useful
+Wigglytuff: useful
