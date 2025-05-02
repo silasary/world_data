@@ -64,7 +64,7 @@ effect-transmission: useful
 effectivity-module-2: useful
 effectivity-module-3: useful
 effectivity-module: useful
-efficiency-module-2: unknown
+efficiency-module-2: useful
 efficiency-module-3: unknown
 efficiency-module: useful
 electric-energy-accumulators: useful
