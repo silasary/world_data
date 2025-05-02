@@ -54,7 +54,7 @@ cliff-explosives: useful
 coal-liquefaction: filler
 concrete: useful
 construction-robotics: useful
-cryogenic-plant: unknown
+cryogenic-plant: useful
 cryogenic-science-pack: unknown
 defender: useful
 destroyer: useful
