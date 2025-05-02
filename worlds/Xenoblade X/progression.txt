@@ -1,3 +1,4 @@
+AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Sleeve R: filler
@@ -15,11 +16,13 @@ AMR: Combat Tecta R_3: unknown
 AMR: Combat Traves_2: unknown
 AMR: Combat Trudgers_2: unknown
 AMR: Custom Sport Glasses: unknown
+AMR: Diving Mask_1: unknown
 AMR: Forza Boots_3: filler
 AMR: Forza Glove L_2: unknown
 AMR: Forza Headset_3: unknown
 AMR: Forza Ryg_2: unknown
 AMR: Limited Browline Glasses: unknown
+AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
 AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
@@ -43,6 +46,7 @@ AMR: Warrior's Crest_3: unknown
 AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Zyua R: unknown
 AMR: Worn Valor Mayx L: unknown
+ART: Assault Hammer: unknown
 ART: Astral Protection: useful
 ART: Atomic Hit: useful
 ART: Burning Slash: unknown
@@ -76,6 +80,7 @@ AUG: Extend Debuff Res Down III: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Humanoid Criticals Up X: unknown
+AUG: Humanoid Slayer IV: unknown
 AUG: Humanoid Slayer XVII: unknown
 AUG: Incapacitation Surge XX: unknown
 AUG: Insectoid Criticals Up XVII: unknown
@@ -119,11 +124,14 @@ FRD: Doug: unknown
 FRD: Gwin: progression
 FRD: Irina: unknown
 FRD: Lao: progression
+FRD: Lin: unknown
 FRD: Murderess: unknown
 FRD: Nagi: unknown
 FRD: Phog: unknown
 SKAMR: SK20SA M-LARM-RNG_2: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
+SKAMR: SK40GG L-RARM-DEF_1: unknown
+SKAMR: SK40SA H-RARM-ATK2_1: unknown
 SKAMR: SK40SA L-RARM-SPD_2: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
@@ -144,6 +152,7 @@ SKAUG: CritUp.THEROID VI: unknown
 SKAUG: Crush.APPEND XII: unknown
 SKAUG: Custom.WP-SPEED VI: filler
 SKAUG: ExTime.CRIT-POW II: unknown
+SKAUG: Jamming VII: unknown
 SKAUG: Jamming XII: unknown
 SKAUG: M-Auto.ETHER-DOWN VI: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
@@ -153,6 +162,7 @@ SKAUG: Overdrive.EXTEND III: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
+SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
 SKAUG: Resist.SHOCK XIII: unknown
@@ -166,13 +176,16 @@ SKAUG: SpecUp.THERM-RES XV: unknown
 SKAUG: TimeEx.CONTROL XVI: unknown
 SKAUG: TimeEx.SHOCK X: unknown
 SKAUG: TimeEx.SLEEP III: filler
+SKAUG: TimeEx.SLEEP IV: unknown
 SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
 SKAUG: Weather.S-STORM-RES: unknown
 SKF: XS0750 Amdusias ST: unknown
 SKL: Dismantler: useful
 SKL: Ether Guard: unknown
+SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
+SKL: Grand Procession: unknown
 SKL: Iron Knuckle: unknown
 SKL: Phantom Counter: unknown
 SKL: Red Zone: unknown
@@ -196,9 +209,11 @@ SKWPN: SHM-R1020SA Wiregun_1: filler
 SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
+SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SKM-M220SA V-knuckle_3: unknown
+SKWPN: SKM-M350ME Katar_2: unknown
 SKWPN: SKM-R330ME Cracker-PD_1: unknown
 SKWPN: SKM-R330ME Cracker-PD_3: unknown
 SKWPN: SKM-R350SA Cracker-BM_3: unknown
@@ -235,8 +250,10 @@ SKWPN: SSM-XXR350SA SHD-Gatling: filler
 WPN: Advanced Cermet Parce: unknown
 WPN: Advanced Cermet Parma II: unknown
 WPN: Advanced Destroyer Bliss: unknown
+WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Sclopetum: unknown
 WPN: Advanced Ophidian Zorcyses: unknown
+WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Ruina II: unknown
 WPN: Audacious Lance_2: unknown
 WPN: Carbide Candela II_1: unknown
