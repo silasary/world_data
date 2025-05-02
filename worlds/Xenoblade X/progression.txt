@@ -175,6 +175,7 @@ SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
 SKAUG: TimeEx.CONTROL XVI: unknown
+SKAUG: TimeEx.RECOV-DOWN XIX: unknown
 SKAUG: TimeEx.SHOCK X: unknown
 SKAUG: TimeEx.SLEEP III: filler
 SKAUG: TimeEx.SLEEP IV: unknown
@@ -202,6 +203,7 @@ SKL: Unwavering Courage: unknown
 SKL: Yamato Spirit: useful
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
+SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-XM141SA Shield: unknown
@@ -250,6 +252,7 @@ SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
 WPN: Advanced Cermet Parce: unknown
 WPN: Advanced Cermet Parma II: unknown
+WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Destroyer Bliss: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Sclopetum: unknown
