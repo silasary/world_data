@@ -24,7 +24,7 @@ Crystal Caves Chunky Blueprint: filler
 Crystal Caves Diddy Blueprint: unknown
 Crystal Caves Donkey Blueprint: useful
 Crystal Caves Tiny Blueprint: progression
-DK Isles Chunky Blueprint: unknown
+DK Isles Chunky Blueprint: filler
 DK Isles Diddy Blueprint: mcguffin
 DK Isles Donkey Blueprint: unknown
 DK Isles Lanky Blueprint: filler
@@ -84,6 +84,7 @@ Peanut: progression
 Pearl: mcguffin
 Pineapple: progression
 Pony Tail Twirl: progression
+Primate Punch: progression
 Progressive Ammo Belt: useful
 Progressive Instrument Upgrade: progression
 Progressive Slam: progression
