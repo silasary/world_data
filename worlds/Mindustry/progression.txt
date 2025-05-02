@@ -66,7 +66,7 @@ Liquid Tank: unknown
 Logic Display: filler
 Logic Processor: filler
 Mass Driver: unknown
-Mechanical Pump: unknown
+Mechanical Pump: progression
 Meltdown: unknown
 Melter: unknown
 Memory Bank: unknown
@@ -91,7 +91,7 @@ Phase Weaver: unknown
 Plastanium Compressor: unknown
 Plastanium Conveyor: unknown
 Plastanium Wall: unknown
-Plated Conduit: unknown
+Plated Conduit: useful
 Pneumatic Drill: progression
 Power Node: unknown
 Prime Refabricator: unknown
