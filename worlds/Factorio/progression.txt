@@ -46,7 +46,7 @@ braking-force-7: filler
 bulk-inserter: unknown
 calcite-processing: unknown
 captive-biter-spawner: unknown
-captivity: unknown
+captivity: filler
 carbon-fiber: unknown
 chemical-science-pack: progression
 circuit-network: useful
