@@ -1,22 +1,27 @@
 Badeline Boosters: progression
 Bald Trap: trap
 Blue Boosters: progression
+Bumpers: progression
+Celestial Resort A - Elevator Shaft: progression
 Celestial Resort A - Front Door Key: progression
 Celestial Resort A - Huge Mess Key: unknown
 Celestial Resort A - Huge Mess: progression
+Celestial Resort A - Presidential Suite Key: progression
 Celestial Resort A - Presidential Suite: progression
 Celestial Resort B - Rooftop: unknown
 Celestial Resort B - Staff Quarters: unknown
 Celestial Resort Cassette - A Side: unknown
-Coins: unknown
+Coins: filler
 Core A - Heart of the Mountain: unknown
 Core A - Into the Core: unknown
 Core Cassette - A Side: filler
 Crystal Heart 12: filler
-Crystal Heart 13: unknown
+Crystal Heart 13: filler
 Crystal Heart 14: filler
 Crystal Heart 15: filler
-Crystal Heart 2: unknown
+Crystal Heart 16: filler
+Crystal Heart 2: filler
+Crystal Heart 4: filler
 Crystal Heart 6: filler
 Crystal Heart 7: unknown
 Dash Refills: progression
@@ -28,22 +33,29 @@ Farewell - Reconciliation: progression
 Fast Trap: trap
 Feathers: progression
 Fire and Ice Balls: progression
+Forsaken City A - Chasm: progression
+Forsaken City A - Crossing: progression
 Forsaken City Cassette - A Side: filler
 Golden Ridge A - Cliff Face: progression
 Golden Ridge A - Shrine: progression
+Golden Ridge Cassette - A Side: filler
 Hiccup Trap: trap
 Ice Trap: trap
 Invisible Trap: trap
+Kevins: unknown
 Laughter Trap: trap
 Literature Trap: trap
 Mirror Temple A - Depths Key: progression
 Mirror Temple A - Depths: progression
+Mirror Temple A - Rescue: progression
+Mirror Temple A - Search Key 3: progression
 Mirror Temple A - Search: progression
 Mirror Temple A - Unravelling: progression
 Mirror Temple B - Central Chamber: unknown
+Mirror Temple Cassette - A Side: filler
 Mirror Temple Cassette - C Side: unknown
 Move Blocks: unknown
-Moving Platforms: unknown
+Moving Platforms: progression
 Old Site A - Awake: unknown
 Old Site Cassette - C Side: unknown
 Pink Clouds: progression
@@ -51,14 +63,17 @@ Prologue Cassette: filler
 Raspberry: filler
 Red Boosters: progression
 Reflection A - Reflection: unknown
-Reflection A - Resolution: unknown
+Reflection A - Resolution: progression
 Reflection A - Rock Bottom: unknown
 Reflection Cassette - B Side: filler
 Reflection Cassette - C Side: unknown
 Reverse Trap: trap
 Screen Flip Trap: trap
+Seekers: progression
 Sinking Platforms: unknown
 Slow Trap: trap
+Springs: progression
+Strawberry Seeds: progression
 Strawberry: mcguffin
 Stun Trap: trap
 Swap Blocks: progression
@@ -66,12 +81,14 @@ The Summit A - 1000 M: progression
 The Summit A - 1500 M: unknown
 The Summit A - 2500 M Key: progression
 The Summit A - 2500 M: progression
+The Summit A - 500 M: progression
 The Summit A - Gem 1: unknown
 The Summit A - Gem 3: progression
 The Summit B - 1500 M: progression
 The Summit B - 500 M: progression
 The Summit Cassette - A Side: unknown
 The Summit Cassette - C Side: unknown
+Torches: useful
 Traffic Blocks: progression
 White Block: progression
 Yellow Cassette Blocks: unknown
