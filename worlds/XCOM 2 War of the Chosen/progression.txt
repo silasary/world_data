@@ -1,40 +1,62 @@
 [Chosen Hunt] Assassin Stronghold: unknown
 [Chosen Hunt] Faction Influence: useful
-[Chosen Hunt] Hunter Stronghold: unknown
+[Chosen Hunt] Hunter Stronghold: progression
 [Chosen Hunt] Warlock Stronghold: progression
 [Resource] 1 Elerium Core: filler
 [Resource] 10 Alien Alloys: filler
+[Resource] 10 Elerium Crystals: useful
+[Resource] 10 Intel: useful
 [Resource] 15 Alien Alloys: unknown
 [Resource] 15 Elerium Crystals: filler
+[Resource] 15 Intel: useful
 [Resource] 20 Supplies: filler
 [Resource] 3 Ability Points: filler
+[Resource] 35 Supplies: useful
 [Resource] 5 Ability Points: filler
+[Resource] 5 Elerium Crystals: useful
+[Resource] 50 Supplies: useful
+[Resource] 7 Ability Points: useful
 [Staff] 1 Engineer: filler
 [Staff] 1 Scientist: filler
 [Tech] ADVENT Priest Autopsy: unknown
-[Tech] ADVENT Purifier Autopsy: unknown
+[Tech] ADVENT Purifier Autopsy: useful
+[Tech] ADVENT Shieldbearer Autopsy: useful
 [Tech] ADVENT Trooper Autopsy: useful
 [Tech] ADVENT Turret Breakdown: useful
 [Tech] Alien Biotech: unknown
 [Tech] Alien Encryption: progression
+[Tech] Andromedon Autopsy: useful
+[Tech] Archon King Autopsy: useful
 [Tech] Avatar Autopsy: progression
-[Tech] Beam Cannon: unknown
+[Tech] Beam Cannon: useful
+[Tech] Berserker Autopsy: useful
+[Tech] Berserker Queen Autopsy: useful
 [Tech] Blacksite Vial: progression
+[Tech] Chryssalid Autopsy: useful
+[Tech] Codex Brain: progression
 [Tech] Experimental Weapons: useful
+[Tech] Faceless Autopsy: useful
+[Tech] Gauss Weapons: useful
 [Tech] Hunter Weapons: useful
 [Tech] Modular Weapons: useful
 [Tech] Muton Autopsy: useful
 [Tech] Plasma Lance: unknown
-[Tech] Progressive GREMLIN: unknown
-[Tech] Progressive Melee Weapon: unknown
+[Tech] Progressive Armor: useful
+[Tech] Progressive GREMLIN: useful
+[Tech] Progressive Melee Weapon: useful
 [Tech] Progressive Psionics: unknown
 [Tech] Progressive Rifle: progression
 [Tech] Recovered ADVENT Stasis Suit: progression
-[Tech] Sectoid Autopsy: unknown
+[Tech] Sectoid Autopsy: useful
+[Tech] Spectre Autopsy: useful
+[Tech] Storm Gun: useful
 [Tech] The Lost Autopsy: useful
 [Tech] Warlock Weapons: useful
-[Trap] Force Level +1: unknown
+[Trap] Avatar Project +1: trap
+[Trap] Force Level +1: trap
 [Upgrade] Advanced Laser Sight: filler
+[Upgrade] Advanced Scope: useful
+[Upgrade] Advanced Stock: useful
 [Upgrade] Superior Expanded Magazine: filler
 [Upgrade] Superior Scope: filler
 [Upgrade] Superior Stock: unknown
