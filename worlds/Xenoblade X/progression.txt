@@ -41,6 +41,7 @@ AMR: Valor Guante L_1: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
 AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro R_3: unknown
+AMR: Vivid Sleeve L_1: unknown
 AMR: Vivid Vizard_3: unknown
 AMR: Warrior's Crest_3: unknown
 AMR: Warrior's Gauntlet R_1: unknown
@@ -87,6 +88,7 @@ AUG: Incapacitation Surge XX: unknown
 AUG: Insectoid Criticals Up XVII: unknown
 AUG: Mechanoid Criticals Up III: unknown
 AUG: Melee Attack Boost I: unknown
+AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Draw Surge XV: unknown
 AUG: Physical Attack Plus XI: filler
 AUG: Potential Boost XV: unknown
@@ -146,12 +148,14 @@ SKAMR: XSK30SA M-LARM-DEF2: unknown
 SKAMR: XSK30SA M-LARM-MEL2: unknown
 SKAMR: XSK60SA H-LEGS-ATK4: unknown
 SKAMR: XSK60SA M-LEGS-DEF2: filler
+SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
 SKAUG: AttributeDmg.ETHER XVI: unknown
 SKAUG: AttributeDmg.GRAV II: unknown
 SKAUG: Cloak.SOUND XVI: filler
 SKAUG: CritUp.MECHANOID VIII: filler
 SKAUG: CritUp.THEROID VI: unknown
+SKAUG: CritUp.ULTRAFAUNA XV: unknown
 SKAUG: Crush.APPEND XII: unknown
 SKAUG: Custom.WP-SPEED VI: filler
 SKAUG: ExTime.CRIT-POW II: unknown
@@ -238,6 +242,7 @@ SKWPN: SRM-XXM250ME W-Crusher: unknown
 SKWPN: SRM-XXM330ME BB-Sword: unknown
 SKWPN: SRM-XXR330GG H-Arrow: unknown
 SKWPN: SRM-XXR450GG Phoenix: filler
+SKWPN: SRM-XXR720ME F-Wave: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
 SKWPN: SSM-MX130SA G2-Buster_1: useful
 SKWPN: SSM-MX140SA G-Buster_2: filler
@@ -273,6 +278,7 @@ WPN: Combat Shield: filler
 WPN: Destroyer Lastyr III_3: unknown
 WPN: Devastator Sidearm_3: unknown
 WPN: Faithful Lightblade II_1: unknown
+WPN: Iron Blades_2: unknown
 WPN: Iron Iyst II_1: unknown
 WPN: Iron Knife III_1: unknown
 WPN: Ophidian Radius II_2: unknown
