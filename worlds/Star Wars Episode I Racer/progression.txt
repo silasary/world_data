@@ -1,53 +1,53 @@
 1000 Truguts: filler
 1400 Truguts: useful
 2100 Truguts: filler
-2800 Truguts: unknown
-3500 Truguts: unknown
+2800 Truguts: useful
+3500 Truguts: useful
 400 Truguts: unknown
-44 PCX Injector: unknown
+44 PCX Injector: useful
 600 Truguts: useful
-800 Truguts: unknown
+800 Truguts: useful
 Aldar Beedo: useful
 Amateur Course Unlock: progression
 Anakin Skywalker: unknown
-Ark 'Bumpy' Roose: unknown
+Ark 'Bumpy' Roose: useful
 Ben Quadrinaros: unknown
 Block5 Thrust Coil: unknown
-Block6 Thrust Coil: unknown
+Block6 Thrust Coil: useful
 Boles Roor: filler
-Bozzie Baranta: unknown
-Bullseye Navior: unknown
+Bozzie Baranta: useful
+Bullseye Navior: useful
 Clegg Holdfast: unknown
 Cluster Power Plug: unknown
-Cluster2 Power Plug: unknown
+Cluster2 Power Plug: useful
 Control Coupling: unknown
-Control Nozzle: unknown
+Control Nozzle: useful
 Control Shift Plate: unknown
 Control Stabilizer: unknown
-Control Vectro Jet: unknown
+Control Vectro Jet: useful
 Dual 32PCX Injector: unknown
 Dual Coolant Pump: unknown
-Dual Power Cell: unknown
+Dual Power Cell: useful
 Dud Bolt: unknown
 Ebe Endocott: unknown
 Elan Mak: unknown
 Fud Sang: unknown
-Galactic Circuit Pass: unknown
+Galactic Circuit Pass: progression
 Galactic Course Unlock: unknown
 Gasgano: unknown
 Invitational Circuit Pass: unknown
 Invitational Course Unlock: progression
-Mag-6 Injector: unknown
-Mark III Air Brake: unknown
-Mark IV Air Brake: unknown
+Mag-6 Injector: useful
+Mark III Air Brake: useful
+Mark IV Air Brake: useful
 Mark V Air Brake: unknown
 Mars Guo: unknown
-Mawhonic: unknown
+Mawhonic: useful
 Neva Kee: filler
 Ody Mandrell: unknown
 Pit Droid: unknown
-Plug3 Thrust Coil: unknown
-Plug5 Thrust Coil: unknown
+Plug3 Thrust Coil: useful
+Plug5 Thrust Coil: useful
 Plug8 Thrust Coil: unknown
 Progressive Acceleration: progression
 Progressive Air Brake: filler
@@ -60,23 +60,23 @@ Progressive Turning: useful
 Quad 32PCX Injector: unknown
 Quad 44PCX Injector: unknown
 Quad Power Cell: unknown
-Quadrijet Air Brake: unknown
+Quadrijet Air Brake: useful
 R-100 Repulsorgrip: unknown
 R-300 Repulsorgrip: unknown
-R-60 Repulsorgrip: unknown
-R-600 Repulsorgrip: unknown
-R-80 Repulsorgrip: unknown
-Ratts Tyerell: unknown
+R-60 Repulsorgrip: useful
+R-600 Repulsorgrip: useful
+R-80 Repulsorgrip: useful
+Ratts Tyerell: useful
 Rod Coolant Pump: unknown
 Rotary Power Plug: unknown
 Sebulba: unknown
 Semi-Pro Circuit Pass: unknown
 Semi-Pro Course Unlock: unknown
-Slide Paramita: unknown
+Slide Paramita: useful
 Stack-3 Radiator: unknown
-Stack-6 Radiator: unknown
+Stack-6 Radiator: useful
 Teemto Pagalies: useful
 Toy Dampner: unknown
 Tri-Jet Air Brake: unknown
 Turbo Coolant Pump: unknown
-Wan Sandage: unknown
+Wan Sandage: useful
