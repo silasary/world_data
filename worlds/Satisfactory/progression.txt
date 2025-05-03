@@ -392,6 +392,7 @@ Recipe: Diluted Fuel: useful
 Recipe: Diluted Packaged Fuel: unknown
 Recipe: Electric Motor: progression
 Recipe: Electrode - Aluminum Scrap: unknown
+Recipe: Electrode Aluminum Scrap: unknown
 Recipe: Electrode Circuit Board: progression
 Recipe: Electromagnetic Connection Rod: progression
 Recipe: Electromagnetic Control Rod: progression
