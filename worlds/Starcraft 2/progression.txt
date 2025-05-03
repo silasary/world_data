@@ -173,7 +173,7 @@ Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Fire (Primal Igniter): unknown
 Concentrated Spew (Infested Diamondback): useful
-Concussive Charge (Predator): unknown
+Concussive Charge (Predator): filler
 Concussive Grenades (Devastator Turret): unknown
 Concussive Shells (Marauder): useful
 Construct Regeneration (Aberration): unknown
@@ -302,12 +302,12 @@ Grapple Pull (HERC): useful
 Gravitic Boosters (Observer): filler
 Gravitic Drive (Warp Prism): filler
 Gravitic Thrusters (Scout): filler
-Gravitic Thrusters (Scout/Oppressor/Caladrius/Mist Wing): unknown
+Gravitic Thrusters (Scout/Oppressor/Caladrius/Mist Wing): filler
 Graviton Beam (Mirage): unknown
 Graviton Catapult (Carrier): useful
 Graviton Catapult (Carrier/Trireme): useful
 Gravity Sling (Tempest): useful
-Greater Shadow Fury (Dark Templar): unknown
+Greater Shadow Fury (Dark Templar): useful
 Grooved Spines (Hydralisk): useful
 Guardian (Mutalisk/Corruptor Morph): unknown
 Guardian Aspect (Mutalisk/Corruptor): useful
@@ -442,7 +442,7 @@ Kinetic Blast (Kerrigan Tier 1): progression
 Kinetic Foam (Firebat): useful
 Kinetic Foam (HERC): useful
 Kinetic Foam (Marauder): useful
-Kinetic Foam (Reaper): unknown
+Kinetic Foam (Reaper): filler
 Kryhas Cloak (Avenger): useful
 Large Scale Field Construction (Thor): filler
 Laser Targeting System (Banshee): filler
