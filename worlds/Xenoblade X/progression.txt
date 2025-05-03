@@ -64,6 +64,7 @@ ART: Overclock: unknown
 ART: Pathogen Blast: unknown
 ART: Rising Blade: unknown
 ART: Sniper Barrel: unknown
+ART: Starfall Blossom: unknown
 ART: Starlight Kick: unknown
 ART: Takedown Shot: unknown
 ART: Titan Recharge: unknown
@@ -152,6 +153,7 @@ SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
 SKAUG: AttributeDmg.ETHER XVI: unknown
 SKAUG: AttributeDmg.GRAV II: unknown
+SKAUG: Boost.HP-MAX XII: unknown
 SKAUG: Cloak.SOUND XVI: filler
 SKAUG: CritUp.MECHANOID VIII: filler
 SKAUG: CritUp.THEROID VI: unknown
@@ -221,6 +223,7 @@ SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
+SKWPN: SHM-XXR920SA L-Cannon: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
 SKWPN: SKM-R330ME Cracker-PD_1: unknown
@@ -295,6 +298,7 @@ WPN: Striker Assault Rifle_2: unknown
 WPN: Striker Crank_1: unknown
 WPN: Striker Lastyr_2: unknown
 WPN: Titanium Haven_1: filler
+WPN: Titanium Saber_2: unknown
 WPN: Trial Sword: unknown
 WPN: Ultra Ceramic Parma II: unknown
 WPN: Ultra Cosmic Dual Guns II: unknown
