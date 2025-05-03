@@ -50,7 +50,7 @@ Advanced Targeting (Planetary Fortress): useful
 Advanced Targeting Mechanics (Immortal/Annihilator): progression
 Advanced Targeting Optics (Banshee): progression
 Advanced Targeting Optics (Infested Banshee): unknown
-Aerial Tracking (Annihilator): unknown
+Aerial Tracking (Annihilator): progression
 Aerial Tracking (Wrathwalker): progression
 Aerodynamic Glaive Shape (Mutalisk): useful
 Aesir Turbines (Viking): unknown
@@ -303,7 +303,7 @@ Gravitic Boosters (Observer): filler
 Gravitic Drive (Warp Prism): filler
 Gravitic Thrusters (Scout): filler
 Gravitic Thrusters (Scout/Oppressor/Caladrius/Mist Wing): filler
-Graviton Beam (Mirage): unknown
+Graviton Beam (Mirage): useful
 Graviton Catapult (Carrier): useful
 Graviton Catapult (Carrier/Trireme): useful
 Gravity Sling (Tempest): useful
@@ -391,7 +391,7 @@ Infested Medics (Mercenary): unknown
 Infested Medics: useful
 Infested Missile Turret: unknown
 Infested Siege Breakers (Mercenary): unknown
-Infested Siege Breakers: unknown
+Infested Siege Breakers: progression
 Infested Siege Tank (Infested Factory): unknown
 Infested Siege Tank: progression
 Infested Siege Tanks: useful
@@ -680,7 +680,7 @@ Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
 Rapid Regeneration (Mutalisk): useful
 Rapid Reignition Systems (Medivac): filler
 Rapid Reinforcement (Terran/Zerg): unknown
-Rapid Reload (Thor): unknown
+Rapid Reload (Thor): useful
 Rapid-Fire Cannon (Vanguard): unknown
 Raptor Strain (Zergling): useful
 Ravager (Roach Morph): unknown
