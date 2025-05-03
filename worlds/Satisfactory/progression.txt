@@ -380,7 +380,7 @@ Recipe: Copper Ingot: unknown
 Recipe: Copper Powder: useful
 Recipe: Copper Rotor: progression
 Recipe: Copper Sheet: progression
-Recipe: Crystal Beacon: unknown
+Recipe: Crystal Beacon: progression
 Recipe: Crystal Computer: progression
 Recipe: Crystal Oscillator: progression
 Recipe: Dark Matter Crystal: progression
