@@ -185,7 +185,7 @@ CircleKey (E1A2): unknown
 CircleKey (E1A3): unknown
 CircleKey (E1A7): unknown
 CircleKey (E1A8): unknown
-CircleKey (E2A4): unknown
+CircleKey (E2A4): progression
 CircoolAid: filler
 CrescentRune (E2A12): unknown
 CrescentRune (E2A9): unknown
@@ -205,7 +205,7 @@ FishTank: filler
 Gauntlets of the Necromancer: progression
 GoonadesVO: unknown
 GreenArmor: filler
-HappySphere: unknown
+HappySphere: useful
 Health: unknown
 HealthBonus: filler
 Hellstaff: progression
@@ -556,7 +556,7 @@ Shadowsphere: filler
 ShotbowVO: unknown
 Shotgun Shells: filler
 Shotgun: progression
-SillySphere: unknown
+SillySphere: useful
 SilverShield: filler
 SlimeProofSuit: filler
 Soulsphere: progression
@@ -569,6 +569,7 @@ SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
 SquareKey (E2A8): unknown
 StarRune (E2A10): unknown
+StarRune (E2A12): progression
 StarRune (E2A5): unknown
 Stimpack: filler
 Super Bootspork: progression
