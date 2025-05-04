@@ -24,7 +24,7 @@ Family Parent 2: progression
 HP Crystal Shard: useful
 Healer: unknown
 Idol of protection: unknown
-Idol of spirits: unknown
+Idol of spirits: useful
 Idol of time: useful
 Lucky Heart: useful
 Mercant: progression
@@ -32,7 +32,7 @@ Overcharge: useful
 Power of protection: unknown
 Power of spirits: useful
 Power of time: useful
-Primordial Crystal: unknown
+Primordial Crystal: progression
 Primordial Scarab Dialog: unknown
 Progressive Cannon: progression
 Progressive Dash: progression
@@ -53,7 +53,7 @@ Surf: progression
 Vengeful Talisman: unknown
 Village Star: useful
 Wounded Heart: unknown
-XP Crystals x100: unknown
+XP Crystals x100: useful
 XP Crystals x10: filler
 XP Crystals x140: filler
 XP Crystals x15: filler
@@ -64,7 +64,7 @@ XP Crystals x35: filler
 XP Crystals x40: filler
 XP Crystals x45: filler
 XP Crystals x50: filler
-XP Crystals x55: unknown
+XP Crystals x55: filler
 XP Crystals x5: filler
 XP Crystals x60: filler
 XP Crystals x65: filler
