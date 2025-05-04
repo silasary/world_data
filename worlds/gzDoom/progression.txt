@@ -211,7 +211,7 @@ HealthBonus: filler
 Hellstaff: progression
 HexagonKey (E2A12): unknown
 HolySphere: unknown
-HotSauce: unknown
+HotSauce: filler
 Infrared: filler
 InvulnerabilitySphere: filler
 KeyBlue (E1M2): progression
@@ -522,7 +522,7 @@ RedCard (MAP02): progression
 RedCard (MAP03): progression
 RedCard (MAP04): progression
 RedCard (MAP05): progression
-RedCard (MAP06): unknown
+RedCard (MAP06): progression
 RedCard (MAP11): progression
 RedCard (MAP13): progression
 RedCard (MAP15): progression
