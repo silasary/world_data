@@ -15,6 +15,7 @@ AMR: Combat Shirt_2: unknown
 AMR: Combat Tecta R_3: unknown
 AMR: Combat Traves_2: unknown
 AMR: Combat Trudgers_2: unknown
+AMR: Custom NVD: unknown
 AMR: Custom Sport Glasses: unknown
 AMR: Diving Mask_1: unknown
 AMR: Forza Boots_3: filler
@@ -64,6 +65,7 @@ ART: Missile Volley: unknown
 ART: Overclock: unknown
 ART: Pathogen Blast: unknown
 ART: Rising Blade: unknown
+ART: Screamer: unknown
 ART: Sniper Barrel: unknown
 ART: Starfall Blossom: unknown
 ART: Starlight Kick: unknown
@@ -137,6 +139,7 @@ FRD: Nagi: unknown
 FRD: Phog: unknown
 SKAMR: SK20SA M-LARM-RNG_2: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
+SKAMR: SK30SA L-LEGS-ATK_2: unknown
 SKAMR: SK40GG L-RARM-DEF_1: unknown
 SKAMR: SK40SA H-RARM-ATK2_1: unknown
 SKAMR: SK40SA L-RARM-SPD_2: unknown
@@ -282,6 +285,7 @@ WPN: Chrome Knife_1: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
+WPN: Delta Dyads II_1: unknown
 WPN: Destroyer Lastyr III_3: unknown
 WPN: Devastator Sidearm_3: unknown
 WPN: Faithful Lightblade II_1: unknown
