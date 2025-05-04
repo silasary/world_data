@@ -1,5 +1,5 @@
 ArmorBonus: filler
-ArmorBrick: unknown
+ArmorBrick: filler
 ArmorDiamond: filler
 ArmorWood: filler
 Automap (E1A4): unknown
@@ -192,13 +192,13 @@ CrescentRune (E2A9): unknown
 CubeKey (E2A1): unknown
 CubeKey (E2A2): unknown
 CubeKey (E2A6): unknown
-DevilSphere: unknown
+DevilSphere: filler
 DiamondRune (E2A12): unknown
 DiamondRune (E2A5): unknown
 Dragon Claw: progression
 EnchantedShield: filler
 Energy Cells: filler
-EnviroSuit: unknown
+EnviroSuit: filler
 Ethereal Crossbow: progression
 Firemace: progression
 FishTank: filler
@@ -422,6 +422,7 @@ Level Clear (E1M7): mcguffin
 Level Clear (E1M8): mcguffin
 Level Clear (E1M9): mcguffin
 Level Clear (E2A11): unknown
+Level Clear (E2A12): filler
 Level Clear (E2A2): unknown
 Level Clear (E2A3): unknown
 Level Clear (E2A4): unknown
