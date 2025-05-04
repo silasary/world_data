@@ -18,6 +18,7 @@
 [Resource] 7 Ability Points: useful
 [Staff] 1 Engineer: filler
 [Staff] 1 Scientist: filler
+[Tech] ADVENT Officer Autopsy: progression
 [Tech] ADVENT Priest Autopsy: unknown
 [Tech] ADVENT Purifier Autopsy: useful
 [Tech] ADVENT Shieldbearer Autopsy: useful
