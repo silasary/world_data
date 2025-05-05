@@ -43,11 +43,13 @@ Peachone: unknown
 Polus Replica: unknown
 Powerup - Amount: unknown
 Powerup - Area: unknown
+Powerup - Armor: unknown
 Powerup - Charm: unknown
 Powerup - Cooldown: unknown
 Powerup - Curse: unknown
 Powerup - Greed: unknown
 Powerup - Magnet: unknown
+Powerup - Max Health: unknown
 Powerup - Might: unknown
 Powerup - MoveSpeed: unknown
 Powerup - Omni: unknown
@@ -66,6 +68,7 @@ Twin Dragon: unknown
 Tyrfing: unknown
 VI - Sarabande of Healing: unknown
 Weapon Slot: unknown
+Wind Whip: unknown
 Wine Glass: unknown
 X - Hail from the Future: unknown
 XII - Out of Bounds: unknown
