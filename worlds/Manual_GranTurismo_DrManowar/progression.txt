@@ -1,7 +1,8 @@
-Aston Martin Permit: unknown
+Aston Martin Permit: progression
 Brake Balance Controller: unknown
 Carbon Drive Shaft: useful
 Chevrolet Permit: progression
+Computer: useful
 Dodge Permit: progression
 Engine Balancing: useful
 Front Hard Stabilizers: useful
@@ -12,7 +13,7 @@ Increase Displacement: useful
 Mazda Permit: progression
 Mitsubishi Permit: progression
 Nissan Permit: progression
-Port Polishing: unknown
+Port Polishing: useful
 Progressive Clutch: useful
 Progressive Flywheel: useful
 Progressive Gearbox: useful
