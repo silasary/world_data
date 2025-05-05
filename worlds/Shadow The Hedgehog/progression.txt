@@ -43,7 +43,7 @@ Gauge:Hero-500: filler
 Gauge:Hero-5: filler
 Glyphic Canyon Alien: progression
 Glyphic Canyon Temple: progression
-Goodbye Forever: unknown
+Goodbye Forever: progression
 Green Chaos Emerald: progression
 Gun Fortress Computer: progression
 Hero Token: mcguffin
@@ -131,10 +131,10 @@ Warp:Black Doom Gun Fortress: progression
 Warp:Central City: unknown
 Warp:Circus Park: unknown
 Warp:Cosmic Fall: unknown
-Warp:Cryptic Castle: unknown
+Warp:Cryptic Castle: progression
 Warp:Death Ruins: progression
-Warp:Devil Doom: unknown
-Warp:Diablon Black Comet: unknown
+Warp:Devil Doom: progression
+Warp:Diablon Black Comet: progression
 Warp:Diablon Final Haunt: unknown
 Warp:Diablon Gun Fortress: unknown
 Warp:Digital Circuit: unknown
@@ -150,7 +150,7 @@ Warp:Mad Matrix: unknown
 Warp:Prison Island: unknown
 Warp:Sky Troops: unknown
 Warp:Space Gadget: unknown
-Warp:The Ark: unknown
+Warp:The Ark: progression
 Warp:The Doom: unknown
 Warp:The Last Way: unknown
 Warp:Westopolis: unknown
