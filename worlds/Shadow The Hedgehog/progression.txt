@@ -124,16 +124,19 @@ Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
 Warp:Air Fleet: progression
+Warp:Black Doom Cosmic Fall: unknown
 Warp:Black Doom Final Haunt: unknown
 Warp:Black Doom Gun Fortress: progression
 Warp:Central City: unknown
 Warp:Circus Park: unknown
 Warp:Cosmic Fall: unknown
 Warp:Death Ruins: progression
+Warp:Diablon Final Haunt: unknown
 Warp:Diablon Gun Fortress: unknown
 Warp:Digital Circuit: unknown
 Warp:Egg Dealer Cosmic Fall: unknown
 Warp:Final Haunt: unknown
+Warp:Glyphic Canyon: unknown
 Warp:Gun Fortress: progression
 Warp:Iron Jungle: unknown
 Warp:Lava Shelter: progression
