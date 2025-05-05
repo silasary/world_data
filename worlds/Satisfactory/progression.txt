@@ -279,6 +279,7 @@ Bundle: Sulfur: unknown
 Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
+Bundle: Time Crystal: unknown
 Bundle: Turbo Motor: filler
 Bundle: Turbo Rifle Ammo: filler
 Bundle: Uranium Fuel Rod: unknown
