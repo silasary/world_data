@@ -33,7 +33,7 @@ belt-immunity-equipment: useful
 big-mining-drill: useful
 biochamber: progression
 bioflux-processing: unknown
-bioflux: useful
+bioflux: progression
 biolab: useful
 biter-egg-handling: unknown
 braking-force-1: filler
@@ -44,7 +44,7 @@ braking-force-5: filler
 braking-force-6: filler
 braking-force-7: filler
 bulk-inserter: unknown
-calcite-processing: useful
+calcite-processing: progression
 captive-biter-spawner: unknown
 captivity: filler
 carbon-fiber: unknown
@@ -112,7 +112,7 @@ gate: useful
 gun-turret: useful
 heating-tower: useful
 heavy-armor: useful
-holmium-processing: useful
+holmium-processing: progression
 inserter-capacity-bonus-1: filler
 inserter-capacity-bonus-2: filler
 inserter-capacity-bonus-3: filler
@@ -140,9 +140,9 @@ laser-weapons-damage-4: filler
 laser-weapons-damage-5: filler
 laser-weapons-damage-6: filler
 laser: useful
-lava-processing: unknown
+lava-processing: progression
 legendary-quality: unknown
-lithium-processing: useful
+lithium-processing: progression
 logistic-robotics: useful
 logistic-science-pack: progression
 logistic-system: useful
@@ -167,7 +167,7 @@ night-vision-equipment: useful
 nuclear-fuel-reprocessing: useful
 nuclear-power: useful
 oil-gathering: useful
-oil-processing: useful
+oil-processing: progression
 optics: useful
 overgrowth-soil: unknown
 personal-laser-defense-equipment: useful
@@ -211,7 +211,7 @@ progressive-logistics: progression
 progressive-military: useful
 progressive-mining-productivity: useful
 progressive-nuclear-power: useful
-progressive-oil-processing: useful
+progressive-oil-processing: progression
 progressive-personal-battery: useful
 progressive-personal-roboport-equipment: useful
 progressive-physical-projectile-damage: useful
@@ -273,7 +273,7 @@ spidertron: useful
 stack-inserter: useful
 steam-power: useful
 steel-axe: useful
-steel-processing: useful
+steel-processing: progression
 stone-wall: useful
 stronger-explosives-1: filler
 stronger-explosives-2: filler
@@ -281,7 +281,7 @@ stronger-explosives-3: filler
 stronger-explosives-4: filler
 stronger-explosives-5: filler
 stronger-explosives-6: filler
-sulfur-processing: useful
+sulfur-processing: progression
 tank: useful
 tesla-weapons: useful
 toolbelt-equipment: useful
