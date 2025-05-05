@@ -31,7 +31,7 @@ battery-mk3-equipment: unknown
 battery: useful
 belt-immunity-equipment: useful
 big-mining-drill: useful
-biochamber: unknown
+biochamber: progression
 bioflux-processing: unknown
 bioflux: useful
 biolab: useful
@@ -71,12 +71,12 @@ electric-energy-accumulators: useful
 electric-energy-distribution-1: useful
 electric-energy-distribution-2: useful
 electric-engine: useful
-electric-mining-drill: unknown
+electric-mining-drill: progression
 electric-weapons-damage-1: unknown
 electric-weapons-damage-2: unknown
 electric-weapons-damage-3: unknown
-electromagnetic-plant: useful
-electromagnetic-science-pack: unknown
+electromagnetic-plant: progression
+electromagnetic-science-pack: progression
 electronics: useful
 elevated-rail: unknown
 energy-shield-equipment: useful
@@ -105,7 +105,7 @@ follower-robot-count-3: filler
 follower-robot-count-4: filler
 follower-robot-count-5: filler
 follower-robot-count-6: filler
-foundry: useful
+foundry: progression
 fusion-reactor-equipment: useful
 fusion-reactor: useful
 gate: useful
@@ -144,7 +144,7 @@ lava-processing: unknown
 legendary-quality: unknown
 lithium-processing: useful
 logistic-robotics: useful
-logistic-science-pack: useful
+logistic-science-pack: progression
 logistic-system: useful
 logistics-2: useful
 logistics-3: useful
@@ -152,7 +152,7 @@ logistics: progression
 low-density-structure: useful
 lubricant: useful
 mech-armor: unknown
-metallurgic-science-pack: unknown
+metallurgic-science-pack: progression
 military-2: useful
 military-3: useful
 military-4: filler
@@ -243,7 +243,7 @@ rail-signals: useful
 rail-support-foundations: useful
 railgun: useful
 railway: useful
-recycling: useful
+recycling: progression
 refined-flammables-1: filler
 refined-flammables-2: filler
 refined-flammables-3: filler
