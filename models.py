@@ -25,6 +25,7 @@ classifications = {v.name: v for v in ItemClassification.__members__.values()}
 class Datapackage:
     items: dict[str, ItemClassification] = attrs.field(factory=dict)
     categories: dict[str, ItemClassification] = attrs.field(factory=dict)
+    game_name: str = attrs.field(default="")
 
     def icon(self, item_name: str) -> str:
         classification = self.items.get(item_name, ItemClassification.unknown)
@@ -57,6 +58,8 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
     game_name = game_name.replace("/", "_").replace(":", "_")
     if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")) and follow_redirect:
         game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
+    dp.game_name = game_name
+
     info_yaml = world_folder.joinpath(game_name, "info.yaml")
     if info_yaml.exists():
         info = yaml.safe_load(info_yaml)
