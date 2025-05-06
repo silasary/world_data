@@ -22,6 +22,7 @@ AMR: Forza Boots_3: filler
 AMR: Forza Glove L_2: unknown
 AMR: Forza Headset_3: unknown
 AMR: Forza Ryg_2: unknown
+AMR: Forza Ward L_2: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
@@ -66,6 +67,7 @@ ART: Killing Machine: unknown
 ART: Missile Volley: unknown
 ART: Overclock: unknown
 ART: Pathogen Blast: unknown
+ART: Phenomenon: unknown
 ART: Rising Blade: unknown
 ART: Screamer: unknown
 ART: Sniper Barrel: unknown
@@ -207,6 +209,7 @@ SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
 SKL: Iron Knuckle: unknown
+SKL: Long Shot: unknown
 SKL: Phantom Counter: unknown
 SKL: Red Zone: unknown
 SKL: Secondary Accelerator: unknown
@@ -223,6 +226,7 @@ SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
+SKWPN: SAM-M154SA Shield_2: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-XM141SA Shield: unknown
 SKWPN: SAM-XXM142ME Beam-Shield: unknown
