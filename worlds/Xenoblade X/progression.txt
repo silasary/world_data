@@ -80,6 +80,7 @@ ART: Upper Hand: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
 AUG: Aural Cloaking XIX: unknown
+AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Resistance Up VI: unknown
 AUG: Extend Aura II: unknown
@@ -165,6 +166,7 @@ SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
 SKAUG: AttributeDmg.ETHER XVI: unknown
 SKAUG: AttributeDmg.GRAV II: unknown
+SKAUG: Boost.HP-MAX VIII: unknown
 SKAUG: Boost.HP-MAX XII: unknown
 SKAUG: Cloak.SOUND XVI: filler
 SKAUG: CritUp.MECHANOID VIII: filler
@@ -221,6 +223,7 @@ SKL: Topple Topper: unknown
 SKL: Trauma Tension: unknown
 SKL: Unpleasant Dream: unknown
 SKL: Unwavering Courage: unknown
+SKL: Well-Weathered: unknown
 SKL: Yamato Spirit: useful
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
@@ -235,6 +238,7 @@ SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
+SKWPN: SHM-R740SA Firegun_3: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SHM-XXR920SA L-Cannon: unknown
