@@ -27,6 +27,7 @@ AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
 AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
+AMR: Overlord's Gauntlet L_1: unknown
 AMR: Prime Snorkel_2: filler
 AMR: Prototype Armwear R: unknown
 AMR: Reginal Ayx_1: unknown
@@ -56,6 +57,7 @@ ART: Atomic Hit: useful
 ART: Burning Slash: unknown
 ART: Cool Off: unknown
 ART: Drum Roll: unknown
+ART: Dual Dynamo: unknown
 ART: First Down: unknown
 ART: Flamehand: unknown
 ART: Geolibrium: unknown
@@ -84,6 +86,7 @@ AUG: Extend Beam Res Down VIII: filler
 AUG: Extend Control XV: unknown
 AUG: Extend Debuff Res Down III: unknown
 AUG: Extend Electric Res Down XVI: unknown
+AUG: Extend Ether Res Down V: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
@@ -94,7 +97,9 @@ AUG: Mechanoid Criticals Up III: unknown
 AUG: Melee Attack Boost I: unknown
 AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Draw Surge XV: unknown
+AUG: Melee: Recover HP VIII: unknown
 AUG: Physical Attack Plus XI: filler
+AUG: Piscinoid Criticals Up IX: unknown
 AUG: Potential Boost XV: unknown
 AUG: Potential Drive XIII: filler
 AUG: Ranged Accuracy Up XI: filler
@@ -259,6 +264,7 @@ SKWPN: SSM-MX150SA G2-Buster_2: unknown
 SKWPN: SSM-MX160SA G-Buster_3: unknown
 SKWPN: SSM-R140ME N-Cannon_2: unknown
 SKWPN: SSM-R150SA M-Missile_3: unknown
+SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
 SKWPN: SSM-XR140ME M-Missile: unknown
