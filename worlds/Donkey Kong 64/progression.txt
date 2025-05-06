@@ -39,7 +39,7 @@ Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
 Frantic Factory Lanky Blueprint: unknown
-Frantic Factory Tiny Blueprint: unknown
+Frantic Factory Tiny Blueprint: filler
 Fungi Forest Chunky Blueprint: mcguffin
 Fungi Forest Diddy Blueprint: unknown
 Fungi Forest Donkey Blueprint: mcguffin
@@ -73,7 +73,7 @@ Key 4: progression
 Key 5: progression
 Key 6: progression
 Key 7: progression
-Key 8: unknown
+Key 8: progression
 Lanky: progression
 Mini Monkey: progression
 Monkeyport: progression
