@@ -100,6 +100,7 @@ AUG: Mechanoid Criticals Up III: unknown
 AUG: Melee Attack Boost I: unknown
 AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Draw Surge XV: unknown
+AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
 AUG: Physical Attack Plus XI: filler
 AUG: Piscinoid Criticals Up IX: unknown
@@ -113,6 +114,7 @@ AUG: Resist Beam Res Down X: unknown
 AUG: Resist Beam Res Down XVIII: unknown
 AUG: Resist Fatigue XX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
+AUG: Resist Shock VIII: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Virus X: unknown
 AUG: Stabilizer IX: unknown
@@ -195,6 +197,7 @@ SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
+SKAUG: SpecUp.R-ATK XII: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
 SKAUG: TimeEx.CONTROL XVI: unknown
 SKAUG: TimeEx.RECOV-DOWN XIX: unknown
@@ -294,6 +297,7 @@ WPN: Carbide Candela II_1: unknown
 WPN: Carbide Haven II_3: unknown
 WPN: Carbide Ralzes_1: unknown
 WPN: Cermet Fulge II_1: unknown
+WPN: Cermet Iyst II_3: unknown
 WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
 WPN: Chromoly Parma II_2: unknown
