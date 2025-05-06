@@ -53,6 +53,7 @@ Powerup - Armor: unknown
 Powerup - Charm: unknown
 Powerup - Cooldown: unknown
 Powerup - Curse: unknown
+Powerup - Defang: unknown
 Powerup - Greed: unknown
 Powerup - Growth: unknown
 Powerup - Magnet: unknown
@@ -66,6 +67,7 @@ Punch: unknown
 Random Events: unknown
 Refectio: unknown
 Saber Machine Gun: unknown
+Short Gun: unknown
 Silver Wind: unknown
 Song of Mana: unknown
 Sonic Whip: unknown
@@ -73,6 +75,8 @@ Space 54: unknown
 Spellbinder: unknown
 Stone Mask: unknown
 Summon Night: unknown
+Svarog Statue: unknown
+Sword Brothers: unknown
 Torrona's Box: unknown
 Town Sword: unknown
 Twin Dragon: unknown
