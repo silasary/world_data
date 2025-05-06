@@ -471,8 +471,8 @@ Level Clear (MAP01): mcguffin
 Level Clear (MAP02): unknown
 Level Clear (MAP03): mcguffin
 Level Clear (MAP04): unknown
-Level Clear (MAP05): unknown
-Level Clear (MAP06): unknown
+Level Clear (MAP05): mcguffin
+Level Clear (MAP06): mcguffin
 Level Clear (MAP07): mcguffin
 Level Clear (MAP08): unknown
 Level Clear (MAP09): mcguffin
@@ -488,16 +488,17 @@ Level Clear (MAP18): unknown
 Level Clear (MAP19): unknown
 Level Clear (MAP20): unknown
 Level Clear (MAP21): unknown
+Level Clear (MAP22): mcguffin
 Level Clear (MAP23): mcguffin
 Level Clear (MAP24): mcguffin
 Level Clear (MAP25): unknown
 Level Clear (MAP26): unknown
 Level Clear (MAP27): mcguffin
-Level Clear (MAP28): unknown
+Level Clear (MAP28): mcguffin
 Level Clear (MAP29): mcguffin
-Level Clear (MAP30): unknown
+Level Clear (MAP30): mcguffin
 Level Clear (MAP31): mcguffin
-Level Clear (MAP32): unknown
+Level Clear (MAP32): mcguffin
 Locationator: filler
 Medikit: filler
 Megasphere: filler
