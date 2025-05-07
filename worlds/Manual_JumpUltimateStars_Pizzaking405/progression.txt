@@ -26,7 +26,7 @@ Battle Koma; Don Patch-6 (Bobobo-bo Bo-bobo): useful
 Battle Koma; Don Patch-7 [Bobobo-bo Bo-bobo]: unknown
 Battle Koma; Dr. Mashirito-4-Knowledge (Dr. Slump): useful
 Battle Koma; Dr. Mashirito-4-Laughter (Dr. Slump): useful
-Battle Koma; Dr. Mashirito-5 (Dr. Slump): unknown
+Battle Koma; Dr. Mashirito-5 (Dr. Slump): useful
 Battle Koma; Dr. Mashirito-6 (Dr. Slump): unknown
 Battle Koma; Dr. Mashirito-7 (Dr. Slump): unknown
 Battle Koma; Edajima-8 (Sakigake!! Otokujuku): useful
@@ -157,7 +157,7 @@ Battle Koma; Ryotsu-4 (Kochikame): useful
 Battle Koma; Ryotsu-5 (Kochikame): unknown
 Battle Koma; Ryotsu-6-Laughter (Kochikame): unknown
 Battle Koma; Ryotsu-6-Power (Kochikame): unknown
-Battle Koma; Ryotsu-7 (Kochikame): unknown
+Battle Koma; Ryotsu-7 (Kochikame): useful
 Battle Koma; Sakura-4 (Naruto): unknown
 Battle Koma; Sakura-5 [Naruto]: useful
 Battle Koma; Sakura-6-Laughter [Naruto]: unknown
@@ -252,7 +252,7 @@ Planet Clear Token: mcguffin
 Planet Unlock; Bleach: unknown
 Planet Unlock; Bobo-bo Bo-bobo: progression
 Planet Unlock; Buso Renkin: progression
-Planet Unlock; Captain Tsubasa: unknown
+Planet Unlock; Captain Tsubasa: progression
 Planet Unlock; Cobra: progression
 Planet Unlock; Death Note: progression
 Planet Unlock; Devil Gray-Man: progression
@@ -295,7 +295,7 @@ Planet Unlock; Taizo Mote King: progression
 Planet Unlock; Tottemo! Luckyman: progression
 Planet Unlock; Yu-Gi-Oh!: progression
 Planet Unlock; Yu-Yu-Hakusho: progression
-Support Koma; 3 Ha-Ha Brothers-2 (Eyeshield 21): unknown
+Support Koma; 3 Ha-Ha Brothers-2 (Eyeshield 21): useful
 Support Koma; 3 Ha-Ha Brothers-3 (Eyeshield 21): useful
 Support Koma; Aizen-2 (Bleach): useful
 Support Koma; Aizen-3 (Bleach): useful
@@ -349,7 +349,7 @@ Support Koma; Dr. Mashirito-2 (Dr. Slump): useful
 Support Koma; Dr. Mashirito-3 (Dr. Slump): unknown
 Support Koma; Enchuu-2 (Muhyo and Roji's Bureau): unknown
 Support Koma; Enchuu-3 (Muhyo and Roji's Bureau): unknown
-Support Koma; Eve-2 (Black Cat): unknown
+Support Koma; Eve-2 (Black Cat): useful
 Support Koma; Eve-3 (Black Cat): useful
 Support Koma; Franky-2 (One Piece): useful
 Support Koma; Franky-3 (One Piece): useful
@@ -418,13 +418,13 @@ Support Koma; Hitsugaya-3 (Bleach): unknown
 Support Koma; Hyoga-2 (Saint Seiya): useful
 Support Koma; Hyoga-3 (Saint Seiya): useful
 Support Koma; Hyuga-2 (Captain Tsubasa): useful
-Support Koma; Hyuga-3 (Captain Tsubasa): unknown
+Support Koma; Hyuga-3 (Captain Tsubasa): useful
 Support Koma; I-Pin-2 (Home Tutor Hitman Reborn!): unknown
 Support Koma; I-Pin-3 (Home Tutor Hitman Reborn!): unknown
 Support Koma; Ichigo-2 (Bleach): unknown
 Support Koma; Ichigo-3 (Bleach): unknown
 Support Koma; Ikki-2 (Saint Seiya): useful
-Support Koma; Ikki-3 (Saint Seiya): unknown
+Support Koma; Ikki-3 (Saint Seiya): useful
 Support Koma; Inui-2 (Prince Of Tennis): unknown
 Support Koma; Inui-3 (Prince Of Tennis): useful
 Support Koma; Iori-2 (I"s): unknown
