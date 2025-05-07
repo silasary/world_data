@@ -1,16 +1,17 @@
-Acceleration: unknown
+10-Second Rings: useful
+Acceleration: useful
 Amy: unknown
 Aqua Shield: progression
 Athleticism: unknown
-Auto-Gauge: unknown
+Auto-Gauge: useful
 Blast Off: useful
 Blaze: progression
 Blue Chaos Emerald: mcguffin
 Boardmaster: progression
-Boost Gauge Up: unknown
-Breath Holder: unknown
+Boost Gauge Up: progression
+Breath Holder: useful
 Chao: unknown
-Chaos Island Zone Key: unknown
+Chaos Island Zone Key: progression
 Charmy: unknown
 Chemical Plant Zone Key: progression
 City Escape Zone Key: progression
@@ -18,37 +19,42 @@ Classic Sonic: progression
 Collection Key (Blue): unknown
 Collection Key (Green): unknown
 Collection Key (Yellow): unknown
-Cream: unknown
+Cream: progression
 Crisis City Zone Key: progression
 Cyan Chaos Emerald: mcguffin
-Death Egg Robot Boss Key: unknown
+Death Egg Robot Boss Key: progression
+Direct Jump: useful
 Doom Blast: progression
 Doom Morph: unknown
 Doom Spears: progression
 Doom Surf: progression
-Doom Wing: unknown
+Doom Wing: progression
 Doom's Gear: progression
-Egg Dragoon Boss Key: unknown
-Endless Boost: unknown
+Drop Dash: useful
+Egg Dragoon Boss Key: progression
+Endless Boost: progression
 Espio: progression
 Flame Shield: progression
 Gauge Rebooter: useful
 Green Chaos Emerald: mcguffin
 Green Hill Zone Key: progression
-Hercules Muscles: unknown
-Homing Attack: unknown
+Hercules Muscles: useful
+Homing Attack: useful
 Invincible Start: useful
-Kingdom Valley Zone Key: unknown
+Kingdom Valley Zone Key: progression
 Knuckles: progression
-Long Spin Dash: unknown
+Last Chance: useful
+Long Spin Dash: useful
+Metal Sonic Boss Key: progression
 Modern Sonic: progression
-Perfect Chaos Boss Key: unknown
-Planet Wisp Zone Key: unknown
+Perfect Chaos Boss Key: progression
+Planet Wisp Zone Key: progression
 Power Brake: unknown
-Power Sneakers: unknown
+Power Sneakers: useful
 Power Stomp: progression
 Purple Chaos Emerald: mcguffin
-Rail Canyon Zone Key: unknown
+Quick Slide: useful
+Rail Canyon Zone Key: progression
 Red Chaos Emerald: mcguffin
 Red Star Ring: unknown
 Ring Energy Bonus: unknown
@@ -58,29 +64,32 @@ Rocket Bit: unknown
 Rocket Bob: unknown
 Rocket Bolt: unknown
 Rocket Nut: unknown
-Rooftop Run Zone Key: unknown
+Rooftop Run Zone Key: progression
 Rouge: progression
 Safety Net: unknown
-Seaside Hill Zone Key: unknown
+Seaside Hill Zone Key: progression
 Serial Homing: unknown
 Shadow Boss Gate Key: progression
-Shadow Boss Key: unknown
+Shadow Boss Key: progression
 Shadow Emblem: progression
 Shadow: progression
-Shield: unknown
-Silver Boss Key: unknown
+Shield: useful
+Silver Boss Key: progression
 Sky Sanctuary Zone Key: progression
 Smasher Bonus: useful
 Space Colony Ark Zone Key: progression
 Speed Highway Zone Key: progression
-Speed Up: unknown
+Speed Up: useful
 Sunset Heights Zone Key: progression
 Super Sonic: progression
-Sure-Footed: unknown
+Sure-Footed: useful
+Tails: progression
 Thunder Shield: progression
 Time Break: useful
 Tokyo Warp Ring: progression
-Trick Mastery: unknown
-Twin Spin Attack: unknown
-Vector: unknown
+Treasure Scanner: useful
+Trick Mastery: useful
+Twin Spin Attack: useful
+Vector: progression
+White Chaos Emerald: mcguffin
 Yellow Chaos Emerald: mcguffin
