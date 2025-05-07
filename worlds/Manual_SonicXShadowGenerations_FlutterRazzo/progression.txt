@@ -1,8 +1,8 @@
 10-Second Rings: useful
 Acceleration: useful
-Amy: unknown
+Amy: progression
 Aqua Shield: progression
-Athleticism: unknown
+Athleticism: useful
 Auto-Gauge: useful
 Blast Off: useful
 Blaze: progression
@@ -12,7 +12,7 @@ Boost Gauge Up: progression
 Breath Holder: useful
 Chao: unknown
 Chaos Island Zone Key: progression
-Charmy: unknown
+Charmy: progression
 Chemical Plant Zone Key: progression
 City Escape Zone Key: progression
 Classic Sonic: progression
@@ -25,7 +25,7 @@ Cyan Chaos Emerald: mcguffin
 Death Egg Robot Boss Key: progression
 Direct Jump: useful
 Doom Blast: progression
-Doom Morph: unknown
+Doom Morph: progression
 Doom Spears: progression
 Doom Surf: progression
 Doom Wing: progression
@@ -49,15 +49,16 @@ Metal Sonic Boss Key: progression
 Modern Sonic: progression
 Perfect Chaos Boss Key: progression
 Planet Wisp Zone Key: progression
-Power Brake: unknown
+Power Brake: useful
 Power Sneakers: useful
 Power Stomp: progression
 Purple Chaos Emerald: mcguffin
 Quick Slide: useful
+Radical Highway Zone Key: progression
 Rail Canyon Zone Key: progression
 Red Chaos Emerald: mcguffin
 Red Star Ring: unknown
-Ring Energy Bonus: unknown
+Ring Energy Bonus: useful
 Ring Time: progression
 Rings: filler
 Rocket Bit: unknown
@@ -66,17 +67,19 @@ Rocket Bolt: unknown
 Rocket Nut: unknown
 Rooftop Run Zone Key: progression
 Rouge: progression
-Safety Net: unknown
+Safety Net: useful
 Seaside Hill Zone Key: progression
-Serial Homing: unknown
+Serial Homing: useful
 Shadow Boss Gate Key: progression
 Shadow Boss Key: progression
 Shadow Emblem: progression
+Shadow Generations Complete: progression
 Shadow: progression
 Shield: useful
 Silver Boss Key: progression
 Sky Sanctuary Zone Key: progression
 Smasher Bonus: useful
+Sonic Generations Complete: progression
 Space Colony Ark Zone Key: progression
 Speed Highway Zone Key: progression
 Speed Up: useful
@@ -91,5 +94,6 @@ Treasure Scanner: useful
 Trick Mastery: useful
 Twin Spin Attack: useful
 Vector: progression
+What Maria Wants: progression
 White Chaos Emerald: mcguffin
 Yellow Chaos Emerald: mcguffin
