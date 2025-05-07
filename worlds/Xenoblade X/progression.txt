@@ -121,6 +121,7 @@ AUG: Stabilizer IX: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
+AUG: Topple: Barrier XX: unknown
 DP: Booster Probe G2: unknown
 DP: Fuel Recovery Probe: progression
 DP: Mining Probe G1: progression
@@ -298,6 +299,7 @@ WPN: Carbide Haven II_3: unknown
 WPN: Carbide Ralzes_1: unknown
 WPN: Cermet Fulge II_1: unknown
 WPN: Cermet Iyst II_3: unknown
+WPN: Chrome Bolide_1: unknown
 WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
 WPN: Chromoly Parma II_2: unknown
