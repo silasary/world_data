@@ -39,6 +39,7 @@ AMR: Ultra Infinite Boots: filler
 AMR: Ultra Infinite Corpus: progression
 AMR: Ultra Infinite Sleeve L: filler
 AMR: Ultra Regal Brax R: unknown
+AMR: Ultra Regal Distancers: unknown
 AMR: Valor Brax R_1: unknown
 AMR: Valor Distancers_2: unknown
 AMR: Valor Guante L_1: unknown
@@ -61,6 +62,7 @@ ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
 ART: First Down: unknown
 ART: Flamehand: unknown
+ART: Furious Blast: unknown
 ART: Geolibrium: unknown
 ART: Infuriate: unknown
 ART: Killing Machine: unknown
@@ -112,6 +114,7 @@ AUG: Ranged Draw Surge VI: unknown
 AUG: Resist Beam Res Down VI: unknown
 AUG: Resist Beam Res Down X: unknown
 AUG: Resist Beam Res Down XVIII: unknown
+AUG: Resist Fatigue II: unknown
 AUG: Resist Fatigue XX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
 AUG: Resist Shock VIII: unknown
@@ -229,6 +232,7 @@ SKL: Unpleasant Dream: unknown
 SKL: Unwavering Courage: unknown
 SKL: Well-Weathered: unknown
 SKL: Yamato Spirit: useful
+SKWPN: ARES-SP0290 AVATARA: unknown
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M153SA Shield_2: unknown
@@ -237,6 +241,7 @@ SKWPN: SAM-M154SA Shield_2: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-XM141SA Shield: unknown
 SKWPN: SAM-XXM142ME Beam-Shield: unknown
+SKWPN: SHM-M120ME B-Centipede_1: unknown
 SKWPN: SHM-R1020SA Wiregun_1: filler
 SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R350SA Assault_3: unknown
@@ -245,6 +250,7 @@ SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-R740SA Firegun_3: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
+SKWPN: SHM-XXR130ME Bladegun: unknown
 SKWPN: SHM-XXR920SA L-Cannon: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
