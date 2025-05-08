@@ -574,6 +574,7 @@ SphereKey (E2A7): unknown
 SquareBackpack: filler
 SquareKey (E1A4): unknown
 SquareKey (E1A5): unknown
+SquareKey (E1A6): progression
 SquareKey (E1A7): unknown
 SquareKey (E1A8): unknown
 SquareKey (E2A8): unknown
