@@ -8,6 +8,7 @@
 Amen Name Area - Exit: progression
 Art Gallery - Fifth Floor: progression
 Art Gallery - Fourth Floor: progression
+Art Gallery - ORDER (Panel): progression
 Art Gallery - Second Floor: progression
 Art Gallery - Third Floor: progression
 Artistic Doors: progression
@@ -23,7 +24,7 @@ Color Hunt - BLUE (Panel): unknown
 Color Hunt - EXIT (Panel): progression
 Color Hunt - GREEN (Panel): unknown
 Color Hunt - Green Barrier: progression
-Color Hunt - ORANGE (Panel): unknown
+Color Hunt - ORANGE (Panel): progression
 Color Hunt - Orange Barrier: progression
 Color Hunt - PURPLE (Panel): unknown
 Color Hunt - Purple Barrier: progression
@@ -68,12 +69,14 @@ Hallway Room Panels: progression
 Hedge Maze Doors: progression
 Hidden Room - Dead End Door: progression
 Hidden Room - Knight Night Entrance: progression
+Hidden Room - OPEN (Panel): progression
 Hidden Room - Rhyme Room Entrance: progression
 Hub Room - Crossroads Entrance: progression
 Hub Room - Near RAT Door: progression
-Hub Room - OPEN (Panel): unknown
+Hub Room - OPEN (Panel): progression
 Hub Room - ORDER (Panel): unknown
-Hub Room - SLAUGHTER (Panel): unknown
+Hub Room - RAT (Panel): progression
+Hub Room - SLAUGHTER (Panel): progression
 Hub Room - Shortcut to Hedge Maze: progression
 Hub Room - TRACE (Panel): progression
 Hub Room - Tenacious Entrance: progression
@@ -117,7 +120,7 @@ Outside The Initiated - Eight Door: progression
 Outside The Initiated - OXEN (Panel): progression
 Outside The Initiated - Orange Barrier: progression
 Outside The Initiated - Shortcut to Hub Room: progression
-Outside The Scientific - OPEN (Panel): unknown
+Outside The Scientific - OPEN (Panel): progression
 Outside The Undeterred - Fours: progression
 Outside The Undeterred - Green Painting: progression
 Outside The Undeterred - Number Hunt: progression
@@ -127,7 +130,7 @@ Outside The Undeterred - Twos: progression
 Outside The Undeterred - Zero Door: progression
 Outside The Wanderer - Tower Entrance: progression
 Outside The Wanderer - WANDERLUST (Panel): progression
-Outside The Wise - KITTEN, CAT (Panels): unknown
+Outside The Wise - KITTEN, CAT (Panels): progression
 Outside The Wondrous - SHRINK (Panel): progression
 Owl Hallway - STRAYS (Panel): unknown
 Owl Hallway - Shortcut to Hedge Maze: progression
@@ -140,8 +143,8 @@ Progressive Hallway Room: progression
 Progressive Number Hunt: progression
 Progressive Orange Tower: progression
 Progressive Pilgrimage: progression
-Progressive Suits Area: unknown
-Progressive Symmetry Room: unknown
+Progressive Suits Area: progression
+Progressive Symmetry Room: progression
 Purple: progression
 Puzzle Skip: useful
 Red: progression
@@ -192,6 +195,8 @@ The Colorful - Green Door: progression
 The Colorful - Orange Door: progression
 The Colorful - Purple Door: progression
 The Colorful - Red Door: progression
+The Colorful - SPOON (Panel): unknown
+The Colorful - WALLS (Panel): unknown
 The Colorful - White Door: progression
 The Colorful - Yellow Door: progression
 The Discerning - Entrance: progression
@@ -209,7 +214,7 @@ The Perceptive - GAZE (Panel): progression
 The Scientific - Entrance: progression
 The Seeker - Entrance: progression
 The Steady - Entrance: progression
-The Tenacious - Black Palindromes (Panels): unknown
+The Tenacious - Black Palindromes (Panels): progression
 The Tenacious - Shortcut to Hub Room: progression
 The Traveled - Color Hallways Entrance: progression
 The Traveled - Entrance: progression
