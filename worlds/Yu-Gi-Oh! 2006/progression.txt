@@ -61,7 +61,7 @@ LD09 Sets Forbidden Unlock: progression
 LD10 All except LV monsters forbidden Unlock: progression
 LD11 All except Fairies forbidden Unlock: progression
 LD12 All except Wind forbidden Unlock: useful
-LD13 All except monsters forbidden Unlock: unknown
+LD13 All except monsters forbidden Unlock: progression
 LD14 Level 3 or below forbidden Unlock: progression
 LD15 DEF 1500 or less forbidden Unlock: unknown
 LD16 Effect Monsters forbidden Unlock: progression
@@ -146,7 +146,7 @@ TD27 Dark Sage Unlock: progression
 TD28 Direct Damage Unlock: useful
 TD29 Destroy Monsters in Battle Unlock: progression
 TD30 Tribute Summon Unlock: useful
-TD31 Special Summon C Unlock: unknown
+TD31 Special Summon C Unlock: progression
 TD32 Toon Unlock: progression
 TD33 10x Counter Unlock: progression
 TD34 Destiny Board Unlock: progression
