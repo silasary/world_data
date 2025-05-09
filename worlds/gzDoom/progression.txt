@@ -143,6 +143,8 @@ BlueSkull (MAP22): progression
 BlueSkull (MAP25): progression
 BlueSkull (MAP27): unknown
 BlurSphere: filler
+BowlOfFruit: filler
+BowlOfVegetables: unknown
 Bullets: filler
 Chaingun: progression
 Chainsaw: progression
@@ -209,6 +211,7 @@ Ethereal Crossbow: progression
 Firemace: progression
 FishTank: filler
 Gauntlets of the Necromancer: progression
+GlassOfWater: filler
 GoonadesVO: unknown
 GreenArmor: filler
 HappySphere: useful
@@ -325,6 +328,7 @@ KeyYellow (E5M6): progression
 KeyYellow (E5M7): progression
 KeyYellow (E5M9): progression
 LAZ Device: progression
+Large Zorcher Charge [LargeZorchRecharge]: filler
 Large Zorcher: progression
 Level Access (E1A1): unknown
 Level Access (E1A10): unknown
@@ -506,14 +510,20 @@ Level Clear (MAP32): mcguffin
 Locationator: filler
 Medikit: filler
 Megasphere: filler
+Mini Zorch Charge [MiniZorchPack]: filler
+Mini Zorch Charge [MiniZorchRecharge]: filler
 Morph Ovum: filler
 Mystic Urn: filler
 OoziVO: unknown
 OozisVO: unknown
+Phasing Zorcher Charge [PhasingZorchPack]: filler
+Phasing Zorcher Charge [PhasingZorch]: filler
 Phasing Zorcher: progression
 Phoenix Rod: progression
 Plasma Rifle: progression
 Powerzade: filler
+Propulsor Charge [PropulsorZorchPack]: filler
+Propulsor Charge [PropulsorZorch]: filler
 PyramidKey (E2A1): unknown
 PyramidKey (E2A3): unknown
 PyramidKey (E2A7): unknown
@@ -539,6 +549,7 @@ RedCard (MAP17): progression
 RedCard (MAP24): progression
 RedCard (MAP26): progression
 RedFlemKey (E3M5): progression
+RedMushroom: filler
 RedSkull (E2M6): progression
 RedSkull (E2M9): progression
 RedSkull (E3M4): progression
@@ -570,6 +581,7 @@ Shotgun: progression
 SillySphere: useful
 SilverShield: filler
 SlimeProofSuit: filler
+SlimeRepellent: filler
 Soulsphere: progression
 SphereKey (E2A1): unknown
 SphereKey (E2A7): unknown
