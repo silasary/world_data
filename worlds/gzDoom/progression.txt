@@ -144,7 +144,7 @@ BlueSkull (MAP25): progression
 BlueSkull (MAP27): unknown
 BlurSphere: filler
 BowlOfFruit: filler
-BowlOfVegetables: unknown
+BowlOfVegetables: filler
 Bullets: filler
 Chaingun: progression
 Chainsaw: progression
@@ -328,6 +328,7 @@ KeyYellow (E5M6): progression
 KeyYellow (E5M7): progression
 KeyYellow (E5M9): progression
 LAZ Device: progression
+Large Zorcher Charge [LargeZorchPack]: filler
 Large Zorcher Charge [LargeZorchRecharge]: filler
 Large Zorcher: progression
 Level Access (E1A1): unknown
