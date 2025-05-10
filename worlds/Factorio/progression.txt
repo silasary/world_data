@@ -290,7 +290,7 @@ transport-belt-capacity-1: filler
 transport-belt-capacity-2: filler
 tree-seeding: useful
 tungsten-carbide: useful
-tungsten-steel: unknown
+tungsten-steel: useful
 turbo-transport-belt: unknown
 uranium-ammo: useful
 uranium-mining: useful
