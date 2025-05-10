@@ -30,7 +30,7 @@ Color Hunt - PURPLE (Panel): unknown
 Color Hunt - Purple Barrier: progression
 Color Hunt - RED (Panel): unknown
 Color Hunt - Shortcut to The Steady: progression
-Color Hunt - YELLOW (Panel): unknown
+Color Hunt - YELLOW (Panel): progression
 Color Hunt Barriers: progression
 Colorful Doors: progression
 Compass Room - Lookout Entrance: progression
@@ -38,6 +38,7 @@ Compass Room Panels: progression
 Courtyard - Backside Door: progression
 Courtyard - Green Barrier: progression
 Courtyard - Ordinal Panels: unknown
+Crossroads - BEND HI (Panel): unknown
 Crossroads - DECAY (Panel): unknown
 Crossroads - Eye Wall: progression
 Crossroads - Hollow Hallway: progression
@@ -103,8 +104,9 @@ Orange Tower - Seventh Floor: progression
 Orange Tower - Sixth Floor: progression
 Orange Tower - Third Floor: progression
 Orange Tower Fifth Floor - Quadruple Intersection: progression
+Orange Tower Fifth Floor - SIZE Panels: unknown
 Orange Tower Fifth Floor - Welcome Back: progression
-Orange Tower First Floor - SECRET (Panel): unknown
+Orange Tower First Floor - SECRET (Panel): progression
 Orange Tower First Floor - Salt Pepper Door: progression
 Orange Tower First Floor - Shortcut to Hub Room: progression
 Orange Tower First Floor - Shortcuts: progression
@@ -114,7 +116,7 @@ Orange Tower Panels: unknown
 Orange Tower Third Floor - Red Barrier: progression
 Orange Tower Third Floor - Rhyme Room Entrance: progression
 Orange: progression
-Outside The Agreeable - BLACK (Panel): unknown
+Outside The Agreeable - BLACK (Panel): progression
 Outside The Agreeable - Black Door: progression
 Outside The Agreeable - CLOSE (Panel): progression
 Outside The Agreeable - Hallway Door: unknown
@@ -130,7 +132,7 @@ Outside The Initiated - Eight Door: progression
 Outside The Initiated - OXEN (Panel): progression
 Outside The Initiated - Orange Barrier: progression
 Outside The Initiated - Shortcut to Hub Room: progression
-Outside The Initiated - UNCOVER (Panel): unknown
+Outside The Initiated - UNCOVER (Panel): progression
 Outside The Scientific - OPEN (Panel): progression
 Outside The Undeterred - Fours: progression
 Outside The Undeterred - Green Painting: progression
@@ -169,6 +171,7 @@ Rhyme Room (Target) - Door to Cross: progression
 Rhyme Room Doors: progression
 Room Room - BROOMED, LAYS, BASE (Panels): unknown
 Room Room - Cellar Exit: progression
+Room Room - STAIRS (Panel): unknown
 Second Room - Exit Door: progression
 Slowness Trap: trap
 Speed Boost: useful
@@ -195,7 +198,7 @@ The Artistic (Panda) - Door to Lattice: progression
 The Artistic (Smiley) - Door to Panda: progression
 The Bearer - Backside Door: progression
 The Bearer - Entrance: progression
-The Bearer - FARTHER (Panel): unknown
+The Bearer - FARTHER (Panel): progression
 The Bearer - MIDDLE (Panel): unknown
 The Bearer - Shortcut to Tower: progression
 The Bold - Entrance: progression
@@ -204,6 +207,7 @@ The Colorful - Black Door: progression
 The Colorful - Blue Door: progression
 The Colorful - Brown Door: progression
 The Colorful - CREAM (Panel): progression
+The Colorful - FOUND (Panel): unknown
 The Colorful - Gray Door: progression
 The Colorful - Green Door: progression
 The Colorful - IRON (Panel): unknown
