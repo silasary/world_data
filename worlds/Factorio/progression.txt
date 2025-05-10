@@ -45,7 +45,7 @@ braking-force-6: filler
 braking-force-7: filler
 bulk-inserter: unknown
 calcite-processing: progression
-captive-biter-spawner: unknown
+captive-biter-spawner: useful
 captivity: filler
 carbon-fiber: useful
 chemical-science-pack: progression
@@ -93,7 +93,7 @@ exoskeleton-equipment: useful
 explosive-rocketry: useful
 explosives: useful
 fast-inserter: useful
-fish-breeding: unknown
+fish-breeding: useful
 fission-reactor-equipment: useful
 flamethrower: useful
 flammables: filler
