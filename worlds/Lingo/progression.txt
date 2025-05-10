@@ -120,6 +120,7 @@ Outside The Agreeable - Purple Barrier: progression
 Outside The Agreeable - RIGHT (Panel): unknown
 Outside The Agreeable - Tenacious Entrance: progression
 Outside The Bold - BEGIN (Panel): unknown
+Outside The Bold - UNOPEN (Panel): unknown
 Outside The Initiated - Blue Barrier: progression
 Outside The Initiated - Eight Door: progression
 Outside The Initiated - OXEN (Panel): progression
@@ -190,6 +191,7 @@ The Artistic (Smiley) - Door to Panda: progression
 The Bearer - Backside Door: progression
 The Bearer - Entrance: progression
 The Bearer - FARTHER (Panel): unknown
+The Bearer - MIDDLE (Panel): unknown
 The Bearer - Shortcut to Tower: progression
 The Bold - Entrance: progression
 The Colorful - Black Door: progression
@@ -202,6 +204,7 @@ The Colorful - Orange Door: progression
 The Colorful - Purple Door: progression
 The Colorful - Red Door: progression
 The Colorful - SPOON (Panel): unknown
+The Colorful - SUN (Panel): unknown
 The Colorful - WALLS (Panel): unknown
 The Colorful - White Door: progression
 The Colorful - Yellow Door: progression
