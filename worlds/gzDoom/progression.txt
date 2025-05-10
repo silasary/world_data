@@ -1,3 +1,4 @@
+Archy: unknown
 ArmorBonus: filler
 ArmorBrick: filler
 ArmorDiamond: filler
@@ -216,6 +217,7 @@ Gauntlets of the Necromancer: progression
 GlassOfWater: filler
 GoonadesVO: unknown
 GreenArmor: filler
+GreenMushroom: unknown
 HappySphere: useful
 Health: unknown
 HealthBonus: filler
