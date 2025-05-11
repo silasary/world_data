@@ -26,8 +26,11 @@ GATE_SS_UW: progression
 GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
+Gate: Drainage System to Garbage Wastes: useful
+Gate: Garbage Wastes to Shoreline: useful
 Gate: Outskirts to Drainage System: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
+Glow Weed: filler
 Karma: mcguffin
 MSC: progression
 Object-DangleFruit: filler
@@ -64,6 +67,7 @@ Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
 Rock: unknown
+Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
 Stun trap: unknown
@@ -76,4 +80,4 @@ Trap-RedLizard: trap
 Trap-Stun: trap
 Trap-Timer: trap
 Trap-Zoomies: trap
-Zoomies trap: unknown
+Zoomies trap: trap
