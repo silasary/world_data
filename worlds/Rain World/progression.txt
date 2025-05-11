@@ -1,3 +1,4 @@
+Blue Fruit: unknown
 GATE_CC_UW: progression
 GATE_DS_CC: progression
 GATE_DS_GW: progression
@@ -25,6 +26,8 @@ GATE_SS_UW: progression
 GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
+Gate: Outskirts to Drainage System: unknown
+Gate: Submerged Superstructure to Shoreline: unknown
 Karma: mcguffin
 MSC: progression
 Object-DangleFruit: filler
@@ -60,8 +63,10 @@ Passage-Saint: useful
 Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
+Rock: unknown
 Scug-Rivulet: unknown
 Scug-White: mcguffin
+Stun trap: unknown
 The Glow: mcguffin
 The Mark: unknown
 Trap-Alarm: trap
@@ -71,3 +76,4 @@ Trap-RedLizard: trap
 Trap-Stun: trap
 Trap-Timer: trap
 Trap-Zoomies: trap
+Zoomies trap: unknown
