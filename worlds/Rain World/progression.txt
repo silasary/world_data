@@ -1,4 +1,5 @@
 Blue Fruit: unknown
+Brother Long Legs trap: unknown
 GATE_CC_UW: progression
 GATE_DS_CC: progression
 GATE_DS_GW: progression
@@ -27,6 +28,7 @@ GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
 Gate: Drainage System to Garbage Wastes: useful
+Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Outskirts to Drainage System: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
