@@ -17,6 +17,7 @@ Bookworm: unknown
 Bro: unknown
 Can Add Room: unknown
 Can Flirt: unknown
+Can Go Steady: unknown
 Can Marry: unknown
 Change Appearance: unknown
 Cheerful: unknown
@@ -30,6 +31,7 @@ Creative: unknown
 Dance Machine: unknown
 Decorations - Mirrors: unknown
 Decorations - Non-Mirrors: unknown
+Dog Lover: unknown
 Electronics - Alarms: unknown
 Electronics - Computers: unknown
 Electronics - Televisions: unknown
@@ -79,6 +81,7 @@ Music Lover: unknown
 Must Adopt Child: unknown
 Must Become Ghost: unknown
 Must Cheat: unknown
+Must Delete Object: unknown
 Must Demote: unknown
 Must Go To Batuu: unknown
 Must Quit Job: trap
@@ -97,8 +100,10 @@ Perfectionist: unknown
 Pets Furniture: unknown
 Plan - Date: unknown
 Plan - Wedding: unknown
+Plumbing - Sink: unknown
 Plumbing - Toilet: unknown
 Progressive Lot Size: useful
+Proper: unknown
 Random Job: unknown
 Recycle Disciple: unknown
 Romantic: unknown
