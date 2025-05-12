@@ -287,7 +287,7 @@ Bracelet+4: unknown
 Bracelet+5: unknown
 Bracelet: unknown
 Bracer+1: unknown
-Bracer+2: unknown
+Bracer+2: filler
 Bracer+3: unknown
 Bracer+4: unknown
 Bracer+5: unknown
@@ -918,7 +918,7 @@ Power Suit: unknown
 Primordial Branch: unknown
 Prismatic Shard: unknown
 Progressive Boulders: unknown
-Progressive Earth Orbs: unknown
+Progressive Earth Orbs: progression
 Progressive Fire Orbs: unknown
 Progressive Flight: unknown
 Progressive Ice Orbs: unknown
