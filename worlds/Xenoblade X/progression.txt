@@ -22,6 +22,7 @@ AMR: Diving Mask_1: unknown
 AMR: Forza Boots_3: filler
 AMR: Forza Glove L_2: unknown
 AMR: Forza Headset_3: unknown
+AMR: Forza Legwear_2: unknown
 AMR: Forza Ryg_2: unknown
 AMR: Forza Ward L_2: unknown
 AMR: Limited Browline Glasses: unknown
@@ -33,6 +34,7 @@ AMR: Mother God's Crest_3: unknown
 AMR: Overlord's Gauntlet L_1: unknown
 AMR: Prime Snorkel_2: filler
 AMR: Prototype Armwear R: unknown
+AMR: Prototype BLADE Pants: unknown
 AMR: Rare Sport Glasses: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Legwear_2: unknown
@@ -76,6 +78,7 @@ ART: Missile Volley: unknown
 ART: Overclock: unknown
 ART: Pathogen Blast: unknown
 ART: Phenomenon: unknown
+ART: Recuperate: unknown
 ART: Rising Blade: unknown
 ART: Screamer: unknown
 ART: Sniper Barrel: unknown
@@ -101,6 +104,7 @@ AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
 AUG: Extend Gravity Res Down XX: unknown
+AUG: Extend Taunt XII: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
@@ -121,6 +125,7 @@ AUG: Potential Drive XIII: filler
 AUG: Ranged Accuracy Up XI: filler
 AUG: Ranged Accuracy Up XX: unknown
 AUG: Ranged Draw Surge VI: unknown
+AUG: Reflect: Ether: unknown
 AUG: Resist Beam Res Down VI: unknown
 AUG: Resist Beam Res Down X: unknown
 AUG: Resist Beam Res Down XVIII: unknown
@@ -164,6 +169,7 @@ FRD: Murderess: unknown
 FRD: Nagi: unknown
 FRD: Phog: unknown
 SKAMR: SK20SA M-LARM-RNG_2: unknown
+SKAMR: SK20SA M-LEGS-RNG_3: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
 SKAMR: SK30SA L-LEGS-ATK_2: unknown
 SKAMR: SK40GG L-RARM-DEF_1: unknown
@@ -193,12 +199,14 @@ SKAUG: CritUp.MECHANOID VIII: filler
 SKAUG: CritUp.THEROID VI: unknown
 SKAUG: CritUp.ULTRAFAUNA XV: unknown
 SKAUG: Crush.APPEND XII: unknown
+SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
 SKAUG: ExTime.CRIT-POW II: unknown
 SKAUG: Jamming VII: unknown
 SKAUG: Jamming XII: unknown
 SKAUG: M-Auto.ETHER-DOWN VI: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
+SKAUG: M-Auto.SHOCK XVIII: unknown
 SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
 SKAUG: Overdrive.EXTEND III: unknown
@@ -304,6 +312,7 @@ SKWPN: SSM-R150SA M-Missile_3: unknown
 SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
+SKWPN: SSM-R420SA SHD-Ray_3: unknown
 SKWPN: SSM-RX350SA F-Rifle_3: unknown
 SKWPN: SSM-XR140ME M-Missile: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
