@@ -63,7 +63,7 @@ LD11 All except Fairies forbidden Unlock: progression
 LD12 All except Wind forbidden Unlock: useful
 LD13 All except monsters forbidden Unlock: progression
 LD14 Level 3 or below forbidden Unlock: progression
-LD15 DEF 1500 or less forbidden Unlock: unknown
+LD15 DEF 1500 or less forbidden Unlock: progression
 LD16 Effect Monsters forbidden Unlock: progression
 LD17 Spells forbidden Unlock: useful
 LD18 Attacks forbidden Unlock: useful
