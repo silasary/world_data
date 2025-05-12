@@ -1,6 +1,8 @@
 Blue Fruit: unknown
 Brother Long Legs trap: unknown
 Bubble Fruit: unknown
+Cherrybomb: unknown
+Eggbug Egg: filler
 Flashbang: filler
 GATE_CC_UW: progression
 GATE_DS_CC: progression
@@ -39,7 +41,10 @@ Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
 Glow Weed: filler
 Karma: mcguffin
+Lilypuck: filler
+Longer cycles: unknown
 MSC: progression
+Mushroom: unknown
 Object-DangleFruit: filler
 Object-EggBugEgg: filler
 Object-ElectricSpear: unknown
@@ -60,6 +65,7 @@ Object-SlimeMold: filler
 Object-Spear: filler
 Object-VultureMask: filler
 Object-WaterNut: filler
+Passage Token - The Martyr: mcguffin
 Passage-Chieftain: useful
 Passage-DragonSlayer: useful
 Passage-Friend: unknown
