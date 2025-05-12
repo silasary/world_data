@@ -28,10 +28,13 @@ AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
 AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
+AMR: Mother God's Crest_3: unknown
 AMR: Overlord's Gauntlet L_1: unknown
 AMR: Prime Snorkel_2: filler
 AMR: Prototype Armwear R: unknown
+AMR: Rare Sport Glasses: unknown
 AMR: Reginal Ayx_1: unknown
+AMR: Reginal Legwear_2: unknown
 AMR: Reginal Tecta R_3: unknown
 AMR: Tank Top (Pink Camo): filler
 AMR: Ultra Boundless Vambrace L: unknown
@@ -48,6 +51,7 @@ AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro R_3: unknown
 AMR: Vivid Sleeve L_1: unknown
 AMR: Vivid Vizard_3: unknown
+AMR: Vivid Zyua R_2: unknown
 AMR: Warrior's Crest_3: unknown
 AMR: Warrior's Gauntlet R_1: unknown
 AMR: Worn Overlord's Mask: unknown
@@ -104,6 +108,7 @@ AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Draw Surge XV: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
+AUG: Overdrive: Recover HP I: unknown
 AUG: Physical Attack Plus XI: filler
 AUG: Piscinoid Criticals Up IX: unknown
 AUG: Potential Boost XV: unknown
@@ -120,6 +125,7 @@ AUG: Resist Gravity Res Down XVIII: unknown
 AUG: Resist Shock VIII: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Virus X: unknown
+AUG: Side Attack Plus XI: unknown
 AUG: Stabilizer IX: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
@@ -196,6 +202,7 @@ SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
 SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
+SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
@@ -234,6 +241,7 @@ SKL: Well-Weathered: unknown
 SKL: Yamato Spirit: useful
 SKWPN: ARES-SP0290 AVATARA: unknown
 SKWPN: SAM-M120SA Shield_3: unknown
+SKWPN: SAM-M130ME Beam-Shield_1: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
@@ -285,9 +293,11 @@ SKWPN: SSM-R150SA M-Missile_3: unknown
 SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
+SKWPN: SSM-RX350SA F-Rifle_3: unknown
 SKWPN: SSM-XR140ME M-Missile: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
+SKWPN: SSM-XRX460SA B2-Gatling: unknown
 SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
 WPN: Advanced Cermet Parce: unknown
@@ -303,6 +313,7 @@ WPN: Audacious Lance_2: unknown
 WPN: Carbide Candela II_1: unknown
 WPN: Carbide Haven II_3: unknown
 WPN: Carbide Ralzes_1: unknown
+WPN: Carbide Sword_3: unknown
 WPN: Cermet Fulge II_1: unknown
 WPN: Cermet Iyst II_3: unknown
 WPN: Chrome Bolide_1: unknown
@@ -319,7 +330,9 @@ WPN: Iron Blades_2: unknown
 WPN: Iron Iyst II_1: unknown
 WPN: Iron Knife III_1: unknown
 WPN: Iron Pride_1: unknown
+WPN: Ophidian Bangbangs_2: unknown
 WPN: Ophidian Radius II_2: unknown
+WPN: Ophidian Strobe_1: unknown
 WPN: Original Bangbangs: filler
 WPN: Soldier Pistolia_2: unknown
 WPN: Soldier Pistolia_3: unknown
@@ -341,6 +354,7 @@ WPN: Warrior Radius_3: unknown
 WPN: Worn Carbide Thudclang: unknown
 WPN: Worn Chrome Knife II: unknown
 WPN: Worn Chromoly Parce: filler
+WPN: Worn Cobalt Haven II: unknown
 WPN: Worn Cobalt Watxes: unknown
 WPN: Worn Intrepid Lance: unknown
 WPN: Worn Ophidian Raygun: unknown
