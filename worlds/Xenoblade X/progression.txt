@@ -1,3 +1,4 @@
+AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
@@ -66,6 +67,7 @@ ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
 ART: First Down: unknown
 ART: Flamehand: unknown
+ART: Full Specs: unknown
 ART: Furious Blast: unknown
 ART: Geolibrium: unknown
 ART: Infuriate: unknown
@@ -162,10 +164,12 @@ SKAMR: SK30SA H-BODY-ATK3_3: unknown
 SKAMR: SK30SA L-LEGS-ATK_2: unknown
 SKAMR: SK40GG L-RARM-DEF_1: unknown
 SKAMR: SK40SA H-RARM-ATK2_1: unknown
+SKAMR: SK40SA L-BODY-ATK_3: unknown
 SKAMR: SK40SA L-RARM-SPD_2: unknown
 SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
+SKAMR: SK60GG L-LARM-DEF_2: unknown
 SKAMR: SK60SA H-RARM-ATK2_2: filler
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
@@ -215,6 +219,7 @@ SKAUG: TimeEx.RECOV-DOWN XIX: unknown
 SKAUG: TimeEx.SHOCK X: unknown
 SKAUG: TimeEx.SLEEP III: filler
 SKAUG: TimeEx.SLEEP IV: unknown
+SKAUG: TimeEx.THERM-DOWN XII: unknown
 SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
 SKAUG: Weather.S-STORM-RES: unknown
