@@ -39,6 +39,7 @@ Gate: Outskirts to Drainage System: unknown
 Gate: Shaded Citadel to The Exterior: unknown
 Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
+Gate: Subterranean to Shoreline: progression
 Glow Weed: filler
 Karma: mcguffin
 Lilypuck: filler
