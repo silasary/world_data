@@ -5,6 +5,7 @@ Attack Trap: trap
 Cluster Grenade Trap: trap
 Evolution Trap: trap
 Grenade Trap: trap
+Inventory Spill Trap: trap
 Teleport Trap: trap
 advanced-circuit: useful
 advanced-combinators: useful
@@ -43,7 +44,7 @@ braking-force-4: filler
 braking-force-5: filler
 braking-force-6: filler
 braking-force-7: filler
-bulk-inserter: unknown
+bulk-inserter: useful
 calcite-processing: progression
 captive-biter-spawner: useful
 captivity: filler
