@@ -1,5 +1,6 @@
 Blue Fruit: unknown
 Brother Long Legs trap: unknown
+Flashbang: filler
 GATE_CC_UW: progression
 GATE_DS_CC: progression
 GATE_DS_GW: progression
@@ -77,6 +78,7 @@ Slime Mold: unknown
 Stun trap: unknown
 The Glow: mcguffin
 The Mark: unknown
+Timer trap: trap
 Trap-Alarm: trap
 Trap-BrotherLongLegs: trap
 Trap-RedCentipede: trap
