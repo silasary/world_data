@@ -211,7 +211,7 @@ Bundle: Modular Frame: filler
 Bundle: Motor: unknown
 Bundle: Mycelia: unknown
 Bundle: Neural-Quantum Processor: filler
-Bundle: Nobelisk Detonator: unknown
+Bundle: Nobelisk Detonator: progression
 Bundle: Nobelisk: useful
 Bundle: Non-fissile Uranium: filler
 Bundle: Nuclear Pasta: filler
@@ -331,7 +331,7 @@ Recipe: Adaptive Control Unit: progression
 Recipe: Adhered Iron Plate: progression
 Recipe: Alclad Aluminum Sheet: unknown
 Recipe: Alclad Casing: progression
-Recipe: Alien DNA Capsule: unknown
+Recipe: Alien DNA Capsule: progression
 Recipe: Alien Power Matrix: unknown
 Recipe: Alumina Solution: progression
 Recipe: Aluminum Beam: progression
