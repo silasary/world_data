@@ -70,6 +70,7 @@ Hallway Room (3) - Exit: progression
 Hallway Room (4) - Exit: progression
 Hallway Room Doors: progression
 Hallway Room Panels: progression
+Hedge Maze - DOWN (Panel): unknown
 Hedge Maze Doors: progression
 Hidden Room - Dead End Door: progression
 Hidden Room - Knight Night Entrance: progression
@@ -211,7 +212,9 @@ The Colorful - FOUND (Panel): unknown
 The Colorful - Gray Door: progression
 The Colorful - Green Door: progression
 The Colorful - IRON (Panel): unknown
+The Colorful - LETTERS (Panel): unknown
 The Colorful - LOAF (Panel): unknown
+The Colorful - OBSTACLE (Panel): unknown
 The Colorful - Orange Door: progression
 The Colorful - Purple Door: progression
 The Colorful - Red Door: progression
@@ -228,6 +231,7 @@ The Feeling of Being Lost: filler
 The Incomparable - Eight Door: progression
 The Initiated - Entrance: progression
 The Observant - Backside Door: progression
+The Observant - Backside Entrance Panels: unknown
 The Observant - Entrance: progression
 The Observant - SIX (Panel): unknown
 The Observant - Stairs: progression
