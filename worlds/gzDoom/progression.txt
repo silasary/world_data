@@ -4,6 +4,7 @@ ArmorBrick: filler
 ArmorDiamond: filler
 ArmorWood: filler
 Automap (E1A1): filler
+Automap (E1A10): filler
 Automap (E1A3): unknown
 Automap (E1A4): unknown
 Automap (E1A5): filler
@@ -171,6 +172,7 @@ ChexRedCard (E1M1): progression
 ChexRedCard (E1M2): progression
 ChexRedCard (E1M3): progression
 ChexRedCard (E1M5): progression
+ChexRedCard (E1M6): unknown
 ChexRedCard (E2M1): progression
 ChexRedCard (E2M2): progression
 ChexRedCard (E2M3): progression
@@ -217,7 +219,7 @@ Gauntlets of the Necromancer: progression
 GlassOfWater: filler
 GoonadesVO: unknown
 GreenArmor: filler
-GreenMushroom: unknown
+GreenMushroom: filler
 HappySphere: useful
 Health: unknown
 HealthBonus: filler
