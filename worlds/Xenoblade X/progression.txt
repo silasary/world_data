@@ -101,6 +101,7 @@ AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
 AUG: Extend Gravity Res Down XX: unknown
+AUG: Gravity Attack Plus XII: unknown
 AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
 AUG: Humanoid Slayer XVII: unknown
@@ -204,9 +205,11 @@ SKAUG: Overdrive.EXTEND III: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
+SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
+SKAUG: Resist.LAUNCH XII: unknown
 SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
@@ -354,6 +357,7 @@ WPN: Storm Saboteurs_3: unknown
 WPN: Striker Assault Rifle_2: unknown
 WPN: Striker Crank_1: unknown
 WPN: Striker Lastyr_2: unknown
+WPN: Striker Sniper Rifle II_1: unknown
 WPN: Titanium Haven_1: filler
 WPN: Titanium Saber_2: unknown
 WPN: Trial Sword: unknown
@@ -361,6 +365,7 @@ WPN: Ultra Ceramic Parma II: unknown
 WPN: Ultra Cosmic Dual Guns II: unknown
 WPN: Warrior Radius_3: unknown
 WPN: Worn Carbide Thudclang: unknown
+WPN: Worn Cermet Spear: unknown
 WPN: Worn Chrome Knife II: unknown
 WPN: Worn Chromoly Parce: filler
 WPN: Worn Cobalt Haven II: unknown
