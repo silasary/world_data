@@ -28,6 +28,7 @@ GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
 Gate: Drainage System to Garbage Wastes: useful
+Gate: Farm Arrays to Outskirts: unknown
 Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Outskirts to Drainage System: unknown
@@ -72,6 +73,7 @@ Rock: unknown
 Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
+Slime Mold: unknown
 Stun trap: unknown
 The Glow: mcguffin
 The Mark: unknown
