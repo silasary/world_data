@@ -39,10 +39,12 @@ Gate: Garbage Wastes to Shoreline: useful
 Gate: Outskirts to Drainage System: unknown
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
+Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
 Gate: Subterranean to Shoreline: progression
 Glow Weed: filler
+Jellyfish: filler
 Karma: mcguffin
 Lantern: unknown
 Lilypuck: filler
@@ -69,6 +71,7 @@ Object-SlimeMold: filler
 Object-Spear: filler
 Object-VultureMask: filler
 Object-WaterNut: filler
+Passage Token - The Dragon Slayer: unknown
 Passage Token - The Martyr: mcguffin
 Passage Token - The Pilgrim: unknown
 Passage-Chieftain: useful
@@ -89,6 +92,7 @@ Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
 Slime Mold: unknown
+Spore Puff: unknown
 Stun trap: unknown
 The Glow: mcguffin
 The Mark: unknown
