@@ -32,16 +32,19 @@ GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
 Gate: Drainage System to Garbage Wastes: useful
+Gate: Drainage System to Subterranean: unknown
 Gate: Farm Arrays to Outskirts: unknown
 Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Outskirts to Drainage System: unknown
+Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
 Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
 Gate: Subterranean to Shoreline: progression
 Glow Weed: filler
 Karma: mcguffin
+Lantern: unknown
 Lilypuck: filler
 Longer cycles: unknown
 MSC: progression
@@ -67,6 +70,7 @@ Object-Spear: filler
 Object-VultureMask: filler
 Object-WaterNut: filler
 Passage Token - The Martyr: mcguffin
+Passage Token - The Pilgrim: unknown
 Passage-Chieftain: useful
 Passage-DragonSlayer: useful
 Passage-Friend: unknown
