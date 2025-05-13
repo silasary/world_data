@@ -16,7 +16,7 @@ Celestial Resort A - Presidential Suite Key: progression
 Celestial Resort A - Presidential Suite: progression
 Celestial Resort B - Library: progression
 Celestial Resort B - Rooftop: useful
-Celestial Resort B - Staff Quarters: unknown
+Celestial Resort B - Staff Quarters: useful
 Celestial Resort Cassette - A Side: unknown
 Celestial Resort Cassette - C Side: filler
 Coins: filler
@@ -24,10 +24,11 @@ Core A - Heart of the Mountain: progression
 Core A - Hot and Cold: progression
 Core A - Into the Core: progression
 Core B - Burning or Freezing: unknown
+Core B - Heartbeat: unknown
 Core B - Into the Core: unknown
 Core Blocks: progression
 Core Cassette - A Side: filler
-Core Toggles: unknown
+Core Toggles: progression
 Crystal Heart 10: filler
 Crystal Heart 11: filler
 Crystal Heart 12: filler
@@ -48,10 +49,12 @@ Dash Refills: progression
 Dash Switches: progression
 Dream Blocks: progression
 Epilogue Cassette: filler
+Farewell - Determination: unknown
 Farewell - Farewell: unknown
 Farewell - Power Source Key 3: unknown
 Farewell - Power Source: progression
 Farewell - Reconciliation: progression
+Farewell - Remembered: useful
 Fast Trap: trap
 Feathers: progression
 Fire and Ice Balls: progression
@@ -100,6 +103,7 @@ Old Site Cassette - C Side: unknown
 Pink Cassette Blocks: progression
 Pink Clouds: progression
 Prologue Cassette: filler
+Pufferfish: unknown
 Raspberry: filler
 Red Boosters: progression
 Reflection A - Hollows: unknown
