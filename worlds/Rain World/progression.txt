@@ -2,6 +2,7 @@ Blue Fruit: unknown
 Brother Long Legs trap: unknown
 Bubble Fruit: unknown
 Cherrybomb: unknown
+Daddy Long Legs trap: trap
 Eggbug Egg: filler
 Flashbang: filler
 GATE_CC_UW: progression
@@ -36,6 +37,7 @@ Gate: Drainage System to Subterranean: unknown
 Gate: Farm Arrays to Outskirts: unknown
 Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shoreline: useful
+Gate: Industrial Complex to Chimney Canopy: progression
 Gate: Outskirts to Drainage System: unknown
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
@@ -87,13 +89,15 @@ Passage-Saint: useful
 Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
+Red Centipede trap: trap
 Rock: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
 Slime Mold: unknown
+Spear: useful
 Spore Puff: unknown
-Stun trap: unknown
+Stun trap: trap
 The Glow: mcguffin
 The Mark: unknown
 Timer trap: trap
