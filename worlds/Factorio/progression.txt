@@ -66,7 +66,7 @@ effectivity-module-2: useful
 effectivity-module-3: useful
 effectivity-module: useful
 efficiency-module-2: useful
-efficiency-module-3: unknown
+efficiency-module-3: useful
 efficiency-module: useful
 electric-energy-accumulators: useful
 electric-energy-distribution-1: useful
@@ -136,7 +136,7 @@ laser-shooting-speed-7: filler
 laser-turret: useful
 laser-weapons-damage-1: filler
 laser-weapons-damage-2: filler
-laser-weapons-damage-3: unknown
+laser-weapons-damage-3: filler
 laser-weapons-damage-4: filler
 laser-weapons-damage-5: filler
 laser-weapons-damage-6: filler
