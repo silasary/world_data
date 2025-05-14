@@ -1,6 +1,6 @@
 Badeline Boosters: progression
 Bald Trap: trap
-Bird: unknown
+Bird: progression
 Blue Boosters: progression
 Blue Cassette Blocks: progression
 Blue Clouds: progression
@@ -58,14 +58,14 @@ Farewell - Power Source Key 4: progression
 Farewell - Power Source: progression
 Farewell - Reconciliation: progression
 Farewell - Remembered: useful
-Farewell - Singular: unknown
+Farewell - Singular: useful
 Fast Trap: trap
 Feathers: progression
 Fire and Ice Balls: progression
 Forsaken City A - Chasm: progression
 Forsaken City A - Crossing: progression
 Forsaken City B - Contraption: useful
-Forsaken City B - Scrap Pit: unknown
+Forsaken City B - Scrap Pit: useful
 Forsaken City Cassette - A Side: filler
 Golden Ridge A - Cliff Face: progression
 Golden Ridge A - Old Trail: progression
@@ -95,7 +95,7 @@ Mirror Temple A - Unravelling: progression
 Mirror Temple B - Central Chamber Key 1: progression
 Mirror Temple B - Central Chamber: unknown
 Mirror Temple B - Mix Master: unknown
-Mirror Temple B - Through the Mirror: unknown
+Mirror Temple B - Through the Mirror: useful
 Mirror Temple Cassette - A Side: filler
 Mirror Temple Cassette - C Side: unknown
 Move Blocks: progression
@@ -115,6 +115,7 @@ Reflection A - Hollows: progression
 Reflection A - Reflection: progression
 Reflection A - Resolution: progression
 Reflection A - Rock Bottom: progression
+Reflection B - Reflection: useful
 Reflection B - Rock Bottom: progression
 Reflection Cassette - A Side: filler
 Reflection Cassette - B Side: filler
@@ -144,6 +145,7 @@ The Summit A - Gem 5: progression
 The Summit A - Gem 6: unknown
 The Summit B - 1000 M: progression
 The Summit B - 1500 M: progression
+The Summit B - 2500 M: useful
 The Summit B - 500 M: progression
 The Summit Cassette - A Side: filler
 The Summit Cassette - C Side: unknown
