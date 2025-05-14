@@ -33,7 +33,7 @@ battery: useful
 belt-immunity-equipment: useful
 big-mining-drill: useful
 biochamber: progression
-bioflux-processing: unknown
+bioflux-processing: useful
 bioflux: progression
 biolab: useful
 biter-egg-handling: unknown
