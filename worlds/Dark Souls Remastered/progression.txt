@@ -82,7 +82,7 @@ Caestus: useful
 Cage Key: useful
 Calamity Ring: filler
 Carving: HELLO!: filler
-Carving: HELP ME!: unknown
+Carving: HELP ME!: filler
 Carving: I'M SORRY!: filler
 Carving: THANK YOU!: filler
 Carving: VERY GOOD!: filler
@@ -398,6 +398,7 @@ Pyromancy: Fire Surge: useful
 Pyromancy: Fire Tempest: useful
 Pyromancy: Fire Whip: unknown
 Pyromancy: Fireball: useful
+Pyromancy: Firestorm: filler
 Pyromancy: Flash Sweat: useful
 Pyromancy: Great Chaos Fireball: filler
 Pyromancy: Great Combustion: unknown
@@ -418,7 +419,7 @@ Repairbox: useful
 Residence Key: useful
 Ring of Favor and Protection: useful
 Ring of Sacrifice: unknown
-Ring of Steel Protection: unknown
+Ring of Steel Protection: filler
 Ring of the Evil Eye: filler
 Ring of the Sun Princess: useful
 Ring of the Sun's Firstborn: useful
