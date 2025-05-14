@@ -10,6 +10,7 @@ Automap (E1A3): unknown
 Automap (E1A4): unknown
 Automap (E1A5): filler
 Automap (E1A6): unknown
+Automap (E1A7): filler
 Automap (E1A8): unknown
 Automap (E1M1): useful
 Automap (E1M2): useful
@@ -226,7 +227,7 @@ Health: unknown
 HealthBonus: filler
 Hellstaff: progression
 HexagonKey (E2A12): unknown
-HolySphere: unknown
+HolySphere: filler
 HotSauce: filler
 Infrared: filler
 InvulnerabilitySphere: filler
