@@ -1,6 +1,6 @@
 Blue Fruit: unknown
 Brother Long Legs trap: unknown
-Bubble Fruit: unknown
+Bubble Fruit: filler
 Cherrybomb: filler
 Daddy Long Legs trap: trap
 Eggbug Egg: filler
@@ -110,4 +110,5 @@ Trap-RedLizard: trap
 Trap-Stun: trap
 Trap-Timer: trap
 Trap-Zoomies: trap
+Vulture Mask: unknown
 Zoomies trap: trap
