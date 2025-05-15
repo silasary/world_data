@@ -12,6 +12,7 @@ OpenCastleFloor: progression
 OpenSewerPipe: unknown
 Princess Statue: filler
 ProgressiveSword: unknown
+Shovel: progression
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
 SpawnBoomerang: unknown
