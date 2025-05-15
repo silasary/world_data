@@ -1,3 +1,4 @@
+Alarm trap: unknown
 Blue Fruit: unknown
 Brother Long Legs trap: unknown
 Bubble Fruit: filler
@@ -79,6 +80,7 @@ Object-Spear: filler
 Object-VultureMask: filler
 Object-WaterNut: filler
 Passage Token - The Dragon Slayer: unknown
+Passage Token - The Friend: unknown
 Passage Token - The Martyr: mcguffin
 Passage Token - The Pilgrim: unknown
 Passage Token - The Survivor: unknown
@@ -96,6 +98,7 @@ Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
 Red Centipede trap: trap
+Red Lizard trap: unknown
 Rock: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
