@@ -1,4 +1,4 @@
-Air Factory: unknown
+Air Factory: progression
 Airblast Drill: unknown
 Arc: unknown
 Armored Conveyor: useful
@@ -65,6 +65,7 @@ Liquid Router: unknown
 Liquid Tank: unknown
 Logic Display: filler
 Logic Processor: filler
+Lustre: unknown
 Mass Driver: unknown
 Mechanical Pump: progression
 Meltdown: unknown
@@ -87,7 +88,7 @@ Payload Router: unknown
 Phase Conduit: unknown
 Phase Conveyor: unknown
 Phase Wall: unknown
-Phase Weaver: unknown
+Phase Weaver: progression
 Plastanium Compressor: unknown
 Plastanium Conveyor: unknown
 Plastanium Wall: unknown
@@ -137,6 +138,7 @@ Spectre: useful
 Spore Press: unknown
 Steam Generator: unknown
 Sublimate: unknown
+Surge Crucible: unknown
 Surge Smelter: unknown
 Surge Tower: unknown
 Surge Wall: unknown
