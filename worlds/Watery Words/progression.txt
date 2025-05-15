@@ -1,6 +1,7 @@
 5 Bonus Tiles: progression
 5 Letters: progression
 A: unknown
+B: unknown
 C: unknown
 E: progression
 Extra turn: progression
@@ -24,6 +25,7 @@ W: unknown
 ×2L 7,13: useful
 ×2L 7,1: useful
 ×2W 0,0: useful
+×2W 0,14: unknown
 ×2W 12,10: useful
 ×2W 14,14: useful
 ×2W 2,10: unknown
