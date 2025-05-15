@@ -17,7 +17,7 @@ Celestial Resort A - Presidential Suite: progression
 Celestial Resort B - Library: progression
 Celestial Resort B - Rooftop: useful
 Celestial Resort B - Staff Quarters: useful
-Celestial Resort Cassette - A Side: unknown
+Celestial Resort Cassette - A Side: filler
 Celestial Resort Cassette - C Side: filler
 Coins: filler
 Core A - Heart of the Mountain: progression
@@ -52,15 +52,16 @@ Dream Blocks: progression
 Epilogue Cassette: filler
 Farewell - Determination: unknown
 Farewell - Event Horizon: unknown
-Farewell - Farewell: unknown
+Farewell - Farewell: progression
 Farewell - Power Source Key 1: progression
 Farewell - Power Source Key 2: unknown
-Farewell - Power Source Key 3: unknown
+Farewell - Power Source Key 3: progression
 Farewell - Power Source Key 4: progression
 Farewell - Power Source: progression
 Farewell - Reconciliation: progression
 Farewell - Remembered: useful
 Farewell - Singular: useful
+Farewell Cassette: progression
 Fast Trap: trap
 Feathers: progression
 Fire and Ice Balls: progression
@@ -95,18 +96,18 @@ Mirror Temple A - Search Key 3: progression
 Mirror Temple A - Search: progression
 Mirror Temple A - Unravelling: progression
 Mirror Temple B - Central Chamber Key 1: progression
-Mirror Temple B - Central Chamber: unknown
+Mirror Temple B - Central Chamber: progression
 Mirror Temple B - Mix Master: unknown
 Mirror Temple B - Through the Mirror: useful
 Mirror Temple Cassette - A Side: filler
-Mirror Temple Cassette - C Side: unknown
+Mirror Temple Cassette - C Side: filler
 Move Blocks: progression
 Moving Platforms: progression
 Old Site A - Awake: progression
 Old Site A - Intervention: progression
 Old Site B - Dream Altar: progression
 Old Site Cassette - A Side: filler
-Old Site Cassette - C Side: unknown
+Old Site Cassette - C Side: filler
 Pink Cassette Blocks: progression
 Pink Clouds: progression
 Prologue Cassette: filler
@@ -121,7 +122,7 @@ Reflection B - Reflection: useful
 Reflection B - Rock Bottom: progression
 Reflection Cassette - A Side: filler
 Reflection Cassette - B Side: filler
-Reflection Cassette - C Side: unknown
+Reflection Cassette - C Side: filler
 Reverse Trap: trap
 Screen Flip Trap: trap
 Seekers: progression
@@ -151,7 +152,7 @@ The Summit B - 2500 M: useful
 The Summit B - 3000 M: progression
 The Summit B - 500 M: progression
 The Summit Cassette - A Side: filler
-The Summit Cassette - C Side: unknown
+The Summit Cassette - C Side: filler
 Theo Crystal: progression
 Torches: useful
 Traffic Blocks: progression
