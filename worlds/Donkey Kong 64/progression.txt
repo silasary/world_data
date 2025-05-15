@@ -27,7 +27,7 @@ Crystal Caves Lanky Blueprint: filler
 Crystal Caves Tiny Blueprint: progression
 DK Isles Chunky Blueprint: filler
 DK Isles Diddy Blueprint: mcguffin
-DK Isles Donkey Blueprint: unknown
+DK Isles Donkey Blueprint: progression
 DK Isles Lanky Blueprint: filler
 DK Isles Tiny Blueprint: filler
 Diddy: progression
@@ -38,7 +38,7 @@ Feather: progression
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
-Frantic Factory Lanky Blueprint: unknown
+Frantic Factory Lanky Blueprint: progression
 Frantic Factory Tiny Blueprint: filler
 Fungi Forest Chunky Blueprint: mcguffin
 Fungi Forest Diddy Blueprint: filler
@@ -60,7 +60,7 @@ Hunky Chunky: progression
 Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
-Jungle Japes Chunky Blueprint: unknown
+Jungle Japes Chunky Blueprint: progression
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
 Jungle Japes Lanky Blueprint: filler
@@ -100,5 +100,5 @@ Strong Kong: progression
 The Bean: progression
 Tiny: progression
 Triangle: progression
-Trombone: unknown
+Trombone: progression
 Vines: progression
