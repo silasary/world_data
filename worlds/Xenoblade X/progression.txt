@@ -3,11 +3,14 @@ AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Sleeve R: filler
+AMR: Advanced Vivid Glove L: unknown
+AMR: Advanced Vivid Pants: unknown
 AMR: Advanced Vivid Sights: unknown
 AMR: Advanced Warrior's Vambrace R: unknown
 AMR: Bargain Jeans: filler
 AMR: Busted Bodywear: unknown
 AMR: Combat Cassida_3: unknown
+AMR: Combat Corpus_1: unknown
 AMR: Combat Crura_1: unknown
 AMR: Combat Distancers_1: unknown
 AMR: Combat Ocreis_1: unknown
@@ -28,6 +31,7 @@ AMR: Forza Ward L_2: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
+AMR: Limited Swimmer's Band L: unknown
 AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
 AMR: Mother God's Crest_3: unknown
@@ -38,8 +42,10 @@ AMR: Prototype BLADE Pants: unknown
 AMR: Rare Sport Glasses: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Legwear_2: unknown
+AMR: Reginal Quantlet L_2: unknown
 AMR: Reginal Tecta R_3: unknown
 AMR: Tank Top (Pink Camo): filler
+AMR: Ultra Boundless Gauntlet R: unknown
 AMR: Ultra Boundless Vambrace L: unknown
 AMR: Ultra Infinite Boots: filler
 AMR: Ultra Infinite Corpus: progression
@@ -48,6 +54,7 @@ AMR: Ultra Regal Brax R: unknown
 AMR: Ultra Regal Distancers: unknown
 AMR: Valor Brax R_1: unknown
 AMR: Valor Distancers_2: unknown
+AMR: Valor Distancers_3: unknown
 AMR: Valor Guante L_1: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
 AMR: Vivid Cassida_1: unknown
@@ -63,6 +70,7 @@ AMR: Worn Valor Mayx L: unknown
 ART: Assault Hammer: unknown
 ART: Astral Protection: useful
 ART: Atomic Hit: useful
+ART: Beam Barrage: unknown
 ART: Burning Slash: unknown
 ART: Cool Off: unknown
 ART: Drum Roll: unknown
@@ -93,6 +101,7 @@ AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
 AUG: Aural Cloaking XIX: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
+AUG: Crush: Gain TP II: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Resistance Up VI: unknown
 AUG: Extend Aura II: unknown
@@ -110,8 +119,12 @@ AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
 AUG: Humanoid Slayer XVII: unknown
 AUG: Incapacitation Surge XX: unknown
+AUG: Insectoid Criticals Up XIX: unknown
 AUG: Insectoid Criticals Up XVII: unknown
+AUG: Insectoid Slayer XX: unknown
+AUG: Max GP Drive XV: unknown
 AUG: Mechanoid Criticals Up III: unknown
+AUG: Mechanoid Slayer XX: unknown
 AUG: Melee Attack Boost I: unknown
 AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Draw Surge XV: unknown
@@ -180,6 +193,7 @@ SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
 SKAMR: SK60GG L-LARM-DEF_2: unknown
+SKAMR: SK60ME H-RARM-ETH_2: unknown
 SKAMR: SK60SA H-RARM-ATK2_2: filler
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
@@ -205,11 +219,13 @@ SKAUG: ExTime.CRIT-POW II: unknown
 SKAUG: Jamming VII: unknown
 SKAUG: Jamming XII: unknown
 SKAUG: M-Auto.ETHER-DOWN VI: unknown
+SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
 SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
 SKAUG: Overdrive.EXTEND III: unknown
+SKAUG: Overdrive.FRAME-HP IV: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
@@ -222,6 +238,7 @@ SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
+SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
@@ -241,6 +258,7 @@ SKF: Lailah Queen: unknown
 SKF: XS0750 Amdusias ST: unknown
 SKL: Aura Burst: unknown
 SKL: Dismantler: useful
+SKL: Double Reflect: unknown
 SKL: Ether Guard: unknown
 SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
@@ -252,6 +270,7 @@ SKL: Red Zone: unknown
 SKL: Secondary Accelerator: unknown
 SKL: Stand Strong: unknown
 SKL: Steady Hand: useful
+SKL: Supreme Sword: unknown
 SKL: Synchrony: unknown
 SKL: Theroid Slayer: unknown
 SKL: Topple Topper: unknown
@@ -353,7 +372,9 @@ WPN: Iron Blades_2: unknown
 WPN: Iron Iyst II_1: unknown
 WPN: Iron Knife III_1: unknown
 WPN: Iron Pride_1: unknown
+WPN: Ophidian Assault Rifle III_1: unknown
 WPN: Ophidian Bangbangs_2: unknown
+WPN: Ophidian Bliss_2: unknown
 WPN: Ophidian Radius II_2: unknown
 WPN: Ophidian Strobe_1: unknown
 WPN: Original Bangbangs: filler
