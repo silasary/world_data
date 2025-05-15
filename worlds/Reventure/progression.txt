@@ -10,6 +10,7 @@ GrowVine: progression
 Nothing: filler
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
+Princess Statue: filler
 ProgressiveSword: unknown
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
