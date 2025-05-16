@@ -4,15 +4,18 @@ BuildStatue: unknown
 DarkstoneLeverLeft: unknown
 DarkstoneLeverMiddle: unknown
 DarkstoneLeverRight: unknown
+Desert Geyser West: unknown
 EnableCloset: unknown
 Gem: mcguffin
 GrowChicken: unknown
 GrowVine: progression
+Mimic: unknown
 Nothing: filler
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
 Princess Statue: filler
 ProgressiveSword: unknown
+Shop Cannon: unknown
 Shovel: progression
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
