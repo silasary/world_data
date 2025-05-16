@@ -85,6 +85,7 @@ ART: Flamehand: unknown
 ART: Full Specs: unknown
 ART: Furious Blast: unknown
 ART: Geolibrium: unknown
+ART: Hair Trigger: unknown
 ART: Infuriate: unknown
 ART: Killing Machine: unknown
 ART: Missile Volley: unknown
@@ -247,10 +248,12 @@ SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
+SKAUG: Slayer.MECHANOID IV: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
+SKAUG: SpecUp.HP-MAX VI: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
 SKAUG: SpecUp.R-ATK XII: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
