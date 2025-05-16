@@ -39,6 +39,7 @@ AMR: Overlord's Gauntlet L_1: unknown
 AMR: Prime Snorkel_2: filler
 AMR: Prototype Armwear R: unknown
 AMR: Prototype BLADE Pants: unknown
+AMR: Prototype Workpants: unknown
 AMR: Rare Sport Glasses: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Legwear_2: unknown
@@ -50,6 +51,7 @@ AMR: Ultra Boundless Vambrace L: unknown
 AMR: Ultra Infinite Boots: filler
 AMR: Ultra Infinite Corpus: progression
 AMR: Ultra Infinite Sleeve L: filler
+AMR: Ultra Limited Tank Top (Gray): unknown
 AMR: Ultra Regal Brax R: unknown
 AMR: Ultra Regal Distancers: unknown
 AMR: Valor Brax R_1: unknown
@@ -65,8 +67,10 @@ AMR: Vivid Zyua R_2: unknown
 AMR: Warrior's Crest_3: unknown
 AMR: Warrior's Gauntlet R_1: unknown
 AMR: Worn Overlord's Mask: unknown
+AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua R: unknown
 AMR: Worn Valor Mayx L: unknown
+AMR: Worn Vivid Soales: unknown
 ART: Assault Hammer: unknown
 ART: Astral Protection: useful
 ART: Atomic Hit: useful
@@ -99,6 +103,7 @@ ART: Upper Hand: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
+AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Crush: Gain TP II: unknown
@@ -169,6 +174,7 @@ DP: Mining Probe G9: progression
 DP: Ranged Attack Probe: unknown
 DP: Research Probe G2: unknown
 DP: Research Probe G5: unknown
+DP: Storage Probe: unknown
 FLDSK: Archeological: unknown
 FLDSK: Biological: unknown
 FRD: Celica: unknown
@@ -202,6 +208,8 @@ SKAMR: XSK30SA M-LARM-DEF2: unknown
 SKAMR: XSK30SA M-LARM-MEL2: unknown
 SKAMR: XSK60SA H-LEGS-ATK4: unknown
 SKAMR: XSK60SA M-LEGS-DEF2: filler
+SKAMR: ZXSK50SA M-HEAD-SSP: unknown
+SKAMR: ZXSK80SA L-BODY-SPD: unknown
 SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
 SKAUG: AttributeDmg.ETHER XVI: unknown
@@ -257,6 +265,7 @@ SKAUG: Weather.S-STORM-RES: unknown
 SKF: Lailah Queen: unknown
 SKF: XS0750 Amdusias ST: unknown
 SKL: Aura Burst: unknown
+SKL: Conductive Strike: unknown
 SKL: Dismantler: useful
 SKL: Double Reflect: unknown
 SKL: Ether Guard: unknown
@@ -272,6 +281,7 @@ SKL: Stand Strong: unknown
 SKL: Steady Hand: useful
 SKL: Supreme Sword: unknown
 SKL: Synchrony: unknown
+SKL: TP Overdrive: unknown
 SKL: Theroid Slayer: unknown
 SKL: Topple Topper: unknown
 SKL: Trauma Tension: unknown
@@ -328,6 +338,7 @@ SKWPN: SSM-MX130SA G2-Buster_1: useful
 SKWPN: SSM-MX140SA G-Buster_2: filler
 SKWPN: SSM-MX150SA G2-Buster_2: unknown
 SKWPN: SSM-MX160SA G-Buster_3: unknown
+SKWPN: SSM-R140GG M-Missile_1: unknown
 SKWPN: SSM-R140ME N-Cannon_2: unknown
 SKWPN: SSM-R150SA M-Missile_3: unknown
 SKWPN: SSM-R340GG SHD-Gravity_2: unknown
@@ -376,6 +387,7 @@ WPN: Ophidian Assault Rifle III_1: unknown
 WPN: Ophidian Bangbangs_2: unknown
 WPN: Ophidian Bliss_2: unknown
 WPN: Ophidian Radius II_2: unknown
+WPN: Ophidian Sicarius_3: unknown
 WPN: Ophidian Strobe_1: unknown
 WPN: Original Bangbangs: filler
 WPN: Soldier Pistolia_2: unknown
@@ -393,8 +405,10 @@ WPN: Striker Sniper Rifle II_1: unknown
 WPN: Titanium Haven_1: filler
 WPN: Titanium Saber_2: unknown
 WPN: Trial Sword: unknown
+WPN: Ultra Ceramic Candela III: unknown
 WPN: Ultra Ceramic Parma II: unknown
 WPN: Ultra Cosmic Dual Guns II: unknown
+WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Radius_3: unknown
 WPN: Worn Carbide Thudclang: unknown
 WPN: Worn Cermet Spear: unknown
