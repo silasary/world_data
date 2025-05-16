@@ -76,6 +76,7 @@ ART: Astral Protection: useful
 ART: Atomic Hit: useful
 ART: Beam Barrage: unknown
 ART: Burning Slash: unknown
+ART: Clarity Ray: unknown
 ART: Cool Off: unknown
 ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
@@ -286,6 +287,7 @@ SKL: Theroid Slayer: unknown
 SKL: Topple Topper: unknown
 SKL: Trauma Tension: unknown
 SKL: Unpleasant Dream: unknown
+SKL: Unstoppable: unknown
 SKL: Unwavering Courage: unknown
 SKL: Well-Weathered: unknown
 SKL: Yamato Spirit: useful
@@ -362,6 +364,7 @@ WPN: Advanced Ophidian Zorcyses: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Ruina II: unknown
 WPN: Audacious Lance_2: unknown
+WPN: Carbide Blades II_3: unknown
 WPN: Carbide Candela II_1: unknown
 WPN: Carbide Haven II_3: unknown
 WPN: Carbide Ralzes_1: unknown
