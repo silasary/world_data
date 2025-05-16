@@ -1,3 +1,5 @@
+1 Ghost Card: mcguffin
+2 Ghost Cards: mcguffin
 Basic Card Box (4): progression
 Basic Card Box (8): progression
 Basic Card Pack (32): progression
@@ -50,7 +52,7 @@ Epic Destiny Box (8): progression
 Epic Destiny Pack (64): progression
 Fire Battle Deck (18): unknown
 Fire Destiny Deck (18): progression
-Giganite Statue (2): unknown
+Giganite Statue (2): progression
 Increase Card Luck: useful
 Inferhog Figurine (2): unknown
 Kingstar Plushie (2): progression
@@ -58,7 +60,7 @@ Large Money: filler
 Large Xp: filler
 Legendary Card Box (4): progression
 Legendary Card Box (8): progression
-Legendary Card Pack (32): unknown
+Legendary Card Pack (32): progression
 Legendary Card Pack (64): progression
 Legendary Destiny Box (4): progression
 Legendary Destiny Box (8): progression
@@ -109,7 +111,7 @@ Playmat (Water): progression
 Playmat (Wind): progression
 Playmat (Wispo): progression
 Playmat Gray: unknown
-Playmat Green: unknown
+Playmat Green: progression
 Playmat Purple: progression
 Playmat Yellow: progression
 Pocket Pages: progression
@@ -154,7 +156,7 @@ Wide Shelf: useful
 Wind Battle Deck (18): progression
 Wind Destiny Deck (18): progression
 Workbench: useful
-Worker - Angus: unknown
+Worker - Angus: useful
 Worker - Axel: useful
 Worker - Benji: useful
 Worker - Clark: useful
