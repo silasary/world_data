@@ -1,6 +1,7 @@
 AddPC: unknown
 Boulder: progression
 BuildStatue: unknown
+Change Princess Name: filler
 Dark Stone Lever Left: unknown
 Dark Stone: unknown
 DarkstoneLeverLeft: unknown
@@ -60,3 +61,4 @@ UnlockGeyserWaterfall: unknown
 UnlockMirrorPortal: unknown
 UnlockShopCannon: unknown
 Vine: unknown
+Whistle: progression
