@@ -1,3 +1,4 @@
+AMR: Abominable Facade: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Reginal Shirt: unknown
@@ -36,6 +37,7 @@ AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
 AMR: Mother God's Crest_3: unknown
 AMR: Overlord's Gauntlet L_1: unknown
+AMR: Prime Diving Band R_1: unknown
 AMR: Prime Snorkel_2: filler
 AMR: Prototype Armwear R: unknown
 AMR: Prototype BLADE Pants: unknown
@@ -58,6 +60,7 @@ AMR: Valor Brax R_1: unknown
 AMR: Valor Distancers_2: unknown
 AMR: Valor Distancers_3: unknown
 AMR: Valor Guante L_1: unknown
+AMR: Valor Manus R_3: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
 AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro R_3: unknown
@@ -111,6 +114,7 @@ AUG: Arts: Gain TP X: unknown
 AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
+AUG: Critical Surge IV: unknown
 AUG: Crush: Gain TP II: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Resistance Up VI: unknown
@@ -205,6 +209,7 @@ SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
 SKAMR: SK60GG L-LARM-DEF_2: unknown
+SKAMR: SK60ME H-LARM-ETH_2: unknown
 SKAMR: SK60ME H-RARM-ETH_2: unknown
 SKAMR: SK60SA H-RARM-ATK2_2: filler
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
@@ -229,6 +234,7 @@ SKAUG: CritUp.ULTRAFAUNA XV: unknown
 SKAUG: Crush.APPEND XII: unknown
 SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
+SKAUG: Draw.OPENING-DMG VIII: unknown
 SKAUG: Draw.OPENING-DMG XII: unknown
 SKAUG: ExTime.CRIT-POW II: unknown
 SKAUG: Jamming VII: unknown
@@ -408,6 +414,7 @@ WPN: Ophidian Sicarius_3: unknown
 WPN: Ophidian Strobe_1: unknown
 WPN: Original Assailer: unknown
 WPN: Original Bangbangs: filler
+WPN: Savage Ziyse: unknown
 WPN: Soldier Pistolia_2: unknown
 WPN: Soldier Pistolia_3: unknown
 WPN: Soldier Repethe_2: filler
