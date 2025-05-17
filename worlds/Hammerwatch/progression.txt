@@ -20,7 +20,7 @@ Activate PoF Puzzle: unknown
 Activate PrF1 Puzzle: unknown
 Activate PrF1 SW Light Bridge: unknown
 Activate PrF2 Puzzle: unknown
-Activate PrF2 SE Rune Puzzle Reward: unknown
+Activate PrF2 SE Rune Puzzle Reward: progression
 Activate SP Puzzle: unknown
 Activate TF1 East Puzzle: unknown
 Activate TF1 West Puzzle: unknown
@@ -157,7 +157,7 @@ Hammer: unknown
 Health Upgrade: useful
 Invulnerability Potion: unknown
 Mana Drain Trap: trap
-Mana Orb: unknown
+Mana Orb: filler
 Mana Shard: filler
 Mana Upgrade: useful
 Mirror: progression
