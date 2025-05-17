@@ -45,6 +45,7 @@ Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: unknown
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
+Gate: Shoreline to Pipeyard: unknown
 Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
@@ -81,6 +82,7 @@ Object-SlimeMold: filler
 Object-Spear: filler
 Object-VultureMask: filler
 Object-WaterNut: filler
+Passage Token - The Chieftain: unknown
 Passage Token - The Dragon Slayer: unknown
 Passage Token - The Friend: unknown
 Passage Token - The Martyr: mcguffin
