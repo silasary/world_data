@@ -2355,6 +2355,7 @@ Positive * Dance Time [EXTREME]: progression
 Positive * Dance Time [HARD]: progression
 Positive Parade [EXTREME]: progression
 Positive Parade [HARD]: progression
+Positive*Dance Time [1598]: unknown
 Positive*Dance Time [EXTREME]: progression
 Positive*Dance Time [HARD]: progression
 Positive*Dance Time [NORMAL]: progression
@@ -3366,6 +3367,7 @@ What Do You Mean!? [EXEXTREME]: progression
 What Do You Mean!? [EXTREME]: progression
 What Do You Mean!? [HARD]: progression
 What Do You Mean!? [NORMAL]: progression
+What Do You Mean!?: unknown
 What Kind of Future [EXTREME]: progression
 What Kind of Future [HARD]: progression
 Whatever Whatever Whatever [EXTREME]: progression
