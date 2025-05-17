@@ -67,6 +67,7 @@ MovingPulserSpeed1: filler
 NodeBoost1: unknown
 NodeFinder1: unknown
 PickupRadius1: unknown
+Progressive Armor: unknown
 PulseBoltCount1: useful
 PulseBoltCount2: useful
 PulseBoltDamage1: useful
