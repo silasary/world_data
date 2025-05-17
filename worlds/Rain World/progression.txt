@@ -43,6 +43,7 @@ Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: unknown
+Gate: Outskirts to Industrial Complex: unknown
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
 Gate: Shoreline to Pipeyard: unknown
@@ -51,6 +52,7 @@ Gate: Sky Islands to Farm Arrays: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
 Gate: Subterranean to Shoreline: progression
 Gate: The Exterior to Shoreline: unknown
+Gate: Underhang to Five Pebbles: unknown
 Glow Weed: filler
 Grenade: unknown
 Jellyfish: filler
@@ -85,9 +87,14 @@ Object-WaterNut: filler
 Passage Token - The Chieftain: unknown
 Passage Token - The Dragon Slayer: unknown
 Passage Token - The Friend: unknown
+Passage Token - The Hunter: unknown
 Passage Token - The Martyr: mcguffin
+Passage Token - The Monk: unknown
+Passage Token - The Mother: unknown
 Passage Token - The Nomad: unknown
+Passage Token - The Outlaw: unknown
 Passage Token - The Pilgrim: unknown
+Passage Token - The Saint: unknown
 Passage Token - The Survivor: unknown
 Passage-Chieftain: useful
 Passage-DragonSlayer: useful
