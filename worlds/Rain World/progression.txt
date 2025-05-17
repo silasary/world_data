@@ -3,6 +3,7 @@ Blue Fruit: unknown
 Brother Long Legs trap: unknown
 Bubble Fruit: filler
 Cherrybomb: filler
+Citizen ID Drone: progression
 Daddy Long Legs trap: trap
 Eggbug Egg: filler
 Explosive Spear: unknown
@@ -39,10 +40,11 @@ Gate: Drainage System to Subterranean: unknown
 Gate: Farm Arrays to Outskirts: unknown
 Gate: Farm Arrays to Subterranean: unknown
 Gate: Five Pebbles to The Wall: useful
+Gate: Garbage Wastes to Shaded Citadel: unknown
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
 Gate: Industrial Complex to Shaded Citadel: progression
-Gate: Outskirts to Drainage System: unknown
+Gate: Outskirts to Drainage System: progression
 Gate: Outskirts to Industrial Complex: unknown
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
