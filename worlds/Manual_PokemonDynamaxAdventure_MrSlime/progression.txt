@@ -41,6 +41,7 @@ Durant: useful
 Dynite Ore: filler
 Eldegoss: useful
 Electabuzz: useful
+Exeggutor: useful
 Galarian Linoone: useful
 Galarian Stunfisk: unknown
 Galvantula: useful
@@ -55,6 +56,7 @@ Haunter: useful
 Heliolisk: useful
 Hitmonchan: useful
 Indeedee: unknown
+Ivysaur: unknown
 Jellicent: useful
 Jigglypuff: useful
 Jolteon: useful
@@ -92,7 +94,7 @@ Pincurchin: useful
 Politoed: useful
 Polteageist: useful
 Porygon: useful
-Progressive Generation: unknown
+Progressive Generation: progression
 Pyukumuku: useful
 Quagsire: useful
 Rhydon: useful
@@ -119,10 +121,13 @@ Starmie: useful
 Stoutland: useful
 Swoobat: useful
 Talonflame: useful
+Thievul: unknown
 Togedemaru: unknown
 Torkoal: useful
+Trevenant: unknown
 Tyrantrum: useful
 Unfezant: useful
+Vanillish: unknown
 Vespiquen: useful
 Vikavolt: useful
 Wailmer: useful

@@ -23,7 +23,7 @@ Coins: filler
 Core A - Heart of the Mountain: progression
 Core A - Hot and Cold: progression
 Core A - Into the Core: progression
-Core B - Burning or Freezing: unknown
+Core B - Burning or Freezing: progression
 Core B - Heartbeat: unknown
 Core B - Into the Core: unknown
 Core Blocks: progression
@@ -62,6 +62,7 @@ Farewell - Reconciliation: progression
 Farewell - Remembered: useful
 Farewell - Singular: useful
 Farewell Cassette: filler
+Farewell - Stubbornness: unknown
 Fast Trap: trap
 Feathers: progression
 Fire and Ice Balls: progression
@@ -112,7 +113,7 @@ Old Site Cassette - C Side: filler
 Pink Cassette Blocks: progression
 Pink Clouds: progression
 Prologue Cassette: filler
-Pufferfish: unknown
+Pufferfish: progression
 Raspberry: filler
 Red Boosters: progression
 Reflection A - Hollows: progression
@@ -120,6 +121,7 @@ Reflection A - Reflection: progression
 Reflection A - Resolution: progression
 Reflection A - Rock Bottom: progression
 Reflection B - Reflection: useful
+Reflection B - Reprieve: unknown
 Reflection B - Rock Bottom: progression
 Reflection Cassette - A Side: filler
 Reflection Cassette - B Side: filler
@@ -149,6 +151,7 @@ The Summit A - Gem 5: progression
 The Summit A - Gem 6: unknown
 The Summit B - 1000 M: progression
 The Summit B - 1500 M: progression
+The Summit B - 2000 M: unknown
 The Summit B - 2500 M: useful
 The Summit B - 3000 M: progression
 The Summit B - 500 M: progression

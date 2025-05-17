@@ -1,6 +1,7 @@
 AddPC: unknown
 Boulder: progression
 BuildStatue: unknown
+Dark Stone Lever Left: unknown
 Dark Stone: unknown
 DarkstoneLeverLeft: unknown
 DarkstoneLeverMiddle: unknown
@@ -15,6 +16,7 @@ Mimic: unknown
 Nothing: filler
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
+PC: unknown
 Princess Statue: filler
 ProgressiveSword: unknown
 Shop Cannon: unknown
@@ -57,3 +59,4 @@ UnlockGeyserVolcanoe: unknown
 UnlockGeyserWaterfall: unknown
 UnlockMirrorPortal: unknown
 UnlockShopCannon: unknown
+Vine: unknown

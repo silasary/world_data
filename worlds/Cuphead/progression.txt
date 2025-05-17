@@ -3,8 +3,8 @@
 3 Coins: progression
 Boat: progression
 Broken Relic: filler
-Charge: unknown
-Chaser: unknown
+Charge: useful
+Chaser: useful
 Coffee: unknown
 Coin: filler
 Contract: mcguffin
@@ -12,7 +12,7 @@ Crackshot: useful
 Dash: progression
 Duck: useful
 Fast Fire: unknown
-Heart Ring: unknown
+Heart Ring: useful
 Heart: useful
 Ingredient: mcguffin
 Lobber: unknown
@@ -28,8 +28,9 @@ Progressive Chaser: unknown
 Progressive Lobber: useful
 Progressive Roundabout: progression
 Progressive Spread: useful
+Progressive Twist-Up: useful
 Roundabout: unknown
-Smoke Bomb: unknown
+Smoke Bomb: useful
 Spread: unknown
 Super Art I: unknown
 Super Art II: progression
