@@ -68,7 +68,7 @@ NodeBoost1: unknown
 NodeFinder1: unknown
 PickupRadius1: unknown
 Progressive Armor: unknown
-Progressive Damage: unknown
+Progressive Damage: useful
 Progressive Health: unknown
 Progressive SpawnRate: unknown
 PulseBoltCount1: useful
