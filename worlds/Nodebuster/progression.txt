@@ -70,6 +70,7 @@ PickupRadius1: unknown
 Progressive Armor: unknown
 Progressive Damage: useful
 Progressive Health: unknown
+Progressive Regen: unknown
 Progressive SpawnRate: unknown
 PulseBoltCount1: useful
 PulseBoltCount2: useful
