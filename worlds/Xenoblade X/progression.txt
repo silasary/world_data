@@ -52,6 +52,7 @@ AMR: Tank Top (Pink Camo): filler
 AMR: Ultra Boundless Gauntlet R: unknown
 AMR: Ultra Boundless Vambrace L: unknown
 AMR: Ultra Infinite Boots: filler
+AMR: Ultra Infinite Bulwark: unknown
 AMR: Ultra Infinite Corpus: progression
 AMR: Ultra Infinite Sleeve L: filler
 AMR: Ultra Limited Tank Top (Gray): unknown
@@ -80,6 +81,7 @@ AMR: Worn Valor Mayx L: unknown
 AMR: Worn Valor Veyes: unknown
 AMR: Worn Vivid Soales: unknown
 ART: Assault Hammer: unknown
+ART: Astral Horizon: unknown
 ART: Astral Protection: useful
 ART: Atomic Hit: useful
 ART: Beam Barrage: unknown
@@ -111,6 +113,7 @@ ART: Takedown Shot: unknown
 ART: Titan Recharge: unknown
 ART: True Stream Edge: unknown
 ART: Upper Hand: unknown
+ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
@@ -160,8 +163,10 @@ AUG: Resist Beam Res Down VI: unknown
 AUG: Resist Beam Res Down X: unknown
 AUG: Resist Beam Res Down XVIII: unknown
 AUG: Resist Fatigue II: unknown
+AUG: Resist Fatigue X: unknown
 AUG: Resist Fatigue XX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
+AUG: Resist Launch XIII: unknown
 AUG: Resist Shock VIII: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Virus X: unknown
@@ -237,6 +242,7 @@ SKAUG: CritUp.MECHANOID VIII: filler
 SKAUG: CritUp.THEROID VI: unknown
 SKAUG: CritUp.ULTRAFAUNA XV: unknown
 SKAUG: Crush.APPEND XII: unknown
+SKAUG: Crush.GP XIII: unknown
 SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
 SKAUG: Draw.OPENING-DMG VIII: unknown
@@ -264,6 +270,7 @@ SKAUG: Resist.LAUNCH XII: unknown
 SKAUG: Resist.PHYS-DOWN III: unknown
 SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
+SKAUG: Resist.SLOW-ARTS IX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: Slayer.MECHANOID IV: unknown
@@ -276,6 +283,7 @@ SKAUG: SpecUp.HP-MAX VI: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
 SKAUG: SpecUp.R-ATK XII: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
+SKAUG: TimeEx.BLAZE III: unknown
 SKAUG: TimeEx.CONTROL XVI: unknown
 SKAUG: TimeEx.RECOV-DOWN XIX: unknown
 SKAUG: TimeEx.SHOCK X: unknown
@@ -299,6 +307,7 @@ SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
 SKL: Iron Knuckle: unknown
 SKL: Long Shot: unknown
+SKL: Mechanoid Slayer: unknown
 SKL: Phantom Counter: unknown
 SKL: Red Zone: unknown
 SKL: Secondary Accelerator: unknown
@@ -307,6 +316,7 @@ SKL: Steady Hand: useful
 SKL: Supreme Sword: unknown
 SKL: Synchrony: unknown
 SKL: TP Overdrive: unknown
+SKL: Tactical Analyst: unknown
 SKL: Theroid Slayer: unknown
 SKL: Topple Topper: unknown
 SKL: Trauma Tension: unknown
@@ -360,6 +370,7 @@ SKWPN: SRM-XR360LA A-Spear: unknown
 SKWPN: SRM-XR650SA Buster-Launcher: unknown
 SKWPN: SRM-XXM250ME W-Crusher: unknown
 SKWPN: SRM-XXM330ME BB-Sword: unknown
+SKWPN: SRM-XXR140GG P-Cannon: unknown
 SKWPN: SRM-XXR140ME B-Gatling: unknown
 SKWPN: SRM-XXR330GG H-Arrow: unknown
 SKWPN: SRM-XXR450GG Phoenix: filler
@@ -369,6 +380,7 @@ SKWPN: SSM-MX130SA G2-Buster_1: useful
 SKWPN: SSM-MX140SA G-Buster_2: filler
 SKWPN: SSM-MX150SA G2-Buster_2: unknown
 SKWPN: SSM-MX160SA G-Buster_3: unknown
+SKWPN: SSM-MX230SA E-Scythe_2: unknown
 SKWPN: SSM-R140GG M-Missile_1: unknown
 SKWPN: SSM-R140ME N-Cannon_2: unknown
 SKWPN: SSM-R150SA M-Missile_3: unknown
@@ -382,6 +394,7 @@ SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
 SKWPN: SSM-XRX460SA B2-Gatling: unknown
 SKWPN: SSM-XXMX150SA G-Buster: filler
+SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
 WPN: Advanced Cermet Parce: unknown
 WPN: Advanced Cermet Parma II: unknown
@@ -399,6 +412,7 @@ WPN: Carbide Blades II_3: unknown
 WPN: Carbide Candela III_2: unknown
 WPN: Carbide Candela II_1: unknown
 WPN: Carbide Haven II_3: unknown
+WPN: Carbide Parce_2: unknown
 WPN: Carbide Ralzes_1: unknown
 WPN: Carbide Sword_3: unknown
 WPN: Cermet Fulge II_1: unknown
@@ -406,11 +420,13 @@ WPN: Cermet Iyst II_3: unknown
 WPN: Chrome Bolide_1: unknown
 WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
+WPN: Chrome Parma II_2: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
 WPN: Delta Dyads II_1: unknown
 WPN: Destroyer Bliss_2: unknown
+WPN: Destroyer Dyads_2: unknown
 WPN: Destroyer Lastyr III_3: unknown
 WPN: Devastator Sidearm_3: unknown
 WPN: Faithful Lightblade II_1: unknown
@@ -455,7 +471,9 @@ WPN: Worn Chrome Knife II: unknown
 WPN: Worn Chromoly Parce: filler
 WPN: Worn Cobalt Haven II: unknown
 WPN: Worn Cobalt Watxes: unknown
+WPN: Worn Delta Lastyr: unknown
 WPN: Worn Intrepid Lance: unknown
+WPN: Worn Ophidian Crank: unknown
 WPN: Worn Ophidian Raygun: unknown
 WPN: Worn Pulverizing Lance: unknown
 WPN: Worn Warrior Assault Rifle: unknown
