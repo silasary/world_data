@@ -1,6 +1,7 @@
 AMR: Abominable Facade: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
+AMR: Advanced Reginal Footwear: unknown
 AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Sleeve R: filler
@@ -65,6 +66,7 @@ AMR: Valor Stabilizers_3: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
 AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro R_3: unknown
+AMR: Vivid Mitt L_2: unknown
 AMR: Vivid Sleeve L_1: unknown
 AMR: Vivid Vizard_3: unknown
 AMR: Vivid Zyua R_2: unknown
@@ -208,6 +210,7 @@ SKAMR: SK40SA L-BODY-ATK_3: unknown
 SKAMR: SK40SA L-RARM-SPD_2: unknown
 SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
+SKAMR: SK50SA L-HEAD-ATK_2: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
 SKAMR: SK60GG L-LARM-DEF_2: unknown
 SKAMR: SK60ME H-LARM-ETH_2: unknown
@@ -215,6 +218,7 @@ SKAMR: SK60ME H-RARM-ETH_2: unknown
 SKAMR: SK60SA H-RARM-ATK2_2: filler
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
+SKAMR: SK60SA L-RARM-ATK_3: unknown
 SKAMR: XSK20GG L-HEAD-SPD3: unknown
 SKAMR: XSK30SA M-LARM-DEF2: unknown
 SKAMR: XSK30SA M-LARM-MEL2: unknown
@@ -250,12 +254,14 @@ SKAUG: Overdrive.EXTEND III: unknown
 SKAUG: Overdrive.FRAME-HP IV: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
+SKAUG: Reflect.ADD-PHYS: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
 SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
 SKAUG: Resist.LAUNCH XII: unknown
+SKAUG: Resist.PHYS-DOWN III: unknown
 SKAUG: Resist.SHOCK XIII: unknown
 SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
@@ -275,6 +281,7 @@ SKAUG: TimeEx.RECOV-DOWN XIX: unknown
 SKAUG: TimeEx.SHOCK X: unknown
 SKAUG: TimeEx.SLEEP III: filler
 SKAUG: TimeEx.SLEEP IV: unknown
+SKAUG: TimeEx.SLOW-ARTS V: unknown
 SKAUG: TimeEx.THERM-DOWN XII: unknown
 SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
@@ -344,7 +351,9 @@ SKWPN: SRM-R551GG F-Wave_2: unknown
 SKWPN: SRM-R620ME L-Missile_2: unknown
 SKWPN: SRM-R620SA Buster-Launcher_3: unknown
 SKWPN: SRM-R721ME F-Wave_3: unknown
+SKWPN: SRM-R752ME F-Wave_2: unknown
 SKWPN: SRM-USP160SA Hexad-Partican: filler
+SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XR230GA T-Claw: unknown
 SKWPN: SRM-XR360LA A-Spear: unknown
@@ -382,6 +391,7 @@ WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Retic: unknown
 WPN: Advanced Ophidian Sclopetum: unknown
 WPN: Advanced Ophidian Zorcyses: unknown
+WPN: Advanced Storm Assault Rifle III: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Ruina II: unknown
 WPN: Audacious Lance_2: unknown
@@ -430,6 +440,7 @@ WPN: Striker Crank_1: unknown
 WPN: Striker Lastyr_2: unknown
 WPN: Striker Sniper Rifle II_1: unknown
 WPN: Titanium Haven_1: filler
+WPN: Titanium Knife III_2: unknown
 WPN: Titanium Saber_2: unknown
 WPN: Trial Sword: unknown
 WPN: Ultra Ceramic Candela III: unknown
