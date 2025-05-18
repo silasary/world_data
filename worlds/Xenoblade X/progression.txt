@@ -260,6 +260,7 @@ SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: Slayer.MECHANOID IV: unknown
+SKAUG: Slayer.PISCINOID III: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
