@@ -110,6 +110,7 @@ ART: Geolibrium: unknown
 ART: Hair Trigger: unknown
 ART: Infuriate: unknown
 ART: Killing Machine: unknown
+ART: Medic Free: unknown
 ART: Missile Volley: unknown
 ART: Overclock: unknown
 ART: Pathogen Blast: unknown
@@ -247,6 +248,7 @@ SKAMR: SK40SA L-RARM-SPD_2: unknown
 SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
 SKAMR: SK50SA L-HEAD-ATK_2: unknown
+SKAMR: SK50SA L-LEGS-ATK_1: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
 SKAMR: SK60GG L-LARM-DEF_2: unknown
 SKAMR: SK60ME H-LARM-ETH_2: unknown
@@ -262,6 +264,7 @@ SKAMR: XSK60SA H-LEGS-ATK4: unknown
 SKAMR: XSK60SA M-LEGS-DEF2: filler
 SKAMR: ZXSK50SA M-HEAD-SSP: unknown
 SKAMR: ZXSK80SA L-BODY-SPD: unknown
+SKAMR: ZXSK80SA M-HEAD-MEL_1: unknown
 SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ELEC XIV: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
