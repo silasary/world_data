@@ -46,6 +46,7 @@ Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shaded Citadel: unknown
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
+Gate: Industrial Complex to Garbage Wastes: unknown
 Gate: Industrial Complex to Pipeyard: unknown
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: progression
