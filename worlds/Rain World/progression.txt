@@ -6,6 +6,7 @@ Cherrybomb: filler
 Citizen ID Drone: progression
 Daddy Long Legs trap: trap
 Eggbug Egg: filler
+Electric Spear: unknown
 Explosive Spear: unknown
 Fire Egg: unknown
 Flashbang: filler
@@ -36,6 +37,7 @@ GATE_SS_UW: progression
 GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
+Gate: Chimney Canopy to The Exterior: unknown
 Gate: Drainage System to Garbage Wastes: useful
 Gate: Drainage System to Subterranean: unknown
 Gate: Farm Arrays to Outskirts: unknown
@@ -44,6 +46,7 @@ Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shaded Citadel: unknown
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
+Gate: Industrial Complex to Pipeyard: unknown
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: progression
 Gate: Outskirts to Industrial Complex: unknown
@@ -54,6 +57,7 @@ Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: unknown
 Gate: Sky Islands to Pipeyard: unknown
 Gate: Submerged Superstructure to Shoreline: unknown
+Gate: Subterranean to Pipeyard: progression
 Gate: Subterranean to Shoreline: progression
 Gate: The Exterior to Metropolis: progression
 Gate: The Exterior to Shoreline: unknown
