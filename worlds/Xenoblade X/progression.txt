@@ -5,6 +5,7 @@ AMR: Advanced Reginal Casca: unknown
 AMR: Advanced Reginal Footwear: unknown
 AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
+AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
 AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
@@ -22,6 +23,7 @@ AMR: Combat Shirt_2: unknown
 AMR: Combat Tecta R_3: unknown
 AMR: Combat Traves_2: unknown
 AMR: Combat Trudgers_2: unknown
+AMR: Custom BLADE Wear: unknown
 AMR: Custom NVD: unknown
 AMR: Custom Sport Glasses: unknown
 AMR: Distinguished Uniform: unknown
@@ -155,6 +157,7 @@ AUG: Extend Beam Res Down VIII: filler
 AUG: Extend Control XV: unknown
 AUG: Extend Critical Power XV: unknown
 AUG: Extend Debuff Res Down III: unknown
+AUG: Extend Debuff Res Down VII: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
@@ -175,6 +178,7 @@ AUG: Insectoid Criticals Up XVII: unknown
 AUG: Insectoid Slayer XX: unknown
 AUG: Max GP Drive XV: unknown
 AUG: Mechanoid Criticals Up III: unknown
+AUG: Mechanoid Slayer VII: unknown
 AUG: Mechanoid Slayer XX: unknown
 AUG: Melee Accuracy Drive VI: unknown
 AUG: Melee Attack Boost I: unknown
@@ -514,6 +518,7 @@ WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
 WPN: Delta Dyads II_1: unknown
 WPN: Delta Ruina II_2: unknown
+WPN: Destroyer Assailer_1: unknown
 WPN: Destroyer Bliss_2: unknown
 WPN: Destroyer Dyads_2: unknown
 WPN: Destroyer Lastyr III_3: unknown
