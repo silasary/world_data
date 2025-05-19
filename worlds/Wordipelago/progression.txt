@@ -1,4 +1,5 @@
 Bad Guess Trap: trap
+Extra Cooldown Trap: trap
 Guess: progression
 Letter A: progression
 Letter B: progression
