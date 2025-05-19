@@ -4,7 +4,7 @@ Card Set Aero 7-9: unknown
 Card Set Bambi 0: filler
 Card Set Bambi 1-3: filler
 Card Set Bambi 7-9: unknown
-Card Set Blizzard 0: unknown
+Card Set Blizzard 0: useful
 Card Set Blizzard 1-3: unknown
 Card Set Blizzard 4-6: filler
 Card Set Blizzard 7-9: unknown
@@ -25,7 +25,7 @@ Card Set Diamond Dust 7-9: filler
 Card Set Divine Rose 1-3: unknown
 Card Set Divine Rose 4-6: filler
 Card Set Divine Rose 7-9: useful
-Card Set Dumbo 0: unknown
+Card Set Dumbo 0: useful
 Card Set Dumbo 4-6: filler
 Card Set Dumbo 7-9: unknown
 Card Set Elixir 0: filler
@@ -47,7 +47,7 @@ Card Set Genie 0: unknown
 Card Set Genie 1-3: unknown
 Card Set Gravity 0: filler
 Card Set Gravity 1-3: unknown
-Card Set Gravity 4-6: unknown
+Card Set Gravity 4-6: useful
 Card Set Gravity 7-9: unknown
 Card Set Hi-Potion 0: filler
 Card Set Hi-Potion 1-3: filler
@@ -74,7 +74,7 @@ Card Set Megalixir 0: unknown
 Card Set Megalixir 4-6: filler
 Card Set Megalixir 7-9: filler
 Card Set Metal Chocobo 0: unknown
-Card Set Metal Chocobo 1-3: unknown
+Card Set Metal Chocobo 1-3: useful
 Card Set Metal Chocobo 7-9: useful
 Card Set Mushu 1-3: filler
 Card Set Mushu 4-6: filler
@@ -94,7 +94,7 @@ Card Set One Winged Angel 7-9: useful
 Card Set Potion 0: unknown
 Card Set Potion 1-3: filler
 Card Set Potion 4-6: unknown
-Card Set Pumpkinhead 1-3: unknown
+Card Set Pumpkinhead 1-3: useful
 Card Set Pumpkinhead 4-6: unknown
 Card Set Simba 0: filler
 Card Set Simba 1-3: unknown
@@ -109,7 +109,7 @@ Card Set Stop 7-9: filler
 Card Set Three Wishes 0: useful
 Card Set Three Wishes 7-9: useful
 Card Set Thunder 0: filler
-Card Set Thunder 1-3: unknown
+Card Set Thunder 1-3: useful
 Card Set Thunder 4-6: filler
 Card Set Tinker Bell 1-3: filler
 Card Set Tinker Bell 4-6: filler
@@ -117,7 +117,7 @@ Card Set Tinker Bell 7-9: filler
 Card Set Ultima Weapon 1-3: unknown
 Card Set Ultima Weapon 4-6: filler
 Card Set Ultima Weapon 7-9: unknown
-Card Set Wishing Star 0: unknown
+Card Set Wishing Star 0: useful
 Card Set Wishing Star 1-3: unknown
 Card Set Wishing Star 4-6: unknown
 Card Set Wishing Star 7-9: unknown
@@ -144,7 +144,7 @@ Enemy Card Ursula: unknown
 Enemy Card White Mushroom: unknown
 Enemy Card Wight Knight: unknown
 Enemy Card Wyvern: unknown
-Enemy Card Yellow Opera: unknown
+Enemy Card Yellow Opera: useful
 Friend Card Aladdin: mcguffin
 Friend Card Ariel: mcguffin
 Friend Card Beast: unknown
