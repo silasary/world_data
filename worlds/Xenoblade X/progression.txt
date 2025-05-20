@@ -327,6 +327,7 @@ SKAUG: Reflect.ADD-PHYS: unknown
 SKAUG: Reflect.ADD-THERM: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
 SKAUG: Reflect.DAMAGE-UP XVI: unknown
+SKAUG: Reflect.NEG-BEAM XV: unknown
 SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
