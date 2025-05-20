@@ -318,6 +318,7 @@ SKAUG: ExTime.CRIT-POW II: unknown
 SKAUG: Jamming VII: unknown
 SKAUG: Jamming XII: unknown
 SKAUG: M-Auto.ETHER-DOWN VI: unknown
+SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
@@ -460,6 +461,7 @@ SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XR230GA T-Claw: unknown
 SKWPN: SRM-XR360LA A-Spear: unknown
 SKWPN: SRM-XR650SA Buster-Launcher: unknown
+SKWPN: SRM-XR743ME F-Wave: unknown
 SKWPN: SRM-XXM250ME W-Crusher: unknown
 SKWPN: SRM-XXM330ME BB-Sword: unknown
 SKWPN: SRM-XXR140GG P-Cannon: unknown
