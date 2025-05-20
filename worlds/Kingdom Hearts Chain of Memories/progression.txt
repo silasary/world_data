@@ -1,4 +1,4 @@
-Card Set Aero 0: unknown
+Card Set Aero 0: filler
 Card Set Aero 1-3: unknown
 Card Set Aero 7-9: unknown
 Card Set Bambi 0: filler
@@ -9,17 +9,18 @@ Card Set Blizzard 0: useful
 Card Set Blizzard 1-3: unknown
 Card Set Blizzard 4-6: filler
 Card Set Blizzard 7-9: useful
-Card Set Cloud 0: unknown
+Card Set Cloud 0: filler
 Card Set Cloud 1-3: filler
 Card Set Cloud 4-6: unknown
 Card Set Cloud 7-9: filler
-Card Set Crabclaw 0: unknown
+Card Set Crabclaw 0: filler
 Card Set Crabclaw 1-3: filler
-Card Set Crabclaw 4-6: unknown
+Card Set Crabclaw 4-6: filler
 Card Set Crabclaw 7-9: useful
 Card Set Cure 0: useful
+Card Set Cure 1-3: filler
 Card Set Cure 4-6: useful
-Card Set Diamond Dust 0: unknown
+Card Set Diamond Dust 0: filler
 Card Set Diamond Dust 1-3: filler
 Card Set Diamond Dust 4-6: filler
 Card Set Diamond Dust 7-9: filler
@@ -31,7 +32,7 @@ Card Set Dumbo 0: useful
 Card Set Dumbo 4-6: filler
 Card Set Dumbo 7-9: unknown
 Card Set Elixir 0: filler
-Card Set Elixir 1-3: unknown
+Card Set Elixir 1-3: filler
 Card Set Elixir 4-6: unknown
 Card Set Elixir 7-9: filler
 Card Set Ether 0: unknown
@@ -40,22 +41,23 @@ Card Set Ether 4-6: filler
 Card Set Ether 7-9: useful
 Card Set Fairy Harp 0: unknown
 Card Set Fairy Harp 1-3: filler
-Card Set Fairy Harp 4-6: unknown
+Card Set Fairy Harp 4-6: filler
 Card Set Fire 0: useful
 Card Set Fire 1-3: filler
 Card Set Fire 4-6: filler
 Card Set Fire 7-9: unknown
-Card Set Genie 0: unknown
+Card Set Genie 0: filler
 Card Set Genie 1-3: filler
+Card Set Genie 4-6: filler
 Card Set Gravity 0: filler
-Card Set Gravity 1-3: unknown
+Card Set Gravity 1-3: filler
 Card Set Gravity 4-6: useful
-Card Set Gravity 7-9: unknown
+Card Set Gravity 7-9: filler
 Card Set Hi-Potion 0: filler
 Card Set Hi-Potion 1-3: filler
 Card Set Hi-Potion 4-6: filler
 Card Set Hi-Potion 7-9: unknown
-Card Set Kingdom Key 0: unknown
+Card Set Kingdom Key 0: filler
 Card Set Kingdom Key 1-3: filler
 Card Set Kingdom Key 7-9: unknown
 Card Set Lady Luck 0: unknown
@@ -65,13 +67,13 @@ Card Set Lady Luck 7-9: unknown
 Card Set Lionheart 1-3: unknown
 Card Set Lionheart 4-6: filler
 Card Set Lionheart 7-9: filler
-Card Set Mega-Ether 0: unknown
+Card Set Mega-Ether 0: filler
 Card Set Mega-Ether 1-3: unknown
-Card Set Mega-Ether 4-6: unknown
+Card Set Mega-Ether 4-6: filler
 Card Set Mega-Ether 7-9: unknown
 Card Set Mega-Potion 0: filler
 Card Set Mega-Potion 1-3: unknown
-Card Set Mega-Potion 4-6: unknown
+Card Set Mega-Potion 4-6: filler
 Card Set Mega-Potion 7-9: filler
 Card Set Megalixir 0: unknown
 Card Set Megalixir 1-3: filler
@@ -84,11 +86,12 @@ Card Set Mushu 0: useful
 Card Set Mushu 1-3: filler
 Card Set Mushu 4-6: filler
 Card Set Mushu 7-9: unknown
-Card Set Oathkeeper 0: unknown
+Card Set Oathkeeper 0: filler
 Card Set Oathkeeper 1-3: filler
+Card Set Oathkeeper 4-6: filler
 Card Set Oathkeeper 7-9: useful
-Card Set Oblivion 0: unknown
-Card Set Oblivion 4-6: unknown
+Card Set Oblivion 0: filler
+Card Set Oblivion 4-6: filler
 Card Set Olympia 0: useful
 Card Set Olympia 1-3: filler
 Card Set Olympia 4-6: filler
@@ -99,9 +102,12 @@ Card Set One Winged Angel 4-6: unknown
 Card Set One Winged Angel 7-9: useful
 Card Set Potion 0: unknown
 Card Set Potion 1-3: filler
-Card Set Potion 4-6: unknown
+Card Set Potion 4-6: filler
+Card Set Potion 7-9: filler
+Card Set Pumpkinhead 0: filler
 Card Set Pumpkinhead 1-3: useful
 Card Set Pumpkinhead 4-6: unknown
+Card Set Pumpkinhead 7-9: filler
 Card Set Simba 0: filler
 Card Set Simba 1-3: unknown
 Card Set Simba 4-6: filler
@@ -120,10 +126,12 @@ Card Set Thunder 0: filler
 Card Set Thunder 1-3: useful
 Card Set Thunder 4-6: filler
 Card Set Thunder 7-9: filler
+Card Set Tinker Bell 0: filler
 Card Set Tinker Bell 1-3: filler
 Card Set Tinker Bell 4-6: filler
 Card Set Tinker Bell 7-9: filler
-Card Set Ultima Weapon 1-3: unknown
+Card Set Ultima Weapon 0: filler
+Card Set Ultima Weapon 1-3: filler
 Card Set Ultima Weapon 4-6: filler
 Card Set Ultima Weapon 7-9: unknown
 Card Set Wishing Star 0: useful
@@ -132,6 +140,8 @@ Card Set Wishing Star 4-6: unknown
 Card Set Wishing Star 7-9: filler
 Enemy Card Air Pirate: unknown
 Enemy Card Aquatank: unknown
+Enemy Card Axel: filler
+Enemy Card Bandit: filler
 Enemy Card Black Fungus: filler
 Enemy Card Bouncywild: unknown
 Enemy Card Card Soldier (Red): filler
@@ -153,15 +163,15 @@ Enemy Card Soldier: filler
 Enemy Card Trickmaster: unknown
 Enemy Card Ursula: unknown
 Enemy Card White Mushroom: unknown
-Enemy Card Wight Knight: unknown
-Enemy Card Wyvern: unknown
+Enemy Card Wight Knight: filler
+Enemy Card Wyvern: filler
 Enemy Card Yellow Opera: useful
 Friend Card Aladdin: mcguffin
 Friend Card Ariel: mcguffin
 Friend Card Beast: mcguffin
 Friend Card Donald: mcguffin
 Friend Card Goofy: mcguffin
-Friend Card Jack: unknown
+Friend Card Jack: mcguffin
 Friend Card Peter Pan: unknown
 Key to Rewards Agrabah: mcguffin
 Key to Rewards Atlantica: unknown
@@ -176,12 +186,12 @@ Key to Rewards Traverse Town: progression
 Key to Rewards Twilight Town: unknown
 Key to Rewards Wonderland: unknown
 Victory: unknown
-World Card 100 Acre Wood: unknown
+World Card 100 Acre Wood: progression
 World Card Agrabah: progression
 World Card Atlantica: progression
 World Card Destiny Islands: progression
 World Card Halloween Town: unknown
-World Card Hollow Bastion: unknown
+World Card Hollow Bastion: progression
 World Card Monstro: progression
 World Card Neverland: progression
 World Card Olympus Coliseum: unknown
