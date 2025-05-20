@@ -251,6 +251,7 @@ FRD: Doug: unknown
 FRD: Elma: unknown
 FRD: Gwin: progression
 FRD: Irina: unknown
+FRD: L: unknown
 FRD: Lao: progression
 FRD: Lin: unknown
 FRD: Murderess: unknown
@@ -306,6 +307,7 @@ SKAUG: Crush.GP XIII: unknown
 SKAUG: Custom.WP-ATK II: unknown
 SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
+SKAUG: Custom.WP-SPEED XIII: unknown
 SKAUG: CutTime.DEBUFF VI: unknown
 SKAUG: Draw.OPENING-DMG VIII: unknown
 SKAUG: Draw.OPENING-DMG XII: unknown
@@ -352,6 +354,7 @@ SKAUG: SpecUp.HP-MAX XX: unknown
 SKAUG: SpecUp.PHYS-RES XVI: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
 SKAUG: SpecUp.R-ATK XII: unknown
+SKAUG: SpecUp.THERM-RES X: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
 SKAUG: TimeEx.BEAM-DOWN XIX: unknown
 SKAUG: TimeEx.BLAZE III: unknown
@@ -525,6 +528,7 @@ WPN: Destroyer Bliss_2: unknown
 WPN: Destroyer Dyads_2: unknown
 WPN: Destroyer Lastyr III_3: unknown
 WPN: Destroyer Raygun_3: unknown
+WPN: Devastator Raidrifle_2: unknown
 WPN: Devastator Sidearm_3: unknown
 WPN: Faithful Lightblade II_1: unknown
 WPN: Iron Blades_2: unknown
