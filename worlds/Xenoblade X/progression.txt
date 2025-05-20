@@ -165,6 +165,7 @@ AUG: Extend Ether Res Down V: unknown
 AUG: Extend Fatigue X: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Extend Slow Arts XVIII: unknown
+AUG: Extend Taunt VII: unknown
 AUG: Extend Taunt XII: unknown
 AUG: Extend Taunt XV: unknown
 AUG: Extend Virus XV: unknown
@@ -185,6 +186,7 @@ AUG: Melee Accuracy Drive VI: unknown
 AUG: Melee Attack Boost I: unknown
 AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Attack Boost XV: unknown
+AUG: Melee Attack Up XIX: unknown
 AUG: Melee Draw Surge XV: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
@@ -261,6 +263,7 @@ KEY: Blade License: unknown
 SKAMR: SK20SA M-BODY-RNG_3: unknown
 SKAMR: SK20SA M-LARM-RNG_2: unknown
 SKAMR: SK20SA M-LEGS-RNG_3: unknown
+SKAMR: SK30GG L-HEAD-DEF_2: unknown
 SKAMR: SK30SA H-BODY-ATK3_1: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
 SKAMR: SK30SA H-LEGS-ATK2_3: unknown
@@ -334,6 +337,7 @@ SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
+SKAUG: Resist.LAUNCH IX: unknown
 SKAUG: Resist.LAUNCH XII: unknown
 SKAUG: Resist.PHYS-DOWN III: unknown
 SKAUG: Resist.SHOCK XIII: unknown
@@ -481,6 +485,7 @@ SKWPN: SSM-RX320SA F-Rifle_3: unknown
 SKWPN: SSM-RX330SA F-Rifle_1: unknown
 SKWPN: SSM-RX350SA F-Rifle_3: unknown
 SKWPN: SSM-RX420SA B-Gatling_3: unknown
+SKWPN: SSM-RX450SA B2-Gatling_2: unknown
 SKWPN: SSM-XR140ME M-Missile: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
@@ -558,6 +563,7 @@ WPN: Striker Crank_1: unknown
 WPN: Striker Dyads_3: unknown
 WPN: Striker Lastyr_2: unknown
 WPN: Striker Sniper Rifle II_1: unknown
+WPN: Titanium Gladiis_1: unknown
 WPN: Titanium Haven_1: filler
 WPN: Titanium Iyst II_1: unknown
 WPN: Titanium Knife III_2: unknown
