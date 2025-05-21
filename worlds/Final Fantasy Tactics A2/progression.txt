@@ -12,8 +12,10 @@ Animal Bone: unknown
 Apocalypse: unknown
 Aqua Saber: unknown
 Arbalest: unknown
+Arch Sword: unknown
 Artemis Bow: unknown
 Ashura: unknown
+Atomos Blade: unknown
 Ayvuir Blue: unknown
 Barbut: unknown
 Barette: unknown
@@ -41,10 +43,12 @@ Broadaxe: unknown
 Bronze Armor: filler
 Bronze Helm: unknown
 Burglar Sword: unknown
+Cachusha: unknown
 Carabineer Mail: useful
 Chainmail: unknown
 Chameleon Robe: unknown
 Chirijiraden: unknown
+Chocobo Shield: unknown
 Circlet: unknown
 Claymore: unknown
 Cleansing Staff: unknown
@@ -86,6 +90,7 @@ Excalibur: unknown
 Faerie Harp: unknown
 Fiend's Blood: unknown
 Fine Wool: unknown
+Firebird Crystal: unknown
 Firewheel Rod: unknown
 Flame Rod: unknown
 Flame Shield: unknown
@@ -101,6 +106,7 @@ Galmia Frock: useful
 Gauntlets: unknown
 Gemsteel: unknown
 Genji Armor: useful
+Genji Gloves: unknown
 Giant's Helmet: useful
 Giant's Tanned Hide: unknown
 Giot Gun: useful
@@ -122,6 +128,7 @@ Hempen Robe: filler
 Heretic Rod: unknown
 Hero Tonic: unknown
 High Seraph's Plume: unknown
+Hunting Bow: unknown
 Ice Lance: unknown
 Ice Shield: unknown
 Icebrand: useful
@@ -162,6 +169,7 @@ Lightwing Crystal: unknown
 Lilith Rod: unknown
 Linen Cuirass: unknown
 Lohengrin: unknown
+Longbow: unknown
 Lordly Robe: unknown
 Lost Gun: unknown
 Lotus Mace: unknown
@@ -199,6 +207,7 @@ Mythril: unknown
 Nail Bow: unknown
 Nepenthis: unknown
 Nike Bow: unknown
+Ninja Gear: unknown
 Nirvana: unknown
 Onion Sword: unknown
 Orichalcum Dirk: unknown
@@ -206,6 +215,7 @@ Osafune: useful
 Outsider: unknown
 Partisan: useful
 Pearl Blade: unknown
+Peytral: unknown
 Pin of Order: useful
 Platinum Helm: filler
 Platinum Shield: unknown
@@ -231,6 +241,7 @@ Ring of the Wheel: unknown
 Riot Gun: useful
 Rising Sun: unknown
 Rocket Punch: unknown
+Rod: unknown
 Rondel: useful
 Round Shield: unknown
 Rubber Suit: unknown
@@ -282,6 +293,7 @@ Survival Vest: unknown
 Survivor: unknown
 Sweep Blade: unknown
 Swordbreaker: unknown
+Tainted Cufflink: unknown
 Tanned Hide: unknown
 Telaq Flower: unknown
 Templar Shield: unknown
@@ -304,8 +316,10 @@ Tyrant Hide: unknown
 Unpurified Ether: unknown
 Vajra: useful
 Venus Blade: unknown
+Vigilante: unknown
 Waltwood: unknown
 War Trumpet: unknown
+Waterwyrd Crystal: unknown
 Whisperweed: unknown
 White Fangs: useful
 White Hat: useful
@@ -319,9 +333,11 @@ Wolf Pelt: unknown
 Wool: filler
 Wygar: unknown
 Wyrm Carapace: unknown
+Xankbras: unknown
 Yellow Liquid: unknown
 Yoichi Bow: useful
 Zanmato: unknown
+Zeus Mace: unknown
 Zinconium: unknown
 Zodiac Ore: unknown
 Zwillblade: useful
