@@ -82,7 +82,7 @@ Mender: useful
 Message: unknown
 Micro Processor: unknown
 Multi-Press: unknown
-Naval Factory: unknown
+Naval Factory: progression
 Neoplasia Reactor: unknown
 Oil Extractor: unknown
 Overdrive Dome: unknown
@@ -115,7 +115,7 @@ Progressive Support Ground Unit: progression
 Progressive Support Naval Unit: progression
 Progressive Tanks: progression
 Pulse Conduit: unknown
-Pulverizer: unknown
+Pulverizer: useful
 Pyratite Mixer: progression
 Pyrolysis Generator: unknown
 RTG Generator: unknown
