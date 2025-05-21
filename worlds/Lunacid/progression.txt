@@ -17,6 +17,7 @@ Broken Sword: unknown
 Burning Hot Key: unknown
 Cloth Bandage: filler
 Coffin: progression
+Corrupt Key: progression
 Corrupted Dagger: useful
 Crystal Lantern: progression
 Crystal Shard: useful
@@ -82,7 +83,8 @@ Ocean Bone Shell: filler
 Ocean Elixir: useful
 Oil Lantern: unknown
 Onyx: unknown
-Pink Shrimp: unknown
+Pink Shrimp: filler
+Poison Mist: unknown
 Poison Throwing Knife: filler
 Poison Urn: filler
 Prison Main Door Key: progression
