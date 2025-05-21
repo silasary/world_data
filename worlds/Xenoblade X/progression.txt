@@ -92,6 +92,7 @@ AMR: Warrior's Crest_3: unknown
 AMR: Warrior's Gauntlet R_1: unknown
 AMR: Worn Combat Footwear: unknown
 AMR: Worn Forza Headset: unknown
+AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua R: unknown
@@ -469,6 +470,7 @@ SKWPN: SRM-XXR140ME B-Gatling: unknown
 SKWPN: SRM-XXR330GG H-Arrow: unknown
 SKWPN: SRM-XXR450GG Phoenix: filler
 SKWPN: SRM-XXR720ME F-Wave: unknown
+SKWPN: SRM-XXR730ME F-Wave: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
 SKWPN: SSM-MX130SA G2-Buster_1: useful
 SKWPN: SSM-MX140SA G-Buster_2: filler
@@ -526,6 +528,7 @@ WPN: Chrome Knife_1: unknown
 WPN: Chrome Parma II_2: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Chromoly Pilum_1: unknown
+WPN: Chromoly Pugio_1: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
 WPN: Delta Dyads II_1: unknown
