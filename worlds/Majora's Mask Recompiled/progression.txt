@@ -5,7 +5,7 @@ Bombchu (10): useful
 Boss Key (Great Bay): mcguffin
 Boss Key (Snowhead): mcguffin
 Boss Key (Stone Tower): mcguffin
-Boss Key (Woodfall): progression
+Boss Key (Woodfall): mcguffin
 Bottle of Chateau Romani: progression
 Bottle of Milk: progression
 Bottle of Red Potion: useful
@@ -16,18 +16,18 @@ Bunny Hood: progression
 Captain's Hat: progression
 Circus Leader's Mask: progression
 Clock Town Map: useful
-Compass (Great Bay): unknown
-Compass (Snowhead): unknown
+Compass (Great Bay): useful
+Compass (Snowhead): useful
 Compass (Stone Tower): useful
-Compass (Woodfall): unknown
+Compass (Woodfall): useful
 Couple's Mask: progression
 Deku Mask: progression
 Don Gero Mask: progression
 Double Defense: useful
-Dungeon Map (Great Bay): unknown
-Dungeon Map (Snowhead): unknown
-Dungeon Map (Stone Tower): unknown
-Dungeon Map (Woodfall): unknown
+Dungeon Map (Great Bay): useful
+Dungeon Map (Snowhead): useful
+Dungeon Map (Stone Tower): useful
+Dungeon Map (Woodfall): useful
 Elegy of Emptiness: progression
 Epona's Song: progression
 Fierce Deity's Mask: useful
@@ -56,16 +56,16 @@ Land Title Deed: progression
 Lens of Truth: progression
 Letter to Kafei: progression
 Light Arrow: progression
-Magic Bean: useful
+Magic Bean: progression
 Mask of Scents: progression
 Mask of Truth: progression
 Mirror Shield: progression
 Moon's Tear: progression
-Mountain Title Deed: unknown
+Mountain Title Deed: progression
 New Wave Bossa Nova: progression
 Oath to Order: progression
 Ocarina of Time: progression
-Ocean Skulltula Token: progression
+Ocean Skulltula Token: mcguffin
 Ocean Title Deed: progression
 Odolwa's Remains: progression
 Pendant of Memories: progression
@@ -90,7 +90,7 @@ Silver Rupee: filler
 Small Key (Great Bay): mcguffin
 Small Key (Snowhead): mcguffin
 Small Key (Stone Tower): mcguffin
-Small Key (Woodfall): progression
+Small Key (Woodfall): mcguffin
 Snowhead Map: useful
 Sonata of Awakening: progression
 Song of Healing: progression
@@ -99,12 +99,12 @@ Song of Storms: progression
 Song of Time: progression
 Stone Mask: progression
 Stone Tower Map: useful
-Stray Fairy (Clock Town): progression
+Stray Fairy (Clock Town): mcguffin
 Stray Fairy (Great Bay): mcguffin
 Stray Fairy (Snowhead): mcguffin
-Stray Fairy (Stone Tower): progression
-Stray Fairy (Woodfall): progression
-Swamp Skulltula Token: progression
+Stray Fairy (Stone Tower): mcguffin
+Stray Fairy (Woodfall): mcguffin
+Swamp Skulltula Token: mcguffin
 Swamp Title Deed: progression
 Twinmold's Remains: progression
 Woodfall Map: useful
