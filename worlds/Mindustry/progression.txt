@@ -126,7 +126,7 @@ Reinforced Liquid Junction: progression
 Reinforced Surge Wall: useful
 Repair Point: unknown
 Repair Turret: unknown
-Ripple: unknown
+Ripple: useful
 Rotary Pump: filler
 Router: progression
 Salvo: progression
@@ -135,6 +135,7 @@ Segment: unknown
 Separator: unknown
 Ship Fabricator: progression
 Shock Mine: unknown
+Shockwave Tower: unknown
 Silicon Crucible: unknown
 Silicon Smelter: progression
 Smite: unknown
