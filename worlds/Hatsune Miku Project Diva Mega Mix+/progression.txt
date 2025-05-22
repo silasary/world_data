@@ -897,6 +897,7 @@ Equation+** [EXEXTREME]: progression
 Equation+** [EXTREME]: progression
 Equation+** [HARD]: progression
 Equation+** [NORMAL]: progression
+Equation+**: unknown
 Erase or Zero [EASY]: progression
 Erase or Zero [EXEXTREME]: progression
 Erase or Zero [EXTREME]: progression
@@ -2415,6 +2416,7 @@ ROKI [EXEXTREME]: progression
 ROKI [EXTREME]: progression
 ROKI [HARD]: progression
 ROKI [NORMAL]: progression
+ROKI: unknown
 RRRRafflesia [EXTREME]: progression
 RRRRafflesia [HARD]: progression
 Rabbit Hole [EXEXTREME]: progression
