@@ -20,6 +20,7 @@ GrowChicken: unknown
 GrowVine: progression
 King: progression
 Mimic: unknown
+Mirror Portal: useful
 Nothing: filler
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
