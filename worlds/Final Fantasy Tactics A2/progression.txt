@@ -1,5 +1,6 @@
 Ace of Spades: unknown
 Adamant Alloy: unknown
+Adamant Armor: unknown
 Adamant Vest: unknown
 Adamantite: unknown
 Adazakura: unknown
@@ -49,7 +50,9 @@ Brilliant Theorbo: unknown
 Broadaxe: unknown
 Bronze Armor: filler
 Bronze Helm: unknown
+Bronze Shield: unknown
 Burglar Sword: unknown
+Buster Sword: unknown
 Cachusha: unknown
 Carabineer Mail: useful
 Cat Claws: unknown
@@ -134,12 +137,14 @@ Gauntlets: unknown
 Gemsteel: unknown
 Genji Armor: useful
 Genji Gloves: unknown
+Genji Helm: unknown
 Giant's Helmet: useful
 Giant's Tanned Hide: unknown
 Gigas Pendant: unknown
 Giot Gun: useful
 Glass Bell: unknown
 Gleisburst: unknown
+Gokuu Pole: unknown
 Gold Hairpin: unknown
 Golden Armor: unknown
 Golden Skullcap: unknown
@@ -188,6 +193,7 @@ Joyeuse: unknown
 Judicer's Coat: unknown
 Jujitsu Gi: unknown
 Kain's Lance: unknown
+Kaiser Knuckles: unknown
 Kalos: unknown
 Kempas: unknown
 Khukuri: useful
@@ -208,6 +214,7 @@ Lilith Rod: unknown
 Linen Cuirass: unknown
 Lohengrin: unknown
 Longbow: unknown
+Longsword: unknown
 Lordly Robe: unknown
 Lost Gun: unknown
 Lotus Mace: unknown
@@ -250,6 +257,7 @@ Nike Bow: unknown
 Ninja Gear: unknown
 Nirvana: unknown
 Oblige: unknown
+Ogrenix: unknown
 Omnis Cannon: unknown
 Onion Sword: unknown
 Orichalcum Dirk: unknown
@@ -269,6 +277,7 @@ Power Sash: unknown
 Predator: unknown
 Prime Tanned Hide: unknown
 Putrid Liquid: unknown
+Quality Hide: unknown
 Quality Lumber: unknown
 Quality Pelt: unknown
 Ragetsu-denbu: useful
@@ -292,6 +301,7 @@ Rondel: useful
 Round Shield: unknown
 Rubber Suit: unknown
 Ruby Earring: unknown
+Sage Crosier: unknown
 Sage's Robe: unknown
 Samite Coat: unknown
 Samson Sword: unknown
@@ -326,6 +336,7 @@ Snowcat Crystal: unknown
 Snowy Tear: unknown
 Soul Ceffyl: unknown
 Soulsaber: unknown
+Spider Silk: unknown
 Spiked Boots: unknown
 Sprint Shoes: useful
 Spruce: unknown
@@ -348,6 +359,7 @@ Tainted Cufflink: unknown
 Talwar: unknown
 Tanned Hide: unknown
 Tanned Tyrant Hide: unknown
+Target Bow: unknown
 Telaq Flower: unknown
 Templar Shield: unknown
 Terre Rod: unknown
