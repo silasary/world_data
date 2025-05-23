@@ -1,6 +1,7 @@
 AMR: Abominable Facade: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
+AMR: Advanced Forza Vestis: unknown
 AMR: Advanced Reginal Casca: unknown
 AMR: Advanced Reginal Footwear: unknown
 AMR: Advanced Reginal Shirt: unknown
@@ -30,6 +31,8 @@ AMR: Distinguished Uniform: unknown
 AMR: Diving Mask_1: unknown
 AMR: Forza Boots_3: filler
 AMR: Forza Glove L_2: unknown
+AMR: Forza Grip R_2: unknown
+AMR: Forza Guante R_3: unknown
 AMR: Forza Headset_3: unknown
 AMR: Forza Legwear_2: unknown
 AMR: Forza Ryg_2: unknown
@@ -147,6 +150,8 @@ AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
 AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
+AUG: Back Attack Plus XIV: unknown
+AUG: Beam Attack Plus XV: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Critical Chance Up X: unknown
 AUG: Critical Surge IV: unknown
@@ -444,6 +449,7 @@ SKWPN: SHM-XXR920SA L-Cannon: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
 SKWPN: SKM-M250ME Claymore_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
+SKWPN: SKM-R330GG Cracker-FL_3: unknown
 SKWPN: SKM-R330ME Cracker-PD_1: unknown
 SKWPN: SKM-R330ME Cracker-PD_3: unknown
 SKWPN: SKM-R350ME Cracker-PD_3: unknown
@@ -488,6 +494,8 @@ SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
 SKWPN: SSM-R420SA SHD-Ray_3: unknown
+SKWPN: SSM-R430GG Antipulser_3: unknown
+SKWPN: SSM-R540SA Chaingun_2: unknown
 SKWPN: SSM-RX320SA F-Rifle_3: unknown
 SKWPN: SSM-RX330SA F-Rifle_1: unknown
 SKWPN: SSM-RX350SA F-Rifle_3: unknown
