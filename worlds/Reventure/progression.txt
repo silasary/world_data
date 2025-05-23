@@ -20,6 +20,7 @@ GrowChicken: unknown
 GrowVine: progression
 King: progression
 Lava Trinket: progression
+Map: useful
 Mimic: unknown
 Mirror Portal: useful
 Nothing: filler
