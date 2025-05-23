@@ -41,6 +41,7 @@ AMR: Limited Swimmer's Band L: unknown
 AMR: Limited Tank Top (Black Camo): unknown
 AMR: Limited Tank Top (White): unknown
 AMR: Mother God's Crest_3: unknown
+AMR: Mother God's Greaves_1: unknown
 AMR: Overlord's Gauntlet L_1: unknown
 AMR: Overlord's Mask_3: unknown
 AMR: Prime Diving Band R_1: unknown
@@ -97,6 +98,7 @@ AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua R: unknown
 AMR: Worn Valor Mayx L: unknown
+AMR: Worn Valor Tythes: unknown
 AMR: Worn Valor Veyes: unknown
 AMR: Worn Vivid Headwear: unknown
 AMR: Worn Vivid Soales: unknown
@@ -375,6 +377,7 @@ SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.BRIMSTONE-RES: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
 SKAUG: Weather.S-STORM-RES: unknown
+SKF: Amdusias Hades: unknown
 SKF: Lailah Queen: unknown
 SKF: US0230 Urban ST: unknown
 SKF: XS0630 Mastema ST: unknown
