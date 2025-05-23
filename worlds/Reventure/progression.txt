@@ -19,6 +19,7 @@ Gem: mcguffin
 GrowChicken: unknown
 GrowVine: progression
 King: progression
+Lava Trinket: progression
 Mimic: unknown
 Mirror Portal: useful
 Nothing: filler
