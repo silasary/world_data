@@ -49,6 +49,7 @@ AMR: Overlord's Gauntlet L_1: unknown
 AMR: Overlord's Mask_3: unknown
 AMR: Prime Diving Band R_1: unknown
 AMR: Prime Snorkel_2: filler
+AMR: Prime Tank Top (White): unknown
 AMR: Prototype Armwear R: unknown
 AMR: Prototype BLADE Pants: unknown
 AMR: Prototype Workpants: unknown
@@ -150,6 +151,7 @@ ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
+AUG: Aura Surge XVI: unknown
 AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
 AUG: Back Attack Plus XIV: unknown
@@ -181,6 +183,7 @@ AUG: Extend Taunt XV: unknown
 AUG: Extend Virus XV: unknown
 AUG: Focused Evasion XVII: unknown
 AUG: Gravity Attack Plus XII: unknown
+AUG: Gravity Resistance Up XVI: unknown
 AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
 AUG: Humanoid Slayer XVII: unknown
@@ -202,6 +205,7 @@ AUG: Melee: Blackout VII: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
 AUG: Nullify Physical Reflect II: unknown
+AUG: Nullify Physical Reflect VII: unknown
 AUG: Overdrive: Recover HP I: unknown
 AUG: Overdrive: Recover HP XIX: unknown
 AUG: Physical Attack Plus XI: filler
@@ -232,6 +236,7 @@ AUG: Resistance Reducer VI: unknown
 AUG: Side Attack Plus II: unknown
 AUG: Side Attack Plus XI: unknown
 AUG: Stabilizer IX: unknown
+AUG: Stun: Decoy XIV: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
@@ -396,6 +401,7 @@ SKF: XS0750 Amdusias ST: unknown
 SKL: Aggro Boost: unknown
 SKL: Aura Burst: unknown
 SKL: Boosted Bullets: unknown
+SKL: Buff Extender: unknown
 SKL: Conductive Strike: unknown
 SKL: Dismantler: useful
 SKL: Double Reflect: unknown
@@ -442,11 +448,13 @@ SKWPN: SHM-M120ME B-Centipede_1: unknown
 SKWPN: SHM-R1020SA Wiregun_1: filler
 SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R140GG HB-Rifle_3: unknown
+SKWPN: SHM-R160ME Bladegun_3: unknown
 SKWPN: SHM-R230ME B-Rifle_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-R740SA Firegun_3: unknown
+SKWPN: SHM-XR1040SA E-Cannon: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SHM-XXM230ME B-Centipede: unknown
@@ -550,6 +558,7 @@ WPN: Chrome Parma II_2: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Chromoly Pilum_1: unknown
 WPN: Chromoly Pugio_1: unknown
+WPN: Chromoly Saber_3: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
 WPN: Delta Dyads II_1: unknown
@@ -579,6 +588,7 @@ WPN: Savage Ziyse: unknown
 WPN: Soldier Pistolia_2: unknown
 WPN: Soldier Pistolia_3: unknown
 WPN: Soldier Repethe_2: filler
+WPN: Soldier Retic_1: unknown
 WPN: Soldier Zorcyses_2: unknown
 WPN: Storm Dual Guns_1: unknown
 WPN: Storm Raygun_1: unknown
