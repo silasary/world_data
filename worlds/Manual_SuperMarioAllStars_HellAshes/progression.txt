@@ -1,5 +1,5 @@
 A Coin: filler
-Bee Mushroom: unknown
+Bee Mushroom: filler
 Blue Coin: filler
 Boo Mushroom: filler
 Bubble Flower: filler
@@ -7,7 +7,7 @@ Drill Mushroom: filler
 Elephant Fruit: filler
 Ice Flower: filler
 Luigi: unknown
-Mega Mushroom: unknown
+Mega Mushroom: filler
 Metal Cap: filler
 Mini Mushroom: filler
 Power Star: filler
@@ -18,10 +18,13 @@ Rocket Nozzle: unknown
 Shine Sprite: filler
 Super Acorn: filler
 Super Mario Bros. - Invincibility Star: unknown
+Super Mario Bros. - Progressive Power-up: useful
 Super Mario Bros. - World Unlock: progression
 Super Mario Bros. 2 - Invinciblity Star: unknown
+Super Mario Bros. 2 - Mushroom: useful
 Super Mario Bros. 2 - World Unlock: progression
 Super Mario Bros. 2 Cartridge: unknown
+Super Mario Bros. 3 - Invincibility Star: useful
 Super Mario Bros. 3 - Progressive Power-up: useful
 Super Mario Bros. 3 - World Unlock: progression
 Super Mario Bros. 3 Cartridge: progression
@@ -31,6 +34,6 @@ Super Mario Bros. The Lost Levels - World Unlock: progression
 Super Mario Bros. The Lost Levels Cartridge: progression
 Toad: useful
 Turbo Nozzle: filler
-Vanish Cap: unknown
+Vanish Cap: filler
 Wing Cap: filler
 Wonder Flower: filler
