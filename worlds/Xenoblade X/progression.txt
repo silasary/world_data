@@ -341,6 +341,7 @@ SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
+SKAUG: M-Auto.SHOCK X: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
 SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
