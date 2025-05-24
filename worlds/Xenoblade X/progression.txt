@@ -198,6 +198,7 @@ AUG: Melee Attack Boost XIV: unknown
 AUG: Melee Attack Boost XV: unknown
 AUG: Melee Attack Up XIX: unknown
 AUG: Melee Draw Surge XV: unknown
+AUG: Melee: Blackout VII: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
 AUG: Nullify Physical Reflect II: unknown
@@ -235,6 +236,7 @@ AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
 AUG: Topple: Barrier XX: unknown
+AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
 DP: Booster Probe G2: unknown
 DP: Duplicator Probe: unknown
@@ -513,8 +515,10 @@ SKWPN: SSM-XRX460SA B2-Gatling: unknown
 SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
+WPN: Advanced Cermet Fulge II: unknown
 WPN: Advanced Cermet Parce: unknown
 WPN: Advanced Cermet Parma II: unknown
+WPN: Advanced Chrome Gladiis: unknown
 WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Chrome Pugio: unknown
 WPN: Advanced Destroyer Bliss: unknown
