@@ -100,6 +100,7 @@ AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua R: unknown
+AMR: Worn Valor Headset: unknown
 AMR: Worn Valor Mayx L: unknown
 AMR: Worn Valor Tythes: unknown
 AMR: Worn Valor Veyes: unknown
@@ -131,6 +132,7 @@ ART: Medic Free: unknown
 ART: Missile Barrel: unknown
 ART: Missile Volley: unknown
 ART: Overclock: unknown
+ART: Overwhelm: unknown
 ART: Pathogen Blast: unknown
 ART: Phenomenon: unknown
 ART: Power Dive: unknown
@@ -218,6 +220,7 @@ AUG: Resist Beam Res Down XVIII: unknown
 AUG: Resist Fatigue II: unknown
 AUG: Resist Fatigue X: unknown
 AUG: Resist Fatigue XX: unknown
+AUG: Resist Gravity Res Down XIX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
 AUG: Resist Launch XIII: unknown
 AUG: Resist Shock VIII: unknown
@@ -259,6 +262,7 @@ FRD: Alexa: unknown
 FRD: Celica: unknown
 FRD: Doug: unknown
 FRD: Elma: unknown
+FRD: Frye: unknown
 FRD: Gwin: progression
 FRD: Irina: unknown
 FRD: L: unknown
@@ -502,6 +506,7 @@ SKWPN: SSM-RX350SA F-Rifle_3: unknown
 SKWPN: SSM-RX420SA B-Gatling_3: unknown
 SKWPN: SSM-RX450SA B2-Gatling_2: unknown
 SKWPN: SSM-XR140ME M-Missile: unknown
+SKWPN: SSM-XR230SA F-Grenade: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
 SKWPN: SSM-XRX460SA B2-Gatling: unknown
@@ -534,6 +539,7 @@ WPN: Carbide Sword_3: unknown
 WPN: Cermet Fulge II_1: unknown
 WPN: Cermet Iyst II_3: unknown
 WPN: Chrome Bolide_1: unknown
+WPN: Chrome Candela_3: unknown
 WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
 WPN: Chrome Parma II_2: unknown
@@ -603,6 +609,7 @@ WPN: Worn Chromoly Parce: filler
 WPN: Worn Cobalt Haven II: unknown
 WPN: Worn Cobalt Watxes: unknown
 WPN: Worn Delta Lastyr: unknown
+WPN: Worn Destroyer Assailer: unknown
 WPN: Worn Intrepid Lance: unknown
 WPN: Worn Ophidian Crank: unknown
 WPN: Worn Ophidian Raygun: unknown
