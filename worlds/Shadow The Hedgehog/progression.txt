@@ -61,8 +61,8 @@ Prison Island Disc: progression
 Prison Island Soldier: progression
 Purple Chaos Emerald: mcguffin
 Red Chaos Emerald: progression
-Shadow Rifle Action: unknown
-Shadow Rifle Barrel: unknown
+Shadow Rifle Action: progression
+Shadow Rifle Barrel: progression
 Shadow Rifle Magazine: unknown
 Shadow Rifle Receiver: useful
 Shadow Rifle Stock: progression
@@ -207,7 +207,7 @@ Weapon:Splitter: progression
 Weapon:Stop Sign: filler
 Weapon:Sub Machine Gun: progression
 Weapon:Survival Knife: unknown
-Weapon:Tank Cannon: unknown
+Weapon:Tank Cannon: progression
 Weapon:Vacuum Pod: progression
 Weapon:Wide Worm Shooter: progression
 Weapon:Worm Shooter: progression
