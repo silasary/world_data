@@ -226,7 +226,7 @@ GoonadesVO: unknown
 GreenArmor: filler
 GreenMushroom: filler
 HappySphere: useful
-Health: unknown
+Health: filler
 HealthBonus: filler
 Hellstaff: progression
 HexagonKey (E2A12): unknown
