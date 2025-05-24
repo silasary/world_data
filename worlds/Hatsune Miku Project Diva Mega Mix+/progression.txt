@@ -2262,6 +2262,7 @@ Palette [EXEXTREME]: progression
 Palette [EXTREME]: progression
 Palette [HARD]: progression
 Palette [NORMAL]: progression
+Palette: progression
 Pane dhiria [EASY]: progression
 Pane dhiria [EXEXTREME]: progression
 Pane dhiria [EXTREME]: progression
@@ -2771,6 +2772,7 @@ Soiyassa!! [EXEXTREME]: progression
 Soiyassa!! [EXTREME]: progression
 Soiyassa!! [HARD]: progression
 Soiyassa!! [NORMAL]: progression
+Soiyassa!!: progression
 Solar System Disco [EXTREME]: progression
 Solar System Disco [HARD]: progression
 Solitary Envy [EASY]: progression
