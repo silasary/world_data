@@ -5,6 +5,7 @@
 100 Puzzle Pieces: progression
 104 Puzzle Pieces: unknown
 105 Puzzle Pieces: unknown
+106 Puzzle Pieces: unknown
 107 Puzzle Pieces: unknown
 108 Puzzle Pieces: unknown
 109 Puzzle Pieces: unknown
@@ -88,7 +89,9 @@ All-star!: filler
 Amazeballs!: filler
 Bang on!: filler
 Beaming!: filler
+Beetle_Claw: unknown
 Bold move!: filler
+Bonk Badge: unknown
 Boom!: filler
 Boss move!: filler
 Bravo!: filler
@@ -103,6 +106,7 @@ Deluxe!: filler
 Dreamy!: filler
 Epic!: filler
 Fantastic!: filler
+Fire Red: unknown
 Fire!: filler
 Flawless!: filler
 Gleaming!: filler
@@ -121,6 +125,9 @@ Keep it up!: filler
 Keep slaying!: filler
 Killer move!: filler
 King stuff!: filler
+Latter: unknown
+Leather Badge: unknown
+Ledge Snab: unknown
 Legend stuff!: filler
 Legendary!: filler
 Look at you!: filler
@@ -128,7 +135,10 @@ Love it!: filler
 Lush!: filler
 Magic!: filler
 Masterful!: filler
+Mice Rod: unknown
+Morph Sphere: unknown
 Nailed it!: filler
+Nice Rod: unknown
 Nice touch!: filler
 Nifty!: filler
 Niiice!: filler
@@ -143,8 +153,10 @@ Prime!: filler
 Proud of you!: filler
 Puzzle Piece: progression
 Radiant!: filler
+Regressive Glove: unknown
 Right on!: filler
 Rockstar!: filler
+S.S. Wicket: unknown
 Sharp thinking!: filler
 Showstopper!: filler
 Slick!: filler
@@ -153,6 +165,7 @@ Snappy!: filler
 So cool!: filler
 So proud!: filler
 Solid!: filler
+Speed Boost-er: unknown
 Splendid!: filler
 Squawks: filler
 Style points!: filler
@@ -165,6 +178,7 @@ Too good!: filler
 Top tier!: filler
 Ultra win!: filler
 Unreal!: filler
+Varia Armor: unknown
 Vibes!: filler
 Vivid!: filler
 Way to go!: filler
@@ -172,6 +186,7 @@ Well done!: filler
 Well played!: filler
 Whiz!: filler
 Whoa, nice!: filler
+Wire Rod: unknown
 Woohoo!: filler
 Woot!: filler
 Wowsers!: filler
