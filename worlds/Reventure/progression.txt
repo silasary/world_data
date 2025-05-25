@@ -1,6 +1,7 @@
 AddPC: unknown
 Boulder: progression
 BuildStatue: unknown
+Burger: unknown
 Castle To Shop Cannon: unknown
 Change Princess Name: filler
 Chicken: progression
@@ -35,7 +36,7 @@ Shopkeeper: progression
 Shovel: progression
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
-SpawnBoomerang: unknown
+SpawnBoomerang: progression
 SpawnBoulderNPC: progression
 SpawnBurgerChest: progression
 SpawnCompassChest: useful
