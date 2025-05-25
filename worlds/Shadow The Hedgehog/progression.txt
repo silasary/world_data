@@ -206,7 +206,7 @@ Weapon:Speed Limit Sign: filler
 Weapon:Splitter: progression
 Weapon:Stop Sign: filler
 Weapon:Sub Machine Gun: progression
-Weapon:Survival Knife: unknown
+Weapon:Survival Knife: progression
 Weapon:Tank Cannon: progression
 Weapon:Vacuum Pod: progression
 Weapon:Wide Worm Shooter: progression
