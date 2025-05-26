@@ -120,6 +120,7 @@ ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
 ART: Enhanced Stand: unknown
 ART: Essence Exchange: unknown
+ART: Ether Blast: unknown
 ART: Executioner: unknown
 ART: First Down: unknown
 ART: Flamehand: unknown
@@ -390,6 +391,7 @@ SKAUG: SpecUp.THERM-RES X: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
 SKAUG: TimeEx.BEAM-DOWN XIX: unknown
 SKAUG: TimeEx.BLAZE III: unknown
+SKAUG: TimeEx.CONTROL XV: unknown
 SKAUG: TimeEx.CONTROL XVI: unknown
 SKAUG: TimeEx.RECOV-DOWN XIX: unknown
 SKAUG: TimeEx.SHOCK X: unknown
