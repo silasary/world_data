@@ -206,6 +206,7 @@ AUG: Melee Draw Surge XV: unknown
 AUG: Melee: Blackout VII: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
+AUG: Nullify Beam Reflect II: unknown
 AUG: Nullify Physical Reflect II: unknown
 AUG: Nullify Physical Reflect VII: unknown
 AUG: Overdrive: Recover HP I: unknown
@@ -244,6 +245,7 @@ AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
 AUG: Topple: Barrier XX: unknown
+AUG: Topple: Decoy V: unknown
 AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
 DP: Booster Probe G2: unknown
@@ -322,6 +324,7 @@ SKAUG: AttributeDmg.ETHER XVI: unknown
 SKAUG: AttributeDmg.GRAV II: unknown
 SKAUG: Boost.HP-MAX VIII: unknown
 SKAUG: Boost.HP-MAX XII: unknown
+SKAUG: Boost.HP-MAX XIII: unknown
 SKAUG: Boost.HP-MAX XX: unknown
 SKAUG: Cloak.SOUND XVI: filler
 SKAUG: CritUp.MECHANOID VIII: filler
@@ -348,6 +351,7 @@ SKAUG: M-Auto.SHOCK X: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
 SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
+SKAUG: Overdrive.APPEND-HP XVIII: unknown
 SKAUG: Overdrive.EXTEND III: unknown
 SKAUG: Overdrive.FRAME-HP IV: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
@@ -525,6 +529,7 @@ SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
 SKWPN: SSM-XRX460SA B2-Gatling: unknown
 SKWPN: SSM-XXMX150SA G-Buster: filler
+SKWPN: SSM-XXR240GG Voltstorm: unknown
 SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
 WPN: Advanced Cermet Fulge II: unknown
