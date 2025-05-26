@@ -14,7 +14,7 @@ Bomb: useful
 Brass Knuckle: filler
 Bucket: filler
 Cavios: useful
-Charm: unknown
+Charm: mcguffin
 Cook: useful
 Copy: useful
 Crash: useful
@@ -30,7 +30,7 @@ Falchion: filler
 Falcon Helmet: filler
 Fighter: useful
 Fire: useful
-Fish Fossil: unknown
+Fish Fossil: mcguffin
 Floria: progression
 Glass Slippers: filler
 Goblet: progression
@@ -48,7 +48,7 @@ Katana: filler
 King's Cape: filler
 Kong's Barrel: unknown
 Lucky Cat: filler
-Mannequin: unknown
+Mannequin: mcguffin
 Maxim Tomato: filler
 Mecheye: mcguffin
 Mike: useful
@@ -85,7 +85,7 @@ Stone: useful
 Summertime: filler
 Sun Ring: filler
 Suplex: useful
-Sword: unknown
+Sword: progression
 The Arena: progression
 The Great Cave Offensive: progression
 Tire: filler
