@@ -1,8 +1,12 @@
 Agniratha Collectopaedia Flower Category: progression
 Agniratha Collectopaedia Fruit Category: progression
+Agniratha Collectopaedia Nature Category: progression
 Agniratha Collectopaedia Part Category: progression
 Agniratha Collectopaedia Strange Category: progression
 Agniratha Hunting License: progression
+Alcamoth Collectopaedia Flower Category: progression
+Alcamoth Collectopaedia Fruit Category: progression
+Alcamoth Collectopaedia Strange Category: progression
 Area Key: progression
 Bionis' Interior Collectopaedia Animal Category: progression
 Bionis' Interior Collectopaedia Vegetable Category: progression
@@ -10,9 +14,12 @@ Bionis' Interior Hunting License: progression
 Bionis' Leg Collectopaedia Bug Category: progression
 Bionis' Leg Collectopaedia Fruit Category: progression
 Bionis' Leg Collectopaedia Nature Category: progression
+Bionis' Leg Collectopaedia Part Category: unknown
 Bionis' Leg Collectopaedia Strange Category: progression
 Bionis' Leg Collectopaedia Vegetable Category: progression
+Bionis' Leg Hunting License: progression
 Central Factory Collectopaedia Animal Category: progression
+Central Factory Collectopaedia Bug Category: progression
 Central Factory Collectopaedia Nature Category: progression
 Central Factory Collectopaedia Part Category: progression
 Central Factory Collectopaedia Strange Category: progression
@@ -20,10 +27,12 @@ Central Factory Collectopaedia Vegetable Category: progression
 Colony 6 Collectopaedia Animal Category: progression
 Colony 6 Collectopaedia Flower Category: progression
 Colony 6 Collectopaedia Strange Category: progression
+Colony 6 Hunting License: unknown
 Colony 6 Reconstruction Commerce Level: progression
 Colony 6 Reconstruction Housing Level: progression
 Colony 6 Reconstruction Nature Level: progression
 Colony 6 Reconstruction Special Level: progression
+Colony 9 Collectopaedia Bug Category: progression
 Colony 9 Collectopaedia Flower Category: progression
 Colony 9 Collectopaedia Fruit Category: progression
 Colony 9 Collectopaedia Vegetable Category: progression
@@ -35,37 +44,58 @@ Dunban: Demon Slayer Art Book: useful
 Dunban: Electric Gutbuster Art Book: useful
 Dunban: Enthusiasm Skill Tree: useful
 Dunban: Final Flicker Art Book: useful
+Dunban: Gale Slash Art Book: useful
 Dunban: Heat Haze Art Book: useful
 Dunban: Jaws of Death Art Book: useful
+Dunban: Obstinance Skill Tree: unknown
+Dunban: Peerless Art Book: useful
+Dunban: Prudence Skill Tree: useful
 Dunban: Serene Heart Art Book: useful
 Dunban: Soaring Tempest Art Book: useful
 Dunban: Spirit Breath Art Book: useful
+Dunban: Steel Strike Art Book: useful
 Dunban: Tempest Kick Art Book: useful
 Dunban: Thunder Art Book: useful
+Dunban: Worldly Slash Art Book: useful
 Eryth Sea Collectopaedia Animal Category: progression
+Eryth Sea Collectopaedia Flower Category: progression
+Eryth Sea Collectopaedia Nature Category: progression
+Eryth Sea Collectopaedia Strange Category: unknown
 Eryth Sea Collectopaedia Vegetable Category: progression
 Eryth Sea Hunting License: progression
+Ether Mine Collectopaedia Animal Category: unknown
 Ether Mine Collectopaedia Bug Category: progression
 Ether Mine Hunting License: progression
 Fallen Arm Collectopaedia Animal Category: progression
+Fallen Arm Collectopaedia Fruit Category: progression
 Fallen Arm Collectopaedia Nature Category: progression
 Fallen Arm Collectopaedia Part Category: progression
 Fallen Arm Collectopaedia Strange Category: progression
+Fallen Arm Hunting License: unknown
 Fiora Progressive Affinity Rank: progression
 Fiora: Air Fang Art Book: useful
 Fiora: Cross Impact Art Book: useful
+Fiora: Daring Skill Tree: useful
+Fiora: Double Blade Art Book: unknown
+Fiora: Double Wind Art Book: useful
 Fiora: Final Cross Art Book: useful
 Fiora: Guard Shift Art Book: useful
 Fiora: Healing Energy Art Book: useful
+Fiora: Hidden Thorn Art Book: useful
 Fiora: Lacerate Art Book: useful
 Fiora: Lock-On Art Book: useful
 Fiora: Mag Storm Art Book: useful
 Fiora: Power Drain Art Book: useful
+Fiora: Power Smash Art Book: unknown
+Fiora: Rashness Skill Tree: useful
+Fiora: Screw Edge Art Book: useful
 Fiora: Second Gear Art Book: useful
+Fiora: Shutdown Art Book: unknown
 Fiora: Spear Blade Art Book: useful
 Fiora: Speed Shift Art Book: useful
 Fiora: Zeal Skill Tree: useful
 Fiora: Zero Gravity Art Book: useful
+Frontier Village Collectopaedia Bug Category: unknown
 Frontier Village Collectopaedia Fruit Category: progression
 Frontier Village Collectopaedia Strange Category: progression
 Galahad Fortress Collectopaedia Part Category: progression
@@ -73,13 +103,20 @@ Galahad Fortress Collectopaedia Strange Category: progression
 Galahad Fortress Hunting License: progression
 High Entia Tomb Collectopaedia Bug Category: progression
 High Entia Tomb Collectopaedia Part Category: progression
+High Entia Tomb Collectopaedia Strange Category: progression
 Lobster: filler
+Makna Forest Collectopaedia Animal Category: progression
 Makna Forest Collectopaedia Bug Category: progression
 Makna Forest Collectopaedia Flower Category: progression
+Makna Forest Collectopaedia Vegetable Category: progression
 Makna Forest Hunting License: progression
 Mechonis Field Collectopaedia Bug Category: progression
 Mechonis Field Collectopaedia Flower Category: progression
+Mechonis Field Collectopaedia Nature Category: progression
+Mechonis Field Collectopaedia Part Category: unknown
 Mechonis Field Collectopaedia Strange Category: progression
+Mechonis Field Collectopaedia Vegetable Category: progression
+Mechonis Field Hunting License: progression
 Melia Progressive Affinity Rank: useful
 Melia: Burst End Art Book: useful
 Melia: Healing Gift Art Book: useful
@@ -102,6 +139,7 @@ Melia: Summon Wind Art Book: useful
 Memory Fragment: progression
 Prison Island Collectopaedia Animal Category: progression
 Prison Island Collectopaedia Bug Category: progression
+Prison Island Collectopaedia Fruit Category: progression
 Prison Island Collectopaedia Nature Category: progression
 Prison Island Collectopaedia Part Category: progression
 Prison Island Collectopaedia Strange Category: progression
@@ -112,16 +150,21 @@ Reyn: Aura Burst Art Book: useful
 Reyn: Berserker Art Book: useful
 Reyn: Bone Upper Art Book: useful
 Reyn: Camaraderie Skill Tree: useful
+Reyn: Diligence Skill Tree: useful
 Reyn: Dive Sobat Art Book: useful
 Reyn: Engage Art Book: useful
+Reyn: Enthusiasm Skill Tree: unknown
 Reyn: Guard Shift Art Book: useful
+Reyn: Hammer Beat Art Book: unknown
 Reyn: Impatience Skill Tree: useful
 Reyn: Lariat Art Book: useful
 Reyn: Last Stand Art Book: useful
 Reyn: Magnum Charge Art Book: useful
 Reyn: Rage Art Book: useful
+Reyn: Shield Bash Art Book: useful
 Reyn: Sword Drive Art Book: useful
 Reyn: War Swing Art Book: useful
+Reyn: Wild Down Art Book: useful
 Riki Progressive Affinity Rank: progression
 Riki: Bedtime Art Book: useful
 Riki: Behave Art Book: useful
@@ -132,15 +175,21 @@ Riki: Flexibility Skill Tree: useful
 Riki: Freezinate Art Book: useful
 Riki: Happy Happy Art Book: useful
 Riki: Hero Time Art Book: useful
+Riki: Heroism Skill Tree: unknown
 Riki: Innocence Skill Tree: useful
 Riki: Lurgy Art Book: useful
 Riki: Peekaboo Art Book: useful
 Riki: Play Dead Art Book: useful
 Riki: Riki is Angry Art Book: useful
+Riki: Roly-Poly Art Book: useful
+Riki: Say Sorry Art Book: useful
 Riki: Sneaky Art Book: useful
+Riki: Tantrum Art Book: useful
 Riki: You Can Do It Art Book: useful
 Satorl Marsh Collectopaedia Animal Category: progression
 Satorl Marsh Collectopaedia Flower Category: progression
+Satorl Marsh Collectopaedia Nature Category: progression
+Satorl Marsh Collectopaedia Part Category: progression
 Satorl Marsh Collectopaedia Strange Category: progression
 Satorl Marsh Collectopaedia Vegetable Category: progression
 Satorl Marsh Hunting License: progression
@@ -149,10 +198,17 @@ Sharla: Affection Skill Tree: useful
 Sharla: Confidence Skill Tree: useful
 Sharla: Covert Stance Art Book: useful
 Sharla: Cure Bullet Art Book: useful
+Sharla: Cure Round Art Book: unknown
 Sharla: Drive Boost Art Book: useful
+Sharla: Head Shaker Art Book: useful
 Sharla: Head Shot Art Book: useful
+Sharla: Heal Blast Art Book: useful
 Sharla: Heal Bullet Art Book: useful
+Sharla: Heal Counter Art Book: useful
 Sharla: Heal Round Art Book: useful
+Sharla: Heat Bullet Art Book: useful
+Sharla: Metal Blast Art Book: useful
+Sharla: Perseverance Skill Tree: useful
 Sharla: Reliance Skill Tree: useful
 Sharla: Shield Bullet Art Book: useful
 Sharla: Thunder Bullet Art PBook: useful
@@ -160,6 +216,7 @@ Sharla: Tranquilliser Art Book: useful
 Shulk Progressive Affinity Rank: progression
 Shulk: Air Slash Art Book: useful
 Shulk: Back Slash Art Book: useful
+Shulk: Battle Soul Art Book: unknown
 Shulk: Light Heal Art Book: useful
 Shulk: Monado Armour Art Book: useful
 Shulk: Monado Buster Art Book: useful
@@ -167,18 +224,27 @@ Shulk: Monado Cyclone Art Book: useful
 Shulk: Monado Eater Art Book: useful
 Shulk: Monado Enchant Art Book: useful
 Shulk: Monado Purge Art Book: useful
+Shulk: Monado Shield Art Book: useful
 Shulk: Monado Speed Art Book: useful
+Shulk: Pessimism Skill Tree: useful
+Shulk: Shadow Eye Art Book: unknown
 Shulk: Shaker Edge Art Book: useful
 Shulk: Slit Edge Art Book: useful
 Shulk: Stream Edge Art Book: useful
 Sword Valley Collectopaedia Flower Category: progression
 Sword Valley Collectopaedia Fruit Category: progression
+Sword Valley Collectopaedia Strange Category: unknown
 Sword Valley Collectopaedia Vegetable Category: progression
 Sword Valley Hunting License: progression
+Tephra Cave Collectopaedia Animal Category: unknown
 Tephra Cave Collectopaedia Bug Category: progression
 Tephra Cave Collectopaedia Flower Category: progression
 Tephra Cave Collectopaedia Fruit Category: progression
 Tephra Cave Collectopaedia Strange Category: progression
 Tephra Cave Hunting License: progression
+Valak Mountain Collectopaedia Flower Category: progression
 Valak Mountain Collectopaedia Fruit Category: progression
 Valak Mountain Collectopaedia Nature Category: progression
+Valak Mountain Collectopaedia Strange Category: unknown
+Valak Mountain Collectopaedia Vegetable Category: progression
+Valak Mountain Hunting License: unknown

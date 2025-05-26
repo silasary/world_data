@@ -33,6 +33,7 @@ Level Shapes Draining Trap: trap
 Locked Building Trap: trap
 Logic Gates: progression
 Malfunctioning Trap: trap
+Miner Upgrade Trap: trap
 Painter: progression
 Processors Upgrade Trap: trap
 Quad Cutter: progression

@@ -1,23 +1,29 @@
 AddPC: unknown
 Boulder: progression
 BuildStatue: unknown
+Burger: unknown
 Castle To Shop Cannon: unknown
 Change Princess Name: filler
+Chicken: progression
 Closet: unknown
 Compass: useful
 Dark Stone Lever Left: unknown
 Dark Stone: unknown
-DarkstoneLeverLeft: unknown
+DarkstoneLeverLeft: progression
 DarkstoneLeverMiddle: unknown
 DarkstoneLeverRight: unknown
 Desert Geyser West: unknown
+Elder: unknown
 EnableCloset: unknown
 Faceplant Stone: unknown
 Gem: mcguffin
 GrowChicken: unknown
 GrowVine: progression
 King: progression
+Lava Trinket: progression
+Map: useful
 Mimic: unknown
+Mirror Portal: useful
 Nothing: filler
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
@@ -26,10 +32,11 @@ Princess Statue: filler
 Progressive Sword: unknown
 ProgressiveSword: unknown
 Shop Cannon: unknown
+Shopkeeper: progression
 Shovel: progression
 SpawnAnvilItem: progression
 SpawnBombsChest: unknown
-SpawnBoomerang: unknown
+SpawnBoomerang: progression
 SpawnBoulderNPC: progression
 SpawnBurgerChest: progression
 SpawnCompassChest: useful

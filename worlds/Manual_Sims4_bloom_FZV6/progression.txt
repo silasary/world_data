@@ -9,6 +9,7 @@ Adventurous: unknown
 Ambitious: unknown
 Animal Enthusiast: unknown
 Appliances - Fridges: unknown
+Appliances - Kitchen Appliances: unknown
 Appliances - Misc./Trash/Rubbish: unknown
 Appliances - Outdoor Cooking: unknown
 Appliances - Stoves: unknown
@@ -21,6 +22,7 @@ Can Flirt: unknown
 Can Go Steady: unknown
 Can Have Baby: unknown
 Can Marry: unknown
+Cat Lover: unknown
 Change Appearance: unknown
 Cheerful: unknown
 Child of the Islands: unknown
@@ -29,6 +31,7 @@ Childish: unknown
 Clumsy: unknown
 Comfort - Progressive Bed: unknown
 Comfort - Single Seat Chairs: unknown
+Comfort - Sofas and Love Seats: unknown
 Creative: unknown
 Dance Machine: unknown
 Decorations - Mirrors: unknown
@@ -44,6 +47,8 @@ Evil: unknown
 Family-oriented: unknown
 Finished Buttercup: unknown
 Finished Daisy: unknown
+Finished Lavender: unknown
+Finished Rose: unknown
 Foodie: unknown
 Freegan: unknown
 Geek: unknown
@@ -64,19 +69,24 @@ Job - Athlete: unknown
 Job - Biz: unknown
 Job - Crime: unknown
 Job - Culin.: unknown
+Job - Entertain: unknown
 Job - Freelance: unknown
 Job - Painter: unknown
+Job - Self-Emp: unknown
 Job - Style: unknown
 Job - Tech: unknown
 Job - Writer: unknown
+Kid Grow Up: unknown
 Kids - Kids' Activities: unknown
 Kids - Kids' Furniture: unknown
 Kids - Misc. Furniture: unknown
 Kids - Toddlers Furniture: unknown
 Kids - Toys: unknown
+Kleptomaniac: unknown
 Lactose Intolerant: unknown
 Lazy: unknown
 Lighting Furniture: unknown
+Loner: unknown
 Loves Outdoors: unknown
 Magic: unknown
 Make Enemy: unknown
@@ -86,6 +96,7 @@ Mean: unknown
 Music Lover: unknown
 Must Adopt Child: unknown
 Must Become Ghost: unknown
+Must Become Vamp: unknown
 Must Cheat: unknown
 Must Delete Object: unknown
 Must Demote: unknown
@@ -99,6 +110,7 @@ Non-Committal: unknown
 Off-the-Grid - Appliances: unknown
 Off-the-Grid - Crafting: unknown
 Off-the-Grid - Misc.: unknown
+Off-the-Grid - Outdoor Activities: unknown
 Off-the-Grid - Plumbing: useful
 Outgoing: unknown
 Paranoid: unknown
@@ -106,6 +118,7 @@ Perfectionist: unknown
 Pets Furniture: unknown
 Plan - Date: unknown
 Plan - Wedding: unknown
+Plumbing - Progressive Shower: unknown
 Plumbing - Sink: unknown
 Plumbing - Toilet: unknown
 Progressive Lot Size: useful
@@ -114,6 +127,7 @@ Random Job: unknown
 Recycle Disciple: unknown
 Romantic: unknown
 Self-Absorbed: unknown
+Self-Assured: unknown
 Set Fire: unknown
 Slob: unknown
 Snob: unknown
@@ -122,6 +136,7 @@ Storage - Bookshelves: unknown
 Storage - Dressers: unknown
 Storage - Misc.: unknown
 Surfaces - Counters: unknown
+Surfaces - Desks: unknown
 Surfaces - Shelves, Cabinets, and Misc.: unknown
 Surfaces - Tables: unknown
 Transportation: unknown

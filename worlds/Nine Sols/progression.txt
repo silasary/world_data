@@ -25,13 +25,13 @@
 (Database) Council Digital Signage: progression
 (Database) Council Tenets: unknown
 (Database) Dead Person's Note: useful
-(Database) Dusk Guardian Headquarters: unknown
+(Database) Dusk Guardian Headquarters: filler
 (Database) Dusk Guardian Recording Device 1: filler
-(Database) Dusk Guardian Recording Device 2: unknown
+(Database) Dusk Guardian Recording Device 2: filler
 (Database) Dusk Guardian Recording Device 3: unknown
 (Database) Dusk Guardian Recording Device 4: filler
 (Database) Dusk Guardian Recording Device 5: useful
-(Database) Dusk Guardian Recording Device 6: unknown
+(Database) Dusk Guardian Recording Device 6: filler
 (Database) Empyrean Bulletin Board: unknown
 (Database) Evacuation Notice For Miners: unknown
 (Database) Farmland Markings: filler
@@ -50,13 +50,13 @@
 (Database) Rhizomatic Energy Meter: filler
 (Database) Secret Mural I: filler
 (Database) Secret Mural II: filler
-(Database) Secret Mural III: unknown
+(Database) Secret Mural III: filler
 (Database) Stone Carvings: filler
 (Database) Stowaway's Corpse: filler
 (Database) Transmutation Furnace Monitor: unknown
 (Database) Underground Water Tower: unknown
 (Database) Vital Sanctum Tower Monitoring Panel: unknown
-(Database) Warehouse Database: unknown
+(Database) Warehouse Database: filler
 (Database) Water Synthesis Pipeline Panel: unknown
 (Database) Yellow Water Report: filler
 (Poison) Golden Yinglong Egg: unknown
@@ -93,7 +93,7 @@ Central Core Chip: useful
 Charged Strike: progression
 Cloud Leap: progression
 Computing Unit: filler
-Cultivation Jade: unknown
+Cultivation Jade: useful
 Dark Steel: useful
 Divine Hand Jade: unknown
 Elevator Access Token: unknown
@@ -121,7 +121,7 @@ Poem Hidden in the Immortal's Portrait: filler
 Power Reservoir Chip: unknown
 Qi Blade Jade: useful
 Qi Swipe Jade: unknown
-Research Center Chip: unknown
+Research Center Chip: useful
 Revival Jade: useful
 Rhizomatic Bomb: unknown
 Seal of Fuxi: progression
@@ -132,8 +132,8 @@ Seal of Kuafu: unknown
 Seal of Lady Ethereal: unknown
 Seal of Nuwa: unknown
 Seal of Yanlao: mcguffin
-Soul Reaper Jade: unknown
-Soul-Severing Blade: unknown
+Soul Reaper Jade: useful
+Soul-Severing Blade: useful
 Stasis Jade: unknown
 Steely Jade: unknown
 Super Mutant Buster: unknown

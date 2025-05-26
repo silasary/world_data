@@ -126,7 +126,8 @@ BlueCard (MAP17): progression
 BlueCard (MAP24): progression
 BlueCard (MAP26): progression
 BlueFlemKey (E3M5): progression
-BlueMushroom: unknown
+BlueMushroom: filler
+BlueSkull (E1M4): progression
 BlueSkull (E2M6): progression
 BlueSkull (E2M9): progression
 BlueSkull (E3M2): progression
@@ -225,7 +226,7 @@ GoonadesVO: unknown
 GreenArmor: filler
 GreenMushroom: filler
 HappySphere: useful
-Health: unknown
+Health: filler
 HealthBonus: filler
 Hellstaff: progression
 HexagonKey (E2A12): unknown
@@ -643,7 +644,9 @@ YellowCard (MAP13): progression
 YellowCard (MAP15): progression
 YellowCard (MAP26): progression
 YellowFlemKey (E3M5): progression
+YellowMushroom: filler
 YellowSkull (E1M4): unknown
+YellowSkull (E1M5): unknown
 YellowSkull (E1M6): progression
 YellowSkull (E2M6): progression
 YellowSkull (E2M9): progression

@@ -388,7 +388,7 @@ Dark Stone: unknown
 Darnation Egg: unknown
 Darnation Pheromones: unknown
 Deep Stone: useful
-Demonic Pact: unknown
+Demonic Pact: filler
 Devonian Medal+1: unknown
 Devonian Medal+2: unknown
 Devonian Medal+3: unknown
@@ -746,7 +746,7 @@ Mage Flask+4: unknown
 Mage Flask+5: unknown
 Mage Flask: unknown
 Magic Bell: unknown
-Magical Clay: unknown
+Magical Clay: useful
 Magma Chamber key: unknown
 Magmamoth Egg: unknown
 Magmamoth Pheromones: unknown
@@ -1115,7 +1115,7 @@ Staff+3: unknown
 Staff+4: unknown
 Staff+5: unknown
 Staff: unknown
-Stardust: unknown
+Stardust: filler
 Static Loop+1: unknown
 Static Loop+2: useful
 Static Loop+3: unknown
@@ -1176,7 +1176,7 @@ Tar Blob Saddle: unknown
 Targoat Egg: unknown
 Targoat Horn: unknown
 Tarot Card+1: unknown
-Tarot Card+2: unknown
+Tarot Card+2: filler
 Tarot Card+3: unknown
 Tarot Card+4: unknown
 Tarot Card+5: unknown

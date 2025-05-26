@@ -1,18 +1,21 @@
 Accursed Door Key: progression
 Angel Feather: filler
 Antidote: filler
-Ashes: unknown
+Ashes: filler
 Bestial Communion: progression
+Bestial Mastery: unknown
 Black Book: progression
 Blade of Jusztina: unknown
 Blessed Wind: useful
+Blood Drain: unknown
 Blood Strike: progression
-Blood Wine: unknown
-Bloodweed: unknown
-Bomb: unknown
+Blood Wine: filler
+Bloodweed: filler
+Bomb: filler
 Bones: unknown
 Brittle Arming Sword: unknown
 Broken Hilt: progression
+Broken Steps Door Key: unknown
 Broken Sword: unknown
 Burning Hot Key: unknown
 Cloth Bandage: filler
@@ -29,9 +32,10 @@ Deep Knowledge: useful
 Destroying Angel Mushroom: filler
 Double Crossbow: useful
 Dreamer Key: progression
-Dried Rat: unknown
+Dried Rat: filler
 Dusty Crystal Orb: progression
 Earth Elixir: useful
+Earth Strike: unknown
 Earth Talisman: unknown
 Ectoplasm: filler
 Elfen Bow: progression
@@ -42,7 +46,7 @@ Fiddlehead: unknown
 Fire Coral: mcguffin
 Fire Opal: filler
 Fire Sword: useful
-Fire Worm: unknown
+Fire Worm: progression
 Flame Spear: progression
 Fool's Gold: mcguffin
 Forbidden Door Key: unknown
@@ -50,11 +54,12 @@ Forlorn Arena Gate Switch Key: unknown
 Fractured Death: unknown
 Fractured Life: progression
 Ghost Light: progression
+Golden Khopesh: unknown
 Health Vial: filler
 Heritage Sword: progression
 Hollow Basin Switch Key: progression
 Holy Warmth: progression
-Holy Water: unknown
+Holy Water: filler
 Icarian Flight: unknown
 Ice Spear: progression
 Ice Tear: unknown
@@ -65,10 +70,11 @@ Iron Club: progression
 Jailor's Candle: unknown
 Jotunn Slayer: progression
 Labyrinth of Ash Switch Key: progression
+Lava Chasm: progression
 Light Urn: useful
 Lightning: unknown
 Limbo: unknown
-Lotus Seed Pod: unknown
+Lotus Seed Pod: filler
 Lower Rickety Bridge Door Key: progression
 Lucid Blade: progression
 Mana Vial: filler
@@ -76,14 +82,16 @@ Marauder Black Flail: useful
 Moon Beam: progression
 Moon Petal: filler
 Moonlight Vial: filler
+Moonlight: progression
 Obsidian Cursebrand: progression
+Obsidian Poisonguard: unknown
 Obsidian Seal: filler
 Obsidian: mcguffin
 Ocean Bone Shard: filler
 Ocean Bone Shell: filler
 Ocean Elixir: useful
 Oil Lantern: unknown
-Onyx: unknown
+Onyx: filler
 Opal: mcguffin
 Patchouli's Drink Voucher: unknown
 Pink Shrimp: filler
@@ -92,22 +100,24 @@ Poison Throwing Knife: filler
 Poison Urn: filler
 Prison Main Door Key: progression
 Progressive Vampiric Symbol: progression
+Queen's Throne Door Key: unknown
 Quick Stride: progression
 Secondary Lock Key: unknown
 Serpent Fang: progression
 Sewers Sea Door Key: unknown
+Shadow Blade: unknown
 Sheryl's Dreamer Voucher: progression
 Silver: filler
 Skeletal Rattle: filler
 Skeleton Egg: filler
 Skull of Josiah: progression
 Slime Orb: progression
-Snowflake Obsidian: unknown
-Spectral Candle: unknown
+Snowflake Obsidian: filler
+Spectral Candle: filler
 Staff of Osiris: unknown
 Steel Claw: unknown
 Steel Club: progression
-Strange Coin: unknown
+Strange Coin: mcguffin
 Sucsarian Dagger: unknown
 Sucsarian Key: progression
 Sucsarian Spear: unknown
@@ -115,6 +125,7 @@ Summon Kodama: progression
 Surface Door Key: unknown
 Survey Banner: unknown
 Temple of Earth Switch Key: unknown
+Terminus Prison Back Alley Switch Key: unknown
 Terminus Prison Key: unknown
 Text on Great Well Resourcefulness: filler
 Thorn: unknown
@@ -128,4 +139,4 @@ Water Talisman: unknown
 Wind Slicer: progression
 Wisp Heart: progression
 Wolfram Greatsword: progression
-Yellow Morel: unknown
+Yellow Morel: filler
