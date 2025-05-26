@@ -118,6 +118,7 @@ ART: Clarity Ray: unknown
 ART: Cool Off: unknown
 ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
+ART: Enhanced Stand: unknown
 ART: Essence Exchange: unknown
 ART: Executioner: unknown
 ART: First Down: unknown
@@ -228,6 +229,7 @@ AUG: Resist Fatigue X: unknown
 AUG: Resist Fatigue XX: unknown
 AUG: Resist Gravity Res Down XIX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
+AUG: Resist Knockback XI: unknown
 AUG: Resist Launch XIII: unknown
 AUG: Resist Shock VIII: unknown
 AUG: Resist Sleep VIII: unknown
@@ -580,6 +582,7 @@ WPN: Iron Pride_1: unknown
 WPN: Ophidian Assault Rifle III_1: unknown
 WPN: Ophidian Bangbangs_2: unknown
 WPN: Ophidian Bliss_2: unknown
+WPN: Ophidian Dyads II_2: unknown
 WPN: Ophidian Radius II_2: unknown
 WPN: Ophidian Rapture_1: unknown
 WPN: Ophidian Sicarius_3: unknown
@@ -614,6 +617,7 @@ WPN: Ultra Cosmic Dual Guns II: unknown
 WPN: Ultra Cosmic Lastyr II: unknown
 WPN: Ultra Nebulan Assailer: unknown
 WPN: Ultra Nebulan Pistolia: unknown
+WPN: Ultra Nebulan Saboteurs: unknown
 WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Dyads II_2: unknown
 WPN: Warrior Radius_3: unknown
