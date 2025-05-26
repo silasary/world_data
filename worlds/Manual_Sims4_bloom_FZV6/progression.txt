@@ -9,6 +9,7 @@ Adventurous: unknown
 Ambitious: unknown
 Animal Enthusiast: unknown
 Appliances - Fridges: unknown
+Appliances - Kitchen Appliances: unknown
 Appliances - Misc./Trash/Rubbish: unknown
 Appliances - Outdoor Cooking: unknown
 Appliances - Stoves: unknown
@@ -46,6 +47,8 @@ Evil: unknown
 Family-oriented: unknown
 Finished Buttercup: unknown
 Finished Daisy: unknown
+Finished Lavender: unknown
+Finished Rose: unknown
 Foodie: unknown
 Freegan: unknown
 Geek: unknown
@@ -79,6 +82,7 @@ Kids - Kids' Furniture: unknown
 Kids - Misc. Furniture: unknown
 Kids - Toddlers Furniture: unknown
 Kids - Toys: unknown
+Kleptomaniac: unknown
 Lactose Intolerant: unknown
 Lazy: unknown
 Lighting Furniture: unknown
@@ -106,6 +110,7 @@ Non-Committal: unknown
 Off-the-Grid - Appliances: unknown
 Off-the-Grid - Crafting: unknown
 Off-the-Grid - Misc.: unknown
+Off-the-Grid - Outdoor Activities: unknown
 Off-the-Grid - Plumbing: useful
 Outgoing: unknown
 Paranoid: unknown
