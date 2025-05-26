@@ -88,9 +88,12 @@
 A real one!: filler
 A+ effort!: filler
 Ace!: filler
+Acrobat Bike: unknown
 Adult Trap: unknown
 All-star!: filler
 Amazeballs!: filler
+Another Puzzle: unknown
+Another_Geo_Rock: unknown
 Ascending_Dark: unknown
 Bang on!: filler
 Beaming!: filler
@@ -100,8 +103,10 @@ Bomb Sack: unknown
 Bonk Badge: unknown
 Boom!: filler
 Boss move!: filler
+Bottle with Green Milk: unknown
 Bravo!: filler
 Bus_Pass: unknown
+Canoo: unknown
 Champ!: filler
 Chef's kiss!: filler
 Clean win!: filler
@@ -112,18 +117,22 @@ Crystal_Fart: unknown
 Crème de la crème!: filler
 Delightful!: filler
 Deluxe!: filler
+Dime Piece: unknown
 Dreamy!: filler
 Epic!: filler
 Fantastic!: filler
+Feather Bodge: unknown
 Finally Form: unknown
 Fire Red: unknown
 Fire!: filler
 Flawless!: filler
+Flipper Floppers: unknown
 Gleaming!: filler
 Glub: unknown
 Go you!: filler
 Gold star!: filler
 Gold420: unknown
+Gold69: unknown
 Good job!: filler
 Gorgeous!: filler
 Great work!: filler
@@ -142,11 +151,14 @@ Intact Page: unknown
 Jack_Fragment: unknown
 Joyful!: filler
 Jumping Boots: unknown
+Kee: unknown
 Keep it up!: filler
 Keep slaying!: filler
 Killer move!: filler
 King stuff!: filler
+Kitties 01-99: unknown
 Large Grab: unknown
+Larian: unknown
 Latter: unknown
 Leather Badge: unknown
 Ledge Snab: unknown
@@ -160,6 +172,7 @@ Masterful!: filler
 Mice Rod: unknown
 Monotonous: unknown
 Morph Sphere: unknown
+Mucky Emblem: unknown
 Nailed it!: filler
 Nice Rod: unknown
 Nice touch!: filler
@@ -172,6 +185,7 @@ Output ZIP: unknown
 Patch File: unknown
 Peak form!: filler
 Perfection!: filler
+Pervasive Bow: unknown
 Poison Rod: unknown
 Pokey Ball: unknown
 Power Tar: unknown
@@ -182,6 +196,7 @@ Progressional Bow: unknown
 Progressive Low: unknown
 Progressive Shove: unknown
 Proud of you!: filler
+Purian: unknown
 Puzel Piece: unknown
 Puzzle Pice: unknown
 Puzzle Piece: progression
@@ -190,10 +205,14 @@ Regressive Bow: unknown
 Regressive Dots: unknown
 Regressive Fire: unknown
 Regressive Glove: unknown
+Regressive Hookshot: unknown
+Regressive Sword: unknown
 Relic (): unknown
+Relic (Horse): unknown
 Relic (Veggie Burger): unknown
 Right on!: filler
 Rockstar!: filler
+Role Fragment: unknown
 S.8. Ticket: unknown
 S.S. Wicket: unknown
 Sharp thinking!: filler
@@ -205,10 +224,14 @@ Snappy!: filler
 So cool!: filler
 So proud!: filler
 Solid!: filler
+Song of Fire: unknown
+Song of Water: unknown
 Speed Boost-er: unknown
+Speling Misstakes: unknown
 Splendid!: filler
 Squawks: filler
 Style points!: filler
+Sun Pearl: unknown
 Super clean!: filler
 Superstar!: filler
 Surf Badge: unknown
@@ -216,6 +239,8 @@ Sweet!: filler
 That’s it!: filler
 Third Chance: unknown
 Thrilling!: filler
+Time Fleece: unknown
+Time Slice: unknown
 Tire Rod: unknown
 Too good!: filler
 Top tier!: filler
@@ -247,3 +272,4 @@ Zesty!: filler
 Zing!: filler
 regressive-automation: unknown
 regressive-train-network: unknown
+regressive-vehicle: unknown
