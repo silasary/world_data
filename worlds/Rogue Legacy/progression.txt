@@ -10,7 +10,7 @@ Attack Up: progression
 Balance Runes: useful
 Blacksmith - Cape: useful
 Blacksmith - Chest: unknown
-Blacksmith - Helm: unknown
+Blacksmith - Helm: progression
 Blacksmith - Limbs: unknown
 Blacksmith - Sword: unknown
 Blacksmith: progression
@@ -36,10 +36,10 @@ Down Strike Up: filler
 Dragon Blueprints: useful
 Dragons: progression
 Enchantress - Cape: filler
-Enchantress - Chest: unknown
+Enchantress - Chest: progression
 Enchantress - Helm: unknown
 Enchantress - Limbs: useful
-Enchantress - Sword: unknown
+Enchantress - Sword: progression
 Enchantress: progression
 Equip Up: useful
 Genetic Lottery: unknown
@@ -51,7 +51,7 @@ Haste Runes: filler
 Health Up: progression
 Hedgehog's Curse: unknown
 Helios' Blessing Shrine: unknown
-Hermes' Boots Shrine: unknown
+Hermes' Boots Shrine: filler
 Holy Blueprints: useful
 Hyperion's Ring Shrine: unknown
 Imperial Blueprints: useful
