@@ -83,6 +83,7 @@
 80 Puzzle Pieces: unknown
 9 Puzzle Pieces: progression
 91 Puzzle Pieces: unknown
+95 Puzzle Pieces: progression
 :3: unknown
 :3c: unknown
 :D: unknown
@@ -112,18 +113,23 @@ Bravo!: filler
 Bus_Pass: unknown
 Butt Activation: unknown
 Button Activator: unknown
+Button Excavation: unknown
 Canoo: unknown
 Champ!: filler
 Chef's kiss!: filler
 Clean win!: filler
 Commence mint: unknown
+Counterfeit Pon: unknown
 Counterfeit Rupee: unknown
 Crisp!: filler
+Crook: unknown
 Crushed it!: filler
 Crystal_Fart: unknown
 Crème de la crème!: filler
+Cut Badge: unknown
 Delightful!: filler
 Deluxe!: filler
+Depravity Suit: unknown
 Dime Piece: unknown
 Dreamy!: filler
 Epic!: filler
@@ -134,9 +140,11 @@ Finally Form: unknown
 Fire Beam: unknown
 Fire Red: unknown
 Fire!: filler
+Flash Badge: unknown
 Flawless!: filler
 Flipper Floppers: unknown
 Fly_Lantern: unknown
+Generation Error: unknown
 Gleaming!: filler
 Glub: unknown
 Go you!: filler
@@ -146,8 +154,10 @@ Gold69: unknown
 Good job!: filler
 Gorgeous!: filler
 Gravitational Suit: unknown
+Gravity Soot: unknown
 Great work!: filler
 Grime Piece: unknown
+Grimmchild3: unknown
 Grue: unknown
 HM03 Smurf: unknown
 Hate_Key: unknown
@@ -174,16 +184,20 @@ Large Grab: unknown
 Larian: unknown
 Latter: unknown
 Leather Badge: unknown
+Ledge Grub: unknown
 Ledge Snab: unknown
 Legend stuff!: filler
 Legendary!: filler
 Look at you!: filler
 Love it!: filler
+Lucky Embalm: unknown
 Lush!: filler
 Maestro Ticket - Yellow: unknown
 Magic!: filler
 Masterful!: filler
+Metro Ticket - Bellow: unknown
 Mice Rod: unknown
+Monarch_Dings: unknown
 Monotonous: unknown
 Morph Sphere: unknown
 Mucky Emblem: unknown
@@ -202,6 +216,7 @@ Perfection!: filler
 Pervasive Bow: unknown
 Poison Rod: unknown
 Pokey Ball: unknown
+Power Stair: unknown
 Power Tar: unknown
 Power move!: filler
 Powerhouse!: filler
@@ -222,11 +237,13 @@ Regressive Fire: unknown
 Regressive Glove: unknown
 Regressive Hookshot: unknown
 Regressive Sword: unknown
+Regressive Symmetry: unknown
 Regressive Thunder: unknown
 Relic (): unknown
 Relic (Horse): unknown
 Relic (Veggie Burger): unknown
 Right on!: filler
+Rock Smash Badge: unknown
 Rockstar!: filler
 Role Fragment: unknown
 Roll Figment: unknown
@@ -239,7 +256,9 @@ Sharp thinking!: filler
 Ship Ticket: unknown
 Ship: unknown
 Showstopper!: filler
+Shrub: unknown
 Slick!: filler
+Slippers: unknown
 Smooth!: filler
 Snappy!: filler
 So cool!: filler
@@ -252,12 +271,14 @@ Speed Boost-er: unknown
 Speling Misstakes: unknown
 Splendid!: filler
 Squawks: filler
+Steel Boots: unknown
 Style points!: filler
 Sun Pearl: unknown
 Super clean!: filler
 Superstar!: filler
 Surf Badge: unknown
 Sweet!: filler
+TM69: unknown
 That’s it!: filler
 Third Chance: unknown
 Thrilling!: filler
@@ -294,5 +315,7 @@ Yum!: filler
 Zesty!: filler
 Zing!: filler
 regressive-automation: unknown
+regressive-logistics: unknown
+regressive-science-pack: unknown
 regressive-train-network: unknown
 regressive-vehicle: unknown
