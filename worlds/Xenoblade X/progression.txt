@@ -153,6 +153,7 @@ ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP X: unknown
+AUG: Arts: Gain TP XIV: unknown
 AUG: Aura Surge XVI: unknown
 AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
@@ -337,6 +338,7 @@ SKAUG: Custom.WP-ATK II: unknown
 SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
 SKAUG: Custom.WP-SPEED XIII: unknown
+SKAUG: CutTime.DEBUFF II: unknown
 SKAUG: CutTime.DEBUFF VI: unknown
 SKAUG: Draw.OPENING-DMG VIII: unknown
 SKAUG: Draw.OPENING-DMG XII: unknown
@@ -421,6 +423,7 @@ SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
 SKL: Iron Knuckle: unknown
+SKL: Lifeline: unknown
 SKL: Long Shot: unknown
 SKL: Long Topple: unknown
 SKL: Mechanoid Slayer: unknown
@@ -481,6 +484,7 @@ SKWPN: SKM-R350SA Cracker-BM_3: unknown
 SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
+SKWPN: SRM-R260ME S-Missile_2: unknown
 SKWPN: SRM-R440ME Backbomb_1: filler
 SKWPN: SRM-R450SA Grenade_2: unknown
 SKWPN: SRM-R551GG F-Wave_2: unknown
@@ -489,6 +493,7 @@ SKWPN: SRM-R620SA Buster-Launcher_3: unknown
 SKWPN: SRM-R721ME F-Wave_3: unknown
 SKWPN: SRM-R752ME F-Wave_2: unknown
 SKWPN: SRM-R754ME F-Wave_3: unknown
+SKWPN: SRM-R764ME F-Wave_2: unknown
 SKWPN: SRM-USP160SA Hexad-Partican: filler
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
@@ -628,6 +633,7 @@ WPN: Ultra Nebulan Saboteurs: unknown
 WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Dyads II_2: unknown
 WPN: Warrior Radius_3: unknown
+WPN: Worn Carbide Blades: unknown
 WPN: Worn Carbide Thudclang: unknown
 WPN: Worn Cermet Spear: unknown
 WPN: Worn Chrome Knife II: unknown
