@@ -85,6 +85,7 @@
 9 Puzzle Pieces: progression
 91 Puzzle Pieces: unknown
 95 Puzzle Pieces: progression
+:(: unknown
 :3: unknown
 :3c: unknown
 :D: unknown
@@ -97,13 +98,16 @@ Adult Trap: unknown
 All-star!: filler
 Amazeballs!: filler
 Another Berry: unknown
+Another Door: unknown
 Another Puzzle: unknown
 Another_Geo_Rock: unknown
+Ansem's Retort: unknown
 Ascending_Dark: unknown
 Bang on!: filler
 Beaming!: filler
 Beetle_Claw: unknown
 Bigger Sword: unknown
+Biggish Key: unknown
 Bold move!: filler
 Bomb Sack: unknown
 Bonk Badge: unknown
@@ -120,6 +124,7 @@ Champ!: filler
 Chef's kiss!: filler
 Clean win!: filler
 Commence mint: unknown
+Common Candy: unknown
 Counterfeit Pon: unknown
 Counterfeit Rupee: unknown
 Crisp!: filler
@@ -133,8 +138,10 @@ Deluxe!: filler
 Depravity Suit: unknown
 Dime Piece: unknown
 Dreamy!: filler
+Energy Container: unknown
 Epic!: filler
 Fantastic!: filler
+Fastness: unknown
 Feather Bodge: unknown
 Feeling of Dissatisfaction: unknown
 Finally Form: unknown
@@ -155,6 +162,7 @@ Gold69: unknown
 Good job!: filler
 Gorgeous!: filler
 Gravitational Suit: unknown
+Gravity Armor: unknown
 Gravity Soot: unknown
 Great work!: filler
 Grime Piece: unknown
@@ -189,6 +197,7 @@ Ledge Grub: unknown
 Ledge Snab: unknown
 Legend stuff!: filler
 Legendary!: filler
+Let her: unknown
 Look at you!: filler
 Love it!: filler
 Lucky Embalm: unknown
@@ -199,6 +208,9 @@ Masterful!: filler
 Metro Ticket - Bellow: unknown
 Mice Rod: unknown
 Monarch_Dings: unknown
+Monark_Wings: unknown
+Monoko: unknown
+Monomono: unknown
 Monotonous: unknown
 Morph Sphere: unknown
 Mucky Emblem: unknown
@@ -222,16 +234,20 @@ Power Tar: unknown
 Power move!: filler
 Powerhouse!: filler
 Prime!: filler
+Processive Bow: unknown
 Progressional Bow: unknown
 Progressive Low: unknown
 Progressive Shove: unknown
 Proud of you!: filler
+Pummel Piece: unknown
 Purian: unknown
 Purple Boomerang: unknown
 Puzel Piece: unknown
+Puzzle Peace: unknown
 Puzzle Pice: unknown
 Puzzle Piece: progression
 Radiant!: filler
+Regressive Blizzard: unknown
 Regressive Bow: unknown
 Regressive Dots: unknown
 Regressive Fire: unknown
@@ -256,10 +272,14 @@ Shaman_Rock: unknown
 Sharp thinking!: filler
 Ship Ticket: unknown
 Ship: unknown
+Shipp: unknown
+Shortnail: unknown
 Showstopper!: filler
 Shrub: unknown
 Slick!: filler
 Slippers: unknown
+Slow_Slash: unknown
+Smallish Key: unknown
 Smooth!: filler
 Snappy!: filler
 So cool!: filler
@@ -313,6 +333,7 @@ You did it!: filler
 You rock!: filler
 You shine!: filler
 Yum!: filler
+Zeldas Sleepy Song: unknown
 Zesty!: filler
 Zing!: filler
 regressive-automation: unknown
