@@ -829,7 +829,7 @@ Dreamin Chuchu [EXEXTREME]: progression
 Dreamin Chuchu [EXTREME]: progression
 Dreamin Chuchu [HARD]: progression
 Dreamin Chuchu [NORMAL]: progression
-Dreamin Chuchu: unknown
+Dreamin Chuchu: progression
 Dreaming Leaf [EASY]: progression
 Dreaming Leaf [EXEXTREME]: progression
 Dreaming Leaf [EXTREME]: progression
@@ -3194,6 +3194,7 @@ Time Limit [EXEXTREME]: progression
 Time Limit [EXTREME]: progression
 Time Limit [HARD]: progression
 Time Limit [NORMAL]: progression
+Time Limit: progression
 Time Machine [EASY]: progression
 Time Machine [EXEXTREME]: progression
 Time Machine [EXTREME]: progression
