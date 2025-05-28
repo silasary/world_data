@@ -100,21 +100,26 @@ Amazeballs!: filler
 Another Berry: unknown
 Another Door: unknown
 Another Puzzle: unknown
+Another Set of Panels: unknown
 Another_Geo_Rock: unknown
 Ansem's Retort: unknown
 Ascending_Dark: unknown
 Bang on!: filler
 Beaming!: filler
 Beetle_Claw: unknown
+Better: unknown
 Bigger Sword: unknown
 Biggish Key: unknown
+Blanche Badge: unknown
 Bold move!: filler
 Bomb Sack: unknown
 Bonk Badge: unknown
 Boom!: filler
 Boss move!: filler
+Boss_Essence-Zero: unknown
 Bottle with Green Milk: unknown
 Bravo!: filler
+Bright Arrows: unknown
 Bus_Pass: unknown
 Butt Activation: unknown
 Button Activator: unknown
@@ -123,6 +128,7 @@ Canoo: unknown
 Champ!: filler
 Chef's kiss!: filler
 Clean win!: filler
+Clippers: unknown
 Commence mint: unknown
 Common Candy: unknown
 Counterfeit Pon: unknown
@@ -138,19 +144,25 @@ Deluxe!: filler
 Depravity Suit: unknown
 Dime Piece: unknown
 Dreamy!: filler
+Dweamshield: unknown
 Energy Container: unknown
 Epic!: filler
 Fantastic!: filler
 Fastness: unknown
+Feather Binge: unknown
 Feather Bodge: unknown
 Feeling of Dissatisfaction: unknown
+Final Fork: unknown
 Finally Form: unknown
 Fire Beam: unknown
+Fire Pod: unknown
 Fire Red: unknown
 Fire!: filler
 Flash Badge: unknown
 Flawless!: filler
 Flipper Floppers: unknown
+Floppers: unknown
+Floter: unknown
 Fly_Lantern: unknown
 Generation Error: unknown
 Gleaming!: filler
@@ -167,19 +179,29 @@ Gravity Soot: unknown
 Great work!: filler
 Grime Piece: unknown
 Grimmchild3: unknown
+Groob: unknown
 Grue: unknown
+HM03 Serb: unknown
 HM03 Smurf: unknown
+HM03 Turf: unknown
 Hate_Key: unknown
+Heart Maintainer: unknown
 Heck yes!: filler
+Hedge Grab: unknown
 High five!: filler
 Hole Fragment: unknown
 Hookbit: unknown
+Hookshore: unknown
+Hookshort: unknown
+Horkshot: unknown
+Horse Song: unknown
 Hyped!: filler
 Ice Cod: unknown
 Ice Roe: unknown
 Iconic!: filler
 Impressive!: filler
 Intact Page: unknown
+Invalid YAML: unknown
 Jack_Fragment: unknown
 Joyful!: filler
 Jumping Boots: unknown
@@ -191,20 +213,25 @@ King stuff!: filler
 Kitties 01-99: unknown
 Large Grab: unknown
 Larian: unknown
+Lather: unknown
 Latter: unknown
+Lava Key: unknown
 Leather Badge: unknown
 Ledge Grub: unknown
 Ledge Snab: unknown
 Legend stuff!: filler
 Legendary!: filler
 Let her: unknown
+Lightness Crystal: unknown
 Look at you!: filler
 Love it!: filler
 Lucky Embalm: unknown
+Lurian: unknown
 Lush!: filler
 Maestro Ticket - Yellow: unknown
 Magic!: filler
 Masterful!: filler
+Meter Ticket - Yellow: unknown
 Metro Ticket - Bellow: unknown
 Mice Rod: unknown
 Monarch_Dings: unknown
@@ -212,6 +239,7 @@ Monark_Wings: unknown
 Monoko: unknown
 Monomono: unknown
 Monotonous: unknown
+Morgue Ball: unknown
 Morph Sphere: unknown
 Mucky Emblem: unknown
 Nailed it!: filler
@@ -221,6 +249,7 @@ Nifty!: filler
 Niiice!: filler
 No cap!: filler
 No flaws!: filler
+Ocarina Flute: unknown
 On fire!: filler
 Output ZIP: unknown
 Patch File: unknown
@@ -229,6 +258,7 @@ Perfection!: filler
 Pervasive Bow: unknown
 Poison Rod: unknown
 Pokey Ball: unknown
+Possessive Glove: unknown
 Power Stair: unknown
 Power Tar: unknown
 Power move!: filler
@@ -236,6 +266,7 @@ Powerhouse!: filler
 Prime!: filler
 Processive Bow: unknown
 Progressional Bow: unknown
+Progressive Grave: unknown
 Progressive Low: unknown
 Progressive Shove: unknown
 Proud of you!: filler
@@ -249,10 +280,12 @@ Puzzle Piece: progression
 Radiant!: filler
 Regressive Blizzard: unknown
 Regressive Bow: unknown
+Regressive Cure: unknown
 Regressive Dots: unknown
 Regressive Fire: unknown
 Regressive Glove: unknown
 Regressive Hookshot: unknown
+Regressive Stars: unknown
 Regressive Sword: unknown
 Regressive Symmetry: unknown
 Regressive Thunder: unknown
@@ -287,14 +320,18 @@ So proud!: filler
 Solid!: filler
 Song of Fire: unknown
 Song of Forest: unknown
+Song of Light: unknown
+Song of Shadow: unknown
 Song of Water: unknown
 Speed Boost-er: unknown
 Speling Misstakes: unknown
 Splendid!: filler
 Squawks: filler
 Steel Boots: unknown
+Strength Badge: unknown
 Style points!: filler
 Sun Pearl: unknown
+Suns Tune: unknown
 Super clean!: filler
 Superstar!: filler
 Surf Badge: unknown
@@ -306,16 +343,20 @@ Thrilling!: filler
 Time Fleece: unknown
 Time Slice: unknown
 Tire Rod: unknown
+Toll Fragment: unknown
 Too good!: filler
 Top tier!: filler
 Torque Ball: unknown
 Tune of Storms: unknown
 Tune of Time: unknown
 Ultra win!: filler
+Unicorn Boots: unknown
 Unreal!: filler
 Varia Armor: unknown
 Vibes!: filler
 Vivid!: filler
+Wand of Somaria: unknown
+Water Arrows: unknown
 Way to go!: filler
 Well done!: filler
 Well played!: filler
@@ -336,8 +377,10 @@ Yum!: filler
 Zeldas Sleepy Song: unknown
 Zesty!: filler
 Zing!: filler
+regressive-advanced-material-processing: unknown
 regressive-automation: unknown
 regressive-logistics: unknown
+regressive-processing: unknown
 regressive-science-pack: unknown
 regressive-train-network: unknown
 regressive-vehicle: unknown
