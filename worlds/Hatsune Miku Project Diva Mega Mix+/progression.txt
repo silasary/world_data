@@ -897,7 +897,7 @@ Envy Cat Walk [EXEXTREME]: progression
 Envy Cat Walk [EXTREME]: progression
 Envy Cat Walk [HARD]: progression
 Envy Cat Walk [NORMAL]: progression
-Envy Cat Walk: unknown
+Envy Cat Walk: progression
 Eon Ticket [EXTREME]: progression
 Eon Ticket [HARD]: progression
 Equation+** [EASY]: progression
@@ -1441,6 +1441,7 @@ Iroha Uta [EXEXTREME]: progression
 Iroha Uta [EXTREME]: progression
 Iroha Uta [HARD]: progression
 Iroha Uta [NORMAL]: progression
+Iroha Uta: progression
 Iron Irony [EXTREME]: progression
 Is There A Life In There? [EXTREME]: progression
 Is There A Life In There? [HARD]: progression
@@ -2210,7 +2211,7 @@ One-Sided Love Samba [EXEXTREME]: progression
 One-Sided Love Samba [EXTREME]: progression
 One-Sided Love Samba [HARD]: progression
 One-Sided Love Samba [NORMAL]: progression
-One-Sided Love Samba: unknown
+One-Sided Love Samba: progression
 Oni KYOKAN [EXTREME]: progression
 Oni KYOKAN [HARD]: progression
 Onomapet [EXEXTREME]: progression
@@ -2500,7 +2501,7 @@ Requiem for the Phantasma [EXEXTREME]: progression
 Requiem for the Phantasma [EXTREME]: progression
 Requiem for the Phantasma [HARD]: progression
 Requiem for the Phantasma [NORMAL]: progression
-Requiem for the Phantasma: unknown
+Requiem for the Phantasma: progression
 Reset Feat. KAFU [EXTREME]: progression
 Reset Syndrome Feat. COKO [EXTREME]: progression
 Reset Syndrome Feat. COKO [HARD]: progression
@@ -3257,6 +3258,7 @@ Travel to The Other Side of The Moon [EXEXTREME]: progression
 Travel to The Other Side of The Moon [EXTREME]: progression
 Travel to The Other Side of The Moon [HARD]: progression
 Travel to The Other Side of The Moon [NORMAL]: progression
+Travel to The Other Side of The Moon: progression
 Tren Al Sur [EXTREME]: progression
 Tricolore Airline [EASY]: progression
 Tricolore Airline [EXEXTREME]: progression
@@ -3577,7 +3579,7 @@ break;down [EXEXTREME]: progression
 break;down [EXTREME]: progression
 break;down [HARD]: progression
 break;down [NORMAL]: progression
-break;down: unknown
+break;down: progression
 celluloid [EXTREME]: progression
 celluloid [HARD]: progression
 crossing field [EXTREME]: progression
