@@ -116,6 +116,7 @@ ART: Beam Barrage: unknown
 ART: Burning Slash: unknown
 ART: Clarity Ray: unknown
 ART: Cool Off: unknown
+ART: Defensive Stance: unknown
 ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
 ART: Enhanced Stand: unknown
@@ -130,6 +131,7 @@ ART: Geolibrium: unknown
 ART: Hair Trigger: unknown
 ART: Incendiary Edge: unknown
 ART: Infuriate: unknown
+ART: Jetstream: unknown
 ART: Killing Machine: unknown
 ART: Medic Free: unknown
 ART: Missile Barrel: unknown
@@ -145,6 +147,7 @@ ART: Screamer: unknown
 ART: Sniper Barrel: unknown
 ART: Starfall Blossom: unknown
 ART: Starlight Kick: unknown
+ART: Supershield: unknown
 ART: Takedown Shot: unknown
 ART: Titan Recharge: unknown
 ART: True Stream Edge: unknown
@@ -152,6 +155,7 @@ ART: Upper Hand: unknown
 ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
+AUG: Arts: Gain TP VIII: unknown
 AUG: Arts: Gain TP X: unknown
 AUG: Arts: Gain TP XIV: unknown
 AUG: Aura Surge XVI: unknown
@@ -341,6 +345,7 @@ SKAUG: Custom.WP-SPEED XIII: unknown
 SKAUG: CutTime.DEBUFF II: unknown
 SKAUG: CutTime.DEBUFF VI: unknown
 SKAUG: Draw.OPENING-DMG VIII: unknown
+SKAUG: Draw.OPENING-DMG X: unknown
 SKAUG: Draw.OPENING-DMG XII: unknown
 SKAUG: ExTime.CRIT-POW II: unknown
 SKAUG: Jamming VII: unknown
@@ -348,6 +353,7 @@ SKAUG: Jamming XII: unknown
 SKAUG: M-Auto.ETHER-DOWN VI: unknown
 SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
+SKAUG: M-Auto.FATIGUE XVIII: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
 SKAUG: M-Auto.SHOCK X: unknown
@@ -419,6 +425,7 @@ SKL: Dismantler: useful
 SKL: Double Reflect: unknown
 SKL: Electric Flesh: unknown
 SKL: Ether Guard: unknown
+SKL: Fast Forward: unknown
 SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
@@ -438,6 +445,7 @@ SKL: Synchrony: unknown
 SKL: TP Overdrive: unknown
 SKL: Tactical Analyst: unknown
 SKL: Theroid Slayer: unknown
+SKL: Third Eye: unknown
 SKL: Topple Topper: unknown
 SKL: Trauma Tension: unknown
 SKL: Unpleasant Dream: unknown
@@ -545,6 +553,7 @@ WPN: Advanced Cermet Parma II: unknown
 WPN: Advanced Chrome Gladiis: unknown
 WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Chrome Pugio: unknown
+WPN: Advanced Chromoly Shield: unknown
 WPN: Advanced Destroyer Bliss: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Grando II: unknown
@@ -583,6 +592,7 @@ WPN: Destroyer Assailer_1: unknown
 WPN: Destroyer Bliss_2: unknown
 WPN: Destroyer Dyads_2: unknown
 WPN: Destroyer Lastyr III_3: unknown
+WPN: Destroyer Radius II_1: unknown
 WPN: Destroyer Raygun_3: unknown
 WPN: Devastator Raidrifle_2: unknown
 WPN: Devastator Sidearm_3: unknown
