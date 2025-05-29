@@ -1,5 +1,6 @@
 1-2 Key: unknown
 1-5 Key: unknown
+1-7 Key: unknown
 2-1 Key: unknown
 2-2 Key: unknown
 2-5 Key: unknown
@@ -10,6 +11,7 @@
 4-9 Key: unknown
 5-1 Key: unknown
 5-3 Key: unknown
+5-7 Key: unknown
 6-1 Key: unknown
 6-5 Key: unknown
 6-8 Key: unknown
@@ -23,6 +25,7 @@
 8-3 Key: unknown
 Acid Bubble: useful
 Chapter 1 Encore 2 Key: unknown
+Chapter 1 Encore 3 Key: unknown
 Chapter 2 Encore 1 Key: unknown
 Chapter 2 Encore 2 Key: unknown
 Chapter 4 Encore 3 Key: unknown
@@ -32,6 +35,7 @@ Chapter 6 Finale Key: unknown
 Chapter 7 Encore 1 Key: unknown
 Chapter 7 Finale Key: unknown
 Chapter 8 Encore 3 Key: unknown
+Disc: unknown
 Forceball: unknown
 Frog: unknown
 Gem: filler
