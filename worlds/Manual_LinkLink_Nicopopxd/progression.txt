@@ -5,6 +5,7 @@ Bottle: progression
 Bow: progression
 Cape: progression
 Charged dash or jump: progression
+Climb: progression
 Dive: progression
 Energy Container: progression
 Feather: progression
