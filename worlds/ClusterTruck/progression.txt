@@ -9,6 +9,7 @@
 3-3: unknown
 3-5: unknown
 3-6: progression
+3-8: unknown
 4-10: unknown
 4-3: unknown
 4-4: progression
@@ -16,6 +17,7 @@
 4-8: unknown
 4-9: progression
 5-4: progression
+5-6: unknown
 5-8: progression
 6-2: unknown
 6-6: unknown
@@ -32,3 +34,4 @@
 Air Dash: unknown
 Disrespected Blink: unknown
 Jetpack: useful
+Trucker Flip: unknown
