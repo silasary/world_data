@@ -2,10 +2,12 @@
 1-5: unknown
 1-7: unknown
 1-8: unknown
+2-10: unknown
 2-1: unknown
 2-3: unknown
 2-5: progression
 2-8: unknown
+3-1: unknown
 3-3: unknown
 3-5: unknown
 3-6: progression
@@ -13,9 +15,12 @@
 4-10: unknown
 4-3: unknown
 4-4: progression
+4-5: unknown
 4-7: progression
 4-8: unknown
 4-9: progression
+5-1: unknown
+5-2: unknown
 5-4: progression
 5-6: unknown
 5-8: progression
@@ -34,4 +39,6 @@
 Air Dash: unknown
 Disrespected Blink: unknown
 Jetpack: useful
+Portable Truck: unknown
+Supertruck: unknown
 Trucker Flip: unknown
