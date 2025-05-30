@@ -19,7 +19,7 @@
 (Database) Ancient Weapon Console: useful
 (Database) Anomalous Root Node: filler
 (Database) Apeman Surveillance Footage: unknown
-(Database) Camp Scroll: unknown
+(Database) Camp Scroll: filler
 (Database) Cave Stone Inscription: useful
 (Database) Coffin Inscription: filler
 (Database) Council Digital Signage: progression
@@ -33,7 +33,7 @@
 (Database) Dusk Guardian Recording Device 5: useful
 (Database) Dusk Guardian Recording Device 6: filler
 (Database) Empyrean Bulletin Board: unknown
-(Database) Evacuation Notice For Miners: unknown
+(Database) Evacuation Notice For Miners: filler
 (Database) Farmland Markings: filler
 (Database) Galactic Dock Sign: filler
 (Database) Guard Production Station: unknown
@@ -103,7 +103,7 @@ Focus Jade: useful
 Gene Eradicator: unknown
 Greater Tao Fruit: useful
 Grotto of Scriptures Chip: useful
-Harness Force Jade: unknown
+Harness Force Jade: useful
 Hedgehog Jade: useful
 Herb Catalyst: useful
 Homing Darts: progression
@@ -130,7 +130,7 @@ Seal of Ji: progression
 Seal of Jiequan: unknown
 Seal of Kuafu: unknown
 Seal of Lady Ethereal: unknown
-Seal of Nuwa: unknown
+Seal of Nuwa: mcguffin
 Seal of Yanlao: mcguffin
 Soul Reaper Jade: useful
 Soul-Severing Blade: useful
@@ -141,7 +141,7 @@ Swift Blade Jade: unknown
 Swift Descent Jade: useful
 Tai-Chi Kick: progression
 Tao Fruit: useful
-Thunderburst Bomb: unknown
+Thunderburst Bomb: progression
 Tianhuo Serum: progression
 Transmutation Zone Chip: unknown
 Twin Tao Fruit: useful
