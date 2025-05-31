@@ -1,9 +1,11 @@
 Equipment - Acrobat Shoes: unknown
 Equipment - Aggro Band: unknown
 Equipment - Autumns Oath: unknown
+Equipment - Awake Ring: unknown
 Equipment - Beads of Defense: unknown
 Equipment - Bracer: unknown
 Equipment - Burglars Glove: unknown
+Equipment - Defense Shifter: unknown
 Equipment - Dodge Charm: unknown
 Equipment - Earring: unknown
 Equipment - Fairys Ring: unknown
@@ -117,6 +119,7 @@ Item - Fenix Syrup Pouch: unknown
 Item - Fenix Syrup: unknown
 Item - Ferry Pass: unknown
 Item - Flimsy Rod: unknown
+Item - Fly Lure: unknown
 Item - Flyers Crag Map: unknown
 Item - Flyers Lookout Map: unknown
 Item - Foliage Key: unknown
@@ -145,6 +148,7 @@ Item - Lost Penguin: unknown
 Item - Luxury Key: unknown
 Item - Mars Stone: unknown
 Item - Mercury Shrine Map: unknown
+Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
 Item - Milk: unknown
 Item - Nans Cocoa: unknown
@@ -152,6 +156,7 @@ Item - Nans Secret Recipe: unknown
 Item - Nans Stew: unknown
 Item - Neptune Shrine Map: unknown
 Item - Neptune Stone: unknown
+Item - New World Stone: unknown
 Item - North Lookout Token: unknown
 Item - Northern Cave Map: unknown
 Item - Northern Stretch Map: unknown
@@ -182,6 +187,7 @@ Item - Rampart Key: unknown
 Item - Red Door Key: unknown
 Item - River Cats Ego Map: unknown
 Item - Rolling Quintar Fields Map: unknown
+Item - Room 1 Key: unknown
 Item - Rotten Salmon: unknown
 Item - Salmon Bay Map: unknown
 Item - Salmon Pass Map: unknown
@@ -226,6 +232,7 @@ Item - Trial Caves Map: unknown
 Item - Triton Stone: unknown
 Item - Underpass Map: unknown
 Item - Undersea Crab: unknown
+Item - Vermillion Book: unknown
 Item - Viridian Book: unknown
 Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
@@ -236,6 +243,8 @@ Item - Zether Pouch: unknown
 Item - Zether: unknown
 Job - Aegis: unknown
 Job - Assassin: unknown
+Job - Beastmaster: unknown
+Job - Beatsmith: unknown
 Job - Chemist: unknown
 Job - Cleric: unknown
 Job - Dervish: unknown
@@ -274,12 +283,14 @@ Scholar - Regenerate: unknown
 Scholar - Reverse Polarity: unknown
 Scholar - Roost: unknown
 Scholar - Sleep Aura: unknown
+Scholar - Sun Bath: unknown
 Scholar - Whirlwind: unknown
 Summon - Coyote: unknown
 Summon - Guaba: unknown
 Summon - Ioske: unknown
 Summon - Juses: unknown
 Summon - Niltsi: unknown
+Summon - Pah: unknown
 Summon - Pamoa: unknown
 Summon - Shaku: unknown
 Summon - Tira: unknown
