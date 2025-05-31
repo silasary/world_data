@@ -221,6 +221,7 @@ Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: unknown
 Bundle: Packaged Fuel: filler
 Bundle: Packaged Heavy Oil Residue: unknown
+Bundle: Packaged Ionized Fuel: unknown
 Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
 Bundle: Packaged Nitrogen Gas: filler
