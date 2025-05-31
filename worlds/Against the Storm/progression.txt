@@ -1,4 +1,5 @@
 2 Starting Villagers: unknown
+20 Starting Stone: unknown
 25 Starting Clay: unknown
 Ale: unknown
 Algae: unknown
@@ -13,6 +14,7 @@ Boots: unknown
 Brewery: unknown
 Bricks: unknown
 Brickyard: progression
+Butcher: unknown
 Carpenter: unknown
 Cellar: unknown
 Clay: unknown
