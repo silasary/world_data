@@ -58,6 +58,8 @@ FormatFireCup: unknown
 FormatFirstEditionVintage: unknown
 FormatFoil: unknown
 FormatFullArtBorder: unknown
+FormatGoldBorder: unknown
+FormatPauper: unknown
 FormatSilverBorder: unknown
 FormatWaterCup: unknown
 FormatWindCup: unknown
