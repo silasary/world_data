@@ -13,6 +13,7 @@ HP_UP: unknown
 Heavy_Ammo: filler
 Incendiary_Essence: useful
 MP_UP: useful
+Mayas_Trinket: unknown
 Powdered_Nightshade: filler
 Rocket_Launcher: filler
 Ruby_Slippers: filler
