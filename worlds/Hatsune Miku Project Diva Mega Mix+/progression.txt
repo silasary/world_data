@@ -364,6 +364,7 @@ Betty The Liar [EXEXTREME]: progression
 Betty The Liar [EXTREME]: progression
 Betty The Liar [HARD]: progression
 Betty The Liar [NORMAL]: progression
+Betty The Liar: unknown
 Beware of the Miku Miku Germs [EASY]: progression
 Beware of the Miku Miku Germs [EXEXTREME]: progression
 Beware of the Miku Miku Germs [EXTREME]: progression
@@ -2159,6 +2160,7 @@ Now Choose [EXEXTREME]: progression
 Now Choose [EXTREME]: progression
 Now Choose [HARD]: progression
 Now Choose [NORMAL]: progression
+Now Choose: unknown
 Nyan-Spoken Understanding [EXTREME]: progression
 Nyan-Spoken Understanding [HARD]: progression
 Nyanyanyanyanyanyanya! [EASY]: progression
