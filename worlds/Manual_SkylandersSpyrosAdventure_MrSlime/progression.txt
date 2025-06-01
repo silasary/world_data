@@ -2,6 +2,7 @@ Bash's Soul Ability: unknown
 Boomer: Clobber Troll: unknown
 Boomer: Demolition Troll: unknown
 Boomer: progression
+Camo's Soul Ability: useful
 Camo: Melon Master: unknown
 Camo: progression
 Chop Chop's Soul Ability: useful
@@ -19,6 +20,7 @@ Drobot's Soul Ability: unknown
 Drobot: Clockwork Dragon: unknown
 Drobot: Master Blaster: useful
 Drobot: progression
+Eruptor's Soul Ability: useful
 Eruptor: Magmantor: unknown
 Eruptor: progression
 Flameslinger: Pyromancer: useful
@@ -53,10 +55,12 @@ Spyro: Blitz Spyro: useful
 Spyro: Sheep Burner Spyro: unknown
 Spyro: progression
 Stealth Elf's Soul Ability: useful
+Stealth Elf: progression
 Stump Smash: Nut Crafter: unknown
 Stump Smash: Smash 'n Bash: useful
 Stump Smash: progression
 Sunburn: progression
+Terrafin: Brawler: useful
 Trigger Happy's Soul Ability: useful
 Trigger Happy: unknown
 Voodood's Soul Ability: useful
