@@ -1,5 +1,5 @@
 Assault Rifle Ammo: useful
-Battery Pack: unknown
+Battery Pack: progression
 Battery: unknown
 Blue Jewel: unknown
 Bolt Cutters: useful
@@ -16,27 +16,27 @@ First Aid Spray: unknown
 Flame Rounds: useful
 Flash Grenade: unknown
 Fuse 1: unknown
-Fuse 2: unknown
+Fuse 2: progression
 Fuse 3: unknown
 Green Herb: useful
 Green Jewel: unknown
-Gunpowder: unknown
+Gunpowder: filler
 Hand Grenade: useful
 Handgun Ammo: useful
 High-Grade Gunpowder: unknown
-Hip Pouch: unknown
-ID Card: unknown
+Hip Pouch: useful
+ID Card: progression
 Kendo Gate Key: unknown
 Lock Pick: unknown
-Locker Room Key: unknown
+Locker Room Key: progression
 M3 Shotgun: unknown
 MAG Ammo: unknown
 MAG: unknown
 MGL Grenade Launcher: unknown
-Mine Rounds: unknown
+Mine Rounds: filler
 Moderator - G19: unknown
 Override Key: unknown
-Red Herb: unknown
+Red Herb: filler
 Red Jewel: unknown
 Safety Deposit Key: unknown
 Scope - Assault Rifle: unknown
@@ -46,4 +46,4 @@ Supply Case - Flame Rounds: unknown
 Supply Case - Shotgun Shells: unknown
 Tactical Grip - Assault Rifle: unknown
 Tactical Stock - M3: unknown
-Tape Player: unknown
+Tape Player: useful
