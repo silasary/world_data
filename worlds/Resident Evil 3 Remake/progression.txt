@@ -3,7 +3,7 @@ Battery Pack: progression
 Battery: unknown
 Blue Jewel: unknown
 Bolt Cutters: useful
-Culture Sample: unknown
+Culture Sample: progression
 Dot Sight - G19: unknown
 Electronic Gadget: unknown
 Explosive A: unknown
@@ -18,13 +18,13 @@ Flash Grenade: unknown
 Fuse 1: unknown
 Fuse 2: progression
 Fuse 3: unknown
-G18: unknown
+G18: useful
 Green Herb: useful
 Green Jewel: unknown
 Gunpowder: filler
 Hand Grenade: useful
 Handgun Ammo: useful
-High-Grade Gunpowder: unknown
+High-Grade Gunpowder: filler
 Hip Pouch: useful
 ID Card: progression
 Kendo Gate Key: unknown
@@ -35,10 +35,10 @@ MAG Ammo: unknown
 MAG: unknown
 MGL Grenade Launcher: unknown
 Mine Rounds: filler
-Moderator - G19: unknown
+Moderator - G19: useful
 Override Key: unknown
 Red Herb: filler
-Red Jewel: unknown
+Red Jewel: useful
 Safety Deposit Key: unknown
 Scope - Assault Rifle: unknown
 Semi-Auto Barrel - M3: unknown
