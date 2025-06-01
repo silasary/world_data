@@ -6,28 +6,28 @@ $500: filler
 100 Guests: filler
 150 Guests: filler
 250 Guests: filler
-3d Cinema: useful
+3d Cinema: progression
 50 Guests: filler
 Air Powered Vertical Coaster: progression
 Allow High Construction: progression
 Allow Landscape Changes: progression
 Allow Marketing Campaigns: useful
 Allow Tree Removal: progression
-Alpine Roller Coaster: useful
+Alpine Roller Coaster: progression
 Bathroom Trap: trap
-Beauty Contest: useful
+Beauty Contest: filler
 Blizzard: filler
 Boat Hire: progression
 Bobsleigh Coaster: progression
-Car Ride: useful
-Cash Machine: filler
+Car Ride: progression
+Cash Machine: progression
 Chairlift: progression
-Circus: useful
-Classic Mini Roller Coaster: useful
+Circus: progression
+Classic Mini Roller Coaster: progression
 Classic Stand-up Roller Coaster: progression
 Classic Wooden Roller Coaster: progression
-Classic Wooden Twister Roller Coaster: useful
-Compact Inverted Coaster: useful
+Classic Wooden Twister Roller Coaster: progression
+Compact Inverted Coaster: progression
 Construction Rights Discount: useful
 Corkscrew Roller Coaster: progression
 Crooked House: progression
@@ -39,85 +39,85 @@ Easier Park Rating: useful
 Enterprise: progression
 Ferris Wheel: progression
 First Aid: progression
-Flying Roller Coaster (alt): unknown
 Flying Roller Coaster: progression
+Flying Roller Coaster (alt): progression
 Flying Saucers: progression
 Food Stall: progression
 Furry Convention Trap: trap
 Ghost Train: progression
-Giga Coaster: useful
+Giga Coaster: progression
 Go Karts: progression
 Haunted House: progression
-Heartline Twister Coaster: useful
+Heartline Twister Coaster: progression
 Hybrid Coaster: progression
 Hypercoaster: progression
 Hypertwister: progression
 Information Kiosk: progression
 Inverted Hairpin Coaster: progression
-Inverted Impulse Coaster: useful
-Inverted Roller Coaster: useful
+Inverted Impulse Coaster: progression
+Inverted Roller Coaster: progression
 Junior Roller Coaster: progression
-LIM Launched Roller Coaster: useful
+LIM Launched Roller Coaster: progression
 LSM Launched Roller Coaster: progression
 Land Discount: useful
 Launched Freefall: progression
-Lay Down Roller Coaster (alt): unknown
-Lay Down Roller Coaster: useful
-Lift: useful
+Lay Down Roller Coaster: progression
+Lay Down Roller Coaster (alt): progression
+Lift: progression
 Loan Shark Trap: trap
 Log Flume: progression
 Looping Roller Coaster: progression
 Magic Carpet: progression
 Maze: progression
-Merry Go Round: useful
+Merry Go Round: progression
 Mine Ride: progression
-Mine Train Coaster: useful
+Mine Train Coaster: progression
 Mini Golf: progression
 Mini Helicopters: progression
-Mini Roller Coaster: useful
-Mini Suspended Roller Coaster: useful
+Mini Roller Coaster: progression
+Mini Suspended Roller Coaster: progression
 Miniature Railway: progression
-Monorail Cycles: useful
-Monorail: useful
-Monster Trucks: useful
+Monorail: progression
+Monorail Cycles: progression
+Monster Trucks: progression
 Motion Simulator: progression
-Multidimension Roller Coaster (alt): unknown
 Multidimension Roller Coaster: progression
+Multidimension Roller Coaster (alt): progression
 Observation Tower: progression
 Progressive Speed: useful
 Rainstorm: filler
-Reverse Freefall Coaster: useful
-Reverser Roller Coaster: useful
-River Rafts: useful
+Reverse Freefall Coaster: progression
+Reverser Roller Coaster: progression
+River Rafts: progression
 River Rapids: progression
 Roto Drop: progression
 Shop: progression
-Side Friction Roller Coaster: useful
-Single Rail Roller Coaster: useful
+Side Friction Roller Coaster: progression
+Single Rail Roller Coaster: progression
 Skip: useful
 Snowstorm: filler
 Space Rings: progression
 Spam Trap: trap
 Spinning Wild Mouse: progression
-Spiral Roller Coaster: useful
-Spiral Slide: useful
-Splash Boats: useful
+Spiral Roller Coaster: progression
+Spiral Slide: progression
+Splash Boats: progression
 Stand Up Roller Coaster: progression
-Steel Wild Mouse: useful
+Steel Wild Mouse: progression
 Steeplechase: progression
-Submarine Ride: useful
-Suspended Monorail: useful
+Submarine Ride: progression
+Suspended Monorail: progression
 Suspended Swinging Coaster: progression
-Swinging Inverter Ship: useful
+Swinging Inverter Ship: progression
 Swinging Ship: progression
 Thunderstorm: filler
 Toilets: progression
-Top Spin: useful
-Twist: useful
+Top Spin: progression
+Twist: progression
 Twister Roller Coaster: progression
 Vertical Drop Roller Coaster: progression
-Virginia Reel: useful
+Virginia Reel: progression
 Water Coaster: progression
-Wooden Roller Coaster: useful
-Wooden Wild Mouse: useful
+Wooden Roller Coaster: progression
+Wooden Wild Mouse: progression
 scenery: useful
