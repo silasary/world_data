@@ -7,6 +7,7 @@ Atmospheric Concentrator: unknown
 Basic Assembler Module: unknown
 Battery Diode: unknown
 Battery: unknown
+Beam Tower: unknown
 Blast Mixer: unknown
 Bridge Conduit: unknown
 Bridge Conveyor: unknown
@@ -16,6 +17,7 @@ Chemical Combustion Chamber: unknown
 Coal Centrifuge: unknown
 Combustion Generator: progression
 Conduit: progression
+Constructor: unknown
 Container: unknown
 Core: Foundation: unknown
 Core: Nucleus: unknown
