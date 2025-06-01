@@ -2,6 +2,7 @@ Air Factory: progression
 Airblast Drill: unknown
 Arc: unknown
 Armored Conveyor: useful
+Armored Duct: unknown
 Atmospheric Concentrator: unknown
 Basic Assembler Module: unknown
 Battery Diode: unknown
@@ -144,6 +145,7 @@ Shock Mine: unknown
 Shockwave Tower: unknown
 Silicon Crucible: unknown
 Silicon Smelter: progression
+Slag Heater: unknown
 Smite: unknown
 Solar Panel: unknown
 Sorter: unknown
@@ -157,6 +159,7 @@ Surge Tower: unknown
 Surge Wall: unknown
 Swarmer: unknown
 Switch: filler
+Tank Assembler: unknown
 Thermal Generator: unknown
 Thorium Reactor: unknown
 Thorium Wall: unknown
