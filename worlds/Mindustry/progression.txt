@@ -48,6 +48,7 @@ Junction: unknown
 Kiln: unknown
 Lancer: unknown
 Large Battery: unknown
+Large Carbide Wall: unknown
 Large Copper Wall: filler
 Large Deconstructor: unknown
 Large Door: unknown
@@ -126,6 +127,8 @@ Reinforced Bridge Conduit: progression
 Reinforced Conduit: useful
 Reinforced Container: unknown
 Reinforced Liquid Junction: progression
+Reinforced Liquid Tank: unknown
+Reinforced Message: unknown
 Reinforced Surge Wall: useful
 Repair Point: unknown
 Repair Turret: unknown
