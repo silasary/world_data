@@ -61,6 +61,7 @@ FormatFullArtBorder: unknown
 FormatGoldBorder: unknown
 FormatPauper: unknown
 FormatSilverBorder: unknown
+FormatStandard: unknown
 FormatWaterCup: unknown
 FormatWindCup: unknown
 Giganite Statue (2): progression
