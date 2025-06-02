@@ -9,6 +9,7 @@ Energy_Refiner: unknown
 Erosive_Bullets: unknown
 Fae_Silver: useful
 Fae_of_Glass: unknown
+Fae_of_Hate: unknown
 Fae_of_Love: progression
 Fairy_Ointment: unknown
 Ferns_Trinket: unknown
@@ -38,6 +39,7 @@ Sprites_Breath: filler
 TP_UP: useful
 Tattered_Blindfold: filler
 Thorny_Rose: unknown
+Thorny_Wings: unknown
 Time_Manipulator: unknown
 Titania_Piece: mcguffin
 Titanias_Protection: unknown
