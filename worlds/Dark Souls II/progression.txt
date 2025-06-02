@@ -1,3 +1,4 @@
+Affinity: unknown
 Agape Ring: unknown
 Alluring Skull: unknown
 Amber Herb: unknown
@@ -7,10 +8,12 @@ Archdrake Shield: unknown
 Armor of Aurous: unknown
 Aromatic Ooze: unknown
 Ash Knuckle Ring: unknown
+Avelyn: unknown
 Bandit Armor: unknown
 Bandit Axe: unknown
 Bandit Boots: unknown
 Bandit Greataxe: unknown
+Bandit's Knife: unknown
 Bastard Sword: unknown
 Bastille Key: unknown
 Battle Axe: unknown
@@ -34,9 +37,11 @@ Bone Staff: unknown
 Bonfire Ascetic: unknown
 Bound Hand Axe: unknown
 Bound Wooden Shield: unknown
+Bracing Knuckle Ring+1: unknown
 Bracing Knuckle Ring+2: unknown
 Bracing Knuckle Ring: unknown
 Brigand Armor: unknown
+Brigand Gauntlets: unknown
 Brigand Hood: unknown
 Brigand Trousers: unknown
 Brightbug: unknown
@@ -46,6 +51,7 @@ Broken Straight Sword: unknown
 Broken Thief Sword: unknown
 Buckler: unknown
 Caestus: unknown
+Caitha's Chime: unknown
 Caressing Prayer: unknown
 Cast Light: unknown
 Chameleon: unknown
@@ -54,7 +60,9 @@ Charcoal Pine Resin: unknown
 Chloranthy Ring+1: unknown
 Chloranthy Ring: unknown
 Claws: unknown
+Claymore: unknown
 Cleric's Parma: unknown
+Cleric's Small Shield: unknown
 Club: unknown
 Combustion: unknown
 Corrosive Urn: unknown
@@ -89,6 +97,7 @@ Dragonrider Soul: unknown
 Dragonslayer's Crescent Axe: unknown
 Drakekeeper's Greataxe: unknown
 Drakekeeper's Greatshield: unknown
+Drangleic Gauntlets: unknown
 Drangleic Leggings: unknown
 Drangleic Mail: unknown
 Drangleic Shield: unknown
@@ -105,11 +114,13 @@ Fading Soul: unknown
 Faintstone: unknown
 Falchion: unknown
 Falconer Armor: unknown
+Falconer Boots: unknown
 Falconer Gloves: unknown
 Falconer Helm: unknown
 Fall Control: unknown
 Fang Key: unknown
 Faraam Armor: unknown
+Faraam Boots: unknown
 Faraam Gauntlets: unknown
 Faraam Helm: unknown
 Fire Arrow: unknown
@@ -118,12 +129,14 @@ Fire Seed: unknown
 Fire Tempest: unknown
 Fireball: unknown
 Firebomb: unknown
+Firedrake Stone: unknown
 Firestorm: unknown
 Flamberge: unknown
 Flame Butterfly: unknown
 Flame Quartz Ring: unknown
 Flash Sweat: unknown
 Flexile Sentry Soul: unknown
+Foot Soldier Shield: unknown
 Forgotten Key: unknown
 Gauntlets of Aurous: unknown
 Giant Warrior Club: unknown
@@ -137,11 +150,13 @@ Great Fireball: unknown
 Great Heal Excerpt: unknown
 Great Heal: unknown
 Great Heavy Soul Arrow: unknown
+Great Lightning Spear: unknown
 Great Magic Barrier: unknown
 Great Magic Weapon: unknown
 Great Soul Arrow: unknown
 Greataxe: unknown
 Green Blossom: unknown
+Guardian Dragon Soul: unknown
 Guidance: unknown
 Gyrm Axe: unknown
 Halberd: unknown
@@ -151,9 +166,12 @@ Hard Leather Boots: unknown
 Hard Leather Gauntlets: unknown
 Havel's Armor: unknown
 Havel's Greatshield: unknown
+Havel's Helm: unknown
+Havel's Leggings: unknown
 Hawk Ring: unknown
 Heal: unknown
 Heavy Bolt: unknown
+Heavy Boots: unknown
 Heavy Crossbow: unknown
 Heavy Soul Arrow: unknown
 Helix Halberd: unknown
@@ -165,14 +183,17 @@ Homeward Bone: unknown
 Homeward: unknown
 Homing Crystal Soulmass: unknown
 Homing Soul Arrow: unknown
+Homing Soulmass: unknown
 Homunculus Wooden Shield: unknown
 House Key: unknown
 Human Effigy: unknown
+Hunter's Blackbow: unknown
 Hunter's Hat: unknown
 Hush: unknown
 Immolation: unknown
 Infantry Armor: unknown
 Infantry Boots: unknown
+Infantry Gloves: unknown
 Infantry Helm: unknown
 Iron Arrow: unknown
 Iron Flesh: unknown
@@ -186,9 +207,12 @@ Key to King's Passage: unknown
 Key to the Embedded: unknown
 King's Armor: unknown
 King's Crown: unknown
+King's Gauntlets: unknown
 King's Leggings: unknown
 King's Ring: unknown
+Knight Armor: unknown
 Knight Gauntlets: unknown
+Knight Helm: unknown
 Knight Leggings: unknown
 Lacerating Knife: unknown
 Ladder Miniature: unknown
@@ -229,7 +253,9 @@ Magic Barrier: unknown
 Magic Bolt: unknown
 Magic Stone: unknown
 Mail Breaker: unknown
+Malformed Shell: unknown
 Manchettes of Judgment: unknown
+Manikin Mask: unknown
 Manslayer: unknown
 Master Lockstone: unknown
 Mastodon Greatsword: unknown
@@ -247,14 +273,17 @@ Old Leo Ring: unknown
 Old Radiant Lifegem: unknown
 Old Sun Ring: unknown
 Olenford's Staff: unknown
+Parrying Dagger: unknown
 Penal Handcuffs: unknown
 Penal Mask: unknown
 Penal Straightjacket: unknown
+Perseverance: unknown
 Petrified Dragon Bone: unknown
 Petrified Something: unknown
 Phoenix Parma: unknown
 Pickaxe: unknown
 Pike: unknown
+Poison Arrow: unknown
 Poison Mist: unknown
 Poison Moss: unknown
 Poison Stone: unknown
@@ -271,6 +300,7 @@ Radiant Lifegem: unknown
 Rapier: unknown
 Rebel's Greatshield: unknown
 Red Iron Twinblade: unknown
+Red Rust Scimitar: unknown
 Red Rust Shield: unknown
 Red Rust Sword: unknown
 Red Tearstone Ring: unknown
@@ -317,6 +347,7 @@ Small Leather Shield: unknown
 Small Smooth & Silky Stone: unknown
 Smelter Demon Armor: unknown
 Smelter Demon Gauntlets: unknown
+Smelter Demon Leggings: unknown
 Smelter Demon Soul: unknown
 Smooth & Silky Stone: unknown
 Soldier Key: unknown
@@ -348,6 +379,7 @@ Steel Gauntlets: unknown
 Steel Leggings: unknown
 Strong Magic Shield: unknown
 Sublime Bone Dust: unknown
+Sunlight Blade: unknown
 Tattered Cloth Manchettes: unknown
 Tattered Cloth Robe: unknown
 Thief Mask: unknown
