@@ -34,13 +34,13 @@ Ruby_Slippers: filler
 Rusted_Coin: unknown
 Short_Fuse: unknown
 Shotgun: useful
-Sniper: unknown
+Sniper: useful
 Sprites_Breath: filler
 TP_UP: useful
 Tattered_Blindfold: filler
-Thorny_Rose: unknown
+Thorny_Rose: useful
 Thorny_Wings: unknown
-Time_Manipulator: unknown
+Time_Manipulator: filler
 Titania_Piece: mcguffin
 Titanias_Protection: unknown
 Wing_Clipper: filler
