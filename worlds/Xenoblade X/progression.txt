@@ -8,6 +8,7 @@ AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
+AMR: Advanced Vivid Distancers: unknown
 AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
 AMR: Advanced Vivid Sights: unknown
@@ -74,6 +75,7 @@ AMR: Ultra Infinite Corpus: progression
 AMR: Ultra Infinite Sleeve L: filler
 AMR: Ultra Limited Tank Top (Gray): unknown
 AMR: Ultra Regal Brax R: unknown
+AMR: Ultra Regal Corpus: unknown
 AMR: Ultra Regal Distancers: unknown
 AMR: Ultra Regal Wrest L: unknown
 AMR: Valor Brax R_1: unknown
@@ -82,6 +84,7 @@ AMR: Valor Distancers_3: unknown
 AMR: Valor Guante L_1: unknown
 AMR: Valor Manus R_3: unknown
 AMR: Valor Mayx L_1: unknown
+AMR: Valor Quantlet L_1: unknown
 AMR: Valor Stabilizers_3: unknown
 AMR: Valor Tecta R_1: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
@@ -202,6 +205,7 @@ AUG: Insectoid Criticals Up XIX: unknown
 AUG: Insectoid Criticals Up XVII: unknown
 AUG: Insectoid Slayer XX: unknown
 AUG: Max GP Drive XV: unknown
+AUG: Max HP Drive V: unknown
 AUG: Mechanoid Criticals Up III: unknown
 AUG: Mechanoid Slayer VII: unknown
 AUG: Mechanoid Slayer XX: unknown
@@ -364,6 +368,7 @@ SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
 SKAUG: Overdrive.APPEND-HP XVIII: unknown
 SKAUG: Overdrive.EXTEND III: unknown
+SKAUG: Overdrive.EXTEND VI: unknown
 SKAUG: Overdrive.FRAME-HP IV: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
@@ -511,6 +516,7 @@ SKWPN: SRM-USP160SA Hexad-Partican: filler
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XR230GA T-Claw: unknown
+SKWPN: SRM-XR230ME S-Missile: unknown
 SKWPN: SRM-XR360LA A-Spear: unknown
 SKWPN: SRM-XR650SA Buster-Launcher: unknown
 SKWPN: SRM-XR743ME F-Wave: unknown
@@ -535,6 +541,7 @@ SKWPN: SSM-R260GG Voltstorm_1: unknown
 SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
+SKWPN: SSM-R420SA SHD-Ray_1: unknown
 SKWPN: SSM-R420SA SHD-Ray_3: unknown
 SKWPN: SSM-R430GG Antipulser_3: unknown
 SKWPN: SSM-R540SA Chaingun_2: unknown
@@ -647,8 +654,10 @@ WPN: Ultra Nebulan Pistolia: unknown
 WPN: Ultra Nebulan Saboteurs: unknown
 WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Dyads II_2: unknown
+WPN: Warrior Launchers_2: unknown
 WPN: Warrior Radius_3: unknown
 WPN: Worn Carbide Blades: unknown
+WPN: Worn Carbide Sword II: unknown
 WPN: Worn Carbide Thudclang: unknown
 WPN: Worn Cermet Spear: unknown
 WPN: Worn Chrome Knife II: unknown
