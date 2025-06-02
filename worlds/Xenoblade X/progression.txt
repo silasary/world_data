@@ -62,6 +62,7 @@ AMR: Reginal Legwear_2: unknown
 AMR: Reginal Quantlet L_2: unknown
 AMR: Reginal Tecta R_3: unknown
 AMR: Reginal Tuesta_1: unknown
+AMR: Reginal Ward R_1: unknown
 AMR: Survival Headset_3: unknown
 AMR: Tank Top (Pink Camo): filler
 AMR: Ultra Boundless Gauntlet R: unknown
@@ -184,6 +185,7 @@ AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
 AUG: Extend Fatigue X: unknown
 AUG: Extend Gravity Res Down XX: unknown
+AUG: Extend Overdrive XII: unknown
 AUG: Extend Slow Arts XVIII: unknown
 AUG: Extend Taunt VII: unknown
 AUG: Extend Taunt XII: unknown
@@ -386,6 +388,7 @@ SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: Slayer.MECHANOID IV: unknown
 SKAUG: Slayer.PISCINOID III: unknown
 SKAUG: Slayer.THEROID I: unknown
+SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
@@ -397,6 +400,7 @@ SKAUG: SpecUp.R-ACC VII: unknown
 SKAUG: SpecUp.R-ATK XII: unknown
 SKAUG: SpecUp.THERM-RES X: unknown
 SKAUG: SpecUp.THERM-RES XV: unknown
+SKAUG: TimeEx.BEAM-DOWN VI: unknown
 SKAUG: TimeEx.BEAM-DOWN XIX: unknown
 SKAUG: TimeEx.BLAZE III: unknown
 SKAUG: TimeEx.CONTROL XV: unknown
@@ -411,6 +415,7 @@ SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.BRIMSTONE-RES: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
 SKAUG: Weather.S-STORM-RES: unknown
+SKF: AS0450 Lailah ST: unknown
 SKF: Amdusias Hades: unknown
 SKF: Lailah Queen: unknown
 SKF: US0230 Urban ST: unknown
@@ -658,4 +663,5 @@ WPN: Worn Ophidian Crank: unknown
 WPN: Worn Ophidian Raygun: unknown
 WPN: Worn Pulverizing Lance: unknown
 WPN: Worn Soldier Launchers: unknown
+WPN: Worn Titanium Ralzes: unknown
 WPN: Worn Warrior Assault Rifle: unknown
