@@ -9,16 +9,22 @@ Extra turn: progression
 G: unknown
 H: unknown
 I: unknown
+K: unknown
+L: unknown
 N: unknown
 O: unknown
 P: progression
+R: unknown
 S: progression
 T: progression
 U: progression
 W: unknown
+X: unknown
 Y: unknown
 ×2L 0,0: unknown
 ×2L 0,14: useful
+×2L 0,8: unknown
+×2L 10,2: unknown
 ×2L 12,10: useful
 ×2L 12,4: useful
 ×2L 14,0: useful
@@ -30,7 +36,10 @@ Y: unknown
 ×2W 0,0: useful
 ×2W 0,14: unknown
 ×2W 12,10: useful
+×2W 13,1: unknown
+×2W 13,5: unknown
 ×2W 14,14: useful
+×2W 14,6: unknown
 ×2W 2,10: unknown
 ×2W 7,13: unknown
 ×2W 7,1: useful
@@ -48,6 +57,8 @@ Y: unknown
 ×3W 12,10: unknown
 ×3W 12,4: unknown
 ×3W 14,0: useful
+×3W 14,14: unknown
 ×3W 2,10: useful
 ×3W 2,4: unknown
 ×3W 7,1: unknown
+×3W 9,13: unknown
