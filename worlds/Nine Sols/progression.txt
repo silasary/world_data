@@ -28,7 +28,7 @@
 (Database) Dusk Guardian Headquarters: filler
 (Database) Dusk Guardian Recording Device 1: filler
 (Database) Dusk Guardian Recording Device 2: filler
-(Database) Dusk Guardian Recording Device 3: unknown
+(Database) Dusk Guardian Recording Device 3: filler
 (Database) Dusk Guardian Recording Device 4: filler
 (Database) Dusk Guardian Recording Device 5: useful
 (Database) Dusk Guardian Recording Device 6: filler
@@ -127,7 +127,7 @@ Rhizomatic Bomb: unknown
 Seal of Fuxi: progression
 Seal of Goumang: progression
 Seal of Ji: progression
-Seal of Jiequan: unknown
+Seal of Jiequan: mcguffin
 Seal of Kuafu: unknown
 Seal of Lady Ethereal: unknown
 Seal of Nuwa: mcguffin
