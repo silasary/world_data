@@ -1,3 +1,4 @@
+Progressive-Bosco-Gun: unknown
 Progressive-Bosco-Revive: useful
 Progressive-Carriable-Throwing: unknown
 Progressive-Carrying-Capacity: unknown
@@ -25,3 +26,4 @@ Progressive-Revive-Speed: unknown
 Progressive-Sprint-Speed: unknown
 Progressive-Vampirism: unknown
 Progressive-Zipline-Speed: unknown
+Resource-Mining-Strength: unknown
