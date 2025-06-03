@@ -8,6 +8,7 @@ Progressive-Flare-Count: unknown
 Progressive-Flare-Throwing: unknown
 Progressive-Gold-Mining: unknown
 Progressive-Grenades: unknown
+Progressive-Gun-Ammo: unknown
 Progressive-Hover-Boots: unknown
 Progressive-Iron-Will: unknown
 Progressive-Max-Health: unknown
@@ -22,4 +23,5 @@ Progressive-Resupply-Speed: unknown
 Progressive-Resupply-Start-Cost: unknown
 Progressive-Revive-Speed: unknown
 Progressive-Sprint-Speed: unknown
+Progressive-Vampirism: unknown
 Progressive-Zipline-Speed: unknown
