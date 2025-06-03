@@ -17,8 +17,10 @@ Progressive-Max-Shield-Regen: unknown
 Progressive-Melee-Cooldown: unknown
 Progressive-Melee-Damage: unknown
 Progressive-Melee-Range: useful
+Progressive-Melee-Special-Damage: unknown
 Progressive-Morkite-Mining: unknown
 Progressive-Movement-Speed: unknown
+Progressive-Poison-Resistance: unknown
 Progressive-RedSugar-Healing: unknown
 Progressive-Resupply-Speed: unknown
 Progressive-Resupply-Start-Cost: unknown
