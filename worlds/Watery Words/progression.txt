@@ -32,6 +32,7 @@ Y: unknown
 ×2L 14,14: unknown
 ×2L 2,10: useful
 ×2L 2,4: useful
+×2L 6,14: unknown
 ×2L 7,13: useful
 ×2L 7,1: useful
 ×2W 0,0: useful
@@ -42,6 +43,7 @@ Y: unknown
 ×2W 14,14: useful
 ×2W 14,6: unknown
 ×2W 2,10: unknown
+×2W 6,6: unknown
 ×2W 7,13: unknown
 ×2W 7,1: useful
 ×3L 0,0: unknown
