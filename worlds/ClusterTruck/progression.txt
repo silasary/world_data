@@ -37,7 +37,10 @@
 6-6: unknown
 6-7: unknown
 6-9: unknown
+7-10: unknown
+7-2: unknown
 7-4: unknown
+7-5: unknown
 7-6: progression
 7-7: unknown
 7-8: unknown
@@ -48,6 +51,7 @@
 9-2: progression
 9-4: progression
 9-7: progression
+9-8: unknown
 Air Dash: unknown
 Brake: unknown
 Disrespected Blink: unknown
