@@ -16,6 +16,7 @@ Bidoof's Wish': progression
 Bidoof's Wish: progression
 Big Apple: filler
 Biting Bass: mcguffin
+Blinker Seed: unknown
 Blizzard Island: progression
 Blowback Orb: filler
 Blue Gummi: unknown
@@ -31,6 +32,7 @@ Chatot Repellent: useful
 Chesto Berry: filler
 Chrono Veil: filler
 Cleanse Orb: unknown
+Clear Gummi: filler
 Concealed Ruins: progression
 Craggy Coast: progression
 Cresselia: unknown
@@ -60,23 +62,24 @@ Dojo Rock/Water Maze: progression
 Dragon Globe: useful
 Dragu-teki: unknown
 Drenched Bluff: progression
-Drought Orb: unknown
+Drought Orb: filler
 Dusk Forest: progression
 Dusk Globe: filler
 Eclipse Robe: filler
 Edify Robe: filler
 Eon Veil: filler
 Escape Orb: filler
-Evasion Orb: unknown
+Evasion Orb: filler
 Eyedrop Seed: unknown
 Fiery Drum: progression
 Fiery Globe: filler
-Fill-In Orb: unknown
+Fill-In Orb: filler
 Fire Veil: filler
 Flare Fang: filler
+Foe-Fear Orb: unknown
 Foe-Hold Orb: filler
 Foggy Forest: progression
-Forest Path: unknown
+Forest Path: progression
 Formation Control: useful
 Freeze Veil: filler
 Friend Bow: useful
@@ -89,10 +92,13 @@ Glimmer Harp: progression
 Glittery Box: filler
 Gold Gummi: unknown
 Golden Apple: unknown
+Golden Mask: filler
 Golden Seed: useful
 Grass Cornet: progression
 Grass Gummi: filler
+Green Gummi: filler
 Groudon: unknown
+Hail Orb: unknown
 Happy Outlook: progression
 Hard Box: filler
 Havoc Robe: filler
@@ -104,9 +110,11 @@ Here Comes Team Charm!: progression
 Hero Evolution: useful
 Hope Robe: filler
 Hot Spring: useful
+Hurl Orb: filler
 Ice Sash: filler
 Icy Flute: unknown
 Icy Globe: filler
+Identify Orb: unknown
 IgglyBuff SE: unknown
 Igglybuff the Prodigy: unknown
 In the Future of Darkness: progression
@@ -118,18 +126,20 @@ Joy Globe: filler
 Joy Seed: unknown
 Knockout Bell: progression
 Kyogre: useful
-Labyrinth Cave: unknown
+Labyrinth Cave: progression
 Lake Afar: progression
 Landslide Cave: progression
 Life Ring: filler
 Light Box: filler
 Link Box: filler
+Lob Orb: filler
 Longtoss Orb: filler
 Lost Wilderness: progression
 Luminous Orb: unknown
 Luminous Spring: progression
 Lunar Veil: filler
 Lush Prairie: progression
+Main Game Unlock: progression
 Manaphy: unknown
 Marine Cache: progression
 Marine Resort: progression
@@ -139,6 +149,7 @@ Mew: useful
 Midnight Forest: progression
 Miracle Chest: useful
 Miracle Sea: progression
+Mobile Orb: filler
 Mt. Avalanche: progression
 Mt. Bristle: progression
 Mt. Horn: progression
@@ -153,14 +164,16 @@ Nether Globe: filler
 Nether Veil: useful
 Nifty Box: filler
 Norma-ccordion: progression
-Northern Desert: unknown
+Northern Desert: progression
 Null Bagpipes: progression
 Oblivion Forest: useful
 Oran Berry: filler
 Oran Forest: progression
+Orange Gummi: unknown
 Palkia: unknown
 Petrify Orb: filler
 Phione: useful
+Pink Gummi: filler
 Poison Globe: filler
 Poké x1000: filler
 Poké x100: filler
@@ -168,6 +181,7 @@ Poké x1: filler
 Poké x200: filler
 Poké x5000: filler
 Poké x500: filler
+Pounce Orb: filler
 Power Globe: filler
 Pretty Box: filler
 Primal Dialga: useful
@@ -175,16 +189,22 @@ Progressive Sky Peak: progression
 Protein: filler
 Psyche Globe: filler
 Psychic Cello: progression
+Pure Seed: unknown
 Purify Veil: filler
+Quick Orb: unknown
+Quick Seed: unknown
 Quicksand Cave: progression
 Rainbow Veil: filler
 Rare Fossil: filler
 Rawst Berry: unknown
 Rayquaza: progression
+Rebound Orb: filler
 Recruit Evolution: useful
 Recruitment Sensor: filler
 Recruitment: progression
+Recycle Count +10: unknown
 Recycle Count +1: useful
+Recycle Count +20: useful
 Recycle Count +5: unknown
 Regice: useful
 Regigigas: progression
@@ -199,6 +219,7 @@ Rock Horn: mcguffin
 Rock Path: progression
 Rock Sash: filler
 Rocky Orb: filler
+Rollcall Orb: filler
 Royal Gummi: useful
 Seabed Veil: filler
 Sealed Ruin: progression
@@ -206,6 +227,7 @@ Searing Ring: filler
 Secret Rank: progression
 Secret Slab: useful
 Secret of the Waterfall: filler
+See-Trap Orb: filler
 Sentry Duty!: trap
 Serenity River: progression
 Shaymin Village: progression
@@ -228,7 +250,8 @@ Sky Stairway: progression
 SkyHigh Veil: filler
 Sleep Seed: filler
 Slow Orb: unknown
-Slumber Orb: unknown
+Slumber Orb: filler
+Snatch Orb: filler
 Soothe Globe: filler
 Southeastern Islands: progression
 Spacial Rift: progression
@@ -244,6 +267,7 @@ Stellar Symphony: unknown
 Stun Seed: filler
 Sunflora SE: progression
 Surrounded Sea: progression
+Switcher Orb: filler
 Team Charm SE: progression
 Team Name Trap: trap
 Temporal Tower: progression
@@ -259,13 +283,18 @@ Today's "Oh My Gosh": filler
 Touch Grass: trap
 Toxic Sax: mcguffin
 Transfer Orb: filler
+Trapbust Orb: unknown
 Trapper Orb: filler
+Trawl Orb: filler
 Treacherous Waters: progression
 Treeshroud Forest: progression
+Two-Edge Orb: unknown
 Uxie: useful
+Vanish Seed: filler
 Vile Seed: unknown
 Violent Seed: filler
 Volt Globe: filler
+Warp Orb: unknown
 Waterfall Cave: progression
 White Gummi: filler
 Wish Mantle: filler
@@ -273,6 +302,7 @@ Wonder Chest: filler
 Wonder Gummi: unknown
 World Abyss: progression
 X-Eye Seed: filler
+Yellow Gummi: filler
 Zero Isle Center: progression
 Zero Isle East: progression
 Zero Isle North: progression
