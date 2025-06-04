@@ -68,6 +68,7 @@ SpawnShopkeeper: unknown
 SpawnShovelChest: unknown
 SpawnStrawberry: unknown
 SpawnWhistleChest: unknown
+Strawberry: progression
 UnlockCallElevatorButtons: progression
 UnlockCastleToDarkCastleCannon: unknown
 UnlockCastleToShopCannon: unknown
