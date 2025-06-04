@@ -23,7 +23,7 @@ Boss_Geo-Gruz_Mother: filler
 Boss_Geo-Massive_Moss_Charger: filler
 Boss_Geo-Sanctum_Soul_Warrior: filler
 Boss_Geo-Vengefly_King: filler
-Charm_Notch: progression
+Charm_Notch: useful
 City_Crest: progression
 City_Storerooms_Stag: progression
 City_of_Tears_Map: filler
@@ -47,7 +47,7 @@ Double_Vessel_Fragment: useful
 Downslash: progression
 Dream_Gate: progression
 Dream_Nail: progression
-Dream_Wielder: progression
+Dream_Wielder: useful
 Dreamer: progression
 Dreamshield: progression
 Elegant_Key: progression
@@ -97,7 +97,7 @@ Greenpath_Stag: progression
 Grimmchild1: progression
 Grimmchild2: progression
 Grimmkin_Flame: progression
-Grub: progression
+Grub: mcguffin
 Grubberfly's_Elegy: useful
 Grubsong: useful
 Hallownest_Seal: useful
@@ -183,7 +183,7 @@ Queen_Fragment: progression
 Quick_Focus: useful
 Quick_Slash: useful
 Quill: filler
-Rancid_Egg: progression
+Rancid_Egg: mcguffin
 Resting_Grounds_Map: filler
 Resting_Grounds_Stag: progression
 Right_Crystal_Heart: progression
@@ -246,4 +246,4 @@ Whispering_Root-Queens_Gardens: useful
 Whispering_Root-Resting_Grounds: useful
 Whispering_Root-Spirits_Glade: useful
 Whispering_Root-Waterways: useful
-World_Sense: progression
+World_Sense: useful
