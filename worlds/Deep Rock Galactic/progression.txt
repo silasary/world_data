@@ -4,6 +4,7 @@ Progressive-Carriable-Throwing: unknown
 Progressive-Carrying-Capacity: unknown
 Progressive-Carrying-Speed: unknown
 Progressive-Deposit-Speed: unknown
+Progressive-Electric-Resistance: unknown
 Progressive-Fall-Resistance: unknown
 Progressive-Field-Medic: unknown
 Progressive-Flare-Count: unknown
