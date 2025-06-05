@@ -23,9 +23,10 @@ Drobot: Clockwork Dragon: unknown
 Drobot: Master Blaster: useful
 Drobot: progression
 Eruptor's Soul Ability: useful
-Eruptor: Magmantor: unknown
+Eruptor: Magmantor: useful
 Eruptor: progression
 Flameslinger: Pyromancer: useful
+Flameslinger: progression
 Ghost Roaster's Soul Ability: unknown
 Ghost Roaster: Fear Eater: useful
 Ghost Roaster: Skull Master: useful
@@ -36,6 +37,7 @@ Hex: unknown
 Ignitor: Soul of the Flame: useful
 Ignitor: unknown
 Lightning Rod: Typhoon Titan: useful
+Lightning Rod: progression
 Pirate Seas: unknown
 Prism Break: progression
 Progressive Air Skylander Upgrade: useful
@@ -47,7 +49,7 @@ Progressive Magic Skylander Upgrade: useful
 Progressive Tech Skylander Upgrade: useful
 Progressive Undead Skylander Upgrade: useful
 Progressive Water Skylander Upgrade: useful
-Progressive Winged Sapphires: unknown
+Progressive Winged Sapphires: useful
 Sheep: filler
 Slam Bam: Blizzard Brawler: useful
 Slam Bam: Glacier Yeti: unknown
