@@ -13,6 +13,7 @@ AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
 AMR: Advanced Vivid Sights: unknown
 AMR: Advanced Warrior's Vambrace R: unknown
+AMR: Bargain Browline Glasses: unknown
 AMR: Bargain Jeans: filler
 AMR: Busted Bodywear: unknown
 AMR: Combat Cassida_3: unknown
@@ -127,6 +128,7 @@ ART: Enhanced Stand: unknown
 ART: Essence Exchange: unknown
 ART: Ether Blast: unknown
 ART: Executioner: unknown
+ART: Fire Carnival: unknown
 ART: First Down: unknown
 ART: Flamehand: unknown
 ART: Full Specs: unknown
@@ -502,6 +504,7 @@ SKWPN: SKM-R350SA Cracker-BM_3: unknown
 SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
+SKWPN: SRM-R250ME S-Missile_2: unknown
 SKWPN: SRM-R260ME S-Missile_2: unknown
 SKWPN: SRM-R440ME Backbomb_1: filler
 SKWPN: SRM-R450SA Grenade_2: unknown
@@ -567,6 +570,7 @@ WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Chrome Pugio: unknown
 WPN: Advanced Chromoly Shield: unknown
 WPN: Advanced Destroyer Bliss: unknown
+WPN: Advanced Destroyer Grando: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Grando II: unknown
 WPN: Advanced Ophidian Retic: unknown
