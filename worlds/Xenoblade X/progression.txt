@@ -235,6 +235,7 @@ AUG: Ranged Accuracy Up XI: filler
 AUG: Ranged Accuracy Up XX: unknown
 AUG: Ranged Draw Surge VI: unknown
 AUG: Reflect Damage Up V: unknown
+AUG: Reflect Damage Up XX: unknown
 AUG: Reflect: Ether: unknown
 AUG: Resist Beam Res Down VI: unknown
 AUG: Resist Beam Res Down X: unknown
@@ -290,6 +291,7 @@ FRD: Doug: unknown
 FRD: Elma: unknown
 FRD: Frye: unknown
 FRD: Gwin: progression
+FRD: HB: unknown
 FRD: Irina: unknown
 FRD: L: unknown
 FRD: Lao: progression
@@ -447,6 +449,7 @@ SKL: Lifeline: unknown
 SKL: Long Shot: unknown
 SKL: Long Topple: unknown
 SKL: Mechanoid Slayer: unknown
+SKL: Mortal Enemy: unknown
 SKL: Phantom Counter: unknown
 SKL: Red Zone: unknown
 SKL: Secondary Accelerator: unknown
@@ -487,6 +490,7 @@ SKWPN: SHM-R230ME B-Rifle_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
+SKWPN: SHM-R630SA Shotgun_2: unknown
 SKWPN: SHM-R740SA Firegun_3: unknown
 SKWPN: SHM-XR1040SA E-Cannon: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
