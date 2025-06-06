@@ -23,6 +23,7 @@ AMR: Combat Distancers_1: unknown
 AMR: Combat Ocreis_1: unknown
 AMR: Combat Screen_2: unknown
 AMR: Combat Shirt_2: unknown
+AMR: Combat Sights_2: unknown
 AMR: Combat Tecta R_3: unknown
 AMR: Combat Traves_2: unknown
 AMR: Combat Trudgers_2: unknown
@@ -190,6 +191,7 @@ AUG: Extend Debuff Res Down VII: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
+AUG: Extend Ether Res Down XII: unknown
 AUG: Extend Fatigue X: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Extend Overdrive XII: unknown
@@ -258,6 +260,7 @@ AUG: Side Attack Plus II: unknown
 AUG: Side Attack Plus XI: unknown
 AUG: Stabilizer IX: unknown
 AUG: Stun: Decoy XIV: unknown
+AUG: TP Rebound XIX: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
@@ -489,6 +492,7 @@ SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R140GG HB-Rifle_3: unknown
 SKWPN: SHM-R160ME Bladegun_3: unknown
 SKWPN: SHM-R230ME B-Rifle_1: unknown
+SKWPN: SHM-R340ME B-Sniper_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
