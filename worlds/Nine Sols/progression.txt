@@ -18,7 +18,7 @@
 (Database) Ancient Cave Painting: useful
 (Database) Ancient Weapon Console: useful
 (Database) Anomalous Root Node: filler
-(Database) Apeman Surveillance Footage: unknown
+(Database) Apeman Surveillance Footage: filler
 (Database) Camp Scroll: filler
 (Database) Cave Stone Inscription: useful
 (Database) Coffin Inscription: filler
@@ -32,7 +32,7 @@
 (Database) Dusk Guardian Recording Device 4: filler
 (Database) Dusk Guardian Recording Device 5: useful
 (Database) Dusk Guardian Recording Device 6: filler
-(Database) Empyrean Bulletin Board: unknown
+(Database) Empyrean Bulletin Board: filler
 (Database) Evacuation Notice For Miners: filler
 (Database) Farmland Markings: filler
 (Database) Galactic Dock Sign: filler
@@ -46,7 +46,7 @@
 (Database) Pharmacy Panel: filler
 (Database) Prisoner's Bamboo Scroll I: filler
 (Database) Prisoner's Bamboo Scroll II: filler
-(Database) Radiant Pagoda Control Panel: unknown
+(Database) Radiant Pagoda Control Panel: filler
 (Database) Rhizomatic Energy Meter: filler
 (Database) Secret Mural I: filler
 (Database) Secret Mural II: filler
@@ -68,18 +68,18 @@
 (Poison) Turtle Scorpion: useful
 (Recyclable) Advanced Component: filler
 (Recyclable) Basic Component: filler
-(Recyclable) Noble Ring: unknown
+(Recyclable) Noble Ring: filler
 (Recyclable) Passenger Token: A-Shou: filler
 (Recyclable) Passenger Token: Aimu: filler
-(Recyclable) Passenger Token: Jihai: unknown
+(Recyclable) Passenger Token: Jihai: filler
 (Recyclable) Passenger Token: Shiyangyue: unknown
 (Recyclable) Passenger Token: Xipu: filler
-(Recyclable) Passenger Token: Yangfan: unknown
+(Recyclable) Passenger Token: Yangfan: filler
 (Recyclable) Passenger Token: Zouyan: filler
 (Recyclable) Standard Component: filler
 Abandoned Mines Access Token: progression
 Abandoned Mines Chip: useful
-Agricultural Zone Chip: unknown
+Agricultural Zone Chip: useful
 Air Dash: progression
 Ancient Penglai Ballad: unknown
 Arrow: Cloud Piercer: useful
@@ -95,8 +95,8 @@ Cloud Leap: progression
 Computing Unit: filler
 Cultivation Jade: useful
 Dark Steel: useful
-Divine Hand Jade: unknown
-Elevator Access Token: unknown
+Divine Hand Jade: useful
+Elevator Access Token: progression
 Empyrean District Chip: useful
 Firestorm Ring: useful
 Focus Jade: useful
@@ -113,12 +113,12 @@ Ji's Hair: progression
 Jin x320: filler
 Jin x50: filler
 Jin x800: filler
-Mob Quell Jade - Yin: unknown
+Mob Quell Jade - Yin: useful
 Mystic Nymph: Scout Mode: progression
 Pauper Jade: unknown
 Pipe Vial: useful
 Poem Hidden in the Immortal's Portrait: filler
-Power Reservoir Chip: unknown
+Power Reservoir Chip: useful
 Qi Blade Jade: useful
 Qi Swipe Jade: unknown
 Research Center Chip: useful
@@ -136,7 +136,7 @@ Soul Reaper Jade: useful
 Soul-Severing Blade: useful
 Stasis Jade: unknown
 Steely Jade: unknown
-Super Mutant Buster: unknown
+Super Mutant Buster: progression
 Swift Blade Jade: unknown
 Swift Descent Jade: useful
 Tai-Chi Kick: progression
@@ -145,5 +145,5 @@ Thunderburst Bomb: progression
 Tianhuo Serum: progression
 Transmutation Zone Chip: unknown
 Twin Tao Fruit: useful
-Unbounded Counter: unknown
+Unbounded Counter: progression
 Warehouse Zone Chip: useful
