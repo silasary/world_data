@@ -1,4 +1,4 @@
-Affinity: unknown
+Affinity: filler
 Agape Ring: unknown
 Alluring Skull: unknown
 Amber Herb: unknown
@@ -21,8 +21,8 @@ Battle Axe: unknown
 Belfry Gargoyle Soul: unknown
 Binoculars: unknown
 Black Firebomb: unknown
-Black Flamestone Dagger: unknown
-Black Flamestone Parma: unknown
+Black Flamestone Dagger: filler
+Black Flamestone Parma: filler
 Black Knight Greataxe: unknown
 Black Knight Greatsword: unknown
 Black Knight Halberd: unknown
@@ -54,7 +54,7 @@ Broken Thief Sword: unknown
 Buckler: unknown
 Caestus: unknown
 Caitha's Chime: unknown
-Caressing Prayer: unknown
+Caressing Prayer: filler
 Cast Light: unknown
 Chameleon: unknown
 Chaos Storm: unknown
@@ -100,10 +100,10 @@ Dragonrider Soul: unknown
 Dragonslayer's Crescent Axe: unknown
 Drakekeeper's Greataxe: unknown
 Drakekeeper's Greatshield: unknown
-Drangleic Gauntlets: unknown
+Drangleic Gauntlets: filler
 Drangleic Leggings: unknown
 Drangleic Mail: unknown
-Drangleic Shield: unknown
+Drangleic Shield: filler
 Drangleic Sword: unknown
 Dull Ember: unknown
 Dung Pie: unknown
@@ -117,13 +117,13 @@ Fading Soul: filler
 Faintstone: unknown
 Falchion: unknown
 Falconer Armor: unknown
-Falconer Boots: unknown
+Falconer Boots: filler
 Falconer Gloves: unknown
 Falconer Helm: unknown
 Fall Control: unknown
 Fang Key: unknown
 Faraam Armor: unknown
-Faraam Boots: unknown
+Faraam Boots: filler
 Faraam Gauntlets: unknown
 Faraam Helm: unknown
 Fire Arrow: filler
@@ -200,7 +200,7 @@ Infantry Boots: unknown
 Infantry Gloves: unknown
 Infantry Helm: unknown
 Iron Arrow: unknown
-Iron Flesh: unknown
+Iron Flesh: filler
 Iron Key: unknown
 Iron Parma: unknown
 Jester's Cap: unknown
@@ -216,7 +216,7 @@ King's Leggings: unknown
 King's Ring: unknown
 Knight Armor: unknown
 Knight Gauntlets: unknown
-Knight Helm: unknown
+Knight Helm: filler
 Knight Leggings: unknown
 Lacerating Knife: unknown
 Ladder Miniature: unknown
@@ -231,7 +231,7 @@ Leather Armor: unknown
 Leather Boots: filler
 Leather Gloves: unknown
 Leggings of Aurous: unknown
-Lenigrast's Key: unknown
+Lenigrast's Key: progression
 Life Ring+1: unknown
 Life Ring+2: unknown
 Life Ring: unknown
@@ -285,7 +285,7 @@ Penal Straightjacket: unknown
 Perseverance: unknown
 Petrified Dragon Bone: unknown
 Petrified Something: unknown
-Phoenix Parma: unknown
+Phoenix Parma: filler
 Pickaxe: unknown
 Pike: unknown
 Poison Arrow: unknown
@@ -319,7 +319,7 @@ Ricard's Rapier: unknown
 Ring of Binding: unknown
 Ring of Blades: unknown
 Ring of Giants+1: unknown
-Ring of Giants: unknown
+Ring of Giants: filler
 Ring of Prayer: unknown
 Ring of Restoration: unknown
 Ring of Soul Protection: unknown
@@ -348,7 +348,7 @@ Simpleton's Spice: unknown
 Singer's Dress: unknown
 Skeleton Lord's Soul: unknown
 Skeptic's Spice: unknown
-Small Leather Shield: unknown
+Small Leather Shield: filler
 Small Smooth & Silky Stone: unknown
 Smelter Demon Armor: unknown
 Smelter Demon Gauntlets: unknown
@@ -382,7 +382,7 @@ Spell Quartz Ring+2: unknown
 Spiked Bandit Helm: unknown
 Standard Helm: unknown
 Steel Gauntlets: unknown
-Steel Leggings: unknown
+Steel Leggings: filler
 Strong Magic Shield: unknown
 Sublime Bone Dust: unknown
 Sunlight Blade: unknown
@@ -393,7 +393,7 @@ Thief Mask: unknown
 Third Dragon Ring: unknown
 Throne Defender Soul: unknown
 Throne Watcher Soul: unknown
-Throwing Knife: unknown
+Throwing Knife: filler
 Thunder Quartz Ring+1: unknown
 Thunder Quartz Ring: unknown
 Tights of Judgment: unknown
@@ -402,7 +402,7 @@ Titanite Shard: unknown
 Titanite Slab: unknown
 Torch: useful
 Tower Shield: unknown
-Transgressor's Leather Shield: unknown
+Transgressor's Leather Shield: filler
 Transgressor's Staff: unknown
 Traveling Merchant Coat: filler
 Traveling Merchant Gloves: unknown
@@ -414,7 +414,7 @@ Twin Dragon Greatshield: unknown
 Twinblade: unknown
 Twinkling Titanite: unknown
 Twisted Barricade: unknown
-Uchigatana: unknown
+Uchigatana: filler
 Undead Lockaway Key: unknown
 Unpetrify Cyclops Statue in Aldia's Keep: progression
 Unpetrify Fang Key Statue in Shaded Ruins: unknown
@@ -434,7 +434,7 @@ Unpetrify Straid of Olaphis: unknown
 Unpetrify Warlock Mask Statue in Shaded Ruins: unknown
 Unveil: unknown
 Velstadt's Armor: unknown
-Velstadt's Gauntlets: unknown
+Velstadt's Gauntlets: filler
 Velstadt's Leggings: filler
 Wanderer Boots: unknown
 Wanderer Coat: unknown
