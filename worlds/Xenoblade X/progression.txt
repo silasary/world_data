@@ -443,6 +443,7 @@ SKL: Aura Burst: unknown
 SKL: Boosted Bullets: unknown
 SKL: Buff Extender: unknown
 SKL: Conductive Strike: unknown
+SKL: Crisis Catalyst: unknown
 SKL: Dismantler: useful
 SKL: Double Reflect: unknown
 SKL: Electric Flesh: unknown
@@ -525,6 +526,7 @@ SKWPN: SRM-R551GG F-Wave_2: unknown
 SKWPN: SRM-R620ME L-Missile_2: unknown
 SKWPN: SRM-R620SA Buster-Launcher_3: unknown
 SKWPN: SRM-R721ME F-Wave_3: unknown
+SKWPN: SRM-R750SA F-Wave_1: unknown
 SKWPN: SRM-R752ME F-Wave_2: unknown
 SKWPN: SRM-R754ME F-Wave_3: unknown
 SKWPN: SRM-R764ME F-Wave_2: unknown
