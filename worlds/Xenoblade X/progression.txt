@@ -65,9 +65,11 @@ AMR: Reginal Ayx_1: unknown
 AMR: Reginal Footwear_2: unknown
 AMR: Reginal Legwear_2: unknown
 AMR: Reginal Quantlet L_2: unknown
+AMR: Reginal Sleeve R_1: unknown
 AMR: Reginal Tecta R_3: unknown
 AMR: Reginal Tuesta_1: unknown
 AMR: Reginal Ward R_1: unknown
+AMR: Survival Glove L_2: unknown
 AMR: Survival Headset_3: unknown
 AMR: Tank Top (Pink Camo): filler
 AMR: Ultra Boundless Gauntlet R: unknown
@@ -335,6 +337,7 @@ SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
 SKAMR: SK60SA L-RARM-ATK_3: unknown
 SKAMR: XSK20GG L-HEAD-SPD3: unknown
+SKAMR: XSK20SA L-RARM-SPD2: unknown
 SKAMR: XSK30SA M-LARM-DEF2: unknown
 SKAMR: XSK30SA M-LARM-MEL2: unknown
 SKAMR: XSK60SA H-LEGS-ATK4: unknown
@@ -342,6 +345,7 @@ SKAMR: XSK60SA M-LEGS-DEF2: filler
 SKAMR: ZXSK50SA M-HEAD-SSP: unknown
 SKAMR: ZXSK80SA L-BODY-SPD: unknown
 SKAMR: ZXSK80SA M-HEAD-MEL_1: unknown
+SKAMR: ZXSK80SA M-RARM-MEL_1: unknown
 SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ELEC XIV: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
@@ -383,6 +387,7 @@ SKAUG: Overdrive.APPEND-HP XVIII: unknown
 SKAUG: Overdrive.EXTEND III: unknown
 SKAUG: Overdrive.EXTEND VI: unknown
 SKAUG: Overdrive.FRAME-HP IV: unknown
+SKAUG: Overdrive.FRAME-HP XI: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
 SKAUG: Reflect.ADD-PHYS: unknown
@@ -440,6 +445,7 @@ SKF: US0230 Urban ST: unknown
 SKF: XS0630 Mastema ST: unknown
 SKF: XS0750 Amdusias ST: unknown
 SKL: Aggro Boost: unknown
+SKL: Appendage Erosion: unknown
 SKL: Aura Burst: unknown
 SKL: Boosted Bullets: unknown
 SKL: Buff Extender: unknown
@@ -585,6 +591,7 @@ WPN: Advanced Chrome Gladiis: unknown
 WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Chrome Pugio: unknown
 WPN: Advanced Chromoly Shield: unknown
+WPN: Advanced Cobalt Fulge II: unknown
 WPN: Advanced Destroyer Bliss: unknown
 WPN: Advanced Destroyer Grando: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
@@ -689,6 +696,7 @@ WPN: Worn Delta Lastyr: unknown
 WPN: Worn Destroyer Assailer: unknown
 WPN: Worn Intrepid Lance: unknown
 WPN: Worn Ophidian Crank: unknown
+WPN: Worn Ophidian Dyads III: unknown
 WPN: Worn Ophidian Raygun: unknown
 WPN: Worn Pulverizing Lance: unknown
 WPN: Worn Soldier Launchers: unknown
