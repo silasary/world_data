@@ -22,6 +22,7 @@ Ingredient: mcguffin
 Lobber: unknown
 P. Sugar: useful
 Parry: progression
+Peashooter: unknown
 Plane Bombs: progression
 Plane EX: progression
 Plane Gun: progression
@@ -30,6 +31,7 @@ Plane Shrink: progression
 Plane Super: unknown
 Progressive Charge: progression
 Progressive Chaser: progression
+Progressive Converge: useful
 Progressive Crackshot: useful
 Progressive Lobber: useful
 Progressive Peashooter: progression
