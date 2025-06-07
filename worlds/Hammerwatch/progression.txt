@@ -29,7 +29,7 @@ Activate TF2 Light Bridges: unknown
 Activate TF2 North Puzzle: unknown
 Activate TF2 South Puzzle: unknown
 Activate TF2 West Puzzle: unknown
-Activate TF3 Gold Chutes: unknown
+Activate TF3 Gold Chutes: filler
 Activate TF3 Puzzle: unknown
 Activate Water Pumps: progression
 Apple: filler
@@ -242,7 +242,7 @@ Open PoF Level 3 Start Room: unknown
 Open PrB Bottom of East Hall: unknown
 Open PrB NE Treasure Room: unknown
 Open PrB North Treasure Rooms: unknown
-Open PrB Top of East Hall: unknown
+Open PrB Top of East Hall: progression
 Open PrF1 Passage: unknown
 Open PrF2 East Save Room: unknown
 Open PrF2 Middle Entrance Room: unknown
