@@ -1,5 +1,5 @@
 Bolt_Dispenser: unknown
-Charge_Jump: unknown
+Charge_Jump: progression
 Cleansing_Charm: unknown
 Cracked_Monocle: unknown
 Cricket_Bone_Whip: unknown
@@ -9,10 +9,10 @@ Energy_Refiner: unknown
 Erosive_Bullets: filler
 Fae_Silver: useful
 Fae_of_Glass: unknown
-Fae_of_Hate: unknown
+Fae_of_Hate: filler
 Fae_of_Love: progression
 Fairy_Ointment: unknown
-Ferns_Trinket: unknown
+Ferns_Trinket: mcguffin
 Flag: useful
 Giant_Chambers: unknown
 Grappling_Hook: progression
@@ -27,14 +27,16 @@ MP_UP: useful
 Magnet: unknown
 Magnetic_Bullets: unknown
 Mayas_Trinket: unknown
+Pistol: useful
 Powdered_Fae_Silver: filler
 Powdered_Nightshade: filler
 Rocket_Launcher: filler
 Ruby_Slippers: filler
-Rusted_Coin: unknown
+Rusted_Coin: filler
 Short_Fuse: unknown
 Shotgun: useful
 Sniper: useful
+Spiced_Gunpowder: unknown
 Sprites_Breath: filler
 TP_UP: useful
 Tattered_Blindfold: filler
