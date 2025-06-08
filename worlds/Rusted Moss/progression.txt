@@ -2,7 +2,7 @@ Bolt_Dispenser: useful
 Charge_Jump: progression
 Cleansing_Charm: unknown
 Cracked_Monocle: unknown
-Cricket_Bone_Whip: unknown
+Cricket_Bone_Whip: filler
 Dandelion_Bomb: useful
 Energy_Disruptor: unknown
 Energy_Refiner: unknown
@@ -24,7 +24,7 @@ Hp_Overload: unknown
 Incendiary_Essence: useful
 Lucky_Clover_Pearl: unknown
 MP_UP: useful
-Magnet: unknown
+Magnet: filler
 Magnetic_Bullets: unknown
 Mayas_Trinket: unknown
 Pistol: useful
