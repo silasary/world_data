@@ -3,7 +3,9 @@ Battery Pack: progression
 Battery: unknown
 Blue Jewel: unknown
 Bolt Cutters: useful
+Cassette Tape: unknown
 Culture Sample: progression
+Detonator: unknown
 Dot Sight - G19: unknown
 Dual Magazine - Assault Rifle: unknown
 Electronic Gadget: unknown
@@ -13,7 +15,7 @@ Explosive Rounds: unknown
 Extended Barrel - MAG: unknown
 Extended Mag - G19: unknown
 Fire Hose: unknown
-First Aid Spray: unknown
+First Aid Spray: filler
 Flame Rounds: useful
 Flash Grenade: unknown
 Fuse 1: unknown
@@ -27,6 +29,7 @@ Hand Grenade: useful
 Handgun Ammo: useful
 High-Grade Gunpowder: filler
 Hip Pouch: useful
+Hospital ID Card: unknown
 ID Card: progression
 Kendo Gate Key: unknown
 Lock Pick: unknown
@@ -40,7 +43,7 @@ Moderator - G19: useful
 Override Key: unknown
 Red Herb: filler
 Red Jewel: useful
-Safety Deposit Key: unknown
+Safety Deposit Key: progression
 Scope - Assault Rifle: unknown
 Semi-Auto Barrel - M3: unknown
 Shell Holder - M3: unknown
@@ -50,3 +53,4 @@ Supply Case - Shotgun Shells: unknown
 Tactical Grip - Assault Rifle: unknown
 Tactical Stock - M3: unknown
 Tape Player: useful
+Vaccine Sample: unknown
