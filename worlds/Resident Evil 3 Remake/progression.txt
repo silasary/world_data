@@ -1,16 +1,16 @@
 Assault Rifle Ammo: useful
 Battery Pack: progression
 Battery: unknown
-Blue Jewel: unknown
+Blue Jewel: filler
 Bolt Cutters: useful
 Cassette Tape: unknown
 Culture Sample: progression
 Detonator: unknown
-Dot Sight - G19: unknown
+Dot Sight - G19: filler
 Dual Magazine - Assault Rifle: unknown
 Electronic Gadget: unknown
 Explosive A: unknown
-Explosive B: unknown
+Explosive B: filler
 Explosive Rounds: unknown
 Extended Barrel - MAG: unknown
 Extended Mag - G19: unknown
@@ -34,7 +34,7 @@ ID Card: progression
 Kendo Gate Key: unknown
 Lock Pick: unknown
 Locker Room Key: progression
-M3 Shotgun: unknown
+M3 Shotgun: filler
 MAG Ammo: unknown
 MAG: unknown
 MGL Grenade Launcher: unknown
