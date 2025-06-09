@@ -84,6 +84,7 @@ AMR: Ultra Regal Brax R: unknown
 AMR: Ultra Regal Corpus: unknown
 AMR: Ultra Regal Distancers: unknown
 AMR: Ultra Regal Wrest L: unknown
+AMR: Valor Armwear L_1: unknown
 AMR: Valor Brax R_1: unknown
 AMR: Valor Distancers_2: unknown
 AMR: Valor Distancers_3: unknown
@@ -422,6 +423,7 @@ SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
+SKAUG: SpecUp.GP-MAX XVII: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.HP-MAX VI: unknown
 SKAUG: SpecUp.HP-MAX XX: unknown
@@ -635,6 +637,8 @@ WPN: Chromoly Parma II_2: unknown
 WPN: Chromoly Pilum_1: unknown
 WPN: Chromoly Pugio_1: unknown
 WPN: Chromoly Saber_3: unknown
+WPN: Cobalt Honor_2: unknown
+WPN: Cobalt Riv_3: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
 WPN: Delta Dyads II_1: unknown
