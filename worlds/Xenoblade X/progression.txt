@@ -263,6 +263,7 @@ AUG: Resist Launch XIII: unknown
 AUG: Resist Shock VIII: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Stagger XVII: unknown
+AUG: Resist Time Bomb XII: unknown
 AUG: Resist Virus X: unknown
 AUG: Resistance Reducer VI: unknown
 AUG: Side Attack Plus II: unknown
@@ -383,6 +384,7 @@ SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.FATIGUE XVIII: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
+SKAUG: M-Auto.HP-RECOV XV: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
 SKAUG: M-Auto.SHOCK X: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
@@ -692,6 +694,7 @@ WPN: Ultra Nebulan Saboteurs: unknown
 WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Dyads II_2: unknown
 WPN: Warrior Launchers_2: unknown
+WPN: Warrior Psylans_3: unknown
 WPN: Warrior Radius_3: unknown
 WPN: Warrior Sclopetum_1: unknown
 WPN: Worn Carbide Blades: unknown
