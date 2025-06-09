@@ -41,7 +41,7 @@ Equipment - Progressive Heavy Body: unknown
 Equipment - Progressive Heavy Head: unknown
 Equipment - Progressive Katana: unknown
 Equipment - Progressive Light Body: unknown
-Equipment - Progressive Light Head: unknown
+Equipment - Progressive Light Head: progression
 Equipment - Progressive Medium Body: unknown
 Equipment - Progressive Medium Head: unknown
 Equipment - Progressive Ninja Dagger: unknown
@@ -134,7 +134,7 @@ Item - Gold Dust: unknown
 Item - Gold Ingot: unknown
 Item - Gold Ore: unknown
 Item - Greenshire Reprise Map: unknown
-Item - Home Point Stone: unknown
+Item - Home Point Stone: useful
 Item - Ibek Bell: unknown
 Item - Ice Cell Key: unknown
 Item - Ice Puzzle Key: unknown
@@ -156,7 +156,7 @@ Item - Nans Cocoa: unknown
 Item - Nans Secret Recipe: unknown
 Item - Nans Stew: unknown
 Item - Neptune Shrine Map: unknown
-Item - Neptune Stone: unknown
+Item - Neptune Stone: progression
 Item - New World Stone: unknown
 Item - North Lookout Token: unknown
 Item - Northern Cave Map: unknown
@@ -195,7 +195,7 @@ Item - Salmon Pass Map: unknown
 Item - Salmon River Map: unknown
 Item - Sara Sara Bazaar Map: unknown
 Item - Sara Sara Beach Map: unknown
-Item - Scroll: unknown
+Item - Scroll: filler
 Item - Seaside Cliffs Map: unknown
 Item - Sequoia Athenaeum Map: unknown
 Item - Shoudu Province Map: unknown
@@ -211,6 +211,8 @@ Item - Soiled Den Map: unknown
 Item - Sour Pop Candy: unknown
 Item - South Wing Key: unknown
 Item - Spawning Meadows Map: unknown
+Item - Special Fresh Salmon: unknown
+Item - Special Rotten Salmon: unknown
 Item - Special Shoudu Stew: unknown
 Item - Super Rod: unknown
 Item - Sweet Pop Candy: unknown
@@ -242,7 +244,7 @@ Item - Yamagawa M.A. Map: unknown
 Item - Z-Potion Pouch: unknown
 Item - Z-Potion: unknown
 Item - Zether Pouch: unknown
-Item - Zether: unknown
+Item - Zether: filler
 Job - Aegis: unknown
 Job - Assassin: unknown
 Job - Beastmaster: unknown
