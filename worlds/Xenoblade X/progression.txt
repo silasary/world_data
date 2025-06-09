@@ -60,6 +60,7 @@ AMR: Prototype BLADE Pants: unknown
 AMR: Prototype Workpants: unknown
 AMR: Rare Browline Glasses: unknown
 AMR: Rare Sport Glasses: unknown
+AMR: Redesigned Shorts: unknown
 AMR: Refined Sheep Horns: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Footwear_2: unknown
@@ -185,6 +186,7 @@ AUG: Critical Surge IV: unknown
 AUG: Crush: Gain TP II: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Attack Plus XVII: unknown
+AUG: Ether Attack Plus XVIII: unknown
 AUG: Ether Attack Plus XX: unknown
 AUG: Ether Resistance Up VI: unknown
 AUG: Evasion Boost XX: unknown
@@ -195,6 +197,7 @@ AUG: Extend Control XV: unknown
 AUG: Extend Critical Power XV: unknown
 AUG: Extend Debuff Res Down III: unknown
 AUG: Extend Debuff Res Down VII: unknown
+AUG: Extend Electric Res Down VI: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
@@ -209,6 +212,7 @@ AUG: Extend Taunt XV: unknown
 AUG: Extend Virus XV: unknown
 AUG: Extend Virus XVII: unknown
 AUG: Focused Evasion XVII: unknown
+AUG: Gravity Attack Plus X: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Gravity Resistance Up XVI: unknown
 AUG: Humanoid Criticals Up X: unknown
@@ -321,6 +325,7 @@ SKAMR: SK20SA M-BODY-RNG_3: unknown
 SKAMR: SK20SA M-LARM-RNG_2: unknown
 SKAMR: SK20SA M-LEGS-RNG_3: unknown
 SKAMR: SK30GG L-HEAD-DEF_2: unknown
+SKAMR: SK30ME H-BODY-ETH_1: unknown
 SKAMR: SK30SA H-BODY-ATK3_1: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
 SKAMR: SK30SA H-LEGS-ATK2_3: unknown
