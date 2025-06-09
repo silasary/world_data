@@ -251,6 +251,7 @@ AUG: Reflect: Ether: unknown
 AUG: Resist Beam Res Down VI: unknown
 AUG: Resist Beam Res Down X: unknown
 AUG: Resist Beam Res Down XVIII: unknown
+AUG: Resist Control XX: unknown
 AUG: Resist Fatigue II: unknown
 AUG: Resist Fatigue X: unknown
 AUG: Resist Fatigue XX: unknown
@@ -328,6 +329,7 @@ SKAMR: SK40SA L-RARM-SPD_2: unknown
 SKAMR: SK40SA M-LEGS-MEL_3: unknown
 SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
+SKAMR: SK50SA L-HEAD-ATK_1: unknown
 SKAMR: SK50SA L-HEAD-ATK_2: unknown
 SKAMR: SK50SA L-LEGS-ATK_1: unknown
 SKAMR: SK50SA M-LEGS-RNG_2: unknown
@@ -468,6 +470,7 @@ SKL: Long Topple: unknown
 SKL: Mechanoid Slayer: unknown
 SKL: Mortal Enemy: unknown
 SKL: Phantom Counter: unknown
+SKL: Piscinoid Slayer: unknown
 SKL: Red Zone: unknown
 SKL: Secondary Accelerator: unknown
 SKL: Shield Screen: unknown
@@ -534,6 +537,7 @@ SKWPN: SRM-R450SA Grenade_2: unknown
 SKWPN: SRM-R551GG F-Wave_2: unknown
 SKWPN: SRM-R620ME L-Missile_2: unknown
 SKWPN: SRM-R620SA Buster-Launcher_3: unknown
+SKWPN: SRM-R660SA Buster-Launcher_2: unknown
 SKWPN: SRM-R721ME F-Wave_3: unknown
 SKWPN: SRM-R750SA F-Wave_1: unknown
 SKWPN: SRM-R752ME F-Wave_2: unknown
@@ -561,6 +565,7 @@ SKWPN: SSM-MX140SA G-Buster_2: filler
 SKWPN: SSM-MX150SA G2-Buster_2: unknown
 SKWPN: SSM-MX160SA G-Buster_3: unknown
 SKWPN: SSM-MX230SA E-Scythe_2: unknown
+SKWPN: SSM-R130GG M-Missile_2: unknown
 SKWPN: SSM-R140GG M-Missile_1: unknown
 SKWPN: SSM-R140ME N-Cannon_2: unknown
 SKWPN: SSM-R150SA M-Missile_3: unknown
@@ -685,6 +690,7 @@ WPN: Warrior Assault Rifle_1: unknown
 WPN: Warrior Dyads II_2: unknown
 WPN: Warrior Launchers_2: unknown
 WPN: Warrior Radius_3: unknown
+WPN: Warrior Sclopetum_1: unknown
 WPN: Worn Carbide Blades: unknown
 WPN: Worn Carbide Sword II: unknown
 WPN: Worn Carbide Thudclang: unknown
