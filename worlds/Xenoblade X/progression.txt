@@ -206,6 +206,7 @@ AUG: Extend Taunt VII: unknown
 AUG: Extend Taunt XII: unknown
 AUG: Extend Taunt XV: unknown
 AUG: Extend Virus XV: unknown
+AUG: Extend Virus XVII: unknown
 AUG: Focused Evasion XVII: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Gravity Resistance Up XVI: unknown
@@ -502,7 +503,9 @@ SKWPN: SAM-R120SA Minigun_3: unknown
 SKWPN: SAM-XM141SA Shield: unknown
 SKWPN: SAM-XXM142ME Beam-Shield: unknown
 SKWPN: SHM-M120ME B-Centipede_1: unknown
+SKWPN: SHM-M140ME B-Centipede_1: unknown
 SKWPN: SHM-R1020SA Wiregun_1: filler
+SKWPN: SHM-R120ME Bladegun_2: unknown
 SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R140GG HB-Rifle_3: unknown
 SKWPN: SHM-R160ME Bladegun_3: unknown
