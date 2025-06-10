@@ -30,6 +30,7 @@ DamagePerEnemy1: useful
 EnemyDeathPulseBolts: useful
 Execute1: useful
 Execute2: useful
+ExplodersChance: unknown
 ExplodersSize: useful
 FocusArmor1: unknown
 Health1: unknown
