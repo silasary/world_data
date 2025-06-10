@@ -105,7 +105,7 @@ Item - Diamond Ingot: unknown
 Item - Diamond Ore: unknown
 Item - Digested Head: unknown
 Item - Dione Shrine Map: unknown
-Item - Dione Stone: unknown
+Item - Dione Stone: progression
 Item - Dog Bone: unknown
 Item - Draft Shaft Conduit Map: unknown
 Item - East Wing Key: unknown
@@ -137,6 +137,7 @@ Item - Greenshire Reprise Map: unknown
 Item - Home Point Stone: useful
 Item - Ibek Bell: unknown
 Item - Ice Cell Key: unknown
+Item - Ice Puzzle Key Ring: unknown
 Item - Ice Puzzle Key: unknown
 Item - Jade Cavern Map: unknown
 Item - Jidamba Eaclaneya Map: unknown
@@ -174,6 +175,7 @@ Item - Poseidon Shrine Map: unknown
 Item - Poseidon Stone: unknown
 Item - Potion Pouch: unknown
 Item - Potion: unknown
+Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: unknown
 Item - Progressive Luxury Pass: unknown
 Item - Progressive Quintar Flute: unknown
@@ -212,6 +214,7 @@ Item - Sour Pop Candy: unknown
 Item - South Wing Key: unknown
 Item - Spawning Meadows Map: unknown
 Item - Special Fresh Salmon: unknown
+Item - Special Milk: unknown
 Item - Special Rotten Salmon: unknown
 Item - Special Shoudu Stew: unknown
 Item - Super Rod: unknown
