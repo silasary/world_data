@@ -36,7 +36,7 @@ Rusted_Coin: filler
 Short_Fuse: filler
 Shotgun: useful
 Sniper: useful
-Spiced_Gunpowder: unknown
+Spiced_Gunpowder: filler
 Sprites_Breath: filler
 TP_UP: useful
 Tattered_Blindfold: filler
