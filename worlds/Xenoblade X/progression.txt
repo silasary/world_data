@@ -144,6 +144,7 @@ ART: Flamehand: unknown
 ART: Full Specs: unknown
 ART: Furious Blast: unknown
 ART: Geolibrium: unknown
+ART: Ghostwalker: unknown
 ART: Hair Trigger: unknown
 ART: Hellfire: unknown
 ART: Incendiary Edge: unknown
@@ -368,6 +369,7 @@ SKAUG: Boost.HP-MAX XII: unknown
 SKAUG: Boost.HP-MAX XIII: unknown
 SKAUG: Boost.HP-MAX XX: unknown
 SKAUG: Cloak.SOUND XVI: filler
+SKAUG: CritUp.MECHANOID VI: unknown
 SKAUG: CritUp.MECHANOID VIII: filler
 SKAUG: CritUp.THEROID VI: unknown
 SKAUG: CritUp.ULTRAFAUNA XV: unknown
@@ -391,6 +393,7 @@ SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.FATIGUE XVIII: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.HP-RECOV XV: unknown
+SKAUG: M-Auto.PHYS-DOWN VI: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
 SKAUG: M-Auto.SHOCK X: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
@@ -463,6 +466,7 @@ SKL: Appendage Erosion: unknown
 SKL: Aura Burst: unknown
 SKL: Boosted Bullets: unknown
 SKL: Buff Extender: unknown
+SKL: CQC Master: unknown
 SKL: Conductive Strike: unknown
 SKL: Crisis Catalyst: unknown
 SKL: Dismantler: useful
@@ -511,6 +515,7 @@ SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-R120SA Minigun_3: unknown
 SKWPN: SAM-XM141SA Shield: unknown
 SKWPN: SAM-XXM142ME Beam-Shield: unknown
+SKWPN: SAM-XXM144SA Shield: unknown
 SKWPN: SHM-M120ME B-Centipede_1: unknown
 SKWPN: SHM-M140ME B-Centipede_1: unknown
 SKWPN: SHM-R1020SA Wiregun_1: filler
