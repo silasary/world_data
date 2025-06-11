@@ -58,6 +58,7 @@ Large Door: unknown
 Large Logic Display: unknown
 Large Payload Mass Driver: unknown
 Large Phase Wall: useful
+Large Plasma Bore: unknown
 Large Plastanium Wall: unknown
 Large Power Node: useful
 Large Solar Panel: unknown
@@ -136,6 +137,7 @@ Reinforced Container: unknown
 Reinforced Liquid Junction: progression
 Reinforced Liquid Tank: unknown
 Reinforced Message: unknown
+Reinforced Pump: unknown
 Reinforced Surge Wall: useful
 Reinforced Vault: unknown
 Repair Point: unknown
