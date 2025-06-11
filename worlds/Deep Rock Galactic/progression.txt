@@ -23,12 +23,16 @@ Progressive-Melee-Special-Damage: unknown
 Progressive-Morkite-Mining: unknown
 Progressive-Movement-Speed: unknown
 Progressive-Poison-Resistance: unknown
+Progressive-Radiation-Resistance: unknown
 Progressive-RedSugar-Healing: unknown
+Progressive-Resupply-Incremental-Cost: unknown
 Progressive-Resupply-Speed: unknown
 Progressive-Resupply-Start-Cost: unknown
 Progressive-Revive-Speed: unknown
+Progressive-Shield-Regen-Delay: unknown
 Progressive-Slow-Resistance: unknown
 Progressive-Sprint-Speed: unknown
+Progressive-Steve-Cooldown: unknown
 Progressive-Vampirism: unknown
 Progressive-Zipline-Speed: unknown
 Resource-Mining-Strength: unknown
