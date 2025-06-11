@@ -4,7 +4,7 @@ Cleansing_Charm: filler
 Cracked_Monocle: filler
 Cricket_Bone_Whip: filler
 Dandelion_Bomb: useful
-Energy_Disruptor: unknown
+Energy_Disruptor: progression
 Energy_Refiner: filler
 Erosive_Bullets: filler
 Fae_Silver: useful
@@ -22,7 +22,7 @@ HP_UP: useful
 Heavy_Ammo: filler
 Hp_Overload: useful
 Incendiary_Essence: useful
-Lucky_Clover_Pearl: unknown
+Lucky_Clover_Pearl: useful
 MP_UP: useful
 Magnet: filler
 Magnetic_Bullets: unknown
