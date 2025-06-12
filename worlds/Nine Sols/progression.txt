@@ -1,10 +1,10 @@
 (Artifact) Ancient Sheet Music: progression
 (Artifact) Antique Vinyl Record: unknown
-(Artifact) Fusang Amulet: unknown
+(Artifact) Fusang Amulet: useful
 (Artifact) GM Fertilizer: progression
-(Artifact) Kunlun Immortal Portrait: unknown
-(Artifact) Legend of the Porky Heroes: unknown
-(Artifact) Multi-tool Kit: unknown
+(Artifact) Kunlun Immortal Portrait: progression
+(Artifact) Legend of the Porky Heroes: progression
+(Artifact) Multi-tool Kit: useful
 (Artifact) Penglai Recipe Collection: useful
 (Artifact) Portrait of Yi: progression
 (Artifact) Qiankun Board: useful
@@ -59,9 +59,9 @@
 (Database) Warehouse Database: filler
 (Database) Water Synthesis Pipeline Panel: filler
 (Database) Yellow Water Report: filler
-(Poison) Golden Yinglong Egg: unknown
+(Poison) Golden Yinglong Egg: useful
 (Poison) Medicinal Citrine: useful
-(Poison) Oriander: unknown
+(Poison) Oriander: useful
 (Poison) Plantago Frog: unknown
 (Poison) Porcine Gem: useful
 (Poison) Residual Hair: useful
@@ -86,7 +86,7 @@ Arrow: Cloud Piercer: useful
 Arrow: Shadow Hunter: unknown
 Arrow: Thunder Buster: useful
 Avarice Jade: useful
-Bearing Jade: unknown
+Bearing Jade: useful
 Bloody Crimson Hibiscus: filler
 Breather Jade: useful
 Central Core Chip: useful
@@ -120,7 +120,7 @@ Pipe Vial: useful
 Poem Hidden in the Immortal's Portrait: filler
 Power Reservoir Chip: useful
 Qi Blade Jade: useful
-Qi Swipe Jade: unknown
+Qi Swipe Jade: useful
 Research Center Chip: useful
 Revival Jade: useful
 Rhizomatic Bomb: unknown
