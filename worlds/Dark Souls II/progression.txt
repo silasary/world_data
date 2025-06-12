@@ -215,7 +215,7 @@ King's Armor: unknown
 King's Crown: unknown
 King's Gauntlets: unknown
 King's Leggings: unknown
-King's Ring: unknown
+King's Ring: progression
 Knight Armor: unknown
 Knight Gauntlets: unknown
 Knight Helm: filler
@@ -372,7 +372,7 @@ Soul of a Giant: unknown
 Soul of a Great Hero: unknown
 Soul of a Hero: filler
 Soul of a Lost Undead: unknown
-Soul of a Nameless Soldier: unknown
+Soul of a Nameless Soldier: filler
 Soul of a Proud Knight: filler
 Soul of the Duke's Dear Freja: unknown
 Soul of the Last Giant: unknown
@@ -463,3 +463,4 @@ Wood Bolt: unknown
 Wooden Shield: unknown
 Yellow Quartz Longsword: unknown
 Yellow Quartz Shield: filler
+Zweihander: filler
