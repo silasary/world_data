@@ -2,9 +2,9 @@
 Adult Trousers: useful
 Baby Cakes: useful
 Baby Pump: progression
-Baby Spin: unknown
+Baby Spin: progression
 Baby toss: progression
-Beans for badges shop: unknown
+Beans for badges shop: useful
 Big-DEF Badge: useful
 Branded Slacks: useful
 Bro Flower: useful
@@ -15,28 +15,28 @@ Copy Flower: useful
 Counter Badge: useful
 DEF-Peak Badge: useful
 Dire-Free Badge: useful
-Drain Badge A: unknown
-Drain Badge: unknown
+Drain Badge A: useful
+Drain Badge: useful
 Dynamic Badge A: useful
-Dynamic Badge: unknown
-EXP Badge: unknown
+Dynamic Badge: useful
+EXP Badge: useful
 Golden Pants: useful
-Green Pepper: unknown
+Green Pepper: filler
 Green Shell: progression
 Hammers: progression
 Ice Flower: useful
 Mix Flower: useful
 Muscle Slacks: useful
-Mushroom Jeans: unknown
+Mushroom Jeans: useful
 POW-Peak Badge: useful
-Piggyback Jump: unknown
-Preferred Pants: unknown
+Piggyback Jump: progression
+Preferred Pants: useful
 Progressive 1-up: progression
 Progressive Area: progression
 Progressive Drop: useful
 Progressive Mushroom: mcguffin
 Red Shell: useful
-Rocket Jeans: unknown
+Rocket Jeans: useful
 Secret Jeans: useful
 Shroom Slacks: useful
 Silky Pants: useful
@@ -49,6 +49,6 @@ Throw babies as soon as possible: trap
 Training Badge: useful
 Use no bros items during next regular enemy: trap
 Victory Piece: mcguffin
-Wallet Badge: unknown
+Wallet Badge: useful
 Water swallow: progression
-Wild Trousers: unknown
+Wild Trousers: useful
