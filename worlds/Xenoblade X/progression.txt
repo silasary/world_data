@@ -41,6 +41,7 @@ AMR: Forza Legwear_2: unknown
 AMR: Forza Ryg_2: unknown
 AMR: Forza Ward L_2: unknown
 AMR: Heavy Overlord's Plate_2: unknown
+AMR: Heavy Vanquisher's Greaves_3: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
@@ -116,6 +117,7 @@ AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Guard L: unknown
 AMR: Worn Reginal Vestis: unknown
+AMR: Worn Reginal Zyua L: unknown
 AMR: Worn Reginal Zyua R: unknown
 AMR: Worn Valor Headset: unknown
 AMR: Worn Valor Mayx L: unknown
@@ -247,6 +249,7 @@ AUG: Melee: Recover HP X: unknown
 AUG: Nullify Beam Reflect II: unknown
 AUG: Nullify Physical Reflect II: unknown
 AUG: Nullify Physical Reflect VII: unknown
+AUG: Overdrive: Gain TP XX: unknown
 AUG: Overdrive: Recover HP I: unknown
 AUG: Overdrive: Recover HP XIX: unknown
 AUG: Physical Attack Plus XI: filler
@@ -661,6 +664,7 @@ WPN: Chrome Candela_3: unknown
 WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
 WPN: Chrome Parma II_2: unknown
+WPN: Chrome Sword_1: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Chromoly Pilum_1: unknown
 WPN: Chromoly Pugio_1: unknown
