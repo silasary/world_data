@@ -450,6 +450,7 @@ Recipe: Iodine Infused Filter: unknown
 Recipe: Ionized Fuel: unknown
 Recipe: Iron Alloy Ingot: unknown
 Recipe: Iron Ingot: unknown
+Recipe: Iron Pipe: unknown
 Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
 Recipe: Iron Rod: unknown
@@ -590,6 +591,12 @@ Recipe: Wire: unknown
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: Blade Runners: unknown
+Single: Boom Box: unknown
+Single: Object Scanner: unknown
+Single: Packaged Heavy Oil Residue: unknown
+Single: Parachute: unknown
+Single: Supercomputer: unknown
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
 Spitter Forest: unknown
