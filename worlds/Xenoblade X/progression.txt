@@ -61,6 +61,7 @@ AMR: Prototype Workpants: unknown
 AMR: Rare Browline Glasses: unknown
 AMR: Rare Sport Glasses: unknown
 AMR: Redesigned Shorts: unknown
+AMR: Redesigned Tank Top (Black): unknown
 AMR: Refined Sheep Horns: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Footwear_2: unknown
@@ -169,6 +170,7 @@ ART: Supershield: unknown
 ART: Takedown Shot: unknown
 ART: Titan Recharge: unknown
 ART: True Stream Edge: unknown
+ART: Ultraslash: unknown
 ART: Upper Hand: unknown
 ART: Wild Down: unknown
 ART: Wild Smash: unknown
@@ -434,6 +436,7 @@ SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
+SKAUG: SpecUp.FUEL-OD VI: unknown
 SKAUG: SpecUp.GP-MAX XVII: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.HP-MAX VI: unknown
