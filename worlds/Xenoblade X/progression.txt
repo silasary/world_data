@@ -538,11 +538,13 @@ SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-R630SA Shotgun_2: unknown
 SKWPN: SHM-R740SA Firegun_3: unknown
+SKWPN: SHM-R762SA E-Sniper_1: unknown
 SKWPN: SHM-XR1040SA E-Cannon: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SHM-XXM230ME B-Centipede: unknown
 SKWPN: SHM-XXR130ME Bladegun: unknown
+SKWPN: SHM-XXR460ME Firegun: unknown
 SKWPN: SHM-XXR920SA L-Cannon: unknown
 SKWPN: SKM-M220ME Claymore_3: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
@@ -633,6 +635,7 @@ WPN: Advanced Ophidian Retic: unknown
 WPN: Advanced Ophidian Sclopetum: unknown
 WPN: Advanced Ophidian Zorcyses: unknown
 WPN: Advanced Pulverizing Lightblade: unknown
+WPN: Advanced Soldier Sniper Rifle: unknown
 WPN: Advanced Storm Assault Rifle III: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Ruina II: unknown
@@ -726,6 +729,7 @@ WPN: Warrior Sclopetum_1: unknown
 WPN: Worn Carbide Blades: unknown
 WPN: Worn Carbide Sword II: unknown
 WPN: Worn Carbide Thudclang: unknown
+WPN: Worn Cermet Candela: unknown
 WPN: Worn Cermet Spear: unknown
 WPN: Worn Chrome Knife II: unknown
 WPN: Worn Chromoly Jyth: unknown
