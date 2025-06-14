@@ -83,6 +83,7 @@ AMR: Ultra Infinite Bulwark: unknown
 AMR: Ultra Infinite Corpus: progression
 AMR: Ultra Infinite Sleeve L: filler
 AMR: Ultra Limited Tank Top (Gray): unknown
+AMR: Ultra Limited Tank Top (Pink Camo): unknown
 AMR: Ultra Regal Brax R: unknown
 AMR: Ultra Regal Corpus: unknown
 AMR: Ultra Regal Distancers: unknown
@@ -261,6 +262,7 @@ AUG: Ranged Accuracy Up II: unknown
 AUG: Ranged Accuracy Up XI: filler
 AUG: Ranged Accuracy Up XX: unknown
 AUG: Ranged Draw Surge VI: unknown
+AUG: Reflect Damage Up IX: unknown
 AUG: Reflect Damage Up V: unknown
 AUG: Reflect Damage Up XX: unknown
 AUG: Reflect: Ether: unknown
@@ -440,6 +442,7 @@ SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: Slayer.MECHANOID IV: unknown
 SKAUG: Slayer.PISCINOID III: unknown
 SKAUG: Slayer.THEROID I: unknown
+SKAUG: Slayer.ULTRAFAUNA XIV: unknown
 SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
@@ -521,6 +524,7 @@ SKL: Yamato Spirit: useful
 SKWPN: ARES-SP0290 AVATARA: unknown
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M130ME Beam-Shield_1: unknown
+SKWPN: SAM-M132ME Beam-Shield_1: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
