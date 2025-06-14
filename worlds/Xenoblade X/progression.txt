@@ -317,6 +317,7 @@ FRD: Irina: unknown
 FRD: L: unknown
 FRD: Lao: progression
 FRD: Lin: unknown
+FRD: Mia: unknown
 FRD: Murderess: unknown
 FRD: Nagi: unknown
 FRD: Phog: unknown
@@ -335,6 +336,7 @@ SKAMR: SK40GG L-RARM-DEF_1: unknown
 SKAMR: SK40SA H-RARM-ATK2_1: unknown
 SKAMR: SK40SA L-BODY-ATK_3: unknown
 SKAMR: SK40SA L-RARM-SPD_2: unknown
+SKAMR: SK40SA M-LARM-RNG_2: unknown
 SKAMR: SK40SA M-LEGS-MEL_3: unknown
 SKAMR: SK50GG L-LEGS-DEF_3: unknown
 SKAMR: SK50ME H-LARM-ETH_3: unknown
@@ -525,6 +527,7 @@ SKWPN: SHM-R130GG HB-Rifle_2: filler
 SKWPN: SHM-R140GG HB-Rifle_3: unknown
 SKWPN: SHM-R160ME Bladegun_3: unknown
 SKWPN: SHM-R230ME B-Rifle_1: unknown
+SKWPN: SHM-R230ME B-Rifle_2: unknown
 SKWPN: SHM-R340ME B-Sniper_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
@@ -537,6 +540,7 @@ SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SHM-XXM230ME B-Centipede: unknown
 SKWPN: SHM-XXR130ME Bladegun: unknown
 SKWPN: SHM-XXR920SA L-Cannon: unknown
+SKWPN: SKM-M220ME Claymore_3: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
 SKWPN: SKM-M250ME Claymore_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
