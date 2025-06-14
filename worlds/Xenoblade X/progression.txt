@@ -114,6 +114,7 @@ AMR: Worn Combat Footwear: unknown
 AMR: Worn Forza Headset: unknown
 AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
+AMR: Worn Reginal Guard L: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua R: unknown
 AMR: Worn Valor Headset: unknown
@@ -129,6 +130,7 @@ ART: Astral Protection: useful
 ART: Atomic Hit: useful
 ART: Balance Breaker: unknown
 ART: Beam Barrage: unknown
+ART: Brainjack: unknown
 ART: Burning Slash: unknown
 ART: Clarity Ray: unknown
 ART: Cool Off: unknown
@@ -207,6 +209,7 @@ AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
 AUG: Extend Ether Res Down XII: unknown
 AUG: Extend Fatigue X: unknown
+AUG: Extend Gravity Res Down VIII: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Extend Overdrive XII: unknown
 AUG: Extend Slow Arts XVIII: unknown
@@ -279,6 +282,7 @@ AUG: Side Attack Plus II: unknown
 AUG: Side Attack Plus XI: unknown
 AUG: Stabilizer IX: unknown
 AUG: Stun: Decoy XIV: unknown
+AUG: TP Rebound II: unknown
 AUG: TP Rebound XIX: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
@@ -534,6 +538,7 @@ SKWPN: SHM-R230ME B-Rifle_1: unknown
 SKWPN: SHM-R230ME B-Rifle_2: unknown
 SKWPN: SHM-R340ME B-Sniper_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
+SKWPN: SHM-R430ME Firegun_1: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-R630SA Shotgun_2: unknown
@@ -697,6 +702,7 @@ WPN: Soldier Repethe_2: filler
 WPN: Soldier Retic_1: unknown
 WPN: Soldier Zorcyses_2: unknown
 WPN: Storm Dual Guns_1: unknown
+WPN: Storm Grando_1: unknown
 WPN: Storm Raygun_1: unknown
 WPN: Storm Repethe_2: filler
 WPN: Storm Saboteurs_3: unknown
