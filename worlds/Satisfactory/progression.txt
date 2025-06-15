@@ -89,6 +89,7 @@ Building: Power Pole Mk.3: unknown
 Building: Power Storage: useful
 Building: Power Switch: useful
 Building: Power Tower: useful
+Building: Priority Merger: useful
 Building: Priority Power Switch: useful
 Building: Programmable Splitter: progression
 Building: Quantum Encoder: unknown
@@ -469,9 +470,10 @@ Recipe: Molded Beam: unknown
 Recipe: Molded Steel Pipe: progression
 Recipe: Motor: useful
 Recipe: Neural-Quantum Processor: progression
-Recipe: Nitric Acid: unknown
+Recipe: Nitric Acid: progression
 Recipe: Nitro Rocket Fuel: unknown
 Recipe: Nitrogen Gas: unknown
+Recipe: Nobelisk Detonator: useful
 Recipe: Nobelisk: progression
 Recipe: Non-fissile Uranium: progression
 Recipe: Nuclear Pasta: unknown
@@ -594,6 +596,7 @@ Recipe: Wire: unknown
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: Alien Protein: filler
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
@@ -626,7 +629,7 @@ Transport: Hypertube Wall Hole: useful
 Transport: Hypertube Wall Support: unknown
 Transport: Hypertube: progression
 Transport: Tractor: unknown
-Transport: Trains: unknown
+Transport: Trains: useful
 Transport: Truck: useful
 Trap: Alpha Hog: unknown
 Trap: Alpha Spitter: trap
