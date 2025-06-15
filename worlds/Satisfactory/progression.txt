@@ -2,6 +2,7 @@ Building: AWESOME Shop: unknown
 Building: AWESOME Sink: progression
 Building: Alien Power Augmenter: unknown
 Building: Assembler: progression
+Building: Basic Shelf Unit: unknown
 Building: Billboard Set: unknown
 Building: Biomass Burner: unknown
 Building: Blender: progression
@@ -594,10 +595,12 @@ Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
+Single: Neural-Quantum Processor: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
+Single: Silica: unknown
 Single: Supercomputer: unknown
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
