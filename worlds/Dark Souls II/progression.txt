@@ -67,7 +67,7 @@ Claymore: unknown
 Cleric's Parma: unknown
 Cleric's Small Shield: unknown
 Club: unknown
-Combustion: unknown
+Combustion: filler
 Common Fruit: unknown
 Corrosive Urn: unknown
 Covetous Demon Soul: unknown
@@ -302,6 +302,7 @@ Priest's Chime: unknown
 Priestess Gloves: unknown
 Priestess Headpiece: unknown
 Priestess Robe: unknown
+Priestess Skirt: mcguffin
 Prism Stone: unknown
 Protective Chime: unknown
 Pyromancy Flame: unknown
@@ -318,7 +319,7 @@ Reinforced Club: unknown
 Repair Powder: unknown
 Repair: unknown
 Replenishment: unknown
-Resplendent Life: unknown
+Resplendent Life: filler
 Ricard's Rapier: unknown
 Ring of Binding: unknown
 Ring of Blades: unknown
@@ -355,7 +356,7 @@ Skeptic's Spice: unknown
 Small Leather Shield: filler
 Small Smooth & Silky Stone: unknown
 Smelter Demon Armor: unknown
-Smelter Demon Gauntlets: unknown
+Smelter Demon Gauntlets: filler
 Smelter Demon Leggings: unknown
 Smelter Demon Soul: unknown
 Smooth & Silky Stone: unknown
