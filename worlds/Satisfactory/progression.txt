@@ -455,6 +455,7 @@ Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
 Recipe: Iron Rod: unknown
 Recipe: Iron Wire: progression
+Recipe: Jetpack: unknown
 Recipe: Leached Caterium Ingot: progression
 Recipe: Leached Copper Ingot: progression
 Recipe: Leached Iron ingot: unknown
@@ -596,6 +597,7 @@ Single: Boom Box: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Parachute: unknown
+Single: Petroleum Coke: unknown
 Single: Supercomputer: unknown
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
