@@ -30,6 +30,7 @@ Building: Conveyor Mk.4: unknown
 Building: Conveyor Mk.5: unknown
 Building: Conveyor Mk.6: unknown
 Building: Conveyor Splitter: progression
+Building: Conveyor Wall Hole: unknown
 Building: Conveyor Wall Mount: unknown
 Building: Conveyor Walls: unknown
 Building: Corner Ramp Pack: unknown
@@ -593,6 +594,7 @@ Recipe: Wire: unknown
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
 Single: Neural-Quantum Processor: unknown
@@ -604,7 +606,8 @@ Single: Petroleum Coke: unknown
 Single: Plastic: unknown
 Single: Silica: unknown
 Single: Supercomputer: unknown
-Single: Versatile Framework: unknown
+Single: Versatile Framework: filler
+Single: Wood: unknown
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
 Spitter Forest: unknown
