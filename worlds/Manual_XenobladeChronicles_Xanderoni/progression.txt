@@ -135,6 +135,7 @@ Melia: Starlight Kick Art Book: useful
 Melia: Summon Aqua Art Book: useful
 Melia: Summon Bolt Art Book: useful
 Melia: Summon Copy Art Book: useful
+Melia: Summon Earth Art Book: useful
 Melia: Summon Flare Art Book: useful
 Melia: Summon Ice Art Book: useful
 Melia: Summon Wind Art Book: useful
@@ -157,7 +158,7 @@ Reyn: Dive Sobat Art Book: useful
 Reyn: Engage Art Book: useful
 Reyn: Enthusiasm Skill Tree: unknown
 Reyn: Guard Shift Art Book: useful
-Reyn: Hammer Beat Art Book: unknown
+Reyn: Hammer Beat Art Book: useful
 Reyn: Impatience Skill Tree: useful
 Reyn: Lariat Art Book: useful
 Reyn: Last Stand Art Book: useful
@@ -229,7 +230,7 @@ Shulk: Monado Purge Art Book: useful
 Shulk: Monado Shield Art Book: useful
 Shulk: Monado Speed Art Book: useful
 Shulk: Pessimism Skill Tree: useful
-Shulk: Shadow Eye Art Book: unknown
+Shulk: Shadow Eye Art Book: useful
 Shulk: Shaker Edge Art Book: useful
 Shulk: Slit Edge Art Book: useful
 Shulk: Stream Edge Art Book: useful
