@@ -30,6 +30,7 @@ Building: Conveyor Mk.4: unknown
 Building: Conveyor Mk.5: unknown
 Building: Conveyor Mk.6: unknown
 Building: Conveyor Splitter: progression
+Building: Conveyor Throughput Monitor: useful
 Building: Conveyor Wall Hole: unknown
 Building: Conveyor Wall Mount: unknown
 Building: Conveyor Walls: unknown
@@ -601,6 +602,7 @@ Single: Alien Protein: filler
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
+Single: Hog Remains: unknown
 Single: Neural-Quantum Processor: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
