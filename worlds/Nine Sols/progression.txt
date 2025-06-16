@@ -36,7 +36,7 @@
 (Database) Evacuation Notice For Miners: filler
 (Database) Farmland Markings: filler
 (Database) Galactic Dock Sign: filler
-(Database) Guard Production Station: unknown
+(Database) Guard Production Station: filler
 (Database) Haotian Sphere Model: filler
 (Database) Hexachrem Vault Scroll: useful
 (Database) Jie Clan Family Precept: filler
@@ -72,7 +72,7 @@
 (Recyclable) Passenger Token: A-Shou: filler
 (Recyclable) Passenger Token: Aimu: filler
 (Recyclable) Passenger Token: Jihai: filler
-(Recyclable) Passenger Token: Shiyangyue: unknown
+(Recyclable) Passenger Token: Shiyangyue: filler
 (Recyclable) Passenger Token: Xipu: filler
 (Recyclable) Passenger Token: Yangfan: filler
 (Recyclable) Passenger Token: Zouyan: filler
@@ -81,9 +81,9 @@ Abandoned Mines Access Token: progression
 Abandoned Mines Chip: useful
 Agricultural Zone Chip: useful
 Air Dash: progression
-Ancient Penglai Ballad: unknown
+Ancient Penglai Ballad: progression
 Arrow: Cloud Piercer: useful
-Arrow: Shadow Hunter: unknown
+Arrow: Shadow Hunter: progression
 Arrow: Thunder Buster: useful
 Avarice Jade: useful
 Bearing Jade: useful
@@ -123,7 +123,7 @@ Qi Blade Jade: useful
 Qi Swipe Jade: useful
 Research Center Chip: useful
 Revival Jade: useful
-Rhizomatic Bomb: unknown
+Rhizomatic Bomb: progression
 Seal of Fuxi: progression
 Seal of Goumang: progression
 Seal of Ji: progression
@@ -134,7 +134,7 @@ Seal of Nuwa: mcguffin
 Seal of Yanlao: mcguffin
 Soul Reaper Jade: useful
 Soul-Severing Blade: useful
-Stasis Jade: unknown
+Stasis Jade: useful
 Steely Jade: unknown
 Super Mutant Buster: progression
 Swift Blade Jade: useful
