@@ -553,6 +553,7 @@ SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_1: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
+SKWPN: SHM-R630SA Shotgun_1: unknown
 SKWPN: SHM-R630SA Shotgun_2: unknown
 SKWPN: SHM-R740SA Firegun_3: unknown
 SKWPN: SHM-R762SA E-Sniper_1: unknown
@@ -576,6 +577,7 @@ SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
 SKWPN: SRM-R250ME S-Missile_2: unknown
+SKWPN: SRM-R260GG Lasergun_1: unknown
 SKWPN: SRM-R260ME S-Missile_2: unknown
 SKWPN: SRM-R440ME Backbomb_1: filler
 SKWPN: SRM-R450SA Grenade_2: unknown
@@ -646,6 +648,7 @@ WPN: Advanced Chromoly Shield: unknown
 WPN: Advanced Cobalt Fulge II: unknown
 WPN: Advanced Destroyer Bliss: unknown
 WPN: Advanced Destroyer Grando: unknown
+WPN: Advanced Ophidian Assault Rifle II: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
 WPN: Advanced Ophidian Grando II: unknown
 WPN: Advanced Ophidian Retic: unknown
