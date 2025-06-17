@@ -1,5 +1,6 @@
 AddPC: unknown
 Anvil: progression
+Bombs: unknown
 Boulder: progression
 BuildStatue: unknown
 Burger: unknown
@@ -47,6 +48,7 @@ PC: unknown
 Princess Statue: filler
 Progressive Sword: progression
 ProgressiveSword: progression
+Sewer Pipe: unknown
 Shield: unknown
 Shop Cannon: unknown
 Shopkeeper: progression
