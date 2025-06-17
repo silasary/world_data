@@ -87,6 +87,7 @@ AMR: Ultra Limited Tank Top (Pink Camo): unknown
 AMR: Ultra Regal Brax R: unknown
 AMR: Ultra Regal Corpus: unknown
 AMR: Ultra Regal Distancers: unknown
+AMR: Ultra Regal Grip R: unknown
 AMR: Ultra Regal Wrest L: unknown
 AMR: Valor Armwear L_1: unknown
 AMR: Valor Brax R_1: unknown
@@ -107,6 +108,7 @@ AMR: Vivid Chiro R_3: unknown
 AMR: Vivid Mayx_1: unknown
 AMR: Vivid Mitt L_2: unknown
 AMR: Vivid Sleeve L_1: unknown
+AMR: Vivid Tythes_1: unknown
 AMR: Vivid Vizard_3: unknown
 AMR: Vivid Zyua R_2: unknown
 AMR: Warm Angel Halo: unknown
@@ -185,6 +187,7 @@ AUG: Arts: Gain TP VIII: unknown
 AUG: Arts: Gain TP X: unknown
 AUG: Arts: Gain TP XIV: unknown
 AUG: Aura Surge XVI: unknown
+AUG: Aural Cloaking III: unknown
 AUG: Aural Cloaking X: unknown
 AUG: Aural Cloaking XIX: unknown
 AUG: Back Attack Plus XIV: unknown
@@ -193,6 +196,8 @@ AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Critical Chance Up X: unknown
 AUG: Critical Surge IV: unknown
 AUG: Crush: Gain TP II: unknown
+AUG: Electric Attack Plus VII: unknown
+AUG: Electric Attack Plus XIII: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Attack Plus XVII: unknown
 AUG: Ether Attack Plus XVIII: unknown
@@ -215,6 +220,7 @@ AUG: Extend Fatigue X: unknown
 AUG: Extend Gravity Res Down VIII: unknown
 AUG: Extend Gravity Res Down XX: unknown
 AUG: Extend Overdrive XII: unknown
+AUG: Extend Overdrive XIII: unknown
 AUG: Extend Slow Arts XVIII: unknown
 AUG: Extend Taunt VII: unknown
 AUG: Extend Taunt XII: unknown
@@ -225,6 +231,8 @@ AUG: Focused Evasion XVII: unknown
 AUG: Gravity Attack Plus X: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Gravity Resistance Up XVI: unknown
+AUG: High Danger Surge VII: unknown
+AUG: Humanoid Criticals Up VIII: unknown
 AUG: Humanoid Criticals Up X: unknown
 AUG: Humanoid Slayer IV: unknown
 AUG: Humanoid Slayer XVII: unknown
@@ -251,6 +259,7 @@ AUG: Melee: Recover HP X: unknown
 AUG: Nullify Beam Reflect II: unknown
 AUG: Nullify Physical Reflect II: unknown
 AUG: Nullify Physical Reflect VII: unknown
+AUG: Opening Art: Damage Up II: unknown
 AUG: Overdrive: Gain TP XX: unknown
 AUG: Overdrive: Recover HP I: unknown
 AUG: Overdrive: Recover HP XIX: unknown
@@ -279,6 +288,7 @@ AUG: Resist Gravity Res Down XVIII: unknown
 AUG: Resist Knockback XI: unknown
 AUG: Resist Launch XIII: unknown
 AUG: Resist Shock VIII: unknown
+AUG: Resist Shock XVI: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Stagger XVII: unknown
 AUG: Resist Time Bomb XII: unknown
@@ -295,6 +305,7 @@ AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up VIII: filler
 AUG: Topple: Barrier XX: unknown
 AUG: Topple: Decoy V: unknown
+AUG: Untouchable Dash XI: unknown
 AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
 DP: Booster Probe G2: unknown
@@ -537,6 +548,7 @@ SKWPN: SAM-M160SA Shield_2: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-R120SA Minigun_3: unknown
 SKWPN: SAM-XM141SA Shield: unknown
+SKWPN: SAM-XR120SA Minigun: unknown
 SKWPN: SAM-XXM142ME Beam-Shield: unknown
 SKWPN: SAM-XXM144SA Shield: unknown
 SKWPN: SHM-M120ME B-Centipede_1: unknown
@@ -595,6 +607,7 @@ SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XR230GA T-Claw: unknown
 SKWPN: SRM-XR230ME S-Missile: unknown
+SKWPN: SRM-XR251GA T-Claw: unknown
 SKWPN: SRM-XR360LA A-Spear: unknown
 SKWPN: SRM-XR650SA Buster-Launcher: unknown
 SKWPN: SRM-XR743ME F-Wave: unknown
@@ -604,6 +617,7 @@ SKWPN: SRM-XXR140GG P-Cannon: unknown
 SKWPN: SRM-XXR140ME B-Gatling: unknown
 SKWPN: SRM-XXR330GG H-Arrow: unknown
 SKWPN: SRM-XXR450GG Phoenix: filler
+SKWPN: SRM-XXR520ME Meteor: unknown
 SKWPN: SRM-XXR720ME F-Wave: unknown
 SKWPN: SRM-XXR730ME F-Wave: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
@@ -620,6 +634,7 @@ SKWPN: SSM-R260GG Voltstorm_1: unknown
 SKWPN: SSM-R340GG SHD-Gravity_2: unknown
 SKWPN: SSM-R350SA SHD-Gatling_2: unknown
 SKWPN: SSM-R360ME SHD-Missile_3: filler
+SKWPN: SSM-R420GG Antipulser_1: unknown
 SKWPN: SSM-R420SA SHD-Ray_1: unknown
 SKWPN: SSM-R420SA SHD-Ray_3: unknown
 SKWPN: SSM-R430GG Antipulser_3: unknown
