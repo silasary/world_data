@@ -413,6 +413,7 @@ SKAUG: M-Auto.PHYS-DOWN VI: unknown
 SKAUG: M-Auto.SHOCK VII: unknown
 SKAUG: M-Auto.SHOCK X: unknown
 SKAUG: M-Auto.SHOCK XVIII: unknown
+SKAUG: M-Auto.THERM-DOWN IV: unknown
 SKAUG: Night.MR-ACC II: unknown
 SKAUG: Overdrive.APPEND-HP III: unknown
 SKAUG: Overdrive.APPEND-HP XVIII: unknown
