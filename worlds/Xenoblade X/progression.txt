@@ -244,6 +244,7 @@ AUG: Melee Attack Boost XV: unknown
 AUG: Melee Attack Up XIX: unknown
 AUG: Melee Draw Surge XV: unknown
 AUG: Melee: Blackout VII: unknown
+AUG: Melee: Blaze XIII: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
 AUG: Melee: Recover HP X: unknown
@@ -407,6 +408,7 @@ SKAUG: M-Auto.ETHER-DOWN VI: unknown
 SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.FATIGUE XVIII: unknown
+SKAUG: M-Auto.GRAV-DOWN VI: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.HP-RECOV XV: unknown
 SKAUG: M-Auto.PHYS-DOWN VI: unknown
@@ -531,6 +533,7 @@ SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
 SKWPN: SAM-M154SA Shield_2: unknown
+SKWPN: SAM-M160SA Shield_2: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
 SKWPN: SAM-R120SA Minigun_3: unknown
 SKWPN: SAM-XM141SA Shield: unknown
