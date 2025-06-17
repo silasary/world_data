@@ -3,11 +3,14 @@ Progressive-Bosco-Revive: useful
 Progressive-Carriable-Throwing: unknown
 Progressive-Carrying-Capacity: unknown
 Progressive-Carrying-Speed: unknown
+Progressive-Cold-Resistance: unknown
 Progressive-Deposit-Speed: unknown
 Progressive-Electric-Resistance: unknown
 Progressive-Fall-Resistance: unknown
 Progressive-Field-Medic: unknown
+Progressive-Fire-Resistance: unknown
 Progressive-Flare-Count: unknown
+Progressive-Flare-Recharge: unknown
 Progressive-Flare-Throwing: unknown
 Progressive-Gold-Mining: unknown
 Progressive-Grenades: unknown
@@ -35,6 +38,8 @@ Progressive-Shield-Regen-Delay: unknown
 Progressive-Slow-Resistance: unknown
 Progressive-Sprint-Speed: unknown
 Progressive-Steve-Cooldown: unknown
+Progressive-Thorns: unknown
+Progressive-Traversal-Tool: unknown
 Progressive-Vampirism: unknown
 Progressive-Zipline-Speed: unknown
 Resource-Mining-Strength: unknown
