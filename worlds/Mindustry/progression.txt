@@ -53,6 +53,7 @@ Kiln: unknown
 Lancer: unknown
 Large Battery: unknown
 Large Carbide Wall: unknown
+Large Constructor: unknown
 Large Copper Wall: filler
 Large Deconstructor: unknown
 Large Door: unknown
@@ -138,6 +139,7 @@ Reinforced Container: unknown
 Reinforced Liquid Junction: progression
 Reinforced Liquid Tank: unknown
 Reinforced Message: unknown
+Reinforced Payload Router: unknown
 Reinforced Pump: unknown
 Reinforced Surge Wall: useful
 Reinforced Vault: unknown
