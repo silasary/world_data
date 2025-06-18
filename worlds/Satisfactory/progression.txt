@@ -280,7 +280,7 @@ Bundle: Steel Ingot: filler
 Bundle: Steel Pipe: filler
 Bundle: Stinger Remains: filler
 Bundle: Stun Rebar: filler
-Bundle: Sulfur: unknown
+Bundle: Sulfur: filler
 Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
