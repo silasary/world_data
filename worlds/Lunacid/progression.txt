@@ -29,7 +29,7 @@ Coffin: progression
 Corpse Transformation: progression
 Corrupt Key: progression
 Corrupted Dagger: useful
-Crossbow: unknown
+Crossbow: progression
 Crystal Lantern: progression
 Crystal Shard: useful
 Dark Greatsword: useful
@@ -58,6 +58,7 @@ Fire Opal: filler
 Fire Sword: useful
 Fire Worm: progression
 Fishing Spear: unknown
+Flame Flare: progression
 Flame Spear: progression
 Fool's Gold: mcguffin
 Forbidden Door Key: unknown
@@ -164,7 +165,7 @@ Survey Banner: filler
 Temple of Earth Switch Key: unknown
 Temple of Silence Switch Key: progression
 Temple of Water Switch Key: progression
-Terminus Prison Back Alley Switch Key: unknown
+Terminus Prison Back Alley Switch Key: useful
 Terminus Prison Key: unknown
 Text on Great Well Resourcefulness: filler
 Thorn: unknown
