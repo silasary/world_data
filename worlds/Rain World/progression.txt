@@ -50,9 +50,10 @@ Gate: Industrial Complex to Garbage Wastes: unknown
 Gate: Industrial Complex to Pipeyard: unknown
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: progression
-Gate: Outskirts to Industrial Complex: unknown
+Gate: Outskirts to Industrial Complex: progression
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: unknown
+Gate: Shoreline to Bitter Aerie: progression
 Gate: Shoreline to Pipeyard: unknown
 Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: unknown
