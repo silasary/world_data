@@ -445,6 +445,7 @@ SKAUG: Reflect.ADD-THERM: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
 SKAUG: Reflect.DAMAGE-UP XVI: unknown
 SKAUG: Reflect.NEG-BEAM XV: unknown
+SKAUG: Reflect.NEG-ELEC XVI: unknown
 SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
@@ -467,6 +468,7 @@ SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.FUEL-OD VI: unknown
+SKAUG: SpecUp.FUEL-PARK XV: unknown
 SKAUG: SpecUp.GP-MAX XVII: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.HP-MAX VI: unknown
@@ -492,6 +494,7 @@ SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.BRIMSTONE-RES: unknown
 SKAUG: Weather.DAMAGE-RES VI: unknown
 SKAUG: Weather.S-STORM-RES: unknown
+SKF: AS0430 Lailah ST: unknown
 SKF: AS0450 Lailah ST: unknown
 SKF: Amdusias Hades: unknown
 SKF: Lailah Queen: unknown
@@ -662,6 +665,7 @@ SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR240GG Voltstorm: unknown
 SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
+SKWPN: SSM-XXRX530SA M-XXSniper: unknown
 WPN: Advanced Cermet Fulge II: unknown
 WPN: Advanced Cermet Parce: unknown
 WPN: Advanced Cermet Parma II: unknown
