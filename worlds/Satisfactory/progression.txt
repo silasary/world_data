@@ -549,6 +549,7 @@ Recipe: Silica: progression
 Recipe: Silicon Circuit Board: progression
 Recipe: Silicon High-Speed Connector: progression
 Recipe: Singularity Cell: progression
+Recipe: Sloppy Alumina: unknown
 Recipe: Smart Plating: progression
 Recipe: Smokeless Powder: progression
 Recipe: Solid Biofuel: useful
