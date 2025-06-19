@@ -1,7 +1,9 @@
 AMR: Abominable Facade: unknown
+AMR: Advanced Combat Headset: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Forza Vestis: unknown
+AMR: Advanced Heavy Mother God's Plate: unknown
 AMR: Advanced Reginal Casca: unknown
 AMR: Advanced Reginal Footwear: unknown
 AMR: Advanced Reginal Shirt: unknown
@@ -16,10 +18,12 @@ AMR: Advanced Warrior's Vambrace R: unknown
 AMR: Bargain Browline Glasses: unknown
 AMR: Bargain Jeans: filler
 AMR: Busted Bodywear: unknown
+AMR: Combat Boots_2: unknown
 AMR: Combat Cassida_3: unknown
 AMR: Combat Corpus_1: unknown
 AMR: Combat Crura_1: unknown
 AMR: Combat Distancers_1: unknown
+AMR: Combat Guard L_2: unknown
 AMR: Combat Ocreis_1: unknown
 AMR: Combat Screen_2: unknown
 AMR: Combat Shirt_2: unknown
@@ -232,6 +236,7 @@ AUG: Extend Taunt XV: unknown
 AUG: Extend Virus XV: unknown
 AUG: Extend Virus XVII: unknown
 AUG: Focused Evasion XVII: unknown
+AUG: Front Attack Plus IX: unknown
 AUG: Gravity Attack Plus X: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Gravity Resistance Up XVI: unknown
@@ -311,6 +316,7 @@ AUG: Theroid Criticals Up VI: unknown
 AUG: Theroid Criticals Up VIII: filler
 AUG: Topple: Barrier XX: unknown
 AUG: Topple: Decoy V: unknown
+AUG: Ultrafauna Criticals Up XVII: unknown
 AUG: Untouchable Dash XI: unknown
 AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
@@ -667,6 +673,7 @@ SKWPN: SSM-RX350SA F-Rifle_3: unknown
 SKWPN: SSM-RX420SA B-Gatling_3: unknown
 SKWPN: SSM-RX450SA B2-Gatling_2: unknown
 SKWPN: SSM-XR140ME M-Missile: unknown
+SKWPN: SSM-XR150ME M-Missile: unknown
 SKWPN: SSM-XR230SA F-Grenade: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
@@ -716,6 +723,7 @@ WPN: Chrome Fulge_1: unknown
 WPN: Chrome Knife_1: unknown
 WPN: Chrome Parma II_2: unknown
 WPN: Chrome Sword_1: unknown
+WPN: Chromoly Bolide_1: unknown
 WPN: Chromoly Parma II_2: unknown
 WPN: Chromoly Pilum_1: unknown
 WPN: Chromoly Pugio_1: unknown
@@ -762,6 +770,7 @@ WPN: Storm Dual Guns_1: unknown
 WPN: Storm Grando_1: unknown
 WPN: Storm Raygun_1: unknown
 WPN: Storm Repethe_2: filler
+WPN: Storm Ruina II_2: unknown
 WPN: Storm Saboteurs_3: unknown
 WPN: Striker Assault Rifle_2: unknown
 WPN: Striker Crank_1: unknown
@@ -772,6 +781,7 @@ WPN: Titanium Gladiis_1: unknown
 WPN: Titanium Haven_1: filler
 WPN: Titanium Iyst II_1: unknown
 WPN: Titanium Knife III_2: unknown
+WPN: Titanium Pilum II_2: unknown
 WPN: Titanium Saber_2: unknown
 WPN: Trial Sword: unknown
 WPN: Ultra Ceramic Candela III: unknown
