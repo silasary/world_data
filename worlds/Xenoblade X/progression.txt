@@ -144,6 +144,7 @@ ART: Beam Barrage: unknown
 ART: Brainjack: unknown
 ART: Burning Slash: unknown
 ART: Clarity Ray: unknown
+ART: Combat Limbo: unknown
 ART: Cool Off: unknown
 ART: Defensive Stance: unknown
 ART: Drum Roll: unknown
@@ -190,6 +191,7 @@ ART: Upper Hand: unknown
 ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
+AUG: Arts: Gain TP III: unknown
 AUG: Arts: Gain TP VIII: unknown
 AUG: Arts: Gain TP X: unknown
 AUG: Arts: Gain TP XIV: unknown
@@ -237,6 +239,7 @@ AUG: Extend Virus XV: unknown
 AUG: Extend Virus XVII: unknown
 AUG: Focused Evasion XVII: unknown
 AUG: Front Attack Plus IX: unknown
+AUG: Gravity Attack Plus III: unknown
 AUG: Gravity Attack Plus X: unknown
 AUG: Gravity Attack Plus XII: unknown
 AUG: Gravity Resistance Up XVI: unknown
@@ -435,6 +438,7 @@ SKAUG: M-Auto.FATIGUE V: unknown
 SKAUG: M-Auto.FATIGUE VI: unknown
 SKAUG: M-Auto.FATIGUE XVIII: unknown
 SKAUG: M-Auto.GRAV-DOWN VI: unknown
+SKAUG: M-Auto.GRAV-DOWN XIV: unknown
 SKAUG: M-Auto.GRAV-DOWN XVIII: unknown
 SKAUG: M-Auto.HP-RECOV XV: unknown
 SKAUG: M-Auto.PHYS-DOWN VI: unknown
@@ -690,6 +694,7 @@ WPN: Advanced Cermet Parma II: unknown
 WPN: Advanced Chrome Gladiis: unknown
 WPN: Advanced Chrome Paive: unknown
 WPN: Advanced Chrome Pugio: unknown
+WPN: Advanced Chrome Saber: unknown
 WPN: Advanced Chromoly Shield: unknown
 WPN: Advanced Cobalt Fulge II: unknown
 WPN: Advanced Destroyer Bliss: unknown
