@@ -524,7 +524,7 @@ Recipe: Quartz Purification: unknown
 Recipe: Quickwire Cable: progression
 Recipe: Quickwire Stator: progression
 Recipe: Quickwire: progression
-Recipe: Radio Connection Unit: unknown
+Recipe: Radio Connection Unit: progression
 Recipe: Radio Control System: progression
 Recipe: Radio Control Unit: progression
 Recipe: Reanimated SAM: progression
@@ -604,6 +604,7 @@ Single: Alien Protein: filler
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
+Single: Ficsite Ingot: unknown
 Single: Hog Remains: unknown
 Single: Neural-Quantum Processor: unknown
 Single: Object Scanner: unknown
