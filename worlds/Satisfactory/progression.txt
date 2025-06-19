@@ -567,7 +567,7 @@ Recipe: Steel Pipe: useful
 Recipe: Steel Rod: unknown
 Recipe: Steel Rotor: progression
 Recipe: Steel Screw: useful
-Recipe: Steeled Frame: unknown
+Recipe: Steeled Frame: progression
 Recipe: Stinger Protein: unknown
 Recipe: Stitched Iron Plate: progression
 Recipe: Stun Rebar: useful
@@ -604,7 +604,7 @@ Single: Alien Protein: filler
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
-Single: Ficsite Ingot: unknown
+Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
 Single: Neural-Quantum Processor: unknown
 Single: Object Scanner: unknown
@@ -613,6 +613,7 @@ Single: Packaged Nitrogen Gas: unknown
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
+Single: Pressure Conversion Cube: filler
 Single: Silica: unknown
 Single: Steel Ingot: unknown
 Single: Stun Rebar: unknown
