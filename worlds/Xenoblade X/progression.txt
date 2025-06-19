@@ -74,6 +74,7 @@ AMR: Reginal Tuesta_1: unknown
 AMR: Reginal Ward R_1: unknown
 AMR: Survival Glove L_2: unknown
 AMR: Survival Headset_3: unknown
+AMR: Survival Pants_2: unknown
 AMR: Tank Top (Pink Camo): filler
 AMR: Ultra Boundless Gauntlet R: unknown
 AMR: Ultra Boundless Vambrace L: unknown
@@ -211,6 +212,7 @@ AUG: Extend Control XV: unknown
 AUG: Extend Critical Power XV: unknown
 AUG: Extend Debuff Res Down III: unknown
 AUG: Extend Debuff Res Down VII: unknown
+AUG: Extend Electric Res Down II: unknown
 AUG: Extend Electric Res Down VI: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
@@ -324,6 +326,7 @@ DP: Mining Probe G7: unknown
 DP: Mining Probe G8: mcguffin
 DP: Mining Probe G9: progression
 DP: Ranged Attack Probe: unknown
+DP: Research Probe G1: unknown
 DP: Research Probe G2: unknown
 DP: Research Probe G4: unknown
 DP: Research Probe G5: unknown
@@ -331,6 +334,7 @@ DP: Storage Probe: unknown
 FLDSK: Archeological: unknown
 FLDSK: Biological: unknown
 FRD: Alexa: unknown
+FRD: Boze: unknown
 FRD: Celica: unknown
 FRD: Doug: unknown
 FRD: Elma: unknown
@@ -482,6 +486,7 @@ SKAUG: TimeEx.SHOCK X: unknown
 SKAUG: TimeEx.SLEEP III: filler
 SKAUG: TimeEx.SLEEP IV: unknown
 SKAUG: TimeEx.SLOW-ARTS V: unknown
+SKAUG: TimeEx.SLOW-ARTS XX: unknown
 SKAUG: TimeEx.THERM-DOWN XII: unknown
 SKAUG: Vehicle.FRAME-DEF XII: unknown
 SKAUG: Weather.BRIMSTONE-RES: unknown
@@ -541,6 +546,7 @@ SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M130ME Beam-Shield_1: unknown
 SKWPN: SAM-M132ME Beam-Shield_1: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
+SKWPN: SAM-M150ME Beam-Shield_1: unknown
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
 SKWPN: SAM-M154SA Shield_2: unknown
@@ -582,6 +588,7 @@ SKWPN: SKM-M250ME Claymore_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
 SKWPN: SKM-R330GG Cracker-FL_3: unknown
 SKWPN: SKM-R330ME Cracker-PD_1: unknown
+SKWPN: SKM-R330ME Cracker-PD_2: unknown
 SKWPN: SKM-R330ME Cracker-PD_3: unknown
 SKWPN: SKM-R350ME Cracker-PD_3: unknown
 SKWPN: SKM-R350SA Cracker-BM_3: unknown
@@ -603,6 +610,7 @@ SKWPN: SRM-R752ME F-Wave_2: unknown
 SKWPN: SRM-R754ME F-Wave_3: unknown
 SKWPN: SRM-R764ME F-Wave_2: unknown
 SKWPN: SRM-USP160SA Hexad-Partican: filler
+SKWPN: SRM-USP360GG Zweihand-Q: unknown
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XR230GA T-Claw: unknown
@@ -648,6 +656,7 @@ SKWPN: SSM-XR140ME M-Missile: unknown
 SKWPN: SSM-XR230SA F-Grenade: unknown
 SKWPN: SSM-XR2450GA E-Bubble: unknown
 SKWPN: SSM-XR330ME SHD-Missile: unknown
+SKWPN: SSM-XR420SA SHD-Ray: unknown
 SKWPN: SSM-XRX460SA B2-Gatling: unknown
 SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR240GG Voltstorm: unknown
@@ -722,6 +731,7 @@ WPN: Ophidian Bliss_2: unknown
 WPN: Ophidian Dyads II_2: unknown
 WPN: Ophidian Radius II_2: unknown
 WPN: Ophidian Rapture_1: unknown
+WPN: Ophidian Ruina_2: unknown
 WPN: Ophidian Sicarius_3: unknown
 WPN: Ophidian Strobe_1: unknown
 WPN: Original Assailer: unknown
