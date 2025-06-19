@@ -18,6 +18,7 @@ Progressive-Grenades: unknown
 Progressive-Gun-Ammo: unknown
 Progressive-Hover-Boots: unknown
 Progressive-Iron-Will: unknown
+Progressive-Jet-Boots: unknown
 Progressive-Max-Health: unknown
 Progressive-Max-Shield-Regen: unknown
 Progressive-Max-Shield: unknown
@@ -34,6 +35,7 @@ Progressive-Resupply-Incremental-Cost: unknown
 Progressive-Resupply-Speed: unknown
 Progressive-Resupply-Start-Cost: unknown
 Progressive-Revive-Speed: unknown
+Progressive-Rock-Mining: unknown
 Progressive-See-You-In-Hell: unknown
 Progressive-Shield-Regen-Delay: unknown
 Progressive-Slow-Resistance: unknown
@@ -41,6 +43,7 @@ Progressive-Sprint-Speed: unknown
 Progressive-Steve-Cooldown: unknown
 Progressive-Thorns: unknown
 Progressive-Traversal-Tool: unknown
+Progressive-Utility: unknown
 Progressive-Vampirism: unknown
 Progressive-Zipline-Speed: unknown
 Resource-Mining-Strength: unknown
