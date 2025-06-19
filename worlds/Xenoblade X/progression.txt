@@ -651,6 +651,7 @@ SKWPN: SRM-XXR450GG Phoenix: filler
 SKWPN: SRM-XXR520ME Meteor: unknown
 SKWPN: SRM-XXR720ME F-Wave: unknown
 SKWPN: SRM-XXR730ME F-Wave: unknown
+SKWPN: SRM-XXR732ME F-Wave: unknown
 SKWPN: SSM-M130ME Heathorn_1: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
 SKWPN: SSM-MX130SA G2-Buster_1: useful
@@ -735,6 +736,7 @@ WPN: Chromoly Pugio_1: unknown
 WPN: Chromoly Saber_3: unknown
 WPN: Cobalt Honor_2: unknown
 WPN: Cobalt Knife II_3: unknown
+WPN: Cobalt Riv_2: unknown
 WPN: Cobalt Riv_3: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Combat Shield: filler
