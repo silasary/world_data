@@ -123,6 +123,7 @@ AMR: Worn Reginal Guard L: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua L: unknown
 AMR: Worn Reginal Zyua R: unknown
+AMR: Worn Valor Breaker: unknown
 AMR: Worn Valor Headset: unknown
 AMR: Worn Valor Mayx L: unknown
 AMR: Worn Valor Tythes: unknown
@@ -153,6 +154,7 @@ ART: Flamehand: unknown
 ART: Full Specs: unknown
 ART: Furious Blast: unknown
 ART: Geolibrium: unknown
+ART: Ghost Factory: unknown
 ART: Ghostwalker: unknown
 ART: Gravity Cloak: unknown
 ART: Hair Trigger: unknown
@@ -304,6 +306,8 @@ AUG: TP Rebound II: unknown
 AUG: TP Rebound XIX: unknown
 AUG: Taunt: Barrier XII: unknown
 AUG: Taunt: Barrier XIII: unknown
+AUG: Theroid Criticals Up II: unknown
+AUG: Theroid Criticals Up VI: unknown
 AUG: Theroid Criticals Up VIII: filler
 AUG: Topple: Barrier XX: unknown
 AUG: Topple: Decoy V: unknown
@@ -398,6 +402,7 @@ SKAUG: Boost.HP-MAX VIII: unknown
 SKAUG: Boost.HP-MAX XII: unknown
 SKAUG: Boost.HP-MAX XIII: unknown
 SKAUG: Boost.HP-MAX XX: unknown
+SKAUG: Boost.M-ACC IV: unknown
 SKAUG: Cloak.SOUND XVI: filler
 SKAUG: CritUp.INSECTOID VIII: unknown
 SKAUG: CritUp.MECHANOID VI: unknown
@@ -440,16 +445,19 @@ SKAUG: Overdrive.FRAME-HP IV: unknown
 SKAUG: Overdrive.FRAME-HP XI: unknown
 SKAUG: PositionDmg.ABOVE XI: unknown
 SKAUG: PositionDmg.BACK XX: unknown
+SKAUG: PositionDmg.SIDE XVIII: unknown
 SKAUG: Reflect.ADD-PHYS: unknown
 SKAUG: Reflect.ADD-THERM: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
 SKAUG: Reflect.DAMAGE-UP XVI: unknown
 SKAUG: Reflect.NEG-BEAM XV: unknown
 SKAUG: Reflect.NEG-ELEC XVI: unknown
+SKAUG: Reflect.NEG-THERM XVII: unknown
 SKAUG: Resist.BEAM-DOWN XI: unknown
 SKAUG: Resist.DEBUFF-DOWN III: unknown
 SKAUG: Resist.ELEC-DOWN II: unknown
 SKAUG: Resist.ETHER-DOWN XX: filler
+SKAUG: Resist.FATIGUE XVI: unknown
 SKAUG: Resist.LAUNCH IX: unknown
 SKAUG: Resist.LAUNCH XII: unknown
 SKAUG: Resist.PHYS-DOWN III: unknown
@@ -518,6 +526,7 @@ SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
 SKL: Iron Knuckle: unknown
+SKL: King's Decree: unknown
 SKL: Lifeline: unknown
 SKL: Long Shot: unknown
 SKL: Long Topple: unknown
@@ -548,6 +557,7 @@ SKWPN: ARES-SP0290 AVATARA: unknown
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M130ME Beam-Shield_1: unknown
 SKWPN: SAM-M132ME Beam-Shield_1: unknown
+SKWPN: SAM-M142ME Beam-Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M150ME Beam-Shield_1: unknown
 SKWPN: SAM-M153SA Shield_2: unknown
@@ -631,6 +641,7 @@ SKWPN: SRM-XXR450GG Phoenix: filler
 SKWPN: SRM-XXR520ME Meteor: unknown
 SKWPN: SRM-XXR720ME F-Wave: unknown
 SKWPN: SRM-XXR730ME F-Wave: unknown
+SKWPN: SSM-M130ME Heathorn_1: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
 SKWPN: SSM-MX130SA G2-Buster_1: useful
 SKWPN: SSM-MX140SA G-Buster_2: filler
