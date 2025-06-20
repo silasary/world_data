@@ -49,7 +49,7 @@ Building: Frame foundation: unknown
 Building: Fuel Generator: progression
 Building: Gates: unknown
 Building: Geothermal Generator: useful
-Building: Half Foundation: unknown
+Building: Half Foundation: useful
 Building: Industrial Fluid Buffer: unknown
 Building: Industrial Railing: unknown
 Building: Industrial Storage Container: useful
@@ -96,7 +96,7 @@ Building: Programmable Splitter: progression
 Building: Quantum Encoder: unknown
 Building: Quarter Pipe Extensions Pack: unknown
 Building: Quarter Pipes Pack: unknown
-Building: Radar Tower: unknown
+Building: Radar Tower: useful
 Building: Ramp Wall Bundle: unknown
 Building: Refinery: unknown
 Building: Resource Well Pressurizer: useful
@@ -183,6 +183,7 @@ Bundle: Fabric: unknown
 Bundle: Factory Cart (golden): unknown
 Bundle: Factory Cart: filler
 Bundle: Ficsite Ingot: filler
+Bundle: Ficsite Trigon: unknown
 Bundle: Flower Petals: filler
 Bundle: Fused Modular Frame: unknown
 Bundle: Gas Filter: filler
@@ -318,6 +319,7 @@ Dimensional Depot upload from inventory: unknown
 Doggo Gas Nobelisk: unknown
 Doggo Nuke Nobelisk: unknown
 Doggo Pulse Nobelisk: unknown
+Doggo with Power Slug: unknown
 Doggo with PowerSlug: unknown
 Expanded Toolbelt: useful
 Hatcher: unknown
@@ -496,7 +498,7 @@ Recipe: Packaged Rocket Fuel: useful
 Recipe: Packaged Sulfuric Acid: unknown
 Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
-Recipe: Parachute: unknown
+Recipe: Parachute: useful
 Recipe: Petroleum Coke: progression
 Recipe: Petroleum Diamonds: progression
 Recipe: Pink Diamonds: progression
