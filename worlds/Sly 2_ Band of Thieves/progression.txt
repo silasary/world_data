@@ -32,6 +32,7 @@ Clockwerk Lung (Left): unknown
 Clockwerk Lung (Right): mcguffin
 Clockwerk Neck: mcguffin
 Clockwerk Pelvis: unknown
+Clockwerk Ribcage: mcguffin
 Clockwerk Skull: unknown
 Clockwerk Stomach: mcguffin
 Clockwerk Tail Feathers: unknown
@@ -67,7 +68,7 @@ Raging Inferno Flop: unknown
 Reduction Bomb: unknown
 Shadow Power: unknown
 Silent Obliteration: unknown
-Size Destabilizer: unknown
+Size Destabilizer: useful
 Smoke Bomb: unknown
 Snooze Bomb: useful
 Stealth Slide: unknown
