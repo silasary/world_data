@@ -105,7 +105,7 @@ Building: Roof Corners: unknown
 Building: Roofs: unknown
 Building: Smart Splitter: unknown
 Building: Smelter: unknown
-Building: Space Elevator: unknown
+Building: Space Elevator: progression
 Building: Stackable Conveyor Pole: unknown
 Building: Stackable Pipeline Support: unknown
 Building: Stairs: unknown
@@ -359,7 +359,7 @@ Recipe: Biomass (Mycelia): progression
 Recipe: Biomass (Wood): unknown
 Recipe: Black Powder: progression
 Recipe: Blade Runners: useful
-Recipe: Bolted Frame: unknown
+Recipe: Bolted Frame: progression
 Recipe: Bolted Iron Plate: unknown
 Recipe: Cable: unknown
 Recipe: Cast Screw: useful
@@ -635,7 +635,7 @@ Transport: Factory Cart: unknown
 Transport: Fluid Trains: unknown
 Transport: Hypertube Floor Hole: filler
 Transport: Hypertube Wall Hole: useful
-Transport: Hypertube Wall Support: unknown
+Transport: Hypertube Wall Support: useful
 Transport: Hypertube: progression
 Transport: Tractor: unknown
 Transport: Trains: useful
