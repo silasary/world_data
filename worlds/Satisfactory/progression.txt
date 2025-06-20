@@ -355,6 +355,7 @@ Recipe: Basic Iron Ingot: unknown
 Recipe: Battery: useful
 Recipe: Beacon: useful
 Recipe: Biochemical Sculptor: unknown
+Recipe: Biocoal: unknown
 Recipe: Biomass (Alien Protein): progression
 Recipe: Biomass (Leaves): unknown
 Recipe: Biomass (Mycelia): progression
