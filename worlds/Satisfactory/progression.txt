@@ -164,7 +164,7 @@ Bundle: Concrete: filler
 Bundle: Confusing Creature Statue: filler
 Bundle: Cooling System: unknown
 Bundle: Copper Ingot: filler
-Bundle: Copper Ore: unknown
+Bundle: Copper Ore: filler
 Bundle: Copper Powder: unknown
 Bundle: Copper Sheet: filler
 Bundle: Crystal Oscillator: filler
@@ -409,7 +409,7 @@ Recipe: Electrode Circuit Board: progression
 Recipe: Electromagnetic Connection Rod: progression
 Recipe: Electromagnetic Control Rod: progression
 Recipe: Empty Canister: filler
-Recipe: Empty Fluid Tank: unknown
+Recipe: Empty Fluid Tank: useful
 Recipe: Encased Industrial Beam: progression
 Recipe: Encased Industrial Pipe: progression
 Recipe: Encased Plutonium Cell: progression
@@ -444,7 +444,7 @@ Recipe: Heat-Fused Frame: progression
 Recipe: Heavy Encased Frame: progression
 Recipe: Heavy Flexible Frame: progression
 Recipe: Heavy Modular Frame: progression
-Recipe: Heavy Oil Residue: unknown
+Recipe: Heavy Oil Residue: progression
 Recipe: High-Speed Connector: progression
 Recipe: Hog Protein: progression
 Recipe: Homing Rifle Ammo: useful
