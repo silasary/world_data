@@ -104,6 +104,7 @@ Parallax: unknown
 Payload Conveyor: unknown
 Payload Loader: unknown
 Payload Router: unknown
+Payload Unloader: unknown
 Phase Conduit: unknown
 Phase Conveyor: unknown
 Phase Wall: useful
