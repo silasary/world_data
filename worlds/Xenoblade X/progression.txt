@@ -55,6 +55,7 @@ AMR: Limited Tank Top (White): unknown
 AMR: Mother God's Crest_3: unknown
 AMR: Mother God's Greaves_1: unknown
 AMR: Mother God's Helm_1: unknown
+AMR: Overlord's Crest_3: unknown
 AMR: Overlord's Gauntlet L_1: unknown
 AMR: Overlord's Mask_3: unknown
 AMR: Prime Diving Band R_1: unknown
@@ -296,6 +297,7 @@ AUG: Resist Control XX: unknown
 AUG: Resist Fatigue II: unknown
 AUG: Resist Fatigue X: unknown
 AUG: Resist Fatigue XX: unknown
+AUG: Resist Flinch XVII: unknown
 AUG: Resist Gravity Res Down XIX: unknown
 AUG: Resist Gravity Res Down XVIII: unknown
 AUG: Resist Knockback XI: unknown
@@ -325,6 +327,7 @@ AUG: Untouchable Dash XI: unknown
 AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
 CL: Galactic Knight: unknown
+DP: Attribute Resistance Probe: unknown
 DP: Booster Probe G2: unknown
 DP: Duplicator Probe: unknown
 DP: EZ Debuff Probe: unknown
@@ -622,6 +625,7 @@ SKWPN: SKM-R350SA Cracker-BM_3: unknown
 SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
+SKWPN: SRM-R160ME B-Gatling_3: unknown
 SKWPN: SRM-R250ME S-Missile_2: unknown
 SKWPN: SRM-R260GG Lasergun_1: unknown
 SKWPN: SRM-R260ME S-Missile_2: unknown
@@ -659,6 +663,7 @@ SKWPN: SRM-XXR732ME F-Wave: unknown
 SKWPN: SSM-M130ME Heathorn_1: unknown
 SKWPN: SSM-M130ME Heathorn_2: unknown
 SKWPN: SSM-MX130SA G2-Buster_1: useful
+SKWPN: SSM-MX130SA G2-Buster_3: unknown
 SKWPN: SSM-MX140SA G-Buster_2: filler
 SKWPN: SSM-MX150SA G2-Buster_2: unknown
 SKWPN: SSM-MX160SA G-Buster_3: unknown
