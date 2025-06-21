@@ -78,7 +78,7 @@ Stage:Black Bull Lethal Highway: progression
 Stage:Black Comet: progression
 Stage:Black Doom Cosmic Fall: progression
 Stage:Black Doom Final Haunt: progression
-Stage:Black Doom Gun Fortress: unknown
+Stage:Black Doom Gun Fortress: progression
 Stage:Blue Falcon: progression
 Stage:Central City: progression
 Stage:Circus Park: progression
@@ -165,45 +165,45 @@ Weapon:Black Barrel: progression
 Weapon:Black Sword: progression
 Weapon:Canyon Pole: unknown
 Weapon:Circus Pole: filler
-Weapon:Cosmic Pole: unknown
+Weapon:Cosmic Pole: filler
 Weapon:Cryptic Torch: progression
 Weapon:Dark Hammer: progression
-Weapon:Digital Pole: unknown
-Weapon:Doom Pole: unknown
+Weapon:Digital Pole: filler
+Weapon:Doom Pole: filler
 Weapon:Egg Bazooka: progression
 Weapon:Egg Gun: progression
 Weapon:Egg Spear: progression
 Weapon:Egg Vacuum: progression
 Weapon:Flash Shot: progression
-Weapon:Fleet Pole: unknown
+Weapon:Fleet Pole: filler
 Weapon:Fortress Pole: filler
-Weapon:Gadget Pole: unknown
+Weapon:Gadget Pole: filler
 Weapon:Gatling Gun: progression
 Weapon:Grenade Launcher: progression
-Weapon:Haunt Pole: unknown
+Weapon:Haunt Pole: filler
 Weapon:Heal Cannon: progression
 Weapon:Heavy Machine Gun: useful
 Weapon:Heavy Shot: progression
-Weapon:Impact Pole: unknown
+Weapon:Impact Pole: filler
 Weapon:Iron Pole: filler
 Weapon:Laser Rifle: progression
 Weapon:Last Pole: unknown
 Weapon:Lava Shovel: unknown
 Weapon:Lethal Pole: filler
 Weapon:Light Shot: progression
-Weapon:Matrix Pole: unknown
+Weapon:Matrix Pole: filler
 Weapon:Omochao Gun: progression
 Weapon:Pistol: progression
 Weapon:Prison Branch: filler
 Weapon:RPG: progression
 Weapon:Refractor: progression
 Weapon:Ring Shot: progression
-Weapon:Ruins Branch: unknown
+Weapon:Ruins Branch: filler
 Weapon:Samurai Blade: progression
 Weapon:Satellite Gun: progression
 Weapon:Semi Automatic Rifle: progression
 Weapon:Shadow Rifle: progression
-Weapon:Sky Pole: unknown
+Weapon:Sky Pole: filler
 Weapon:Speed Limit Sign: filler
 Weapon:Splitter: progression
 Weapon:Stop Sign: filler
