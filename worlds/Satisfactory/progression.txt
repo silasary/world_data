@@ -643,6 +643,7 @@ Transport: Hypertube Floor Hole: filler
 Transport: Hypertube Wall Hole: useful
 Transport: Hypertube Wall Support: useful
 Transport: Hypertube: progression
+Transport: Personal Elevator: unknown
 Transport: Tractor: unknown
 Transport: Trains: useful
 Transport: Truck: useful
