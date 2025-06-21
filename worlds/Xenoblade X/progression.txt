@@ -257,6 +257,7 @@ AUG: Max HP Drive V: unknown
 AUG: Mechanoid Criticals Up III: unknown
 AUG: Mechanoid Slayer VII: unknown
 AUG: Mechanoid Slayer XX: unknown
+AUG: Melee Accuracy Boost XI: unknown
 AUG: Melee Accuracy Drive VI: unknown
 AUG: Melee Attack Boost I: unknown
 AUG: Melee Attack Boost XIV: unknown
@@ -323,6 +324,7 @@ AUG: Ultrafauna Criticals Up XVII: unknown
 AUG: Untouchable Dash XI: unknown
 AUG: Weather Master XII: unknown
 CL: Full Metal Jaguar: unknown
+CL: Galactic Knight: unknown
 DP: Booster Probe G2: unknown
 DP: Duplicator Probe: unknown
 DP: EZ Debuff Probe: unknown
@@ -482,6 +484,7 @@ SKAUG: Slayer.PISCINOID III: unknown
 SKAUG: Slayer.THEROID I: unknown
 SKAUG: Slayer.ULTRAFAUNA XIV: unknown
 SKAUG: SpecUp.EVA V: unknown
+SKAUG: SpecUp.EVA XI: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
@@ -490,6 +493,7 @@ SKAUG: SpecUp.FUEL-PARK XV: unknown
 SKAUG: SpecUp.GP-MAX XVII: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.HP-MAX VI: unknown
+SKAUG: SpecUp.HP-MAX XIII: unknown
 SKAUG: SpecUp.HP-MAX XX: unknown
 SKAUG: SpecUp.PHYS-RES XVI: unknown
 SKAUG: SpecUp.R-ACC VII: unknown
