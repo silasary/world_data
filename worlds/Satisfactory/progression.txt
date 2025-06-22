@@ -177,7 +177,7 @@ Bundle: Empty Fluid Tank: unknown
 Bundle: Encased Industrial Beam: useful
 Bundle: Encased Plutonium Cell: unknown
 Bundle: Encased Uranium Cell: unknown
-Bundle: Explosive Rebar: unknown
+Bundle: Explosive Rebar: filler
 Bundle: FICSIT Coupon: unknown
 Bundle: Fabric: unknown
 Bundle: Factory Cart (golden): unknown
