@@ -11,6 +11,7 @@ AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
 AMR: Advanced Valor Crura: unknown
+AMR: Advanced Valor Guard R: unknown
 AMR: Advanced Vivid Distancers: unknown
 AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
@@ -72,8 +73,10 @@ AMR: Redesigned Shorts: unknown
 AMR: Redesigned Tank Top (Black): unknown
 AMR: Refined Sheep Horns: unknown
 AMR: Reginal Ayx_1: unknown
+AMR: Reginal Brax L_2: unknown
 AMR: Reginal Footwear_2: unknown
 AMR: Reginal Legwear_2: unknown
+AMR: Reginal Mitt R_1: unknown
 AMR: Reginal Quantlet L_2: unknown
 AMR: Reginal Sleeve R_1: unknown
 AMR: Reginal Tecta R_3: unknown
@@ -137,6 +140,7 @@ AMR: Worn Valor Headset: unknown
 AMR: Worn Valor Mayx L: unknown
 AMR: Worn Valor Tythes: unknown
 AMR: Worn Valor Veyes: unknown
+AMR: Worn Vivid Brogs: unknown
 AMR: Worn Vivid Headwear: unknown
 AMR: Worn Vivid Soales: unknown
 ART: Arcing Horn: unknown
@@ -182,6 +186,7 @@ ART: Pathogen Blast: unknown
 ART: Phenomenon: unknown
 ART: Power Dive: unknown
 ART: Recuperate: unknown
+ART: Repair: unknown
 ART: Rising Blade: unknown
 ART: Screamer: unknown
 ART: Sniper Barrel: unknown
@@ -200,6 +205,7 @@ AUG: Arts: Gain TP III: unknown
 AUG: Arts: Gain TP VIII: unknown
 AUG: Arts: Gain TP X: unknown
 AUG: Arts: Gain TP XIV: unknown
+AUG: Aura Surge III: unknown
 AUG: Aura Surge XVI: unknown
 AUG: Aural Cloaking III: unknown
 AUG: Aural Cloaking X: unknown
@@ -248,6 +254,7 @@ AUG: Front Attack Plus IX: unknown
 AUG: Gravity Attack Plus III: unknown
 AUG: Gravity Attack Plus X: unknown
 AUG: Gravity Attack Plus XII: unknown
+AUG: Gravity Attack Plus XIX: unknown
 AUG: Gravity Resistance Up XVI: unknown
 AUG: High Danger Surge VII: unknown
 AUG: Humanoid Criticals Up VIII: unknown
@@ -499,6 +506,7 @@ SKAUG: Slayer.THEROID I: unknown
 SKAUG: Slayer.ULTRAFAUNA XIV: unknown
 SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.EVA XI: unknown
+SKAUG: SpecUp.FUEL-BIND I: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
@@ -549,6 +557,7 @@ SKL: Buff Extender: unknown
 SKL: CQC Master: unknown
 SKL: Conductive Strike: unknown
 SKL: Crisis Catalyst: unknown
+SKL: Deep Fang: unknown
 SKL: Dismantler: useful
 SKL: Double Reflect: unknown
 SKL: Electric Flesh: unknown
@@ -622,6 +631,7 @@ SKWPN: SHM-R740SA Firegun_3: unknown
 SKWPN: SHM-R762SA E-Sniper_1: unknown
 SKWPN: SHM-XR1040SA E-Cannon: unknown
 SKWPN: SHM-XR840SA Firegun: unknown
+SKWPN: SHM-XR960SA L-Cannon: unknown
 SKWPN: SHM-XXM230GG B-Claw: filler
 SKWPN: SHM-XXM230ME B-Centipede: unknown
 SKWPN: SHM-XXR130ME Bladegun: unknown
@@ -659,6 +669,7 @@ SKWPN: SRM-USP160SA Hexad-Partican: filler
 SKWPN: SRM-USP360GG Zweihand-Q: unknown
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
+SKWPN: SRM-XM160SA Buster: unknown
 SKWPN: SRM-XR230GA T-Claw: unknown
 SKWPN: SRM-XR230ME S-Missile: unknown
 SKWPN: SRM-XR251GA T-Claw: unknown
@@ -734,11 +745,13 @@ WPN: Advanced Pulverizing Lightblade: unknown
 WPN: Advanced Soldier Sniper Rifle: unknown
 WPN: Advanced Storm Assault Rifle III: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
+WPN: Advanced Warrior Crank: unknown
 WPN: Advanced Warrior Ruina II: unknown
 WPN: Audacious Lance_2: unknown
 WPN: Carbide Blades II_3: unknown
 WPN: Carbide Candela III_2: unknown
 WPN: Carbide Candela II_1: unknown
+WPN: Carbide Fulge II_1: unknown
 WPN: Carbide Haven II_3: unknown
 WPN: Carbide Parce_2: unknown
 WPN: Carbide Parma II_1: unknown
