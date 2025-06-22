@@ -10,6 +10,7 @@ AMR: Advanced Reginal Shirt: unknown
 AMR: Advanced Reginal Yiym: filler
 AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
+AMR: Advanced Valor Crura: unknown
 AMR: Advanced Vivid Distancers: unknown
 AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
@@ -46,6 +47,7 @@ AMR: Forza Ryg_2: unknown
 AMR: Forza Ward L_2: unknown
 AMR: Heavy Overlord's Plate_2: unknown
 AMR: Heavy Vanquisher's Greaves_3: unknown
+AMR: Juvenile Bunny Ears: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Shorts: unknown
 AMR: Limited Sport Glasses: unknown
@@ -216,6 +218,7 @@ AUG: Ether Attack Plus XVIII: unknown
 AUG: Ether Attack Plus XX: unknown
 AUG: Ether Resistance Up VI: unknown
 AUG: Evasion Boost XX: unknown
+AUG: Evasion Drive XX: unknown
 AUG: Extend Aura II: unknown
 AUG: Extend Aura XIII: unknown
 AUG: Extend Beam Res Down VIII: filler
@@ -259,6 +262,7 @@ AUG: Max GP Drive XV: unknown
 AUG: Max HP Drive V: unknown
 AUG: Max HP Up XIX: unknown
 AUG: Mechanoid Criticals Up III: unknown
+AUG: Mechanoid Criticals Up IX: unknown
 AUG: Mechanoid Slayer VII: unknown
 AUG: Mechanoid Slayer XX: unknown
 AUG: Melee Accuracy Boost XI: unknown
@@ -500,6 +504,8 @@ SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.FUEL-OD VI: unknown
 SKAUG: SpecUp.FUEL-PARK XV: unknown
+SKAUG: SpecUp.FUEL-PARK XVII: unknown
+SKAUG: SpecUp.GP-MAX XV: unknown
 SKAUG: SpecUp.GP-MAX XVII: unknown
 SKAUG: SpecUp.HP-MAX IX: unknown
 SKAUG: SpecUp.HP-MAX VI: unknown
@@ -537,6 +543,7 @@ SKF: XS0750 Amdusias ST: unknown
 SKL: Aggro Boost: unknown
 SKL: Appendage Erosion: unknown
 SKL: Aura Burst: unknown
+SKL: Blazing Auto: unknown
 SKL: Boosted Bullets: unknown
 SKL: Buff Extender: unknown
 SKL: CQC Master: unknown
