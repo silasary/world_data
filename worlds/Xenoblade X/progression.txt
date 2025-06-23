@@ -144,6 +144,7 @@ AMR: Worn Reginal Norak: unknown
 AMR: Worn Reginal Vestis: unknown
 AMR: Worn Reginal Zyua L: unknown
 AMR: Worn Reginal Zyua R: unknown
+AMR: Worn Survival Pants: unknown
 AMR: Worn Survival Torse: unknown
 AMR: Worn Valor Breaker: unknown
 AMR: Worn Valor Headset: unknown
@@ -679,6 +680,7 @@ SKWPN: SKM-R350ME Cracker-PD_3: unknown
 SKWPN: SKM-R350SA Cracker-BM_3: unknown
 SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
+SKWPN: SRM-M240ME W-Crusher_3: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
 SKWPN: SRM-R160ME B-Gatling_3: unknown
 SKWPN: SRM-R250ME S-Missile_2: unknown
@@ -711,6 +713,7 @@ SKWPN: SRM-XXM330ME BB-Sword: unknown
 SKWPN: SRM-XXR140GG P-Cannon: unknown
 SKWPN: SRM-XXR140ME B-Gatling: unknown
 SKWPN: SRM-XXR330GG H-Arrow: unknown
+SKWPN: SRM-XXR430GG Phoenix: unknown
 SKWPN: SRM-XXR450GG Phoenix: filler
 SKWPN: SRM-XXR520ME Meteor: unknown
 SKWPN: SRM-XXR720ME F-Wave: unknown
