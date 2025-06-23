@@ -9,7 +9,7 @@ Bathhouse Flower: progression
 Bathhouse Key: progression
 Bathhouse Seed: progression
 Bathhouse Ticket: progression
-Bug Net: unknown
+Bug Net: progression
 Bugs: filler
 Cassette: mcguffin
 Coin: mcguffin
@@ -19,6 +19,7 @@ Freeze Trap: trap
 Gary's Garden Cassette: progression
 Gary's Garden Ticket: progression
 Gravity Trap: trap
+Hairball City Bone: progression
 Hairball City Cassette: progression
 Hairball City Fish: progression
 Hairball City Flower: progression
@@ -40,6 +41,7 @@ Public Pool Flower: progression
 Public Pool Key: progression
 Public Pool Ticket: progression
 Safety Helmet: progression
+Salmon Creek Forest Bone: progression
 Salmon Creek Forest Cassette: progression
 Salmon Creek Forest Fish: progression
 Salmon Creek Forest Flower: progression
