@@ -122,6 +122,7 @@ AMR: Vanquisher's Sabatons_3: unknown
 AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro L_2: unknown
 AMR: Vivid Chiro R_3: unknown
+AMR: Vivid Manus L_3: unknown
 AMR: Vivid Mayx_1: unknown
 AMR: Vivid Mitt L_2: unknown
 AMR: Vivid Sleeve L_1: unknown
@@ -753,6 +754,7 @@ SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR240GG Voltstorm: unknown
 SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
+SKWPN: SSM-XXRX340SA F2-Rifle: unknown
 SKWPN: SSM-XXRX530SA M-XXSniper: unknown
 WPN: Advanced Cermet Fulge II: unknown
 WPN: Advanced Cermet Parce: unknown
@@ -773,6 +775,7 @@ WPN: Advanced Ophidian Sclopetum: unknown
 WPN: Advanced Ophidian Zorcyses: unknown
 WPN: Advanced Pulverizing Lightblade: unknown
 WPN: Advanced Soldier Sniper Rifle: unknown
+WPN: Advanced Steelbreaker Edges II: unknown
 WPN: Advanced Storm Assault Rifle III: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Crank: unknown
@@ -878,6 +881,7 @@ WPN: Warrior Launchers_2: unknown
 WPN: Warrior Psylans_3: unknown
 WPN: Warrior Radius_3: unknown
 WPN: Warrior Sclopetum_1: unknown
+WPN: Warrior Zorcyses_1: unknown
 WPN: Worn Carbide Blades: unknown
 WPN: Worn Carbide Sword II: unknown
 WPN: Worn Carbide Thudclang: unknown
