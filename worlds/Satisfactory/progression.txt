@@ -98,7 +98,7 @@ Building: Quarter Pipe Extensions Pack: unknown
 Building: Quarter Pipes Pack: unknown
 Building: Radar Tower: useful
 Building: Ramp Wall Bundle: unknown
-Building: Refinery: unknown
+Building: Refinery: progression
 Building: Resource Well Pressurizer: useful
 Building: Road Barrier: unknown
 Building: Roof Corners: unknown
@@ -234,7 +234,7 @@ Bundle: Packaged Oil: unknown
 Bundle: Packaged Rocket Fuel: filler
 Bundle: Packaged Sulfuric Acid: filler
 Bundle: Packaged Turbofuel: filler
-Bundle: Packaged Water: unknown
+Bundle: Packaged Water: filler
 Bundle: Paleberry: filler
 Bundle: Parachute: filler
 Bundle: Petroleum Coke: filler
@@ -381,13 +381,13 @@ Recipe: Coated Iron Canister: progression
 Recipe: Coated Iron Plate: progression
 Recipe: Coke Steel Ingot: unknown
 Recipe: Compacted Coal: progression
-Recipe: Compacted Steel Ingot: unknown
+Recipe: Compacted Steel Ingot: progression
 Recipe: Computer: progression
 Recipe: Concrete: unknown
 Recipe: Cooling Device: progression
 Recipe: Cooling System: progression
 Recipe: Copper Alloy Ingot: progression
-Recipe: Copper Ingot: unknown
+Recipe: Copper Ingot: progression
 Recipe: Copper Powder: useful
 Recipe: Copper Rotor: progression
 Recipe: Copper Sheet: progression
@@ -401,7 +401,7 @@ Recipe: Dark-Ion Fuel: unknown
 Recipe: Diamonds: unknown
 Recipe: Diluted Fuel (refinery): useful
 Recipe: Diluted Fuel: useful
-Recipe: Diluted Packaged Fuel: unknown
+Recipe: Diluted Packaged Fuel: progression
 Recipe: Electric Motor: progression
 Recipe: Electrode - Aluminum Scrap: unknown
 Recipe: Electrode Aluminum Scrap: unknown
@@ -544,7 +544,7 @@ Recipe: Rigor Motor: unknown
 Recipe: Rigour Motor: unknown
 Recipe: Rocket Fuel: unknown
 Recipe: Rotor: progression
-Recipe: Rubber Concrete: unknown
+Recipe: Rubber Concrete: progression
 Recipe: Rubber: unknown
 Recipe: SAM Fluctuator: unknown
 Recipe: Screw: unknown
