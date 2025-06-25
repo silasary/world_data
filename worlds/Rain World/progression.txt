@@ -106,7 +106,9 @@ Passage Token - The Nomad: unknown
 Passage Token - The Outlaw: unknown
 Passage Token - The Pilgrim: unknown
 Passage Token - The Saint: unknown
+Passage Token - The Scholar: unknown
 Passage Token - The Survivor: useful
+Passage Token - The Wanderer: unknown
 Passage-Chieftain: useful
 Passage-DragonSlayer: useful
 Passage-Friend: unknown
@@ -127,6 +129,7 @@ Rock: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
+Scug-Yellow: unknown
 Slime Mold: filler
 Spear: useful
 Spore Puff: filler
