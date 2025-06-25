@@ -193,7 +193,7 @@ Bundle: Golden Nut Statue: unknown
 Bundle: Hard Drive: progression
 Bundle: Hatcher Remains: filler
 Bundle: Hazmat Suit: useful
-Bundle: Heat Sink: unknown
+Bundle: Heat Sink: filler
 Bundle: Heavy Modular Frame: useful
 Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
@@ -448,7 +448,7 @@ Recipe: Heavy Oil Residue: progression
 Recipe: High-Speed Connector: progression
 Recipe: Hog Protein: progression
 Recipe: Homing Rifle Ammo: useful
-Recipe: Hoverpack: unknown
+Recipe: Hoverpack: useful
 Recipe: Infused Uranium Cell: unknown
 Recipe: Instant Plutonium Cell: useful
 Recipe: Instant Scrap: progression
