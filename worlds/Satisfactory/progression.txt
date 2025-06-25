@@ -191,7 +191,7 @@ Bundle: Gas Mask: unknown
 Bundle: Gas Nobelisk: unknown
 Bundle: Golden Nut Statue: unknown
 Bundle: Hard Drive: progression
-Bundle: Hatcher Remains: unknown
+Bundle: Hatcher Remains: filler
 Bundle: Hazmat Suit: useful
 Bundle: Heat Sink: unknown
 Bundle: Heavy Modular Frame: useful
@@ -344,8 +344,8 @@ Recipe: Alumina Solution: progression
 Recipe: Aluminum Beam: progression
 Recipe: Aluminum Casing: progression
 Recipe: Aluminum Ingot: progression
-Recipe: Aluminum Rod: unknown
-Recipe: Aluminum Scrap: unknown
+Recipe: Aluminum Rod: progression
+Recipe: Aluminum Scrap: progression
 Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
 Recipe: Automated Speed Wiring: progression
@@ -448,6 +448,7 @@ Recipe: Heavy Oil Residue: progression
 Recipe: High-Speed Connector: progression
 Recipe: Hog Protein: progression
 Recipe: Homing Rifle Ammo: useful
+Recipe: Hoverpack: unknown
 Recipe: Infused Uranium Cell: unknown
 Recipe: Instant Plutonium Cell: useful
 Recipe: Instant Scrap: progression
@@ -602,11 +603,12 @@ Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
-Single: Alien DNA Capsule: unknown
+Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
+Single: Cooling System: filler
 Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
 Single: Leaves: filler
@@ -621,7 +623,7 @@ Single: Pressure Conversion Cube: filler
 Single: Radio Control Unit: unknown
 Single: Satisfactory Pioneering Statue: unknown
 Single: Silica: unknown
-Single: Steel Ingot: unknown
+Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
 Single: Supercomputer: unknown
 Single: Versatile Framework: filler
