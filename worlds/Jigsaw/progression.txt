@@ -5,7 +5,7 @@
 100 Puzzle Pieces: progression
 101 Puzzle Pieces: unknown
 102 Puzzle Pieces: unknown
-104 Puzzle Pieces: unknown
+104 Puzzle Pieces: progression
 105 Puzzle Pieces: unknown
 106 Puzzle Pieces: unknown
 107 Puzzle Pieces: unknown
@@ -22,7 +22,7 @@
 127 Puzzle Pieces: progression
 128 Puzzle Pieces: progression
 13 Puzzle Pieces: unknown
-130 Puzzle Pieces: unknown
+130 Puzzle Pieces: progression
 132 Puzzle Pieces: unknown
 138 Puzzle Pieces: unknown
 14 Puzzle Pieces: unknown
@@ -106,6 +106,7 @@
 55 Puzzle Pieces: unknown
 56 Puzzle Pieces: unknown
 58 Puzzle Pieces: unknown
+59 Puzzle Pieces: progression
 6 Puzzle Pieces: progression
 60 Puzzle Pieces: progression
 62 Puzzle Pieces: unknown
@@ -138,6 +139,8 @@
 94 Puzzle Pieces: unknown
 95 Puzzle Pieces: progression
 96 Puzzle Pieces: unknown
+97 Puzzle Pieces: progression
+98 Puzzle Pieces: progression
 :(: unknown
 :3: unknown
 :3c: unknown
