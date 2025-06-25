@@ -13,9 +13,9 @@ Defect Shop Card Slot: unknown
 Defect Unlock: unknown
 Ironclad 15 Gold: unknown
 Ironclad 30 Gold: unknown
-Ironclad Boss Gold: unknown
+Ironclad Boss Gold: progression
 Ironclad Boss Relic: progression
-Ironclad Card Draw: unknown
+Ironclad Card Draw: progression
 Ironclad Five Gold: filler
 Ironclad One Gold: unknown
 Ironclad Potion: progression
@@ -32,7 +32,7 @@ Silent 30 Gold: unknown
 Silent Boss Gold: unknown
 Silent Card Draw: unknown
 Silent Five Gold: filler
-Silent One Gold: unknown
+Silent One Gold: filler
 Silent Potion: progression
 Silent Progressive Rest: unknown
 Silent Progressive Smith: progression
@@ -41,12 +41,13 @@ Silent Shop Card Slot: unknown
 Silent Shop Potion Slot: unknown
 Silent Unlock: unknown
 Watcher 15 Gold: unknown
-Watcher 30 Gold: unknown
+Watcher 30 Gold: progression
 Watcher Card Draw: unknown
 Watcher Five Gold: unknown
 Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
 Watcher Potion: unknown
+Watcher Progressive Rest: progression
 Watcher Rare Card Draw: progression
 Watcher Relic: unknown
 Watcher Shop Card Slot: progression
