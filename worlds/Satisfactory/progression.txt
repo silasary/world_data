@@ -598,7 +598,7 @@ Recipe: Uranium Fuel Unit: useful
 Recipe: Versatile Framework: progression
 Recipe: Vitamin Inhaler: unknown
 Recipe: Wet Concrete: useful
-Recipe: Wire: unknown
+Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
