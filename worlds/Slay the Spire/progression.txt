@@ -3,7 +3,7 @@ Card Draw: progression
 Defect 15 Gold: unknown
 Defect Boss Gold: unknown
 Defect Card Draw: progression
-Defect Five Gold: unknown
+Defect Five Gold: filler
 Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
 Defect Potion: unknown
@@ -23,7 +23,7 @@ Ironclad Progressive Rest: unknown
 Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: unknown
 Ironclad Relic: progression
-Ironclad Shop Card Slot: unknown
+Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: unknown
 Rare Card Draw: progression
 Relic: progression
@@ -33,7 +33,7 @@ Silent Boss Gold: unknown
 Silent Card Draw: unknown
 Silent Five Gold: filler
 Silent One Gold: unknown
-Silent Potion: unknown
+Silent Potion: progression
 Silent Progressive Rest: unknown
 Silent Progressive Smith: progression
 Silent Relic: unknown
