@@ -37,7 +37,7 @@ Clockwerk Skull: unknown
 Clockwerk Stomach: mcguffin
 Clockwerk Tail Feathers: unknown
 Clockwerk Talons: mcguffin
-Clockwerk Wing (Left): unknown
+Clockwerk Wing (Left): useful
 Clockwerk Wing (Right): unknown
 Coins: filler
 Combat Dodge: useful
@@ -71,7 +71,7 @@ Silent Obliteration: useful
 Size Destabilizer: useful
 Smoke Bomb: useful
 Snooze Bomb: useful
-Stealth Slide: unknown
+Stealth Slide: useful
 Temporal Lock: useful
 Thief Reflexes: unknown
 Trigger Bomb: useful
