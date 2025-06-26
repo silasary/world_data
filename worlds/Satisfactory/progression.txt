@@ -132,9 +132,9 @@ Bundle: Adequate Pioneering Statue: unknown
 Bundle: Alclad Aluminum Sheet: unknown
 Bundle: Alien DNA Capsule: unknown
 Bundle: Alien Power Matrix: filler
-Bundle: Alien Protein: unknown
+Bundle: Alien Protein: filler
 Bundle: Aluminum Casing: filler
-Bundle: Aluminum Ingot: unknown
+Bundle: Aluminum Ingot: filler
 Bundle: Aluminum Scrap: unknown
 Bundle: Assembly Director System: useful
 Bundle: Automated Wiring: unknown
