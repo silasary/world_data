@@ -1,6 +1,7 @@
 Boss Relic: progression
 Card Draw: progression
 Defect 15 Gold: unknown
+Defect 30 Gold: unknown
 Defect Boss Gold: unknown
 Defect Card Draw: progression
 Defect Five Gold: filler
@@ -42,6 +43,7 @@ Silent Shop Potion Slot: unknown
 Silent Unlock: unknown
 Watcher 15 Gold: unknown
 Watcher 30 Gold: progression
+Watcher Boss Gold: unknown
 Watcher Card Draw: unknown
 Watcher Five Gold: unknown
 Watcher Neutral Shop Card Slot: progression
