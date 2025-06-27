@@ -609,6 +609,7 @@ Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Boom Box: unknown
 Single: Cooling System: filler
+Single: Electromagnetic Control Rod: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
@@ -617,10 +618,12 @@ Single: Neural-Quantum Processor: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
+Single: Packaged Rocket Fuel: unknown
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
 Single: Pressure Conversion Cube: filler
+Single: Pulse Nobelisk: unknown
 Single: Radio Control Unit: unknown
 Single: SAM Fluctuator: unknown
 Single: SAM: unknown
