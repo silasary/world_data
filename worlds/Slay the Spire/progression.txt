@@ -33,6 +33,7 @@ Relic: progression
 Silent 15 Gold: unknown
 Silent 30 Gold: unknown
 Silent Boss Gold: unknown
+Silent Boss Relic: unknown
 Silent Card Draw: progression
 Silent Five Gold: filler
 Silent One Gold: filler
@@ -47,6 +48,7 @@ Silent Unlock: unknown
 Watcher 15 Gold: unknown
 Watcher 30 Gold: progression
 Watcher Boss Gold: unknown
+Watcher Boss Relic: unknown
 Watcher Card Draw: progression
 Watcher Five Gold: filler
 Watcher Neutral Shop Card Slot: progression
