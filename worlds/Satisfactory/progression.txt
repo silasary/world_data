@@ -246,7 +246,7 @@ Bundle: Plutonium Waste: unknown
 Bundle: Polymer Resin: unknown
 Bundle: Portable Miner: filler
 Bundle: Power Shard: filler
-Bundle: Pressure Conversion Cube: unknown
+Bundle: Pressure Conversion Cube: filler
 Bundle: Pretty Good Pioneering Statue: unknown
 Bundle: Pulse Nobelisk: filler
 Bundle: Purple Power Slug: unknown
