@@ -24,7 +24,7 @@ Core: Citadel: unknown
 Core: Foundation: unknown
 Core: Nucleus: progression
 Cryofluid Mixer: unknown
-Cultivator: unknown
+Cultivator: progression
 Cyclone: unknown
 Deconstructor: unknown
 Differential Generator: unknown
@@ -127,7 +127,7 @@ Progressive Mechs: unknown
 Progressive Offensive Air Unit: progression
 Progressive Offensive Ground Unit: progression
 Progressive Offensive Naval Unit: unknown
-Progressive Reconstructor: unknown
+Progressive Reconstructor: progression
 Progressive Ships: progression
 Progressive Support Air Unit: progression
 Progressive Support Ground Unit: progression
