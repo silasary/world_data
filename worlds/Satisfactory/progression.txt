@@ -522,7 +522,7 @@ Recipe: Pure Aluminum Ingot: progression
 Recipe: Pure Caterium Ingot: useful
 Recipe: Pure Copper Ingot: useful
 Recipe: Pure Iron Ingot: useful
-Recipe: Pure Quartz Crystal: unknown
+Recipe: Pure Quartz Crystal: progression
 Recipe: Quartz Crystal: progression
 Recipe: Quartz Purification: unknown
 Recipe: Quickwire Cable: progression
