@@ -126,7 +126,7 @@ HrGlass3: filler
 Ice Armor: filler
 Ice Arrows: filler
 Ice Brand: filler
-Ice Claw: unknown
+Ice Claw: filler
 Ice Rod: unknown
 Ice Shield: filler
 Illusion: filler
@@ -156,7 +156,7 @@ Magma Key: progression
 MaidKiss: filler
 Masamune: useful
 Medusa Arrows: filler
-Middle Katana: unknown
+Middle Katana: filler
 MoonVeil: useful
 Murasame: useful
 Mute Arrows: filler
@@ -174,7 +174,7 @@ Package: progression
 Paladin Armor: filler
 Paladin Gauntlet: unknown
 Paladin Helm: filler
-Paladin Shield: unknown
+Paladin Shield: filler
 Palom: useful
 Pan: progression
 Pass: unknown
@@ -198,7 +198,7 @@ Rydia: progression
 Samurai Armor: filler
 Samurai Arrows: filler
 Samurai Bow: filler
-Samurai Gauntlet: unknown
+Samurai Gauntlet: filler
 Samurai Helm: filler
 Samurai Shield: filler
 SandRuby: progression
@@ -245,7 +245,7 @@ TwinHarp: progression
 Unihorn: filler
 Vampire: filler
 Whip: filler
-Whistle: unknown
+Whistle: useful
 White Arrows: filler
 White Shirt: filler
 White Spear: filler
