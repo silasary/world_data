@@ -21,6 +21,7 @@
 1/6 -out of the gravity- [EXTREME]: progression
 1/6 -out of the gravity- [HARD]: progression
 1/6 -out of the gravity- [NORMAL]: progression
+1/6 -out of the gravity-: progression
 118 [EXEXTREME]: progression
 118 [EXTREME]: progression
 1925 [EASY]: progression
@@ -416,7 +417,7 @@ Bless Your Breath [EXEXTREME]: progression
 Bless Your Breath [EXTREME]: progression
 Bless Your Breath [HARD]: progression
 Bless Your Breath [NORMAL]: progression
-Bless Your Breath: unknown
+Bless Your Breath: progression
 Blessing [EXTREME]: progression
 Blessing [HARD]: progression
 Blinding Lights [EASY]: progression
@@ -1085,7 +1086,7 @@ Ghost Rule [EXTREME]: progression
 Ghost Rule [HARD]: progression
 Ghost Rule [NORMAL]: progression
 Ghost Rule: progression
-Ghosts Play to the Audience [953]: unknown
+Ghosts Play to the Audience [953]: progression
 Ghosts Play to the Audience [EXTREME]: progression
 Ghosts Play to the Audience [HARD]: progression
 Gift from the Princess who Brought Sleep [EXTREME]: progression
