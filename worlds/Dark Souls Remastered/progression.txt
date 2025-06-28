@@ -128,7 +128,7 @@ Crown of the Dark Sun: filler
 Crown of the Great Lord: useful
 Crystal Ember: useful
 Crystal Greatsword: unknown
-Crystal Ring Shield: unknown
+Crystal Ring Shield: filler
 Crystal Shield: filler
 Crystal Straight Sword: useful
 Crystalline Armor: useful
@@ -492,6 +492,7 @@ Sorcery: Great Heavy Soul Arrow: useful
 Sorcery: Great Soul Arrow: useful
 Sorcery: Heavy Soul Arrow: useful
 Sorcery: Hidden Body: unknown
+Sorcery: Hidden Weapon: unknown
 Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
 Sorcery: Hush: unknown
