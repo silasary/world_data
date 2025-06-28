@@ -156,6 +156,7 @@ Ripple: useful
 Rotary Pump: filler
 Router: progression
 Salvo: progression
+Scathe: unknown
 Scorch: unknown
 Segment: unknown
 Separator: unknown
@@ -188,6 +189,7 @@ Titanium Conveyor: unknown
 Titanium Wall: unknown
 Tsunami: unknown
 Tungsten Wall: unknown
+Underflow Duct: unknown
 Underflow Gate: unknown
 Unit Cargo Loader: unknown
 Unloader: unknown
