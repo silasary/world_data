@@ -73,7 +73,7 @@ SpawnLavaTrinketChest: unknown
 SpawnMapChest: unknown
 SpawnMimic: progression
 SpawnMimicPet: unknown
-SpawnMrHugsChest: unknown
+SpawnMrHugsChest: progression
 SpawnNukeItem: unknown
 SpawnPrincessItem: progression
 SpawnShieldChest: unknown
