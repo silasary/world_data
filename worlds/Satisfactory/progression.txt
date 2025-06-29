@@ -471,7 +471,7 @@ Recipe: Leached Iron ingot: unknown
 Recipe: Liquid Biofuel: useful
 Recipe: Magnetic Field Generator: unknown
 Recipe: Modular Engine: progression
-Recipe: Modular Frame: unknown
+Recipe: Modular Frame: progression
 Recipe: Molded Beam: unknown
 Recipe: Molded Steel Pipe: progression
 Recipe: Motor: useful
