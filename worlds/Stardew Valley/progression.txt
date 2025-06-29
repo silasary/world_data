@@ -59,6 +59,7 @@ Benjamin Budton Trap: trap
 Big Bark Burger Recipe: progression
 Big Chest Recipe: progression
 Big Stone Chest Recipe: progression
+Big Stone Chest: filler
 Binning Level: progression
 Bite Rate Bonus: filler
 Blackberry Cobbler Recipe: progression
@@ -189,6 +190,7 @@ Firewalker Boots: unknown
 Fish Casserole Recipe: progression
 Fish Pond: progression
 Fish Smoker Recipe: progression
+Fish Smoker: filler
 Fish Stew Recipe: progression
 Fish Taco Recipe: progression
 Fish Trap Bonus: filler
@@ -257,6 +259,7 @@ Hashbrowns Recipe: progression
 Haste Elixir Recipe: progression
 Haste Elixir: unknown
 Health Bonus: filler
+Heavy Furnace: useful
 Heavy Tapper Recipe: progression
 Heavy Tapper: useful
 Hero Elixir Recipe: progression
@@ -1944,6 +1947,7 @@ Wooden Blade: unknown
 Wooden Brazier Recipe: progression
 Woods Obelisk: progression
 Work Boots: unknown
+Workbench: filler
 Worm Bin: filler
 Yam Seeds: progression
 Yoba <3: progression
