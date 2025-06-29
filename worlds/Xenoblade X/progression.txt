@@ -118,6 +118,7 @@ AMR: Valor Guante L_1: unknown
 AMR: Valor Manus R_3: unknown
 AMR: Valor Mayx L_1: unknown
 AMR: Valor Quantlet L_1: unknown
+AMR: Valor Shirt_3: unknown
 AMR: Valor Sleeve L_3: unknown
 AMR: Valor Stabilizers_3: unknown
 AMR: Valor Tecta R_1: unknown
@@ -349,6 +350,7 @@ AUG: Resist Shock XVI: unknown
 AUG: Resist Sleep VIII: unknown
 AUG: Resist Slow Arts VII: unknown
 AUG: Resist Stagger XVII: unknown
+AUG: Resist Thermal Res Down XIII: unknown
 AUG: Resist Time Bomb XII: unknown
 AUG: Resist Virus X: unknown
 AUG: Resistance Reducer VI: unknown
@@ -920,6 +922,7 @@ WPN: Worn Chromoly Sword: unknown
 WPN: Worn Cobalt Haven II: unknown
 WPN: Worn Cobalt Watxes: unknown
 WPN: Worn Delta Lastyr: unknown
+WPN: Worn Delta Launchers: unknown
 WPN: Worn Destroyer Assailer: unknown
 WPN: Worn Intrepid Lance: unknown
 WPN: Worn Ophidian Crank: unknown
