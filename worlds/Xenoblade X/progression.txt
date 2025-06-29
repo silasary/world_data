@@ -3,6 +3,7 @@ AMR: Advanced Combat Headset: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
 AMR: Advanced Forza Plantars: unknown
+AMR: Advanced Forza Ryg: unknown
 AMR: Advanced Forza Vestis: unknown
 AMR: Advanced Heavy Mother God's Plate: unknown
 AMR: Advanced Reginal Casca: unknown
@@ -34,6 +35,7 @@ AMR: Combat Sights_2: unknown
 AMR: Combat Tecta R_3: unknown
 AMR: Combat Traves_2: unknown
 AMR: Combat Trudgers_2: unknown
+AMR: Custom BLADE Pants: unknown
 AMR: Custom BLADE Wear: unknown
 AMR: Custom NVD: unknown
 AMR: Custom Sport Glasses: unknown
@@ -72,10 +74,12 @@ AMR: Prototype Armwear R: unknown
 AMR: Prototype BLADE Pants: unknown
 AMR: Prototype Workpants: unknown
 AMR: Rare Browline Glasses: unknown
+AMR: Rare Jeans: unknown
 AMR: Rare Sport Glasses: unknown
 AMR: Redesigned Shorts: unknown
 AMR: Redesigned Tank Top (Black): unknown
 AMR: Refined Sheep Horns: unknown
+AMR: Reginal Arma_1: unknown
 AMR: Reginal Ayx_1: unknown
 AMR: Reginal Brax L_2: unknown
 AMR: Reginal Footwear_2: unknown
@@ -236,6 +240,7 @@ AUG: Beam Attack Plus XV: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Critical Chance Up X: unknown
 AUG: Critical Surge IV: unknown
+AUG: Critical Surge XI: unknown
 AUG: Crush: Gain TP II: unknown
 AUG: Electric Attack Plus VII: unknown
 AUG: Electric Attack Plus XIII: unknown
@@ -366,6 +371,7 @@ AUG: Taunt: Barrier XIII: unknown
 AUG: Theroid Criticals Up II: unknown
 AUG: Theroid Criticals Up VI: unknown
 AUG: Theroid Criticals Up VIII: filler
+AUG: Topple: Barrier XII: unknown
 AUG: Topple: Barrier XX: unknown
 AUG: Topple: Decoy V: unknown
 AUG: Ultrafauna Criticals Up X: unknown
@@ -546,10 +552,12 @@ SKAUG: Slayer.MECHANOID IV: unknown
 SKAUG: Slayer.PISCINOID III: unknown
 SKAUG: Slayer.THEROID I: unknown
 SKAUG: Slayer.ULTRAFAUNA XIV: unknown
+SKAUG: SpecUp.APP-HP II: unknown
 SKAUG: SpecUp.EVA V: unknown
 SKAUG: SpecUp.EVA XI: unknown
 SKAUG: SpecUp.FUEL-BIND I: unknown
 SKAUG: SpecUp.FUEL-BIND VIII: unknown
+SKAUG: SpecUp.FUEL-BIND XII: unknown
 SKAUG: SpecUp.FUEL-COST X: unknown
 SKAUG: SpecUp.FUEL-MAX XX: unknown
 SKAUG: SpecUp.FUEL-OD VI: unknown
@@ -599,6 +607,7 @@ SKF: XS0750 Amdusias ST: unknown
 SKL: Aggro Boost: unknown
 SKL: Appendage Erosion: unknown
 SKL: Aura Burst: unknown
+SKL: Background Noise: unknown
 SKL: Beauty Sleep: unknown
 SKL: Blazing Auto: unknown
 SKL: Boosted Bullets: unknown
@@ -656,6 +665,7 @@ SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M150ME Beam-Shield_1: unknown
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
+SKWPN: SAM-M154SA Shield_1: unknown
 SKWPN: SAM-M154SA Shield_2: unknown
 SKWPN: SAM-M160SA Shield_2: unknown
 SKWPN: SAM-M163SA Shield_2: unknown
@@ -705,6 +715,7 @@ SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
 SKWPN: SRM-M120SA Buster_1: unknown
 SKWPN: SRM-M240ME W-Crusher_3: unknown
+SKWPN: SRM-M360ME BB-Sword_3: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
 SKWPN: SRM-R160ME B-Gatling_3: unknown
 SKWPN: SRM-R250ME S-Missile_2: unknown
@@ -781,6 +792,7 @@ SKWPN: SSM-XXMX150SA G-Buster: filler
 SKWPN: SSM-XXR240GG Voltstorm: unknown
 SKWPN: SSM-XXR330GG SHD-Gravity: unknown
 SKWPN: SSM-XXR350SA SHD-Gatling: filler
+SKWPN: SSM-XXR360GG SHD-Gravity: unknown
 SKWPN: SSM-XXRX340SA F2-Rifle: unknown
 SKWPN: SSM-XXRX530SA M-XXSniper: unknown
 WPN: Advanced Cermet Fulge II: unknown
@@ -804,6 +816,7 @@ WPN: Advanced Pulverizing Lightblade: unknown
 WPN: Advanced Soldier Sniper Rifle: unknown
 WPN: Advanced Steelbreaker Edges II: unknown
 WPN: Advanced Storm Assault Rifle III: unknown
+WPN: Advanced Storm Retic: unknown
 WPN: Advanced Striker Assault Rifle III: unknown
 WPN: Advanced Warrior Crank: unknown
 WPN: Advanced Warrior Ruina II: unknown
