@@ -2,6 +2,7 @@ AMR: Abominable Facade: unknown
 AMR: Advanced Combat Headset: unknown
 AMR: Advanced Combat Plantars: unknown
 AMR: Advanced Combat Stabilizers: unknown
+AMR: Advanced Forza Plantars: unknown
 AMR: Advanced Forza Vestis: unknown
 AMR: Advanced Heavy Mother God's Plate: unknown
 AMR: Advanced Reginal Casca: unknown
@@ -615,6 +616,7 @@ SKL: Fast Forward: unknown
 SKL: Feather Touch: unknown
 SKL: Fleet Feet: unknown
 SKL: Grand Procession: unknown
+SKL: High Tension: unknown
 SKL: Iron Knuckle: unknown
 SKL: King's Decree: unknown
 SKL: Lifeline: unknown
@@ -701,6 +703,7 @@ SKWPN: SKM-R350ME Cracker-PD_3: unknown
 SKWPN: SKM-R350SA Cracker-BM_3: unknown
 SKWPN: SKM-XM120GG Ringedge: unknown
 SKWPN: SKM-XR320ME Cracker-PD: unknown
+SKWPN: SRM-M120SA Buster_1: unknown
 SKWPN: SRM-M240ME W-Crusher_3: unknown
 SKWPN: SRM-R150SA Railgun_2: filler
 SKWPN: SRM-R160ME B-Gatling_3: unknown
