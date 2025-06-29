@@ -8,11 +8,11 @@ Defect Card Draw: progression
 Defect Five Gold: filler
 Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
-Defect Potion: unknown
+Defect Potion: progression
 Defect Progressive Rest: progression
 Defect Progressive Smith: unknown
 Defect Rare Card Draw: unknown
-Defect Relic: unknown
+Defect Relic: progression
 Defect Shop Card Slot: unknown
 Defect Unlock: unknown
 Ironclad 15 Gold: unknown
@@ -58,9 +58,9 @@ Watcher Card Draw: progression
 Watcher Five Gold: filler
 Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
-Watcher Potion: unknown
+Watcher Potion: progression
 Watcher Progressive Rest: progression
-Watcher Progressive Smith: unknown
+Watcher Progressive Smith: progression
 Watcher Rare Card Draw: progression
 Watcher Relic: progression
 Watcher Shop Card Slot: progression
