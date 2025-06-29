@@ -62,6 +62,7 @@
 224 Puzzle Pieces: unknown
 227 Puzzle Pieces: unknown
 23 Puzzle Pieces: progression
+230 Puzzle Pieces: progression
 231 Puzzle Pieces: unknown
 234 Puzzle Pieces: unknown
 237 Puzzle Pieces: progression
@@ -103,6 +104,7 @@
 48 Puzzle Pieces: progression
 5 Puzzle Pieces: progression
 50 Puzzle Pieces: unknown
+500 Fake Puzzle Pieces: unknown
 500 Puzzle Pieces: progression
 51 Puzzle Pieces: unknown
 52 Puzzle Pieces: unknown
