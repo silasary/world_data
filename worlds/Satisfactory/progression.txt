@@ -78,7 +78,7 @@ Building: Painted Beams: unknown
 Building: Particle Accelerator: useful
 Building: Personal Storage Box: useful
 Building: Pipeline Floor Hole: unknown
-Building: Pipeline Junction Cross: unknown
+Building: Pipeline Junction Cross: useful
 Building: Pipeline Pump Mk.1: progression
 Building: Pipeline Pump Mk.2: progression
 Building: Pipeline Wall Hole: unknown
