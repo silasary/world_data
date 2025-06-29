@@ -187,7 +187,7 @@ Bundle: Ficsite Trigon: unknown
 Bundle: Flower Petals: filler
 Bundle: Fused Modular Frame: unknown
 Bundle: Gas Filter: filler
-Bundle: Gas Mask: unknown
+Bundle: Gas Mask: filler
 Bundle: Gas Nobelisk: unknown
 Bundle: Golden Nut Statue: unknown
 Bundle: Hard Drive: progression
@@ -437,7 +437,7 @@ Recipe: Gas Mask: unknown
 Recipe: Gas Nobelisk: useful
 Recipe: Golden Factory Cart: unknown
 Recipe: Hatcher Protein: progression
-Recipe: Hazmat Suit: unknown
+Recipe: Hazmat Suit: useful
 Recipe: Heat Exchanger: progression
 Recipe: Heat Sink: progression
 Recipe: Heat-Fused Frame: progression
