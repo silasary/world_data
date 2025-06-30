@@ -141,6 +141,7 @@ Darkness Trap: trap
 Debris Trap: trap
 Deconstructor: useful
 Defense Bonus: filler
+Defense Enzyme: unknown
 Dehydrator Recipe: progression
 Dehydrator: unknown
 Delores <3: progression
@@ -181,6 +182,7 @@ Fairy Dust Recipe: progression
 Fairy Dust: filler
 Fairy Seeds: progression
 Fall: progression
+Far Away Stone: unknown
 Farm Computer Recipe: progression
 Farm Computer: filler
 Farm Obelisk: useful
@@ -814,6 +816,7 @@ Small Magnet Ring: filler
 Socializing Level: progression
 Solar Panel Recipe: progression
 Solar Panel: filler
+Solid Gold Lewis: filler
 Sophia <3: progression
 Soul Sapper Ring: useful
 Space Boots: unknown
