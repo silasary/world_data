@@ -10,7 +10,7 @@ Building: Blueprint Designer: useful
 Building: Ceiling Light: unknown
 Building: Clean Pipeline Mk.1: unknown
 Building: Clean Pipeline Mk.2: unknown
-Building: Coal Generator: unknown
+Building: Coal Generator: progression
 Building: Concrete Pillar: unknown
 Building: Constructor: unknown
 Building: Converter: unknown
@@ -20,7 +20,7 @@ Building: Conveyor Lift Mk.1: progression
 Building: Conveyor Lift Mk.2: progression
 Building: Conveyor Lift Mk.3: unknown
 Building: Conveyor Lift Mk.4: useful
-Building: Conveyor Lift Mk.5: unknown
+Building: Conveyor Lift Mk.5: useful
 Building: Conveyor Lift Mk.6: progression
 Building: Conveyor Merger: progression
 Building: Conveyor Mk.1: unknown
@@ -41,7 +41,7 @@ Building: Door Walls: unknown
 Building: Double Ramp Pack: unknown
 Building: Equipment Workshop: unknown
 Building: Flood Light Tower: unknown
-Building: Fluid Buffer: unknown
+Building: Fluid Buffer: useful
 Building: Foundation: useful
 Building: Foundry: progression
 Building: Frame Pillar: unknown
@@ -50,7 +50,7 @@ Building: Fuel Generator: progression
 Building: Gates: unknown
 Building: Geothermal Generator: useful
 Building: Half Foundation: useful
-Building: Industrial Fluid Buffer: unknown
+Building: Industrial Fluid Buffer: useful
 Building: Industrial Railing: unknown
 Building: Industrial Storage Container: useful
 Building: Industrial Walkways: unknown
@@ -285,7 +285,7 @@ Bundle: Sulfur: filler
 Bundle: Supercomputer: filler
 Bundle: Superposition Oscillator: filler
 Bundle: Thermal Propulsion Rocket: unknown
-Bundle: Time Crystal: unknown
+Bundle: Time Crystal: useful
 Bundle: Turbo Motor: filler
 Bundle: Turbo Rifle Ammo: filler
 Bundle: Uranium Fuel Rod: unknown
@@ -315,7 +315,7 @@ Customizer: Solid Line Patterns: unknown
 Customizer: Steel Wall Material: unknown
 Customizer: Tar Roof Material: unknown
 Customizer: Transportation Icon Patterns: unknown
-Dimensional Depot upload from inventory: unknown
+Dimensional Depot upload from inventory: useful
 Doggo Gas Nobelisk: unknown
 Doggo Nuke Nobelisk: unknown
 Doggo Pulse Nobelisk: unknown
@@ -497,7 +497,7 @@ Recipe: Packaged Nitric Acid: unknown
 Recipe: Packaged Nitrogen Gas: progression
 Recipe: Packaged Oil: unknown
 Recipe: Packaged Rocket Fuel: useful
-Recipe: Packaged Sulfuric Acid: unknown
+Recipe: Packaged Sulfuric Acid: useful
 Recipe: Packaged Turbofuel: useful
 Recipe: Packaged Water: unknown
 Recipe: Parachute: useful
@@ -547,7 +547,7 @@ Recipe: Rocket Fuel: unknown
 Recipe: Rotor: progression
 Recipe: Rubber Concrete: progression
 Recipe: Rubber: unknown
-Recipe: SAM Fluctuator: unknown
+Recipe: SAM Fluctuator: progression
 Recipe: Screw: unknown
 Recipe: Shatter Rebar: useful
 Recipe: Silica: progression
@@ -572,13 +572,13 @@ Recipe: Steel Rod: unknown
 Recipe: Steel Rotor: progression
 Recipe: Steel Screw: useful
 Recipe: Steeled Frame: progression
-Recipe: Stinger Protein: unknown
+Recipe: Stinger Protein: progression
 Recipe: Stitched Iron Plate: progression
 Recipe: Stun Rebar: useful
 Recipe: Sulfuric Acid: progression
 Recipe: Super-State Computer: unknown
 Recipe: Supercomputer: useful
-Recipe: Superposition Oscillator: unknown
+Recipe: Superposition Oscillator: progression
 Recipe: Synthetic Power Shard: progression
 Recipe: Tempered Caterium Ingot: progression
 Recipe: Tempered Copper Ingot: unknown
@@ -586,7 +586,7 @@ Recipe: Therapeutic Inhaler: progression
 Recipe: Thermal Propulsion Rocket: unknown
 Recipe: Time Crystal: progression
 Recipe: Turbo Blend Fuel: progression
-Recipe: Turbo Diamonds: unknown
+Recipe: Turbo Diamonds: progression
 Recipe: Turbo Electric Motor: unknown
 Recipe: Turbo Heavy Fuel: unknown
 Recipe: Turbo Motor: unknown
@@ -597,7 +597,7 @@ Recipe: Turbofuel: progression
 Recipe: Uranium Fuel Rod: progression
 Recipe: Uranium Fuel Unit: useful
 Recipe: Versatile Framework: progression
-Recipe: Vitamin Inhaler: unknown
+Recipe: Vitamin Inhaler: useful
 Recipe: Wet Concrete: useful
 Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
