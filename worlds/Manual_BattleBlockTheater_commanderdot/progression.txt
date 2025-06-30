@@ -28,6 +28,7 @@
 4-8 Key: unknown
 4-9 Key: unknown
 5-1 Key: unknown
+5-2 Key: progression
 5-3 Key: unknown
 5-4 Key: unknown
 5-5 Key: unknown
@@ -52,7 +53,7 @@
 7-9 Key: unknown
 8-1 Key: unknown
 8-2 Key: unknown
-8-3 Key: unknown
+8-3 Key: progression
 8-4 Key: progression
 8-6 Key: progression
 8-8 Key: unknown
