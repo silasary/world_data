@@ -1267,7 +1267,7 @@ Hello, Worker [EXEXTREME]: progression
 Hello, Worker [EXTREME]: progression
 Hello, Worker [HARD]: progression
 Hello, Worker [NORMAL]: progression
-Hello, Worker: unknown
+Hello, Worker: progression
 Hello/How Are You [916]: unknown
 Hello/How Are You [EXTREME]: progression
 Hello/How Are You [HARD]: progression
@@ -3125,7 +3125,7 @@ That One Second in Slow Motion [EXEXTREME]: progression
 That One Second in Slow Motion [EXTREME]: progression
 That One Second in Slow Motion [HARD]: progression
 That One Second in Slow Motion [NORMAL]: progression
-That's Right!! [470]: unknown
+That's Right!! [470]: progression
 That's Right!! [EXTREME]: progression
 That's Right!! [HARD]: progression
 The Adventurous Girl and the Miniature Garden Game [EXTREME]: progression
