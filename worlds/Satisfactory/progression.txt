@@ -189,7 +189,7 @@ Bundle: Fused Modular Frame: unknown
 Bundle: Gas Filter: filler
 Bundle: Gas Mask: filler
 Bundle: Gas Nobelisk: unknown
-Bundle: Golden Nut Statue: unknown
+Bundle: Golden Nut Statue: filler
 Bundle: Hard Drive: progression
 Bundle: Hatcher Remains: filler
 Bundle: Hazmat Suit: useful
@@ -399,7 +399,7 @@ Recipe: Dark Matter Crystal: progression
 Recipe: Dark Matter Crystallization: unknown
 Recipe: Dark Matter Trap: unknown
 Recipe: Dark-Ion Fuel: unknown
-Recipe: Diamonds: unknown
+Recipe: Diamonds: progression
 Recipe: Diluted Fuel (refinery): useful
 Recipe: Diluted Fuel: useful
 Recipe: Diluted Packaged Fuel: progression
@@ -453,7 +453,7 @@ Recipe: Hoverpack: useful
 Recipe: Infused Uranium Cell: unknown
 Recipe: Instant Plutonium Cell: useful
 Recipe: Instant Scrap: progression
-Recipe: Insulated Cable: unknown
+Recipe: Insulated Cable: progression
 Recipe: Insulated Crystal Oscillator: progression
 Recipe: Iodine Infused Filter: unknown
 Recipe: Iodine-Infused Filter: unknown
