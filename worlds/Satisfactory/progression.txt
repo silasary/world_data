@@ -547,7 +547,7 @@ Recipe: Rigour Motor: unknown
 Recipe: Rocket Fuel: unknown
 Recipe: Rotor: progression
 Recipe: Rubber Concrete: progression
-Recipe: Rubber: unknown
+Recipe: Rubber: progression
 Recipe: SAM Fluctuator: progression
 Recipe: Screw: unknown
 Recipe: Shatter Rebar: useful
