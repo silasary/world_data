@@ -57,9 +57,11 @@
 8-2 Key: unknown
 8-3 Key: progression
 8-4 Key: progression
+8-5 Key: progression
 8-6 Key: progression
 8-7 Key: progression
 8-8 Key: unknown
+8-9 Key: progression
 Acid Bubble: useful
 Boomerang: unknown
 Chapter 1 Encore 1 Key: progression
@@ -75,7 +77,7 @@ Chapter 3 Encore 2 Key: unknown
 Chapter 3 Encore 3 Key: progression
 Chapter 3 Finale Key: unknown
 Chapter 4 Encore 1 Key: unknown
-Chapter 4 Encore 2 Key: unknown
+Chapter 4 Encore 2 Key: progression
 Chapter 4 Encore 3 Key: unknown
 Chapter 4 Finale Key: unknown
 Chapter 5 Encore 1 Key: unknown
