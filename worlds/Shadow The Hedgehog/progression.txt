@@ -125,7 +125,7 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
-Vehicle:Standard Car: unknown
+Vehicle:Standard Car: progression
 Warp:Air Fleet: progression
 Warp:Black Comet: unknown
 Warp:Black Doom Cosmic Fall: unknown
