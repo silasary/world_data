@@ -617,6 +617,7 @@ Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
 Single: Leaves: filler
 Single: Neural-Quantum Processor: unknown
+Single: Nuke Nobelisk: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
@@ -634,6 +635,7 @@ Single: Silica: unknown
 Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
 Single: Supercomputer: unknown
+Single: Superposition Oscillator: unknown
 Single: Versatile Framework: filler
 Single: Wood: unknown
 Small Inflated Pocket Dimension: useful
