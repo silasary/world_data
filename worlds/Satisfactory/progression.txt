@@ -106,7 +106,7 @@ Building: Roofs: unknown
 Building: Smart Splitter: unknown
 Building: Smelter: unknown
 Building: Space Elevator: progression
-Building: Stackable Conveyor Pole: unknown
+Building: Stackable Conveyor Pole: useful
 Building: Stackable Pipeline Support: unknown
 Building: Stairs: unknown
 Building: Steel-framed Windows: unknown
@@ -405,7 +405,7 @@ Recipe: Diluted Fuel: useful
 Recipe: Diluted Packaged Fuel: progression
 Recipe: Electric Motor: progression
 Recipe: Electrode - Aluminum Scrap: unknown
-Recipe: Electrode Aluminum Scrap: unknown
+Recipe: Electrode Aluminum Scrap: progression
 Recipe: Electrode Circuit Board: progression
 Recipe: Electromagnetic Connection Rod: progression
 Recipe: Electromagnetic Control Rod: progression
@@ -458,7 +458,7 @@ Recipe: Insulated Crystal Oscillator: progression
 Recipe: Iodine Infused Filter: unknown
 Recipe: Iodine-Infused Filter: unknown
 Recipe: Ionized Fuel: unknown
-Recipe: Iron Alloy Ingot: unknown
+Recipe: Iron Alloy Ingot: progression
 Recipe: Iron Ingot: unknown
 Recipe: Iron Pipe: unknown
 Recipe: Iron Plate: unknown
@@ -541,10 +541,10 @@ Recipe: Residual Fuel: useful
 Recipe: Residual Plastic: useful
 Recipe: Residual Rubber: progression
 Recipe: Rifle Ammo: progression
-Recipe: Rifle: unknown
+Recipe: Rifle: useful
 Recipe: Rigor Motor: unknown
 Recipe: Rigour Motor: unknown
-Recipe: Rocket Fuel: unknown
+Recipe: Rocket Fuel: progression
 Recipe: Rotor: progression
 Recipe: Rubber Concrete: progression
 Recipe: Rubber: progression
@@ -555,7 +555,7 @@ Recipe: Silica: progression
 Recipe: Silicon Circuit Board: progression
 Recipe: Silicon High-Speed Connector: progression
 Recipe: Singularity Cell: progression
-Recipe: Sloppy Alumina: unknown
+Recipe: Sloppy Alumina: progression
 Recipe: Smart Plating: progression
 Recipe: Smokeless Powder: progression
 Recipe: Solid Biofuel: useful
@@ -606,17 +606,21 @@ Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
+Single: Aluminum Ingot: unknown
 Single: Battery: unknown
 Single: Blade Runners: unknown
 Single: Blue Power Slug: unknown
 Single: Boom Box: unknown
+Single: Computer: unknown
 Single: Cooling System: filler
+Single: Crystal Oscillator: unknown
 Single: Electromagnetic Control Rod: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
 Single: Leaves: filler
-Single: Neural-Quantum Processor: unknown
+Single: Neural-Quantum Processor: filler
+Single: Nobelisk: filler
 Single: Nuke Nobelisk: unknown
 Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
