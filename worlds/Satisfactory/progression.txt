@@ -367,7 +367,7 @@ Recipe: Bolted Frame: progression
 Recipe: Bolted Iron Plate: unknown
 Recipe: Cable: unknown
 Recipe: Cast Screw: useful
-Recipe: Caterium Circuit Board: unknown
+Recipe: Caterium Circuit Board: progression
 Recipe: Caterium Computer: progression
 Recipe: Caterium Ingot: progression
 Recipe: Caterium Wire: progression
@@ -609,10 +609,11 @@ Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Aluminum Ingot: unknown
 Single: Battery: unknown
-Single: Biomass: unknown
+Single: Biomass: filler
 Single: Blade Runners: unknown
 Single: Blue Power Slug: unknown
 Single: Boom Box: unknown
+Single: Cluster Nobelisk: unknown
 Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: unknown
@@ -629,7 +630,7 @@ Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
 Single: Packaged Rocket Fuel: unknown
-Single: Packaged Turbofuel: unknown
+Single: Packaged Turbofuel: filler
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
@@ -641,6 +642,7 @@ Single: SAM Fluctuator: unknown
 Single: SAM: unknown
 Single: Satisfactory Pioneering Statue: unknown
 Single: Silica: unknown
+Single: Solid Biofuel: unknown
 Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
 Single: Supercomputer: unknown
