@@ -11,7 +11,7 @@ Battery: unknown
 Beam Tower: unknown
 Blast Mixer: progression
 Bridge Conduit: unknown
-Bridge Conveyor: unknown
+Bridge Conveyor: useful
 Canvas: unknown
 Carbide Crucible: unknown
 Carbide Wall: unknown
@@ -55,7 +55,7 @@ Impact Reactor: unknown
 Impulse Pump: unknown
 Incinerator: unknown
 Inverted Sorter: useful
-Junction: unknown
+Junction: useful
 Kiln: unknown
 Lancer: unknown
 Large Battery: unknown
@@ -80,7 +80,7 @@ Laser Drill: unknown
 Launch Pad: unknown
 Liquid Container: unknown
 Liquid Junction: progression
-Liquid Router: unknown
+Liquid Router: useful
 Liquid Tank: unknown
 Logic Display: filler
 Logic Processor: filler
@@ -121,7 +121,7 @@ Plastanium Conveyor: useful
 Plastanium Wall: unknown
 Plated Conduit: useful
 Pneumatic Drill: progression
-Power Node: unknown
+Power Node: useful
 Prime Refabricator: unknown
 Progressive Drills Serpulo: unknown
 Progressive Generators Serpulo: unknown
