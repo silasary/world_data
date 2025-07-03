@@ -609,6 +609,7 @@ Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Aluminum Ingot: unknown
 Single: Battery: unknown
+Single: Biomass: unknown
 Single: Blade Runners: unknown
 Single: Blue Power Slug: unknown
 Single: Boom Box: unknown
@@ -628,6 +629,7 @@ Single: Object Scanner: unknown
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
 Single: Packaged Rocket Fuel: unknown
+Single: Packaged Turbofuel: unknown
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
