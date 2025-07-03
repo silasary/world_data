@@ -31,7 +31,7 @@ Building: Conveyor Mk.5: unknown
 Building: Conveyor Mk.6: unknown
 Building: Conveyor Splitter: progression
 Building: Conveyor Throughput Monitor: useful
-Building: Conveyor Wall Hole: unknown
+Building: Conveyor Wall Hole: filler
 Building: Conveyor Wall Mount: unknown
 Building: Conveyor Walls: unknown
 Building: Corner Ramp Pack: unknown
@@ -497,7 +497,7 @@ Recipe: Packaged Ionized Fuel: useful
 Recipe: Packaged Liquid Biofuel: unknown
 Recipe: Packaged Nitric Acid: unknown
 Recipe: Packaged Nitrogen Gas: progression
-Recipe: Packaged Oil: unknown
+Recipe: Packaged Oil: useful
 Recipe: Packaged Rocket Fuel: useful
 Recipe: Packaged Sulfuric Acid: useful
 Recipe: Packaged Turbofuel: useful
@@ -642,9 +642,10 @@ Single: SAM Fluctuator: unknown
 Single: SAM: unknown
 Single: Satisfactory Pioneering Statue: unknown
 Single: Silica: unknown
-Single: Solid Biofuel: unknown
+Single: Solid Biofuel: filler
 Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
+Single: Sulfur: filler
 Single: Supercomputer: unknown
 Single: Superposition Oscillator: unknown
 Single: Versatile Framework: filler
@@ -658,7 +659,7 @@ Stinger Gas: unknown
 Stinger Small: unknown
 Transport: Cyber Wagon: useful
 Transport: Drones: useful
-Transport: Explorer: unknown
+Transport: Explorer: useful
 Transport: Factory Cart (golden): filler
 Transport: Factory Cart: unknown
 Transport: Fluid Trains: unknown
