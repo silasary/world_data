@@ -65,7 +65,7 @@ Darkness Armor: filler
 Darkness Arrows: filler
 Darkness Crystal: progression
 Darkness Gauntlet: filler
-Darkness Helm: unknown
+Darkness Helm: filler
 Darkness Sword: unknown
 Defense Sword: filler
 Diamond Armor: filler
@@ -97,7 +97,7 @@ Ether2: filler
 Excalibur: filler
 Exit: filler
 Eyedrops: filler
-Fire Armor: unknown
+Fire Armor: filler
 Fire Arrows: filler
 Fire Claw: filler
 Fire Shield: filler
@@ -207,6 +207,7 @@ SandRuby: progression
 Shadow Armor: filler
 Shadow Gauntlet: filler
 Shadow Helm: filler
+Shadow Shield: filler
 Shadow Sword: filler
 Short Bow: filler
 Short Katana: filler
