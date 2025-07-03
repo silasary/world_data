@@ -143,7 +143,7 @@ Bundle: Ballistic Warp Drive: filler
 Bundle: Battery: filler
 Bundle: Bauxite: unknown
 Bundle: Beacon: filler
-Bundle: Beryl Nut: unknown
+Bundle: Beryl Nut: filler
 Bundle: Biochemical Sculptor: unknown
 Bundle: Biomass: unknown
 Bundle: Black Powder: unknown
@@ -224,7 +224,7 @@ Bundle: Nuclear Pasta: filler
 Bundle: Nuke Nobelisk: unknown
 Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
-Bundle: Packaged Alumina Solution: unknown
+Bundle: Packaged Alumina Solution: filler
 Bundle: Packaged Fuel: filler
 Bundle: Packaged Heavy Oil Residue: unknown
 Bundle: Packaged Ionized Fuel: unknown
@@ -399,7 +399,7 @@ Recipe: Crystal Oscillator: progression
 Recipe: Dark Matter Crystal: progression
 Recipe: Dark Matter Crystallization: unknown
 Recipe: Dark Matter Trap: unknown
-Recipe: Dark-Ion Fuel: unknown
+Recipe: Dark-Ion Fuel: useful
 Recipe: Diamonds: progression
 Recipe: Diluted Fuel (refinery): useful
 Recipe: Diluted Fuel: useful
@@ -458,7 +458,7 @@ Recipe: Insulated Cable: progression
 Recipe: Insulated Crystal Oscillator: progression
 Recipe: Iodine Infused Filter: unknown
 Recipe: Iodine-Infused Filter: unknown
-Recipe: Ionized Fuel: unknown
+Recipe: Ionized Fuel: useful
 Recipe: Iron Alloy Ingot: progression
 Recipe: Iron Ingot: unknown
 Recipe: Iron Pipe: unknown
@@ -570,7 +570,7 @@ Recipe: Steel Cast Plate: progression
 Recipe: Steel Coated Plate: useful
 Recipe: Steel Ingot: progression
 Recipe: Steel Pipe: useful
-Recipe: Steel Rod: unknown
+Recipe: Steel Rod: progression
 Recipe: Steel Rotor: progression
 Recipe: Steel Screw: useful
 Recipe: Steeled Frame: progression
@@ -616,7 +616,7 @@ Single: Boom Box: unknown
 Single: Cluster Nobelisk: unknown
 Single: Computer: unknown
 Single: Cooling System: filler
-Single: Crystal Oscillator: unknown
+Single: Crystal Oscillator: filler
 Single: Electromagnetic Control Rod: filler
 Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
