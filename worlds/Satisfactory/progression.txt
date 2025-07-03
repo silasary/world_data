@@ -170,6 +170,7 @@ Bundle: Copper Sheet: filler
 Bundle: Crystal Oscillator: filler
 Bundle: Cup (gold): unknown
 Bundle: Cup: filler
+Bundle: Dark Matter Crystal: filler
 Bundle: Diamonds: unknown
 Bundle: Electromagnetic Control Rod: filler
 Bundle: Empty Canister: filler
@@ -336,7 +337,7 @@ Recipe: AI Expansion Server: unknown
 Recipe: AI Limiter: progression
 Recipe: Adaptive Control Unit: progression
 Recipe: Adhered Iron Plate: progression
-Recipe: Alclad Aluminum Sheet: unknown
+Recipe: Alclad Aluminum Sheet: progression
 Recipe: Alclad Casing: progression
 Recipe: Alien DNA Capsule: progression
 Recipe: Alien Power Matrix: unknown
@@ -542,7 +543,7 @@ Recipe: Residual Plastic: useful
 Recipe: Residual Rubber: progression
 Recipe: Rifle Ammo: progression
 Recipe: Rifle: useful
-Recipe: Rigor Motor: unknown
+Recipe: Rigor Motor: progression
 Recipe: Rigour Motor: unknown
 Recipe: Rocket Fuel: progression
 Recipe: Rotor: progression
@@ -590,7 +591,7 @@ Recipe: Turbo Blend Fuel: progression
 Recipe: Turbo Diamonds: progression
 Recipe: Turbo Electric Motor: unknown
 Recipe: Turbo Heavy Fuel: unknown
-Recipe: Turbo Motor: unknown
+Recipe: Turbo Motor: progression
 Recipe: Turbo Pressure Motor: progression
 Recipe: Turbo Rifle Ammo (Packaged): useful
 Recipe: Turbo Rifle Ammo: useful
@@ -614,7 +615,8 @@ Single: Boom Box: unknown
 Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: unknown
-Single: Electromagnetic Control Rod: unknown
+Single: Electromagnetic Control Rod: filler
+Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
 Single: Hog Remains: unknown
@@ -631,6 +633,7 @@ Single: Petroleum Coke: unknown
 Single: Plastic: unknown
 Single: Pressure Conversion Cube: filler
 Single: Pulse Nobelisk: unknown
+Single: Quickwire: unknown
 Single: Radio Control Unit: unknown
 Single: SAM Fluctuator: unknown
 Single: SAM: unknown
