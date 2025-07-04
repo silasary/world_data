@@ -162,7 +162,7 @@ Bundle: Compacted Coal: unknown
 Bundle: Computer: useful
 Bundle: Concrete: filler
 Bundle: Confusing Creature Statue: filler
-Bundle: Cooling System: unknown
+Bundle: Cooling System: filler
 Bundle: Copper Ingot: filler
 Bundle: Copper Ore: filler
 Bundle: Copper Powder: unknown
