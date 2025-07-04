@@ -141,7 +141,7 @@ Bundle: Automated Wiring: unknown
 Bundle: Bacon Agaric: filler
 Bundle: Ballistic Warp Drive: filler
 Bundle: Battery: filler
-Bundle: Bauxite: unknown
+Bundle: Bauxite: filler
 Bundle: Beacon: filler
 Bundle: Beryl Nut: filler
 Bundle: Biochemical Sculptor: unknown
@@ -650,6 +650,7 @@ Single: Sulfur: filler
 Single: Supercomputer: unknown
 Single: Superposition Oscillator: unknown
 Single: Versatile Framework: filler
+Single: Wire: filler
 Single: Wood: unknown
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
