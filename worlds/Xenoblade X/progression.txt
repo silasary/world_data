@@ -97,6 +97,7 @@ AMR: Reginal Yiym_3: unknown
 AMR: Supreme Diving Band R: unknown
 AMR: Supreme Round Glasses: unknown
 AMR: Survival Glove L_2: unknown
+AMR: Survival Guard L_2: unknown
 AMR: Survival Headset_3: unknown
 AMR: Survival Pants_2: unknown
 AMR: Swimmer's Band R_3: unknown
@@ -149,6 +150,7 @@ AMR: Warm Angel Halo: unknown
 AMR: Warrior's Crest_3: unknown
 AMR: Warrior's Gauntlet R_1: unknown
 AMR: Worn Combat Footwear: unknown
+AMR: Worn Forza Guard L: unknown
 AMR: Worn Forza Headset: unknown
 AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
@@ -171,6 +173,7 @@ AMR: Worn Vivid Headwear: unknown
 AMR: Worn Vivid Soales: unknown
 ART: Arcing Horn: unknown
 ART: Assault Hammer: unknown
+ART: Astral Heal: unknown
 ART: Astral Horizon: unknown
 ART: Astral Protection: useful
 ART: Atomic Hit: useful
@@ -178,6 +181,7 @@ ART: Balance Breaker: unknown
 ART: Beam Barrage: unknown
 ART: Black Bane: unknown
 ART: Brainjack: unknown
+ART: Bullet Storm: unknown
 ART: Burning Slash: unknown
 ART: Clarity Ray: unknown
 ART: Combat Limbo: unknown
@@ -217,6 +221,7 @@ ART: Repair: unknown
 ART: Rising Blade: unknown
 ART: Screamer: unknown
 ART: Shrapnel: unknown
+ART: Sidewinder: unknown
 ART: Smooth Recovery: unknown
 ART: Sniper Barrel: unknown
 ART: Starfall Blossom: unknown
@@ -232,6 +237,7 @@ ART: Wild Down: unknown
 ART: Wild Smash: unknown
 AUG: Artful Execution Surge II: filler
 AUG: Arts: Gain TP III: unknown
+AUG: Arts: Gain TP IV: unknown
 AUG: Arts: Gain TP VIII: unknown
 AUG: Arts: Gain TP X: unknown
 AUG: Arts: Gain TP XIV: unknown
@@ -249,6 +255,7 @@ AUG: Critical Surge XI: unknown
 AUG: Crush: Gain TP II: unknown
 AUG: Electric Attack Plus VII: unknown
 AUG: Electric Attack Plus XIII: unknown
+AUG: Electric Attack Plus XIV: unknown
 AUG: Electric Attack Plus XVIII: unknown
 AUG: Electric Resistance Up I: unknown
 AUG: Ether Attack Plus XVII: unknown
@@ -473,6 +480,7 @@ SKAMR: ZXSK80SA M-HEAD-MEL_1: unknown
 SKAMR: ZXSK80SA M-RARM-MEL_1: unknown
 SKAUG: Arts.GP V: unknown
 SKAUG: AttributeDmg.ELEC XIV: unknown
+SKAUG: AttributeDmg.ELEC XVIII: unknown
 SKAUG: AttributeDmg.ETHER VIII: unknown
 SKAUG: AttributeDmg.ETHER XVI: unknown
 SKAUG: AttributeDmg.GRAV II: unknown
@@ -552,6 +560,7 @@ SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLEEP XV: unknown
 SKAUG: Resist.SLOW-ARTS IX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
+SKAUG: Resist.VIRUS XI: unknown
 SKAUG: Slayer.HUMANOID XII: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
 SKAUG: Slayer.MECHANOID IV: unknown
@@ -692,6 +701,7 @@ SKWPN: SHM-R230ME B-Rifle_1: unknown
 SKWPN: SHM-R230ME B-Rifle_2: unknown
 SKWPN: SHM-R240ME B-Rifle_3: unknown
 SKWPN: SHM-R340ME B-Sniper_1: unknown
+SKWPN: SHM-R350ME B-Sniper_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_1: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
@@ -735,11 +745,13 @@ SKWPN: SRM-R620ME L-Missile_2: unknown
 SKWPN: SRM-R620SA Buster-Launcher_3: unknown
 SKWPN: SRM-R660SA Buster-Launcher_2: unknown
 SKWPN: SRM-R721ME F-Wave_3: unknown
+SKWPN: SRM-R740ME F-Wave_2: unknown
 SKWPN: SRM-R750SA F-Wave_1: unknown
 SKWPN: SRM-R752ME F-Wave_2: unknown
 SKWPN: SRM-R754ME F-Wave_3: unknown
 SKWPN: SRM-R764ME F-Wave_2: unknown
 SKWPN: SRM-USP160SA Hexad-Partican: filler
+SKWPN: SRM-USP260SA Zenith-Cannon: unknown
 SKWPN: SRM-USP360GG Zweihand-Q: unknown
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
@@ -837,6 +849,7 @@ WPN: Carbide Candela III_2: unknown
 WPN: Carbide Candela II_1: unknown
 WPN: Carbide Fulge II_1: unknown
 WPN: Carbide Haven II_3: unknown
+WPN: Carbide Iyst II_1: unknown
 WPN: Carbide Parce_2: unknown
 WPN: Carbide Parma II_1: unknown
 WPN: Carbide Ralzes_1: unknown
