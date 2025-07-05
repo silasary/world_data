@@ -86,6 +86,7 @@ Item - Capital Jail Map: unknown
 Item - Capital Pipeline Map: unknown
 Item - Capital Sequoia Map: unknown
 Item - Castle Ramparts Map: unknown
+Item - Castle Ramparts Pass: unknown
 Item - Castle Sequoia Map: unknown
 Item - Cave Key: unknown
 Item - Cell Key: unknown
@@ -185,6 +186,7 @@ Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
 Item - Progressive Level: unknown
 Item - Progressive Luxury Pass: unknown
+Item - Progressive Mount Instrument: unknown
 Item - Progressive Quintar Flute: unknown
 Item - Progressive Salmon Violin: unknown
 Item - Proving Meadows Map: unknown
