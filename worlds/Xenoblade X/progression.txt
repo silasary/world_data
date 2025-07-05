@@ -43,6 +43,7 @@ AMR: Custom Sport Glasses: unknown
 AMR: Distinguished Uniform: unknown
 AMR: Diving Mask_1: unknown
 AMR: Forza Boots_3: filler
+AMR: Forza Chiro R_2: unknown
 AMR: Forza Glove L_2: unknown
 AMR: Forza Grip R_2: unknown
 AMR: Forza Guante R_3: unknown
@@ -152,6 +153,7 @@ AMR: Worn Forza Headset: unknown
 AMR: Worn Overlord's Bracer L: unknown
 AMR: Worn Overlord's Mask: unknown
 AMR: Worn Reginal Bodywear: unknown
+AMR: Worn Reginal Glove R: unknown
 AMR: Worn Reginal Guard L: unknown
 AMR: Worn Reginal Norak: unknown
 AMR: Worn Reginal Vestis: unknown
@@ -267,6 +269,7 @@ AUG: Extend Electric Res Down VI: unknown
 AUG: Extend Electric Res Down XVI: unknown
 AUG: Extend Ether Res Down I: unknown
 AUG: Extend Ether Res Down V: unknown
+AUG: Extend Ether Res Down X: unknown
 AUG: Extend Ether Res Down XII: unknown
 AUG: Extend Fatigue X: unknown
 AUG: Extend Gravity Res Down VIII: unknown
@@ -741,6 +744,7 @@ SKWPN: SRM-USP360GG Zweihand-Q: unknown
 SKWPN: SRM-XM140ME Dragon: unknown
 SKWPN: SRM-XM150SA Buster: filler
 SKWPN: SRM-XM160SA Buster: unknown
+SKWPN: SRM-XR150ME B-Gatling: unknown
 SKWPN: SRM-XR230GA T-Claw: unknown
 SKWPN: SRM-XR230ME S-Missile: unknown
 SKWPN: SRM-XR251GA T-Claw: unknown
@@ -777,6 +781,7 @@ SKWPN: SSM-R360ME SHD-Missile_3: filler
 SKWPN: SSM-R420GG Antipulser_1: unknown
 SKWPN: SSM-R420SA SHD-Ray_1: unknown
 SKWPN: SSM-R420SA SHD-Ray_3: unknown
+SKWPN: SSM-R421GG Antipulser_1: unknown
 SKWPN: SSM-R430GG Antipulser_3: unknown
 SKWPN: SSM-R450GG Antipulser_3: unknown
 SKWPN: SSM-R540SA Chaingun_2: unknown
@@ -921,6 +926,7 @@ WPN: Ultra Ceramic Parma II: unknown
 WPN: Ultra Ceramic Pilum: unknown
 WPN: Ultra Cosmic Dual Guns II: unknown
 WPN: Ultra Cosmic Lastyr II: unknown
+WPN: Ultra Cosmic Machine: unknown
 WPN: Ultra Nebulan Assailer: unknown
 WPN: Ultra Nebulan Pistolia: unknown
 WPN: Ultra Nebulan Saboteurs: unknown
