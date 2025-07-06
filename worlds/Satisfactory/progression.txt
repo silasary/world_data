@@ -488,7 +488,7 @@ Recipe: Nuclear Pasta: unknown
 Recipe: Nuke Nobelisk: unknown
 Recipe: Nutritional Inhaler: useful
 Recipe: OC Supercomputer: useful
-Recipe: Object Scanner: unknown
+Recipe: Object Scanner: useful
 Recipe: Oil-Based Diamonds: unknown
 Recipe: Packaged Alumina Solution: progression
 Recipe: Packaged Fuel: progression
@@ -679,6 +679,7 @@ Transport: Truck: useful
 Trap: Alpha Hog: unknown
 Trap: Alpha Spitter: trap
 Trap: Can of Beans: unknown
+Trap: Doggo with Gas Nobelisk: trap
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown
 Trap: Hatcher: trap
