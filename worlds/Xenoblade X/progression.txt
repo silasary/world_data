@@ -15,6 +15,7 @@ AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
 AMR: Advanced Valor Crura: unknown
 AMR: Advanced Valor Guard R: unknown
+AMR: Advanced Valor Tythes: unknown
 AMR: Advanced Vivid Distancers: unknown
 AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
@@ -94,6 +95,7 @@ AMR: Reginal Tecta R_3: unknown
 AMR: Reginal Tuesta_1: unknown
 AMR: Reginal Ward R_1: unknown
 AMR: Reginal Yiym_3: unknown
+AMR: Reliable Gauze Eyepatch: unknown
 AMR: Supreme Diving Band R: unknown
 AMR: Supreme Round Glasses: unknown
 AMR: Survival Glove L_2: unknown
@@ -328,6 +330,7 @@ AUG: Melee: Blaze XIII: unknown
 AUG: Melee: Electric Res Down VI: unknown
 AUG: Melee: Recover HP VIII: unknown
 AUG: Melee: Recover HP X: unknown
+AUG: Melee: Recover HP XVIII: unknown
 AUG: Melee: Thermal Res Down XX: unknown
 AUG: Nullify Beam Reflect II: unknown
 AUG: Nullify Physical Reflect II: unknown
@@ -705,6 +708,7 @@ SKWPN: SHM-R350ME B-Sniper_1: unknown
 SKWPN: SHM-R350SA Assault_3: unknown
 SKWPN: SHM-R430ME Firegun_1: unknown
 SKWPN: SHM-R430ME Firegun_3: unknown
+SKWPN: SHM-R441SA Short-Rifle_1: unknown
 SKWPN: SHM-R461SA Short-Rifle_3: unknown
 SKWPN: SHM-R630SA Shotgun_1: unknown
 SKWPN: SHM-R630SA Shotgun_2: unknown
@@ -906,6 +910,7 @@ WPN: Ophidian Sicarius_3: unknown
 WPN: Ophidian Strobe_1: unknown
 WPN: Original Assailer: unknown
 WPN: Original Bangbangs: filler
+WPN: Pulverizing Glaive_2: unknown
 WPN: Savage Ziyse: unknown
 WPN: Soldier Assault Rifle_1: unknown
 WPN: Soldier Pistolia_2: unknown
