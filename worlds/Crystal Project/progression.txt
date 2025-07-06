@@ -78,6 +78,7 @@ Item - Beaurior Volcano Map: unknown
 Item - Bitter Pop Candy: unknown
 Item - Black Squirrel: unknown
 Item - Boomer Society Map: unknown
+Item - Boomer Society Pass: unknown
 Item - Boss Key: unknown
 Item - Callisto Stone: unknown
 Item - Canopy Key: unknown
@@ -102,6 +103,7 @@ Item - Dark Wing Key: unknown
 Item - Decent Cod Bag: unknown
 Item - Decent Cod: unknown
 Item - Delende Map: unknown
+Item - Delende Pass: unknown
 Item - Diamond Dust: unknown
 Item - Diamond Ingot: unknown
 Item - Diamond Ore: unknown
@@ -199,7 +201,9 @@ Item - Pyramid Key: unknown
 Item - Quintar Mausoleum Map: unknown
 Item - Quintar Nest Map: unknown
 Item - Quintar Reserve Map: unknown
+Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
+Item - Quintar Sanctum Pass: unknown
 Item - Rampart Key: unknown
 Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
@@ -213,6 +217,7 @@ Item - Salmon Pass Map: unknown
 Item - Salmon River Map: unknown
 Item - Salmon River Pass: unknown
 Item - Sara Sara Bazaar Map: unknown
+Item - Sara Sara Bazaar Pass: unknown
 Item - Sara Sara Beach Map: unknown
 Item - Scroll: filler
 Item - Seaside Cliffs Map: unknown
@@ -253,6 +258,7 @@ Item - The Old World Map: unknown
 Item - The Open Sea Map: unknown
 Item - The Pale Grotto Map: unknown
 Item - The Sequoia Map: unknown
+Item - The Sequoia Pass: unknown
 Item - The Undercity Map: unknown
 Item - Tincture Pouch: unknown
 Item - Tincture: unknown
