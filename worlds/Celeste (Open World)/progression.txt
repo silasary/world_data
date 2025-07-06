@@ -8,19 +8,19 @@ Breaker Boxes: progression
 Bumpers: progression
 Celestial Resort A - Elevator Shaft: progression
 Celestial Resort A - Front Door Key: progression
-Celestial Resort A - Hallway Key 1: filler
+Celestial Resort A - Hallway Key 1: progression
 Celestial Resort A - Hallway Key 2: progression
 Celestial Resort A - Huge Mess Key: progression
 Celestial Resort A - Huge Mess: progression
 Celestial Resort A - Presidential Suite Key: progression
 Celestial Resort A - Presidential Suite: progression
 Celestial Resort B - Library: progression
-Celestial Resort B - Rooftop: useful
-Celestial Resort B - Staff Quarters: useful
+Celestial Resort B - Rooftop: progression
+Celestial Resort B - Staff Quarters: progression
 Celestial Resort Cassette - A Side: filler
 Celestial Resort Cassette - B Side: filler
 Celestial Resort Cassette - C Side: filler
-Coins: filler
+Coins: progression
 Core A - Heart of the Mountain: progression
 Core A - Hot and Cold: progression
 Core A - Into the Core: progression
@@ -53,7 +53,7 @@ Dash Switches: progression
 Double Dash Refills: progression
 Dream Blocks: progression
 Epilogue Cassette: filler
-Farewell - Determination: useful
+Farewell - Determination: progression
 Farewell - Event Horizon: progression
 Farewell - Farewell: progression
 Farewell - Power Source Key 1: progression
@@ -63,8 +63,8 @@ Farewell - Power Source Key 4: progression
 Farewell - Power Source Key 5: progression
 Farewell - Power Source: progression
 Farewell - Reconciliation: progression
-Farewell - Remembered: useful
-Farewell - Singular: useful
+Farewell - Remembered: progression
+Farewell - Singular: progression
 Farewell - Stubbornness: progression
 Farewell Cassette: filler
 Fast Trap: trap
@@ -72,16 +72,16 @@ Feathers: progression
 Fire and Ice Balls: progression
 Forsaken City A - Chasm: progression
 Forsaken City A - Crossing: progression
-Forsaken City B - Contraption: useful
-Forsaken City B - Scrap Pit: useful
+Forsaken City B - Contraption: progression
+Forsaken City B - Scrap Pit: progression
 Forsaken City Cassette - A Side: filler
 Forsaken City Cassette - B Side: filler
 Forsaken City Cassette - C Side: filler
 Golden Ridge A - Cliff Face: progression
 Golden Ridge A - Old Trail: progression
 Golden Ridge A - Shrine: progression
-Golden Ridge B - Eye of the Storm: useful
-Golden Ridge B - Gusty Canyon: useful
+Golden Ridge B - Eye of the Storm: progression
+Golden Ridge B - Gusty Canyon: progression
 Golden Ridge B - Stepping Stones: progression
 Golden Ridge Cassette - A Side: filler
 Golden Ridge Cassette - B Side: filler
@@ -107,10 +107,10 @@ Mirror Temple A - Unravelling: progression
 Mirror Temple B - Central Chamber Key 1: progression
 Mirror Temple B - Central Chamber Key 2: progression
 Mirror Temple B - Central Chamber: progression
-Mirror Temple B - Mix Master: useful
-Mirror Temple B - Through the Mirror: useful
+Mirror Temple B - Mix Master: progression
+Mirror Temple B - Through the Mirror: progression
 Mirror Temple Cassette - A Side: filler
-Mirror Temple Cassette - B Side: progression
+Mirror Temple Cassette - B Side: filler
 Mirror Temple Cassette - C Side: filler
 Move Blocks: progression
 Moving Platforms: progression
@@ -119,7 +119,7 @@ Old Site A - Intervention: progression
 Old Site B - Combination Lock: progression
 Old Site B - Dream Altar: progression
 Old Site Cassette - A Side: filler
-Old Site Cassette - B Side: progression
+Old Site Cassette - B Side: filler
 Old Site Cassette - C Side: filler
 Pink Cassette Blocks: progression
 Pink Clouds: progression
@@ -131,7 +131,7 @@ Reflection A - Hollows: progression
 Reflection A - Reflection: progression
 Reflection A - Resolution: progression
 Reflection A - Rock Bottom: progression
-Reflection B - Reflection: useful
+Reflection B - Reflection: progression
 Reflection B - Reprieve: progression
 Reflection B - Rock Bottom: progression
 Reflection Cassette - A Side: filler
@@ -163,7 +163,7 @@ The Summit A - Gem 6: progression
 The Summit B - 1000 M: progression
 The Summit B - 1500 M: progression
 The Summit B - 2000 M: progression
-The Summit B - 2500 M: useful
+The Summit B - 2500 M: progression
 The Summit B - 3000 M: progression
 The Summit B - 500 M: progression
 The Summit Cassette - A Side: filler
