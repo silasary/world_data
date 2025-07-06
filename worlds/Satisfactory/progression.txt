@@ -226,7 +226,7 @@ Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: filler
 Bundle: Packaged Fuel: filler
-Bundle: Packaged Heavy Oil Residue: unknown
+Bundle: Packaged Heavy Oil Residue: filler
 Bundle: Packaged Ionized Fuel: unknown
 Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
@@ -589,7 +589,7 @@ Recipe: Thermal Propulsion Rocket: progression
 Recipe: Time Crystal: progression
 Recipe: Turbo Blend Fuel: progression
 Recipe: Turbo Diamonds: progression
-Recipe: Turbo Electric Motor: unknown
+Recipe: Turbo Electric Motor: progression
 Recipe: Turbo Heavy Fuel: unknown
 Recipe: Turbo Motor: progression
 Recipe: Turbo Pressure Motor: progression
