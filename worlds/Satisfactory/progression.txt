@@ -622,6 +622,7 @@ Single: Electromagnetic Control Rod: filler
 Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
+Single: Heat Sink: filler
 Single: Hog Remains: unknown
 Single: Leaves: filler
 Single: Mycelia: filler
