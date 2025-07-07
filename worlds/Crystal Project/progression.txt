@@ -285,7 +285,7 @@ Item - Z-Potion: unknown
 Item - Zether Pouch: unknown
 Item - Zether: filler
 Job - Aegis: unknown
-Job - Assassin: unknown
+Job - Assassin: progression
 Job - Beastmaster: unknown
 Job - Beatsmith: unknown
 Job - Chemist: unknown
@@ -307,7 +307,7 @@ Job - Valkyrie: unknown
 Job - Warlock: unknown
 Job - Warrior: unknown
 Job - Weaver: unknown
-Job - Wizard: unknown
+Job - Wizard: progression
 Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
 Scholar - Atmoshear: unknown
