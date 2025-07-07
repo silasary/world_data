@@ -184,7 +184,7 @@ Bundle: Fabric: unknown
 Bundle: Factory Cart (golden): unknown
 Bundle: Factory Cart: filler
 Bundle: Ficsite Ingot: filler
-Bundle: Ficsite Trigon: unknown
+Bundle: Ficsite Trigon: filler
 Bundle: Flower Petals: filler
 Bundle: Fused Modular Frame: unknown
 Bundle: Gas Filter: filler
@@ -605,6 +605,7 @@ Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: Adaptive Control Unit: filler
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Aluminum Ingot: unknown
@@ -646,6 +647,7 @@ Single: SAM Fluctuator: unknown
 Single: SAM: unknown
 Single: Satisfactory Pioneering Statue: unknown
 Single: Silica: unknown
+Single: Silver Hog Statue: filler
 Single: Smokeless Powder: unknown
 Single: Solid Biofuel: filler
 Single: Steel Ingot: filler
@@ -677,7 +679,7 @@ Transport: Personal Elevator: unknown
 Transport: Tractor: unknown
 Transport: Trains: useful
 Transport: Truck: useful
-Trap: Alpha Hog: unknown
+Trap: Alpha Hog: trap
 Trap: Alpha Spitter: trap
 Trap: Can of Beans: unknown
 Trap: Doggo with Gas Nobelisk: trap
