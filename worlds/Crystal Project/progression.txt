@@ -85,6 +85,7 @@ Item - Canopy Key: unknown
 Item - Capital Courtyard Map: unknown
 Item - Capital Jail Map: unknown
 Item - Capital Pipeline Map: unknown
+Item - Capital Pipeline Pass: unknown
 Item - Capital Sequoia Map: unknown
 Item - Capital Sequoia Pass: unknown
 Item - Castle Ramparts Map: unknown
@@ -215,6 +216,7 @@ Item - Rotten Salmon: unknown
 Item - STEM WARD: unknown
 Item - Salmon Bay Map: unknown
 Item - Salmon Pass Map: unknown
+Item - Salmon Pass Pass: unknown
 Item - Salmon River Map: unknown
 Item - Salmon River Pass: unknown
 Item - Sara Sara Bazaar Map: unknown
