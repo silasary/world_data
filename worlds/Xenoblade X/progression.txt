@@ -23,6 +23,7 @@ AMR: Advanced Vivid Glove L: unknown
 AMR: Advanced Vivid Pants: unknown
 AMR: Advanced Vivid Sights: unknown
 AMR: Advanced Warrior's Vambrace R: unknown
+AMR: Agent's Suit: unknown
 AMR: Bargain Browline Glasses: unknown
 AMR: Bargain Glasses: unknown
 AMR: Bargain Jeans: filler
@@ -95,6 +96,7 @@ AMR: Reginal Footwear_2: unknown
 AMR: Reginal Legwear_2: unknown
 AMR: Reginal Mitt R_1: unknown
 AMR: Reginal Quantlet L_2: unknown
+AMR: Reginal Quantlet L_3: unknown
 AMR: Reginal Sleeve R_1: unknown
 AMR: Reginal Tecta R_3: unknown
 AMR: Reginal Tuesta_1: unknown
@@ -690,6 +692,7 @@ SKL: Yamato Spirit: useful
 SKWPN: ARES-DW0170 M-BLASTER: unknown
 SKWPN: ARES-SP0290 AVATARA: unknown
 SKWPN: SAM-M112ME Beam-Shield_1: unknown
+SKWPN: SAM-M113ME Beam-Shield_2: unknown
 SKWPN: SAM-M120SA Shield_3: unknown
 SKWPN: SAM-M130ME Beam-Shield_1: unknown
 SKWPN: SAM-M132ME Beam-Shield_1: unknown
@@ -848,6 +851,7 @@ WPN: Advanced Chrome Saber: unknown
 WPN: Advanced Chromoly Shield: unknown
 WPN: Advanced Cobalt Fulge II: unknown
 WPN: Advanced Destroyer Bliss: unknown
+WPN: Advanced Destroyer Gemels: unknown
 WPN: Advanced Destroyer Grando: unknown
 WPN: Advanced Ophidian Assault Rifle II: unknown
 WPN: Advanced Ophidian Dual Guns: unknown
@@ -952,6 +956,7 @@ WPN: Striker Crank_1: unknown
 WPN: Striker Dyads_3: unknown
 WPN: Striker Lastyr_2: unknown
 WPN: Striker Sniper Rifle II_1: unknown
+WPN: Titanium Bolide_2: unknown
 WPN: Titanium Gladiis_1: unknown
 WPN: Titanium Haven_1: filler
 WPN: Titanium Iyst II_1: unknown
@@ -1001,3 +1006,4 @@ WPN: Worn Pulverizing Lance: unknown
 WPN: Worn Soldier Launchers: unknown
 WPN: Worn Titanium Ralzes: unknown
 WPN: Worn Warrior Assault Rifle: unknown
+WPN: Worn Warrior Raygun: unknown
