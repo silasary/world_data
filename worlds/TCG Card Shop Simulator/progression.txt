@@ -79,7 +79,7 @@ FormatFullArtBorder: unknown
 FormatGoldBorder: unknown
 FormatPauper: unknown
 FormatSilverBorder: unknown
-FormatStandard: unknown
+FormatStandard: progression
 FormatWaterCup: unknown
 FormatWindCup: unknown
 Giganite Statue (2): progression
@@ -88,7 +88,7 @@ Increase Card Luck: useful
 Inferhog Figurine (2): unknown
 Inferhog Figurine: unknown
 Kingstar Plushie (2): progression
-Kingstar Plushie: unknown
+Kingstar Plushie: progression
 Large Money: filler
 Large Xp: filler
 Legendary Card Box (4): progression
@@ -121,7 +121,7 @@ Medium Xp: filler
 Meganite Figurine (2): progression
 Meganite Figurine: unknown
 Minstar Plushie (24): progression
-Minstar Plushie: unknown
+Minstar Plushie: progression
 Nanomite Plushie (16): progression
 Nanomite Plushie: unknown
 Necromonsters: progression
@@ -172,14 +172,14 @@ Progressive Customer Money: useful
 Progressive Deck Box Blue: progression
 Progressive Deck Box Green: unknown
 Progressive Deck Box Red: unknown
-Progressive Deck Box Yellow: unknown
+Progressive Deck Box Yellow: progression
 Progressive Epic Card Box: unknown
 Progressive Epic Card Pack: unknown
 Progressive Epic Destiny Box: unknown
 Progressive Epic Destiny Pack: unknown
 Progressive Ghost Card: mcguffin
 Progressive Legendary Card Box: unknown
-Progressive Legendary Card Pack: unknown
+Progressive Legendary Card Pack: progression
 Progressive Legendary Destiny Box: progression
 Progressive Legendary Destiny Pack: progression
 Progressive Personal Shelf: useful
