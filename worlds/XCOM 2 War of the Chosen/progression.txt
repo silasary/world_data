@@ -58,7 +58,7 @@
 [Tech] Storm Gun: useful
 [Tech] The Lost Autopsy: useful
 [Tech] Viper Autopsy: useful
-[Tech] Viper King Autopsy: unknown
+[Tech] Viper King Autopsy: useful
 [Tech] Warlock Weapons: useful
 [Trap] Avatar Project +1: trap
 [Trap] Force Level +1: trap
@@ -70,4 +70,4 @@
 [Upgrade] Superior Expanded Magazine: filler
 [Upgrade] Superior Laser Sight: unknown
 [Upgrade] Superior Scope: filler
-[Upgrade] Superior Stock: unknown
+[Upgrade] Superior Stock: filler
