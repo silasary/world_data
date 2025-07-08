@@ -2,7 +2,7 @@
 1 Gold Bars: filler
 10 Coins: filler
 15 Bills: filler
-1F Bathroom Key: unknown
+1F Bathroom Key: progression
 2 Gold Bars: filler
 20 Coins & Bills: filler
 20 Coins: filler
@@ -70,7 +70,7 @@ Fortune Teller Key: useful
 Ghost: filler
 Gold Diamond: filler
 Guest Room Boo (Boonita): mcguffin
-Guest Room Key: unknown
+Guest Room Key: progression
 Heart Key: progression
 Hidden Room Boo (GumBoo): mcguffin
 Ice Element Medal: progression
@@ -91,7 +91,7 @@ Mario's Star: progression
 Master Bedroom Boo (Boolicious): mcguffin
 Master Bedroom Key: progression
 Mirror Room Boo (Kung Boo): mcguffin
-Mirror Room Key: unknown
+Mirror Room Key: progression
 Nana's Room Boo (LamBooger): mcguffin
 Nana's Room Boo (LimBooger): mcguffin
 Nana's Room Key: progression
@@ -100,6 +100,7 @@ North Safari Room Key: progression
 Nothing: filler
 Nursery Boo (TurBoo): mcguffin
 Nursery Key: progression
+Observatory Key: progression
 Parlor Boo (BamBoo): mcguffin
 Parlor Key: useful
 Pipe Room Boo (Booffant): mcguffin
