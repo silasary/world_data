@@ -15,6 +15,7 @@ AMR: Advanced Survival Norak: unknown
 AMR: Advanced Survival Sleeve R: filler
 AMR: Advanced Valor Crura: unknown
 AMR: Advanced Valor Guard R: unknown
+AMR: Advanced Valor Ryg: unknown
 AMR: Advanced Valor Tythes: unknown
 AMR: Advanced Valor Vizard: unknown
 AMR: Advanced Vivid Distancers: unknown
@@ -353,6 +354,7 @@ AUG: Physical Attack Plus XIX: unknown
 AUG: Piscinoid Criticals Up IX: unknown
 AUG: Potential Boost XV: unknown
 AUG: Potential Drive I: unknown
+AUG: Potential Drive IX: unknown
 AUG: Potential Drive XIII: filler
 AUG: Ranged Accuracy Up II: unknown
 AUG: Ranged Accuracy Up XI: filler
@@ -715,6 +717,7 @@ SKWPN: SHM-R140GG HB-Rifle_3: unknown
 SKWPN: SHM-R160ME Bladegun_3: unknown
 SKWPN: SHM-R230ME B-Rifle_1: unknown
 SKWPN: SHM-R230ME B-Rifle_2: unknown
+SKWPN: SHM-R230SA E-Machine Gun_2: unknown
 SKWPN: SHM-R240ME B-Rifle_3: unknown
 SKWPN: SHM-R340ME B-Sniper_1: unknown
 SKWPN: SHM-R350ME B-Sniper_1: unknown
