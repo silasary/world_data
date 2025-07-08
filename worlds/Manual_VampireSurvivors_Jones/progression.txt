@@ -223,6 +223,7 @@ Powerup - Charm: unknown
 Powerup - Cooldown: unknown
 Powerup - Curse: unknown
 Powerup - Defang: unknown
+Powerup - Duration: unknown
 Powerup - Greed: useful
 Powerup - Growth: useful
 Powerup - Luck: unknown
