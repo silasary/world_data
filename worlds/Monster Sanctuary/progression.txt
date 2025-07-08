@@ -44,7 +44,7 @@
 2x Monster Bell: unknown
 2x Orange: unknown
 2x Peanut: unknown
-2x Pear: unknown
+2x Pear: filler
 2x Phoenix Serum: unknown
 2x Phoenix Tear: unknown
 2x Potato: unknown
@@ -52,7 +52,7 @@
 2x Raw Hide: unknown
 2x Red Gem: useful
 2x Reward Box Lvl 1: useful
-2x Reward Box Lvl 2: unknown
+2x Reward Box Lvl 2: filler
 2x Reward Box Lvl 3: unknown
 2x Reward Box Lvl 4: unknown
 2x Reward Box X: unknown
@@ -103,7 +103,7 @@
 3x Pear: unknown
 3x Phoenix Serum: unknown
 3x Phoenix Tear: unknown
-3x Potato: unknown
+3x Potato: filler
 3x Potion: filler
 3x Red Gem: unknown
 3x Reward Box Lvl 1: unknown
@@ -117,6 +117,7 @@
 3x Small Antidote: filler
 3x Small Potion: unknown
 3x Smoke Bomb: filler
+3x Smoke bomb: unknown
 3x Steel: filler
 3x Verdant Gem: unknown
 3x Walnut: unknown
@@ -154,7 +155,7 @@ Ability - Ghost Form: unknown
 Ability - Grapple: useful
 Ability - Heavy Punch: unknown
 Ability - Ignite: unknown
-Ability - Improved Flying: unknown
+Ability - Improved Flying: progression
 Ability - Improved Swimming: unknown
 Ability - Jewel Blast: unknown
 Ability - Levitate: unknown
@@ -347,7 +348,7 @@ Claws+2: unknown
 Claws+3: unknown
 Claws+4: unknown
 Claws+5: useful
-Claws: unknown
+Claws: useful
 Clear Stone: unknown
 Coat+1: unknown
 Coat+2: unknown
@@ -814,7 +815,7 @@ Morning Star+5: unknown
 Morning Star: unknown
 Mountain Path key: progression
 Mozzie: unknown
-Mystical Workshop key: unknown
+Mystical Workshop key: progression
 Nautilid Egg: unknown
 Nautilid Lure: progression
 Needle+1: unknown
@@ -889,7 +890,7 @@ Pandora's Chest+4: unknown
 Pandora's Chest+5: unknown
 Pandora's Chest: unknown
 Peanut: unknown
-Pear: unknown
+Pear: filler
 Pet Boulder: unknown
 Pet Rock: unknown
 Phoenix Serum: unknown
@@ -961,7 +962,7 @@ Rainbow Blob Egg: unknown
 Rainbow Slime Snack: unknown
 Rampede Egg: unknown
 Rampede Saddle: unknown
-Rare Seashell: unknown
+Rare Seashell: progression
 Raspberry: filler
 Rathops Egg: unknown
 Rathops Saddle: unknown
@@ -1153,7 +1154,7 @@ Sustain Ring+2: unknown
 Sustain Ring+3: unknown
 Sustain Ring+4: unknown
 Sustain Ring+5: unknown
-Sustain Ring: unknown
+Sustain Ring: filler
 Sutsune Egg: unknown
 Sutsune's True Name: unknown
 Swallow+1: unknown
