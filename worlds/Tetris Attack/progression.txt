@@ -33,6 +33,7 @@ Puzzle Level 1 Gate: unknown
 Puzzle Level 2 Gate: unknown
 Puzzle Level 3 Gate: unknown
 Puzzle Level 5 Gate: unknown
+Puzzle Level 6 Gate: unknown
 Puzzle Progressive Level 1 Unlock: progression
 Puzzle Progressive Level 2 Unlock: progression
 Puzzle Progressive Level 3 Unlock: progression
@@ -46,7 +47,7 @@ Stage Clear Progressive Round 3 Unlock: progression
 Stage Clear Progressive Round 4 Unlock: progression
 Stage Clear Progressive Round 5 Unlock: progression
 Stage Clear Progressive Round 6 Unlock: progression
-Stage Clear Round 1 Gate: unknown
+Stage Clear Round 1 Gate: progression
 Stage Clear Round 2 Gate: unknown
 Stage Clear Round 3 Gate: unknown
 Stage Clear Round 4 Gate: progression
