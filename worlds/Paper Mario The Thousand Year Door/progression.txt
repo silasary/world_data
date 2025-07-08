@@ -5,10 +5,10 @@ Attack FX P: useful
 Attack FX R: useful
 Attack FX Y: useful
 Autograph: progression
-Black Key (Plane Curse): progression
-Black Key (Paper Curse): progression
-Black Key (Tube Curse): progression
 Black Key (Boat Curse): progression
+Black Key (Paper Curse): progression
+Black Key (Plane Curse): progression
+Black Key (Tube Curse): progression
 Blanket: progression
 Blimp Ticket: progression
 Blue Key: progression
@@ -24,51 +24,51 @@ Card Key 3: progression
 Card Key 4: progression
 Castle Key: progression
 Champ's Belt: useful
-Charge: filler
 Charge P: filler
+Charge: filler
 Chill Out: filler
 Chuckola Cola: progression
-Close Call: filler
 Close Call P: filler
+Close Call: filler
 Coconut: progression
 Cog: progression
 Contact Lens: progression
 Cookbook: useful
 Courage Shell: filler
 Crystal Star: mcguffin
-Damage Dodge: filler
 Damage Dodge P: filler
-Defend Plus: filler
+Damage Dodge: filler
 Defend Plus P: filler
+Defend Plus: filler
 Diamond Star: mcguffin
 Dizzy Dial: filler
-Double Dip: filler
 Double Dip P: filler
+Double Dip: filler
 Double Pain: filler
 Dried Shroom: filler
 Earth Quake: filler
-Elevator Key: progression
 Elevator Key 1: progression
 Elevator Key 2: progression
+Elevator Key: progression
 Emerald Star: mcguffin
-Feeling Fine: filler
+FP Drain: filler
+FP Plus: filler
 Feeling Fine P: filler
+Feeling Fine: filler
 Fire Drive: filler
 Fire Flower: filler
 First Attack: filler
 Flower Finder: filler
-Flower Saver: filler
 Flower Saver P: filler
+Flower Saver: filler
 Flurrie: progression
-FP Drain: filler
-FP Plus: filler
 Fresh Pasta: filler
 Fright Mask: filler
 Galley Pot: progression
 Garnet Star: mcguffin
 Gate Handle: progression
-Gold Bar: filler
 Gold Bar x3: filler
+Gold Bar: filler
 Gold Ring: progression
 Gold Star: mcguffin
 Goldbob Guide: progression
@@ -76,21 +76,21 @@ Golden Leaf: filler
 Goombella: progression
 Gradual Syrup: filler
 Grotto Key: progression
+HP Drain (Badge): filler
+HP Drain P: filler
+HP Drain: filler
+HP Plus P: filler
+HP Plus: filler
 Hammer Throw: filler
 Hammerman: filler
 Happy Flower: filler
-Happy Heart: filler
 Happy Heart P: filler
+Happy Heart: filler
 Head Rattle: filler
 Heart Finder: filler
 Honey Syrup: filler
 Horsetail: filler
 Hot Dog: filler
-HP Drain: filler
-HP Drain (Badge): filler
-HP Drain P: filler
-HP Plus: filler
-HP Plus P: filler
 Ice Power: useful
 Ice Smash: filler
 Ice Storm: filler
@@ -101,14 +101,14 @@ Jumpman: filler
 Keel Mango: filler
 Koops: progression
 L Emblem: useful
-Last Stand: filler
 Last Stand P: filler
+Last Stand: filler
 Life Shroom: filler
 Lucky Day: filler
 Lucky Start: filler
 Maple Syrup: filler
-Mega Rush: filler
 Mega Rush P: filler
+Mega Rush: filler
 Mini Mr.Mini: filler
 Money Money: filler
 Moon Stone: progression
@@ -121,12 +121,13 @@ Mystic Egg: filler
 Necklace: progression
 Old Letter: progression
 Omelette Meal: filler
-P-Down D-Up: filler
 P-Down D-Up P: filler
-P-Up D-Down: filler
+P-Down D-Up: filler
 P-Up D-Down P: filler
-Palace Key: progression
+P-Up D-Down: filler
+POW Block: filler
 Palace Key (Riddle Tower): progression
+Palace Key: progression
 Paper Curse: progression
 Peachy Peach: filler
 Peekaboo: filler
@@ -134,17 +135,18 @@ Piercing Blow: filler
 Pity Flower: filler
 Plane Curse: progression
 Point Swap: filler
-POW Block: filler
 Power Bounce: useful
 Power Jump: filler
-Power Plus: filler
 Power Plus P: filler
+Power Plus: filler
 Power Punch: filler
-Power Rush: filler
 Power Rush P: filler
+Power Rush: filler
 Power Smash: filler
-Pretty Lucky: filler
 Pretty Lucky P: filler
+Pretty Lucky: filler
+Progressive Boots: progression
+Progressive Hammer: progression
 Puni Orb: progression
 Quake Hammer: filler
 Quick Change: filler
@@ -180,9 +182,8 @@ Storage Key 1: progression
 Storage Key 2: progression
 Strange Sack: useful
 Sun Stone: progression
-Super Appeal: filler
 Super Appeal P: filler
-Progressive Hammer: progression
+Super Appeal: filler
 Super Shroom: filler
 Superbombomb: progression
 Tasty Tonic: filler
@@ -194,7 +195,6 @@ Tornado Jump: filler
 Train Ticket: progression
 Tube Curse: progression
 Turtley Leaf: filler
-Progressive Boots: progression
 Ultra Shroom: filler
 Unsimplifier: filler
 Up Arrow: useful
