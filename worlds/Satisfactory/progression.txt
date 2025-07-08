@@ -116,7 +116,7 @@ Building: Tilted Walls: unknown
 Building: U-Jelly Landing Pad: useful
 Building: Valve: useful
 Building: Wall Mounted Flood Light: unknown
-Building: Wall Outlet Mk.1: unknown
+Building: Wall Outlet Mk.1: filler
 Building: Wall Outlet Mk.2: useful
 Building: Wall Outlet Mk.3: useful
 Building: Wall Pipeline Support: unknown
