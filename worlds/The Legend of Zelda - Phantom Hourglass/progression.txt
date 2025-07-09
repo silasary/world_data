@@ -1,6 +1,6 @@
 Big Green Rupee (100): filler
 Big Red Rupee (200): mcguffin
-Blue Rupee (5): unknown
+Blue Rupee (5): filler
 Bombchus (Progressive): progression
 Bombs (Progressive): progression
 Boomerang: progression
@@ -16,7 +16,7 @@ Golden Frog Glyph Phi: useful
 Golden Frog Glyph X: unknown
 Grappling Hook: unknown
 Hammer: unknown
-Heart Container: unknown
+Heart Container: useful
 NE Sea Chart: progression
 NW Sea Chart: unknown
 Potion: unknown
@@ -50,7 +50,7 @@ Treasure Map #9: mcguffin
 Treasure: Dark Pearl Loop: progression
 Treasure: Goron Amber: progression
 Treasure: Helmaroc Plume: unknown
-Treasure: Regal Ring: unknown
+Treasure: Regal Ring: progression
 Treasure: White Pearl Loop: progression
 Triforce Crest: unknown
 Wisdom Gem: progression
