@@ -22,7 +22,7 @@ Hermit Card Draw: unknown
 Hermit Five Gold: unknown
 Hermit Potion: unknown
 Hermit Rare Card Draw: unknown
-Hermit Relic: unknown
+Hermit Relic: progression
 Ironclad 15 Gold: filler
 Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
@@ -61,11 +61,11 @@ Silent Unlock: unknown
 SlimeBoss 15 Gold: unknown
 SlimeBoss 30 Gold: unknown
 SlimeBoss Card Draw: unknown
-SlimeBoss Five Gold: unknown
-SlimeBoss One Gold: unknown
+SlimeBoss Five Gold: filler
+SlimeBoss One Gold: filler
 SlimeBoss Potion: unknown
 SlimeBoss Rare Card Draw: unknown
-SlimeBoss Relic: unknown
+SlimeBoss Relic: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Boss Gold: unknown
