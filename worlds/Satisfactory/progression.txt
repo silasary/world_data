@@ -671,7 +671,7 @@ Transport: Cyber Wagon: useful
 Transport: Drones: useful
 Transport: Explorer: useful
 Transport: Factory Cart (golden): filler
-Transport: Factory Cart: unknown
+Transport: Factory Cart: filler
 Transport: Fluid Trains: unknown
 Transport: Hypertube Floor Hole: filler
 Transport: Hypertube Wall Hole: useful
