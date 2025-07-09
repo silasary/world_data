@@ -221,7 +221,7 @@ Bundle: Nobelisk Detonator: progression
 Bundle: Nobelisk: useful
 Bundle: Non-fissile Uranium: filler
 Bundle: Nuclear Pasta: filler
-Bundle: Nuke Nobelisk: unknown
+Bundle: Nuke Nobelisk: filler
 Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: filler
