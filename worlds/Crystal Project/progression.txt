@@ -76,7 +76,7 @@ Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
 Item - Beaurior Rock Map: unknown
 Item - Beaurior Volcano Map: unknown
-Item - Bitter Pop Candy: unknown
+Item - Bitter Pop Candy: filler
 Item - Black Squirrel: unknown
 Item - Boomer Society Map: unknown
 Item - Boomer Society Pass: unknown
@@ -124,7 +124,7 @@ Item - Ether Pouch: unknown
 Item - Ether: unknown
 Item - Europa Stone: unknown
 Item - Fenix Juice Pouch: unknown
-Item - Fenix Juice: unknown
+Item - Fenix Juice: filler
 Item - Fenix Syrup Pouch: unknown
 Item - Fenix Syrup: unknown
 Item - Ferry Pass: unknown
@@ -171,7 +171,7 @@ Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
 Item - Milk: unknown
 Item - Nans Cocoa: unknown
-Item - Nans Secret Recipe: unknown
+Item - Nans Secret Recipe: filler
 Item - Nans Stew: unknown
 Item - Neptune Shrine Map: unknown
 Item - Neptune Shrine Pass: unknown
