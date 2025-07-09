@@ -620,6 +620,7 @@ Single: Cluster Nobelisk: unknown
 Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: filler
+Single: Dark Matter Crystal: filler
 Single: Electromagnetic Control Rod: filler
 Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
