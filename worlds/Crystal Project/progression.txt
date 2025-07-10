@@ -216,6 +216,7 @@ Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
 Item - River Cats Ego Map: unknown
 Item - Rolling Quintar Fields Map: unknown
+Item - Rolling Quintar Fields Pass: unknown
 Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
 Item - STEM WARD: unknown
@@ -292,7 +293,7 @@ Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
 Item - Yamagawa M.A. Map: unknown
 Item - Z-Potion Pouch: unknown
-Item - Z-Potion: unknown
+Item - Z-Potion: filler
 Item - Zether Pouch: unknown
 Item - Zether: filler
 Job - Aegis: unknown
