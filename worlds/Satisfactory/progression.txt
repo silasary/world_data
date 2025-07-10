@@ -103,7 +103,7 @@ Building: Resource Well Pressurizer: useful
 Building: Road Barrier: unknown
 Building: Roof Corners: unknown
 Building: Roofs: unknown
-Building: Smart Splitter: unknown
+Building: Smart Splitter: useful
 Building: Smelter: progression
 Building: Space Elevator: progression
 Building: Stackable Conveyor Pole: useful
@@ -534,7 +534,7 @@ Recipe: Radio Connection Unit: progression
 Recipe: Radio Control System: progression
 Recipe: Radio Control Unit: progression
 Recipe: Reanimated SAM: progression
-Recipe: Rebar Gun: unknown
+Recipe: Rebar Gun: useful
 Recipe: Recycled Plastic: progression
 Recipe: Recycled Rubber: progression
 Recipe: Reinforced Iron Plate: progression
