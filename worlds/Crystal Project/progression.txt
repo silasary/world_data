@@ -193,7 +193,7 @@ Item - Poko Poko Desert Pass: unknown
 Item - Poseidon Shrine Map: unknown
 Item - Poseidon Stone: unknown
 Item - Potion Pouch: unknown
-Item - Potion: unknown
+Item - Potion: filler
 Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
 Item - Progressive Level: unknown
@@ -220,6 +220,7 @@ Item - Room 1 Key: unknown
 Item - Rotten Salmon: unknown
 Item - STEM WARD: unknown
 Item - Salmon Bay Map: unknown
+Item - Salmon Bay Pass: progression
 Item - Salmon Pass Map: unknown
 Item - Salmon Pass Pass: unknown
 Item - Salmon River Map: unknown
@@ -321,7 +322,7 @@ Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
 Scholar - Atmoshear: unknown
 Scholar - Barrier: unknown
-Scholar - Build Life: unknown
+Scholar - Build Life: useful
 Scholar - Explode: unknown
 Scholar - Fire Breath: unknown
 Scholar - Infusion: unknown
