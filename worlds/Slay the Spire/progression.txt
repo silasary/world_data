@@ -17,12 +17,17 @@ Defect Shop Card Slot: unknown
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: unknown
+Hermit 30 Gold: unknown
 Hermit Boss Gold: unknown
 Hermit Card Draw: unknown
 Hermit Five Gold: unknown
+Hermit One Gold: unknown
 Hermit Potion: unknown
 Hermit Rare Card Draw: unknown
 Hermit Relic: progression
+Hermit Shop Card Slot: unknown
+Hermit Shop Potion Slot: unknown
+Hermit Shop Relic Slot: unknown
 Ironclad 15 Gold: filler
 Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
@@ -66,6 +71,8 @@ SlimeBoss One Gold: filler
 SlimeBoss Potion: unknown
 SlimeBoss Rare Card Draw: unknown
 SlimeBoss Relic: progression
+SlimeBoss Shop Potion Slot: unknown
+SlimeBoss Shop Relic Slot: unknown
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Boss Gold: unknown
