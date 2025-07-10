@@ -14,6 +14,7 @@ Chuo Line - Diagram #05: unknown
 Chuo Line - Diagram #06: progression
 Chuo Line - Diagram #11: progression
 Chuo Line - Diagram #12: progression
+Chuo Line - Diagram #13: progression
 Chuo Line - Diagram #14: unknown
 Chuo Line - Kaiji Service License: progression
 Chuo Line - Local Service License: unknown
@@ -50,8 +51,9 @@ Tokaido Line - Diagram #14: progression
 Tokaido Line - Diagram #15: progression
 Tokaido Line - Limited Express Service License: unknown
 Tokaido Line - Thunderbird Service License: progression
+Tokaido Line Token: mcguffin
 Yamanote Line - Diagram #01: progression
-Yamanote Line - Diagram #02: unknown
+Yamanote Line - Diagram #02: progression
 Yamanote Line - Diagram #03: unknown
 Yamanote Line - Diagram #04: unknown
 Yamanote Line - Diagram #05: progression
@@ -61,3 +63,4 @@ Yamanote Line - Diagram #08: unknown
 Yamanote Line - Diagram #09: unknown
 Yamanote Line - Diagram #10: progression
 Yamanote Line - Local Service License: unknown
+Yamanote Line Token: mcguffin
