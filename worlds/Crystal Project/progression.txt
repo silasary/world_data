@@ -216,7 +216,7 @@ Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
 Item - River Cats Ego Map: unknown
 Item - Rolling Quintar Fields Map: unknown
-Item - Room 1 Key: unknown
+Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
 Item - STEM WARD: unknown
 Item - Salmon Bay Map: unknown
@@ -277,7 +277,7 @@ Item - The Undercity Pass: unknown
 Item - Tincture Pouch: unknown
 Item - Tincture: unknown
 Item - Tonic Pouch: unknown
-Item - Tonic: unknown
+Item - Tonic: filler
 Item - Tough Rod: unknown
 Item - Tram Key: unknown
 Item - Treasure Finder: unknown
