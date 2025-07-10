@@ -4,7 +4,7 @@ import pathlib
 
 import attrs
 import re
-import yaml
+import json
 
 abspath = os.path.dirname(__file__)
 world_folder = pathlib.Path(abspath, "worlds")
@@ -60,9 +60,9 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
         game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
     dp.game_name = game_name
 
-    info_yaml = world_folder.joinpath(game_name, "info.yaml")
-    if info_yaml.exists():
-        info = yaml.safe_load(info_yaml)
+    info_json = world_folder.joinpath(game_name, "progression.json")
+    if info_json.exists():
+        info = json.loads(info_json.read_text(encoding="utf-8"))
         if 'items' in info:
             for name, classification in info['items'].items():
                 dp.set_classification(name, classifications[classification.strip()])
@@ -96,18 +96,20 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
 
     return dp
 
-def save_datapackage(game_name, dp: Datapackage) -> None:
+def save_datapackage(game_name, dp: Datapackage) -> Datapackage:
     game_name = game_name.replace("/", "_").replace(":", "_")
     if os.path.exists(world_folder.joinpath(game_name, "redirect.txt")):
         game_name = world_folder.joinpath(game_name, "redirect.txt").read_text().strip()
     info = {}
     for name, classification in dp.items.items():
         info[name] = classification.name
-    if dp.categories:
-        save_complex(game_name, dp, info)
-        return
 
     world_folder.joinpath(game_name).mkdir(parents=True, exist_ok=True)
+
+    if dp.categories or world_folder.joinpath(game_name, "progression.json").exists():
+        save_complex(game_name, dp, info)
+        return dp
+
     progressionFile = world_folder.joinpath(game_name, "progression.txt")
     lines = [f"{k}: {v.name}" for k, v in dp.items.items()]
     lines.sort()
@@ -115,9 +117,9 @@ def save_datapackage(game_name, dp: Datapackage) -> None:
 
     return dp
 
-def save_complex(game_name, dp: Datapackage, info: dict[str, ItemClassification]) -> None:
-    dump = yaml.dump({"categories": dp.categories, "items": info})
-    world_folder.joinpath(game_name, "info.yaml").write_text(dump, encoding="utf-8")
+def save_complex(game_name, dp: Datapackage, info: dict[str, str]) -> None:
+    dump = json.dumps({"categories": dp.categories, "items": info}, indent=2, sort_keys=True)
+    world_folder.joinpath(game_name, "progression.json").write_text(dump, encoding="utf-8")
     progressionFile = world_folder.joinpath(game_name, "progression.txt")
     if progressionFile.exists():
         progressionFile.unlink()
