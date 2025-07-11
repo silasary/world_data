@@ -29,7 +29,7 @@ Equipment - Mana Ring: unknown
 Equipment - Muggers Glove: unknown
 Equipment - Nomads Emblem: unknown
 Equipment - Oven Mitt: unknown
-Equipment - Progressive 1H Axe: unknown
+Equipment - Progressive 1H Axe: useful
 Equipment - Progressive 1H Sword: unknown
 Equipment - Progressive 2H Axe: unknown
 Equipment - Progressive 2H Sword: unknown
@@ -49,7 +49,7 @@ Equipment - Progressive Rapier: unknown
 Equipment - Progressive Scythe: unknown
 Equipment - Progressive Shield: unknown
 Equipment - Progressive Spear: unknown
-Equipment - Progressive Staff: unknown
+Equipment - Progressive Staff: useful
 Equipment - Progressive Wand: unknown
 Equipment - Protect Amulet: unknown
 Equipment - Red Hairpin: unknown
@@ -108,7 +108,7 @@ Item - Decent Cod: unknown
 Item - Deity Eye: unknown
 Item - Delende Map: unknown
 Item - Delende Pass: unknown
-Item - Diamond Dust: unknown
+Item - Diamond Dust: filler
 Item - Diamond Ingot: unknown
 Item - Diamond Ore: unknown
 Item - Digested Head: filler
