@@ -338,7 +338,7 @@ Gauntlets: unknown
 Gemini Gem: unknown
 Gemsteel: unknown
 Gendarme: unknown
-Genji Armor: unknown
+Genji Armor: filler
 Genji Gloves: unknown
 Genji Helm: unknown
 Genji Shield: unknown
@@ -638,7 +638,7 @@ Reflect: useful
 Reflectga Mote: filler
 Reflectga: useful
 Regen: unknown
-Remedy: unknown
+Remedy: filler
 Renew: useful
 Renewing Morion: unknown
 Reptilian Trophy: unknown
@@ -788,7 +788,7 @@ Thief's Cap: unknown
 Thief's Cuffs: unknown
 Thorned Mace: unknown
 Throat Wolf Blood: unknown
-Thundaga: unknown
+Thundaga: useful
 Thundara: useful
 Thunder: useful
 Time Bolts: unknown
