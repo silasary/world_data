@@ -105,6 +105,7 @@ AMR: Reginal Yiym_3: unknown
 AMR: Reliable Gauze Eyepatch: unknown
 AMR: Supreme Diving Band R: unknown
 AMR: Supreme Round Glasses: unknown
+AMR: Supreme Tank Top (Pink): unknown
 AMR: Survival Glove L_2: unknown
 AMR: Survival Guard L_2: unknown
 AMR: Survival Headset_3: unknown
@@ -143,6 +144,7 @@ AMR: Valor Tecta R_1: unknown
 AMR: Vanquisher's Gauntlet R_3: filler
 AMR: Vanquisher's Plate_2: unknown
 AMR: Vanquisher's Sabatons_3: unknown
+AMR: Vivid Boots_3: unknown
 AMR: Vivid Cassida_1: unknown
 AMR: Vivid Chiro L_2: unknown
 AMR: Vivid Chiro R_3: unknown
@@ -430,6 +432,7 @@ DP: Mining Probe G9: progression
 DP: Ranged Attack Probe: unknown
 DP: Research Probe G1: unknown
 DP: Research Probe G2: unknown
+DP: Research Probe G3: unknown
 DP: Research Probe G4: unknown
 DP: Research Probe G5: unknown
 DP: Storage Probe: unknown
@@ -991,6 +994,7 @@ WPN: Worn Carbide Blades: unknown
 WPN: Worn Carbide Sword II: unknown
 WPN: Worn Carbide Thudclang: unknown
 WPN: Worn Cermet Candela: unknown
+WPN: Worn Cermet Iyst: unknown
 WPN: Worn Cermet Spear: unknown
 WPN: Worn Chrome Knife II: unknown
 WPN: Worn Chromoly Jyth: unknown
