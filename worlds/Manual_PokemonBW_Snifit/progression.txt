@@ -13,6 +13,7 @@ HM01 Cut: progression
 HM03 Surf: progression
 HM04 Strength: progression
 Hyper Potion: filler
+Icy Rock: filler
 Insect Badge: progression
 Jet Badge: progression
 Leaf Stone: filler
@@ -33,6 +34,7 @@ TM13: useful
 TM18: useful
 TM24: useful
 TM29: useful
+TM31: useful
 TM32: useful
 TM34: useful
 TM36: useful
@@ -49,6 +51,7 @@ TM80: useful
 TM82: useful
 TM83: useful
 TM86: useful
+TM87: useful
 TM88: useful
 TM91: useful
 TM92: useful
