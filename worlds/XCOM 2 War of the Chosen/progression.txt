@@ -9,6 +9,7 @@
 [Resource] 15 Alien Alloys: unknown
 [Resource] 15 Elerium Crystals: filler
 [Resource] 15 Intel: useful
+[Resource] 20 Intel: unknown
 [Resource] 20 Supplies: filler
 [Resource] 3 Ability Points: filler
 [Resource] 35 Supplies: useful
@@ -68,6 +69,7 @@
 [Upgrade] Advanced Stock: useful
 [Upgrade] Superior Auto-Loader: unknown
 [Upgrade] Superior Expanded Magazine: filler
+[Upgrade] Superior Hair Trigger: unknown
 [Upgrade] Superior Laser Sight: unknown
 [Upgrade] Superior Scope: filler
 [Upgrade] Superior Stock: filler
