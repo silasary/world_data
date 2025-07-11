@@ -62,6 +62,7 @@ AMR: Forza Ward L_2: unknown
 AMR: Forza Yii_1: unknown
 AMR: Heavy Overlord's Plate_2: unknown
 AMR: Heavy Vanquisher's Greaves_3: unknown
+AMR: Infinite Bangle L: unknown
 AMR: Juvenile Bunny Ears: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Shorts: unknown
@@ -238,6 +239,7 @@ ART: Shrapnel: unknown
 ART: Sidewinder: unknown
 ART: Smooth Recovery: unknown
 ART: Sniper Barrel: unknown
+ART: Speed Demon: unknown
 ART: Starfall Blossom: unknown
 ART: Starfall Rondo: unknown
 ART: Starlight Kick: unknown
@@ -889,6 +891,7 @@ WPN: Carbide Ralzes_1: unknown
 WPN: Carbide Sword_3: unknown
 WPN: Cermet Fulge II_1: unknown
 WPN: Cermet Iyst II_3: unknown
+WPN: Cermet Pilum II_1: unknown
 WPN: Cermet Ralzes_1: unknown
 WPN: Chrome Bolide_1: unknown
 WPN: Chrome Candela_3: unknown
