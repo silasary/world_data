@@ -101,6 +101,7 @@ AMR: Infinite Bangle L: unknown
 AMR: Jeans: unknown
 AMR: Juvenile Bunny Ears: unknown
 AMR: Lao's Armwear L: unknown
+AMR: Lao's Bodywear: unknown
 AMR: Limited Browline Glasses: unknown
 AMR: Limited Halfrim Glasses: unknown
 AMR: Limited Shorts: unknown
@@ -178,6 +179,7 @@ AMR: Swimsuit Bottoms_2: unknown
 AMR: Tank Top (Pink Camo): filler
 AMR: True Bangle L: unknown
 AMR: Ultra Boundless Gauntlet R: unknown
+AMR: Ultra Boundless Light Plate: unknown
 AMR: Ultra Boundless Vambrace L: unknown
 AMR: Ultra Deific Crest: unknown
 AMR: Ultra Infinite Boots: filler
@@ -235,6 +237,7 @@ AMR: Vivid Sleeve L_3: unknown
 AMR: Vivid Sleeve R_1: unknown
 AMR: Vivid Tythes_1: unknown
 AMR: Vivid Visor_2: unknown
+AMR: Vivid Vitra_2: unknown
 AMR: Vivid Vizard_3: unknown
 AMR: Vivid Wrest R_1: unknown
 AMR: Vivid Yiys R_1: unknown
@@ -245,6 +248,7 @@ AMR: Warrior's Gauntlet R_1: unknown
 AMR: Warrior's Plate_3: unknown
 AMR: Warrior's Vambrace R_1: unknown
 AMR: Worn Combat Footwear: unknown
+AMR: Worn Combat Sleeve R: unknown
 AMR: Worn Forza Casca: unknown
 AMR: Worn Forza Guard L: unknown
 AMR: Worn Forza Headset: unknown
@@ -303,6 +307,7 @@ ART: Defensive Stance: unknown
 ART: Drum Roll: unknown
 ART: Dual Dynamo: unknown
 ART: Eagle Eye: unknown
+ART: Early Bird: unknown
 ART: Enhanced Stand: unknown
 ART: Essence Exchange: unknown
 ART: Ether Blast: unknown
@@ -383,6 +388,7 @@ AUG: Beam Attack Plus XV: unknown
 AUG: Chimeroid Criticals Up XVIII: unknown
 AUG: Chimeroid Slayer II: unknown
 AUG: Critical Chance Up X: unknown
+AUG: Critical Surge III: unknown
 AUG: Critical Surge IV: unknown
 AUG: Critical Surge XI: unknown
 AUG: Crush Surge VIII: unknown
@@ -524,6 +530,7 @@ AUG: Ranged Draw Surge VI: unknown
 AUG: Ranged Draw Surge XIX: unknown
 AUG: Reflect Damage Up IX: unknown
 AUG: Reflect Damage Up V: unknown
+AUG: Reflect Damage Up XIV: unknown
 AUG: Reflect Damage Up XX: unknown
 AUG: Reflect: Electric: unknown
 AUG: Reflect: Ether: unknown
@@ -575,8 +582,10 @@ AUG: Theroid Slayer VIII: unknown
 AUG: Topple: Barrier XII: unknown
 AUG: Topple: Barrier XX: unknown
 AUG: Topple: Decoy V: unknown
+AUG: Treasure Sensor I: unknown
 AUG: Ultrafauna Criticals Up X: unknown
 AUG: Ultrafauna Criticals Up XVII: unknown
+AUG: Underdog Surge VIII: unknown
 AUG: Untouchable Dash XI: unknown
 AUG: Vantage Attack Plus XVI: unknown
 AUG: Visual Cloaking XVII: unknown
@@ -652,6 +661,7 @@ SKAMR: SK30SA H-BODY-ATK3_1: unknown
 SKAMR: SK30SA H-BODY-ATK3_3: unknown
 SKAMR: SK30SA H-LEGS-ATK2_3: unknown
 SKAMR: SK30SA L-LEGS-ATK_2: unknown
+SKAMR: SK30SA M-RARM-RNG_2: unknown
 SKAMR: SK40GG L-RARM-DEF_1: unknown
 SKAMR: SK40SA H-LARM-ATK3_3: unknown
 SKAMR: SK40SA H-RARM-ATK2_1: unknown
@@ -683,6 +693,7 @@ SKAMR: SK60SA L-LEGS-ATK_3: unknown
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
 SKAMR: SK60SA L-RARM-ATK_3: unknown
+SKAMR: SK60SA M-RARM-RNG_3: unknown
 SKAMR: XSK20GG L-HEAD-SPD3: unknown
 SKAMR: XSK20SA L-RARM-SPD2: unknown
 SKAMR: XSK20SA M-RARM-DEF2: unknown
@@ -739,6 +750,7 @@ SKAUG: Crush.GP XIII: unknown
 SKAUG: Custom.WP-ATK II: unknown
 SKAUG: Custom.WP-DESTABLE III: unknown
 SKAUG: Custom.WP-DESTABLE VI: unknown
+SKAUG: Custom.WP-FUEL VII: unknown
 SKAUG: Custom.WP-FUEL X: unknown
 SKAUG: Custom.WP-R-RANGE XX: unknown
 SKAUG: Custom.WP-SPEED VI: filler
@@ -793,6 +805,7 @@ SKAUG: Reflect.ADD-ELEC: unknown
 SKAUG: Reflect.ADD-PHYS: unknown
 SKAUG: Reflect.ADD-THERM: unknown
 SKAUG: Reflect.DAMAGE-UP V: unknown
+SKAUG: Reflect.DAMAGE-UP XIII: unknown
 SKAUG: Reflect.DAMAGE-UP XVI: unknown
 SKAUG: Reflect.NEG-BEAM XV: unknown
 SKAUG: Reflect.NEG-ELEC XVI: unknown
@@ -822,6 +835,7 @@ SKAUG: Resist.SLEEP XV: unknown
 SKAUG: Resist.SLOW-ARTS IX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
 SKAUG: Resist.TAUNT VIII: unknown
+SKAUG: Resist.THERM-DOWN XIII: unknown
 SKAUG: Resist.VIRUS XI: unknown
 SKAUG: Slayer.HUMANOID V: unknown
 SKAUG: Slayer.HUMANOID XII: unknown
@@ -1006,6 +1020,7 @@ SKWPN: SHM-M140GG P-Knife_2: unknown
 SKWPN: SHM-M140ME B-Centipede_1: unknown
 SKWPN: SHM-M150GG P-Knife_1: unknown
 SKWPN: SHM-M240SA Sword_3: unknown
+SKWPN: SHM-M350SA E-Sword_1: unknown
 SKWPN: SHM-R1020SA Wiregun_1: filler
 SKWPN: SHM-R120ME Bladegun_2: unknown
 SKWPN: SHM-R130GG HB-Rifle_2: filler
@@ -1048,8 +1063,10 @@ SKWPN: SKM-M220ME Claymore_3: unknown
 SKWPN: SKM-M220SA V-knuckle_3: unknown
 SKWPN: SKM-M250ME Claymore_3: unknown
 SKWPN: SKM-M340ME Katar_2: unknown
+SKWPN: SKM-M340ME Katar_3: unknown
 SKWPN: SKM-M350ME Katar_2: unknown
 SKWPN: SKM-M360ME Katar_1: unknown
+SKWPN: SKM-R320ME Cracker-PD_2: unknown
 SKWPN: SKM-R330GG Cracker-FL_3: unknown
 SKWPN: SKM-R330ME Cracker-PD_1: unknown
 SKWPN: SKM-R330ME Cracker-PD_2: unknown
@@ -1263,12 +1280,14 @@ WPN: Chromoly Pilum_1: unknown
 WPN: Chromoly Pugio_1: unknown
 WPN: Chromoly Saber_3: unknown
 WPN: Cobalt Candela_3: unknown
+WPN: Cobalt Haven II_3: unknown
 WPN: Cobalt Honor_2: unknown
 WPN: Cobalt Knife II_3: unknown
 WPN: Cobalt Pilum_3: unknown
 WPN: Cobalt Riv_2: unknown
 WPN: Cobalt Riv_3: unknown
 WPN: Cobalt Shield_3: unknown
+WPN: Cobalt Slair II_3: unknown
 WPN: Cobalt Spatha_1: unknown
 WPN: Cobalt Spear_2: unknown
 WPN: Combat Psycho Launchers: unknown
@@ -1309,6 +1328,7 @@ WPN: Ophidian Assault Rifle_2: unknown
 WPN: Ophidian Bangbangs_2: unknown
 WPN: Ophidian Bliss_2: unknown
 WPN: Ophidian Dyads II_2: unknown
+WPN: Ophidian Machine_3: unknown
 WPN: Ophidian Radius II_2: unknown
 WPN: Ophidian Rapture_1: unknown
 WPN: Ophidian Ruina_2: unknown
