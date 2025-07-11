@@ -481,6 +481,7 @@ SKAMR: SK60GG L-LARM-DEF_2: unknown
 SKAMR: SK60ME H-LARM-ETH_2: unknown
 SKAMR: SK60ME H-RARM-ETH_2: unknown
 SKAMR: SK60SA H-RARM-ATK2_2: filler
+SKAMR: SK60SA L-LEGS-ATK_3: unknown
 SKAMR: SK60SA L-LEGS-SPD_1: unknown
 SKAMR: SK60SA L-RARM-ATK_1: unknown
 SKAMR: SK60SA L-RARM-ATK_3: unknown
@@ -578,6 +579,7 @@ SKAUG: Resist.SHOCK XIX: unknown
 SKAUG: Resist.SLEEP XV: unknown
 SKAUG: Resist.SLOW-ARTS IX: unknown
 SKAUG: Resist.SLOW-ARTS XIV: unknown
+SKAUG: Resist.TAUNT VIII: unknown
 SKAUG: Resist.VIRUS XI: unknown
 SKAUG: Slayer.HUMANOID XII: unknown
 SKAUG: Slayer.INSECTOID XI: unknown
@@ -648,6 +650,7 @@ SKL: Blazing Auto: unknown
 SKL: Boosted Bullets: unknown
 SKL: Buff Extender: unknown
 SKL: CQC Master: unknown
+SKL: Combo Gunner: unknown
 SKL: Conductive Strike: unknown
 SKL: Crisis Catalyst: unknown
 SKL: Deep Fang: unknown
