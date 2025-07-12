@@ -75,7 +75,7 @@ FormatExBorder: unknown
 FormatFireCup: unknown
 FormatFirstEditionVintage: unknown
 FormatFoil: unknown
-FormatFullArtBorder: unknown
+FormatFullArtBorder: useful
 FormatGoldBorder: unknown
 FormatPauper: unknown
 FormatSilverBorder: unknown
