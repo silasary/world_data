@@ -1,6 +1,7 @@
 Anti-venom: filler
 Bagonette: unknown
 Bookshelf: mcguffin
+Candleholder: mcguffin
 Candlestick: unknown
 Castle Drawing: filler
 Chandelier: mcguffin
@@ -9,6 +10,7 @@ Crushing Stone: unknown
 Drumstick: filler
 Earth Ring: useful
 Elixir: unknown
+Energy Circle: useful
 Eye of Vlad: mcguffin
 Face-guard: unknown
 Greed Amulet: unknown
@@ -26,6 +28,7 @@ Hint Card 6: unknown
 Ice Book: progression
 Kaiser Mail: useful
 Leather Armor: useful
+Leather Cap: filler
 Leather Gloves: useful
 Life Max Up: useful
 Lizard Tail: unknown
