@@ -1,3 +1,4 @@
+1000 Drans: unknown
 Acrobat: unknown
 Alchemist: unknown
 Artisan: unknown
@@ -12,6 +13,7 @@ Conductor: unknown
 CookA: unknown
 CookB: unknown
 Doctor: unknown
+Green Eye: progression
 Guard: unknown
 Hawker: unknown
 Janitor: unknown
@@ -28,8 +30,11 @@ MercenB: unknown
 MercenC: unknown
 MusicianB: unknown
 MusicianC: unknown
+Odd Bone: unknown
+Red Cloth: unknown
 Seer: unknown
 Shepherd: unknown
+Shield: unknown
 SoldierA: unknown
 SoldierB: unknown
 Taster: unknown
