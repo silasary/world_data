@@ -161,7 +161,7 @@ Desert Obelisk: filler
 Diamond Wand: unknown
 Dig Site Bridge: progression
 Digger's Delight Recipe: progression
-Digging Like Worms: unknown
+Digging Like Worms: progression
 Dish O' The Sea Recipe: progression
 Dish O' The Sea: filler
 Dressed Spinner: useful
@@ -349,7 +349,7 @@ Leo <3: progression
 Leprechaun Hat: useful
 Lewis <3: progression
 Lifesaver: unknown
-Lightning Elixir: unknown
+Lightning Elixir: useful
 Lightning Rod: filler
 Linus <3: progression
 Livin' Off The Land: filler
@@ -685,7 +685,7 @@ Resource Pack: 3 Warp Totem: Farm: filler
 Resource Pack: 3 Warp Totem: Island: filler
 Resource Pack: 3 Warp Totem: Mountains: filler
 Resource Pack: 3 Water Shifter: unknown
-Resource Pack: 3 Water Sifter: unknown
+Resource Pack: 3 Water Sifter: useful
 Resource Pack: 30 Bait: filler
 Resource Pack: 30 Basic Fertilizer: filler
 Resource Pack: 30 Basic Retaining Soil: filler
@@ -1992,7 +1992,7 @@ Wind Spire: unknown
 Winter: progression
 Wizard <3: progression
 Wizard Catalogue: unknown
-Wizard Invitation: unknown
+Wizard Invitation: progression
 Wood Club: unknown
 Wood Fence Recipe: progression
 Wood Floor Recipe: progression
