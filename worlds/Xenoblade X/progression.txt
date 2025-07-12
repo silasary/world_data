@@ -204,6 +204,7 @@ AMR: Valor Armilla L_1: unknown
 AMR: Valor Armwear L_1: unknown
 AMR: Valor Boots_2: unknown
 AMR: Valor Brax R_1: unknown
+AMR: Valor Brogs_3: unknown
 AMR: Valor Distancers_2: unknown
 AMR: Valor Distancers_3: unknown
 AMR: Valor Guante L_1: unknown
@@ -998,6 +999,7 @@ SKWPN: SAM-M132ME Beam-Shield_1: unknown
 SKWPN: SAM-M142ME Beam-Shield_3: unknown
 SKWPN: SAM-M145ME Beam-Shield_1: filler
 SKWPN: SAM-M150ME Beam-Shield_1: unknown
+SKWPN: SAM-M151ME Beam-Shield_2: unknown
 SKWPN: SAM-M153SA Shield_2: unknown
 SKWPN: SAM-M153SA Shield_3: unknown
 SKWPN: SAM-M154SA Shield_1: unknown
