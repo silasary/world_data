@@ -9,7 +9,7 @@
 2000 G: filler
 250 G: filler
 2500 G: unknown
-2x Almond: unknown
+2x Almond: filler
 2x Antidote: filler
 2x Apple: unknown
 2x Azure Gem: unknown
@@ -26,7 +26,7 @@
 2x Corn: filler
 2x Cotton: filler
 2x Craft Box: unknown
-2x Crimson Gem: unknown
+2x Crimson Gem: filler
 2x Crystal Shard: unknown
 2x Emerald: unknown
 2x Gold: filler
@@ -64,7 +64,7 @@
 2x Skill Potion: unknown
 2x Skill Resetter: unknown
 2x Small Antidote: unknown
-2x Small Potion: unknown
+2x Small Potion: filler
 2x Smoke Bomb: filler
 2x Steel: filler
 2x Strawberry: unknown
@@ -117,7 +117,7 @@
 3x Small Antidote: filler
 3x Small Potion: unknown
 3x Smoke Bomb: filler
-3x Smoke bomb: unknown
+3x Smoke bomb: filler
 3x Steel: filler
 3x Verdant Gem: unknown
 3x Walnut: unknown
@@ -149,12 +149,12 @@ Ability - Corrosive Jabs: unknown
 Ability - Crush: unknown
 Ability - Dual Mobility: unknown
 Ability - Fiery Shots: progression
-Ability - Flying: unknown
+Ability - Flying: progression
 Ability - Freeze: unknown
 Ability - Ghost Form: unknown
 Ability - Grapple: useful
 Ability - Heavy Punch: unknown
-Ability - Ignite: unknown
+Ability - Ignite: progression
 Ability - Improved Flying: progression
 Ability - Improved Swimming: unknown
 Ability - Jewel Blast: unknown
@@ -273,7 +273,7 @@ Blood Vessel+3: unknown
 Blood Vessel+4: unknown
 Blood Vessel+5: unknown
 Blood Vessel: unknown
-Blue Cave key: unknown
+Blue Cave key: progression
 Blue Gem: unknown
 Bow+1: unknown
 Bow+2: unknown
@@ -992,7 +992,7 @@ Ribbon+2: unknown
 Ribbon+3: unknown
 Ribbon+4: unknown
 Ribbon+5: unknown
-Ribbon: unknown
+Ribbon: filler
 River Clay: unknown
 Rocky Egg: unknown
 Ruby: filler
