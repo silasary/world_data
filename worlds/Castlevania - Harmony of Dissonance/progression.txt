@@ -4,6 +4,7 @@ Bookshelf: mcguffin
 Candleholder: mcguffin
 Candlestick: unknown
 Castle Drawing: filler
+Chair: mcguffin
 Chandelier: mcguffin
 Closet: mcguffin
 Crush Boots: progression
@@ -36,6 +37,7 @@ Leather Gloves: useful
 Life Max Up: useful
 Lizard Tail: unknown
 Lucky Charm: filler
+MK's Bracelet: progression
 Mana Prism: unknown
 Medicine Jar: filler
 Moon Armor: unknown
