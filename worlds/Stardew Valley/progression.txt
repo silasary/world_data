@@ -866,8 +866,8 @@ Spell: Evac: progression
 Spell: Fireball: useful
 Spell: Frostbolt: useful
 Spell: Haste: unknown
-Spell: Heal: unknown
-Spell: Lantern: unknown
+Spell: Heal: useful
+Spell: Lantern: filler
 Spell: Lucksteal: filler
 Spell: Meteor: unknown
 Spell: Photosynthesis: progression
@@ -875,7 +875,7 @@ Spell: Rewind: unknown
 Spell: Shockwave: useful
 Spell: Spirit: unknown
 Spell: Teleport: unknown
-Spell: Tendrils: unknown
+Spell: Tendrils: useful
 Spell: Till: useful
 Spell: Water: progression
 Spicy Eel Recipe: progression
