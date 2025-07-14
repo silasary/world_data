@@ -202,7 +202,7 @@ Item - Potion Pouch: unknown
 Item - Potion: filler
 Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
-Item - Progressive Level: unknown
+Item - Progressive Level: useful
 Item - Progressive Luxury Pass: unknown
 Item - Progressive Mount Instrument: unknown
 Item - Progressive Quintar Flute: progression
@@ -263,7 +263,7 @@ Item - Spawning Meadows Map: unknown
 Item - Spawning Meadows Pass: unknown
 Item - Special Fresh Salmon: unknown
 Item - Special Milk: unknown
-Item - Special Rotten Salmon: unknown
+Item - Special Rotten Salmon: progression
 Item - Special Shoudu Stew: unknown
 Item - Super Rod: unknown
 Item - Sweet Pop Candy: unknown
