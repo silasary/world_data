@@ -868,7 +868,7 @@ Spell: Frostbolt: useful
 Spell: Haste: unknown
 Spell: Heal: unknown
 Spell: Lantern: unknown
-Spell: Lucksteal: unknown
+Spell: Lucksteal: filler
 Spell: Meteor: unknown
 Spell: Photosynthesis: progression
 Spell: Rewind: unknown
