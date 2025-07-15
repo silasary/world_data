@@ -15,6 +15,7 @@ Banana for Baby Mario: unknown
 Banana for Daisy: unknown
 Banana for Diddy Kong: unknown
 Banana for Donkey Kong: unknown
+Banana for King Boo: unknown
 Banana for Koopa: unknown
 Banana for Luigi: unknown
 Banana for Peach: unknown
@@ -35,6 +36,7 @@ Bob-omb for Luigi: unknown
 Bob-omb for Paratroopa: unknown
 Bob-omb for Peach: unknown
 Bob-omb for Petey Piranha: unknown
+Bob-omb for Toadette: unknown
 Bob-omb for Wario: unknown
 Boo Pipes: unknown
 Bowser Jr.: progression
@@ -62,6 +64,7 @@ Chain Chomp for King Boo: unknown
 Chain Chomp for Mario: unknown
 Chain Chomp for Peach: progression
 Chain Chomp for Petey Piranha: useful
+Chain Chomp for Toad: unknown
 Chain Chomp for Toadette: unknown
 DK Jumbo: progression
 DK Mountain Time Trial: unknown
@@ -81,6 +84,7 @@ Extra Weight for Piranha Pipes: unknown
 Extra Weight for Toad Kart: unknown
 Extra Weight for Toadette Kart: progression
 Extra Weight for Turbo Yoshi: unknown
+Fake Item for Bowser: unknown
 Fake Item for Daisy: useful
 Fake Item for Diddy Kong: unknown
 Fake Item for Donkey Kong: unknown
@@ -120,6 +124,7 @@ Giant Banana for Daisy: unknown
 Giant Banana for Everybody: progression
 Giant Banana for King Boo: unknown
 Giant Banana for Koopa: unknown
+Giant Banana for Luigi: unknown
 Giant Banana for Mario: unknown
 Giant Banana for Peach: unknown
 Giant Banana for Petey Piranha: unknown
@@ -142,6 +147,7 @@ Green Shell for Koopa: progression
 Green Shell for Luigi: progression
 Green Shell for Mario: unknown
 Green Shell for Peach: progression
+Green Shell for Petey Piranha: unknown
 Green Shell for Toad: progression
 Green Shell for Waluigi: unknown
 Green Shell for Wario: unknown
@@ -155,6 +161,7 @@ Heart for Luigi: useful
 Heart for Mario: unknown
 Heart for Toadette: unknown
 Heart for Waluigi: unknown
+Heart for Yoshi: unknown
 King Boo: progression
 Koopa Dasher: progression
 Koopa King: progression
@@ -234,6 +241,7 @@ Red Shell for Birdo: useful
 Red Shell for Daisy: unknown
 Red Shell for Diddy Kong: unknown
 Red Shell for Everybody: progression
+Red Shell for Koopa: unknown
 Red Shell for Paratroopa: useful
 Red Shell for Petey Piranha: unknown
 Red Shell for Toadette: unknown
@@ -252,8 +260,10 @@ Spiny Shell for Paratroopa: unknown
 Spiny Shell for Peach: unknown
 Spiny Shell for Petey Piranha: unknown
 Spiny Shell for Toad: unknown
+Spiny Shell for Waluigi: unknown
 Spiny Shell for Wario: useful
 Star Cup: progression
+Star for Bowser Jr.: unknown
 Star for Diddy Kong: unknown
 Star for Donkey Kong: unknown
 Star for Everybody: progression
@@ -266,6 +276,7 @@ Toadette Kart: progression
 Toadette: unknown
 Triple Green Shells for Baby Luigi: useful
 Triple Green Shells for Baby Mario: unknown
+Triple Green Shells for Birdo: unknown
 Triple Green Shells for Bowser Jr.: useful
 Triple Green Shells for Bowser: unknown
 Triple Green Shells for Diddy Kong: unknown
@@ -307,6 +318,7 @@ Yoshi Circuit Time Trial: unknown
 Yoshi Egg for Baby Mario: unknown
 Yoshi Egg for Bowser Jr.: progression
 Yoshi Egg for Daisy: unknown
+Yoshi Egg for Diddy Kong: unknown
 Yoshi Egg for Koopa: progression
 Yoshi Egg for Mario: unknown
 Yoshi Egg for Paratroopa: unknown
