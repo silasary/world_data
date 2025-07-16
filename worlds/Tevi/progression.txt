@@ -75,7 +75,7 @@ Combo Time Extend B: filler
 Combo Time Extend C: filler
 Combustible: progression
 Core Expansion: Charge: useful
-Core Expansion: Combo: unknown
+Core Expansion: Combo: useful
 Core Expansion: Dazzle: useful
 Core Expansion: Erase: useful
 Core Expansion: Extend: unknown
@@ -330,7 +330,7 @@ Teleporter Industry: unknown
 Teleporter Lab: unknown
 Teleporter Magma Depths: progression
 Teleporter Mines: progression
-Teleporter Morose: unknown
+Teleporter Morose: progression
 Teleporter Oasis: progression
 Teleporter Ocean: progression
 Teleporter Plague: progression

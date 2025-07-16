@@ -146,7 +146,7 @@ Item - Ganymede Shrine Map: unknown
 Item - Ganymede Shrine Pass: unknown
 Item - Ganymede Stone: unknown
 Item - Gardeners Key: unknown
-Item - Gold Dust: unknown
+Item - Gold Dust: useful
 Item - Gold Ingot: filler
 Item - Gold Ore: filler
 Item - Greenshire Reprise Map: unknown
@@ -179,7 +179,7 @@ Item - Milk Bag: unknown
 Item - Milk: filler
 Item - Nans Cocoa: unknown
 Item - Nans Secret Recipe: filler
-Item - Nans Stew: unknown
+Item - Nans Stew: filler
 Item - Neptune Shrine Map: unknown
 Item - Neptune Shrine Pass: unknown
 Item - Neptune Stone: progression
@@ -250,7 +250,7 @@ Item - Shoudu Province Pass: unknown
 Item - Shoudu Stew: unknown
 Item - Shoudu Waterfront Pass: unknown
 Item - Silver Dust: unknown
-Item - Silver Ingot: unknown
+Item - Silver Ingot: useful
 Item - Silver Ore: unknown
 Item - Skeleton Key: unknown
 Item - Skumparadise Map: unknown
@@ -274,7 +274,7 @@ Item - Tall Tall Heights Map: unknown
 Item - Tall, Tall Heights Map: unknown
 Item - Tall, Tall Heights Pass: unknown
 Item - The Chalice of Tar Map: unknown
-Item - The Chalice of Tar Pass: unknown
+Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: unknown
 Item - The Deep Sea Pass: unknown
 Item - The Depths Map: unknown
