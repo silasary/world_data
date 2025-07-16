@@ -37,7 +37,7 @@ Equipment - Progressive Beating Staff: unknown
 Equipment - Progressive Book: unknown
 Equipment - Progressive Bow: unknown
 Equipment - Progressive Dagger: unknown
-Equipment - Progressive Heavy Body: unknown
+Equipment - Progressive Heavy Body: useful
 Equipment - Progressive Heavy Head: unknown
 Equipment - Progressive Katana: unknown
 Equipment - Progressive Light Body: unknown
@@ -50,7 +50,7 @@ Equipment - Progressive Scythe: unknown
 Equipment - Progressive Shield: unknown
 Equipment - Progressive Spear: unknown
 Equipment - Progressive Staff: useful
-Equipment - Progressive Wand: unknown
+Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
 Equipment - Red Hairpin: unknown
 Equipment - Resist Shifter: unknown
@@ -129,7 +129,7 @@ Item - Europa Stone: unknown
 Item - Fenix Juice Pouch: unknown
 Item - Fenix Juice: filler
 Item - Fenix Syrup Pouch: unknown
-Item - Fenix Syrup: unknown
+Item - Fenix Syrup: filler
 Item - Ferry Pass: unknown
 Item - Flimsy Rod: unknown
 Item - Fly Lure: unknown
@@ -167,7 +167,7 @@ Item - Jigging Lure: unknown
 Item - Jojo Sewers Map: unknown
 Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
-Item - Lake Delende Pass: unknown
+Item - Lake Delende Pass: progression
 Item - Land's End Map: unknown
 Item - Lands End Map: unknown
 Item - Lost Penguin: unknown
@@ -274,6 +274,7 @@ Item - Tall Tall Heights Map: unknown
 Item - Tall, Tall Heights Map: unknown
 Item - Tall, Tall Heights Pass: unknown
 Item - The Chalice of Tar Map: unknown
+Item - The Chalice of Tar Pass: unknown
 Item - The Deep Sea Map: unknown
 Item - The Deep Sea Pass: unknown
 Item - The Depths Map: unknown
