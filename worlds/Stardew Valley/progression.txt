@@ -865,7 +865,7 @@ Spell: Descend: unknown
 Spell: Evac: progression
 Spell: Fireball: useful
 Spell: Frostbolt: useful
-Spell: Haste: unknown
+Spell: Haste: filler
 Spell: Heal: useful
 Spell: Lantern: filler
 Spell: Lucksteal: filler

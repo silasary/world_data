@@ -67,7 +67,7 @@
 2x Small Potion: filler
 2x Smoke Bomb: filler
 2x Steel: filler
-2x Strawberry: unknown
+2x Strawberry: filler
 2x Switch Stone: filler
 2x Verdant Gem: filler
 2x Walnut: unknown
@@ -1305,7 +1305,7 @@ Wizard Hat+2: unknown
 Wizard Hat+3: unknown
 Wizard Hat+4: unknown
 Wizard Hat+5: unknown
-Wizard Hat: unknown
+Wizard Hat: useful
 Wool: unknown
 Worm Egg: unknown
 Yowie Egg: unknown
