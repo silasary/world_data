@@ -43,11 +43,11 @@ Equipment - Progressive Katana: unknown
 Equipment - Progressive Light Body: unknown
 Equipment - Progressive Light Head: progression
 Equipment - Progressive Medium Body: unknown
-Equipment - Progressive Medium Head: unknown
+Equipment - Progressive Medium Head: useful
 Equipment - Progressive Ninja Dagger: unknown
 Equipment - Progressive Rapier: unknown
 Equipment - Progressive Scythe: unknown
-Equipment - Progressive Shield: unknown
+Equipment - Progressive Shield: useful
 Equipment - Progressive Spear: unknown
 Equipment - Progressive Staff: useful
 Equipment - Progressive Wand: useful
@@ -112,7 +112,7 @@ Item - Delende Map: unknown
 Item - Delende Pass: unknown
 Item - Diamond Dust: filler
 Item - Diamond Ingot: unknown
-Item - Diamond Ore: unknown
+Item - Diamond Ore: useful
 Item - Digested Head: filler
 Item - Dione Shrine Map: unknown
 Item - Dione Shrine Pass: unknown
