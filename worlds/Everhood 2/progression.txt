@@ -1,4 +1,5 @@
 -2xp: unknown
+0xp: filler
 100xp: filler
 150xp: filler
 15xp: filler
@@ -17,6 +18,7 @@
 64xp: filler
 70xp: filler
 75xp: filler
+80xp: unknown
 Cat Ears Cosmetic: unknown
 Clover: unknown
 Eternal War Key: progression
