@@ -11,6 +11,7 @@ Clothes: Garish Cook: unknown
 Clothes: Golden God: unknown
 Clothes: John Suit: unknown
 Clothes: PP Shirt: filler
+Clothes: Pumpkin: filler
 Clown Trap: trap
 Cross Buff: filler
 Crusher: progression
@@ -33,4 +34,5 @@ Taunt: unknown
 Timer Trap: unknown
 Toppin: mcguffin
 Uppercut: useful
+Wallbounce: progression
 Wallclimb: progression
