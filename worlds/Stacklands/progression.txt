@@ -20,7 +20,7 @@ Idea: Coin Chest: unknown
 Idea: Cooked Meat: unknown
 Idea: Dustbin: unknown
 Idea: Farm: unknown
-Idea: Frittata: unknown
+Idea: Frittata: useful
 Idea: Garden: unknown
 Idea: Growth: unknown
 Idea: Hammer: unknown
@@ -40,11 +40,12 @@ Idea: Pickaxe: unknown
 Idea: Quarry: unknown
 Idea: Resource Chest: unknown
 Idea: Sawmill: unknown
-Idea: Shed: unknown
+Idea: Shed: progression
 Idea: Slingshot: unknown
 Idea: Smelter: unknown
 Idea: Smithy: unknown
 Idea: Spear: unknown
+Idea: Stable Portal: unknown
 Idea: Stew: unknown
 Idea: Stick: unknown
 Idea: Stove: unknown
