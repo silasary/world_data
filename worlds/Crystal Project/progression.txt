@@ -111,7 +111,7 @@ Item - Deity Eye: unknown
 Item - Delende Map: unknown
 Item - Delende Pass: unknown
 Item - Diamond Dust: filler
-Item - Diamond Ingot: unknown
+Item - Diamond Ingot: useful
 Item - Diamond Ore: useful
 Item - Digested Head: filler
 Item - Dione Shrine Map: unknown
@@ -156,7 +156,7 @@ Item - Ibek Bell: unknown
 Item - Ibek Cave Pass: unknown
 Item - Ice Cell Key: progression
 Item - Ice Puzzle Key Ring: unknown
-Item - Ice Puzzle Key: unknown
+Item - Ice Puzzle Key: progression
 Item - Jade Cavern Map: unknown
 Item - Jidamba Eaclaneya Map: unknown
 Item - Jidamba Eaclaneya Pass: unknown
@@ -321,7 +321,7 @@ Job - Hunter: unknown
 Job - Mimic: unknown
 Job - Monk: unknown
 Job - Ninja: unknown
-Job - Nomad: unknown
+Job - Nomad: progression
 Job - Reaper: unknown
 Job - Rogue: unknown
 Job - Samurai: unknown
