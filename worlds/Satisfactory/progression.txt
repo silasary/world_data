@@ -605,6 +605,7 @@ Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: AI Expansion Server: unknown
 Single: Adaptive Control Unit: filler
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
