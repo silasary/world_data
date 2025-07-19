@@ -863,7 +863,7 @@ Spell: Blink: progression
 Spell: Bloodmana: unknown
 Spell: Buff: unknown
 Spell: Clear Debris: useful
-Spell: Descend: unknown
+Spell: Descend: useful
 Spell: Evac: progression
 Spell: Fireball: useful
 Spell: Frostbolt: useful

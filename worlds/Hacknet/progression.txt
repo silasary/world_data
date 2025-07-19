@@ -10,6 +10,7 @@ HexClock: filler
 KBTPortTest: progression
 Mem Suite: progression
 Mission Skip: useful
+NetmapOrganizer: useful
 PacificPortcrusher: progression
 PointClicker +1000pt./s: progression
 PointClicker +100pt./s: progression
