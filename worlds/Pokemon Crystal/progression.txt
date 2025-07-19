@@ -1,3 +1,4 @@
+AP Item: filler
 Amulet Coin: useful
 Antidote: filler
 Awakening: filler
@@ -16,6 +17,7 @@ Blu Apricorn: filler
 Blue Card: filler
 Bluesky Mail: filler
 Boulder Badge: progression
+Brick Piece: filler
 Brightpowder: useful
 Burn Heal: filler
 Burn Trap: trap
@@ -33,6 +35,7 @@ Dragon Fang: useful
 Dragon Scale: useful
 EXPN Card: progression
 Earth Badge: progression
+Egg Ticket: filler
 Elixer: filler
 Energy Root: filler
 Energypowder: filler
@@ -59,6 +62,7 @@ Good Rod: progression
 Gorgeous Box: filler
 Great Ball: filler
 Grn Apricorn: filler
+Gs Ball: filler
 Guard Spec: filler
 HM01 Cut: progression
 HM02 Fly: progression
@@ -116,6 +120,7 @@ Mystery Egg: progression
 Mysteryberry: filler
 Mystic Water: useful
 Nevermeltice: useful
+No Item: filler
 Normal Box: filler
 Nugget: filler
 Old Rod: progression
