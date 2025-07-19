@@ -1,24 +1,22 @@
-AP Item: filler
-Amulet Coin: filler
+Amulet Coin: useful
 Antidote: filler
 Awakening: filler
 Basement Key: progression
 Berry Juice: filler
 Berry: filler
-Berserk Gene: filler
+Berserk Gene: useful
 Bicycle: progression
 Big Mushroom: filler
 Big Pearl: filler
 Bitter Berry: filler
-Blackbelt: filler
-Blackglasses: filler
+Blackbelt: useful
+Blackglasses: useful
 Blk Apricorn: filler
 Blu Apricorn: filler
-Blue Card: useful
+Blue Card: filler
 Bluesky Mail: filler
 Boulder Badge: progression
-Brick Piece: filler
-Brightpowder: filler
+Brightpowder: useful
 Burn Heal: filler
 Burn Trap: trap
 Burnt Berry: filler
@@ -26,16 +24,15 @@ Calcium: filler
 Carbos: filler
 Card Key: progression
 Cascade Badge: progression
-Charcoal: filler
-Cleanse Tag: filler
+Charcoal: useful
+Cleanse Tag: useful
 Clear Bell: progression
 Coin Case: filler
 Dire Hit: filler
-Dragon Fang: filler
+Dragon Fang: useful
 Dragon Scale: useful
 EXPN Card: progression
 Earth Badge: progression
-Egg Ticket: filler
 Elixer: filler
 Energy Root: filler
 Energypowder: filler
@@ -43,7 +40,7 @@ Eon Mail: filler
 Escape Rope: filler
 Ether: filler
 Everstone: filler
-Exp Share: filler
+Exp Share: useful
 Fast Ball: filler
 Fire Stone: useful
 Flower Mail: filler
@@ -54,15 +51,14 @@ Fresh Water: filler
 Friend Ball: filler
 Full Heal: filler
 Full Restore: filler
-GS Ball: useful
+GS Ball: progression
 Glacier Badge: progression
 Gold Berry: filler
 Gold Leaf: filler
-Good Rod: useful
+Good Rod: progression
 Gorgeous Box: filler
 Great Ball: filler
 Grn Apricorn: filler
-Gs Ball: filler
 Guard Spec: filler
 HM01 Cut: progression
 HM02 Fly: progression
@@ -72,7 +68,7 @@ HM05 Flash: progression
 HM06 Whirlpool: progression
 HM07 Waterfall: progression
 HP Up: filler
-Hard Stone: filler
+Hard Stone: useful
 Heal Powder: filler
 Heavy Ball: filler
 Hive Badge: progression
@@ -91,11 +87,11 @@ Litebluemail: filler
 Lost Item: progression
 Love Ball: filler
 Lovely Mail: filler
-Lucky Egg: filler
+Lucky Egg: useful
 Lucky Punch: filler
 Lure Ball: filler
 Machine Part: progression
-Magnet: filler
+Magnet: useful
 Map Card: progression
 Marsh Badge: progression
 Master Ball: useful
@@ -108,7 +104,7 @@ Metal Coat: useful
 Metal Powder: filler
 Mineral Badge: progression
 Mint Berry: filler
-Miracle Seed: filler
+Miracle Seed: useful
 Miracleberry: filler
 Mirage Mail: filler
 Moomoo Milk: filler
@@ -118,12 +114,11 @@ Morph Mail: filler
 Music Mail: filler
 Mystery Egg: progression
 Mysteryberry: filler
-Mystic Water: filler
-Nevermeltice: filler
-No Item: filler
+Mystic Water: useful
+Nevermeltice: useful
 Normal Box: filler
 Nugget: filler
-Old Rod: useful
+Old Rod: progression
 PP Up: filler
 Paralysis Trap: trap
 Park Ball: filler
@@ -132,10 +127,10 @@ Pass: progression
 Pearl: filler
 Phone Card: progression
 Phone Trap: trap
-Pink Bow: filler
+Pink Bow: useful
 Plain Badge: progression
 Pnk Apricorn: filler
-Poison Barb: filler
+Poison Barb: useful
 Poison Trap: trap
 Poke Ball: filler
 Poke Doll: filler
@@ -147,7 +142,7 @@ Potion: filler
 Protein: filler
 Przcureberry: filler
 Psncureberry: filler
-Quick Claw: filler
+Quick Claw: useful
 Radio Card: progression
 Ragecandybar: filler
 Rainbow Badge: progression
@@ -163,17 +158,17 @@ S.S. Ticket: progression
 Sacred Ash: filler
 Scope Lens: filler
 Secretpotion: progression
-Sharp Beak: filler
+Sharp Beak: useful
 Silver Leaf: filler
-Silver Wing: useful
-Silverpowder: filler
+Silver Wing: progression
+Silverpowder: useful
 Sleep Trap: trap
 Slowpoketail: filler
 Smoke Ball: filler
 Soda Pop: filler
-Soft Sand: filler
+Soft Sand: useful
 Soul Badge: progression
-Spell Tag: filler
+Spell Tag: useful
 Squirtbottle: progression
 Star Piece: filler
 Stardust: filler
@@ -182,12 +177,12 @@ Storm Badge: progression
 Sun Stone: useful
 Super Potion: filler
 Super Repel: filler
-Super Rod: useful
+Super Rod: progression
 Surf Mail: filler
 TM01 Dynamicpunch: useful
 TM01: useful
-TM02 Headbutt: useful
-TM02: useful
+TM02 Headbutt: progression
+TM02: progression
 TM03 Curse: useful
 TM03: useful
 TM04 Rollout: useful
@@ -289,7 +284,7 @@ Thick Club: filler
 Thunder Badge: progression
 Thunderstone: useful
 Tinymushroom: filler
-Twistedspoon: filler
+Twistedspoon: useful
 Ultra Ball: filler
 Up-Grade: useful
 Volcano Badge: progression
