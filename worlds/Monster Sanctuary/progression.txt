@@ -27,7 +27,7 @@
 2x Cotton: filler
 2x Craft Box: unknown
 2x Crimson Gem: filler
-2x Crystal Shard: unknown
+2x Crystal Shard: filler
 2x Emerald: unknown
 2x Gold: filler
 2x Grapes: unknown
@@ -39,7 +39,7 @@
 2x Linen: unknown
 2x Mango: filler
 2x Mass Antidote: filler
-2x Mass Potion: unknown
+2x Mass Potion: filler
 2x Mega Potion: filler
 2x Monster Bell: unknown
 2x Orange: unknown
@@ -66,6 +66,7 @@
 2x Small Antidote: unknown
 2x Small Potion: filler
 2x Smoke Bomb: filler
+2x Smoke bomb: filler
 2x Steel: filler
 2x Strawberry: filler
 2x Switch Stone: filler
@@ -109,7 +110,7 @@
 3x Reward Box Lvl 1: unknown
 3x Reward Box Lvl 2: unknown
 3x Reward Box Lvl 3: useful
-3x Reward Box Lvl 4: unknown
+3x Reward Box Lvl 4: filler
 3x Reward Box X: unknown
 3x Silk: unknown
 3x Silver: unknown
@@ -141,7 +142,7 @@
 900 G: filler
 ??? Egg: unknown
 Aazerach Egg: unknown
-Ability - Blob Form: unknown
+Ability - Blob Form: progression
 Ability - Bubble Burst: unknown
 Ability - Charging Mount: unknown
 Ability - Claws: progression
@@ -157,7 +158,7 @@ Ability - Heavy Punch: unknown
 Ability - Ignite: progression
 Ability - Improved Flying: progression
 Ability - Improved Swimming: unknown
-Ability - Jewel Blast: unknown
+Ability - Jewel Blast: progression
 Ability - Levitate: unknown
 Ability - Light Crush: unknown
 Ability - Light: unknown
@@ -169,8 +170,8 @@ Ability - Mount: unknown
 Ability - Secret Vision: unknown
 Ability - Shock Freeze: unknown
 Ability - Slash: unknown
-Ability - Slime Shot: unknown
-Ability - Snowball Toss: unknown
+Ability - Slime Shot: progression
+Ability - Snowball Toss: progression
 Ability - Sonar Mount: unknown
 Ability - Sonar: unknown
 Ability - Spore Shroud: progression
@@ -181,7 +182,7 @@ Ability - Swimming: progression
 Ability - Tackle: progression
 Ability - Tar Mount: unknown
 Ability - Toxic Freeze: unknown
-Ability - Toxic Slam: unknown
+Ability - Toxic Slam: progression
 Abyssal Sword+1: filler
 Abyssal Sword+2: unknown
 Abyssal Sword+3: unknown
@@ -427,7 +428,7 @@ Dragon Saddle+2: unknown
 Dragon Saddle+3: unknown
 Dragon Saddle+4: unknown
 Dragon Saddle+5: unknown
-Dragon Saddle: unknown
+Dragon Saddle: useful
 Droid Sphere+1: unknown
 Droid Sphere+2: unknown
 Droid Sphere+3: unknown
@@ -454,7 +455,7 @@ Dwarven Crown+2: unknown
 Dwarven Crown+3: unknown
 Dwarven Crown+4: unknown
 Dwarven Crown+5: unknown
-Dwarven Crown: unknown
+Dwarven Crown: useful
 Earth Symbol+1: unknown
 Earth Symbol+2: unknown
 Earth Symbol+3: unknown
@@ -521,7 +522,7 @@ Flute+2: unknown
 Flute+3: unknown
 Flute+4: unknown
 Flute+5: unknown
-Flute: unknown
+Flute: useful
 Freeze Trap: unknown
 Frigid Wisp: unknown
 Frosty Egg: unknown
@@ -704,7 +705,7 @@ Kunai+2: unknown
 Kunai+3: unknown
 Kunai+4: unknown
 Kunai+5: unknown
-Kunai: unknown
+Kunai: useful
 Large Shield+1: unknown
 Large Shield+2: unknown
 Large Shield+3: unknown
@@ -793,7 +794,7 @@ Monk Egg: unknown
 Monster Army Conscription Notice: unknown
 Monster Bell: unknown
 Monster Stable Fees: unknown
-Monster Tamer: unknown
+Monster Tamer: filler
 Monster Treat: unknown
 Moon Ring+1: unknown
 Moon Ring+2: unknown
@@ -1130,7 +1131,7 @@ Stolby Egg: unknown
 Stolby's Spellbook: unknown
 Strange Spores: unknown
 Strawberry: filler
-Stronghold Dungeon key: unknown
+Stronghold Dungeon key: progression
 Summoned Sword+1: unknown
 Summoned Sword+2: unknown
 Summoned Sword+3: unknown
@@ -1307,6 +1308,6 @@ Wizard Hat+4: unknown
 Wizard Hat+5: unknown
 Wizard Hat: useful
 Wool: unknown
-Worm Egg: unknown
+Worm Egg: progression
 Yowie Egg: unknown
 Yowie Treat: unknown

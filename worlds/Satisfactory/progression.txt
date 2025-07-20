@@ -624,6 +624,7 @@ Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: filler
 Single: Dark Matter Crystal: filler
+Single: Diamonds: unknown
 Single: Electromagnetic Control Rod: filler
 Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
@@ -640,6 +641,7 @@ Single: Object Scanner: unknown
 Single: Packaged Alumina Solution: filler
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
+Single: Packaged Oil: unknown
 Single: Packaged Rocket Fuel: unknown
 Single: Packaged Turbofuel: filler
 Single: Paleberry: unknown
