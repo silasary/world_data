@@ -49,7 +49,7 @@
 2x Phoenix Tear: unknown
 2x Potato: filler
 2x Potion: unknown
-2x Raw Hide: unknown
+2x Raw Hide: filler
 2x Red Gem: useful
 2x Reward Box Lvl 1: useful
 2x Reward Box Lvl 2: filler
@@ -541,7 +541,7 @@ Gauntlet+3: unknown
 Gauntlet+4: unknown
 Gauntlet+5: useful
 Gauntlet: useful
-Giant Seed: unknown
+Giant Seed: progression
 Giant Snowball: unknown
 Glowdra Egg: unknown
 Glowfly Egg: unknown
@@ -665,7 +665,7 @@ Infinity Blaze+2: unknown
 Infinity Blaze+3: useful
 Infinity Blaze+4: unknown
 Infinity Blaze+5: unknown
-Infinity Blaze: unknown
+Infinity Blaze: useful
 Infinity Flame+1: unknown
 Infinity Flame+2: unknown
 Infinity Flame+3: unknown
