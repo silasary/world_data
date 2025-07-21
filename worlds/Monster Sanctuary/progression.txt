@@ -181,7 +181,7 @@ Ability - Summon Rock: unknown
 Ability - Swimming: progression
 Ability - Tackle: progression
 Ability - Tar Mount: unknown
-Ability - Toxic Freeze: unknown
+Ability - Toxic Freeze: progression
 Ability - Toxic Slam: progression
 Abyssal Sword+1: filler
 Abyssal Sword+2: unknown
@@ -359,7 +359,7 @@ Coat+5: unknown
 Coat: unknown
 Cocoon: progression
 Combo Potion: unknown
-Cookie Mushroom: unknown
+Cookie Mushroom: filler
 Copper: filler
 Corn: unknown
 Cotton: useful
@@ -863,7 +863,7 @@ One Punch Fist+3: unknown
 One Punch Fist+4: unknown
 One Punch Fist+5: unknown
 One Punch Fist: unknown
-Orange: unknown
+Orange: filler
 Orb+1: unknown
 Orb+2: unknown
 Orb+3: unknown
@@ -890,7 +890,7 @@ Pandora's Chest+3: unknown
 Pandora's Chest+4: unknown
 Pandora's Chest+5: unknown
 Pandora's Chest: unknown
-Peanut: unknown
+Peanut: filler
 Pear: filler
 Pet Boulder: unknown
 Pet Rock: unknown
@@ -1094,9 +1094,9 @@ Spectral Flame (Lion): useful
 Spectral Flame (Toad): unknown
 Spectral Flame (Wolf): progression
 Spectral Flame: unknown
-Spectral Lion Egg: unknown
+Spectral Lion Egg: progression
 Spectral Toad Egg: progression
-Spectral Wolf Egg: unknown
+Spectral Wolf Egg: progression
 Spellbook: unknown
 Spinner Egg: unknown
 Spirit Blaze+1: unknown
