@@ -364,6 +364,8 @@ Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
 Switch (Hall of the Phantoms - Below Start): unknown
+Switch (Hall of the Phantoms - Left 3): unknown
+Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Mechanism - Boss 1): unknown
 Switch (Mechanism - Boss 2): unknown
 Switch (Mechanism - Eyeball): unknown
@@ -378,6 +380,7 @@ Switch (Ruins of Ash - Blood Pot): unknown
 Switch (Ruins of Ash - Boss Access): unknown
 Switch (Ruins of Ash - Icarus): unknown
 Switch (Ruins of Ash - Shaft Downwards): unknown
+Switch (Ruins of Ash - Spiders): unknown
 Switch (Serpent Path - Double Doors): unknown
 Switch (Tower Roots - Adorned Middle): unknown
 Switch (Tower Roots - Elevator): unknown
