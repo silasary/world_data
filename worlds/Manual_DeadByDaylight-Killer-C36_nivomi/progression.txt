@@ -38,6 +38,7 @@ Hex - Wretched Fate: unknown
 Insidious: progression
 Jagged Compass: progression
 Knockout: progression
+Lethal Pursuer: unknown
 Merciless Storm: progression
 Mindbreaker: progression
 Monitor & Abuse: progression
@@ -61,10 +62,14 @@ The Artist Victory Token: progression
 The Artist: progression
 The Cannibal Victory Token: unknown
 The Cannibal: progression
+The Deathslinger Victory Token: unknown
 The Deathslinger: progression
 The Doctor Victory Token: mcguffin
 The Doctor: progression
+The Dredge: unknown
+The Executioner Victory Token: mcguffin
 The Executioner: progression
+The Good Guy: unknown
 The Hag Victory Token: unknown
 The Hag: unknown
 The Huntress Victory Token: unknown
@@ -77,7 +82,9 @@ The Mastermind Victory Token: unknown
 The Mastermind: progression
 The Oni Victory Token: unknown
 The Oni: progression
+The Plague Victory Token: unknown
 The Plague: progression
+The Spirit Victory Token: mcguffin
 The Spirit: progression
 The Unknown Victory Token: mcguffin
 The Unknown: unknown
@@ -86,3 +93,4 @@ Undone: unknown
 Unforeseen: progression
 Unnerving Presence: progression
 Unrelenting: unknown
+Zanshin Tactics: unknown
