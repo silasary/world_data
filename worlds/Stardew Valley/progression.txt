@@ -1,5 +1,5 @@
 'Boat': unknown
-'Physics 101': unknown
+'Physics 101': filler
 'Squid Kid': filler
 'Vista': filler
 10 Qi Gems: useful
@@ -148,7 +148,7 @@ Debris Trap: trap
 Deconstructor: useful
 Decorative Trash Can: filler
 Defense Bonus: filler
-Defense Enzyme: unknown
+Defense Enzyme: progression
 Dehydrator Recipe: progression
 Dehydrator: filler
 Delores <3: progression
@@ -194,7 +194,7 @@ Farm Computer Recipe: progression
 Farm Computer: filler
 Farm Obelisk: useful
 Farmer's Lunch Recipe: progression
-Farming Enzyme: unknown
+Farming Enzyme: progression
 Farming Level: progression
 Farming Mastery: progression
 Femur: unknown
@@ -210,13 +210,13 @@ Fish Stew Recipe: progression
 Fish Taco Recipe: progression
 Fish Trap Bonus: filler
 Fishing Bar Size Bonus: filler
-Fishing Enzyme: unknown
+Fishing Enzyme: progression
 Fishing Information Broadcasting Service: useful
 Fishing Level: progression
 Fishing Mastery: progression
 Flower Cookie Recipe: progression
 Foliage Print: filler
-Foraging Enzyme: unknown
+Foraging Enzyme: progression
 Foraging Level: progression
 Foraging Mastery: progression
 Forest Magic: progression
@@ -263,6 +263,7 @@ Golden Egg: filler
 Golden Pumpkin: filler
 Golden Scythe: unknown
 Golden Walnut: progression
+Gourmand Statue: filler
 Grandpa's Shed: useful
 Grape Starter: progression
 Grass Starter Recipe: progression
@@ -281,7 +282,7 @@ Hashbrowns Recipe: progression
 Haste Elixir Recipe: progression
 Haste Elixir: useful
 Health Bonus: filler
-Health Enzyme: unknown
+Health Enzyme: progression
 Heavy Furnace: useful
 Heavy Tapper Recipe: progression
 Heavy Tapper: useful
@@ -359,7 +360,7 @@ Livin' Off The Land: filler
 Lobster Bisque Recipe: progression
 Loom: useful
 Luck Bonus: progression
-Luck Enzyme: unknown
+Luck Enzyme: progression
 Luck Level: progression
 Lucky Lunch Recipe: progression
 Lucky Ring: filler
@@ -379,7 +380,7 @@ Magic Level: progression
 Magic Rock Candy: useful
 Magnet Ring: filler
 Magnet: filler
-Magnetism Enzyme: unknown
+Magnetism Enzyme: useful
 Magnifying Glass: progression
 Maki Roll Recipe: progression
 Mango Sapling: progression
@@ -393,7 +394,7 @@ Martin <3: progression
 Maru <3: progression
 Master Slingshot: unknown
 Mastery Of The Five Ways: useful
-Max Stamina Enzyme: unknown
+Max Stamina Enzyme: progression
 Mayonnaise Machine: useful
 Melon Seeds: progression
 Meow Trap: trap
@@ -404,7 +405,7 @@ Mini-Fridge: filler
 Mini-Obelisk Recipe: progression
 Mini-Obelisk: useful
 Mini-Shipping Bin: progression
-Mining Enzyme: unknown
+Mining Enzyme: progression
 Mining Level: progression
 Mining Mastery: progression
 Mixed Berry Pie Recipe: progression
@@ -420,8 +421,10 @@ Moss Soup Recipe: progression
 Mountain Shortcuts: useful
 Mounted Trout: filler
 Movement Speed Bonus: useful
-Movie Salty Snacks: unknown
-Movie Sweet Snacks: unknown
+Movie Drinks: progression
+Movie Meals: progression
+Movie Salty Snacks: progression
+Movie Sweet Snacks: progression
 Mr Qi's Plane Ride: useful
 Mr. Ginger <3: progression
 Mr. Qi's Hat: filler
@@ -741,7 +744,7 @@ Resource Pack: 5 Warp Totem: Desert: filler
 Resource Pack: 5 Warp Totem: Farm: filler
 Resource Pack: 5 Warp Totem: Island: filler
 Resource Pack: 5 Warp Totem: Mountains: filler
-Resource Pack: 5 Wooden Display: unknown
+Resource Pack: 5 Wooden Display: filler
 Resource Pack: 50 Bait: filler
 Resource Pack: 50 Basic Fertilizer: filler
 Resource Pack: 50 Basic Retaining Soil: filler
@@ -859,7 +862,7 @@ Spangle Seeds: useful
 Special Charm: filler
 Special Order Board: progression
 Special Pumpkin Soup Recipe: progression
-Speed Enzyme: unknown
+Speed Enzyme: progression
 Spell: Blink: progression
 Spell: Bloodmana: unknown
 Spell: Buff: unknown
@@ -885,11 +888,11 @@ Spicy Eel Recipe: progression
 Spring: progression
 Sprinkler: filler
 Squid Hat: filler
-Squid Ink Enzyme: unknown
+Squid Ink Enzyme: progression
 Squid Ink Ravioli Recipe: progression
 Squirrel Figurine: filler
 Stable: useful
-Stamina Enzyme: unknown
+Stamina Enzyme: progression
 Stardrop Tea: filler
 Stardrop: mcguffin
 Starfruit Seeds: progression
@@ -903,12 +906,12 @@ Stone Brazier Recipe: progression
 Stone Chest Recipe: progression
 Stone Chest: filler
 Stone Floor Recipe: progression
-Stone Junimo: unknown
+Stone Junimo: filler
 Stone Sign Recipe: progression
 Stone Walkway Floor Recipe: progression
 Strange Bun Recipe: progression
 Strange Doll (Green): useful
-Strange Doll: unknown
+Strange Doll: useful
 Straw Floor Recipe: progression
 Straw Hat: filler
 Strawberry Seeds: progression
