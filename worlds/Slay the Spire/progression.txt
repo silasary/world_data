@@ -1,5 +1,21 @@
+Automaton Card Draw: unknown
+Automaton Relic: unknown
+Automaton Shop Card Slot: unknown
+Automaton Unlock: unknown
 Boss Relic: progression
 Card Draw: progression
+Champ Relic: unknown
+Champ Shop Potion Slot: unknown
+Champ Shop Relic Slot: unknown
+Champ Unlock: unknown
+Custom Character 1 Boss Relic: unknown
+Custom Character 1 Five Gold: unknown
+Custom Character 1 Neutral Shop Card Slot: unknown
+Custom Character 1 One Gold: unknown
+Custom Character 1 Progressive Smith: unknown
+Custom Character 1 Relic: unknown
+Custom Character 2 30 Gold: unknown
+Custom Character 2 Potion: unknown
 Defect 15 Gold: filler
 Defect 30 Gold: progression
 Defect Boss Gold: unknown
@@ -17,6 +33,11 @@ Defect Shop Card Slot: unknown
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: unknown
+Guardian Card Draw: unknown
+Guardian Five Gold: unknown
+Guardian Rare Card Draw: unknown
+Guardian Relic: unknown
+Guardian Shop Card Slot: unknown
 Hermit 15 Gold: filler
 Hermit 30 Gold: unknown
 Hermit Boss Gold: unknown
@@ -31,6 +52,10 @@ Hermit Shop Card Slot: unknown
 Hermit Shop Potion Slot: unknown
 Hermit Shop Relic Slot: unknown
 Hermit Unlock: unknown
+Hexaghost Card Draw: unknown
+Hexaghost Five Gold: unknown
+Hexaghost Relic: unknown
+Hexaghost Shop Potion Slot: unknown
 Ironclad 15 Gold: filler
 Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
@@ -69,6 +94,7 @@ Silent Unlock: unknown
 SlimeBoss 15 Gold: unknown
 SlimeBoss 30 Gold: unknown
 SlimeBoss Boss Gold: unknown
+SlimeBoss Boss Relic: unknown
 SlimeBoss Card Draw: unknown
 SlimeBoss Five Gold: filler
 SlimeBoss Neutral Shop Card Slot: unknown
