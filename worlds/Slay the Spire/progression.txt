@@ -5,10 +5,13 @@ Automaton Shop Relic Slot: unknown
 Automaton Unlock: unknown
 Boss Relic: progression
 Card Draw: progression
+Champ Card Draw: unknown
+Champ Five Gold: unknown
 Champ Relic: unknown
 Champ Shop Potion Slot: unknown
 Champ Shop Relic Slot: unknown
 Champ Unlock: unknown
+Custom Character 1 15 Gold: unknown
 Custom Character 1 30 Gold: unknown
 Custom Character 1 Boss Gold: unknown
 Custom Character 1 Boss Relic: unknown
@@ -18,6 +21,8 @@ Custom Character 1 Neutral Shop Card Slot: unknown
 Custom Character 1 One Gold: unknown
 Custom Character 1 Progressive Smith: unknown
 Custom Character 1 Relic: unknown
+Custom Character 1 Shop Card Slot: unknown
+Custom Character 2 15 Gold: unknown
 Custom Character 2 30 Gold: unknown
 Custom Character 2 Card Draw: progression
 Custom Character 2 Potion: unknown
@@ -41,6 +46,7 @@ Defect Shop Relic Slot: progression
 Defect Unlock: unknown
 Guardian Card Draw: unknown
 Guardian Five Gold: unknown
+Guardian One Gold: unknown
 Guardian Rare Card Draw: unknown
 Guardian Relic: unknown
 Guardian Shop Card Slot: unknown
@@ -60,6 +66,7 @@ Hermit Shop Relic Slot: unknown
 Hermit Unlock: unknown
 Hexaghost Card Draw: unknown
 Hexaghost Five Gold: unknown
+Hexaghost One Gold: unknown
 Hexaghost Relic: unknown
 Hexaghost Shop Potion Slot: unknown
 Ironclad 15 Gold: filler
