@@ -177,7 +177,7 @@ Item - Mercury Shrine Map: unknown
 Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
 Item - Milk: filler
-Item - Nans Cocoa: unknown
+Item - Nans Cocoa: filler
 Item - Nans Secret Recipe: filler
 Item - Nans Stew: filler
 Item - Neptune Shrine Map: unknown
@@ -299,7 +299,7 @@ Item - Treasure Finder: unknown
 Item - Trial Caves Map: unknown
 Item - Triton Stone: unknown
 Item - Underpass Map: unknown
-Item - Undersea Crab: unknown
+Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
 Item - Viridian Book: unknown
 Item - West Lookout Token: unknown
