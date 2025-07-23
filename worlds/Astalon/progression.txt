@@ -122,6 +122,7 @@ Crystal (Hall of the Phantoms - After Claw): unknown
 Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Mechanism - Cloak): unknown
 Crystal (Mechanism - Lower): unknown
+Crystal (Mechanism - Slimes): unknown
 Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
@@ -351,6 +352,7 @@ SP Crystal Star: progression
 SP Switch After Star: progression
 SP Switch Bubbles: progression
 SP Switch Double Doors: progression
+Switch (Catacombs - Claw 2): unknown
 Switch (Catacombs - Dev Room): unknown
 Switch (Catacombs - Elevator): unknown
 Switch (Catacombs - Top): unknown
@@ -364,6 +366,7 @@ Switch (Gorgon Tomb - 2nd Room): unknown
 Switch (Gorgon Tomb - Arias): unknown
 Switch (Gorgon Tomb - Butt Access): unknown
 Switch (Gorgon Tomb - Crosses): unknown
+Switch (Gorgon Tomb - GH Shortcut): unknown
 Switch (Gorgon Tomb - Gorgonheart): unknown
 Switch (Gorgon Tomb - Spike Tunnel): unknown
 Switch (Gorgon Tomb - Sword Access): unknown
@@ -371,11 +374,13 @@ Switch (Gorgon Tomb - Sword): unknown
 Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
+Switch (Hall of the Phantoms - Above Old Man): unknown
 Switch (Hall of the Phantoms - Below Start): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Mechanism - Boss 1): unknown
 Switch (Mechanism - Boss 2): unknown
+Switch (Mechanism - Chains Gap): unknown
 Switch (Mechanism - Eyeball): unknown
 Switch (Mechanism - Maze Backdoor): unknown
 Switch (Mechanism - Pots): unknown
