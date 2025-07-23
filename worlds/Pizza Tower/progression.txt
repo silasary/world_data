@@ -21,13 +21,15 @@ Clothes: War Camo: unknown
 Clown Trap: trap
 Cross Buff: filler
 Crusher: progression
-Double Jump: unknown
+Double Jump: progression
 Fake Santa Trap: trap
+Ghost Trap: trap
 Grab: progression
 Granny Trap: trap
+Lap 2 Portals: progression
 Mach 4: useful
-Nothing: unknown
-Oktoberfest!: unknown
+Nothing: filler
+Oktoberfest!: trap
 Permanent 10 Points: filler
 Permanent 100 Points: filler
 Permanent 50 Points: filler
@@ -35,10 +37,11 @@ Pizza Shield: filler
 Primo Burg: filler
 Pumpkin: progression
 Rat Kick: useful
+Spin Attack: useful
 Superjump: progression
-Supertaunt: unknown
-Taunt: unknown
-Timer Trap: unknown
+Supertaunt: useful
+Taunt: progression
+Timer Trap: trap
 Toppin: mcguffin
 Uppercut: useful
 Wallbounce: progression
