@@ -1,3 +1,4 @@
+Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
@@ -125,6 +126,7 @@ Guardian One Gold: unknown
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
+Guardian Shop Potion Slot: unknown
 Hermit 15 Gold: filler
 Hermit 30 Gold: progression
 Hermit Boss Gold: progression
@@ -172,7 +174,7 @@ Silent Five Gold: filler
 Silent Neutral Shop Card Slot: progression
 Silent One Gold: filler
 Silent Potion: useful
-Silent Progressive Rest: unknown
+Silent Progressive Rest: progression
 Silent Progressive Smith: progression
 Silent Rare Card Draw: progression
 Silent Relic: progression

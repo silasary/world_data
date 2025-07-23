@@ -18,6 +18,7 @@ Banana for Donkey Kong: unknown
 Banana for King Boo: unknown
 Banana for Koopa: unknown
 Banana for Luigi: unknown
+Banana for Paratroopa: progression
 Banana for Peach: unknown
 Banana for Petey Piranha: unknown
 Banana for Toad: progression
@@ -27,7 +28,7 @@ Barrel Train: progression
 Birdo: progression
 Bloom Coach: progression
 Bob-omb for Baby Luigi: unknown
-Bob-omb for Baby Mario: unknown
+Bob-omb for Baby Mario: progression
 Bob-omb for Bowser Jr.: unknown
 Bob-omb for Bowser: unknown
 Bob-omb for Everybody: useful
@@ -36,6 +37,7 @@ Bob-omb for Luigi: unknown
 Bob-omb for Paratroopa: unknown
 Bob-omb for Peach: unknown
 Bob-omb for Petey Piranha: unknown
+Bob-omb for Toad: progression
 Bob-omb for Toadette: unknown
 Bob-omb for Wario: unknown
 Boo Pipes: unknown
@@ -43,7 +45,7 @@ Bowser Jr.: progression
 Bowser's Castle Time Trial: unknown
 Bowser's Shell for Baby Luigi: useful
 Bowser's Shell for Birdo: unknown
-Bowser's Shell for Daisy: unknown
+Bowser's Shell for Daisy: progression
 Bowser's Shell for Diddy Kong: unknown
 Bowser's Shell for Donkey Kong: unknown
 Bowser's Shell for Everybody: progression
@@ -85,6 +87,7 @@ Extra Weight for Piranha Pipes: progression
 Extra Weight for Toad Kart: progression
 Extra Weight for Toadette Kart: progression
 Extra Weight for Turbo Yoshi: unknown
+Fake Item for Birdo: progression
 Fake Item for Bowser: unknown
 Fake Item for Daisy: useful
 Fake Item for Diddy Kong: filler
@@ -119,7 +122,7 @@ Fireballs for Waluigi: useful
 Fireballs for Wario: unknown
 Fireballs for Yoshi: progression
 Flower Cup: progression
-Giant Banana for Baby Mario: unknown
+Giant Banana for Baby Mario: progression
 Giant Banana for Birdo: unknown
 Giant Banana for Daisy: unknown
 Giant Banana for Everybody: progression
@@ -135,10 +138,11 @@ Golden Mushroom for Baby Mario: unknown
 Golden Mushroom for Diddy Kong: unknown
 Golden Mushroom for Donkey Kong: unknown
 Golden Mushroom for Everybody: progression
+Golden Mushroom for Koopa: progression
 Goo-Goo Buggy: useful
 Green Fire: progression
 Green Shell for Birdo: unknown
-Green Shell for Bowser Jr.: unknown
+Green Shell for Bowser Jr.: progression
 Green Shell for Bowser: progression
 Green Shell for Daisy: progression
 Green Shell for Diddy Kong: unknown
@@ -157,6 +161,7 @@ Heart Coach: progression
 Heart for Baby Luigi: unknown
 Heart for Bowser: unknown
 Heart for Daisy: unknown
+Heart for Diddy Kong: progression
 Heart for King Boo: unknown
 Heart for Koopa: progression
 Heart for Luigi: useful
@@ -173,6 +178,7 @@ Koopa: progression
 Lightning for Birdo: unknown
 Lightning for Bowser Jr.: unknown
 Lightning for Bowser: useful
+Lightning for Donkey Kong: progression
 Lightning for Everybody: unknown
 Lightning for Luigi: unknown
 Lightning for Mario: unknown
@@ -203,6 +209,7 @@ Mushroom for Daisy: unknown
 Mushroom for Donkey Kong: unknown
 Mushroom for Everybody: progression
 Mushroom for King Boo: unknown
+Mushroom for Mario: progression
 Mushroom for Paratroopa: progression
 Mushroom for Peach: useful
 Mushroom for Petey Piranha: progression
@@ -256,6 +263,7 @@ Red Shell for Koopa: unknown
 Red Shell for Paratroopa: useful
 Red Shell for Petey Piranha: unknown
 Red Shell for Toadette: unknown
+Red Shell for Waluigi: progression
 Red Shell for Wario: unknown
 Sherbet Land Time Trial: unknown
 Special Cup: progression
@@ -273,10 +281,12 @@ Spiny Shell for Paratroopa: unknown
 Spiny Shell for Peach: unknown
 Spiny Shell for Petey Piranha: unknown
 Spiny Shell for Toad: unknown
+Spiny Shell for Toadette: progression
 Spiny Shell for Waluigi: unknown
 Spiny Shell for Wario: useful
 Star Cup: progression
 Star for Bowser Jr.: unknown
+Star for Bowser: progression
 Star for Diddy Kong: unknown
 Star for Donkey Kong: unknown
 Star for Everybody: progression
@@ -305,7 +315,7 @@ Triple Mushrooms for Bowser Jr.: unknown
 Triple Mushrooms for Daisy: useful
 Triple Mushrooms for Everybody: progression
 Triple Mushrooms for Koopa: useful
-Triple Mushrooms for Luigi: unknown
+Triple Mushrooms for Luigi: progression
 Triple Mushrooms for Paratroopa: unknown
 Triple Mushrooms for Waluigi: unknown
 Triple Mushrooms for Wario: unknown
@@ -316,6 +326,7 @@ Triple Red Shells for Donkey Kong: useful
 Triple Red Shells for Everybody: unknown
 Triple Red Shells for Luigi: unknown
 Triple Red Shells for Mario: unknown
+Triple Red Shells for Peach: progression
 Triple Red Shells for Toad: unknown
 Triple Red Shells for Wario: progression
 Triple Red Shells for Yoshi: unknown
@@ -326,7 +337,7 @@ Victory: unknown
 Waluigi Racer: progression
 Waluigi Stadium Time Trial: unknown
 Waluigi: progression
-Wario Car: unknown
+Wario Car: progression
 Wario Colosseum Time Trial: unknown
 Wario: progression
 Yoshi Circuit Time Trial: unknown
@@ -338,6 +349,7 @@ Yoshi Egg for Diddy Kong: unknown
 Yoshi Egg for Koopa: progression
 Yoshi Egg for Mario: unknown
 Yoshi Egg for Paratroopa: unknown
+Yoshi Egg for Petey Piranha: progression
 Yoshi Egg for Toad: useful
 Yoshi Egg for Toadette: unknown
 Yoshi: progression
