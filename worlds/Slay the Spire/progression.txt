@@ -26,6 +26,7 @@ Custom Character 1 Shop Card Slot: unknown
 Custom Character 1 Shop Relic Slot: unknown
 Custom Character 2 15 Gold: unknown
 Custom Character 2 30 Gold: unknown
+Custom Character 2 Boss Relic: unknown
 Custom Character 2 Card Draw: progression
 Custom Character 2 Potion: unknown
 Custom Character 2 Shop Card Slot: unknown
@@ -39,6 +40,7 @@ Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
 Defect Potion: progression
 Defect Progressive Rest: progression
+Defect Progressive Shop Remove: unknown
 Defect Progressive Smith: unknown
 Defect Rare Card Draw: progression
 Defect Relic: progression
@@ -46,6 +48,7 @@ Defect Shop Card Slot: unknown
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: unknown
+Guardian Boss Relic: unknown
 Guardian Card Draw: unknown
 Guardian Five Gold: unknown
 Guardian One Gold: unknown
