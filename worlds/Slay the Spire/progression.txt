@@ -1,6 +1,7 @@
 Automaton Card Draw: unknown
 Automaton Relic: unknown
 Automaton Shop Card Slot: unknown
+Automaton Shop Potion Slot: unknown
 Automaton Shop Relic Slot: unknown
 Automaton Unlock: unknown
 Boss Relic: progression
@@ -84,6 +85,7 @@ Ironclad Neutral Shop Card Slot: progression
 Ironclad One Gold: filler
 Ironclad Potion: progression
 Ironclad Progressive Rest: progression
+Ironclad Progressive Shop Remove: unknown
 Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: unknown
 Ironclad Relic: progression
