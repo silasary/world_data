@@ -5,20 +5,20 @@ Attic Warp: unknown
 Boots Powerup: unknown
 Bubble Gum Power: unknown
 Cave-in Key Ring: unknown
-Cave-in Key: unknown
+Cave-in Key: progression
 Cellar 2 Key Ring: unknown
-Cellar 2 Key: unknown
+Cellar 2 Key: progression
 Cellar 3 Key Ring: unknown
-Cellar 3 Key: unknown
+Cellar 3 Key: progression
 Cellar Warp: unknown
 Clamor 1 Key Ring: unknown
 Clamor 1 Key: unknown
 Clamor 4 Key Ring: unknown
-Clamor 4 Key: unknown
+Clamor 4 Key: progression
 Clamor Warp: unknown
 Cliff Warp: unknown
 Coast Key Ring: unknown
-Coast Key: unknown
+Coast Key: progression
 Coast Warp: unknown
 Cower Warp: unknown
 Creepy 2 Key Ring: unknown
@@ -29,14 +29,14 @@ Creepy Warp: unknown
 Crypt Warp: unknown
 Dock Warp: unknown
 Don't Look Down Key Ring: unknown
-Don't Look Down Key: unknown
+Don't Look Down Key: progression
 Fishing Village Key Ring: unknown
 Fishing Village Key: unknown
 Fishy Clues Key Ring: unknown
-Fishy Clues Key: unknown
+Fishy Clues Key: progression
 Fishy Clues Warp: unknown
 Graveplot Key Ring: unknown
-Graveplot Key: unknown
+Graveplot Key: progression
 Graveplot Warp: unknown
 Greenhouse Warp: unknown
 Ground Pound Power: unknown
@@ -51,30 +51,30 @@ Hedge Warp: unknown
 Helmet Power: unknown
 Hill Warp: unknown
 Knight Key Ring: unknown
-Knight Key: unknown
+Knight Key: progression
 Knight Warp: unknown
 Lab Warp: unknown
 Lighthouse Warp: unknown
 MYM Warp: unknown
-Max Gum Ammo: unknown
-Max Soap Ammo: unknown
+Max Gum Ammo: useful
+Max Soap Ammo: useful
 Mind Your Manors Key Ring: unknown
 Mind Your Manors Key: unknown
 Monster Gallery Warp: unknown
 Plungers Power: unknown
 Progressive Jump Upgrade: progression
-Progressive Monster Token: unknown
-Progressive Sneak Upgrade: unknown
+Progressive Monster Token: progression
+Progressive Sneak Upgrade: progression
 Shiver Key Ring: unknown
-Shiver Key: unknown
-Shockwave Power: unknown
-Shovel Power: unknown
+Shiver Key: progression
+Shockwave Power: progression
+Shovel Power: progression
 Soap Bubble Power: progression
 Spare Snack: unknown
 Tomb 1 Key Ring: unknown
 Tomb 1 Key: unknown
 Tomb 3 Key Ring: unknown
-Tomb 3 Key: unknown
+Tomb 3 Key: progression
 Tomb Warp: unknown
 Upstairs Warp: unknown
 Witch Way Warp: unknown

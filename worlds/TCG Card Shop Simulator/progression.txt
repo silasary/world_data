@@ -9,7 +9,7 @@ Basic Destiny Box (8): progression
 Basic Destiny Pack (32): progression
 Basic Destiny Pack (64): progression
 Blazoar Plushie (2): progression
-Blazoar Plushie: unknown
+Blazoar Plushie: progression
 Bonfiox Plushie (8): unknown
 Bonfiox Plushie: progression
 Burpig Figurine (12): progression
@@ -22,7 +22,7 @@ Card Sleeves (Fire): progression
 Card Sleeves (Tetramon): progression
 Card Sleeves (Water): progression
 Card Sleeves (Wind): progression
-Checkout Counter: unknown
+Checkout Counter: useful
 Claim!: progression
 Cleanser (16): progression
 Cleanser (8): progression
@@ -53,11 +53,11 @@ Double Sided Shelf: useful
 Dracunix Figurine (1): useful
 Dracunix Figurine: unknown
 Drilceros Action Figure (4): progression
-Drilceros Action Figure: unknown
+Drilceros Action Figure: progression
 Earth Battle Deck (18): progression
 Earth Battle Deck: progression
 Earth Destiny Deck (18): progression
-Earth Destiny Deck: unknown
+Earth Destiny Deck: progression
 Epic Card Box (4): progression
 Epic Card Box (8): progression
 Epic Card Pack (32): progression
@@ -75,18 +75,18 @@ FormatExBorder: unknown
 FormatFireCup: unknown
 FormatFirstEditionVintage: unknown
 FormatFoil: unknown
-FormatFullArtBorder: unknown
+FormatFullArtBorder: useful
 FormatGoldBorder: unknown
 FormatPauper: unknown
 FormatSilverBorder: unknown
 FormatStandard: progression
-FormatWaterCup: unknown
-FormatWindCup: unknown
+FormatWaterCup: useful
+FormatWindCup: useful
 Giganite Statue (2): progression
 Giganite Statue: unknown
 Increase Card Luck: useful
 Inferhog Figurine (2): unknown
-Inferhog Figurine: unknown
+Inferhog Figurine: progression
 Kingstar Plushie (2): progression
 Kingstar Plushie: progression
 Large Money: filler
@@ -100,7 +100,7 @@ Legendary Destiny Box (8): progression
 Legendary Destiny Pack (32): progression
 Legendary Destiny Pack (64): progression
 Lunight Figurine (8): progression
-Lunight Figurine: unknown
+Lunight Figurine: progression
 Mafia Works: progression
 Magnetic Holder: progression
 Manga 10: progression
@@ -130,7 +130,7 @@ Nocti Plushie: unknown
 Penny Sleeves: progression
 Pigni Plushie (12): progression
 Pigni Plushie: unknown
-Play Table: unknown
+Play Table: progression
 Playmat (Clamigo): progression
 Playmat (Dracunix1): progression
 Playmat (Dracunix2): unknown
@@ -157,36 +157,36 @@ Playmat Yellow: progression
 Pocket Pages: progression
 Poltergeist Trap: trap
 Premium Collection Book (4): progression
-Premium Collection Book: unknown
+Premium Collection Book: progression
 Princestar Figurine (2): progression
 Princestar Figurine: progression
 Progressive Auto Scent: progression
 Progressive Basic Card Box: unknown
 Progressive Basic Card Pack: progression
-Progressive Basic Destiny Box: unknown
+Progressive Basic Destiny Box: progression
 Progressive Basic Destiny Pack: unknown
 Progressive Card Display: useful
 Progressive Card Table: useful
 Progressive Cleanser: unknown
 Progressive Customer Money: useful
 Progressive Deck Box Blue: progression
-Progressive Deck Box Green: unknown
+Progressive Deck Box Green: progression
 Progressive Deck Box Red: unknown
 Progressive Deck Box Yellow: progression
-Progressive Epic Card Box: unknown
+Progressive Epic Card Box: progression
 Progressive Epic Card Pack: unknown
-Progressive Epic Destiny Box: unknown
+Progressive Epic Destiny Box: progression
 Progressive Epic Destiny Pack: unknown
 Progressive Ghost Card: mcguffin
-Progressive Legendary Card Box: unknown
+Progressive Legendary Card Box: progression
 Progressive Legendary Card Pack: progression
 Progressive Legendary Destiny Box: progression
 Progressive Legendary Destiny Pack: progression
 Progressive Personal Shelf: useful
-Progressive Rare Card Box: unknown
-Progressive Rare Card Pack: unknown
-Progressive Rare Destiny Box: unknown
-Progressive Rare Destiny Pack: unknown
+Progressive Rare Card Box: progression
+Progressive Rare Card Pack: progression
+Progressive Rare Destiny Box: progression
+Progressive Rare Destiny Pack: progression
 Progressive Shop Expansion A: progression
 Progressive Shop Expansion B: progression
 Progressive Warehouse Shelf: useful
@@ -206,7 +206,7 @@ Small Cabinet: useful
 Small Metal Rack: useful
 Small Money: filler
 Small Xp: filler
-Stink Trap: unknown
+Stink Trap: trap
 System Gate #1: progression
 System Gate #2: progression
 ToonZ Plushie (6): progression

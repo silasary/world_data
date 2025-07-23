@@ -10,6 +10,7 @@
 5 Bomb Refill: filler
 5 Rupees: filler
 50 Rupees: filler
+Bat Trap: trap
 Big Key (CoF): progression
 Big Key (DHC): progression
 Big Key (DWS): progression
@@ -19,7 +20,20 @@ Big Key (ToD): progression
 Big Wallet: progression
 Blue Book (History of Masks): progression
 Bomb Bag: progression
+Bomb Trap: trap
+Bottle (Blue Picolyte): progression
+Bottle (Blue Potion): unknown
+Bottle (Bottled Fairy): progression
+Bottle (Empty): useful
+Bottle (Green Picolyte): unknown
+Bottle (Lon Lon Milk (1/2)): unknown
+Bottle (Lon Lon Milk): progression
+Bottle (Mineral Water): unknown
+Bottle (Nayru Charm): unknown
 Bottle (Red Potion): progression
+Bottle (Water): progression
+Bottle (White Picolyte): unknown
+Bottle (Yellow Picolyte): unknown
 Bottle 1: progression
 Bottle 2: progression
 Bottle 3: progression
@@ -28,6 +42,7 @@ Bow Butterfly: useful
 Burn Trap: trap
 Cane of Pacci: progression
 Carlov Medal: progression
+Curse Trap: unknown
 Dash Attack: progression
 Dig Butterfly: useful
 Dog Food: progression
@@ -49,6 +64,7 @@ Fast Spin Scroll: progression
 Fast Split Scroll: progression
 Fire Element: progression
 Flippers: progression
+Freeze Trap: trap
 Graveyard Key: progression
 Greatspin: progression
 Green Book (Picori Legend): progression
@@ -82,7 +98,8 @@ Remote Bomb: progression
 Roc's Cape: progression
 Rock Breaker: progression
 Roll Attack: progression
-Rupee Trap: unknown
+Rope Trap: trap
+Rupee Trap: trap
 Small Key (CoF): progression
 Small Key (DHC): progression
 Small Key (DWS): progression
@@ -91,9 +108,11 @@ Small Key (PoW): progression
 Small Key (RC): progression
 Small Key (ToD): progression
 Spin Attack: progression
+Stink Trap: trap
 Swim Butterfly: useful
 Sword Beam: progression
 Tingle Trophy: progression
 Wakeup Mushroom: progression
 Water Element: progression
 Wind Element: progression
+Zap Trap: trap

@@ -18,7 +18,7 @@ Building: Conveyor Ceiling Mount: unknown
 Building: Conveyor Lift Floor Hole: unknown
 Building: Conveyor Lift Mk.1: progression
 Building: Conveyor Lift Mk.2: progression
-Building: Conveyor Lift Mk.3: unknown
+Building: Conveyor Lift Mk.3: useful
 Building: Conveyor Lift Mk.4: useful
 Building: Conveyor Lift Mk.5: useful
 Building: Conveyor Lift Mk.6: progression
@@ -103,7 +103,7 @@ Building: Resource Well Pressurizer: useful
 Building: Road Barrier: unknown
 Building: Roof Corners: unknown
 Building: Roofs: unknown
-Building: Smart Splitter: unknown
+Building: Smart Splitter: useful
 Building: Smelter: progression
 Building: Space Elevator: progression
 Building: Stackable Conveyor Pole: useful
@@ -116,7 +116,7 @@ Building: Tilted Walls: unknown
 Building: U-Jelly Landing Pad: useful
 Building: Valve: useful
 Building: Wall Mounted Flood Light: unknown
-Building: Wall Outlet Mk.1: unknown
+Building: Wall Outlet Mk.1: filler
 Building: Wall Outlet Mk.2: useful
 Building: Wall Outlet Mk.3: useful
 Building: Wall Pipeline Support: unknown
@@ -128,7 +128,7 @@ Building: Windowed Walls: unknown
 Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: unknown
 Bundle: Adaptive Control Unit: filler
-Bundle: Adequate Pioneering Statue: unknown
+Bundle: Adequate Pioneering Statue: filler
 Bundle: Alclad Aluminum Sheet: unknown
 Bundle: Alien DNA Capsule: filler
 Bundle: Alien Power Matrix: filler
@@ -148,7 +148,7 @@ Bundle: Biochemical Sculptor: unknown
 Bundle: Biomass: unknown
 Bundle: Black Powder: unknown
 Bundle: Blade Runners: useful
-Bundle: Blue Power Slug: unknown
+Bundle: Blue Power Slug: filler
 Bundle: Boom Box: unknown
 Bundle: Cable: filler
 Bundle: Caterium Ingot: filler
@@ -221,13 +221,13 @@ Bundle: Nobelisk Detonator: progression
 Bundle: Nobelisk: useful
 Bundle: Non-fissile Uranium: filler
 Bundle: Nuclear Pasta: filler
-Bundle: Nuke Nobelisk: unknown
+Bundle: Nuke Nobelisk: filler
 Bundle: Object Scanner: filler
 Bundle: Organic Data Capsule: filler
 Bundle: Packaged Alumina Solution: filler
 Bundle: Packaged Fuel: filler
 Bundle: Packaged Heavy Oil Residue: filler
-Bundle: Packaged Ionized Fuel: unknown
+Bundle: Packaged Ionized Fuel: filler
 Bundle: Packaged Liquid Biofuel: unknown
 Bundle: Packaged Nitric Acid: filler
 Bundle: Packaged Nitrogen Gas: filler
@@ -534,7 +534,7 @@ Recipe: Radio Connection Unit: progression
 Recipe: Radio Control System: progression
 Recipe: Radio Control Unit: progression
 Recipe: Reanimated SAM: progression
-Recipe: Rebar Gun: unknown
+Recipe: Rebar Gun: useful
 Recipe: Recycled Plastic: progression
 Recipe: Recycled Rubber: progression
 Recipe: Reinforced Iron Plate: progression
@@ -605,34 +605,43 @@ Recipe: Wire: progression
 Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
+Single: AI Expansion Server: unknown
 Single: Adaptive Control Unit: filler
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Aluminum Ingot: unknown
+Single: Aluminum Scrap: filler
 Single: Battery: unknown
 Single: Biochemical Sculptor: filler
 Single: Biomass: filler
 Single: Blade Runners: unknown
 Single: Blue Power Slug: filler
 Single: Boom Box: unknown
+Single: Cable: unknown
 Single: Cluster Nobelisk: unknown
+Single: Coal: filler
 Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: filler
+Single: Dark Matter Crystal: filler
+Single: Diamonds: unknown
 Single: Electromagnetic Control Rod: filler
 Single: Empty Fluid Tank: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
 Single: Heat Sink: filler
 Single: Hog Remains: unknown
+Single: Iron Ore: unknown
 Single: Leaves: filler
 Single: Mycelia: filler
 Single: Neural-Quantum Processor: filler
 Single: Nobelisk: filler
 Single: Nuke Nobelisk: unknown
 Single: Object Scanner: unknown
+Single: Packaged Alumina Solution: filler
 Single: Packaged Heavy Oil Residue: unknown
 Single: Packaged Nitrogen Gas: unknown
+Single: Packaged Oil: unknown
 Single: Packaged Rocket Fuel: unknown
 Single: Packaged Turbofuel: filler
 Single: Paleberry: unknown
@@ -643,6 +652,7 @@ Single: Pressure Conversion Cube: filler
 Single: Pulse Nobelisk: unknown
 Single: Quickwire: unknown
 Single: Radio Control Unit: unknown
+Single: Rifle Ammo: unknown
 Single: SAM Fluctuator: unknown
 Single: SAM: unknown
 Single: Satisfactory Pioneering Statue: unknown
@@ -650,14 +660,17 @@ Single: Silica: unknown
 Single: Silver Hog Statue: filler
 Single: Smokeless Powder: unknown
 Single: Solid Biofuel: filler
+Single: Steel Beam: unknown
 Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
 Single: Sulfur: filler
 Single: Supercomputer: unknown
 Single: Superposition Oscillator: unknown
+Single: Thermal Propulsion Rocket: filler
 Single: Versatile Framework: filler
 Single: Wire: filler
 Single: Wood: unknown
+Single: Yellow Power Slug: filler
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
 Spitter Forest: unknown
@@ -669,7 +682,7 @@ Transport: Cyber Wagon: useful
 Transport: Drones: useful
 Transport: Explorer: useful
 Transport: Factory Cart (golden): filler
-Transport: Factory Cart: unknown
+Transport: Factory Cart: filler
 Transport: Fluid Trains: unknown
 Transport: Hypertube Floor Hole: filler
 Transport: Hypertube Wall Hole: useful
@@ -685,6 +698,7 @@ Trap: Can of Beans: unknown
 Trap: Doggo with Gas Nobelisk: trap
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown
+Trap: Fart Cloud: trap
 Trap: Hatcher: trap
 Trap: Hog: unknown
 Trap: Not the Bees: trap

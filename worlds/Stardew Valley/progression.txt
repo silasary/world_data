@@ -1,6 +1,7 @@
-'Physics 101': unknown
+'Boat': filler
+'Physics 101': filler
 'Squid Kid': filler
-'Vista': unknown
+'Vista': filler
 10 Qi Gems: useful
 100 Qi Gems: useful
 15 Qi Gems: progression
@@ -13,7 +14,7 @@
 50 Qi Gems: useful
 ??Foroguemon??: unknown
 ??HMTGF??: filler
-??Pinky Lemon??: unknown
+??Pinky Lemon??: filler
 Abigail <3: progression
 Advanced Recycling Machine: filler
 Adventurer's Guild: unknown
@@ -50,7 +51,7 @@ Baked Berry Oatmeal Recipe: progression
 Baked Fish Recipe: progression
 Banana Pudding Recipe: progression
 Banana Sapling: useful
-Barbarian Elixir: unknown
+Barbarian Elixir: progression
 Barbed Hook: useful
 Bark Trap: filler
 Barrel Brazier Recipe: progression
@@ -97,7 +98,7 @@ Carp Surprise Recipe: progression
 Carrot Seeds: progression
 Carved Brazier Recipe: progression
 Cask: useful
-Catalogue: unknown
+Catalogue: filler
 Cauliflower Seeds: progression
 Charcoal Kiln: useful
 Cheese Cauliflower Recipe: progression
@@ -118,7 +119,7 @@ Coleslaw Recipe: progression
 Combat Boots: unknown
 Combat Level: progression
 Combat Mastery: progression
-Community Center Key: unknown
+Community Center Key: progression
 Complete Breakfast Recipe: progression
 Composter: filler
 Cone Hat: filler
@@ -145,10 +146,11 @@ Dark Talisman: progression
 Darkness Trap: trap
 Debris Trap: trap
 Deconstructor: useful
+Decorative Trash Can: filler
 Defense Bonus: filler
-Defense Enzyme: unknown
+Defense Enzyme: progression
 Dehydrator Recipe: progression
-Dehydrator: unknown
+Dehydrator: filler
 Delores <3: progression
 Deluxe Fertilizer Recipe: progression
 Deluxe Fish Tank: filler
@@ -161,7 +163,7 @@ Desert Obelisk: filler
 Diamond Wand: unknown
 Dig Site Bridge: progression
 Digger's Delight Recipe: progression
-Digging Like Worms: unknown
+Digging Like Worms: progression
 Dish O' The Sea Recipe: progression
 Dish O' The Sea: filler
 Dressed Spinner: useful
@@ -187,12 +189,12 @@ Fairy Dust Recipe: progression
 Fairy Dust: filler
 Fairy Seeds: progression
 Fall: progression
-Far Away Stone: unknown
+Far Away Stone: progression
 Farm Computer Recipe: progression
 Farm Computer: filler
 Farm Obelisk: useful
 Farmer's Lunch Recipe: progression
-Farming Enzyme: unknown
+Farming Enzyme: progression
 Farming Level: progression
 Farming Mastery: progression
 Femur: unknown
@@ -208,16 +210,16 @@ Fish Stew Recipe: progression
 Fish Taco Recipe: progression
 Fish Trap Bonus: filler
 Fishing Bar Size Bonus: filler
-Fishing Enzyme: unknown
+Fishing Enzyme: progression
 Fishing Information Broadcasting Service: useful
 Fishing Level: progression
 Fishing Mastery: progression
 Flower Cookie Recipe: progression
-Foliage Print: unknown
-Foraging Enzyme: unknown
+Foliage Print: filler
+Foraging Enzyme: progression
 Foraging Level: progression
 Foraging Mastery: progression
-Forest Magic: unknown
+Forest Magic: progression
 Forest To Beach Shortcut: useful
 Fortune Teller: useful
 Free Cactis: filler
@@ -229,13 +231,14 @@ Friendship Bonus (1 <3): unknown
 Friendship Bonus (2 <3): useful
 Friendship Bonus (3 <3): unknown
 Friendship Bonus (4 <3): unknown
+Frog Hat: unknown
 Frog Legs Recipe: progression
 Frozen Trap: trap
 Fruit Bats: useful
 Fruit Salad Recipe: progression
 Furnace Recipe: progression
 Furnace: filler
-Furniture Catalogue: unknown
+Furniture Catalogue: filler
 Galaxy Dagger: unknown
 Galaxy Hammer: unknown
 Galaxy Soul: useful
@@ -260,6 +263,7 @@ Golden Egg: filler
 Golden Pumpkin: filler
 Golden Scythe: unknown
 Golden Walnut: progression
+Gourmand Statue: filler
 Grandpa's Shed: useful
 Grape Starter: progression
 Grass Starter Recipe: progression
@@ -276,9 +280,9 @@ Hardwood Preservation Chamber: filler
 Harvey <3: progression
 Hashbrowns Recipe: progression
 Haste Elixir Recipe: progression
-Haste Elixir: unknown
+Haste Elixir: useful
 Health Bonus: filler
-Health Enzyme: unknown
+Health Enzyme: progression
 Heavy Furnace: useful
 Heavy Tapper Recipe: progression
 Heavy Tapper: useful
@@ -349,14 +353,14 @@ Leo <3: progression
 Leprechaun Hat: useful
 Lewis <3: progression
 Lifesaver: unknown
-Lightning Elixir: unknown
+Lightning Elixir: useful
 Lightning Rod: filler
 Linus <3: progression
 Livin' Off The Land: filler
 Lobster Bisque Recipe: progression
 Loom: useful
 Luck Bonus: progression
-Luck Enzyme: unknown
+Luck Enzyme: progression
 Luck Level: progression
 Lucky Lunch Recipe: progression
 Lucky Ring: filler
@@ -371,12 +375,12 @@ Lupini: The Serpent: filler
 Lupini: Three Trees: filler
 Magic Bait Recipe: progression
 Magic Elixir Recipe: progression
-Magic Ink: unknown
+Magic Ink: useful
 Magic Level: progression
 Magic Rock Candy: useful
 Magnet Ring: filler
 Magnet: filler
-Magnetism Enzyme: unknown
+Magnetism Enzyme: useful
 Magnifying Glass: progression
 Maki Roll Recipe: progression
 Mango Sapling: progression
@@ -390,7 +394,7 @@ Martin <3: progression
 Maru <3: progression
 Master Slingshot: unknown
 Mastery Of The Five Ways: useful
-Max Stamina Enzyme: unknown
+Max Stamina Enzyme: progression
 Mayonnaise Machine: useful
 Melon Seeds: progression
 Meow Trap: trap
@@ -401,7 +405,7 @@ Mini-Fridge: filler
 Mini-Obelisk Recipe: progression
 Mini-Obelisk: useful
 Mini-Shipping Bin: progression
-Mining Enzyme: unknown
+Mining Enzyme: progression
 Mining Level: progression
 Mining Mastery: progression
 Mixed Berry Pie Recipe: progression
@@ -417,7 +421,10 @@ Moss Soup Recipe: progression
 Mountain Shortcuts: useful
 Mounted Trout: filler
 Movement Speed Bonus: useful
-Movie Salty Snacks: unknown
+Movie Drinks: progression
+Movie Meals: progression
+Movie Salty Snacks: progression
+Movie Sweet Snacks: progression
 Mr Qi's Plane Ride: useful
 Mr. Ginger <3: progression
 Mr. Qi's Hat: filler
@@ -537,6 +544,7 @@ Pterodactyl Skeleton R Recipe: progression
 Pumpkin Pie Recipe: progression
 Pumpkin Seeds: progression
 Pumpkin Soup Recipe: progression
+Pyramid Decal: filler
 Qi Walnut Room: useful
 Quality Bobber Recipe: progression
 Quality Bobber: filler
@@ -684,7 +692,7 @@ Resource Pack: 3 Warp Totem: Farm: filler
 Resource Pack: 3 Warp Totem: Island: filler
 Resource Pack: 3 Warp Totem: Mountains: filler
 Resource Pack: 3 Water Shifter: unknown
-Resource Pack: 3 Water Sifter: unknown
+Resource Pack: 3 Water Sifter: useful
 Resource Pack: 30 Bait: filler
 Resource Pack: 30 Basic Fertilizer: filler
 Resource Pack: 30 Basic Retaining Soil: filler
@@ -725,7 +733,7 @@ Resource Pack: 5 Clay: filler
 Resource Pack: 5 Coal: filler
 Resource Pack: 5 Coffee: filler
 Resource Pack: 5 Crab Pot: filler
-Resource Pack: 5 Hardwood Display: unknown
+Resource Pack: 5 Hardwood Display: progression
 Resource Pack: 5 Hardwood: filler
 Resource Pack: 5 Iridium Ore: filler
 Resource Pack: 5 Mahogany Seed: filler
@@ -736,7 +744,7 @@ Resource Pack: 5 Warp Totem: Desert: filler
 Resource Pack: 5 Warp Totem: Farm: filler
 Resource Pack: 5 Warp Totem: Island: filler
 Resource Pack: 5 Warp Totem: Mountains: filler
-Resource Pack: 5 Wooden Display: unknown
+Resource Pack: 5 Wooden Display: filler
 Resource Pack: 50 Bait: filler
 Resource Pack: 50 Basic Fertilizer: filler
 Resource Pack: 50 Basic Retaining Soil: filler
@@ -790,6 +798,7 @@ Resource Pack: 9 Warp Totem: Farm: filler
 Resource Pack: 9 Warp Totem: Island: filler
 Resource Pack: 9 Warp Totem: Mountains: filler
 Restoration Table: filler
+Retro Catalogue: filler
 Return Scepter: useful
 Rhubarb Pie Recipe: progression
 Rhubarb Seeds: progression
@@ -853,36 +862,37 @@ Spangle Seeds: useful
 Special Charm: filler
 Special Order Board: progression
 Special Pumpkin Soup Recipe: progression
-Speed Enzyme: unknown
+Speed Enzyme: progression
 Spell: Blink: progression
 Spell: Bloodmana: unknown
 Spell: Buff: unknown
 Spell: Clear Debris: useful
-Spell: Descend: unknown
+Spell: Descend: useful
 Spell: Evac: progression
 Spell: Fireball: useful
 Spell: Frostbolt: useful
-Spell: Haste: unknown
-Spell: Heal: unknown
-Spell: Lantern: unknown
-Spell: Lucksteal: unknown
+Spell: Haste: filler
+Spell: Heal: useful
+Spell: Lantern: filler
+Spell: Lucksteal: filler
 Spell: Meteor: unknown
 Spell: Photosynthesis: progression
 Spell: Rewind: unknown
 Spell: Shockwave: useful
 Spell: Spirit: unknown
 Spell: Teleport: unknown
-Spell: Tendrils: unknown
+Spell: Tendrils: useful
 Spell: Till: useful
 Spell: Water: progression
 Spicy Eel Recipe: progression
 Spring: progression
 Sprinkler: filler
 Squid Hat: filler
-Squid Ink Enzyme: unknown
+Squid Ink Enzyme: progression
 Squid Ink Ravioli Recipe: progression
+Squirrel Figurine: filler
 Stable: useful
-Stamina Enzyme: unknown
+Stamina Enzyme: progression
 Stardrop Tea: filler
 Stardrop: mcguffin
 Starfruit Seeds: progression
@@ -896,12 +906,12 @@ Stone Brazier Recipe: progression
 Stone Chest Recipe: progression
 Stone Chest: filler
 Stone Floor Recipe: progression
-Stone Junimo: unknown
+Stone Junimo: filler
 Stone Sign Recipe: progression
 Stone Walkway Floor Recipe: progression
 Strange Bun Recipe: progression
 Strange Doll (Green): useful
-Strange Doll: unknown
+Strange Doll: useful
 Straw Floor Recipe: progression
 Straw Hat: filler
 Strawberry Seeds: progression
@@ -1935,7 +1945,7 @@ Town To Tide Pools Shortcut: unknown
 Tractor Garage: useful
 Trap Bobber: filler
 Trash Bear Arrival: progression
-Trash Bear Cleanup: unknown
+Trash Bear Cleanup: filler
 Trash Bin: filler
 Trash Catalogue: unknown
 Travel Core Recipe: progression
@@ -1971,6 +1981,7 @@ Void Salmon Sushi Recipe: progression
 Void Spirit Peace Agreement: useful
 Volcano Bridge: progression
 Volcano Exit Shortcut: useful
+Wall Basket: filler
 Warp Totem: Desert Recipe: progression
 Warp Totem: Island Recipe: progression
 Warrior Ring: useful
@@ -1990,7 +2001,7 @@ Wind Spire: unknown
 Winter: progression
 Wizard <3: progression
 Wizard Catalogue: unknown
-Wizard Invitation: unknown
+Wizard Invitation: progression
 Wood Club: unknown
 Wood Fence Recipe: progression
 Wood Floor Recipe: progression

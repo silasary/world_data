@@ -1,6 +1,8 @@
 1st Station Pass: progression
 3rd Station Pass: unknown
+5th Station Pass: unknown
 6th Station Pass: unknown
+8th Station Pass: progression
 9th Station Pass: unknown
 Air Blade: filler
 All-Hit Orb: filler
@@ -32,7 +34,7 @@ Bottomless Sea: progression
 Brine Cave: progression
 Brown Gummi: filler
 Calcium: filler
-Celebi: unknown
+Celebi: useful
 Charge Synth: progression
 Charity Robe: filler
 Chasm Cave: progression
@@ -43,8 +45,10 @@ Chrono Veil: filler
 Cleanse Orb: filler
 Clear Gummi: filler
 Concealed Ruins: progression
+Congealed Ruins: unknown
 Craggy Coast: progression
-Cresselia: unknown
+Craggy Cost: trap
+Cresselia: progression
 Crevice Cave: progression
 Crystal Cave: progression
 Crystal Crossing: progression
@@ -58,7 +62,7 @@ Defend Globe: filler
 Deluxe Box: filler
 Denched Bluff: progression
 Destiny Tower: progression
-Dialga: unknown
+Dialga: useful
 Dojo Dark/Fire Maze: progression
 Dojo Dragon Maze: progression
 Dojo Elec/Steel Maze: progression
@@ -71,12 +75,13 @@ Dojo Normal/Fly Maze: progression
 Dojo Poison/Bug Maze: progression
 Dojo Rock/Water Maze: progression
 Dragon Globe: useful
-Dragu-teki: unknown
+Dragu-teki: progression
 Drenched Bluff: progression
 Drought Orb: filler
-Dungeon DropItems: unknown
-Dungeon Embargo: unknown
-Dungeon Maze: unknown
+Dungeon DropItems: trap
+Dungeon Embargo: trap
+Dungeon Maze: trap
+Dungeon Pitfall: trap
 Dungeon Warp: trap
 Dungeon Weather: trap
 Dungeon Whiffer: trap
@@ -102,6 +107,7 @@ Forest Path: progression
 Formation Control: useful
 Freeze Veil: filler
 Friend Bow: useful
+Froggy Forest: trap
 Gabite Scale: filler
 Get Unowned!: trap
 Giant Volcano: progression
@@ -132,7 +138,9 @@ Hope Robe: filler
 Hot Spring: useful
 Huge Apple: filler
 Hurl Orb: filler
+Ice Aegis Cave: progression
 Ice Sash: filler
+Ice Seal: progression
 Icy Flute: mcguffin
 Icy Globe: filler
 Identify Orb: filler
@@ -151,8 +159,10 @@ Key: filler
 Knockout Bell: progression
 Kyogre: useful
 Labyrinth Cave: progression
+Labyrinth Cove: filler
 Lake Afar: progression
 Landslide Cave: progression
+Liar's Lyre: unknown
 Life Ring: filler
 Life Seed: filler
 Light Box: filler
@@ -165,7 +175,7 @@ Luminous Spring: progression
 Lunar Veil: filler
 Lush Prairie: progression
 Main Game Unlock: progression
-Manaphy: unknown
+Manaphy: useful
 Marine Cache: progression
 Marine Resort: progression
 Max Elixir: filler
@@ -176,6 +186,7 @@ Miracle Chest: useful
 Miracle Sea: progression
 Mobile Orb: filler
 Mt. Avalanche: progression
+Mt. Brinstar: trap
 Mt. Bristle: progression
 Mt. Horn: progression
 Mt. Mistral: useful
@@ -183,7 +194,7 @@ Mt. Travail: progression
 Mug Orb: filler
 Mystery Jungle: progression
 Mystery Part: useful
-Mystery of the Quicksand: unknown
+Mystery of the Quicksand: filler
 Mystifying Forest: progression
 Nap Time!: trap
 Nectar: filler
@@ -217,7 +228,7 @@ Pounce Orb: filler
 Power Globe: filler
 Pretty Box: filler
 Primal Dialga: useful
-Progressive Seal: unknown
+Progressive Seal: progression
 Progressive Sky Peak: progression
 Protein: filler
 Psyche Globe: filler
@@ -230,7 +241,7 @@ Quick Seed: filler
 Quicksand Cave: progression
 Radar Orb: filler
 Rainbow Veil: filler
-Rainy Orb: unknown
+Rainy Orb: filler
 Rare Fossil: filler
 Rawst Berry: filler
 Rayquaza: progression
@@ -255,6 +266,7 @@ Rock Globe: filler
 Rock Horn: mcguffin
 Rock Path: progression
 Rock Sash: filler
+Rock Seal: progression
 Rocky Orb: filler
 Rollcall Orb: filler
 Royal Gummi: useful
@@ -297,6 +309,7 @@ Snatch Orb: filler
 Soothe Globe: filler
 Southeastern Islands: progression
 Spacial Rift: progression
+Special Rift: unknown
 Spectral Chimes: mcguffin
 Spurn Orb: filler
 Stairs Orb: filler
@@ -304,6 +317,7 @@ Star Cave2: progression
 Star Cave: progression
 Stayaway Orb: filler
 Steam Cave: progression
+Steamy Cave: unknown
 Steel Globe: filler
 Steel Guitar: unknown
 Steel Sash: filler

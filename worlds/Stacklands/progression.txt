@@ -2,9 +2,11 @@ Berry Bush x3: unknown
 Coin x10: unknown
 Coin x25: unknown
 Coin x5: unknown
+Coin: unknown
 Curious Cuisine Booster Pack: unknown
 Egg x5: unknown
 Explorers Booster Pack: unknown
+Flint x3: unknown
 Humble Beginnings Booster Pack: unknown
 Idea: Animal Pen: unknown
 Idea: Axe: unknown
@@ -17,10 +19,12 @@ Idea: Chainmail Armor: unknown
 Idea: Charcoal: unknown
 Idea: Chicken: unknown
 Idea: Coin Chest: unknown
-Idea: Cooked Meat: unknown
+Idea: Cooked Meat: useful
+Idea: Crane: unknown
 Idea: Dustbin: unknown
 Idea: Farm: unknown
-Idea: Frittata: unknown
+Idea: Frittata: useful
+Idea: Fruit Salad: unknown
 Idea: Garden: unknown
 Idea: Growth: unknown
 Idea: Hammer: unknown
@@ -32,19 +36,24 @@ Idea: Lumber Camp: unknown
 Idea: Magic Blade: unknown
 Idea: Magic Glue: unknown
 Idea: Magic Staff: unknown
+Idea: Magic Tome: unknown
 Idea: Magic Wand: unknown
 Idea: Market: unknown
 Idea: Mess Hall: unknown
 Idea: Offspring: unknown
+Idea: Omelette: unknown
 Idea: Pickaxe: unknown
+Idea: Plank: unknown
 Idea: Quarry: unknown
 Idea: Resource Chest: unknown
 Idea: Sawmill: unknown
-Idea: Shed: unknown
+Idea: Shed: progression
 Idea: Slingshot: unknown
 Idea: Smelter: unknown
 Idea: Smithy: unknown
 Idea: Spear: unknown
+Idea: Spiked Plank: unknown
+Idea: Stable Portal: unknown
 Idea: Stew: unknown
 Idea: Stick: unknown
 Idea: Stove: unknown
@@ -55,6 +64,8 @@ Idea: Warehouse: unknown
 Idea: Wizard Robe: unknown
 Idea: Wooden Shield: unknown
 Iron Deposit x3: unknown
+Iron Deposit: unknown
+Iron Ore x3: unknown
 Iron Ore x5: unknown
 Logic and Reason Booster Pack: unknown
 Milk x5: unknown
@@ -66,4 +77,5 @@ Stick x5: unknown
 Stone x5: unknown
 The Armory Booster Pack: unknown
 Tree x3: unknown
+Tree: unknown
 Wood x5: unknown

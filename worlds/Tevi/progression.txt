@@ -34,7 +34,7 @@ Bombard: filler
 Bone Breaker: useful
 Bounce Bonus: filler
 Break Extend: useful
-Buff Rush: unknown
+Buff Rush: filler
 Bulletproof Pillar C: filler
 Bulletproof Pillar S: useful
 Buns of Steel: filler
@@ -75,7 +75,7 @@ Combo Time Extend B: filler
 Combo Time Extend C: filler
 Combustible: progression
 Core Expansion: Charge: useful
-Core Expansion: Combo: unknown
+Core Expansion: Combo: useful
 Core Expansion: Dazzle: useful
 Core Expansion: Erase: useful
 Core Expansion: Extend: unknown
@@ -129,7 +129,7 @@ Dual Combo: Flow: useful
 Dual Combo: Rush: filler
 EP Booster: Dodge: useful
 EP Booster: HP: useful
-EP Booster: MP: unknown
+EP Booster: MP: useful
 EP Booster: Melee Menace: useful
 EP Booster: Perfectionist: useful
 EP Booster: Quintuple: filler
@@ -308,12 +308,12 @@ Synchronized Support I: filler
 Synchronized Support II: useful
 Tabby Bomb: useful
 Tartarus VIP Pass: useful
-Teleporter Anathema: unknown
-Teleporter Blushwood: unknown
+Teleporter Anathema: progression
+Teleporter Blushwood: progression
 Teleporter Canyon: unknown
 Teleporter Catacombs: progression
 Teleporter Cloister: unknown
-Teleporter Copper Forest: unknown
+Teleporter Copper Forest: progression
 Teleporter Deep Dream: unknown
 Teleporter Desert Base: progression
 Teleporter Dreamkeeper Inside: unknown
@@ -323,23 +323,23 @@ Teleporter Forest: progression
 Teleporter ForestMaze: unknown
 Teleporter Forgotten City: progression
 Teleporter Gallery of Mirrors: unknown
-Teleporter Gallery of Souls: unknown
-Teleporter Gloamwood: unknown
+Teleporter Gallery of Souls: progression
+Teleporter Gloamwood: progression
 Teleporter Heavens Valley West: progression
 Teleporter Industry: unknown
 Teleporter Lab: unknown
 Teleporter Magma Depths: progression
-Teleporter Mines: unknown
-Teleporter Morose: unknown
-Teleporter Oasis: unknown
-Teleporter Ocean: unknown
+Teleporter Mines: progression
+Teleporter Morose: progression
+Teleporter Oasis: progression
+Teleporter Ocean: progression
 Teleporter Plague: progression
-Teleporter Relicts: unknown
-Teleporter Ruins: unknown
+Teleporter Relicts: progression
+Teleporter Ruins: progression
 Teleporter Sea: unknown
 Teleporter Sinner's Hell: unknown
 Teleporter Snow City: progression
-Teleporter Snow Village: unknown
+Teleporter Snow Village: progression
 Teleporter Tartarus: progression
 Teleporter Ulvosa: progression
 Teleporter Valhalla Breath East: unknown

@@ -159,6 +159,7 @@ Quarry Stoneworks Ramp Controls (Panel): progression
 Quarry Stoneworks Roof Exit (Door): progression
 Quarry Stoneworks Side Exit (Door): progression
 Quarry Stoneworks Stairs (Door): progression
+Quarry Stoneworks Stairs (Panel): unknown
 Rotated Shapers: progression
 Shadows Door Timer (Panel): progression
 Shadows Laser Entry Left (Door): progression
@@ -184,6 +185,7 @@ Swamp Doors: progression
 Swamp Entry (Door): progression
 Swamp Entry (Panel): progression
 Swamp Laser Shortcut (Door): progression
+Swamp Laser Shortcut (Panel): progression
 Swamp Laser: progression
 Swamp Long Bridge (Panel): progression
 Swamp Maze Controls (Panel): progression

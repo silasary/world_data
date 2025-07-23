@@ -15,7 +15,7 @@ Addle: useful
 Adrammelech: progression
 Aegis Shield: unknown
 Aero Mote: filler
-Aero: unknown
+Aero: useful
 Aeroga Mote: filler
 Aeroga: unknown
 Aevis Killer: unknown
@@ -23,7 +23,7 @@ Agate Ring: unknown
 Aged Turtle Shell: unknown
 Ageworn Key: progression
 Aldebaran: unknown
-Altair: unknown
+Altair: filler
 Amber Armlet: useful
 Ambrosia: unknown
 Ame-no-Murakumo: unknown
@@ -94,7 +94,7 @@ Black Robes: unknown
 Blackened Fragment: unknown
 Blazer Gloves: unknown
 Bleed: useful
-Blind: unknown
+Blind: useful
 Blindga: unknown
 Blindna: unknown
 Blizzaga: useful
@@ -118,7 +118,7 @@ Book of Orgain-Cent: unknown
 Book of Orgain-Mille: unknown
 Book of Orgain: unknown
 Bowgun: unknown
-Bowline Sash: unknown
+Bowline Sash: filler
 Braid Wool: unknown
 Brave Suit: unknown
 Bravery: unknown
@@ -281,7 +281,7 @@ Empyrean Rod: unknown
 Enchanter's Habit: unknown
 Ensanguined Shield: unknown
 Ensanguined Trophy: unknown
-Errmonea Leaf: unknown
+Errmonea Leaf: progression
 Esuna: useful
 Esunaga: unknown
 Eternal Trophy: unknown
@@ -338,14 +338,14 @@ Gauntlets: unknown
 Gemini Gem: unknown
 Gemsteel: unknown
 Gendarme: unknown
-Genji Armor: unknown
+Genji Armor: filler
 Genji Gloves: unknown
 Genji Helm: unknown
 Genji Shield: unknown
 Germinas Boots: useful
 Giant Feather: unknown
 Giant Stonebow: unknown
-Giant's Helmet: unknown
+Giant's Helmet: filler
 Gigas Chestplate: unknown
 Gigas Hat: unknown
 Gil Toss: useful
@@ -393,10 +393,10 @@ Halberd: unknown
 Hammerhead: unknown
 Handaxe: unknown
 Handkerchief: unknown
-Hashmal: unknown
+Hashmal: progression
 Haste: useful
 Hastega Mote: filler
-Hastega: unknown
+Hastega: useful
 Headband: unknown
 Headgear: unknown
 Headguard: unknown
@@ -419,7 +419,7 @@ Holy: unknown
 Horakhty's Flame: unknown
 Horn: unknown
 Horned Hat: unknown
-Hornito: unknown
+Hornito: filler
 Horology: useful
 Hunting Crossbow: unknown
 Hypnocrown: unknown
@@ -473,7 +473,7 @@ Leather Armor: unknown
 Leather Breastplate: unknown
 Leather Cap: unknown
 Leather Clothing: unknown
-Leather Gorget: unknown
+Leather Gorget: filler
 Leather Headgear: unknown
 Leather Helm: unknown
 Leather Shield: unknown
@@ -513,7 +513,7 @@ Makara: unknown
 Malboro Flower: unknown
 Malboro Fruit: unknown
 Malboro Vine: unknown
-Mallet: unknown
+Mallet: filler
 Maned Trophy: unknown
 Manufacted Nethicite: progression
 Mardu Halcyon: unknown
@@ -521,9 +521,9 @@ Masamune: unknown
 Mateus: progression
 Maverick Trophy: unknown
 Maximillian: unknown
-Medallion of Bravery: unknown
+Medallion of Bravery: progression
 Medallion of Love: unknown
-Medallion of Might: unknown
+Medallion of Might: progression
 Megalixir: unknown
 Merchant's Armband: unknown
 Mesa: unknown
@@ -538,7 +538,7 @@ Mind Trophy: unknown
 Minerva Bustier: unknown
 Mirage Vest: unknown
 Mirror Mail: unknown
-Mirror Scale: unknown
+Mirror Scale: filler
 Miter: unknown
 Mithuna: unknown
 Molting: unknown
@@ -581,7 +581,7 @@ Orange Tuft: unknown
 Orichalcum Dirk: unknown
 Orichalcum: unknown
 Orochi: unknown
-Orrachea Armlet: unknown
+Orrachea Armlet: filler
 Osafune: unknown
 Parallel Arrows: unknown
 Paramina Crossbow: unknown
@@ -606,10 +606,10 @@ Poach: useful
 Pointed Horn: filler
 Pointy Hat: unknown
 Poison Bombs: unknown
-Poison: unknown
+Poison: useful
 Poisona: useful
 Potion: filler
-Power Armlet: unknown
+Power Armlet: filler
 Power Rod: unknown
 Power Vest: unknown
 Prime Pelt: unknown
@@ -622,23 +622,23 @@ Quality Hide: unknown
 Quality Lumber: unknown
 Quality Pelt: unknown
 Quality Stone: unknown
-Quasimodo Boots: unknown
+Quasimodo Boots: filler
 Rabanastre Aeropass: progression
 Rabbit's Tail: unknown
 Ragnarok: unknown
 Rainbow Egg: filler
 Rainstone: progression
-Raise: unknown
+Raise: useful
 Ras Algethi: unknown
 Rat Pelt: unknown
 Rat Tail: unknown
-Recurve Crossbow: unknown
+Recurve Crossbow: filler
 Red Cap: unknown
-Reflect: unknown
+Reflect: useful
 Reflectga Mote: filler
 Reflectga: useful
 Regen: unknown
-Remedy: unknown
+Remedy: filler
 Renew: useful
 Renewing Morion: unknown
 Reptilian Trophy: unknown
@@ -678,7 +678,7 @@ Scathe: unknown
 Scorpio Gem: unknown
 Scorpion Tail: unknown
 Scourge: useful
-Screamroot: unknown
+Screamroot: filler
 Scythe Trophy: unknown
 Second Board: progression
 Seitengrat: unknown
@@ -707,7 +707,7 @@ Sight Unseeing: useful
 Silence: unknown
 Silencega: unknown
 Silent Shot: unknown
-Silent Urn: unknown
+Silent Urn: progression
 Silken Shirt: unknown
 Silver Bow: unknown
 Silver Liquid: unknown
@@ -732,13 +732,13 @@ Small Feather: unknown
 Snake Skin: unknown
 Snowfly: unknown
 Soldier's Cap: unknown
-Soleil Fang: unknown
+Soleil Fang: filler
 Solid Horn: unknown
 Solid Stone: filler
 Sorcerer's Habit: useful
 Sorcerer's Hat: unknown
 Soul Powder: unknown
-Soul Ward Key: unknown
+Soul Ward Key: progression
 Soul of Thamasa: unknown
 Souleater: unknown
 Soulless Trophy: unknown
@@ -788,7 +788,7 @@ Thief's Cap: unknown
 Thief's Cuffs: unknown
 Thorned Mace: unknown
 Throat Wolf Blood: unknown
-Thundaga: unknown
+Thundaga: useful
 Thundara: useful
 Thunder: useful
 Time Bolts: unknown
@@ -849,7 +849,7 @@ Wind Stone: unknown
 Windbreaker: unknown
 Windslicer Pinion: unknown
 Windslicer Shot: unknown
-Windvane: unknown
+Windvane: progression
 Winged Boots: filler
 Winged Helm: useful
 Wither: unknown

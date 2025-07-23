@@ -118,8 +118,16 @@ Cloak of Levitation: progression
 Crystal (Catacombs - Poison Roots): unknown
 Crystal (Cathedral - Orbs): unknown
 Crystal (Cathedral - Top Right): unknown
+Crystal (Hall of the Phantoms - After Claw): unknown
+Crystal (Hall of the Phantoms - Bell Access): unknown
+Crystal (Mechanism - Cloak): unknown
+Crystal (Mechanism - Lower): unknown
+Crystal (Mechanism - Top Chains): unknown
+Crystal (Mechanism - Triple 1): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
 Crystal (Ruins of Ash - Ladder Left): unknown
+Crystal (Ruins of Ash - Ladder Right): unknown
+Crystal (Ruins of Ash - Spike Balls): unknown
 Crystal (Tower Roots - Gold): progression
 Cutscene Trap: trap
 Cyclops Idol: progression
@@ -127,7 +135,9 @@ Darkness Switch: progression
 Dead Maiden's Ring: filler
 Death Orb: useful
 Death Point: filler
+Face (Catacombs - x4): unknown
 Face (Cathedral - Right): unknown
+Face (Caves - 1st Room): unknown
 GT 2 Elevator: progression
 GT Blue Door (Ascendant Key): progression
 GT Blue Door (Bestiary): useful
@@ -341,11 +351,47 @@ SP Crystal Star: progression
 SP Switch After Star: progression
 SP Switch Bubbles: progression
 SP Switch Double Doors: progression
+Switch (Catacombs - Dev Room): unknown
+Switch (Catacombs - Elevator): unknown
+Switch (Catacombs - Top): unknown
+Switch (Cathedral - Bottom): unknown
 Switch (Caves - Catacombs Access 1): unknown
+Switch (Caves - Catacombs Access 2): unknown
+Switch (Caves - Catacombs Access 3): unknown
+Switch (Caves - Skeletons): unknown
+Switch (Gorgon Tomb - 1st Cyclops): unknown
+Switch (Gorgon Tomb - 2nd Room): unknown
+Switch (Gorgon Tomb - Arias): unknown
+Switch (Gorgon Tomb - Butt Access): unknown
 Switch (Gorgon Tomb - Crosses): unknown
+Switch (Gorgon Tomb - Gorgonheart): unknown
+Switch (Gorgon Tomb - Spike Tunnel): unknown
+Switch (Gorgon Tomb - Sword Access): unknown
+Switch (Gorgon Tomb - Sword): unknown
+Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
+Switch (Hall of the Phantoms - 1st Room): unknown
+Switch (Hall of the Phantoms - Below Start): unknown
+Switch (Hall of the Phantoms - Left 3): unknown
+Switch (Hall of the Phantoms - To Above Old Man): unknown
+Switch (Mechanism - Boss 1): unknown
+Switch (Mechanism - Boss 2): unknown
+Switch (Mechanism - Eyeball): unknown
+Switch (Mechanism - Maze Backdoor): unknown
+Switch (Mechanism - Pots): unknown
+Switch (Mechanism - Snake 2): unknown
+Switch (Mechanism - To Boss 2): unknown
+Switch (Ruins of Ash - After Worms): unknown
+Switch (Ruins of Ash - Apex Access): unknown
+Switch (Ruins of Ash - Blood Pot Left): unknown
+Switch (Ruins of Ash - Blood Pot Right): unknown
+Switch (Ruins of Ash - Blood Pot): unknown
+Switch (Ruins of Ash - Boss Access): unknown
 Switch (Ruins of Ash - Icarus): unknown
+Switch (Ruins of Ash - Shaft Downwards): unknown
+Switch (Ruins of Ash - Spiders): unknown
 Switch (Serpent Path - Double Doors): unknown
+Switch (Tower Roots - Adorned Middle): unknown
 Switch (Tower Roots - Elevator): unknown
 Sword of Mirrors: progression
 TR Blue Door: progression

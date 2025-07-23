@@ -26,31 +26,31 @@ Equipment - Lucky Briefs: unknown
 Equipment - Lucky Socks: unknown
 Equipment - Magic Finder: unknown
 Equipment - Mana Ring: unknown
-Equipment - Muggers Glove: unknown
+Equipment - Muggers Glove: useful
 Equipment - Nomads Emblem: unknown
 Equipment - Oven Mitt: unknown
-Equipment - Progressive 1H Axe: unknown
+Equipment - Progressive 1H Axe: useful
 Equipment - Progressive 1H Sword: unknown
-Equipment - Progressive 2H Axe: unknown
+Equipment - Progressive 2H Axe: useful
 Equipment - Progressive 2H Sword: unknown
 Equipment - Progressive Beating Staff: unknown
 Equipment - Progressive Book: unknown
 Equipment - Progressive Bow: unknown
 Equipment - Progressive Dagger: unknown
-Equipment - Progressive Heavy Body: unknown
+Equipment - Progressive Heavy Body: useful
 Equipment - Progressive Heavy Head: unknown
 Equipment - Progressive Katana: unknown
 Equipment - Progressive Light Body: unknown
 Equipment - Progressive Light Head: progression
 Equipment - Progressive Medium Body: unknown
-Equipment - Progressive Medium Head: unknown
+Equipment - Progressive Medium Head: useful
 Equipment - Progressive Ninja Dagger: unknown
 Equipment - Progressive Rapier: unknown
 Equipment - Progressive Scythe: unknown
-Equipment - Progressive Shield: unknown
+Equipment - Progressive Shield: useful
 Equipment - Progressive Spear: unknown
-Equipment - Progressive Staff: unknown
-Equipment - Progressive Wand: unknown
+Equipment - Progressive Staff: useful
+Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
 Equipment - Red Hairpin: unknown
 Equipment - Resist Shifter: unknown
@@ -66,7 +66,9 @@ Equipment - Tall Stand Ring: unknown
 Equipment - Torpid Cuffs: unknown
 Equipment - Undead Ring: unknown
 Item - Ancient Labyrinth Map: unknown
+Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: unknown
+Item - Ancient Reservoir Pass: unknown
 Item - Ancient Tablet A: unknown
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
@@ -75,7 +77,7 @@ Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
 Item - Beaurior Rock Map: unknown
 Item - Beaurior Volcano Map: unknown
-Item - Bitter Pop Candy: unknown
+Item - Bitter Pop Candy: filler
 Item - Black Squirrel: unknown
 Item - Boomer Society Map: unknown
 Item - Boomer Society Pass: unknown
@@ -84,45 +86,52 @@ Item - Callisto Stone: unknown
 Item - Canopy Key: unknown
 Item - Capital Courtyard Map: unknown
 Item - Capital Jail Map: unknown
+Item - Capital Jail Pass: progression
 Item - Capital Pipeline Map: unknown
+Item - Capital Pipeline Pass: unknown
 Item - Capital Sequoia Map: unknown
 Item - Capital Sequoia Pass: unknown
 Item - Castle Ramparts Map: unknown
 Item - Castle Ramparts Pass: unknown
 Item - Castle Sequoia Map: unknown
+Item - Castle Sequoia Pass: unknown
 Item - Cave Key: unknown
 Item - Cell Key: unknown
 Item - Central Lookout Token: unknown
 Item - Cerulean Book: unknown
 Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
+Item - Cobblestone Crag Pass: unknown
 Item - Continental Tram Map: unknown
 Item - Courtyard Key: unknown
 Item - Crag Demon Horn: unknown
 Item - Dark Wing Key: unknown
 Item - Decent Cod Bag: unknown
-Item - Decent Cod: unknown
+Item - Decent Cod: filler
+Item - Deity Eye: unknown
 Item - Delende Map: unknown
 Item - Delende Pass: unknown
-Item - Diamond Dust: unknown
-Item - Diamond Ingot: unknown
-Item - Diamond Ore: unknown
-Item - Digested Head: unknown
+Item - Diamond Dust: filler
+Item - Diamond Ingot: useful
+Item - Diamond Ore: useful
+Item - Digested Head: filler
 Item - Dione Shrine Map: unknown
 Item - Dione Shrine Pass: unknown
 Item - Dione Stone: progression
 Item - Dog Bone: unknown
 Item - Draft Shaft Conduit Map: unknown
+Item - Draft Shaft Conduit Pass: unknown
 Item - East Wing Key: unknown
 Item - Eastern Chasm Map: unknown
+Item - Eastern Chasm Pass: unknown
 Item - Elevator Part: unknown
 Item - Ether Pouch: unknown
 Item - Ether: unknown
 Item - Europa Stone: unknown
 Item - Fenix Juice Pouch: unknown
-Item - Fenix Juice: unknown
-Item - Fenix Syrup Pouch: unknown
-Item - Fenix Syrup: unknown
+Item - Fenix Juice: filler
+Item - Fenix Syrup Pouch: filler
+Item - Fenix Syrup: filler
 Item - Ferry Pass: unknown
 Item - Flimsy Rod: unknown
 Item - Fly Lure: unknown
@@ -133,23 +142,27 @@ Item - Flyers Crag Map: unknown
 Item - Flyers Lookout Map: unknown
 Item - Foliage Key: unknown
 Item - Forgotten Key: unknown
-Item - Fresh Salmon: unknown
+Item - Fresh Salmon: filler
 Item - Gaea Stone: unknown
 Item - Ganymede Shrine Map: unknown
+Item - Ganymede Shrine Pass: unknown
 Item - Ganymede Stone: unknown
 Item - Gardeners Key: unknown
-Item - Gold Dust: unknown
-Item - Gold Ingot: unknown
-Item - Gold Ore: unknown
+Item - Gold Dust: useful
+Item - Gold Ingot: filler
+Item - Gold Ore: filler
 Item - Greenshire Reprise Map: unknown
 Item - Greenshire Reprise Pass: unknown
 Item - Home Point Stone: useful
 Item - Ibek Bell: unknown
-Item - Ice Cell Key: unknown
+Item - Ibek Cave Pass: unknown
+Item - Ice Cell Key: progression
 Item - Ice Puzzle Key Ring: unknown
-Item - Ice Puzzle Key: unknown
+Item - Ice Puzzle Key: progression
 Item - Jade Cavern Map: unknown
+Item - Jade Cavern Pass: unknown
 Item - Jidamba Eaclaneya Map: unknown
+Item - Jidamba Eaclaneya Pass: unknown
 Item - Jidamba Key Ring: unknown
 Item - Jidamba Tangle Map: unknown
 Item - Jidamba Tangle Pass: unknown
@@ -157,7 +170,9 @@ Item - Jigging Lure: unknown
 Item - Jojo Sewers Map: unknown
 Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
+Item - Lake Delende Pass: progression
 Item - Land's End Map: unknown
+Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
 Item - Lost Penguin: unknown
 Item - Luxury Key: unknown
@@ -165,18 +180,20 @@ Item - Mars Stone: unknown
 Item - Mercury Shrine Map: unknown
 Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
-Item - Milk: unknown
-Item - Nans Cocoa: unknown
-Item - Nans Secret Recipe: unknown
-Item - Nans Stew: unknown
+Item - Milk: filler
+Item - Nans Cocoa: filler
+Item - Nans Secret Recipe: filler
+Item - Nans Stew: filler
 Item - Neptune Shrine Map: unknown
+Item - Neptune Shrine Pass: unknown
 Item - Neptune Stone: progression
 Item - New World Stone: unknown
 Item - North Lookout Token: unknown
 Item - Northern Cave Map: unknown
+Item - Northern Cave Pass: unknown
 Item - Northern Stretch Map: unknown
 Item - Nuts Sack: unknown
-Item - Nuts: unknown
+Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
 Item - Old World Stone: unknown
 Item - Overpass Map: unknown
@@ -188,19 +205,21 @@ Item - Poko Poko Desert Pass: unknown
 Item - Poseidon Shrine Map: unknown
 Item - Poseidon Stone: unknown
 Item - Potion Pouch: unknown
-Item - Potion: unknown
+Item - Potion: filler
 Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
-Item - Progressive Level: unknown
+Item - Progressive Level: useful
 Item - Progressive Luxury Pass: unknown
 Item - Progressive Mount Instrument: unknown
-Item - Progressive Quintar Flute: unknown
+Item - Progressive Quintar Flute: progression
 Item - Progressive Salmon Violin: unknown
 Item - Proving Meadows Map: unknown
 Item - Proving Meadows Pass: unknown
 Item - Pyramid Key: unknown
 Item - Quintar Mausoleum Map: unknown
+Item - Quintar Mausoleum Pass: unknown
 Item - Quintar Nest Map: unknown
+Item - Quintar Nest Pass: unknown
 Item - Quintar Reserve Map: unknown
 Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
@@ -210,11 +229,14 @@ Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
 Item - River Cats Ego Map: unknown
 Item - Rolling Quintar Fields Map: unknown
-Item - Room 1 Key: unknown
+Item - Rolling Quintar Fields Pass: unknown
+Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
 Item - STEM WARD: unknown
 Item - Salmon Bay Map: unknown
+Item - Salmon Bay Pass: progression
 Item - Salmon Pass Map: unknown
+Item - Salmon Pass Pass: unknown
 Item - Salmon River Map: unknown
 Item - Salmon River Pass: unknown
 Item - Sara Sara Bazaar Map: unknown
@@ -224,6 +246,7 @@ Item - Sara Sara Beach Map: unknown
 Item - Sara Sara Beach West Pass: unknown
 Item - Scroll: filler
 Item - Seaside Cliffs Map: unknown
+Item - Seaside Cliffs Pass: unknown
 Item - Sequoia Athenaeum Map: unknown
 Item - Sequoia Athenaeum Pass: unknown
 Item - Shoudu Province Map: unknown
@@ -231,8 +254,8 @@ Item - Shoudu Province Pass: unknown
 Item - Shoudu Stew: unknown
 Item - Shoudu Waterfront Pass: unknown
 Item - Silver Dust: unknown
-Item - Silver Ingot: unknown
-Item - Silver Ore: unknown
+Item - Silver Ingot: useful
+Item - Silver Ore: useful
 Item - Skeleton Key: unknown
 Item - Skumparadise Map: unknown
 Item - Skumparadise Pass: unknown
@@ -241,13 +264,13 @@ Item - Slip Glide Ride Pass: unknown
 Item - Small Key: unknown
 Item - Soiled Den Map: unknown
 Item - Soiled Den Pass: unknown
-Item - Sour Pop Candy: unknown
+Item - Sour Pop Candy: filler
 Item - South Wing Key: unknown
 Item - Spawning Meadows Map: unknown
 Item - Spawning Meadows Pass: unknown
 Item - Special Fresh Salmon: unknown
 Item - Special Milk: unknown
-Item - Special Rotten Salmon: unknown
+Item - Special Rotten Salmon: progression
 Item - Special Shoudu Stew: unknown
 Item - Super Rod: unknown
 Item - Sweet Pop Candy: unknown
@@ -255,33 +278,40 @@ Item - Tall Tall Heights Map: unknown
 Item - Tall, Tall Heights Map: unknown
 Item - Tall, Tall Heights Pass: unknown
 Item - The Chalice of Tar Map: unknown
+Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: unknown
+Item - The Deep Sea Pass: unknown
 Item - The Depths Map: unknown
+Item - The Depths Pass: unknown
 Item - The New World Map: unknown
 Item - The Old World Map: unknown
+Item - The Old World Pass: unknown
 Item - The Open Sea Map: unknown
+Item - The Open Sea Pass: unknown
 Item - The Pale Grotto Map: unknown
+Item - The Pale Grotto Pass: unknown
 Item - The Sequoia Map: unknown
 Item - The Sequoia Pass: unknown
 Item - The Undercity Map: unknown
-Item - Tincture Pouch: unknown
-Item - Tincture: unknown
+Item - The Undercity Pass: unknown
+Item - Tincture Pouch: useful
+Item - Tincture: filler
 Item - Tonic Pouch: unknown
-Item - Tonic: unknown
+Item - Tonic: filler
 Item - Tough Rod: unknown
 Item - Tram Key: unknown
 Item - Treasure Finder: unknown
 Item - Trial Caves Map: unknown
 Item - Triton Stone: unknown
 Item - Underpass Map: unknown
-Item - Undersea Crab: unknown
+Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
 Item - Viridian Book: unknown
 Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
 Item - Yamagawa M.A. Map: unknown
 Item - Z-Potion Pouch: unknown
-Item - Z-Potion: unknown
+Item - Z-Potion: filler
 Item - Zether Pouch: unknown
 Item - Zether: filler
 Job - Aegis: unknown
@@ -290,17 +320,17 @@ Job - Beastmaster: unknown
 Job - Beatsmith: unknown
 Job - Chemist: unknown
 Job - Cleric: unknown
-Job - Dervish: unknown
+Job - Dervish: progression
 Job - Fencer: unknown
 Job - Hunter: unknown
 Job - Mimic: unknown
 Job - Monk: unknown
 Job - Ninja: unknown
-Job - Nomad: unknown
+Job - Nomad: progression
 Job - Reaper: unknown
 Job - Rogue: unknown
 Job - Samurai: unknown
-Job - Scholar: unknown
+Job - Scholar: progression
 Job - Shaman: unknown
 Job - Summoner: unknown
 Job - Valkyrie: unknown
@@ -312,7 +342,7 @@ Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
 Scholar - Atmoshear: unknown
 Scholar - Barrier: unknown
-Scholar - Build Life: unknown
+Scholar - Build Life: useful
 Scholar - Explode: unknown
 Scholar - Fire Breath: unknown
 Scholar - Infusion: unknown

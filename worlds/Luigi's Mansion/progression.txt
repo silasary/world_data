@@ -2,7 +2,8 @@
 1 Gold Bars: filler
 10 Coins: filler
 15 Bills: filler
-1F Bathroom Key: unknown
+1F Bathroom Key: progression
+1F Washroom Key: progression
 2 Gold Bars: filler
 20 Coins & Bills: filler
 20 Coins: filler
@@ -10,6 +11,7 @@
 2F Bathroom Key: progression
 2F Washroom Key: progression
 30 Coins: filler
+Altar Hallway Key: progression
 Anteroom Boo (Bootha): mcguffin
 Anteroom Key: progression
 Armory Boo (Underboo): mcguffin
@@ -17,6 +19,7 @@ Armory Key: progression
 Artist's Studio Boo (Bootique): progression
 Artist's Studio Key: progression
 Astral Boo (Boonswoggle): mcguffin
+Astral Hall Key: progression
 Balcony Key: progression
 Ball Room Boo (Boo La La): mcguffin
 Ballroom Key: progression
@@ -25,6 +28,7 @@ Basement Hallway Key: progression
 Basement Stairwell Key: progression
 Billiards Boo (Boohoo): mcguffin
 Billiards Key: progression
+Billiards Room Key: progression
 Bomb: trap
 Boneyard Key: progression
 Bonk Trap: trap
@@ -47,6 +51,7 @@ Boolossus MiniBoo 9: progression
 Breaker Room Boo (Boo B. Hatch): mcguffin
 Breaker Room Key: progression
 Butler's Room Boo (PeekaBoo): mcguffin
+Butler's Room Key: progression
 Cellar Boo (Booripedes): mcguffin
 Cellar Key: progression
 Ceramics Studio Boo (TamBoorine): mcguffin
@@ -62,6 +67,7 @@ Diamond Key: progression
 Diamond: useful
 Dining Room Boo (Boodacious): mcguffin
 Dining Room Key: progression
+East Attic Hallway Key: progression
 Emerald: filler
 Family Hallway Key: useful
 Fire Element Medal: progression
@@ -70,7 +76,7 @@ Fortune Teller Key: useful
 Ghost: filler
 Gold Diamond: filler
 Guest Room Boo (Boonita): mcguffin
-Guest Room Key: unknown
+Guest Room Key: progression
 Heart Key: progression
 Hidden Room Boo (GumBoo): mcguffin
 Ice Element Medal: progression
@@ -91,7 +97,7 @@ Mario's Star: progression
 Master Bedroom Boo (Boolicious): mcguffin
 Master Bedroom Key: progression
 Mirror Room Boo (Kung Boo): mcguffin
-Mirror Room Key: unknown
+Mirror Room Key: progression
 Nana's Room Boo (LamBooger): mcguffin
 Nana's Room Boo (LimBooger): mcguffin
 Nana's Room Key: progression
@@ -100,6 +106,7 @@ North Safari Room Key: progression
 Nothing: filler
 Nursery Boo (TurBoo): mcguffin
 Nursery Key: progression
+Observatory Key: progression
 Parlor Boo (BamBoo): mcguffin
 Parlor Key: useful
 Pipe Room Boo (Booffant): mcguffin
@@ -109,6 +116,7 @@ Poltergust 4000: useful
 Possession Trap: trap
 Progressive Flower: useful
 Projection Room Boo (ShamBoo): mcguffin
+Projection Room Key: unknown
 Rec Room Boo (Booregard): mcguffin
 Ruby: filler
 Safari Key: progression
@@ -130,5 +138,8 @@ Telephone Room Boo (Boomerang): mcguffin
 Telephone Room Key: progression
 Twin's Room Boo (Booris): mcguffin
 Twins Bedroom Key: useful
+Upper 2F Stairwell Key: progression
+Wardrobe Balcony Key: progression
 Wardrobe Boo (GameBoo Advance): mcguffin
+Wardrobe Key: useful
 Water Element Medal: progression

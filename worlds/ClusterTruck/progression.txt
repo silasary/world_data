@@ -8,6 +8,7 @@
 2-1: unknown
 2-2: unknown
 2-3: unknown
+2-4: unknown
 2-5: progression
 2-6: unknown
 2-8: unknown
@@ -46,6 +47,7 @@
 6-5: unknown
 6-6: unknown
 6-7: unknown
+6-8: unknown
 6-9: unknown
 7-10: unknown
 7-1: unknown
@@ -58,7 +60,9 @@
 7-9: unknown
 8-1: unknown
 8-3: progression
+8-4: unknown
 8-5: unknown
+8-7: unknown
 8-8: unknown
 8-9: unknown
 9-1: unknown
@@ -80,5 +84,7 @@ Jetpack: useful
 Levitation: unknown
 Portable Truck: unknown
 Supertruck: unknown
+Time Slow: unknown
 Truck Boost: unknown
 Trucker Flip: unknown
+Trucksolute Zero: unknown

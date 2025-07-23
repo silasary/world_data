@@ -1,6 +1,7 @@
 AddPC: unknown
 Anvil: progression
 Bombs: unknown
+Boomerang: progression
 Boulder: progression
 BuildStatue: unknown
 Burger: unknown
@@ -13,7 +14,7 @@ Change Princess Name: filler
 Chicken: progression
 Closet: unknown
 Compass: useful
-Dark Fortress Cannon: unknown
+Dark Fortress Cannon: progression
 Dark Stone Lever Left: unknown
 Dark Stone Lever Middle: progression
 Dark Stone Lever Right: unknown
@@ -29,7 +30,7 @@ Elevator Button: progression
 EnableCloset: unknown
 Faceplant Stone: unknown
 Fairy Portal: unknown
-Fishing Rod: unknown
+Fishing Rod: progression
 Gem: mcguffin
 GrowChicken: unknown
 GrowVine: progression
@@ -38,7 +39,7 @@ King: progression
 Lava Trinket: progression
 Map: useful
 Mimic Pet: filler
-Mimic: unknown
+Mimic: progression
 Mirror Portal: useful
 Mister Hugs: progression
 Nothing: filler
@@ -52,7 +53,7 @@ Princess: unknown
 Progressive Sword: progression
 ProgressiveSword: progression
 Sewer Pipe: unknown
-Shield: unknown
+Shield: progression
 Shop Cannon: unknown
 Shopkeeper: progression
 Shovel: progression

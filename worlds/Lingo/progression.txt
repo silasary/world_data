@@ -39,7 +39,7 @@ Courtyard - Backside Door: progression
 Courtyard - Green Barrier: progression
 Courtyard - Ordinal Panels: unknown
 Crossroads - BEND HI (Panel): unknown
-Crossroads - DECAY (Panel): unknown
+Crossroads - DECAY (Panel): progression
 Crossroads - Eye Wall: progression
 Crossroads - Hollow Hallway: progression
 Crossroads - NOPE (Panel): progression
@@ -70,7 +70,7 @@ Hallway Room (3) - Exit: progression
 Hallway Room (4) - Exit: progression
 Hallway Room Doors: progression
 Hallway Room Panels: progression
-Hedge Maze - DOWN (Panel): unknown
+Hedge Maze - DOWN (Panel): progression
 Hedge Maze Doors: progression
 Hidden Room - Dead End Door: progression
 Hidden Room - Knight Night Entrance: progression
@@ -105,7 +105,7 @@ Orange Tower - Seventh Floor: progression
 Orange Tower - Sixth Floor: progression
 Orange Tower - Third Floor: progression
 Orange Tower Fifth Floor - Quadruple Intersection: progression
-Orange Tower Fifth Floor - SIZE Panels: unknown
+Orange Tower Fifth Floor - SIZE Panels: progression
 Orange Tower Fifth Floor - Welcome Back: progression
 Orange Tower First Floor - SECRET (Panel): progression
 Orange Tower First Floor - Salt Pepper Door: progression
@@ -113,7 +113,7 @@ Orange Tower First Floor - Shortcut to Hub Room: progression
 Orange Tower First Floor - Shortcuts: progression
 Orange Tower Fourth Floor - HOT CRUSTS (Panel): unknown
 Orange Tower Fourth Floor - Hot Crusts Door: progression
-Orange Tower Panels: unknown
+Orange Tower Panels: progression
 Orange Tower Third Floor - Red Barrier: progression
 Orange Tower Third Floor - Rhyme Room Entrance: progression
 Orange: progression
@@ -127,7 +127,7 @@ Outside The Agreeable - Purple Barrier: progression
 Outside The Agreeable - RIGHT (Panel): unknown
 Outside The Agreeable - Tenacious Entrance: progression
 Outside The Bold - BEGIN (Panel): unknown
-Outside The Bold - UNOPEN (Panel): unknown
+Outside The Bold - UNOPEN (Panel): progression
 Outside The Initiated - Blue Barrier: progression
 Outside The Initiated - Eight Door: progression
 Outside The Initiated - OXEN (Panel): progression
@@ -200,7 +200,7 @@ The Artistic (Smiley) - Door to Panda: progression
 The Bearer - Backside Door: progression
 The Bearer - Entrance: progression
 The Bearer - FARTHER (Panel): progression
-The Bearer - MIDDLE (Panel): unknown
+The Bearer - MIDDLE (Panel): progression
 The Bearer - Shortcut to Tower: progression
 The Bold - Entrance: progression
 The Colorful - BEGIN (Panel): progression
@@ -220,7 +220,7 @@ The Colorful - Purple Door: progression
 The Colorful - Red Door: progression
 The Colorful - SPOON (Panel): unknown
 The Colorful - SUN (Panel): unknown
-The Colorful - WALLS (Panel): unknown
+The Colorful - WALLS (Panel): progression
 The Colorful - White Door: progression
 The Colorful - Yellow Door: progression
 The Discerning - Entrance: progression
@@ -233,7 +233,7 @@ The Initiated - Entrance: progression
 The Observant - Backside Door: progression
 The Observant - Backside Entrance Panels: unknown
 The Observant - Entrance: progression
-The Observant - SIX (Panel): unknown
+The Observant - SIX (Panel): progression
 The Observant - Stairs: progression
 The Perceptive - Entrance: progression
 The Perceptive - GAZE (Panel): progression

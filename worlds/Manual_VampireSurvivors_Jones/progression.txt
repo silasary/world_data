@@ -6,15 +6,16 @@ Academy Badge: unknown
 Alamaric Sniper: progression
 Albus: progression
 Alchemy Whip: unknown
+Alucard Spear: progression
 Alucart Sworb: progression
 Ameya Aisling: progression
 Antonio Belpaese: unknown
 Arca Ladonna: progression
 Ariana: unknown
-Armor: unknown
+Armor: progression
 Arrow of Goth: unknown
 Astral Stair: unknown
-Attractorb: unknown
+Attractorb: progression
 Aura Blast: useful
 Avatar Infernas: unknown
 Axe Armor: unknown
@@ -29,7 +30,7 @@ Bill Rizer: unknown
 Blade Crossbow: unknown
 Blue Crescent Moon Cornell: unknown
 Bone: unknown
-Bonnie Blair: unknown
+Bonnie Blair: progression
 Boss Rash: progression
 Bracelet: progression
 Bracer: unknown
@@ -38,17 +39,19 @@ Browny: unknown
 C-U-Laser: unknown
 Candelabrador: unknown
 Capella Magna: unknown
-Carlo Cart: unknown
+Carlo Cart: progression
+Carmilla: unknown
 Carrello: unknown
 Carrie Fernandez: progression
 Celestial Dusting: unknown
-Celia Fortner: unknown
+Celia Fortner: progression
 Chaos: unknown
 Charlotte & Jonathan: progression
+Charlotte Aulin: progression
 Cherry Bomb: unknown
 Christine Davain: progression
-Christopher Belmont: unknown
-Clear Debris: unknown
+Christopher Belmont: progression
+Clear Debris: progression
 Clock Lancet: progression
 Clover: unknown
 Colonel Bahamut: unknown
@@ -63,15 +66,15 @@ Dairy Plant: unknown
 Dark Rift: unknown
 Discus: unknown
 Diva No. 5: unknown
-Divano Thelma: unknown
+Divano Thelma: progression
 Diver Mines: unknown
 Dominus Anger: unknown
 Dominus Hatred: progression
-Dommario: unknown
+Dommario: progression
 Dragon Water Whip: unknown
 Dress Sword: unknown
 Duplicator: progression
-Eagle Gun: unknown
+Eagle Gun: progression
 Ebony Wings: unknown
 Eleanor Uziron: unknown
 Elizabeth Bartley: unknown
@@ -80,27 +83,33 @@ Emerald Rapture: unknown
 Empty Tome: unknown
 Endless Mode: unknown
 Endo Gears: useful
-Engineer Gino: unknown
+Engineer Gino: progression
+Eric Lecarde: unknown
 Eskizzibur: unknown
 Exdash Exiviiq: progression
 Familiar Forge: unknown
+Familiar: unknown
 Fire Wand: unknown
+Firearm: unknown
 Flamberge: unknown
 Flames of Misspell: progression
 Flash Arrow: unknown
 Formina Franklyn: progression
 Four Seasons: unknown
-Fulgur: unknown
+Frozenshade: unknown
+Fulgur: progression
 Gains Boros: unknown
 Gale Force: unknown
 Gallo Tower: unknown
-Garlic: unknown
+Garlic: progression
 Gatti Amari: progression
 Gaze of Gaea: unknown
 Gazebo: unknown
+Genevieve Gruyere: unknown
 Gennaro Belpaese: filler
 Ghost Lino: unknown
 Giovanna Grana: unknown
+Glaive: progression
 Glass Fandango: unknown
 Gold Ring: unknown
 Greatest Jubilee: unknown
@@ -115,11 +124,12 @@ Hats: unknown
 Hectic Highway: progression
 Hector: progression
 Hex: progression
+Hollow Heart: unknown
 Homing Miss: unknown
 Horse: unknown
-Hurry Mode: unknown
+Hurry Mode: progression
 Hydro Storm: unknown
-Hyper Mode: unknown
+Hyper Mode: progression
 I - Gemini: unknown
 I - Sapphire Mist: unknown
 II - Twilight Requiem: unknown
@@ -128,7 +138,7 @@ III - Tragic Princess: useful
 IV - Awake: unknown
 IX - Divine Bloodline: unknown
 Ice Fang: unknown
-Iguana Gallo Valletto: unknown
+Iguana Gallo Valletto: progression
 Il Molise: progression
 Imelda Belpaese: unknown
 Imposter Rina: progression
@@ -141,8 +151,10 @@ Javelin: unknown
 Je-Ne-Viv: unknown
 Jet Black Whip: unknown
 John Morris: progression
+Jonathan Morris: progression
 Julia Laforeze: progression
-Just Vent: unknown
+Just Vent: progression
+Juste Belmont: unknown
 Keremet Bubbles: unknown
 Keremet: progression
 Khukuri: unknown
@@ -157,12 +169,14 @@ Laborratory: unknown
 Lake Foscari: progression
 Lama Ladonna: unknown
 Lance Bean: unknown
+Laurel: unknown
 Leda: unknown
 Leon Belmont: unknown
 Lifesign Scan: unknown
 Lightning Ring: progression
-Limit Break Mode: unknown
+Limit Break Mode: progression
 Lisa Tepes: unknown
+Lita Caryx: progression
 Long Gun: progression
 Loretta & Stella Lecarde: progression
 Lucia Zero: unknown
@@ -177,7 +191,8 @@ Malevolent Door Spirit: unknown
 Marrabbio: progression
 Maruto Cuts: progression
 Mask of the Red Death: unknown
-Master Librarian: unknown
+Master Librarian: progression
+Maxim Kischine: unknown
 McCoy-Oni: unknown
 Megalo Dracula: unknown
 Megalo Elizabeth Bartley: unknown
@@ -185,13 +200,14 @@ Megalo Imposter Rina: unknown
 Megalo Syuuto Moonspell: unknown
 Menya Moonspell: unknown
 Metaglio Left: unknown
-Metaglio Right: unknown
+Metaglio Right: progression
 Metal Claw: unknown
 Miang Moonspell: unknown
 Minnah Mannarah: progression
 Mirage Robe: progression
 MissingNo: progression
 Moongolow: unknown
+Mortaccio: unknown
 Mt. Moonspell: unknown
 Myo Lift: progression
 Nathan Graves: unknown
@@ -211,17 +227,19 @@ Peppino: progression
 Peri Pendulum: unknown
 Phas3r: progression
 Phiera Der Tuphello: unknown
+Platinum Whip: progression
 Poe Ratcho: progression
 Polus Replica: progression
 Poppea Pecorina: unknown
 Porta Ladonna: unknown
-Powerup - Amount: unknown
+Powerup - Amount: useful
 Powerup - Area: unknown
 Powerup - Armor: unknown
 Powerup - Charm: unknown
 Powerup - Cooldown: unknown
 Powerup - Curse: unknown
 Powerup - Defang: unknown
+Powerup - Duration: unknown
 Powerup - Greed: useful
 Powerup - Growth: useful
 Powerup - Luck: unknown
@@ -236,32 +254,36 @@ Powerup - Speed: unknown
 Prism Lass: progression
 Probotector: unknown
 Pugnala Provola: unknown
-Pummarola: unknown
+Pummarola: progression
 Punch: unknown
 Quincy Morris: progression
 Raging Fire: progression
 Random Events: unknown
+Random: unknown
 Refectio: unknown
 Reinhardt Schneider: unknown
 Report!: unknown
 Rinaldo Gandolfi: progression
 Rose De Infernas: unknown
 Rottin' Ghoul: progression
-Runetracer: unknown
+Runetracer: progression
 Saber Machine Gun: unknown
 Sanguine Star: progression
 Santa Javelin: unknown
 Santa Ladonna: unknown
 Santa Water: unknown
+Sara Trantoul: unknown
 Science Rocks: unknown
 Scientist Mina: unknown
+Scorej-Oni: unknown
 Shadow Pinion: progression
 Shadow Servant: unknown
 Shaft: unknown
+Shanoa: unknown
 Shapeshifter Nino: unknown
 Sharp Tongue: unknown
 Sheena Etranzi: unknown
-Short Gun: unknown
+Short Gun: progression
 Shuriken: unknown
 Silver Revolver: unknown
 Silver Ring: progression
@@ -271,9 +293,10 @@ Sinestro Custos: progression
 Sir Ambrojoe: unknown
 Siugnas: unknown
 Skull O'Maniac: unknown
+Smith IV: unknown
 Song of Mana: progression
 Sonia Belmont: unknown
-Sonic Bloom: unknown
+Sonic Bloom: progression
 Sonic Dash: unknown
 Sonic Whip: unknown
 Soul Steal: useful
@@ -282,14 +305,18 @@ Space Dude: progression
 SpellStream: progression
 SpellStrike: unknown
 SpellString: progression
-Spellbinder: unknown
+Spellbinder: progression
 Spinach: unknown
 Splashers: unknown
+Spread Shot: unknown
 Stanley: unknown
+Star Flail: unknown
 Stone Mask: unknown
-Summon Night: unknown
+Summon Night: progression
 Summon Spirit Tornado: unknown
 Summon Spirit: useful
+Suor Clerici: progression
+Super Missile: unknown
 Svarog Statue: unknown
 Sword Brothers: unknown
 Sypha Belnades: progression
@@ -304,9 +331,10 @@ Town Sword: unknown
 Trevor Belmont: unknown
 Trident: unknown
 Troll Bomb: unknown
-Tsunanori Mido: unknown
+Tsunanori Mido: progression
 Twin Dragon: unknown
 Tyrfing: unknown
+Umbra: unknown
 V - Chaos in the Dark Night: unknown
 VI - Moonlight Bolero: unknown
 VI - Sarabande of Healing: unknown
@@ -316,6 +344,7 @@ Vanitas Whip: unknown
 Vento Sacro: unknown
 Vibhuti Whip: unknown
 Victory Sword: unknown
+Vlad Tepes Dracula: progression
 Walter Bernhardt: unknown
 Weapon Slot: unknown
 Whip: progression
@@ -338,4 +367,5 @@ XX - Silent Old Sanctuary: unknown
 XXI - Blood Astronomia: unknown
 XXI - Wandering Jet Black: unknown
 Yatta Cavallo: progression
+Yoko Belnades: unknown
 Zi'Assunta Belpaese: unknown
