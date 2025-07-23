@@ -1,98 +1,105 @@
 Automaton Card Draw: progression
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
+Automaton Shop Potion Slot: unknown
+Automaton Shop Relic Slot: unknown
 Automaton Unlock: progression
 Boss Relic: progression
 Card Draw: progression
+Champ Boss Relic: progression
+Champ Card Draw: unknown
+Champ Five Gold: unknown
 Champ Relic: progression
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
 Champ Unlock: progression
+Custom Character 1 15 Gold: useful
+Custom Character 1 30 Gold: unknown
+Custom Character 1 30 gold: progression
 Custom Character 1 Boss Gold: progression
 Custom Character 1 Boss Relic: progression
+Custom Character 1 Card Draw: progression
 Custom Character 1 Five Gold: filler
 Custom Character 1 Neutral Shop Card Slot: progression
 Custom Character 1 One Gold: filler
-Custom Character 1 Progressive Smith: progression
-Custom Character 1 Progressive Rest: progression
-Custom Character 1 Shop Card Slot: progression
-Custom Character 1 Relic: progression
-Custom Character 1 Card Draw: progression
-Custom Character 1 Rare Card Draw: progression
-Custom Character 1 15 Gold: useful
-Custom Character 1 30 gold: progression
-Custom Character 1 Shop Relic Slot: progression
-Custom Character 1 Shop Potion Slot: progression
-Custom Character 1 Unlock: progression
 Custom Character 1 Potion: useful
+Custom Character 1 Progressive Rest: progression
+Custom Character 1 Progressive Smith: progression
+Custom Character 1 Rare Card Draw: progression
+Custom Character 1 Relic: progression
+Custom Character 1 Shop Card Slot: progression
+Custom Character 1 Shop Potion Slot: progression
+Custom Character 1 Shop Relic Slot: progression
+Custom Character 1 Unlock: progression
+Custom Character 2 15 Gold: useful
+Custom Character 2 30 Gold: unknown
+Custom Character 2 30 gold: progression
 Custom Character 2 Boss Gold: progression
 Custom Character 2 Boss Relic: progression
+Custom Character 2 Card Draw: progression
 Custom Character 2 Five Gold: filler
 Custom Character 2 Neutral Shop Card Slot: progression
 Custom Character 2 One Gold: filler
-Custom Character 2 Progressive Smith: progression
-Custom Character 2 Progressive Rest: progression
-Custom Character 2 Shop Card Slot: progression
-Custom Character 2 Relic: progression
-Custom Character 2 Card Draw: progression
-Custom Character 2 Rare Card Draw: progression
-Custom Character 2 15 Gold: useful
-Custom Character 2 30 gold: progression
-Custom Character 2 Shop Relic Slot: progression
-Custom Character 2 Shop Potion Slot: progression
-Custom Character 2 Unlock: progression
 Custom Character 2 Potion: useful
+Custom Character 2 Progressive Rest: progression
+Custom Character 2 Progressive Smith: progression
+Custom Character 2 Rare Card Draw: progression
+Custom Character 2 Relic: progression
+Custom Character 2 Shop Card Slot: progression
+Custom Character 2 Shop Potion Slot: progression
+Custom Character 2 Shop Relic Slot: progression
+Custom Character 2 Unlock: progression
+Custom Character 3 15 Gold: useful
+Custom Character 3 30 gold: progression
 Custom Character 3 Boss Gold: progression
 Custom Character 3 Boss Relic: progression
+Custom Character 3 Card Draw: progression
 Custom Character 3 Five Gold: filler
 Custom Character 3 Neutral Shop Card Slot: progression
 Custom Character 3 One Gold: filler
-Custom Character 3 Progressive Smith: progression
-Custom Character 3 Progressive Rest: progression
-Custom Character 3 Shop Card Slot: progression
-Custom Character 3 Relic: progression
-Custom Character 3 Card Draw: progression
-Custom Character 3 Rare Card Draw: progression
-Custom Character 3 15 Gold: useful
-Custom Character 3 30 gold: progression
-Custom Character 3 Shop Relic Slot: progression
-Custom Character 3 Shop Potion Slot: progression
-Custom Character 3 Unlock: progression
 Custom Character 3 Potion: useful
+Custom Character 3 Progressive Rest: progression
+Custom Character 3 Progressive Smith: progression
+Custom Character 3 Rare Card Draw: progression
+Custom Character 3 Relic: progression
+Custom Character 3 Shop Card Slot: progression
+Custom Character 3 Shop Potion Slot: progression
+Custom Character 3 Shop Relic Slot: progression
+Custom Character 3 Unlock: progression
+Custom Character 4 15 Gold: useful
+Custom Character 4 30 gold: progression
 Custom Character 4 Boss Gold: progression
 Custom Character 4 Boss Relic: progression
+Custom Character 4 Card Draw: progression
 Custom Character 4 Five Gold: filler
 Custom Character 4 Neutral Shop Card Slot: progression
 Custom Character 4 One Gold: filler
-Custom Character 4 Progressive Smith: progression
-Custom Character 4 Progressive Rest: progression
-Custom Character 4 Shop Card Slot: progression
-Custom Character 4 Relic: progression
-Custom Character 4 Card Draw: progression
-Custom Character 4 Rare Card Draw: progression
-Custom Character 4 15 Gold: useful
-Custom Character 4 30 gold: progression
-Custom Character 4 Shop Relic Slot: progression
-Custom Character 4 Shop Potion Slot: progression
-Custom Character 4 Unlock: progression
 Custom Character 4 Potion: useful
+Custom Character 4 Progressive Rest: progression
+Custom Character 4 Progressive Smith: progression
+Custom Character 4 Rare Card Draw: progression
+Custom Character 4 Relic: progression
+Custom Character 4 Shop Card Slot: progression
+Custom Character 4 Shop Potion Slot: progression
+Custom Character 4 Shop Relic Slot: progression
+Custom Character 4 Unlock: progression
+Custom Character 5 15 Gold: useful
+Custom Character 5 30 gold: progression
 Custom Character 5 Boss Gold: progression
 Custom Character 5 Boss Relic: progression
+Custom Character 5 Card Draw: progression
 Custom Character 5 Five Gold: filler
 Custom Character 5 Neutral Shop Card Slot: progression
 Custom Character 5 One Gold: filler
-Custom Character 5 Progressive Smith: progression
-Custom Character 5 Progressive Rest: progression
-Custom Character 5 Shop Card Slot: progression
-Custom Character 5 Relic: progression
-Custom Character 5 Card Draw: progression
-Custom Character 5 Rare Card Draw: progression
-Custom Character 5 15 Gold: useful
-Custom Character 5 30 gold: progression
-Custom Character 5 Shop Relic Slot: progression
-Custom Character 5 Shop Potion Slot: progression
-Custom Character 5 Unlock: progression
 Custom Character 5 Potion: useful
+Custom Character 5 Progressive Rest: progression
+Custom Character 5 Progressive Smith: progression
+Custom Character 5 Rare Card Draw: progression
+Custom Character 5 Relic: progression
+Custom Character 5 Shop Card Slot: progression
+Custom Character 5 Shop Potion Slot: progression
+Custom Character 5 Shop Relic Slot: progression
+Custom Character 5 Unlock: progression
 Defect 15 Gold: filler
 Defect 30 Gold: progression
 Defect Boss Gold: useful
@@ -103,6 +110,7 @@ Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
 Defect Potion: useful
 Defect Progressive Rest: progression
+Defect Progressive Shop Remove: unknown
 Defect Progressive Smith: progression
 Defect Rare Card Draw: progression
 Defect Relic: progression
@@ -110,8 +118,10 @@ Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
+Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
+Guardian One Gold: unknown
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
@@ -131,6 +141,7 @@ Hermit Shop Relic Slot: progression
 Hermit Unlock: progression
 Hexaghost Card Draw: progression
 Hexaghost Five Gold: filler
+Hexaghost One Gold: unknown
 Hexaghost Relic: progression
 Hexaghost Shop Potion Slot: progression
 Ironclad 15 Gold: filler
@@ -143,6 +154,7 @@ Ironclad Neutral Shop Card Slot: progression
 Ironclad One Gold: filler
 Ironclad Potion: useful
 Ironclad Progressive Rest: progression
+Ironclad Progressive Shop Remove: unknown
 Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: progression
 Ironclad Relic: progression
