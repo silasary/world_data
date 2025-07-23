@@ -68,6 +68,7 @@ Equipment - Undead Ring: unknown
 Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: unknown
+Item - Ancient Reservoir Pass: unknown
 Item - Ancient Tablet A: unknown
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
@@ -122,6 +123,7 @@ Item - Draft Shaft Conduit Map: unknown
 Item - Draft Shaft Conduit Pass: unknown
 Item - East Wing Key: unknown
 Item - Eastern Chasm Map: unknown
+Item - Eastern Chasm Pass: unknown
 Item - Elevator Part: unknown
 Item - Ether Pouch: unknown
 Item - Ether: unknown
@@ -158,6 +160,7 @@ Item - Ice Cell Key: progression
 Item - Ice Puzzle Key Ring: unknown
 Item - Ice Puzzle Key: progression
 Item - Jade Cavern Map: unknown
+Item - Jade Cavern Pass: unknown
 Item - Jidamba Eaclaneya Map: unknown
 Item - Jidamba Eaclaneya Pass: unknown
 Item - Jidamba Key Ring: unknown
@@ -169,6 +172,7 @@ Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
 Item - Lake Delende Pass: progression
 Item - Land's End Map: unknown
+Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
 Item - Lost Penguin: unknown
 Item - Luxury Key: unknown
@@ -278,6 +282,7 @@ Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: unknown
 Item - The Deep Sea Pass: unknown
 Item - The Depths Map: unknown
+Item - The Depths Pass: unknown
 Item - The New World Map: unknown
 Item - The Old World Map: unknown
 Item - The Old World Pass: unknown

@@ -1,8 +1,8 @@
 Acceleration Boost for Bullet Blaster: unknown
-Acceleration Boost for Goo-Goo Buggy: unknown
-Acceleration Boost for Green Fire: unknown
+Acceleration Boost for Goo-Goo Buggy: progression
+Acceleration Boost for Green Fire: progression
 Acceleration Boost for Koopa Dasher: unknown
-Acceleration Boost for Koopa King: unknown
+Acceleration Boost for Koopa King: progression
 Acceleration Boost for Para-Wing: unknown
 Acceleration Boost for Parade Kart: unknown
 Acceleration Boost for Rattle Buggy: unknown
@@ -48,11 +48,11 @@ Bowser's Shell for Diddy Kong: unknown
 Bowser's Shell for Donkey Kong: unknown
 Bowser's Shell for Everybody: progression
 Bowser's Shell for King Boo: unknown
-Bowser's Shell for Mario: unknown
+Bowser's Shell for Mario: progression
 Bowser's Shell for Peach: progression
 Bowser's Shell for Petey Piranha: unknown
 Bowser's Shell for Toadette: useful
-Bowser's Shell for Waluigi: unknown
+Bowser's Shell for Waluigi: progression
 Bowser's Shell for Yoshi: useful
 Bowser: progression
 Bullet Blaster: progression
@@ -81,13 +81,13 @@ Extra Weight for Goo-Goo Buggy: unknown
 Extra Weight for Green Fire: unknown
 Extra Weight for Koopa King: unknown
 Extra Weight for Para-Wing: unknown
-Extra Weight for Piranha Pipes: unknown
-Extra Weight for Toad Kart: unknown
+Extra Weight for Piranha Pipes: progression
+Extra Weight for Toad Kart: progression
 Extra Weight for Toadette Kart: progression
 Extra Weight for Turbo Yoshi: unknown
 Fake Item for Bowser: unknown
 Fake Item for Daisy: useful
-Fake Item for Diddy Kong: unknown
+Fake Item for Diddy Kong: filler
 Fake Item for Donkey Kong: unknown
 Fake Item for Everybody: unknown
 Fake Item for King Boo: useful
@@ -107,7 +107,7 @@ Fireball for Wario: unknown
 Fireballs for Baby Mario: unknown
 Fireballs for Birdo: unknown
 Fireballs for Bowser: unknown
-Fireballs for Daisy: unknown
+Fireballs for Daisy: progression
 Fireballs for Diddy Kong: useful
 Fireballs for Everybody: unknown
 Fireballs for King Boo: progression
@@ -142,7 +142,7 @@ Green Shell for Bowser Jr.: unknown
 Green Shell for Bowser: progression
 Green Shell for Daisy: progression
 Green Shell for Diddy Kong: unknown
-Green Shell for Donkey Kong: unknown
+Green Shell for Donkey Kong: useful
 Green Shell for Everybody: unknown
 Green Shell for Koopa: progression
 Green Shell for Luigi: progression
@@ -158,7 +158,7 @@ Heart for Baby Luigi: unknown
 Heart for Bowser: unknown
 Heart for Daisy: unknown
 Heart for King Boo: unknown
-Heart for Koopa: unknown
+Heart for Koopa: progression
 Heart for Luigi: useful
 Heart for Mario: unknown
 Heart for Peach: useful
@@ -217,21 +217,21 @@ Off-road Tires for Green Fire: progression
 Off-road Tires for Parade Kart: unknown
 Off-road Tires for Piranha Pipes: unknown
 Off-road Tires for Rattle Buggy: unknown
-Off-road Tires for Red Fire: unknown
-Off-road Tires for Turbo Yoshi: unknown
+Off-road Tires for Red Fire: progression
+Off-road Tires for Turbo Yoshi: progression
 Para-Wing: progression
-Parade Kart: unknown
+Parade Kart: progression
 Paratroopa: progression
 Peach Beach Time Trial: progression
 Peach: unknown
 Petey Piranha: progression
 Piranha Pipes: progression
 Power Steering for Barrel Train: unknown
-Power Steering for Bloom Coach: unknown
+Power Steering for Bloom Coach: progression
 Power Steering for DK Jumbo: unknown
 Power Steering for Goo-Goo Buggy: unknown
 Power Steering for Koopa Dasher: unknown
-Power Steering for Parade Kart: unknown
+Power Steering for Parade Kart: progression
 Power Steering for Piranha Pipes: progression
 Power Steering for Toadette Kart: unknown
 Power Steering for Turbo Birdo: progression
@@ -240,16 +240,16 @@ Power Steering for Wario Car: progression
 Progressive CC: unknown
 Progressive Class: unknown
 Progressive Cup Skip: unknown
-Progressive Engine Upgrade: unknown
+Progressive Engine Upgrade: progression
 Progressive GP Race Skip: unknown
 Progressive Speed Upgrade: progression
 Rainbow Road Time Trial: unknown
-Rattle Buggy: unknown
+Rattle Buggy: progression
 Red Fire: progression
 Red Shell for Baby Luigi: unknown
 Red Shell for Baby Mario: useful
 Red Shell for Birdo: useful
-Red Shell for Daisy: unknown
+Red Shell for Daisy: progression
 Red Shell for Diddy Kong: unknown
 Red Shell for Everybody: progression
 Red Shell for Koopa: unknown
@@ -262,8 +262,8 @@ Special Cup: progression
 Spiny Shell for Baby Mario: useful
 Spiny Shell for Birdo: unknown
 Spiny Shell for Bowser Jr.: useful
-Spiny Shell for Bowser: unknown
-Spiny Shell for Daisy: unknown
+Spiny Shell for Bowser: progression
+Spiny Shell for Daisy: progression
 Spiny Shell for Donkey Kong: unknown
 Spiny Shell for Everybody: unknown
 Spiny Shell for King Boo: unknown
@@ -317,7 +317,7 @@ Triple Red Shells for Everybody: unknown
 Triple Red Shells for Luigi: unknown
 Triple Red Shells for Mario: unknown
 Triple Red Shells for Toad: unknown
-Triple Red Shells for Wario: unknown
+Triple Red Shells for Wario: progression
 Triple Red Shells for Yoshi: unknown
 Trophy: mcguffin
 Turbo Birdo: progression
