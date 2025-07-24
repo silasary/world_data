@@ -125,6 +125,7 @@ Crystal (Mechanism - Lower): unknown
 Crystal (Mechanism - Slimes): unknown
 Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
+Crystal (Ruins of Ash - Baby Gorgon): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
 Crystal (Ruins of Ash - Branch Right): unknown
 Crystal (Ruins of Ash - Ladder Left): unknown
@@ -394,9 +395,11 @@ Switch (Ruins of Ash - Blood Pot Left): unknown
 Switch (Ruins of Ash - Blood Pot Right): unknown
 Switch (Ruins of Ash - Blood Pot): unknown
 Switch (Ruins of Ash - Boss Access): unknown
+Switch (Ruins of Ash - Elevator): unknown
 Switch (Ruins of Ash - Icarus): unknown
 Switch (Ruins of Ash - Shaft Downwards): unknown
 Switch (Ruins of Ash - Spiders): unknown
+Switch (Serpent Path - After Star): unknown
 Switch (Serpent Path - Double Doors): unknown
 Switch (Tower Roots - Adorned Middle): unknown
 Switch (Tower Roots - Elevator): unknown
