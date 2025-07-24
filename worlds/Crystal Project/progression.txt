@@ -103,6 +103,7 @@ Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
 Item - Cobblestone Crag Pass: unknown
 Item - Continental Tram Map: unknown
+Item - Continental Tram Pass: unknown
 Item - Courtyard Key: unknown
 Item - Crag Demon Horn: unknown
 Item - Dark Wing Key: unknown
@@ -195,6 +196,7 @@ Item - Northern Stretch Map: unknown
 Item - Nuts Sack: unknown
 Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
+Item - Okimoto N.S. Pass: unknown
 Item - Old World Stone: unknown
 Item - Overpass Map: unknown
 Item - Owl Drum: unknown
@@ -310,6 +312,7 @@ Item - Viridian Book: unknown
 Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
 Item - Yamagawa M.A. Map: unknown
+Item - Yamagawa M.A. Pass: unknown
 Item - Z-Potion Pouch: unknown
 Item - Z-Potion: filler
 Item - Zether Pouch: unknown
