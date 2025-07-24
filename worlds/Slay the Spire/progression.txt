@@ -2,6 +2,7 @@ Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Five Gold: filler
 Automaton One Gold: filler
+Automaton Rare Card Draw: unknown
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
 Automaton Shop Potion Slot: unknown
@@ -146,6 +147,7 @@ Hermit Shop Card Slot: progression
 Hermit Shop Potion Slot: progression
 Hermit Shop Relic Slot: progression
 Hermit Unlock: progression
+Hexaghost Boss Relic: unknown
 Hexaghost Card Draw: progression
 Hexaghost Five Gold: filler
 Hexaghost One Gold: unknown
