@@ -127,7 +127,7 @@ Defect Unlock: progression
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
-Guardian One Gold: unknown
+Guardian One Gold: filler
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
@@ -156,6 +156,7 @@ Hexaghost Rare Card Draw: progression
 Hexaghost Relic: progression
 Hexaghost Shop Potion Slot: progression
 Hexaghost Shop Relic Slot: progression
+Hexaghost Unlock: progression
 Ironclad 15 Gold: filler
 Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
