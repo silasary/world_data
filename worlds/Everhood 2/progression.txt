@@ -4,7 +4,7 @@
 150xp: filler
 15xp: filler
 192xp: unknown
-200xp: unknown
+200xp: filler
 20xp: filler
 250xp: filler
 25xp: filler
@@ -35,3 +35,4 @@ Progressive Marzian Key: progression
 Red Bandana Cosmetic: progression
 Reindeer Skull Cosmetic: filler
 Stylish Hairstyle Cosmetic: filler
+Wild Hairstyle Cosmetic: unknown
