@@ -126,6 +126,7 @@ Crystal (Mechanism - Lower): unknown
 Crystal (Mechanism - Slimes): unknown
 Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
+Crystal (Mechanism - Triple 2): unknown
 Crystal (Ruins of Ash - Baby Gorgon): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
 Crystal (Ruins of Ash - Branch Right): unknown
@@ -380,6 +381,7 @@ Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
 Switch (Hall of the Phantoms - Above Old Man): unknown
 Switch (Hall of the Phantoms - Below Start): unknown
+Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
@@ -393,6 +395,7 @@ Switch (Mechanism - Maze Backdoor): unknown
 Switch (Mechanism - Pots): unknown
 Switch (Mechanism - Snake 2): unknown
 Switch (Mechanism - To Boss 2): unknown
+Switch (Mechanism - to Upper GT): unknown
 Switch (Ruins of Ash - After Worms): unknown
 Switch (Ruins of Ash - Apex Access): unknown
 Switch (Ruins of Ash - Blood Pot Left): unknown
