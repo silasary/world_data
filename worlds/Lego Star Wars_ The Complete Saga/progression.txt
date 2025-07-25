@@ -1,5 +1,5 @@
 2 Minikits: mcguffin
-All Episodes Token: unknown
+All Episodes Token: progression
 Anakin Skywalker (Ghost): unknown
 Anakin Skywalker (Jedi): progression
 Anakin Skywalker (Padawan): progression
@@ -31,6 +31,8 @@ Episode 4 Unlock: progression
 Episode 5 Unlock: unknown
 Episode 6 Unlock: progression
 Fast Build: unknown
+Force Pull: progression
+Gonk Droid: progression
 Grand Moff Tarkin: unknown
 Grievous' Bodyguard: unknown
 Han Solo (Endor): progression
@@ -65,6 +67,7 @@ Princess Leia: progression
 Progressive Score Multiplier: useful
 Purple Stud: filler
 R2-D2: progression
+R2-Q5: progression
 R4-P17: progression
 Rebel Friend: progression
 Rebel Trooper: unknown
@@ -74,7 +77,8 @@ Sebulba's Pod: progression
 Self Destruct: unknown
 Snowtrooper: unknown
 Stormtrooper: progression
-Super Astromech: unknown
+Super Astromech: progression
+Super Battle Droid: progression
 Super Ewok Catapult: progression
 Super Jedi Slam: unknown
 Super Thermal Detonator: unknown
