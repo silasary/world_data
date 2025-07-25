@@ -1,5 +1,5 @@
 100 G: filler
-1000 G: unknown
+1000 G: filler
 1200 G: unknown
 150 G: filler
 1500 G: filler
@@ -103,7 +103,7 @@
 3x Monster Bell: unknown
 3x Pear: unknown
 3x Phoenix Serum: unknown
-3x Phoenix Tear: unknown
+3x Phoenix Tear: filler
 3x Potato: filler
 3x Potion: filler
 3x Red Gem: filler
