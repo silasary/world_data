@@ -142,6 +142,7 @@ Death Point: filler
 Face (Catacombs - x4): unknown
 Face (Cathedral - Right): unknown
 Face (Caves - 1st Room): unknown
+Face (Mechanism - Volantis): unknown
 GT 2 Elevator: progression
 GT Blue Door (Ascendant Key): progression
 GT Blue Door (Bestiary): useful
@@ -382,6 +383,7 @@ Switch (Hall of the Phantoms - Below Start): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
+Switch (Hall of the Phantoms - Worm Pillar): unknown
 Switch (Mechanism - Boss 1): unknown
 Switch (Mechanism - Boss 2): unknown
 Switch (Mechanism - Chains Gap): unknown
