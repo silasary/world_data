@@ -95,7 +95,7 @@
 3x Gold: filler
 3x Grapes: unknown
 3x Green Gem: unknown
-3x Hazelnut: unknown
+3x Hazelnut: filler
 3x Iron: unknown
 3x Leather: unknown
 3x Level Badge: unknown
@@ -134,7 +134,7 @@
 4x Level Badge: unknown
 4x Wool: unknown
 500 G: filler
-5000 G: unknown
+5000 G: filler
 5x Level Badge: unknown
 600 G: filler
 700 G: filler
@@ -1126,7 +1126,7 @@ Static Loop+4: unknown
 Static Loop+5: unknown
 Static Loop: useful
 Steam Golem Egg: unknown
-Steel: unknown
+Steel: filler
 Stolby Egg: unknown
 Stolby's Spellbook: unknown
 Strange Spores: unknown
