@@ -4,6 +4,7 @@ Anakin Skywalker (Ghost): unknown
 Anakin Skywalker (Jedi): progression
 Anakin Skywalker (Padawan): progression
 Anakin's Pod: progression
+Anakin's Speeder: unknown
 Anakin's Starfighter: unknown
 Battle Droid (Geonosis): progression
 Battle Droid (Security): progression
@@ -19,16 +20,16 @@ Chancellor Palpatine: progression
 Character Studs: unknown
 Chewbacca: progression
 Clone (Episode 3): progression
-Clone (Episode 3, Pilot): unknown
+Clone (Episode 3, Pilot): useful
 Clone (Episode 3, Swamp): progression
 Darth Maul: unknown
 Darth Vader: progression
 Disguised Clone: useful
 Droid Trifighter: unknown
 Episode 2 Unlock: progression
-Episode 3 Unlock: unknown
+Episode 3 Unlock: progression
 Episode 4 Unlock: progression
-Episode 5 Unlock: unknown
+Episode 5 Unlock: progression
 Episode 6 Unlock: progression
 Fast Build: unknown
 Force Pull: progression
@@ -44,12 +45,12 @@ Imperial Spy: unknown
 Jar Jar Binks: progression
 Kit Fisto: progression
 Lando Calrissian (Palace Guard): progression
-Lando Calrissian: unknown
+Lando Calrissian: progression
 Luke Skywalker (Bespin): progression
 Luke Skywalker (Dagobah): progression
-Luke Skywalker (Hoth): unknown
+Luke Skywalker (Hoth): useful
 Luke Skywalker (Jedi): progression
-Luke Skywalker (Pilot): unknown
+Luke Skywalker (Pilot): progression
 Luke Skywalker (Stormtrooper): unknown
 Mace Windu: progression
 Millennium Falcon: progression
@@ -60,7 +61,8 @@ Obi-Wan Kenobi (Episode 3): progression
 Obi-Wan Kenobi (Jedi Master): progression
 Padmé (Battle): progression
 Padmé (Clawed): unknown
-Padmé (Geonosis): unknown
+Padmé (Geonosis): progression
+Palace Guard: unknown
 Power Brick Detector: progression
 Princess Leia (Endor): progression
 Princess Leia (Slave): progression
@@ -92,4 +94,4 @@ Watto: unknown
 Wookiee: useful
 X-Wing: unknown
 Y-Wing: progression
-Yoda: unknown
+Yoda: progression
