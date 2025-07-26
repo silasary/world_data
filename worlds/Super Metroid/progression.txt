@@ -1,24 +1,24 @@
 Bomb: progression
 Charge Beam: progression
-Energy Tank: progression
+Energy Tank: mcguffin
 Generic: filler
 Grappling Beam: progression
 Gravity Suit: progression
 Hi-Jump Boots: progression
 Ice Beam: progression
-Missile: progression
+Missile: mcguffin
 Morph Ball: progression
 No Energy: filler
 Nothing: filler
 Plasma Beam: progression
-Power Bomb: progression
-Reserve Tank: progression
+Power Bomb: mcguffin
+Reserve Tank: mcguffin
 Screw Attack: progression
 Space Jump: progression
 Spazer: progression
 Speed Booster: progression
 Spring Ball: progression
-Super Missile: progression
+Super Missile: mcguffin
 Varia Suit: progression
 Wave Beam: progression
 X-Ray Scope: progression
