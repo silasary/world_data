@@ -7,9 +7,10 @@ Anakin Skywalker (Padawan): progression
 Anakin's Pod: progression
 Anakin's Speeder: unknown
 Anakin's Starfighter: unknown
+Battle Droid (Commander): unknown
 Battle Droid (Geonosis): progression
 Battle Droid (Security): progression
-Beach Trooper: unknown
+Beach Trooper: useful
 Bespin Guard: useful
 Boba Fett (Boy): progression
 Boss Nass: progression
@@ -17,6 +18,7 @@ Bossk: useful
 Bounty Hunter Rockets: filler
 C-3PO: progression
 Captain Antilles: unknown
+Captain Panaka: unknown
 Captain Tarpals: useful
 Chancellor Palpatine: progression
 Character Studs: unknown
@@ -34,9 +36,9 @@ Episode 4 Unlock: progression
 Episode 5 Unlock: progression
 Episode 6 Unlock: progression
 Fast Build: unknown
-Fast Force: unknown
+Fast Force: useful
 Force Pull: progression
-General Grievous: unknown
+General Grievous: useful
 Gonk Droid: progression
 Grand Moff Tarkin: unknown
 Grievous' Bodyguard: unknown
@@ -47,11 +49,12 @@ Imperial Shuttle Pilot: unknown
 Imperial Shuttle: progression
 Imperial Spy: unknown
 Jar Jar Binks: progression
-Jawa: unknown
+Jawa: useful
 Ki-Adi Mundi: progression
 Kit Fisto: progression
 Lando Calrissian (Palace Guard): progression
 Lando Calrissian: progression
+Lobot: unknown
 Luke Skywalker (Bespin): progression
 Luke Skywalker (Dagobah): progression
 Luke Skywalker (Hoth): useful
@@ -62,10 +65,10 @@ Mace Windu: progression
 Millennium Falcon: progression
 Minikit Detector: progression
 Minikit: mcguffin
-Naboo Starfighter: unknown
+Naboo Starfighter: useful
 Obi-Wan Kenobi (Episode 3): progression
 Obi-Wan Kenobi (Jedi Master): progression
-Obi-Wan Kenobi: unknown
+Obi-Wan Kenobi: progression
 Padmé (Battle): progression
 Padmé (Clawed): unknown
 Padmé (Geonosis): progression
@@ -73,16 +76,17 @@ Palace Guard: unknown
 Plo Koon: unknown
 Power Brick Detector: progression
 Princess Leia (Endor): progression
+Princess Leia (Hoth): unknown
 Princess Leia (Slave): progression
 Princess Leia: progression
 Progressive Score Multiplier: useful
 Purple Stud: filler
-Queen Amidala: unknown
+Queen Amidala: progression
 R2-D2: progression
 R2-Q5: progression
 R4-P17: progression
 Rebel Friend: progression
-Rebel Pilot: unknown
+Rebel Pilot: useful
 Rebel Trooper: unknown
 Republic Gunship: progression
 Royal Guard: unknown
@@ -90,7 +94,7 @@ Sandtrooper: unknown
 Sebulba's Pod: progression
 Self Destruct: unknown
 Snowspeeder: progression
-Snowtrooper: unknown
+Snowtrooper: useful
 Stormtrooper: progression
 Super Astromech: progression
 Super Battle Droid: progression
@@ -106,3 +110,4 @@ Wookiee: useful
 X-Wing: unknown
 Y-Wing: progression
 Yoda: progression
+Zam Wesell: unknown
