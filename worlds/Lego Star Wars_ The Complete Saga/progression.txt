@@ -3,8 +3,8 @@
 5 Minikits: progression
 Aayla Secura: unknown
 All Episodes Token: progression
-Anakin Skywalker (Boy): unknown
-Anakin Skywalker (Ghost): unknown
+Anakin Skywalker (Boy): progression
+Anakin Skywalker (Ghost): progression
 Anakin Skywalker (Jedi): progression
 Anakin Skywalker (Padawan): progression
 Anakin's Pod: progression
@@ -42,6 +42,7 @@ Deflect Bolts: unknown
 Dengar: progression
 Disguised Clone: useful
 Droid Trifighter: progression
+Droideka: progression
 Episode 2 Unlock: progression
 Episode 3 Unlock: progression
 Episode 4 Unlock: progression
@@ -70,6 +71,7 @@ Imperial Shuttle Pilot: useful
 Imperial Shuttle: progression
 Imperial Spy: unknown
 Infinite Torpedos: useful
+Invincibility: useful
 Jar Jar Binks: progression
 Jawa: useful
 Ki-Adi Mundi: progression
@@ -101,13 +103,14 @@ Padmé (Geonosis): progression
 Padmé: unknown
 Palace Guard: progression
 Perfect Deflect: useful
-Pit Droid: unknown
+Pit Droid: progression
 Plo Koon: unknown
 Poo Money: filler
 Power Brick Detector: progression
 Princess Leia (Boushh): progression
 Princess Leia (Endor): progression
 Princess Leia (Hoth): progression
+Princess Leia (Prisoner): progression
 Princess Leia (Slave): progression
 Princess Leia: progression
 Progressive Score Multiplier: useful
@@ -136,7 +139,7 @@ Super Astromech: progression
 Super Battle Droid: progression
 Super Blasters: useful
 Super Ewok Catapult: progression
-Super Jedi Slam: unknown
+Super Jedi Slam: useful
 Super Lightsabers: useful
 Super Thermal Detonator: unknown
 TC-14: progression
@@ -144,6 +147,7 @@ TIE Bomber: unknown
 TIE Fighter (Darth Vader): useful
 TIE Interceptor: useful
 Tusken Raider: progression
+Ugnaught: progression
 Vehicle Smart Bomb: unknown
 Walkie Talkie Disable: filler
 Watto: unknown
