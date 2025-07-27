@@ -1,6 +1,7 @@
 Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Five Gold: filler
+Automaton Neutral Shop Card Slot: unknown
 Automaton One Gold: filler
 Automaton Rare Card Draw: unknown
 Automaton Relic: progression
@@ -13,9 +14,11 @@ Card Draw: progression
 Champ Boss Relic: progression
 Champ Card Draw: filler
 Champ Five Gold: filler
+Champ Neutral Shop Card Slot: unknown
 Champ One Gold: filler
 Champ Rare Card Draw: progression
 Champ Relic: progression
+Champ Shop Card Slot: unknown
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
 Champ Unlock: progression
@@ -127,12 +130,14 @@ Defect Unlock: progression
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
+Guardian Neutral Shop Card Slot: unknown
 Guardian One Gold: filler
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
 Guardian Shop Potion Slot: unknown
 Guardian Shop Relic Slot: unknown
+Guardian Unlock: unknown
 Hermit 15 Gold: filler
 Hermit 30 Gold: progression
 Hermit Boss Gold: progression
@@ -154,6 +159,7 @@ Hexaghost Neutral Shop Card Slot: unknown
 Hexaghost One Gold: unknown
 Hexaghost Rare Card Draw: progression
 Hexaghost Relic: progression
+Hexaghost Shop Card Slot: unknown
 Hexaghost Shop Potion Slot: progression
 Hexaghost Shop Relic Slot: progression
 Hexaghost Unlock: progression
@@ -174,6 +180,7 @@ Ironclad Relic: progression
 Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: progression
 Ironclad Shop Relic Slot: progression
+Ironclad Unlock: unknown
 Rare Card Draw: progression
 Relic: progression
 Silent 15 Gold: filler
