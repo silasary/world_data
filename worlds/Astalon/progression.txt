@@ -118,6 +118,7 @@ Cloak of Levitation: progression
 Crystal (Catacombs - Poison Roots): unknown
 Crystal (Cathedral - Orbs): unknown
 Crystal (Cathedral - Top Right): unknown
+Crystal (Cyclops Den - Start): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
 Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Hall of the Phantoms - Below Puzzle): unknown
@@ -386,9 +387,12 @@ Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
+Switch (Hall of the Phantoms - To Claw 1): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
+Switch (Mechanism - Block Stairs): unknown
 Switch (Mechanism - Boss 1): unknown
 Switch (Mechanism - Boss 2): unknown
+Switch (Mechanism - Cannon): unknown
 Switch (Mechanism - Chains Gap): unknown
 Switch (Mechanism - Eyeball): unknown
 Switch (Mechanism - Key Blocks): unknown
