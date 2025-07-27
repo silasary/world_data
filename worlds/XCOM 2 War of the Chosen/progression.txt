@@ -6,7 +6,7 @@
 [Resource] 10 Alien Alloys: filler
 [Resource] 10 Elerium Crystals: useful
 [Resource] 10 Intel: useful
-[Resource] 15 Alien Alloys: unknown
+[Resource] 15 Alien Alloys: useful
 [Resource] 15 Elerium Crystals: filler
 [Resource] 15 Intel: useful
 [Resource] 20 Intel: unknown
