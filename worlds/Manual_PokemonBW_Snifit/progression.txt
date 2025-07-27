@@ -25,6 +25,7 @@ HM03 Surf: progression
 HM04 Strength: progression
 Heal Ball: unknown
 Hyper Potion: filler
+Ice Heal: filler
 Icy Rock: filler
 Insect Badge: progression
 Jet Badge: progression
@@ -60,6 +61,7 @@ TM32: useful
 TM34: useful
 TM35: useful
 TM36: useful
+TM40: useful
 TM41: useful
 TM45: useful
 TM47: useful
