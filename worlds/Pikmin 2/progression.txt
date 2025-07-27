@@ -1,7 +1,7 @@
-Amplified Amplifier: unknown
+Amplified Amplifier: progression
 Anti-hiccup Fungus: unknown
-Aquatic Mine: unknown
-Arboreal Frippery: unknown
+Aquatic Mine: useful
+Arboreal Frippery: useful
 Behemoth Jaw: unknown
 Boom Cone: unknown
 Boss Stone: unknown
@@ -11,22 +11,22 @@ Child of the Earth: unknown
 Citrus Lump: unknown
 Colossal Fossil: mcguffin
 Combustion Berry: unknown
-Comfort Cookie: unknown
+Comfort Cookie: useful
 Compelling Cookie: unknown
 Confection Hoop: unknown
 Conifer Spire: unknown
-Cosmic Archive: unknown
+Cosmic Archive: useful
 Creative Inspiration: unknown
-Crystal Clover: unknown
+Crystal Clover: useful
 Crystal King: unknown
 Crystallized Clairvoyance: unknown
 Crystallized Telekinesis: unknown
-Cupid's Grenade: unknown
+Cupid's Grenade: useful
 Danger Chime: unknown
-Decorative Goo: unknown
+Decorative Goo: useful
 Director of Destiny: unknown
 Disguised Delicacy: unknown
-Doomsday Apparatus: unknown
+Doomsday Apparatus: useful
 Dream Architect: unknown
 Dream Material: unknown
 Drone Supplies: unknown
@@ -37,16 +37,16 @@ Essence of Despair: unknown
 Essential Furnishing: unknown
 Eternal Emerald Eye: unknown
 Extreme Perspirator: unknown
-Flame Tiller: unknown
+Flame Tiller: useful
 Flame of Tomorrow: unknown
 Fleeting Art Form: unknown
-Forged Courage: unknown
-Fortified Delicacy: unknown
+Forged Courage: progression
+Fortified Delicacy: useful
 Fossilized Ursidae: unknown
 Frosty Bauble: unknown
 Fruit Guard: mcguffin
 Fuel Reservoir: unknown
-Future Orb: unknown
+Future Orb: useful
 Gemstar Husband: unknown
 Gemstar Wife: unknown
 Geographic Projection: unknown
@@ -60,28 +60,28 @@ Impenetrable Cookie: unknown
 Imperative Cookie: unknown
 Implement of Toil: unknown
 Indomitable CPU: unknown
-Infernal Vegetable: unknown
+Infernal Vegetable: useful
 Insect Condo: unknown
 Invigorator: unknown
 Joy Receptacle: unknown
-Joyless Jewel: unknown
+Joyless Jewel: useful
 Justice Alloy: unknown
-Lip Service: unknown
+Lip Service: useful
 Love Nugget: unknown
 Love Sphere: unknown
-Luck Wafer: unknown
+Luck Wafer: useful
 Lustrous Element: unknown
 Manual Honer: unknown
 Massage Girdle: unknown
-Massive Lid: unknown
+Massive Lid: useful
 Master's Instrument: unknown
-Meat Satchel: unknown
-Meat of Champions: unknown
+Meat Satchel: useful
+Meat of Champions: useful
 Memorable Gyro Block: unknown
-Memorial Shell: unknown
+Memorial Shell: useful
 Mirrored Element: unknown
 Mirrored Stage: unknown
-Mysterious Remains: unknown
+Mysterious Remains: useful
 Mystical Disc: unknown
 Network Mainbrain: unknown
 Nouveau Table: unknown
@@ -89,8 +89,8 @@ Omega Flywheel: unknown
 Omniscient Sphere: unknown
 Pale Passion: unknown
 Paradoxical Enigma: unknown
-Patience Tester: unknown
-Petrified Heart: unknown
+Patience Tester: useful
+Petrified Heart: useful
 Pilgrim Bulb: unknown
 Pink Menace: unknown
 Pondering Emblem: unknown
@@ -111,7 +111,7 @@ Spouse Alert: unknown
 Stellar Orb: unknown
 Strife Monolith: unknown
 Stringent Container: unknown
-Stupendous Lens: unknown
+Stupendous Lens: useful
 Sunseed Berry: unknown
 Superstrong Stabilizer: unknown
 Survival Ointment: unknown
@@ -119,10 +119,10 @@ Sweet Dreamer: unknown
 Talisman of Life: unknown
 Taste Sensation: unknown
 The Key: filler
-Thirst Activator: unknown
+Thirst Activator: useful
 Toxic Toadstool: unknown
 Treasured Gyro Block: unknown
-Triple Sugar Threat: unknown
+Triple Sugar Threat: useful
 Unspeakable Wonder: unknown
 Utter Scrap: unknown
 Vacuum Processor: unknown
