@@ -1,7 +1,7 @@
 2 Minikits: mcguffin
 4-LOM: progression
 5 Minikits: progression
-Aayla Secura: unknown
+Aayla Secura: progression
 All Episodes Token: progression
 Anakin Skywalker (Boy): progression
 Anakin Skywalker (Ghost): progression
@@ -15,6 +15,7 @@ Battle Droid (Geonosis): progression
 Battle Droid (Security): progression
 Battle Droid: progression
 Beach Trooper: useful
+Ben Kenobi (Ghost): progression
 Ben Kenobi: unknown
 Bespin Guard: useful
 Bib Fortuna: unknown
@@ -35,11 +36,13 @@ Clone (Episode 3, Pilot): useful
 Clone (Episode 3, Swamp): progression
 Clone (Episode 3, Walker): progression
 Clone Arcfighter: progression
+Clone: progression
 Count Dooku: progression
-Darth Maul: unknown
+Darth Maul: progression
 Darth Vader: progression
-Deflect Bolts: unknown
+Deflect Bolts: useful
 Dengar: progression
+Dexter Jettster: progression
 Disguised Clone: useful
 Droid Trifighter: progression
 Droideka: progression
@@ -50,7 +53,7 @@ Episode 5 Unlock: progression
 Episode 6 Unlock: progression
 Ewok: progression
 Exploding Blaster Bolts: useful
-Fast Build: unknown
+Fast Build: useful
 Fast Force: useful
 Force Grapple Leap: useful
 Force Pull: progression
@@ -58,7 +61,7 @@ General Grievous: useful
 Geonosian: progression
 Gonk Droid: progression
 Grand Moff Tarkin: progression
-Grievous' Bodyguard: unknown
+Grievous' Bodyguard: progression
 Han Solo (Endor): progression
 Han Solo (Hoth): progression
 Han Solo (Skiff): progression
@@ -80,7 +83,7 @@ Kit Fisto: progression
 Lama Su: progression
 Lando Calrissian (Palace Guard): progression
 Lando Calrissian: progression
-Lobot: unknown
+Lobot: progression
 Luke Skywalker (Bespin): progression
 Luke Skywalker (Dagobah): progression
 Luke Skywalker (Hoth): useful
@@ -105,7 +108,7 @@ Padmé: unknown
 Palace Guard: progression
 Perfect Deflect: useful
 Pit Droid: progression
-Plo Koon: unknown
+Plo Koon: progression
 Poo Money: filler
 Power Brick Detector: progression
 Princess Leia (Bespin): progression
@@ -130,7 +133,7 @@ Republic Gunship: progression
 Royal Guard: progression
 Sandtrooper: progression
 Sebulba's Pod: progression
-Self Destruct: unknown
+Self Destruct: filler
 Shaak Ti: useful
 Skiff Guard: progression
 Snowspeeder: progression
@@ -141,17 +144,21 @@ Super Astromech: progression
 Super Battle Droid: progression
 Super Blasters: useful
 Super Ewok Catapult: progression
+Super Gonk: filler
 Super Jedi Slam: useful
 Super Lightsabers: useful
+Super Slap: useful
 Super Thermal Detonator: filler
 Super Zapper: progression
 TC-14: progression
 TIE Bomber: progression
 TIE Fighter (Darth Vader): useful
+TIE Fighter Pilot: progression
 TIE Interceptor: useful
+Taun We: progression
 Tusken Raider: progression
 Ugnaught: progression
-Vehicle Smart Bomb: unknown
+Vehicle Smart Bomb: useful
 Walkie Talkie Disable: filler
 Watto: progression
 Wookiee: useful
