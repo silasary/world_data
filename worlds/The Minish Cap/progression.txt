@@ -1,11 +1,12 @@
 1 Rupee: filler
 10 Arrow Refill: filler
 10 Bomb Refill: filler
-100 Rupees: useful
+100 Rupees: filler
 20 Rupees: filler
-200 Rupees: useful
+200 Rupees: filler
 30 Arrow Refill: filler
 30 Bomb Refill: filler
+30 Shells: progression
 5 Arrow Refill: filler
 5 Bomb Refill: filler
 5 Rupees: filler
@@ -21,28 +22,38 @@ Big Wallet: progression
 Blue Book (History of Masks): progression
 Bomb Bag: progression
 Bomb Trap: trap
+Bomb: progression
 Bottle (Blue Picolyte): progression
-Bottle (Blue Potion): unknown
+Bottle (Blue Potion): progression
 Bottle (Bottled Fairy): progression
-Bottle (Empty): useful
-Bottle (Green Picolyte): unknown
-Bottle (Lon Lon Milk (1/2)): unknown
+Bottle (Dins Charm): progression
+Bottle (Empty): progression
+Bottle (Farore Charm): progression
+Bottle (Green Picolyte): progression
+Bottle (Lon Lon Butter): progression
+Bottle (Lon Lon Milk (1/2)): progression
 Bottle (Lon Lon Milk): progression
-Bottle (Mineral Water): unknown
-Bottle (Nayru Charm): unknown
-Bottle (Orange Picolyte): unknown
+Bottle (Mineral Water): progression
+Bottle (Nayru Charm): progression
+Bottle (Orange Picolyte): progression
+Bottle (Red Picolyte): progression
 Bottle (Red Potion): progression
 Bottle (Water): progression
-Bottle (White Picolyte): unknown
-Bottle (Yellow Picolyte): unknown
+Bottle (White Picolyte): progression
+Bottle (Yellow Picolyte): progression
 Bottle 1: progression
 Bottle 2: progression
 Bottle 3: progression
 Bottle 4: progression
 Bow Butterfly: useful
+Brioche: filler
+Broken Kinstone (Report Me!): progression
+Broken Picori Blade: filler
 Burn Trap: trap
+Cake: filler
 Cane of Pacci: progression
 Carlov Medal: progression
+Croissant: filler
 Curse Trap: trap
 Dash Attack: progression
 Dig Butterfly: useful
@@ -61,9 +72,11 @@ Dungeon Map (FoW): useful
 Dungeon Map (PoW): useful
 Dungeon Map (ToD): useful
 Earth Element: progression
+Fairy Refill: filler
 Fast Spin Scroll: progression
 Fast Split Scroll: progression
 Fire Element: progression
+Fire Rod: progression
 Flippers: progression
 Freeze Trap: trap
 Graveyard Key: progression
@@ -73,11 +86,20 @@ Grip Ring: progression
 Gust Jar: progression
 Heart Container: mcguffin
 Heart Piece: mcguffin
+Hyrule Map: progression
 Jabber Nut: progression
+Kinstone Bag: progression
+Kinstone Blue 6: progression
+Kinstone Blue L: progression
 Kinstone Cloud Tops: mcguffin
 Kinstone Falls: progression
-Kinstone Swamp: progression
-Kinstone Swamps: mcguffin
+Kinstone Green <: progression
+Kinstone Green P: progression
+Kinstone Green [: progression
+Kinstone Red >: progression
+Kinstone Red E: progression
+Kinstone Red W: progression
+Kinstone Swamp: mcguffin
 Lantern: progression
 LikeLike Trap: trap
 LonLon Key: progression
@@ -86,13 +108,13 @@ Mole Mitts: progression
 Ocarina: progression
 Pegasus Boots: progression
 Peril Beam: progression
+Pie: filler
 Power Bracelets: progression
-Progressive Bomb: progression
 Progressive Boomerang: progression
 Progressive Bow: progression
 Progressive Shield: progression
 Progressive Sword: progression
-Quiver: progression
+Quiver: useful
 Recovery Heart: filler
 Red Book (Hyrulian Bestiary): progression
 Remote Bomb: useful
@@ -101,6 +123,7 @@ Rock Breaker: progression
 Roll Attack: progression
 Rope Trap: trap
 Rupee Trap: trap
+Shells: progression
 Small Key (CoF): progression
 Small Key (DHC): progression
 Small Key (DWS): progression
@@ -108,6 +131,7 @@ Small Key (FoW): progression
 Small Key (PoW): progression
 Small Key (RC): progression
 Small Key (ToD): progression
+Smith Sword (Quest): filler
 Spin Attack: progression
 Stink Trap: trap
 Swim Butterfly: useful
