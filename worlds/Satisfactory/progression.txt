@@ -470,7 +470,7 @@ Recipe: Iron Wire: progression
 Recipe: Jetpack: unknown
 Recipe: Leached Caterium Ingot: progression
 Recipe: Leached Copper Ingot: progression
-Recipe: Leached Iron ingot: unknown
+Recipe: Leached Iron ingot: progression
 Recipe: Liquid Biofuel: useful
 Recipe: Magnetic Field Generator: progression
 Recipe: Modular Engine: progression
