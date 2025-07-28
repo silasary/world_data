@@ -87,7 +87,7 @@ Bio: useful
 Black Belt: unknown
 Black Bolts: unknown
 Black Cowl: unknown
-Black Garb: unknown
+Black Garb: filler
 Black Mask: filler
 Black Orb: progression
 Black Robes: unknown
@@ -618,7 +618,7 @@ Prince's Kiss: filler
 Protect: useful
 Protectga: unknown
 Putrid Liquid: unknown
-Quality Hide: unknown
+Quality Hide: filler
 Quality Lumber: unknown
 Quality Pelt: unknown
 Quality Stone: unknown
@@ -878,7 +878,7 @@ Zeromus: progression
 Zeus Mace: unknown
 Zodiac Escutcheon: unknown
 Zodiac Spear: unknown
-Zodiark: unknown
+Zodiark: useful
 Zombie Powder: unknown
 Zwill Blade: unknown
 Zwill Crossblade: unknown
