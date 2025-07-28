@@ -78,6 +78,7 @@ Pipes: unknown
 Planks: trap
 Plantation: unknown
 Porridge: unknown
+Pottery: unknown
 Press: unknown
 Provisioner: unknown
 Purging Fire: unknown
@@ -109,4 +110,5 @@ Toolshop: unknown
 Trapper's Camp: unknown
 Waterskins: unknown
 Wildfire Essence: unknown
+Wine: unknown
 Workshop: unknown

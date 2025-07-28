@@ -1,3 +1,4 @@
+$WashCoin: unknown
 A Job Well Done: mcguffin
 Ancient Monument Unlock: progression
 Ancient Statue Unlock: progression
@@ -13,6 +14,8 @@ Detached House Unlock: progression
 Dirt Bike Unlock: progression
 Dirt: filler
 Drill Unlock: progression
+Dust Bnuy: unknown
+Dust Bunny: unknown
 Excavator Unlock: progression
 Ferris Wheel Unlock: progression
 Fire Helicopter Unlock: progression
@@ -43,9 +46,9 @@ Private Jet Unlock: progression
 Recreation Vehicle Unlock: progression
 Recreational Vehicle (Again) Unlock: progression
 SUV Unlock: progression
-Satellite Dish Unlock: unknown
+Satellite Dish Unlock: progression
 Satisfaction: filler
-Sculpture Park Unlock: unknown
+Sculpture Park Unlock: progression
 Shoe House Unlock: progression
 Skatepark Unlock: progression
 Spanish Villa Unlock: progression
@@ -55,6 +58,7 @@ Stunt Plane Unlock: progression
 Submarine Unlock: progression
 Subway Platform Unlock: progression
 Subway Train Unlock: unknown
+Suds: unknown
 Temple Unlock: progression
 Tree House Unlock: progression
 Van Unlock: progression
