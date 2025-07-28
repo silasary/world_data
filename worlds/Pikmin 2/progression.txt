@@ -4,14 +4,14 @@ Anti-hiccup Fungus: unknown
 Aquatic Mine: useful
 Arboreal Frippery: useful
 Behemoth Jaw: unknown
-Boom Cone: unknown
+Boom Cone: useful
 Boss Stone: useful
 Bug Bait: unknown
 Chance Totem: unknown
 Child of the Earth: unknown
 Citrus Lump: unknown
 Colossal Fossil: mcguffin
-Combustion Berry: unknown
+Combustion Berry: useful
 Comfort Cookie: useful
 Compelling Cookie: unknown
 Confection Hoop: unknown
@@ -30,7 +30,7 @@ Disguised Delicacy: unknown
 Doomsday Apparatus: useful
 Dream Architect: unknown
 Dream Material: unknown
-Drone Supplies: unknown
+Drone Supplies: useful
 Drought Ender: unknown
 Enamel Buster: unknown
 Endless Repository: unknown
@@ -47,15 +47,17 @@ Fortified Delicacy: useful
 Fossilized Ursidae: unknown
 Frosty Bauble: unknown
 Fruit Guard: mcguffin
-Fuel Reservoir: unknown
+Fuel Reservoir: useful
+Furious Adhesive: unknown
 Future Orb: useful
 Gemstar Husband: unknown
 Gemstar Wife: unknown
 Geographic Projection: unknown
 Glee Spinner: unknown
 Growshroom: mcguffin
+Gyroid Bust: unknown
 Happiness Emblem: unknown
-Harmonic Synthesizer: unknown
+Harmonic Synthesizer: useful
 Heavy-Duty Magnetizer: unknown
 Hypnotic Platter: unknown
 Impenetrable Cookie: unknown
@@ -86,7 +88,7 @@ Mirrored Stage: unknown
 Mysterious Remains: useful
 Mystical Disc: unknown
 Network Mainbrain: unknown
-Nouveau Table: unknown
+Nouveau Table: useful
 Omega Flywheel: unknown
 Omniscient Sphere: unknown
 Onion Replica: useful
@@ -103,6 +105,7 @@ Professional Noisemaker: useful
 Prototype Detector: progression
 Quenching Emblem: unknown
 Regal Diamond: mcguffin
+Remembered Old Buddy: useful
 Repugnant Appendage: unknown
 Rubber Ugly: unknown
 Salivatrix: unknown
