@@ -122,6 +122,8 @@ Crystal (Cyclops Den - Start): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
 Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Hall of the Phantoms - Below Puzzle): unknown
+Crystal (Hall of the Phantoms - Bottom): unknown
+Crystal (Hall of the Phantoms - Lower): unknown
 Crystal (Mechanism - Cloak): unknown
 Crystal (Mechanism - Lower): unknown
 Crystal (Mechanism - Slimes): unknown
@@ -142,6 +144,7 @@ Dead Maiden's Ring: filler
 Death Orb: useful
 Death Point: filler
 Face (Catacombs - After Bow): unknown
+Face (Catacombs - Campfire): unknown
 Face (Catacombs - x4): unknown
 Face (Cathedral - Right): unknown
 Face (Caves - 1st Room): unknown
@@ -365,10 +368,12 @@ Switch (Catacombs - Dev Room): unknown
 Switch (Catacombs - Elevator): unknown
 Switch (Catacombs - Top): unknown
 Switch (Cathedral - Bottom): unknown
+Switch (Cathedral - Top Campfire): unknown
 Switch (Caves - Catacombs Access 1): unknown
 Switch (Caves - Catacombs Access 2): unknown
 Switch (Caves - Catacombs Access 3): unknown
 Switch (Caves - Skeletons): unknown
+Switch (Cyclops Den - Top): unknown
 Switch (Gorgon Tomb - 1st Cyclops): unknown
 Switch (Gorgon Tomb - 2nd Room): unknown
 Switch (Gorgon Tomb - Arias): unknown
@@ -391,6 +396,7 @@ Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
 Switch (Mechanism - Block Stairs): unknown
+Switch (Mechanism - Boots): unknown
 Switch (Mechanism - Boss 1): unknown
 Switch (Mechanism - Boss 2): unknown
 Switch (Mechanism - Cannon): unknown
@@ -406,6 +412,7 @@ Switch (Mechanism - To Boss 2): unknown
 Switch (Mechanism - to Upper GT): unknown
 Switch (Ruins of Ash - After Worms): unknown
 Switch (Ruins of Ash - Apex Access): unknown
+Switch (Ruins of Ash - Baby Gorgon): unknown
 Switch (Ruins of Ash - Blood Pot Left): unknown
 Switch (Ruins of Ash - Blood Pot Right): unknown
 Switch (Ruins of Ash - Blood Pot): unknown
@@ -419,6 +426,7 @@ Switch (Serpent Path - After Star): unknown
 Switch (Serpent Path - Bubbles): unknown
 Switch (Serpent Path - Double Doors): unknown
 Switch (Tower Roots - Adorned Middle): unknown
+Switch (Tower Roots - Adorned Right): unknown
 Switch (Tower Roots - Elevator): unknown
 Sword of Mirrors: progression
 TR Blue Door: progression
