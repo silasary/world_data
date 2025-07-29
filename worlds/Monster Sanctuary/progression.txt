@@ -35,7 +35,7 @@
 2x Hazelnut: unknown
 2x Iron: unknown
 2x Leather: filler
-2x Level Badge: unknown
+2x Level Badge: filler
 2x Linen: unknown
 2x Mango: filler
 2x Mass Antidote: filler
@@ -260,7 +260,7 @@ Belt+5: unknown
 Belt: useful
 Berry: filler
 Big Plant Pot: unknown
-Big Potion: unknown
+Big Potion: filler
 Bird Seed: unknown
 Black Flame: unknown
 Blade Widow Egg: unknown
