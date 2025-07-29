@@ -2,13 +2,14 @@
 4-LOM: progression
 5 Minikits: progression
 Aayla Secura: progression
+Admiral Ackbar: progression
 All Episodes Token: progression
 Anakin Skywalker (Boy): progression
 Anakin Skywalker (Ghost): progression
 Anakin Skywalker (Jedi): progression
 Anakin Skywalker (Padawan): progression
 Anakin's Pod: progression
-Anakin's Speeder: unknown
+Anakin's Speeder: progression
 Anakin's Starfighter: unknown
 Battle Droid (Commander): unknown
 Battle Droid (Geonosis): progression
@@ -16,9 +17,9 @@ Battle Droid (Security): progression
 Battle Droid: progression
 Beach Trooper: useful
 Ben Kenobi (Ghost): progression
-Ben Kenobi: unknown
+Ben Kenobi: progression
 Bespin Guard: useful
-Bib Fortuna: unknown
+Bib Fortuna: progression
 Boba Fett (Boy): progression
 Boba Fett: progression
 Boss Nass: progression
@@ -29,7 +30,7 @@ Captain Antilles: progression
 Captain Panaka: progression
 Captain Tarpals: useful
 Chancellor Palpatine: progression
-Character Studs: unknown
+Character Studs: useful
 Chewbacca: progression
 Clone (Episode 3): progression
 Clone (Episode 3, Pilot): useful
@@ -38,12 +39,14 @@ Clone (Episode 3, Walker): progression
 Clone Arcfighter: progression
 Clone: progression
 Count Dooku: progression
+Dark Side: useful
 Darth Maul: progression
 Darth Vader: progression
 Death Star Trooper: progression
 Deflect Bolts: useful
 Dengar: progression
 Dexter Jettster: progression
+Disarm Troopers: useful
 Disguised Clone: useful
 Droid Trifighter: progression
 Droideka: progression
@@ -71,13 +74,14 @@ Han Solo (Stormtrooper): progression
 Han Solo: progression
 IG-88: progression
 Imperial Guard: progression
-Imperial Officer: unknown
+Imperial Officer: progression
 Imperial Shuttle Pilot: useful
 Imperial Shuttle: progression
 Imperial Spy: progression
 Indiana Jones: useful
 Infinite Torpedos: useful
 Invincibility: useful
+Jango Fett: progression
 Jar Jar Binks: progression
 Jawa: useful
 Ki-Adi Mundi: progression
@@ -88,12 +92,14 @@ Lando Calrissian: progression
 Lobot: progression
 Luke Skywalker (Bespin): progression
 Luke Skywalker (Dagobah): progression
+Luke Skywalker (Endor): progression
 Luke Skywalker (Hoth): useful
 Luke Skywalker (Jedi): progression
 Luke Skywalker (Pilot): progression
 Luke Skywalker (Stormtrooper): progression
 Luke Skywalker (Tatooine): progression
-Mace Windu (Episode 3): unknown
+Luminara: progression
+Mace Windu (Episode 3): progression
 Mace Windu: progression
 Millennium Falcon: progression
 Minikit Detector: progression
@@ -103,10 +109,11 @@ Obi-Wan Kenobi (Episode 3): progression
 Obi-Wan Kenobi (Jedi Master): progression
 Obi-Wan Kenobi: progression
 Obi-Wan's Starfighter: progression
+PK Droid: useful
 Padmé (Battle): progression
 Padmé (Clawed): progression
 Padmé (Geonosis): progression
-Padmé: unknown
+Padmé: progression
 Palace Guard: progression
 Perfect Deflect: useful
 Pit Droid: progression
@@ -130,7 +137,8 @@ R4-P17: progression
 Rebel Friend: progression
 Rebel Pilot: useful
 Rebel Trooper (Hoth): progression
-Rebel Trooper: unknown
+Rebel Trooper: progression
+Regenerate Hearts: useful
 Republic Gunship: progression
 Royal Guard: progression
 Sandtrooper: progression
@@ -156,16 +164,21 @@ TC-14: progression
 TIE Bomber: progression
 TIE Fighter (Darth Vader): useful
 TIE Fighter Pilot: progression
+TIE Fighter: progression
 TIE Interceptor: useful
 Taun We: progression
+The Emperor: progression
+Tractor Beam: useful
 Tusken Raider: progression
 Ugnaught: progression
 Vehicle Smart Bomb: useful
 Walkie Talkie Disable: filler
 Watto: progression
+Wicket: progression
 Wookiee: useful
 X-Wing: progression
 Y-Wing: progression
-Yoda (Ghost): unknown
+Yoda (Ghost): progression
 Yoda: progression
 Zam Wesell: progression
+Zam's Airspeeder: progression
