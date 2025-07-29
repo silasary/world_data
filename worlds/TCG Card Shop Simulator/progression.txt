@@ -74,7 +74,7 @@ FormatEarthCup: unknown
 FormatExBorder: unknown
 FormatFireCup: useful
 FormatFirstEditionVintage: unknown
-FormatFoil: unknown
+FormatFoil: filler
 FormatFullArtBorder: useful
 FormatGoldBorder: unknown
 FormatPauper: unknown
