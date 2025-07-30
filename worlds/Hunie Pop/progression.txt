@@ -29,7 +29,7 @@ Chocolate: unknown
 Chopsticks: unknown
 Cigarette Pack: unknown
 Cinnamon Perfume: unknown
-Cocktail: unknown
+Cocktail: filler
 Coconut: filler
 Coffee: unknown
 Compact Mirror: unknown
@@ -68,7 +68,7 @@ Fuzzy Stocking: unknown
 Gamer Glove: unknown
 Garden Gnome: unknown
 Garden Shovel: unknown
-Gingerbread Man: unknown
+Gingerbread Man: filler
 Girly Backpack: useful
 Glass Bong: unknown
 Glass Pipe: unknown
@@ -76,7 +76,7 @@ Glitter Bottles: unknown
 Glossy Notebook: unknown
 Glow Sticks: unknown
 Goggles: unknown
-Gold Earrings: unknown
+Gold Earrings: filler
 Graduation Cap: useful
 Green Tea Perfume: unknown
 Hamburger: useful
@@ -118,7 +118,7 @@ Mixing Bowl: unknown
 Model Rocket: unknown
 Mojito: unknown
 Moonrock: unknown
-Muffin: unknown
+Muffin: filler
 Mushrooms: unknown
 Nail Polish: unknown
 Old Fashioned Yoyo: unknown
@@ -153,7 +153,7 @@ Puzzle Cube: unknown
 Rainbow Wig: unknown
 Red Tulip: unknown
 Retro Controller: unknown
-Ribbon Wreath: unknown
+Ribbon Wreath: progression
 Riceballs: unknown
 Rolling Luggage: unknown
 Rolling Pin: unknown
@@ -181,7 +181,7 @@ Squeaky Mouse: unknown
 Stripper Pole: unknown
 Stuffed Bear: useful
 Stuffed Cat: unknown
-Stuffed Monkey: unknown
+Stuffed Monkey: filler
 Stuffed Penguin: unknown
 Stuffed Sheep: unknown
 Stuffed Whale: unknown
