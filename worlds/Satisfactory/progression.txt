@@ -634,7 +634,9 @@ Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
 Single: Heat Sink: filler
 Single: Hog Remains: unknown
+Single: Iodine-Infused Filter: unknown
 Single: Iron Ore: unknown
+Single: Iron Rod: unknown
 Single: Leaves: filler
 Single: Mycelia: filler
 Single: Neural-Quantum Processor: filler
@@ -653,6 +655,7 @@ Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
 Single: Portable Miner: unknown
+Single: Power Shard: unknown
 Single: Pressure Conversion Cube: filler
 Single: Pulse Nobelisk: unknown
 Single: Quickwire: unknown
