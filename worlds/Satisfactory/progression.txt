@@ -201,6 +201,7 @@ Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
 Bundle: Homing Rifle Ammo: filler
 Bundle: Hover Pack: useful
+Bundle: Iodine-Infused Filter: unknown
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
@@ -607,6 +608,7 @@ Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
 Single: AI Expansion Server: unknown
+Single: AI Limiter: unknown
 Single: Adaptive Control Unit: filler
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
@@ -628,6 +630,7 @@ Single: Crystal Oscillator: filler
 Single: Dark Matter Crystal: filler
 Single: Diamonds: unknown
 Single: Electromagnetic Control Rod: filler
+Single: Empty Canister: unknown
 Single: Empty Fluid Tank: unknown
 Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
