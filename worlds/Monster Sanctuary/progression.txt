@@ -143,7 +143,7 @@
 ??? Egg: unknown
 Aazerach Egg: unknown
 Ability - Blob Form: progression
-Ability - Bubble Burst: unknown
+Ability - Bubble Burst: progression
 Ability - Charging Mount: unknown
 Ability - Claws: progression
 Ability - Corrosive Jabs: unknown
@@ -151,7 +151,7 @@ Ability - Crush: progression
 Ability - Dual Mobility: progression
 Ability - Fiery Shots: progression
 Ability - Flying: progression
-Ability - Freeze: unknown
+Ability - Freeze: progression
 Ability - Ghost Form: unknown
 Ability - Grapple: useful
 Ability - Heavy Punch: unknown
@@ -350,7 +350,7 @@ Claws+3: unknown
 Claws+4: unknown
 Claws+5: useful
 Claws: useful
-Clear Stone: unknown
+Clear Stone: filler
 Coat+1: unknown
 Coat+2: unknown
 Coat+3: unknown
@@ -674,7 +674,7 @@ Infinity Flame+5: unknown
 Infinity Flame: unknown
 Insect Pheromones: unknown
 Insulated Gloves: unknown
-Iron: unknown
+Iron: filler
 Kame Chi: unknown
 Kame Egg: unknown
 Kanko Egg: unknown
