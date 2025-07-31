@@ -5,7 +5,7 @@ Blitz Gun: useful
 Boldan Coordinates: progression
 Bolt Pack: filler
 Bomb Glove: useful
-Bouncer: unknown
+Bouncer: useful
 Box Breaker: useful
 Charge Boots: useful
 Chopper: useful
@@ -20,7 +20,7 @@ Feltzin System Coordinates: progression
 Glider: progression
 Gorn Coordinates: progression
 Gravity Bomb: useful
-Gravity Boots: unknown
+Gravity Boots: progression
 Grelbin Coordinates: progression
 Grindboots: progression
 Heli-Pack: progression
@@ -41,7 +41,7 @@ Nanotech Boost: useful
 Notak Coordinates: progression
 OmniWrench Upgrade: useful
 Oozla Coordinates: progression
-Plasma Coil: unknown
+Plasma Coil: useful
 Platinum Bolt: filler
 Pulse Rifle: useful
 Qwark Statuette: progression
@@ -64,4 +64,4 @@ Tractor Beam: progression
 Visibomb Gun: useful
 Walloper: useful
 Yeedil Coordinates: progression
-Zodiac: unknown
+Zodiac: useful
