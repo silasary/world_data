@@ -32,7 +32,7 @@ Cigarette Pack: unknown
 Cinnamon Perfume: unknown
 Cocktail: filler
 Coconut: filler
-Coffee: unknown
+Coffee: filler
 Compact Mirror: unknown
 Compass: unknown
 Cookies: unknown
@@ -68,7 +68,7 @@ Fuzzy Boots: unknown
 Fuzzy Stocking: unknown
 Gamer Glove: unknown
 Garden Gnome: unknown
-Garden Shovel: unknown
+Garden Shovel: progression
 Gingerbread Man: filler
 Girly Backpack: useful
 Glass Bong: unknown
@@ -216,7 +216,7 @@ Unlock Girl(nikki): unknown
 Unlock Girl(tiffany): progression
 Unlock Girl(venus): unknown
 Vintage Platforms: useful
-Vinuela: unknown
+Vinuela: progression
 Volley Ball: unknown
 Water Bottle: unknown
 Watering Can: unknown
