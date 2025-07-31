@@ -78,7 +78,7 @@ FormatFoil: filler
 FormatFullArtBorder: useful
 FormatGoldBorder: unknown
 FormatPauper: unknown
-FormatSilverBorder: unknown
+FormatSilverBorder: filler
 FormatStandard: progression
 FormatWaterCup: useful
 FormatWindCup: useful

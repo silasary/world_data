@@ -707,7 +707,7 @@ Transport: Trains: useful
 Transport: Truck: useful
 Trap: Alpha Hog: trap
 Trap: Alpha Spitter: trap
-Trap: Can of Beans: unknown
+Trap: Can of Beans: trap
 Trap: Doggo with Gas Nobelisk: trap
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown
