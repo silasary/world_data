@@ -67,17 +67,17 @@ Epic Destiny Box (8): progression
 Epic Destiny Pack (32): unknown
 Epic Destiny Pack (64): progression
 Fire Battle Deck (18): unknown
-Fire Battle Deck: unknown
+Fire Battle Deck: progression
 Fire Destiny Deck (18): progression
 Fire Destiny Deck: progression
 FormatEarthCup: unknown
-FormatExBorder: unknown
+FormatExBorder: useful
 FormatFireCup: useful
 FormatFirstEditionVintage: unknown
 FormatFoil: filler
 FormatFullArtBorder: useful
-FormatGoldBorder: unknown
-FormatPauper: unknown
+FormatGoldBorder: useful
+FormatPauper: useful
 FormatSilverBorder: filler
 FormatStandard: progression
 FormatWaterCup: useful
@@ -119,7 +119,7 @@ Market Change Trap: unknown
 Medium Money: filler
 Medium Xp: filler
 Meganite Figurine (2): progression
-Meganite Figurine: unknown
+Meganite Figurine: progression
 Minstar Plushie (24): progression
 Minstar Plushie: progression
 Nanomite Plushie (16): progression
@@ -133,7 +133,7 @@ Pigni Plushie: unknown
 Play Table: progression
 Playmat (Clamigo): progression
 Playmat (Dracunix1): progression
-Playmat (Dracunix2): unknown
+Playmat (Dracunix2): progression
 Playmat (Drakon): progression
 Playmat (Drilceros): progression
 Playmat (Duel): progression
@@ -164,7 +164,7 @@ Progressive Auto Scent: progression
 Progressive Basic Card Box: progression
 Progressive Basic Card Pack: progression
 Progressive Basic Destiny Box: progression
-Progressive Basic Destiny Pack: unknown
+Progressive Basic Destiny Pack: progression
 Progressive Card Display: useful
 Progressive Card Table: useful
 Progressive Cleanser: progression
@@ -228,7 +228,7 @@ Wide Shelf: useful
 Wind Battle Deck (18): progression
 Wind Battle Deck: progression
 Wind Destiny Deck (18): progression
-Wind Destiny Deck: unknown
+Wind Destiny Deck: progression
 Workbench: useful
 Worker - Angus: useful
 Worker - Axel: useful
