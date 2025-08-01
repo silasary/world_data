@@ -72,7 +72,7 @@
 197 Puzzle Pieces: unknown
 2 Fake Puzzle Pieces: unknown
 2 Puzzle Pieces: progression
-20 Fake Puzzle Pieces: unknown
+20 Fake Puzzle Pieces: filler
 20 Puzzle Pieces: progression
 200 Puzzle Pieces: unknown
 202 Puzzle Pieces: unknown
@@ -125,7 +125,7 @@
 387 Puzzle Pieces: unknown
 39 Puzzle Pieces: progression
 4 Puzzle Pieces: progression
-4 Swap Traps: unknown
+4 Swap Traps: trap
 40 Puzzle Pieces: mcguffin
 41 Puzzle Pieces: progression
 411 Puzzle Pieces: unknown
@@ -163,7 +163,7 @@
 64 Puzzle Pieces: unknown
 65 Puzzle Pieces: progression
 66 Puzzle Pieces: unknown
-68 Puzzle Pieces: unknown
+68 Puzzle Pieces: progression
 69 Puzzle Pieces: unknown
 7 Puzzle Pieces: progression
 70 Puzzle Pieces: unknown
