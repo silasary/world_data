@@ -1,8 +1,10 @@
+Automaton 30 Gold: unknown
 Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Five Gold: filler
 Automaton Neutral Shop Card Slot: unknown
 Automaton One Gold: filler
+Automaton Potion: unknown
 Automaton Rare Card Draw: unknown
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
@@ -11,11 +13,15 @@ Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
 Boss Relic: progression
 Card Draw: progression
+Champ 15 Gold: unknown
+Champ 30 Gold: unknown
 Champ Boss Relic: progression
 Champ Card Draw: filler
 Champ Five Gold: filler
 Champ Neutral Shop Card Slot: unknown
 Champ One Gold: filler
+Champ Potion: unknown
+Champ Progressive Rest: unknown
 Champ Rare Card Draw: progression
 Champ Relic: progression
 Champ Shop Card Slot: unknown
@@ -127,6 +133,12 @@ Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
+Gremlins 15 Gold: unknown
+Gremlins Card Draw: unknown
+Gremlins One Gold: unknown
+Gremlins Potion: unknown
+Gremlins Progressive Rest: unknown
+Gremlins Shop Card Slot: unknown
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
@@ -215,6 +227,10 @@ SlimeBoss Relic: progression
 SlimeBoss Shop Card Slot: progression
 SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
+Snecko 30 Gold: unknown
+Snecko Potion: unknown
+Snecko Progressive Rest: unknown
+Snecko Relic: unknown
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Boss Gold: progression
