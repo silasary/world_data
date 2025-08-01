@@ -125,6 +125,7 @@ Building: Walls Metal: unknown
 Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
+Bundle of Four: Somersloops: unknown
 Bundle of Three: Mercer Spheres: unknown
 Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: unknown
