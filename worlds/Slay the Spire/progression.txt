@@ -18,6 +18,7 @@ Boss Relic: progression
 Card Draw: progression
 Champ 15 Gold: unknown
 Champ 30 Gold: unknown
+Champ Boss Gold: unknown
 Champ Boss Relic: progression
 Champ Card Draw: filler
 Champ Five Gold: filler
@@ -138,6 +139,8 @@ Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
 Gremlins 15 Gold: unknown
+Gremlins 30 Gold: unknown
+Gremlins Boss Gold: unknown
 Gremlins Boss Relic: unknown
 Gremlins Card Draw: unknown
 Gremlins Five Gold: unknown
@@ -145,8 +148,12 @@ Gremlins Neutral Shop Card Slot: unknown
 Gremlins One Gold: unknown
 Gremlins Potion: unknown
 Gremlins Progressive Rest: unknown
+Gremlins Progressive Smith: unknown
+Gremlins Relic: unknown
 Gremlins Shop Card Slot: unknown
+Gremlins Shop Potion Slot: unknown
 Gremlins Shop Relic Slot: unknown
+Gremlins Unlock: unknown
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
@@ -166,6 +173,8 @@ Hermit Card Draw: progression
 Hermit Five Gold: filler
 Hermit One Gold: filler
 Hermit Potion: useful
+Hermit Progressive Rest: unknown
+Hermit Progressive Smith: unknown
 Hermit Rare Card Draw: progression
 Hermit Relic: progression
 Hermit Shop Card Slot: progression
@@ -231,6 +240,7 @@ SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
 SlimeBoss Potion: useful
 SlimeBoss Progressive Rest: unknown
+SlimeBoss Progressive Smith: unknown
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Relic: progression
 SlimeBoss Shop Card Slot: progression
@@ -238,13 +248,19 @@ SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
 Snecko 15 Gold: unknown
 Snecko 30 Gold: unknown
+Snecko Boss Gold: unknown
+Snecko Boss Relic: unknown
 Snecko Card Draw: unknown
 Snecko Five Gold: unknown
+Snecko One Gold: unknown
 Snecko Potion: unknown
 Snecko Progressive Rest: unknown
+Snecko Progressive Smith: unknown
 Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
 Snecko Shop Card Slot: unknown
+Snecko Shop Potion Slot: unknown
+Snecko Unlock: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Boss Gold: progression
