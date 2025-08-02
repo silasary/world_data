@@ -6,6 +6,7 @@ Anti-hiccup Fungus: useful
 Anxious Sprout: unknown
 Aquatic Mine: useful
 Arboreal Frippery: useful
+Armored Nut: useful
 Behemoth Jaw: unknown
 Boom Cone: useful
 Boss Stone: useful
@@ -35,7 +36,7 @@ Diet Doomer: unknown
 Director of Destiny: unknown
 Disguised Delicacy: unknown
 Doomsday Apparatus: useful
-Dream Architect: unknown
+Dream Architect: useful
 Dream Material: unknown
 Drone Supplies: useful
 Drought Ender: useful
@@ -58,7 +59,7 @@ Fleeting Art Form: useful
 Forged Courage: progression
 Fortified Delicacy: useful
 Fossilized Ursidae: unknown
-Frosty Bauble: unknown
+Frosty Bauble: useful
 Fruit Guard: mcguffin
 Fuel Reservoir: useful
 Furious Adhesive: unknown
@@ -75,7 +76,7 @@ Harmonic Synthesizer: useful
 Heavy-Duty Magnetizer: unknown
 Hideous Victual: unknown
 Hypnotic Platter: useful
-Icon of Progress: unknown
+Icon of Progress: useful
 Impenetrable Cookie: unknown
 Imperative Cookie: unknown
 Implement of Toil: unknown
@@ -149,12 +150,12 @@ Strife Monolith: useful
 Stringent Container: useful
 Stupendous Lens: useful
 Succulent Mattress: unknown
-Sunseed Berry: unknown
+Sunseed Berry: useful
 Superstick Textile: unknown
 Superstrong Stabilizer: unknown
 Survival Ointment: useful
 Sweet Dreamer: unknown
-Talisman of Life: unknown
+Talisman of Life: useful
 Taste Sensation: unknown
 The Key: filler
 Thirst Activator: useful
@@ -165,7 +166,7 @@ Triple Sugar Threat: useful
 Universal Com: unknown
 Unspeakable Wonder: unknown
 Utter Scrap: unknown
-Vacuum Processor: unknown
+Vacuum Processor: useful
 Vorpal Platter: unknown
 White Goodness: unknown
 Wiggle Noggin: unknown
