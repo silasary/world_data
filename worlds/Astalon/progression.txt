@@ -118,6 +118,7 @@ Caves Switch Skeletons: progression
 Cloak of Levitation: progression
 Crystal (Catacombs - Poison Roots): unknown
 Crystal (Cathedral - Orbs): unknown
+Crystal (Cathedral - Shaft): unknown
 Crystal (Cathedral - Top Right): unknown
 Crystal (Cyclops Den - Start): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
@@ -125,6 +126,7 @@ Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Hall of the Phantoms - Below Puzzle): unknown
 Crystal (Hall of the Phantoms - Bottom): unknown
 Crystal (Hall of the Phantoms - Lower): unknown
+Crystal (Hall of the Phantoms - Maiden 2): unknown
 Crystal (Mechanism - Cloak): unknown
 Crystal (Mechanism - Lower): unknown
 Crystal (Mechanism - Slimes): unknown
@@ -371,6 +373,7 @@ Switch (Catacombs - Elevator): unknown
 Switch (Catacombs - Ladder Blocks): unknown
 Switch (Catacombs - Top): unknown
 Switch (Catacombs - Water 1): unknown
+Switch (Catacombs - Water 2): unknown
 Switch (Cathedral - Bottom): unknown
 Switch (Cathedral - Top Campfire): unknown
 Switch (Caves - Catacombs Access 1): unknown
@@ -409,12 +412,14 @@ Switch (Mechanism - Chains Gap): unknown
 Switch (Mechanism - Eyeball): unknown
 Switch (Mechanism - Key Blocks): unknown
 Switch (Mechanism - Linus): unknown
+Switch (Mechanism - Lower Key): unknown
 Switch (Mechanism - Maze Backdoor): unknown
 Switch (Mechanism - Pots): unknown
 Switch (Mechanism - Snake 2): unknown
 Switch (Mechanism - To Boss 1): unknown
 Switch (Mechanism - To Boss 2): unknown
 Switch (Mechanism - to Upper GT): unknown
+Switch (Ruins of Ash - Above Centaur): unknown
 Switch (Ruins of Ash - After Worms): unknown
 Switch (Ruins of Ash - Apex Access): unknown
 Switch (Ruins of Ash - Baby Gorgon): unknown
@@ -424,13 +429,16 @@ Switch (Ruins of Ash - Blood Pot): unknown
 Switch (Ruins of Ash - Boss Access): unknown
 Switch (Ruins of Ash - Elevator): unknown
 Switch (Ruins of Ash - Icarus): unknown
+Switch (Ruins of Ash - Lower Void): unknown
 Switch (Ruins of Ash - Right Path): unknown
 Switch (Ruins of Ash - Shaft Downwards): unknown
 Switch (Ruins of Ash - Spiders): unknown
+Switch (Ruins of Ash - Triple 1): unknown
 Switch (Serpent Path - After Star): unknown
 Switch (Serpent Path - Bubbles): unknown
 Switch (Serpent Path - Double Doors): unknown
 Switch (The Apex): unknown
+Switch (Tower Roots - Adorned Left): unknown
 Switch (Tower Roots - Adorned Middle): unknown
 Switch (Tower Roots - Adorned Right): unknown
 Switch (Tower Roots - Elevator): unknown
@@ -457,6 +465,7 @@ White Door (Gorgon Tomb - Linus' Map): progression
 White Door (Gorgon Tomb - Tauros): progression
 White Door (Hall of the Phantoms - 1st Room): progression
 White Door (Hall of the Phantoms - Boss): progression
+White Door (Hall of the Phantoms - Griffon Claw): unknown
 White Door (Mechanism - 2nd Room): unknown
 White Door (Mechanism - Black Knight): progression
 White Door (Mechanism - Enemy Arena): unknown
