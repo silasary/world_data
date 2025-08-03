@@ -636,6 +636,7 @@ Single: Empty Fluid Tank: unknown
 Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
+Single: Hazmat Suit: unknown
 Single: Heat Sink: filler
 Single: Hog Remains: unknown
 Single: Hoverpack: unknown

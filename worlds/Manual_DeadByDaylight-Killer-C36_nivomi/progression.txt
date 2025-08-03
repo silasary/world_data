@@ -20,7 +20,9 @@ Deathbound: unknown
 Deerstalker: progression
 Discordance: progression
 Dissolution: progression
+Distressing: unknown
 Dominance: progression
+Dragon's Grip: unknown
 Dying Light: progression
 Eruption: progression
 Forced Hesitation: progression
@@ -71,18 +73,23 @@ The Artist Victory Token: progression
 The Artist: progression
 The Cannibal Victory Token: mcguffin
 The Cannibal: progression
+The Clown Victory Token: unknown
 The Clown: unknown
 The Deathslinger Victory Token: unknown
 The Deathslinger: progression
 The Doctor Victory Token: mcguffin
 The Doctor: progression
+The Dredge Victory Token: unknown
 The Dredge: unknown
 The Executioner Victory Token: mcguffin
 The Executioner: progression
+The Ghoul Victory Token: unknown
 The Ghoul: progression
+The Good Guy Victory Token: unknown
 The Good Guy: unknown
 The Hag Victory Token: unknown
 The Hag: unknown
+The Hillbilly Victory Token: unknown
 The Hillbilly: unknown
 The Huntress Victory Token: unknown
 The Huntress: unknown
@@ -92,19 +99,25 @@ The Lich Victory Token: unknown
 The Lich: unknown
 The Mastermind Victory Token: unknown
 The Mastermind: progression
+The Nemesis Victory Token: unknown
 The Nemesis: unknown
 The Oni Victory Token: unknown
 The Oni: progression
+The Pig Victory Token: unknown
 The Pig: progression
 The Plague Victory Token: unknown
 The Plague: progression
+The Shape Victory Token: unknown
 The Shape: progression
+The Singularity Victory Token: unknown
 The Singularity: progression
+The Skull Merchant Victory Token: unknown
 The Skull Merchant: progression
 The Spirit Victory Token: mcguffin
 The Spirit: progression
 The Trapper Victory Token: mcguffin
 The Trapper: progression
+The Trickster Victory Token: unknown
 The Trickster: progression
 The Unknown Victory Token: mcguffin
 The Unknown: unknown
