@@ -148,6 +148,7 @@ Dead Maiden's Ring: filler
 Death Orb: useful
 Death Point: filler
 Face (Catacombs - After Bow): unknown
+Face (Catacombs - Bow): unknown
 Face (Catacombs - Campfire): unknown
 Face (Catacombs - x4): unknown
 Face (Cathedral - Right): unknown
@@ -371,6 +372,7 @@ Switch (Catacombs - Claw 2): unknown
 Switch (Catacombs - Dev Room): unknown
 Switch (Catacombs - Elevator): unknown
 Switch (Catacombs - Ladder Blocks): unknown
+Switch (Catacombs - Mid Shortcut): unknown
 Switch (Catacombs - Top): unknown
 Switch (Catacombs - Water 1): unknown
 Switch (Catacombs - Water 2): unknown
@@ -395,8 +397,10 @@ Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
 Switch (Hall of the Phantoms - Above Old Man): unknown
+Switch (Hall of the Phantoms - Bell): unknown
 Switch (Hall of the Phantoms - Below Start): unknown
 Switch (Hall of the Phantoms - Left 1): unknown
+Switch (Hall of the Phantoms - Left 2): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
