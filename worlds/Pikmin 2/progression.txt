@@ -35,7 +35,7 @@ Crystallized Clairvoyance: unknown
 Crystallized Telekinesis: unknown
 Crystallized Telepathy: unknown
 Cupid's Grenade: useful
-Danger Chime: unknown
+Danger Chime: useful
 Decorative Goo: useful
 Diet Doomer: unknown
 Director of Destiny: unknown
@@ -56,7 +56,7 @@ Essence of True Love: unknown
 Essential Furnishing: unknown
 Eternal Emerald Eye: unknown
 Exhausted Superstick: unknown
-Extreme Perspirator: unknown
+Extreme Perspirator: useful
 Favorite Gyro Block: unknown
 Flame Tiller: useful
 Flame of Tomorrow: unknown
@@ -83,7 +83,7 @@ Hideous Victual: unknown
 Hypnotic Platter: useful
 Icon of Progress: useful
 Impenetrable Cookie: unknown
-Imperative Cookie: unknown
+Imperative Cookie: useful
 Implement of Toil: unknown
 Indomitable CPU: useful
 Infernal Vegetable: useful
@@ -115,7 +115,7 @@ Mirrored Element: unknown
 Mirrored Stage: unknown
 Mysterious Remains: useful
 Mystical Disc: unknown
-Network Mainbrain: unknown
+Network Mainbrain: useful
 Nouveau Table: useful
 Nutrient Silo: unknown
 Omega Flywheel: unknown
@@ -161,7 +161,7 @@ Sunseed Berry: useful
 Superstick Textile: unknown
 Superstrong Stabilizer: unknown
 Survival Ointment: useful
-Sweet Dreamer: unknown
+Sweet Dreamer: useful
 Talisman of Life: useful
 Taste Sensation: unknown
 Tear Stone: unknown
@@ -172,6 +172,7 @@ Toxic Toadstool: useful
 Treasured Gyro Block: unknown
 Triple Sugar Threat: useful
 Universal Com: unknown
+Unknown Merit: unknown
 Unspeakable Wonder: unknown
 Utter Scrap: unknown
 Vacuum Processor: useful
