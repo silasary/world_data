@@ -121,23 +121,29 @@ Crystal (Cathedral - Orbs): unknown
 Crystal (Cathedral - Shaft): unknown
 Crystal (Cathedral - Top Right): unknown
 Crystal (Cyclops Den - Start): unknown
+Crystal (Gorgon Tomb - RotA): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
 Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Hall of the Phantoms - Below Puzzle): unknown
 Crystal (Hall of the Phantoms - Bottom): unknown
 Crystal (Hall of the Phantoms - Lower): unknown
 Crystal (Hall of the Phantoms - Maiden 2): unknown
+Crystal (Mechanism - 1st Room): unknown
+Crystal (Mechanism - Campfire): unknown
 Crystal (Mechanism - Cloak): unknown
 Crystal (Mechanism - Lower): unknown
 Crystal (Mechanism - Slimes): unknown
 Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
 Crystal (Mechanism - Triple 2): unknown
+Crystal (Mechanism - Triple 3): unknown
 Crystal (Ruins of Ash - Baby Gorgon): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
 Crystal (Ruins of Ash - Branch Right): unknown
+Crystal (Ruins of Ash - Centaur): unknown
 Crystal (Ruins of Ash - Ladder Left): unknown
 Crystal (Ruins of Ash - Ladder Right): unknown
+Crystal (Ruins of Ash - Left Ascend): unknown
 Crystal (Ruins of Ash - Spike Balls): unknown
 Crystal (Tower Roots - Dark Arias): unknown
 Crystal (Tower Roots - Gold): progression
@@ -413,6 +419,7 @@ Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 2): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
+Switch (Hall of the Phantoms - TP Puzzle): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
@@ -424,6 +431,7 @@ Switch (Mechanism - Boss 2): unknown
 Switch (Mechanism - Cannon): unknown
 Switch (Mechanism - Chains Gap): unknown
 Switch (Mechanism - Eyeball): unknown
+Switch (Mechanism - Invisible): unknown
 Switch (Mechanism - Key Blocks): unknown
 Switch (Mechanism - Linus): unknown
 Switch (Mechanism - Lower Key): unknown
@@ -448,9 +456,12 @@ Switch (Ruins of Ash - Icarus): unknown
 Switch (Ruins of Ash - Lower Void): unknown
 Switch (Ruins of Ash - Right Path): unknown
 Switch (Ruins of Ash - Shaft Downwards): unknown
+Switch (Ruins of Ash - Shaft Left): unknown
 Switch (Ruins of Ash - Shaft Right): unknown
 Switch (Ruins of Ash - Spiders): unknown
 Switch (Ruins of Ash - Triple 1): unknown
+Switch (Ruins of Ash - Triple 3): unknown
+Switch (Ruins of Ash - Worms): unknown
 Switch (Serpent Path - After Star): unknown
 Switch (Serpent Path - Bubbles): unknown
 Switch (Serpent Path - Double Doors): unknown
