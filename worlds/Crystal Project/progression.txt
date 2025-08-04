@@ -3,13 +3,18 @@ Equipment - Acrobat Shoes: unknown
 Equipment - Ad Infinitum - 1822: unknown
 Equipment - Adept Seal - 2101: unknown
 Equipment - Adventure axe LV2 - 1641: unknown
+Equipment - Adventure axe LV3 - 1642: unknown
+Equipment - Adventure bow LV3 - 1650: unknown
+Equipment - Adventure staff LV4 - 1639: unknown
 Equipment - Adventure sword LV1 - 1644: unknown
 Equipment - Adventure sword LV3 - 1646: unknown
+Equipment - Aerotheurge Seal - 1677: unknown
 Equipment - Aerotheurge robe - 1669: unknown
 Equipment - Aggro Band: unknown
 Equipment - Ambition LV2 - 1709: unknown
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Angel's Blessing - 2009: unknown
+Equipment - Ash Wand: unknown
 Equipment - Autumns Oath: unknown
 Equipment - Awake Ring: unknown
 Equipment - Backbreaker - 1830: unknown
@@ -27,37 +32,57 @@ Equipment - Bokken - 1806: unknown
 Equipment - Bone Smasher: unknown
 Equipment - Book of Salads - 1810: unknown
 Equipment - Boomer Duelist - 1960: unknown
+Equipment - Bounty Hunter LV1 - 1748: unknown
 Equipment - Bracer: unknown
 Equipment - Brawler Seal - 2125: unknown
+Equipment - Brawler Wrap - 2060: unknown
 Equipment - Brimrose Scepter - 1612: unknown
 Equipment - Buckler: unknown
 Equipment - Burglars Glove: unknown
 Equipment - Calamitous Hood - 1613: unknown
 Equipment - Cantrip - 2031: unknown
 Equipment - Catalyst - 2052: unknown
+Equipment - Cedar Staff: unknown
+Equipment - Chain - 2036: unknown
+Equipment - Cheater Briefs - 1776: unknown
 Equipment - Chemist Robe: unknown
+Equipment - Circlet: unknown
 Equipment - Clamsheath - 2085: unknown
 Equipment - Clamshoe - 2084: unknown
+Equipment - Cleric Robe: unknown
 Equipment - Cold Touch: unknown
+Equipment - Compact Pistol - 1616: unknown
+Equipment - Conductor Seal - 1770: unknown
 Equipment - Congealed Orb - 1900: unknown
+Equipment - Conquest: unknown
+Equipment - Contract: unknown
+Equipment - Convergence LV2 - 1708: unknown
+Equipment - Copper Suit: unknown
 Equipment - Craftwork Bow: unknown
 Equipment - Craftwork Cap: unknown
+Equipment - Craftwork Crown: unknown
 Equipment - Craftwork Katana - 2118: unknown
+Equipment - Craftwork Robe: unknown
 Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Spear: unknown
 Equipment - Craftwork Wand: unknown
 Equipment - Crystalia Robe - 1628: unknown
+Equipment - Cursed Eyeball - 1779: unknown
 Equipment - Cursegiver: unknown
+Equipment - Daredevil Boots - 2013: unknown
 Equipment - Dark Gospel: unknown
+Equipment - Darkwood Spear - 1873: unknown
 Equipment - Defense Shifter: unknown
 Equipment - Deltaic Seal - 1784: unknown
 Equipment - Demon Helm: unknown
+Equipment - Demon Plate: unknown
 Equipment - Demon Scythe - 1998: unknown
 Equipment - Depth-seer's Tome - 1825: unknown
 Equipment - Dirk: unknown
 Equipment - Dodge Charm: unknown
 Equipment - Doomsayer Seal - 1780: unknown
 Equipment - Drunkard Vest - 2145: unknown
+Equipment - Dull Scythe - 1808: unknown
 Equipment - Dusk Collar - 1802: unknown
 Equipment - Earring: unknown
 Equipment - Earth's Katana - 1981: unknown
@@ -71,18 +96,24 @@ Equipment - Enchanted Nunchaku - 1849: unknown
 Equipment - Epetam - 2020: unknown
 Equipment - Equalizer Hammer - 1813: unknown
 Equipment - Ex - 2073: unknown
+Equipment - Executioner - 1842: unknown
 Equipment - Expedition LV2 - 1739: unknown
+Equipment - Expedition LV3 - 1740: unknown
+Equipment - Expedition LV4 - 1741: unknown
 Equipment - Expedition LV5 - 1754: unknown
 Equipment - Fairys Ring: unknown
 Equipment - Familiar Hoodie - 2126: unknown
 Equipment - Fang Pendant: unknown
+Equipment - Fanged Nunchaku - 1848: unknown
 Equipment - Feathered Vest - 1995: unknown
 Equipment - Fervor Charm: unknown
 Equipment - Fey Collar - 1798: unknown
 Equipment - Feyblessed Tiara - 1956: unknown
 Equipment - Fire Collar - 1801: unknown
+Equipment - Fire Poker - 2050: unknown
 Equipment - Flagellant Seal - 1678: unknown
 Equipment - Flamespike: unknown
+Equipment - Flask of Heroism - 1885: unknown
 Equipment - Float Shoes: unknown
 Equipment - Flood Pendant - 1964: unknown
 Equipment - Focus Charm - 2012: unknown
@@ -96,6 +127,7 @@ Equipment - Givers Ring: unknown
 Equipment - Glasses: unknown
 Equipment - Gospel: unknown
 Equipment - Greasy Shirt - 2096: unknown
+Equipment - Greywood Nunchaku - 1851: unknown
 Equipment - Gusto Charm: unknown
 Equipment - Halberd: unknown
 Equipment - Half-Phoenix Seal - 2156: unknown
@@ -105,30 +137,41 @@ Equipment - Harmacist Robe - 1774: unknown
 Equipment - Harmacist Seal - 1769: unknown
 Equipment - Hawkeye - 2059: unknown
 Equipment - Heirloom Bow - 2108: unknown
+Equipment - Heirloom Katana - 2111: unknown
 Equipment - Heirloom Pages - 2102: unknown
 Equipment - Heirloom Rapier - 2112: unknown
 Equipment - Heirloom Scythe - 2109: unknown
+Equipment - Heirloom Shield - 2113: unknown
 Equipment - Heirloom Wand - 2103: unknown
 Equipment - Heirloom of Agility - 2116: unknown
+Equipment - Helm of the Phoenix - 1877: unknown
+Equipment - Hemp Hood: unknown
 Equipment - Hi-Tech Robe - 2124: unknown
 Equipment - Hibernaculum LV1 - 1683: unknown
+Equipment - Hibernaculum LV2 - 1736: unknown
 Equipment - Hibernaculum LV3 - 1737: unknown
+Equipment - Hibernaculum LV5 - 1755: unknown
 Equipment - Hihiirokane - 1824: unknown
 Equipment - Hooked Sickle - 1872: unknown
 Equipment - Horned Helm: unknown
 Equipment - Hunter Vest: unknown
 Equipment - Hunting Bow: unknown
+Equipment - Hydrosophist robe - 1668: unknown
 Equipment - Illusionist Seal - 1766: unknown
 Equipment - Insight - 2039: unknown
 Equipment - Iron Armor: unknown
 Equipment - Iron Helm: unknown
 Equipment - Jewel of Defense: unknown
+Equipment - Judo Gi: unknown
+Equipment - Kaiser Blade - 1860: unknown
 Equipment - Knicked Knackers: unknown
 Equipment - Knockout Stick: unknown
 Equipment - Lance of Sickness - 1689: unknown
 Equipment - Learners Pin: unknown
+Equipment - Leather Cap: unknown
 Equipment - Leather Outfit: unknown
 Equipment - Leviathan Plate - 1958: unknown
+Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
 Equipment - Lion Crest - 2062: unknown
 Equipment - Looters Pin: unknown
@@ -140,23 +183,32 @@ Equipment - Machinist Seal - 2123: unknown
 Equipment - Magic Finder: unknown
 Equipment - Malifice: unknown
 Equipment - Mana Ring: unknown
+Equipment - Mars' Cloak - 1856: unknown
+Equipment - Mechanized Lance - 2154: unknown
 Equipment - Mercury's Cloak - 1859: unknown
 Equipment - Mermask - 2066: unknown
 Equipment - Mimic Mail: unknown
+Equipment - Mirrage - 1707: unknown
 Equipment - Mistcore Beads - 1969: unknown
 Equipment - Mithril Armor - 2078: unknown
+Equipment - Mountain LV1 - 1718: unknown
 Equipment - Mountain LV3 - 1716: unknown
 Equipment - Mountain LV5 - 1761: unknown
 Equipment - Muggers Glove: useful
 Equipment - Muramasa: unknown
+Equipment - Murgleys: unknown
 Equipment - Musket - 1623: unknown
 Equipment - Needle - 2053: unknown
 Equipment - Nemesis LV1 - 1696: unknown
 Equipment - Nightingale: unknown
+Equipment - Nomad Vest: unknown
 Equipment - Nomads Emblem: unknown
+Equipment - Oak Wand: unknown
 Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
+Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV4 - 1715: unknown
+Equipment - Parry Knife: unknown
 Equipment - Paypirbak: unknown
 Equipment - Phoenix Hero's Plate - 2016: unknown
 Equipment - Phoenix Vest - 2155: unknown
@@ -164,6 +216,7 @@ Equipment - Pincer Spear - 1997: unknown
 Equipment - Pirate Hat: unknown
 Equipment - Pirokinetick dress - 1667: unknown
 Equipment - Pistolero's Arsenal - 2152: unknown
+Equipment - Plague Mask: unknown
 Equipment - Plate of Lion: unknown
 Equipment - Plate of Whale: unknown
 Equipment - Pointy Hat: unknown
@@ -172,6 +225,7 @@ Equipment - Potion of Aetherbody - 1884: unknown
 Equipment - Power Glove - 2087: unknown
 Equipment - Primitive Axe - 1811: unknown
 Equipment - Prismatic Barrier LV2 - 1746: unknown
+Equipment - Prismatic Ring - 1803: unknown
 Equipment - Progressive 1H Axe: useful
 Equipment - Progressive 1H Sword: unknown
 Equipment - Progressive 2H Axe: useful
@@ -197,17 +251,22 @@ Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
 Equipment - Protective Goggles - 2008: unknown
 Equipment - Quintar Pheromones - 1951: unknown
+Equipment - Ranger Seal - 1672: unknown
 Equipment - Ranger cape - 1659: unknown
 Equipment - Rapier of Warning - 1988: unknown
 Equipment - Rapier: unknown
+Equipment - Ravens Hood: unknown
+Equipment - Reaper's Cuffs - 1948: unknown
 Equipment - Red Hairpin: unknown
 Equipment - Red Helmet - 1978: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
 Equipment - Resist Shifter: unknown
 Equipment - Ribbon: unknown
 Equipment - Ritual Dagger - 2056: unknown
+Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Royal Dominance - 1836: unknown
 Equipment - Rune Sword: unknown
+Equipment - Runeblade Vest - 2142: unknown
 Equipment - Runehammer - 1829: unknown
 Equipment - Samurai Mail: unknown
 Equipment - Sange: unknown
@@ -217,6 +276,7 @@ Equipment - Scope Bit: unknown
 Equipment - Scope Specs: unknown
 Equipment - Scoundrel cape - 1658: unknown
 Equipment - Sento - 2119: unknown
+Equipment - Shadow Gi: unknown
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
 Equipment - Shell Amulet: unknown
@@ -229,7 +289,9 @@ Equipment - Skewer: unknown
 Equipment - Slimy Crown - 1983: unknown
 Equipment - Soldier armor - 1656: unknown
 Equipment - Soul Keeper: unknown
+Equipment - Soulfrost Gauntlet - 1882: unknown
 Equipment - Spider leg - 1688: unknown
+Equipment - Spiked Helm - 2090: unknown
 Equipment - Spintowin - 2075: unknown
 Equipment - Springs Oath: unknown
 Equipment - Squirrel Dung: unknown
@@ -243,25 +305,34 @@ Equipment - Stonecore Beads - 1968: unknown
 Equipment - Storm Gun - 1625: unknown
 Equipment - Storm Helm: unknown
 Equipment - Strange Idol - 2097: unknown
+Equipment - Suitor Hat: unknown
 Equipment - Super Shotgun - 1624: unknown
 Equipment - Suppressor Seal - 1767: unknown
+Equipment - Survival Knife - 2130: unknown
 Equipment - Tall Stand Ring: unknown
+Equipment - Tar Treks - 2054: unknown
 Equipment - Temporal Robe - 1984: unknown
 Equipment - Terpsichorean Seal - 1781: unknown
 Equipment - The Mage in Yellow - 1869: unknown
 Equipment - The Vault LV2 - 1730: unknown
 Equipment - The Vault LV3 - 1731: unknown
+Equipment - The Vault LV5 - 1764: unknown
 Equipment - Torpid Cuffs: unknown
+Equipment - Training bow - 1631: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Twinshot Crossbow - 1890: unknown
 Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
+Equipment - Urgency LV4 - 1728: unknown
 Equipment - Virid Collar - 1799: unknown
 Equipment - Vita Crown: unknown
 Equipment - Volt Collar - 1796: unknown
 Equipment - Wailing Staff - 2000: unknown
+Equipment - Warding Glory - 1845: unknown
 Equipment - Warlock Mail: unknown
 Equipment - Warrior Mail: unknown
+Equipment - Weaver Robe: unknown
+Equipment - Weresheep Gloves - 1724: unknown
 Equipment - Whetstone - 2055: unknown
 Equipment - Wind Thresher: unknown
 Equipment - Windsong: unknown
@@ -269,6 +340,7 @@ Equipment - Winter Ring - 1752: unknown
 Equipment - Woven Hood: unknown
 Equipment - Woven Shirt: unknown
 Equipment - Yasha: unknown
+Equipment - dark contract - 1630: unknown
 Item - Adventure axe LV2 part - 335: unknown
 Item - Adventure staff LV3 part - 342: unknown
 Item - Adventure sword LV3 part - 340: unknown
@@ -288,6 +360,7 @@ Item - Beaurior Volcano Map: unknown
 Item - Beaurior Volcano Pass: unknown
 Item - Bitter Pop Candy: filler
 Item - Black Squirrel: progression
+Item - Blood stone - 347: unknown
 Item - Boomer Society Map: useful
 Item - Boomer Society Pass: unknown
 Item - Boss Key: unknown
@@ -343,6 +416,7 @@ Item - Fenix Juice: filler
 Item - Fenix Syrup Pouch: filler
 Item - Fenix Syrup: filler
 Item - Ferry Pass: unknown
+Item - Fire Stone - 367: unknown
 Item - Flimsy Rod: unknown
 Item - Fly Lure: unknown
 Item - Flyer's Crag Map: unknown
@@ -486,6 +560,7 @@ Item - Special Fresh Salmon: unknown
 Item - Special Milk: unknown
 Item - Special Rotten Salmon: progression
 Item - Special Shoudu Stew: unknown
+Item - Sun Stone - 368: unknown
 Item - Super Rod: unknown
 Item - Sweet Pop Candy: filler
 Item - Tall Tall Heights Map: unknown
@@ -516,6 +591,7 @@ Item - Tonic: filler
 Item - Tough Rod: unknown
 Item - Tram Key: unknown
 Item - Treasure Finder: useful
+Item - Treasure map #2 - 352: unknown
 Item - Treasure map #7 - 357: unknown
 Item - Trial Caves Map: unknown
 Item - Triton Stone: unknown
@@ -557,7 +633,10 @@ Job - Fortress - 78: unknown
 Job - Glaceon - 61: unknown
 Job - Hunter: unknown
 Job - Illusionist - 41: unknown
+Job - Imperial - 74: unknown
+Job - Jolteon - 55: unknown
 Job - Kenshi - 86: unknown
+Job - Landsknecht - 72: unknown
 Job - Machinist - 88: unknown
 Job - Mimic: progression
 Job - Monk: progression
@@ -565,15 +644,18 @@ Job - Necromancer - 97: unknown
 Job - Nightseeker - 77: unknown
 Job - Ninja: unknown
 Job - Nomad: progression
+Job - Paladin - 153: unknown
 Job - Pirokinetick - 32: unknown
 Job - Priest - 126: unknown
 Job - Ranger - 37: unknown
 Job - Reaper: progression
 Job - Rogue: unknown
 Job - Runeblade - 154: unknown
+Job - Runemaster - 81: unknown
 Job - Sage - 128: unknown
 Job - Samurai: unknown
 Job - Scholar: progression
+Job - Scoundrel - 35: unknown
 Job - Shaman: unknown
 Job - Soldier - 36: unknown
 Job - Summoner: unknown
