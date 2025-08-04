@@ -150,10 +150,12 @@ Death Point: filler
 Face (Catacombs - After Bow): unknown
 Face (Catacombs - Bow): unknown
 Face (Catacombs - Campfire): unknown
+Face (Catacombs - Double Door): unknown
 Face (Catacombs - x4): unknown
 Face (Cathedral - Right): unknown
 Face (Caves - 1st Room): unknown
 Face (Mechanism - Volantis): unknown
+Face (Ruins of Ash - Spiders): unknown
 GT 2 Elevator: progression
 GT Blue Door (Ascendant Key): progression
 GT Blue Door (Bestiary): useful
@@ -371,17 +373,22 @@ Switch (Catacombs - After Blue Door): unknown
 Switch (Catacombs - Claw 2): unknown
 Switch (Catacombs - Dev Room): unknown
 Switch (Catacombs - Elevator): unknown
+Switch (Catacombs - Flames 2): unknown
 Switch (Catacombs - Ladder Blocks): unknown
 Switch (Catacombs - Mid Shortcut): unknown
+Switch (Catacombs - Shortcut Access): unknown
 Switch (Catacombs - Top): unknown
 Switch (Catacombs - Water 1): unknown
 Switch (Catacombs - Water 2): unknown
+Switch (Cathedral - Beside Shaft): unknown
 Switch (Cathedral - Bottom): unknown
 Switch (Cathedral - Top Campfire): unknown
 Switch (Caves - Catacombs Access 1): unknown
 Switch (Caves - Catacombs Access 2): unknown
 Switch (Caves - Catacombs Access 3): unknown
 Switch (Caves - Skeletons): unknown
+Switch (Cyclops Den - 2): unknown
+Switch (Cyclops Den - Campfire): unknown
 Switch (Cyclops Den - Top): unknown
 Switch (Gorgon Tomb - 1st Cyclops): unknown
 Switch (Gorgon Tomb - 2nd Room): unknown
@@ -397,8 +404,11 @@ Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
 Switch (Hall of the Phantoms - Above Old Man): unknown
+Switch (Hall of the Phantoms - Bell Access): unknown
 Switch (Hall of the Phantoms - Bell): unknown
 Switch (Hall of the Phantoms - Below Start): unknown
+Switch (Hall of the Phantoms - Claw Access): unknown
+Switch (Hall of the Phantoms - Eyeball Shortcut): unknown
 Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 2): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
@@ -423,6 +433,7 @@ Switch (Mechanism - Snake 1): unknown
 Switch (Mechanism - Snake 2): unknown
 Switch (Mechanism - To Boss 1): unknown
 Switch (Mechanism - To Boss 2): unknown
+Switch (Mechanism - Upper Void Drop): unknown
 Switch (Mechanism - to Upper GT): unknown
 Switch (Ruins of Ash - Above Centaur): unknown
 Switch (Ruins of Ash - After Worms): unknown
