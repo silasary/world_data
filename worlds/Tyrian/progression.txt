@@ -36,23 +36,23 @@ Attractor: unknown
 BONUS (Episode 1): progression
 BONUS (Episode 3): unknown
 BONUS 1 (Episode 2): progression
-BONUS 2 (Episode 2): unknown
+BONUS 2 (Episode 2): progression
 BOTANY A (Episode 2): progression
 BOTANY B (Episode 2): progression
 BRAINIAC (Episode 4): progression
 BUBBLES (Episode 1): progression
-Banana Blast (Front): unknown
+Banana Blast (Front): progression
 Banana Blast (Rear): unknown
 Banana Bomb: unknown
-BattleShip-Class Firebomb: unknown
+BattleShip-Class Firebomb: useful
 Beno Protron System -B-: unknown
-Beno Wallop Beam: unknown
+Beno Wallop Beam: useful
 Blade Field: unknown
 Bubble Gum-Gun: unknown
 Buster Rocket: filler
 CAMANIS (Episode 3): unknown
 CORAL (Episode 5): unknown
-CORE (Episode 4): unknown
+CORE (Episode 4): progression
 Charge Cannon: useful
 Companion Ship Gerund: filler
 Companion Ship Quicksilver: useful
@@ -68,7 +68,7 @@ Dual Vulcan: unknown
 EYESPY (Episode 4): unknown
 FLEET (Episode 3): progression
 FRUIT (Episode 5): unknown
-Fireball: unknown
+Fireball: progression
 Flare: unknown
 Flying Punch: unknown
 GAUNTLET (Episode 3): progression
@@ -82,18 +82,18 @@ HOLES (Episode 1): progression
 Heavy Guided Bombs: unknown
 Heavy Missile Launcher (Front): unknown
 Heavy Missile Launcher (Rear): progression
-HotDog (Front): unknown
+HotDog (Front): progression
 HotDog (Rear): unknown
 Hyper Pulse: progression
 ICE EXIT (Episode 4): progression
 ICESECRET (Episode 4): progression
 IXMUCANE (Episode 3): progression
-Ice Beam: unknown
+Ice Beam: useful
 Invulnerability: unknown
 LAVA EXIT (Episode 4): progression
-LAVA RUN (Episode 4): unknown
+LAVA RUN (Episode 4): progression
 Laser: unknown
-Lightning Cannon: unknown
+Lightning Cannon: progression
 Lightning Zone: filler
 MACES (Episode 3): unknown
 MARKERS (Episode 2): progression
@@ -109,7 +109,7 @@ MegaLaser Dual: unknown
 MegaLaser: unknown
 MegaMissile: unknown
 MicroBomb: filler
-MicroSol FrontBlaster II: unknown
+MicroSol FrontBlaster II: useful
 MicroSol FrontBlaster: useful
 MineField: unknown
 Mini-Missile: filler
@@ -122,7 +122,7 @@ NEW DELI (Episode 3): progression
 NOSE DRIP (Episode 4): progression
 Needle Laser: unknown
 NortShip Spreader B: unknown
-NortShip Spreader: unknown
+NortShip Spreader: progression
 NortShip Super Pulse: unknown
 Orange Shield: unknown
 Pearl Wind: unknown
@@ -135,11 +135,11 @@ Pretzel Missile: progression
 Progressive Generator: progression
 Protron (Front): unknown
 Protron (Rear): unknown
-Protron Cannon Indigo: unknown
+Protron Cannon Indigo: useful
 Protron Cannon Tangerine: unknown
 Protron Dispersal: unknown
-Protron Wave: unknown
-Protron Z: unknown
+Protron Wave: progression
+Protron Z: progression
 Pulse Blast: unknown
 Pulse-Cannon: unknown
 Repulsor: unknown
@@ -171,14 +171,14 @@ Sonic Wave: useful
 Soul of Zinglon: filler
 Starburst: progression
 Super Pretzel: unknown
-SuperBomb: unknown
+SuperBomb: filler
 TORM (Episode 2): unknown
 TYRIAN (Episode 1): progression
 TYRIAN X (Episode 3): progression
 The Orange Juicer: unknown
 Tropical Cherry Companion: unknown
 UNDERDELI (Episode 4): progression
-Vulcan Cannon (Front): unknown
+Vulcan Cannon (Front): progression
 Vulcan Cannon (Rear): unknown
 Vulcan Shot Option: unknown
 WINDY (Episode 1): unknown
@@ -187,9 +187,9 @@ Widget Beam: unknown
 Wild Ball: unknown
 Wobbley: unknown
 Xega Ball: filler
-Zica Flamethrower: unknown
+Zica Flamethrower: filler
 Zica Laser: progression
 Zica Supercharger: filler
 Zinglon's Ale: unknown
-Zinglon's Revenge: unknown
-Zinglon's Squadrons: unknown
+Zinglon's Revenge: filler
+Zinglon's Squadrons: filler
