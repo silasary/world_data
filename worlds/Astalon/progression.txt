@@ -124,18 +124,22 @@ Crystal (Cathedral - Shaft): unknown
 Crystal (Cathedral - Spike Pit): unknown
 Crystal (Cathedral - Top Right): unknown
 Crystal (Cyclops Den - Start): unknown
+Crystal (Gorgon Tomb - Ladder): unknown
+Crystal (Gorgon Tomb - Old Man 2): unknown
 Crystal (Gorgon Tomb - RotA): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
 Crystal (Hall of the Phantoms - Bell Access): unknown
 Crystal (Hall of the Phantoms - Below Puzzle): unknown
 Crystal (Hall of the Phantoms - Bottom): unknown
 Crystal (Hall of the Phantoms - Lower): unknown
+Crystal (Hall of the Phantoms - Maiden 1): unknown
 Crystal (Hall of the Phantoms - Maiden 2): unknown
 Crystal (Hall of the Phantoms - Rock Access): unknown
 Crystal (Mechanism - 1st Room): unknown
 Crystal (Mechanism - Campfire): unknown
 Crystal (Mechanism - Cloak): unknown
 Crystal (Mechanism - Lower): unknown
+Crystal (Mechanism - Old Man): unknown
 Crystal (Mechanism - Slimes): unknown
 Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
@@ -167,6 +171,7 @@ Face (Catacombs - x4): unknown
 Face (Cathedral - Left): unknown
 Face (Cathedral - Right): unknown
 Face (Caves - 1st Room): unknown
+Face (Hall of the Phantoms - Old Man): unknown
 Face (Mechanism - Volantis): unknown
 Face (Ruins of Ash - Blue Key): unknown
 Face (Ruins of Ash - Spiders): unknown
@@ -384,6 +389,7 @@ SP Switch After Star: progression
 SP Switch Bubbles: progression
 SP Switch Double Doors: progression
 Switch (Catacombs - After Blue Door): unknown
+Switch (Catacombs - Claw 1): unknown
 Switch (Catacombs - Claw 2): unknown
 Switch (Catacombs - Dev Room): unknown
 Switch (Catacombs - Elevator): unknown
@@ -401,9 +407,11 @@ Switch (Caves - Catacombs Access 1): unknown
 Switch (Caves - Catacombs Access 2): unknown
 Switch (Caves - Catacombs Access 3): unknown
 Switch (Caves - Skeletons): unknown
+Switch (Cyclops Den - 1): unknown
 Switch (Cyclops Den - 2): unknown
 Switch (Cyclops Den - Campfire): unknown
 Switch (Cyclops Den - Top): unknown
+Switch (Darkness): unknown
 Switch (Gorgon Tomb - 1st Cyclops): unknown
 Switch (Gorgon Tomb - 2nd Room): unknown
 Switch (Gorgon Tomb - Arias): unknown
@@ -428,6 +436,7 @@ Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 2): unknown
 Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
+Switch (Hall of the Phantoms - Rock): unknown
 Switch (Hall of the Phantoms - TP Puzzle): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
