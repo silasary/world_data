@@ -82,6 +82,7 @@ Equipment - Craftwork Robe: unknown
 Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Spear: unknown
 Equipment - Craftwork Wand: unknown
+Equipment - Critique - 2058: unknown
 Equipment - Crystalia Robe - 1628: unknown
 Equipment - Cursed Eyeball - 1779: unknown
 Equipment - Cursegiver: unknown
@@ -111,7 +112,7 @@ Equipment - Empowered vampiric touch - 1637: unknown
 Equipment - Empowered wildfire - 1636: unknown
 Equipment - Enchanted Nunchaku - 1849: unknown
 Equipment - Epetam - 2020: unknown
-Equipment - Equalizer Hammer - 1813: unknown
+Equipment - Equalizer Hammer - 1813: useful
 Equipment - Ex - 2073: unknown
 Equipment - Executioner - 1842: unknown
 Equipment - Expedition LV2 - 1739: unknown
@@ -185,6 +186,7 @@ Equipment - Hunter Vest: unknown
 Equipment - Hunting Bow: unknown
 Equipment - Hydrosophist Seal - 1674: unknown
 Equipment - Hydrosophist robe - 1668: unknown
+Equipment - Icy Collar - 1800: useful
 Equipment - Illusionist Seal - 1766: unknown
 Equipment - Insight - 2039: unknown
 Equipment - Invisible Shield - 2029: unknown
@@ -297,7 +299,7 @@ Equipment - Red Helmet - 1978: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
 Equipment - Resist Shifter: unknown
 Equipment - Ribbon: unknown
-Equipment - Ritual Dagger - 2056: unknown
+Equipment - Ritual Dagger - 2056: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
@@ -373,7 +375,7 @@ Equipment - Undead Ring: unknown
 Equipment - Urgency LV4 - 1728: unknown
 Equipment - Virid Collar - 1799: unknown
 Equipment - Vita Crown: unknown
-Equipment - Volt Collar - 1796: unknown
+Equipment - Volt Collar - 1796: useful
 Equipment - Wailing Staff - 2000: unknown
 Equipment - Warding Glory - 1845: unknown
 Equipment - Warlock Mail: unknown
@@ -390,6 +392,7 @@ Equipment - Woven Shirt: unknown
 Equipment - Yasha: unknown
 Equipment - dark contract - 1630: unknown
 Item - Adventure axe LV2 part - 335: unknown
+Item - Adventure staff LV 2 part - 338: useful
 Item - Adventure staff LV3 part - 342: unknown
 Item - Adventure sword LV3 part - 340: unknown
 Item - Ancient Labyrinth Map: unknown
@@ -437,7 +440,7 @@ Item - Continental Tram Pass: unknown
 Item - Courtyard Key: unknown
 Item - Crag Demon Horn: unknown
 Item - Dark Wing Key: unknown
-Item - Decent Cod Bag: unknown
+Item - Decent Cod Bag: useful
 Item - Decent Cod: filler
 Item - Deity Eye: unknown
 Item - Delende Map: unknown
@@ -741,7 +744,7 @@ Summon - Coyote: unknown
 Summon - Guaba: unknown
 Summon - Ioske: unknown
 Summon - Juses: unknown
-Summon - Niltsi: unknown
+Summon - Niltsi: useful
 Summon - Pah: unknown
 Summon - Pamoa: unknown
 Summon - Shaku: unknown
