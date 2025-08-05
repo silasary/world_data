@@ -637,6 +637,7 @@ Single: Empty Canister: unknown
 Single: Empty Fluid Tank: unknown
 Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
+Single: Factory Cart: unknown
 Single: Ficsite Ingot: filler
 Single: Hazmat Suit: unknown
 Single: Heat Sink: filler
