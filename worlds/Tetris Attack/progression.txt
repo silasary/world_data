@@ -1,5 +1,5 @@
 100 Points: unknown
-1060 Points: unknown
+1060 Points: filler
 1100 Points: filler
 1150 Points: unknown
 1240 Points: unknown
@@ -11,7 +11,8 @@
 20 Points: unknown
 210 Points: unknown
 290 Points: unknown
-30 Points: unknown
+30 Points: filler
+300 Points: unknown
 340 Points: filler
 400 Points: filler
 490 Points: unknown
@@ -23,6 +24,7 @@
 700 Points: unknown
 820 Points: unknown
 900 Points: unknown
+980 Points: filler
 Bumpty: unknown
 Flying Wiggler: unknown
 Froggy: filler
@@ -31,11 +33,11 @@ Lakitu: unknown
 Lunge Fish: unknown
 Mt. Wickedness Gate: unknown
 Poochy: filler
-Puzzle Level 1 Gate: unknown
+Puzzle Level 1 Gate: progression
 Puzzle Level 2 Gate: unknown
 Puzzle Level 3 Gate: unknown
 Puzzle Level 4 Gate: progression
-Puzzle Level 5 Gate: unknown
+Puzzle Level 5 Gate: progression
 Puzzle Level 6 Gate: unknown
 Puzzle Progressive Level 1 Unlock: progression
 Puzzle Progressive Level 2 Unlock: progression

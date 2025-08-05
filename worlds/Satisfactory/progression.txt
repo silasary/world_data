@@ -125,6 +125,9 @@ Building: Walls Metal: unknown
 Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
+Bundle of Four: Somersloops: unknown
+Bundle of Three: Mercer Spheres: unknown
+Bundle of Three: Power Shards: unknown
 Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: unknown
 Bundle: Adaptive Control Unit: filler
@@ -200,6 +203,7 @@ Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
 Bundle: Homing Rifle Ammo: filler
 Bundle: Hover Pack: useful
+Bundle: Iodine-Infused Filter: unknown
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
@@ -320,7 +324,7 @@ Dimensional Depot upload from inventory: useful
 Doggo Gas Nobelisk: unknown
 Doggo Nuke Nobelisk: unknown
 Doggo Pulse Nobelisk: unknown
-Doggo with Power Slug: unknown
+Doggo with Power Slug: filler
 Doggo with PowerSlug: unknown
 Expanded Toolbelt: useful
 Hatcher: unknown
@@ -464,12 +468,12 @@ Recipe: Iron Ingot: unknown
 Recipe: Iron Pipe: unknown
 Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
-Recipe: Iron Rod: unknown
+Recipe: Iron Rod: progression
 Recipe: Iron Wire: progression
 Recipe: Jetpack: unknown
 Recipe: Leached Caterium Ingot: progression
 Recipe: Leached Copper Ingot: progression
-Recipe: Leached Iron ingot: unknown
+Recipe: Leached Iron ingot: progression
 Recipe: Liquid Biofuel: useful
 Recipe: Magnetic Field Generator: progression
 Recipe: Modular Engine: progression
@@ -606,11 +610,13 @@ Recipe: Xeno-Basher: useful
 Recipe: Xeno-Zapper: unknown
 Recipe: Zipline: useful
 Single: AI Expansion Server: unknown
+Single: AI Limiter: unknown
 Single: Adaptive Control Unit: filler
 Single: Alien DNA Capsule: filler
 Single: Alien Protein: filler
 Single: Aluminum Ingot: unknown
 Single: Aluminum Scrap: filler
+Single: Assembly Director System: unknown
 Single: Battery: unknown
 Single: Biochemical Sculptor: filler
 Single: Biomass: filler
@@ -620,21 +626,30 @@ Single: Boom Box: unknown
 Single: Cable: unknown
 Single: Cluster Nobelisk: unknown
 Single: Coal: filler
+Single: Compacted Coal: unknown
 Single: Computer: unknown
 Single: Cooling System: filler
 Single: Crystal Oscillator: filler
 Single: Dark Matter Crystal: filler
 Single: Diamonds: unknown
 Single: Electromagnetic Control Rod: filler
+Single: Empty Canister: unknown
 Single: Empty Fluid Tank: unknown
+Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
 Single: Ficsite Ingot: filler
+Single: Hazmat Suit: unknown
 Single: Heat Sink: filler
 Single: Hog Remains: unknown
+Single: Hoverpack: unknown
+Single: Iodine-Infused Filter: unknown
 Single: Iron Ore: unknown
+Single: Iron Rod: unknown
 Single: Leaves: filler
+Single: Lizard Doggo Statue: filler
 Single: Mycelia: filler
 Single: Neural-Quantum Processor: filler
+Single: Nobelisk Detonator: unknown
 Single: Nobelisk: filler
 Single: Nuke Nobelisk: unknown
 Single: Object Scanner: unknown
@@ -648,18 +663,23 @@ Single: Paleberry: unknown
 Single: Parachute: unknown
 Single: Petroleum Coke: unknown
 Single: Plastic: unknown
+Single: Portable Miner: unknown
+Single: Power Shard: unknown
 Single: Pressure Conversion Cube: filler
 Single: Pulse Nobelisk: unknown
 Single: Quickwire: unknown
 Single: Radio Control Unit: unknown
-Single: Rifle Ammo: unknown
+Single: Reinforced Iron Plate: unknown
+Single: Rifle Ammo: filler
 Single: SAM Fluctuator: unknown
 Single: SAM: unknown
 Single: Satisfactory Pioneering Statue: unknown
 Single: Silica: unknown
 Single: Silver Hog Statue: filler
+Single: Singularity Cell: unknown
 Single: Smokeless Powder: unknown
 Single: Solid Biofuel: filler
+Single: Somersloop: unknown
 Single: Steel Beam: unknown
 Single: Steel Ingot: filler
 Single: Stun Rebar: unknown
@@ -670,6 +690,7 @@ Single: Thermal Propulsion Rocket: filler
 Single: Versatile Framework: filler
 Single: Wire: filler
 Single: Wood: unknown
+Single: Xeno-Basher: unknown
 Single: Yellow Power Slug: filler
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
@@ -694,7 +715,7 @@ Transport: Trains: useful
 Transport: Truck: useful
 Trap: Alpha Hog: trap
 Trap: Alpha Spitter: trap
-Trap: Can of Beans: unknown
+Trap: Can of Beans: trap
 Trap: Doggo with Gas Nobelisk: trap
 Trap: Doggo with Pulse Nobelisk: trap
 Trap: Elite Hatcher: unknown

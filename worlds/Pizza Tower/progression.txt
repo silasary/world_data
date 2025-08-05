@@ -1,9 +1,12 @@
 Bodyslam: progression
+Bomb: unknown
 Boss Key: progression
 Breakdance: filler
 Clothes: Autumn: filler
 Clothes: Bad Bones: filler
 Clothes: Bloodstained: filler
+Clothes: Bowling Stripes: filler
+Clothes: Candy Wrapper: unknown
 Clothes: Classic Cook: unknown
 Clothes: Dark Cook: filler
 Clothes: Eyes: filler
@@ -12,22 +15,26 @@ Clothes: Garish Cook: unknown
 Clothes: Goldemanne: filler
 Clothes: Golden God: unknown
 Clothes: Itchy Sweater: unknown
-Clothes: John Suit: unknown
+Clothes: John Suit: filler
 Clothes: Mooney Orange: filler
 Clothes: PP Shirt: filler
 Clothes: Pizza Man: unknown
 Clothes: Pumpkin: filler
+Clothes: TV Purple: filler
+Clothes: Unfunny Cook: filler
 Clothes: War Camo: unknown
 Clown Trap: trap
 Cross Buff: filler
 Crusher: progression
-Double Jump: unknown
+Double Jump: progression
 Fake Santa Trap: trap
+Ghost Trap: trap
 Grab: progression
 Granny Trap: trap
+Lap 2 Portals: progression
 Mach 4: useful
-Nothing: unknown
-Oktoberfest!: unknown
+Nothing: filler
+Oktoberfest!: trap
 Permanent 10 Points: filler
 Permanent 100 Points: filler
 Permanent 50 Points: filler
@@ -35,10 +42,11 @@ Pizza Shield: filler
 Primo Burg: filler
 Pumpkin: progression
 Rat Kick: useful
+Spin Attack: useful
 Superjump: progression
-Supertaunt: unknown
-Taunt: unknown
-Timer Trap: unknown
+Supertaunt: useful
+Taunt: progression
+Timer Trap: trap
 Toppin: mcguffin
 Uppercut: useful
 Wallbounce: progression

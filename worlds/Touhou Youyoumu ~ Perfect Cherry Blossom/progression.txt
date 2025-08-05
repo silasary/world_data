@@ -1,20 +1,33 @@
 +1 Bomb: useful
++1 Continue: useful
 +1 Life: useful
 +1 Power Point: filler
 +25 Power Point: useful
+-1 Bomb: trap
+-1 Life: unknown
+-50% Power Point: trap
+Aya Speed: unknown
 Cherry Border: useful
 Extra Stage: progression
-Lower Difficulty: unknown
+Freeze: unknown
+Lower Difficulty: useful
 Marisa A - Magic Sign: progression
 Marisa B - Love Sign: unknown
 Next Stage: progression
+No Cherry: trap
+No Focus: trap
 Phantasm Stage: progression
+Power Point Drain: trap
 Reimu A - Spirit Sign: progression
 Reimu B - Dream Sign: unknown
+Reverse Movement: unknown
 Sakuya A - Illusion Sign: progression
 Sakuya B - Time Sign: progression
 [Marisa A] Next Stage: unknown
+[Marisa A] Phantasm Stage: unknown
+[Marisa B] Extra Stage: unknown
 [Marisa B] Next Stage: progression
+[Marisa] Ending - Yuyuko: mcguffin
 [Reimu A] Next Stage: progression
 [Reimu B] Next Stage: progression
 [Reimu] Ending - Yuyuko: mcguffin

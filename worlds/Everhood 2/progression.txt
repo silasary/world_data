@@ -4,7 +4,7 @@
 150xp: filler
 15xp: filler
 192xp: unknown
-200xp: unknown
+200xp: filler
 20xp: filler
 250xp: filler
 25xp: filler
@@ -21,13 +21,17 @@
 75xp: filler
 76xp: filler
 80xp: filler
+Backslick Hairstyle Cosmetic: unknown
+Cat Ears Bald Cosmetic: unknown
 Cat Ears Cosmetic: unknown
 Clover: useful
 Crimson Bandanna: useful
 Eternal War Key: progression
 Gas Mask Cosmetic: unknown
+Gold Key: progression
 Green Key: progression
 Katana: unknown
+Lab Key: progression
 Neon Forest Key: progression
 Pinecone Key: progression
 Power Gem: progression
@@ -35,3 +39,4 @@ Progressive Marzian Key: progression
 Red Bandana Cosmetic: progression
 Reindeer Skull Cosmetic: filler
 Stylish Hairstyle Cosmetic: filler
+Wild Hairstyle Cosmetic: unknown

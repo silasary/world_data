@@ -1,8 +1,10 @@
 Amulet Coin: filler
-Antidote: unknown
+Antidote: filler
 Awakening: filler
+Basic Badge: progression
 Bicycle: progression
 Big Pearl: filler
+Bright Powder: filler
 Burn Heal: filler
 Choice Scarf: filler
 Choice Specs: unknown
@@ -10,6 +12,7 @@ Cover Fossil: filler
 Damp Rock: filler
 Dusk Stone: filler
 EXP Share: useful
+Eviolite: filler
 Fire Stone: filler
 Focus Sash: filler
 Freeze Badge: progression
@@ -23,6 +26,7 @@ HM03 Surf: progression
 HM04 Strength: progression
 Heal Ball: unknown
 Hyper Potion: filler
+Ice Heal: filler
 Icy Rock: filler
 Insect Badge: progression
 Jet Badge: progression
@@ -41,14 +45,17 @@ Revive: filler
 Rock Incense: filler
 Sea Incense: filler
 Shiny Stone: filler
+Smooth Rock: filler
 Star Piece: filler
 Stardust: filler
 Sun Stone: filler
 TM01: useful
 TM07: useful
+TM08: useful
 TM12: useful
 TM13: useful
 TM18: useful
+TM19: useful
 TM24: useful
 TM27: useful
 TM29: useful
@@ -57,18 +64,22 @@ TM32: useful
 TM34: useful
 TM35: useful
 TM36: useful
+TM40: useful
 TM41: useful
 TM45: useful
 TM47: useful
 TM48: unknown
 TM49: useful
 TM52: useful
+TM53: useful
 TM54: useful
 TM57: useful
 TM58: useful
+TM59: unknown
 TM64: useful
 TM67: unknown
 TM68: unknown
+TM71: useful
 TM73: useful
 TM74: useful
 TM77: useful
@@ -77,6 +88,7 @@ TM79: useful
 TM80: useful
 TM82: useful
 TM83: useful
+TM85: useful
 TM86: useful
 TM87: useful
 TM88: useful

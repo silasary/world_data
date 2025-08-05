@@ -1,14 +1,14 @@
-AngelicRobe: unknown
+AngelicRobe: filler
 Audhulma: unknown
-BodyRing: unknown
+BodyRing: filler
 Boots: unknown
-DragonShield: unknown
-ElysianWhip: unknown
+DragonShield: filler
+ElysianWhip: filler
 EnergyRing: unknown
 Excalibur: progression
 Garm: progression
-Gleipnir: unknown
-GoddessIcon: unknown
+Gleipnir: progression
+GoddessIcon: filler
 GuidingRing: unknown
 HeroCrest: unknown
 Ivaldi: progression
@@ -16,7 +16,7 @@ KnightCrest: unknown
 Latona: useful
 MasterSeal: unknown
 Nidhogg: progression
-OceanSeal: unknown
+OceanSeal: filler
 OrionsBolt: unknown
 Progressive Level Cap: progression
 Progressive Weapon Level (Anima): progression
@@ -28,8 +28,8 @@ Progressive Weapon Level (Light): progression
 Progressive Weapon Level (Staff): useful
 Progressive Weapon Level (Sword): progression
 SecretBook: unknown
-Sieglinde: unknown
-Siegmund: unknown
+Sieglinde: progression
+Siegmund: progression
 Speedwings: unknown
 Talisman: unknown
 Vidofnir: progression

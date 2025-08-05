@@ -1,3 +1,4 @@
+$WashCoin: filler
 A Job Well Done: mcguffin
 Ancient Monument Unlock: progression
 Ancient Statue Unlock: progression
@@ -9,16 +10,22 @@ C17H35COONa: filler
 Carousel Unlock: progression
 Croft Manor's Maze Unlock: progression
 Croft Manor's Treasure Room Unlock: unknown
+Dessert Parlor Unlock: progression
 Detached House Unlock: progression
 Dirt Bike Unlock: progression
 Dirt: filler
+Doc Brown's Van Unlock: progression
 Drill Unlock: progression
+Dust Bnuy: filler
+Dust Bunny: filler
 Excavator Unlock: progression
 Ferris Wheel Unlock: progression
 Fire Helicopter Unlock: progression
+Fire Plane Unlock: progression
 Fire Station Unlock: progression
 Fire Truck Unlock: progression
 Fishing Boat Unlock: progression
+Food Truck Unlock: progression
 Forest Cottage Unlock: progression
 Fortune Teller's Wagon Unlock: progression
 Frolic Boat Unlock: progression
@@ -27,15 +34,22 @@ Golf Cart Unlock: progression
 Grandpa Miller's Car Unlock: progression
 Grime: filler
 H2O: filler
+Hansel's Honeymoon Hideaway Unlock: progression
 Helter Skelter Unlock: progression
+Imperial Knight Paladin Unlock: progression
+Krusty Krab Unlock: progression
 Lara Croft's Jeep and Motorboat Unlock: progression
+Lara Croft's Obstacle Course and Quad Bike Unlock: progression
 Lost City Palace Unlock: progression
+Mad Tea Party Unlock: progression
+Mars Rover Unlock: progression
 Mayor's Mansion Unlock: progression
 Mini Golf Course Unlock: progression
 Modern Mansion Unlock: progression
 Monster Truck Unlock: progression
 Motorbike and Sidecar Unlock: progression
 Paintball Arena Unlock: progression
+Patty Wagon Unlock: progression
 Penny Farthing Unlock: progression
 Playground Unlock: progression
 Positive Reviews: filler
@@ -43,11 +57,12 @@ Private Jet Unlock: progression
 Recreation Vehicle Unlock: progression
 Recreational Vehicle (Again) Unlock: progression
 SUV Unlock: progression
-Satellite Dish Unlock: unknown
+Satellite Dish Unlock: progression
 Satisfaction: filler
-Sculpture Park Unlock: unknown
+Sculpture Park Unlock: progression
 Shoe House Unlock: progression
 Skatepark Unlock: progression
+Solar Station Unlock: progression
 Spanish Villa Unlock: progression
 Sponge: filler
 Steam Locomotive Unlock: progression
@@ -55,9 +70,14 @@ Stunt Plane Unlock: progression
 Submarine Unlock: progression
 Subway Platform Unlock: progression
 Subway Train Unlock: unknown
+Suds: filler
 Temple Unlock: progression
+The Invisible Boatmobile Unlock: progression
+The Moon Rocket Unlock: progression
+The Time Machine Unlock: progression
 Tree House Unlock: progression
 Van Unlock: progression
 Vintage Car Unlock: progression
 Washroom Unlock: progression
 Water: filler
+Wonderland Entrance Hall Unlock: progression

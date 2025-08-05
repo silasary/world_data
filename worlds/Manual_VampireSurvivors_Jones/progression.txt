@@ -35,6 +35,7 @@ Boss Rash: progression
 Bracelet: progression
 Bracer: unknown
 Brad Fang: unknown
+Brauner: unknown
 Browny: unknown
 C-U-Laser: unknown
 Candelabrador: unknown
@@ -63,7 +64,9 @@ Cross: unknown
 Crown: progression
 Curved Knife: unknown
 Dairy Plant: unknown
+Dario Bossi: unknown
 Dark Rift: unknown
+Death: unknown
 Discus: unknown
 Diva No. 5: unknown
 Divano Thelma: progression
@@ -89,8 +92,9 @@ Eskizzibur: unknown
 Exdash Exiviiq: progression
 Familiar Forge: unknown
 Familiar: unknown
+Ferryman: progression
 Fire Wand: unknown
-Firearm: unknown
+Firearm: progression
 Flamberge: unknown
 Flames of Misspell: progression
 Flash Arrow: unknown
@@ -103,20 +107,22 @@ Gale Force: unknown
 Gallo Tower: unknown
 Garlic: progression
 Gatti Amari: progression
+Gav'Et-Oni: unknown
 Gaze of Gaea: unknown
 Gazebo: unknown
 Genevieve Gruyere: unknown
 Gennaro Belpaese: filler
-Ghost Lino: unknown
+Ghost Lino: progression
 Giovanna Grana: unknown
 Glaive: progression
 Glass Fandango: unknown
-Gold Ring: unknown
+Gold Ring: progression
+Graham Jones: unknown
 Greatest Jubilee: unknown
 Green Acres: unknown
 Guardian Pina: progression
 Guardian's Targe: unknown
-Gyoruntin: unknown
+Gyoruntin: progression
 Gyorunton: progression
 Hammer: progression
 Hand Grenade: unknown
@@ -137,7 +143,7 @@ III - Hidden Anathema: unknown
 III - Tragic Princess: useful
 IV - Awake: unknown
 IX - Divine Bloodline: unknown
-Ice Fang: unknown
+Ice Fang: progression
 Iguana Gallo Valletto: progression
 Il Molise: progression
 Imelda Belpaese: unknown
@@ -188,13 +194,14 @@ Macha Alter Ego: progression
 Mad Forest: unknown
 Magic Wand: progression
 Malevolent Door Spirit: unknown
+Maria Renard: unknown
 Marrabbio: progression
 Maruto Cuts: progression
 Mask of the Red Death: unknown
 Master Librarian: progression
 Maxim Kischine: unknown
 McCoy-Oni: unknown
-Megalo Dracula: unknown
+Megalo Dracula: progression
 Megalo Elizabeth Bartley: unknown
 Megalo Imposter Rina: unknown
 Megalo Syuuto Moonspell: unknown
@@ -221,7 +228,7 @@ Pako Battiliar: unknown
 Parm Aegis: unknown
 Party Popper: unknown
 Pasqualina Belpaese: unknown
-Peachone: unknown
+Peachone: progression
 Pentagram: progression
 Peppino: progression
 Peri Pendulum: unknown
@@ -231,7 +238,7 @@ Platinum Whip: progression
 Poe Ratcho: progression
 Polus Replica: progression
 Poppea Pecorina: unknown
-Porta Ladonna: unknown
+Porta Ladonna: progression
 Powerup - Amount: useful
 Powerup - Area: unknown
 Powerup - Armor: unknown
@@ -268,12 +275,13 @@ Rose De Infernas: unknown
 Rottin' Ghoul: progression
 Runetracer: progression
 Saber Machine Gun: unknown
+Saint Germain: unknown
 Sanguine Star: progression
-Santa Javelin: unknown
+Santa Javelin: progression
 Santa Ladonna: unknown
 Santa Water: unknown
 Sara Trantoul: unknown
-Science Rocks: unknown
+Science Rocks: progression
 Scientist Mina: unknown
 Scorej-Oni: unknown
 Shadow Pinion: progression
@@ -368,4 +376,5 @@ XXI - Blood Astronomia: unknown
 XXI - Wandering Jet Black: unknown
 Yatta Cavallo: progression
 Yoko Belnades: unknown
+Young Maria Renard: unknown
 Zi'Assunta Belpaese: unknown

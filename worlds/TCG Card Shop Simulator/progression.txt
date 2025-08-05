@@ -51,7 +51,7 @@ Deck Box Yellow (8): progression
 Decrease Card Luck: trap
 Double Sided Shelf: useful
 Dracunix Figurine (1): useful
-Dracunix Figurine: unknown
+Dracunix Figurine: progression
 Drilceros Action Figure (4): progression
 Drilceros Action Figure: progression
 Earth Battle Deck (18): progression
@@ -67,18 +67,18 @@ Epic Destiny Box (8): progression
 Epic Destiny Pack (32): unknown
 Epic Destiny Pack (64): progression
 Fire Battle Deck (18): unknown
-Fire Battle Deck: unknown
+Fire Battle Deck: progression
 Fire Destiny Deck (18): progression
-Fire Destiny Deck: unknown
+Fire Destiny Deck: progression
 FormatEarthCup: unknown
-FormatExBorder: unknown
-FormatFireCup: unknown
+FormatExBorder: useful
+FormatFireCup: useful
 FormatFirstEditionVintage: unknown
-FormatFoil: unknown
+FormatFoil: filler
 FormatFullArtBorder: useful
-FormatGoldBorder: unknown
-FormatPauper: unknown
-FormatSilverBorder: unknown
+FormatGoldBorder: useful
+FormatPauper: useful
+FormatSilverBorder: filler
 FormatStandard: progression
 FormatWaterCup: useful
 FormatWindCup: useful
@@ -119,21 +119,21 @@ Market Change Trap: unknown
 Medium Money: filler
 Medium Xp: filler
 Meganite Figurine (2): progression
-Meganite Figurine: unknown
+Meganite Figurine: progression
 Minstar Plushie (24): progression
 Minstar Plushie: progression
 Nanomite Plushie (16): progression
-Nanomite Plushie: unknown
+Nanomite Plushie: progression
 Necromonsters: progression
 Nocti Plushie (6): progression
-Nocti Plushie: unknown
+Nocti Plushie: progression
 Penny Sleeves: progression
 Pigni Plushie (12): progression
 Pigni Plushie: unknown
 Play Table: progression
 Playmat (Clamigo): progression
 Playmat (Dracunix1): progression
-Playmat (Dracunix2): unknown
+Playmat (Dracunix2): progression
 Playmat (Drakon): progression
 Playmat (Drilceros): progression
 Playmat (Duel): progression
@@ -161,22 +161,22 @@ Premium Collection Book: progression
 Princestar Figurine (2): progression
 Princestar Figurine: progression
 Progressive Auto Scent: progression
-Progressive Basic Card Box: unknown
+Progressive Basic Card Box: progression
 Progressive Basic Card Pack: progression
 Progressive Basic Destiny Box: progression
-Progressive Basic Destiny Pack: unknown
+Progressive Basic Destiny Pack: progression
 Progressive Card Display: useful
 Progressive Card Table: useful
-Progressive Cleanser: unknown
+Progressive Cleanser: progression
 Progressive Customer Money: useful
 Progressive Deck Box Blue: progression
 Progressive Deck Box Green: progression
-Progressive Deck Box Red: unknown
+Progressive Deck Box Red: progression
 Progressive Deck Box Yellow: progression
 Progressive Epic Card Box: progression
-Progressive Epic Card Pack: unknown
+Progressive Epic Card Pack: progression
 Progressive Epic Destiny Box: progression
-Progressive Epic Destiny Pack: unknown
+Progressive Epic Destiny Pack: progression
 Progressive Ghost Card: mcguffin
 Progressive Legendary Card Box: progression
 Progressive Legendary Card Pack: progression
@@ -221,14 +221,14 @@ Vampicant Figurine: unknown
 Warehouse Expansion: useful
 Warehouse Key: progression
 Water Battle Deck (18): progression
-Water Battle Deck: unknown
+Water Battle Deck: progression
 Water Destiny Deck (18): unknown
 Water Destiny Deck: progression
 Wide Shelf: useful
 Wind Battle Deck (18): progression
-Wind Battle Deck: unknown
+Wind Battle Deck: progression
 Wind Destiny Deck (18): progression
-Wind Destiny Deck: unknown
+Wind Destiny Deck: progression
 Workbench: useful
 Worker - Angus: useful
 Worker - Axel: useful

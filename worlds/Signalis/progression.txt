@@ -13,7 +13,7 @@ Autoinjector: useful
 Blank Key: progression
 Blue Diskette: progression
 Broken Key, Bottom Half: progression
-Broken Key, Top Half: unknown
+Broken Key, Top Half: progression
 Broken Music Cassette: progression
 Classroom Key: progression
 Death: progression
@@ -25,7 +25,7 @@ Eagle Key: progression
 East Wing Key: progression
 Eidetic Module: useful
 Examination Room Key: unknown
-Fire Key: unknown
+Fire Key: progression
 Flare Gun: useful
 Flashlight Module: progression
 Fuse: progression
@@ -39,6 +39,9 @@ Incense: progression
 Incinerator Room Key: progression
 Island Key: progression
 Key of Eternity: unknown
+Key of Love: progression
+Key of Sacrifice: unknown
+Large Wooden Doll: progression
 Library Key: progression
 Lovers: progression
 Maintenance Key: progression
@@ -70,6 +73,7 @@ Rusted Key: progression
 Serpent Ring: progression
 Service Hatch Key: progression
 Shotgun Rounds: useful
+Shotgun: useful
 Shutter Gate Handle: progression
 Signal Flare Shells: useful
 Small Bottle: useful

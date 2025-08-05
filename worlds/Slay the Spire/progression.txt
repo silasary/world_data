@@ -1,23 +1,41 @@
+Automaton 15 Gold: unknown
+Automaton 30 Gold: unknown
+Automaton Boss Gold: unknown
 Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Five Gold: filler
+Automaton Neutral Shop Card Slot: unknown
 Automaton One Gold: filler
+Automaton Potion: unknown
+Automaton Progressive Rest: unknown
+Automaton Progressive Smith: unknown
+Automaton Rare Card Draw: unknown
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
 Automaton Shop Potion Slot: unknown
-Automaton Shop Relic Slot: unknown
+Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
 Boss Relic: progression
 Card Draw: progression
+Champ 15 Gold: unknown
+Champ 30 Gold: unknown
+Champ Boss Gold: unknown
 Champ Boss Relic: progression
-Champ Card Draw: unknown
+Champ Card Draw: filler
 Champ Five Gold: filler
+Champ Neutral Shop Card Slot: unknown
+Champ One Gold: filler
+Champ Potion: unknown
+Champ Progressive Rest: unknown
+Champ Progressive Smith: unknown
+Champ Rare Card Draw: progression
 Champ Relic: progression
+Champ Shop Card Slot: unknown
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
 Champ Unlock: progression
 Custom Character 1 15 Gold: useful
-Custom Character 1 30 Gold: unknown
+Custom Character 1 30 Gold: progression
 Custom Character 1 30 gold: progression
 Custom Character 1 Boss Gold: progression
 Custom Character 1 Boss Relic: progression
@@ -35,7 +53,7 @@ Custom Character 1 Shop Potion Slot: progression
 Custom Character 1 Shop Relic Slot: progression
 Custom Character 1 Unlock: progression
 Custom Character 2 15 Gold: useful
-Custom Character 2 30 Gold: unknown
+Custom Character 2 30 Gold: progression
 Custom Character 2 30 gold: progression
 Custom Character 2 Boss Gold: progression
 Custom Character 2 Boss Relic: progression
@@ -113,7 +131,7 @@ Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
 Defect Potion: useful
 Defect Progressive Rest: progression
-Defect Progressive Shop Remove: unknown
+Defect Progressive Shop Remove: progression
 Defect Progressive Smith: progression
 Defect Rare Card Draw: progression
 Defect Relic: progression
@@ -121,15 +139,33 @@ Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
+Gremlins 15 Gold: unknown
+Gremlins 30 Gold: unknown
+Gremlins Boss Gold: unknown
+Gremlins Boss Relic: unknown
+Gremlins Card Draw: unknown
+Gremlins Five Gold: unknown
+Gremlins Neutral Shop Card Slot: unknown
+Gremlins One Gold: unknown
+Gremlins Potion: unknown
+Gremlins Progressive Rest: unknown
+Gremlins Progressive Smith: unknown
+Gremlins Relic: unknown
+Gremlins Shop Card Slot: unknown
+Gremlins Shop Potion Slot: unknown
+Gremlins Shop Relic Slot: unknown
+Gremlins Unlock: unknown
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
-Guardian One Gold: unknown
+Guardian Neutral Shop Card Slot: unknown
+Guardian One Gold: filler
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
 Guardian Shop Potion Slot: unknown
 Guardian Shop Relic Slot: unknown
+Guardian Unlock: unknown
 Hermit 15 Gold: filler
 Hermit 30 Gold: progression
 Hermit Boss Gold: progression
@@ -138,19 +174,25 @@ Hermit Card Draw: progression
 Hermit Five Gold: filler
 Hermit One Gold: filler
 Hermit Potion: useful
+Hermit Progressive Rest: unknown
+Hermit Progressive Smith: unknown
 Hermit Rare Card Draw: progression
 Hermit Relic: progression
 Hermit Shop Card Slot: progression
 Hermit Shop Potion Slot: progression
 Hermit Shop Relic Slot: progression
 Hermit Unlock: progression
+Hexaghost Boss Relic: unknown
 Hexaghost Card Draw: progression
 Hexaghost Five Gold: filler
+Hexaghost Neutral Shop Card Slot: unknown
 Hexaghost One Gold: unknown
 Hexaghost Rare Card Draw: progression
 Hexaghost Relic: progression
+Hexaghost Shop Card Slot: unknown
 Hexaghost Shop Potion Slot: progression
 Hexaghost Shop Relic Slot: progression
+Hexaghost Unlock: progression
 Ironclad 15 Gold: filler
 Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
@@ -161,13 +203,14 @@ Ironclad Neutral Shop Card Slot: progression
 Ironclad One Gold: filler
 Ironclad Potion: useful
 Ironclad Progressive Rest: progression
-Ironclad Progressive Shop Remove: unknown
+Ironclad Progressive Shop Remove: progression
 Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: progression
 Ironclad Relic: progression
 Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: progression
 Ironclad Shop Relic Slot: progression
+Ironclad Unlock: unknown
 Rare Card Draw: progression
 Relic: progression
 Silent 15 Gold: filler
@@ -180,6 +223,7 @@ Silent Neutral Shop Card Slot: progression
 Silent One Gold: filler
 Silent Potion: useful
 Silent Progressive Rest: progression
+Silent Progressive Shop Remove: progression
 Silent Progressive Smith: progression
 Silent Rare Card Draw: progression
 Silent Relic: progression
@@ -196,11 +240,28 @@ SlimeBoss Five Gold: filler
 SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
 SlimeBoss Potion: useful
+SlimeBoss Progressive Rest: unknown
+SlimeBoss Progressive Smith: unknown
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Relic: progression
 SlimeBoss Shop Card Slot: progression
 SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
+Snecko 15 Gold: unknown
+Snecko 30 Gold: unknown
+Snecko Boss Gold: unknown
+Snecko Boss Relic: unknown
+Snecko Card Draw: unknown
+Snecko Five Gold: unknown
+Snecko One Gold: unknown
+Snecko Potion: unknown
+Snecko Progressive Rest: unknown
+Snecko Progressive Smith: unknown
+Snecko Rare Card Draw: unknown
+Snecko Relic: unknown
+Snecko Shop Card Slot: unknown
+Snecko Shop Potion Slot: unknown
+Snecko Unlock: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Boss Gold: progression
@@ -211,6 +272,7 @@ Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
 Watcher Potion: useful
 Watcher Progressive Rest: progression
+Watcher Progressive Shop Remove: unknown
 Watcher Progressive Smith: progression
 Watcher Rare Card Draw: progression
 Watcher Relic: progression

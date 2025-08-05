@@ -1,6 +1,6 @@
 100 G: filler
-1000 G: unknown
-1200 G: unknown
+1000 G: filler
+1200 G: filler
 150 G: filler
 1500 G: filler
 1600 G: unknown
@@ -35,7 +35,7 @@
 2x Hazelnut: unknown
 2x Iron: unknown
 2x Leather: filler
-2x Level Badge: unknown
+2x Level Badge: filler
 2x Linen: unknown
 2x Mango: filler
 2x Mass Antidote: filler
@@ -45,15 +45,15 @@
 2x Orange: unknown
 2x Peanut: filler
 2x Pear: filler
-2x Phoenix Serum: unknown
-2x Phoenix Tear: unknown
+2x Phoenix Serum: filler
+2x Phoenix Tear: filler
 2x Potato: filler
 2x Potion: unknown
 2x Raw Hide: filler
 2x Red Gem: useful
 2x Reward Box Lvl 1: useful
 2x Reward Box Lvl 2: filler
-2x Reward Box Lvl 3: unknown
+2x Reward Box Lvl 3: filler
 2x Reward Box Lvl 4: useful
 2x Reward Box X: unknown
 2x Ruby: unknown
@@ -72,7 +72,7 @@
 2x Switch Stone: filler
 2x Verdant Gem: filler
 2x Walnut: unknown
-2x Wool: unknown
+2x Wool: filler
 300 G: filler
 3000 G: unknown
 350 G: filler
@@ -95,15 +95,15 @@
 3x Gold: filler
 3x Grapes: unknown
 3x Green Gem: unknown
-3x Hazelnut: unknown
+3x Hazelnut: filler
 3x Iron: unknown
 3x Leather: unknown
 3x Level Badge: unknown
 3x Linen: unknown
-3x Monster Bell: unknown
-3x Pear: unknown
+3x Monster Bell: filler
+3x Pear: filler
 3x Phoenix Serum: unknown
-3x Phoenix Tear: unknown
+3x Phoenix Tear: filler
 3x Potato: filler
 3x Potion: filler
 3x Red Gem: filler
@@ -134,7 +134,7 @@
 4x Level Badge: unknown
 4x Wool: unknown
 500 G: filler
-5000 G: unknown
+5000 G: filler
 5x Level Badge: unknown
 600 G: filler
 700 G: filler
@@ -143,7 +143,7 @@
 ??? Egg: unknown
 Aazerach Egg: unknown
 Ability - Blob Form: progression
-Ability - Bubble Burst: unknown
+Ability - Bubble Burst: progression
 Ability - Charging Mount: unknown
 Ability - Claws: progression
 Ability - Corrosive Jabs: unknown
@@ -151,7 +151,7 @@ Ability - Crush: progression
 Ability - Dual Mobility: progression
 Ability - Fiery Shots: progression
 Ability - Flying: progression
-Ability - Freeze: unknown
+Ability - Freeze: progression
 Ability - Ghost Form: unknown
 Ability - Grapple: useful
 Ability - Heavy Punch: unknown
@@ -172,11 +172,11 @@ Ability - Shock Freeze: unknown
 Ability - Slash: unknown
 Ability - Slime Shot: progression
 Ability - Snowball Toss: progression
-Ability - Sonar Mount: unknown
+Ability - Sonar Mount: progression
 Ability - Sonar: unknown
 Ability - Spore Shroud: progression
 Ability - Summon Big Rock: progression
-Ability - Summon Mushroom: unknown
+Ability - Summon Mushroom: progression
 Ability - Summon Rock: unknown
 Ability - Swimming: progression
 Ability - Tackle: progression
@@ -192,7 +192,7 @@ Abyssal Sword: unknown
 Ahrimaaya: unknown
 Akhlut Egg: unknown
 Akhlut Saddle: unknown
-Alchemist: unknown
+Alchemist: filler
 Alien Shard: unknown
 Almond: filler
 Amberlgna Egg: progression
@@ -221,7 +221,7 @@ Arch Bow+2: unknown
 Arch Bow+3: unknown
 Arch Bow+4: unknown
 Arch Bow+5: unknown
-Arch Bow: unknown
+Arch Bow: useful
 Argiope Egg: unknown
 Argiope Pheromones: unknown
 Ascendant Egg: unknown
@@ -260,14 +260,14 @@ Belt+5: unknown
 Belt: useful
 Berry: filler
 Big Plant Pot: unknown
-Big Potion: unknown
+Big Potion: filler
 Bird Seed: unknown
 Black Flame: unknown
 Blade Widow Egg: unknown
 Blade Widow Pheromones: useful
 Blob Crown: unknown
 Blob Egg: unknown
-Blob Key: unknown
+Blob Key: progression
 Blood Vessel+1: unknown
 Blood Vessel+2: unknown
 Blood Vessel+3: unknown
@@ -275,7 +275,7 @@ Blood Vessel+4: unknown
 Blood Vessel+5: unknown
 Blood Vessel: unknown
 Blue Cave key: progression
-Blue Gem: unknown
+Blue Gem: filler
 Bow+1: useful
 Bow+2: unknown
 Bow+3: unknown
@@ -350,7 +350,7 @@ Claws+3: unknown
 Claws+4: unknown
 Claws+5: useful
 Claws: useful
-Clear Stone: unknown
+Clear Stone: filler
 Coat+1: unknown
 Coat+2: unknown
 Coat+3: unknown
@@ -364,7 +364,7 @@ Copper: filler
 Corn: unknown
 Cotton: useful
 Crackle Knight Egg: unknown
-Craft Box: unknown
+Craft Box: filler
 Crimson Gem: unknown
 Crit Ring+1: unknown
 Crit Ring+2: unknown
@@ -515,7 +515,7 @@ Fishing Rod+2: unknown
 Fishing Rod+3: unknown
 Fishing Rod+4: unknown
 Fishing Rod+5: unknown
-Fishing Rod: unknown
+Fishing Rod: useful
 Flaming Spear: useful
 Flute+1: unknown
 Flute+2: unknown
@@ -569,7 +569,7 @@ Gold Feather+3: unknown
 Gold Feather+4: unknown
 Gold Feather+5: unknown
 Gold Feather: unknown
-Gold: unknown
+Gold: filler
 Grapes: filler
 Grapnel Launcher: unknown
 Gray Pearl+1: unknown
@@ -601,7 +601,7 @@ Harp+3: unknown
 Harp+4: unknown
 Harp+5: unknown
 Harp: unknown
-Hazelnut: unknown
+Hazelnut: filler
 Heat-Proof Gloves: unknown
 Heavy Greaves+1: useful
 Heavy Greaves+2: unknown
@@ -674,7 +674,7 @@ Infinity Flame+5: unknown
 Infinity Flame: unknown
 Insect Pheromones: unknown
 Insulated Gloves: unknown
-Iron: unknown
+Iron: filler
 Kame Chi: unknown
 Kame Egg: unknown
 Kanko Egg: unknown
@@ -683,7 +683,7 @@ Katana+2: unknown
 Katana+3: unknown
 Katana+4: unknown
 Katana+5: unknown
-Katana: unknown
+Katana: filler
 Katar+1: unknown
 Katar+2: unknown
 Katar+3: unknown
@@ -691,7 +691,7 @@ Katar+4: unknown
 Katar+5: unknown
 Katar: useful
 Keeper Master: unknown
-Key of Power: unknown
+Key of Power: progression
 King Blob Egg: unknown
 Knightly Shield: unknown
 Koi Egg: progression
@@ -711,7 +711,7 @@ Large Shield+2: unknown
 Large Shield+3: unknown
 Large Shield+4: unknown
 Large Shield+5: unknown
-Large Shield: unknown
+Large Shield: useful
 Lava Blob Egg: unknown
 Leather: filler
 Level Badge 42: useful
@@ -760,7 +760,7 @@ Mana Ring+2: unknown
 Mana Ring+3: unknown
 Mana Ring+4: unknown
 Mana Ring+5: unknown
-Mana Ring: unknown
+Mana Ring: useful
 Mandolin+1: unknown
 Mandolin+2: unknown
 Mandolin+3: unknown
@@ -917,20 +917,20 @@ Polterofen Egg: unknown
 Potato: filler
 Potion: useful
 Power Suit: unknown
-Primordial Branch: unknown
+Primordial Branch: useful
 Prismatic Shard: unknown
 Progressive Boulders: unknown
 Progressive Earth Orbs: progression
-Progressive Fire Orbs: unknown
+Progressive Fire Orbs: progression
 Progressive Flight: unknown
 Progressive Ice Orbs: unknown
 Progressive Light: unknown
 Progressive Lightning Orbs: unknown
 Progressive Magic: unknown
-Progressive Mobility: unknown
+Progressive Mobility: progression
 Progressive Mount: unknown
 Progressive Orbs: unknown
-Progressive Shroud: unknown
+Progressive Shroud: progression
 Progressive Swimming: unknown
 Progressive Terrain: unknown
 Progressive Walls: unknown
@@ -940,7 +940,7 @@ Projectile Sphere+2: unknown
 Projectile Sphere+3: unknown
 Projectile Sphere+4: unknown
 Projectile Sphere+5: unknown
-Projectile Sphere: unknown
+Projectile Sphere: useful
 Promethean Battery: progression
 Promethean Egg: unknown
 Pure Leaf+1: filler
@@ -982,10 +982,10 @@ Restoring Wand+3: unknown
 Restoring Wand+4: unknown
 Restoring Wand+5: unknown
 Restoring Wand: unknown
-Reward Box Lvl 1: unknown
+Reward Box Lvl 1: filler
 Reward Box Lvl 2: filler
-Reward Box Lvl 3: unknown
-Reward Box Lvl 4: unknown
+Reward Box Lvl 3: filler
+Reward Box Lvl 4: filler
 Reward Box Lvl 5: filler
 Reward Box X: unknown
 Ribbon+1: unknown
@@ -997,7 +997,7 @@ Ribbon: filler
 River Clay: unknown
 Rocky Egg: unknown
 Ruby: filler
-Runestone Shard: unknown
+Runestone Shard: progression
 Salahammer Egg: unknown
 Sanctuary Token: progression
 Sapphire: useful
@@ -1018,7 +1018,7 @@ Scythe+2: unknown
 Scythe+3: unknown
 Scythe+4: unknown
 Scythe+5: unknown
-Scythe: unknown
+Scythe: useful
 Shard of Winter: useful
 Sharp Fin+1: unknown
 Sharp Fin+2: unknown
@@ -1053,9 +1053,9 @@ Silk: unknown
 Silvaero Egg: unknown
 Silvaero Harness: progression
 Silver Feather: progression
-Silver: unknown
+Silver: filler
 Sizzle Knight Egg: unknown
-Skill Potion: unknown
+Skill Potion: filler
 Skill Resetter: unknown
 Skorch Egg: unknown
 Sledgehammer: unknown
@@ -1107,7 +1107,7 @@ Spirit Blaze+5: unknown
 Spirit Blaze: unknown
 Spirit Charm: unknown
 Staff of Doom+1: unknown
-Staff of Doom+2: unknown
+Staff of Doom+2: useful
 Staff of Doom+3: unknown
 Staff of Doom+4: unknown
 Staff of Doom+5: unknown
@@ -1117,7 +1117,7 @@ Staff+2: unknown
 Staff+3: unknown
 Staff+4: unknown
 Staff+5: unknown
-Staff: unknown
+Staff: useful
 Stardust: filler
 Static Loop+1: unknown
 Static Loop+2: useful
@@ -1126,7 +1126,7 @@ Static Loop+4: unknown
 Static Loop+5: unknown
 Static Loop: useful
 Steam Golem Egg: unknown
-Steel: unknown
+Steel: filler
 Stolby Egg: unknown
 Stolby's Spellbook: unknown
 Strange Spores: unknown
@@ -1221,7 +1221,7 @@ Torch+2: unknown
 Torch+3: unknown
 Torch+4: unknown
 Torch+5: unknown
-Torch: unknown
+Torch: useful
 Totem+1: unknown
 Totem+2: unknown
 Totem+3: unknown
@@ -1233,7 +1233,7 @@ Toxic Pot+2: unknown
 Toxic Pot+3: unknown
 Toxic Pot+4: unknown
 Toxic Pot+5: unknown
-Toxic Pot: unknown
+Toxic Pot: useful
 Toxic Sludge: unknown
 Toxiquus Egg: unknown
 Training Dummy: unknown

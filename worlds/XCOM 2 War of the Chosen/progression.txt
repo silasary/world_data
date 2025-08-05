@@ -1,4 +1,4 @@
-[Chosen Hunt] Assassin Stronghold: unknown
+[Chosen Hunt] Assassin Stronghold: progression
 [Chosen Hunt] Faction Influence: useful
 [Chosen Hunt] Hunter Stronghold: progression
 [Chosen Hunt] Warlock Stronghold: progression
@@ -6,7 +6,7 @@
 [Resource] 10 Alien Alloys: filler
 [Resource] 10 Elerium Crystals: useful
 [Resource] 10 Intel: useful
-[Resource] 15 Alien Alloys: unknown
+[Resource] 15 Alien Alloys: useful
 [Resource] 15 Elerium Crystals: filler
 [Resource] 15 Intel: useful
 [Resource] 20 Intel: unknown
@@ -14,6 +14,7 @@
 [Resource] 3 Ability Points: filler
 [Resource] 35 Supplies: useful
 [Resource] 5 Ability Points: filler
+[Resource] 5 Alien Alloys: useful
 [Resource] 5 Elerium Crystals: useful
 [Resource] 50 Supplies: useful
 [Resource] 7 Ability Points: useful
@@ -46,7 +47,7 @@
 [Tech] Hybrid Materials: unknown
 [Tech] Modular Weapons: useful
 [Tech] Muton Autopsy: useful
-[Tech] Plasma Lance: unknown
+[Tech] Plasma Lance: progression
 [Tech] Progressive Armor: useful
 [Tech] Progressive GREMLIN: useful
 [Tech] Progressive Melee Weapon: useful

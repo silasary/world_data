@@ -87,7 +87,7 @@ Bio: useful
 Black Belt: unknown
 Black Bolts: unknown
 Black Cowl: unknown
-Black Garb: unknown
+Black Garb: filler
 Black Mask: filler
 Black Orb: progression
 Black Robes: unknown
@@ -149,7 +149,7 @@ Cactus Fruit: unknown
 Caldera: unknown
 Caliper: unknown
 Calot Hat: unknown
-Cameo Belt: unknown
+Cameo Belt: filler
 Cancer Gem: unknown
 Capella: unknown
 Capricorn Gem: unknown
@@ -250,7 +250,7 @@ Dispel Mote: filler
 Dispel: unknown
 Dispelga: unknown
 Domaine Calvados: unknown
-Doom Mace: unknown
+Doom Mace: filler
 Dorsal Fin: unknown
 Drab Wool: unknown
 Dragon Helm: unknown
@@ -312,7 +312,7 @@ Fire: useful
 Firefly: filler
 First Aid: unknown
 Fish Scale: unknown
-Flame Shield: unknown
+Flame Shield: filler
 Flame Staff: unknown
 Flametongue: unknown
 Flare: unknown
@@ -413,7 +413,7 @@ Holy Crystal: unknown
 Holy Lance: unknown
 Holy Magicite: unknown
 Holy Mote: filler
-Holy Rod: unknown
+Holy Rod: useful
 Holy Stone: unknown
 Holy: unknown
 Horakhty's Flame: unknown
@@ -494,7 +494,7 @@ Longbow: unknown
 Longsword: unknown
 Lordly Robes: unknown
 Loxley Bow: filler
-Lu Shang's Badge: unknown
+Lu Shang's Badge: filler
 Lumber: unknown
 Lusterless Medallion: progression
 Mace: unknown
@@ -618,7 +618,7 @@ Prince's Kiss: filler
 Protect: useful
 Protectga: unknown
 Putrid Liquid: unknown
-Quality Hide: unknown
+Quality Hide: filler
 Quality Lumber: unknown
 Quality Pelt: unknown
 Quality Stone: unknown
@@ -810,7 +810,7 @@ Turtleshell Choker: unknown
 Tyrant Bone: filler
 Tyrant Hide: unknown
 Ultima Blade: unknown
-Ultima: unknown
+Ultima: useful
 Undin Halcyon: unknown
 Unpurified Ether: unknown
 Vampyr Fang: unknown
@@ -878,7 +878,7 @@ Zeromus: progression
 Zeus Mace: unknown
 Zodiac Escutcheon: unknown
 Zodiac Spear: unknown
-Zodiark: unknown
+Zodiark: useful
 Zombie Powder: unknown
 Zwill Blade: unknown
 Zwill Crossblade: unknown

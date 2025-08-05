@@ -3,6 +3,7 @@
 20 Starting Vegetables: unknown
 25 Starting Clay: unknown
 25 Starting Mushrooms: unknown
+Advanced Rain Collector: unknown
 Alchemist's Hut: unknown
 Ale: unknown
 Algae: unknown
@@ -26,14 +27,17 @@ Cellar: unknown
 Clan Hall: unknown
 Clay Pit: unknown
 Clay: unknown
+Clothier: unknown
 Coal: unknown
 Cobbler: unknown
 Cookhouse: unknown
 Cooperage: unknown
+Copper Bars: unknown
 Copper Ore: unknown
 Crystallized Dew: unknown
 Distillery: unknown
 Druid's Hut: unknown
+Dye: unknown
 Eggs: unknown
 Explorers Lodge: unknown
 Fabric: unknown
@@ -44,6 +48,7 @@ Forester's Hut: unknown
 Furnace: unknown
 Grain: unknown
 Granary: unknown
+Greenhouse: unknown
 Grill: unknown
 Guardian Blood: unknown
 Guardian Feathers: progression
@@ -55,6 +60,7 @@ Herbs: unknown
 Incense: unknown
 Insects: unknown
 Jerky: unknown
+Kiln: unknown
 Leather: unknown
 Leatherworker: unknown
 Lumber Mill: unknown
@@ -77,6 +83,7 @@ Pipes: unknown
 Planks: trap
 Plantation: unknown
 Porridge: unknown
+Pottery: unknown
 Press: unknown
 Provisioner: unknown
 Purging Fire: unknown
@@ -102,9 +109,12 @@ Tea: unknown
 Teahouse: unknown
 Temple: unknown
 Tinctury: unknown
+Tinkerer: unknown
 Tools: unknown
 Toolshop: unknown
 Trapper's Camp: unknown
+Vegetables: unknown
 Waterskins: unknown
 Wildfire Essence: unknown
+Wine: unknown
 Workshop: unknown

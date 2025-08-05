@@ -1,19 +1,19 @@
-Additional Palette Color: progression
+Additional Palette Color: filler
 Airbrush: useful
-Brush: progression
+Brush: useful
 Clear Image Trap: trap
-Curve: filler
-Ellipse: filler
-Eraser/Color Eraser: progression
-Fill With Color: filler
+Curve: useful
+Ellipse: useful
+Eraser/Color Eraser: useful
+Fill With Color: useful
 Flip Horizontal Trap: trap
 Flip Vertical Trap: trap
-Free-Form Select: filler
+Free-Form Select: useful
 Invert Colors Trap: trap
-Line: filler
+Line: useful
 Magnifier: useful
-Pencil: progression
-Pick Color: useful
+Pencil: useful
+Pick Color: progression
 Polygon: useful
 Progressive Canvas Height: progression
 Progressive Canvas Width: progression
@@ -21,7 +21,7 @@ Progressive Color Depth (Blue): progression
 Progressive Color Depth (Green): progression
 Progressive Color Depth (Red): progression
 Rectangle: useful
-Rounded Rectangle: filler
+Rounded Rectangle: useful
 Select: useful
-Text: filler
+Text: useful
 Undo Trap: trap

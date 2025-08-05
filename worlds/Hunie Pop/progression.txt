@@ -1,44 +1,47 @@
 Acorns: unknown
 Amethyst: unknown
-Arcade Cabinet: unknown
+Arcade Cabinet: useful
 Arcade Joystick: unknown
 Armillary Sphere: unknown
 Baby Binky: unknown
 Bag of Goldfish: unknown
-Bagel: unknown
+Bagel: filler
 Baking Utensils: unknown
 Ball of Yarn: unknown
 Basket Ball: unknown
 Bead Bracelet: unknown
 Beer: unknown
+Bell Peppers: unknown
 Bliss Beads: unknown
 Blotter Tabs: unknown
 Blue Orchid: unknown
 Board Game: unknown
 Bonsai Tree: unknown
 Boxing Gloves: unknown
-Bubble Gum: unknown
-Cabbage: unknown
+Bubble Gum: filler
+Cabbage: filler
 Canvas & Easel: unknown
 Cardio Weights: unknown
-Carrot: unknown
+Carrot: filler
+Champagne: filler
 Cheerleading Uniform: unknown
 Chess Set: unknown
 Chocolate: unknown
 Chopsticks: unknown
 Cigarette Pack: unknown
-Cinnamon Perfume: unknown
-Cocktail: unknown
-Coffee: unknown
+Cinnamon Perfume: filler
+Cocktail: filler
+Coconut: filler
+Coffee: filler
 Compact Mirror: unknown
 Compass: unknown
-Cookies: unknown
+Cookies: filler
 Cork Wedge Sandals: unknown
-Corndog: unknown
+Corndog: filler
 Cotton Candy: unknown
-Cucumber: unknown
-Cupcakes: unknown
-Daiquiri: unknown
+Cucumber: filler
+Cupcakes: filler
+Daiquiri: filler
 Dancing Fan: unknown
 Dart Board: unknown
 Decorative Pens: unknown
@@ -46,6 +49,7 @@ Diamond: unknown
 Diving Tank: unknown
 Double Hair Bow: unknown
 Drawing Mannequin: unknown
+Eggplant: filler
 Emerald: unknown
 Endurance Ring: unknown
 Eyelash Curler: unknown
@@ -64,8 +68,8 @@ Fuzzy Boots: unknown
 Fuzzy Stocking: unknown
 Gamer Glove: unknown
 Garden Gnome: unknown
-Garden Shovel: unknown
-Gingerbread Man: unknown
+Garden Shovel: progression
+Gingerbread Man: filler
 Girly Backpack: useful
 Glass Bong: unknown
 Glass Pipe: unknown
@@ -73,60 +77,64 @@ Glitter Bottles: unknown
 Glossy Notebook: unknown
 Glow Sticks: unknown
 Goggles: unknown
-Gold Earrings: unknown
-Graduation Cap: unknown
+Gold Earrings: filler
+Graduation Cap: useful
 Green Tea Perfume: unknown
+Hair Brush: unknown
 Hamburger: useful
 Handheld Game: unknown
 Happy Pills: unknown
 Heart Candies: unknown
 Heart Necklace: unknown
-High Def Camera: unknown
+High Def Camera: useful
 Hoop Earrings: unknown
-Jelly Beans: unknown
+Jelly Beans: filler
 Jolly Old Cap: unknown
-Kettle Bell: unknown
+Kettle Bell: progression
 Kimono: useful
 Laptop Pro: unknown
 Laser Pointer: unknown
 Lattice Ball: unknown
 Leg Warmers: unknown
-Lemon Drop: unknown
-Lemon: unknown
+Lemon Drop: filler
+Lemon: filler
 Leopard Print Pumps: unknown
 Lifesaver: unknown
 Lighter: unknown
+Lilac Perfume: unknown
 Lime Margarita: unknown
 Lollipop: unknown
 Lovely Ring: unknown
 Luchador Mask: unknown
 Magic Wand: unknown
 Makeup Kit: unknown
+Mango: unknown
 Maple Leaf: unknown
-Maracas: unknown
-Martini: unknown
+Maracas: filler
+Martini: filler
 Measuring Cup: unknown
 Megaphone: unknown
 Miniature UFO: unknown
-Mistletoe: unknown
+Mistletoe: progression
 Mixing Bowl: unknown
 Model Rocket: unknown
 Mojito: unknown
 Moonrock: unknown
-Muffin: unknown
+Muffin: filler
 Mushrooms: unknown
 Nail Polish: unknown
 Old Fashioned Yoyo: unknown
-Omelette: unknown
+Omelette: filler
 Orange Cosmos: unknown
-Orange Juice: unknown
+Orange Juice: filler
 Orange: unknown
 Oven Mitts: unknown
 Oven Timer: unknown
 Paint Brushes: unknown
 Paint Palette: unknown
 Pancakes: unknown
-Peach Perfume: unknown
+Peach Perfume: filler
+Pearl Necklace: filler
 Peep Toe Heels: unknown
 Pilot's Cap: unknown
 Pina Colada: unknown
@@ -136,7 +144,7 @@ Pinecone: unknown
 Pink Lily: unknown
 Pink Mary Janes: unknown
 Pink Tutu: unknown
-Pizza: unknown
+Pizza: filler
 Pocket Vibe: unknown
 Pom-poms: unknown
 Poncho: unknown
@@ -145,9 +153,9 @@ Pumpkin Pie: unknown
 Punching Bag: unknown
 Puzzle Cube: unknown
 Rainbow Wig: unknown
-Red Tulip: unknown
+Red Tulip: filler
 Retro Controller: unknown
-Ribbon Wreath: unknown
+Ribbon Wreath: progression
 Riceballs: unknown
 Rolling Luggage: unknown
 Rolling Pin: unknown
@@ -159,6 +167,7 @@ Sake: unknown
 Samurai Helmet: unknown
 Sapphire: unknown
 Scratch Post: unknown
+Sea Breeze Perfume: unknown
 Seashell: unknown
 Shiny Lipstick: unknown
 Silver Ring: unknown
@@ -167,19 +176,20 @@ Sketching Pencils: unknown
 Skipping Rope: unknown
 Snorkel: unknown
 Soccer Ball: unknown
-Soda: unknown
+Soda: filler
 Sombrero: unknown
 Space Helmet: unknown
 Squeaky Mouse: unknown
 Stripper Pole: unknown
-Stuffed Bear: unknown
+Stuffed Bear: useful
 Stuffed Cat: unknown
-Stuffed Monkey: unknown
+Stuffed Monkey: filler
 Stuffed Penguin: unknown
 Stuffed Sheep: unknown
 Stuffed Whale: unknown
 Sudoku Books: unknown
 Suede Ankle Booties: unknown
+Sundae: filler
 Sweatbands: unknown
 Swimmers Cap: unknown
 Synthetic Coral: unknown
@@ -190,7 +200,7 @@ Telescope: unknown
 Tennis Balls: useful
 Tennis Racket: useful
 Textbooks: unknown
-Tomatos: unknown
+Tomatos: filler
 Topaz: unknown
 Travel Suitcase: unknown
 Twirly Baton: unknown
@@ -198,22 +208,22 @@ Unlock Girl(aiko): unknown
 Unlock Girl(audrey): unknown
 Unlock Girl(beli): unknown
 Unlock Girl(celeste): unknown
-Unlock Girl(jessie): unknown
+Unlock Girl(jessie): progression
 Unlock Girl(kyanna): unknown
-Unlock Girl(kyu): unknown
+Unlock Girl(kyu): progression
 Unlock Girl(lola): unknown
-Unlock Girl(momo): unknown
+Unlock Girl(momo): progression
 Unlock Girl(nikki): unknown
 Unlock Girl(tiffany): progression
 Unlock Girl(venus): unknown
-Vintage Platforms: unknown
-Vinuela: unknown
+Vintage Platforms: useful
+Vinuela: progression
 Volley Ball: unknown
 Water Bottle: unknown
 Watering Can: unknown
-Watermelon: unknown
-Wedding Cake: unknown
-Whisky: unknown
+Watermelon: filler
+Wedding Cake: filler
+Whisky: filler
 White Pansy: unknown
 Wine: unknown
 Wing Pin: unknown
@@ -238,12 +248,12 @@ momo's panties: unknown
 nikki's panties: unknown
 progressive charisma lv-up: unknown
 progressive flirtation lv-up: unknown
-progressive luck lv-up: unknown
+progressive luck lv-up: useful
 progressive passion lv-up: unknown
-progressive romance lv-up: unknown
+progressive romance lv-up: useful
 progressive sensitivity lv-up: unknown
-progressive sexuality lv-up: unknown
-progressive talent lv-up: unknown
+progressive sexuality lv-up: useful
+progressive talent lv-up: useful
 tiffany's panties: unknown
-venus's panties: unknown
+venus's panties: progression
 victory: unknown
