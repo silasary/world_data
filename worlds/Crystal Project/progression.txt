@@ -19,6 +19,7 @@ Equipment - Angel's Blessing - 2009: unknown
 Equipment - Art of War: unknown
 Equipment - Artillerist Mail - 2146: unknown
 Equipment - Ash Wand: unknown
+Equipment - Assassins Cloak: useful
 Equipment - Autumns Oath: unknown
 Equipment - Awake Ring: unknown
 Equipment - Backbreaker - 1830: unknown
@@ -30,6 +31,7 @@ Equipment - Beatsmith Vest: unknown
 Equipment - Beret: unknown
 Equipment - Berserk - 2072: unknown
 Equipment - Black Cat's Ring - 1876: unknown
+Equipment - Black Needle - 2153: useful
 Equipment - Blackguard - 2034: unknown
 Equipment - Blank Pages: unknown
 Equipment - Bloodplate - 2068: unknown
@@ -84,6 +86,7 @@ Equipment - Craftwork Spear: unknown
 Equipment - Craftwork Wand: unknown
 Equipment - Critique - 2058: unknown
 Equipment - Crystalia Robe - 1628: unknown
+Equipment - Crystalia Seal - 1629: useful
 Equipment - Cursed Eyeball - 1779: unknown
 Equipment - Cursegiver: unknown
 Equipment - Daredevil Boots - 2013: unknown
@@ -253,7 +256,7 @@ Equipment - Pistolero's Arsenal - 2152: unknown
 Equipment - Plague Mask: unknown
 Equipment - Plate of Lion: unknown
 Equipment - Plate of Whale: unknown
-Equipment - Pocket Watch - 2037: unknown
+Equipment - Pocket Watch - 2037: useful
 Equipment - Pointy Hat: unknown
 Equipment - Poisonkiss: unknown
 Equipment - Potion of Aetherbody - 1884: unknown
@@ -304,12 +307,13 @@ Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
 Equipment - Rune Sword: unknown
+Equipment - Rune Wand: unknown
 Equipment - Runeblade Vest - 2142: unknown
 Equipment - Runehammer - 1829: unknown
 Equipment - Samurai Mail: unknown
 Equipment - Sange: unknown
 Equipment - Sanity Ring: unknown
-Equipment - Sawn-off Rifle - 1894: unknown
+Equipment - Sawn-off Rifle - 1894: useful
 Equipment - Scholar Robe: unknown
 Equipment - Scope Bit: unknown
 Equipment - Scope Specs: unknown
@@ -356,6 +360,8 @@ Equipment - Suitor Hat: unknown
 Equipment - Super Shotgun - 1624: unknown
 Equipment - Suppressor Seal - 1767: unknown
 Equipment - Survival Knife - 2130: unknown
+Equipment - Sword of planets - 1663: useful
+Equipment - Sword of the holy flame - 1662: unknown
 Equipment - Tall Stand Ring: unknown
 Equipment - Tar Treks - 2054: unknown
 Equipment - Temporal Robe - 1984: unknown
@@ -381,6 +387,7 @@ Equipment - Warding Glory - 1845: unknown
 Equipment - Warlock Mail: unknown
 Equipment - Warrior Mail: unknown
 Equipment - Weaver Robe: unknown
+Equipment - Weresheep Armor - 1722: useful
 Equipment - Weresheep Gloves - 1724: unknown
 Equipment - Whetstone - 2055: unknown
 Equipment - Wind Thresher: unknown
@@ -736,7 +743,7 @@ Scholar - MP Sickle: unknown
 Scholar - Overload: unknown
 Scholar - Reflection: unknown
 Scholar - Regenerate: unknown
-Scholar - Reverse Polarity: unknown
+Scholar - Reverse Polarity: useful
 Scholar - Roost: unknown
 Scholar - Sleep Aura: unknown
 Scholar - Sun Bath: unknown
