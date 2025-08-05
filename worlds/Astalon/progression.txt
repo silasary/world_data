@@ -35,6 +35,7 @@ Blue Door (Gorgon Tomb - Sword of Mirrors): progression
 Blue Door (Hall of the Phantoms - Above Start): progression
 Blue Door (Hall of the Phantoms - Dead Maiden): progression
 Blue Door (Hall of the Phantoms - Epimetheus): unknown
+Blue Door (Mechanism - Cyclops Den): unknown
 Blue Door (Mechanism - Music Test): progression
 Blue Door (Mechanism - Red Key): progression
 Blue Door (Mechanism - Shortcut): progression
@@ -120,6 +121,7 @@ Crystal (Catacombs - Poison Roots): unknown
 Crystal (Cathedral - 1st Room): unknown
 Crystal (Cathedral - Orbs): unknown
 Crystal (Cathedral - Shaft): unknown
+Crystal (Cathedral - Spike Pit): unknown
 Crystal (Cathedral - Top Right): unknown
 Crystal (Cyclops Den - Start): unknown
 Crystal (Gorgon Tomb - RotA): unknown
@@ -129,6 +131,7 @@ Crystal (Hall of the Phantoms - Below Puzzle): unknown
 Crystal (Hall of the Phantoms - Bottom): unknown
 Crystal (Hall of the Phantoms - Lower): unknown
 Crystal (Hall of the Phantoms - Maiden 2): unknown
+Crystal (Hall of the Phantoms - Rock Access): unknown
 Crystal (Mechanism - 1st Room): unknown
 Crystal (Mechanism - Campfire): unknown
 Crystal (Mechanism - Cloak): unknown
@@ -147,6 +150,7 @@ Crystal (Ruins of Ash - Ladder Left): unknown
 Crystal (Ruins of Ash - Ladder Right): unknown
 Crystal (Ruins of Ash - Left Ascend): unknown
 Crystal (Ruins of Ash - Spike Balls): unknown
+Crystal (Ruins of Ash - Triple 2): unknown
 Crystal (Tower Roots - Dark Arias): unknown
 Crystal (Tower Roots - Gold): progression
 Cutscene Trap: trap
@@ -160,6 +164,7 @@ Face (Catacombs - Bow): unknown
 Face (Catacombs - Campfire): unknown
 Face (Catacombs - Double Door): unknown
 Face (Catacombs - x4): unknown
+Face (Cathedral - Left): unknown
 Face (Cathedral - Right): unknown
 Face (Caves - 1st Room): unknown
 Face (Mechanism - Volantis): unknown
@@ -410,6 +415,7 @@ Switch (Gorgon Tomb - Spike Tunnel): unknown
 Switch (Gorgon Tomb - Sword Access): unknown
 Switch (Gorgon Tomb - Sword): unknown
 Switch (Gorgon Tomb - Upper Path Access): unknown
+Switch (Gorgon Tomb - Upper Path Blocks): unknown
 Switch (Hall of the Phamtoms - Claw Access): progression
 Switch (Hall of the Phantoms - 1st Room): unknown
 Switch (Hall of the Phantoms - Above Old Man): unknown
@@ -426,6 +432,7 @@ Switch (Hall of the Phantoms - TP Puzzle): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
+Switch (Mechanism - Arias Cyclops): unknown
 Switch (Mechanism - Block Stairs): unknown
 Switch (Mechanism - Boots Lower): unknown
 Switch (Mechanism - Boots): unknown
