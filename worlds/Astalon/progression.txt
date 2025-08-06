@@ -122,9 +122,12 @@ Crystal (Cathedral - 1st Room): unknown
 Crystal (Cathedral - Orbs): unknown
 Crystal (Cathedral - Shaft): unknown
 Crystal (Cathedral - Spike Pit): unknown
+Crystal (Cathedral - Top Left): unknown
 Crystal (Cathedral - Top Right): unknown
+Crystal (Cyclops Den - Campfire): unknown
 Crystal (Cyclops Den - Start): unknown
 Crystal (Gorgon Tomb - Ladder): unknown
+Crystal (Gorgon Tomb - Old Man 1): unknown
 Crystal (Gorgon Tomb - Old Man 2): unknown
 Crystal (Gorgon Tomb - RotA): unknown
 Crystal (Hall of the Phantoms - After Claw): unknown
@@ -145,6 +148,7 @@ Crystal (Mechanism - Top Chains): unknown
 Crystal (Mechanism - Triple 1): unknown
 Crystal (Mechanism - Triple 2): unknown
 Crystal (Mechanism - Triple 3): unknown
+Crystal (Ruins of Ash - 1st Room): unknown
 Crystal (Ruins of Ash - 3 Reapers): unknown
 Crystal (Ruins of Ash - Baby Gorgon): unknown
 Crystal (Ruins of Ash - Branch Left): unknown
@@ -155,6 +159,7 @@ Crystal (Ruins of Ash - Ladder Right): unknown
 Crystal (Ruins of Ash - Left Ascend): unknown
 Crystal (Ruins of Ash - Spike Balls): unknown
 Crystal (Ruins of Ash - Triple 2): unknown
+Crystal (Serpent Path - Blocks): unknown
 Crystal (Tower Roots - Dark Arias): unknown
 Crystal (Tower Roots - Gold): progression
 Cutscene Trap: trap
@@ -443,6 +448,7 @@ Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
 Switch (Mechanism - Arias Cyclops): unknown
+Switch (Mechanism - Arias): unknown
 Switch (Mechanism - Block Stairs): unknown
 Switch (Mechanism - Boots Lower): unknown
 Switch (Mechanism - Boots): unknown
@@ -466,6 +472,7 @@ Switch (Mechanism - to Upper GT): unknown
 Switch (Ruins of Ash - Above Centaur): unknown
 Switch (Ruins of Ash - After Worms): unknown
 Switch (Ruins of Ash - Apex Access): unknown
+Switch (Ruins of Ash - Ascend Shortcut): unknown
 Switch (Ruins of Ash - Baby Gorgon): unknown
 Switch (Ruins of Ash - Blood Pot Left): unknown
 Switch (Ruins of Ash - Blood Pot Right): unknown
