@@ -393,6 +393,7 @@ SP Crystal Star: progression
 SP Switch After Star: progression
 SP Switch Bubbles: progression
 SP Switch Double Doors: progression
+Switch (Catacombs - 1st Room): unknown
 Switch (Catacombs - After Blue Door): unknown
 Switch (Catacombs - Claw 1): unknown
 Switch (Catacombs - Claw 2): unknown
@@ -426,6 +427,7 @@ Switch (Gorgon Tomb - GH Shortcut): unknown
 Switch (Gorgon Tomb - Gorgonheart): unknown
 Switch (Gorgon Tomb - Spike Tunnel): unknown
 Switch (Gorgon Tomb - Sword Access): unknown
+Switch (Gorgon Tomb - Sword Backtrack): unknown
 Switch (Gorgon Tomb - Sword): unknown
 Switch (Gorgon Tomb - Upper Path Access): unknown
 Switch (Gorgon Tomb - Upper Path Blocks): unknown
@@ -444,8 +446,10 @@ Switch (Hall of the Phantoms - Left 3): unknown
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - Rock): unknown
 Switch (Hall of the Phantoms - TP Puzzle): unknown
+Switch (Hall of the Phantoms - Teleports): unknown
 Switch (Hall of the Phantoms - To Above Old Man): unknown
 Switch (Hall of the Phantoms - To Claw 1): unknown
+Switch (Hall of the Phantoms - To Claw 2): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
 Switch (Mechanism - Arias Cyclops): unknown
 Switch (Mechanism - Arias): unknown
@@ -497,6 +501,7 @@ Switch (The Apex): unknown
 Switch (Tower Roots - Adorned Left): unknown
 Switch (Tower Roots - Adorned Middle): unknown
 Switch (Tower Roots - Adorned Right): unknown
+Switch (Tower Roots - Bottom): unknown
 Switch (Tower Roots - Elevator): unknown
 Sword of Mirrors: progression
 TR Blue Door: progression
