@@ -82,11 +82,13 @@ Equipment - Congealed Orb - 1900: unknown
 Equipment - Conquest: unknown
 Equipment - Contract: unknown
 Equipment - Convergence LV2 - 1708: unknown
+Equipment - Convergence LV4 - 1735: unknown
 Equipment - Copper Helm: unknown
 Equipment - Copper Suit: unknown
 Equipment - Craftwork Bow: unknown
 Equipment - Craftwork Cap: unknown
 Equipment - Craftwork Crown: unknown
+Equipment - Craftwork Helm: useful
 Equipment - Craftwork Katana - 2118: unknown
 Equipment - Craftwork Mail: unknown
 Equipment - Craftwork Robe: unknown
@@ -167,6 +169,7 @@ Equipment - Glasses: unknown
 Equipment - Gold Ring - 2091: unknown
 Equipment - Golden Eagle - 1621: unknown
 Equipment - Gospel: unknown
+Equipment - Gravedigger: useful
 Equipment - Greasy Shirt - 2096: unknown
 Equipment - Greywood Nunchaku - 1851: unknown
 Equipment - Gusto Charm: unknown
@@ -181,7 +184,7 @@ Equipment - Heirloom Bow - 2108: unknown
 Equipment - Heirloom Katana - 2111: unknown
 Equipment - Heirloom Pages - 2102: unknown
 Equipment - Heirloom Rapier - 2112: unknown
-Equipment - Heirloom Scythe - 2109: unknown
+Equipment - Heirloom Scythe - 2109: useful
 Equipment - Heirloom Shield - 2113: unknown
 Equipment - Heirloom Spear - 2110: useful
 Equipment - Heirloom Sword - 2106: unknown
@@ -265,7 +268,7 @@ Equipment - Padded Vest - 1881: unknown
 Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV4 - 1715: unknown
 Equipment - Parry Knife: unknown
-Equipment - Paypirbak: unknown
+Equipment - Paypirbak: useful
 Equipment - Phoenix Hero's Plate - 2016: unknown
 Equipment - Phoenix Vest - 2155: unknown
 Equipment - Pincer Spear - 1997: unknown
@@ -325,6 +328,7 @@ Equipment - Resist Shifter: unknown
 Equipment - Ribbon: unknown
 Equipment - Ring Mail: unknown
 Equipment - Ritual Dagger - 2056: useful
+Equipment - Rod of conviction LV1 - 1684: unknown
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
@@ -368,6 +372,7 @@ Equipment - Springs Oath: unknown
 Equipment - Squirrel Dung: unknown
 Equipment - Stabbers: unknown
 Equipment - Staff of Balance: unknown
+Equipment - Staff of imagination - 1664: useful
 Equipment - Stage Costume - 2135: unknown
 Equipment - Stalactite - 1950: unknown
 Equipment - Static Rod: unknown
@@ -433,6 +438,7 @@ Item - Ancient Reservoir Pass: unknown
 Item - Ancient Tablet A: unknown
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
+Item - Ancient Tome of Body Mastery - 348: unknown
 Item - Babel Quintar: unknown
 Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
@@ -555,7 +561,7 @@ Item - Nans Cocoa: filler
 Item - Nans Secret Recipe: filler
 Item - Nans Stew: filler
 Item - Neptune Shrine Map: unknown
-Item - Neptune Shrine Pass: unknown
+Item - Neptune Shrine Pass: progression
 Item - Neptune Stone: progression
 Item - New World Stone: unknown
 Item - North Lookout Token: progression
