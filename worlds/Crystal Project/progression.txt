@@ -57,6 +57,7 @@ Equipment - Brawler Seal - 2125: unknown
 Equipment - Brawler Wrap - 2060: unknown
 Equipment - Breastplate: unknown
 Equipment - Brimrose Scepter - 1612: unknown
+Equipment - Brionac - 2025: useful
 Equipment - Buckler: unknown
 Equipment - Burglars Glove: unknown
 Equipment - Caduceus - 1994: unknown
@@ -133,6 +134,7 @@ Equipment - Expedition LV3 - 1740: unknown
 Equipment - Expedition LV4 - 1741: unknown
 Equipment - Expedition LV5 - 1754: unknown
 Equipment - Fairys Ring: unknown
+Equipment - Fallout - 2043: useful
 Equipment - Familiar Hoodie - 2126: unknown
 Equipment - Fang Pendant: unknown
 Equipment - Fanged Nunchaku - 1848: unknown
@@ -181,7 +183,7 @@ Equipment - Heirloom Pages - 2102: unknown
 Equipment - Heirloom Rapier - 2112: unknown
 Equipment - Heirloom Scythe - 2109: unknown
 Equipment - Heirloom Shield - 2113: unknown
-Equipment - Heirloom Spear - 2110: unknown
+Equipment - Heirloom Spear - 2110: useful
 Equipment - Heirloom Sword - 2106: unknown
 Equipment - Heirloom Wand - 2103: unknown
 Equipment - Heirloom of Agility - 2116: unknown
@@ -253,6 +255,7 @@ Equipment - Nemesis LV1 - 1696: unknown
 Equipment - Nemesis LV2 - 1703: unknown
 Equipment - Nemesis LV3 - 1719: unknown
 Equipment - Nightingale: unknown
+Equipment - Ninja Vest: useful
 Equipment - Nomad Vest: unknown
 Equipment - Nomads Emblem: unknown
 Equipment - Oak Wand: unknown
