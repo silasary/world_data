@@ -44,6 +44,7 @@ Equipment - Berserk - 2072: unknown
 Equipment - Black Cat's Ring - 1876: unknown
 Equipment - Black Needle - 2153: useful
 Equipment - Blackguard - 2034: unknown
+Equipment - Blade Eater - 1793: unknown
 Equipment - Blank Pages: unknown
 Equipment - Blood of Heroes - 1863: unknown
 Equipment - Bloodplate - 2068: unknown
@@ -56,7 +57,7 @@ Equipment - Book of Salads - 1810: unknown
 Equipment - Boomer Duelist - 1960: unknown
 Equipment - Boomer Shield: unknown
 Equipment - Bottomless Bag - 2040: unknown
-Equipment - Bounty Hunter LV1 - 1748: unknown
+Equipment - Bounty Hunter LV1 - 1748: useful
 Equipment - Braccus' Two-Handed Axe - 1665: unknown
 Equipment - Bracer: unknown
 Equipment - Brawler Seal - 2125: unknown
@@ -105,6 +106,7 @@ Equipment - Convergence LV2 - 1708: unknown
 Equipment - Convergence LV4 - 1735: unknown
 Equipment - Copper Helm: unknown
 Equipment - Copper Suit: unknown
+Equipment - Cotton Hood: unknown
 Equipment - Craftwork Bow: useful
 Equipment - Craftwork Cap: unknown
 Equipment - Craftwork Crown: unknown
@@ -127,13 +129,14 @@ Equipment - Daredevil Boots - 2013: unknown
 Equipment - Dark Gospel: unknown
 Equipment - Darkwood Spear - 1873: unknown
 Equipment - Decapitator: unknown
+Equipment - Defender: useful
 Equipment - Defense Shifter: useful
 Equipment - Deltaic Seal - 1784: unknown
 Equipment - Demon Helm: unknown
 Equipment - Demon Plate: unknown
 Equipment - Demon Scythe - 1998: unknown
 Equipment - Depth-seer's Tome - 1825: unknown
-Equipment - Dirk: unknown
+Equipment - Dirk: useful
 Equipment - Dodge Charm: unknown
 Equipment - Doomsayer Seal - 1780: unknown
 Equipment - Double Barrel Shotgun - 1617: unknown
@@ -149,6 +152,7 @@ Equipment - Eldritch Robe - 2067: unknown
 Equipment - Electrocutioner - 2064: unknown
 Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered crushing fist - 1638: unknown
+Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: unknown
 Equipment - Empowered wildfire - 1636: unknown
 Equipment - Enchanted Nunchaku - 1849: unknown
@@ -311,6 +315,7 @@ Equipment - Padded Vest - 1881: unknown
 Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV4 - 1715: unknown
 Equipment - Parry Knife: unknown
+Equipment - Partizan: unknown
 Equipment - Paypirbak: useful
 Equipment - Phoenix Hero's Plate - 2016: useful
 Equipment - Phoenix Vest - 2155: unknown
@@ -363,10 +368,11 @@ Equipment - Protective Goggles - 2008: unknown
 Equipment - Quintar Pheromones - 1951: unknown
 Equipment - Ranger Seal - 1672: useful
 Equipment - Ranger cape - 1659: unknown
-Equipment - Rapier of Warning - 1988: unknown
+Equipment - Rapier of Warning - 1988: useful
 Equipment - Rapier: unknown
 Equipment - Ravens Hood: unknown
 Equipment - Reaper's Cuffs - 1948: unknown
+Equipment - Red Cap: useful
 Equipment - Red Hairpin: unknown
 Equipment - Red Helmet - 1978: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
@@ -375,6 +381,7 @@ Equipment - Ribbon: unknown
 Equipment - Ring Mail: unknown
 Equipment - Ritual Dagger - 2056: useful
 Equipment - Rod of conviction LV1 - 1684: unknown
+Equipment - Rod of conviction LV2 - 1742: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
@@ -407,6 +414,7 @@ Equipment - Shoddy Bow - 2138: useful
 Equipment - Short Staff: unknown
 Equipment - Short Sword: unknown
 Equipment - Showstopper - 2079: unknown
+Equipment - Siege Bow: useful
 Equipment - Silenced Screams - 1953: unknown
 Equipment - Skewer: unknown
 Equipment - Skull Shield - 2051: unknown
@@ -631,6 +639,7 @@ Item - Mercury Shrine Pass: unknown
 Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
 Item - Milk: filler
+Item - Moon Stone - 369: progression
 Item - Nans Cocoa: filler
 Item - Nans Secret Recipe: filler
 Item - Nans Stew: filler
@@ -649,7 +658,7 @@ Item - Okimoto N.S. Map: unknown
 Item - Okimoto N.S. Pass: unknown
 Item - Old World Stone: unknown
 Item - Overpass Map: unknown
-Item - Owl Drum: unknown
+Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
 Item - Plug Lure: unknown
 Item - Poko Poko Desert Map: unknown
@@ -800,6 +809,7 @@ Job - Flareon - 56: unknown
 Job - Fortress - 78: unknown
 Job - Glaceon - 61: unknown
 Job - Hunter: unknown
+Job - Hydrosophist - 31: progression
 Job - Illusionist - 41: unknown
 Job - Imperial - 74: unknown
 Job - Innkeeper - 28: unknown
@@ -848,7 +858,7 @@ Scholar - Infusion: unknown
 Scholar - Insult: unknown
 Scholar - Lifegiver: unknown
 Scholar - Lucky Dice: unknown
-Scholar - MP Sickle: unknown
+Scholar - MP Sickle: useful
 Scholar - Overload: unknown
 Scholar - Reflection: unknown
 Scholar - Regenerate: unknown
