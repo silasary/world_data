@@ -18,6 +18,7 @@ Equipment - Aether Axe - 2070: useful
 Equipment - Aggro Band: unknown
 Equipment - Ambition LV1 - 1710: useful
 Equipment - Ambition LV2 - 1709: unknown
+Equipment - Ambition LV4 - 1712: unknown
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Ancient Monster Bone - 1852: unknown
 Equipment - Angel's Blessing - 2009: unknown
@@ -128,6 +129,7 @@ Equipment - Dancer's Mask - 1782: unknown
 Equipment - Daredevil Boots - 2013: unknown
 Equipment - Dark Gospel: unknown
 Equipment - Darkwood Spear - 1873: unknown
+Equipment - Day's Harvest - 2024: useful
 Equipment - Decapitator: unknown
 Equipment - Defender: useful
 Equipment - Defense Shifter: useful
@@ -151,6 +153,7 @@ Equipment - Eclipsar Seal - 1772: unknown
 Equipment - Eldritch Robe - 2067: unknown
 Equipment - Electrocutioner - 2064: unknown
 Equipment - Empowered Fortify - 1679: unknown
+Equipment - Empowered Shoking touch - 1691: unknown
 Equipment - Empowered crushing fist - 1638: unknown
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: unknown
@@ -296,7 +299,7 @@ Equipment - Mountain LV4 - 1717: unknown
 Equipment - Mountain LV5 - 1761: unknown
 Equipment - Muggers Glove: useful
 Equipment - Muramasa: unknown
-Equipment - Murgleys: unknown
+Equipment - Murgleys: useful
 Equipment - Musket - 1623: unknown
 Equipment - Nan's Robe - 2007: unknown
 Equipment - Needle - 2053: unknown
@@ -781,7 +784,7 @@ Item - Yamagawa M.A. Map: unknown
 Item - Yamagawa M.A. Pass: unknown
 Item - Z-Potion Pouch: unknown
 Item - Z-Potion: filler
-Item - Zether Pouch: unknown
+Item - Zether Pouch: useful
 Item - Zether: filler
 Job - Adept - 83: unknown
 Job - Aegis: progression
