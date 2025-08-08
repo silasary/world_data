@@ -17,13 +17,13 @@ DRC Small Key: progression
 Deku Leaf: progression
 Delivery Bag: progression
 Din's Pearl: progression
-Dragon Tingle Statue: progression
+Dragon Tingle Statue: mcguffin
 ET Big Key: progression
 ET Compass: filler
 ET Dungeon Map: filler
 ET Small Key: progression
 Earth God's Lyric: progression
-Earth Tingle Statue: progression
+Earth Tingle Statue: mcguffin
 Empty Bottle: progression
 FF Compass: filler
 FF Dungeon Map: filler
@@ -33,18 +33,18 @@ FW Dungeon Map: filler
 FW Small Key: progression
 Farore's Pearl: progression
 Fill-Up Coupon: filler
-Forbidden Tingle Statue: progression
+Forbidden Tingle Statue: mcguffin
 Ghost Ship Chart: progression
-Goddess Tingle Statue: progression
+Goddess Tingle Statue: mcguffin
 Golden Feather: filler
 Grappling Hook: progression
 Great Fairy Chart: filler
 Green Chu Jelly: filler
 Green Rupee: filler
-Heart Container: filler
+Heart Container: useful
 Hero's Charm: filler
 Hookshot: progression
-Hurricane Spin: filler
+Hurricane Spin: useful
 Hyoi Pear: filler
 Iron Boots: progression
 Joy Pendant: filler
@@ -57,7 +57,7 @@ Nayru's Pearl: progression
 Note to Mom: progression
 Octo Chart: filler
 Orange Rupee: filler
-Piece of Heart: filler
+Piece of Heart: useful
 Platform Chart: filler
 Power Bracelets: progression
 Progressive Bomb Bag: useful
@@ -150,7 +150,7 @@ WT Dungeon Map: filler
 WT Small Key: progression
 Wallet Capacity Upgrade: progression
 Wind God's Aria: progression
-Wind Tingle Statue: progression
+Wind Tingle Statue: mcguffin
 Wind Waker: progression
 Wind's Requiem: progression
 Yellow Rupee: filler

@@ -64,31 +64,31 @@ Cold Storage Key: progression
 Conservatory Boo (Boomeo): mcguffin
 Conservatory Key: progression
 Diamond Key: progression
-Diamond: useful
+Diamond: filler
 Dining Room Boo (Boodacious): mcguffin
 Dining Room Key: progression
 East Attic Hallway Key: progression
 Emerald: filler
-Family Hallway Key: useful
+Family Hallway Key: progression
 Fire Element Medal: progression
 Fortune Teller Boo (Booigi): mcguffin
 Fortune Teller Key: progression
-Ghost: filler
-Gold Diamond: filler
+Ghost: trap
+Gold Diamond: progression
 Guest Room Boo (Boonita): mcguffin
 Guest Room Key: progression
 Heart Key: progression
 Hidden Room Boo (GumBoo): mcguffin
 Ice Element Medal: progression
 Ice Trap: trap
-King Boo Hallway Key: unknown
+King Boo Hallway Key: progression
 Kitchen Boo (Booligan): mcguffin
 Kitchen Key: progression
 Large Heart: filler
 Laundry Key: progression
 Laundry Room Boo (Boogie): mcguffin
 Laundry Room Key: progression
-Lower 2F Stairwell Key: useful
+Lower 2F Stairwell Key: progression
 Mario's Glove: progression
 Mario's Hat: progression
 Mario's Letter: progression
@@ -98,7 +98,6 @@ Master Bedroom Boo (Boolicious): mcguffin
 Master Bedroom Key: progression
 Mirror Room Boo (Kung Boo): mcguffin
 Mirror Room Key: progression
-Nana's Room Boo (LamBooger): mcguffin
 Nana's Room Boo (LimBooger): mcguffin
 Nana's Room Key: progression
 North Rec Room Key: progression
@@ -108,25 +107,24 @@ Nursery Boo (TurBoo): mcguffin
 Nursery Key: progression
 Observatory Key: progression
 Parlor Boo (BamBoo): mcguffin
-Parlor Key: useful
+Parlor Key: progression
 Pipe Room Boo (Booffant): mcguffin
 Pipe Room Key: progression
 Poison Mushroom: trap
 Poltergust 4000: useful
 Possession Trap: trap
-Progressive Flower: useful
+Progressive Flower: progression
 Projection Room Boo (ShamBoo): mcguffin
 Projection Room Key: progression
 Rec Room Boo (Booregard): mcguffin
 Ruby: filler
-Safari Key: progression
 Safari Room Boo (Little Boo Peep): mcguffin
-Safari Room Key: trap
+Safari Room Key: progression
 Sapphire: filler
 Sitting Room Boo (Boolivia): mcguffin
-Sitting Room Key: useful
+Sitting Room Key: progression
 Small Heart: filler
-South Rec Room Key: useful
+South Rec Room Key: progression
 Spade Key: progression
 Storage Room Boo (Game Boo): mcguffin
 Storage Room Key: progression
@@ -137,7 +135,7 @@ Tea Room Key: progression
 Telephone Room Boo (Boomerang): mcguffin
 Telephone Room Key: progression
 Twin's Room Boo (Booris): mcguffin
-Twins Bedroom Key: useful
+Twins Bedroom Key: progression
 Upper 2F Stairwell Key: progression
 Wardrobe Balcony Key: progression
 Wardrobe Boo (GameBoo Advance): mcguffin
