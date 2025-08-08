@@ -8,13 +8,13 @@ Anxious Sprout: unknown
 Aquatic Mine: useful
 Arboreal Frippery: useful
 Armored Nut: useful
-Behemoth Jaw: unknown
+Behemoth Jaw: useful
 Boom Cone: useful
 Boss Stone: useful
 Broken Food Master: unknown
 Brute Knuckles: unknown
 Bug Bait: unknown
-Chance Totem: unknown
+Chance Totem: useful
 Child of the Earth: unknown
 Chocolate Cushion: useful
 Citrus Lump: unknown
@@ -59,6 +59,7 @@ Eternal Emerald Eye: unknown
 Exhausted Superstick: unknown
 Extreme Perspirator: useful
 Favorite Gyro Block: unknown
+Five-man Napsack: unknown
 Flame Tiller: useful
 Flame of Tomorrow: unknown
 Flare Cannon: unknown
@@ -84,11 +85,13 @@ Heavy-Duty Magnetizer: unknown
 Hideous Victual: unknown
 Hypnotic Platter: useful
 Icon of Progress: useful
+Impediment Scourge: unknown
 Impenetrable Cookie: unknown
 Imperative Cookie: useful
 Implement of Toil: unknown
 Indomitable CPU: useful
 Infernal Vegetable: useful
+Innocence Lost: useful
 Insect Condo: unknown
 Invigorator: useful
 Joy Receptacle: useful
@@ -144,7 +147,7 @@ Regal Diamond: mcguffin
 Remembered Old Buddy: useful
 Repair Juggernaut: unknown
 Repugnant Appendage: unknown
-Rubber Ugly: unknown
+Rubber Ugly: useful
 Salivatrix: unknown
 Science Project: unknown
 Scrumptious Shell: unknown
