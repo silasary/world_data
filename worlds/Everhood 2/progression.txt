@@ -2,7 +2,7 @@
 0xp: filler
 100xp: filler
 1200xp: unknown
-128xp: unknown
+128xp: filler
 150xp: filler
 15xp: filler
 192xp: unknown
@@ -32,7 +32,7 @@ Cat Ears Cosmetic: unknown
 Clover: useful
 Crimson Bandanna: useful
 Eternal War Key: progression
-Gas Mask Cosmetic: unknown
+Gas Mask Cosmetic: filler
 Gold Key: progression
 Green Key: progression
 Katana: unknown

@@ -249,6 +249,7 @@ Equipment - Iron Armor: useful
 Equipment - Iron Helm: unknown
 Equipment - Iron Rod: useful
 Equipment - Jewel of Defense: unknown
+Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
 Equipment - Kaiser Blade - 1860: unknown
 Equipment - Knicked Knackers: unknown
@@ -394,6 +395,7 @@ Equipment - Scribe - 2093: unknown
 Equipment - Seekers Garb: unknown
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
+Equipment - Sermon - 2063: unknown
 Equipment - Shadow Gi: unknown
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
@@ -829,6 +831,7 @@ Job - Shaman: unknown
 Job - Soldier - 36: unknown
 Job - Summoner: unknown
 Job - Suppressor - 47: unknown
+Job - Umbreon - 58: unknown
 Job - Valkyrie: unknown
 Job - Warlock: progression
 Job - Warrior: unknown
