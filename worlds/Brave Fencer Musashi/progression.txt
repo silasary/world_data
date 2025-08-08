@@ -1,4 +1,4 @@
-1000 Drans: unknown
+1000 Drans: filler
 Acrobat: unknown
 Aged Coin: unknown
 Alchemist: unknown
@@ -18,7 +18,7 @@ CarpentC: progression
 Cheese: useful
 Chef: progression
 Chief: unknown
-Cloth: unknown
+Cloth: useful
 Conductor: unknown
 CookA: unknown
 CookB: unknown
@@ -35,7 +35,7 @@ Haya Wolf: unknown
 Helmet: unknown
 Herb Plant: unknown
 Janitor: mcguffin
-Killer Man Eater: unknown
+Killer Man Eater: filler
 KnightA: progression
 KnightB: unknown
 KnightC: unknown

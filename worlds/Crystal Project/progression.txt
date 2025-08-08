@@ -14,7 +14,7 @@ Equipment - Adventure sword LV3 - 1646: unknown
 Equipment - Adventure sword LV4 - 1647: unknown
 Equipment - Aerotheurge Seal - 1677: unknown
 Equipment - Aerotheurge robe - 1669: unknown
-Equipment - Aether Axe - 2070: unknown
+Equipment - Aether Axe - 2070: useful
 Equipment - Aggro Band: unknown
 Equipment - Ambition LV1 - 1710: useful
 Equipment - Ambition LV2 - 1709: unknown
@@ -93,6 +93,7 @@ Equipment - Cleric Robe: unknown
 Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: unknown
 Equipment - Combat Shotgun - 1626: unknown
+Equipment - Compact LMG - 1618: useful
 Equipment - Compact Pistol - 1616: unknown
 Equipment - Conductor Seal - 1770: unknown
 Equipment - Conduit - 2071: unknown
@@ -159,6 +160,7 @@ Equipment - Expedition LV2 - 1739: unknown
 Equipment - Expedition LV3 - 1740: unknown
 Equipment - Expedition LV4 - 1741: unknown
 Equipment - Expedition LV5 - 1754: unknown
+Equipment - Facetsplitter - 1819: useful
 Equipment - Fairys Ring: unknown
 Equipment - Fallout - 2043: useful
 Equipment - Familiar Hoodie - 2126: unknown
@@ -204,6 +206,7 @@ Equipment - Hand Axe: unknown
 Equipment - Hand of Midas: unknown
 Equipment - Harmacist Robe - 1774: unknown
 Equipment - Harmacist Seal - 1769: unknown
+Equipment - Hatchet: useful
 Equipment - Hawkeye - 2059: unknown
 Equipment - Heat Bandana - 2004: unknown
 Equipment - Heavy Edge - 1805: unknown
@@ -308,7 +311,7 @@ Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV4 - 1715: unknown
 Equipment - Parry Knife: unknown
 Equipment - Paypirbak: useful
-Equipment - Phoenix Hero's Plate - 2016: unknown
+Equipment - Phoenix Hero's Plate - 2016: useful
 Equipment - Phoenix Vest - 2155: unknown
 Equipment - Piercing Bone - 1815: unknown
 Equipment - Pincer Spear - 1997: unknown
@@ -453,11 +456,11 @@ Equipment - The Vault LV5 - 1764: unknown
 Equipment - Thunder Eater - 1791: unknown
 Equipment - Toothpick: unknown
 Equipment - Torch: unknown
-Equipment - Torpid Cuffs: unknown
+Equipment - Torpid Cuffs: useful
 Equipment - Trailblazer's Coat - 1865: unknown
 Equipment - Training Gi: unknown
 Equipment - Training bow - 1631: unknown
-Equipment - Trench Coat - 2006: unknown
+Equipment - Trench Coat - 2006: useful
 Equipment - Triton's Cloak - 1855: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Twinshot Crossbow - 1890: unknown
@@ -565,7 +568,7 @@ Item - East Wing Key: unknown
 Item - Eastern Chasm Map: unknown
 Item - Eastern Chasm Pass: unknown
 Item - Elevator Part: mcguffin
-Item - Ether Pouch: unknown
+Item - Ether Pouch: useful
 Item - Ether: filler
 Item - Europa Stone: unknown
 Item - Fenix Juice Pouch: unknown
