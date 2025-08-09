@@ -26,6 +26,7 @@ HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 Heal Ball: unknown
+Heat Rock: unknown
 Hyper Potion: filler
 Ice Heal: filler
 Icy Rock: filler
@@ -56,18 +57,23 @@ Sun Stone: filler
 TM01: useful
 TM07: useful
 TM08: useful
+TM09: useful
 TM12: useful
 TM13: useful
+TM16: unknown
 TM18: useful
 TM19: useful
+TM20: unknown
 TM24: useful
 TM27: useful
 TM29: useful
 TM31: useful
 TM32: useful
+TM33: unknown
 TM34: useful
 TM35: useful
 TM36: useful
+TM37: unknown
 TM40: useful
 TM41: useful
 TM45: useful
@@ -77,6 +83,8 @@ TM49: useful
 TM52: useful
 TM53: useful
 TM54: useful
+TM55: unknown
+TM56: unknown
 TM57: useful
 TM58: useful
 TM59: unknown
@@ -84,6 +92,7 @@ TM64: useful
 TM67: unknown
 TM68: unknown
 TM71: useful
+TM72: unknown
 TM73: useful
 TM74: useful
 TM77: useful

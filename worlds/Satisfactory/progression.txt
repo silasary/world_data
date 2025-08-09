@@ -127,7 +127,7 @@ Building: Water Extractor: progression
 Building: Windowed Walls: unknown
 Bundle of Four: Somersloops: unknown
 Bundle of Three: Hard Drives: unknown
-Bundle of Three: Mercer Spheres: unknown
+Bundle of Three: Mercer Spheres: useful
 Bundle of Three: Power Shards: unknown
 Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: unknown
@@ -276,7 +276,7 @@ Bundle: Screw: filler
 Bundle: Shatter Rebar: filler
 Bundle: Silica: filler
 Bundle: Silver Hog Statue: filler
-Bundle: Singularity Cell: unknown
+Bundle: Singularity Cell: filler
 Bundle: Smart Plating: useful
 Bundle: Smokeless Powder: filler
 Bundle: Solid Biofuel: filler
