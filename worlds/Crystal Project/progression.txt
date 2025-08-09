@@ -18,7 +18,7 @@ Equipment - Aether Axe - 2070: useful
 Equipment - Aggro Band: unknown
 Equipment - Ambition LV1 - 1710: useful
 Equipment - Ambition LV2 - 1709: unknown
-Equipment - Ambition LV4 - 1712: unknown
+Equipment - Ambition LV4 - 1712: useful
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Ancient Monster Bone - 1852: unknown
 Equipment - Angel's Blessing - 2009: unknown
@@ -183,6 +183,7 @@ Equipment - Fish Skewer: unknown
 Equipment - Fishgutter: unknown
 Equipment - Flagellant Seal - 1678: unknown
 Equipment - Flame Sword: unknown
+Equipment - Flameseeker: unknown
 Equipment - Flamespike: unknown
 Equipment - Flask of Heroism - 1885: useful
 Equipment - Fleuret: unknown
@@ -225,8 +226,9 @@ Equipment - Heirloom Rapier - 2112: unknown
 Equipment - Heirloom Scythe - 2109: useful
 Equipment - Heirloom Shield - 2113: unknown
 Equipment - Heirloom Spear - 2110: useful
+Equipment - Heirloom Staff - 2104: useful
 Equipment - Heirloom Sword - 2106: unknown
-Equipment - Heirloom Wand - 2103: unknown
+Equipment - Heirloom Wand - 2103: useful
 Equipment - Heirloom of Agility - 2116: unknown
 Equipment - Helm of the Phoenix - 1877: unknown
 Equipment - Hemp Hood: unknown
@@ -278,6 +280,7 @@ Equipment - Lucky Platter: useful
 Equipment - Lucky Socks: unknown
 Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
+Equipment - Magic Barrier - 1991: unknown
 Equipment - Magic Finder: unknown
 Equipment - Malifice: unknown
 Equipment - Mana Ring: unknown
@@ -320,6 +323,7 @@ Equipment - Parhia LV4 - 1715: unknown
 Equipment - Parry Knife: unknown
 Equipment - Partizan: unknown
 Equipment - Paypirbak: useful
+Equipment - Phoenix Hero's Crown - 2015: unknown
 Equipment - Phoenix Hero's Plate - 2016: useful
 Equipment - Phoenix Vest - 2155: unknown
 Equipment - Piercing Bone - 1815: unknown
@@ -374,6 +378,7 @@ Equipment - Ranger cape - 1659: unknown
 Equipment - Rapier of Warning - 1988: useful
 Equipment - Rapier: unknown
 Equipment - Ravens Hood: unknown
+Equipment - Reaper Mail: useful
 Equipment - Reaper's Cuffs - 1948: unknown
 Equipment - Red Cap: useful
 Equipment - Red Hairpin: unknown
@@ -383,6 +388,7 @@ Equipment - Resist Shifter: unknown
 Equipment - Ribbon: unknown
 Equipment - Ring Mail: unknown
 Equipment - Ritual Dagger - 2056: useful
+Equipment - Robust Shield - 1992: unknown
 Equipment - Rod of conviction LV1 - 1684: unknown
 Equipment - Rod of conviction LV2 - 1742: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
@@ -457,7 +463,7 @@ Equipment - Sword of planets - 1663: useful
 Equipment - Sword of the holy flame - 1662: unknown
 Equipment - Tall Stand Ring: useful
 Equipment - Tanto: unknown
-Equipment - Tar Treks - 2054: unknown
+Equipment - Tar Treks - 2054: useful
 Equipment - Temporal Blade: useful
 Equipment - Temporal Robe - 1984: unknown
 Equipment - Terpsichorean Seal - 1781: unknown
@@ -556,7 +562,7 @@ Item - Central Lookout Token: unknown
 Item - Cerulean Book: unknown
 Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
-Item - Cobblestone Crag Pass: unknown
+Item - Cobblestone Crag Pass: progression
 Item - Continental Tram Map: unknown
 Item - Continental Tram Pass: unknown
 Item - Courtyard Key: unknown
@@ -632,7 +638,7 @@ Item - Lake Delende Pass: progression
 Item - Land's End Map: unknown
 Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
-Item - Lost Penguin: unknown
+Item - Lost Penguin: mcguffin
 Item - Luxury Key: unknown
 Item - Mage's Bane - 361: unknown
 Item - Mage's Bane Pouch - 362: unknown
@@ -782,12 +788,13 @@ Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
 Item - Yamagawa M.A. Map: unknown
 Item - Yamagawa M.A. Pass: unknown
-Item - Z-Potion Pouch: unknown
+Item - Z-Potion Pouch: useful
 Item - Z-Potion: filler
 Item - Zether Pouch: useful
 Item - Zether: filler
 Job - Adept - 83: unknown
 Job - Aegis: progression
+Job - Aerotheurge - 38: unknown
 Job - Assassin: progression
 Job - Beastmaster: unknown
 Job - Beatsmith: progression
@@ -822,6 +829,7 @@ Job - Landsknecht - 72: unknown
 Job - Luminary - 87: unknown
 Job - Machinist - 88: unknown
 Job - Magical Girl - 91: unknown
+Job - Medic - 76: unknown
 Job - Mimic: progression
 Job - Monk: progression
 Job - Necromancer - 97: unknown

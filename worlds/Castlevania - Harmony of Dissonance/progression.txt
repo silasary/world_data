@@ -14,7 +14,7 @@ Castle Map 1: unknown
 Castle Map 3: unknown
 Chair: mcguffin
 Chandelier: mcguffin
-Cipher's Charm: unknown
+Cipher's Charm: useful
 Closet: mcguffin
 Cloth Tunic: useful
 Crush Boots: progression
@@ -61,7 +61,7 @@ Lucky Charm: filler
 Lucky Ring: useful
 Lure Key: progression
 MK's Bracelet: progression
-Magical Armor: unknown
+Magical Armor: useful
 Mana Prism: filler
 Medicine Jar: filler
 Moon Armor: unknown
@@ -72,6 +72,7 @@ Opal: unknown
 Padded Armor: useful
 Platinum Crown: useful
 Platinum Shoes: unknown
+Platinum Tip: unknown
 Potion: filler
 Pretty Vase: mcguffin
 Raccoon Figure: filler
@@ -93,7 +94,7 @@ Strange Mirror: unknown
 Summer Clothes: unknown
 Sun Armor: useful
 Sylph Feather: progression
-Tall Clock: unknown
+Tall Clock: mcguffin
 Teacup: unknown
 Turkey: filler
 Turquoise: filler
