@@ -23,13 +23,13 @@ Equipment - Ambition LV4 - 1712: useful
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Ancient Monster Bone - 1852: unknown
 Equipment - Angel's Blessing - 2009: unknown
-Equipment - Aphotic Edge: unknown
+Equipment - Aphotic Edge: useful
 Equipment - Aranea - 1977: unknown
 Equipment - Archmage Vest: unknown
 Equipment - Art of War: unknown
 Equipment - Artillerist Mail - 2146: unknown
 Equipment - Ash Wand: unknown
-Equipment - Assassin Vest: unknown
+Equipment - Assassin Vest: useful
 Equipment - Assassins Cloak: useful
 Equipment - Autumns Oath: unknown
 Equipment - Avatar - 2038: unknown
@@ -188,7 +188,7 @@ Equipment - Fanged Nunchaku - 1848: unknown
 Equipment - Feathered Vest - 1995: unknown
 Equipment - Fervor Charm: unknown
 Equipment - Fey Collar - 1798: unknown
-Equipment - Feyblessed Tiara - 1956: unknown
+Equipment - Feyblessed Tiara - 1956: useful
 Equipment - Fire Collar - 1801: unknown
 Equipment - Fire Poker - 2050: unknown
 Equipment - Fish Skewer: unknown
@@ -241,7 +241,7 @@ Equipment - Heirloom Scythe - 2109: useful
 Equipment - Heirloom Shield - 2113: unknown
 Equipment - Heirloom Spear - 2110: useful
 Equipment - Heirloom Staff - 2104: useful
-Equipment - Heirloom Sword - 2106: unknown
+Equipment - Heirloom Sword - 2106: useful
 Equipment - Heirloom Wand - 2103: useful
 Equipment - Heirloom of Agility - 2116: unknown
 Equipment - Helm of the Phoenix - 1877: unknown
@@ -256,7 +256,7 @@ Equipment - Hibernaculum LV5 - 1755: unknown
 Equipment - Hihiirokane - 1824: unknown
 Equipment - Holy Hat: unknown
 Equipment - Hooked Sickle - 1872: unknown
-Equipment - Horned Helm: unknown
+Equipment - Horned Helm: useful
 Equipment - Horologist Seal - 1771: unknown
 Equipment - Hunter Vest: unknown
 Equipment - Hunting Axe: unknown
@@ -370,13 +370,13 @@ Equipment - Primitive Axe - 1811: unknown
 Equipment - Prismatic Barrier LV1 - 1745: unknown
 Equipment - Prismatic Barrier LV2 - 1746: unknown
 Equipment - Prismatic Barrier LV3 - 1747: unknown
-Equipment - Prismatic Ring - 1803: unknown
+Equipment - Prismatic Ring - 1803: useful
 Equipment - Prodder: unknown
 Equipment - Progressive 1H Axe: useful
 Equipment - Progressive 1H Sword: unknown
 Equipment - Progressive 2H Axe: useful
 Equipment - Progressive 2H Sword: unknown
-Equipment - Progressive Beating Staff: unknown
+Equipment - Progressive Beating Staff: useful
 Equipment - Progressive Book: unknown
 Equipment - Progressive Bow: unknown
 Equipment - Progressive Dagger: unknown
@@ -428,7 +428,7 @@ Equipment - Rune Wand: unknown
 Equipment - Runeblade Vest - 2142: unknown
 Equipment - Runehammer - 1829: unknown
 Equipment - Samurai Mail: unknown
-Equipment - Samurai's Other Glove - 2095: unknown
+Equipment - Samurai's Other Glove - 2095: useful
 Equipment - Sange: unknown
 Equipment - Sanity Ring: unknown
 Equipment - Sawn-off Rifle - 1894: useful
@@ -441,7 +441,7 @@ Equipment - Seekers Garb: unknown
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
 Equipment - Sermon - 2063: unknown
-Equipment - Shadow Gi: unknown
+Equipment - Shadow Gi: useful
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
 Equipment - Shell Amulet: unknown
@@ -518,7 +518,7 @@ Equipment - Trench Coat - 2006: useful
 Equipment - Triton's Cloak - 1855: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Twilight's Edge - 1818: unknown
-Equipment - Twinshot Crossbow - 1890: unknown
+Equipment - Twinshot Crossbow - 1890: useful
 Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
 Equipment - Urgency LV2 - 1726: unknown
