@@ -183,7 +183,7 @@ Equipment - Electrocutioner - 2064: unknown
 Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered Shoking touch - 1691: useful
 Equipment - Empowered blessed earth - 1633: useful
-Equipment - Empowered boulder bash - 1632: unknown
+Equipment - Empowered boulder bash - 1632: filler
 Equipment - Empowered crushing fist - 1638: unknown
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: unknown
@@ -247,7 +247,7 @@ Equipment - Hand Axe: unknown
 Equipment - Hand of Midas: unknown
 Equipment - Harmacist Robe - 1774: unknown
 Equipment - Harmacist Seal - 1769: unknown
-Equipment - Harpy Rod - 2001: unknown
+Equipment - Harpy Rod - 2001: useful
 Equipment - Hatchet: useful
 Equipment - Hawkeye - 2059: unknown
 Equipment - Heat Bandana - 2004: unknown
@@ -279,7 +279,7 @@ Equipment - Hihiirokane - 1824: unknown
 Equipment - Hoarfrost Buckler - 1880: unknown
 Equipment - Holy Hat: unknown
 Equipment - Hooked Sickle - 1872: unknown
-Equipment - Hoplite - 2048: unknown
+Equipment - Hoplite - 2048: useful
 Equipment - Horned Helm: useful
 Equipment - Horologist Seal - 1771: unknown
 Equipment - Hunter Vest: unknown
@@ -302,7 +302,7 @@ Equipment - Iron Guard: unknown
 Equipment - Iron Helm: unknown
 Equipment - Iron Rod: useful
 Equipment - Itemmaster's Earrings - 1974: unknown
-Equipment - Jadeforged Ring - 1962: unknown
+Equipment - Jadeforged Ring - 1962: useful
 Equipment - Jewel of Defense: unknown
 Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
@@ -753,7 +753,7 @@ Item - Old World Stone: unknown
 Item - Overpass Map: unknown
 Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
-Item - Plug Lure: unknown
+Item - Plug Lure: filler
 Item - Poko Poko Desert Map: unknown
 Item - Poko Poko Desert Pass: unknown
 Item - Poseidon Shrine Map: unknown
@@ -894,7 +894,7 @@ Job - Chemist: progression
 Job - Cleric: unknown
 Job - Crusader - 127: unknown
 Job - Crystalia - 29: unknown
-Job - Dancer - 80: unknown
+Job - Dancer - 80: progression
 Job - Dervish: progression
 Job - Desperado - 27: unknown
 Job - Duskblade - 85: unknown
@@ -931,7 +931,7 @@ Job - Nomad: progression
 Job - Paladin - 153: unknown
 Job - Pirokinetick - 32: unknown
 Job - Priest - 126: progression
-Job - Ranger - 37: unknown
+Job - Ranger - 37: progression
 Job - Reaper: progression
 Job - Rogue: unknown
 Job - Runeblade - 154: unknown
@@ -955,7 +955,7 @@ Job - Wizard: progression
 Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
 Scholar - Atmoshear: unknown
-Scholar - Barrier: unknown
+Scholar - Barrier: useful
 Scholar - Build Life: useful
 Scholar - Explode: unknown
 Scholar - Fire Breath: unknown
