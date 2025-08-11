@@ -107,7 +107,7 @@ Equipment - Clamsheath - 2085: unknown
 Equipment - Clamshield - 2081: unknown
 Equipment - Clamshirt - 2083: unknown
 Equipment - Clamshoe - 2084: unknown
-Equipment - Cleaver: unknown
+Equipment - Cleaver: useful
 Equipment - Cleric Robe: unknown
 Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: unknown
@@ -187,7 +187,7 @@ Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered Shoking touch - 1691: useful
 Equipment - Empowered blessed earth - 1633: useful
 Equipment - Empowered boulder bash - 1632: filler
-Equipment - Empowered crushing fist - 1638: unknown
+Equipment - Empowered crushing fist - 1638: useful
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: unknown
 Equipment - Empowered wildfire - 1636: unknown
@@ -233,7 +233,7 @@ Equipment - Gaia Vest: unknown
 Equipment - Ganymede's Cloak - 1857: unknown
 Equipment - Geomante Seal - 1675: unknown
 Equipment - Geomante armor - 1660: unknown
-Equipment - Giant Boomer - 1972: unknown
+Equipment - Giant Boomer - 1972: useful
 Equipment - Givers Ring: unknown
 Equipment - Glasses: unknown
 Equipment - Gold Ring - 2091: unknown
@@ -311,7 +311,7 @@ Equipment - Jewel of Defense: unknown
 Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
 Equipment - Kaiser Blade - 1860: unknown
-Equipment - Kings Guard: unknown
+Equipment - Kings Guard: useful
 Equipment - Knicked Knackers: unknown
 Equipment - Knights Plate: unknown
 Equipment - Knockout Stick: unknown
@@ -349,7 +349,7 @@ Equipment - Mimic Mail: unknown
 Equipment - Mirrage - 1707: unknown
 Equipment - Mistcore Beads - 1969: unknown
 Equipment - Mithril Armor - 2078: unknown
-Equipment - Moby Dick: unknown
+Equipment - Moby Dick: useful
 Equipment - Moonchill - 1837: unknown
 Equipment - Moonfrost Wand - 1887: unknown
 Equipment - Mountain LV1 - 1718: unknown
@@ -539,7 +539,7 @@ Equipment - Suitor Hat: unknown
 Equipment - Super Cute Robe - 2132: unknown
 Equipment - Super Shotgun - 1624: unknown
 Equipment - Suppressor Seal - 1767: unknown
-Equipment - Suppressor Spear - 1775: unknown
+Equipment - Suppressor Spear - 1775: useful
 Equipment - Survival Knife - 2130: unknown
 Equipment - Sword of planets - 1663: useful
 Equipment - Sword of the holy flame - 1662: unknown
@@ -574,7 +574,7 @@ Equipment - Triton's Cloak - 1855: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Tsukumogami - 2077: useful
 Equipment - Twilight's Edge - 1818: unknown
-Equipment - Twin Blade Staff - 1847: unknown
+Equipment - Twin Blade Staff - 1847: useful
 Equipment - Twinshot Crossbow - 1890: useful
 Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
@@ -646,7 +646,7 @@ Item - Capital Courtyard Map: unknown
 Item - Capital Jail Map: unknown
 Item - Capital Jail Pass: progression
 Item - Capital Pipeline Map: useful
-Item - Capital Pipeline Pass: unknown
+Item - Capital Pipeline Pass: progression
 Item - Capital Sequoia Map: unknown
 Item - Capital Sequoia Pass: unknown
 Item - Castle Ramparts Map: unknown
@@ -782,7 +782,7 @@ Item - Progressive Quintar Flute: progression
 Item - Progressive Salmon Violin: unknown
 Item - Proving Meadows Map: useful
 Item - Proving Meadows Pass: unknown
-Item - Pyramid Key: unknown
+Item - Pyramid Key: progression
 Item - Quintar Mausoleum Map: unknown
 Item - Quintar Mausoleum Pass: unknown
 Item - Quintar Nest Map: unknown
@@ -870,7 +870,7 @@ Item - Tincture: filler
 Item - Tonic Pouch: filler
 Item - Tonic: filler
 Item - Tough Rod: unknown
-Item - Tram Key: unknown
+Item - Tram Key: progression
 Item - Treasure Finder: useful
 Item - Treasure map #1 - 351: unknown
 Item - Treasure map #2 - 352: unknown
