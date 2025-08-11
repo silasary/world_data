@@ -82,7 +82,7 @@ Covetous Silver Serpent Ring: unknown
 Craftsman's Hammer: unknown
 Crescent Axe: unknown
 Crimson Parma: unknown
-Crimson Water: unknown
+Crimson Water: useful
 Crystal Magic Weapon: unknown
 Cursebite Ring: unknown
 Dagger: unknown
@@ -178,7 +178,7 @@ Great Fireball: unknown
 Great Heal Excerpt: unknown
 Great Heal: unknown
 Great Heavy Soul Arrow: unknown
-Great Lightning Spear: unknown
+Great Lightning Spear: useful
 Great Magic Barrier: unknown
 Great Magic Weapon: unknown
 Great Soul Arrow: unknown
@@ -208,7 +208,7 @@ Helix Halberd: unknown
 Helm of Aurous: unknown
 Hexing Urn: unknown
 Hollow Soldier Helm: unknown
-Holy Water Urn: unknown
+Holy Water Urn: filler
 Homeward Bone: filler
 Homeward: unknown
 Homing Crystal Soulmass: unknown
@@ -278,7 +278,7 @@ Longsword: unknown
 Looking Glass Armor: unknown
 Looking Glass Gauntlets: unknown
 Looking Glass Knight Soul: unknown
-Looking Glass Leggings: unknown
+Looking Glass Leggings: useful
 Looking Glass Mask: unknown
 Lucerne: unknown
 Mace of the Insolent: unknown
@@ -364,7 +364,7 @@ Ring of Binding: unknown
 Ring of Blades: unknown
 Ring of Giants+1: unknown
 Ring of Giants: filler
-Ring of Prayer: unknown
+Ring of Prayer: useful
 Ring of Restoration: unknown
 Ring of Soul Protection: unknown
 Ring of Thorns+1: unknown
@@ -435,6 +435,7 @@ Southern Ritual Band+1: unknown
 Southern Ritual Band: unknown
 Spell Quartz Ring+1: unknown
 Spell Quartz Ring+2: unknown
+Spell Quartz Ring+3: useful
 Spiked Bandit Helm: unknown
 Splintering Lightning Spear: unknown
 Standard Helm: unknown

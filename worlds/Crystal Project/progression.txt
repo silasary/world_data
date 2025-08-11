@@ -7,6 +7,7 @@ Equipment - Adept Seal - 2101: unknown
 Equipment - Adventure axe LV1 - 1640: unknown
 Equipment - Adventure axe LV2 - 1641: unknown
 Equipment - Adventure axe LV3 - 1642: unknown
+Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV3 - 1650: unknown
 Equipment - Adventure bow LV4 - 1651: unknown
 Equipment - Adventure staff LV2 - 1653: unknown
@@ -83,6 +84,7 @@ Equipment - Buffalo Sabre - 1693: unknown
 Equipment - Burglars Glove: unknown
 Equipment - Butter Cutter: unknown
 Equipment - Butterfly Shortspear - 1835: useful
+Equipment - Butterfly: unknown
 Equipment - Caduceus - 1994: unknown
 Equipment - Calamitous Hood - 1613: unknown
 Equipment - Calamitous Robes - 1614: unknown
@@ -118,7 +120,7 @@ Equipment - Conquest: unknown
 Equipment - Contract: unknown
 Equipment - Convergence LV1 - 1681: unknown
 Equipment - Convergence LV2 - 1708: unknown
-Equipment - Convergence LV4 - 1735: unknown
+Equipment - Convergence LV4 - 1735: useful
 Equipment - Copper Helm: unknown
 Equipment - Copper Suit: unknown
 Equipment - Cotton Hood: unknown
@@ -164,6 +166,7 @@ Equipment - Dirk: useful
 Equipment - Dodge Charm: unknown
 Equipment - Doomsayer Seal - 1780: unknown
 Equipment - Double Barrel Shotgun - 1617: unknown
+Equipment - Dragonslayer - 1812: unknown
 Equipment - Dream Hunter: unknown
 Equipment - Dress: unknown
 Equipment - Drunkard Vest - 2145: unknown
@@ -179,6 +182,8 @@ Equipment - Eldritch Robe - 2067: unknown
 Equipment - Electrocutioner - 2064: unknown
 Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered Shoking touch - 1691: useful
+Equipment - Empowered blessed earth - 1633: useful
+Equipment - Empowered boulder bash - 1632: unknown
 Equipment - Empowered crushing fist - 1638: unknown
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: unknown
@@ -198,7 +203,7 @@ Equipment - Fallout - 2043: useful
 Equipment - Familiar Hoodie - 2126: unknown
 Equipment - Fang Pendant: unknown
 Equipment - Fanged Nunchaku - 1848: unknown
-Equipment - Feathered Vest - 1995: unknown
+Equipment - Feathered Vest - 1995: useful
 Equipment - Fervor Charm: unknown
 Equipment - Fey Collar - 1798: unknown
 Equipment - Feyblessed Tiara - 1956: useful
@@ -233,7 +238,7 @@ Equipment - Gospel: unknown
 Equipment - Gradivus - 2022: unknown
 Equipment - Gravedigger: useful
 Equipment - Greasy Shirt - 2096: unknown
-Equipment - Greywood Nunchaku - 1851: unknown
+Equipment - Greywood Nunchaku - 1851: useful
 Equipment - Grim Scythe: unknown
 Equipment - Gusto Charm: unknown
 Equipment - Halberd: unknown
@@ -292,6 +297,7 @@ Equipment - Insight - 2039: unknown
 Equipment - Insignia Helm: unknown
 Equipment - Invisible Shield - 2029: unknown
 Equipment - Iron Armor: useful
+Equipment - Iron Guard: unknown
 Equipment - Iron Helm: unknown
 Equipment - Iron Rod: useful
 Equipment - Itemmaster's Earrings - 1974: unknown
@@ -321,7 +327,7 @@ Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
 Equipment - Magic Barrier - 1991: unknown
-Equipment - Magic Finder: unknown
+Equipment - Magic Finder: useful
 Equipment - Malifice: unknown
 Equipment - Mana Ring: unknown
 Equipment - Mars' Cloak - 1856: unknown
@@ -452,6 +458,7 @@ Equipment - Rod of conviction LV2 - 1742: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
+Equipment - Royal Guard Talisman - 1749: unknown
 Equipment - Rune Sword: unknown
 Equipment - Rune Wand: unknown
 Equipment - Runeblade Vest - 2142: unknown
@@ -459,7 +466,7 @@ Equipment - Runehammer - 1829: unknown
 Equipment - Samurai Mail: unknown
 Equipment - Samurai's Other Glove - 2095: useful
 Equipment - Sange: unknown
-Equipment - Sanity Ring: unknown
+Equipment - Sanity Ring: useful
 Equipment - Sawn-off Rifle - 1894: useful
 Equipment - Scholar Robe: unknown
 Equipment - Scope Bit: unknown
@@ -911,7 +918,7 @@ Job - Landsknecht - 72: unknown
 Job - Luminary - 87: unknown
 Job - Machinist - 88: unknown
 Job - Magical Girl - 91: unknown
-Job - Mars Adept - 152: unknown
+Job - Mars Adept - 152: progression
 Job - Medic - 76: progression
 Job - Mimic: progression
 Job - Monk: progression
