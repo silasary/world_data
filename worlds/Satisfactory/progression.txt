@@ -466,7 +466,7 @@ Recipe: Iodine-Infused Filter: unknown
 Recipe: Ionized Fuel: useful
 Recipe: Iron Alloy Ingot: progression
 Recipe: Iron Ingot: unknown
-Recipe: Iron Pipe: unknown
+Recipe: Iron Pipe: progression
 Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
 Recipe: Iron Rod: progression
