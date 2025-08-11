@@ -11,6 +11,7 @@ Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV3 - 1650: unknown
 Equipment - Adventure bow LV4 - 1651: unknown
 Equipment - Adventure staff LV2 - 1653: unknown
+Equipment - Adventure staff LV3 - 1654: unknown
 Equipment - Adventure staff LV4 - 1639: unknown
 Equipment - Adventure sword LV1 - 1644: unknown
 Equipment - Adventure sword LV2 - 1645: unknown
@@ -106,6 +107,7 @@ Equipment - Clamsheath - 2085: unknown
 Equipment - Clamshield - 2081: unknown
 Equipment - Clamshirt - 2083: unknown
 Equipment - Clamshoe - 2084: unknown
+Equipment - Cleaver: unknown
 Equipment - Cleric Robe: unknown
 Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: unknown
@@ -120,6 +122,7 @@ Equipment - Conquest: unknown
 Equipment - Contract: unknown
 Equipment - Convergence LV1 - 1681: unknown
 Equipment - Convergence LV2 - 1708: unknown
+Equipment - Convergence LV3 - 1734: unknown
 Equipment - Convergence LV4 - 1735: useful
 Equipment - Copper Helm: unknown
 Equipment - Copper Suit: unknown
@@ -230,6 +233,7 @@ Equipment - Gaia Vest: unknown
 Equipment - Ganymede's Cloak - 1857: unknown
 Equipment - Geomante Seal - 1675: unknown
 Equipment - Geomante armor - 1660: unknown
+Equipment - Giant Boomer - 1972: unknown
 Equipment - Givers Ring: unknown
 Equipment - Glasses: unknown
 Equipment - Gold Ring - 2091: unknown
@@ -307,6 +311,7 @@ Equipment - Jewel of Defense: unknown
 Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
 Equipment - Kaiser Blade - 1860: unknown
+Equipment - Kings Guard: unknown
 Equipment - Knicked Knackers: unknown
 Equipment - Knights Plate: unknown
 Equipment - Knockout Stick: unknown
@@ -328,6 +333,7 @@ Equipment - Lucky Socks: unknown
 Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
+Equipment - Mages Pike: unknown
 Equipment - Magic Barrier - 1991: unknown
 Equipment - Magic Finder: useful
 Equipment - Malifice: unknown
@@ -343,6 +349,7 @@ Equipment - Mimic Mail: unknown
 Equipment - Mirrage - 1707: unknown
 Equipment - Mistcore Beads - 1969: unknown
 Equipment - Mithril Armor - 2078: unknown
+Equipment - Moby Dick: unknown
 Equipment - Moonchill - 1837: unknown
 Equipment - Moonfrost Wand - 1887: unknown
 Equipment - Mountain LV1 - 1718: unknown
@@ -375,6 +382,7 @@ Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
 Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV2 - 1713: unknown
+Equipment - Parhia LV3 - 1714: unknown
 Equipment - Parhia LV4 - 1715: unknown
 Equipment - Parry Knife: unknown
 Equipment - Parry daggers - 1655: unknown
@@ -490,6 +498,7 @@ Equipment - Shoddy Bow - 2138: useful
 Equipment - Short Staff: unknown
 Equipment - Short Sword: unknown
 Equipment - Showstopper - 2079: unknown
+Equipment - Sickle - 2076: unknown
 Equipment - Siege Bow: useful
 Equipment - Silenced Screams - 1953: unknown
 Equipment - Skewer: unknown
@@ -523,12 +532,14 @@ Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
 Equipment - Storm Gun - 1625: unknown
 Equipment - Storm Helm: unknown
+Equipment - Storm Spear - 1989: unknown
 Equipment - Stout Shield: unknown
 Equipment - Strange Idol - 2097: unknown
 Equipment - Suitor Hat: unknown
 Equipment - Super Cute Robe - 2132: unknown
 Equipment - Super Shotgun - 1624: unknown
 Equipment - Suppressor Seal - 1767: unknown
+Equipment - Suppressor Spear - 1775: unknown
 Equipment - Survival Knife - 2130: unknown
 Equipment - Sword of planets - 1663: useful
 Equipment - Sword of the holy flame - 1662: unknown
@@ -558,10 +569,12 @@ Equipment - Trailblazer's Coat - 1865: unknown
 Equipment - Training Gi: unknown
 Equipment - Training bow - 1631: unknown
 Equipment - Trench Coat - 2006: useful
+Equipment - Trident: unknown
 Equipment - Triton's Cloak - 1855: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Tsukumogami - 2077: useful
 Equipment - Twilight's Edge - 1818: unknown
+Equipment - Twin Blade Staff - 1847: unknown
 Equipment - Twinshot Crossbow - 1890: useful
 Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
