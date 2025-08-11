@@ -58,6 +58,8 @@ TM01: useful
 TM07: useful
 TM08: useful
 TM09: useful
+TM10: useful
+TM11: useful
 TM12: useful
 TM13: useful
 TM16: unknown
@@ -96,12 +98,14 @@ TM71: useful
 TM72: unknown
 TM73: useful
 TM74: useful
+TM75: useful
 TM77: useful
 TM78: unknown
 TM79: useful
 TM80: useful
 TM82: useful
 TM83: useful
+TM84: useful
 TM85: useful
 TM86: useful
 TM87: useful
@@ -117,11 +121,17 @@ Trio Badge: progression
 Ultra Ball: filler
 Water Stone: filler
 Xtransceiver: filler
+[EVENT] Clay Removes Galvantula Web: progression
+[EVENT] Defeat Brycen: progression
 [EVENT] Defeat Burgh: progression
 [EVENT] Defeat Dreamyard Grunts: progression
 [EVENT] Defeat Elesa: progression
+[EVENT] Defeat Elite Four: progression
 [EVENT] Defeat Lenora: progression
 [EVENT] Defeat Skyla: unknown
 [EVENT] Defeat Striaton Gym: progression
+[EVENT] N Escapes On Reshiram/Zekrom: progression
 [EVENT] Receive Bicycle: progression
 [EVENT] Receive Dragon Skull: progression
+[EVENT] Receive HM03 Surf from Alder: progression
+[EVENT] Ring Bell at Celestial Tower: progression
