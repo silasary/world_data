@@ -4,6 +4,9 @@ bob-ceramics: unknown
 bob-heavy-water-processing: unknown
 bob-hydrazine: unknown
 bob-rtg: unknown
+bob-silicon-processing: unknown
+progressive-battery: unknown
+progressive-bob-chemical-processing: unknown
 progressive-bob-electrolyser: unknown
 progressive-bob-vehicle-fission-reactor-equipment: unknown
 progressive-bob-vehicle-solar-panel-equipment: unknown

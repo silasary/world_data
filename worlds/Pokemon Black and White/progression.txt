@@ -131,9 +131,9 @@ Friend Ball: filler
 Full Heal: filler
 Full Incense: filler
 Full Restore: filler
+GB Sounds: filler
 Galactic Key: filler
 Ganlon Berry: filler
-GB Sounds: filler
 Genius Wing: filler
 Ghost Gem: filler
 God Stone: filler
@@ -148,6 +148,13 @@ Grip Claw: filler
 Griseous Orb: filler
 Ground Gem: filler
 Guard Spec.: filler
+HM01 Cut: progression
+HM02 Fly: progression
+HM03 Surf: progression
+HM04 Strength: progression
+HM05 Waterfall: progression
+HM06 Dive: progression
+HP Up: filler
 Haban Berry: filler
 Hard Stone: filler
 Heal Ball: filler
@@ -157,15 +164,8 @@ Heart Scale: useful
 Heat Rock: filler
 Heavy Ball: filler
 Helix Fossil: progression
-HM01 Cut: progression
-HM02 Fly: progression
-HM03 Surf: progression
-HM04 Strength: progression
-HM05 Waterfall: progression
-HM06 Dive: progression
 Hondew Berry: filler
 Honey: filler
-HP Up: filler
 Hyper Potion: filler
 Iapapa Berry: filler
 Ice Gem: filler
@@ -175,9 +175,9 @@ Icy Rock: filler
 Inquiry Mail: filler
 Insect Badge: progression
 Insect Plate: filler
-Iron: filler
 Iron Ball: filler
 Iron Plate: filler
+Iron: filler
 Jaboca Berry: filler
 Jade Orb: filler
 Jet Badge: progression
@@ -262,6 +262,8 @@ Old Gateau: filler
 Old Rod: filler
 Oran Berry: filler
 Oval Stone: useful
+PP Max: filler
+PP Up: filler
 Pal Pad: useful
 Pamtre Berry: filler
 Parcel: progression
@@ -269,8 +271,8 @@ Park Ball: filler
 Parlyz Heal: filler
 Passho Berry: filler
 Payapa Berry: filler
-Pearl: filler
 Pearl String: filler
+Pearl: filler
 Pecha Berry: filler
 Persim Berry: filler
 Petaya Berry: filler
@@ -297,8 +299,6 @@ Power Bracer: filler
 Power Herb: filler
 Power Lens: filler
 Power Weight: filler
-PP Max: filler
-PP Up: filler
 Premier Ball: filler
 Pretty Wing: filler
 Prism Scale: useful
@@ -312,6 +312,7 @@ Qualot Berry: filler
 Quick Ball: filler
 Quick Claw: filler
 Quick Powder: filler
+RSVP Mail: filler
 Rabuta Berry: filler
 Rage Candy Bar: progression
 Rainbow Wing: filler
@@ -349,7 +350,6 @@ Rocky Helmet: filler
 Root Fossil: progression
 Rose Incense: filler
 Rowap Berry: filler
-RSVP Mail: filler
 Rule Book: filler
 S.S. Ticket: filler
 Sacred Ash: useful
@@ -406,14 +406,6 @@ Super Repel: filler
 Super Rod: progression
 Sweet Heart: filler
 Swift Wing: filler
-Tamato Berry: filler
-Tanga Berry: filler
-Thanks Mail: filler
-Thick Club: filler
-Thunder Stone: useful
-Tidal Bell: progression
-Timer Ball: filler
-Tiny Mushroom: filler
 TM01 Hone Claws: mcguffin
 TM02 Dragon Claw: mcguffin
 TM03 Psyshock: mcguffin
@@ -509,6 +501,14 @@ TM92 Trick Room: mcguffin
 TM93 Wild Charge: mcguffin
 TM94 Rock Smash: mcguffin
 TM95 Snarl: mcguffin
+Tamato Berry: filler
+Tanga Berry: filler
+Thanks Mail: filler
+Thick Club: filler
+Thunder Stone: useful
+Tidal Bell: progression
+Timer Ball: filler
+Tiny Mushroom: filler
 Town Map: useful
 Toxic Orb: filler
 Toxic Plate: filler
