@@ -64,6 +64,7 @@ Equipment - Bloodthirsty Vest - 1866: unknown
 Equipment - Board - 2041: useful
 Equipment - Bokken - 1806: unknown
 Equipment - Bone Katars - 1834: unknown
+Equipment - Bone Mail: unknown
 Equipment - Bone Smasher: unknown
 Equipment - Book of Salads - 1810: unknown
 Equipment - Boomer Duelist - 1960: unknown
@@ -140,6 +141,7 @@ Equipment - Craftwork Robe: unknown
 Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Shield: unknown
 Equipment - Craftwork Spear: unknown
+Equipment - Craftwork Sword: unknown
 Equipment - Craftwork Wand: unknown
 Equipment - Critique - 2058: unknown
 Equipment - Crystalia Robe - 1628: unknown
@@ -378,6 +380,7 @@ Equipment - Obsidian Staff - 2019: useful
 Equipment - Oily Sword: unknown
 Equipment - Old Monk's Cloak - 1949: unknown
 Equipment - Old sabre - 1694: unknown
+Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
 Equipment - Parhia LV1 - 1685: unknown
@@ -503,6 +506,7 @@ Equipment - Siege Bow: useful
 Equipment - Silenced Screams - 1953: unknown
 Equipment - Skewer: unknown
 Equipment - Skull Shield - 2051: unknown
+Equipment - Sky Armor: unknown
 Equipment - Sledgehammer - 1831: unknown
 Equipment - Slimy Crown - 1983: unknown
 Equipment - Smelly Gi: unknown
@@ -603,6 +607,7 @@ Equipment - Winter Ring - 1752: unknown
 Equipment - Witch dress - 1657: unknown
 Equipment - Wizard Robe: unknown
 Equipment - Woodchopper - 1804: unknown
+Equipment - Woodsmacker - 1832: unknown
 Equipment - Woven Hood: unknown
 Equipment - Woven Shirt: unknown
 Equipment - Yasha: unknown
@@ -846,6 +851,7 @@ Item - Sweet Pop Candy: filler
 Item - Tall Tall Heights Map: unknown
 Item - Tall, Tall Heights Map: unknown
 Item - Tall, Tall Heights Pass: progression
+Item - Tarot Box - 373: unknown
 Item - The Chalice of Tar Map: unknown
 Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: useful
