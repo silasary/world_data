@@ -57,6 +57,7 @@ Star Piece: filler
 Stardust: filler
 Sun Stone: filler
 TM01: useful
+TM02: unknown
 TM04: unknown
 TM07: useful
 TM08: useful
@@ -79,6 +80,7 @@ TM34: useful
 TM35: useful
 TM36: useful
 TM37: unknown
+TM38: unknown
 TM40: useful
 TM41: useful
 TM44: useful
@@ -126,6 +128,7 @@ Ultra Ball: filler
 Water Stone: filler
 Xtransceiver: filler
 [EVENT] Clay Removes Galvantula Web: progression
+[EVENT] Confront Ghetsis at Relic Castle: unknown
 [EVENT] Defeat Brycen: progression
 [EVENT] Defeat Burgh: progression
 [EVENT] Defeat Dreamyard Grunts: progression
