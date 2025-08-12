@@ -1,4 +1,4 @@
-Applesauce: unknown
+Applesauce: filler
 BUX: useful
 Blackrock Castle Key: progression
 Charge DEF: useful
@@ -6,12 +6,12 @@ Charge: useful
 Clownfish Fillet: filler
 Compost: useful
 Cookie Dough: filler
-Free Fire: unknown
+Free Fire: useful
 Ghost Potion: progression
 Ghostwalker: mcguffin
-Jasmine Tea: unknown
-Jeep Keys: unknown
-Jumbo Ice Cream: unknown
+Jasmine Tea: filler
+Jeep Keys: progression
+Jumbo Ice Cream: filler
 Mysterious Bottle: progression
 Next Fight, Double Pain: trap
 Next Fight, Gusto: trap
@@ -28,8 +28,8 @@ Resurrect: useful
 Shrinking: progression
 Slow Go: filler
 Softener: useful
-Superball: unknown
+Superball: progression
 TIX: filler
-Tickle Stick: unknown
-Train Ticket: unknown
-Whale: unknown
+Tickle Stick: filler
+Train Ticket: progression
+Whale: useful
