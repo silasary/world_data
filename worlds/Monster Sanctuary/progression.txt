@@ -33,7 +33,7 @@
 2x Grapes: unknown
 2x Green Gem: unknown
 2x Hazelnut: unknown
-2x Iron: unknown
+2x Iron: filler
 2x Leather: filler
 2x Level Badge: filler
 2x Linen: unknown
@@ -71,7 +71,7 @@
 2x Strawberry: filler
 2x Switch Stone: filler
 2x Verdant Gem: filler
-2x Walnut: unknown
+2x Walnut: useful
 2x Wool: filler
 300 G: filler
 3000 G: unknown
@@ -165,7 +165,7 @@ Ability - Light: unknown
 Ability - Lightning Bolt: progression
 Ability - Lofty Mount: unknown
 Ability - Minnesang: progression
-Ability - Morph Ball: unknown
+Ability - Morph Ball: progression
 Ability - Mount: unknown
 Ability - Secret Vision: progression
 Ability - Shock Freeze: unknown
@@ -749,7 +749,7 @@ Mage Flask+5: unknown
 Mage Flask: unknown
 Magic Bell: unknown
 Magical Clay: useful
-Magma Chamber key: unknown
+Magma Chamber key: progression
 Magmamoth Egg: unknown
 Magmamoth Pheromones: unknown
 Magmapillar Egg: unknown
@@ -1209,7 +1209,7 @@ Tiny Pin+2: unknown
 Tiny Pin+3: unknown
 Tiny Pin+4: unknown
 Tiny Pin+5: unknown
-Tiny Pin: unknown
+Tiny Pin: useful
 Tome+1: unknown
 Tome+2: unknown
 Tome+3: unknown

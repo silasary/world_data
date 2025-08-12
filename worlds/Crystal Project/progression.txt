@@ -218,6 +218,7 @@ Equipment - Fire Poker - 2050: unknown
 Equipment - Fish Skewer: useful
 Equipment - Fishgutter: unknown
 Equipment - Flagellant Seal - 1678: unknown
+Equipment - Flagellant hood - 1670: useful
 Equipment - Flame Sword: unknown
 Equipment - Flameseeker: unknown
 Equipment - Flamespike: unknown
@@ -325,7 +326,7 @@ Equipment - Leather Outfit: unknown
 Equipment - Leviathan Plate - 1958: unknown
 Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
-Equipment - Lightforged Katars - 1874: unknown
+Equipment - Lightforged Katars - 1874: useful
 Equipment - Lion Crest - 2062: unknown
 Equipment - Longneck Rifle - 1895: unknown
 Equipment - Looters Pin: unknown
@@ -793,7 +794,7 @@ Item - Pyramid Key: progression
 Item - Quintar Mausoleum Map: unknown
 Item - Quintar Mausoleum Pass: unknown
 Item - Quintar Nest Map: unknown
-Item - Quintar Nest Pass: unknown
+Item - Quintar Nest Pass: progression
 Item - Quintar Reserve Map: unknown
 Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
@@ -994,7 +995,7 @@ Scholar - Sleep Aura: unknown
 Scholar - Sun Bath: unknown
 Scholar - Whirlwind: unknown
 Summon - Coyote: unknown
-Summon - Guaba: unknown
+Summon - Guaba: useful
 Summon - Ioske: unknown
 Summon - Juses: unknown
 Summon - Niltsi: useful
