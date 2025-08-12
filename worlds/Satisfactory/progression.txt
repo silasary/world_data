@@ -506,7 +506,7 @@ Recipe: Packaged Oil: useful
 Recipe: Packaged Rocket Fuel: useful
 Recipe: Packaged Sulfuric Acid: useful
 Recipe: Packaged Turbofuel: useful
-Recipe: Packaged Water: unknown
+Recipe: Packaged Water: progression
 Recipe: Parachute: useful
 Recipe: Petroleum Coke: progression
 Recipe: Petroleum Diamonds: progression
