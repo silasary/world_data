@@ -5,6 +5,7 @@ bob-heavy-water-processing: unknown
 bob-hydrazine: unknown
 bob-rtg: unknown
 progressive-bob-electrolyser: unknown
+progressive-bob-vehicle-fission-reactor-equipment: unknown
 progressive-bob-vehicle-solar-panel-equipment: unknown
 progressive-laser-shooting-speed: unknown
 progressive-laser-turrets: unknown

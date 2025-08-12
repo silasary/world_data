@@ -58,7 +58,7 @@ Brightstone Key: unknown
 Broadsword: unknown
 Broken Straight Sword: unknown
 Broken Thief Sword: unknown
-Buckler: unknown
+Buckler: filler
 Caestus: unknown
 Caitha's Chime: unknown
 Caressing Prayer: filler
@@ -86,6 +86,7 @@ Crimson Parma: unknown
 Crimson Water: useful
 Crystal Magic Weapon: unknown
 Cursebite Ring: unknown
+Curved Nil Greatsword: unknown
 Dagger: unknown
 Dark Arrow: unknown
 Dark Fog: unknown
@@ -134,7 +135,7 @@ Eternal Sanctum Key: unknown
 Executioner's Chariot Soul: unknown
 Fading Soul: filler
 Faintstone: unknown
-Falchion: unknown
+Falchion: useful
 Falconer Armor: unknown
 Falconer Boots: filler
 Falconer Gloves: unknown
@@ -150,7 +151,7 @@ Fire Greatarrow: unknown
 Fire Orb: filler
 Fire Seed: filler
 Fire Tempest: unknown
-Fireball: unknown
+Fireball: useful
 Firebomb: unknown
 Firedrake Stone: unknown
 Firestorm: unknown
@@ -168,7 +169,7 @@ Force: filler
 Forgotten Key: unknown
 Gauntlets of Aurous: unknown
 Giant Warrior Club: unknown
-Giant's Kinship: unknown
+Giant's Kinship: progression
 Gold Pine Resin: unknown
 Golden Falcon Shield: unknown
 Golden Wing Shield: unknown
@@ -201,7 +202,7 @@ Havel's Greatshield: unknown
 Havel's Helm: unknown
 Havel's Leggings: unknown
 Hawk Ring: unknown
-Heal: unknown
+Heal: useful
 Heavenly Thunder: unknown
 Heavy Bolt: unknown
 Heavy Boots: unknown
@@ -218,6 +219,7 @@ Homeward: unknown
 Homing Crystal Soulmass: unknown
 Homing Soul Arrow: unknown
 Homing Soulmass: unknown
+Homunculus Mace: useful
 Homunculus Wooden Shield: unknown
 House Key: unknown
 Human Effigy: filler
@@ -258,7 +260,7 @@ Large Soul of a Lost Undead: unknown
 Large Soul of a Nameless Soldier: useful
 Large Soul of a Proud Knight: unknown
 Large Titanite Shard: filler
-Leather Armor: unknown
+Leather Armor: filler
 Leather Boots: filler
 Leather Gloves: unknown
 Leggings of Aurous: unknown
@@ -313,7 +315,7 @@ Old Knight Halberd: unknown
 Old Knight Hammer: unknown
 Old Knight Pike: unknown
 Old Leo Ring: unknown
-Old Radiant Lifegem: unknown
+Old Radiant Lifegem: useful
 Old Sun Ring: unknown
 Olenford's Staff: unknown
 Palestone: unknown
@@ -343,6 +345,7 @@ Priestess Headpiece: unknown
 Priestess Robe: unknown
 Priestess Skirt: mcguffin
 Prism Stone: unknown
+Promised Walk of Peace: unknown
 Protective Chime: unknown
 Puzzling Stone Sword: unknown
 Pyromancy Flame: unknown
@@ -437,7 +440,7 @@ Soul of the Duke's Dear Freja: unknown
 Soul of the King: unknown
 Soul of the Last Giant: unknown
 Soul of the Rotten: unknown
-Southern Ritual Band+1: unknown
+Southern Ritual Band+1: filler
 Southern Ritual Band: unknown
 Spear: useful
 Spell Quartz Ring+1: useful
@@ -478,7 +481,7 @@ Traveling Merchant Gloves: unknown
 Traveling Merchant Hat: filler
 Triclops Snake Troches: unknown
 Tseldora Den Key: progression
-Twilight Herb: unknown
+Twilight Herb: filler
 Twin Dragon Greatshield: unknown
 Twinblade: unknown
 Twinkling Titanite: filler
