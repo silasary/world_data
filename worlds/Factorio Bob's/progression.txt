@@ -14,6 +14,7 @@ bob-rtg: unknown
 bob-silicon-processing: unknown
 bob-steel-mixing-furnace: unknown
 bob-vehicle-engine-equipment: unknown
+explosives: unknown
 flammables: unknown
 low-density-structure: unknown
 oil-gathering: unknown
@@ -26,6 +27,7 @@ progressive-bob-chemical-processing: unknown
 progressive-bob-electric-pole: unknown
 progressive-bob-electrolyser: unknown
 progressive-bob-heat-pipe: unknown
+progressive-bob-pollution-create-module: unknown
 progressive-bob-vehicle-big-turret-equipment: unknown
 progressive-bob-vehicle-fission-reactor-equipment: unknown
 progressive-bob-vehicle-laser-defense-equipment: unknown
@@ -33,6 +35,7 @@ progressive-bob-vehicle-solar-panel-equipment: unknown
 progressive-circuits: unknown
 progressive-electric-energy-accumulators: unknown
 progressive-engine: unknown
+progressive-inserter: unknown
 progressive-laser-shooting-speed: unknown
 progressive-laser-turrets: unknown
 progressive-logistic-system: unknown
