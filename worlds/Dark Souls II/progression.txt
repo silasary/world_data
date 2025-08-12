@@ -32,6 +32,7 @@ Black Knight Ultra Greatsword: unknown
 Black Leather Armor: unknown
 Black Leather Boots: unknown
 Black Leather Gloves: unknown
+Blackweed Balm: filler
 Bleed Stone: unknown
 Bleeding Serum: unknown
 Bloodbite Ring+1: unknown
@@ -94,6 +95,7 @@ Dark Pine Resin: unknown
 Dark Pyromancy Flame: unknown
 Dark Quartz Ring+1: filler
 Dark Quartz Ring: unknown
+Dark Troches: useful
 Darklurker Soul: unknown
 Darknight Stone: unknown
 Dead Again: unknown
@@ -105,7 +107,7 @@ Disc Chime: filler
 Dispelling Ring+1: unknown
 Divine Blessing: filler
 Dragon Acolyte Mask: unknown
-Dragon Charm: unknown
+Dragon Charm: useful
 Dragon Tooth: unknown
 Dragonrider Soul: unknown
 Dragonslayer's Crescent Axe: unknown
@@ -174,7 +176,7 @@ Goldenfruit Balm: unknown
 Grand Lance: unknown
 Grand Spirit Tree Shield: unknown
 Great Club: unknown
-Great Combustion: unknown
+Great Combustion: useful
 Great Fireball: unknown
 Great Heal Excerpt: unknown
 Great Heal: unknown
@@ -253,7 +255,7 @@ Large Club: unknown
 Large Leather Shield: unknown
 Large Soul of a Brave Warrior: unknown
 Large Soul of a Lost Undead: unknown
-Large Soul of a Nameless Soldier: unknown
+Large Soul of a Nameless Soldier: useful
 Large Soul of a Proud Knight: unknown
 Large Titanite Shard: filler
 Leather Armor: unknown
@@ -301,6 +303,7 @@ Monastery Charm: unknown
 Morning Star: unknown
 Mytha, the Baneful Queen Soul: unknown
 Northern Ritual Band: unknown
+Northwarder Hood: useful
 Northwarder Trousers: unknown
 Notched Whip: unknown
 Old Dragonslayer Soul: unknown
@@ -329,7 +332,7 @@ Pickaxe: unknown
 Pike: filler
 Poison Arrow: unknown
 Poison Mist: unknown
-Poison Moss: unknown
+Poison Moss: useful
 Poison Stone: unknown
 Poison Throwing Knife: unknown
 Poisonbite Ring+1: unknown
@@ -367,6 +370,7 @@ Ring of Blades: unknown
 Ring of Giants+1: unknown
 Ring of Giants: filler
 Ring of Prayer: useful
+Ring of Resistance+1: useful
 Ring of Restoration: unknown
 Ring of Soul Protection: unknown
 Ring of Thorns+1: unknown
@@ -402,16 +406,16 @@ Silvercat Ring: unknown
 Simpleton's Spice: filler
 Singer's Dress: unknown
 Skeleton Lord's Soul: unknown
-Skeptic's Spice: unknown
+Skeptic's Spice: filler
 Small Leather Shield: filler
 Small Smooth & Silky Stone: unknown
 Smelter Demon Armor: unknown
 Smelter Demon Gauntlets: filler
-Smelter Demon Leggings: unknown
+Smelter Demon Leggings: useful
 Smelter Demon Soul: unknown
 Smelter Wedge x11: unknown
 Smooth & Silky Stone: unknown
-Soldier Key: unknown
+Soldier Key: progression
 Sorcerer's Staff: unknown
 Soul Appease: unknown
 Soul Arrow: unknown
@@ -435,8 +439,9 @@ Soul of the Last Giant: unknown
 Soul of the Rotten: unknown
 Southern Ritual Band+1: unknown
 Southern Ritual Band: unknown
-Spell Quartz Ring+1: unknown
-Spell Quartz Ring+2: unknown
+Spear: useful
+Spell Quartz Ring+1: useful
+Spell Quartz Ring+2: useful
 Spell Quartz Ring+3: useful
 Spiked Bandit Helm: unknown
 Splintering Lightning Spear: unknown
@@ -525,4 +530,5 @@ Wood Bolt: unknown
 Wooden Shield: unknown
 Yellow Quartz Longsword: filler
 Yellow Quartz Shield: filler
+Yorgh's Ring: useful
 Zweihander: filler

@@ -159,7 +159,7 @@ Bundle: Caterium Ingot: filler
 Bundle: Caterium Ore: filler
 Bundle: Chainsaw: unknown
 Bundle: Circuit Board: unknown
-Bundle: Cluster Nobelisk: unknown
+Bundle: Cluster Nobelisk: filler
 Bundle: Coal: filler
 Bundle: Color Cartridge: unknown
 Bundle: Compacted Coal: unknown

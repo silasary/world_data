@@ -26,6 +26,7 @@ HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
+HM06 Dive: unknown
 Heal Ball: unknown
 Heat Rock: unknown
 Hyper Potion: filler
@@ -56,6 +57,7 @@ Star Piece: filler
 Stardust: filler
 Sun Stone: filler
 TM01: useful
+TM04: unknown
 TM07: useful
 TM08: useful
 TM09: useful
