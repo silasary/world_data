@@ -1,5 +1,6 @@
 advanced-oil-processing: unknown
 bob-alien-orange-research: unknown
+bob-alloy-processing: unknown
 bob-ceramics: unknown
 bob-fluid-canister-processing: unknown
 bob-heat-shield: unknown
@@ -8,6 +9,7 @@ bob-hydrazine: unknown
 bob-lithium-processing: unknown
 bob-nickel-processing: unknown
 bob-nitroglycerin-processing: unknown
+bob-personal-roboport-mk4-equipment: unknown
 bob-rtg: unknown
 bob-silicon-processing: unknown
 bob-steel-mixing-furnace: unknown
@@ -26,16 +28,20 @@ progressive-bob-electrolyser: unknown
 progressive-bob-heat-pipe: unknown
 progressive-bob-vehicle-big-turret-equipment: unknown
 progressive-bob-vehicle-fission-reactor-equipment: unknown
+progressive-bob-vehicle-laser-defense-equipment: unknown
 progressive-bob-vehicle-solar-panel-equipment: unknown
 progressive-circuits: unknown
 progressive-electric-energy-accumulators: unknown
+progressive-engine: unknown
 progressive-laser-shooting-speed: unknown
 progressive-laser-turrets: unknown
+progressive-logistic-system: unknown
 progressive-logistics: unknown
 progressive-oil-processing: unknown
 progressive-personal-battery: unknown
 progressive-productivity-module: unknown
 progressive-robotics: unknown
+progressive-science-pack: unknown
 progressive-solar-panel-equipment: unknown
 progressive-speed-module: unknown
 progressive-steam-power: unknown
