@@ -37,6 +37,7 @@ Jet Badge: progression
 Lax Incense: filler
 Leaf Stone: filler
 Legend Badge: progression
+Luck Incense: unknown
 Max Revive: filler
 Moon Stone: filler
 Nugget: filler
@@ -59,6 +60,7 @@ Sun Stone: filler
 TM01: useful
 TM02: unknown
 TM04: unknown
+TM06: unknown
 TM07: useful
 TM08: useful
 TM09: useful
@@ -70,6 +72,7 @@ TM16: unknown
 TM18: useful
 TM19: useful
 TM20: unknown
+TM21: unknown
 TM24: useful
 TM27: useful
 TM29: useful
@@ -81,6 +84,7 @@ TM35: useful
 TM36: useful
 TM37: unknown
 TM38: unknown
+TM39: unknown
 TM40: useful
 TM41: useful
 TM44: useful
@@ -89,6 +93,7 @@ TM46: unknown
 TM47: useful
 TM48: unknown
 TM49: useful
+TM50: unknown
 TM52: useful
 TM53: useful
 TM54: useful
@@ -142,4 +147,5 @@ Xtransceiver: filler
 [EVENT] Receive Bicycle: progression
 [EVENT] Receive Dragon Skull: progression
 [EVENT] Receive HM03 Surf from Alder: progression
+[EVENT] Receive Light/Dark Stone: unknown
 [EVENT] Ring Bell at Celestial Tower: progression
