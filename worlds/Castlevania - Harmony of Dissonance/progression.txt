@@ -31,7 +31,7 @@ Eye of Vlad: mcguffin
 Face-guard: unknown
 Fairy Journal: useful
 Fancy Clothes: unknown
-Fire Book: unknown
+Fire Book: useful
 Floodgate Key: progression
 Full Helmet: useful
 Gold Trinket: filler
@@ -43,11 +43,13 @@ Guardian Boots: unknown
 Guardian Glove: useful
 Guardian Helm: useful
 Hard Gloves: useful
+Heart Choker: unknown
 Heart Max Up: useful
 Heart of Vlad: mcguffin
 Heaven's Ring: unknown
 Hero Statue: mcguffin
 High Potion: filler
+Hint Card 1: unknown
 Hint Card 2: unknown
 Hint Card 3: unknown
 Hint Card 4: useful
@@ -59,12 +61,13 @@ Kaiser Knuckle: useful
 Kaiser Mail: useful
 King-size Bed: unknown
 Leather Armor: useful
+Leather Boots: filler
 Leather Cap: filler
 Leather Gloves: useful
 Leggings: useful
 Life Max Up: useful
 Lightning Robe: unknown
-Lizard Tail: unknown
+Lizard Tail: progression
 Lucky Charm: filler
 Lucky Ring: useful
 Lure Key: progression
@@ -93,9 +96,10 @@ Rib of Vlad: mcguffin
 Rocking Chair: unknown
 Sage Statue: mcguffin
 Scale Armor: useful
+Side Table: unknown
 Silk Cloak: useful
 Silk Curtain: mcguffin
-Silver Dishes: unknown
+Silver Dishes: mcguffin
 Silver Trinket: useful
 Skull Key: unknown
 Smiling Statue: unknown
