@@ -54,7 +54,7 @@ Assassin's Arrows: useful
 Assassin's Dagger: unknown
 Astrakhan Hat: unknown
 Avenger: unknown
-Bacchus's Wine: unknown
+Bacchus's Wine: filler
 Balaclava: unknown
 Balance Mote: filler
 Balance: useful
@@ -91,7 +91,7 @@ Black Garb: filler
 Black Mask: filler
 Black Orb: progression
 Black Robes: unknown
-Blackened Fragment: unknown
+Blackened Fragment: progression
 Blazer Gloves: unknown
 Bleed: useful
 Blind: useful
@@ -109,7 +109,7 @@ Bomb Fragment: unknown
 Bomb Shell: unknown
 Bone Fragment: unknown
 Bone Helm: filler
-Bone Mail: unknown
+Bone Mail: useful
 Bone of Byblos: unknown
 Bonebreaker: unknown
 Bonecrusher: useful
@@ -172,7 +172,7 @@ Charged Gizzard: unknown
 Charger Barding: unknown
 Charm: unknown
 Cherry Staff: unknown
-Chimera Head: unknown
+Chimera Head: filler
 Chocobo Feather: unknown
 Chopper: unknown
 Chromed Leathers: unknown
@@ -318,7 +318,7 @@ Flametongue: unknown
 Flare: unknown
 Float Mote: filler
 Float: unknown
-Fomalhaut: unknown
+Fomalhaut: useful
 Forbidden Flesh: unknown
 Foul Flesh: unknown
 Foul Liquid: unknown
@@ -404,7 +404,7 @@ Healing Rod: unknown
 Heavy Coat: filler
 Heavy Lance: unknown
 Hell-Gate's Flame: unknown
-Hermes Sandals: unknown
+Hermes Sandals: useful
 Hi-Ether: filler
 Hi-Potion: filler
 Hide-covered Trophy: unknown
@@ -561,7 +561,7 @@ Nihopalaoa: unknown
 Ninja Gear: unknown
 Nishijin Belt: unknown
 No. 1 Brig Key: progression
-Nu Khai Sand: unknown
+Nu Khai Sand: filler
 Numerology: unknown
 Oak Staff: unknown
 Oaken Pole: unknown
@@ -592,7 +592,7 @@ Penetrator Crossbow: unknown
 Perseus Bow: unknown
 Pheasant Netsuke: unknown
 Phobos Glaze: unknown
-Phoenix Down: unknown
+Phoenix Down: filler
 Pilika's Diary: unknown
 Pinewood Chop: progression
 Pirate Hat: unknown
@@ -671,7 +671,7 @@ Sandalwood Chop: progression
 Sapping Bolts: unknown
 Sash: unknown
 Save the Queen: unknown
-Scale Armor: unknown
+Scale Armor: useful
 Scarletite: unknown
 Scathe Mote: filler
 Scathe: unknown
@@ -723,7 +723,7 @@ Slaven Harness: unknown
 Sledgehammer: unknown
 Sleep: unknown
 Sleepga: useful
-Slime Oil: unknown
+Slime Oil: filler
 Slimy Trophy: unknown
 Slow: useful
 Slowga: unknown
@@ -736,7 +736,7 @@ Soleil Fang: filler
 Solid Horn: unknown
 Solid Stone: filler
 Sorcerer's Habit: useful
-Sorcerer's Hat: unknown
+Sorcerer's Hat: useful
 Soul Powder: unknown
 Soul Ward Key: progression
 Soul of Thamasa: unknown
@@ -750,7 +750,7 @@ Staff of the Magi: unknown
 Stamp: unknown
 Stardust: unknown
 Steal: useful
-Steel Gorget: unknown
+Steel Gorget: useful
 Steel Mask: useful
 Steel Poleyns: unknown
 Stink Bombs: unknown
