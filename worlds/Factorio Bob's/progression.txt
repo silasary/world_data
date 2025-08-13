@@ -45,6 +45,7 @@ progressive-bob-pumpjacks: unknown
 progressive-bob-vehicle-big-turret-equipment: unknown
 progressive-bob-vehicle-fission-reactor-equipment: unknown
 progressive-bob-vehicle-laser-defense-equipment: unknown
+progressive-bob-vehicle-roboport-equipment: unknown
 progressive-bob-vehicle-solar-panel-equipment: unknown
 progressive-bob-water-bore: unknown
 progressive-bob-water-miner: unknown
