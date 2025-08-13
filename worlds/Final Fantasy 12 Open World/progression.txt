@@ -91,7 +91,7 @@ Black Garb: filler
 Black Mask: filler
 Black Orb: progression
 Black Robes: unknown
-Blackened Fragment: progression
+Blackened Fragment: mcguffin
 Blazer Gloves: unknown
 Bleed: useful
 Blind: useful
@@ -260,7 +260,7 @@ Dragon Shield: unknown
 Dragon Whisker: unknown
 Drain: unknown
 Dueling Mask: unknown
-Dull Fragment: unknown
+Dull Fragment: mcguffin
 Durandal: unknown
 Dusty Letter: unknown
 Earth Crystal: unknown
@@ -386,7 +386,7 @@ Green Liquid: unknown
 Green Tuft: unknown
 Grimoire Aidhed: unknown
 Grimoire Togail: useful
-Grimy Fragment: progression
+Grimy Fragment: mcguffin
 Gungnir: unknown
 Gysahl Greens: unknown
 Halberd: unknown
