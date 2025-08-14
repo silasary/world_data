@@ -12,6 +12,7 @@ Choice Scarf: filler
 Choice Specs: unknown
 Cover Fossil: filler
 Damp Rock: filler
+Dawn Stone: unknown
 Dusk Stone: filler
 EXP Share: useful
 Eviolite: filler
@@ -74,6 +75,7 @@ TM19: useful
 TM20: unknown
 TM21: unknown
 TM24: useful
+TM26: unknown
 TM27: useful
 TM29: useful
 TM31: useful
@@ -106,6 +108,7 @@ TM62: useful
 TM64: useful
 TM67: unknown
 TM68: unknown
+TM70 Flash: unknown
 TM71: useful
 TM72: unknown
 TM73: useful
