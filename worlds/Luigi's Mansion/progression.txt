@@ -70,6 +70,7 @@ Dining Room Key: progression
 East Attic Hallway Key: progression
 Emerald: filler
 Family Hallway Key: progression
+Fear Trap: trap
 Fire Element Medal: progression
 Fortune Teller Boo (Booigi): mcguffin
 Fortune Teller Key: progression
@@ -101,6 +102,7 @@ Mirror Room Key: progression
 Nana's Room Boo (LamBooger): mcguffin
 Nana's Room Boo (LimBooger): mcguffin
 Nana's Room Key: progression
+No Vac Trap: trap
 North Rec Room Key: progression
 North Safari Room Key: progression
 Nothing: filler
@@ -115,6 +117,7 @@ Poison Mushroom: trap
 Poltergust 4000: useful
 Possession Trap: trap
 Progressive Flower: progression
+Progressive Vacuum: progression
 Projection Room Boo (ShamBoo): mcguffin
 Projection Room Key: progression
 Rec Room Boo (Booregard): mcguffin
@@ -128,6 +131,7 @@ Sitting Room Key: progression
 Small Heart: filler
 South Rec Room Key: progression
 Spade Key: progression
+Spooky Time: unknown
 Storage Room Boo (Game Boo): mcguffin
 Storage Room Key: progression
 Study Boo (TaBoo): mcguffin

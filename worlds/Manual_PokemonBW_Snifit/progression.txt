@@ -27,6 +27,7 @@ HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
+HM05 Waterfall: unknown
 HM06 Dive: unknown
 Heal Ball: unknown
 Heat Rock: unknown
@@ -81,6 +82,7 @@ TM25: unknown
 TM26: unknown
 TM27: useful
 TM29: useful
+TM30: unknown
 TM31: useful
 TM32: useful
 TM33: unknown
