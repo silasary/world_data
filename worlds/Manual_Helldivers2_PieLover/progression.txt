@@ -1,5 +1,6 @@
 "Guard Dog" Rover: unknown
 "Guard Dog": unknown
+AR-23 Liberator: unknown
 AR-23P Liberator Penetrator: unknown
 ARC-12 Blitzer: unknown
 Airburst Rocket Launcher: unknown
@@ -12,11 +13,13 @@ Armor Electrical Conduit: unknown
 Armor Engineering Kit: unknown
 Armor Extra Padding: unknown
 Armor Fortified: unknown
+Armor Med-Kit: unknown
 Armor Scout: unknown
 Autocannon Sentry: unknown
 Autocannon: unknown
 BR-14 Adjudicator: unknown
 Ballistic Shield Backpack: unknown
+Blank C-01 Form: unknown
 Blazing Samaritan: unknown
 Botslayer: unknown
 CB-9 Exploding Crossbow: unknown
@@ -25,6 +28,7 @@ CE-27 Ground Breaker: unknown
 CE-35 Trench Engineer: unknown
 CM-09 Bonesnapper: progression
 Casual Salute: unknown
+Commando: unknown
 Cresting Honor: unknown
 DP-00 Tactical: progression
 DP-11 Champion of the People: unknown
@@ -69,10 +73,12 @@ G-23 Stun: unknown
 G-3 Smoke: unknown
 G-6 Frag: progression
 GP-31 Grenade Pistol: progression
+Gatling Sentry: unknown
 Grenade Launcher: unknown
 HMG Emplacement: unknown
 Harbinger of True Equality: unknown
 Heavy Machine Gun: progression
+Hellpod Space Optimization: unknown
 High-Five: filler
 Hug: unknown
 Increased Reinforcement Budget: unknown
