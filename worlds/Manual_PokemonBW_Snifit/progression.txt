@@ -60,6 +60,7 @@ Stardust: filler
 Sun Stone: filler
 TM01: useful
 TM02: unknown
+TM03: unknown
 TM04: unknown
 TM06: unknown
 TM07: useful
@@ -74,7 +75,9 @@ TM18: useful
 TM19: useful
 TM20: unknown
 TM21: unknown
+TM23: unknown
 TM24: useful
+TM25: unknown
 TM26: unknown
 TM27: useful
 TM29: useful
@@ -106,6 +109,7 @@ TM58: useful
 TM59: unknown
 TM62: useful
 TM64: useful
+TM66: unknown
 TM67: unknown
 TM68: unknown
 TM70 Flash: unknown
@@ -130,11 +134,13 @@ TM91: useful
 TM92: useful
 TM93: useful
 TM94: useful
+TM95: unknown
 Thunder Stone: filler
 Timer Ball: filler
 Trio Badge: progression
 Ultra Ball: filler
 Water Stone: filler
+Wave Incense: unknown
 Xtransceiver: filler
 [EVENT] Clay Removes Galvantula Web: progression
 [EVENT] Confront Ghetsis at Relic Castle: unknown
