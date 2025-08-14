@@ -20,6 +20,7 @@ bob-silicon-processing: unknown
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
 bob-vehicle-engine-equipment: unknown
+bob-zinc-processing: unknown
 explosives: unknown
 flammables: unknown
 landfill: unknown
@@ -82,4 +83,5 @@ progressive-steel-axe: unknown
 progressive-stronger-explosives: unknown
 progressive-toolbelt: unknown
 progressive-weapon-shooting-speed: unknown
+progressive-worker-robots-speed: unknown
 uranium-mining: unknown

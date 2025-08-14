@@ -152,7 +152,7 @@ Ability - Dual Mobility: progression
 Ability - Fiery Shots: progression
 Ability - Flying: progression
 Ability - Freeze: progression
-Ability - Ghost Form: unknown
+Ability - Ghost Form: useful
 Ability - Grapple: useful
 Ability - Heavy Punch: unknown
 Ability - Ignite: progression
@@ -1071,7 +1071,7 @@ Slimy Ball+2: unknown
 Slimy Ball+3: unknown
 Slimy Ball+4: unknown
 Slimy Ball+5: unknown
-Slimy Ball: unknown
+Slimy Ball: useful
 Small Antidote: unknown
 Small Potion: unknown
 Small Reliquary: unknown
@@ -1274,7 +1274,7 @@ Warhorn+2: unknown
 Warhorn+3: unknown
 Warhorn+4: unknown
 Warhorn+5: unknown
-Warhorn: unknown
+Warhorn: useful
 Warlock Hat+1: unknown
 Warlock Hat+2: unknown
 Warlock Hat+3: unknown
