@@ -164,7 +164,7 @@ Equipment - Decapitator: unknown
 Equipment - Defender: useful
 Equipment - Defense Shifter: useful
 Equipment - Deltaic Armor - 1786: unknown
-Equipment - Deltaic Seal - 1784: unknown
+Equipment - Deltaic Seal - 1784: useful
 Equipment - Demon Helm: unknown
 Equipment - Demon Plate: unknown
 Equipment - Demon Scythe - 1998: unknown
@@ -192,7 +192,7 @@ Equipment - Eldritch Robe - 2067: unknown
 Equipment - Electrocutioner - 2064: unknown
 Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered Shoking touch - 1691: useful
-Equipment - Empowered Volcanic rocks - 1680: unknown
+Equipment - Empowered Volcanic rocks - 1680: useful
 Equipment - Empowered blessed earth - 1633: useful
 Equipment - Empowered boulder bash - 1632: filler
 Equipment - Empowered crushing fist - 1638: useful
@@ -247,7 +247,7 @@ Equipment - Geomante armor - 1660: unknown
 Equipment - Giant Boomer - 1972: useful
 Equipment - Gilded Crescent - 1871: unknown
 Equipment - Givers Ring: unknown
-Equipment - Glasses: unknown
+Equipment - Glasses: useful
 Equipment - Gold Ring - 2091: unknown
 Equipment - Golden Eagle - 1621: useful
 Equipment - Gospel: unknown
@@ -552,7 +552,7 @@ Equipment - Star Knight Seal - 2139: unknown
 Equipment - Static Rod: unknown
 Equipment - Stealth Cape: useful
 Equipment - Stick - 1897: unknown
-Equipment - Stinger: unknown
+Equipment - Stinger: useful
 Equipment - Stone of Jodan: unknown
 Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
@@ -957,7 +957,7 @@ Job - Flagellant - 30: unknown
 Job - Flareon - 56: unknown
 Job - Fortress - 78: unknown
 Job - Freelancer - 90: unknown
-Job - Gamester - 48: unknown
+Job - Gamester - 48: progression
 Job - Geomante - 33: unknown
 Job - Glaceon - 61: unknown
 Job - Horologist - 43: unknown
