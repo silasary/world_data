@@ -85,4 +85,5 @@ progressive-stronger-explosives: unknown
 progressive-toolbelt: unknown
 progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
+progressive-worker-robots-storage: unknown
 uranium-mining: unknown
