@@ -39,6 +39,7 @@ progressive-bob-chemical-plant: unknown
 progressive-bob-chemical-processing: unknown
 progressive-bob-electric-pole: unknown
 progressive-bob-electrolyser: unknown
+progressive-bob-fluid-generator: unknown
 progressive-bob-gem-processing: unknown
 progressive-bob-heat-exchanger: unknown
 progressive-bob-heat-pipe: unknown
