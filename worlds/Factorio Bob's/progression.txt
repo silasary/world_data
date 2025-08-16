@@ -64,6 +64,7 @@ progressive-energy-shield: unknown
 progressive-engine: unknown
 progressive-fission-reactor-equipment: unknown
 progressive-flamethrower: unknown
+progressive-inserter-stack-size-bonus: unknown
 progressive-inserter: unknown
 progressive-laser-shooting-speed: unknown
 progressive-laser-turrets: unknown
