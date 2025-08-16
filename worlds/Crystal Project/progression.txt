@@ -9,10 +9,10 @@ Equipment - Adventure axe LV2 - 1641: unknown
 Equipment - Adventure axe LV3 - 1642: unknown
 Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV3 - 1650: unknown
-Equipment - Adventure bow LV4 - 1651: unknown
+Equipment - Adventure bow LV4 - 1651: useful
 Equipment - Adventure staff LV2 - 1653: unknown
 Equipment - Adventure staff LV3 - 1654: unknown
-Equipment - Adventure staff LV4 - 1639: unknown
+Equipment - Adventure staff LV4 - 1639: useful
 Equipment - Adventure sword LV1 - 1644: unknown
 Equipment - Adventure sword LV2 - 1645: unknown
 Equipment - Adventure sword LV3 - 1646: useful
@@ -24,6 +24,7 @@ Equipment - Aether Axe - 2070: useful
 Equipment - Aggro Band: unknown
 Equipment - Ambition LV1 - 1710: useful
 Equipment - Ambition LV2 - 1709: unknown
+Equipment - Ambition LV3 - 1711: unknown
 Equipment - Ambition LV4 - 1712: useful
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Ancient Monster Bone - 1852: unknown
@@ -42,7 +43,7 @@ Equipment - Avatar - 2038: unknown
 Equipment - Awake Ring: unknown
 Equipment - Axiom - 1702: unknown
 Equipment - Backbreaker - 1830: unknown
-Equipment - Barrier of Blood - 1883: unknown
+Equipment - Barrier of Blood - 1883: useful
 Equipment - Battery - 2046: useful
 Equipment - Battle Band: unknown
 Equipment - Battle Scythe: unknown
@@ -101,7 +102,7 @@ Equipment - Catalyst - 2052: unknown
 Equipment - Cedar Staff: unknown
 Equipment - Cedar Wand: unknown
 Equipment - Celestial Crown: unknown
-Equipment - Chain - 2036: unknown
+Equipment - Chain - 2036: useful
 Equipment - Chartreuse: unknown
 Equipment - Cheater Briefs - 1776: unknown
 Equipment - Chemist Robe: unknown
@@ -139,6 +140,7 @@ Equipment - Craftwork Bow: useful
 Equipment - Craftwork Cap: unknown
 Equipment - Craftwork Crown: unknown
 Equipment - Craftwork Dagger: useful
+Equipment - Craftwork Eagle - 1619: unknown
 Equipment - Craftwork Helm: useful
 Equipment - Craftwork Katana - 2118: unknown
 Equipment - Craftwork Mail: unknown
@@ -173,6 +175,7 @@ Equipment - Demon Scythe - 1998: unknown
 Equipment - Demonic - 2069: unknown
 Equipment - Depth-seer's Tome - 1825: unknown
 Equipment - Desert Sickle - 1840: unknown
+Equipment - Desperado Vest - 2148: useful
 Equipment - Diamond Eagle - 1622: unknown
 Equipment - Dirk: useful
 Equipment - Dodge Charm: unknown
@@ -342,6 +345,7 @@ Equipment - Leather Outfit: unknown
 Equipment - Leviathan Plate - 1958: unknown
 Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
+Equipment - Light Crossbow - 1888: useful
 Equipment - Lightforged Katars - 1874: useful
 Equipment - Lion Crest - 2062: unknown
 Equipment - Liquidator - 1892: unknown
@@ -394,14 +398,16 @@ Equipment - Nemesis LV3 - 1719: unknown
 Equipment - Nemesis LV4 - 1720: unknown
 Equipment - Nemesis LV5 - 1759: unknown
 Equipment - Nightingale: unknown
+Equipment - Ninja Toolbox - 2137: unknown
 Equipment - Ninja Vest: useful
-Equipment - Nomad Vest: unknown
+Equipment - Nomad Vest: useful
 Equipment - Nomads Emblem: unknown
 Equipment - Nomads Guard: unknown
 Equipment - Oak Wand: unknown
 Equipment - Obsidian Staff - 2019: useful
 Equipment - Oily Sword: unknown
 Equipment - Old Monk's Cloak - 1949: unknown
+Equipment - Old Reliable - 1868: unknown
 Equipment - Old sabre - 1694: unknown
 Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
@@ -419,7 +425,7 @@ Equipment - Phoenix Hero's Plate - 2016: useful
 Equipment - Phoenix Vest - 2155: unknown
 Equipment - Piercing Bone - 1815: unknown
 Equipment - Pincer Spear - 1997: unknown
-Equipment - Pirate Hat: unknown
+Equipment - Pirate Hat: useful
 Equipment - Pirokinetick Seal - 1673: unknown
 Equipment - Pirokinetick dress - 1667: unknown
 Equipment - Pistolero's Arsenal - 2152: unknown
@@ -444,7 +450,7 @@ Equipment - Prismatic Barrier LV5 - 1763: unknown
 Equipment - Prismatic Ring - 1803: useful
 Equipment - Prodder: unknown
 Equipment - Progressive 1H Axe: useful
-Equipment - Progressive 1H Sword: unknown
+Equipment - Progressive 1H Sword: useful
 Equipment - Progressive 2H Axe: useful
 Equipment - Progressive 2H Sword: unknown
 Equipment - Progressive Beating Staff: useful
@@ -476,6 +482,7 @@ Equipment - Ranger cape - 1659: unknown
 Equipment - Rapier of Warning - 1988: useful
 Equipment - Rapier: unknown
 Equipment - Raven - 2033: unknown
+Equipment - Ravens Cloak: unknown
 Equipment - Ravens Hood: unknown
 Equipment - Reaper Mail: useful
 Equipment - Reaper's Cuffs - 1948: unknown
@@ -499,6 +506,7 @@ Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
 Equipment - Royal Guard Talisman - 1749: unknown
+Equipment - Royal Guard: unknown
 Equipment - Rune Sword: unknown
 Equipment - Rune Wand: unknown
 Equipment - Runeblade Vest - 2142: unknown
@@ -535,6 +543,7 @@ Equipment - Silenced Screams - 1953: unknown
 Equipment - Skewer: unknown
 Equipment - Skull Shield - 2051: unknown
 Equipment - Sky Armor: unknown
+Equipment - Sky's Katana - 1982: unknown
 Equipment - Sledgehammer - 1831: unknown
 Equipment - Slimy Crown - 1983: unknown
 Equipment - Smelly Gi: unknown
@@ -657,7 +666,7 @@ Equipment - dark contract - 1630: unknown
 Equipment - hnahr'luhnah hup ph' - 1697: unknown
 Item - Adventure axe LV2 part - 335: unknown
 Item - Adventure axe LV3 part - 339: useful
-Item - Adventure axe LV4 part - 346: unknown
+Item - Adventure axe LV4 part - 346: useful
 Item - Adventure bow LV2 part - 337: unknown
 Item - Adventure bow LV3 part - 341: unknown
 Item - Adventure bow LV4 part - 344: unknown
@@ -670,7 +679,7 @@ Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: unknown
 Item - Ancient Reservoir Pass: unknown
-Item - Ancient Tablet A: unknown
+Item - Ancient Tablet A: progression
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
 Item - Ancient Tome of Body Mastery - 348: unknown
@@ -955,6 +964,7 @@ Job - Bushi - 75: unknown
 Job - Change of Role - 42: unknown
 Job - Chemist: progression
 Job - Cleric: unknown
+Job - Conductor - 46: unknown
 Job - Crusader - 127: unknown
 Job - Crystalia - 29: unknown
 Job - Dancer - 80: progression
@@ -1012,7 +1022,7 @@ Job - Suppressor - 47: unknown
 Job - Umbreon - 58: unknown
 Job - Valkyrie: unknown
 Job - Warlock: progression
-Job - Warrior: unknown
+Job - Warrior: progression
 Job - Weaver: unknown
 Job - Witch - 34: unknown
 Job - Wizard: progression
