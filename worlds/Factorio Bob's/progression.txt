@@ -46,6 +46,7 @@ bob-thorium-fuel-reprocessing: unknown
 bob-thorium-processing: unknown
 bob-titanium-processing: unknown
 bob-vehicle-engine-equipment: unknown
+bob-vehicle-motor-equipment: unknown
 bob-zinc-processing: unknown
 coal-liquefaction: unknown
 concrete: unknown
@@ -83,6 +84,7 @@ progressive-bob-laser-rifle-ammo: unknown
 progressive-bob-multi-purpose-furnace: unknown
 progressive-bob-oil-boiler: unknown
 progressive-bob-personal-roboport-modular-equipment: unknown
+progressive-bob-plasma-turrets: unknown
 progressive-bob-pollution-create-module: unknown
 progressive-bob-pumpjacks: unknown
 progressive-bob-robo-modular: unknown
