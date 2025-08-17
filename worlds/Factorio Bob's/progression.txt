@@ -7,6 +7,7 @@ bob-alien-purple-research: unknown
 bob-alien-red-research: unknown
 bob-alloy-processing: unknown
 bob-aluminium-processing: unknown
+bob-artifact-radar: unknown
 bob-bullets: unknown
 bob-ceramics: unknown
 bob-cobalt-processing: unknown
@@ -27,6 +28,7 @@ bob-laser-rifle: unknown
 bob-laser-robot: unknown
 bob-lithium-processing: unknown
 bob-nickel-processing: unknown
+bob-nitrogen-processing: unknown
 bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
@@ -52,7 +54,9 @@ flammables: unknown
 landfill: unknown
 low-density-structure: unknown
 lubricant: unknown
+modules: unknown
 oil-gathering: unknown
+plastics: unknown
 progressive-advanced-material-processing: unknown
 progressive-armor: unknown
 progressive-artillery-shell-speed: unknown
@@ -123,6 +127,7 @@ progressive-nuclear-power: unknown
 progressive-oil-processing: unknown
 progressive-personal-battery: unknown
 progressive-personal-roboport-equipment: unknown
+progressive-physical-projectile-damage: unknown
 progressive-productivity-module: unknown
 progressive-radar: unknown
 progressive-railway: unknown
