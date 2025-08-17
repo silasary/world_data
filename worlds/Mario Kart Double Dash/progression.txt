@@ -46,6 +46,7 @@ Bob-omb for Everybody: useful
 Bob-omb for King Boo: unknown
 Bob-omb for Koopa: progression
 Bob-omb for Luigi: unknown
+Bob-omb for Mario: unknown
 Bob-omb for Paratroopa: unknown
 Bob-omb for Peach: unknown
 Bob-omb for Petey Piranha: unknown
@@ -58,6 +59,7 @@ Bowser Jr.: progression
 Bowser's Castle Time Trial: progression
 Bowser's Shell for Baby Luigi: useful
 Bowser's Shell for Birdo: unknown
+Bowser's Shell for Bowser Jr.: unknown
 Bowser's Shell for Daisy: progression
 Bowser's Shell for Diddy Kong: unknown
 Bowser's Shell for Donkey Kong: unknown
@@ -69,12 +71,15 @@ Bowser's Shell for Peach: progression
 Bowser's Shell for Petey Piranha: unknown
 Bowser's Shell for Toadette: useful
 Bowser's Shell for Waluigi: progression
+Bowser's Shell for Wario: unknown
 Bowser's Shell for Yoshi: useful
 Bowser: progression
 Bullet Blaster: progression
 Chain Chomp for Baby Luigi: useful
 Chain Chomp for Baby Mario: useful
+Chain Chomp for Birdo: unknown
 Chain Chomp for Diddy Kong: unknown
+Chain Chomp for Donkey Kong: unknown
 Chain Chomp for Everybody: progression
 Chain Chomp for King Boo: unknown
 Chain Chomp for Koopa: unknown
@@ -137,12 +142,14 @@ Fireballs for Birdo: unknown
 Fireballs for Bowser: unknown
 Fireballs for Daisy: progression
 Fireballs for Diddy Kong: useful
+Fireballs for Donkey Kong: unknown
 Fireballs for Everybody: progression
 Fireballs for King Boo: progression
 Fireballs for Koopa: unknown
 Fireballs for Paratroopa: unknown
 Fireballs for Peach: unknown
 Fireballs for Petey Piranha: unknown
+Fireballs for Toadette: unknown
 Fireballs for Waluigi: useful
 Fireballs for Wario: unknown
 Fireballs for Yoshi: progression
@@ -163,6 +170,7 @@ Giant Banana for Waluigi: unknown
 Golden Mushroom for Baby Luigi: unknown
 Golden Mushroom for Baby Mario: unknown
 Golden Mushroom for Birdo: useful
+Golden Mushroom for Bowser: unknown
 Golden Mushroom for Diddy Kong: unknown
 Golden Mushroom for Donkey Kong: useful
 Golden Mushroom for Everybody: progression
@@ -174,7 +182,7 @@ Golden Mushroom for Yoshi: useful
 Goo-Goo Buggy: useful
 Green Fire: progression
 Green Shell for Baby Luigi: progression
-Green Shell for Birdo: unknown
+Green Shell for Birdo: useful
 Green Shell for Bowser Jr.: progression
 Green Shell for Bowser: progression
 Green Shell for Daisy: progression
@@ -195,6 +203,7 @@ Heart Coach: progression
 Heart for Baby Luigi: unknown
 Heart for Baby Mario: useful
 Heart for Birdo: unknown
+Heart for Bowser Jr.: unknown
 Heart for Bowser: useful
 Heart for Daisy: unknown
 Heart for Diddy Kong: progression
@@ -202,6 +211,7 @@ Heart for King Boo: unknown
 Heart for Koopa: progression
 Heart for Luigi: useful
 Heart for Mario: unknown
+Heart for Paratroopa: unknown
 Heart for Peach: useful
 Heart for Toadette: unknown
 Heart for Waluigi: unknown
@@ -252,6 +262,7 @@ Mushroom for Daisy: useful
 Mushroom for Donkey Kong: unknown
 Mushroom for Everybody: progression
 Mushroom for King Boo: unknown
+Mushroom for Koopa: unknown
 Mushroom for Mario: progression
 Mushroom for Paratroopa: progression
 Mushroom for Peach: useful
@@ -359,6 +370,7 @@ Triple Green Shells for Baby Mario: unknown
 Triple Green Shells for Birdo: unknown
 Triple Green Shells for Bowser Jr.: useful
 Triple Green Shells for Bowser: unknown
+Triple Green Shells for Daisy: useful
 Triple Green Shells for Diddy Kong: unknown
 Triple Green Shells for Donkey Kong: unknown
 Triple Green Shells for Everybody: progression
@@ -387,10 +399,12 @@ Triple Red Shells for Bowser: unknown
 Triple Red Shells for Diddy Kong: useful
 Triple Red Shells for Donkey Kong: useful
 Triple Red Shells for Everybody: progression
+Triple Red Shells for Koopa: unknown
 Triple Red Shells for Luigi: unknown
 Triple Red Shells for Mario: unknown
 Triple Red Shells for Paratroopa: progression
 Triple Red Shells for Peach: progression
+Triple Red Shells for Petey Piranha: unknown
 Triple Red Shells for Toad: progression
 Triple Red Shells for Toadette: unknown
 Triple Red Shells for Wario: progression
@@ -409,6 +423,7 @@ Yoshi Circuit Time Trial: unknown
 Yoshi Egg for Baby Luigi: unknown
 Yoshi Egg for Baby Mario: unknown
 Yoshi Egg for Bowser Jr.: progression
+Yoshi Egg for Bowser: unknown
 Yoshi Egg for Daisy: unknown
 Yoshi Egg for Diddy Kong: unknown
 Yoshi Egg for Donkey Kong: unknown
