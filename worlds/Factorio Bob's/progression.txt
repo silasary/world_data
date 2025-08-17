@@ -1,5 +1,6 @@
 advanced-combinators: unknown
 advanced-oil-processing: unknown
+automated-rail-transportation: unknown
 belt-immunity-equipment: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: unknown
@@ -37,6 +38,7 @@ bob-silicon-processing: unknown
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
 bob-thorium-processing: unknown
+bob-titanium-processing: unknown
 bob-vehicle-engine-equipment: unknown
 bob-zinc-processing: unknown
 coal-liquefaction: unknown
@@ -109,6 +111,7 @@ progressive-logistic-system: unknown
 progressive-logistics: unknown
 progressive-military: unknown
 progressive-mining-drills: unknown
+progressive-mining-productivity: unknown
 progressive-night-vision-equipment: unknown
 progressive-nuclear-power: unknown
 progressive-oil-processing: unknown
@@ -118,6 +121,7 @@ progressive-productivity-module: unknown
 progressive-radar: unknown
 progressive-railway: unknown
 progressive-repair-pack: unknown
+progressive-research-speed: unknown
 progressive-robotics: unknown
 progressive-science-pack: unknown
 progressive-solar-panel-equipment: unknown
