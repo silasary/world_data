@@ -1,13 +1,16 @@
 advanced-oil-processing: unknown
 belt-immunity-equipment: unknown
 bob-alien-orange-research: unknown
+bob-alien-purple-research: unknown
 bob-alloy-processing: unknown
 bob-aluminium-processing: unknown
 bob-bullets: unknown
 bob-ceramics: unknown
 bob-cobalt-processing: unknown
 bob-deuterium-processing: unknown
+bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
+bob-explosive-artillery-shells: unknown
 bob-fluid-canister-processing: unknown
 bob-gold-processing: unknown
 bob-heat-shield: unknown
@@ -22,13 +25,17 @@ bob-nickel-processing: unknown
 bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
+bob-plasma-rocket: unknown
 bob-poison-rocket: unknown
 bob-rocket: unknown
 bob-rtg: unknown
+bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
+bob-shotgun-shells: unknown
 bob-silicon-processing: unknown
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
+bob-thorium-processing: unknown
 bob-vehicle-engine-equipment: unknown
 bob-zinc-processing: unknown
 coal-liquefaction: unknown
@@ -41,6 +48,7 @@ lubricant: unknown
 oil-gathering: unknown
 progressive-advanced-material-processing: unknown
 progressive-armor: unknown
+progressive-artillery-shell-speed: unknown
 progressive-artillery: unknown
 progressive-automation: unknown
 progressive-battery: unknown
@@ -60,6 +68,8 @@ progressive-bob-gem-processing: unknown
 progressive-bob-heat-exchanger: unknown
 progressive-bob-heat-pipe: unknown
 progressive-bob-laser-rifle-ammo: unknown
+progressive-bob-multi-purpose-furnace: unknown
+progressive-bob-oil-boiler: unknown
 progressive-bob-personal-roboport-modular-equipment: unknown
 progressive-bob-pollution-create-module: unknown
 progressive-bob-pumpjacks: unknown
@@ -73,6 +83,7 @@ progressive-bob-vehicle-fission-reactor-equipment: unknown
 progressive-bob-vehicle-laser-defense-equipment: unknown
 progressive-bob-vehicle-roboport-equipment: unknown
 progressive-bob-vehicle-roboport-modular-equipment: unknown
+progressive-bob-vehicle-shield-equipment: unknown
 progressive-bob-vehicle-solar-panel-equipment: unknown
 progressive-bob-water-bore: unknown
 progressive-bob-water-miner: unknown
@@ -118,5 +129,6 @@ progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
 progressive-worker-robots-storage: unknown
 steel-processing: unknown
+sulfur-processing: unknown
 uranium-mining: unknown
 uranium-processing: unknown
