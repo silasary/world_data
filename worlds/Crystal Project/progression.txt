@@ -8,6 +8,7 @@ Equipment - Adventure axe LV1 - 1640: unknown
 Equipment - Adventure axe LV2 - 1641: unknown
 Equipment - Adventure axe LV3 - 1642: unknown
 Equipment - Adventure bow LV1 - 1648: unknown
+Equipment - Adventure bow LV2 - 1649: unknown
 Equipment - Adventure bow LV3 - 1650: unknown
 Equipment - Adventure bow LV4 - 1651: useful
 Equipment - Adventure staff LV2 - 1653: unknown
@@ -63,6 +64,8 @@ Equipment - Blood of Heroes - 1863: unknown
 Equipment - Bloodbind: unknown
 Equipment - Bloodplate - 2068: unknown
 Equipment - Bloodthirsty Vest - 1866: unknown
+Equipment - Blue Cape: unknown
+Equipment - Blue Dress - 1955: unknown
 Equipment - Blue Moon Katars - 1833: useful
 Equipment - Board - 2041: useful
 Equipment - Bokken - 1806: unknown
@@ -121,6 +124,7 @@ Equipment - Cold Touch: unknown
 Equipment - Combat Shotgun - 1626: unknown
 Equipment - Compact LMG - 1618: useful
 Equipment - Compact Pistol - 1616: unknown
+Equipment - Compass - 2088: unknown
 Equipment - Conductor Baton - 1777: unknown
 Equipment - Conductor Seal - 1770: unknown
 Equipment - Conduit - 2071: unknown
@@ -348,6 +352,7 @@ Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
 Equipment - Light Crossbow - 1888: useful
 Equipment - Lightforged Katars - 1874: useful
+Equipment - Limiter Shield - 1993: unknown
 Equipment - Lion Crest - 2062: unknown
 Equipment - Liquidator - 1892: unknown
 Equipment - Longneck Rifle - 1895: unknown
@@ -390,6 +395,7 @@ Equipment - Muggers Glove: useful
 Equipment - Muramasa: unknown
 Equipment - Murgleys: useful
 Equipment - Musket - 1623: unknown
+Equipment - N. Berserker Vest - 2143: unknown
 Equipment - N. Hemomancer Robe - 2149: unknown
 Equipment - Nan's Robe - 2007: unknown
 Equipment - Needle - 2053: unknown
@@ -560,6 +566,7 @@ Equipment - Spiked Helm - 2090: unknown
 Equipment - Spintowin - 2075: unknown
 Equipment - Spore Blocker: unknown
 Equipment - Springs Oath: unknown
+Equipment - Squire of Avalon - 1816: unknown
 Equipment - Squirrel Champion - 1961: unknown
 Equipment - Squirrel Dung: unknown
 Equipment - Stabbers: unknown
@@ -612,6 +619,7 @@ Equipment - The Vault LV3 - 1731: unknown
 Equipment - The Vault LV4 - 1732: unknown
 Equipment - The Vault LV5 - 1764: unknown
 Equipment - The Wolf - 1923: useful
+Equipment - Thin Spear - 1807: unknown
 Equipment - Thunder Eater - 1791: unknown
 Equipment - Thunderstruck Knife - 1861: useful
 Equipment - Tiny Bow - 1809: unknown
@@ -879,6 +887,7 @@ Item - Seaside Cliffs Map: unknown
 Item - Seaside Cliffs Pass: unknown
 Item - Sequoia Athenaeum Map: unknown
 Item - Sequoia Athenaeum Pass: progression
+Item - Shiny Stone - 372: unknown
 Item - Shoudu Province Map: unknown
 Item - Shoudu Province Pass: unknown
 Item - Shoudu Stew: unknown
