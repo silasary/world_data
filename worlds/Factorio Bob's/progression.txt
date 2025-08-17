@@ -10,6 +10,7 @@ bob-aluminium-processing: unknown
 bob-bullets: unknown
 bob-ceramics: unknown
 bob-cobalt-processing: unknown
+bob-deuterium-fuel-cell-2: unknown
 bob-deuterium-processing: unknown
 bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
@@ -66,6 +67,7 @@ progressive-bob-chemical-plant: unknown
 progressive-bob-chemical-processing: unknown
 progressive-bob-distillery: unknown
 progressive-bob-electric-pole: unknown
+progressive-bob-electric-substation: unknown
 progressive-bob-electrolyser: unknown
 progressive-bob-electrolysis: unknown
 progressive-bob-electronics-machine: unknown
@@ -127,6 +129,7 @@ progressive-railway: unknown
 progressive-repair-pack: unknown
 progressive-research-speed: unknown
 progressive-robotics: unknown
+progressive-rocketry: unknown
 progressive-science-pack: unknown
 progressive-solar-panel-equipment: unknown
 progressive-speed-module: unknown
