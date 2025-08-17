@@ -1,3 +1,4 @@
+advanced-combinators: unknown
 advanced-oil-processing: unknown
 belt-immunity-equipment: unknown
 bob-alien-orange-research: unknown
@@ -112,6 +113,7 @@ progressive-night-vision-equipment: unknown
 progressive-nuclear-power: unknown
 progressive-oil-processing: unknown
 progressive-personal-battery: unknown
+progressive-personal-roboport-equipment: unknown
 progressive-productivity-module: unknown
 progressive-radar: unknown
 progressive-railway: unknown
