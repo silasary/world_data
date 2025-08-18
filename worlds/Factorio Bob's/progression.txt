@@ -19,6 +19,7 @@ bob-explosive-artillery-shells: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
 bob-gold-processing: unknown
+bob-grinding: unknown
 bob-heat-shield: unknown
 bob-heavy-water-processing: unknown
 bob-hydrazine: unknown
@@ -34,6 +35,7 @@ bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
 bob-plasma-rocket: unknown
 bob-poison-rocket: unknown
+bob-reinforced-wall: unknown
 bob-rocket: unknown
 bob-rtg: unknown
 bob-shotgun-electric-shells: unknown
