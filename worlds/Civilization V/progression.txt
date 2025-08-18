@@ -1,6 +1,8 @@
 Archery: progression
 Architecture: progression
 Banking: unknown
+Bonus - Faith: filler
+Bonus - Minor Faith: useful
 Bronze Working: progression
 Combined Arms: progression
 Combustion: progression
@@ -19,6 +21,9 @@ Nuclear Fusion: progression
 Optics: progression
 Physics: unknown
 Plastics: progression
+Policy - Merchant Confederacy: useful
+Policy - Theocracy: useful
+Policy Branch - Aesthetics: progression
 Printing Press: unknown
 Radar: progression
 Radio: unknown
@@ -27,4 +32,5 @@ Rocketry: unknown
 Sailing: progression
 Scientific Theory: unknown
 Steam Power: progression
+Tech - Chemistry: progression
 The Wheel: unknown
