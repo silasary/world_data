@@ -3,6 +3,7 @@ advanced-oil-processing: unknown
 automated-rail-transportation: unknown
 belt-immunity-equipment: unknown
 bob-acid-bullets: unknown
+bob-advanced-research: unknown
 bob-alien-blue-research: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: unknown
@@ -20,6 +21,7 @@ bob-electric-mixing-furnace: unknown
 bob-explosive-artillery-shells: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
+bob-fluid-mixing-furnace: unknown
 bob-gas-canisters: unknown
 bob-gold-processing: unknown
 bob-grinding: unknown
@@ -43,6 +45,7 @@ bob-rocket: unknown
 bob-rtg: unknown
 bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
+bob-shotgun-poison-shells: unknown
 bob-shotgun-shells: unknown
 bob-silicon-processing: unknown
 bob-steel-chemical-furnace: unknown
@@ -119,6 +122,7 @@ progressive-exoskeleton-equipment: unknown
 progressive-fission-reactor-equipment: unknown
 progressive-flamethrower: unknown
 progressive-fluid-handling: unknown
+progressive-fluid-wagon: unknown
 progressive-follower-robot-count: unknown
 progressive-inserter-capacity-bonus: unknown
 progressive-inserter-stack-size-bonus: unknown
