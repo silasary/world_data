@@ -16,7 +16,7 @@
 2x Banana: filler
 2x Berry: filler
 2x Big Potion: unknown
-2x Blue Gem: unknown
+2x Blue Gem: filler
 2x Bronze: filler
 2x Carrot: filler
 2x Clear Stone: unknown
@@ -168,7 +168,7 @@ Ability - Minnesang: progression
 Ability - Morph Ball: progression
 Ability - Mount: unknown
 Ability - Secret Vision: progression
-Ability - Shock Freeze: unknown
+Ability - Shock Freeze: progression
 Ability - Slash: unknown
 Ability - Slime Shot: progression
 Ability - Snowball Toss: progression
@@ -211,7 +211,7 @@ Ancient Clock+4: unknown
 Ancient Clock+5: unknown
 Ancient Clock: unknown
 Ancient Encyclopedia: unknown
-Ancient Woods key: unknown
+Ancient Woods key: progression
 Antidote: filler
 Apple: filler
 Aqueous Humor: unknown
@@ -790,7 +790,7 @@ Moccus Saddle: unknown
 Mogwai Egg: unknown
 Mogwai Rulebook: unknown
 Molebear Egg: unknown
-Monk Egg: unknown
+Monk Egg: progression
 Monster Army Conscription Notice: unknown
 Monster Bell: unknown
 Monster Stable Fees: unknown
@@ -1037,7 +1037,7 @@ Shield Generator+2: unknown
 Shield Generator+3: filler
 Shield Generator+4: unknown
 Shield Generator+5: unknown
-Shield Generator: unknown
+Shield Generator: useful
 Shift Stone: unknown
 Shiny Pebble: unknown
 Shock Trap: unknown
@@ -1150,7 +1150,7 @@ Sun Ring+3: unknown
 Sun Ring+4: unknown
 Sun Ring+5: unknown
 Sun Ring: unknown
-Sun Stone: unknown
+Sun Stone: filler
 Sustain Ring+1: unknown
 Sustain Ring+2: unknown
 Sustain Ring+3: unknown
