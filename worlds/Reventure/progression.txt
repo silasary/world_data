@@ -1,6 +1,6 @@
 AddPC: unknown
 Anvil: progression
-Bombs: unknown
+Bombs: progression
 Boomerang: progression
 Boulder: progression
 BuildStatue: unknown
@@ -26,7 +26,7 @@ Desert Geyser East: useful
 Desert Geyser West: unknown
 Dolphins: filler
 Dragon: progression
-Elder: unknown
+Elder: progression
 Elevator Button: progression
 EnableCloset: unknown
 Faceplant Stone: unknown

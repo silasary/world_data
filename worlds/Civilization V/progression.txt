@@ -1,13 +1,16 @@
 Archery: progression
 Architecture: progression
 Banking: unknown
+Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
 Bonus - Minor Faith: useful
+Bonus - Minor Gold: unknown
 Bronze Working: progression
 Combined Arms: progression
 Combustion: progression
 Dynamite: unknown
 Electricity: unknown
+Era - Progressive: unknown
 Fertilizer: unknown
 Guilds: progression
 Industrialization: unknown
@@ -22,8 +25,13 @@ Optics: progression
 Physics: unknown
 Plastics: progression
 Policy - Merchant Confederacy: useful
+Policy - Philanthropy: unknown
+Policy - Professional Army: unknown
+Policy - Sovereignty: unknown
 Policy - Theocracy: useful
 Policy Branch - Aesthetics: progression
+Policy Branch - Patronage: unknown
+Policy Branch - Rationalism: unknown
 Printing Press: unknown
 Radar: progression
 Radio: unknown
@@ -33,4 +41,6 @@ Sailing: progression
 Scientific Theory: unknown
 Steam Power: progression
 Tech - Chemistry: progression
+Tech - Computers: unknown
+Tech - Radar: unknown
 The Wheel: unknown
