@@ -11,6 +11,7 @@ Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV2 - 1649: unknown
 Equipment - Adventure bow LV3 - 1650: unknown
 Equipment - Adventure bow LV4 - 1651: useful
+Equipment - Adventure staff LV1 - 1652: unknown
 Equipment - Adventure staff LV2 - 1653: unknown
 Equipment - Adventure staff LV3 - 1654: unknown
 Equipment - Adventure staff LV4 - 1639: useful
@@ -127,6 +128,7 @@ Equipment - Combat Shotgun - 1626: unknown
 Equipment - Compact LMG - 1618: useful
 Equipment - Compact Pistol - 1616: unknown
 Equipment - Compass - 2088: unknown
+Equipment - Concealable Knife - 1838: unknown
 Equipment - Conductor Baton - 1777: unknown
 Equipment - Conductor Seal - 1770: unknown
 Equipment - Conduit - 2071: unknown
@@ -226,6 +228,7 @@ Equipment - Expedition LV2 - 1739: unknown
 Equipment - Expedition LV3 - 1740: unknown
 Equipment - Expedition LV4 - 1741: unknown
 Equipment - Expedition LV5 - 1754: unknown
+Equipment - Faceless Hood - 1952: unknown
 Equipment - Facetsplitter - 1819: useful
 Equipment - Fairys Ring: unknown
 Equipment - Fallout - 2043: useful
@@ -234,6 +237,7 @@ Equipment - Familiar Hoodie - 2126: unknown
 Equipment - Fang Pendant: useful
 Equipment - Fanged Nunchaku - 1848: unknown
 Equipment - Feathered Vest - 1995: useful
+Equipment - Fencer Vest: unknown
 Equipment - Fervor Charm: unknown
 Equipment - Fey Collar - 1798: unknown
 Equipment - Feyblessed Tiara - 1956: useful
@@ -274,6 +278,7 @@ Equipment - Gold Ring - 2091: unknown
 Equipment - Golden Eagle - 1621: useful
 Equipment - Gospel: unknown
 Equipment - Gradivus - 2022: unknown
+Equipment - Grand Emerald - 1841: unknown
 Equipment - Gravedigger: useful
 Equipment - Greasy Shirt - 2096: unknown
 Equipment - Greywood Nunchaku - 1851: useful
@@ -428,6 +433,7 @@ Equipment - Oily Sword: unknown
 Equipment - Old Monk's Cloak - 1949: unknown
 Equipment - Old Reliable - 1868: unknown
 Equipment - Old sabre - 1694: unknown
+Equipment - Omnispear - 2030: unknown
 Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
@@ -516,6 +522,7 @@ Equipment - Redder Coat - 1979: unknown
 Equipment - Regenerating Flask - 1886: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
 Equipment - Resist Shifter: unknown
+Equipment - Rhetorist Seal - 1783: unknown
 Equipment - Ribbon: unknown
 Equipment - Ring Mail: unknown
 Equipment - Ring of Wizardry - 1966: unknown
@@ -550,6 +557,7 @@ Equipment - Seekers Garb: unknown
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
 Equipment - Sermon - 2063: unknown
+Equipment - Serrated Sickle - 1870: unknown
 Equipment - Shadow Gi: useful
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
@@ -602,9 +610,11 @@ Equipment - Stinger: useful
 Equipment - Stone of Jodan: unknown
 Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
+Equipment - Storm Cap: unknown
 Equipment - Storm Gun - 1625: unknown
 Equipment - Storm Helm: unknown
 Equipment - Storm Hood: unknown
+Equipment - Storm Rod: unknown
 Equipment - Storm Spear - 1989: unknown
 Equipment - Stout Shield: unknown
 Equipment - Strange Idol - 2097: unknown
@@ -668,6 +678,7 @@ Equipment - Twin Blade Staff - 1847: useful
 Equipment - Twinshot Crossbow - 1890: useful
 Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
+Equipment - Urgency LV1 - 1687: unknown
 Equipment - Urgency LV2 - 1726: unknown
 Equipment - Urgency LV4 - 1728: unknown
 Equipment - Urgency LV5 - 1758: unknown
@@ -996,6 +1007,7 @@ Item - Zether: filler
 Job - Adept - 83: unknown
 Job - Aegis: progression
 Job - Aerotheurge - 38: unknown
+Job - Arcanist - 73: unknown
 Job - Assassin: progression
 Job - Bard - 129: unknown
 Job - Beastmaster: unknown
@@ -1034,6 +1046,7 @@ Job - Innkeeper - 28: unknown
 Job - Jolteon - 55: unknown
 Job - Kenshi - 86: unknown
 Job - Landsknecht - 72: unknown
+Job - Leafeon - 59: unknown
 Job - Luminary - 87: unknown
 Job - Machinist - 88: unknown
 Job - Magical Girl - 91: unknown
@@ -1062,6 +1075,7 @@ Job - Sniper - 79: unknown
 Job - Soldier - 36: unknown
 Job - Summoner: unknown
 Job - Suppressor - 47: unknown
+Job - Sylveon - 62: unknown
 Job - Umbreon - 58: unknown
 Job - Valkyrie: unknown
 Job - Warlock: progression
