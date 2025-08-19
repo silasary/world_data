@@ -30,6 +30,7 @@ Policy - Professional Army: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
 Policy Branch - Aesthetics: progression
+Policy Branch - Exploration Finisher: unknown
 Policy Branch - Patronage: unknown
 Policy Branch - Rationalism: unknown
 Printing Press: unknown
@@ -45,5 +46,6 @@ Tech - Chemistry: progression
 Tech - Civil Service: unknown
 Tech - Computers: unknown
 Tech - Radar: unknown
+Tech - Replaceable Parts: unknown
 Tech - Rocketry: progression
 The Wheel: unknown
