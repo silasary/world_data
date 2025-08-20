@@ -572,7 +572,7 @@ Equipment - Short Sword: unknown
 Equipment - Showstopper - 2079: unknown
 Equipment - Sickle - 2076: unknown
 Equipment - Siege Bow: useful
-Equipment - Silenced Screams - 1953: unknown
+Equipment - Silenced Screams - 1953: useful
 Equipment - Skewer: unknown
 Equipment - Skull Shield - 2051: unknown
 Equipment - Sky Armor: unknown
@@ -1009,7 +1009,7 @@ Item - Zether: filler
 Job - Adept - 83: unknown
 Job - Aegis: progression
 Job - Aerotheurge - 38: unknown
-Job - Arcanist - 73: unknown
+Job - Arcanist - 73: progression
 Job - Assassin: progression
 Job - Bard - 129: unknown
 Job - Beastmaster: unknown
@@ -1023,7 +1023,7 @@ Job - Chemist: progression
 Job - Cleric: unknown
 Job - Conductor - 46: unknown
 Job - Crusader - 127: unknown
-Job - Crystalia - 29: unknown
+Job - Crystalia - 29: progression
 Job - Dancer - 80: progression
 Job - Dervish: progression
 Job - Desperado - 27: unknown
@@ -1032,7 +1032,7 @@ Job - Eevee - 53: unknown
 Job - Espeon - 57: unknown
 Job - Fafnir - 147: unknown
 Job - Fencer: unknown
-Job - Flagellant - 30: unknown
+Job - Flagellant - 30: progression
 Job - Flareon - 56: unknown
 Job - Fortress - 78: unknown
 Job - Freelancer - 90: unknown
@@ -1058,7 +1058,7 @@ Job - Mimic: progression
 Job - Monk: progression
 Job - Necromancer - 97: unknown
 Job - Nightseeker - 77: progression
-Job - Ninja: unknown
+Job - Ninja: progression
 Job - Nomad: progression
 Job - Paladin - 153: unknown
 Job - Pirokinetick - 32: unknown
