@@ -379,7 +379,7 @@ Recipe: Caterium Wire: progression
 Recipe: Chainsaw: useful
 Recipe: Charcoal: unknown
 Recipe: Cheap Silica: progression
-Recipe: Circuit Board: unknown
+Recipe: Circuit Board: progression
 Recipe: Classic Battery: progression
 Recipe: Cloudy Diamonds: progression
 Recipe: Cluster Nobelisk: filler
@@ -462,7 +462,7 @@ Recipe: Instant Scrap: progression
 Recipe: Insulated Cable: progression
 Recipe: Insulated Crystal Oscillator: progression
 Recipe: Iodine Infused Filter: unknown
-Recipe: Iodine-Infused Filter: unknown
+Recipe: Iodine-Infused Filter: filler
 Recipe: Ionized Fuel: useful
 Recipe: Iron Alloy Ingot: progression
 Recipe: Iron Ingot: unknown
@@ -568,7 +568,7 @@ Recipe: Solid Biofuel: useful
 Recipe: Solid Steel Ingot: progression
 Recipe: Spitter Protein: progression
 Recipe: Stator: progression
-Recipe: Steamed Copper Sheet: unknown
+Recipe: Steamed Copper Sheet: useful
 Recipe: Steel Beam: progression
 Recipe: Steel Canister: unknown
 Recipe: Steel Cast Plate: progression
@@ -675,7 +675,7 @@ Single: Pressure Conversion Cube: filler
 Single: Pulse Nobelisk: unknown
 Single: Quickwire: unknown
 Single: Radio Control Unit: unknown
-Single: Rebar Gun: unknown
+Single: Rebar Gun: filler
 Single: Reinforced Iron Plate: filler
 Single: Rifle Ammo: filler
 Single: Rifle: unknown

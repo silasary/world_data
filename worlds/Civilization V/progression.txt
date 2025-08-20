@@ -3,8 +3,10 @@ Architecture: progression
 Banking: unknown
 Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
+Bonus - Major Culture: unknown
 Bonus - Minor Faith: useful
 Bonus - Minor Gold: unknown
+Bonus - New City Extra Population +2: unknown
 Bronze Working: progression
 Combined Arms: progression
 Combustion: progression
@@ -25,6 +27,8 @@ Optics: progression
 Physics: unknown
 Plastics: progression
 Policy - Merchant Confederacy: useful
+Policy - Monarchy: unknown
+Policy - Organized Religion: unknown
 Policy - Philanthropy: unknown
 Policy - Professional Army: unknown
 Policy - Sovereignty: unknown
@@ -43,11 +47,14 @@ Sailing: progression
 Scientific Theory: unknown
 Steam Power: progression
 Tech - Animal Husbandry: progression
+Tech - Banking: unknown
 Tech - Chemistry: progression
 Tech - Chivalry: unknown
 Tech - Civil Service: unknown
 Tech - Computers: unknown
+Tech - Drama and Poetry: unknown
 Tech - Radar: unknown
+Tech - Railroad: unknown
 Tech - Replaceable Parts: unknown
 Tech - Rocketry: progression
 The Wheel: unknown
