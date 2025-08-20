@@ -490,7 +490,7 @@ Recipe: Nobelisk Detonator: useful
 Recipe: Nobelisk: progression
 Recipe: Non-fissile Uranium: progression
 Recipe: Nuclear Pasta: unknown
-Recipe: Nuke Nobelisk: unknown
+Recipe: Nuke Nobelisk: progression
 Recipe: Nutritional Inhaler: useful
 Recipe: OC Supercomputer: useful
 Recipe: Object Scanner: useful
