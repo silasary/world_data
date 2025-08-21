@@ -1,9 +1,11 @@
 Archery: progression
 Architecture: progression
 Banking: unknown
+Bonus - All City Population +1: unknown
 Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
 Bonus - Major Culture: unknown
+Bonus - Minor Culture: unknown
 Bonus - Minor Faith: useful
 Bonus - Minor Gold: unknown
 Bonus - New City Extra Population +2: unknown
@@ -26,17 +28,23 @@ Nuclear Fusion: progression
 Optics: progression
 Physics: unknown
 Plastics: progression
+Policy - Maritime Infrastructure: unknown
 Policy - Merchant Confederacy: useful
 Policy - Monarchy: unknown
+Policy - Oligarchy: unknown
 Policy - Organized Religion: unknown
 Policy - Philanthropy: unknown
 Policy - Professional Army: unknown
+Policy - Reformation: unknown
+Policy - Scientific Revolution: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
 Policy - Trade Unions: unknown
 Policy Branch - Aesthetics: progression
 Policy Branch - Exploration Finisher: unknown
 Policy Branch - Patronage: unknown
+Policy Branch - Piety Finisher: unknown
+Policy Branch - Piety: unknown
 Policy Branch - Rationalism: unknown
 Printing Press: unknown
 Radar: progression
@@ -46,15 +54,21 @@ Rocketry: unknown
 Sailing: progression
 Scientific Theory: unknown
 Steam Power: progression
+Tech - Acoustics: unknown
 Tech - Animal Husbandry: progression
+Tech - Archery: unknown
 Tech - Banking: unknown
 Tech - Chemistry: progression
 Tech - Chivalry: unknown
 Tech - Civil Service: unknown
 Tech - Computers: unknown
 Tech - Drama and Poetry: unknown
+Tech - Gunpowder: unknown
+Tech - Navigation: unknown
+Tech - Particle Physics: unknown
 Tech - Radar: unknown
 Tech - Railroad: unknown
 Tech - Replaceable Parts: unknown
 Tech - Rocketry: progression
+Tech - Telecommunications: unknown
 The Wheel: unknown
