@@ -3,6 +3,7 @@ Armor Pickup: filler
 Assimilate Stat: progression
 Attack Stat: progression
 Blits Trap: trap
+Bundle of Ammo: unknown
 CFIS Ammo: filler
 CYBERNETIC ENDURANCE: unknown
 Clown Shoes Trap: trap
@@ -12,6 +13,7 @@ GLORY: progression
 Health Pickup: filler
 Health Stat: progression
 IMPROVED AUTOLOADING: progression
+Jump Upgrade: unknown
 Komato Stat: progression
 MPFB Ammo: filler
 Machine Ammo: filler
@@ -19,6 +21,7 @@ Nano Overload: filler
 Nano Pickup: filler
 Nap Trap: trap
 Null Drive Trap: trap
+Progressive Sector Access: unknown
 Pulse Ammo: filler
 Ribbon: mcguffin
 Rocket Ammo: filler

@@ -7,9 +7,10 @@ Equipment - Adept Seal - 2101: unknown
 Equipment - Adventure axe LV1 - 1640: unknown
 Equipment - Adventure axe LV2 - 1641: unknown
 Equipment - Adventure axe LV3 - 1642: unknown
+Equipment - Adventure axe LV4 - 1643: unknown
 Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV2 - 1649: unknown
-Equipment - Adventure bow LV3 - 1650: unknown
+Equipment - Adventure bow LV3 - 1650: useful
 Equipment - Adventure bow LV4 - 1651: useful
 Equipment - Adventure staff LV1 - 1652: unknown
 Equipment - Adventure staff LV2 - 1653: unknown
@@ -48,7 +49,7 @@ Equipment - Axiom - 1702: unknown
 Equipment - Backbreaker - 1830: unknown
 Equipment - Barrier of Blood - 1883: useful
 Equipment - Battery - 2046: useful
-Equipment - Battle Band: unknown
+Equipment - Battle Band: useful
 Equipment - Battle Helm: unknown
 Equipment - Battle Scythe: unknown
 Equipment - Battleplate: unknown
@@ -79,6 +80,7 @@ Equipment - Book of Salads - 1810: unknown
 Equipment - Bookbeater - 1820: unknown
 Equipment - Boomer Duelist - 1960: unknown
 Equipment - Boomer Shield: unknown
+Equipment - Boomer Sword: unknown
 Equipment - Bottomless Bag - 2040: unknown
 Equipment - Bounty Hunter LV1 - 1748: useful
 Equipment - Braccus' Two-Handed Axe - 1665: unknown
@@ -180,6 +182,7 @@ Equipment - Defense Shifter: useful
 Equipment - Deltaic Armor - 1786: unknown
 Equipment - Deltaic Seal - 1784: useful
 Equipment - Demon Helm: unknown
+Equipment - Demon Mail - 1947: unknown
 Equipment - Demon Plate: unknown
 Equipment - Demon Scythe - 1998: unknown
 Equipment - Demonic - 2069: unknown
@@ -215,6 +218,7 @@ Equipment - Empowered Volcanic rocks - 1680: useful
 Equipment - Empowered blessed earth - 1633: useful
 Equipment - Empowered boulder bash - 1632: filler
 Equipment - Empowered crushing fist - 1638: useful
+Equipment - Empowered lower resistence - 1634: unknown
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: useful
 Equipment - Empowered wildfire - 1636: unknown
@@ -265,6 +269,7 @@ Equipment - Frostwing Feather - 1862: unknown
 Equipment - Fursuit: unknown
 Equipment - Gaea Impact - 2023: unknown
 Equipment - Gaea's Cloak - 1858: unknown
+Equipment - Gaia Axe: unknown
 Equipment - Gaia Vest: unknown
 Equipment - Ganymede's Cloak - 1857: unknown
 Equipment - Geomante Seal - 1675: unknown
@@ -321,6 +326,7 @@ Equipment - Hi-Tech Robe - 2124: unknown
 Equipment - Hibernaculum LV1 - 1683: unknown
 Equipment - Hibernaculum LV2 - 1736: unknown
 Equipment - Hibernaculum LV3 - 1737: unknown
+Equipment - Hibernaculum LV4 - 1738: unknown
 Equipment - Hibernaculum LV5 - 1755: unknown
 Equipment - Hihiirokane - 1824: unknown
 Equipment - Hoarfrost Buckler - 1880: unknown
@@ -330,13 +336,13 @@ Equipment - Hoplite - 2048: useful
 Equipment - Horned Helm: useful
 Equipment - Horologist Seal - 1771: unknown
 Equipment - Hunter Vest: unknown
-Equipment - Hunting Axe: unknown
+Equipment - Hunting Axe: useful
 Equipment - Hunting Bow: unknown
 Equipment - Huntsman - 1893: unknown
 Equipment - Hydrosophist Seal - 1674: unknown
 Equipment - Hydrosophist robe - 1668: unknown
 Equipment - Icy Collar - 1800: useful
-Equipment - Illusionist Seal - 1766: unknown
+Equipment - Illusionist Seal - 1766: useful
 Equipment - Illusionist Wand - 1765: unknown
 Equipment - Infernal Contract LV1 - 1698: unknown
 Equipment - Infernal Contract LV2 - 1699: unknown
@@ -375,6 +381,7 @@ Equipment - Liquidator - 1892: unknown
 Equipment - Longneck Rifle - 1895: unknown
 Equipment - Looters Pin: unknown
 Equipment - Looters Ring: unknown
+Equipment - Loyalty - 1827: unknown
 Equipment - Lucky Briefs: unknown
 Equipment - Lucky Platter: useful
 Equipment - Lucky Socks: unknown
@@ -386,6 +393,7 @@ Equipment - Mages Platter: unknown
 Equipment - Mages Robe: unknown
 Equipment - Magic Barrier - 1991: unknown
 Equipment - Magic Finder: useful
+Equipment - Magical Girl Seal - 2131: unknown
 Equipment - Malifice: unknown
 Equipment - Mana Ring: unknown
 Equipment - Mars' Cloak - 1856: unknown
@@ -437,6 +445,7 @@ Equipment - Omnispear - 2030: unknown
 Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
+Equipment - Paladin Hood - 2057: unknown
 Equipment - Paladin Wand: unknown
 Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV2 - 1713: unknown
@@ -500,8 +509,10 @@ Equipment - Progressive Staff: useful
 Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
 Equipment - Protective Goggles - 2008: unknown
+Equipment - Protector: unknown
 Equipment - Quintar Pheromones - 1951: unknown
 Equipment - Radiance: unknown
+Equipment - Radiant Halberd - 1971: unknown
 Equipment - Rage amulet - 1661: unknown
 Equipment - Ragebringer: unknown
 Equipment - Ranger Seal - 1672: useful
@@ -557,7 +568,7 @@ Equipment - Seekers Garb: unknown
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
 Equipment - Sermon - 2063: unknown
-Equipment - Serrated Sickle - 1870: unknown
+Equipment - Serrated Sickle - 1870: useful
 Equipment - Shadow Gi: useful
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
@@ -612,7 +623,7 @@ Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
 Equipment - Storm Cap: unknown
 Equipment - Storm Gun - 1625: unknown
-Equipment - Storm Helm: unknown
+Equipment - Storm Helm: useful
 Equipment - Storm Hood: unknown
 Equipment - Storm Rod: unknown
 Equipment - Storm Spear - 1989: unknown
@@ -642,7 +653,7 @@ Equipment - Temporal Blade: useful
 Equipment - Temporal Robe - 1984: unknown
 Equipment - Terpsichorean Seal - 1781: unknown
 Equipment - The Beetle - 1976: unknown
-Equipment - The Immovable: unknown
+Equipment - The Immovable: useful
 Equipment - The Impregnable - 1867: unknown
 Equipment - The Mage in Yellow - 1869: unknown
 Equipment - The Vault LV1 - 1729: unknown
@@ -682,6 +693,7 @@ Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
 Equipment - Urgency LV1 - 1687: unknown
 Equipment - Urgency LV2 - 1726: unknown
+Equipment - Urgency LV3 - 1727: unknown
 Equipment - Urgency LV4 - 1728: unknown
 Equipment - Urgency LV5 - 1758: unknown
 Equipment - Valkyrie Mail: useful
@@ -771,7 +783,7 @@ Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
 Item - Cobblestone Crag Pass: progression
 Item - Continental Tram Map: unknown
-Item - Continental Tram Pass: unknown
+Item - Continental Tram Pass: progression
 Item - Courtyard Key: unknown
 Item - Crag Demon Horn: unknown
 Item - Dark Wing Key: unknown
@@ -1015,7 +1027,7 @@ Job - Bard - 129: unknown
 Job - Beastmaster: unknown
 Job - Beatsmith: progression
 Job - Blade Dancer - 82: unknown
-Job - Brawler - 89: unknown
+Job - Brawler - 89: progression
 Job - Brimstone Witch - 25: unknown
 Job - Bushi - 75: unknown
 Job - Change of Role - 42: unknown
