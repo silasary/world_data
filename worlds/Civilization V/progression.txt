@@ -4,6 +4,7 @@ Banking: unknown
 Bonus - All City Population +1: unknown
 Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
+Bonus - Gold: unknown
 Bonus - Major Culture: unknown
 Bonus - Minor Culture: unknown
 Bonus - Minor Faith: useful
@@ -28,7 +29,9 @@ Nuclear Fusion: progression
 Optics: progression
 Physics: unknown
 Plastics: progression
+Policy - Flourishing of the Arts: unknown
 Policy - Maritime Infrastructure: unknown
+Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
 Policy - Monarchy: unknown
 Policy - Oligarchy: unknown
@@ -36,6 +39,7 @@ Policy - Organized Religion: unknown
 Policy - Philanthropy: unknown
 Policy - Professional Army: unknown
 Policy - Reformation: unknown
+Policy - Representation: unknown
 Policy - Scientific Revolution: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
@@ -64,6 +68,7 @@ Tech - Chivalry: unknown
 Tech - Civil Service: unknown
 Tech - Computers: unknown
 Tech - Drama and Poetry: unknown
+Tech - Engineering: unknown
 Tech - Fertilizer: unknown
 Tech - Gunpowder: unknown
 Tech - Iron Working: unknown
