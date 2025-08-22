@@ -33,7 +33,7 @@ Island Bolt: progression
 Island Burner: progression
 Island Computer Chip: unknown
 Island Key: unknown
-Island Pickaxe: unknown
+Island Pickaxe: progression
 Island Smokestack: unknown
 Island Steering Wheel: unknown
 Island Wood: progression
@@ -86,7 +86,7 @@ RPG Water: unknown
 Tower Brick: unknown
 Tower Button: unknown
 Tower Demon: unknown
-Tower Jar: unknown
+Tower Jar: progression
 Tower Key: progression
 Tower Land: unknown
 Tower Pot: unknown
@@ -107,7 +107,7 @@ Ver3 Egg: unknown
 Ver3 Gear: unknown
 Ver3 Key: progression
 Ver3 Ladder: unknown
-Ver3 Mountain: unknown
+Ver3 Mountain: progression
 Ver3 Pinwheel: progression
 Ver3 Pipe: progression
 Ver3 Screen: unknown
