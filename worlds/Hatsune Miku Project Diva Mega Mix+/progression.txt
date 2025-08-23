@@ -3840,6 +3840,7 @@ slump [EXEXTREME]: progression
 slump [EXTREME]: progression
 slump [HARD]: progression
 slump [NORMAL]: progression
+slump: unknown
 snooze [1213]: unknown
 snooze [EXTREME]: progression
 snooze [HARD]: progression
