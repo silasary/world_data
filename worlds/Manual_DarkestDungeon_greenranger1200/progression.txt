@@ -7,6 +7,7 @@ Bleed Out: unknown
 Bola: unknown
 Caltrops: unknown
 Chop: unknown
+Come Hither: unknown
 Dazzling Light: unknown
 Defender: unknown
 Dirk Stab: unknown
@@ -14,6 +15,8 @@ Disorienting Blast: unknown
 Duelist's Advance: unknown
 Emboldening Vapours: progression
 Festering Vapours: progression
+Flashing Daggers: unknown
+Guard Dog: unknown
 Hand of Light: unknown
 Harvest: unknown
 Holy Lance: unknown
@@ -30,8 +33,9 @@ Progressive Bonfire: unknown
 Progressive Brigand Pounder Boss Key: unknown
 Progressive Darkest Dungeon Key: unknown
 Progressive Drowned Crew Boss Key: unknown
+Progressive Flesh Boss Key: unknown
 Progressive Hero Barracks: unknown
-Progressive Merchant Network: unknown
+Progressive Merchant Network: useful
 Progressive Necromancer Boss Key: unknown
 Progressive Patient Cells: unknown
 Progressive Penance Hall: useful
@@ -43,7 +47,7 @@ Progressive Swine Prince Boss Key: unknown
 Progressive Training Regimen: unknown
 Progressive Transept: unknown
 Progressive Treatment Library: unknown
-Progressive Wagon Size: unknown
+Progressive Wagon Size: progression
 Rake: unknown
 Rallying Flare: unknown
 Slice Off: unknown
@@ -56,4 +60,5 @@ Target Whistle: progression
 Thrown Dagger: unknown
 Uppercut: progression
 Vulnerability Hex: progression
+Wyrd Reconstruction: unknown
 Zealous Accusation: unknown
