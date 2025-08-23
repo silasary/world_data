@@ -69,6 +69,7 @@ coal-liquefaction: unknown
 concrete: unknown
 explosives: unknown
 flammables: unknown
+lamp: unknown
 landfill: unknown
 low-density-structure: unknown
 lubricant: unknown
@@ -166,6 +167,7 @@ progressive-steam-power: unknown
 progressive-steel-axe: unknown
 progressive-stronger-explosives: unknown
 progressive-toolbelt: unknown
+progressive-turrets: unknown
 progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
 progressive-worker-robots-storage: unknown
