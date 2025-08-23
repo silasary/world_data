@@ -24,7 +24,7 @@ Cube Fire: unknown
 Cube Human: unknown
 Cube Key: unknown
 Cube Plants: unknown
-Cube Pot: unknown
+Cube Pot: progression
 Cube Spring: progression
 Cube Tube: unknown
 Cube Water: unknown
@@ -57,7 +57,7 @@ Nano 3 Ice: progression
 Nano 3 Key: unknown
 Nano 3 Medicine: unknown
 Nano 3 Partner: progression
-Nano 3 Vegetables: unknown
+Nano 3 Vegetables: progression
 Nano 3 Victory Point: unknown
 Nano 4 Box: unknown
 Nano 4 Cake: unknown
@@ -100,7 +100,7 @@ Valley Key: unknown
 Valley Magnifying Glass: unknown
 Valley Pickaxe: unknown
 Valley Victory Point: unknown
-Ver3 Ball: unknown
+Ver3 Ball: progression
 Ver3 Cube: unknown
 Ver3 Dish: progression
 Ver3 Egg: unknown
