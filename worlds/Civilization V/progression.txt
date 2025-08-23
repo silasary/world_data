@@ -4,11 +4,13 @@ Banking: unknown
 Bonus - All City Population +1: unknown
 Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
+Bonus - Free Tech: unknown
 Bonus - Gold: unknown
 Bonus - Major Culture: unknown
 Bonus - Minor Culture: unknown
 Bonus - Minor Faith: useful
 Bonus - Minor Gold: unknown
+Bonus - New City Extra Population +1: unknown
 Bonus - New City Extra Population +2: unknown
 Bronze Working: progression
 Combined Arms: progression
@@ -35,6 +37,7 @@ Policy - Flourishing of the Arts: unknown
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
+Policy - Military Tradition: unknown
 Policy - Monarchy: unknown
 Policy - Oligarchy: unknown
 Policy - Organized Religion: unknown
@@ -76,6 +79,7 @@ Tech - Fertilizer: unknown
 Tech - Gunpowder: unknown
 Tech - Iron Working: unknown
 Tech - Lasers: unknown
+Tech - Machinery: unknown
 Tech - Mathematics: unknown
 Tech - Navigation: unknown
 Tech - Particle Physics: unknown
@@ -87,3 +91,4 @@ Tech - Rocketry: progression
 Tech - Telecommunications: unknown
 The Wheel: unknown
 Trap - Minor Culture: unknown
+Trap - Minor Gold: unknown

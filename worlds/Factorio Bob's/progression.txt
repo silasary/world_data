@@ -44,6 +44,7 @@ bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
 bob-plasma-rocket: unknown
+bob-poison-bullets: unknown
 bob-poison-rocket: unknown
 bob-reinforced-wall: unknown
 bob-robot-plasma-drones: unknown
