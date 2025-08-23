@@ -19,12 +19,15 @@ bob-deuterium-processing: unknown
 bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
 bob-explosive-artillery-shells: unknown
+bob-fertiliser: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
+bob-fluid-chemical-furnace: unknown
 bob-fluid-mixing-furnace: unknown
 bob-gas-canisters: unknown
 bob-gold-processing: unknown
 bob-grinding: unknown
+bob-he-bullets: unknown
 bob-heat-shield: unknown
 bob-heavy-water-processing: unknown
 bob-hydrazine: unknown
@@ -33,6 +36,7 @@ bob-invar-processing: unknown
 bob-lab: unknown
 bob-laser-rifle: unknown
 bob-laser-robot: unknown
+bob-lead-processing: unknown
 bob-lithium-processing: unknown
 bob-nickel-processing: unknown
 bob-nitrogen-processing: unknown
@@ -42,6 +46,7 @@ bob-personal-roboport-mk4-equipment: unknown
 bob-plasma-rocket: unknown
 bob-poison-rocket: unknown
 bob-reinforced-wall: unknown
+bob-robot-plasma-drones: unknown
 bob-rocket: unknown
 bob-rtg: unknown
 bob-shotgun-electric-shells: unknown
@@ -49,11 +54,13 @@ bob-shotgun-explosive-shells: unknown
 bob-shotgun-poison-shells: unknown
 bob-shotgun-shells: unknown
 bob-silicon-processing: unknown
+bob-slowdown-mine: unknown
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
 bob-thorium-fuel-reprocessing: unknown
 bob-thorium-processing: unknown
 bob-titanium-processing: unknown
+bob-tungsten-processing: unknown
 bob-vehicle-engine-equipment: unknown
 bob-vehicle-motor-equipment: unknown
 bob-void-fluid: unknown
@@ -78,6 +85,7 @@ progressive-bob-air-compressor: unknown
 progressive-bob-armoured-fluid-wagon: unknown
 progressive-bob-armoured-railway: unknown
 progressive-bob-burner-reactor: unknown
+progressive-bob-centrifuge: unknown
 progressive-bob-chemical-plant: unknown
 progressive-bob-chemical-processing: unknown
 progressive-bob-distillery: unknown
@@ -140,6 +148,7 @@ progressive-night-vision-equipment: unknown
 progressive-nuclear-power: unknown
 progressive-oil-processing: unknown
 progressive-personal-battery: unknown
+progressive-personal-laser-defense-equipment: unknown
 progressive-personal-roboport-equipment: unknown
 progressive-physical-projectile-damage: unknown
 progressive-productivity-module: unknown
