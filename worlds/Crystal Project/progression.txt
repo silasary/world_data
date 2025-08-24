@@ -43,7 +43,7 @@ Equipment - Artillerist Mail - 2146: unknown
 Equipment - Ash Wand: unknown
 Equipment - Assassin Vest: useful
 Equipment - Assassins Cloak: useful
-Equipment - Autumns Oath: unknown
+Equipment - Autumns Oath: useful
 Equipment - Avatar - 2038: unknown
 Equipment - Awake Ring: unknown
 Equipment - Axiom - 1702: unknown
@@ -207,6 +207,7 @@ Equipment - Dragonslayer - 1812: unknown
 Equipment - Dream Hunter: unknown
 Equipment - Dress: unknown
 Equipment - Drunkard Vest - 2145: unknown
+Equipment - Dueller: unknown
 Equipment - Dull Scythe - 1808: unknown
 Equipment - Dusk Collar - 1802: unknown
 Equipment - Duskblade Seal - 2117: unknown
@@ -1062,7 +1063,7 @@ Job - Desperado - 27: unknown
 Job - Duskblade - 85: unknown
 Job - Eevee - 53: unknown
 Job - Espeon - 57: unknown
-Job - Fafnir - 147: unknown
+Job - Fafnir - 147: progression
 Job - Fencer: unknown
 Job - Flagellant - 30: progression
 Job - Flareon - 56: unknown
