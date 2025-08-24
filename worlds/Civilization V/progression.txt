@@ -2,6 +2,7 @@ Archery: progression
 Architecture: progression
 Banking: unknown
 Bonus - All City Population +1: unknown
+Bonus - Culture: unknown
 Bonus - Extra Happiness Per City: unknown
 Bonus - Faith: filler
 Bonus - Free Tech: unknown
@@ -52,6 +53,7 @@ Policy - Trade Unions: unknown
 Policy Branch - Aesthetics Finisher: unknown
 Policy Branch - Aesthetics: progression
 Policy Branch - Exploration Finisher: unknown
+Policy Branch - Exploration: unknown
 Policy Branch - Patronage: unknown
 Policy Branch - Piety Finisher: unknown
 Policy Branch - Piety: unknown
@@ -81,11 +83,13 @@ Tech - Iron Working: unknown
 Tech - Lasers: unknown
 Tech - Machinery: unknown
 Tech - Mathematics: unknown
+Tech - Metallurgy: unknown
 Tech - Navigation: unknown
 Tech - Particle Physics: unknown
 Tech - Philosophy: unknown
 Tech - Radar: unknown
 Tech - Railroad: unknown
+Tech - Refrigeration: unknown
 Tech - Replaceable Parts: unknown
 Tech - Rocketry: progression
 Tech - Telecommunications: unknown
