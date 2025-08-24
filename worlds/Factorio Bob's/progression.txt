@@ -106,6 +106,7 @@ progressive-bob-multi-purpose-furnace: unknown
 progressive-bob-oil-boiler: unknown
 progressive-bob-personal-roboport-modular-equipment: unknown
 progressive-bob-plasma-turrets: unknown
+progressive-bob-pollution-clean-module: unknown
 progressive-bob-pollution-create-module: unknown
 progressive-bob-pumpjacks: unknown
 progressive-bob-robo-modular: unknown
@@ -170,6 +171,7 @@ progressive-steel-axe: unknown
 progressive-stronger-explosives: unknown
 progressive-toolbelt: unknown
 progressive-turrets: unknown
+progressive-wall: unknown
 progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
 progressive-worker-robots-storage: unknown
