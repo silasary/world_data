@@ -52,6 +52,7 @@ bob-rocket: unknown
 bob-rtg: unknown
 bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
+bob-shotgun-plasma-shells: unknown
 bob-shotgun-poison-shells: unknown
 bob-shotgun-shells: unknown
 bob-silicon-processing: unknown
