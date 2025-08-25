@@ -39,6 +39,7 @@ Banana for Paratroopa: progression
 Banana for Peach: progression
 Banana for Petey Piranha: unknown
 Banana for Toad: progression
+Banana for Toadette: unknown
 Banana for Wario: unknown
 Banana for Yoshi: useful
 Barrel Train: progression
@@ -133,6 +134,7 @@ Extra Weight for Toadette Kart: progression
 Extra Weight for Turbo Birdo: progression
 Extra Weight for Turbo Yoshi: progression
 Extra Weight for Waluigi Racer: unknown
+Fake Item for Baby Luigi: unknown
 Fake Item for Baby Mario: progression
 Fake Item for Birdo: progression
 Fake Item for Bowser Jr.: unknown
@@ -143,11 +145,13 @@ Fake Item for Donkey Kong: unknown
 Fake Item for Everybody: unknown
 Fake Item for King Boo: useful
 Fake Item for Koopa: filler
+Fake Item for Luigi: unknown
 Fake Item for Mario: progression
 Fake Item for Paratroopa: unknown
 Fake Item for Peach: unknown
 Fake Item for Petey Piranha: unknown
 Fake Item for Toad: unknown
+Fake Item for Waluigi: unknown
 Fake Item for Wario: unknown
 Fake Item for Yoshi: filler
 Fireball for Birdo: unknown
@@ -210,6 +214,7 @@ Golden Mushroom for Koopa: progression
 Golden Mushroom for Mario: unknown
 Golden Mushroom for Peach: unknown
 Golden Mushroom for Toad: progression
+Golden Mushroom for Toadette: unknown
 Golden Mushroom for Waluigi: unknown
 Golden Mushroom for Wario: useful
 Golden Mushroom for Yoshi: useful
@@ -269,6 +274,7 @@ Lightning for Luigi: useful
 Lightning for Mario: unknown
 Lightning for Paratroopa: unknown
 Lightning for Peach: unknown
+Lightning for Petey Piranha: unknown
 Lightning for Toad: unknown
 Lightning for Toadette: useful
 Lightning for Yoshi: useful
@@ -300,6 +306,7 @@ Mushroom City Time Trial: progression
 Mushroom Cup: progression
 Mushroom for Baby Luigi: unknown
 Mushroom for Baby Mario: unknown
+Mushroom for Birdo: unknown
 Mushroom for Bowser Jr.: unknown
 Mushroom for Bowser: unknown
 Mushroom for Daisy: useful
@@ -382,6 +389,7 @@ Red Shell for Luigi: useful
 Red Shell for Paratroopa: useful
 Red Shell for Peach: unknown
 Red Shell for Petey Piranha: unknown
+Red Shell for Toad: unknown
 Red Shell for Toadette: unknown
 Red Shell for Waluigi: progression
 Red Shell for Wario: unknown
@@ -393,6 +401,7 @@ Spiny Shell for Birdo: unknown
 Spiny Shell for Bowser Jr.: useful
 Spiny Shell for Bowser: progression
 Spiny Shell for Daisy: progression
+Spiny Shell for Diddy Kong: unknown
 Spiny Shell for Donkey Kong: unknown
 Spiny Shell for Everybody: progression
 Spiny Shell for King Boo: unknown
