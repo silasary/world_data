@@ -170,7 +170,7 @@ First Response Vanish: unknown
 Folie: unknown
 Fort Adamant: unknown
 Franz Rayner: unknown
-Freedom Five Absolute Zero: unknown
+Freedom Five Absolute Zero: progression
 Freedom Five Bunker: unknown
 Freedom Five Legacy: progression
 Freedom Five Tachyon: unknown
@@ -237,6 +237,7 @@ Hero Fragility: trap
 Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
+Hero Toughness: useful
 Heroic Infinitor: progression
 Heroic Luminary: progression
 Hexer: unknown
@@ -297,7 +298,7 @@ Lady of the Wood Season of Change: unknown
 Lady of the Wood: unknown
 League of Shadows: unknown
 Legacy: America's Finest Medic: unknown
-Legacy: unknown
+Legacy: progression
 Legion: unknown
 Lifeform: unknown
 Lifeline Blood Mage: unknown
@@ -416,7 +417,7 @@ Power use -1 (Any Tachyon): unknown
 Prime Wardens Argent Adept: unknown
 Prime Wardens Captain Cosmic: unknown
 Prime Wardens Fanatic: unknown
-Prime Wardens Haka: unknown
+Prime Wardens Haka: progression
 Prime Wardens Tempest: unknown
 Prismari: College of Elemental Arts: unknown
 Progeny: Left Behind: unknown
@@ -443,10 +444,10 @@ Remy: unknown
 Resurgere: unknown
 Rin: unknown
 Roach King: unknown
-Road Warrior Mainstay: unknown
+Road Warrior Mainstay: progression
 Rook City Wraith: progression
 Rook City: progression
-Ruins of Atlantis: unknown
+Ruins of Atlantis: progression
 Saheeli: Sublime Artificer: unknown
 Saheeli: Sun's Brilliance: unknown
 SaltyDKDan: Friendlock Season 2: unknown
@@ -468,7 +469,7 @@ Silverquill: College of Eloquence: unknown
 Simic Combine: unknown
 Sion: unknown
 Sister Eun-Young: unknown
-Skinwalker GloomWeaver: unknown
+Skinwalker GloomWeaver: progression
 Skinwalker Gloomweaver: unknown
 Sky-Scraper: progression
 Son of The Green Death: unknown
@@ -484,6 +485,7 @@ Stand User Vector: unknown
 Starlight Area-51: unknown
 Starlight Genesis: unknown
 Starlight: unknown
+Starting Handsize +1 (Any Captain Cosmic): useful
 Starting Handsize +1 (Any Writhe): unknown
 Stitch: unknown
 Striker: unknown
@@ -509,7 +511,7 @@ Tango One: unknown
 Teferi: unknown
 Tempest: unknown
 Temple of Trials: unknown
-Termi-Nation Absolute Zero: unknown
+Termi-Nation Absolute Zero: progression
 Termi-Nation Bunker: useful
 Termi-Nation Unity: unknown
 Terminus 2199: unknown
@@ -525,7 +527,7 @@ The Brazen Coalition: Beckett Brass: unknown
 The Brazen Coalition: Wallis Parrish: unknown
 The Celestial Tribunal: unknown
 The Chairman: Kingpin: unknown
-The Chairman: unknown
+The Chairman: progression
 The Chasm of a Thousand Nights: unknown
 The Court of Blood: unknown
 The Cricket Renegade: unknown
@@ -611,7 +613,7 @@ Turnip Boy: unknown
 Ula, False God: unknown
 Ulamog: unknown
 Unity: Girl's Best Friend: unknown
-Unity: unknown
+Unity: progression
 Unown: unknown
 Unstable Lifeform: unknown
 Urban Warfare Expatriette: unknown
