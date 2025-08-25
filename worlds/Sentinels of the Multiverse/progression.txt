@@ -43,7 +43,7 @@ Baron Blade: unknown
 Bedlam: unknown
 Benchmaka: unknown
 Benchmark Supply & Demand: unknown
-Benchmark: unknown
+Benchmark: progression
 Berdly: unknown
 Bewitched Spite: unknown
 Big and Will be Bad Wolf: unknown
@@ -61,12 +61,12 @@ Buffy: unknown
 Bugbear: unknown
 Bulky Bob-Omb: unknown
 Bunker-Tron U: unknown
-Bunker: unknown
+Bunker: progression
 Butch: unknown
 Calumon: unknown
 Cantrip: unknown
 Captain Cosmic Requital: unknown
-Captain Cosmic: unknown
+Captain Cosmic: progression
 Captain Gyrosaur: unknown
 Captain Jupiter: unknown
 Captain Tempest: unknown
@@ -172,7 +172,7 @@ Fort Adamant: unknown
 Franz Rayner: unknown
 Freedom Five Absolute Zero: unknown
 Freedom Five Bunker: unknown
-Freedom Five Legacy: unknown
+Freedom Five Legacy: progression
 Freedom Five Tachyon: unknown
 Freedom Five Wraith: unknown
 Freedom Six Absolute Zero: unknown
@@ -183,7 +183,7 @@ Freedom Six Unity: unknown
 Freedom Six Wraith: unknown
 Freedom Tower: unknown
 Friction: unknown
-Fright Train: unknown
+Fright Train: progression
 Future Knight: unknown
 G.I. Bunker: unknown
 Galactic Commander: unknown
@@ -232,10 +232,11 @@ Heretic: unknown
 Hermit of the Azure Forest: unknown
 Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
+Hero Fragility: trap
 Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
-Heroic Infinitor: unknown
+Heroic Infinitor: progression
 Heroic Luminary: unknown
 Hexer: unknown
 Hexterminator: unknown
@@ -255,6 +256,7 @@ Impact: unknown
 Imperial: unknown
 Infinitor: Inherited Insanity: unknown
 Infinitor: unknown
+Ingenuity (Any Omnitron-X): unknown
 Inquisitor: unknown
 Insomniac: unknown
 Insula Primalis: unknown
@@ -280,13 +282,13 @@ Karn: Legacy Reforged: unknown
 Karn: unknown
 King Radical: unknown
 Kismet: Twist of Fate: unknown
-Kismet: unknown
+Kismet: progression
 Klarion: unknown
 Kotoko Utsugi: unknown
 La Capitan (Team): unknown
 La Capitan: Paradoxical Pirate: unknown
 La Capitan: Raiding Party: unknown
-La Capitan: unknown
+La Capitan: progression
 La Comodora: Curse of the Black Spot: unknown
 La Comodora: unknown
 Lady of the Wood 2199: unknown
@@ -308,7 +310,7 @@ Lou Garou: unknown
 Luis Angel: unknown
 Luminary: unknown
 Luminodora: unknown
-Mad Bomber Baron Blade: unknown
+Mad Bomber Baron Blade: progression
 Madam Eden: unknown
 Madame Mittermeier's Byzantine Bazaar of Arcana and Attactions: unknown
 Madame Mittermeier's Fantastical Festival of Conundrums and Curiosities: unknown
@@ -363,7 +365,7 @@ Necromancer: unknown
 Necron Tomb: unknown
 Nemo: unknown
 Neon Green: unknown
-Nexus of the Void: unknown
+Nexus of the Void: progression
 Nicol Bolas: Ravaging Twin: unknown
 Nicol Bolas: unknown
 Nicole: The Holo-Lynx: unknown
@@ -379,7 +381,7 @@ Ob Nixilis: unknown
 Oblask Crater: unknown
 Odysseus: unknown
 Old Town Rook City: unknown
-Omnitron II: unknown
+Omnitron II: progression
 Omnitron IV: unknown
 Omnitron-U: unknown
 Omnitron-X: unknown
@@ -441,14 +443,14 @@ Resurgere: unknown
 Rin: unknown
 Roach King: unknown
 Road Warrior Mainstay: unknown
-Rook City Wraith: unknown
-Rook City: unknown
+Rook City Wraith: progression
+Rook City: progression
 Ruins of Atlantis: unknown
 Saheeli: Sublime Artificer: unknown
 Saheeli: Sun's Brilliance: unknown
 SaltyDKDan: Friendlock Season 2: unknown
 Santa Guise: unknown
-Scion of Oblivaeon: unknown
+Scion of Oblivaeon: progression
 Scrat: unknown
 ScreaMachine: Encore: unknown
 ScreaMachine: unknown
@@ -467,7 +469,7 @@ Sion: unknown
 Sister Eun-Young: unknown
 Skinwalker GloomWeaver: unknown
 Skinwalker Gloomweaver: unknown
-Sky-Scraper: unknown
+Sky-Scraper: progression
 Son of The Green Death: unknown
 Sona: unknown
 Soultaker: unknown
@@ -486,7 +488,7 @@ Stitch: unknown
 Striker: unknown
 String: unknown
 Student Archmage: unknown
-Stuntman: unknown
+Stuntman: progression
 Stupidity 1 (Any Bunker): unknown
 Sundown: unknown
 Sunnydale Graveyard: unknown
@@ -507,7 +509,7 @@ Teferi: unknown
 Tempest: unknown
 Temple of Trials: unknown
 Termi-Nation Absolute Zero: unknown
-Termi-Nation Bunker: unknown
+Termi-Nation Bunker: useful
 Termi-Nation Unity: unknown
 Terminus 2199: unknown
 Terminus: unknown
@@ -517,7 +519,7 @@ Tezzeret: unknown
 The Adamant Sentinels: unknown
 The Armor of Mount Morath: unknown
 The Berserker Knight: unknown
-The Block: unknown
+The Block: progression
 The Brazen Coalition: Beckett Brass: unknown
 The Brazen Coalition: Wallis Parrish: unknown
 The Celestial Tribunal: unknown
@@ -541,7 +543,7 @@ The Fair Knight: unknown
 The Final Wasteland: unknown
 The Gentlemen: unknown
 The Green Death 2084: unknown
-The Harpy: unknown
+The Harpy: progression
 The Hunted Naturalist: unknown
 The Idealist: unknown
 The Infernal Choir: Possessed Opera: unknown
@@ -580,13 +582,13 @@ The Stranger Wasteland Ronin: unknown
 The Stranger in the Corn: unknown
 The Stranger: unknown
 The Super-Scientific Tachyon: unknown
-The Temple of Zhu Long: unknown
+The Temple of Zhu Long: progression
 The Thaumaturgy Scholar: unknown
 The Uncanny Quicksilver: unknown
 The Unstable Pyre: unknown
 The Venture Compound: unknown
 The Venture Twins #1-14: unknown
-The Visionary Unleashed: unknown
+The Visionary Unleashed: progression
 The Visionary: unknown
 The Wandering Isle: unknown
 The Warden: unknown
@@ -625,6 +627,7 @@ Vector: unknown
 Villain Fragility 1: unknown
 Villain Strength 1: unknown
 Villain Toughness 1: unknown
+Villain Toughness: trap
 Villain Vulnerability 1: unknown
 Villain Weakness 1: unknown
 Vishnu: unknown
