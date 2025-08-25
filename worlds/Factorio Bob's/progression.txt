@@ -30,6 +30,7 @@ bob-grinding: unknown
 bob-he-bullets: unknown
 bob-heat-shield: unknown
 bob-heavy-water-processing: unknown
+bob-hydrazine-generator: unknown
 bob-hydrazine: unknown
 bob-infinite-worker-robots-storage-4: unknown
 bob-invar-processing: unknown
@@ -71,6 +72,7 @@ coal-liquefaction: unknown
 concrete: unknown
 explosives: unknown
 flammables: unknown
+kovarex-enrichment-process: unknown
 lamp: unknown
 landfill: unknown
 low-density-structure: unknown
