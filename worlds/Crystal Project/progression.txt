@@ -32,7 +32,7 @@ Equipment - Ambition LV4 - 1712: useful
 Equipment - Ambition LV5 - 1762: unknown
 Equipment - Ambush Knife: unknown
 Equipment - Ancient Monster Bone - 1852: unknown
-Equipment - Angel's Blessing - 2009: unknown
+Equipment - Angel's Blessing - 2009: useful
 Equipment - Aphotic Edge: useful
 Equipment - Apprentice: unknown
 Equipment - Aqua Collar - 1795: useful
@@ -161,6 +161,7 @@ Equipment - Craftwork Dagger: useful
 Equipment - Craftwork Eagle - 1619: unknown
 Equipment - Craftwork Helm: useful
 Equipment - Craftwork Katana - 2118: unknown
+Equipment - Craftwork Katana: useful
 Equipment - Craftwork Mail: unknown
 Equipment - Craftwork Pages: unknown
 Equipment - Craftwork Rapier: unknown
@@ -236,7 +237,7 @@ Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: useful
 Equipment - Empowered wildfire - 1636: unknown
 Equipment - Enchanted Nunchaku - 1849: unknown
-Equipment - Epetam - 2020: unknown
+Equipment - Epetam - 2020: useful
 Equipment - Equalizer Hammer - 1813: useful
 Equipment - Ex - 2073: useful
 Equipment - Executioner - 1842: unknown
@@ -258,7 +259,7 @@ Equipment - Fencer Vest: unknown
 Equipment - Fervor Charm: unknown
 Equipment - Fey Collar - 1798: unknown
 Equipment - Feyblessed Tiara - 1956: useful
-Equipment - Fire Collar - 1801: unknown
+Equipment - Fire Collar - 1801: useful
 Equipment - Fire Eater - 1787: unknown
 Equipment - Fire Poker - 2050: unknown
 Equipment - Fish Skewer: useful
@@ -540,7 +541,7 @@ Equipment - Rapier of Warning - 1988: useful
 Equipment - Rapier: unknown
 Equipment - Raven - 2033: unknown
 Equipment - Ravens Cloak: unknown
-Equipment - Ravens Hood: unknown
+Equipment - Ravens Hood: useful
 Equipment - Reaper Mail: useful
 Equipment - Reaper's Cuffs - 1948: unknown
 Equipment - Red Blindfold - 2121: unknown
@@ -562,6 +563,7 @@ Equipment - Robust Shield - 1992: unknown
 Equipment - Rod of conviction LV1 - 1684: unknown
 Equipment - Rod of conviction LV2 - 1742: useful
 Equipment - Rod of conviction LV3 - 1743: useful
+Equipment - Rod of conviction LV4 - 1744: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
 Equipment - Royal Dominance - 1836: unknown
@@ -602,6 +604,7 @@ Equipment - Shoddy Bow - 2138: useful
 Equipment - Short Staff: unknown
 Equipment - Short Sword: unknown
 Equipment - Showstopper - 2079: unknown
+Equipment - Shroomling Suit - 2003: unknown
 Equipment - Shyamalan's Ring - 2065: unknown
 Equipment - Sickle - 2076: unknown
 Equipment - Siege Bow: useful
@@ -617,7 +620,7 @@ Equipment - Smelly Gi: unknown
 Equipment - Soaring Falcon - 1846: unknown
 Equipment - Soldier Seal - 1666: unknown
 Equipment - Soldier armor - 1656: unknown
-Equipment - Soul Keeper: unknown
+Equipment - Soul Keeper: useful
 Equipment - Soul Kris: unknown
 Equipment - Soulfrost Gauntlet - 1882: unknown
 Equipment - Spear of Io - 1821: unknown
@@ -630,7 +633,7 @@ Equipment - Squire of Avalon - 1816: useful
 Equipment - Squirrel Champion - 1961: unknown
 Equipment - Squirrel Dung: unknown
 Equipment - Stabbers: unknown
-Equipment - Staff of Balance: unknown
+Equipment - Staff of Balance: useful
 Equipment - Staff of imagination - 1664: useful
 Equipment - Stage Costume - 2135: useful
 Equipment - Stalactite - 1950: unknown
@@ -854,7 +857,7 @@ Item - Forgotten Key: unknown
 Item - Fresh Salmon: filler
 Item - Gaea Stone: unknown
 Item - Ganymede Shrine Map: unknown
-Item - Ganymede Shrine Pass: unknown
+Item - Ganymede Shrine Pass: progression
 Item - Ganymede Stone: unknown
 Item - Gardeners Key: progression
 Item - Gold Dust: useful
@@ -876,7 +879,7 @@ Item - Jidamba Eaclaneya Pass: unknown
 Item - Jidamba Key Ring: unknown
 Item - Jidamba Tangle Map: useful
 Item - Jidamba Tangle Pass: unknown
-Item - Jigging Lure: unknown
+Item - Jigging Lure: filler
 Item - Jojo Sewers Map: unknown
 Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
@@ -1026,7 +1029,7 @@ Item - Tonic: filler
 Item - Tough Rod: unknown
 Item - Tram Key: progression
 Item - Treasure Finder: useful
-Item - Treasure map #1 - 351: unknown
+Item - Treasure map #1 - 351: filler
 Item - Treasure map #2 - 352: unknown
 Item - Treasure map #6 - 356: unknown
 Item - Treasure map #7 - 357: unknown
