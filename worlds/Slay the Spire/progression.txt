@@ -18,7 +18,7 @@ Automaton Unlock: progression
 Boss Relic: progression
 Card Draw: progression
 Champ 15 Gold: unknown
-Champ 30 Gold: unknown
+Champ 30 Gold: useful
 Champ Boss Gold: unknown
 Champ Boss Relic: progression
 Champ Card Draw: filler
@@ -187,6 +187,7 @@ Hermit Boss Gold: progression
 Hermit Boss Relic: progression
 Hermit Card Draw: progression
 Hermit Five Gold: filler
+Hermit Neutral Shop Card Slot: unknown
 Hermit One Gold: filler
 Hermit Potion: useful
 Hermit Progressive Rest: unknown
