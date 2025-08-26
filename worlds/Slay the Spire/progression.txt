@@ -1,4 +1,4 @@
-Automaton 15 Gold: unknown
+Automaton 15 Gold: useful
 Automaton 30 Gold: unknown
 Automaton Boss Gold: unknown
 Automaton Boss Relic: unknown
@@ -39,13 +39,13 @@ Collector 15 Gold: unknown
 Collector 30 Gold: unknown
 Collector Boss Gold: unknown
 Collector Boss Relic: unknown
-Collector Card Draw: unknown
+Collector Card Draw: progression
 Collector Five Gold: unknown
 Collector One Gold: unknown
 Collector Potion: unknown
 Collector Progressive Rest: unknown
 Collector Rare Card Draw: unknown
-Collector Relic: unknown
+Collector Relic: progression
 Collector Shop Card Slot: unknown
 Collector Unlock: unknown
 Custom Character 1 15 Gold: useful
@@ -154,10 +154,10 @@ Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
 Gremlins 15 Gold: unknown
-Gremlins 30 Gold: unknown
+Gremlins 30 Gold: useful
 Gremlins Boss Gold: unknown
 Gremlins Boss Relic: unknown
-Gremlins Card Draw: unknown
+Gremlins Card Draw: progression
 Gremlins Five Gold: unknown
 Gremlins Neutral Shop Card Slot: unknown
 Gremlins One Gold: unknown
@@ -264,11 +264,11 @@ SlimeBoss Shop Card Slot: progression
 SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
 SlimeBoss Unlock: unknown
-Snecko 15 Gold: unknown
+Snecko 15 Gold: useful
 Snecko 30 Gold: unknown
 Snecko Boss Gold: unknown
 Snecko Boss Relic: unknown
-Snecko Card Draw: unknown
+Snecko Card Draw: progression
 Snecko Five Gold: unknown
 Snecko One Gold: unknown
 Snecko Potion: unknown
@@ -278,7 +278,7 @@ Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
 Snecko Shop Card Slot: unknown
 Snecko Shop Potion Slot: unknown
-Snecko Shop Relic Slot: unknown
+Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
