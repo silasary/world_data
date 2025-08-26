@@ -83,6 +83,7 @@ Z: unknown
 ×2W 9,9: unknown
 ×3L 0,0: unknown
 ×3L 0,14: useful
+×3L 0,6: unknown
 ×3L 1,13: unknown
 ×3L 10,4: unknown
 ×3L 12,10: unknown
@@ -119,6 +120,7 @@ Z: unknown
 ×3W 4,12: unknown
 ×3W 4,2: unknown
 ×3W 4,4: unknown
+×3W 6,0: unknown
 ×3W 6,6: unknown
 ×3W 7,13: unknown
 ×3W 7,1: unknown
