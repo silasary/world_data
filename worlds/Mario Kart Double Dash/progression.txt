@@ -107,6 +107,7 @@ Chain Chomp for Peach: progression
 Chain Chomp for Petey Piranha: useful
 Chain Chomp for Toad: unknown
 Chain Chomp for Toadette: unknown
+Chain Chomp for Waluigi: unknown
 Chain Chomp for Yoshi: unknown
 DK Jumbo: progression
 DK Mountain Time Trial: progression
@@ -177,6 +178,7 @@ Fireballs for Everybody: progression
 Fireballs for King Boo: progression
 Fireballs for Koopa: unknown
 Fireballs for Luigi: unknown
+Fireballs for Mario: unknown
 Fireballs for Paratroopa: unknown
 Fireballs for Peach: unknown
 Fireballs for Petey Piranha: unknown
@@ -192,6 +194,7 @@ Giant Banana for Birdo: unknown
 Giant Banana for Bowser: progression
 Giant Banana for Daisy: unknown
 Giant Banana for Diddy Kong: unknown
+Giant Banana for Donkey Kong: unknown
 Giant Banana for Everybody: progression
 Giant Banana for King Boo: progression
 Giant Banana for Koopa: progression
@@ -214,6 +217,7 @@ Golden Mushroom for Everybody: progression
 Golden Mushroom for Koopa: progression
 Golden Mushroom for Mario: unknown
 Golden Mushroom for Peach: unknown
+Golden Mushroom for Petey Piranha: unknown
 Golden Mushroom for Toad: progression
 Golden Mushroom for Toadette: unknown
 Golden Mushroom for Waluigi: unknown
@@ -269,6 +273,7 @@ Lightning for Baby Luigi: unknown
 Lightning for Birdo: unknown
 Lightning for Bowser Jr.: unknown
 Lightning for Bowser: useful
+Lightning for Daisy: unknown
 Lightning for Donkey Kong: progression
 Lightning for Everybody: unknown
 Lightning for King Boo: unknown
@@ -423,15 +428,18 @@ Spiny Shell for Yoshi: progression
 Star Cup: progression
 Star for Baby Luigi: unknown
 Star for Baby Mario: unknown
+Star for Birdo: unknown
 Star for Bowser Jr.: unknown
 Star for Bowser: progression
 Star for Daisy: unknown
 Star for Diddy Kong: unknown
 Star for Donkey Kong: unknown
 Star for Everybody: progression
+Star for King Boo: unknown
 Star for Luigi: unknown
 Star for Mario: unknown
 Star for Peach: progression
+Star for Petey Piranha: unknown
 Star for Toad: unknown
 Star for Toadette: unknown
 Star for Wario: unknown
@@ -463,6 +471,7 @@ Triple Mushrooms for Birdo: unknown
 Triple Mushrooms for Bowser Jr.: unknown
 Triple Mushrooms for Bowser: unknown
 Triple Mushrooms for Daisy: useful
+Triple Mushrooms for Donkey Kong: unknown
 Triple Mushrooms for Everybody: progression
 Triple Mushrooms for Koopa: useful
 Triple Mushrooms for Luigi: progression
@@ -473,6 +482,7 @@ Triple Mushrooms for Toadette: unknown
 Triple Mushrooms for Waluigi: unknown
 Triple Mushrooms for Wario: unknown
 Triple Mushrooms for Yoshi: unknown
+Triple Red Shells for Baby Luigi: unknown
 Triple Red Shells for Baby Mario: useful
 Triple Red Shells for Birdo: useful
 Triple Red Shells for Bowser Jr.: unknown

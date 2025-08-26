@@ -27,6 +27,7 @@ Champ Neutral Shop Card Slot: unknown
 Champ One Gold: filler
 Champ Potion: unknown
 Champ Progressive Rest: unknown
+Champ Progressive Shop Remove: unknown
 Champ Progressive Smith: unknown
 Champ Rare Card Draw: progression
 Champ Relic: progression
@@ -42,8 +43,11 @@ Collector Card Draw: unknown
 Collector Five Gold: unknown
 Collector One Gold: unknown
 Collector Potion: unknown
+Collector Progressive Rest: unknown
 Collector Rare Card Draw: unknown
 Collector Relic: unknown
+Collector Shop Card Slot: unknown
+Collector Unlock: unknown
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
 Custom Character 1 30 gold: progression
@@ -159,6 +163,7 @@ Gremlins Neutral Shop Card Slot: unknown
 Gremlins One Gold: unknown
 Gremlins Potion: unknown
 Gremlins Progressive Rest: unknown
+Gremlins Progressive Shop Remove: unknown
 Gremlins Progressive Smith: unknown
 Gremlins Relic: unknown
 Gremlins Shop Card Slot: unknown
@@ -273,6 +278,7 @@ Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
 Snecko Shop Card Slot: unknown
 Snecko Shop Potion Slot: unknown
+Snecko Shop Relic Slot: unknown
 Snecko Unlock: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
