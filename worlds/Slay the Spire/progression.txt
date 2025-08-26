@@ -4,7 +4,7 @@ Automaton Boss Gold: unknown
 Automaton Boss Relic: unknown
 Automaton Card Draw: progression
 Automaton Five Gold: filler
-Automaton Neutral Shop Card Slot: unknown
+Automaton Neutral Shop Card Slot: progression
 Automaton One Gold: filler
 Automaton Potion: unknown
 Automaton Progressive Rest: unknown
@@ -162,7 +162,7 @@ Gremlins Five Gold: unknown
 Gremlins Neutral Shop Card Slot: unknown
 Gremlins One Gold: unknown
 Gremlins Potion: unknown
-Gremlins Progressive Rest: unknown
+Gremlins Progressive Rest: progression
 Gremlins Progressive Shop Remove: progression
 Gremlins Progressive Smith: unknown
 Gremlins Relic: progression
@@ -270,6 +270,7 @@ Snecko Boss Gold: progression
 Snecko Boss Relic: unknown
 Snecko Card Draw: progression
 Snecko Five Gold: unknown
+Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: unknown
 Snecko Potion: unknown
 Snecko Progressive Rest: unknown
