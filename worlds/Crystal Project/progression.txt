@@ -195,6 +195,7 @@ Equipment - Demon Scythe - 1998: unknown
 Equipment - Demonic - 2069: unknown
 Equipment - Depth-seer's Tome - 1825: useful
 Equipment - Dervish Robe: unknown
+Equipment - Desert Ringblade - 1854: unknown
 Equipment - Desert Sickle - 1840: unknown
 Equipment - Desperado Vest - 2148: useful
 Equipment - Dew Staff - 1898: unknown
@@ -229,6 +230,7 @@ Equipment - Empowered Volcanic rocks - 1680: useful
 Equipment - Empowered blessed earth - 1633: useful
 Equipment - Empowered boulder bash - 1632: filler
 Equipment - Empowered crushing fist - 1638: useful
+Equipment - Empowered first aid - 1635: unknown
 Equipment - Empowered lower resistence - 1634: unknown
 Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: useful
@@ -284,6 +286,7 @@ Equipment - Gaea's Cloak - 1858: unknown
 Equipment - Gaia Axe: unknown
 Equipment - Gaia Vest: unknown
 Equipment - Ganymede's Cloak - 1857: unknown
+Equipment - Gemini - 2017: unknown
 Equipment - Geomante Seal - 1675: unknown
 Equipment - Geomante armor - 1660: unknown
 Equipment - Giant Boomer - 1972: useful
@@ -397,6 +400,7 @@ Equipment - Loyalty - 1827: unknown
 Equipment - Lucky Briefs: unknown
 Equipment - Lucky Platter: useful
 Equipment - Lucky Socks: unknown
+Equipment - Lucky charm - 1733: unknown
 Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
@@ -523,6 +527,7 @@ Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
 Equipment - Protective Goggles - 2008: unknown
 Equipment - Protector: unknown
+Equipment - Pumpking helmet - 1706: unknown
 Equipment - Quickdraw - 2047: useful
 Equipment - Quintar Pheromones - 1951: unknown
 Equipment - Radiance: unknown
@@ -741,6 +746,7 @@ Equipment - Winter Ring - 1752: unknown
 Equipment - Witch Seal - 1676: unknown
 Equipment - Witch dress - 1657: unknown
 Equipment - Wizard Robe: unknown
+Equipment - Wizards Wall: unknown
 Equipment - Woodchopper - 1804: unknown
 Equipment - Woodsmacker - 1832: unknown
 Equipment - Worn Scythe - 2092: unknown
@@ -937,6 +943,7 @@ Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
 Item - Quintar Sanctum Pass: unknown
 Item - Rampart Key: unknown
+Item - Rations - 334: unknown
 Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
 Item - River Cats Ego Map: unknown
@@ -1061,6 +1068,7 @@ Job - Dancer - 80: progression
 Job - Dervish: progression
 Job - Desperado - 27: unknown
 Job - Duskblade - 85: unknown
+Job - Eclipsar - 45: unknown
 Job - Eevee - 53: unknown
 Job - Espeon - 57: unknown
 Job - Fafnir - 147: progression
@@ -1072,6 +1080,7 @@ Job - Freelancer - 90: unknown
 Job - Gamester - 48: progression
 Job - Geomante - 33: unknown
 Job - Glaceon - 61: unknown
+Job - Harmacist - 44: unknown
 Job - Hero - 96: unknown
 Job - Horologist - 43: unknown
 Job - Hunter: unknown

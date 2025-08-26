@@ -1,5 +1,5 @@
 Automaton 15 Gold: useful
-Automaton 30 Gold: unknown
+Automaton 30 Gold: useful
 Automaton Boss Gold: unknown
 Automaton Boss Relic: unknown
 Automaton Card Draw: progression
@@ -12,7 +12,7 @@ Automaton Progressive Smith: unknown
 Automaton Rare Card Draw: unknown
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
-Automaton Shop Potion Slot: unknown
+Automaton Shop Potion Slot: useful
 Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
 Boss Relic: progression
@@ -27,7 +27,7 @@ Champ Neutral Shop Card Slot: unknown
 Champ One Gold: filler
 Champ Potion: unknown
 Champ Progressive Rest: unknown
-Champ Progressive Shop Remove: unknown
+Champ Progressive Shop Remove: progression
 Champ Progressive Smith: unknown
 Champ Rare Card Draw: progression
 Champ Relic: progression
@@ -35,19 +35,19 @@ Champ Shop Card Slot: unknown
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
 Champ Unlock: progression
-Collector 15 Gold: unknown
-Collector 30 Gold: unknown
+Collector 15 Gold: useful
+Collector 30 Gold: useful
 Collector Boss Gold: unknown
-Collector Boss Relic: unknown
+Collector Boss Relic: progression
 Collector Card Draw: progression
 Collector Five Gold: unknown
 Collector One Gold: unknown
 Collector Potion: unknown
-Collector Progressive Rest: unknown
+Collector Progressive Rest: progression
 Collector Rare Card Draw: unknown
 Collector Relic: progression
-Collector Shop Card Slot: unknown
-Collector Unlock: unknown
+Collector Shop Card Slot: progression
+Collector Unlock: progression
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
 Custom Character 1 30 gold: progression
@@ -153,7 +153,7 @@ Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
-Gremlins 15 Gold: unknown
+Gremlins 15 Gold: useful
 Gremlins 30 Gold: useful
 Gremlins Boss Gold: unknown
 Gremlins Boss Relic: unknown
@@ -163,10 +163,10 @@ Gremlins Neutral Shop Card Slot: unknown
 Gremlins One Gold: unknown
 Gremlins Potion: unknown
 Gremlins Progressive Rest: unknown
-Gremlins Progressive Shop Remove: unknown
+Gremlins Progressive Shop Remove: progression
 Gremlins Progressive Smith: unknown
-Gremlins Relic: unknown
-Gremlins Shop Card Slot: unknown
+Gremlins Relic: progression
+Gremlins Shop Card Slot: progression
 Gremlins Shop Potion Slot: unknown
 Gremlins Shop Relic Slot: unknown
 Gremlins Unlock: unknown
@@ -266,7 +266,7 @@ SlimeBoss Shop Relic Slot: progression
 SlimeBoss Unlock: unknown
 Snecko 15 Gold: useful
 Snecko 30 Gold: unknown
-Snecko Boss Gold: unknown
+Snecko Boss Gold: progression
 Snecko Boss Relic: unknown
 Snecko Card Draw: progression
 Snecko Five Gold: unknown
@@ -276,7 +276,7 @@ Snecko Progressive Rest: unknown
 Snecko Progressive Smith: unknown
 Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
-Snecko Shop Card Slot: unknown
+Snecko Shop Card Slot: progression
 Snecko Shop Potion Slot: unknown
 Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
