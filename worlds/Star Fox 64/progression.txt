@@ -4,9 +4,9 @@ Aquas: unknown
 Area 6 - Checkpoint: useful
 Area 6 - Red Path: progression
 Area 6: unknown
-Bolse - Blue Path: unknown
+Bolse - Blue Path: progression
 Bomb: filler
-Corneria - Blue Path: unknown
+Corneria - Blue Path: progression
 Corneria - Red Path: progression
 Corneria: unknown
 Fortuna - Blue Path: unknown
@@ -15,7 +15,7 @@ Fortuna: unknown
 Gold Ring: useful
 Katina - Blue Path: progression
 Katina - Yellow Path: progression
-Laser Upgrade: unknown
+Laser Upgrade: useful
 Macbeth - Blue Path: progression
 Macbeth - Checkpoint: unknown
 Macbeth - Red Path: unknown
@@ -32,9 +32,9 @@ Sector Y - Checkpoint: unknown
 Sector Y - Red Path: progression
 Sector Y - Yellow Path: progression
 Sector Y: unknown
-Sector Z - Blue Path: unknown
+Sector Z - Blue Path: progression
 Sector Z - Red Path: progression
-Silver Ring: unknown
+Silver Ring: useful
 Silver Star: unknown
 Solar - Checkpoint: unknown
 Solar - Yellow Path: unknown
@@ -43,5 +43,5 @@ Titania - Checkpoint: unknown
 Titania: unknown
 Venom 1 - Checkpoint: unknown
 Zoness - Red Path: unknown
-Zoness - Yellow Path: unknown
+Zoness - Yellow Path: progression
 Zoness: unknown
