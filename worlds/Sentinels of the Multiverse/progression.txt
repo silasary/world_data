@@ -178,14 +178,14 @@ Freedom Five Wraith: unknown
 Freedom Six Absolute Zero: unknown
 Freedom Six Bunker: unknown
 Freedom Six Tachyon: unknown
-Freedom Six Tempest: unknown
+Freedom Six Tempest: progression
 Freedom Six Unity: unknown
 Freedom Six Wraith: unknown
 Freedom Tower: unknown
 Friction: unknown
 Fright Train: progression
 Future Knight: unknown
-G.I. Bunker: unknown
+G.I. Bunker: progression
 Galactic Commander: unknown
 Gargoyle 2199: unknown
 Gargoyle Dragon Ranger: unknown
@@ -213,12 +213,12 @@ Gray: Radioactive Decay: unknown
 Gray: unknown
 Greazer: progression
 Gruul Clans: unknown
-Guise: unknown
+Guise: progression
 Gunner: unknown
 Gyrosaur Renegade: unknown
 Gyrosaur Speed Demon: unknown
 Gyrosaur: unknown
-Haka: unknown
+Haka: progression
 Halberd E.R.C.: unknown
 Harbinger Quicksilver: unknown
 Hare: unknown
@@ -230,6 +230,7 @@ Heliod: unknown
 Her Heart: unknown
 Heretic: unknown
 Hermit of the Azure Forest: unknown
+Hero Fortification (Any Absolute Zero): useful
 Hero Fortification (Any Ra): useful
 Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
@@ -347,7 +348,7 @@ Miss Information (Team): unknown
 Miss Information: Deja Vu: unknown
 Miss Information: Subtle Saboteur: unknown
 Miss Information: unknown
-Mister Fixer: unknown
+Mister Fixer: progression
 Mister Ranger: unknown
 Mobile Assault Platform: unknown
 Mobile Defense Platform: unknown
@@ -356,7 +357,7 @@ Molotov: unknown
 Moonflow Citizen Dawn: unknown
 Moonflow Dendron: unknown
 Moonflow The Dreamer: unknown
-Mordengrad: unknown
+Mordengrad: progression
 Muldorf: unknown
 Mythos: The Inescapable Truth: unknown
 Mythos: unknown
@@ -398,8 +399,8 @@ Orzhov Syndicate: unknown
 Outlander: Final Days: unknown
 Outlander: Fragmented Timeline: unknown
 Outlander: unknown
-Parse: Fugue State: unknown
-Parse: unknown
+Parse: Fugue State: progression
+Parse: progression
 Patricia: unknown
 Phase: On the Run: unknown
 Phase: unknown
@@ -415,19 +416,19 @@ Power use +1 (Any Legacy): unknown
 Power use +1 (Any Mister Fixer): unknown
 Power use +1 (Any Stuntman): unknown
 Power use +1 (Any Tachyon): unknown
-Power use +1 (Any The Visionary): unknown
+Power use +1 (Any The Visionary): useful
 Power use -1 (Any Mainstay): unknown
 Power use -1 (Any Tachyon): unknown
 Prime Wardens Argent Adept: unknown
-Prime Wardens Captain Cosmic: unknown
+Prime Wardens Captain Cosmic: progression
 Prime Wardens Fanatic: progression
 Prime Wardens Haka: progression
 Prime Wardens Tempest: unknown
 Prismari: College of Elemental Arts: unknown
 Progeny: Left Behind: unknown
 Progeny: The Messenger: unknown
-Progeny: unknown
-Proletariat: unknown
+Progeny: progression
+Proletariat: progression
 Punchline: unknown
 Purified Gelatina: unknown
 Pyre Expedition Oblask: unknown
@@ -442,7 +443,7 @@ Ra: unknown
 Rafaam: unknown
 Rapid Deployment 1: unknown
 Realm of Discord: unknown
-Redeemer Fanatic: unknown
+Redeemer Fanatic: progression
 Remnant: unknown
 Remy: unknown
 Resurgere: unknown
@@ -463,7 +464,7 @@ ScreaMachine: unknown
 Scream Machine: unknown
 Selesnya Conclave: unknown
 Sen's Fortress: unknown
-Sergeant Steel: unknown
+Sergeant Steel: progression
 Setback: unknown
 Setbackyon: unknown
 Shardmaster Malichae: unknown
@@ -507,7 +508,7 @@ Swarm Eater: unknown
 Swordsmachine: unknown
 T'au Commander: The Killing Blow: unknown
 Tachyon: The Quickest Man on Earth: unknown
-Tachyon: unknown
+Tachyon: progression
 Tango One 1929: unknown
 Tango One Creed of the Sniper: unknown
 Tango One Ghost Ops: unknown
@@ -552,7 +553,7 @@ The Gentlemen: unknown
 The Green Death 2084: unknown
 The Harpy: progression
 The Hunted Naturalist: unknown
-The Idealist: unknown
+The Idealist: progression
 The Infernal Choir: Possessed Opera: unknown
 The Infernal Choir: unknown
 The Junkyard: unknown
@@ -632,7 +633,7 @@ Vanish: unknown
 Vault 5: unknown
 Vector: unknown
 Villain Fragility 1: unknown
-Villain Fragility: unknown
+Villain Fragility: useful
 Villain Strength 1: unknown
 Villain Toughness 1: unknown
 Villain Toughness: trap
@@ -641,8 +642,8 @@ Villain Weakness 1: unknown
 Vishnu: unknown
 Vona: unknown
 Wager Master: Omnipotent Annoyance: unknown
-Wager Master: unknown
-Wagner Mars Base: unknown
+Wager Master: progression
+Wagner Mars Base: progression
 Wardenwood: unknown
 Warmonger: unknown
 Windcolor Dendron: unknown
@@ -657,7 +658,7 @@ Xander: High School Slacker: unknown
 Xander: unknown
 Xtreme Prime Wardens Argent Adept: unknown
 Xtreme Prime Wardens Captain Cosmic: unknown
-Xtreme Prime Wardens Fanatic: unknown
+Xtreme Prime Wardens Fanatic: progression
 Xtreme Prime Wardens Haka: unknown
 Xtreme Prime Wardens Tempest: unknown
 Xykon: unknown
