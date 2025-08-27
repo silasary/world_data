@@ -1,7 +1,7 @@
 Basement Key: progression
 Battery Pack: progression
 Blankprint: filler
-Broken Lever: unknown
+Broken Lever: progression
 Car Keys: useful
 Chonograph: useful
 Compass: useful
@@ -17,16 +17,16 @@ Lucky Rabbit's Foot: useful
 Magnifying Glass: unknown
 Metal Detector: unknown
 Microchip - Blackbridge Grotto: progression
-Microchip - Entrance Hall: unknown
+Microchip - Entrance Hall: progression
 Moon Pendant: useful
 Morning Star: useful
-Ornate Compass: unknown
+Ornate Compass: useful
 Prism Key: useful
 Red Crown: useful
 Royal Scepter: useful
 Running Shoes: useful
 Safe Deposit Box Keys: useful
-Salt Shaker: unknown
+Salt Shaker: useful
 Self-Igniting Torch: progression
 Shovel: progression
 Silver Key: useful
@@ -40,27 +40,27 @@ Unlock - Alt. East Antechamber Lever (Secret Garden): progression
 Unlock - Alt. North Antechamber Lever (Throne Room): progression
 Unlock - Alt. South Antechamber Lever (Weight Room): progression
 Unlock - Alt. West Antechamber Lever (Mechanarium): progression
-Unlock - Apple Orchard Gate: unknown
+Unlock - Apple Orchard Gate: progression
 Unlock - Armory Stock: useful
 Unlock - Art Puzzle (Gallery): progression
 Unlock - Boiler Room Pipes and Valves: progression
-Unlock - Boudoir Safe: unknown
+Unlock - Boudoir Safe: useful
 Unlock - Breaker Box (Utility Closet): progression
 Unlock - Chamber of Mirror Buttons: useful
-Unlock - Chapel Piggy Bank: unknown
-Unlock - Chess Piece Powers: unknown
+Unlock - Chapel Piggy Bank: useful
+Unlock - Chess Piece Powers: useful
 Unlock - Cloister Central Access: useful
 Unlock - Coat Check Storage: useful
 Unlock - Comissary Stock: useful
 Unlock - Conservatory Rarity Adjustments: useful
 Unlock - Dartboard Puzzle (Billiard Room): useful
-Unlock - Drafting Studio Floorplans: unknown
+Unlock - Drafting Studio Floorplans: progression
 Unlock - Drawing Room Safe: useful
 Unlock - East Antechamber Lever (Great Hall): progression
 Unlock - Foundation Elevator: progression
 Unlock - GAMBLING (Casino Services): useful
 Unlock - Garage Doors: progression
-Unlock - Kitchen Stock: unknown
+Unlock - Kitchen Stock: progression
 Unlock - Laboratory Terminal: useful
 Unlock - Laundry Room Services: unknown
 Unlock - Locksmith Stock: useful
@@ -79,7 +79,7 @@ Unlock - South Antechamber Lever (Greenhouse): progression
 Unlock - Study Safe: progression
 Unlock - Telescope Controls (Observatory): progression
 Unlock - Tomb Puzzle: progression
-Unlock - Trading Post Stock: unknown
+Unlock - Trading Post Stock: useful
 Unlock - West Antechamber Lever (Secret Garden): progression
 Unlock - Wind-up Key (Parlor): useful
 Unlock - Workshop Bench: unknown
