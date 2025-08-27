@@ -37,7 +37,7 @@ GATE_SS_UW: progression
 GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
-Gate: Chimney Canopy to The Exterior: unknown
+Gate: Chimney Canopy to The Exterior: progression
 Gate: Drainage System to Chimney Canopy: unknown
 Gate: Drainage System to Garbage Wastes: useful
 Gate: Drainage System to Subterranean: progression
