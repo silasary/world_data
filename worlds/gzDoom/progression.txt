@@ -144,6 +144,7 @@ BlueSkull (E4M3): progression
 BlueSkull (E4M5): progression
 BlueSkull (E4M6): progression
 BlueSkull (E4M7): progression
+BlueSkull (MAP10): progression
 BlueSkull (MAP14): progression
 BlueSkull (MAP16): progression
 BlueSkull (MAP17): progression
@@ -492,7 +493,7 @@ Level Clear (E5M7): mcguffin
 Level Clear (E5M8): mcguffin
 Level Clear (E5M9): mcguffin
 Level Clear (MAP01): mcguffin
-Level Clear (MAP02): unknown
+Level Clear (MAP02): progression
 Level Clear (MAP03): mcguffin
 Level Clear (MAP04): unknown
 Level Clear (MAP05): mcguffin
@@ -587,6 +588,7 @@ RedSkull (MAP12): progression
 RedSkull (MAP14): progression
 RedSkull (MAP15): progression
 RedSkull (MAP16): progression
+RedSkull (MAP18): progression
 RedSkull (MAP19): progression
 RedSkull (MAP21): progression
 RedSkull (MAP22): progression
@@ -653,6 +655,7 @@ YellowCard (MAP13): progression
 YellowCard (MAP15): progression
 YellowCard (MAP21): progression
 YellowCard (MAP26): progression
+YellowCard (MAP31): progression
 YellowFlemKey (E3M5): progression
 YellowMushroom: filler
 YellowSkull (E1M4): unknown
@@ -670,6 +673,7 @@ YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
 YellowSkull (MAP08): progression
+YellowSkull (MAP15): progression
 YellowSkull (MAP17): progression
 YellowSkull (MAP18): progression
 YellowSkull (MAP19): progression
