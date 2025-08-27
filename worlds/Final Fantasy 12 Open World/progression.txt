@@ -92,7 +92,7 @@ Black Mask: filler
 Black Orb: progression
 Black Robes: unknown
 Blackened Fragment: mcguffin
-Blazer Gloves: unknown
+Blazer Gloves: useful
 Bleed: useful
 Blind: useful
 Blindga: unknown
@@ -240,11 +240,11 @@ Destrier Barding: unknown
 Destrier Mane: unknown
 Dhanusha: filler
 Diakon Halcyon: unknown
-Diamond Armlet: unknown
+Diamond Armlet: useful
 Diamond Armor: unknown
 Diamond Helm: unknown
 Diamond Shield: unknown
-Diamond Sword: unknown
+Diamond Sword: useful
 Disable: useful
 Dispel Mote: filler
 Dispel: unknown
@@ -255,7 +255,7 @@ Dorsal Fin: unknown
 Drab Wool: unknown
 Dragon Helm: unknown
 Dragon Mail: unknown
-Dragon Scale: unknown
+Dragon Scale: useful
 Dragon Shield: unknown
 Dragon Whisker: unknown
 Drain: unknown
@@ -287,7 +287,7 @@ Esunaga: unknown
 Eternal Trophy: unknown
 Ether: filler
 Euclid's Sextant: unknown
-Excalibur: unknown
+Excalibur: useful
 Excalipur: unknown
 Exodus: useful
 Expose: unknown
@@ -327,7 +327,7 @@ Francisca: unknown
 Frigid Trophy: unknown
 Frog Oil: unknown
 Frogspawn: unknown
-Fumarole: unknown
+Fumarole: useful
 Fur-scaled Trophy: unknown
 Fuzzy Miter: unknown
 Gaia Gear: unknown
@@ -439,7 +439,7 @@ Iron Armor: unknown
 Iron Carapace: unknown
 Iron Hammer: unknown
 Iron Helm: unknown
-Iron Ore: unknown
+Iron Ore: filler
 Iron Pole: filler
 Iron Scraps: unknown
 Iron Sword: unknown
