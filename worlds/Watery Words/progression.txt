@@ -51,6 +51,7 @@ Z: unknown
 ×2L 7,13: useful
 ×2L 7,1: useful
 ×2L 7,7: unknown
+×2L 8,14: unknown
 ×2L 8,6: unknown
 ×2L 8,8: unknown
 ×2L 9,13: unknown
@@ -94,6 +95,7 @@ Z: unknown
 ×3L 12,12: unknown
 ×3L 12,2: unknown
 ×3L 12,4: useful
+×3L 13,13: unknown
 ×3L 14,0: unknown
 ×3L 14,14: progression
 ×3L 2,10: unknown

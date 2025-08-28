@@ -305,7 +305,7 @@ Legacy: progression
 Legion: unknown
 Lifeform: unknown
 Lifeline Blood Mage: progression
-Lifeline: unknown
+Lifeline: progression
 Liliana: Master of Death: unknown
 Longshot: unknown
 Lordran: The Undead Asylum: unknown
@@ -439,7 +439,7 @@ Quandrix: Collage of Numeromancy: unknown
 Quicksilver Renegade: unknown
 Quicksilver: unknown
 Ra: Horus of Two Horizons: unknown
-Ra: Setting Sun: unknown
+Ra: Setting Sun: progression
 Ra: unknown
 Rafaam: unknown
 Rapid Deployment 1: unknown
@@ -492,6 +492,7 @@ Starlight Area-51: unknown
 Starlight Genesis: unknown
 Starlight: unknown
 Starting Handsize +1 (Any Captain Cosmic): useful
+Starting Handsize +1 (Any Stuntman): unknown
 Starting Handsize +1 (Any Writhe): unknown
 Stitch: unknown
 Striker: unknown
