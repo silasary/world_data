@@ -364,6 +364,7 @@ Equipment - Infernal Contract LV1 - 1698: unknown
 Equipment - Infernal Contract LV2 - 1699: unknown
 Equipment - Infernal Contract LV3 - 1700: unknown
 Equipment - Infernal Contract LV4 - 1701: unknown
+Equipment - Infernal Contract LV5 - 1760: unknown
 Equipment - Insight - 2039: unknown
 Equipment - Insignia Helm: unknown
 Equipment - Invisible Shield - 2029: unknown
@@ -574,6 +575,7 @@ Equipment - Rune Sword: unknown
 Equipment - Rune Wand: unknown
 Equipment - Runeblade Vest - 2142: unknown
 Equipment - Runehammer - 1829: unknown
+Equipment - Sacrificial Ring - 1864: unknown
 Equipment - Sages Walker: unknown
 Equipment - Samurai Mail: useful
 Equipment - Samurai's Other Glove - 2095: useful
@@ -1053,6 +1055,7 @@ Job - Adept - 83: unknown
 Job - Aegis: progression
 Job - Aerotheurge - 38: unknown
 Job - Arcanist - 73: progression
+Job - Archer - 116: unknown
 Job - Assassin: progression
 Job - Bard - 129: unknown
 Job - Beastmaster: unknown
