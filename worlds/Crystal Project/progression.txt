@@ -13,7 +13,7 @@ Equipment - Adventure bow LV2 - 1649: unknown
 Equipment - Adventure bow LV3 - 1650: useful
 Equipment - Adventure bow LV4 - 1651: useful
 Equipment - Adventure staff LV1 - 1652: unknown
-Equipment - Adventure staff LV2 - 1653: unknown
+Equipment - Adventure staff LV2 - 1653: useful
 Equipment - Adventure staff LV3 - 1654: unknown
 Equipment - Adventure staff LV4 - 1639: useful
 Equipment - Adventure sword LV1 - 1644: unknown
@@ -134,7 +134,7 @@ Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: unknown
 Equipment - Combat Shotgun - 1626: unknown
 Equipment - Compact LMG - 1618: useful
-Equipment - Compact Pistol - 1616: unknown
+Equipment - Compact Pistol - 1616: useful
 Equipment - Compass - 2088: unknown
 Equipment - Concealable Knife - 1838: unknown
 Equipment - Conductor Baton - 1777: unknown
@@ -357,6 +357,7 @@ Equipment - Hunting Bow: unknown
 Equipment - Huntsman - 1893: unknown
 Equipment - Hydrosophist Seal - 1674: unknown
 Equipment - Hydrosophist robe - 1668: unknown
+Equipment - Ice Eater - 1788: useful
 Equipment - Icy Collar - 1800: useful
 Equipment - Illusionist Seal - 1766: useful
 Equipment - Illusionist Wand - 1765: unknown
@@ -407,7 +408,7 @@ Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
 Equipment - Mages Pike: unknown
-Equipment - Mages Platter: unknown
+Equipment - Mages Platter: useful
 Equipment - Mages Robe: unknown
 Equipment - Magic Barrier - 1991: unknown
 Equipment - Magic Finder: useful
@@ -470,7 +471,7 @@ Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV2 - 1713: unknown
 Equipment - Parhia LV3 - 1714: unknown
 Equipment - Parhia LV4 - 1715: unknown
-Equipment - Parry Knife: unknown
+Equipment - Parry Knife: useful
 Equipment - Parry daggers - 1655: unknown
 Equipment - Partizan: useful
 Equipment - Paypirbak: useful
@@ -666,7 +667,7 @@ Equipment - Super Cute Robe - 2132: unknown
 Equipment - Super Cute Wand - 2133: unknown
 Equipment - Super Shotgun - 1624: unknown
 Equipment - Superspeed Bow - 1986: unknown
-Equipment - Suppressor Seal - 1767: unknown
+Equipment - Suppressor Seal - 1767: useful
 Equipment - Suppressor Spear - 1775: useful
 Equipment - Survival Guide - 2049: unknown
 Equipment - Survival Knife - 2130: unknown
@@ -774,7 +775,7 @@ Item - Adventure sword LV3 part - 340: unknown
 Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: unknown
-Item - Ancient Reservoir Pass: unknown
+Item - Ancient Reservoir Pass: progression
 Item - Ancient Tablet A: progression
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
@@ -947,7 +948,7 @@ Item - Quintar Reserve Map: unknown
 Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
 Item - Quintar Sanctum Pass: unknown
-Item - Rampart Key: unknown
+Item - Rampart Key: progression
 Item - Rations - 334: unknown
 Item - Red Door Key: unknown
 Item - River Cat's Ego Map: unknown
@@ -1105,7 +1106,7 @@ Job - Mars Adept - 152: progression
 Job - Medic - 76: progression
 Job - Mimic: progression
 Job - Monk: progression
-Job - Necromancer - 97: unknown
+Job - Necromancer - 97: progression
 Job - Nightseeker - 77: progression
 Job - Ninja: progression
 Job - Nomad: progression
