@@ -7,9 +7,9 @@ Automaton Five Gold: filler
 Automaton Neutral Shop Card Slot: progression
 Automaton One Gold: filler
 Automaton Potion: unknown
-Automaton Progressive Rest: unknown
-Automaton Progressive Shop Remove: unknown
-Automaton Progressive Smith: unknown
+Automaton Progressive Rest: progression
+Automaton Progressive Shop Remove: progression
+Automaton Progressive Smith: progression
 Automaton Rare Card Draw: unknown
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
@@ -18,7 +18,7 @@ Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
 Boss Relic: progression
 Card Draw: progression
-Champ 15 Gold: unknown
+Champ 15 Gold: filler
 Champ 30 Gold: useful
 Champ Boss Gold: unknown
 Champ Boss Relic: progression
@@ -48,7 +48,7 @@ Collector Progressive Rest: progression
 Collector Rare Card Draw: unknown
 Collector Relic: progression
 Collector Shop Card Slot: progression
-Collector Shop Potion Slot: unknown
+Collector Shop Potion Slot: progression
 Collector Unlock: progression
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
@@ -170,7 +170,7 @@ Gremlins Progressive Smith: unknown
 Gremlins Relic: progression
 Gremlins Shop Card Slot: progression
 Gremlins Shop Potion Slot: unknown
-Gremlins Shop Relic Slot: unknown
+Gremlins Shop Relic Slot: progression
 Gremlins Unlock: unknown
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
@@ -189,7 +189,7 @@ Hermit Boss Gold: progression
 Hermit Boss Relic: progression
 Hermit Card Draw: progression
 Hermit Five Gold: filler
-Hermit Neutral Shop Card Slot: unknown
+Hermit Neutral Shop Card Slot: progression
 Hermit One Gold: filler
 Hermit Potion: useful
 Hermit Progressive Rest: unknown

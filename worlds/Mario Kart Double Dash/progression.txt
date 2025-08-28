@@ -29,7 +29,7 @@ Banana for Birdo: unknown
 Banana for Bowser: unknown
 Banana for Daisy: progression
 Banana for Diddy Kong: useful
-Banana for Donkey Kong: unknown
+Banana for Donkey Kong: useful
 Banana for Everybody: progression
 Banana for King Boo: progression
 Banana for Koopa: progression
@@ -57,7 +57,7 @@ Bob-omb for Everybody: useful
 Bob-omb for King Boo: unknown
 Bob-omb for Koopa: progression
 Bob-omb for Luigi: unknown
-Bob-omb for Mario: unknown
+Bob-omb for Mario: useful
 Bob-omb for Paratroopa: unknown
 Bob-omb for Peach: unknown
 Bob-omb for Petey Piranha: unknown
@@ -66,7 +66,7 @@ Bob-omb for Toadette: useful
 Bob-omb for Waluigi: progression
 Bob-omb for Wario: progression
 Bob-omb for Yoshi: unknown
-Boo Pipes: unknown
+Boo Pipes: progression
 Bowser Jr.: progression
 Bowser's Castle Time Trial: progression
 Bowser's Shell for Baby Luigi: useful
@@ -270,7 +270,7 @@ King Boo: progression
 Koopa Dasher: progression
 Koopa King: progression
 Koopa: progression
-Lightning for Baby Luigi: unknown
+Lightning for Baby Luigi: useful
 Lightning for Birdo: progression
 Lightning for Bowser Jr.: unknown
 Lightning for Bowser: useful
@@ -480,7 +480,7 @@ Triple Mushrooms for Mario: unknown
 Triple Mushrooms for Paratroopa: unknown
 Triple Mushrooms for Toad: useful
 Triple Mushrooms for Toadette: unknown
-Triple Mushrooms for Waluigi: unknown
+Triple Mushrooms for Waluigi: useful
 Triple Mushrooms for Wario: unknown
 Triple Mushrooms for Yoshi: unknown
 Triple Red Shells for Baby Luigi: progression
@@ -513,7 +513,7 @@ Waluigi: progression
 Wario Car: progression
 Wario Colosseum Time Trial: unknown
 Wario: progression
-Yoshi Circuit Time Trial: unknown
+Yoshi Circuit Time Trial: progression
 Yoshi Egg for Baby Luigi: unknown
 Yoshi Egg for Baby Mario: unknown
 Yoshi Egg for Birdo: unknown
