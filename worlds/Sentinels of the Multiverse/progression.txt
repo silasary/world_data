@@ -231,6 +231,7 @@ Her Heart: unknown
 Heretic: unknown
 Hermit of the Azure Forest: unknown
 Hero Fortification (Any Absolute Zero): useful
+Hero Fortification (Any Mister Fixer): unknown
 Hero Fortification (Any Ra): useful
 Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
@@ -239,6 +240,7 @@ Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
 Hero Toughness: useful
+Hero Vulnerability (Any Captain Cosmic): unknown
 Heroic Infinitor: progression
 Heroic Luminary: progression
 Hexer: unknown
@@ -261,7 +263,9 @@ Infinitor: Inherited Insanity: unknown
 Infinitor: unknown
 Ingenuity (Any Dr. Medico): useful
 Ingenuity (Any Haka): useful
+Ingenuity (Any Nightmist): unknown
 Ingenuity (Any Omnitron-X): useful
+Ingenuity (Any Parse): unknown
 Inquisitor: unknown
 Insomniac: unknown
 Insula Primalis: progression
@@ -420,6 +424,7 @@ Power use +1 (Any The Harpy): unknown
 Power use +1 (Any The Visionary): useful
 Power use -1 (Any Mainstay): unknown
 Power use -1 (Any Tachyon): unknown
+Power use -1 (Any Tempest): unknown
 Prime Wardens Argent Adept: unknown
 Prime Wardens Captain Cosmic: progression
 Prime Wardens Fanatic: progression
@@ -495,6 +500,7 @@ Starting Handsize +1 (Any Captain Cosmic): useful
 Starting Handsize +1 (Any Expatriette): unknown
 Starting Handsize +1 (Any Stuntman): unknown
 Starting Handsize +1 (Any Writhe): unknown
+Starting Handsize -1 (Any Benchmark): unknown
 Stitch: unknown
 Striker: unknown
 String: unknown
