@@ -7,7 +7,7 @@ Bad Mushroom: filler
 Bambino Bomb: unknown
 Big Boo Flag: unknown
 Bracer: unknown
-Bright Card: unknown
+Bright Card: useful
 Castle Key 1: unknown
 Castle Key 2: unknown
 Chomp Shell: unknown
@@ -29,7 +29,7 @@ Energizer: unknown
 Exp Booster: unknown
 Fearless Pin: unknown
 Feather: unknown
-Fertilizer: unknown
+Fertilizer: useful
 Fifty Coins: unknown
 Finger Shot: unknown
 Fire Bomb: unknown
@@ -43,7 +43,7 @@ Freshen Up: unknown
 Fright Bomb: unknown
 Frog Coin: filler
 Froggie Drink: unknown
-Froggie Stick: unknown
+Froggie Stick: useful
 Frying Pan: unknown
 Fuzzy Cape: filler
 Fuzzy Dress: unknown
@@ -62,6 +62,7 @@ Ice Bomb: unknown
 Invincibility Star: useful
 Jinx Belt: unknown
 Jump Shoes: unknown
+Kerokero Cola: filler
 Lucky Hammer: filler
 Lucky Jewel: unknown
 Maple Syrup: unknown
@@ -108,7 +109,7 @@ Sleepy Bomb: unknown
 Soprano Card: unknown
 Spiked Link: unknown
 Star Cape: filler
-Star Gun: unknown
+Star Gun: useful
 Star Piece: mcguffin
 Star Road Restored!: mcguffin
 Super Hammer: unknown
