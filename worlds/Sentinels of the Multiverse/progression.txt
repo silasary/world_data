@@ -241,6 +241,7 @@ Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
 Hero Toughness: useful
 Hero Vulnerability (Any Captain Cosmic): unknown
+Hero Vulnerability (Any La Comodora): unknown
 Heroic Infinitor: progression
 Heroic Luminary: progression
 Hexer: unknown
@@ -266,6 +267,7 @@ Ingenuity (Any Haka): useful
 Ingenuity (Any Nightmist): unknown
 Ingenuity (Any Omnitron-X): useful
 Ingenuity (Any Parse): unknown
+Ingenuity (Any Tempest): unknown
 Inquisitor: unknown
 Insomniac: unknown
 Insula Primalis: progression
@@ -422,6 +424,7 @@ Power use +1 (Any Stuntman): unknown
 Power use +1 (Any Tachyon): unknown
 Power use +1 (Any The Harpy): unknown
 Power use +1 (Any The Visionary): useful
+Power use -1 (Any La Comodora): unknown
 Power use -1 (Any Mainstay): unknown
 Power use -1 (Any Tachyon): unknown
 Power use -1 (Any Tempest): unknown
@@ -496,6 +499,7 @@ Stand User Vector: unknown
 Starlight Area-51: unknown
 Starlight Genesis: unknown
 Starlight: unknown
+Starting Handsize +1 (Any Akash'Thriya): unknown
 Starting Handsize +1 (Any Captain Cosmic): useful
 Starting Handsize +1 (Any Expatriette): unknown
 Starting Handsize +1 (Any Stuntman): unknown
@@ -642,12 +646,14 @@ Vanish Tomb of Thieves: unknown
 Vanish: unknown
 Vault 5: unknown
 Vector: unknown
+Villain Fortification: unknown
 Villain Fragility 1: unknown
 Villain Fragility: useful
 Villain Strength 1: unknown
 Villain Toughness 1: unknown
 Villain Toughness: trap
 Villain Vulnerability 1: unknown
+Villain Vulnerability: unknown
 Villain Weakness 1: unknown
 Vishnu: unknown
 Vona: unknown
