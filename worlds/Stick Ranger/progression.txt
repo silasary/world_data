@@ -7,6 +7,7 @@ Berserk Card 5: unknown
 Big Card 1: unknown
 Black Stone 4: unknown
 Blue Stone 4: unknown
+Blue Stone 7: unknown
 Bronze Medal 1: unknown
 Catapult's Card 1: unknown
 Critical's Card 3: unknown
@@ -19,6 +20,7 @@ Explosion's Card 4: unknown
 Fire Spirit 3: unknown
 Freeze Rangers: unknown
 Garnet 2: unknown
+Garnet 3: unknown
 Gold Medal 2: unknown
 Gold Medal 4: unknown
 Gold Medal 7: unknown
@@ -26,6 +28,8 @@ Gold rush Card: unknown
 Guide's Card 2: unknown
 Guide's Card 6: unknown
 Heal's Card 1: unknown
+Ice Spirit 1: unknown
+Iron Medal 2: unknown
 Iron Medal 6: unknown
 Kill a Ranger: unknown
 Long Sword's Card 3: unknown
@@ -37,7 +41,10 @@ Purple Crystal 4: unknown
 Quick's Card 1: unknown
 Red Crystal 1: unknown
 Red Crystal 4: unknown
+Red Crystal 7: unknown
 Ring's Card 4: unknown
+Ruby 7: unknown
+Sapphire 2: unknown
 Sapphire 6: unknown
 Silver Crystal 2: unknown
 Silver Crystal 5: useful
@@ -72,10 +79,13 @@ Unlock Gladiator Class: unknown
 Unlock Grassland 2: unknown
 Unlock Grassland 3: unknown
 Unlock Grassland 7: unknown
+Unlock Gunner Class: unknown
 Unlock Hell 1: unknown
 Unlock Hell 3: unknown
 Unlock Hell 5: unknown
 Unlock Hell 6: unknown
+Unlock Hell 8: unknown
+Unlock Hell Gate: unknown
 Unlock Hill Country 1: unknown
 Unlock Hill Country 2: unknown
 Unlock Hill Country 3: progression
@@ -88,6 +98,8 @@ Unlock Mist Grove 1: unknown
 Unlock Mist Grove 2: unknown
 Unlock Mist Grove 3: unknown
 Unlock Mountain 2: unknown
+Unlock Mountaintop: unknown
+Unlock Oasis: unknown
 Unlock Resort: unknown
 Unlock Seaside 1: unknown
 Unlock Seaside 2: unknown
@@ -95,8 +107,10 @@ Unlock Seaside 3: unknown
 Unlock Seaside 4: progression
 Unlock Snowfield 3: unknown
 Unlock Snowfield 4: unknown
+Unlock Snowfield 5: unknown
 Unlock Snowfield 6: unknown
 Unlock Submarine 4: unknown
+Unlock Village: unknown
 Unlock Whipper Class: unknown
 Vampire's Card 3: unknown
 White Stone 2: unknown
@@ -104,6 +118,7 @@ White Stone 5: unknown
 White Stone 6: unknown
 Yellow Crystal 5: unknown
 atomic ray: unknown
+chakram: unknown
 charge chakram: unknown
 charge circle: unknown
 double arrow: unknown
@@ -128,9 +143,11 @@ poison claw: unknown
 poison flail: unknown
 poison glove: unknown
 power chakram: unknown
+quad arrow: unknown
 quick chakram: unknown
 quick circle: unknown
 slow laser gun: unknown
+sniper rifle: unknown
 sonic knuckle: unknown
 spark cestus: unknown
 staff of flame: unknown

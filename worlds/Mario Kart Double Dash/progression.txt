@@ -191,6 +191,7 @@ Flower Cup: progression
 Giant Banana for Baby Luigi: useful
 Giant Banana for Baby Mario: progression
 Giant Banana for Birdo: unknown
+Giant Banana for Bowser Jr.: unknown
 Giant Banana for Bowser: progression
 Giant Banana for Daisy: unknown
 Giant Banana for Diddy Kong: progression
@@ -215,8 +216,10 @@ Golden Mushroom for Bowser: unknown
 Golden Mushroom for Diddy Kong: unknown
 Golden Mushroom for Donkey Kong: useful
 Golden Mushroom for Everybody: progression
+Golden Mushroom for King Boo: unknown
 Golden Mushroom for Koopa: progression
 Golden Mushroom for Mario: unknown
+Golden Mushroom for Paratroopa: unknown
 Golden Mushroom for Peach: unknown
 Golden Mushroom for Petey Piranha: progression
 Golden Mushroom for Toad: progression
@@ -340,6 +343,7 @@ Off-road Tires for Bullet Blaster: unknown
 Off-road Tires for DK Jumbo: progression
 Off-road Tires for Goo-Goo Buggy: useful
 Off-road Tires for Green Fire: progression
+Off-road Tires for Heart Coach: unknown
 Off-road Tires for Koopa King: unknown
 Off-road Tires for Para-Wing: unknown
 Off-road Tires for Parade Kart: unknown
@@ -366,6 +370,7 @@ Power Steering for Goo-Goo Buggy: progression
 Power Steering for Heart Coach: progression
 Power Steering for Koopa Dasher: unknown
 Power Steering for Koopa King: unknown
+Power Steering for Para-Wing: unknown
 Power Steering for Parade Kart: progression
 Power Steering for Piranha Pipes: progression
 Power Steering for Rattle Buggy: progression
@@ -463,6 +468,7 @@ Triple Green Shells for Koopa: unknown
 Triple Green Shells for Luigi: unknown
 Triple Green Shells for Mario: useful
 Triple Green Shells for Paratroopa: unknown
+Triple Green Shells for Toad: unknown
 Triple Green Shells for Toadette: progression
 Triple Green Shells for Waluigi: unknown
 Triple Green Shells for Wario: progression
@@ -532,5 +538,6 @@ Yoshi Egg for Petey Piranha: progression
 Yoshi Egg for Toad: useful
 Yoshi Egg for Toadette: unknown
 Yoshi Egg for Waluigi: unknown
+Yoshi Egg for Wario: unknown
 Yoshi Egg for Yoshi: unknown
 Yoshi: progression
