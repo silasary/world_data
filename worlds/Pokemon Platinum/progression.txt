@@ -11,7 +11,7 @@ Coupon 2: progression
 Coupon 3: unknown
 Dubious Disc: unknown
 Dusk Ball: unknown
-Dusk Stone: unknown
+Dusk Stone: useful
 Earth Plate: unknown
 Energy Root: unknown
 Escape Rope: filler
@@ -26,6 +26,7 @@ Green Shard: unknown
 Guard Spec.: unknown
 HM01 Cut: unknown
 HM02 Fly: unknown
+HM03 Surf: unknown
 HM05 Defog: unknown
 HM06 Rock Smash: unknown
 HM07 Waterfall: progression
@@ -40,16 +41,20 @@ MARKING MAP: unknown
 Max Elixir: unknown
 Max Potion: unknown
 Max Repel: unknown
+Max Revive: unknown
 Meadow Plate: unknown
 Mental Herb: unknown
 Mind Plate: unknown
 Nugget: unknown
 Old Gateau: unknown
+POKéMON LIST: unknown
 PP Up: unknown
 Parcel: progression
+Parlyz Heal: unknown
 Pearl: unknown
 Poké Ball: unknown
 Poké Doll: unknown
+Poké Radar: unknown
 Potion: unknown
 Protector: unknown
 Protein: unknown
@@ -79,6 +84,7 @@ TM29: unknown
 TM30: unknown
 TM34: unknown
 TM43: unknown
+TM46: useful
 TM67: unknown
 TM70 Flash: unknown
 TM76: unknown
