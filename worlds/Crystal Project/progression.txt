@@ -41,6 +41,7 @@ Equipment - Archmage Vest: unknown
 Equipment - Art of War: unknown
 Equipment - Artillerist Mail - 2146: unknown
 Equipment - Ash Wand: unknown
+Equipment - Ashen Horns - 1615: unknown
 Equipment - Assassin Vest: useful
 Equipment - Assassins Cloak: useful
 Equipment - Autumns Oath: useful
@@ -116,11 +117,13 @@ Equipment - Cedar Staff: unknown
 Equipment - Cedar Wand: unknown
 Equipment - Celestial Crown: unknown
 Equipment - Chain - 2036: useful
+Equipment - Chain Helm: unknown
 Equipment - Chartreuse: unknown
 Equipment - Cheater Briefs - 1776: unknown
 Equipment - Chemist Robe: unknown
 Equipment - Chopper: unknown
 Equipment - Cinquedea: unknown
+Equipment - Circle of Ruin - 1965: unknown
 Equipment - Circlet: unknown
 Equipment - Claimh Solais - 2021: unknown
 Equipment - Clamshank - 2082: useful
@@ -170,6 +173,7 @@ Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Shield: unknown
 Equipment - Craftwork Spear: unknown
 Equipment - Craftwork Sword: unknown
+Equipment - Craftwork Vest: unknown
 Equipment - Craftwork Wand: unknown
 Equipment - Critique - 2058: unknown
 Equipment - Crystal Shard - 2032: unknown
@@ -246,6 +250,7 @@ Equipment - Expedition LV2 - 1739: unknown
 Equipment - Expedition LV3 - 1740: unknown
 Equipment - Expedition LV4 - 1741: unknown
 Equipment - Expedition LV5 - 1754: unknown
+Equipment - Eye of the Storm - 1751: unknown
 Equipment - Faceless Hood - 1952: unknown
 Equipment - Facetsplitter - 1819: useful
 Equipment - Fairys Ring: unknown
@@ -305,6 +310,7 @@ Equipment - Greasy Shirt - 2096: unknown
 Equipment - Greywood Nunchaku - 1851: useful
 Equipment - Grim Scythe: unknown
 Equipment - Guard Crown: unknown
+Equipment - Guardian of Tharsis - 1843: unknown
 Equipment - Gusto Charm: unknown
 Equipment - Guts - 1627: unknown
 Equipment - Halberd: unknown
@@ -333,6 +339,7 @@ Equipment - Heirloom Sword - 2106: useful
 Equipment - Heirloom Wand - 2103: useful
 Equipment - Heirloom of Agility - 2116: unknown
 Equipment - Heirloom of Magic - 2115: useful
+Equipment - Heirloom of Might - 2114: unknown
 Equipment - Helm of the Phoenix - 1877: unknown
 Equipment - Help the Prince: unknown
 Equipment - Hemp Hood: unknown
@@ -380,6 +387,7 @@ Equipment - Jewel of Defense: unknown
 Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
 Equipment - Kaiser Blade - 1860: unknown
+Equipment - Kenshi Seal - 2120: unknown
 Equipment - Kings Guard: useful
 Equipment - Knicked Knackers: unknown
 Equipment - Knights Plate: unknown
@@ -388,6 +396,7 @@ Equipment - Lance of Sickness - 1689: unknown
 Equipment - Learners Pin: useful
 Equipment - Leather Cap: unknown
 Equipment - Leather Outfit: unknown
+Equipment - Les Condamnes - 1899: unknown
 Equipment - Leviathan Plate - 1958: unknown
 Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
@@ -641,8 +650,10 @@ Equipment - Staff of imagination - 1664: useful
 Equipment - Stage Costume - 2135: useful
 Equipment - Stalactite - 1950: unknown
 Equipment - Stalwart Shield: unknown
+Equipment - Star Knight Mail - 2140: unknown
 Equipment - Star Knight Seal - 2139: unknown
 Equipment - Star Mask - 2042: unknown
+Equipment - Stardust Wand: unknown
 Equipment - Static Rod: unknown
 Equipment - Stealth Cape: useful
 Equipment - Steel Nunchaku - 1850: unknown
