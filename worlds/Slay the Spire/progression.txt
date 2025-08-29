@@ -45,6 +45,7 @@ Collector Five Gold: unknown
 Collector One Gold: unknown
 Collector Potion: unknown
 Collector Progressive Rest: progression
+Collector Progressive Smith: unknown
 Collector Rare Card Draw: unknown
 Collector Relic: progression
 Collector Shop Card Slot: progression
@@ -281,7 +282,7 @@ Snecko Progressive Smith: unknown
 Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
 Snecko Shop Card Slot: progression
-Snecko Shop Potion Slot: unknown
+Snecko Shop Potion Slot: useful
 Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
 Watcher 15 Gold: filler
