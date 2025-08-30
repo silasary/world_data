@@ -36,6 +36,7 @@ Policy - Artistic Genius: unknown
 Policy - Collective Rule: unknown
 Policy - Entrepreneurship: unknown
 Policy - Flourishing of the Arts: unknown
+Policy - Humanism: unknown
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
@@ -47,6 +48,7 @@ Policy - Philanthropy: unknown
 Policy - Professional Army: unknown
 Policy - Reformation: unknown
 Policy - Representation: unknown
+Policy - Republic: unknown
 Policy - Scientific Revolution: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
@@ -76,6 +78,8 @@ Tech - Acoustics: unknown
 Tech - Animal Husbandry: progression
 Tech - Archaeology: unknown
 Tech - Archery: unknown
+Tech - Astronomy: unknown
+Tech - Atomic Theory: unknown
 Tech - Banking: unknown
 Tech - Chemistry: progression
 Tech - Chivalry: unknown
@@ -87,13 +91,16 @@ Tech - Drama and Poetry: unknown
 Tech - Electricity: unknown
 Tech - Engineering: unknown
 Tech - Fertilizer: unknown
+Tech - Guilds: unknown
 Tech - Gunpowder: unknown
 Tech - Iron Working: unknown
 Tech - Lasers: unknown
 Tech - Machinery: unknown
 Tech - Mathematics: unknown
+Tech - Metal Casting: unknown
 Tech - Metallurgy: unknown
 Tech - Navigation: unknown
+Tech - Nuclear Fission: unknown
 Tech - Particle Physics: unknown
 Tech - Philosophy: unknown
 Tech - Printing Press: unknown
@@ -103,6 +110,7 @@ Tech - Refrigeration: unknown
 Tech - Replaceable Parts: unknown
 Tech - Rifling: unknown
 Tech - Rocketry: progression
+Tech - Sailing: unknown
 Tech - Stealth: unknown
 Tech - Telecommunications: unknown
 The Wheel: unknown

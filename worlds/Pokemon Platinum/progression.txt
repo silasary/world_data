@@ -1,5 +1,6 @@
 ANALOG WATCH: unknown
 Adamant Orb: unknown
+Amulet Coin: unknown
 Beacon Badge: unknown
 Bicycle: unknown
 Big Mushroom: unknown
@@ -52,8 +53,9 @@ Heart Scale: unknown
 Honey x3: unknown
 Honey: unknown
 Hyper Potion: unknown
+Ice Heal: unknown
 Icicle Plate: unknown
-Iron: unknown
+Iron: filler
 King’s Rock: unknown
 Leaf Stone: unknown
 Leftovers: unknown
@@ -123,7 +125,7 @@ TM06: unknown
 TM07: unknown
 TM09: unknown
 TM11: unknown
-TM13: unknown
+TM13: useful
 TM14: unknown
 TM18: unknown
 TM19: unknown
@@ -142,6 +144,7 @@ TM47: unknown
 TM49: unknown
 TM51: unknown
 TM57: unknown
+TM59: unknown
 TM67: unknown
 TM69: unknown
 TM70 Flash: unknown
@@ -157,7 +160,7 @@ Thunderstone: unknown
 Timer Ball: unknown
 TinyMushroom: unknown
 Town Map: unknown
-Ultra Ball: unknown
+Ultra Ball: useful
 Up-Grade: unknown
 Upgradable Pokédex: unknown
 Vs. Recorder: unknown
@@ -170,4 +173,4 @@ X Sp. Def: unknown
 X Special: unknown
 X Speed: unknown
 Yellow Shard: unknown
-Zinc: unknown
+Zinc: filler
