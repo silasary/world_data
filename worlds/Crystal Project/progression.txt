@@ -111,7 +111,7 @@ Equipment - Caduceus - 1994: unknown
 Equipment - Calamitous Hood - 1613: unknown
 Equipment - Calamitous Robes - 1614: unknown
 Equipment - Cantrip - 2031: unknown
-Equipment - Captains Hat: unknown
+Equipment - Captains Hat: useful
 Equipment - Catalyst - 2052: unknown
 Equipment - Cedar Staff: unknown
 Equipment - Cedar Wand: unknown
@@ -285,7 +285,7 @@ Equipment - Frost Plate - 1996: unknown
 Equipment - Frost Reaper: unknown
 Equipment - Frostblossom - 2144: unknown
 Equipment - Frostwing Feather - 1862: unknown
-Equipment - Fursuit: unknown
+Equipment - Fursuit: useful
 Equipment - Fuselighter - 2151: unknown
 Equipment - Gaea Impact - 2023: unknown
 Equipment - Gaea's Cloak - 1858: unknown
@@ -356,6 +356,7 @@ Equipment - Hoarfrost Buckler - 1880: unknown
 Equipment - Holy Hat: unknown
 Equipment - Hooked Sickle - 1872: unknown
 Equipment - Hoplite - 2048: useful
+Equipment - Hoplite's Shield - 1844: useful
 Equipment - Horned Helm: useful
 Equipment - Horologist Seal - 1771: unknown
 Equipment - Hunter Vest: unknown
@@ -521,7 +522,7 @@ Equipment - Progressive 2H Sword: unknown
 Equipment - Progressive Beating Staff: useful
 Equipment - Progressive Book: unknown
 Equipment - Progressive Bow: unknown
-Equipment - Progressive Dagger: unknown
+Equipment - Progressive Dagger: useful
 Equipment - Progressive Heavy Body: useful
 Equipment - Progressive Heavy Head: unknown
 Equipment - Progressive Katana: unknown
@@ -685,7 +686,7 @@ Equipment - Survival Knife - 2130: unknown
 Equipment - Swimmers Top: unknown
 Equipment - Sword of planets - 1663: useful
 Equipment - Sword of the holy flame - 1662: unknown
-Equipment - Synthesized Angel - 1891: unknown
+Equipment - Synthesized Angel - 1891: useful
 Equipment - Tachi: useful
 Equipment - Tall Stand Ring: useful
 Equipment - Tanto: unknown
@@ -784,6 +785,7 @@ Item - Adventure staff LV3 part - 342: unknown
 Item - Adventure staff LV4 part - 343: unknown
 Item - Adventure sword LV2 part - 336: unknown
 Item - Adventure sword LV3 part - 340: unknown
+Item - Adventure sword LV4 part - 345: useful
 Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: unknown
@@ -853,7 +855,7 @@ Item - Eastern Chasm Pass: unknown
 Item - Elevator Part: mcguffin
 Item - Ether Pouch: useful
 Item - Ether: filler
-Item - Europa Stone: unknown
+Item - Europa Stone: progression
 Item - Fenix Juice Pouch: unknown
 Item - Fenix Juice: filler
 Item - Fenix Syrup Pouch: filler
@@ -994,7 +996,7 @@ Item - Shoudu Waterfront Pass: unknown
 Item - Silver Dust: useful
 Item - Silver Ingot: useful
 Item - Silver Ore: useful
-Item - Skeleton Key: unknown
+Item - Skeleton Key: progression
 Item - Skumparadise Map: unknown
 Item - Skumparadise Pass: unknown
 Item - Slip Glide Ride Key Ring: unknown
