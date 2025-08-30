@@ -240,6 +240,7 @@ Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
 Hero Toughness: useful
+Hero Vulnerability (Any Bunker): unknown
 Hero Vulnerability (Any Captain Cosmic): unknown
 Hero Vulnerability (Any La Comodora): unknown
 Heroic Infinitor: progression
@@ -413,7 +414,7 @@ Phase: unknown
 Pike Industrial Complex: unknown
 Plague Rat (Team): unknown
 Plague Rat: The New Breed: unknown
-Plague Rat: unknown
+Plague Rat: progression
 Plain Doll: unknown
 Power use +1 (Any Bunker): unknown
 Power use +1 (Any Chrono-Ranger): unknown
@@ -426,6 +427,7 @@ Power use +1 (Any The Harpy): unknown
 Power use +1 (Any The Visionary): useful
 Power use -1 (Any La Comodora): unknown
 Power use -1 (Any Mainstay): unknown
+Power use -1 (Any Ra): unknown
 Power use -1 (Any Tachyon): unknown
 Power use -1 (Any Tempest): unknown
 Prime Wardens Argent Adept: unknown
@@ -451,6 +453,7 @@ Ra: Setting Sun: progression
 Ra: unknown
 Rafaam: unknown
 Rapid Deployment 1: unknown
+Rapid Deployment: unknown
 Realm of Discord: unknown
 Redeemer Fanatic: progression
 Remnant: unknown
@@ -503,6 +506,8 @@ Starting Handsize +1 (Any Akash'Thriya): unknown
 Starting Handsize +1 (Any Captain Cosmic): useful
 Starting Handsize +1 (Any Expatriette): unknown
 Starting Handsize +1 (Any Stuntman): unknown
+Starting Handsize +1 (Any The Harpy): unknown
+Starting Handsize +1 (Any The Visionary): unknown
 Starting Handsize +1 (Any Writhe): unknown
 Starting Handsize -1 (Any Benchmark): unknown
 Stitch: unknown
@@ -650,11 +655,13 @@ Villain Fortification: unknown
 Villain Fragility 1: unknown
 Villain Fragility: useful
 Villain Strength 1: unknown
+Villain Strength: unknown
 Villain Toughness 1: unknown
 Villain Toughness: trap
 Villain Vulnerability 1: unknown
 Villain Vulnerability: unknown
 Villain Weakness 1: unknown
+Villain Weakness: unknown
 Vishnu: unknown
 Vona: unknown
 Wager Master: Omnipotent Annoyance: unknown
