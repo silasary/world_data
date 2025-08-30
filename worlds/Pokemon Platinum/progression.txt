@@ -32,6 +32,7 @@ Ether: unknown
 Exp. Share: unknown
 Fashion Case: unknown
 Fen Badge: unknown
+Fire Stone: unknown
 Forest Badge: unknown
 Full Heal: unknown
 Full Restore: unknown
@@ -50,6 +51,7 @@ HM07 Waterfall: progression
 HP Up: unknown
 Heal Ball: unknown
 Heart Scale: unknown
+Honey x10: unknown
 Honey x3: unknown
 Honey: unknown
 Hyper Potion: unknown
@@ -65,6 +67,7 @@ Luxury Ball: unknown
 MARKING MAP: unknown
 Magmarizer: unknown
 Magnet: unknown
+Master Ball: unknown
 Max Elixir: unknown
 Max Ether: unknown
 Max Potion: unknown
@@ -81,6 +84,8 @@ Odd Keystone: unknown
 Old Charm: unknown
 Old Gateau: unknown
 Old Rod: unknown
+Oval Stone: unknown
+POKéMON HISTORY: unknown
 POKéMON LIST: unknown
 PP Max: unknown
 PP Up: unknown
@@ -94,6 +99,7 @@ Potion: unknown
 Protector: unknown
 Protein: unknown
 Pure Incense: unknown
+ROULETTE: unknown
 Rare Candy: unknown
 Razor Claw: unknown
 Red Shard: unknown
@@ -108,6 +114,7 @@ SecretPotion: unknown
 Shell Bell: unknown
 Shiny Stone: unknown
 SilverPowder: unknown
+Smoke Ball: unknown
 Spell Tag: unknown
 Splash Plate: unknown
 Sprayduck: unknown
@@ -141,20 +148,26 @@ TM43: unknown
 TM45: unknown
 TM46: useful
 TM47: unknown
+TM48: unknown
 TM49: unknown
 TM51: unknown
+TM56: unknown
 TM57: unknown
 TM59: unknown
+TM62: unknown
 TM67: unknown
 TM69: unknown
 TM70 Flash: unknown
 TM71: unknown
 TM76: unknown
 TM77: unknown
+TM78: unknown
 TM79: unknown
 TM80: useful
 TM87: unknown
 TM88: unknown
+TM90: unknown
+TM91: unknown
 TRAINER COUNTER: unknown
 Thunderstone: unknown
 Timer Ball: unknown

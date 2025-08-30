@@ -40,6 +40,7 @@ bob-laser-robot: unknown
 bob-lead-processing: unknown
 bob-lithium-processing: unknown
 bob-nickel-processing: unknown
+bob-nitinol-processing: unknown
 bob-nitrogen-processing: unknown
 bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
