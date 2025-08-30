@@ -33,10 +33,12 @@ Optics: progression
 Physics: unknown
 Plastics: progression
 Policy - Artistic Genius: unknown
+Policy - Caravans: unknown
 Policy - Collective Rule: unknown
 Policy - Entrepreneurship: unknown
 Policy - Flourishing of the Arts: unknown
 Policy - Humanism: unknown
+Policy - Landed Elite: unknown
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
@@ -50,9 +52,11 @@ Policy - Reformation: unknown
 Policy - Representation: unknown
 Policy - Republic: unknown
 Policy - Scientific Revolution: unknown
+Policy - Secularism: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
 Policy - Trade Unions: unknown
+Policy - Warrior Code: unknown
 Policy Branch - Aesthetics Finisher: unknown
 Policy Branch - Aesthetics: progression
 Policy Branch - Commerce Finisher: unknown
@@ -78,16 +82,19 @@ Tech - Acoustics: unknown
 Tech - Animal Husbandry: progression
 Tech - Archaeology: unknown
 Tech - Archery: unknown
+Tech - Architecture: unknown
 Tech - Astronomy: unknown
 Tech - Atomic Theory: unknown
 Tech - Banking: unknown
 Tech - Chemistry: progression
 Tech - Chivalry: unknown
 Tech - Civil Service: unknown
+Tech - Combustion: unknown
 Tech - Compass: unknown
 Tech - Computers: unknown
 Tech - Currency: unknown
 Tech - Drama and Poetry: unknown
+Tech - Education: unknown
 Tech - Electricity: unknown
 Tech - Engineering: unknown
 Tech - Fertilizer: unknown
@@ -99,6 +106,7 @@ Tech - Machinery: unknown
 Tech - Mathematics: unknown
 Tech - Metal Casting: unknown
 Tech - Metallurgy: unknown
+Tech - Mobile Tactics: unknown
 Tech - Navigation: unknown
 Tech - Nuclear Fission: unknown
 Tech - Particle Physics: unknown
@@ -109,10 +117,14 @@ Tech - Railroad: unknown
 Tech - Refrigeration: unknown
 Tech - Replaceable Parts: unknown
 Tech - Rifling: unknown
+Tech - Robotics: unknown
 Tech - Rocketry: progression
 Tech - Sailing: unknown
+Tech - Satellites: unknown
 Tech - Stealth: unknown
 Tech - Telecommunications: unknown
+Tech - The Wheel: unknown
 The Wheel: unknown
 Trap - Minor Culture: unknown
+Trap - Minor Faith: unknown
 Trap - Minor Gold: unknown
