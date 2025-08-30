@@ -28,12 +28,14 @@ Energy Root: unknown
 EnergyPowder: unknown
 Escape Rope: filler
 Ether: unknown
+Exp. Share: unknown
 Fashion Case: unknown
 Fen Badge: unknown
 Forest Badge: unknown
 Full Heal: unknown
 Full Restore: unknown
 Galactic Key: unknown
+Good Rod: unknown
 Great Ball: unknown
 Green Shard: unknown
 Guard Spec.: unknown
@@ -47,6 +49,7 @@ HM07 Waterfall: progression
 HP Up: unknown
 Heal Ball: unknown
 Heart Scale: unknown
+Honey x3: unknown
 Honey: unknown
 Hyper Potion: unknown
 Icicle Plate: unknown
@@ -77,6 +80,7 @@ Old Charm: unknown
 Old Gateau: unknown
 Old Rod: unknown
 POKéMON LIST: unknown
+PP Max: unknown
 PP Up: unknown
 Parcel: progression
 Parlyz Heal: unknown
@@ -100,6 +104,7 @@ Rose Incense: unknown
 Sea Incense: unknown
 SecretPotion: unknown
 Shell Bell: unknown
+Shiny Stone: unknown
 SilverPowder: unknown
 Spell Tag: unknown
 Splash Plate: unknown
@@ -118,22 +123,32 @@ TM06: unknown
 TM07: unknown
 TM09: unknown
 TM11: unknown
+TM13: unknown
+TM14: unknown
 TM18: unknown
 TM19: unknown
 TM23: unknown
+TM24: unknown
 TM28 Dig: unknown
 TM29: unknown
 TM30: unknown
 TM34: unknown
 TM38: unknown
+TM40: unknown
 TM43: unknown
 TM45: unknown
 TM46: useful
+TM47: unknown
+TM49: unknown
 TM51: unknown
 TM57: unknown
 TM67: unknown
+TM69: unknown
 TM70 Flash: unknown
+TM71: unknown
 TM76: unknown
+TM77: unknown
+TM79: unknown
 TM80: useful
 TM87: unknown
 TM88: unknown
@@ -149,6 +164,8 @@ Vs. Recorder: unknown
 Water Stone: unknown
 Wave Incense: unknown
 Works Key: unknown
+X Attack: unknown
+X Defend: unknown
 X Sp. Def: unknown
 X Special: unknown
 X Speed: unknown
