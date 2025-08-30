@@ -136,6 +136,7 @@ TM13: useful
 TM14: unknown
 TM18: unknown
 TM19: unknown
+TM21: useful
 TM23: unknown
 TM24: unknown
 TM28 Dig: unknown
@@ -164,6 +165,7 @@ TM77: unknown
 TM78: unknown
 TM79: unknown
 TM80: useful
+TM81: unknown
 TM87: unknown
 TM88: unknown
 TM90: unknown
