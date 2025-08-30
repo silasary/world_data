@@ -1,21 +1,31 @@
+ANALOG WATCH: unknown
+Adamant Orb: unknown
 Beacon Badge: unknown
 Bicycle: unknown
 Big Mushroom: unknown
+Big Pearl: unknown
 Blue Shard: unknown
 Burn Heal: unknown
 COIN TOSS: unknown
 Calcium: unknown
 Carbos: unknown
+Cleanse Tag: unknown
+Coin Case: unknown
 Coupon 1: unknown
 Coupon 2: progression
 Coupon 3: unknown
 DOWSING MACHINE: unknown
+Dawn Stone: unknown
+Dive Ball: unknown
+Dread Plate: unknown
 Dubious Disc: unknown
 Dusk Ball: unknown
 Dusk Stone: useful
 Earth Plate: unknown
 Electirizer: unknown
+Elixir: unknown
 Energy Root: unknown
+EnergyPowder: unknown
 Escape Rope: filler
 Ether: unknown
 Fashion Case: unknown
@@ -30,6 +40,7 @@ Guard Spec.: unknown
 HM01 Cut: unknown
 HM02 Fly: unknown
 HM03 Surf: unknown
+HM04 Strength: unknown
 HM05 Defog: unknown
 HM06 Rock Smash: unknown
 HM07 Waterfall: progression
@@ -39,12 +50,16 @@ Heart Scale: unknown
 Honey: unknown
 Hyper Potion: unknown
 Icicle Plate: unknown
+Iron: unknown
+King’s Rock: unknown
 Leaf Stone: unknown
 Leftovers: unknown
 Light Clay: unknown
 Lustrous Orb: unknown
+Luxury Ball: unknown
 MARKING MAP: unknown
 Magmarizer: unknown
+Magnet: unknown
 Max Elixir: unknown
 Max Ether: unknown
 Max Potion: unknown
@@ -53,8 +68,11 @@ Max Revive: unknown
 Meadow Plate: unknown
 Mental Herb: unknown
 Mind Plate: unknown
+Mine Badge: unknown
 Mystic Water: unknown
+NeverMeltIce: unknown
 Nugget: unknown
+Odd Keystone: unknown
 Old Charm: unknown
 Old Gateau: unknown
 Old Rod: unknown
@@ -72,9 +90,11 @@ Protein: unknown
 Pure Incense: unknown
 Rare Candy: unknown
 Razor Claw: unknown
+Red Shard: unknown
 Relic Badge: unknown
 Repeat Ball: unknown
 Repel: unknown
+Revival Herb: unknown
 Revive: unknown
 Rose Incense: unknown
 Sea Incense: unknown
@@ -92,6 +112,9 @@ Super Potion: unknown
 Super Repel: unknown
 TM01: useful
 TM02: unknown
+TM03: unknown
+TM05: unknown
+TM06: unknown
 TM07: unknown
 TM09: unknown
 TM11: unknown
@@ -104,6 +127,7 @@ TM30: unknown
 TM34: unknown
 TM38: unknown
 TM43: unknown
+TM45: unknown
 TM46: useful
 TM51: unknown
 TM57: unknown
@@ -115,7 +139,9 @@ TM87: unknown
 TM88: unknown
 TRAINER COUNTER: unknown
 Thunderstone: unknown
+Timer Ball: unknown
 TinyMushroom: unknown
+Town Map: unknown
 Ultra Ball: unknown
 Up-Grade: unknown
 Upgradable Pokédex: unknown
@@ -124,5 +150,7 @@ Water Stone: unknown
 Wave Incense: unknown
 Works Key: unknown
 X Sp. Def: unknown
+X Special: unknown
+X Speed: unknown
 Yellow Shard: unknown
 Zinc: unknown
