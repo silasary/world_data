@@ -1,10 +1,12 @@
 ANALOG WATCH: unknown
 Adamant Orb: unknown
 Amulet Coin: unknown
+Antidote: unknown
 Beacon Badge: unknown
 Bicycle: unknown
 Big Mushroom: unknown
 Big Pearl: unknown
+Big Root: unknown
 Blue Shard: unknown
 Burn Heal: unknown
 COIN TOSS: unknown
@@ -50,7 +52,7 @@ HM06 Rock Smash: unknown
 HM07 Waterfall: progression
 HP Up: unknown
 Heal Ball: unknown
-Heart Scale: unknown
+Heart Scale: filler
 Honey x10: filler
 Honey x3: unknown
 Honey: unknown
@@ -72,7 +74,7 @@ Max Elixir: unknown
 Max Ether: unknown
 Max Potion: unknown
 Max Repel: unknown
-Max Revive: unknown
+Max Revive: filler
 Meadow Plate: unknown
 Mental Herb: unknown
 Mind Plate: unknown
@@ -92,6 +94,7 @@ PP Up: unknown
 Parcel: progression
 Parlyz Heal: unknown
 Pearl: unknown
+Poké Ball x5: filler
 Poké Ball: unknown
 Poké Doll: unknown
 Poké Radar: unknown
@@ -109,12 +112,15 @@ Repel: unknown
 Revival Herb: unknown
 Revive: unknown
 Rose Incense: unknown
+Running Shoes: unknown
 Sea Incense: unknown
 SecretPotion: unknown
 Shell Bell: unknown
 Shiny Stone: unknown
 SilverPowder: unknown
 Smoke Ball: unknown
+Soft Sand: unknown
+Soothe Bell: unknown
 Spell Tag: unknown
 Splash Plate: unknown
 Sprayduck: unknown
@@ -122,7 +128,7 @@ Star Piece: unknown
 Stardust: unknown
 Suite Key: unknown
 Sun Stone: unknown
-Super Potion: unknown
+Super Potion: filler
 Super Repel: unknown
 TM01: useful
 TM02: unknown
@@ -142,8 +148,10 @@ TM24: unknown
 TM28 Dig: unknown
 TM29: unknown
 TM30: unknown
+TM32: unknown
 TM34: unknown
 TM38: unknown
+TM39: unknown
 TM40: unknown
 TM43: unknown
 TM45: unknown
@@ -156,6 +164,7 @@ TM56: unknown
 TM57: unknown
 TM59: unknown
 TM62: unknown
+TM66: unknown
 TM67: unknown
 TM69: unknown
 TM70 Flash: unknown
@@ -166,6 +175,7 @@ TM78: unknown
 TM79: unknown
 TM80: useful
 TM81: unknown
+TM84: unknown
 TM87: unknown
 TM88: unknown
 TM90: unknown
@@ -188,4 +198,5 @@ X Sp. Def: unknown
 X Special: unknown
 X Speed: unknown
 Yellow Shard: unknown
+Zap Plate: unknown
 Zinc: filler

@@ -9,6 +9,7 @@ Black Stone 4: unknown
 Blue Stone 4: unknown
 Blue Stone 7: unknown
 Bronze Medal 1: unknown
+Bronze Medal 5: unknown
 Catapult's Card 1: unknown
 Critical's Card 3: unknown
 Critical's Card 6: unknown
@@ -42,7 +43,9 @@ Quick's Card 1: unknown
 Red Crystal 1: unknown
 Red Crystal 4: unknown
 Red Crystal 7: unknown
+Reflection Card 4: unknown
 Ring's Card 4: unknown
+Ring's Card 6: unknown
 Ruby 7: unknown
 Sapphire 2: unknown
 Sapphire 6: unknown
@@ -60,11 +63,13 @@ Unlock !!!: unknown
 Unlock ???: unknown
 Unlock Beach 2: unknown
 Unlock Beach 3: unknown
+Unlock Beach 4: unknown
 Unlock Boxer Class: unknown
 Unlock Castle Gate: unknown
 Unlock Castle: unknown
 Unlock Cavern 1: unknown
 Unlock Cavern 3: progression
+Unlock Cavern 4: unknown
 Unlock Cavern 5: unknown
 Unlock Cavern 7: unknown
 Unlock Cavern 8: unknown
@@ -72,6 +77,7 @@ Unlock Desert 2: unknown
 Unlock Desert 3: unknown
 Unlock Desert 4: unknown
 Unlock Desert 6: unknown
+Unlock Desert 8: unknown
 Unlock Forest 1: progression
 Unlock Forest 2: unknown
 Unlock Forest 5: unknown
@@ -116,6 +122,7 @@ Vampire's Card 3: unknown
 White Stone 2: unknown
 White Stone 5: unknown
 White Stone 6: unknown
+Yellow Crystal 2: unknown
 Yellow Crystal 5: unknown
 atomic ray: unknown
 chakram: unknown
@@ -123,9 +130,11 @@ charge chakram: unknown
 charge circle: unknown
 double arrow: unknown
 electric staff: unknown
+fire chain: unknown
 fire glove: unknown
 fire ring: unknown
 fire sabel: unknown
+flame sword: unknown
 freeze exp rod: unknown
 freeze explosion: unknown
 homing laser beam: unknown
@@ -133,6 +142,7 @@ homing laser wave: unknown
 ice GS: unknown
 inferno: unknown
 iron chain: unknown
+lightning: unknown
 long blade: unknown
 long circle: unknown
 mega exp staff: unknown
@@ -157,6 +167,7 @@ staff of light: unknown
 staff of thunder: unknown
 thorn flail: unknown
 thunder cestus: unknown
+thunder chakram: unknown
 thunder god: unknown
 thunder ms: unknown
 thunder ring: unknown

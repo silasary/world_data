@@ -352,7 +352,7 @@ Equipment - Hibernaculum LV3 - 1737: unknown
 Equipment - Hibernaculum LV4 - 1738: unknown
 Equipment - Hibernaculum LV5 - 1755: unknown
 Equipment - Hihiirokane - 1824: unknown
-Equipment - Hoarfrost Buckler - 1880: unknown
+Equipment - Hoarfrost Buckler - 1880: useful
 Equipment - Holy Hat: unknown
 Equipment - Hooked Sickle - 1872: unknown
 Equipment - Hoplite - 2048: useful
@@ -491,7 +491,7 @@ Equipment - Phoenix Vest - 2155: unknown
 Equipment - Piercing Bone - 1815: unknown
 Equipment - Pincer Spear - 1997: unknown
 Equipment - Pirate Hat: useful
-Equipment - Pirokinetick Seal - 1673: unknown
+Equipment - Pirokinetick Seal - 1673: useful
 Equipment - Pirokinetick dress - 1667: unknown
 Equipment - Pistolero's Arsenal - 2152: unknown
 Equipment - Plague Mask: unknown
@@ -508,7 +508,7 @@ Equipment - Poisonkiss: unknown
 Equipment - Potion of Aetherbody - 1884: unknown
 Equipment - Power Glove - 2087: unknown
 Equipment - Primitive Axe - 1811: unknown
-Equipment - Prismatic Barrier LV1 - 1745: unknown
+Equipment - Prismatic Barrier LV1 - 1745: useful
 Equipment - Prismatic Barrier LV2 - 1746: unknown
 Equipment - Prismatic Barrier LV3 - 1747: unknown
 Equipment - Prismatic Barrier LV4 - 1721: unknown
@@ -612,7 +612,7 @@ Equipment - Sharp Sword: unknown
 Equipment - Shell Amulet: unknown
 Equipment - Shellter Gown - 1954: unknown
 Equipment - Shelter Dress: unknown
-Equipment - Shinigami-no-yokan - 1814: unknown
+Equipment - Shinigami-no-yokan - 1814: useful
 Equipment - Shoddy Bow - 2138: useful
 Equipment - Short Staff: unknown
 Equipment - Short Sword: unknown
@@ -623,7 +623,7 @@ Equipment - Sickle - 2076: unknown
 Equipment - Siege Bow: useful
 Equipment - Silenced Screams - 1953: useful
 Equipment - Skewer: unknown
-Equipment - Skull Shield - 2051: unknown
+Equipment - Skull Shield - 2051: useful
 Equipment - Sky Armor: unknown
 Equipment - Sky Puncture - 1985: unknown
 Equipment - Sky's Katana - 1982: unknown
@@ -821,7 +821,7 @@ Item - Capital Sequoia Pass: unknown
 Item - Castle Ramparts Map: unknown
 Item - Castle Ramparts Pass: progression
 Item - Castle Sequoia Map: useful
-Item - Castle Sequoia Pass: unknown
+Item - Castle Sequoia Pass: progression
 Item - Cave Key: unknown
 Item - Cell Key: unknown
 Item - Central Lookout Token: unknown
@@ -950,7 +950,7 @@ Item - Progressive Level: useful
 Item - Progressive Luxury Pass: unknown
 Item - Progressive Mount Instrument: progression
 Item - Progressive Quintar Flute: progression
-Item - Progressive Salmon Violin: unknown
+Item - Progressive Salmon Violin: progression
 Item - Proving Meadows Map: useful
 Item - Proving Meadows Pass: unknown
 Item - Pyramid Key: progression
@@ -1152,7 +1152,7 @@ Job - Witch - 34: unknown
 Job - Wizard: progression
 Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
-Scholar - Atmoshear: unknown
+Scholar - Atmoshear: useful
 Scholar - Barrier: useful
 Scholar - Build Life: useful
 Scholar - Explode: unknown
