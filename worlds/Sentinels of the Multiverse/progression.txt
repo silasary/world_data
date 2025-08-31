@@ -8,14 +8,14 @@ Adk Anathema: unknown
 Ajani: Mentor of Heroes: unknown
 Ajani: Wise Counselor: unknown
 Akash'Bhuta: Primordial Creator: unknown
-Akash'Bhuta: unknown
+Akash'Bhuta: progression
 Akash'Thriya: Spirit of the Void: unknown
 Akash'Thriya: progression
 Ambuscade (Team): unknown
 Ambuscade: Thrill of the Hunt: unknown
 Ambuscade: unknown
 America's Greatest Legacy: unknown
-America's Newest Legacy: unknown
+America's Newest Legacy: progression
 Anathema: unknown
 Angelus: unknown
 Anomalos: unknown
@@ -79,7 +79,7 @@ Chokepoint: Inspired Design: unknown
 Chokepoint: Ruthless Technopath: unknown
 Chokepoint: unknown
 Chrono-Ranger The Best of Times: unknown
-Chrono-Ranger the Best of Times: unknown
+Chrono-Ranger the Best of Times: progression
 Chrono-Ranger: unknown
 Chrono-Rift: unknown
 Chronomancer: unknown
@@ -98,7 +98,7 @@ Cult of Rakdos: unknown
 Cypher Swarming Protocol: unknown
 Cypher: unknown
 Dapper Vector: unknown
-Dark Conductor Argent Adept: unknown
+Dark Conductor Argent Adept: progression
 Dark Gelatina: unknown
 Dark Hunter: unknown
 Dark Pact Nightmist: unknown
@@ -108,10 +108,10 @@ Dark Watch Expatriette: unknown
 Dark Watch Harpy: unknown
 Dark Watch Mister Fixer: unknown
 Dark Watch Nightmist: unknown
-Dark Watch Setback: unknown
+Dark Watch Setback: progression
 Dark Willow: unknown
 Deadline: Angel of Extinction: unknown
-Deadline: unknown
+Deadline: progression
 Deathmarked Reaper: unknown
 Defferson Twilight: Taste For Blood: unknown
 Defferson Twilight: unknown
@@ -153,7 +153,7 @@ Etemon: unknown
 Everlasting Party: unknown
 Evolved Anathema: unknown
 Expatraith: unknown
-Expatriette: unknown
+Expatriette: progression
 Extremist Sky-Scraper: unknown
 F.S.C. Continuance Wanderer: unknown
 Fanatic: unknown
@@ -174,9 +174,9 @@ Freedom Five Absolute Zero: progression
 Freedom Five Bunker: unknown
 Freedom Five Legacy: progression
 Freedom Five Tachyon: unknown
-Freedom Five Wraith: unknown
-Freedom Six Absolute Zero: unknown
-Freedom Six Bunker: unknown
+Freedom Five Wraith: progression
+Freedom Six Absolute Zero: progression
+Freedom Six Bunker: progression
 Freedom Six Tachyon: unknown
 Freedom Six Tempest: progression
 Freedom Six Unity: unknown
@@ -231,7 +231,7 @@ Her Heart: unknown
 Heretic: unknown
 Hermit of the Azure Forest: unknown
 Hero Fortification (Any Absolute Zero): useful
-Hero Fortification (Any Mister Fixer): unknown
+Hero Fortification (Any Mister Fixer): useful
 Hero Fortification (Any Ra): useful
 Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
@@ -241,7 +241,7 @@ Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
 Hero Toughness: useful
 Hero Vulnerability (Any Bunker): unknown
-Hero Vulnerability (Any Captain Cosmic): unknown
+Hero Vulnerability (Any Captain Cosmic): trap
 Hero Vulnerability (Any La Comodora): unknown
 Hero Vulnerability (Any The Naturalist): trap
 Hero Weakness (Any Guise): trap
@@ -267,10 +267,10 @@ Infinitor: Inherited Insanity: unknown
 Infinitor: unknown
 Ingenuity (Any Dr. Medico): useful
 Ingenuity (Any Haka): useful
-Ingenuity (Any Nightmist): unknown
+Ingenuity (Any Nightmist): useful
 Ingenuity (Any Omnitron-X): useful
-Ingenuity (Any Parse): unknown
-Ingenuity (Any Tempest): unknown
+Ingenuity (Any Parse): useful
+Ingenuity (Any Tempest): useful
 Inquisitor: unknown
 Insomniac: unknown
 Insula Primalis: progression
@@ -285,7 +285,7 @@ Joker: unknown
 Judith: unknown
 Junkyard Junction: unknown
 K.N.Y.F.E. Rogue Agent: progression
-K.N.Y.F.E.: unknown
+K.N.Y.F.E.: progression
 Kaargra Warfang: Champion of OblivAeon: unknown
 Kaargra Warfang: Ruler of the Pit: unknown
 Kaargra Warfang: progression
@@ -304,7 +304,7 @@ La Capitan: Paradoxical Pirate: unknown
 La Capitan: Raiding Party: unknown
 La Capitan: progression
 La Comodora: Curse of the Black Spot: progression
-La Comodora: unknown
+La Comodora: progression
 Lady of the Wood 2199: unknown
 Lady of the Wood Season of Change: unknown
 Lady of the Wood: unknown
@@ -328,7 +328,7 @@ Mad Bomber Baron Blade: progression
 Madam Eden: unknown
 Madame Mittermeier's Byzantine Bazaar of Arcana and Attactions: unknown
 Madame Mittermeier's Fantastical Festival of Conundrums and Curiosities: progression
-Maerynian Refuge: unknown
+Maerynian Refuge: progression
 Maeve: unknown
 Magic Mun: unknown
 Magician: unknown
@@ -413,7 +413,7 @@ Parse: progression
 Patricia: unknown
 Phase: On the Run: unknown
 Phase: unknown
-Pike Industrial Complex: unknown
+Pike Industrial Complex: progression
 Plague Rat (Team): unknown
 Plague Rat: The New Breed: unknown
 Plague Rat: progression
@@ -425,18 +425,18 @@ Power use +1 (Any Legacy): unknown
 Power use +1 (Any Mister Fixer): unknown
 Power use +1 (Any Stuntman): unknown
 Power use +1 (Any Tachyon): unknown
-Power use +1 (Any The Harpy): unknown
+Power use +1 (Any The Harpy): useful
 Power use +1 (Any The Visionary): useful
-Power use -1 (Any La Comodora): unknown
+Power use -1 (Any La Comodora): trap
 Power use -1 (Any Mainstay): unknown
 Power use -1 (Any Ra): unknown
 Power use -1 (Any Tachyon): unknown
-Power use -1 (Any Tempest): unknown
+Power use -1 (Any Tempest): trap
 Prime Wardens Argent Adept: unknown
 Prime Wardens Captain Cosmic: progression
 Prime Wardens Fanatic: progression
 Prime Wardens Haka: progression
-Prime Wardens Tempest: unknown
+Prime Wardens Tempest: progression
 Prismari: College of Elemental Arts: unknown
 Progeny: Left Behind: unknown
 Progeny: The Messenger: unknown
@@ -450,7 +450,7 @@ Pyre: unknown
 Quandrix: Collage of Numeromancy: unknown
 Quicksilver Renegade: unknown
 Quicksilver: unknown
-Ra: Horus of Two Horizons: unknown
+Ra: Horus of Two Horizons: progression
 Ra: Setting Sun: progression
 Ra: unknown
 Rafaam: unknown
@@ -470,7 +470,7 @@ Ruins of Atlantis: progression
 Saheeli: Sublime Artificer: unknown
 Saheeli: Sun's Brilliance: unknown
 SaltyDKDan: Friendlock Season 2: unknown
-Santa Guise: unknown
+Santa Guise: progression
 Scion of Oblivaeon: progression
 Scrat: unknown
 ScreaMachine: Encore: unknown
@@ -483,7 +483,7 @@ Setback: unknown
 Setbackyon: unknown
 Shardmaster Malichae: unknown
 Siege Breaker Bunker: unknown
-Silver Gulch 1883: unknown
+Silver Gulch 1883: progression
 Silverquill: College of Eloquence: unknown
 Simic Combine: unknown
 Sion: unknown
@@ -504,26 +504,26 @@ Stand User Vector: unknown
 Starlight Area-51: unknown
 Starlight Genesis: unknown
 Starlight: unknown
-Starting Handsize +1 (Any Akash'Thriya): unknown
+Starting Handsize +1 (Any Akash'Thriya): useful
 Starting Handsize +1 (Any Captain Cosmic): useful
-Starting Handsize +1 (Any Expatriette): unknown
-Starting Handsize +1 (Any Stuntman): unknown
+Starting Handsize +1 (Any Expatriette): useful
+Starting Handsize +1 (Any Stuntman): useful
 Starting Handsize +1 (Any The Harpy): unknown
 Starting Handsize +1 (Any The Visionary): unknown
 Starting Handsize +1 (Any Writhe): unknown
-Starting Handsize -1 (Any Benchmark): unknown
+Starting Handsize -1 (Any Benchmark): trap
 Stitch: unknown
 Striker: unknown
 String: unknown
 Student Archmage: unknown
 Stuntman: progression
 Stupidity (Any Nightmist): trap
-Stupidity (Any Wraith): unknown
+Stupidity (Any Wraith): trap
 Stupidity 1 (Any Bunker): unknown
 Sundown: unknown
 Sunnydale Graveyard: unknown
 Sunnydale High School: unknown
-Super Sentai Idealist: unknown
+Super Sentai Idealist: progression
 Superstorm Akela: unknown
 Surskit: unknown
 Swarm Eater: unknown
@@ -536,7 +536,7 @@ Tango One Creed of the Sniper: unknown
 Tango One Ghost Ops: unknown
 Tango One: unknown
 Teferi: unknown
-Tempest: unknown
+Tempest: progression
 Temple of Trials: unknown
 Termi-Nation Absolute Zero: progression
 Termi-Nation Bunker: useful
@@ -556,13 +556,13 @@ The Celestial Tribunal: progression
 The Chairman: Kingpin: unknown
 The Chairman: progression
 The Chasm of a Thousand Nights: unknown
-The Court of Blood: unknown
+The Court of Blood: progression
 The Cricket Renegade: unknown
 The Cricket Wasteland Ronin: unknown
 The Cricket: unknown
 The Cybersphere: unknown
 The Dreamer: Mind of a Child: unknown
-The Dreamer: unknown
+The Dreamer: progression
 The Empress: unknown
 The Enclave of the Endlings: unknown
 The Ennead: Wrath of the Gods: unknown
@@ -574,7 +574,7 @@ The Final Wasteland: unknown
 The Gentlemen: unknown
 The Green Death 2084: unknown
 The Harpy: progression
-The Hunted Naturalist: unknown
+The Hunted Naturalist: progression
 The Idealist: progression
 The Infernal Choir: Possessed Opera: unknown
 The Infernal Choir: unknown
@@ -603,7 +603,7 @@ The River Heralds: Tuvasa: unknown
 The Road Home: unknown
 The Runecarved Stranger: unknown
 The Scholar of the Infinite: unknown
-The Scholar: unknown
+The Scholar: progression
 The Sentinels As One: unknown
 The Sentinels: unknown
 The Sovereign: unknown
@@ -625,7 +625,7 @@ The Warden: unknown
 The Xtreme Green Death: unknown
 Tiamat 2199: unknown
 Tiamat: unknown
-Time Cataclysm: unknown
+Time Cataclysm: progression
 Timeless City: unknown
 Tiny Tiger: unknown
 Tiso: unknown
@@ -634,7 +634,7 @@ Titan Oni: unknown
 Titan: unknown
 Tomb of Anubis: unknown
 Tombstone: unknown
-Trickster Kismet: unknown
+Trickster Kismet: progression
 Truck-Kun: unknown
 Turnip Boy: unknown
 Ula, False God: unknown
@@ -654,7 +654,7 @@ Vanish Tomb of Thieves: unknown
 Vanish: unknown
 Vault 5: unknown
 Vector: unknown
-Villain Fortification: unknown
+Villain Fortification: trap
 Villain Fragility 1: unknown
 Villain Fragility: useful
 Villain Strength 1: unknown
@@ -679,7 +679,7 @@ Within The Rusty: unknown
 Wraith: Stuntwoman: unknown
 Wraith: progression
 Writhe: Guise of Shadows: unknown
-Writhe: unknown
+Writhe: progression
 Xander: High School Slacker: unknown
 Xander: unknown
 Xtreme Prime Wardens Argent Adept: unknown
