@@ -32,9 +32,11 @@ Nuclear Fusion: progression
 Optics: progression
 Physics: unknown
 Plastics: progression
+Policy - Aristocracy: unknown
 Policy - Artistic Genius: unknown
 Policy - Caravans: unknown
 Policy - Collective Rule: unknown
+Policy - Consulates: unknown
 Policy - Entrepreneurship: unknown
 Policy - Flourishing of the Arts: unknown
 Policy - Humanism: unknown
@@ -63,10 +65,12 @@ Policy Branch - Commerce Finisher: unknown
 Policy Branch - Exploration Finisher: unknown
 Policy Branch - Exploration: unknown
 Policy Branch - Honor Finisher: unknown
+Policy Branch - Honor: unknown
 Policy Branch - Patronage Finisher: unknown
 Policy Branch - Patronage: unknown
 Policy Branch - Piety Finisher: unknown
 Policy Branch - Piety: unknown
+Policy Branch - Rationalism Finisher: unknown
 Policy Branch - Rationalism: unknown
 Policy Branch - Tradition Finisher: unknown
 Policy Branch - Tradition: unknown
@@ -121,6 +125,7 @@ Tech - Robotics: unknown
 Tech - Rocketry: progression
 Tech - Sailing: unknown
 Tech - Satellites: unknown
+Tech - Scientific Theory: unknown
 Tech - Stealth: unknown
 Tech - Telecommunications: unknown
 Tech - The Wheel: unknown
