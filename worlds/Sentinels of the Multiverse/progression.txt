@@ -243,6 +243,7 @@ Hero Toughness: useful
 Hero Vulnerability (Any Bunker): unknown
 Hero Vulnerability (Any Captain Cosmic): unknown
 Hero Vulnerability (Any La Comodora): unknown
+Hero Vulnerability (Any The Naturalist): trap
 Hero Weakness (Any Guise): trap
 Heroic Infinitor: progression
 Heroic Luminary: progression
@@ -326,7 +327,7 @@ Luminodora: unknown
 Mad Bomber Baron Blade: progression
 Madam Eden: unknown
 Madame Mittermeier's Byzantine Bazaar of Arcana and Attactions: unknown
-Madame Mittermeier's Fantastical Festival of Conundrums and Curiosities: unknown
+Madame Mittermeier's Fantastical Festival of Conundrums and Curiosities: progression
 Maerynian Refuge: unknown
 Maeve: unknown
 Magic Mun: unknown
@@ -516,6 +517,7 @@ Striker: unknown
 String: unknown
 Student Archmage: unknown
 Stuntman: progression
+Stupidity (Any Nightmist): trap
 Stupidity (Any Wraith): unknown
 Stupidity 1 (Any Bunker): unknown
 Sundown: unknown
@@ -675,7 +677,7 @@ Windmill City: unknown
 Witherbloom: College of Essence Studies: unknown
 Within The Rusty: unknown
 Wraith: Stuntwoman: unknown
-Wraith: unknown
+Wraith: progression
 Writhe: Guise of Shadows: unknown
 Writhe: unknown
 Xander: High School Slacker: unknown
