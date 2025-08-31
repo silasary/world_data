@@ -124,8 +124,10 @@ BlueCard (MAP12): progression
 BlueCard (MAP13): progression
 BlueCard (MAP15): progression
 BlueCard (MAP17): progression
+BlueCard (MAP20): progression
 BlueCard (MAP24): progression
 BlueCard (MAP26): progression
+BlueCard (MAP27): progression
 BlueCard (MAP28): unknown
 BlueCard (MAP29): unknown
 BlueFlemKey (E3M5): progression
@@ -242,6 +244,7 @@ HexagonKey (E2A12): unknown
 HolySphere: filler
 HotSauce: filler
 Infrared: filler
+InvulnerabilitySphere2: filler
 InvulnerabilitySphere: filler
 KeyBlue (E1M2): progression
 KeyBlue (E1M5): progression
@@ -503,7 +506,7 @@ Level Clear (MAP04): unknown
 Level Clear (MAP05): mcguffin
 Level Clear (MAP06): mcguffin
 Level Clear (MAP07): mcguffin
-Level Clear (MAP08): unknown
+Level Clear (MAP08): progression
 Level Clear (MAP09): mcguffin
 Level Clear (MAP10): unknown
 Level Clear (MAP11): unknown
@@ -664,6 +667,7 @@ YellowCard (MAP15): progression
 YellowCard (MAP21): progression
 YellowCard (MAP26): progression
 YellowCard (MAP28): progression
+YellowCard (MAP29): progression
 YellowCard (MAP31): progression
 YellowFlemKey (E3M5): progression
 YellowMushroom: filler
@@ -690,5 +694,6 @@ YellowSkull (MAP21): progression
 YellowSkull (MAP23): progression
 YellowSkull (MAP27): progression
 YellowSkull (MAP28): progression
+YellowSkull (MAP32): progression
 Zorch Propulsor: progression
 ZorchPack: filler
