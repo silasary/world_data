@@ -148,6 +148,7 @@ BlueSkull (E4M3): progression
 BlueSkull (E4M5): progression
 BlueSkull (E4M6): progression
 BlueSkull (E4M7): progression
+BlueSkull (MAP04): progression
 BlueSkull (MAP08): unknown
 BlueSkull (MAP10): progression
 BlueSkull (MAP14): progression
@@ -577,6 +578,7 @@ RedCard (MAP24): progression
 RedCard (MAP26): progression
 RedCard (MAP28): progression
 RedCard (MAP29): progression
+RedCard (MAP31): progression
 RedFlemKey (E3M5): progression
 RedMushroom: filler
 RedSkull (E1M4): progression
