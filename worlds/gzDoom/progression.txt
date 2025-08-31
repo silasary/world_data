@@ -595,6 +595,7 @@ RedSkull (E4M7): progression
 RedSkull (E4M8): progression
 RedSkull (MAP07): unknown
 RedSkull (MAP08): unknown
+RedSkull (MAP11): progression
 RedSkull (MAP12): progression
 RedSkull (MAP14): progression
 RedSkull (MAP15): progression
@@ -687,6 +688,7 @@ YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
 YellowSkull (MAP08): progression
 YellowSkull (MAP15): progression
+YellowSkull (MAP16): progression
 YellowSkull (MAP17): progression
 YellowSkull (MAP18): progression
 YellowSkull (MAP19): progression
