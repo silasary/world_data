@@ -12,7 +12,9 @@ Bola: unknown
 Breakthrough: unknown
 Caltrops: unknown
 Chop: unknown
+Collect Bounty: progression
 Come Hither: unknown
+Command: unknown
 Dazzling Light: unknown
 Defender: unknown
 Dirk Stab: unknown
@@ -21,6 +23,7 @@ Divine Grace: progression
 Duelist's Advance: unknown
 Emboldening Vapours: progression
 Festering Vapours: progression
+Flashbang: unknown
 Flashing Daggers: unknown
 Guard Dog: unknown
 Hand of Light: unknown
@@ -43,6 +46,7 @@ Mark for Death: unknown
 Nervous Stab: unknown
 Noxious Blast: unknown
 Open Vein: progression
+Pick to the Face: unknown
 Poison Dart: unknown
 Progressive Armoursmithing: progression
 Progressive Bar: useful
@@ -76,6 +80,7 @@ Progressive Weaponsmithing: unknown
 Rake: unknown
 Rallying Flare: unknown
 Rampart: unknown
+Retribution: unknown
 Revenge: progression
 Sacrifical Stab: progression
 Slam: unknown

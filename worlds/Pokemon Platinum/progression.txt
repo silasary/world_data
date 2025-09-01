@@ -2,6 +2,7 @@ ANALOG WATCH: unknown
 Adamant Orb: unknown
 Amulet Coin: unknown
 Antidote: unknown
+Awakening: unknown
 Beacon Badge: unknown
 Bicycle: unknown
 Big Mushroom: unknown
@@ -9,6 +10,7 @@ Big Pearl: unknown
 Big Root: unknown
 Blue Shard: unknown
 Burn Heal: unknown
+CALCULATOR: unknown
 COIN TOSS: unknown
 Calcium: unknown
 Carbos: unknown
@@ -20,7 +22,9 @@ Coupon 2: progression
 Coupon 3: unknown
 DOWSING MACHINE: unknown
 Dawn Stone: unknown
+Destiny Knot: unknown
 Dive Ball: unknown
+Draco Plate: unknown
 Dread Plate: unknown
 Dubious Disc: unknown
 Dusk Ball: unknown
@@ -37,6 +41,7 @@ FRIENDSHIP CHECKER: unknown
 Fashion Case: unknown
 Fen Badge: unknown
 Fire Stone: unknown
+Fist Plate: unknown
 Forest Badge: unknown
 Full Heal: unknown
 Full Restore: unknown
@@ -53,8 +58,10 @@ HM04 Strength: unknown
 HM05 Defog: unknown
 HM06 Rock Smash: unknown
 HM07 Waterfall: progression
+HM08 Rock Climb: unknown
 HP Up: unknown
 Heal Ball: unknown
+Heal Powder: unknown
 Heart Scale: filler
 Honey x10: filler
 Honey x3: unknown
@@ -63,8 +70,11 @@ Hyper Potion: unknown
 Ice Heal: unknown
 Icicle Badge: unknown
 Icicle Plate: unknown
+Insect Plate: unknown
 Iron: filler
+Journal: unknown
 King’s Rock: unknown
+LINK SEARCHER: unknown
 Leaf Stone: unknown
 Leftovers: unknown
 Light Clay: unknown
@@ -72,9 +82,11 @@ Lunar Wing: unknown
 Lustrous Orb: unknown
 Luxury Ball: unknown
 MARKING MAP: unknown
+MOVE TESTER: unknown
 Magmarizer: unknown
 Magnet: unknown
 Master Ball: unknown
+Master Repel: unknown
 Max Elixir: unknown
 Max Ether: unknown
 Max Potion: unknown
@@ -85,10 +97,12 @@ Mental Herb: unknown
 Metal Coat: unknown
 Mind Plate: unknown
 Mine Badge: unknown
+Moon Stone: unknown
 Mystic Water: unknown
 Nest Ball: unknown
 NeverMeltIce: unknown
 Nugget: unknown
+Odd Incense: unknown
 Odd Keystone: unknown
 Old Charm: unknown
 Old Gateau: unknown
@@ -107,10 +121,12 @@ Poké Ball x5: filler
 Poké Ball: unknown
 Poké Doll: unknown
 Poké Radar: unknown
+Pokétch: unknown
 Potion: unknown
 Protector: unknown
 Protein: unknown
 Pure Incense: unknown
+Quick Ball: unknown
 ROULETTE: unknown
 Rare Candy: unknown
 Razor Claw: unknown
@@ -127,6 +143,7 @@ SecretPotion: unknown
 Shell Bell: unknown
 Shiny Stone: unknown
 SilverPowder: unknown
+Sky Plate: unknown
 Smoke Ball: unknown
 Soft Sand: unknown
 Soothe Bell: unknown
@@ -135,6 +152,7 @@ Splash Plate: unknown
 Sprayduck: unknown
 Star Piece: unknown
 Stardust: unknown
+Stone Plate: unknown
 Suite Key: unknown
 Sun Stone: unknown
 Super Potion: filler
@@ -147,6 +165,7 @@ TM06: unknown
 TM07: unknown
 TM09: unknown
 TM11: unknown
+TM12: unknown
 TM13: useful
 TM14: unknown
 TM18: unknown
@@ -154,14 +173,18 @@ TM19: unknown
 TM21: useful
 TM23: unknown
 TM24: unknown
+TM26: unknown
+TM27: unknown
 TM28 Dig: unknown
 TM29: unknown
 TM30: unknown
+TM31: unknown
 TM32: unknown
 TM34: unknown
 TM38: unknown
 TM39: unknown
 TM40: unknown
+TM41: unknown
 TM43: unknown
 TM45: unknown
 TM46: useful
@@ -179,6 +202,7 @@ TM67: unknown
 TM69: unknown
 TM70 Flash: unknown
 TM71: unknown
+TM72: unknown
 TM76: unknown
 TM77: unknown
 TM78: unknown
@@ -192,6 +216,7 @@ TM88: unknown
 TM89: unknown
 TM90: unknown
 TM91: unknown
+TM92: unknown
 TRAINER COUNTER: unknown
 Thunderstone: unknown
 Timer Ball: unknown
@@ -204,7 +229,9 @@ Vs. Recorder: unknown
 Vs. Seeker: unknown
 Water Stone: unknown
 Wave Incense: unknown
+White Flute: unknown
 Works Key: unknown
+X Accuracy: unknown
 X Attack: unknown
 X Defend: unknown
 X Sp. Def: unknown

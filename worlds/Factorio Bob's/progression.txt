@@ -76,6 +76,7 @@ flammables: unknown
 kovarex-enrichment-process: unknown
 lamp: unknown
 landfill: unknown
+logistic-robotics: unknown
 low-density-structure: unknown
 lubricant: unknown
 modules: unknown

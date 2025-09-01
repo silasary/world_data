@@ -92,7 +92,7 @@ Completionist Guise: unknown
 Comrade: unknown
 Containment Breach: unknown
 Corrupted Neuronet: unknown
-Cosmic Inventor Writhe: unknown
+Cosmic Inventor Writhe: progression
 Crusader Fanatic: unknown
 Cult of Rakdos: unknown
 Cypher Swarming Protocol: unknown
@@ -244,6 +244,7 @@ Hero Vulnerability (Any Bunker): unknown
 Hero Vulnerability (Any Captain Cosmic): trap
 Hero Vulnerability (Any La Comodora): unknown
 Hero Vulnerability (Any The Naturalist): trap
+Hero Weakness (Any Expatriette): unknown
 Hero Weakness (Any Guise): trap
 Heroic Infinitor: progression
 Heroic Luminary: progression
