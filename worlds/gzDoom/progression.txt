@@ -576,6 +576,7 @@ RedCard (MAP17): progression
 RedCard (MAP21): progression
 RedCard (MAP23): progression
 RedCard (MAP24): progression
+RedCard (MAP25): unknown
 RedCard (MAP26): progression
 RedCard (MAP28): progression
 RedCard (MAP29): progression
@@ -691,6 +692,7 @@ YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
 YellowSkull (MAP08): progression
+YellowSkull (MAP13): unknown
 YellowSkull (MAP15): progression
 YellowSkull (MAP16): progression
 YellowSkull (MAP17): progression
