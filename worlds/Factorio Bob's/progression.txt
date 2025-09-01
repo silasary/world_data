@@ -62,6 +62,7 @@ bob-slowdown-mine: unknown
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
 bob-thorium-fuel-reprocessing: unknown
+bob-thorium-plutonium-fuel-cell: unknown
 bob-thorium-processing: unknown
 bob-titanium-processing: unknown
 bob-tungsten-processing: unknown
@@ -71,6 +72,7 @@ bob-void-fluid: unknown
 bob-zinc-processing: unknown
 coal-liquefaction: unknown
 concrete: unknown
+discharge-defense-equipment: unknown
 explosives: unknown
 flammables: unknown
 kovarex-enrichment-process: unknown
@@ -167,6 +169,7 @@ progressive-research-speed: unknown
 progressive-robotics: unknown
 progressive-rocketry: unknown
 progressive-science-pack: unknown
+progressive-solar-energy: unknown
 progressive-solar-panel-equipment: unknown
 progressive-speed-module: unknown
 progressive-spidertron: unknown

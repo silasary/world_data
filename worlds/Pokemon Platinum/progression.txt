@@ -83,7 +83,7 @@ Lustrous Orb: unknown
 Luxury Ball: unknown
 MARKING MAP: unknown
 MATCHUP CHECKER: unknown
-MOVE TESTER: unknown
+MOVE TESTER: filler
 Magmarizer: unknown
 Magnet: unknown
 Master Ball: unknown
@@ -158,7 +158,7 @@ Stone Plate: unknown
 Suite Key: unknown
 Sun Stone: unknown
 Super Potion: filler
-Super Repel: unknown
+Super Repel: filler
 TM01: useful
 TM02: unknown
 TM03: unknown
