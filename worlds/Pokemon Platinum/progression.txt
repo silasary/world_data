@@ -101,6 +101,7 @@ Mine Badge: unknown
 Moon Stone: unknown
 Mystic Water: unknown
 Nest Ball: unknown
+Net Ball: unknown
 NeverMeltIce: unknown
 Nugget: unknown
 Odd Incense: unknown
@@ -130,7 +131,7 @@ Pure Incense: unknown
 Quick Ball: unknown
 ROULETTE: unknown
 Rare Candy: unknown
-Razor Claw: unknown
+Razor Claw: filler
 Red Shard: unknown
 Relic Badge: unknown
 Repeat Ball: unknown
@@ -152,7 +153,7 @@ Spell Tag: unknown
 Splash Plate: unknown
 Sprayduck: progression
 Star Piece: unknown
-Stardust: unknown
+Stardust: filler
 Stone Plate: unknown
 Suite Key: unknown
 Sun Stone: unknown
@@ -180,7 +181,7 @@ TM28 Dig: unknown
 TM29: unknown
 TM30: unknown
 TM31: unknown
-TM32: unknown
+TM32: filler
 TM34: unknown
 TM38: unknown
 TM39: unknown
@@ -205,7 +206,7 @@ TM70 Flash: unknown
 TM71: unknown
 TM72: unknown
 TM76: unknown
-TM77: unknown
+TM77: filler
 TM78: unknown
 TM79: unknown
 TM80: useful
@@ -217,12 +218,13 @@ TM88: unknown
 TM89: unknown
 TM90: unknown
 TM91: unknown
-TM92: unknown
+TM92: filler
 TRAINER COUNTER: unknown
 Thunderstone: unknown
 Timer Ball: unknown
 TinyMushroom: unknown
 Town Map: unknown
+Toxic Plate: unknown
 Ultra Ball: useful
 Up-Grade: unknown
 Upgradable Pokédex: unknown
