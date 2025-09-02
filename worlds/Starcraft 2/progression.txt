@@ -74,6 +74,7 @@ Apocalypse (Kerrigan Ability): unknown
 Apocalypse (Kerrigan Tier 7): progression
 Arbiter: progression
 Arc Inducers (Stalwart): useful
+Archon Merge (Dark Templar): unknown
 Ares-Class Targeting System (Goliath): useful
 Argus Jewel (Corsair): useful
 Argus Talisman (Dark Archon): useful
@@ -119,6 +120,7 @@ Bloodshard Resonance (Havoc): useful
 Bosonic Core (Oracle): useful
 Braced Exoskeleton (Infested Banshee): useful
 Brainwashing (Hive Mind Emulator): unknown
+Breath of Creation (Ascendant): unknown
 Brood Lord (Mutalisk/Corruptor Morph): unknown
 Brood Lord Aspect (Mutalisk/Corruptor): progression
 Brood Queen (Larva): unknown
@@ -153,6 +155,7 @@ Chaotic Attunement (Ascendant): useful
 Charge (Predator): filler
 Chitinous Plating (Ultralisk): useful
 Chrono Shear (Intercessor): unknown
+Chrono Shear (Pulsar): unknown
 Chrono Surge (Spear of Adun Calldown): useful
 Chronoclysm (Intercessor): unknown
 Chronostatic Reinforcement (Arbiter): useful
@@ -499,6 +502,7 @@ Mirage: progression
 Missile Turret: useful
 Mist Wing: unknown
 Mobile Chrono Beam (Energizer): progression
+Mobility Protocols (Disruptor): unknown
 Modernized Servos (Instigator): unknown
 Monarch Blades (Ultralisk): useful
 Monomolecular Blade (Nova Weapon): progression
@@ -544,6 +548,7 @@ Orbital Depots (Terran): useful
 Orbital Depots: useful
 Orbital Module (Planetary Fortress): useful
 Orbital Strike (Spear of Adun Calldown): useful
+Orbital Strike (Spear of Adun): unknown
 Orbital Strike (Terran): useful
 Orbital Strike: useful
 Organic Carapace (Roach): useful
@@ -561,6 +566,7 @@ Particle Reflection (Stalker/Instigator/Slayer): progression
 Pathogen Projectors (Defiler): useful
 Peer Contempt (Skirmisher): progression
 Perdition Turret: progression
+Perfected Power (Disruptor): unknown
 Phalanx Suit (Dragoon): unknown
 Phantom Dash (Mist Wing): unknown
 Phase Blaster (Warp Prism): progression
@@ -618,6 +624,7 @@ Progressive Protoss Shields: useful
 Progressive Protoss Weapon Upgrade: useful
 Progressive Protoss Weapon/Armor Upgrade: useful
 Progressive Proxy Pylon (Spear of Adun Calldown): useful
+Progressive Proxy Pylon (Spear of Adun): unknown
 Progressive Regenerative Bio-Steel (Terran): progression
 Progressive Regenerative Bio-Steel: progression
 Progressive Replenishable Magazine (Vulture): filler
@@ -800,8 +807,10 @@ Smart Servos (Hellion): useful
 Smart Servos (Liberator): filler
 Smart Servos (Siege Tank): filler
 Smart Servos (Viking): useful
+Solar Beam (Trireme): unknown
 Solar Bombardment (Spear of Adun Calldown): useful
 Solar Lance (Spear of Adun Calldown): progression
+Solar Lance (Spear of Adun): unknown
 Solarite Lens (Dawnbringer): unknown
 Solarite Payload (Reaver): useful
 Solarite Reactor (Caladrius): useful
@@ -843,6 +852,7 @@ Sundering Glaive (Mutalisk): useful
 Superior Warp Gates (Protoss): useful
 Superior Warp Gates: useful
 Supplicant: filler
+Supply Efficiency (Scout): unknown
 Sustained Cultivation Ventricles (InfSCV Build Charges): useful
 Sustaining Disruption (Corsair): useful
 Swarm Host (Larva): unknown
@@ -862,11 +872,13 @@ Tectonic Destabilizers (Tempest): filler
 Tempest: progression
 Temporal Acceleration Beam (Oracle): useful
 Temporal Field (Spear of Adun Calldown): useful
+Temporal Field (Spear of Adun): unknown
 Thermite Filaments (Hellion): useful
 Thor: progression
 Thornshells (Mercenary): unknown
 Thornshells: progression
 Time Stop (Spear of Adun Calldown): progression
+Time Stop (Spear of Adun): unknown
 Tissue Assimilation (Ultralisk): useful
 Titanium Housing (Missile Turret): filler
 Torrasque Strain (Ultralisk): useful
@@ -875,8 +887,10 @@ Transcendence (Archon): unknown
 Trapdoor Adaptation (Defiler): useful
 Trigger Override (Wraith): useful
 Trillic Compression System (Dragoon): useful
+Trireme: unknown
 Tunneling Claws (Roach): filler
 Tunneling Jaws (Baneling): useful
+Twilight Chassis (Annihilator): unknown
 Twin Drones (Kerrigan Tier 5): useful
 Twin Drones (Zerg): progression
 Twin-Linked Flamethrower (Hellion): filler
@@ -898,6 +912,7 @@ Ventral Sacs (Overlord): useful
 Vespene Efficiency (Kerrigan Tier 5): useful
 Vespene Efficiency (Zerg): unknown
 Vespene Synthesis (Predator): useful
+Vessel of the Conclave (Arbiter): unknown
 Vicious Glaive (Mutalisk): useful
 Viking: progression
 Vile Strain (Roach): useful
