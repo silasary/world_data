@@ -37,20 +37,27 @@ Policy - Artistic Genius: unknown
 Policy - Caravans: unknown
 Policy - Collective Rule: unknown
 Policy - Consulates: unknown
+Policy - Cultural Exchange: unknown
+Policy - Discipline: unknown
 Policy - Entrepreneurship: unknown
+Policy - Fine Arts: unknown
 Policy - Flourishing of the Arts: unknown
 Policy - Humanism: unknown
 Policy - Landed Elite: unknown
+Policy - Legalism: unknown
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
+Policy - Military Caste: unknown
 Policy - Military Tradition: unknown
 Policy - Monarchy: unknown
+Policy - Naval Tradition: unknown
 Policy - Oligarchy: unknown
 Policy - Organized Religion: unknown
 Policy - Philanthropy: unknown
 Policy - Professional Army: unknown
 Policy - Reformation: unknown
+Policy - Religious Tolerance: unknown
 Policy - Representation: unknown
 Policy - Republic: unknown
 Policy - Scientific Revolution: unknown
@@ -58,6 +65,7 @@ Policy - Secularism: unknown
 Policy - Sovereignty: unknown
 Policy - Theocracy: useful
 Policy - Trade Unions: unknown
+Policy - Treasure Fleets: unknown
 Policy - Warrior Code: unknown
 Policy Branch - Aesthetics Finisher: unknown
 Policy Branch - Aesthetics: progression
@@ -90,15 +98,20 @@ Tech - Archery: unknown
 Tech - Architecture: unknown
 Tech - Astronomy: unknown
 Tech - Atomic Theory: unknown
+Tech - Ballistics: unknown
 Tech - Banking: unknown
+Tech - Calendar: unknown
 Tech - Chemistry: progression
 Tech - Chivalry: unknown
 Tech - Civil Service: unknown
 Tech - Combustion: unknown
 Tech - Compass: unknown
 Tech - Computers: unknown
+Tech - Construction: unknown
 Tech - Currency: unknown
 Tech - Drama and Poetry: unknown
+Tech - Dynamite: unknown
+Tech - Economics: unknown
 Tech - Education: unknown
 Tech - Electricity: unknown
 Tech - Engineering: unknown
@@ -108,16 +121,20 @@ Tech - Gunpowder: unknown
 Tech - Iron Working: unknown
 Tech - Lasers: unknown
 Tech - Machinery: unknown
+Tech - Masonry: unknown
 Tech - Mathematics: unknown
 Tech - Metal Casting: unknown
 Tech - Metallurgy: unknown
 Tech - Mobile Tactics: unknown
+Tech - Nanotechnology: unknown
 Tech - Navigation: unknown
 Tech - Nuclear Fission: unknown
 Tech - Particle Physics: unknown
 Tech - Philosophy: unknown
+Tech - Pottery: unknown
 Tech - Printing Press: unknown
 Tech - Radar: unknown
+Tech - Radio: unknown
 Tech - Railroad: unknown
 Tech - Refrigeration: unknown
 Tech - Replaceable Parts: unknown
@@ -130,6 +147,7 @@ Tech - Scientific Theory: unknown
 Tech - Stealth: unknown
 Tech - Telecommunications: unknown
 Tech - The Wheel: unknown
+Tech - Trapping: unknown
 The Wheel: unknown
 Trap - Minor Culture: unknown
 Trap - Minor Faith: unknown
