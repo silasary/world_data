@@ -61,13 +61,13 @@ HM05 Defog: unknown
 HM06 Rock Smash: unknown
 HM07 Waterfall: progression
 HM08 Rock Climb: unknown
-HP Up: unknown
+HP Up: filler
 Heal Ball: unknown
 Heal Powder: unknown
 Heart Scale: filler
 Honey x10: filler
 Honey x3: unknown
-Honey: unknown
+Honey: filler
 Hyper Potion: unknown
 Ice Heal: unknown
 Icicle Badge: unknown
@@ -122,7 +122,7 @@ Pearl: unknown
 Poffin Case: progression
 Poison Barb: unknown
 Poké Ball x5: filler
-Poké Ball: unknown
+Poké Ball: filler
 Poké Doll: unknown
 Poké Radar: unknown
 Pokétch: unknown
@@ -134,8 +134,9 @@ Quick Ball: unknown
 ROULETTE: unknown
 Rare Candy: useful
 Razor Claw: filler
+Razor Fang: filler
 Red Shard: unknown
-Relic Badge: unknown
+Relic Badge: progression
 Repeat Ball: unknown
 Repel: useful
 Revival Herb: filler
@@ -155,7 +156,7 @@ Soothe Bell: unknown
 Spell Tag: unknown
 Splash Plate: unknown
 Sprayduck: progression
-Star Piece: unknown
+Star Piece: filler
 Stardust: filler
 Stone Plate: unknown
 Suite Key: unknown
@@ -194,9 +195,9 @@ TM43: unknown
 TM45: unknown
 TM46: useful
 TM47: unknown
-TM48: unknown
+TM48: filler
 TM49: unknown
-TM51: unknown
+TM51: filler
 TM56: unknown
 TM57: unknown
 TM59: unknown

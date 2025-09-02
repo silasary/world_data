@@ -21,6 +21,7 @@ bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
 bob-explosive-artillery-shells: unknown
 bob-fertiliser: unknown
+bob-fire-artillery-shells: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
 bob-fluid-chemical-furnace: unknown
@@ -71,6 +72,7 @@ bob-tungsten-processing: unknown
 bob-vehicle-engine-equipment: unknown
 bob-vehicle-motor-equipment: unknown
 bob-void-fluid: unknown
+bob-wood-processing: unknown
 bob-zinc-processing: unknown
 coal-liquefaction: unknown
 concrete: unknown
