@@ -53,6 +53,7 @@ bob-reinforced-wall: unknown
 bob-robot-plasma-drones: unknown
 bob-rocket: unknown
 bob-rtg: unknown
+bob-scatter-cannon-shells: unknown
 bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
 bob-shotgun-plasma-shells: unknown
@@ -146,6 +147,7 @@ progressive-flamethrower: unknown
 progressive-fluid-handling: unknown
 progressive-fluid-wagon: unknown
 progressive-follower-robot-count: unknown
+progressive-follower: unknown
 progressive-inserter-capacity-bonus: unknown
 progressive-inserter-stack-size-bonus: unknown
 progressive-inserter: unknown
