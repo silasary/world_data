@@ -87,12 +87,12 @@ MARKING MAP: unknown
 MATCHUP CHECKER: unknown
 MOVE TESTER: filler
 Magmarizer: unknown
-Magnet: unknown
+Magnet: filler
 Master Ball: unknown
 Master Repel: unknown
 Max Elixir: filler
 Max Ether: unknown
-Max Potion: unknown
+Max Potion: filler
 Max Repel: unknown
 Max Revive: filler
 Meadow Plate: unknown
@@ -114,7 +114,7 @@ Old Rod: unknown
 Oval Stone: unknown
 POKéMON HISTORY: unknown
 POKéMON LIST: unknown
-PP Max: unknown
+PP Max: filler
 PP Up: unknown
 Parcel: progression
 Parlyz Heal: unknown
@@ -226,7 +226,7 @@ TM92: filler
 TRAINER COUNTER: unknown
 Thunderstone: unknown
 Timer Ball: unknown
-TinyMushroom: unknown
+TinyMushroom: filler
 Town Map: unknown
 Toxic Plate: unknown
 Ultra Ball: useful
@@ -238,7 +238,7 @@ Water Stone: useful
 Wave Incense: unknown
 White Flute: unknown
 Works Key: unknown
-X Accuracy: unknown
+X Accuracy: filler
 X Attack: unknown
 X Defend: unknown
 X Sp. Def: unknown
