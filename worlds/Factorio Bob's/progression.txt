@@ -3,6 +3,7 @@ advanced-oil-processing: unknown
 automated-rail-transportation: unknown
 belt-immunity-equipment: unknown
 bob-acid-bullets: unknown
+bob-acid-rocket: unknown
 bob-advanced-research: unknown
 bob-alien-blue-research: unknown
 bob-alien-orange-research: unknown
@@ -77,6 +78,7 @@ explosives: unknown
 flammables: unknown
 kovarex-enrichment-process: unknown
 lamp: unknown
+land-mine: unknown
 landfill: unknown
 logistic-robotics: unknown
 low-density-structure: unknown
@@ -132,6 +134,7 @@ progressive-bob-water-miner: unknown
 progressive-braking-force: unknown
 progressive-car: unknown
 progressive-circuits: unknown
+progressive-effect-transmission: unknown
 progressive-efficiency-module: unknown
 progressive-electric-energy-accumulators: unknown
 progressive-electric-energy-distribution: unknown

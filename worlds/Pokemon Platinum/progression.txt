@@ -8,7 +8,7 @@ Bicycle: unknown
 Big Mushroom: unknown
 Big Pearl: filler
 Big Root: unknown
-Blue Shard: unknown
+Blue Shard: filler
 Burn Heal: unknown
 CALCULATOR: unknown
 COIN TOSS: filler
@@ -75,7 +75,7 @@ Iron: filler
 Journal: unknown
 King’s Rock: unknown
 LINK SEARCHER: unknown
-Leaf Stone: unknown
+Leaf Stone: useful
 Leftovers: unknown
 Light Clay: unknown
 Lunar Wing: unknown
