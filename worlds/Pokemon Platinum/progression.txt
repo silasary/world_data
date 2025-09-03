@@ -177,7 +177,7 @@ TM14: unknown
 TM18: unknown
 TM19: unknown
 TM21: useful
-TM23: unknown
+TM23: useful
 TM24: unknown
 TM26: unknown
 TM27: unknown
@@ -192,7 +192,7 @@ TM39: unknown
 TM40: unknown
 TM41: unknown
 TM43: unknown
-TM45: unknown
+TM45: useful
 TM46: useful
 TM47: unknown
 TM48: filler
