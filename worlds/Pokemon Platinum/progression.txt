@@ -5,7 +5,7 @@ Antidote: unknown
 Awakening: unknown
 Beacon Badge: unknown
 Bicycle: unknown
-Big Mushroom: unknown
+Big Mushroom: filler
 Big Pearl: filler
 Big Root: unknown
 Blue Shard: filler
@@ -35,7 +35,7 @@ Earth Plate: unknown
 Electirizer: unknown
 Elixir: unknown
 Energy Root: unknown
-EnergyPowder: unknown
+EnergyPowder: filler
 Escape Rope: filler
 Ether: unknown
 Exp. Share: unknown
@@ -52,7 +52,7 @@ Good Rod: unknown
 Great Ball: unknown
 Green Shard: unknown
 Grip Claw: unknown
-Guard Spec.: unknown
+Guard Spec.: filler
 HM01 Cut: unknown
 HM02 Fly: unknown
 HM03 Surf: unknown
@@ -135,6 +135,7 @@ ROULETTE: unknown
 Rare Candy: useful
 Razor Claw: filler
 Razor Fang: filler
+Reaper Cloth: filler
 Red Shard: unknown
 Relic Badge: progression
 Repeat Ball: unknown
