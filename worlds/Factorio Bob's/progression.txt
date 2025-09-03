@@ -74,6 +74,7 @@ bob-vehicle-motor-equipment: unknown
 bob-void-fluid: unknown
 bob-wood-processing: unknown
 bob-zinc-processing: unknown
+cliff-explosives: unknown
 coal-liquefaction: unknown
 concrete: unknown
 discharge-defense-equipment: unknown
