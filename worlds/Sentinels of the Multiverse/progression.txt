@@ -1,3 +1,4 @@
+1 Mulligan (Any Sky-Scraper): unknown
 1 Undo: unknown
 1929 Ram: unknown
 Absolute Zero: Cold as Ice: unknown
@@ -233,9 +234,11 @@ Hermit of the Azure Forest: unknown
 Hero Fortification (Any Absolute Zero): useful
 Hero Fortification (Any Mister Fixer): useful
 Hero Fortification (Any Ra): useful
+Hero Fortification (Any Tempest): unknown
 Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
 Hero Fragility: trap
+Hero Strength (Any Expatriette): unknown
 Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
@@ -243,6 +246,7 @@ Hero Toughness: useful
 Hero Vulnerability (Any Bunker): unknown
 Hero Vulnerability (Any Captain Cosmic): trap
 Hero Vulnerability (Any La Comodora): unknown
+Hero Vulnerability (Any The Idealist): unknown
 Hero Vulnerability (Any The Naturalist): trap
 Hero Weakness (Any Expatriette): unknown
 Hero Weakness (Any Guise): trap
@@ -513,6 +517,8 @@ Starting Handsize +1 (Any The Harpy): unknown
 Starting Handsize +1 (Any The Visionary): unknown
 Starting Handsize +1 (Any Writhe): unknown
 Starting Handsize -1 (Any Benchmark): trap
+Starting Handsize -1 (Any Haka): unknown
+Starting Handsize -1 (Any Lifeline): unknown
 Stitch: unknown
 Striker: unknown
 String: unknown

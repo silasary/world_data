@@ -112,6 +112,7 @@ Old Charm: unknown
 Old Gateau: unknown
 Old Rod: unknown
 Oval Stone: unknown
+PEDOMETER: unknown
 POKéMON HISTORY: unknown
 POKéMON LIST: unknown
 PP Max: filler
@@ -131,6 +132,7 @@ Protector: unknown
 Protein: filler
 Pure Incense: unknown
 Quick Ball: unknown
+Quick Claw: unknown
 ROULETTE: unknown
 Rare Candy: useful
 Razor Claw: filler
@@ -142,6 +144,7 @@ Repeat Ball: unknown
 Repel: useful
 Revival Herb: filler
 Revive: unknown
+Rock Incense: unknown
 Rose Incense: unknown
 Running Shoes: unknown
 Sea Incense: unknown
@@ -188,6 +191,7 @@ TM30: unknown
 TM31: filler
 TM32: filler
 TM34: unknown
+TM36: unknown
 TM38: unknown
 TM39: unknown
 TM40: unknown
@@ -203,6 +207,7 @@ TM56: unknown
 TM57: unknown
 TM59: unknown
 TM62: unknown
+TM63: unknown
 TM65: unknown
 TM66: unknown
 TM67: unknown
@@ -218,6 +223,7 @@ TM80: useful
 TM81: unknown
 TM82: unknown
 TM84: unknown
+TM86: unknown
 TM87: unknown
 TM88: unknown
 TM89: unknown
