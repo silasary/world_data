@@ -42,14 +42,17 @@ Collector Boss Gold: unknown
 Collector Boss Relic: progression
 Collector Card Draw: progression
 Collector Five Gold: unknown
+Collector Neutral Shop Card Slot: unknown
 Collector One Gold: unknown
 Collector Potion: unknown
 Collector Progressive Rest: progression
+Collector Progressive Shop Remove: unknown
 Collector Progressive Smith: progression
 Collector Rare Card Draw: unknown
 Collector Relic: progression
 Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
+Collector Shop Relic Slot: unknown
 Collector Unlock: progression
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
