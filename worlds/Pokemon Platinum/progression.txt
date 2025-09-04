@@ -1,7 +1,7 @@
 ANALOG WATCH: unknown
 Adamant Orb: unknown
 Amulet Coin: unknown
-Antidote: unknown
+Antidote: filler
 Awakening: unknown
 BERRY SEARCHER: unknown
 Beacon Badge: unknown
@@ -54,7 +54,7 @@ Full Restore: filler
 Galactic Key: unknown
 Good Rod: unknown
 Great Ball: filler
-Green Shard: unknown
+Green Shard: filler
 Grip Claw: unknown
 Guard Spec.: filler
 HM01 Cut: unknown
@@ -109,7 +109,7 @@ Moon Stone: unknown
 Mystic Water: unknown
 Nest Ball: unknown
 Net Ball: unknown
-NeverMeltIce: unknown
+NeverMeltIce: filler
 Nugget: filler
 Odd Incense: unknown
 Odd Keystone: progression
@@ -212,6 +212,7 @@ TM55: unknown
 TM56: unknown
 TM57: unknown
 TM59: unknown
+TM60: filler
 TM62: unknown
 TM63: unknown
 TM65: unknown
