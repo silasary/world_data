@@ -104,7 +104,7 @@ Dark Gelatina: unknown
 Dark Hunter: unknown
 Dark Pact Nightmist: unknown
 Dark Smoke Puncher: unknown
-Dark Visionary: unknown
+Dark Visionary: progression
 Dark Watch Expatriette: unknown
 Dark Watch Harpy: unknown
 Dark Watch Mister Fixer: unknown
@@ -128,7 +128,7 @@ Dr Orpheus: unknown
 Dr. Jonas: Venture Jr.: unknown
 Dr. McNinja: Desperate Partner: unknown
 Dr. Medico Malpractice: unknown
-Dr. Medico: unknown
+Dr. Medico: progression
 Dr. Venture: unknown
 Drift 1609: unknown
 Drift 1789: unknown
@@ -250,6 +250,7 @@ Hero Vulnerability (Any The Idealist): unknown
 Hero Vulnerability (Any The Naturalist): trap
 Hero Weakness (Any Expatriette): unknown
 Hero Weakness (Any Guise): trap
+Hero Weakness (Any Tempest): trap
 Heroic Infinitor: progression
 Heroic Luminary: progression
 Hexer: unknown
