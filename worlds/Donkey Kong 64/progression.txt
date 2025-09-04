@@ -14,6 +14,7 @@ Bongos: progression
 Candy: progression
 Castle Diddy Hint: useful
 Castle Donkey Hint: unknown
+Castle Lanky Hint: unknown
 Castle Tiny Hint: unknown
 Caves Diddy Hint: unknown
 Caves Lanky Hint: unknown
@@ -39,9 +40,11 @@ DK Isles Tiny Blueprint: filler
 Diddy: progression
 Diving: progression
 Donkey: progression
+Factory Donkey Hint: unknown
 Factory Lanky Hint: useful
 Fairy Camera: progression
 Feather: progression
+Forest Chunky Hint: unknown
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
@@ -53,6 +56,7 @@ Fungi Forest Donkey Blueprint: mcguffin
 Fungi Forest Lanky Blueprint: progression
 Fungi Forest Tiny Blueprint: mcguffin
 Funky: progression
+Galleon Chunky Hint: unknown
 Gloomy Galleon Chunky Blueprint: mcguffin
 Gloomy Galleon Diddy Blueprint: mcguffin
 Gloomy Galleon Donkey Blueprint: mcguffin
