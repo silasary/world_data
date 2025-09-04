@@ -1,7 +1,7 @@
 Absolution: unknown
 Abyssal Artillery: progression
-Adrenaline Rush: unknown
-Barbaric YAWP!: unknown
+Adrenaline Rush: progression
+Barbaric YAWP!: progression
 Battle Ballad: unknown
 Battle Heal: progression
 Battlefield Medicine: unknown
@@ -11,7 +11,7 @@ Blackjack: unknown
 Bleed Out: unknown
 Blindfire: progression
 Blinding Gas: unknown
-Bola: unknown
+Bola: progression
 Bolster: unknown
 Breakthrough: unknown
 Caltrops: unknown
@@ -20,10 +20,10 @@ Collect Bounty: progression
 Come Hither: unknown
 Command: unknown
 Cry Havoc: unknown
-Dazzling Light: unknown
-Defender: unknown
+Dazzling Light: progression
+Defender: progression
 Dirk Stab: unknown
-Disorienting Blast: unknown
+Disorienting Blast: progression
 Divine Comfort: unknown
 Divine Grace: progression
 Duelist's Advance: unknown
@@ -47,7 +47,7 @@ If It Bleeds: unknown
 Illumination: progression
 Incision: unknown
 Inspiring Cry: unknown
-Inspiring Tune: unknown
+Inspiring Tune: progression
 Intimidate: unknown
 Invigorating Vapours: unknown
 Judgement: unknown
@@ -106,13 +106,13 @@ Slam: unknown
 Slice Off: unknown
 Smite: unknown
 Sniper Shot: unknown
-Sniper's Mark: unknown
+Sniper's Mark: progression
 Solemnity: unknown
 Solo: unknown
 Stunning Blow: progression
 Suppressing Fire: progression
 Target Whistle: progression
-Thrown Dagger: unknown
+Thrown Dagger: progression
 Toxin Trickery: unknown
 Tracking Shot: unknown
 Uppercut: progression
