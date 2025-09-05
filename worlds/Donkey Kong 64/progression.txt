@@ -3,6 +3,8 @@ Angry Aztec Diddy Blueprint: mcguffin
 Angry Aztec Donkey Blueprint: mcguffin
 Angry Aztec Lanky Blueprint: filler
 Angry Aztec Tiny Blueprint: filler
+Aztec Diddy Hint: unknown
+Aztec Tiny Hint: unknown
 Baboon Balloon: progression
 Baboon Blast: progression
 Banana Fairy: mcguffin
@@ -17,11 +19,13 @@ Castle Donkey Hint: unknown
 Castle Lanky Hint: unknown
 Castle Tiny Hint: unknown
 Caves Diddy Hint: unknown
+Caves Donkey Hint: unknown
 Caves Lanky Hint: unknown
 Chimpy Charge: progression
 Chunky: progression
 Climbing: progression
 Coconut: progression
+Cranky: unknown
 Creepy Castle Chunky Blueprint: mcguffin
 Creepy Castle Diddy Blueprint: filler
 Creepy Castle Donkey Blueprint: mcguffin
@@ -46,7 +50,9 @@ Factory Lanky Hint: useful
 Fairy Camera: progression
 Feather: progression
 Forest Chunky Hint: unknown
+Forest Diddy Hint: unknown
 Forest Donkey Hint: unknown
+Forest Tiny Hint: unknown
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
