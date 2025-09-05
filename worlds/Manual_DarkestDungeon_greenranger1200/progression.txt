@@ -21,6 +21,7 @@ Collect Bounty: progression
 Come Hither: unknown
 Command: unknown
 Cry Havoc: unknown
+Daemon's Pull: unknown
 Dazzling Light: progression
 Defender: progression
 Dirk Stab: unknown
@@ -30,6 +31,7 @@ Divine Grace: progression
 Duelist's Advance: unknown
 Emboldening Vapours: progression
 Festering Vapours: progression
+Finale: unknown
 Finish Him: progression
 Flashbang: unknown
 Flashing Daggers: unknown
@@ -119,10 +121,12 @@ Target Whistle: progression
 Thrown Dagger: progression
 Toxin Trickery: unknown
 Tracking Shot: unknown
+Transform: unknown
 Uppercut: progression
 Vulnerability Hex: progression
 Weakening Curse: unknown
 Wicked Hack: unknown
 Wicked Slice: unknown
+Withstand: unknown
 Wyrd Reconstruction: unknown
 Zealous Accusation: unknown
