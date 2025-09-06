@@ -152,6 +152,7 @@ BlueSkull (E4M7): progression
 BlueSkull (MAP04): progression
 BlueSkull (MAP08): unknown
 BlueSkull (MAP10): progression
+BlueSkull (MAP12): unknown
 BlueSkull (MAP14): progression
 BlueSkull (MAP16): progression
 BlueSkull (MAP17): progression
@@ -600,6 +601,7 @@ RedSkull (E4M7): progression
 RedSkull (E4M8): progression
 RedSkull (MAP07): unknown
 RedSkull (MAP08): unknown
+RedSkull (MAP10): unknown
 RedSkull (MAP11): progression
 RedSkull (MAP12): progression
 RedSkull (MAP14): progression
@@ -673,6 +675,7 @@ YellowCard (MAP13): progression
 YellowCard (MAP15): progression
 YellowCard (MAP21): progression
 YellowCard (MAP22): unknown
+YellowCard (MAP23): unknown
 YellowCard (MAP26): progression
 YellowCard (MAP27): unknown
 YellowCard (MAP28): progression
@@ -694,6 +697,7 @@ YellowSkull (E4M6): progression
 YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
+YellowSkull (MAP07): unknown
 YellowSkull (MAP08): progression
 YellowSkull (MAP10): progression
 YellowSkull (MAP12): unknown
