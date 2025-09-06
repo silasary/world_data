@@ -42,12 +42,14 @@ Z: unknown
 ×2L 14,14: unknown
 ×2L 14,8: unknown
 ×2L 2,10: useful
+×2L 2,2: unknown
 ×2L 2,4: useful
 ×2L 3,11: unknown
 ×2L 4,10: unknown
 ×2L 4,4: unknown
 ×2L 5,13: unknown
 ×2L 5,5: unknown
+×2L 5,9: unknown
 ×2L 6,14: unknown
 ×2L 6,8: unknown
 ×2L 7,13: useful
@@ -106,6 +108,8 @@ Z: unknown
 ×3L 2,10: unknown
 ×3L 2,4: unknown
 ×3L 4,12: unknown
+×3L 5,1: unknown
+×3L 6,0: unknown
 ×3L 6,14: unknown
 ×3L 6,6: unknown
 ×3L 7,13: useful
