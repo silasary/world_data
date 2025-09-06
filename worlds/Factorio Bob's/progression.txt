@@ -51,6 +51,7 @@ bob-plasma-rocket: unknown
 bob-poison-bullets: unknown
 bob-poison-rocket: unknown
 bob-reinforced-wall: unknown
+bob-robot-flamethrower-drones: unknown
 bob-robot-plasma-drones: unknown
 bob-rocket: unknown
 bob-rtg: unknown
