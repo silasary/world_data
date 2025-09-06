@@ -4,7 +4,7 @@ Amulet Coin: unknown
 Antidote: filler
 Awakening: unknown
 BERRY SEARCHER: unknown
-Beacon Badge: unknown
+Beacon Badge: progression
 Bicycle: unknown
 Big Mushroom: filler
 Big Pearl: filler
@@ -51,7 +51,7 @@ Fen Badge: unknown
 Fire Stone: unknown
 Fist Plate: unknown
 Forest Badge: unknown
-Full Heal: unknown
+Full Heal: filler
 Full Incense: unknown
 Full Restore: filler
 Galactic Key: unknown
@@ -211,7 +211,7 @@ TM41: unknown
 TM43: unknown
 TM45: useful
 TM46: useful
-TM47: unknown
+TM47: filler
 TM48: filler
 TM49: unknown
 TM51: filler
@@ -257,7 +257,7 @@ Upgradable Pokédex: progression
 Vs. Recorder: filler
 Vs. Seeker: unknown
 Water Stone: useful
-Wave Incense: unknown
+Wave Incense: filler
 White Flute: unknown
 Works Key: unknown
 X Accuracy: filler
