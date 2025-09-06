@@ -1,16 +1,16 @@
 1st Station Pass: progression
-2nd Station Pass: unknown
-3rd Station Pass: unknown
+2nd Station Pass: progression
+3rd Station Pass: progression
 4th Station Pass: progression
-5th Station Pass: unknown
+5th Station Pass: progression
 6th Station Pass: progression
 7th Station Pass: progression
 8th Station Pass: progression
-9th Station Pass: unknown
+9th Station Pass: progression
 Air Blade: filler
 All-Hit Orb: filler
 All-Mach Orb: filler
-Amber Tear: filler
+Amber Tear: useful
 Amp Plains: progression
 Ancient Ring: filler
 Apple Woods: progression
@@ -20,7 +20,7 @@ Aqua Mantle: filler
 Aqua-Monica: mcguffin
 Articuno: useful
 Azelf: useful
-Bag Upgrade: useful
+Bag Upgrade: progression
 Bidoof SE: progression
 Bidoof's Wish': progression
 Bidoof's Wish: progression
@@ -38,20 +38,20 @@ Brine Cave: progression
 Brown Gummi: filler
 Calcium: filler
 Celebi: useful
-Charge Synth: progression
+Charge Synth: mcguffin
 Charity Robe: filler
 Chasm Cave: progression
-Chatot Repellent: useful
+Chatot Repellent: filler
 Cheri Berry: filler
 Chesto Berry: filler
 Chrono Veil: filler
 Cleanse Orb: filler
 Clear Gummi: filler
 Concealed Ruins: progression
-Congealed Ruins: unknown
+Congealed Ruins: trap
 Craggy Coast: progression
 Craggy Cost: trap
-Cresselia: progression
+Cresselia: useful
 Crevice Cave: progression
 Crystal Cave: progression
 Crystal Crossing: progression
@@ -63,7 +63,7 @@ Decoy Orb: filler
 Deep Dusk Forest: progression
 Defend Globe: filler
 Deluxe Box: filler
-Denched Bluff: progression
+Denched Bluff: trap
 Destiny Tower: progression
 Dialga: useful
 Dojo Dark/Fire Maze: progression
@@ -71,15 +71,15 @@ Dojo Dragon Maze: progression
 Dojo Elec/Steel Maze: progression
 Dojo Fight/Psych Maze: progression
 Dojo Final Maze: progression
-Dojo Ghast Maze: unknown
+Dojo Ghast Maze: trap
 Dojo Ghost Maze: progression
 Dojo Grass Maze: progression
 Dojo Ice/Ground Maze: progression
 Dojo Normal/Fly Maze: progression
 Dojo Poison/Bug Maze: progression
 Dojo Rock/Water Maze: progression
-Dragon Globe: useful
-Dragu-teki: progression
+Dragon Globe: filler
+Dragu-teki: mcguffin
 Drenched Bluff: progression
 Drought Orb: filler
 Dungeon DropItems: trap
@@ -98,7 +98,7 @@ Eon Veil: filler
 Escape Orb: filler
 Evasion Orb: filler
 Eyedrop Seed: filler
-Fiery Drum: progression
+Fiery Drum: mcguffin
 Fiery Globe: filler
 Fill-In Orb: filler
 Fire Veil: filler
@@ -108,7 +108,7 @@ Foe-Hold Orb: filler
 Foe-Seal Orb: filler
 Foggy Forest: progression
 Forest Path: progression
-Formation Control: useful
+Formation Control: progression
 Freeze Veil: filler
 Friend Bow: useful
 Froggy Forest: trap
@@ -117,13 +117,13 @@ Get Unowned!: trap
 Giant Volcano: progression
 Ginseng: filler
 Giratina: useful
-Glimmer Harp: progression
+Glimmer Harp: mcguffin
 Glittery Box: filler
 Gold Gummi: filler
 Golden Apple: filler
-Golden Mask: filler
-Golden Seed: useful
-Grass Cornet: progression
+Golden Mask: useful
+Golden Seed: filler
+Grass Cornet: mcguffin
 Grass Gummi: filler
 Gray Gummi: filler
 Green Gummi: filler
@@ -152,7 +152,7 @@ IgglyBuff SE: unknown
 Igglybuff the Prodigy: progression
 In the Future of Darkness: progression
 Inferno Cave: progression
-Inspiration Strikes!!: trap
+Inspiration Strikes!!: useful
 Inspiration Strikes!: trap
 Invisify Orb: filler
 Iron: filler
@@ -160,13 +160,13 @@ Itemizer Orb: filler
 Joy Globe: filler
 Joy Seed: filler
 Key: filler
-Knockout Bell: progression
+Knockout Bell: mcguffin
 Kyogre: useful
 Labyrinth Cave: progression
-Labyrinth Cove: filler
+Labyrinth Cove: trap
 Lake Afar: progression
 Landslide Cave: progression
-Liar's Lyre: unknown
+Liar's Lyre: mcguffin
 Life Ring: filler
 Life Seed: filler
 Light Box: filler
@@ -175,12 +175,12 @@ Lob Orb: filler
 Longtoss Orb: filler
 Lost Wilderness: progression
 Luminous Orb: filler
-Luminous Spring: progression
+Luminous Spring: useful
 Lunar Veil: filler
 Lush Prairie: progression
 Main Game Unlock: progression
-Manaphy: useful
-Marine Cache: progression
+Manaphy: progression
+Marine Cache: filler
 Marine Resort: progression
 Max Elixir: filler
 Mespirit: useful
@@ -194,7 +194,7 @@ Mt. Avalanche: progression
 Mt. Brinstar: trap
 Mt. Bristle: progression
 Mt. Horn: progression
-Mt. Mistral: useful
+Mt. Mistral: progression
 Mt. Travail: progression
 Mug Orb: filler
 Mystery Jungle: progression
@@ -204,12 +204,12 @@ Mystifying Forest: progression
 Nap Time!: trap
 Nectar: filler
 Nether Globe: filler
-Nether Veil: useful
+Nether Veil: filler
 Nifty Box: filler
-Norma-ccordion: progression
+Norma-ccordion: mcguffin
 Northern Desert: progression
-Null Bagpipes: progression
-Oblivion Forest: useful
+Null Bagpipes: mcguffin
+Oblivion Forest: progression
 One-Room Orb: filler
 One-Shot Orb: filler
 Oran Berry: filler
@@ -223,6 +223,7 @@ Pierce Orb: filler
 Pink Gummi: filler
 Poison Globe: filler
 Poke x-1000: filler
+Poké x-1000: trap
 Poké x1000: filler
 Poké x100: filler
 Poké x1: filler
@@ -237,7 +238,7 @@ Progressive Seal: progression
 Progressive Sky Peak: progression
 Protein: filler
 Psyche Globe: filler
-Psychic Cello: progression
+Psychic Cello: mcguffin
 Pure Seed: filler
 Purify Veil: filler
 Purple Gummi: filler
@@ -249,23 +250,23 @@ Rainbow Veil: filler
 Rainy Orb: filler
 Rare Fossil: filler
 Rawst Berry: filler
-Rayquaza: progression
+Rayquaza: useful
 Rebound Orb: filler
 Recruit Evolution: useful
 Recruitment Sensor: filler
-Recruitment: progression
-Recycle Count +10: useful
-Recycle Count +1: useful
-Recycle Count +20: useful
-Recycle Count +5: useful
+Recruitment: useful
+Recycle Count +10: filler
+Recycle Count +1: filler
+Recycle Count +20: filler
+Recycle Count +5: filler
 Red Gummi: filler
 Regice: useful
-Regigigas: progression
+Regigigas: useful
 Regirock: useful
 Registeel: useful
-Relic Fragment Shard: progression
+Relic Fragment Shard: mcguffin
 Revive Robe: filler
-Reviver Seed: useful
+Reviver Seed: filler
 Ripple Cape: filler
 Rock Globe: filler
 Rock Horn: mcguffin
@@ -274,7 +275,7 @@ Rock Sash: filler
 Rock Seal: progression
 Rocky Orb: filler
 Rollcall Orb: filler
-Royal Gummi: useful
+Royal Gummi: filler
 Sandy Orb: filler
 Scanner Orb: filler
 Seabed Veil: filler
@@ -286,7 +287,7 @@ Secret of the Waterfall: filler
 See-Trap Orb: filler
 Sentry Duty!: trap
 Serenity River: progression
-Shaymin Village: progression
+Shaymin Village: useful
 Shaymin: useful
 Shimmer Desert: progression
 Shimmer Hill: progression
@@ -314,7 +315,7 @@ Snatch Orb: filler
 Soothe Globe: filler
 Southeastern Islands: progression
 Spacial Rift: progression
-Special Rift: unknown
+Special Rift: trap
 Spectral Chimes: mcguffin
 Spurn Orb: filler
 Stairs Orb: filler
@@ -322,11 +323,11 @@ Star Cave2: progression
 Star Cave: progression
 Stayaway Orb: filler
 Steam Cave: progression
-Steamy Cave: unknown
+Steamy Cave: trap
 Steel Globe: filler
-Steel Guitar: progression
+Steel Guitar: mcguffin
 Steel Sash: filler
-Steel Seal: unknown
+Steel Seal: progression
 Stellar Symphony: mcguffin
 Stun Seed: filler
 Sunflora SE: progression
@@ -336,7 +337,7 @@ Switcher Orb: filler
 Team Charm SE: progression
 Team Name Trap: trap
 Temporal Tower: progression
-Terra Cymbal: progression
+Terra Cymbal: mcguffin
 Terra Globe: filler
 Terra Ring: filler
 The Nightmare: progression
@@ -344,7 +345,7 @@ Thunder Veil: filler
 Tidal Cape: filler
 Time Shield: filler
 Tiny Meadow: progression
-Today's "Oh My Gosh": filler
+Today's "Oh My Gosh": progression
 Totter Orb: filler
 Totter Seed: filler
 Touch Grass: trap
@@ -366,7 +367,7 @@ Warp Seed: filler
 Waterfall Cave: progression
 White Gummi: filler
 Wish Mantle: filler
-Wonder Chest: filler
+Wonder Chest: useful
 Wonder Gummi: filler
 World Abyss: progression
 X-Eye Seed: filler
@@ -375,5 +376,5 @@ Zero Isle Center: progression
 Zero Isle East: progression
 Zero Isle North: progression
 Zero Isle South: progression
-Zero Isle West: useful
+Zero Isle West: progression
 Zinc: filler
