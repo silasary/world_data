@@ -255,7 +255,7 @@ Porta Ladonna: progression
 Powerup - Amount: useful
 Powerup - Area: unknown
 Powerup - Armor: unknown
-Powerup - Charm: unknown
+Powerup - Charm: useful
 Powerup - Cooldown: unknown
 Powerup - Curse: unknown
 Powerup - Defang: unknown
@@ -353,7 +353,7 @@ Tiny Bridge: unknown
 Tiragisu: unknown
 Toastie: unknown
 Torrona's Box: unknown
-Town Sword: unknown
+Town Sword: progression
 Trevor Belmont: unknown
 Trident: unknown
 Troll Bomb: unknown
@@ -369,7 +369,7 @@ Valmanway: unknown
 Vanitas Whip: unknown
 Vento Sacro: unknown
 Vibhuti Whip: unknown
-Victory Sword: unknown
+Victory Sword: progression
 Vincent Dorin: unknown
 Vlad Tepes Dracula: progression
 Walter Bernhardt: unknown
