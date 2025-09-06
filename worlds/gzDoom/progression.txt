@@ -154,6 +154,7 @@ BlueSkull (MAP08): unknown
 BlueSkull (MAP10): progression
 BlueSkull (MAP12): unknown
 BlueSkull (MAP14): progression
+BlueSkull (MAP15): unknown
 BlueSkull (MAP16): progression
 BlueSkull (MAP17): progression
 BlueSkull (MAP18): progression
@@ -575,6 +576,7 @@ RedCard (MAP13): progression
 RedCard (MAP15): progression
 RedCard (MAP17): progression
 RedCard (MAP21): progression
+RedCard (MAP22): unknown
 RedCard (MAP23): progression
 RedCard (MAP24): progression
 RedCard (MAP25): unknown
