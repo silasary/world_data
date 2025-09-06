@@ -15,7 +15,7 @@ Burn Heal: unknown
 CALCULATOR: unknown
 CALENDAR: filler
 COIN TOSS: filler
-Calcium: unknown
+Calcium: filler
 Carbos: filler
 Cleanse Tag: unknown
 Coal Badge: progression
@@ -25,6 +25,7 @@ Coupon 1: unknown
 Coupon 2: progression
 Coupon 3: unknown
 DAY-CARE CHECKER: unknown
+DOT ARTIST: unknown
 DOWSING MACHINE: unknown
 Dawn Stone: filler
 Destiny Knot: unknown
@@ -51,6 +52,7 @@ Fire Stone: unknown
 Fist Plate: unknown
 Forest Badge: unknown
 Full Heal: unknown
+Full Incense: unknown
 Full Restore: filler
 Galactic Key: unknown
 Good Rod: unknown
@@ -92,6 +94,7 @@ Lustrous Orb: unknown
 Luxury Ball: unknown
 MARKING MAP: filler
 MATCHUP CHECKER: unknown
+MEMO PAD: unknown
 MOVE TESTER: filler
 Magmarizer: unknown
 Magnet: filler
@@ -166,6 +169,7 @@ Soft Sand: unknown
 Soothe Bell: unknown
 Spell Tag: unknown
 Splash Plate: unknown
+Spooky Plate: unknown
 Sprayduck: progression
 Star Piece: filler
 Stardust: filler
@@ -198,6 +202,7 @@ TM30: unknown
 TM31: filler
 TM32: filler
 TM34: unknown
+TM35: unknown
 TM36: unknown
 TM38: unknown
 TM39: unknown
@@ -259,7 +264,7 @@ X Accuracy: filler
 X Attack: unknown
 X Defend: unknown
 X Sp. Def: unknown
-X Special: unknown
+X Special: filler
 X Speed: filler
 Yellow Shard: unknown
 Zap Plate: unknown
