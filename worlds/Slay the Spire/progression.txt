@@ -43,7 +43,7 @@ Collector Boss Relic: progression
 Collector Card Draw: progression
 Collector Five Gold: unknown
 Collector Neutral Shop Card Slot: unknown
-Collector One Gold: unknown
+Collector One Gold: filler
 Collector Potion: unknown
 Collector Progressive Rest: progression
 Collector Progressive Shop Remove: unknown
@@ -65,6 +65,7 @@ Custom Character 1 Neutral Shop Card Slot: progression
 Custom Character 1 One Gold: filler
 Custom Character 1 Potion: useful
 Custom Character 1 Progressive Rest: progression
+Custom Character 1 Progressive Shop Remove: progression
 Custom Character 1 Progressive Smith: progression
 Custom Character 1 Rare Card Draw: progression
 Custom Character 1 Relic: progression
@@ -109,6 +110,7 @@ Custom Character 3 Shop Potion Slot: progression
 Custom Character 3 Shop Relic Slot: progression
 Custom Character 3 Unlock: progression
 Custom Character 4 15 Gold: useful
+Custom Character 4 30 Gold: useful
 Custom Character 4 30 gold: progression
 Custom Character 4 Boss Gold: progression
 Custom Character 4 Boss Relic: progression
@@ -280,13 +282,13 @@ SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
 SlimeBoss Unlock: unknown
 Snecko 15 Gold: useful
-Snecko 30 Gold: unknown
+Snecko 30 Gold: useful
 Snecko Boss Gold: progression
 Snecko Boss Relic: unknown
 Snecko Card Draw: progression
 Snecko Five Gold: unknown
 Snecko Neutral Shop Card Slot: progression
-Snecko One Gold: unknown
+Snecko One Gold: filler
 Snecko Potion: unknown
 Snecko Progressive Rest: unknown
 Snecko Progressive Shop Remove: unknown
