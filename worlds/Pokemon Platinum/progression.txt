@@ -33,7 +33,7 @@ Dire Hit: unknown
 Dive Ball: unknown
 Draco Plate: unknown
 Dread Plate: unknown
-Dubious Disc: unknown
+Dubious Disc: filler
 Dusk Ball: unknown
 Dusk Stone: useful
 Earth Plate: unknown
@@ -48,7 +48,7 @@ Explorer Kit: unknown
 FRIENDSHIP CHECKER: unknown
 Fashion Case: unknown
 Fen Badge: unknown
-Fire Stone: unknown
+Fire Stone: filler
 Fist Plate: unknown
 Forest Badge: unknown
 Full Heal: filler
@@ -73,7 +73,7 @@ Heal Ball: unknown
 Heal Powder: unknown
 Heart Scale: filler
 Honey x10: filler
-Honey x3: unknown
+Honey x3: filler
 Honey: filler
 Hyper Potion: filler
 Ice Heal: unknown
@@ -194,11 +194,11 @@ TM19: unknown
 TM21: useful
 TM23: useful
 TM24: unknown
-TM26: unknown
+TM26: filler
 TM27: filler
 TM28 Dig: unknown
 TM29: unknown
-TM30: unknown
+TM30: filler
 TM31: filler
 TM32: filler
 TM34: unknown
@@ -208,7 +208,7 @@ TM38: unknown
 TM39: unknown
 TM40: unknown
 TM41: unknown
-TM43: unknown
+TM43: filler
 TM45: useful
 TM46: useful
 TM47: filler

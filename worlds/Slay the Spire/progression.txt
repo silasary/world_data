@@ -139,6 +139,7 @@ Custom Character 5 Neutral Shop Card Slot: progression
 Custom Character 5 One Gold: filler
 Custom Character 5 Potion: useful
 Custom Character 5 Progressive Rest: progression
+Custom Character 5 Progressive Shop Remove: progression
 Custom Character 5 Progressive Smith: progression
 Custom Character 5 Rare Card Draw: progression
 Custom Character 5 Relic: progression
@@ -294,7 +295,7 @@ Snecko Five Gold: unknown
 Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: filler
 Snecko Potion: unknown
-Snecko Progressive Rest: unknown
+Snecko Progressive Rest: progression
 Snecko Progressive Shop Remove: progression
 Snecko Progressive Smith: progression
 Snecko Rare Card Draw: unknown
