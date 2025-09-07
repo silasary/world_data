@@ -75,6 +75,7 @@ Unlock Boxer Class: unknown
 Unlock Castle Gate: unknown
 Unlock Castle: unknown
 Unlock Cavern 1: unknown
+Unlock Cavern 2: unknown
 Unlock Cavern 3: progression
 Unlock Cavern 4: unknown
 Unlock Cavern 5: unknown
@@ -96,6 +97,7 @@ Unlock Grassland 7: unknown
 Unlock Gunner Class: unknown
 Unlock Hell 1: unknown
 Unlock Hell 3: unknown
+Unlock Hell 4: unknown
 Unlock Hell 5: unknown
 Unlock Hell 6: unknown
 Unlock Hell 8: unknown
@@ -111,6 +113,7 @@ Unlock Magician Class: unknown
 Unlock Mist Grove 1: unknown
 Unlock Mist Grove 2: unknown
 Unlock Mist Grove 3: unknown
+Unlock Mountain 1: unknown
 Unlock Mountain 2: unknown
 Unlock Mountaintop: unknown
 Unlock Oasis: unknown
@@ -141,6 +144,7 @@ charge chakram: unknown
 charge circle: unknown
 double arrow: unknown
 electric staff: unknown
+explosion flail: unknown
 explosion staff: unknown
 explosion whip: unknown
 fire chain: unknown
@@ -155,6 +159,7 @@ freeze whip: unknown
 homing laser beam: unknown
 homing laser wave: unknown
 ice GS: unknown
+ice circle: unknown
 ice sword: unknown
 inferno: unknown
 iron chain: unknown
@@ -170,6 +175,7 @@ poison claw: unknown
 poison flail: unknown
 poison glove: unknown
 power chakram: unknown
+power laser gun: unknown
 pyramid arrow: unknown
 quad arrow: unknown
 quick chakram: unknown
