@@ -40,6 +40,7 @@ Machine Part: progression
 Magma Stone: unknown
 Master's Mark: progression
 Max Elixir: filler
+Nugget: unknown
 PP Max: useful
 Pedometer App: filler
 Petaya Berry: filler
@@ -51,6 +52,7 @@ Red Flute: filler
 Rental Coupon 1: progression
 Rental Coupon 2: progression
 Rental Coupon 3: progression
+Roulette App: unknown
 Scope Lens: filler
 Silver Token: progression
 TM02: useful
@@ -66,3 +68,5 @@ X Sp. Def: filler
 X Special: filler
 Yellow Flute: filler
 Zinc: filler
+Zoom Lens: filler
+[EVENT] Regirock Defeated: progression
