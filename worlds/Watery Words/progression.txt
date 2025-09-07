@@ -13,7 +13,7 @@ I: progression
 K: unknown
 L: progression
 M: unknown
-N: unknown
+N: progression
 O: progression
 P: progression
 Q: unknown
@@ -50,6 +50,7 @@ Z: unknown
 ×2L 5,13: unknown
 ×2L 5,5: unknown
 ×2L 5,9: unknown
+×2L 6,0: unknown
 ×2L 6,14: unknown
 ×2L 6,8: unknown
 ×2L 7,13: useful
@@ -103,11 +104,13 @@ Z: unknown
 ×3L 12,2: unknown
 ×3L 12,4: useful
 ×3L 13,13: unknown
+×3L 13,9: unknown
 ×3L 14,0: unknown
 ×3L 14,14: progression
 ×3L 2,10: unknown
 ×3L 2,4: unknown
 ×3L 4,12: unknown
+×3L 5,13: unknown
 ×3L 5,1: unknown
 ×3L 6,0: unknown
 ×3L 6,14: unknown
@@ -145,3 +148,4 @@ Z: unknown
 ×3W 7,7: unknown
 ×3W 8,0: unknown
 ×3W 9,13: unknown
+×3W 9,9: unknown

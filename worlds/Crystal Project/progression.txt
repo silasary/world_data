@@ -1114,7 +1114,7 @@ Job - Harbinger - 84: unknown
 Job - Harmacist - 44: unknown
 Job - Hero - 96: unknown
 Job - Horologist - 43: unknown
-Job - Hunter: unknown
+Job - Hunter: progression
 Job - Hydrosophist - 31: progression
 Job - Illusionist - 41: unknown
 Job - Imperial - 74: unknown
@@ -1189,3 +1189,4 @@ Summon - Pah: unknown
 Summon - Pamoa: unknown
 Summon - Shaku: unknown
 Summon - Tira: unknown
+Trap - Dismount Trap: unknown
