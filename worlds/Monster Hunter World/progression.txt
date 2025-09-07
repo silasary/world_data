@@ -1,7 +1,7 @@
 1,000 Zenny: filler
 Ammo Loot Box: useful
 Buff Loot Box: useful
-Chance Loot Box: unknown
+Chance Loot Box: filler
 Evasion Mantle: useful
 Healing Loot Box: useful
 Impact Mantle: useful
@@ -9,8 +9,8 @@ Ingredient Loot Box: useful
 Junk Loot Box: filler
 Melding Loot Box: useful
 Progressive Armor: progression
-Progressive Weapon: unknown
-Rocksteady Mantle: unknown
-Temporal Mantle: unknown
+Progressive Weapon: progression
+Rocksteady Mantle: useful
+Temporal Mantle: useful
 Thunderproof Mantle: useful
 Trap Loot Box: useful

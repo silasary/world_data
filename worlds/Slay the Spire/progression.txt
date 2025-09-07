@@ -41,7 +41,7 @@ Collector 30 Gold: useful
 Collector Boss Gold: unknown
 Collector Boss Relic: progression
 Collector Card Draw: progression
-Collector Five Gold: unknown
+Collector Five Gold: filler
 Collector Neutral Shop Card Slot: unknown
 Collector One Gold: filler
 Collector Potion: useful
@@ -121,7 +121,7 @@ Custom Character 4 Neutral Shop Card Slot: progression
 Custom Character 4 One Gold: filler
 Custom Character 4 Potion: useful
 Custom Character 4 Progressive Rest: progression
-Custom Character 4 Progressive Shop Remove: unknown
+Custom Character 4 Progressive Shop Remove: progression
 Custom Character 4 Progressive Smith: progression
 Custom Character 4 Rare Card Draw: progression
 Custom Character 4 Relic: progression
@@ -195,7 +195,7 @@ Guardian Progressive Smith: unknown
 Guardian Rare Card Draw: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
-Guardian Shop Potion Slot: unknown
+Guardian Shop Potion Slot: useful
 Guardian Shop Relic Slot: unknown
 Guardian Unlock: unknown
 Hermit 15 Gold: filler
@@ -223,7 +223,7 @@ Hexaghost Five Gold: filler
 Hexaghost Neutral Shop Card Slot: unknown
 Hexaghost One Gold: filler
 Hexaghost Progressive Shop Remove: progression
-Hexaghost Progressive Smith: unknown
+Hexaghost Progressive Smith: progression
 Hexaghost Rare Card Draw: progression
 Hexaghost Relic: progression
 Hexaghost Shop Card Slot: useful
@@ -295,8 +295,8 @@ Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: filler
 Snecko Potion: unknown
 Snecko Progressive Rest: unknown
-Snecko Progressive Shop Remove: unknown
-Snecko Progressive Smith: unknown
+Snecko Progressive Shop Remove: progression
+Snecko Progressive Smith: progression
 Snecko Rare Card Draw: unknown
 Snecko Relic: unknown
 Snecko Shop Card Slot: progression
