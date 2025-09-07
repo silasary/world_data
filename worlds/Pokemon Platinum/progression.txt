@@ -118,7 +118,7 @@ NeverMeltIce: filler
 Nugget: filler
 Odd Incense: unknown
 Odd Keystone: progression
-Old Charm: unknown
+Old Charm: progression
 Old Gateau: unknown
 Old Rod: unknown
 Oval Stone: unknown
@@ -141,7 +141,7 @@ Potion: filler
 Protector: unknown
 Protein: filler
 Pure Incense: unknown
-Quick Ball: unknown
+Quick Ball: filler
 Quick Claw: unknown
 ROULETTE: filler
 Rare Candy: useful
