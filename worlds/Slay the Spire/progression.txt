@@ -44,7 +44,7 @@ Collector Card Draw: progression
 Collector Five Gold: unknown
 Collector Neutral Shop Card Slot: unknown
 Collector One Gold: filler
-Collector Potion: unknown
+Collector Potion: useful
 Collector Progressive Rest: progression
 Collector Progressive Shop Remove: unknown
 Collector Progressive Smith: progression
@@ -102,6 +102,7 @@ Custom Character 3 Neutral Shop Card Slot: progression
 Custom Character 3 One Gold: filler
 Custom Character 3 Potion: useful
 Custom Character 3 Progressive Rest: progression
+Custom Character 3 Progressive Shop Remove: progression
 Custom Character 3 Progressive Smith: progression
 Custom Character 3 Rare Card Draw: progression
 Custom Character 3 Relic: progression
@@ -120,6 +121,7 @@ Custom Character 4 Neutral Shop Card Slot: progression
 Custom Character 4 One Gold: filler
 Custom Character 4 Potion: useful
 Custom Character 4 Progressive Rest: progression
+Custom Character 4 Progressive Shop Remove: unknown
 Custom Character 4 Progressive Smith: progression
 Custom Character 4 Rare Card Draw: progression
 Custom Character 4 Relic: progression
@@ -176,7 +178,7 @@ Gremlins Progressive Shop Remove: progression
 Gremlins Progressive Smith: progression
 Gremlins Relic: progression
 Gremlins Shop Card Slot: progression
-Gremlins Shop Potion Slot: unknown
+Gremlins Shop Potion Slot: progression
 Gremlins Shop Relic Slot: progression
 Gremlins Unlock: unknown
 Guardian 15 Gold: unknown
@@ -221,6 +223,7 @@ Hexaghost Five Gold: filler
 Hexaghost Neutral Shop Card Slot: unknown
 Hexaghost One Gold: filler
 Hexaghost Progressive Shop Remove: progression
+Hexaghost Progressive Smith: unknown
 Hexaghost Rare Card Draw: progression
 Hexaghost Relic: progression
 Hexaghost Shop Card Slot: useful
@@ -275,7 +278,7 @@ SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
 SlimeBoss Potion: useful
 SlimeBoss Progressive Rest: unknown
-SlimeBoss Progressive Smith: unknown
+SlimeBoss Progressive Smith: progression
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Relic: progression
 SlimeBoss Shop Card Slot: progression
