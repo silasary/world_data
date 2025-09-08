@@ -65,7 +65,7 @@ HM02 Fly: progression
 HM03 Surf: unknown
 HM04 Strength: unknown
 HM05 Defog: unknown
-HM06 Rock Smash: unknown
+HM06 Rock Smash: progression
 HM07 Waterfall: progression
 HM08 Rock Climb: unknown
 HP Up: filler
@@ -113,7 +113,7 @@ Mine Badge: progression
 Moon Stone: unknown
 Mystic Water: unknown
 Nest Ball: unknown
-Net Ball: unknown
+Net Ball: filler
 NeverMeltIce: filler
 Nugget: filler
 Odd Incense: unknown
