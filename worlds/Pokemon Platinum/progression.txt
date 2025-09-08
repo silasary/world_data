@@ -62,7 +62,7 @@ Grip Claw: unknown
 Guard Spec.: filler
 HM01 Cut: unknown
 HM02 Fly: progression
-HM03 Surf: unknown
+HM03 Surf: progression
 HM04 Strength: unknown
 HM05 Defog: unknown
 HM06 Rock Smash: progression
@@ -90,7 +90,7 @@ Leftovers: filler
 Light Clay: unknown
 Luck Incense: unknown
 Lunar Wing: unknown
-Lustrous Orb: unknown
+Lustrous Orb: useful
 Luxury Ball: unknown
 MARKING MAP: filler
 MATCHUP CHECKER: unknown
@@ -193,7 +193,7 @@ TM18: unknown
 TM19: unknown
 TM21: useful
 TM23: useful
-TM24: unknown
+TM24: filler
 TM26: filler
 TM27: filler
 TM28 Dig: useful
