@@ -14,6 +14,7 @@ Barrels: progression
 Battle Crown: mcguffin
 Bongos: progression
 Candy: progression
+Castle Chunky Hint: unknown
 Castle Diddy Hint: useful
 Castle Donkey Hint: unknown
 Castle Lanky Hint: unknown
@@ -22,6 +23,7 @@ Caves Chunky Hint: unknown
 Caves Diddy Hint: useful
 Caves Donkey Hint: unknown
 Caves Lanky Hint: unknown
+Caves Tiny Hint: unknown
 Chimpy Charge: progression
 Chunky: progression
 Climbing: progression
@@ -67,6 +69,8 @@ Fungi Forest Lanky Blueprint: progression
 Fungi Forest Tiny Blueprint: mcguffin
 Funky: progression
 Galleon Chunky Hint: unknown
+Galleon Diddy Hint: unknown
+Galleon Tiny Hint: unknown
 Gloomy Galleon Chunky Blueprint: mcguffin
 Gloomy Galleon Diddy Blueprint: mcguffin
 Gloomy Galleon Donkey Blueprint: mcguffin
@@ -83,6 +87,7 @@ Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
 Japes Chunky Hint: useful
+Japes Donkey Hint: unknown
 Jungle Japes Chunky Blueprint: progression
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
