@@ -26,10 +26,10 @@ Champ Card Draw: filler
 Champ Five Gold: filler
 Champ Neutral Shop Card Slot: unknown
 Champ One Gold: filler
-Champ Potion: unknown
+Champ Potion: useful
 Champ Progressive Rest: progression
 Champ Progressive Shop Remove: progression
-Champ Progressive Smith: unknown
+Champ Progressive Smith: progression
 Champ Rare Card Draw: progression
 Champ Relic: progression
 Champ Shop Card Slot: unknown
@@ -48,7 +48,7 @@ Collector Potion: useful
 Collector Progressive Rest: progression
 Collector Progressive Shop Remove: unknown
 Collector Progressive Smith: progression
-Collector Rare Card Draw: unknown
+Collector Rare Card Draw: progression
 Collector Relic: progression
 Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
@@ -172,7 +172,7 @@ Gremlins Boss Relic: unknown
 Gremlins Card Draw: progression
 Gremlins Five Gold: filler
 Gremlins Neutral Shop Card Slot: unknown
-Gremlins One Gold: unknown
+Gremlins One Gold: filler
 Gremlins Potion: unknown
 Gremlins Progressive Rest: progression
 Gremlins Progressive Shop Remove: progression
@@ -271,7 +271,7 @@ Silent Shop Card Slot: progression
 Silent Shop Potion Slot: progression
 Silent Shop Relic Slot: progression
 Silent Unlock: progression
-SlimeBoss 15 Gold: unknown
+SlimeBoss 15 Gold: useful
 SlimeBoss 30 Gold: progression
 SlimeBoss Boss Gold: progression
 SlimeBoss Boss Relic: progression
