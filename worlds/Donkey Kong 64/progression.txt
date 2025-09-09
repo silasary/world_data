@@ -56,6 +56,7 @@ Feather: progression
 Forest Chunky Hint: unknown
 Forest Diddy Hint: unknown
 Forest Donkey Hint: unknown
+Forest Lanky Hint: unknown
 Forest Tiny Hint: unknown
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
@@ -70,6 +71,8 @@ Fungi Forest Tiny Blueprint: mcguffin
 Funky: progression
 Galleon Chunky Hint: unknown
 Galleon Diddy Hint: unknown
+Galleon Donkey Hint: unknown
+Galleon Lanky Hint: unknown
 Galleon Tiny Hint: unknown
 Gloomy Galleon Chunky Blueprint: mcguffin
 Gloomy Galleon Diddy Blueprint: mcguffin
