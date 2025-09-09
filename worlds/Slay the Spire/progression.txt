@@ -52,7 +52,7 @@ Collector Rare Card Draw: progression
 Collector Relic: progression
 Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
-Collector Shop Relic Slot: unknown
+Collector Shop Relic Slot: progression
 Collector Unlock: progression
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
@@ -130,6 +130,7 @@ Custom Character 4 Shop Potion Slot: progression
 Custom Character 4 Shop Relic Slot: progression
 Custom Character 4 Unlock: progression
 Custom Character 5 15 Gold: useful
+Custom Character 5 30 Gold: useful
 Custom Character 5 30 gold: progression
 Custom Character 5 Boss Gold: progression
 Custom Character 5 Boss Relic: progression
@@ -183,7 +184,7 @@ Gremlins Shop Potion Slot: progression
 Gremlins Shop Relic Slot: progression
 Gremlins Unlock: unknown
 Guardian 15 Gold: unknown
-Guardian 30 Gold: unknown
+Guardian 30 Gold: useful
 Guardian Boss Gold: unknown
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
@@ -293,7 +294,7 @@ Snecko 30 Gold: useful
 Snecko Boss Gold: progression
 Snecko Boss Relic: unknown
 Snecko Card Draw: progression
-Snecko Five Gold: unknown
+Snecko Five Gold: filler
 Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: filler
 Snecko Potion: unknown
