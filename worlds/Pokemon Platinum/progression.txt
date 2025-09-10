@@ -9,7 +9,7 @@ Bicycle: unknown
 Big Mushroom: filler
 Big Pearl: filler
 Big Root: unknown
-Black Flute: unknown
+Black Flute: filler
 Blue Shard: filler
 Burn Heal: unknown
 CALCULATOR: unknown
@@ -55,7 +55,7 @@ Forest Badge: unknown
 Full Heal: filler
 Full Incense: unknown
 Full Restore: filler
-Galactic Key: unknown
+Galactic Key: progression
 Good Rod: unknown
 Great Ball: filler
 Green Shard: filler
@@ -77,7 +77,7 @@ Honey x10: filler
 Honey x3: filler
 Honey: filler
 Hyper Potion: filler
-Ice Heal: unknown
+Ice Heal: filler
 Icicle Badge: unknown
 Icicle Plate: unknown
 Insect Plate: progression
@@ -120,7 +120,7 @@ Nugget: filler
 Odd Incense: unknown
 Odd Keystone: progression
 Old Charm: progression
-Old Gateau: unknown
+Old Gateau: filler
 Old Rod: unknown
 Oval Stone: unknown
 PEDOMETER: filler
@@ -137,13 +137,13 @@ Poké Ball x5: filler
 Poké Ball: filler
 Poké Doll: unknown
 Poké Radar: filler
-Pokétch: unknown
+Pokétch: progression
 Potion: filler
 Protector: unknown
 Protein: filler
 Pure Incense: unknown
 Quick Ball: filler
-Quick Claw: unknown
+Quick Claw: useful
 ROULETTE: filler
 Rare Candy: useful
 Razor Claw: filler
@@ -157,7 +157,7 @@ Revival Herb: filler
 Revive: filler
 Rock Incense: filler
 Rose Incense: unknown
-Running Shoes: unknown
+Running Shoes: useful
 Sea Incense: filler
 Seal Case: unknown
 SecretPotion: progression
@@ -167,7 +167,7 @@ SilverPowder: unknown
 Sky Plate: unknown
 Smoke Ball: unknown
 Soft Sand: unknown
-Soothe Bell: unknown
+Soothe Bell: useful
 Spell Tag: unknown
 Splash Plate: unknown
 Spooky Plate: unknown
@@ -183,7 +183,7 @@ TM01: useful
 TM02: unknown
 TM03: unknown
 TM05: unknown
-TM06: unknown
+TM06: useful
 TM07: filler
 TM09: unknown
 TM11: unknown
@@ -202,7 +202,7 @@ TM29: unknown
 TM30: filler
 TM31: filler
 TM32: filler
-TM34: unknown
+TM34: useful
 TM35: unknown
 TM36: filler
 TM38: unknown
@@ -226,7 +226,7 @@ TM63: unknown
 TM65: unknown
 TM66: unknown
 TM67: unknown
-TM69: unknown
+TM69: useful
 TM70 Flash: unknown
 TM71: unknown
 TM72: unknown
@@ -267,6 +267,6 @@ X Defend: unknown
 X Sp. Def: unknown
 X Special: filler
 X Speed: filler
-Yellow Shard: unknown
-Zap Plate: unknown
+Yellow Shard: filler
+Zap Plate: useful
 Zinc: filler

@@ -800,7 +800,7 @@ Item - Adventure sword LV3 part - 340: unknown
 Item - Adventure sword LV4 part - 345: useful
 Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
-Item - Ancient Reservoir Map: unknown
+Item - Ancient Reservoir Map: useful
 Item - Ancient Reservoir Pass: progression
 Item - Ancient Tablet A: progression
 Item - Ancient Tablet B: unknown
@@ -810,7 +810,7 @@ Item - Ascendent Shard - 360: unknown
 Item - Babel Quintar: unknown
 Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
-Item - Beaurior Rock Map: unknown
+Item - Beaurior Rock Map: useful
 Item - Beaurior Rock Pass: unknown
 Item - Beaurior Volcano Map: unknown
 Item - Beaurior Volcano Pass: unknown
@@ -823,14 +823,14 @@ Item - Boss Key: unknown
 Item - Buffalo Amulete - 350: unknown
 Item - Callisto Stone: unknown
 Item - Canopy Key: unknown
-Item - Capital Courtyard Map: unknown
+Item - Capital Courtyard Map: useful
 Item - Capital Jail Map: unknown
 Item - Capital Jail Pass: progression
 Item - Capital Pipeline Map: useful
 Item - Capital Pipeline Pass: progression
 Item - Capital Sequoia Map: unknown
 Item - Capital Sequoia Pass: unknown
-Item - Castle Ramparts Map: unknown
+Item - Castle Ramparts Map: useful
 Item - Castle Ramparts Pass: progression
 Item - Castle Sequoia Map: useful
 Item - Castle Sequoia Pass: progression
@@ -877,7 +877,7 @@ Item - Ferry Pass: progression
 Item - Fire Stone - 367: unknown
 Item - Flimsy Rod: unknown
 Item - Fly Lure: unknown
-Item - Flyer's Crag Map: unknown
+Item - Flyer's Crag Map: useful
 Item - Flyer's Crag Pass: unknown
 Item - Flyer's Lookout Map: unknown
 Item - Flyers Crag Map: unknown
@@ -910,11 +910,11 @@ Item - Jidamba Key Ring: unknown
 Item - Jidamba Tangle Map: useful
 Item - Jidamba Tangle Pass: unknown
 Item - Jigging Lure: filler
-Item - Jojo Sewers Map: unknown
+Item - Jojo Sewers Map: useful
 Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
 Item - Lake Delende Pass: progression
-Item - Land's End Map: unknown
+Item - Land's End Map: useful
 Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
 Item - Leaf Stone - 370: progression
@@ -932,12 +932,12 @@ Item - Moon Stone - 369: progression
 Item - Nans Cocoa: filler
 Item - Nans Secret Recipe: filler
 Item - Nans Stew: filler
-Item - Neptune Shrine Map: unknown
+Item - Neptune Shrine Map: useful
 Item - Neptune Shrine Pass: progression
 Item - Neptune Stone: progression
 Item - New World Stone: unknown
 Item - North Lookout Token: progression
-Item - Northern Cave Map: unknown
+Item - Northern Cave Map: useful
 Item - Northern Cave Pass: unknown
 Item - Northern Stretch Map: useful
 Item - Northern Stretch Pass: unknown
@@ -946,12 +946,12 @@ Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
 Item - Okimoto N.S. Pass: unknown
 Item - Old World Stone: unknown
-Item - Overpass Map: unknown
+Item - Overpass Map: useful
 Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
 Item - Pearl of the Seas - 358: unknown
 Item - Plug Lure: filler
-Item - Poko Poko Desert Map: unknown
+Item - Poko Poko Desert Map: useful
 Item - Poko Poko Desert Pass: unknown
 Item - Poseidon Shrine Map: unknown
 Item - Poseidon Stone: unknown
@@ -967,42 +967,42 @@ Item - Progressive Salmon Violin: progression
 Item - Proving Meadows Map: useful
 Item - Proving Meadows Pass: unknown
 Item - Pyramid Key: progression
-Item - Quintar Mausoleum Map: unknown
+Item - Quintar Mausoleum Map: useful
 Item - Quintar Mausoleum Pass: unknown
 Item - Quintar Nest Map: unknown
 Item - Quintar Nest Pass: progression
-Item - Quintar Reserve Map: unknown
+Item - Quintar Reserve Map: useful
 Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
 Item - Quintar Sanctum Pass: unknown
 Item - Rampart Key: progression
 Item - Rations - 334: unknown
 Item - Red Door Key: unknown
-Item - River Cat's Ego Map: unknown
+Item - River Cat's Ego Map: useful
 Item - River Cats Ego Map: unknown
-Item - Rolling Quintar Fields Map: unknown
+Item - Rolling Quintar Fields Map: useful
 Item - Rolling Quintar Fields Pass: unknown
 Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
 Item - STEM WARD: progression
-Item - Salmon Bay Map: unknown
+Item - Salmon Bay Map: useful
 Item - Salmon Bay Pass: progression
-Item - Salmon Pass Map: unknown
+Item - Salmon Pass Map: useful
 Item - Salmon Pass Pass: unknown
-Item - Salmon River Map: unknown
+Item - Salmon River Map: useful
 Item - Salmon River Pass: unknown
 Item - Sara Sara Bazaar Map: useful
 Item - Sara Sara Bazaar Pass: unknown
 Item - Sara Sara Beach East Pass: unknown
-Item - Sara Sara Beach Map: unknown
+Item - Sara Sara Beach Map: useful
 Item - Sara Sara Beach West Pass: unknown
 Item - Scroll: filler
-Item - Seaside Cliffs Map: unknown
+Item - Seaside Cliffs Map: useful
 Item - Seaside Cliffs Pass: unknown
 Item - Sequoia Athenaeum Map: unknown
 Item - Sequoia Athenaeum Pass: progression
 Item - Shiny Stone - 372: unknown
-Item - Shoudu Province Map: unknown
+Item - Shoudu Province Map: useful
 Item - Shoudu Province Pass: unknown
 Item - Shoudu Stew: unknown
 Item - Shoudu Waterfront Pass: unknown
@@ -1010,13 +1010,13 @@ Item - Silver Dust: useful
 Item - Silver Ingot: useful
 Item - Silver Ore: useful
 Item - Skeleton Key: progression
-Item - Skumparadise Map: unknown
+Item - Skumparadise Map: useful
 Item - Skumparadise Pass: unknown
 Item - Slip Glide Ride Key Ring: unknown
-Item - Slip Glide Ride Map: unknown
+Item - Slip Glide Ride Map: useful
 Item - Slip Glide Ride Pass: unknown
 Item - Small Key: unknown
-Item - Soiled Den Map: unknown
+Item - Soiled Den Map: useful
 Item - Soiled Den Pass: unknown
 Item - Sour Pop Candy: filler
 Item - South Wing Key: progression
@@ -1030,7 +1030,7 @@ Item - Sun Stone - 368: progression
 Item - Super Rod: useful
 Item - Sweet Pop Candy: filler
 Item - Tall Tall Heights Map: unknown
-Item - Tall, Tall Heights Map: unknown
+Item - Tall, Tall Heights Map: useful
 Item - Tall, Tall Heights Pass: progression
 Item - Tarot Box - 373: unknown
 Item - The Chalice of Tar Map: unknown
@@ -1039,9 +1039,9 @@ Item - The Deep Sea Map: useful
 Item - The Deep Sea Pass: unknown
 Item - The Depths Map: useful
 Item - The Depths Pass: unknown
-Item - The New World Map: unknown
+Item - The New World Map: useful
 Item - The New World Pass: unknown
-Item - The Old World Map: unknown
+Item - The Old World Map: useful
 Item - The Old World Pass: progression
 Item - The Open Sea Map: unknown
 Item - The Open Sea Pass: unknown
@@ -1063,9 +1063,9 @@ Item - Treasure map #1 - 351: filler
 Item - Treasure map #2 - 352: unknown
 Item - Treasure map #6 - 356: unknown
 Item - Treasure map #7 - 357: unknown
-Item - Trial Caves Map: unknown
+Item - Trial Caves Map: useful
 Item - Triton Stone: unknown
-Item - Underpass Map: unknown
+Item - Underpass Map: useful
 Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
 Item - Viridian Book: unknown

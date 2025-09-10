@@ -7,8 +7,8 @@
 1-7: unknown
 1-8: unknown
 1-9: unknown
-2-10: unknown
-2-1: unknown
+2-10: progression
+2-1: progression
 2-2: unknown
 2-3: unknown
 2-4: unknown
@@ -24,7 +24,7 @@
 3-5: unknown
 3-6: progression
 3-7: unknown
-3-8: unknown
+3-8: progression
 3-9: unknown
 4-10: unknown
 4-1: unknown
@@ -46,9 +46,9 @@
 5-7: unknown
 5-8: progression
 5-9: unknown
-6-10: unknown
+6-10: progression
 6-1: unknown
-6-2: unknown
+6-2: progression
 6-3: unknown
 6-4: unknown
 6-5: unknown
@@ -74,7 +74,7 @@
 8-5: progression
 8-6: unknown
 8-7: unknown
-8-8: unknown
+8-8: progression
 8-9: unknown
 9-1: unknown
 9-2: progression
@@ -87,7 +87,7 @@
 9-9: unknown
 Air Dash: unknown
 Back Truck: unknown
-Brake: unknown
+Brake: useful
 Disrespected Blink: unknown
 Double Jump: useful
 Epic Mode: unknown
