@@ -2,6 +2,7 @@
 1 Puzzle Piece: mcguffin
 1 Rotate Trap: trap
 1 Swap Trap: trap
+10 Fake Puzzle Pieces: unknown
 10 Puzzle Pieces: progression
 10 Rotate Traps: unknown
 10 Swap Traps: trap
