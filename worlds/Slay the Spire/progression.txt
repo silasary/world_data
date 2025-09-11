@@ -10,7 +10,7 @@ Automaton Potion: unknown
 Automaton Progressive Rest: progression
 Automaton Progressive Shop Remove: progression
 Automaton Progressive Smith: progression
-Automaton Rare Card Draw: unknown
+Automaton Rare Card Draw: progression
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
 Automaton Shop Potion Slot: useful
@@ -24,7 +24,7 @@ Champ Boss Gold: unknown
 Champ Boss Relic: progression
 Champ Card Draw: filler
 Champ Five Gold: filler
-Champ Neutral Shop Card Slot: unknown
+Champ Neutral Shop Card Slot: useful
 Champ One Gold: filler
 Champ Potion: useful
 Champ Progressive Rest: progression
@@ -226,7 +226,7 @@ Hexaghost Card Draw: progression
 Hexaghost Five Gold: filler
 Hexaghost Neutral Shop Card Slot: unknown
 Hexaghost One Gold: filler
-Hexaghost Progressive Rest: unknown
+Hexaghost Progressive Rest: progression
 Hexaghost Progressive Shop Remove: progression
 Hexaghost Progressive Smith: progression
 Hexaghost Rare Card Draw: progression
@@ -282,7 +282,7 @@ SlimeBoss Five Gold: filler
 SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
 SlimeBoss Potion: useful
-SlimeBoss Progressive Rest: unknown
+SlimeBoss Progressive Rest: progression
 SlimeBoss Progressive Smith: progression
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Relic: progression
