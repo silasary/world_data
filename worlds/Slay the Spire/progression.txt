@@ -1,7 +1,7 @@
 Automaton 15 Gold: useful
 Automaton 30 Gold: useful
 Automaton Boss Gold: unknown
-Automaton Boss Relic: unknown
+Automaton Boss Relic: progression
 Automaton Card Draw: progression
 Automaton Five Gold: filler
 Automaton Neutral Shop Card Slot: progression
@@ -32,7 +32,7 @@ Champ Progressive Shop Remove: progression
 Champ Progressive Smith: progression
 Champ Rare Card Draw: progression
 Champ Relic: progression
-Champ Shop Card Slot: unknown
+Champ Shop Card Slot: progression
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
 Champ Unlock: progression
@@ -173,7 +173,7 @@ Gremlins Boss Gold: unknown
 Gremlins Boss Relic: unknown
 Gremlins Card Draw: progression
 Gremlins Five Gold: filler
-Gremlins Neutral Shop Card Slot: unknown
+Gremlins Neutral Shop Card Slot: progression
 Gremlins One Gold: filler
 Gremlins Potion: unknown
 Gremlins Progressive Rest: progression
