@@ -219,7 +219,7 @@ Hermit Shop Card Slot: progression
 Hermit Shop Potion Slot: progression
 Hermit Shop Relic Slot: progression
 Hermit Unlock: progression
-Hexaghost 15 Gold: unknown
+Hexaghost 15 Gold: useful
 Hexaghost 30 Gold: useful
 Hexaghost Boss Relic: unknown
 Hexaghost Card Draw: progression
@@ -283,6 +283,7 @@ SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
 SlimeBoss Potion: useful
 SlimeBoss Progressive Rest: progression
+SlimeBoss Progressive Shop Remove: unknown
 SlimeBoss Progressive Smith: progression
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Relic: progression
