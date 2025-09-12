@@ -4,6 +4,7 @@ Amulet Coin: filler
 Antidote: filler
 Awakening: filler
 BERRY SEARCHER: unknown
+Bag: unknown
 Beacon Badge: progression
 Bicycle: unknown
 Big Mushroom: filler
@@ -15,8 +16,10 @@ Burn Heal: unknown
 CALCULATOR: unknown
 CALENDAR: filler
 COIN TOSS: filler
+COUNTER: unknown
 Calcium: filler
 Carbos: filler
+Charcoal: unknown
 Cleanse Tag: unknown
 Coal Badge: progression
 Cobble Badge: unknown
@@ -86,6 +89,7 @@ Iron: filler
 Journal: useful
 King’s Rock: unknown
 LINK SEARCHER: unknown
+Lagging Tail: unknown
 Leaf Stone: useful
 Leftovers: filler
 Light Clay: unknown
@@ -195,6 +199,7 @@ TM19: unknown
 TM21: useful
 TM23: useful
 TM24: filler
+TM25: unknown
 TM26: filler
 TM27: filler
 TM28 Dig: useful
@@ -253,6 +258,7 @@ TinyMushroom: filler
 Town Map: unknown
 Toxic Plate: progression
 Ultra Ball: useful
+Unown File: unknown
 Up-Grade: filler
 Upgradable Pokédex: progression
 Vs. Recorder: filler
