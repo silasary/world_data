@@ -43,7 +43,7 @@ Dusk Stone: useful
 Earth Plate: unknown
 Electirizer: unknown
 Elixir: filler
-Energy Root: unknown
+Energy Root: filler
 EnergyPowder: filler
 Escape Rope: filler
 Ether: unknown
@@ -183,6 +183,7 @@ Suite Key: useful
 Sun Stone: filler
 Super Potion: filler
 Super Repel: filler
+Super Rod: unknown
 TM01: useful
 TM02: unknown
 TM03: unknown

@@ -2,7 +2,7 @@
 1110 Gil: unknown
 12350 Gil: unknown
 1250 Gil: unknown
-1300 Gil: unknown
+1300 Gil: useful
 13450 Gil: unknown
 1385 Gil: unknown
 1450 Gil: unknown
@@ -15,6 +15,7 @@
 5450 Gil: unknown
 575 Gil: unknown
 7340 Gil: unknown
+7690 Gil: unknown
 7900 Gil: unknown
 8135 Gil: unknown
 9500 Gil: unknown
@@ -27,10 +28,12 @@ Copper Armlet: unknown
 Cottage: unknown
 Diamond Armlet: unknown
 Diamond Armor: unknown
+Flame Mail: unknown
 Giant's Gloves: unknown
 Gold Needle: unknown
 Leather Cap: unknown
 Masamune: unknown
+Mythril Helm: unknown
 Mythril Knife: unknown
 Mythril Shield: unknown
 Phoenix Down: unknown
