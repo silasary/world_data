@@ -1,16 +1,16 @@
 Aquas - Checkpoint: unknown
 Aquas - Red Path: progression
-Aquas: unknown
+Aquas: progression
 Area 6 - Checkpoint: useful
 Area 6 - Red Path: progression
 Area 6: unknown
 Bolse - Blue Path: progression
-Bolse: unknown
+Bolse: progression
 Bomb: filler
 Corneria - Blue Path: progression
 Corneria - Checkpoint: unknown
 Corneria - Red Path: progression
-Corneria: unknown
+Corneria: progression
 Fortuna - Blue Path: progression
 Fortuna - Yellow Path: progression
 Fortuna: unknown
@@ -30,6 +30,7 @@ Sector X - Blue Path: progression
 Sector X - Checkpoint: unknown
 Sector X - Warp Path: progression
 Sector X - Yellow Path: progression
+Sector X: progression
 Sector Y - Checkpoint: unknown
 Sector Y - Red Path: progression
 Sector Y - Yellow Path: progression
@@ -45,6 +46,7 @@ Titania - Blue Path: progression
 Titania - Checkpoint: unknown
 Titania: unknown
 Venom 1 - Checkpoint: unknown
+Venom: progression
 Zoness - Red Path: progression
 Zoness - Yellow Path: progression
 Zoness: unknown

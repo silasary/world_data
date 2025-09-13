@@ -19,6 +19,7 @@ bob-deuterium-fuel-cell-2: unknown
 bob-deuterium-processing: unknown
 bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
+bob-electric-rocket: unknown
 bob-explosive-artillery-shells: unknown
 bob-fertiliser: unknown
 bob-fire-artillery-shells: unknown
@@ -47,12 +48,14 @@ bob-nitrogen-processing: unknown
 bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
+bob-plasma-bullets: unknown
 bob-plasma-rocket: unknown
 bob-poison-bullets: unknown
 bob-poison-mine: unknown
 bob-poison-rocket: unknown
 bob-reinforced-wall: unknown
 bob-robot-flamethrower-drones: unknown
+bob-robot-gun-drones: unknown
 bob-robot-plasma-drones: unknown
 bob-rocket: unknown
 bob-rtg: unknown
@@ -194,7 +197,9 @@ progressive-wall: unknown
 progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
 progressive-worker-robots-storage: unknown
+rocket-fuel: unknown
 steel-processing: unknown
 sulfur-processing: unknown
+uranium-ammo: unknown
 uranium-mining: unknown
 uranium-processing: unknown
