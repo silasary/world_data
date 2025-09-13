@@ -6,6 +6,7 @@ bob-acid-bullets: unknown
 bob-acid-rocket: unknown
 bob-advanced-research: unknown
 bob-alien-blue-research: unknown
+bob-alien-green-research: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: unknown
 bob-alien-red-research: unknown
@@ -61,6 +62,7 @@ bob-rocket: unknown
 bob-rtg: unknown
 bob-scatter-cannon-shells: unknown
 bob-shotgun-acid-shells: unknown
+bob-shotgun-ap-shells: unknown
 bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
 bob-shotgun-plasma-shells: unknown
