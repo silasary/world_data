@@ -126,6 +126,7 @@ BlueCard (MAP11): progression
 BlueCard (MAP12): progression
 BlueCard (MAP13): progression
 BlueCard (MAP15): progression
+BlueCard (MAP16): unknown
 BlueCard (MAP17): progression
 BlueCard (MAP20): progression
 BlueCard (MAP22): unknown
@@ -709,6 +710,7 @@ YellowSkull (E4M6): progression
 YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
+YellowSkull (MAP04): unknown
 YellowSkull (MAP07): unknown
 YellowSkull (MAP08): progression
 YellowSkull (MAP10): progression
@@ -724,6 +726,7 @@ YellowSkull (MAP21): progression
 YellowSkull (MAP23): progression
 YellowSkull (MAP27): progression
 YellowSkull (MAP28): progression
+YellowSkull (MAP31): unknown
 YellowSkull (MAP32): progression
 Zorch Propulsor: progression
 ZorchPack: filler
