@@ -66,6 +66,7 @@ bob-shotgun-acid-shells: unknown
 bob-shotgun-ap-shells: unknown
 bob-shotgun-electric-shells: unknown
 bob-shotgun-explosive-shells: unknown
+bob-shotgun-flame-shells: unknown
 bob-shotgun-plasma-shells: unknown
 bob-shotgun-poison-shells: unknown
 bob-shotgun-shells: unknown
