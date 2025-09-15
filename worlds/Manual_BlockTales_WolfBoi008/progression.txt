@@ -1,49 +1,49 @@
-ATK-FX-B: unknown
-ATK-FX-G: unknown
-Apple: unknown
+ATK-FX-B: filler
+ATK-FX-G: filler
+Apple: filler
 Applesauce: filler
 BUX: useful
-Baked Whale: unknown
+Baked Whale: useful
 Blackrock Castle Key: progression
 Blackrock Diner Key: progression
 Bomb: useful
 Call: Gorilla: useful
-Call: Red n' Blue: unknown
+Call: Red n' Blue: useful
 Charge DEF: useful
 Charge: useful
-Cherry: unknown
-Chocolate Ice Cream: unknown
+Cherry: filler
+Chocolate Ice Cream: filler
 Clownfish Fillet: filler
-Comatose: unknown
+Comatose: useful
 Compost: useful
 Cookie Dough: filler
 Cookie: filler
-Defend+: unknown
+Defend+: useful
 Dizzy Dial: filler
-Dust: unknown
+Dust: progression
 Dynamite: progression
-Feel Fine: unknown
+Feel Fine: useful
 First Aid Kit: useful
 Free Fire: useful
 Free Ice: filler
-Free Poison: unknown
+Free Poison: filler
 Ghost Potion: progression
 Ghostwalker: mcguffin
 HP Drain: useful
 HP Finder: filler
 HP+: useful
 Hot Chocolate: filler
-Infect: unknown
+Infect: useful
 Item+: useful
 Jasmine Tea: filler
 Jeep Keys: progression
-Jellyfish: unknown
+Jellyfish: filler
 Jumbo Ice Cream: filler
-Launcher: unknown
-Lemon: unknown
-Macaron: unknown
-Malay Spongecake: unknown
-Minimize: unknown
+Launcher: useful
+Lemon: filler
+Macaron: filler
+Malay Spongecake: filler
+Minimize: useful
 Mysterious Bottle: progression
 Next Fight, Double Pain: trap
 Next Fight, Gusto: trap
@@ -56,12 +56,12 @@ Next Fight, Thrill Seeker: trap
 Next Fight, Tick Tock: trap
 Orange Juice: filler
 Poison Cake: filler
-Power Stab: unknown
+Power Stab: useful
 Raw Turkey: progression
 Resurrect: useful
 Rocket Boots: progression
 Seahorse Kebab: filler
-Seahorse: unknown
+Seahorse: filler
 Shrinking: progression
 Slow Go: filler
 Snowball: useful
@@ -74,6 +74,6 @@ Tea: filler
 Tickle Stick: filler
 Train Ticket: progression
 Training Wheels: useful
-Trout: unknown
+Trout: filler
 Whale: useful
 Wooden Sword: progression
