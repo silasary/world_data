@@ -1,6 +1,7 @@
 1020 Gil: unknown
 1045 Gil: unknown
 1110 Gil: unknown
+1150 Gil: unknown
 1155 Gil: unknown
 12350 Gil: unknown
 1250 Gil: unknown
@@ -16,9 +17,11 @@
 330 Gil: unknown
 3400 Gil: unknown
 4150 Gil: unknown
+5000 Gil: unknown
 5450 Gil: unknown
 5454 Gil: unknown
 575 Gil: unknown
+700 Gil: unknown
 7340 Gil: unknown
 7690 Gil: unknown
 7900 Gil: unknown
@@ -39,8 +42,10 @@ Flame Mail: unknown
 Gauntlets: unknown
 Giant's Gloves: unknown
 Gold Needle: unknown
+Great Sword: unknown
 Hi-Potion: unknown
 Leather Cap: unknown
+Mage's Staff: unknown
 Masamune: unknown
 Mythril Helm: unknown
 Mythril Knife: unknown
