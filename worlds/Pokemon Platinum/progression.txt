@@ -92,6 +92,7 @@ LINK SEARCHER: unknown
 Lagging Tail: unknown
 Leaf Stone: useful
 Leftovers: filler
+Life Orb: filler
 Light Clay: filler
 Luck Incense: filler
 Lunar Wing: unknown
@@ -127,7 +128,7 @@ Odd Keystone: progression
 Old Charm: progression
 Old Gateau: filler
 Old Rod: unknown
-Oval Stone: unknown
+Oval Stone: filler
 PEDOMETER: filler
 POKéMON HISTORY: unknown
 POKéMON LIST: unknown
@@ -150,6 +151,7 @@ Pure Incense: unknown
 Quick Ball: filler
 Quick Claw: useful
 ROULETTE: filler
+Rabuta Berry: unknown
 Rare Candy: useful
 Razor Claw: filler
 Razor Fang: filler
@@ -179,6 +181,7 @@ Spooky Plate: unknown
 Sprayduck: progression
 Star Piece: filler
 Stardust: filler
+Sticky Barb: unknown
 Stone Plate: unknown
 Suite Key: useful
 Sun Stone: filler
@@ -216,6 +219,7 @@ TM38: unknown
 TM39: filler
 TM40: unknown
 TM41: unknown
+TM42: filler
 TM43: filler
 TM45: useful
 TM46: useful

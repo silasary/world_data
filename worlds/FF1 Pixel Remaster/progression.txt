@@ -3,6 +3,7 @@
 1110 Gil: unknown
 1150 Gil: unknown
 1155 Gil: unknown
+1180 Gil: filler
 12350 Gil: unknown
 1250 Gil: unknown
 1300 Gil: useful
@@ -27,14 +28,15 @@
 7900 Gil: unknown
 8135 Gil: unknown
 9500 Gil: unknown
-9900 Gil: unknown
+9900 Gil: filler
 Adamantite: unknown
 Aegis Shield: unknown
 Antidote: unknown
 Canoe: unknown
 Chime: unknown
 Copper Armlet: unknown
-Cottage: unknown
+Cottage: filler
+Crown: progression
 Diamond Armlet: unknown
 Diamond Armor: unknown
 Diamond Gloves: unknown
@@ -60,7 +62,7 @@ Ribbon: unknown
 Ship: unknown
 Silver Armlet: unknown
 Sleeping Bag: unknown
-Staff: unknown
+Staff: filler
 Sun Blade: unknown
 Tent: unknown
 Warp Cube: unknown
