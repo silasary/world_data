@@ -17,11 +17,13 @@ bob-bullets: unknown
 bob-ceramics: unknown
 bob-cobalt-processing: unknown
 bob-deuterium-fuel-cell-2: unknown
+bob-deuterium-fuel-reprocessing: unknown
 bob-deuterium-processing: unknown
 bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
 bob-electric-rocket: unknown
 bob-explosive-artillery-shells: unknown
+bob-explosive-rocket: unknown
 bob-fertiliser: unknown
 bob-fire-artillery-shells: unknown
 bob-fluid-barrel-processing: unknown
@@ -79,6 +81,7 @@ bob-thorium-plutonium-fuel-cell: unknown
 bob-thorium-processing: unknown
 bob-titanium-processing: unknown
 bob-tungsten-processing: unknown
+bob-vehicle-belt-immunity-equipment: unknown
 bob-vehicle-engine-equipment: unknown
 bob-vehicle-motor-equipment: unknown
 bob-void-fluid: unknown
