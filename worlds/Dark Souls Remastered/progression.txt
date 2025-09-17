@@ -2,7 +2,7 @@ Abyss Greatsword: useful
 Alluring Skull: filler
 Anklet of the Great Lord: useful
 Annex Key: progression
-Antiquated Dress: unknown
+Antiquated Dress: useful
 Antiquated Gloves: filler
 Antiquated Skirt: useful
 Archive Prison Extra Key: progression
@@ -53,7 +53,7 @@ Black Manchette: useful
 Black Separation Crystal: filler
 Black Sorcerer Boots: useful
 Black Sorcerer Gauntlets: unknown
-Black Sorcerer Hat: unknown
+Black Sorcerer Hat: useful
 Black Tights: filler
 Blacksmith Hammer: useful
 Blighttown Key: progression
@@ -228,7 +228,7 @@ Gauntlets of the Vanquisher: useful
 Ghost Blade: useful
 Giant Armor: filler
 Giant Gauntlets: useful
-Giant Helm: unknown
+Giant Helm: useful
 Giant Leggings: unknown
 Giant Shield: filler
 Giant's Halberd: filler
@@ -239,7 +239,7 @@ Gold-Hemmed Black Cloak: unknown
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: filler
 Gold-Hemmed Black Skirt: unknown
-Golem Armor: unknown
+Golem Armor: useful
 Golem Axe: useful
 Golem Gauntlets: unknown
 Golem Helm: filler
@@ -303,7 +303,7 @@ Hornet Ring: unknown
 Humanity: useful
 Iaito: unknown
 Indictment: filler
-Iron Bracelet: unknown
+Iron Bracelet: useful
 Iron Helm: filler
 Iron Leggings: useful
 Iron Round Shield: unknown
@@ -364,7 +364,7 @@ Mask of Velka: unknown
 Mask of the Child: unknown
 Mask of the Father: useful
 Mask of the Mother: unknown
-Mask of the Sealer: unknown
+Mask of the Sealer: useful
 Master Key: progression
 Miracle: Bountiful Sunlight: useful
 Miracle: Darkmoon Blade: filler
@@ -416,7 +416,7 @@ Painting Guardian Waistcloth: unknown
 Paladin Armor: unknown
 Paladin Gauntlets: unknown
 Paladin Leggings: filler
-Parrying Dagger: unknown
+Parrying Dagger: useful
 Partizan: unknown
 Peculiar Doll: progression
 Pendant: progression
@@ -462,7 +462,7 @@ Red Tearstone Ring: unknown
 Red Titanite Chunk: useful
 Red Titanite Slab: useful
 Red and White Round Shield: filler
-Reinforced Club: unknown
+Reinforced Club: filler
 Repair Powder: filler
 Repairbox: useful
 Residence Key: useful
@@ -571,7 +571,7 @@ Steel Helm: unknown
 Steel Leggings: useful
 Stone Armor: filler
 Stone Gauntlets: filler
-Stone Greataxe: unknown
+Stone Greataxe: useful
 Stone Greatshield: useful
 Stone Helm: unknown
 Stone Leggings: unknown
