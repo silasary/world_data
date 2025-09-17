@@ -147,7 +147,7 @@ Pokétch: progression
 Potion: filler
 Protector: unknown
 Protein: filler
-Pure Incense: unknown
+Pure Incense: filler
 Quick Ball: filler
 Quick Claw: useful
 ROULETTE: filler
@@ -190,7 +190,7 @@ Super Repel: filler
 Super Rod: unknown
 TM01: useful
 TM02: unknown
-TM03: unknown
+TM03: filler
 TM05: unknown
 TM06: useful
 TM07: filler
