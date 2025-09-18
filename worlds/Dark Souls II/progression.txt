@@ -383,11 +383,12 @@ Repair: filler
 Replenishment: unknown
 Resplendent Life: filler
 Retainer Staff: unknown
-Ricard's Rapier: unknown
+Ricard's Rapier: useful
 Ring of Binding: unknown
 Ring of Blades: unknown
 Ring of Giants+1: unknown
 Ring of Giants: filler
+Ring of Knowledge: unknown
 Ring of Life Protection: unknown
 Ring of Prayer: useful
 Ring of Resistance+1: useful
@@ -493,7 +494,7 @@ Thunder Quartz Ring: unknown
 Tights of Judgment: unknown
 Titanite Chunk: filler
 Titanite Shard: filler
-Titanite Slab: unknown
+Titanite Slab: useful
 Torch: useful
 Tower Key: unknown
 Tower Shield: unknown
