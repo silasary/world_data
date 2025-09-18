@@ -7,11 +7,12 @@ Ancestral Protector: unknown
 Arcanist Brand: unknown
 Ascendant: unknown
 Ballista Totem Support: unknown
+Blade Blast: unknown
 Blasphemy Support: unknown
 Blast Rain: unknown
 Blight: unknown
 Blink Arrow: unknown
-Blood Rage: unknown
+Blood Rage: progression
 Blood and Sand: unknown
 Bloodlust Support: unknown
 Boneshatter: unknown
@@ -20,7 +21,7 @@ Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
 Cast while Channelling Support: unknown
-Chance to Bleed Support: unknown
+Chance to Bleed Support: progression
 Chance to Flee Support: unknown
 Charged Dash: unknown
 Charged Mines Support: unknown
@@ -30,7 +31,9 @@ Combustion Support: unknown
 Consecrated Path: unknown
 Controlled Blaze Support: unknown
 Controlled Destruction Support: unknown
+Corrupting Fever: unknown
 Cyclone: unknown
+Damage on Full Life Support: unknown
 Dash: unknown
 Deadly Ailments Support: unknown
 Destructive Link: unknown
@@ -79,7 +82,7 @@ Item Rarity Support: unknown
 Juggernaut: unknown
 Kinetic Blast: unknown
 Lacerate: unknown
-Lancing Steel: unknown
+Lancing Steel: progression
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
 Lightning Penetration Support: unknown
@@ -126,8 +129,8 @@ Progressive max links - Boots: unknown
 Progressive max links - Gloves: unknown
 Progressive max links - Helm: unknown
 Progressive max links - Offhand: unknown
-Progressive max links - Weapon: unknown
-Progressive passive point: unknown
+Progressive max links - Weapon: progression
+Progressive passive point: progression
 Protective Link: unknown
 Pulverise Support: unknown
 Puncture: unknown
