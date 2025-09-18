@@ -26,6 +26,7 @@ bob-explosive-artillery-shells: unknown
 bob-explosive-rocket: unknown
 bob-fertiliser: unknown
 bob-fire-artillery-shells: unknown
+bob-flame-bullets: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
 bob-fluid-chemical-furnace: unknown
@@ -102,6 +103,7 @@ logistic-robotics: unknown
 low-density-structure: unknown
 lubricant: unknown
 modules: unknown
+nuclear-fuel-reprocessing: unknown
 oil-gathering: unknown
 plastics: unknown
 progressive-advanced-material-processing: unknown
