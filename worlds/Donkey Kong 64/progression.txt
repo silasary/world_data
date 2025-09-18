@@ -5,6 +5,7 @@ Angry Aztec Lanky Blueprint: filler
 Angry Aztec Tiny Blueprint: filler
 Aztec Chunky Hint: unknown
 Aztec Diddy Hint: useful
+Aztec Donkey Hint: unknown
 Aztec Lanky Hint: unknown
 Aztec Tiny Hint: unknown
 Baboon Balloon: progression
@@ -53,6 +54,7 @@ Factory Chunky Hint: unknown
 Factory Diddy Hint: unknown
 Factory Donkey Hint: unknown
 Factory Lanky Hint: useful
+Factory Tiny Hint: unknown
 Fairy Camera: progression
 Feather: progression
 Forest Chunky Hint: unknown
@@ -92,8 +94,10 @@ Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
 Japes Chunky Hint: useful
+Japes Diddy Hint: unknown
 Japes Donkey Hint: unknown
 Japes Lanky Hint: unknown
+Japes Tiny Hint: unknown
 Jungle Japes Chunky Blueprint: progression
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
