@@ -453,6 +453,7 @@ Level Access (MAP29): progression
 Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Access (MAP34): unknown
 Level Clear (E1A1): unknown
 Level Clear (E1A2): unknown
 Level Clear (E1A4): unknown
@@ -543,6 +544,7 @@ Level Clear (MAP29): mcguffin
 Level Clear (MAP30): mcguffin
 Level Clear (MAP31): mcguffin
 Level Clear (MAP32): mcguffin
+Level Clear (MAP34): unknown
 Locationator: filler
 Medikit: filler
 MegaLargeZorcher: unknown
@@ -628,6 +630,7 @@ RedSkull (MAP19): progression
 RedSkull (MAP20): unknown
 RedSkull (MAP21): progression
 RedSkull (MAP22): progression
+RedSkull (MAP26): unknown
 RedSkull (MAP27): progression
 RedSkull (MAP28): progression
 RedSkull (MAP32): progression
