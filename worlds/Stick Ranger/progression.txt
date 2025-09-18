@@ -97,6 +97,7 @@ Unlock Cavern 2: unknown
 Unlock Cavern 3: progression
 Unlock Cavern 4: unknown
 Unlock Cavern 5: unknown
+Unlock Cavern 6: unknown
 Unlock Cavern 7: unknown
 Unlock Cavern 8: unknown
 Unlock Desert 2: unknown
@@ -149,6 +150,7 @@ Unlock Seaside 1: unknown
 Unlock Seaside 2: unknown
 Unlock Seaside 3: unknown
 Unlock Seaside 4: progression
+Unlock Snowfield 1: unknown
 Unlock Snowfield 2: unknown
 Unlock Snowfield 3: unknown
 Unlock Snowfield 4: unknown
@@ -176,6 +178,7 @@ charge chakram: unknown
 charge circle: unknown
 charge god: unknown
 double arrow: unknown
+electric shock: unknown
 electric staff: unknown
 explosion flail: unknown
 explosion staff: unknown
@@ -207,6 +210,7 @@ long blade: unknown
 long circle: unknown
 mega exp staff: unknown
 micro uzi: unknown
+morning star: unknown
 napalm gun: unknown
 needle claw: unknown
 nonuple arrow: unknown
