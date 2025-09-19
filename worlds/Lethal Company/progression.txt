@@ -8,6 +8,7 @@
 68 Artifice: progression
 7 Dine: progression
 8 Titan: progression
+823 Bozoros: unknown
 85 Rend: progression
 Assurance: progression
 Belt bag: unknown
@@ -23,6 +24,7 @@ Double-Barreled Shotgun: unknown
 Experimentation: progression
 Extension ladder: progression
 Flashlight: progression
+Geiger counter: unknown
 HauntTrap: trap
 Inventory Slot: useful
 InverseTeleporter: useful
@@ -39,6 +41,7 @@ Progressive Flashlight: progression
 Radar-booster: progression
 Rend: progression
 Scanner: progression
+Shell: unknown
 Shovel: filler
 SignalTranslator: useful
 Spray paint: filler
@@ -53,3 +56,4 @@ Vow: progression
 Walkie-talkie: progression
 Weed killer: useful
 Zap gun: progression
+Zapper: unknown

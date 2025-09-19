@@ -13,6 +13,7 @@ Progressive brt_resource_dyes: unknown
 Progressive brt_resource_gemstones: unknown
 Progressive brt_resource_gold: unknown
 Progressive brt_resource_marble: unknown
+Progressive brt_resource_spices: unknown
 Progressive brt_settlement_major: unknown
 Progressive brt_settlement_minor: unknown
 Progressive brt_tavern: unknown
