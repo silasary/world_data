@@ -1,5 +1,6 @@
 Card Set Aero 0: filler
 Card Set Aero 1-3: unknown
+Card Set Aero 4-6: unknown
 Card Set Aero 7-9: unknown
 Card Set Bambi 0: filler
 Card Set Bambi 1-3: filler
@@ -30,6 +31,7 @@ Card Set Divine Rose 1-3: unknown
 Card Set Divine Rose 4-6: filler
 Card Set Divine Rose 7-9: useful
 Card Set Dumbo 0: useful
+Card Set Dumbo 1-3: unknown
 Card Set Dumbo 4-6: filler
 Card Set Dumbo 7-9: unknown
 Card Set Elixir 0: filler
@@ -43,6 +45,7 @@ Card Set Ether 7-9: useful
 Card Set Fairy Harp 0: unknown
 Card Set Fairy Harp 1-3: filler
 Card Set Fairy Harp 4-6: filler
+Card Set Fairy Harp 7-9: unknown
 Card Set Fire 0: useful
 Card Set Fire 1-3: filler
 Card Set Fire 4-6: filler
@@ -83,6 +86,7 @@ Card Set Megalixir 4-6: filler
 Card Set Megalixir 7-9: filler
 Card Set Metal Chocobo 0: filler
 Card Set Metal Chocobo 1-3: useful
+Card Set Metal Chocobo 4-6: unknown
 Card Set Metal Chocobo 7-9: useful
 Card Set Mushu 0: useful
 Card Set Mushu 1-3: filler
@@ -118,10 +122,12 @@ Card Set Spellbinder 0: useful
 Card Set Spellbinder 1-3: useful
 Card Set Spellbinder 4-6: filler
 Card Set Spellbinder 7-9: filler
+Card Set Stop 0: unknown
 Card Set Stop 1-3: filler
 Card Set Stop 4-6: filler
 Card Set Stop 7-9: filler
 Card Set Three Wishes 0: useful
+Card Set Three Wishes 1-3: unknown
 Card Set Three Wishes 4-6: filler
 Card Set Three Wishes 7-9: useful
 Card Set Thunder 0: filler
@@ -141,12 +147,14 @@ Card Set Wishing Star 1-3: unknown
 Card Set Wishing Star 4-6: unknown
 Card Set Wishing Star 7-9: filler
 Enemy Card Air Pirate: unknown
+Enemy Card Air Soldier: unknown
 Enemy Card Aquatank: unknown
 Enemy Card Axel: filler
 Enemy Card Bandit: filler
 Enemy Card Black Fungus: filler
 Enemy Card Bouncywild: unknown
 Enemy Card Card Soldier (Red): filler
+Enemy Card Creeper Plant: unknown
 Enemy Card Crescendo: unknown
 Enemy Card Darkball: useful
 Enemy Card Darkside: unknown
@@ -155,6 +163,7 @@ Enemy Card Dragon Maleficent: filler
 Enemy Card Fat Bandit: unknown
 Enemy Card Hades: unknown
 Enemy Card Hook: filler
+Enemy Card Lexaeus: unknown
 Enemy Card Marluxia: useful
 Enemy Card Neoshadow: useful
 Enemy Card Pirate: filler
