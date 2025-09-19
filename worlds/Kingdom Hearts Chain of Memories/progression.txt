@@ -1,3 +1,4 @@
+Bronze Card Pack: useful
 Card Set Aero 0: filler
 Card Set Aero 1-3: unknown
 Card Set Aero 4-6: unknown
@@ -151,6 +152,7 @@ Enemy Card Air Soldier: unknown
 Enemy Card Aquatank: unknown
 Enemy Card Axel: filler
 Enemy Card Bandit: filler
+Enemy Card Barrel Spider: useful
 Enemy Card Black Fungus: filler
 Enemy Card Bouncywild: unknown
 Enemy Card Card Soldier (Red): filler
@@ -160,7 +162,8 @@ Enemy Card Darkball: useful
 Enemy Card Darkside: unknown
 Enemy Card Defender: unknown
 Enemy Card Dragon Maleficent: filler
-Enemy Card Fat Bandit: unknown
+Enemy Card Fat Bandit: useful
+Enemy Card Green Requiem: useful
 Enemy Card Hades: unknown
 Enemy Card Hook: filler
 Enemy Card Lexaeus: unknown
@@ -168,7 +171,7 @@ Enemy Card Marluxia: useful
 Enemy Card Neoshadow: useful
 Enemy Card Pirate: filler
 Enemy Card Red Nocturne: unknown
-Enemy Card Sea Neon: unknown
+Enemy Card Sea Neon: useful
 Enemy Card Shadow: unknown
 Enemy Card Soldier: filler
 Enemy Card Trickmaster: unknown
@@ -184,11 +187,12 @@ Friend Card Donald: mcguffin
 Friend Card Goofy: mcguffin
 Friend Card Jack: mcguffin
 Friend Card Peter Pan: useful
+Gold Card Pack: useful
 Key to Rewards Agrabah: mcguffin
 Key to Rewards Atlantica: unknown
 Key to Rewards Castle Oblivion: unknown
 Key to Rewards Destiny Island: unknown
-Key to Rewards Halloween Town: unknown
+Key to Rewards Halloween Town: progression
 Key to Rewards Hollow Bastion: progression
 Key to Rewards Monstro: useful
 Key to Rewards Neverland: useful
@@ -196,6 +200,7 @@ Key to Rewards Olympus Coliseum: progression
 Key to Rewards Traverse Town: progression
 Key to Rewards Twilight Town: unknown
 Key to Rewards Wonderland: unknown
+Silver Card Pack: useful
 Victory: unknown
 World Card 100 Acre Wood: progression
 World Card Agrabah: progression

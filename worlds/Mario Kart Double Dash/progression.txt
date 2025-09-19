@@ -271,6 +271,7 @@ Heart for Luigi: useful
 Heart for Mario: unknown
 Heart for Paratroopa: unknown
 Heart for Peach: useful
+Heart for Petey Piranha: unknown
 Heart for Toadette: unknown
 Heart for Waluigi: unknown
 Heart for Wario: progression
@@ -280,6 +281,7 @@ Koopa Dasher: progression
 Koopa King: progression
 Koopa: progression
 Lightning for Baby Luigi: useful
+Lightning for Baby Mario: unknown
 Lightning for Birdo: progression
 Lightning for Bowser Jr.: unknown
 Lightning for Bowser: useful
@@ -297,6 +299,7 @@ Lightning for Petey Piranha: unknown
 Lightning for Toad: unknown
 Lightning for Toadette: useful
 Lightning for Waluigi: unknown
+Lightning for Wario: unknown
 Lightning for Yoshi: useful
 Luigi Circuit Time Trial: unknown
 Luigi: progression
@@ -487,6 +490,7 @@ Triple Green Shells for Toadette: progression
 Triple Green Shells for Waluigi: unknown
 Triple Green Shells for Wario: progression
 Triple Green Shells for Yoshi: progression
+Triple Mushrooms for Baby Luigi: unknown
 Triple Mushrooms for Baby Mario: unknown
 Triple Mushrooms for Birdo: unknown
 Triple Mushrooms for Bowser Jr.: unknown
@@ -494,9 +498,10 @@ Triple Mushrooms for Bowser: unknown
 Triple Mushrooms for Daisy: useful
 Triple Mushrooms for Donkey Kong: progression
 Triple Mushrooms for Everybody: progression
+Triple Mushrooms for King Boo: unknown
 Triple Mushrooms for Koopa: useful
 Triple Mushrooms for Luigi: progression
-Triple Mushrooms for Mario: unknown
+Triple Mushrooms for Mario: useful
 Triple Mushrooms for Paratroopa: unknown
 Triple Mushrooms for Peach: unknown
 Triple Mushrooms for Toad: useful
@@ -535,7 +540,7 @@ Wario Car: progression
 Wario Colosseum Time Trial: unknown
 Wario: progression
 Yoshi Circuit Time Trial: progression
-Yoshi Egg for Baby Luigi: unknown
+Yoshi Egg for Baby Luigi: useful
 Yoshi Egg for Baby Mario: unknown
 Yoshi Egg for Birdo: unknown
 Yoshi Egg for Bowser Jr.: progression
