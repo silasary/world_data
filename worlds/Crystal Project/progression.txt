@@ -144,7 +144,7 @@ Equipment - Compass - 2088: unknown
 Equipment - Concealable Knife - 1838: unknown
 Equipment - Conductor Baton - 1777: unknown
 Equipment - Conductor Seal - 1770: unknown
-Equipment - Conduit - 2071: unknown
+Equipment - Conduit - 2071: useful
 Equipment - Congealed Orb - 1900: unknown
 Equipment - Conquest: unknown
 Equipment - Contract: unknown
@@ -171,11 +171,11 @@ Equipment - Craftwork Katana: useful
 Equipment - Craftwork Mail: unknown
 Equipment - Craftwork Pages: unknown
 Equipment - Craftwork Rapier: unknown
-Equipment - Craftwork Robe: unknown
+Equipment - Craftwork Robe: useful
 Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Shield: unknown
 Equipment - Craftwork Spear: unknown
-Equipment - Craftwork Staff: unknown
+Equipment - Craftwork Staff: useful
 Equipment - Craftwork Sword: unknown
 Equipment - Craftwork Vest: unknown
 Equipment - Craftwork Wand: unknown
