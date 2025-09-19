@@ -22,12 +22,14 @@ Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
 Cast while Channelling Support: unknown
+Chain Hook: unknown
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
 Charged Dash: unknown
 Charged Mines Support: unknown
 Chieftain: unknown
 Cleave: unknown
+Cold Snap: unknown
 Combustion Support: unknown
 Consecrated Path: unknown
 Controlled Blaze Support: unknown
@@ -88,6 +90,7 @@ Less Duration Support: unknown
 Life Gain on Hit Support: unknown
 Lightning Penetration Support: unknown
 Lightning Tendrils: unknown
+Maim Support: unknown
 Manabond: unknown
 Marauder: unknown
 Melee Physical Damage Support: unknown
@@ -105,6 +108,7 @@ Normal Sword: unknown
 Pinpoint Support: unknown
 Poacher's Mark: unknown
 Point Blank Support: unknown
+Power Siphon: unknown
 Precision: unknown
 Progressive Amulet: unknown
 Progressive Axe: unknown
@@ -149,6 +153,7 @@ Sadism Support: unknown
 Scorching Ray: unknown
 Searing Bond: unknown
 Seismic Cry: unknown
+Seismic Trap: unknown
 Shadow: progression
 Shattering Steel: unknown
 Shock Nova: unknown
@@ -182,6 +187,7 @@ Viper Strike: unknown
 Vitality: unknown
 Voltaxic Burst: unknown
 Vortex: unknown
+Vulnerability: unknown
 War Banner: unknown
 Warden: unknown
 Wave of Conviction: unknown
