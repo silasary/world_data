@@ -147,7 +147,7 @@ Equipment - Conductor Seal - 1770: unknown
 Equipment - Conduit - 2071: useful
 Equipment - Congealed Orb - 1900: unknown
 Equipment - Conquest: unknown
-Equipment - Contract: unknown
+Equipment - Contract: useful
 Equipment - Convergence LV1 - 1681: unknown
 Equipment - Convergence LV2 - 1708: unknown
 Equipment - Convergence LV3 - 1734: unknown
@@ -308,7 +308,7 @@ Equipment - Glasses: useful
 Equipment - Gnarled Root: unknown
 Equipment - Gold Ring - 2091: unknown
 Equipment - Golden Eagle - 1621: useful
-Equipment - Gospel: unknown
+Equipment - Gospel: useful
 Equipment - Gradivus - 2022: unknown
 Equipment - Grand Emerald - 1841: unknown
 Equipment - Gravedigger: useful
@@ -871,7 +871,7 @@ Item - Draft Shaft Conduit Map: useful
 Item - Draft Shaft Conduit Pass: unknown
 Item - East Wing Key: unknown
 Item - Eastern Chasm Map: unknown
-Item - Eastern Chasm Pass: unknown
+Item - Eastern Chasm Pass: progression
 Item - Elevator Part: mcguffin
 Item - Ether Pouch: useful
 Item - Ether: filler
