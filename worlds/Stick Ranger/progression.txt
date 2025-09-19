@@ -1,13 +1,13 @@
 -50% gold: unknown
 3-round burst: unknown
-Aquamarine 1: unknown
+Aquamarine 1: filler
 Aquamarine 2: unknown
 Berserk Card 2: unknown
 Berserk Card 3: unknown
 Berserk Card 5: unknown
-Big Card 1: unknown
+Big Card 1: filler
 Black Crystal 1: unknown
-Black Stone 1: unknown
+Black Stone 1: filler
 Black Stone 2: unknown
 Black Stone 4: unknown
 Blue Stone 1: unknown
@@ -17,22 +17,22 @@ Blue Stone 7: unknown
 Bronze Medal 1: unknown
 Bronze Medal 4: unknown
 Bronze Medal 5: unknown
-Bullet's Card 2: unknown
+Bullet's Card 2: filler
 Catapult's Card 1: unknown
-Catapult's Card 3: unknown
+Catapult's Card 3: filler
 Catapult's Card 5: unknown
 Critical's Card 3: unknown
 Critical's Card 5: unknown
 Critical's Card 6: unknown
 Critical's Card 7: unknown
 Diamond 3: unknown
-Diamond 5: unknown
+Diamond 5: filler
 Diamond 6: useful
 Emerald 1: unknown
 Emerald 7: unknown
 Explosion's Card 4: unknown
 Fire Spirit 3: unknown
-Freeze Charm 1: unknown
+Freeze Charm 1: filler
 Freeze Rangers: unknown
 Garnet 2: unknown
 Garnet 3: unknown
@@ -42,7 +42,7 @@ Gold Medal 4: unknown
 Gold Medal 7: unknown
 Gold rush Card: unknown
 GreatSword: filler
-Guide's Card 2: unknown
+Guide's Card 2: filler
 Guide's Card 3: filler
 Guide's Card 5: unknown
 Guide's Card 6: unknown
@@ -57,16 +57,16 @@ Peridot 7: unknown
 Pierce's Card 1: unknown
 Pierce's Card 3: unknown
 Poison Charm 2: unknown
-Poison Spirit: unknown
+Poison Spirit: filler
 Purple Crystal 4: unknown
 Quick's Card 1: unknown
 Red Crystal 1: unknown
 Red Crystal 4: unknown
-Red Crystal 7: unknown
+Red Crystal 7: filler
 Reflection Card 1: unknown
 Reflection Card 4: unknown
 Ring's Card 2: unknown
-Ring's Card 3: unknown
+Ring's Card 3: filler
 Ring's Card 4: unknown
 Ring's Card 6: unknown
 Ruby 5: unknown
@@ -86,91 +86,93 @@ Topaz 1: unknown
 Topaz 3: unknown
 Unequip items: unknown
 Unlock !!!: unknown
-Unlock ???: unknown
+Unlock ???: progression
 Unlock Angel Class: unknown
 Unlock Beach 1: unknown
 Unlock Beach 2: unknown
 Unlock Beach 3: progression
-Unlock Beach 4: unknown
+Unlock Beach 4: progression
 Unlock Boxer Class: unknown
-Unlock Castle Gate: unknown
+Unlock Castle Gate: progression
 Unlock Castle: unknown
 Unlock Cavern 1: unknown
-Unlock Cavern 2: unknown
+Unlock Cavern 2: progression
 Unlock Cavern 3: progression
 Unlock Cavern 4: unknown
 Unlock Cavern 5: progression
 Unlock Cavern 6: unknown
 Unlock Cavern 7: unknown
-Unlock Cavern 8: unknown
+Unlock Cavern 8: progression
 Unlock Desert 2: progression
 Unlock Desert 3: progression
 Unlock Desert 4: unknown
 Unlock Desert 6: unknown
+Unlock Desert 7: unknown
 Unlock Desert 8: progression
 Unlock Forest 1: progression
-Unlock Forest 2: unknown
+Unlock Forest 2: progression
 Unlock Forest 3: progression
 Unlock Forest 4: unknown
 Unlock Forest 5: unknown
-Unlock Forest 6: unknown
+Unlock Forest 6: progression
 Unlock Forget Tree: useful
-Unlock Frozen Lake: unknown
+Unlock Frozen Lake: progression
 Unlock Gladiator Class: unknown
 Unlock Grassland 1: progression
 Unlock Grassland 2: unknown
-Unlock Grassland 3: unknown
-Unlock Grassland 4: unknown
+Unlock Grassland 3: progression
+Unlock Grassland 4: progression
 Unlock Grassland 5: progression
 Unlock Grassland 6: progression
-Unlock Grassland 7: unknown
+Unlock Grassland 7: progression
 Unlock Gunner Class: unknown
 Unlock Hell 1: unknown
 Unlock Hell 3: unknown
-Unlock Hell 4: unknown
+Unlock Hell 4: progression
 Unlock Hell 5: unknown
 Unlock Hell 6: unknown
 Unlock Hell 7: unknown
 Unlock Hell 8: unknown
-Unlock Hell Gate: unknown
+Unlock Hell Castle: unknown
+Unlock Hell Gate: progression
 Unlock Hill Country 1: unknown
 Unlock Hill Country 2: progression
 Unlock Hill Country 3: progression
-Unlock Ice Castle: unknown
+Unlock Ice Castle: progression
 Unlock Inferno 1: unknown
 Unlock Inferno 2: progression
-Unlock Inferno 3: unknown
+Unlock Inferno 3: progression
 Unlock Island: unknown
 Unlock Lake: unknown
 Unlock Magician Class: unknown
 Unlock Mist Grove 1: unknown
 Unlock Mist Grove 2: unknown
 Unlock Mist Grove 3: unknown
-Unlock Mountain 1: unknown
-Unlock Mountain 2: unknown
-Unlock Mountaintop: unknown
+Unlock Mountain 1: progression
+Unlock Mountain 2: progression
+Unlock Mountaintop: progression
 Unlock Oasis: unknown
 Unlock Priest Class: unknown
 Unlock Pyramid: unknown
 Unlock Resort: unknown
-Unlock Seaside 1: unknown
-Unlock Seaside 2: unknown
-Unlock Seaside 3: unknown
+Unlock Seaside 1: progression
+Unlock Seaside 2: progression
+Unlock Seaside 3: progression
 Unlock Seaside 4: progression
 Unlock Snowfield 1: unknown
 Unlock Snowfield 2: unknown
 Unlock Snowfield 3: unknown
-Unlock Snowfield 4: unknown
-Unlock Snowfield 5: unknown
+Unlock Snowfield 4: progression
+Unlock Snowfield 5: progression
 Unlock Snowfield 6: unknown
 Unlock Snowfield 7: unknown
 Unlock Snowfield 8: progression
 Unlock Snowfield 9: progression
-Unlock Submarine 1: unknown
+Unlock Submarine 1: progression
 Unlock Submarine 3: unknown
 Unlock Submarine 4: unknown
-Unlock Submarine Shrine: unknown
-Unlock Village: unknown
+Unlock Submarine Shrine: progression
+Unlock Village: useful
 Unlock Volcano: progression
 Unlock Whipper Class: unknown
 Vampire's Card 3: unknown
@@ -178,58 +180,58 @@ White Stone 2: unknown
 White Stone 5: unknown
 White Stone 6: unknown
 Yellow Crystal 2: unknown
-Yellow Crystal 5: unknown
+Yellow Crystal 5: filler
 Zombie's Card: unknown
 atomic ray: unknown
-chakram: unknown
+chakram: filler
 charge chakram: unknown
 charge circle: unknown
 charge god: unknown
 double arrow: unknown
 electric shock: unknown
 electric staff: unknown
-explosion flail: unknown
-explosion staff: unknown
+explosion flail: filler
+explosion staff: filler
 explosion whip: unknown
 fire chain: unknown
-fire chakram: unknown
+fire chakram: filler
 fire circle: unknown
 fire glove: unknown
 fire ring: unknown
 fire sabel: unknown
-flame sword: unknown
-freeze exp rod: unknown
+flame sword: filler
+freeze exp rod: filler
 freeze explosion: unknown
 freeze whip: unknown
 homing laser beam: unknown
 homing laser wave: unknown
 ice GS: unknown
-ice circle: unknown
+ice circle: filler
 ice flail: unknown
-ice meteor: unknown
+ice meteor: filler
 ice sword: unknown
-ice whip: unknown
+ice whip: filler
 inferno: unknown
 iron chain: unknown
-lightning: unknown
-lightsaber: unknown
+lightning: filler
+lightsaber: filler
 long GS: unknown
-long blade: unknown
+long blade: filler
 long circle: unknown
 mega exp staff: unknown
 micro uzi: unknown
 morning star: unknown
-napalm gun: unknown
-needle claw: unknown
+napalm gun: filler
+needle claw: filler
 nonuple arrow: unknown
-oct arrow: unknown
+oct arrow: filler
 permafrost: unknown
 poison arrow: unknown
 poison claw: unknown
 poison flail: unknown
 poison glove: unknown
 poisonous rod: unknown
-power chakram: unknown
+power chakram: filler
 power laser gun: filler
 pyramid arrow: unknown
 quad arrow: unknown
@@ -241,29 +243,30 @@ sniper rifle: unknown
 sonic knuckle: unknown
 spark cestus: unknown
 staff of flame: unknown
-staff of freeze: unknown
-staff of icicle: unknown
+staff of freeze: filler
+staff of icicle: filler
 staff of light: unknown
 staff of thunder: unknown
-stone ms: unknown
+stone ms: filler
 super volcano: unknown
 thorn chain: unknown
-thorn chakram: unknown
+thorn chakram: filler
 thorn circle: unknown
 thorn flail: unknown
 thunder cestus: unknown
-thunder chakram: unknown
-thunder god: unknown
+thunder chakram: filler
+thunder god: filler
 thunder ms: unknown
 thunder ring: unknown
 thunder spear: unknown
 thunder sword: unknown
 thunder whip: unknown
 thunderbolt: unknown
+triple arrow: unknown
 triple iron arrow: unknown
 triple poison: unknown
-triple shot: unknown
+triple shot: filler
 undecuple arrow: unknown
 uzi: unknown
-whip: unknown
+whip: filler
 wooden sword: filler
