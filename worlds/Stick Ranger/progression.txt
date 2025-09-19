@@ -105,7 +105,7 @@ Unlock Cavern 7: unknown
 Unlock Cavern 8: progression
 Unlock Desert 2: progression
 Unlock Desert 3: progression
-Unlock Desert 4: unknown
+Unlock Desert 4: progression
 Unlock Desert 6: unknown
 Unlock Desert 7: progression
 Unlock Desert 8: progression
@@ -127,7 +127,7 @@ Unlock Grassland 6: progression
 Unlock Grassland 7: progression
 Unlock Gunner Class: unknown
 Unlock Hell 1: unknown
-Unlock Hell 2: unknown
+Unlock Hell 2: progression
 Unlock Hell 3: unknown
 Unlock Hell 4: progression
 Unlock Hell 5: unknown
@@ -170,6 +170,7 @@ Unlock Snowfield 7: unknown
 Unlock Snowfield 8: progression
 Unlock Snowfield 9: progression
 Unlock Submarine 1: progression
+Unlock Submarine 2: progression
 Unlock Submarine 3: unknown
 Unlock Submarine 4: unknown
 Unlock Submarine Shrine: progression
@@ -204,6 +205,7 @@ flame sword: filler
 freeze exp rod: filler
 freeze explosion: unknown
 freeze whip: unknown
+hell fire shot: filler
 homing laser beam: unknown
 homing laser wave: unknown
 ice GS: unknown
@@ -254,6 +256,7 @@ thorn chain: unknown
 thorn chakram: filler
 thorn circle: unknown
 thorn flail: unknown
+thorn god: filler
 thunder cestus: unknown
 thunder chakram: filler
 thunder god: filler

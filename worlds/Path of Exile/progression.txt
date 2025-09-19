@@ -3,7 +3,7 @@ Additional Accuracy Support: unknown
 Alternate Gems: unknown
 Ambush: unknown
 Ancestral Cry: unknown
-Ancestral Protector: unknown
+Ancestral Protector: progression
 Arcanist Brand: unknown
 Archmage Support: unknown
 Ascendant: unknown
@@ -22,7 +22,7 @@ Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
 Cast while Channelling Support: unknown
-Chain Hook: unknown
+Chain Hook: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
 Charged Dash: unknown
@@ -90,7 +90,7 @@ Less Duration Support: unknown
 Life Gain on Hit Support: unknown
 Lightning Penetration Support: unknown
 Lightning Tendrils: unknown
-Maim Support: unknown
+Maim Support: progression
 Manabond: unknown
 Marauder: unknown
 Melee Physical Damage Support: unknown
@@ -108,7 +108,7 @@ Normal Sword: unknown
 Pinpoint Support: unknown
 Poacher's Mark: unknown
 Point Blank Support: unknown
-Power Siphon: unknown
+Power Siphon: progression
 Precision: unknown
 Progressive Amulet: unknown
 Progressive Axe: unknown
@@ -153,7 +153,7 @@ Sadism Support: unknown
 Scorching Ray: unknown
 Searing Bond: unknown
 Seismic Cry: unknown
-Seismic Trap: unknown
+Seismic Trap: progression
 Shadow: progression
 Shattering Steel: unknown
 Shock Nova: unknown
@@ -185,9 +185,9 @@ Venom Gyre: unknown
 Vile Toxins Support: unknown
 Viper Strike: unknown
 Vitality: unknown
-Voltaxic Burst: unknown
+Voltaxic Burst: progression
 Vortex: unknown
-Vulnerability: unknown
+Vulnerability: progression
 War Banner: unknown
 Warden: unknown
 Wave of Conviction: unknown
