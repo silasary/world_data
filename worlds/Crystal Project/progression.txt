@@ -6,7 +6,7 @@ Equipment - Adept Robe - 2099: useful
 Equipment - Adept Seal - 2101: unknown
 Equipment - Adventure axe LV1 - 1640: unknown
 Equipment - Adventure axe LV2 - 1641: unknown
-Equipment - Adventure axe LV3 - 1642: unknown
+Equipment - Adventure axe LV3 - 1642: useful
 Equipment - Adventure axe LV4 - 1643: unknown
 Equipment - Adventure bow LV1 - 1648: unknown
 Equipment - Adventure bow LV2 - 1649: unknown
@@ -78,7 +78,7 @@ Equipment - Blue Dress - 1955: unknown
 Equipment - Blue Moon Katars - 1833: useful
 Equipment - Board - 2041: useful
 Equipment - Bokken - 1806: unknown
-Equipment - Bone Katars - 1834: unknown
+Equipment - Bone Katars - 1834: useful
 Equipment - Bone Mail: unknown
 Equipment - Bone Smasher: unknown
 Equipment - Book of Salads - 1810: unknown
@@ -123,7 +123,7 @@ Equipment - Cheater Briefs - 1776: unknown
 Equipment - Chemist Robe: unknown
 Equipment - Chopper: unknown
 Equipment - Cinquedea: unknown
-Equipment - Circle of Ruin - 1965: unknown
+Equipment - Circle of Ruin - 1965: useful
 Equipment - Circlet: unknown
 Equipment - Claimh Solais - 2021: unknown
 Equipment - Clamshank - 2082: useful
@@ -134,6 +134,7 @@ Equipment - Clamshoe - 2084: unknown
 Equipment - Cleaver: useful
 Equipment - Cleric Robe: unknown
 Equipment - Clobbering Time - 1690: unknown
+Equipment - Clover - 2086: unknown
 Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: unknown
 Equipment - Combat Shotgun - 1626: unknown
@@ -203,7 +204,7 @@ Equipment - Demonic - 2069: unknown
 Equipment - Depth-seer's Tome - 1825: useful
 Equipment - Dervish Robe: unknown
 Equipment - Desert Ringblade - 1854: unknown
-Equipment - Desert Sickle - 1840: unknown
+Equipment - Desert Sickle - 1840: useful
 Equipment - Desperado Vest - 2148: useful
 Equipment - Dew Staff - 1898: unknown
 Equipment - Diamond Eagle - 1622: unknown
@@ -212,7 +213,7 @@ Equipment - Dodge Charm: unknown
 Equipment - Doomsayer Seal - 1780: unknown
 Equipment - Double Barrel Shotgun - 1617: unknown
 Equipment - Draconic Shell - 1973: unknown
-Equipment - Dragonslayer - 1812: unknown
+Equipment - Dragonslayer - 1812: useful
 Equipment - Dream Hunter: unknown
 Equipment - Dress: unknown
 Equipment - Drunkard Vest - 2145: unknown
@@ -230,7 +231,7 @@ Equipment - Echo Chamber - 1990: unknown
 Equipment - Eclipsar Seal - 1772: useful
 Equipment - Eclipsar Vest - 1778: unknown
 Equipment - Eldritch Robe - 2067: unknown
-Equipment - Electrocutioner - 2064: unknown
+Equipment - Electrocutioner - 2064: useful
 Equipment - Empowered Fortify - 1679: unknown
 Equipment - Empowered Shoking touch - 1691: useful
 Equipment - Empowered Soothe - 1750: unknown
@@ -248,7 +249,7 @@ Equipment - Epetam - 2020: useful
 Equipment - Equalizer Hammer - 1813: useful
 Equipment - Ex - 2073: useful
 Equipment - Executioner - 1842: unknown
-Equipment - Expedition LV1 - 1682: unknown
+Equipment - Expedition LV1 - 1682: useful
 Equipment - Expedition LV2 - 1739: unknown
 Equipment - Expedition LV3 - 1740: unknown
 Equipment - Expedition LV4 - 1741: unknown
@@ -322,7 +323,7 @@ Equipment - Half-Phoenix Seal - 2156: unknown
 Equipment - Hand Axe: unknown
 Equipment - Hand of Midas: unknown
 Equipment - Harmacist Robe - 1774: unknown
-Equipment - Harmacist Seal - 1769: unknown
+Equipment - Harmacist Seal - 1769: useful
 Equipment - Harpy Rod - 2001: useful
 Equipment - Hatchet: useful
 Equipment - Hawkeye - 2059: unknown
@@ -332,6 +333,7 @@ Equipment - Heat Bandana - 2004: unknown
 Equipment - Heavy Edge - 1805: unknown
 Equipment - Heirloom Axe - 2105: unknown
 Equipment - Heirloom Bow - 2108: unknown
+Equipment - Heirloom Dagger - 2107: unknown
 Equipment - Heirloom Katana - 2111: unknown
 Equipment - Heirloom Pages - 2102: unknown
 Equipment - Heirloom Rapier - 2112: unknown
@@ -429,6 +431,7 @@ Equipment - Magic Barrier - 1991: unknown
 Equipment - Magic Finder: useful
 Equipment - Magical Girl Seal - 2131: unknown
 Equipment - Malifice: unknown
+Equipment - Malleus Maleficarum LV2? - 1695: unknown
 Equipment - Mana Ring: unknown
 Equipment - Mars' Cloak - 1856: unknown
 Equipment - Mask of the Timeless - 2027: unknown
@@ -478,6 +481,7 @@ Equipment - Old Monk's Cloak - 1949: unknown
 Equipment - Old Reliable - 1868: unknown
 Equipment - Old sabre - 1694: unknown
 Equipment - Omnispear - 2030: unknown
+Equipment - Oni Charm - 2044: unknown
 Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
 Equipment - Padded Vest - 1881: unknown
@@ -487,6 +491,7 @@ Equipment - Parhia LV1 - 1685: unknown
 Equipment - Parhia LV2 - 1713: unknown
 Equipment - Parhia LV3 - 1714: unknown
 Equipment - Parhia LV4 - 1715: unknown
+Equipment - Parhia LV5 - 1757: unknown
 Equipment - Parry Knife: useful
 Equipment - Parry daggers - 1655: unknown
 Equipment - Partizan: useful
@@ -515,10 +520,10 @@ Equipment - Potion of Aetherbody - 1884: unknown
 Equipment - Power Glove - 2087: unknown
 Equipment - Primitive Axe - 1811: unknown
 Equipment - Prismatic Barrier LV1 - 1745: useful
-Equipment - Prismatic Barrier LV2 - 1746: unknown
+Equipment - Prismatic Barrier LV2 - 1746: useful
 Equipment - Prismatic Barrier LV3 - 1747: unknown
 Equipment - Prismatic Barrier LV4 - 1721: unknown
-Equipment - Prismatic Barrier LV5 - 1763: unknown
+Equipment - Prismatic Barrier LV5 - 1763: useful
 Equipment - Prismatic Ring - 1803: useful
 Equipment - Prodder: unknown
 Equipment - Progressive 1H Axe: useful
@@ -571,6 +576,7 @@ Equipment - Redder Coat - 1979: unknown
 Equipment - Regenerating Flask - 1886: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
 Equipment - Resist Shifter: unknown
+Equipment - Rhetorist Book - 1785: useful
 Equipment - Rhetorist Seal - 1783: unknown
 Equipment - Ribbon: unknown
 Equipment - Righteous Wrath - 1823: unknown
@@ -688,7 +694,7 @@ Equipment - Suitor Hat: unknown
 Equipment - Summoner Robe: unknown
 Equipment - Super Cute Robe - 2132: unknown
 Equipment - Super Cute Wand - 2133: unknown
-Equipment - Super Shotgun - 1624: unknown
+Equipment - Super Shotgun - 1624: useful
 Equipment - Superspeed Bow - 1986: unknown
 Equipment - Suppressor Seal - 1767: useful
 Equipment - Suppressor Spear - 1775: useful
@@ -782,7 +788,7 @@ Equipment - Woodchopper - 1804: unknown
 Equipment - Woodsmacker - 1832: unknown
 Equipment - Worn Scythe - 2092: unknown
 Equipment - Woven Hood: unknown
-Equipment - Woven Shirt: unknown
+Equipment - Woven Shirt: useful
 Equipment - Yasha: unknown
 Equipment - dark contract - 1630: unknown
 Equipment - hnahr'luhnah hup ph' - 1697: unknown
@@ -793,7 +799,7 @@ Item - Adventure bow LV2 part - 337: unknown
 Item - Adventure bow LV3 part - 341: unknown
 Item - Adventure bow LV4 part - 344: unknown
 Item - Adventure staff LV 2 part - 338: useful
-Item - Adventure staff LV3 part - 342: unknown
+Item - Adventure staff LV3 part - 342: useful
 Item - Adventure staff LV4 part - 343: unknown
 Item - Adventure sword LV2 part - 336: unknown
 Item - Adventure sword LV3 part - 340: unknown
@@ -837,7 +843,7 @@ Item - Castle Sequoia Pass: progression
 Item - Cave Key: unknown
 Item - Cell Key: unknown
 Item - Central Lookout Token: unknown
-Item - Cerulean Book: unknown
+Item - Cerulean Book: progression
 Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
 Item - Cobblestone Crag Pass: progression
@@ -1070,6 +1076,7 @@ Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
 Item - Viridian Book: unknown
 Item - Warrior's Bane - 363: unknown
+Item - Water Stone - 365: unknown
 Item - Weresheep wool - 359: unknown
 Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
@@ -1109,7 +1116,7 @@ Job - Fafnir - 147: progression
 Job - Fencer: unknown
 Job - Flagellant - 30: progression
 Job - Flareon - 56: unknown
-Job - Fortress - 78: unknown
+Job - Fortress - 78: progression
 Job - Freelancer - 90: unknown
 Job - Gamester - 48: progression
 Job - Geomante - 33: unknown
@@ -1170,7 +1177,7 @@ Scholar - Atmoshear: useful
 Scholar - Barrier: useful
 Scholar - Build Life: useful
 Scholar - Explode: unknown
-Scholar - Fire Breath: unknown
+Scholar - Fire Breath: useful
 Scholar - Infusion: unknown
 Scholar - Insult: unknown
 Scholar - Lifegiver: unknown
@@ -1181,7 +1188,7 @@ Scholar - Reflection: unknown
 Scholar - Regenerate: unknown
 Scholar - Reverse Polarity: useful
 Scholar - Roost: unknown
-Scholar - Sleep Aura: unknown
+Scholar - Sleep Aura: useful
 Scholar - Sun Bath: unknown
 Scholar - Whirlwind: unknown
 Summon - Coyote: unknown
@@ -1190,7 +1197,7 @@ Summon - Ioske: unknown
 Summon - Juses: unknown
 Summon - Niltsi: useful
 Summon - Pah: unknown
-Summon - Pamoa: unknown
+Summon - Pamoa: useful
 Summon - Shaku: unknown
 Summon - Tira: unknown
 Trap - Clothes Fall Off Trap: unknown

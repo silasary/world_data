@@ -1,23 +1,30 @@
--50% gold: unknown
+-50% gold: trap
 3-round burst: unknown
 Aquamarine 1: filler
 Aquamarine 2: unknown
+Aquamarine 6: unknown
+Berserk Card 1: unknown
 Berserk Card 2: unknown
 Berserk Card 3: unknown
 Berserk Card 5: unknown
 Big Card 1: filler
 Black Crystal 1: unknown
+Black Crystal 4: unknown
 Black Stone 1: filler
 Black Stone 2: unknown
 Black Stone 4: unknown
+Black Stone 6: unknown
 Blue Stone 1: unknown
 Blue Stone 4: unknown
 Blue Stone 6: unknown
 Blue Stone 7: unknown
 Bronze Medal 1: unknown
+Bronze Medal 3: filler
 Bronze Medal 4: unknown
 Bronze Medal 5: unknown
+Bronze Medal 7: unknown
 Bullet's Card 2: filler
+Bullet's Card 3: unknown
 Catapult's Card 1: unknown
 Catapult's Card 3: filler
 Catapult's Card 5: unknown
@@ -26,40 +33,51 @@ Critical's Card 5: unknown
 Critical's Card 6: unknown
 Critical's Card 7: unknown
 Diamond 3: unknown
+Diamond 4: unknown
 Diamond 5: filler
 Diamond 6: useful
-Emerald 1: unknown
+Emerald 1: filler
 Emerald 7: unknown
 Explosion's Card 4: unknown
 Fire Spirit 3: unknown
 Freeze Charm 1: filler
+Freeze Charm 2: filler
 Freeze Rangers: unknown
 Garnet 2: unknown
 Garnet 3: unknown
 Garnet 4: filler
+Garnet 6: unknown
 Gold Medal 2: unknown
 Gold Medal 4: unknown
+Gold Medal 5: unknown
 Gold Medal 7: unknown
 Gold rush Card: unknown
 GreatSword: filler
+Green Stone 6: useful
 Guide's Card 2: filler
 Guide's Card 3: filler
 Guide's Card 5: unknown
 Guide's Card 6: unknown
 Heal's Card 1: unknown
+Ice Charm 4: useful
 Ice Spirit 1: unknown
 Iron Medal 2: unknown
 Iron Medal 6: unknown
 Kill a Ranger: unknown
 Long Sword's Card 3: unknown
+Long Sword's Card 7: useful
 Peridot 5: unknown
 Peridot 7: unknown
 Pierce's Card 1: unknown
 Pierce's Card 3: unknown
+Pierce's Card 4: unknown
 Poison Charm 2: unknown
+Poison Charm 4: unknown
 Poison Spirit: filler
 Purple Crystal 4: unknown
+Purple Crystal 6: unknown
 Quick's Card 1: unknown
+Quick's Card 4: unknown
 Red Crystal 1: unknown
 Red Crystal 4: unknown
 Red Crystal 7: filler
@@ -69,6 +87,7 @@ Ring's Card 2: unknown
 Ring's Card 3: filler
 Ring's Card 4: unknown
 Ring's Card 6: unknown
+Ruby 3: unknown
 Ruby 5: unknown
 Ruby 7: unknown
 Sapphire 2: unknown
@@ -78,6 +97,7 @@ Silver Crystal 2: unknown
 Silver Crystal 5: useful
 Silver Crystal 6: unknown
 Silver Crystal 7: unknown
+Silver Medal 1: unknown
 Silver Medal 3: unknown
 Silver Medal 7: unknown
 Spawn enemies: unknown
@@ -106,13 +126,14 @@ Unlock Cavern 8: progression
 Unlock Desert 2: progression
 Unlock Desert 3: progression
 Unlock Desert 4: progression
+Unlock Desert 5: progression
 Unlock Desert 6: unknown
 Unlock Desert 7: progression
 Unlock Desert 8: progression
 Unlock Forest 1: progression
 Unlock Forest 2: progression
 Unlock Forest 3: progression
-Unlock Forest 4: unknown
+Unlock Forest 4: progression
 Unlock Forest 5: unknown
 Unlock Forest 6: progression
 Unlock Forget Tree: useful
@@ -166,7 +187,7 @@ Unlock Snowfield 3: unknown
 Unlock Snowfield 4: progression
 Unlock Snowfield 5: progression
 Unlock Snowfield 6: unknown
-Unlock Snowfield 7: unknown
+Unlock Snowfield 7: progression
 Unlock Snowfield 8: progression
 Unlock Snowfield 9: progression
 Unlock Submarine 1: progression
@@ -177,6 +198,7 @@ Unlock Submarine Shrine: progression
 Unlock Village: useful
 Unlock Volcano: progression
 Unlock Whipper Class: unknown
+Vampire's Card 1: unknown
 Vampire's Card 3: unknown
 White Stone 2: unknown
 White Stone 5: unknown
@@ -193,34 +215,41 @@ double arrow: unknown
 electric shock: unknown
 electric staff: unknown
 explosion flail: filler
+explosion ms: unknown
 explosion staff: filler
 explosion whip: unknown
 fire chain: unknown
 fire chakram: filler
 fire circle: unknown
 fire glove: unknown
-fire ring: unknown
+fire knuckle: unknown
+fire ring: filler
 fire sabel: unknown
 flame sword: filler
 freeze exp rod: filler
 freeze explosion: unknown
 freeze whip: unknown
 hell fire shot: filler
+high light staff: unknown
 homing laser beam: unknown
 homing laser wave: unknown
 ice GS: unknown
 ice circle: filler
 ice flail: unknown
 ice meteor: filler
+ice spike: unknown
 ice sword: unknown
 ice whip: filler
 inferno: unknown
 iron chain: unknown
+iron sword: unknown
 lightning: filler
 lightsaber: filler
 long GS: unknown
 long blade: filler
 long circle: unknown
+long ring: unknown
+long silver staff: unknown
 mega exp staff: unknown
 micro uzi: unknown
 morning star: unknown
@@ -235,12 +264,14 @@ poison flail: unknown
 poison glove: unknown
 poisonous rod: unknown
 power chakram: filler
+power circle: unknown
 power laser gun: filler
 pyramid arrow: unknown
 quad arrow: unknown
 quick chakram: unknown
 quick circle: unknown
 quint poison: filler
+rail gun: unknown
 slow laser gun: unknown
 sniper rifle: unknown
 sonic knuckle: unknown
@@ -257,10 +288,12 @@ thorn chakram: filler
 thorn circle: unknown
 thorn flail: unknown
 thorn god: filler
+thunder GS: unknown
 thunder cestus: unknown
 thunder chakram: filler
 thunder god: filler
 thunder ms: unknown
+thunder orb: unknown
 thunder ring: unknown
 thunder spear: unknown
 thunder sword: unknown
