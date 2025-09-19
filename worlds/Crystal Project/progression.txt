@@ -175,6 +175,7 @@ Equipment - Craftwork Robe: unknown
 Equipment - Craftwork Scythe: unknown
 Equipment - Craftwork Shield: unknown
 Equipment - Craftwork Spear: unknown
+Equipment - Craftwork Staff: unknown
 Equipment - Craftwork Sword: unknown
 Equipment - Craftwork Vest: unknown
 Equipment - Craftwork Wand: unknown
@@ -185,7 +186,7 @@ Equipment - Crystalia Seal - 1629: useful
 Equipment - Cursed Eyeball - 1779: unknown
 Equipment - Cursegiver: unknown
 Equipment - Cutlass: unknown
-Equipment - Cycle Gem - 2010: unknown
+Equipment - Cycle Gem - 2010: useful
 Equipment - Dancer's Mask - 1782: unknown
 Equipment - Daredevil Boots - 2013: unknown
 Equipment - Dark Gospel: unknown
@@ -404,7 +405,7 @@ Equipment - Learners Pin: useful
 Equipment - Leather Cap: unknown
 Equipment - Leather Mail: unknown
 Equipment - Leather Outfit: unknown
-Equipment - Les Condamnes - 1899: unknown
+Equipment - Les Condamnes - 1899: useful
 Equipment - Leviathan Plate - 1958: unknown
 Equipment - Life Jewel: unknown
 Equipment - Light Collar - 1797: unknown
@@ -1154,7 +1155,7 @@ Job - Rogue: progression
 Job - Runeblade - 154: unknown
 Job - Runemaster - 81: unknown
 Job - Sage - 128: unknown
-Job - Samurai: unknown
+Job - Samurai: progression
 Job - Scholar: progression
 Job - Scoundrel - 35: unknown
 Job - Shaman: unknown
