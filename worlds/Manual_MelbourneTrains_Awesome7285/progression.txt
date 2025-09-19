@@ -1,49 +1,73 @@
-472 Bus Access: unknown
-Alamein Access: unknown
-Albury Access: unknown
-Altona Loop Access: unknown
-Avalon Airport Access: unknown
-Bairnsdale Access: unknown
-Ballarat Access: unknown
-Bendigo Access: unknown
-Bounty: unknown
-Burnley Access: filler
-Caulfield Access: unknown
-Filler: unknown
-Flemington Racecourse Access: unknown
-Get a Souvenir Trap: unknown
-Maryborough Access: unknown
-Metro Tunnel Access: unknown
-Myki Top Up: unknown
-Newport Access: unknown
-North Melbourne Access: unknown
+472 Bus Access: filler
+Alamein Access: progression
+Albury Access: filler
+Altona Loop Access: progression
+Ararat Access: filler
+Avalon Airport Access: filler
+Bairnsdale Access: filler
+Ballarat Access: filler
+Bendigo Access: filler
+Bounty: mcguffin
+Burnley Access: progression
+Buses: useful
+Caulfield Access: progression
+City Loop Access: progression
+Clifton Hill Access: progression
+Echuca Access: filler
+Filler: filler
+Flemington Racecourse Access: filler
+Get a Souvenir Trap: trap
+Maryborough Access: filler
+Metro Tunnel Access: filler
+Myki Top Up: useful
+Newport Access: progression
+North Melbourne Access: progression
 Progressive Craigieburn Access: progression
-Progressive Frankston Access: unknown
+Progressive Frankston Access: progression
+Progressive Glen Waverley Access: progression
 Progressive Hurstbridge Access: progression
-Progressive Lilydale/Belgrave Access: unknown
-Progressive Mernda Access: unknown
-Progressive Pakenham/Cranbourne Access: unknown
+Progressive Lilydale/Belgrave Access: progression
+Progressive Mernda Access: progression
+Progressive Pakenham/Cranbourne Access: progression
 Progressive Sunbury Access: progression
-Richmond and South Yarra Access: unknown
-Shepparton Access: unknown
-Shorter Journey: unknown
-Stony Point Access: unknown
-Swan Hill Access: unknown
-Tram Route 1 Access: unknown
-Tram Route 109 Access: unknown
-Tram Route 11 Access: unknown
-Tram Route 19 Access: unknown
-Tram Route 30 Access: unknown
-Tram Route 35 Access: unknown
-Tram Route 48 Access: unknown
-Tram Route 5 Access: unknown
-Tram Route 57 Access: unknown
-Tram Route 58 Access: unknown
-Tram Route 59 Access: unknown
-Tram Route 64 Access: unknown
+Progressive Upfield Access: progression
+Richmond and South Yarra Access: progression
+Sandringham Access: progression
+Seymour Access: filler
+Shepparton Access: filler
+Shorter Journey: useful
+Southern Cross and Flinders Street Access: progression
+Stony Point Access: filler
+Swan Hill Access: filler
+Tram Route 1 Access: filler
+Tram Route 109 Access: filler
+Tram Route 11 Access: filler
+Tram Route 12 Access: filler
+Tram Route 16 Access: filler
+Tram Route 19 Access: filler
+Tram Route 3 Access: filler
+Tram Route 30 Access: filler
+Tram Route 35 Access: filler
+Tram Route 3a Access: filler
+Tram Route 48 Access: filler
+Tram Route 5 Access: filler
+Tram Route 57 Access: filler
+Tram Route 58 Access: filler
+Tram Route 59 Access: filler
+Tram Route 6 Access: filler
+Tram Route 64 Access: filler
+Tram Route 67 Access: filler
+Tram Route 70 Access: filler
 Tram Route 72 Access: filler
-Tram Route 86 Access: unknown
-Traralgon Access: unknown
-Warrnambool Access: unknown
-Waurn Ponds Access: unknown
-Xtrapolis Only Trap: unknown
+Tram Route 75 Access: filler
+Tram Route 78 Access: filler
+Tram Route 82 Access: filler
+Tram Route 86 Access: filler
+Tram Route 96 Access: filler
+Traralgon Access: filler
+Tullamarine Airport Access: filler
+Warrnambool Access: filler
+Waurn Ponds Access: filler
+Werribee Access: progression
+Williamstown Access: progression
+Xtrapolis Only Trap: filler

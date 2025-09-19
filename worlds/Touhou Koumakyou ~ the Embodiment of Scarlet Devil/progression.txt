@@ -1,15 +1,25 @@
-+1 Bomb: filler
-+1 Life: filler
++1 Bomb: useful
++1 Life: useful
 +1 Power Point: filler
-+25 Power Point: filler
--1 Bomb: unknown
-Extra Stage: unknown
++25 Power Point: useful
+-1 Bomb: trap
+Extra Stage: progression
 Lower Difficulty: useful
 Marisa A - Magic Missile: progression
 Marisa B - Illusion Laser: progression
 Next Stage: progression
 Reimu A - Homing Amulet: progression
 Reimu B - Persuasion Needle: progression
-Reverse Movement: unknown
-[Marisa] Ending - Remilia: progression
-[Reimu] Ending - Remilia: progression
+Reverse Movement: trap
+[Marisa A] Extra Stage: progression
+[Marisa A] Next Stage: progression
+[Marisa B] Extra Stage: progression
+[Marisa B] Next Stage: progression
+[Marisa] Ending - Flandre: mcguffin
+[Marisa] Ending - Remilia: mcguffin
+[Reimu A] Extra Stage: progression
+[Reimu A] Next Stage: progression
+[Reimu B] Extra Stage: progression
+[Reimu B] Next Stage: progression
+[Reimu] Ending - Flandre: mcguffin
+[Reimu] Ending - Remilia: mcguffin
