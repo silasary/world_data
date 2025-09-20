@@ -1,5 +1,6 @@
 ATK-FX-B: filler
 ATK-FX-G: filler
+Apple Pie: unknown
 Apple: filler
 Applesauce: filler
 BUX: useful
@@ -87,6 +88,7 @@ Tickle Stick: filler
 Train Ticket: progression
 Training Wheels: useful
 Trout: filler
+Unadon: unknown
 Venomshank: mcguffin
 Whale: useful
 Witches Brew: unknown
