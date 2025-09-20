@@ -69,7 +69,7 @@ SpawnDolphins: unknown
 SpawnDragon: progression
 SpawnElder: unknown
 SpawnFishingRodChest: unknown
-SpawnHookChest: unknown
+SpawnHookChest: progression
 SpawnKing: progression
 SpawnLavaTrinketChest: unknown
 SpawnMapChest: unknown
