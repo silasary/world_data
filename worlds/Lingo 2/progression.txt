@@ -13,6 +13,7 @@ Cross Symbol: progression
 D: unknown
 Daedalus - Amber East Doors: unknown
 Daedalus - Amber North Door: unknown
+Daedalus - Bee Room Back Door: unknown
 Daedalus - Bee Room Entrance: unknown
 Daedalus - Blue Smiley Entrance: unknown
 Daedalus - Castle Drawbridge: unknown
@@ -32,6 +33,7 @@ Daedalus - Near Yellow Room Door: unknown
 Daedalus - O2 Room Back Door: unknown
 Daedalus - Orange Smiley Exit: unknown
 Daedalus - Pairs Room West Door: unknown
+Daedalus - Planet Room Divider: unknown
 Daedalus - Planet Room Secret Door: unknown
 Daedalus - Purple East Area South Door: unknown
 Daedalus - Purple Room East Entrance: unknown
@@ -41,6 +43,7 @@ Daedalus - Purple West Area North Door: unknown
 Daedalus - Rainbow Rooms Entrance: unknown
 Daedalus - Salt Room Entrance: unknown
 Daedalus - Splintering Exit Left Door: unknown
+Daedalus - Starting Room West Wall Center Door: unknown
 Daedalus - Temple of the Eyes Entrance: unknown
 Daedalus - U2 Room Back Door: unknown
 Daedalus - U2 Room Entrance: unknown
@@ -52,6 +55,7 @@ Daedalus - Zoo South Entrance: unknown
 E: progression
 Eval Symbol: unknown
 Example Symbol: unknown
+Four Rooms - Examples Door: unknown
 Four Rooms - Synonyms Door: unknown
 G: unknown
 H: progression
@@ -66,6 +70,7 @@ N: unknown
 O: unknown
 P: unknown
 Progressive Gold Ending: unknown
+Pyramid Symbol: unknown
 Q: unknown
 Question Symbol: progression
 R: unknown
@@ -79,6 +84,7 @@ The Between - B2 Door: unknown
 The Between - Control Center Entrance: unknown
 The Between - Plaza Entrance: unknown
 The Colorful - Purple Side Entrance: unknown
+The Colorful - Yellow Door: unknown
 The Congruent - Flipped Yellow Door: unknown
 The Congruent - G Keyholder Blocker: unknown
 The Congruent - Obverse Magenta Door: unknown
@@ -88,6 +94,7 @@ The Entry - Blue Alcove Exit: unknown
 The Entry - Colored Doors Area Entrance: unknown
 The Entry - Daedalus Entrance: unknown
 The Entry - Flip Area Entrance: unknown
+The Entry - Lime Room Entrance: unknown
 The Entry - Literate Entrance: unknown
 The Entry - Near D Room Painting: unknown
 The Entry - Noon Door: unknown
@@ -100,6 +107,7 @@ The Great - Invisible Entrance: unknown
 The Great - Jail Entrance: unknown
 The Great - Nature Room Door: unknown
 The Great - Savory Painting: unknown
+The Great - Tower Entrance: unknown
 The Hive - Room 8 Door: unknown
 The Impressive - Control Center Green Door: progression
 The Impressive - Side Door: unknown

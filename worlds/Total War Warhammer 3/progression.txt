@@ -8,6 +8,7 @@ Make Love, Not War: unknown
 Orb of Domination: unknown
 Progressive brt_barracks: unknown
 Progressive brt_carpenter: unknown
+Progressive brt_industry_extra: unknown
 Progressive brt_port: unknown
 Progressive brt_resource_dyes: unknown
 Progressive brt_resource_gemstones: unknown
@@ -161,6 +162,7 @@ wh_dlc03_bundle_anc_mark_of_chaos_gouge_tusks: unknown
 wh_dlc05_tech_1_cadai: unknown
 wh_dlc05_tech_1_ladrielle: unknown
 wh_dlc05_tech_1_lileath: unknown
+wh_dlc05_tech_1_loec: unknown
 wh_dlc05_tech_2_addaioth: unknown
 wh_dlc05_tech_2_anath_raema: unknown
 wh_dlc05_tech_2_eldrazor: unknown
