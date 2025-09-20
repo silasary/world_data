@@ -236,6 +236,8 @@ high light staff: unknown
 homing laser beam: unknown
 homing laser wave: unknown
 ice GS: unknown
+ice bolt: unknown
+ice chain: unknown
 ice circle: filler
 ice flail: unknown
 ice meteor: filler
@@ -290,6 +292,7 @@ thorn chakram: filler
 thorn circle: unknown
 thorn flail: unknown
 thorn god: filler
+thorn ring: unknown
 thunder GS: unknown
 thunder cestus: unknown
 thunder chakram: filler
