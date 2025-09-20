@@ -19,6 +19,7 @@ bob-cobalt-processing: unknown
 bob-deuterium-fuel-cell-2: unknown
 bob-deuterium-fuel-reprocessing: unknown
 bob-deuterium-processing: unknown
+bob-distractor-mine: unknown
 bob-electric-chemical-furnace: unknown
 bob-electric-mixing-furnace: unknown
 bob-electric-rocket: unknown
@@ -54,6 +55,7 @@ bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
 bob-plasma-bullets: unknown
 bob-plasma-rocket: unknown
+bob-plutonium-fuel-cell: unknown
 bob-poison-bullets: unknown
 bob-poison-mine: unknown
 bob-poison-rocket: unknown

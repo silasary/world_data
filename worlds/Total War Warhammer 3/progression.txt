@@ -165,6 +165,7 @@ wh_dlc05_tech_2_addaioth: unknown
 wh_dlc05_tech_2_anath_raema: unknown
 wh_dlc05_tech_2_eldrazor: unknown
 wh_dlc05_tech_2_ereth_khial: unknown
+wh_dlc05_tech_2_hekarti: unknown
 wh_dlc07_brt_cav_grail_guardians_0: unknown
 wh_dlc07_brt_inf_foot_squires_0: unknown
 wh_dlc07_tech_brt_chivalry_chaos_1: unknown
@@ -204,6 +205,7 @@ wh_main_anc_enchanted_item_the_other_tricksters_shard: unknown
 wh_main_anc_magic_standard_rangers_standard: unknown
 wh_main_anc_magic_standard_war_banner: unknown
 wh_main_anc_talisman_obsidian_amulet: unknown
+wh_main_anc_talisman_obsidian_trinket: unknown
 wh_main_brt_cav_knights_of_the_realm: unknown
 wh_main_brt_cav_pegasus_knights: unknown
 wh_main_brt_hospital_2: unknown
