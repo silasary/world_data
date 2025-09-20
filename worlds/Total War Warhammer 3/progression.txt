@@ -208,6 +208,7 @@ wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
 wh_main_brt_cav_knights_of_the_realm: unknown
 wh_main_brt_cav_pegasus_knights: unknown
+wh_main_brt_farm_extra_2: unknown
 wh_main_brt_hospital_2: unknown
 wh_main_brt_industry_basic_3: unknown
 wh_main_brt_industry_extra_2: unknown
