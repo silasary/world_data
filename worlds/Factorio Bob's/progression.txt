@@ -12,6 +12,7 @@ bob-alien-purple-research: unknown
 bob-alien-red-research: unknown
 bob-alloy-processing: unknown
 bob-aluminium-processing: unknown
+bob-ap-bullets: unknown
 bob-artifact-radar: unknown
 bob-bullets: unknown
 bob-ceramics: unknown
