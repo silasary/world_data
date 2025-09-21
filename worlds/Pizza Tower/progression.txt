@@ -1,3 +1,4 @@
+Ball: progression
 Barrel: progression
 Bodyslam: progression
 Bomb: unknown
@@ -50,16 +51,16 @@ Permanent 10 Points: filler
 Permanent 100 Points: filler
 Permanent 50 Points: filler
 Pizza Shield: filler
-Pizzabox: unknown
+Pizzabox: progression
 Primo Burg: filler
 Pumpkin: progression
 Rat Kick: useful
-Revolver: unknown
+Revolver: progression
 Rocket: progression
-Satan's Choice: unknown
-Shotgun: unknown
+Satan's Choice: progression
+Shotgun: progression
 Spin Attack: useful
-Sticky Cheese: unknown
+Sticky Cheese: progression
 Superjump: progression
 Supertaunt: useful
 Taunt: progression
