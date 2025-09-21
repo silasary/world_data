@@ -129,6 +129,7 @@ wh2_main_brt_resource_animals_2: unknown
 wh2_main_brt_resource_animals_3: unknown
 wh2_main_brt_resource_dyes_3: unknown
 wh2_main_brt_resource_furs_2: unknown
+wh2_main_brt_resource_marble_3: unknown
 wh2_main_brt_resource_medicine_3: unknown
 wh2_main_brt_resource_spices_3: unknown
 wh2_main_brt_resource_timber_3: unknown
@@ -210,6 +211,7 @@ wh_main_anc_magic_standard_rangers_standard: unknown
 wh_main_anc_magic_standard_war_banner: unknown
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
+wh_main_brt_cav_grail_knights: unknown
 wh_main_brt_cav_knights_of_the_realm: unknown
 wh_main_brt_cav_pegasus_knights: unknown
 wh_main_brt_farm_extra_2: unknown
