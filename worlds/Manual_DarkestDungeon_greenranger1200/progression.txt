@@ -65,7 +65,7 @@ Lunge: unknown
 Mace Bash: unknown
 Manacles: progression
 Mark for Death: unknown
-Nervous Stab: unknown
+Nervous Stab: progression
 Noxious Blast: unknown
 Open Vein: progression
 Patch Up: unknown
@@ -79,7 +79,7 @@ Progressive Bar: useful
 Progressive Bonfire: unknown
 Progressive Brigand Pounder Boss Key: progression
 Progressive Cloister: useful
-Progressive Darkest Dungeon Key: unknown
+Progressive Darkest Dungeon Key: progression
 Progressive Drowned Crew Boss Key: unknown
 Progressive Experienced Recruits: unknown
 Progressive Flesh Boss Key: progression
@@ -127,7 +127,7 @@ Target Whistle: progression
 Thrown Dagger: progression
 Toxin Trickery: unknown
 Tracking Shot: progression
-Transform: unknown
+Transform: progression
 Uppercut: progression
 Vulnerability Hex: progression
 Weakening Curse: unknown

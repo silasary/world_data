@@ -11,13 +11,14 @@ Ballista Totem Support: unknown
 Blade Blast: unknown
 Blasphemy Support: unknown
 Blast Rain: unknown
+Blazing Salvo: progression
 Blight: unknown
 Blink Arrow: unknown
 Blood Rage: progression
 Blood and Sand: unknown
 Bloodlust Support: unknown
 Boneshatter: unknown
-Brutality Support: unknown
+Brutality Support: progression
 Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
@@ -25,7 +26,7 @@ Cast while Channelling Support: unknown
 Chain Hook: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
-Charged Dash: unknown
+Charged Dash: progression
 Charged Mines Support: unknown
 Chieftain: unknown
 Cleave: unknown
@@ -93,6 +94,7 @@ Life Gain on Hit Support: unknown
 Lightning Penetration Support: unknown
 Lightning Tendrils: unknown
 Maim Support: progression
+Malevolence: progression
 Manabond: unknown
 Marauder: unknown
 Melee Physical Damage Support: unknown
@@ -119,7 +121,7 @@ Progressive Amulet: unknown
 Progressive Axe: unknown
 Progressive BodyArmour: unknown
 Progressive Boots: unknown
-Progressive Bow: unknown
+Progressive Bow: progression
 Progressive Claw: unknown
 Progressive Dagger: unknown
 Progressive Fishing Rod: unknown
