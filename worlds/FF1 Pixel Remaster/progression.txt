@@ -16,14 +16,14 @@
 1380 Gil: unknown
 1385 Gil: unknown
 1450 Gil: unknown
-1455 Gil: unknown
+1455 Gil: filler
 1520 Gil: unknown
 1760 Gil: unknown
 18010 Gil: unknown
 1975 Gil: unknown
 2000 Gil: unknown
 2750 Gil: unknown
-330 Gil: unknown
+330 Gil: filler
 3400 Gil: filler
 4150 Gil: unknown
 450 Gil: unknown
@@ -37,13 +37,13 @@
 7340 Gil: unknown
 7600 Gil: unknown
 7690 Gil: unknown
-7900 Gil: unknown
+7900 Gil: trap
 800 Gil: unknown
 8135 Gil: unknown
 9000 Gil: unknown
 9500 Gil: unknown
 9900 Gil: filler
-Adamantite: unknown
+Adamantite: progression
 Aegis Shield: unknown
 All Promotion Jobs: unknown
 Antidote: unknown
@@ -91,13 +91,14 @@ Masamune: unknown
 Mystic Key: progression
 Mythril Axe: unknown
 Mythril Gloves: unknown
+Mythril Hammer: filler
 Mythril Helm: unknown
 Mythril Knife: unknown
 Mythril Mail: unknown
 Mythril Shield: unknown
 Nitro Powder: unknown
 Phoenix Down: unknown
-Potion: unknown
+Potion: filler
 Power Staff: unknown
 Protect Cloak: unknown
 Protect Ring: unknown
