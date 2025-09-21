@@ -28,7 +28,7 @@ Cobble Badge: unknown
 Coin Case: useful
 Coupon 1: unknown
 Coupon 2: progression
-Coupon 3: unknown
+Coupon 3: useful
 DAY-CARE CHECKER: unknown
 DOT ARTIST: unknown
 DOWSING MACHINE: filler
@@ -181,7 +181,7 @@ Soft Sand: unknown
 Soothe Bell: useful
 Spell Tag: filler
 Splash Plate: unknown
-Spooky Plate: unknown
+Spooky Plate: progression
 Sprayduck: progression
 Star Piece: filler
 Stardust: filler
@@ -213,7 +213,7 @@ TM25: filler
 TM26: filler
 TM27: filler
 TM28 Dig: useful
-TM29: unknown
+TM29: filler
 TM30: filler
 TM31: filler
 TM32: filler
@@ -240,7 +240,7 @@ TM60: filler
 TM62: unknown
 TM63: unknown
 TM65: unknown
-TM66: unknown
+TM66: filler
 TM67: unknown
 TM69: useful
 TM70 Flash: unknown

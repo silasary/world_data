@@ -1,17 +1,20 @@
 1 D$: filler
 1 KROMER: filler
 1 POINT: filler
+10 POINTs: filler
+100 D$: useful
 5 Dollars: unknown
 Amber Card: progression
 Ambyu-Lance Recruit: progression
 Ancient Sweet: unknown
 Auto Axe: unknown
-B.ShotBowtie: unknown
+B.ShotBowtie: useful
 Balthizard Recruit: filler
 Bibliox Recruit: unknown
 Bitter Tear: unknown
 Black Shard: unknown
 Bloxer Recruit: unknown
+Blue Ribbon: useful
 Bounce Blade: unknown
 Bouquet: unknown
 Box of Heart Candy: unknown
@@ -25,7 +28,7 @@ CD Bagel: filler
 Camera: unknown
 Chain Mail: unknown
 Chapter 1: progression
-Chapter 2: unknown
+Chapter 2: progression
 Chapter 3: progression
 Chapter 4: progression
 Choco Diamond: unknown
@@ -52,6 +55,7 @@ Flex Scarf: unknown
 Flying Ace: unknown
 Fortune: filler
 Freeze Ring: unknown
+Ginger Guard: useful
 Glow Wrist: progression
 Glowshard: unknown
 Gold Trophy: filler
@@ -76,6 +80,7 @@ Ladder: unknown
 Lancer Controller: progression
 Lancer Cookie: filler
 Lancer: progression
+Lanino Recruit: progression
 Light Candy: useful
 Lode Stone: unknown
 MIKE Code: unknown
@@ -89,7 +94,7 @@ Miss Mizzle Recruit: unknown
 Mizzle Recruit: unknown
 Mooncloud Stone: unknown
 Moss: filler
-Mouse Puzzles: unknown
+Mouse Puzzles: progression
 Mystic Band: unknown
 Noelle Tea: unknown
 Nothing: unknown
@@ -106,6 +111,7 @@ Progressive Sanctuary: unknown
 Progressive Shadow Crystal: progression
 Progressive TV Time Rank: progression
 Puppet Scarf: unknown
+Rabbick Recruit: progression
 Ragger2: unknown
 Ralsei Tea: unknown
 Revivemint: progression
@@ -116,7 +122,7 @@ Rouxls Block: unknown
 Rouxls Kaard: unknown
 Royal Pin: unknown
 Rudinn Ranger Recruit: filler
-Rudinn Recruit: unknown
+Rudinn Recruit: progression
 S. POISON: unknown
 SHELTER KEY: progression
 SWORD: progression
@@ -135,7 +141,7 @@ Spin Cake: useful
 Susie Tea: unknown
 Susie-like Statue: unknown
 Susiezilla Unlock: progression
-Swatchling Recruit: unknown
+Swatchling Recruit: progression
 TV Dinner: filler
 TV Slop: filler
 Tension Bit: progression
@@ -145,13 +151,13 @@ Tension Max: useful
 The Original    Starwalker: filler
 Thorn Ring: unknown
 Top Cake: unknown
-Toxic Axe: unknown
+Toxic Axe: useful
 Trip Ticket: progression
 Twin Ribbon: useful
 Vacation Photo: unknown
 Waferguard: unknown
 Werewerewire Recruit: unknown
-Werewire Recruit: unknown
+Werewire Recruit: progression
 White Ribbon: progression
 Wicabel Recruit: filler
 Winglade Recruit: filler
