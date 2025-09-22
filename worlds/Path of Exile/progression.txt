@@ -147,10 +147,10 @@ Progressive Shield: unknown
 Progressive Staff: unknown
 Progressive Sword: unknown
 Progressive Wand: unknown
-Progressive max links - BodyArmour: unknown
+Progressive max links - BodyArmour: progression
 Progressive max links - Boots: unknown
 Progressive max links - Gloves: unknown
-Progressive max links - Helm: unknown
+Progressive max links - Helm: progression
 Progressive max links - Offhand: unknown
 Progressive max links - Weapon: progression
 Progressive passive point: progression
@@ -208,7 +208,7 @@ Vigilant Strike: unknown
 Vile Toxins Support: unknown
 Viper Strike: unknown
 Vitality: unknown
-Volatile Dead: unknown
+Volatile Dead: progression
 Voltaxic Burst: progression
 Vortex: unknown
 Vulnerability: progression
