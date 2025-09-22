@@ -49,13 +49,15 @@ Dread Banner: unknown
 Dual Strike: unknown
 Duelist: unknown
 Earthshatter: unknown
-Elemental Hit: unknown
+Elemental Hit: progression
+Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
 Elementalist: unknown
 Energy Blade: unknown
 Ensnaring Arrow: unknown
 Eviscerate: unknown
 Exsanguinate: unknown
+Faster Casting Support: unknown
 Firestorm: unknown
 Flame Wall: unknown
 Flamewood Support: unknown
@@ -87,11 +89,12 @@ Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
 Infernal Legion Support: unknown
 Innervate Support: unknown
+Inquisitor: progression
 Iron Will Support: unknown
 Item Rarity Support: unknown
 Juggernaut: unknown
 Kinetic Blast: unknown
-Lacerate: unknown
+Lacerate: progression
 Lancing Steel: progression
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
@@ -184,6 +187,7 @@ Summon Carrion Golem: unknown
 Summon Chaos Golem: unknown
 Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
+Summon Raging Spirit: unknown
 Sweep: unknown
 Templar: progression
 Tornado Shot: unknown
@@ -196,6 +200,7 @@ Urgent Orders Support: unknown
 Vaal Gems: unknown
 Vampiric Link: unknown
 Venom Gyre: unknown
+Vigilant Strike: unknown
 Vile Toxins Support: unknown
 Viper Strike: unknown
 Vitality: unknown
@@ -204,6 +209,7 @@ Vortex: unknown
 Vulnerability: progression
 War Banner: unknown
 Warden: unknown
+Warlord's Mark: progression
 Wave of Conviction: unknown
 Whirling Blades: unknown
 Wild Strike: unknown
