@@ -114,6 +114,7 @@ wh2_dlc11_bundle_stance_flagship_patrol: unknown
 wh2_dlc11_payload_incident_mass_exodus: unknown
 wh2_dlc11_tech_brt_chivalry_vampire_coast_1: unknown
 wh2_dlc12_anc_enchanted_item_plaque_of_sotek: unknown
+wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: unknown
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: unknown
 wh2_dlc15_special_settlement_massif_orcal_brt_3: unknown
@@ -165,6 +166,7 @@ wh_dlc05_tech_1_isha: unknown
 wh_dlc05_tech_1_ladrielle: unknown
 wh_dlc05_tech_1_lileath: unknown
 wh_dlc05_tech_1_loec: unknown
+wh_dlc05_tech_1_vaul: unknown
 wh_dlc05_tech_2_addaioth: unknown
 wh_dlc05_tech_2_anath_raema: unknown
 wh_dlc05_tech_2_eldrazor: unknown
