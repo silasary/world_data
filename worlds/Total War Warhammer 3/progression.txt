@@ -6,6 +6,7 @@ Let's trade!: unknown
 Look! What's that?: unknown
 Make Love, Not War: unknown
 Orb of Domination: mcguffin
+Progressive brt_allied_outpost: progression
 Progressive brt_barracks: unknown
 Progressive brt_carpenter: unknown
 Progressive brt_industry_extra: unknown
@@ -64,7 +65,7 @@ The GroBro 3000™: unknown
 Torches and Pitchforks!: unknown
 Unionize This!: unknown
 Where is our Map?: unknown
-You too, Brutus?: unknown
+You too, Brutus?: trap
 tech_dlc16_wef_ancients_cypress: unknown
 tech_dlc16_wef_ancients_yew: unknown
 tech_grn_end_1_1: unknown
@@ -194,6 +195,7 @@ wh_dlc07_tech_brt_economy_other_draft: unknown
 wh_dlc07_tech_brt_economy_other_siege: unknown
 wh_dlc07_tech_brt_economy_other_tithes: unknown
 wh_dlc07_tech_brt_economy_trade_2: unknown
+wh_dlc07_tech_brt_heraldry_artois: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: unknown
 wh_dlc07_tech_brt_heraldry_lyonesse: unknown
 wh_dlc07_tech_brt_heraldry_parravon: unknown

@@ -62,6 +62,7 @@ Afterburners (Valkyrie): filler
 Agony Launchers (Vanguard): useful
 All-In (Zerg) Mission Key: unknown
 Amon's Fall Mission Key: unknown
+Amon's Reach (Protoss) Mission Key: progression
 Amplified Assimilators (Protoss): useful
 Amplified Assimilators: useful
 Anabolic Synthesis (Ultralisk): filler
@@ -400,6 +401,7 @@ Hydralisk: progression
 Hydriodic Bile (Roach): useful
 Hyperflight Rotors (Banshee): filler
 Hyperfluxor (Diamondback): useful
+Ibiks Tracking Scanners (Planetary Fortress): useful
 Immobilization Wave (Kerrigan Ability): useful
 Immortal: progression
 Impaler (Hydralisk Morph): unknown
@@ -415,7 +417,7 @@ In Utter Darkness (Terran) Mission Key: unknown
 Incinerator Gauntlets (Firebat): filler
 Increased Building Construction Speed: filler
 Increased Shield Regeneration: filler
-Increased Upgrade Research Speed: unknown
+Increased Upgrade Research Speed: filler
 Incubator Chamber (Swarm Queen): useful
 Indomitable Will (Dark Archon): unknown
 Induce Scopophobia (Observer): useful
@@ -720,6 +722,7 @@ Prolonged Dispersion (Guardian): useful
 Propellant Sacs (Guardian): unknown
 Protective Cover (Aberration): useful
 Psi Disrupter: progression
+Psi Indoctrinator (Hive Mind Emulator): unknown
 Psionic Lash (Spectre): progression
 Psionic Shift (Kerrigan Ability): progression
 Psionic Shift (Kerrigan Tier 2): progression

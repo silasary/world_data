@@ -10,10 +10,12 @@ bob-alien-green-research: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: unknown
 bob-alien-red-research: unknown
+bob-alien-yellow-research: unknown
 bob-alloy-processing: unknown
 bob-aluminium-processing: unknown
 bob-ap-bullets: unknown
 bob-artifact-radar: unknown
+bob-atomic-artillery-shell: unknown
 bob-bullets: unknown
 bob-ceramics: unknown
 bob-cobalt-processing: unknown
@@ -29,12 +31,14 @@ bob-explosive-rocket: unknown
 bob-fertiliser: unknown
 bob-fire-artillery-shells: unknown
 bob-flame-bullets: unknown
+bob-flame-rocket: unknown
 bob-fluid-barrel-processing: unknown
 bob-fluid-canister-processing: unknown
 bob-fluid-chemical-furnace: unknown
 bob-fluid-mixing-furnace: unknown
 bob-gas-canisters: unknown
 bob-gold-processing: unknown
+bob-greenhouse: unknown
 bob-grinding: unknown
 bob-he-bullets: unknown
 bob-heat-shield: unknown
@@ -54,6 +58,7 @@ bob-nitrogen-processing: unknown
 bob-nitroglycerin-processing: unknown
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: unknown
+bob-piercing-rocket: unknown
 bob-plasma-bullets: unknown
 bob-plasma-rocket: unknown
 bob-plutonium-fuel-cell: unknown
