@@ -49,7 +49,7 @@ Energy Root: filler
 EnergyPowder: filler
 Escape Rope: filler
 Ether: filler
-Exp. Share: unknown
+Exp. Share: useful
 Explorer Kit: filler
 FRIENDSHIP CHECKER: unknown
 Fashion Case: filler
@@ -232,6 +232,7 @@ TM46: useful
 TM47: filler
 TM48: filler
 TM49: filler
+TM50: unknown
 TM51: filler
 TM55: unknown
 TM56: useful

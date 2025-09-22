@@ -69,6 +69,7 @@ bob-polishing: unknown
 bob-reinforced-wall: unknown
 bob-robot-flamethrower-drones: unknown
 bob-robot-gun-drones: unknown
+bob-robot-laser-drones: unknown
 bob-robot-plasma-drones: unknown
 bob-rocket: unknown
 bob-rtg: unknown
@@ -117,6 +118,7 @@ oil-gathering: unknown
 plastics: unknown
 progressive-advanced-material-processing: unknown
 progressive-armor: unknown
+progressive-artillery-shell-range: unknown
 progressive-artillery-shell-speed: unknown
 progressive-artillery: unknown
 progressive-automation: unknown
@@ -138,6 +140,7 @@ progressive-bob-fluid-generator: unknown
 progressive-bob-gem-processing: unknown
 progressive-bob-heat-exchanger: unknown
 progressive-bob-heat-pipe: unknown
+progressive-bob-infinite-character-logistic-trash-slots: unknown
 progressive-bob-laser-rifle-ammo: unknown
 progressive-bob-multi-purpose-furnace: unknown
 progressive-bob-oil-boiler: unknown
@@ -148,6 +151,7 @@ progressive-bob-pollution-create-module: unknown
 progressive-bob-pumpjacks: unknown
 progressive-bob-robo-modular: unknown
 progressive-bob-robots: unknown
+progressive-bob-sniper-turrets: unknown
 progressive-bob-steam-turbine: unknown
 progressive-bob-vehicle-battery-equipment: unknown
 progressive-bob-vehicle-big-turret-equipment: unknown
@@ -216,6 +220,7 @@ progressive-weapon-shooting-speed: unknown
 progressive-worker-robots-speed: unknown
 progressive-worker-robots-storage: unknown
 rocket-fuel: unknown
+rocket-silo: unknown
 steel-processing: unknown
 sulfur-processing: unknown
 uranium-ammo: unknown

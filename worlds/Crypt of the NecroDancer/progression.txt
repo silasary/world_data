@@ -10,6 +10,7 @@ Berserk Spell: unknown
 Blunderbuss: unknown
 Bolt: unknown
 Bomb Charm: unknown
+Bomb Spell: unknown
 Boots of Leaping: unknown
 Boots of Lunging: unknown
 Boots of Strength: unknown
@@ -25,6 +26,7 @@ Crystal Shovel: unknown
 Cursed Heart Container: unknown
 Cutlass: unknown
 Dash Spell: unknown
+Diamond Dealer: unknown
 Diamond: unknown
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
@@ -45,7 +47,9 @@ Glass Slippers: unknown
 Gluttony Charm: unknown
 Grenade Charm: unknown
 Hard Mode: unknown
+Harp: unknown
 Heart Container: unknown
+Heavy Glass Armor: unknown
 Instant Gold (200): unknown
 Instant Gold (50): unknown
 Jeweled Dagger: unknown
@@ -53,7 +57,11 @@ Lead Boots: unknown
 Leather Armor: unknown
 Luminous Torch: unknown
 Magic Apple: unknown
+Magic Cheese: unknown
+Magic Cookies: unknown
 Map: unknown
+Merlin: unknown
+Miku: unknown
 Miner's Cap: unknown
 Monkey's Paw: unknown
 Monocle: unknown
@@ -70,11 +78,15 @@ Risk Charm: unknown
 Shield of Shove: unknown
 Shield of Strength: unknown
 Shovel of Courage: unknown
+Shovel of Strength: unknown
 Staff: unknown
 Strength Charm: unknown
+Suzu: unknown
 Tempo: unknown
 Titanium Shovel: unknown
 Torch: unknown
+Trident: unknown
+Weaponmaster: unknown
 Whip: unknown
 Winged Boots: unknown
 Wooden Shield: unknown
