@@ -125,6 +125,7 @@ BlueCard (MAP10): progression
 BlueCard (MAP11): progression
 BlueCard (MAP12): progression
 BlueCard (MAP13): progression
+BlueCard (MAP14): unknown
 BlueCard (MAP15): progression
 BlueCard (MAP16): unknown
 BlueCard (MAP17): progression
@@ -690,6 +691,7 @@ YellowCard (E2M2): progression
 YellowCard (E2M4): progression
 YellowCard (E2M7): progression
 YellowCard (MAP01): unknown
+YellowCard (MAP03): unknown
 YellowCard (MAP04): progression
 YellowCard (MAP05): progression
 YellowCard (MAP06): progression
