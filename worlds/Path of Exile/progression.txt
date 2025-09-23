@@ -63,6 +63,7 @@ Elementalist: unknown
 Energy Blade: unknown
 Ensnaring Arrow: unknown
 Eviscerate: unknown
+Explosive Trap: unknown
 Exsanguinate: unknown
 Faster Casting Support: unknown
 Fire Trap: unknown
@@ -72,12 +73,14 @@ Flame Wall: unknown
 Flamewood Support: unknown
 Flammability: unknown
 Flicker Strike: unknown
+Forbidden Rite: unknown
 Freezing Pulse: unknown
 Frost Bomb: unknown
 Frost Wall: unknown
 Frostblink: unknown
 Frostbolt: unknown
 Glacial Hammer: unknown
+Glacial Shield Swipe: unknown
 Grace: unknown
 Greater Multiple Projectiles Support: unknown
 Greater Volley Support: unknown
@@ -85,6 +88,7 @@ Guardian's Blessing Support: progression
 Heavy Strike: unknown
 Herald of Ash: progression
 Herald of Ice: unknown
+Herald of Purity: unknown
 Hex Bloom Support: unknown
 Hextouch Support: progression
 High-Impact Mine Support: unknown
@@ -96,11 +100,13 @@ Ice Trap: unknown
 Ignite Proliferation Support: unknown
 Immolate Support: unknown
 Immortal Call: unknown
+Increased Area of Effect Support: unknown
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
 Infernal Legion Support: unknown
 Innervate Support: unknown
 Inquisitor: progression
+Intuitive Link: unknown
 Iron Will Support: unknown
 Item Rarity Support: unknown
 Juggernaut: unknown
@@ -109,6 +115,7 @@ Lacerate: progression
 Lancing Steel: progression
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
+Lightning Conduit: unknown
 Lightning Penetration Support: unknown
 Lightning Tendrils: unknown
 Maim Support: progression
@@ -174,7 +181,7 @@ Rallying Cry: unknown
 Reap: unknown
 Reave: unknown
 Rejuvenation Totem: unknown
-Rolling Magma: unknown
+Rolling Magma: progression
 Ruthless Support: unknown
 Saboteur: unknown
 Sacred Wisps Support: unknown
@@ -182,6 +189,7 @@ Sacrifice Support: unknown
 Sadism Support: unknown
 Scorching Ray: unknown
 Searing Bond: unknown
+Second Wind Support: unknown
 Seismic Cry: unknown
 Seismic Trap: progression
 Shadow: progression
@@ -192,11 +200,14 @@ Siphoning Trap: unknown
 Sniper's Mark: unknown
 Soul Link: unknown
 Spark: unknown
+Spectral Helix: unknown
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: unknown
 Spirit Offering: unknown
 Storm Brand: unknown
+Storm Burst: unknown
+Storm Rain: unknown
 Stun Support: unknown
 Summon Carrion Golem: unknown
 Summon Chaos Golem: unknown
@@ -205,6 +216,7 @@ Summon Phantasm Support: unknown
 Summon Raging Spirit: unknown
 Summon Skeletons: unknown
 Sweep: unknown
+Swift Assembly Support: unknown
 Templar: progression
 Tornado Shot: unknown
 Toxic Rain: unknown
