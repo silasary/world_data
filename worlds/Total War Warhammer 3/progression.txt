@@ -138,6 +138,7 @@ wh2_main_brt_resource_dyes_3: unknown
 wh2_main_brt_resource_furs_2: unknown
 wh2_main_brt_resource_marble_3: unknown
 wh2_main_brt_resource_medicine_3: unknown
+wh2_main_brt_resource_pottery_3: useful
 wh2_main_brt_resource_spices_3: unknown
 wh2_main_brt_resource_timber_3: unknown
 wh2_main_brt_resource_wine_2: unknown
