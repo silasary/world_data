@@ -1,10 +1,10 @@
 Get-Rich-Quick Scroll: filler
-Give me that: unknown
-Handfull of Order: unknown
+Give me that: filler
+Handfull of Order: filler
 Handfull of Unrest: unknown
 Let's trade!: unknown
 Look! What's that?: unknown
-Make Love, Not War: unknown
+Make Love, Not War: trap
 Orb of Domination: mcguffin
 Progressive brt_allied_outpost: progression
 Progressive brt_barracks: unknown
@@ -33,7 +33,7 @@ Progressive grn_garrison: unknown
 Progressive grn_garrison_2: unknown
 Progressive grn_goblins: unknown
 Progressive grn_industry: unknown
-Progressive grn_inf: unknown
+Progressive grn_inf: progression
 Progressive grn_military: unknown
 Progressive grn_mon: unknown
 Progressive grn_monsters: unknown
@@ -58,12 +58,12 @@ Progressive grn_walls_3: unknown
 Progressive grn_workshop: unknown
 Progressive special_settlement_massif_orcal_brt: unknown
 Progressive special_settlement_massif_orcal_grn: unknown
-Schizophrenia!: unknown
-Sphere of Influence: unknown
-Spoiler Alert!: unknown
-The GroBro 3000™: unknown
+Schizophrenia!: trap
+Sphere of Influence: progression
+Spoiler Alert!: trap
+The GroBro 3000™: filler
 Torches and Pitchforks!: unknown
-Unionize This!: unknown
+Unionize This!: trap
 Where is our Map?: unknown
 You too, Brutus?: trap
 tech_dlc16_wef_ancients_cypress: unknown
@@ -94,8 +94,10 @@ tech_grn_extra_3_1: unknown
 tech_grn_extra_3_2: unknown
 tech_grn_extra_3_3: unknown
 tech_grn_extra_3_4: unknown
+tech_grn_final_1_1: unknown
 tech_grn_final_1_2: unknown
 tech_grn_mid_1_1: unknown
+tech_grn_mid_2_1: unknown
 tech_grn_start_0_1: unknown
 tech_grn_start_1_1: unknown
 tech_grn_start_1_2: unknown
@@ -113,11 +115,13 @@ wh2_dlc09_anc_weapon_spear_of_pakth: unknown
 wh2_dlc09_payload_dilemma_soulless_sphinx_first: unknown
 wh2_dlc11_bundle_stance_flagship_patrol: unknown
 wh2_dlc11_payload_incident_mass_exodus: unknown
+wh2_dlc11_ror_reward_1: unknown
 wh2_dlc11_tech_brt_chivalry_vampire_coast_1: unknown
 wh2_dlc12_anc_enchanted_item_plaque_of_sotek: unknown
 wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: unknown
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: unknown
+wh2_dlc13_bundle_nakai_temple_gifted: unknown
 wh2_dlc15_special_settlement_massif_orcal_brt_3: unknown
 wh2_dlc17_anc_blessing_of_mania_banner: unknown
 wh2_dlc17_anc_dread_retainer_skinwolf_banner: unknown
@@ -158,6 +162,7 @@ wh3_main_bundle_corruption_chaos_bad_21-30: unknown
 wh3_main_bundle_corruption_khorne_good_1-10: unknown
 wh3_main_bundle_corruption_slaanesh_bad_41-50: unknown
 wh3_main_bundle_lock_recruitment_wh3_main_kho_mon_bloodthirster_0: unknown
+wh3_main_corruption_slaanesh_cult_of_pleasure_71-80: unknown
 wh3_main_dilemma_ksl_1_first: unknown
 wh3_main_minor_cult_tilean_traders: unknown
 wh3_main_ritual_dae_ascend_slaanesh: unknown
@@ -176,6 +181,7 @@ wh_dlc05_tech_2_hekarti: unknown
 wh_dlc07_brt_cav_grail_guardians_0: unknown
 wh_dlc07_brt_inf_battle_pilgrims_0: unknown
 wh_dlc07_brt_inf_foot_squires_0: unknown
+wh_dlc07_tech_brt_chivalry_beastmen_1: unknown
 wh_dlc07_tech_brt_chivalry_chaos_1: unknown
 wh_dlc07_tech_brt_chivalry_dark_elves: unknown
 wh_dlc07_tech_brt_chivalry_greenskins_1: unknown
