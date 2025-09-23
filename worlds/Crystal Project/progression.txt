@@ -574,7 +574,7 @@ Equipment - Reaper's Cuffs - 1948: unknown
 Equipment - Red Blindfold - 2121: unknown
 Equipment - Red Cap: useful
 Equipment - Red Coat: unknown
-Equipment - Red Hairpin: unknown
+Equipment - Red Hairpin: useful
 Equipment - Red Helmet - 1978: unknown
 Equipment - Redder Coat - 1979: unknown
 Equipment - Regenerating Flask - 1886: unknown
@@ -955,7 +955,7 @@ Item - Nuts Sack: unknown
 Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
 Item - Okimoto N.S. Pass: unknown
-Item - Old World Stone: unknown
+Item - Old World Stone: progression
 Item - Overpass Map: useful
 Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
