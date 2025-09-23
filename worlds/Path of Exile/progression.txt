@@ -1,3 +1,5 @@
+Absolution: unknown
+Added Chaos Damage Support: unknown
 Added Fire Damage Support: unknown
 Added Lightning Damage Support: unknown
 Additional Accuracy Support: unknown
@@ -20,6 +22,7 @@ Blink Arrow: unknown
 Blood Rage: progression
 Blood and Sand: unknown
 Bloodlust Support: unknown
+Bonechill Support: unknown
 Boneshatter: unknown
 Brutality Support: progression
 Burning Arrow: unknown
@@ -52,6 +55,7 @@ Dread Banner: unknown
 Dual Strike: unknown
 Duelist: unknown
 Earthshatter: unknown
+Elemental Damage with Attacks Support: unknown
 Elemental Hit: progression
 Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
@@ -61,7 +65,9 @@ Ensnaring Arrow: unknown
 Eviscerate: unknown
 Exsanguinate: unknown
 Faster Casting Support: unknown
+Fire Trap: unknown
 Firestorm: unknown
+Fist of War Support: unknown
 Flame Wall: unknown
 Flamewood Support: unknown
 Flammability: unknown
@@ -82,6 +88,7 @@ Herald of Ice: unknown
 Hex Bloom Support: unknown
 Hextouch Support: progression
 High-Impact Mine Support: unknown
+Holy Flame Totem: unknown
 Ice Bite Support: unknown
 Ice Shot: unknown
 Ice Spear: unknown
@@ -108,6 +115,7 @@ Maim Support: progression
 Malevolence: progression
 Manabond: unknown
 Marauder: unknown
+Mark On Hit Support: unknown
 Melee Physical Damage Support: unknown
 Melee Splash Support: unknown
 Minion Damage Support: unknown
@@ -159,12 +167,14 @@ Protective Link: unknown
 Pulverise Support: unknown
 Puncture: unknown
 Rage Support: unknown
+Rage Vortex: unknown
 Rain of Arrows: unknown
 Raise Spectre: unknown
 Rallying Cry: unknown
 Reap: unknown
 Reave: unknown
 Rejuvenation Totem: unknown
+Rolling Magma: unknown
 Ruthless Support: unknown
 Saboteur: unknown
 Sacred Wisps Support: unknown
@@ -193,6 +203,7 @@ Summon Chaos Golem: unknown
 Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
 Summon Raging Spirit: unknown
+Summon Skeletons: unknown
 Sweep: unknown
 Templar: progression
 Tornado Shot: unknown
