@@ -127,6 +127,7 @@ Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
 Vehicle:Air Saucer: unknown
+Vehicle:Black Volt: unknown
 Vehicle:Gun Jumper: unknown
 Vehicle:Standard Car: progression
 Warp:Air Fleet: progression
