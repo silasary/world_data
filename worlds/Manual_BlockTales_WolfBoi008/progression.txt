@@ -19,6 +19,7 @@ Charge DEF: useful
 Charge: useful
 Cherry: filler
 Chocolate Ice Cream: filler
+Cinnamon Roll: unknown
 Clownfish Fillet: filler
 Coconut Water: unknown
 Comatose: useful
@@ -39,6 +40,7 @@ Free Ice: filler
 Free Poison: filler
 Ghost Potion: progression
 Ghostwalker: mcguffin
+Goldfish: unknown
 Green Tea: unknown
 Gulab Jamun: unknown
 HP Drain: useful

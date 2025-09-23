@@ -204,7 +204,7 @@ Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
 Bundle: Homing Rifle Ammo: filler
 Bundle: Hover Pack: useful
-Bundle: Iodine-Infused Filter: unknown
+Bundle: Iodine-Infused Filter: filler
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
