@@ -54,6 +54,7 @@ Card Set Fire 7-9: unknown
 Card Set Genie 0: filler
 Card Set Genie 1-3: filler
 Card Set Genie 4-6: filler
+Card Set Genie 7-9: useful
 Card Set Gravity 0: filler
 Card Set Gravity 1-3: filler
 Card Set Gravity 4-6: useful
@@ -167,7 +168,7 @@ Enemy Card Fat Bandit: useful
 Enemy Card Green Requiem: useful
 Enemy Card Hades: unknown
 Enemy Card Hook: filler
-Enemy Card Lexaeus: unknown
+Enemy Card Lexaeus: useful
 Enemy Card Marluxia: useful
 Enemy Card Neoshadow: useful
 Enemy Card Pirate: filler
