@@ -89,6 +89,7 @@
 200 Puzzle Pieces: unknown
 202 Puzzle Pieces: unknown
 206 Puzzle Pieces: unknown
+208 Puzzle Pieces: unknown
 21 Puzzle Pieces: progression
 210 Puzzle Pieces: progression
 214 Puzzle Pieces: unknown
@@ -212,6 +213,7 @@
 87 Puzzle Pieces: unknown
 88 Puzzle Pieces: unknown
 89 Puzzle Pieces: unknown
+9 Fake Puzzle Pieces: trap
 9 Puzzle Pieces: progression
 90 Puzzle Pieces: unknown
 91 Puzzle Pieces: unknown

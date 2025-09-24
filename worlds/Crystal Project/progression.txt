@@ -539,7 +539,7 @@ Equipment - Progressive Book: unknown
 Equipment - Progressive Bow: unknown
 Equipment - Progressive Dagger: useful
 Equipment - Progressive Heavy Body: useful
-Equipment - Progressive Heavy Head: unknown
+Equipment - Progressive Heavy Head: useful
 Equipment - Progressive Katana: unknown
 Equipment - Progressive Light Body: useful
 Equipment - Progressive Light Head: progression
@@ -846,7 +846,7 @@ Item - Castle Sequoia Map: useful
 Item - Castle Sequoia Pass: progression
 Item - Cave Key: unknown
 Item - Cell Key: unknown
-Item - Central Lookout Token: unknown
+Item - Central Lookout Token: mcguffin
 Item - Cerulean Book: progression
 Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
