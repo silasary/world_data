@@ -15,7 +15,7 @@ Armor of the Glorious: unknown
 Armor of the Sun: filler
 Astora's Straight Sword: filler
 Avelyn: unknown
-Balder Armor: unknown
+Balder Armor: filler
 Balder Gauntlets: filler
 Balder Helm: filler
 Balder Leggings: filler
@@ -276,7 +276,7 @@ Hand Axe: filler
 Hard Leather Armor: useful
 Hard Leather Boots: useful
 Hard Leather Gauntlets: unknown
-Havel's Armor: unknown
+Havel's Armor: useful
 Havel's Gauntlets: unknown
 Havel's Greatshield: filler
 Havel's Helm: useful
@@ -288,7 +288,7 @@ Heavy Bolt: useful
 Heavy Boots: unknown
 Heavy Crossbow: useful
 Helm of Artorias: unknown
-Helm of Thorns: unknown
+Helm of Thorns: filler
 Helm of the Wise: unknown
 Hollow Soldier Armor: filler
 Hollow Soldier Helm: unknown
@@ -398,9 +398,9 @@ Moonlight Butterfly Horn: filler
 Moonlight Gloves: useful
 Moonlight Greatsword: useful
 Moonlight Robe: filler
-Moonlight Waistcloth: unknown
+Moonlight Waistcloth: filler
 Morning Star: unknown
-Murakumo: unknown
+Murakumo: filler
 Mystery Key: progression
 Notched Whip: useful
 Obsidian Greatsword: useful
@@ -431,7 +431,7 @@ Poison Arrow: useful
 Poison Throwing Knife: filler
 Poisonbite Ring: unknown
 Porcelain Mask: filler
-Priest's Hat: unknown
+Priest's Hat: filler
 Priscilla's Dagger: useful
 Prism Stone: filler
 Purging Stone: useful
@@ -455,7 +455,7 @@ Pyromancy: Great Combustion: unknown
 Pyromancy: Great Fireball: useful
 Pyromancy: Iron Flesh: useful
 Pyromancy: Poison Mist: filler
-Pyromancy: Power Within: unknown
+Pyromancy: Power Within: useful
 Pyromancy: Toxic Mist: useful
 Pyromancy: Undead Rapport: filler
 Quelaag's Furysword: unknown
@@ -477,7 +477,7 @@ Ring of Steel Protection: filler
 Ring of the Evil Eye: filler
 Ring of the Sun Princess: useful
 Ring of the Sun's Firstborn: useful
-Rite of Kindling: unknown
+Rite of Kindling: progression
 Robe of the Channelers: filler
 Robe of the Great Lord: unknown
 Rotten Pine Resin: filler
