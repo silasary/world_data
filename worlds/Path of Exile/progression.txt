@@ -41,6 +41,7 @@ Chieftain: unknown
 Cleave: unknown
 Cold Snap: unknown
 Combustion Support: unknown
+Conductivity: unknown
 Consecrated Path: unknown
 Contagion: unknown
 Controlled Blaze Support: unknown
@@ -49,9 +50,11 @@ Conversion Trap: unknown
 Corrupting Fever: unknown
 Crackling Lance: progression
 Culling Strike Support: progression
+Cursed Ground Support: unknown
 Cyclone: unknown
 Damage on Full Life Support: unknown
 Dash: unknown
+Deadeye: unknown
 Deadly Ailments Support: unknown
 Despair: unknown
 Destructive Link: unknown
@@ -67,6 +70,7 @@ Elemental Damage with Attacks Support: unknown
 Elemental Hit: progression
 Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
+Elemental Weakness: unknown
 Elementalist: unknown
 Enduring Cry: unknown
 Energy Blade: unknown
@@ -79,6 +83,7 @@ Fire Trap: unknown
 Firestorm: unknown
 Fist of War Support: unknown
 Flame Wall: unknown
+Flamethrower Trap: unknown
 Flamewood Support: unknown
 Flammability: unknown
 Flicker Strike: unknown
@@ -97,6 +102,7 @@ Greater Multiple Projectiles Support: unknown
 Greater Volley Support: unknown
 Guardian's Blessing Support: progression
 Heavy Strike: unknown
+Herald of Agony: unknown
 Herald of Ash: progression
 Herald of Ice: unknown
 Herald of Purity: unknown
@@ -114,6 +120,7 @@ Immortal Call: progression
 Increased Area of Effect Support: unknown
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
+Infernal Cry: unknown
 Infernal Legion Support: unknown
 Innervate Support: unknown
 Inquisitor: progression
@@ -128,6 +135,7 @@ Less Duration Support: unknown
 Life Gain on Hit Support: unknown
 Lightning Conduit: unknown
 Lightning Penetration Support: unknown
+Lightning Spire Trap: unknown
 Lightning Strike: unknown
 Lightning Tendrils: unknown
 Lightning Warp: unknown
@@ -240,6 +248,7 @@ Summon Raging Spirit: unknown
 Summon Skeletons: unknown
 Sweep: unknown
 Swift Assembly Support: unknown
+Swordstorm: unknown
 Tectonic Slam: unknown
 Templar: progression
 Tornado Shot: unknown
