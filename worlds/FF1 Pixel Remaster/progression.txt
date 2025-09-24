@@ -10,6 +10,7 @@
 1180 Gil: filler
 12350 Gil: unknown
 1250 Gil: unknown
+1295 Gil: unknown
 1300 Gil: useful
 13000 Gil: unknown
 13450 Gil: unknown
@@ -41,6 +42,7 @@
 7900 Gil: trap
 800 Gil: unknown
 8135 Gil: filler
+880 Gil: unknown
 9000 Gil: unknown
 9500 Gil: unknown
 9900 Gil: filler

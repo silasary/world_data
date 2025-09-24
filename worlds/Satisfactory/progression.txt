@@ -210,7 +210,7 @@ Bundle: Iron Ore: filler
 Bundle: Iron Plate: filler
 Bundle: Iron Rebar: filler
 Bundle: Iron Rod: filler
-Bundle: Jetpack: unknown
+Bundle: Jetpack: useful
 Bundle: Leaves: filler
 Bundle: Limestone: filler
 Bundle: Lizard Doggo Statue: filler

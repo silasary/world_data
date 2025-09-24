@@ -5,6 +5,7 @@ Added Lightning Damage Support: unknown
 Additional Accuracy Support: unknown
 Alternate Gems: unknown
 Ambush: unknown
+Ancestral Call Support: unknown
 Ancestral Cry: unknown
 Ancestral Protector: progression
 Arcanist Brand: unknown
@@ -12,6 +13,7 @@ Archmage Support: unknown
 Arrow Nova Support: progression
 Ascendant: unknown
 Assassin's Mark: unknown
+Autoexertion: unknown
 Ballista Totem Support: unknown
 Behead Support: unknown
 Blade Blast: unknown
@@ -40,6 +42,7 @@ Cleave: unknown
 Cold Snap: unknown
 Combustion Support: unknown
 Consecrated Path: unknown
+Contagion: unknown
 Controlled Blaze Support: unknown
 Controlled Destruction Support: unknown
 Conversion Trap: unknown
@@ -50,6 +53,7 @@ Cyclone: unknown
 Damage on Full Life Support: unknown
 Dash: unknown
 Deadly Ailments Support: unknown
+Despair: unknown
 Destructive Link: unknown
 Detonate Mines: unknown
 Discipline: unknown
@@ -58,11 +62,13 @@ Dread Banner: unknown
 Dual Strike: unknown
 Duelist: unknown
 Earthshatter: unknown
+Efficacy Support: unknown
 Elemental Damage with Attacks Support: unknown
 Elemental Hit: progression
 Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
 Elementalist: unknown
+Enduring Cry: unknown
 Energy Blade: unknown
 Ensnaring Arrow: unknown
 Eviscerate: unknown
@@ -76,6 +82,7 @@ Flame Wall: unknown
 Flamewood Support: unknown
 Flammability: unknown
 Flicker Strike: unknown
+Focused Channelling Support: unknown
 Forbidden Rite: unknown
 Freezing Pulse: unknown
 Frost Bomb: unknown
@@ -123,6 +130,7 @@ Lightning Conduit: unknown
 Lightning Penetration Support: unknown
 Lightning Strike: unknown
 Lightning Tendrils: unknown
+Lightning Warp: unknown
 Maim Support: progression
 Malevolence: progression
 Manabond: unknown
@@ -161,6 +169,7 @@ Progressive Claw: unknown
 Progressive Dagger: unknown
 Progressive Fishing Rod: unknown
 Progressive Flask Unlock: unknown
+Progressive Gloves: unknown
 Progressive Helmet: unknown
 Progressive Mace: unknown
 Progressive Quiver: progression
@@ -181,6 +190,8 @@ Progressive passive point: progression
 Protective Link: unknown
 Pulverise Support: unknown
 Puncture: unknown
+Punishment: unknown
+Purity of Elements: unknown
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
@@ -203,6 +214,7 @@ Seismic Trap: progression
 Shadow: progression
 Shattering Steel: unknown
 Shock Nova: unknown
+Shockwave Totem: unknown
 Shrapnel Ballista: unknown
 Siphoning Trap: unknown
 Sniper's Mark: unknown
@@ -227,6 +239,7 @@ Summon Raging Spirit: unknown
 Summon Skeletons: unknown
 Sweep: unknown
 Swift Assembly Support: unknown
+Tectonic Slam: unknown
 Templar: progression
 Tornado Shot: unknown
 Toxic Rain: unknown
@@ -244,6 +257,7 @@ Viper Strike: unknown
 Vitality: unknown
 Void Sphere: unknown
 Volatile Dead: progression
+Volcanic Fissure: unknown
 Voltaxic Burst: progression
 Vortex: unknown
 Vulnerability: progression
