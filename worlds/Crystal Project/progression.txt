@@ -898,7 +898,7 @@ Item - Fresh Salmon: filler
 Item - Gaea Stone: unknown
 Item - Ganymede Shrine Map: unknown
 Item - Ganymede Shrine Pass: progression
-Item - Ganymede Stone: unknown
+Item - Ganymede Stone: progression
 Item - Gardeners Key: progression
 Item - Gold Dust: useful
 Item - Gold Ingot: filler
@@ -1184,7 +1184,7 @@ Scholar - Explode: unknown
 Scholar - Fire Breath: useful
 Scholar - Infusion: unknown
 Scholar - Insult: unknown
-Scholar - Lifegiver: unknown
+Scholar - Lifegiver: useful
 Scholar - Lucky Dice: unknown
 Scholar - MP Sickle: useful
 Scholar - Overload: unknown
