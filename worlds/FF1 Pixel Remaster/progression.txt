@@ -28,7 +28,7 @@
 3400 Gil: filler
 4150 Gil: unknown
 450 Gil: unknown
-5000 Gil: unknown
+5000 Gil: filler
 5450 Gil: unknown
 5454 Gil: unknown
 575 Gil: unknown
@@ -104,7 +104,7 @@ Mythril Hammer: filler
 Mythril Helm: unknown
 Mythril Knife: unknown
 Mythril Mail: unknown
-Mythril Shield: unknown
+Mythril Shield: filler
 Nitro Powder: unknown
 Phoenix Down: unknown
 Potion: filler
@@ -113,7 +113,7 @@ Protect Cloak: unknown
 Protect Ring: unknown
 Rat's Tail: unknown
 Razer: unknown
-Ribbon: unknown
+Ribbon: filler
 Rosetta Stone: unknown
 Ruby Armlet: unknown
 Rune Blade: unknown
@@ -127,7 +127,7 @@ Star Ruby: unknown
 Steel Gloves: unknown
 Sun Blade: filler
 Tent: unknown
-Vorpal Sword: unknown
+Vorpal Sword: filler
 Warp Cube: unknown
 White Robe: unknown
 White Wizard Job: unknown

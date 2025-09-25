@@ -96,6 +96,7 @@ Flammability: unknown
 Flicker Strike: unknown
 Focused Channelling Support: unknown
 Forbidden Rite: unknown
+Fortify Support: unknown
 Freezing Pulse: unknown
 Frost Bomb: unknown
 Frost Wall: unknown
@@ -210,7 +211,7 @@ Pulverise Support: unknown
 Puncture: unknown
 Punishment: unknown
 Purifying Flame: progression
-Purity of Elements: unknown
+Purity of Elements: progression
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
@@ -263,6 +264,7 @@ Swordstorm: unknown
 Tectonic Slam: unknown
 Templar: progression
 Tornado Shot: unknown
+Tornado: unknown
 Toxic Rain: unknown
 Trap and Mine Damage Support: unknown
 Trauma Support: progression
