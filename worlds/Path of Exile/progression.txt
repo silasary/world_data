@@ -15,8 +15,11 @@ Ascendant: unknown
 Assassin's Mark: unknown
 Autoexertion: unknown
 Ballista Totem Support: unknown
+Bear Trap: unknown
 Behead Support: unknown
 Blade Blast: unknown
+Blade Vortex: progression
+Bladefall: unknown
 Blasphemy Support: unknown
 Blast Rain: unknown
 Blazing Salvo: progression
@@ -27,6 +30,7 @@ Blood and Sand: unknown
 Bloodlust Support: unknown
 Bonechill Support: unknown
 Boneshatter: unknown
+Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
@@ -38,6 +42,7 @@ Chance to Flee Support: unknown
 Charged Dash: progression
 Charged Mines Support: unknown
 Chieftain: unknown
+Clarity: progression
 Cleave: unknown
 Cold Snap: unknown
 Combustion Support: unknown
@@ -53,11 +58,13 @@ Culling Strike Support: progression
 Cursed Ground Support: unknown
 Cyclone: unknown
 Damage on Full Life Support: unknown
+Dark Pact: unknown
 Dash: unknown
 Deadeye: progression
 Deadly Ailments Support: unknown
 Despair: unknown
 Destructive Link: unknown
+Determination: progression
 Detonate Mines: unknown
 Discipline: unknown
 Double Strike: unknown
@@ -110,6 +117,7 @@ Hex Bloom Support: unknown
 Hextouch Support: progression
 High-Impact Mine Support: unknown
 Holy Flame Totem: unknown
+Hydrosphere: progression
 Ice Bite Support: unknown
 Ice Shot: unknown
 Ice Spear: unknown
@@ -138,6 +146,7 @@ Lightning Penetration Support: unknown
 Lightning Spire Trap: unknown
 Lightning Strike: unknown
 Lightning Tendrils: unknown
+Lightning Trap: unknown
 Lightning Warp: unknown
 Maim Support: progression
 Malevolence: progression
@@ -152,6 +161,7 @@ Mirror Arrow: progression
 Molten Shell: unknown
 Multiple Totems Support: unknown
 Multiple Traps Support: unknown
+Multistrike Support: unknown
 Necromancer: unknown
 Nightblade Support: unknown
 Normal Dagger: progression
@@ -176,7 +186,7 @@ Progressive Bow: progression
 Progressive Claw: unknown
 Progressive Dagger: unknown
 Progressive Fishing Rod: unknown
-Progressive Flask Unlock: unknown
+Progressive Flask Unlock: progression
 Progressive Gloves: unknown
 Progressive Helmet: unknown
 Progressive Mace: progression
@@ -199,6 +209,7 @@ Protective Link: unknown
 Pulverise Support: unknown
 Puncture: unknown
 Punishment: unknown
+Purifying Flame: progression
 Purity of Elements: unknown
 Rage Support: unknown
 Rage Vortex: unknown
