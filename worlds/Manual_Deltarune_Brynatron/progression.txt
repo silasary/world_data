@@ -18,7 +18,7 @@ Black Shard: unknown
 Bloxer Recruit: unknown
 Blue Ribbon: useful
 Bounce Blade: unknown
-Bouquet: unknown
+Bouquet: progression
 Box of Heart Candy: unknown
 Brave Ax: unknown
 Broken Key A: unknown
@@ -35,7 +35,7 @@ Chapter 3: progression
 Chapter 4: progression
 Choco Diamond: unknown
 Claimb Claws: progression
-Clock Puzzles: unknown
+Clock Puzzles: progression
 Clubs Sandwich: useful
 Couch Pillow: unknown
 Counterfeit S-Rank: unknown
@@ -62,7 +62,7 @@ Glow Wrist: progression
 Glowshard: unknown
 Gold Trophy: filler
 Gold Widow: useful
-Golden Tenna Statue: unknown
+Golden Tenna Statue: filler
 Hathy Recruit: filler
 Head Hathy Recruit: filler
 Hearts Donut: unknown
@@ -71,12 +71,13 @@ ICE KEY: unknown
 ICE-E Statue: unknown
 Iron Shackle: unknown
 Itemless Trap: unknown
+JEVIL Item: useful
 Jevilstail: useful
 Jigsawry Recruit: unknown
 Jingle Blade: unknown
 Justice Axe: useful
 KeyGen: useful
-Keyboard Puzzles: unknown
+Keyboard Puzzles: progression
 Kris Tea: useful
 Ladder: unknown
 Lancer Controller: progression
@@ -103,7 +104,7 @@ Nothing: unknown
 Organikk Recruit: filler
 Piano Puzzles: progression
 Pink Ribbon: progression
-Pipis: unknown
+Pipis: filler
 Pippins Recruit: progression
 Platinum Trophy: filler
 Ponman Recruit: filler
@@ -138,7 +139,7 @@ Silver Trophy: filler
 Silver Watch: unknown
 Slow Trap: unknown
 Smile: unknown
-Spaghetti Code: unknown
+Spaghetti Code: filler
 Spin Cake: useful
 Susie Tea: useful
 Susie-like Statue: unknown
@@ -166,4 +167,4 @@ Wicabel Recruit: filler
 Winglade Recruit: filler
 Winglade: unknown
 Z-Rank Door: progression
-Zapper Recruit: unknown
+Zapper Recruit: progression
