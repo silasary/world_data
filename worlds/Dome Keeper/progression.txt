@@ -3,6 +3,8 @@ Artillery mortar: unknown
 Bundles upgrade: useful
 Carry upgrade: useful
 Compression mining upgrade: useful
+Defective weapon assignment unlock: unknown
+Dense iron assignment unlock: unknown
 Drill upgrade: progression
 Droneyard drone speed: useful
 Droneyard drones amount: useful
@@ -12,18 +14,22 @@ Extra cobalt: useful
 Extra iron: useful
 Extra starting cobalt: unknown
 Extra starting iron: filler
+Extra starting water: unknown
 Extra water: useful
 Fruit duration: unknown
 Fruit mining boost: useful
 Fruit speed boost: unknown
 Gravitational movement: useful
+High risk assignment unlock: unknown
 Iron contribution assignment unlock: progression
+Iron shortage assignment unlock: unknown
 Jetpack upgrade: useful
 Kinetic spheres: useful
 Laser sight: useful
 Laser speed: useful
 Laser strength: useful
 Layer unlock: progression
+Maze assignment unlock: unknown
 Orchard ability: useful
 Orchard overcharge: unknown
 Projectile hell assignment unlock: progression
@@ -37,6 +43,7 @@ Showdown assignment unlock: progression
 Sphere lifetime upgrade: useful
 Sphere special upgrade: useful
 Sphere supply upgrade: useful
+Swiss cheese assignment unlock: unknown
 Sword aim line: filler
 Sword better stab: filler
 Sword reflection: useful
@@ -46,4 +53,5 @@ Tesla better orb: unknown
 Tesla quick shot: unknown
 Tesla reticle speed: unknown
 Tesla shot power: unknown
+Wave shortened: unknown
 Wave start: unknown
