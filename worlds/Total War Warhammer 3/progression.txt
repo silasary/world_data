@@ -137,6 +137,7 @@ wh2_main_brt_resource_animals_2: unknown
 wh2_main_brt_resource_animals_3: unknown
 wh2_main_brt_resource_dyes_3: unknown
 wh2_main_brt_resource_furs_2: unknown
+wh2_main_brt_resource_marble_2: unknown
 wh2_main_brt_resource_marble_3: unknown
 wh2_main_brt_resource_medicine_3: unknown
 wh2_main_brt_resource_pottery_3: useful
@@ -199,6 +200,7 @@ wh_dlc07_tech_brt_economy_farm_3: unknown
 wh_dlc07_tech_brt_economy_farm_farriers: unknown
 wh_dlc07_tech_brt_economy_industry_3: unknown
 wh_dlc07_tech_brt_economy_industry_4: unknown
+wh_dlc07_tech_brt_economy_industry_pottery: unknown
 wh_dlc07_tech_brt_economy_industry_steel: unknown
 wh_dlc07_tech_brt_economy_industry_tournaments: unknown
 wh_dlc07_tech_brt_economy_other_carpenters: unknown
