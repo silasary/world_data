@@ -18,6 +18,7 @@ Progressive brt_resource_marble: unknown
 Progressive brt_resource_spices: unknown
 Progressive brt_settlement_major: unknown
 Progressive brt_settlement_minor: unknown
+Progressive brt_stables: unknown
 Progressive brt_tavern: unknown
 Progressive brt_walls: unknown
 Progressive foreign_slot_discovery_brt: unknown
