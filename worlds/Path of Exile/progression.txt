@@ -60,7 +60,7 @@ Conversion Trap: unknown
 Corrupting Fever: unknown
 Crackling Lance: progression
 Creeping Frost: unknown
-Critical Strike Affliction Support: unknown
+Critical Strike Affliction Support: progression
 Crushing Fist: unknown
 Culling Strike Support: progression
 Cursed Ground Support: unknown
@@ -82,7 +82,7 @@ Duelist: unknown
 Earthshatter: unknown
 Efficacy Support: unknown
 Elemental Damage with Attacks Support: unknown
-Elemental Focus Support: unknown
+Elemental Focus Support: progression
 Elemental Hit: progression
 Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
@@ -112,7 +112,7 @@ Frost Bomb: unknown
 Frost Wall: unknown
 Frostblink: unknown
 Frostbolt: unknown
-General's Cry: unknown
+General's Cry: progression
 Generosity Support: progression
 Glacial Hammer: unknown
 Glacial Shield Swipe: unknown
@@ -231,7 +231,7 @@ Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
 Raise Spectre: unknown
-Raise Zombie: unknown
+Raise Zombie: progression
 Rallying Cry: unknown
 Reap: unknown
 Reave: unknown

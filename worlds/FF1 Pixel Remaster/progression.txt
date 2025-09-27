@@ -29,7 +29,7 @@
 4150 Gil: unknown
 450 Gil: unknown
 5000 Gil: filler
-5450 Gil: unknown
+5450 Gil: filler
 5454 Gil: unknown
 575 Gil: unknown
 620 Gil: filler
@@ -71,7 +71,7 @@ Dragon Mail: unknown
 Dry Ether: unknown
 Earth Rod: unknown
 Elixir: filler
-Ether: unknown
+Ether: filler
 Excalibur: unknown
 Flame Mail: unknown
 Flame Sword: unknown
@@ -106,7 +106,7 @@ Mythril Helm: unknown
 Mythril Knife: unknown
 Mythril Mail: unknown
 Mythril Shield: filler
-Ninja Job: unknown
+Ninja Job: useful
 Nitro Powder: unknown
 Phoenix Down: unknown
 Potion: filler
