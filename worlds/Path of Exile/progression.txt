@@ -20,6 +20,7 @@ Ballista Totem Support: unknown
 Bear Trap: unknown
 Behead Support: unknown
 Blade Blast: unknown
+Blade Trap: progression
 Blade Vortex: progression
 Bladefall: unknown
 Blasphemy Support: unknown
@@ -47,6 +48,7 @@ Charged Mines Support: unknown
 Chieftain: unknown
 Clarity: progression
 Cleave: unknown
+Close Combat Support: unknown
 Cold Snap: unknown
 Combustion Support: unknown
 Conductivity: unknown
@@ -58,6 +60,8 @@ Conversion Trap: unknown
 Corrupting Fever: unknown
 Crackling Lance: progression
 Creeping Frost: unknown
+Critical Strike Affliction Support: unknown
+Crushing Fist: unknown
 Culling Strike Support: progression
 Cursed Ground Support: unknown
 Cyclone: unknown
@@ -78,6 +82,7 @@ Duelist: unknown
 Earthshatter: unknown
 Efficacy Support: unknown
 Elemental Damage with Attacks Support: unknown
+Elemental Focus Support: unknown
 Elemental Hit: progression
 Elemental Penetration Support: unknown
 Elemental Proliferation Support: unknown
@@ -107,6 +112,7 @@ Frost Bomb: unknown
 Frost Wall: unknown
 Frostblink: unknown
 Frostbolt: unknown
+General's Cry: unknown
 Generosity Support: progression
 Glacial Hammer: unknown
 Glacial Shield Swipe: unknown
@@ -114,6 +120,7 @@ Grace: unknown
 Greater Multiple Projectiles Support: unknown
 Greater Volley Support: unknown
 Guardian's Blessing Support: progression
+Haste: unknown
 Heavy Strike: unknown
 Herald of Agony: unknown
 Herald of Ash: progression
@@ -132,6 +139,7 @@ Ice Trap: unknown
 Ignite Proliferation Support: unknown
 Immolate Support: unknown
 Immortal Call: progression
+Impale Support: progression
 Increased Area of Effect Support: unknown
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
@@ -141,7 +149,7 @@ Innervate Support: unknown
 Inquisitor: progression
 Intuitive Link: unknown
 Iron Will Support: unknown
-Item Rarity Support: unknown
+Item Rarity Support: progression
 Juggernaut: unknown
 Kinetic Blast: unknown
 Lacerate: progression
@@ -187,7 +195,7 @@ Precision: unknown
 Predator Support: progression
 Progressive Amulet: unknown
 Progressive Axe: unknown
-Progressive Belt: unknown
+Progressive Belt: progression
 Progressive BodyArmour: unknown
 Progressive Boots: unknown
 Progressive Bow: progression
@@ -207,7 +215,7 @@ Progressive Staff: unknown
 Progressive Sword: unknown
 Progressive Wand: unknown
 Progressive max links - BodyArmour: progression
-Progressive max links - Boots: unknown
+Progressive max links - Boots: progression
 Progressive max links - Gloves: unknown
 Progressive max links - Helm: progression
 Progressive max links - Offhand: unknown
@@ -223,6 +231,7 @@ Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
 Raise Spectre: unknown
+Raise Zombie: unknown
 Rallying Cry: unknown
 Reap: unknown
 Reave: unknown
@@ -240,7 +249,7 @@ Second Wind Support: unknown
 Seismic Cry: unknown
 Seismic Trap: progression
 Shadow: progression
-Shattering Steel: unknown
+Shattering Steel: progression
 Shock Nova: unknown
 Shockwave Totem: unknown
 Shrapnel Ballista: unknown
@@ -265,12 +274,14 @@ Summon Flame Golem: progression
 Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
 Summon Raging Spirit: unknown
+Summon Reaper: progression
 Summon Skeletons: unknown
 Summon Skitterbots: unknown
 Sweep: unknown
+Swift Affliction Support: unknown
 Swift Assembly Support: unknown
 Swordstorm: unknown
-Tectonic Slam: unknown
+Tectonic Slam: progression
 Templar: progression
 Tornado Shot: unknown
 Tornado: unknown
