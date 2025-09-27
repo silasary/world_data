@@ -3,11 +3,14 @@ Armor Pickup: filler
 Armor Upgrade: useful
 Assimilate Stat: progression
 Attack Stat: progression
+Banana: trap
+Blits Nest: trap
 Blits Trap: trap
-Bundle of Ammo: unknown
+Bundle of Ammo: filler
 CFIS Ammo: filler
 CYBERNETIC ENDURANCE: unknown
 Clown Shoes Trap: trap
+Clown Shoes: trap
 Crack Stat: progression
 ELECTRONIC MASTERY: unknown
 GLORY: progression
@@ -22,16 +25,23 @@ Nano Overload: filler
 Nano Pickup: filler
 Nap Trap: trap
 Null Drive Trap: trap
+Null Drive: trap
 Progressive Sector Access: unknown
 Pulse Ammo: filler
 Ribbon: mcguffin
 Rocket Ammo: filler
 Rocket to the Face Trap: trap
+Rocket to the Face: trap
 SUPPRESSION: progression
+Sector 3 Access: progression
+Sector 4 Access: progression
+Sector 8 Access: progression
+Sector 9 Access: progression
 Sector Access: progression
 Shock Ammo: filler
 Strength Stat: progression
 Supercharge: useful
 Tasen Stat: progression
+Turbo Mode: trap
 Turbo Trap: trap
 VENGEANCE: unknown

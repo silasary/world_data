@@ -14,6 +14,7 @@ Arrow Nova Support: progression
 Ascendant: unknown
 Assassin's Mark: unknown
 Autoexertion: unknown
+Automation: unknown
 Ball Lightning: progression
 Ballista Totem Support: unknown
 Bear Trap: unknown
@@ -40,6 +41,7 @@ Cast while Channelling Support: unknown
 Chain Hook: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
+Chance to Poison Support: unknown
 Charged Dash: progression
 Charged Mines Support: unknown
 Chieftain: unknown
@@ -91,6 +93,7 @@ Faster Casting Support: unknown
 Fire Trap: unknown
 Firestorm: unknown
 Fist of War Support: unknown
+Flame Link: progression
 Flame Wall: unknown
 Flamethrower Trap: unknown
 Flamewood Support: unknown
@@ -121,6 +124,7 @@ Hextouch Support: progression
 High-Impact Mine Support: unknown
 Holy Flame Totem: unknown
 Hydrosphere: progression
+Hypothermia Support: unknown
 Ice Bite Support: unknown
 Ice Shot: unknown
 Ice Spear: unknown
@@ -177,6 +181,7 @@ Petrified Blood: unknown
 Pinpoint Support: unknown
 Poacher's Mark: unknown
 Point Blank Support: unknown
+Power Charge On Critical Support: unknown
 Power Siphon: progression
 Precision: unknown
 Predator Support: progression
@@ -261,6 +266,7 @@ Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
 Summon Raging Spirit: unknown
 Summon Skeletons: unknown
+Summon Skitterbots: unknown
 Sweep: unknown
 Swift Assembly Support: unknown
 Swordstorm: unknown
