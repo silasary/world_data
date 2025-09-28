@@ -1,11 +1,11 @@
 1000 Gil: unknown
 10000 Gil: unknown
-1020 Gil: unknown
+1020 Gil: filler
 1045 Gil: unknown
 1110 Gil: filler
 1120 Gil: unknown
 1135 Gil: filler
-1150 Gil: unknown
+1150 Gil: filler
 1155 Gil: unknown
 1180 Gil: filler
 12350 Gil: unknown
@@ -19,7 +19,7 @@
 1450 Gil: unknown
 1455 Gil: filler
 1520 Gil: unknown
-1760 Gil: unknown
+1760 Gil: filler
 18010 Gil: unknown
 1975 Gil: filler
 2000 Gil: unknown
@@ -66,6 +66,7 @@ Defender: unknown
 Diamond Armlet: filler
 Diamond Armor: unknown
 Diamond Gloves: filler
+Diamond Helm: unknown
 Diamond Shield: unknown
 Dragon Mail: unknown
 Dry Ether: unknown
