@@ -153,6 +153,7 @@ Custom Character 5 Unlock: progression
 Debuff Trap: trap
 Defect 15 Gold: filler
 Defect 30 Gold: progression
+Defect Ascension Down: useful
 Defect Boss Gold: useful
 Defect Boss Relic: progression
 Defect Card Draw: progression
@@ -170,7 +171,7 @@ Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
 Defect Unlock: progression
-Gremlin Trap: unknown
+Gremlin Trap: trap
 Gremlins 15 Gold: useful
 Gremlins 30 Gold: useful
 Gremlins Boss Gold: unknown
@@ -263,6 +264,7 @@ Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: progression
 Ironclad Shop Relic Slot: progression
 Ironclad Unlock: progression
+Killer Debuff Trap: trap
 Rare Card Draw: progression
 Relic: progression
 Silent 15 Gold: filler

@@ -3,13 +3,13 @@ Box 1 Tiles: unknown
 Castle: unknown
 Deer: unknown
 Extra Point: filler
-Forest Task Marker - 4: unknown
+Forest Task Marker - 4: progression
 Forest Task Marker - 5: unknown
-Forest Task Marker - 6: unknown
+Forest Task Marker - 6: progression
 Forest Tunnel: progression
 Grain Task Marker - 4: progression
-Grain Task Marker - 5: unknown
-Grain Task Marker - 6: unknown
+Grain Task Marker - 5: progression
+Grain Task Marker - 6: progression
 Red Heart: unknown
 Signalman: unknown
 Stream Task Marker - 4: unknown
@@ -17,6 +17,6 @@ Stream Task Marker - 5: unknown
 Stream Task Marker - 6: unknown
 Track Task Marker - 4: unknown
 Track Task Marker - 5: unknown
-Track Task Marker - 6: unknown
-Village Task Marker - 5: unknown
+Track Task Marker - 6: progression
+Village Task Marker - 5: progression
 Village Task Marker - 6: unknown
