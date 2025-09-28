@@ -142,6 +142,7 @@ wh2_main_brt_resource_marble_2: unknown
 wh2_main_brt_resource_marble_3: unknown
 wh2_main_brt_resource_medicine_3: unknown
 wh2_main_brt_resource_pottery_3: useful
+wh2_main_brt_resource_salt_3: unknown
 wh2_main_brt_resource_spices_3: unknown
 wh2_main_brt_resource_timber_3: unknown
 wh2_main_brt_resource_wine_2: unknown
@@ -150,6 +151,7 @@ wh2_main_effect_force_unit_stat_morale_melee_attack_versus_high_elves: unknown
 wh2_main_hef_intrigue_signed_sealed_delivered_third: unknown
 wh2_main_ritual_grn_waaagh: unknown
 wh2_main_special_settlement_sartosa_brt_4: unknown
+wh3_dlc20_bundle_chs_authority_tzeentch_8: unknown
 wh3_dlc20_payload_dilemma_dicovered_ritual_khorne_first: unknown
 wh3_dlc24_anc_cth_magistrate_specialist_monster_hunter: unknown
 wh3_dlc24_mission_schemes_naggaroth_minor_3: unknown
@@ -195,6 +197,7 @@ wh_dlc07_tech_brt_chivalry_dark_elves: unknown
 wh_dlc07_tech_brt_chivalry_greenskins_1: unknown
 wh_dlc07_tech_brt_chivalry_norsca_1: unknown
 wh_dlc07_tech_brt_chivalry_norsca_2: unknown
+wh_dlc07_tech_brt_chivalry_skaven: unknown
 wh_dlc07_tech_brt_chivalry_tomb_kings: unknown
 wh_dlc07_tech_brt_chivalry_vampires_1: unknown
 wh_dlc07_tech_brt_chivalry_wood_elves_1: unknown

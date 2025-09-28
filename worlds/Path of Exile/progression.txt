@@ -141,7 +141,7 @@ Ignite Proliferation Support: unknown
 Immolate Support: unknown
 Immortal Call: progression
 Impale Support: progression
-Increased Area of Effect Support: unknown
+Increased Area of Effect Support: progression
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
 Infernal Cry: unknown
@@ -187,6 +187,7 @@ Normal Sword: unknown
 Occultist: unknown
 Pestilent Strike: progression
 Petrified Blood: unknown
+Physical to Lightning Support: progression
 Pinpoint Support: unknown
 Poacher's Mark: unknown
 Point Blank Support: unknown
