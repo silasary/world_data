@@ -229,7 +229,7 @@ TM36: filler
 TM37: filler
 TM38: useful
 TM39: filler
-TM40: unknown
+TM40: filler
 TM41: filler
 TM42: filler
 TM43: filler
@@ -242,7 +242,7 @@ TM50: unknown
 TM51: filler
 TM55: unknown
 TM56: useful
-TM57: unknown
+TM57: useful
 TM59: unknown
 TM60: filler
 TM62: unknown
