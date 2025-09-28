@@ -39,6 +39,7 @@ Brutality Support: progression
 Burning Arrow: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
+Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
 Chain Hook: progression
 Chance to Bleed Support: progression
@@ -327,5 +328,6 @@ Wave of Conviction: unknown
 Whirling Blades: unknown
 Wild Strike: unknown
 Wintertide Brand: unknown
+Withering Step: unknown
 Withering Touch Support: unknown
 Zealotry: unknown

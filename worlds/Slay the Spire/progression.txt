@@ -156,7 +156,7 @@ Defect 30 Gold: progression
 Defect Boss Gold: useful
 Defect Boss Relic: progression
 Defect Card Draw: progression
-Defect Card Reward: unknown
+Defect Card Reward: progression
 Defect Five Gold: filler
 Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
@@ -322,6 +322,7 @@ Snecko Shop Card Slot: progression
 Snecko Shop Potion Slot: useful
 Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
+Strong Buff Trap: trap
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Ascension Down: useful
