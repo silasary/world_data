@@ -74,6 +74,7 @@ Despair: unknown
 Destructive Link: unknown
 Determination: progression
 Detonate Mines: unknown
+Devour Support: unknown
 Discharge: unknown
 Discipline: unknown
 Double Strike: unknown
@@ -148,6 +149,7 @@ Infernal Cry: unknown
 Infernal Legion Support: unknown
 Innervate Support: unknown
 Inquisitor: progression
+Intimidating Cry: unknown
 Intuitive Link: unknown
 Iron Will Support: unknown
 Item Rarity Support: progression
@@ -172,6 +174,7 @@ Mark On Hit Support: unknown
 Melee Physical Damage Support: unknown
 Melee Splash Support: unknown
 Minion Damage Support: unknown
+Minion Life Support: unknown
 Mirage Archer Support: unknown
 Mirror Arrow: progression
 Molten Shell: unknown
@@ -272,7 +275,7 @@ Storm Rain: unknown
 Stormbind: unknown
 Stun Support: unknown
 Summon Carrion Golem: unknown
-Summon Chaos Golem: unknown
+Summon Chaos Golem: progression
 Summon Flame Golem: progression
 Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
