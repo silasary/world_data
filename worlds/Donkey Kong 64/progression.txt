@@ -54,6 +54,7 @@ Disable C Up Trap: unknown
 Disable Z Trap: unknown
 Diving: progression
 Donkey: progression
+Dry Trap: unknown
 Factory Chunky Hint: unknown
 Factory Diddy Hint: unknown
 Factory Donkey Hint: unknown
@@ -61,6 +62,7 @@ Factory Lanky Hint: useful
 Factory Tiny Hint: unknown
 Fairy Camera: progression
 Feather: progression
+Flip Trap: unknown
 Forest Chunky Hint: unknown
 Forest Diddy Hint: unknown
 Forest Donkey Hint: unknown
@@ -95,6 +97,7 @@ Grape: progression
 Guitar: progression
 Homing Ammo: useful
 Hunky Chunky: progression
+Ice Floor Trap: unknown
 Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
@@ -124,6 +127,7 @@ Nintendo Coin: progression
 Oranges: progression
 Orangstand Sprint: progression
 Orangstand: progression
+Paper Trap: unknown
 Peanut: progression
 Pearl: mcguffin
 Pineapple: progression
