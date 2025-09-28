@@ -149,6 +149,7 @@ Custom Character 5 Shop Card Slot: progression
 Custom Character 5 Shop Potion Slot: progression
 Custom Character 5 Shop Relic Slot: progression
 Custom Character 5 Unlock: progression
+Debuff Trap: trap
 Defect 15 Gold: filler
 Defect 30 Gold: progression
 Defect Boss Gold: useful
@@ -243,6 +244,7 @@ Ironclad 30 Gold: progression
 Ironclad Boss Gold: progression
 Ironclad Boss Relic: progression
 Ironclad Card Draw: progression
+Ironclad Card Reward: progression
 Ironclad Five Gold: filler
 Ironclad Neutral Shop Card Slot: progression
 Ironclad One Gold: filler
@@ -251,6 +253,7 @@ Ironclad Progressive Rest: progression
 Ironclad Progressive Shop Remove: progression
 Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: progression
+Ironclad Rare Card Reward: progression
 Ironclad Relic: progression
 Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: progression
@@ -260,9 +263,11 @@ Rare Card Draw: progression
 Relic: progression
 Silent 15 Gold: filler
 Silent 30 Gold: progression
+Silent Ascension Down: useful
 Silent Boss Gold: progression
 Silent Boss Relic: progression
 Silent Card Draw: progression
+Silent Card Reward: progression
 Silent Five Gold: filler
 Silent Neutral Shop Card Slot: progression
 Silent One Gold: filler
@@ -271,6 +276,7 @@ Silent Progressive Rest: progression
 Silent Progressive Shop Remove: progression
 Silent Progressive Smith: progression
 Silent Rare Card Draw: progression
+Silent Rare Card Reward: progression
 Silent Relic: progression
 Silent Shop Card Slot: progression
 Silent Shop Potion Slot: progression
@@ -314,9 +320,11 @@ Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
+Watcher Ascension Down: useful
 Watcher Boss Gold: progression
 Watcher Boss Relic: progression
 Watcher Card Draw: progression
+Watcher Card Reward: progression
 Watcher Five Gold: filler
 Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
@@ -325,6 +333,7 @@ Watcher Progressive Rest: progression
 Watcher Progressive Shop Remove: unknown
 Watcher Progressive Smith: progression
 Watcher Rare Card Draw: progression
+Watcher Rare Card Reward: progression
 Watcher Relic: progression
 Watcher Shop Card Slot: progression
 Watcher Shop Potion Slot: progression
