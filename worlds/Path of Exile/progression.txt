@@ -74,6 +74,7 @@ Despair: unknown
 Destructive Link: unknown
 Determination: progression
 Detonate Mines: unknown
+Discharge: unknown
 Discipline: unknown
 Double Strike: unknown
 Dread Banner: unknown
@@ -85,7 +86,7 @@ Elemental Damage with Attacks Support: unknown
 Elemental Focus Support: progression
 Elemental Hit: progression
 Elemental Penetration Support: unknown
-Elemental Proliferation Support: unknown
+Elemental Proliferation Support: progression
 Elemental Weakness: unknown
 Elementalist: unknown
 Enduring Cry: unknown
@@ -263,6 +264,7 @@ Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: unknown
 Spirit Offering: unknown
+Static Strike: unknown
 Storm Brand: unknown
 Storm Burst: unknown
 Storm Rain: unknown
@@ -282,6 +284,7 @@ Swift Affliction Support: unknown
 Swift Assembly Support: unknown
 Swordstorm: unknown
 Tectonic Slam: progression
+Tempest Shield: unknown
 Templar: progression
 Tornado Shot: unknown
 Tornado: unknown
