@@ -1,6 +1,6 @@
 Administration: unknown
 Babysitting: unknown
-Bobberfruit: unknown
+Bobberfruit: filler
 Cake: filler
 Construction: unknown
 Cooking: progression
@@ -22,7 +22,7 @@ Mushwood Log: filler
 Nursing Assistant: unknown
 Play the Photophonor: unknown
 Progressive Animals Perk: progression
-Progressive Biology Perk: unknown
+Progressive Biology Perk: progression
 Progressive Bravery Perk: unknown
 Progressive Combat Perk: unknown
 Progressive Creativity Perk: progression
@@ -32,7 +32,7 @@ Progressive Organization Perk: unknown
 Progressive Perception Perk: progression
 Progressive Persuasion Perk: progression
 Progressive Reasoning Perk: progression
-Progressive Toughness Perk: unknown
+Progressive Toughness Perk: progression
 Progressive Year: progression
 Rebuild: unknown
 Relax in the Park: progression
@@ -44,11 +44,11 @@ Sportsball: unknown
 Strange Device: unknown
 Study Engineering: unknown
 Study Humanities: unknown
-Study Life Sciences: unknown
+Study Life Sciences: progression
 Survey the Plains: unknown
 Survey the Ridge: progression
 Tending Animals: unknown
 Tutoring: unknown
-Xeno Egg: unknown
+Xeno Egg: filler
 Xenobotany: unknown
-Yellow Flower: unknown
+Yellow Flower: filler
