@@ -81,6 +81,7 @@ Detonate Mines: unknown
 Devour Support: unknown
 Discharge: unknown
 Discipline: unknown
+Divine Retribution: progression
 Double Strike: unknown
 Dread Banner: unknown
 Dual Strike: unknown
@@ -102,6 +103,7 @@ Expert Retaliation Support: unknown
 Explosive Trap: unknown
 Exsanguinate: unknown
 Faster Casting Support: unknown
+Faster Projectiles Support: unknown
 Fire Trap: unknown
 Firestorm: unknown
 Fist of War Support: unknown
@@ -227,7 +229,7 @@ Progressive Sceptre: unknown
 Progressive Shield: unknown
 Progressive Staff: unknown
 Progressive Sword: unknown
-Progressive Wand: unknown
+Progressive Wand: progression
 Progressive max links - BodyArmour: progression
 Progressive max links - Boots: progression
 Progressive max links - Gloves: unknown
@@ -306,7 +308,7 @@ Trap Support: progression
 Trap and Mine Damage Support: unknown
 Trauma Support: progression
 Unbound Ailments Support: unknown
-Unearth: unknown
+Unearth: progression
 Urgent Orders Support: unknown
 Vaal Gems: unknown
 Vampiric Link: unknown
