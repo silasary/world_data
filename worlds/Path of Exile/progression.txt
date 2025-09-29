@@ -38,6 +38,7 @@ Boneshatter: unknown
 Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
+Burning Damage Support: unknown
 Cast On Critical Strike Support: unknown
 Cast on Melee Kill Support: unknown
 Cast when Damage Taken Support: unknown
@@ -217,7 +218,7 @@ Progressive BodyArmour: unknown
 Progressive Boots: unknown
 Progressive Bow: progression
 Progressive Claw: unknown
-Progressive Dagger: unknown
+Progressive Dagger: progression
 Progressive Fishing Rod: unknown
 Progressive Flask Unlock: progression
 Progressive Gloves: unknown
