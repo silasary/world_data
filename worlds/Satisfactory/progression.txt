@@ -264,7 +264,7 @@ Bundle: Raw Quartz: filler
 Bundle: Reanimated SAM: filler
 Bundle: Rebar Gun: filler
 Bundle: Reinforced Iron Plate: filler
-Bundle: Rifle Ammo: unknown
+Bundle: Rifle Ammo: useful
 Bundle: Rifle: filler
 Bundle: Rotor: filler
 Bundle: Rubber: filler
