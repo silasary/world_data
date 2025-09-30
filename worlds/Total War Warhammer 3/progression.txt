@@ -204,7 +204,8 @@ wh_dlc07_tech_brt_chivalry_vampires_1: unknown
 wh_dlc07_tech_brt_chivalry_wood_elves_1: unknown
 wh_dlc07_tech_brt_economy_farm_3: unknown
 wh_dlc07_tech_brt_economy_farm_farriers: unknown
-wh_dlc07_tech_brt_economy_industry_3: unknown
+wh_dlc07_tech_brt_economy_farm_hay: progression
+wh_dlc07_tech_brt_economy_industry_3: progression
 wh_dlc07_tech_brt_economy_industry_4: unknown
 wh_dlc07_tech_brt_economy_industry_pottery: unknown
 wh_dlc07_tech_brt_economy_industry_steel: unknown
