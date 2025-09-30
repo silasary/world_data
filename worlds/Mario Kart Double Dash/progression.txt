@@ -23,7 +23,7 @@ All Cup Tour: unknown
 Baby Luigi: progression
 Baby Mario: progression
 Baby Park Time Trial: progression
-Banana for Baby Luigi: unknown
+Banana for Baby Luigi: useful
 Banana for Baby Mario: unknown
 Banana for Birdo: unknown
 Banana for Bowser Jr.: unknown
@@ -38,7 +38,7 @@ Banana for Luigi: unknown
 Banana for Mario: progression
 Banana for Paratroopa: progression
 Banana for Peach: progression
-Banana for Petey Piranha: unknown
+Banana for Petey Piranha: useful
 Banana for Toad: progression
 Banana for Toadette: unknown
 Banana for Waluigi: unknown
@@ -82,7 +82,7 @@ Bowser's Shell for Donkey Kong: useful
 Bowser's Shell for Everybody: progression
 Bowser's Shell for King Boo: unknown
 Bowser's Shell for Koopa: unknown
-Bowser's Shell for Luigi: unknown
+Bowser's Shell for Luigi: useful
 Bowser's Shell for Mario: progression
 Bowser's Shell for Paratroopa: unknown
 Bowser's Shell for Peach: progression
@@ -90,7 +90,7 @@ Bowser's Shell for Petey Piranha: useful
 Bowser's Shell for Toad: unknown
 Bowser's Shell for Toadette: useful
 Bowser's Shell for Waluigi: progression
-Bowser's Shell for Wario: unknown
+Bowser's Shell for Wario: useful
 Bowser's Shell for Yoshi: useful
 Bowser: progression
 Bullet Blaster: progression
@@ -99,6 +99,7 @@ Chain Chomp for Baby Mario: useful
 Chain Chomp for Birdo: progression
 Chain Chomp for Bowser Jr.: useful
 Chain Chomp for Bowser: unknown
+Chain Chomp for Daisy: useful
 Chain Chomp for Diddy Kong: unknown
 Chain Chomp for Donkey Kong: useful
 Chain Chomp for Everybody: progression
@@ -157,7 +158,7 @@ Fake Item for Koopa: filler
 Fake Item for Luigi: unknown
 Fake Item for Mario: progression
 Fake Item for Paratroopa: useful
-Fake Item for Peach: unknown
+Fake Item for Peach: useful
 Fake Item for Petey Piranha: unknown
 Fake Item for Toad: useful
 Fake Item for Toadette: unknown
@@ -185,7 +186,7 @@ Fireballs for Diddy Kong: useful
 Fireballs for Donkey Kong: progression
 Fireballs for Everybody: progression
 Fireballs for King Boo: progression
-Fireballs for Koopa: unknown
+Fireballs for Koopa: useful
 Fireballs for Luigi: useful
 Fireballs for Mario: progression
 Fireballs for Paratroopa: useful
@@ -219,7 +220,7 @@ Giant Banana for Waluigi: unknown
 Giant Banana for Wario: unknown
 Giant Banana for Yoshi: useful
 Golden Mushroom for Baby Luigi: unknown
-Golden Mushroom for Baby Mario: unknown
+Golden Mushroom for Baby Mario: useful
 Golden Mushroom for Birdo: useful
 Golden Mushroom for Bowser Jr.: progression
 Golden Mushroom for Bowser: unknown
@@ -370,7 +371,7 @@ Off-road Tires for Parade Kart: unknown
 Off-road Tires for Piranha Pipes: progression
 Off-road Tires for Rattle Buggy: unknown
 Off-road Tires for Red Fire: progression
-Off-road Tires for Toad Kart: unknown
+Off-road Tires for Toad Kart: useful
 Off-road Tires for Toadette Kart: unknown
 Off-road Tires for Turbo Birdo: unknown
 Off-road Tires for Turbo Yoshi: progression
@@ -464,7 +465,7 @@ Star for Bowser Jr.: useful
 Star for Bowser: progression
 Star for Daisy: useful
 Star for Diddy Kong: unknown
-Star for Donkey Kong: unknown
+Star for Donkey Kong: useful
 Star for Everybody: progression
 Star for King Boo: progression
 Star for Koopa: unknown
@@ -530,7 +531,7 @@ Triple Red Shells for Daisy: useful
 Triple Red Shells for Diddy Kong: useful
 Triple Red Shells for Donkey Kong: useful
 Triple Red Shells for Everybody: progression
-Triple Red Shells for King Boo: unknown
+Triple Red Shells for King Boo: useful
 Triple Red Shells for Koopa: progression
 Triple Red Shells for Luigi: useful
 Triple Red Shells for Mario: unknown
