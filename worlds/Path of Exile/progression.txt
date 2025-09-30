@@ -1,5 +1,6 @@
 Absolution: unknown
 Added Chaos Damage Support: unknown
+Added Cold Damage Support: unknown
 Added Fire Damage Support: unknown
 Added Lightning Damage Support: unknown
 Additional Accuracy Support: unknown
@@ -39,7 +40,7 @@ Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
 Burning Damage Support: unknown
-Cast On Critical Strike Support: unknown
+Cast On Critical Strike Support: progression
 Cast on Melee Kill Support: unknown
 Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
@@ -102,6 +103,7 @@ Energy Blade: unknown
 Ensnaring Arrow: unknown
 Eviscerate: unknown
 Expert Retaliation Support: unknown
+Explosive Concoction: unknown
 Explosive Trap: unknown
 Exsanguinate: unknown
 Faster Casting Support: unknown
@@ -114,11 +116,14 @@ Flame Wall: unknown
 Flamethrower Trap: unknown
 Flamewood Support: unknown
 Flammability: unknown
+Flesh Offering: progression
 Flicker Strike: unknown
 Focused Channelling Support: unknown
 Forbidden Rite: unknown
 Fortify Support: unknown
 Freezing Pulse: unknown
+Frenzy: unknown
+Frost Blades: progression
 Frost Bomb: unknown
 Frost Wall: unknown
 Frostbite: unknown
@@ -147,6 +152,7 @@ Holy Flame Totem: unknown
 Hydrosphere: progression
 Hypothermia Support: unknown
 Ice Bite Support: unknown
+Ice Crash: progression
 Ice Shot: unknown
 Ice Spear: unknown
 Ice Trap: unknown
@@ -169,6 +175,7 @@ Juggernaut: unknown
 Kinetic Blast: unknown
 Lacerate: progression
 Lancing Steel: progression
+Leap Slam: unknown
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
 Lightning Conduit: unknown
@@ -246,6 +253,7 @@ Puncture: unknown
 Punishment: unknown
 Purifying Flame: progression
 Purity of Elements: progression
+Purity of Ice: unknown
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
@@ -273,16 +281,19 @@ Shock Nova: unknown
 Shockwave Totem: unknown
 Shrapnel Ballista: unknown
 Siphoning Trap: unknown
+Slayer: unknown
+Slower Projectiles Support: unknown
 Sniper's Mark: unknown
 Soul Link: unknown
 Spark: unknown
-Spectral Helix: unknown
+Spectral Helix: progression
 Spectral Throw: unknown
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: unknown
 Spirit Offering: unknown
 Static Strike: unknown
+Steelskin: unknown
 Storm Brand: unknown
 Storm Burst: unknown
 Storm Rain: unknown
@@ -300,6 +311,7 @@ Summon Skitterbots: unknown
 Sweep: unknown
 Swift Affliction Support: unknown
 Swift Assembly Support: unknown
+Swiftbrand Support: unknown
 Swordstorm: unknown
 Tectonic Slam: progression
 Tempest Shield: unknown
