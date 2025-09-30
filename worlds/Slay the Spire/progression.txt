@@ -166,6 +166,7 @@ Defect Progressive Rest: progression
 Defect Progressive Shop Remove: progression
 Defect Progressive Smith: progression
 Defect Rare Card Draw: progression
+Defect Rare Card Reward: unknown
 Defect Relic: progression
 Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
@@ -192,7 +193,7 @@ Gremlins Shop Relic Slot: progression
 Gremlins Unlock: unknown
 Guardian 15 Gold: useful
 Guardian 30 Gold: useful
-Guardian Boss Gold: unknown
+Guardian Boss Gold: useful
 Guardian Boss Relic: unknown
 Guardian Card Draw: progression
 Guardian Five Gold: filler
@@ -325,6 +326,7 @@ Snecko Shop Potion Slot: useful
 Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
 Strong Buff Trap: trap
+Strong Debuff Trap: unknown
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Ascension Down: useful
