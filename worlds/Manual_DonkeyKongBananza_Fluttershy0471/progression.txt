@@ -1,7 +1,7 @@
 All-Natural Fur: unknown
 Apple Juice Upgrade: unknown
 Banandium Gem: mcguffin
-Banandium Root Piece: unknown
+Banandium Root Piece: mcguffin
 Banandium-Gold Fur: unknown
 Bananergy Tie: unknown
 Bananergy Upgrade: useful
@@ -21,7 +21,7 @@ Flower Gradient Fur: unknown
 Glide Upgrade: unknown
 Golden Egg Bomb: unknown
 Golden Jump: unknown
-Health Upgrade: unknown
+Health Upgrade: useful
 Invisibility Tie: unknown
 Kong Armor: unknown
 Kong Bananza: unknown
@@ -31,9 +31,10 @@ Naked: unknown
 Neon Feast Apparel: unknown
 OH BANANA!: filler
 Orange Britches: unknown
+Ostrich Bananza: progression
 Passion-Fruit Split Fur: unknown
-Progressive Layer Unlock: unknown
-Punch Power Upgrade: unknown
+Progressive Layer Unlock: progression
+Punch Power Upgrade: useful
 Quick Storage: unknown
 Red Britches: unknown
 Rock-Out Rags: unknown
@@ -44,5 +45,7 @@ Sour-Berry-Blue Fur: unknown
 Spin Jump: unknown
 Spin Shot: unknown
 Standard Britches: unknown
+Surf Surf: useful
+Treasure Tie: useful
 Twilight Gradient Fur: unknown
 Zebra Bananza: progression
