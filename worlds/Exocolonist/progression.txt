@@ -1,34 +1,36 @@
 Administration: progression
-Babysitting: unknown
+Babysitting: progression
+Barista: progression
 Bobberfruit: filler
 Cake: filler
-Construction: unknown
+Construction: progression
 Cooking: progression
-Crystal Cluster: useful
-Defense Training: unknown
+Crystal Cluster: filler
+Defense Training: progression
 Deliver Supplies: progression
-Depot Clerk: unknown
-Experience: unknown
-Explore Glow: unknown
-Explore Nearby: unknown
+Depot Clerk: progression
+Experience: filler
+Explore Glow: progression
+Explore Nearby: progression
 Farming: progression
-Forage in the Valley: unknown
-Guard Duty: unknown
-Leader: unknown
-Lookout Duty: unknown
+Forage in the Valley: progression
+Guard Duty: progression
+Hunt in the Swamps: progression
+Leader: progression
+Lookout Duty: progression
 Medicinal Roots: filler
-Mourn: unknown
+Mourn: progression
 Mushwood Log: filler
-Nursing Assistant: unknown
-Play the Photophonor: unknown
+Nursing Assistant: progression
+Play the Photophonor: progression
 Progressive Animals Perk: progression
 Progressive Biology Perk: progression
-Progressive Bravery Perk: unknown
-Progressive Combat Perk: unknown
+Progressive Bravery Perk: progression
+Progressive Combat Perk: progression
 Progressive Creativity Perk: progression
 Progressive Empathy Perk: progression
-Progressive Engineering Perk: unknown
-Progressive Organization Perk: unknown
+Progressive Engineering Perk: progression
+Progressive Organization Perk: progression
 Progressive Perception Perk: progression
 Progressive Persuasion Perk: progression
 Progressive Reasoning Perk: progression
@@ -38,18 +40,18 @@ Rebuild: progression
 Relax in the Lounge: progression
 Relax in the Park: progression
 Relax on the Walls: progression
-Robot Repair: unknown
+Robot Repair: progression
 Shovelling Dirt: progression
-Sneak Out: unknown
+Sneak Out: progression
 Sportsball: progression
-Strange Device: unknown
-Study Engineering: unknown
-Study Humanities: unknown
+Strange Device: filler
+Study Engineering: progression
+Study Humanities: progression
 Study Life Sciences: progression
-Survey the Plains: unknown
+Survey the Plains: progression
 Survey the Ridge: progression
-Tending Animals: unknown
-Tutoring: unknown
+Tending Animals: progression
+Tutoring: progression
 Xeno Egg: filler
-Xenobotany: unknown
+Xenobotany: progression
 Yellow Flower: filler
