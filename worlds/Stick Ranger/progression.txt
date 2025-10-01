@@ -16,7 +16,7 @@ Black Stone 4: unknown
 Black Stone 6: unknown
 Blue Stone 1: unknown
 Blue Stone 4: unknown
-Blue Stone 6: unknown
+Blue Stone 6: useful
 Blue Stone 7: unknown
 Bronze Medal 1: unknown
 Bronze Medal 3: filler
@@ -28,6 +28,7 @@ Bullet's Card 3: unknown
 Catapult's Card 1: unknown
 Catapult's Card 3: filler
 Catapult's Card 5: unknown
+Critical's Card 2: filler
 Critical's Card 3: unknown
 Critical's Card 5: unknown
 Critical's Card 6: unknown
@@ -63,10 +64,12 @@ Guide's Card 6: unknown
 Heal's Card 1: unknown
 Ice Charm 4: useful
 Ice Spirit 1: unknown
+Ice Spirit 2: filler
 Iron Medal 2: unknown
 Iron Medal 6: unknown
 Kill a Ranger: unknown
 Long Sword's Card 3: unknown
+Long Sword's Card 6: useful
 Long Sword's Card 7: useful
 Peridot 5: unknown
 Peridot 7: unknown
@@ -83,6 +86,7 @@ Quick's Card 4: unknown
 Red Crystal 1: unknown
 Red Crystal 4: unknown
 Red Crystal 7: filler
+Red Stone 4: filler
 Reflection Card 1: unknown
 Reflection Card 4: unknown
 Ring's Card 2: unknown
@@ -102,11 +106,11 @@ Silver Crystal 7: unknown
 Silver Medal 1: unknown
 Silver Medal 3: unknown
 Silver Medal 7: unknown
-Spawn enemies: unknown
+Spawn enemies: trap
 Thunder Spirit 2: unknown
 Topaz 1: unknown
 Topaz 3: unknown
-Unequip items: unknown
+Unequip items: trap
 Unlock !!!: unknown
 Unlock ???: progression
 Unlock Angel Class: unknown
@@ -258,6 +262,7 @@ long blade: filler
 long circle: unknown
 long ring: unknown
 long silver staff: unknown
+mach cestus: unknown
 mega exp staff: unknown
 micro uzi: unknown
 morning star: unknown
