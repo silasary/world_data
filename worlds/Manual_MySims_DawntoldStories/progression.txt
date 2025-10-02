@@ -8,12 +8,12 @@ Arcade Game (Antennae): filler
 Arcade Game: progression
 Bacon Essence: progression
 Banana Essence: progression
-Bathtub (Spider): unknown
-Bathtub (Whale): unknown
+Bathtub (Spider): filler
+Bathtub (Whale): filler
 Bathtub: progression
 Beach Ball Essence: progression
 Bean Bradley: progression
-Bed (Bunk): unknown
+Bed (Bunk): filler
 Bed (Princess): filler
 Bed: progression
 Beebee: progression
@@ -30,9 +30,9 @@ Cassandra: progression
 Cauldron: progression
 Cedella: progression
 Chair (Ornate): filler
-Chair (Racecar): unknown
-Chair (Recharger): unknown
-Chair: unknown
+Chair (Racecar): filler
+Chair (Recharger): filler
+Chair: progression
 Chancellor Ikara: progression
 Changing Booth: progression
 Chaz McFreely: progression
@@ -46,12 +46,12 @@ Clubs Essence: progression
 Coffee Table: progression
 Costume Chest: progression
 Couch (Froggy): filler
-Couch (Medusa): unknown
+Couch (Medusa): filler
 Couch (Modern): filler
-Couch: unknown
+Couch: progression
 Counter: progression
 Crab Essence: progression
-Crowbar: unknown
+Crowbar: progression
 Crystal: progression
 Cube Puzzle Essence: progression
 DJ Candy Supergroove: progression
@@ -65,7 +65,7 @@ Dinosaur Fossil Essence: progression
 Dolly Dearheart: progression
 Dresser (Colonial): filler
 Edwin: progression
-Elephant Essence: unknown
+Elephant Essence: progression
 Eliza: progression
 Elmira Clamp: progression
 Esma: progression
@@ -76,7 +76,7 @@ Flower Stand: progression
 Fortune Crystal: progression
 Garnet Essence: filler
 Gears Essence: progression
-Gertrude Spackle: unknown
+Gertrude Spackle: progression
 Ghost Essence: progression
 Gingerbread Man Essence: progression
 Ginny: progression
@@ -88,7 +88,7 @@ Green Apple Essence: progression
 Happy Essence: progression
 Hearts Essence: progression
 Hopper: progression
-Hot Tub (Robohead): unknown
+Hot Tub (Robohead): filler
 Hot Tub: progression
 Ian Arneson: progression
 Ice Cream Freezer: progression
@@ -105,17 +105,17 @@ Kitten Essence: progression
 Knight Essence: progression
 Lemon Essence: progression
 Liberty: progression
-Light Wood Essence: unknown
+Light Wood Essence: progression
 Lime Essence: progression
 Linda: progression
-Luis: unknown
+Luis: progression
 Madame Zoe: progression
 Maria: progression
 Master Aran: progression
-Matt: unknown
+Matt: progression
 Mega Lizard Essence: progression
-Mel: unknown
-Microscope Essence: unknown
+Mel: progression
+Microscope Essence: filler
 Mirror: progression
 Moai Essence: progression
 Morcubus: progression
@@ -132,6 +132,7 @@ Pencil Essence: progression
 Pickaxe: progression
 Pinky: progression
 Pirate Ship: progression
+Pizza Oven (Cafe): filler
 Pizza Oven: progression
 Plum Blossom Essence: progression
 Podium: progression
@@ -185,7 +186,7 @@ Stage: progression
 Star Level: unknown
 Star: progression
 Stephen Albright: progression
-Stereo: unknown
+Stereo: progression
 Stone Essence: progression
 Stove (Witch): filler
 Stove: progression
@@ -203,7 +204,7 @@ Tesla Coil: progression
 Textbook Essence: progression
 Thorn Essence: progression
 Tiger Essence: progression
-Tim Doll Essence: unknown
+Tim Doll Essence: progression
 Tina Doll Essence: progression
 Tiny Shark Essence: progression
 Tire Essence: progression

@@ -29,6 +29,7 @@ Curator: useful
 Donut Truck: useful
 Duff Trap: trap
 Duff Truck: useful
+Eject: trap
 El Carro Loco: useful
 Electaurus: useful
 Family Sedan: progression
@@ -93,7 +94,7 @@ Reset Car: trap
 School Bus: progression
 Sedan: useful
 Skinner's Sedan: unknown
-Speed Rocket: unknown
+Speed Rocket: useful
 Surveillance Van: useful
 Tractor: useful
 WWII Vehicle: useful
