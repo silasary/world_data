@@ -242,6 +242,7 @@ fire sabel: unknown
 flame sword: filler
 freeze exp rod: filler
 freeze explosion: unknown
+freeze glove: unknown
 freeze whip: unknown
 hell fire shot: filler
 high light staff: unknown
@@ -251,6 +252,7 @@ homing laser: unknown
 ice GS: unknown
 ice bolt: unknown
 ice chain: unknown
+ice chakram: unknown
 ice circle: filler
 ice flail: unknown
 ice meteor: filler
