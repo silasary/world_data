@@ -813,7 +813,7 @@ Morning Star+2: unknown
 Morning Star+3: unknown
 Morning Star+4: unknown
 Morning Star+5: unknown
-Morning Star: unknown
+Morning Star: useful
 Mountain Path key: progression
 Mozzie: progression
 Mystical Workshop key: progression
@@ -1047,7 +1047,7 @@ Shuriken+2: unknown
 Shuriken+3: unknown
 Shuriken+4: unknown
 Shuriken+5: unknown
-Shuriken: unknown
+Shuriken: filler
 Sign Language: unknown
 Silk: unknown
 Silvaero Egg: unknown
@@ -1293,7 +1293,7 @@ Water Symbol+2: unknown
 Water Symbol+3: unknown
 Water Symbol+4: unknown
 Water Symbol+5: unknown
-Water Symbol: unknown
+Water Symbol: useful
 Wind Symbol+1: unknown
 Wind Symbol+2: unknown
 Wind Symbol+3: unknown
