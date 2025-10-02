@@ -302,7 +302,7 @@ Bundle: Wire: filler
 Bundle: Wood: filler
 Bundle: Xeno-Basher: filler
 Bundle: Xeno-Zapper: useful
-Bundle: Yellow Power Slug: unknown
+Bundle: Yellow Power Slug: useful
 Bundle: Zipline: useful
 Customizer: Arrow Patterns: unknown
 Customizer: Asphalt Foundation Material: unknown

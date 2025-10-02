@@ -5,7 +5,7 @@ Aquamarine 2: unknown
 Aquamarine 6: unknown
 Berserk Card 1: unknown
 Berserk Card 2: unknown
-Berserk Card 3: unknown
+Berserk Card 3: filler
 Berserk Card 5: unknown
 Big Card 1: filler
 Black Crystal 1: unknown
@@ -29,6 +29,7 @@ Catapult's Card 1: unknown
 Catapult's Card 2: filler
 Catapult's Card 3: filler
 Catapult's Card 5: unknown
+Catapult's Card 6: unknown
 Critical's Card 2: filler
 Critical's Card 3: unknown
 Critical's Card 5: unknown
@@ -302,6 +303,7 @@ staff of light: unknown
 staff of thunder: unknown
 stone ms: filler
 super volcano: unknown
+sword: filler
 thorn chain: unknown
 thorn chakram: filler
 thorn circle: unknown
@@ -311,6 +313,7 @@ thorn ring: unknown
 thunder GS: unknown
 thunder cestus: unknown
 thunder chakram: filler
+thunder claw: unknown
 thunder god: filler
 thunder ms: unknown
 thunder orb: unknown
@@ -325,5 +328,6 @@ triple poison: unknown
 triple shot: filler
 undecuple arrow: unknown
 uzi: unknown
+volcano: unknown
 whip: filler
 wooden sword: filler
