@@ -19,6 +19,23 @@ class ItemClassification(enum.Flag):
 
     bad_name = 256
 
+    @staticmethod
+    def from_network_flag(flag: int) -> "ItemClassification":
+        if flag == 0:
+            return ItemClassification.filler
+        value = ItemClassification.filler
+        if flag & 0b00001:
+            value |= ItemClassification.progression
+        if flag & 0b00010:
+            value |= ItemClassification.useful
+        if flag & 0b00100:
+            value |= ItemClassification.trap
+        # if flag & 0b01000:
+        #     value |= ItemClassification.mcguffin  # skip balancing
+        # if flag & 0b10000:
+        #     value |= ItemClassification.mcguffin  # deprioritized
+        return value
+
 classifications = {v.name: v for v in ItemClassification.__members__.values()}
 
 @attrs.define()
