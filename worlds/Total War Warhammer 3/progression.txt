@@ -212,6 +212,7 @@ wh_dlc07_tech_brt_economy_industry_4: unknown
 wh_dlc07_tech_brt_economy_industry_pottery: unknown
 wh_dlc07_tech_brt_economy_industry_steel: unknown
 wh_dlc07_tech_brt_economy_industry_tournaments: unknown
+wh_dlc07_tech_brt_economy_other_1: unknown
 wh_dlc07_tech_brt_economy_other_carpenters: unknown
 wh_dlc07_tech_brt_economy_other_draft: unknown
 wh_dlc07_tech_brt_economy_other_siege: unknown
