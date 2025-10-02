@@ -21,8 +21,18 @@ Progressive brt_settlement_minor: unknown
 Progressive brt_stables: unknown
 Progressive brt_tavern: unknown
 Progressive brt_walls: unknown
+Progressive emp_art: unknown
+Progressive emp_cav: unknown
+Progressive emp_forges: unknown
+Progressive emp_resource_dyes: unknown
+Progressive emp_resource_wine: unknown
+Progressive emp_settlement_major: unknown
+Progressive emp_settlement_minor: unknown
+Progressive emp_stables: unknown
+Progressive emp_tavern: unknown
 Progressive foreign_slot_discovery_brt: unknown
 Progressive foreign_slot_discovery_grn: unknown
+Progressive foreign_slot_discovery_ksl: unknown
 Progressive grn_allied_outpost: unknown
 Progressive grn_art: unknown
 Progressive grn_boars: unknown
@@ -57,8 +67,68 @@ Progressive grn_walls: unknown
 Progressive grn_walls_2: unknown
 Progressive grn_walls_3: unknown
 Progressive grn_workshop: unknown
+Progressive ksl_allied_outpost: unknown
+Progressive ksl_artillery: unknown
+Progressive ksl_barracks: unknown
+Progressive ksl_bears: unknown
+Progressive ksl_bears_1: unknown
+Progressive ksl_bears_mother_ostankya: unknown
+Progressive ksl_cavalry: unknown
+Progressive ksl_city_build_growth: unknown
+Progressive ksl_city_court: unknown
+Progressive ksl_city_court_3: unknown
+Progressive ksl_city_gold: unknown
+Progressive ksl_city_recruit_growth_xp: unknown
+Progressive ksl_city_temple: unknown
+Progressive ksl_city_temple_3: unknown
+Progressive ksl_city_town_watch: unknown
+Progressive ksl_city_walls: unknown
+Progressive ksl_corruption_land: unknown
+Progressive ksl_court: unknown
+Progressive ksl_erengrad_city: unknown
+Progressive ksl_gold: unknown
+Progressive ksl_growth_recruit_cost: unknown
+Progressive ksl_growth_xp: unknown
+Progressive ksl_kislev_city: unknown
+Progressive ksl_port: unknown
+Progressive ksl_praag_city: unknown
+Progressive ksl_resource_animals: unknown
+Progressive ksl_resource_dyes: unknown
+Progressive ksl_resource_furs: unknown
+Progressive ksl_resource_gems: unknown
+Progressive ksl_resource_gold: unknown
+Progressive ksl_resource_iron: unknown
+Progressive ksl_resource_ivory: unknown
+Progressive ksl_resource_marble: unknown
+Progressive ksl_resource_medicine: unknown
+Progressive ksl_resource_obsidian: unknown
+Progressive ksl_resource_pasture: unknown
+Progressive ksl_resource_pottery: unknown
+Progressive ksl_resource_salt: unknown
+Progressive ksl_resource_spices: unknown
+Progressive ksl_resource_wine: unknown
+Progressive ksl_resource_wood: unknown
+Progressive ksl_settlement_major: unknown
+Progressive ksl_settlement_minor: unknown
+Progressive ksl_stables: unknown
+Progressive ksl_trade_order: unknown
+Progressive ksl_walls_major: unknown
+Progressive ksl_walls_minor: unknown
+Progressive ksl_woods: unknown
+Progressive special_empire_fort_emp: unknown
+Progressive special_ksl_erengrad_1: unknown
+Progressive special_ksl_erengrad_2: unknown
+Progressive special_ksl_erengrad_3: unknown
+Progressive special_ksl_kislev_1: unknown
+Progressive special_ksl_kislev_2: unknown
+Progressive special_ksl_kislev_3: unknown
+Progressive special_ksl_kislev_4: unknown
+Progressive special_ksl_praag_1: unknown
+Progressive special_ksl_praag_2: unknown
+Progressive special_ksl_praag_3: unknown
 Progressive special_settlement_massif_orcal_brt: unknown
 Progressive special_settlement_massif_orcal_grn: unknown
+Progressive tech_ksl: unknown
 Schizophrenia!: trap
 Sphere of Influence: progression
 Spoiler Alert!: trap
@@ -126,7 +196,9 @@ wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: unknown
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: unknown
 wh2_dlc13_bundle_nakai_temple_gifted: unknown
+wh2_dlc15_hef_dungeon_mistwalker_upgrade_greenskins: unknown
 wh2_dlc15_special_settlement_massif_orcal_brt_3: unknown
+wh2_dlc16_wef_mon_giant_spiders_0: unknown
 wh2_dlc17_anc_blessing_of_mania_banner: unknown
 wh2_dlc17_anc_dread_retainer_skinwolf_banner: unknown
 wh2_dlc17_anc_talisman_shardstone_amulet: unknown
@@ -156,11 +228,54 @@ wh2_main_special_settlement_sartosa_brt_4: unknown
 wh3_dlc20_bundle_chs_authority_tzeentch_8: unknown
 wh3_dlc20_payload_dilemma_dicovered_ritual_khorne_first: unknown
 wh3_dlc24_anc_cth_magistrate_specialist_monster_hunter: unknown
+wh3_dlc24_ksl_inf_akshina_ambushers: unknown
+wh3_dlc24_ksl_inf_akshina_ambushers_ror: unknown
+wh3_dlc24_ksl_inf_streltsi_ror: unknown
+wh3_dlc24_ksl_mon_frost_wyrm: unknown
+wh3_dlc24_ksl_mon_incarnate_elemental_of_beasts: unknown
+wh3_dlc24_ksl_mon_the_things_in_the_woods: unknown
+wh3_dlc24_ksl_mon_the_things_in_the_woods_ror: unknown
 wh3_dlc24_mission_schemes_naggaroth_minor_3: unknown
+wh3_dlc24_ritual_ksl_hex_1: unknown
+wh3_dlc24_ritual_ksl_hex_1_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_forest_of_gloom: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_forest_of_gloom_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_gaean_vale: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_gaean_vale_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_gryphon_wood: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_gryphon_wood_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_heart_of_the_jungle: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_heart_of_the_jungle_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_jungles_of_chian: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_jungles_of_chian_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_laurelorn_forest: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_laurelorn_forest_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_oak_of_ages: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_oak_of_ages_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_haunted_forest: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_haunted_forest_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_sacred_pools: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_sacred_pools_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_witchwood: unknown
+wh3_dlc24_ritual_ksl_hex_2_ie_the_witchwood_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_fort_dolganyeir: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_fort_dolganyeir_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_laurelorn_forest: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_laurelorn_forest_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_the_haunted_forest: unknown
+wh3_dlc24_ritual_ksl_hex_2_roc_the_haunted_forest_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_3: unknown
+wh3_dlc24_ritual_ksl_hex_3_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_4: unknown
+wh3_dlc24_ritual_ksl_hex_4_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_5: unknown
+wh3_dlc24_ritual_ksl_hex_5_empowered: unknown
+wh3_dlc24_ritual_ksl_hex_6: unknown
 wh3_dlc25_anc_enchanted_item_epidemius_hourglass: unknown
 wh3_dlc25_dwf_ritual_mercenary_unit_pack_grudge_thrower: unknown
 wh3_dlc25_dwf_ritual_mercenary_unit_pack_quarrellers: unknown
 wh3_dlc25_nur_force_1_positive: unknown
+wh3_dlc25_ritual_emp_don_land_ship_1: unknown
 wh3_dlc26_anc_cloak_of_skulls: unknown
 wh3_dlc26_anc_weapon_bloodstorm_blades: unknown
 wh3_main_anc_arcane_item_kairos_life: unknown
@@ -170,14 +285,47 @@ wh3_main_anc_enchanted_item_maads_map: unknown
 wh3_main_anc_enchanted_item_spotters_spyglass: unknown
 wh3_main_anc_weapon_necrotic_missiles: unknown
 wh3_main_anc_weapon_slaaneshs_blade: unknown
+wh3_main_anc_weapon_the_bane_spear: unknown
 wh3_main_bundle_corruption_chaos_bad_21-30: unknown
 wh3_main_bundle_corruption_khorne_good_1-10: unknown
+wh3_main_bundle_corruption_khorne_good_71-80: unknown
 wh3_main_bundle_corruption_slaanesh_bad_41-50: unknown
+wh3_main_bundle_daemon_prince_soul_ogr: unknown
 wh3_main_bundle_lock_recruitment_wh3_main_kho_mon_bloodthirster_0: unknown
 wh3_main_corruption_slaanesh_cult_of_pleasure_71-80: unknown
 wh3_main_dilemma_ksl_1_first: unknown
+wh3_main_ksl_cav_gryphon_legion_0: unknown
+wh3_main_ksl_cav_horse_archers_0: unknown
+wh3_main_ksl_cav_war_bear_riders_1: unknown
+wh3_main_ksl_cav_winged_lancers_0: unknown
+wh3_main_ksl_inf_armoured_kossars_0: unknown
+wh3_main_ksl_inf_armoured_kossars_1: unknown
+wh3_main_ksl_inf_ice_guard_0: unknown
+wh3_main_ksl_inf_ice_guard_1: unknown
+wh3_main_ksl_inf_kossars_1: unknown
+wh3_main_ksl_inf_streltsi_0: unknown
+wh3_main_ksl_inf_tzar_guard_0: unknown
+wh3_main_ksl_inf_tzar_guard_1: unknown
+wh3_main_ksl_mon_snow_leopard_0: unknown
+wh3_main_ksl_veh_heavy_war_sled_0: unknown
+wh3_main_ksl_veh_light_war_sled_0: unknown
+wh3_main_ksl_veh_little_grom_0: unknown
 wh3_main_minor_cult_tilean_traders: unknown
+wh3_main_monster_feral_bears: unknown
+wh3_main_operation_set_ksl_ice_court_support: unknown
+wh3_main_operation_set_ksl_orthodoxy_support: unknown
 wh3_main_ritual_dae_ascend_slaanesh: unknown
+wh3_main_ritual_ksl_winter_dazh_force: unknown
+wh3_main_ritual_ksl_winter_dazh_province: unknown
+wh3_main_ritual_ksl_winter_salyak_force: unknown
+wh3_main_ritual_ksl_winter_salyak_province: unknown
+wh3_main_ritual_ksl_winter_tor_province: unknown
+wh3_main_ritual_ksl_winter_ursun_force: unknown
+wh3_main_ritual_ksl_winter_ursun_province: unknown
+wh3_twa06_ksl_inf_tzar_guard_ror_0: unknown
+wh3_twa07_ksl_cav_war_bear_riders_ror_0: unknown
+wh3_twa08_ksl_mon_elemental_bear_0_ror: unknown
+wh3_twa10_ksl_inf_armoured_kossars_ror: unknown
 wh_dlc03_bundle_anc_mark_of_chaos_gouge_tusks: unknown
 wh_dlc05_tech_1_cadai: unknown
 wh_dlc05_tech_1_isha: unknown
@@ -225,9 +373,11 @@ wh_dlc07_tech_brt_heraldry_parravon: unknown
 wh_dlc07_tech_brt_heraldry_unification: unknown
 wh_dlc08_payload_rare_metal_first: unknown
 wh_dlc13_anc_weapon_anguish_of_languille: unknown
+wh_main_anc_arcane_item_channelling_staff: unknown
 wh_main_anc_arcane_item_sceptre_of_stability: unknown
 wh_main_anc_arcane_item_scroll_of_shielding: unknown
 wh_main_anc_armour_armour_of_silvered_steel: unknown
+wh_main_anc_armour_glittering_scales: unknown
 wh_main_anc_armour_helm_of_discord: unknown
 wh_main_anc_armour_shield_of_ptolos: unknown
 wh_main_anc_armour_spellshield: unknown
@@ -235,10 +385,12 @@ wh_main_anc_enchanted_item_crown_of_command: unknown
 wh_main_anc_enchanted_item_featherfoe_torc: unknown
 wh_main_anc_enchanted_item_ironcurse_icon: unknown
 wh_main_anc_enchanted_item_the_other_tricksters_shard: unknown
+wh_main_anc_magic_standard_banner_of_eternal_flame: unknown
 wh_main_anc_magic_standard_rangers_standard: unknown
 wh_main_anc_magic_standard_war_banner: unknown
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
+wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_brt_cav_grail_knights: unknown
 wh_main_brt_cav_knights_of_the_realm: unknown
 wh_main_brt_cav_pegasus_knights: unknown
