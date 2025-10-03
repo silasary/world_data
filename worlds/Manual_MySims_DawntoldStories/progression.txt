@@ -4,7 +4,7 @@ Action Figure Essence: progression
 Alexa Lexington: progression
 Alien Essence: progression
 Amusement Ride: progression
-Angry Essence: unknown
+Angry Essence: progression
 Arcade Game (Antennae): filler
 Arcade Game: progression
 Bacon Essence: progression
@@ -15,7 +15,7 @@ Bathtub: progression
 Beach Ball Essence: progression
 Bean Bradley: progression
 Bed (Bunk): filler
-Bed (Froggy): unknown
+Bed (Froggy): filler
 Bed (Princess): filler
 Bed: progression
 Beebee: progression
@@ -24,7 +24,7 @@ Black Apple Essence: progression
 Black Rose Essence: progression
 Blaine: progression
 Blowtorch: progression
-Bookshelf (Ornate): unknown
+Bookshelf (Ornate): filler
 Bookshelf: progression
 Brendan: progression
 Buddy: progression
@@ -45,7 +45,7 @@ Cherry Blossom Essence: progression
 Chocolate Cake Essence: progression
 Clara Belle: progression
 Clayton Dander: progression
-Clown Fish Essence: unknown
+Clown Fish Essence: progression
 Clubs Essence: progression
 Coffee Table: progression
 Costume Chest: progression
@@ -63,13 +63,13 @@ Dark Wood Essence: progression
 Daryl Handsly: progression
 Dead Wood Essence: progression
 Desk (Bridge): filler
-Desk (Puzzle): unknown
+Desk (Puzzle): filler
 Desk: progression
 Diamonds Essence: progression
 Dinosaur Fossil Essence: progression
 Dolly Dearheart: progression
-Dr F: unknown
-Dragon Essence: unknown
+Dr F: progression
+Dragon Essence: filler
 Dresser (Colonial): filler
 Edwin: progression
 Elephant Essence: progression
@@ -94,12 +94,12 @@ Goth Boy: progression
 Green Apple Essence: progression
 Happy Essence: progression
 Hearts Essence: progression
-Hopi Doll Essence: unknown
+Hopi Doll Essence: progression
 Hopper: progression
 Hot Tub (Robohead): filler
 Hot Tub: progression
 Ian Arneson: progression
-Ice Cream Freezer (Pagoda): unknown
+Ice Cream Freezer (Pagoda): filler
 Ice Cream Freezer: progression
 Iggy: progression
 Jack O Lantern Essence: progression
@@ -119,22 +119,23 @@ Lime Essence: progression
 Linda: progression
 Luis: progression
 Madame Zoe: progression
-Makoto: unknown
+Makoto: progression
 Maria: progression
 Master Aran: progression
 Matt: progression
 Mega Lizard Essence: progression
 Mel: progression
-Metal Essence: unknown
+Metal Essence: progression
 Microscope Essence: filler
 Mirror: progression
 Moai Essence: progression
 Morcubus: progression
 Ms Nicole Vogue: progression
+Natalia Roshmanov: progression
 Noelle: progression
 Octopus Essence: progression
 Odin Revolution: progression
-Orange Essence: unknown
+Orange Essence: progression
 Organ: progression
 Organic Essence: progression
 Pablo: progression
@@ -143,7 +144,7 @@ Pawn Essence: progression
 Pencil Essence: progression
 Pickaxe: progression
 Pinky: progression
-Pinwheel Essence: unknown
+Pinwheel Essence: progression
 Pirate Ship: progression
 Pizza Oven (Cafe): filler
 Pizza Oven: progression
@@ -160,7 +161,7 @@ Raven Wright: progression
 Ray: progression
 Red Apple Essence: progression
 Red Crayon Essence: progression
-Refrigerator (Framed): unknown
+Refrigerator (Framed): filler
 Refrigerator: progression
 Renée: progression
 Rhonda: progression
@@ -189,7 +190,7 @@ Shelf: progression
 Shirley: progression
 Sir Vincent Skullfinder: progression
 Skeleton Essence: progression
-Small Television (Question): unknown
+Small Television (Question): filler
 Small Television: progression
 Snake Essence: progression
 Soccer Ball Essence: progression
@@ -201,8 +202,8 @@ Stage: progression
 Star Level: unknown
 Star: progression
 Stephen Albright: progression
-Stereo (Antique): unknown
-Stereo (Drumset): unknown
+Stereo (Antique): filler
+Stereo (Drumset): filler
 Stereo: progression
 Stone Essence: progression
 Stove (Witch): filler
@@ -213,10 +214,10 @@ Super Computer: progression
 Table (Lattice): filler
 Table: progression
 Tad Flipper McCaffrey: progression
-Taylor: unknown
-Telescope (Octopus): unknown
+Taylor: progression
+Telescope (Octopus): filler
 Telescope: progression
-Television (Club): unknown
+Television (Club): filler
 Television: progression
 Terra Cotta Essence: progression
 Terry Toymender: progression
@@ -235,8 +236,8 @@ Travis: progression
 Trevor Verily: progression
 Turntable: progression
 Vic Vector: progression
-Vincent Complete: unknown
-Voodoo Doll Essence: unknown
+Vincent Complete: progression
+Voodoo Doll Essence: progression
 Wendalyn: progression
 Yellow Blossom Essence: progression
 Yellow Crayon Essence: progression
