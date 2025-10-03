@@ -4,6 +4,7 @@
 10 KROMER: useful
 10 POINTs: filler
 100 D$: useful
+100 POINTs: filler
 5 Dollars: progression
 Absorb Ax: useful
 Amber Card: progression
@@ -72,7 +73,7 @@ Guei Recruit: progression
 Hathy Recruit: filler
 Head Hathy Recruit: filler
 Hearts Donut: useful
-Hot Chocolate: unknown
+Hot Chocolate: useful
 ICE KEY: progression
 ICE-E Statue: unknown
 Iron Shackle: useful
