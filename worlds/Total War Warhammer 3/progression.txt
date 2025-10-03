@@ -23,13 +23,20 @@ Progressive brt_tavern: unknown
 Progressive brt_walls: unknown
 Progressive emp_art: unknown
 Progressive emp_cav: unknown
+Progressive emp_farm_basic: unknown
 Progressive emp_forges: unknown
+Progressive emp_inf: unknown
 Progressive emp_resource_dyes: unknown
+Progressive emp_resource_ivory: unknown
+Progressive emp_resource_pastures: unknown
+Progressive emp_resource_salt: unknown
 Progressive emp_resource_wine: unknown
 Progressive emp_settlement_major: unknown
 Progressive emp_settlement_minor: unknown
 Progressive emp_stables: unknown
 Progressive emp_tavern: unknown
+Progressive emp_veh: unknown
+Progressive emp_walls: unknown
 Progressive foreign_slot_discovery_brt: unknown
 Progressive foreign_slot_discovery_grn: unknown
 Progressive foreign_slot_discovery_ksl: unknown
@@ -67,6 +74,7 @@ Progressive grn_walls: unknown
 Progressive grn_walls_2: unknown
 Progressive grn_walls_3: unknown
 Progressive grn_workshop: unknown
+Progressive huntmarshall_veh: unknown
 Progressive ksl_allied_outpost: unknown
 Progressive ksl_artillery: unknown
 Progressive ksl_barracks: unknown
@@ -128,6 +136,7 @@ Progressive special_ksl_praag_2: unknown
 Progressive special_ksl_praag_3: unknown
 Progressive special_settlement_massif_orcal_brt: unknown
 Progressive special_settlement_massif_orcal_grn: unknown
+Progressive special_settlement_sartosa_emp: unknown
 Progressive tech_ksl: unknown
 Schizophrenia!: trap
 Sphere of Influence: progression
@@ -183,9 +192,11 @@ tech_grn_start_3_1: unknown
 tech_grn_start_3_2: unknown
 tech_grn_start_3_3: unknown
 wh2_dlc09_anc_armour_armour_armour_of_dawn: unknown
+wh2_dlc09_anc_weapon_golden_dagger: unknown
 wh2_dlc09_anc_weapon_inscribed_khopesh: unknown
 wh2_dlc09_anc_weapon_spear_of_pakth: unknown
 wh2_dlc09_payload_dilemma_soulless_sphinx_first: unknown
+wh2_dlc09_ritual_crafting_tmb_army_capacity_16: unknown
 wh2_dlc11_bundle_stance_flagship_patrol: unknown
 wh2_dlc11_payload_incident_mass_exodus: unknown
 wh2_dlc11_payload_incident_perfect_cover: unknown
@@ -205,6 +216,7 @@ wh2_dlc17_anc_talisman_shardstone_amulet: unknown
 wh2_dlc17_bst_anc_follower_battle_scarred_ungor_raider: unknown
 wh2_dlc17_bst_ruination_passive_tier_6: unknown
 wh2_dlc17_threat_map_reward_settlements_4_hard: unknown
+wh2_main_anc_armour_shroud_of_death: unknown
 wh2_main_anc_talisman_amulet_of_foresight: unknown
 wh2_main_anc_weapon_wrath_of_kurnous: unknown
 wh2_main_brt_resource_animals_2: unknown
@@ -275,7 +287,9 @@ wh3_dlc25_anc_enchanted_item_epidemius_hourglass: unknown
 wh3_dlc25_dwf_ritual_mercenary_unit_pack_grudge_thrower: unknown
 wh3_dlc25_dwf_ritual_mercenary_unit_pack_quarrellers: unknown
 wh3_dlc25_nur_force_1_positive: unknown
+wh3_dlc25_nur_payload_dilemma_chieftains_kazyk_werekin_incident: unknown
 wh3_dlc25_ritual_emp_don_land_ship_1: unknown
+wh3_dlc25_ritual_emp_don_purple_eclipse: unknown
 wh3_dlc26_anc_cloak_of_skulls: unknown
 wh3_dlc26_anc_weapon_bloodstorm_blades: unknown
 wh3_main_anc_arcane_item_kairos_life: unknown
@@ -283,6 +297,7 @@ wh3_main_anc_armour_accursed_armour: unknown
 wh3_main_anc_enchanted_item_cauldron_of_the_great_maw: unknown
 wh3_main_anc_enchanted_item_maads_map: unknown
 wh3_main_anc_enchanted_item_spotters_spyglass: unknown
+wh3_main_anc_talisman_overtyrants_crown: filler
 wh3_main_anc_weapon_necrotic_missiles: unknown
 wh3_main_anc_weapon_slaaneshs_blade: unknown
 wh3_main_anc_weapon_the_bane_spear: unknown
