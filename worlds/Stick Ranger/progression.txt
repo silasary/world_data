@@ -55,6 +55,7 @@ Gold Medal 1: filler
 Gold Medal 2: unknown
 Gold Medal 4: unknown
 Gold Medal 5: unknown
+Gold Medal 6: useful
 Gold Medal 7: unknown
 Gold rush Card: unknown
 GreatSword: filler
@@ -165,7 +166,7 @@ Unlock Hell 3: unknown
 Unlock Hell 4: progression
 Unlock Hell 5: unknown
 Unlock Hell 6: unknown
-Unlock Hell 7: unknown
+Unlock Hell 7: progression
 Unlock Hell 8: unknown
 Unlock Hell Castle: unknown
 Unlock Hell Gate: progression
@@ -295,6 +296,7 @@ quick chakram: unknown
 quick circle: unknown
 quint poison: filler
 rail gun: unknown
+rocket launcher: useful
 slow laser gun: unknown
 sniper rifle: unknown
 sonic knuckle: unknown
