@@ -32,7 +32,7 @@
 2x Gold: filler
 2x Grapes: unknown
 2x Green Gem: useful
-2x Hazelnut: unknown
+2x Hazelnut: filler
 2x Iron: filler
 2x Leather: filler
 2x Level Badge: filler
@@ -442,7 +442,7 @@ Drum+2: unknown
 Drum+3: unknown
 Drum+4: unknown
 Drum+5: unknown
-Drum: unknown
+Drum: filler
 Dumbbell+1: unknown
 Dumbbell+2: unknown
 Dumbbell+3: unknown
