@@ -54,7 +54,7 @@ Dice Brace: useful
 Dog Dollar: filler
 Egg: useful
 Elnina Recruit: progression
-Exec Buffet: unknown
+Exec Buffet: useful
 Feacher Presentation Trap: trap
 Flat Soda: useful
 Flex Scarf: unknown
@@ -81,7 +81,7 @@ Itemless Trap: trap
 JEVIL Item: useful
 Jevilstail: useful
 Jigsawry Recruit: progression
-Jingle Blade: unknown
+Jingle Blade: useful
 Justice Axe: useful
 KeyGen: useful
 Keyboard Puzzles: progression
@@ -107,7 +107,7 @@ Mooncloud Stone: progression
 Moss: filler
 Mouse Puzzles: progression
 Mystic Band: unknown
-Noelle Tea: unknown
+Noelle Tea: useful
 Noelle Unlock: progression
 Nothing: unknown
 Odd Controller: progression
@@ -136,7 +136,7 @@ Rhapsotea: filler
 Rotten Tea: useful
 Roulx Roux: useful
 Rouxls Block: unknown
-Rouxls Kaard: unknown
+Rouxls Kaard: progression
 Royal Pin: unknown
 Rudinn Ranger Recruit: filler
 Rudinn Recruit: progression
@@ -167,7 +167,7 @@ Swatchling Recruit: progression
 TV Dinner: filler
 TV Slop: filler
 Tasque Manager Recruit: progression
-Tasque Recruit: unknown
+Tasque Recruit: progression
 Tension Bit: progression
 Tension Bow: unknown
 Tension Gem: useful
@@ -187,6 +187,6 @@ Werewire Recruit: progression
 White Ribbon: progression
 Wicabel Recruit: filler
 Winglade Recruit: filler
-Winglade: unknown
+Winglade: useful
 Z-Rank Door: progression
 Zapper Recruit: progression
