@@ -100,7 +100,7 @@ Chain Chomp for Birdo: progression
 Chain Chomp for Bowser Jr.: useful
 Chain Chomp for Bowser: unknown
 Chain Chomp for Daisy: useful
-Chain Chomp for Diddy Kong: unknown
+Chain Chomp for Diddy Kong: useful
 Chain Chomp for Donkey Kong: useful
 Chain Chomp for Everybody: progression
 Chain Chomp for King Boo: progression
@@ -162,7 +162,7 @@ Fake Item for Peach: useful
 Fake Item for Petey Piranha: unknown
 Fake Item for Toad: useful
 Fake Item for Toadette: unknown
-Fake Item for Waluigi: unknown
+Fake Item for Waluigi: useful
 Fake Item for Wario: useful
 Fake Item for Yoshi: filler
 Fireball for Birdo: unknown
@@ -236,7 +236,7 @@ Golden Mushroom for Peach: unknown
 Golden Mushroom for Petey Piranha: progression
 Golden Mushroom for Toad: progression
 Golden Mushroom for Toadette: unknown
-Golden Mushroom for Waluigi: unknown
+Golden Mushroom for Waluigi: useful
 Golden Mushroom for Wario: useful
 Golden Mushroom for Yoshi: useful
 Goo-Goo Buggy: useful
