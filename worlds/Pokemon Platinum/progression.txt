@@ -11,6 +11,7 @@ Bicycle: unknown
 Big Mushroom: filler
 Big Pearl: filler
 Big Root: filler
+Big Tree: unknown
 Black Flute: filler
 Blue Shard: filler
 Burn Heal: filler
@@ -113,7 +114,7 @@ Magmarizer: filler
 Magnet: filler
 Marsh Pass: unknown
 Master Ball: unknown
-Master Repel: unknown
+Master Repel: progression
 Max Elixir: filler
 Max Ether: filler
 Max Potion: filler
