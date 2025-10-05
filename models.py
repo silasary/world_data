@@ -23,7 +23,7 @@ class ItemClassification(enum.Flag):
     def from_network_flag(flag: int) -> "ItemClassification":
         if flag == 0:
             return ItemClassification.filler
-        value = ItemClassification.filler
+        value = ItemClassification.unknown
         if flag & 0b00001:
             value |= ItemClassification.progression
         if flag & 0b00010:
