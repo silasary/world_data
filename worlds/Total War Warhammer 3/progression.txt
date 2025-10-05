@@ -361,6 +361,7 @@ wh_dlc07_tech_brt_chivalry_beastmen_1: unknown
 wh_dlc07_tech_brt_chivalry_chaos_1: unknown
 wh_dlc07_tech_brt_chivalry_dark_elves: unknown
 wh_dlc07_tech_brt_chivalry_greenskins_1: unknown
+wh_dlc07_tech_brt_chivalry_greenskins_2: unknown
 wh_dlc07_tech_brt_chivalry_norsca_1: unknown
 wh_dlc07_tech_brt_chivalry_norsca_2: unknown
 wh_dlc07_tech_brt_chivalry_skaven: unknown
@@ -381,6 +382,7 @@ wh_dlc07_tech_brt_economy_other_carpenters: unknown
 wh_dlc07_tech_brt_economy_other_draft: unknown
 wh_dlc07_tech_brt_economy_other_siege: unknown
 wh_dlc07_tech_brt_economy_other_tithes: unknown
+wh_dlc07_tech_brt_economy_trade_1: unknown
 wh_dlc07_tech_brt_economy_trade_2: unknown
 wh_dlc07_tech_brt_heraldry_artois: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: unknown
