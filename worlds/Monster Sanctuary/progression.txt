@@ -79,7 +79,7 @@
 3500 G: filler
 3x Antidote: unknown
 3x Apple: filler
-3x Azure Gem: unknown
+3x Azure Gem: filler
 3x Berry: filler
 3x Big Potion: unknown
 3x Blue Gem: unknown
@@ -1051,7 +1051,7 @@ Shuriken+4: unknown
 Shuriken+5: unknown
 Shuriken: filler
 Sign Language: unknown
-Silk: unknown
+Silk: filler
 Silvaero Egg: unknown
 Silvaero Harness: progression
 Silver Feather: progression
