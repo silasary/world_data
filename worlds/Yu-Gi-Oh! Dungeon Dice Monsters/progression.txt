@@ -12,6 +12,7 @@ CHARLIE_GALE: progression
 CHOPMAN: progression
 CROQUET: unknown
 CURATOR_ADRIEL_WAINWRIGHT: progression
+Crocozaurus: unknown
 DAMIEN_DRACO: progression
 DEMITRIUS_THE_BULLY: progression
 DIANA: progression
@@ -77,7 +78,7 @@ TEA_GARDNER: progression
 THE_GREENDALE_ZOMPIRE: progression
 THE_MERCHANT: progression
 THE_PUPPETEER: progression
-THUG_A: unknown
+THUG_A: progression
 THUG_B: progression
 THUG_C: unknown
 TICK_TOCK: progression
