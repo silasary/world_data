@@ -7,6 +7,7 @@ Arterial Engine: unknown
 Aurora Jellyfish: filler
 Axial Matron: unknown
 Barbed Eel: unknown
+Barbed Ice Rod: unknown
 Barracuda: unknown
 Basic Crab Pot: progression
 Basic Fishing Pole: progression
@@ -15,7 +16,7 @@ Blackfin Tuna: unknown
 Blistered Tarpon: filler
 Bloodskin Shark: unknown
 Blue Crab: filler
-Blue Mackerel: unknown
+Blue Mackerel: filler
 Boreal Shell: unknown
 Bottomless Lines: progression
 Brittle Trawl Net: progression
@@ -36,6 +37,7 @@ Conger Eel: filler
 Consumed Grouper: unknown
 Coral Grouper: filler
 Cortex Decorator: unknown
+Craterous Seer: unknown
 Crawling Instar: filler
 Crown of Nadir: unknown
 Crown of Thorns: filler
@@ -130,7 +132,9 @@ Tempered Mesh Net: progression
 Tendon Rod: progression
 Thawed Icefish: unknown
 Translucent Sturgeon: unknown
+Trilobite: filler
 Tusked Grouper: unknown
+Twin Jet Drive Engine: progression
 Twin Prop Engine: unknown
 Twisted Shark: filler
 Viscera Crane: unknown
