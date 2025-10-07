@@ -40,6 +40,7 @@ Double Dip P: filler
 Double Dip: unknown
 Double Pain: unknown
 Dried Bouquet: unknown
+Dried Shroom: unknown
 Elevator Key (Station): unknown
 Elevator Key 2: progression
 FP Plus: unknown
@@ -63,7 +64,7 @@ HP Drain P: unknown
 HP Drain: useful
 HP Plus P: unknown
 HP Plus: unknown
-Hammer Throw: unknown
+Hammer Throw: filler
 Hammerman: filler
 Happy Flower: unknown
 Happy Heart: unknown
@@ -89,8 +90,9 @@ Mega Rush: unknown
 Mini Mr. Mini: unknown
 Ms. Mowz: unknown
 Multibounce: unknown
-Mushroom: unknown
+Mushroom: filler
 Mystery: unknown
+Mystic Egg: unknown
 Necklace: progression
 Omelette Meal: unknown
 P-Down, D-Up P: filler
@@ -100,19 +102,21 @@ POW Block: unknown
 Palace Key (Tower): unknown
 Palace Key: unknown
 Paper Mode: progression
+Peachy Peach: unknown
 Peekaboo: unknown
 Plane Mode: unknown
 Point Swap: unknown
 Power Bounce: unknown
 Power Jump: unknown
 Power Plus P: unknown
-Power Plus: unknown
+Power Plus: filler
 Power Punch: unknown
 Power Rush P: unknown
 Power Rush: useful
 Pretty Lucky: unknown
 Progressive Boots: unknown
 Progressive Hammer: unknown
+Puni Orb: unknown
 Quake Hammer: useful
 Quick Change: unknown
 Ragged Diary: unknown
@@ -130,7 +134,7 @@ Simplifier: unknown
 Skull Gem: unknown
 Sleepy Stomp: unknown
 Slow Go: unknown
-Slow Shroom: unknown
+Slow Shroom: filler
 Snow Bunny: unknown
 Soft Stomp: unknown
 Spite Pouch: unknown
@@ -147,15 +151,18 @@ Superbombomb: unknown
 Tasty Tonic: unknown
 The Letter "p": unknown
 Thunder Bolt: unknown
-Thunder Rage: unknown
+Thunder Rage: filler
 Tornado Jump: filler
 Train Ticket: unknown
 Tube Mode: unknown
 Turtley Leaf: unknown
 Ultra Shroom: useful
 Unsimplifier: unknown
+Up Arrow: useful
 Vivian: unknown
 Volt Shroom: unknown
 W Emblem: unknown
 Wedding Ring: progression
 Whacka Bump: filler
+Zap Tap: useful
+Zess Special: unknown
