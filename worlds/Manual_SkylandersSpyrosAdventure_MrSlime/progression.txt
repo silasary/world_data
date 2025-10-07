@@ -8,7 +8,7 @@ Boomer: Clobber Troll: unknown
 Boomer: Demolition Troll: unknown
 Boomer: progression
 Camo's Soul Ability: useful
-Camo: Melon Master: unknown
+Camo: Melon Master: useful
 Camo: Vine Virtuoso: useful
 Camo: progression
 Chop Chop's Soul Ability: useful
@@ -29,6 +29,7 @@ Double Trouble: unknown
 Dragon's Peak: unknown
 Drill Sergeant's Soul Ability: useful
 Drill Sergeant: BattleDozer: useful
+Drill Sergeant: MegaDozer: useful
 Drill Sergeant: progression
 Drobot's Soul Ability: useful
 Drobot: Clockwork Dragon: unknown
@@ -37,6 +38,7 @@ Drobot: progression
 Empire of Ice: progression
 Eruptor's Soul Ability: useful
 Eruptor: Magmantor: useful
+Eruptor: Volcanor: useful
 Eruptor: progression
 Flameslinger's Soul Ability: unknown
 Flameslinger: Marksman: unknown
@@ -102,12 +104,14 @@ Sunburn: Flame Lord: unknown
 Sunburn: progression
 Terrafin's Soul Ability: useful
 Terrafin: Brawler: useful
+Terrafin: Sandhog: useful
 Terrafin: unknown
 Trigger Happy's Soul Ability: useful
 Trigger Happy: Golden Frenzy: unknown
 Trigger Happy: Golden Money Bags: useful
 Trigger Happy: unknown
 Voodood's Soul Ability: useful
+Voodood: Elementalist: useful
 Voodood: Marauder: unknown
 Voodood: progression
 Warnado's Soul Ability: useful
