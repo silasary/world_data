@@ -1,15 +1,16 @@
 10 Coins: unknown
 All or Nothing: unknown
+Attack FX R: unknown
 Attack FX Y: unknown
 Autograph: unknown
 Black Key (Boat): unknown
 Black Key (Paper): unknown
-Black Key (Plane): unknown
+Black Key (Plane): progression
 Black Key (Tube): unknown
 Blimp Ticket: unknown
 Blue Key: unknown
 Boat Mode: unknown
-Bobbery: unknown
+Bobbery: progression
 Boo's Sheet: unknown
 Bump Attack: unknown
 Cake Mix: unknown
@@ -18,6 +19,8 @@ Card Key 2: useful
 Card Key 3: unknown
 Card Key 4: unknown
 Castle Key: unknown
+Champ's Belt: unknown
+Charge P: useful
 Chill Out: unknown
 Choco Cake: unknown
 Chuckola Cola: unknown
@@ -39,7 +42,7 @@ Dried Bouquet: unknown
 Elevator Key (Station): unknown
 FP Plus: unknown
 Feeling Fine P: unknown
-Fire Drive: unknown
+Fire Drive: useful
 Fire Flower: unknown
 First Attack: unknown
 Flower Saver P: unknown
@@ -49,13 +52,13 @@ Fright Mask: unknown
 Gate Handle: unknown
 Gold Bar x3: unknown
 Gold Bar: unknown
-Gold Ring: unknown
-Goldbob Guide: unknown
-Goombella: unknown
+Gold Ring: progression
+Goldbob Guide: progression
+Goombella: progression
 Gradual Syrup: unknown
 Grotto Key: unknown
 HP Drain P: unknown
-HP Drain: unknown
+HP Drain: useful
 HP Plus P: unknown
 HP Plus: unknown
 Hammer Throw: unknown
@@ -65,13 +68,14 @@ Happy Heart: unknown
 Heart Finder: unknown
 Honey Syrup: unknown
 Hot Dog: unknown
+Hot Sauce: unknown
 Ice Power: unknown
 Ice Smash: unknown
 Ice Storm: unknown
 Inn Coupon: unknown
 Jammin' Jelly: unknown
 Jumpman: unknown
-Keel Mango: unknown
+Keel Mango: filler
 Koops: unknown
 L Emblem: unknown
 Last Stand P: unknown
@@ -84,10 +88,12 @@ Mini Mr. Mini: unknown
 Ms. Mowz: unknown
 Multibounce: unknown
 Mushroom: unknown
+Mystery: unknown
 Necklace: progression
 Omelette Meal: unknown
 P-Down, D-Up P: unknown
 P-Up, D-Down P: unknown
+P-Up, D-Down: unknown
 POW Block: unknown
 Palace Key (Tower): unknown
 Palace Key: unknown
@@ -99,12 +105,13 @@ Power Bounce: unknown
 Power Jump: unknown
 Power Plus P: unknown
 Power Plus: unknown
+Power Punch: unknown
 Power Rush P: unknown
 Power Rush: unknown
 Pretty Lucky: unknown
 Progressive Boots: unknown
 Progressive Hammer: unknown
-Quake Hammer: unknown
+Quake Hammer: useful
 Quick Change: unknown
 Ragged Diary: unknown
 Red Key: unknown
@@ -131,6 +138,7 @@ Station Key 2: progression
 Stopwatch: unknown
 Storage Key 1: unknown
 Sun Stone: unknown
+Super Appeal P: unknown
 Super Appeal: unknown
 Super Shroom: unknown
 Superbombomb: unknown
@@ -146,5 +154,6 @@ Ultra Shroom: useful
 Unsimplifier: unknown
 Vivian: unknown
 Volt Shroom: unknown
-Wedding Ring: unknown
+W Emblem: unknown
+Wedding Ring: progression
 Whacka Bump: unknown

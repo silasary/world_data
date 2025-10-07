@@ -3,6 +3,7 @@ Automaton 30 Gold: useful
 Automaton Boss Gold: progression
 Automaton Boss Relic: progression
 Automaton Card Draw: progression
+Automaton Card Reward: progression
 Automaton Five Gold: filler
 Automaton Neutral Shop Card Slot: progression
 Automaton One Gold: filler
@@ -11,6 +12,7 @@ Automaton Progressive Rest: progression
 Automaton Progressive Shop Remove: progression
 Automaton Progressive Smith: progression
 Automaton Rare Card Draw: progression
+Automaton Rare Card Reward: progression
 Automaton Relic: progression
 Automaton Shop Card Slot: progression
 Automaton Shop Potion Slot: useful
