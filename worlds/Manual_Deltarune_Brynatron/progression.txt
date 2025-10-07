@@ -13,6 +13,7 @@ Ancient Sweet: useful
 Applause: filler
 Auto Axe: useful
 B.ShotBowtie: useful
+Balloons: filler
 Balthizard Recruit: filler
 Bibliox Recruit: progression
 Bitter Tear: useful
@@ -21,7 +22,7 @@ Bloxer Recruit: unknown
 Blue Ribbon: useful
 Bounce Blade: unknown
 Bouquet: progression
-Box of Heart Candy: unknown
+Box of Heart Candy: progression
 Brave Ax: useful
 Broken Key A: unknown
 Broken Key B: progression
@@ -35,14 +36,14 @@ Chapter 1: progression
 Chapter 2: progression
 Chapter 3: progression
 Chapter 4: progression
-Chapter Completion: unknown
+Chapter Completion: progression
 Choco Diamond: useful
 Claimb Claws: progression
 Clock Puzzles: progression
 Clubs Sandwich: useful
-Couch Pillow: unknown
+Couch Pillow: progression
 Counterfeit S-Rank: progression
-Crystal Obtained: unknown
+Crystal Obtained: mcguffin
 DD-Burger: useful
 Dainty Scarf: useful
 Dark Candy: filler
@@ -56,6 +57,7 @@ Dice Brace: useful
 Dog Dollar: filler
 Egg: useful
 Elnina Recruit: progression
+EmptyDisk: progression
 Exec Buffet: useful
 Feacher Presentation Trap: trap
 Flat Soda: useful
@@ -104,7 +106,7 @@ Manual: unknown
 Maus Recruit: progression
 Mauswheel Recruit: filler
 Mecha Saber: useful
-Miss Mizzle Recruit: unknown
+Miss Mizzle Recruit: progression
 Mizzle Recruit: progression
 Mooncloud Stone: progression
 Moss: filler
@@ -112,7 +114,7 @@ Mouse Puzzles: progression
 Mystic Band: unknown
 Noelle Tea: useful
 Noelle Unlock: progression
-Nothing: unknown
+Nothing: filler
 Odd Controller: progression
 Old Man Unlock: progression
 Organikk Recruit: filler
@@ -136,6 +138,7 @@ Ralsei Tea: useful
 Ralsei Unlock: unknown
 Revivemint: progression
 Rhapsotea: filler
+Ribbick Recruit: progression
 Rotten Tea: useful
 Roulx Roux: useful
 Rouxls Block: unknown
@@ -153,6 +156,7 @@ Shadow Crystal: progression
 Shadow Mantle: progression
 Shadowguy Recruit: progression
 Sheet Music: progression
+Shuttah Recruit: progression
 Silver Card: useful
 Silver Trophy: filler
 Silver Watch: useful
@@ -160,11 +164,12 @@ Slow Trap: trap
 Smile: filler
 Spaghetti Code: filler
 Spamton NEO Item: useful
+Spike Band: useful
 Spin Cake: useful
 Spookysword: useful
 Suit Puzzles: progression
 Susie Tea: useful
-Susie Unlock: unknown
+Susie Unlock: progression
 Susie-like Statue: unknown
 Susiezilla Unlock: progression
 Swatchling Recruit: progression
@@ -184,6 +189,7 @@ Toxic Axe: useful
 Trip Ticket: progression
 Twin Ribbon: useful
 Vacation Photo: progression
+Virovirokun Recruit: progression
 Waferguard: unknown
 Watercooler Recruit: progression
 Werewerewire Recruit: unknown
