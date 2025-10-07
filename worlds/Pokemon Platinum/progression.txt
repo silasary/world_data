@@ -208,7 +208,7 @@ TM03: filler
 TM05: unknown
 TM06: useful
 TM07: filler
-TM09: unknown
+TM09: useful
 TM11: unknown
 TM12: filler
 TM13: useful
