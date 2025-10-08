@@ -25,7 +25,7 @@ U: progression
 V: unknown
 W: progression
 X: unknown
-Y: unknown
+Y: useful
 Z: unknown
 ×2L 0,0: progression
 ×2L 0,14: useful
@@ -140,7 +140,7 @@ Z: unknown
 ×3W 12,2: unknown
 ×3W 12,4: useful
 ×3W 14,0: useful
-×3W 14,14: unknown
+×3W 14,14: useful
 ×3W 14,6: unknown
 ×3W 14,8: unknown
 ×3W 2,10: useful
