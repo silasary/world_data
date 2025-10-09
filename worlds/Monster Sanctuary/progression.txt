@@ -273,7 +273,7 @@ Blood Vessel+2: unknown
 Blood Vessel+3: unknown
 Blood Vessel+4: unknown
 Blood Vessel+5: unknown
-Blood Vessel: unknown
+Blood Vessel: filler
 Blue Cave key: progression
 Blue Gem: filler
 Bow+1: useful
@@ -387,6 +387,7 @@ Cursed Drum+4: unknown
 Cursed Drum+5: unknown
 Cursed Drum: unknown
 Dark Stone: progression
+Dark-Shifted Dodo Egg: progression
 Darnation Egg: unknown
 Darnation Pheromones: unknown
 Deep Stone: useful
@@ -723,7 +724,7 @@ Lightning Sphere+2: unknown
 Lightning Sphere+3: unknown
 Lightning Sphere+4: unknown
 Lightning Sphere+5: unknown
-Lightning Sphere: unknown
+Lightning Sphere: filler
 Linen: filler
 Lion Fang+1: unknown
 Lion Fang+2: unknown
