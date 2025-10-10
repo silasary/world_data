@@ -3,7 +3,7 @@ Give me that: filler
 Handfull of Order: filler
 Handfull of Unrest: trap
 Let's trade!: unknown
-Look! What's that?: unknown
+Look! What's that?: trap
 Make Love, Not War: trap
 Orb of Domination: mcguffin
 Progressive brt_allied_outpost: progression
@@ -15,6 +15,8 @@ Progressive brt_resource_dyes: unknown
 Progressive brt_resource_gemstones: unknown
 Progressive brt_resource_gold: unknown
 Progressive brt_resource_marble: unknown
+Progressive brt_resource_pastures: progression
+Progressive brt_resource_pottery: unknown
 Progressive brt_resource_spices: unknown
 Progressive brt_settlement_major: unknown
 Progressive brt_settlement_minor: unknown
@@ -411,6 +413,7 @@ wh_main_anc_talisman_obsidian_trinket: unknown
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_brt_cav_grail_knights: unknown
 wh_main_brt_cav_knights_of_the_realm: unknown
+wh_main_brt_cav_mounted_yeomen_1: unknown
 wh_main_brt_cav_pegasus_knights: unknown
 wh_main_brt_farm_extra_2: unknown
 wh_main_brt_hospital_2: unknown
