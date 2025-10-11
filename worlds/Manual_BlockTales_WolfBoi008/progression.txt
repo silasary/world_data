@@ -1,6 +1,7 @@
 ATK-FX-B: filler
 ATK-FX-G: filler
 ATK-FX-R: unknown
+ATK-FX-Y: unknown
 Adventurer ID: unknown
 Apple Core: unknown
 Apple Juice: unknown
@@ -36,8 +37,10 @@ Comatose: useful
 Compost: useful
 Cookie Dough: filler
 Cookie: filler
+Cure: useful
 Daze: unknown
 Defend+: useful
+Defender: unknown
 Dizzy Dial: filler
 Double Cheezburger: unknown
 Dumpling: filler
