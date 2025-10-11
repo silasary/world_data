@@ -1,6 +1,7 @@
 ATK-FX-B: filler
 ATK-FX-G: filler
 ATK-FX-R: unknown
+Adventurer ID: unknown
 Apple Core: unknown
 Apple Juice: unknown
 Apple Pie: unknown
@@ -43,6 +44,7 @@ Dumpling: filler
 Dust: progression
 Dynamite: progression
 Eel: unknown
+Epicsauce: unknown
 Feel Fine: useful
 Fireball: useful
 First Aid Kit: useful
@@ -110,6 +112,7 @@ Power Stab: useful
 Pufferfish: unknown
 Pumpkin Pi: unknown
 Pumpkin: unknown
+ROBAR: filler
 Raw Turkey: progression
 Resurrect: useful
 Rocket Boots: progression
@@ -117,6 +120,7 @@ SP Drain: unknown
 SP Finder: unknown
 SP Saver: unknown
 SP+: unknown
+Safe Guard: unknown
 Seahorse Kebab: filler
 Seahorse: filler
 Shark: unknown
