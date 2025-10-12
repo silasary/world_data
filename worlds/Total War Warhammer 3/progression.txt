@@ -54,6 +54,7 @@ Progressive emp_stables: unknown
 Progressive emp_tavern: unknown
 Progressive emp_veh: unknown
 Progressive emp_walls: unknown
+Progressive emp_worship: unknown
 Progressive foreign_slot_discovery_brt: unknown
 Progressive foreign_slot_discovery_emp: unknown
 Progressive foreign_slot_discovery_grn: unknown
