@@ -63,6 +63,7 @@ Custom Character 1 30 gold: progression
 Custom Character 1 Boss Gold: progression
 Custom Character 1 Boss Relic: progression
 Custom Character 1 Card Draw: progression
+Custom Character 1 Card Reward: unknown
 Custom Character 1 Five Gold: filler
 Custom Character 1 Neutral Shop Card Slot: progression
 Custom Character 1 One Gold: filler
@@ -71,6 +72,7 @@ Custom Character 1 Progressive Rest: progression
 Custom Character 1 Progressive Shop Remove: progression
 Custom Character 1 Progressive Smith: progression
 Custom Character 1 Rare Card Draw: progression
+Custom Character 1 Rare Card Reward: unknown
 Custom Character 1 Relic: progression
 Custom Character 1 Shop Card Slot: progression
 Custom Character 1 Shop Potion Slot: progression
@@ -216,6 +218,7 @@ Hermit 30 Gold: progression
 Hermit Boss Gold: progression
 Hermit Boss Relic: progression
 Hermit Card Draw: progression
+Hermit Card Reward: unknown
 Hermit Five Gold: filler
 Hermit Neutral Shop Card Slot: progression
 Hermit One Gold: filler
@@ -328,6 +331,7 @@ Snecko Shop Card Slot: progression
 Snecko Shop Potion Slot: useful
 Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
+Status Card Trap: unknown
 Strong Buff Trap: trap
 Strong Debuff Trap: unknown
 Watcher 15 Gold: filler
