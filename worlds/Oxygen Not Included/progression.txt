@@ -1,36 +1,325 @@
+AND Gate: unknown
+Aero Pot: unknown
+Airborne Critter Condo: unknown
+Airborne Critter Trap: unknown
+Airflow Tile: unknown
+Algae Distiller: unknown
+Algae Terrarium: unknown
+Apothecary: unknown
+Artifact Transport Module: unknown
+Atmo Sensor: unknown
+Atmo Suit Dock: unknown
+Atmo Suit: unknown
+Auto-Sweeper: unknown
+Automated Notifier: unknown
+Automation Broadcaster: unknown
+Automation Receiver: unknown
+Automation Ribbon Bridge: unknown
+Automation Ribbon: unknown
+Automation Wire Bridge: unknown
+Automation Wire: unknown
+BUFFER Gate: unknown
+Basic Nosecone: unknown
 Beach Chair: unknown
+Blank Canvas: unknown
+Blastshot Maker: unknown
+Bleach Stone Hopper: unknown
+Botanical Analyzer: unknown
+Bottle Drainer: unknown
+Bottle Filler: unknown
+Bunker Door: unknown
+Bunker Tile: unknown
+Canister Emptier: unknown
+Canister Filler: unknown
+Carbon Dioxide Engine: unknown
+Care Package: Aluminum Ore: unknown
+Care Package: Arbor Tree Seed: unknown
+Care Package: Bammoth: unknown
+Care Package: Barbecue: unknown
+Care Package: Bonbon Tree Seed: unknown
+Care Package: Coal: unknown
+Care Package: Copper Ore: unknown
+Care Package: Dirt: unknown
 Care Package: Drecko: unknown
+Care Package: Ethanol: unknown
+Care Package: Hatch Egg: unknown
+Care Package: Hatch: unknown
 Care Package: Ice: unknown
 Care Package: Masterworks Art Booster: unknown
+Care Package: Oxyfern Seed: unknown
+Care Package: Pikeapple Bush Seed: unknown
+Care Package: Pip Egg: unknown
+Care Package: Pip: unknown
+Care Package: Plastic: unknown
+Care Package: Plume Squash Seed: unknown
+Care Package: Refined Iron: unknown
+Care Package: Rust: unknown
+Care Package: Salt Water: unknown
+Care Package: Sand: unknown
+Care Package: Spicy Tofu: unknown
 Care Package: Squash Fries: unknown
+Care Package: Thimble Reed Seed: unknown
+Care Package: Wood: unknown
+Care Package: Wort Seed: unknown
+Carpeted Tile: unknown
+Cartographic Module: unknown
+Ceiling Light: unknown
+Ceiling Trim: unknown
 Clothing Refashionator: unknown
+Coal Generator: unknown
+Compost: unknown
+Conduction Panel: unknown
+Conductive Wire Bridge: unknown
+Conductive Wire: unknown
+Conveyor Bridge: unknown
+Conveyor Loader Fitting: unknown
+Conveyor Loader: unknown
+Conveyor Meter: unknown
+Conveyor Rail Element Sensor: unknown
+Conveyor Rail Germ Sensor: unknown
+Conveyor Rail: unknown
+Conveyor Receptacle Fitting: unknown
+Conveyor Receptacle: unknown
+Conveyor Shutoff: unknown
+Corner Trim: unknown
+Critter Cargo Bay: unknown
+Critter Condo: unknown
+Critter Drop-Off: unknown
 Critter Feeder: unknown
+Critter Fountain: unknown
+Critter Pick-Up: unknown
+Critter Sensor: unknown
+Critter Trap: unknown
+Cycle Sensor: unknown
+Decontamination Shower: unknown
+Deep Fryer: unknown
+Dehydrator: unknown
+Deoderizer: unknown
+Desalinator: unknown
+Diamond Press: unknown
+Disease Clinic: unknown
+Drillcone: unknown
+Drywall: unknown
+Duplicant Checkpoint: unknown
+Duplicant Motion Sensor: unknown
+Egg Cracker: unknown
+Electric Grill: unknown
+Electrolyzer: unknown
+Enclosed Telescope: unknown
+Espresso Machine: unknown
+Ethanol Distiller: unknown
+Exosuit Forge: unknown
 FILTER Gate: unknown
+Farm Station: unknown
+Farm Tile: unknown
+Fire Pole: unknown
 Fish Feeder: unknown
+Fish Release: unknown
+Fish Trap: unknown
 Flower Pot: unknown
+Gantry: unknown
+Gas Bridge: unknown
+Gas Cargo Canister Small: unknown
 Gas Cargo Canister: unknown
+Gas Element Sensor: unknown
+Gas Filter: unknown
+Gas Pipe Element Sensor: unknown
+Gas Pipe Germ Sensor: unknown
+Gas Pipe: unknown
+Gas Pump: unknown
+Gas Range: unknown
+Gas Resevoir: unknown
+Gas Rocket Port Loader: unknown
+Gas Rocket Port Unloader: unknown
+Gas Valve: unknown
+Gas Vent: unknown
+Geotuner: unknown
 Germ Sensor: unknown
+Grooming Station: unknown
+Hammer: unknown
 Hand Sanitizer: unknown
+Hanging Pot: unknown
+Heavi-Watt Conductive Joint Plate: unknown
+Heavi-Watt Conductive Wire: unknown
+Heavi-Watt Joint Plate: unknown
+Heavi-Watt Wire: unknown
 High Pressure Gas Vent: unknown
 Hot Tub: unknown
+Hydro Sensor: unknown
+Hydrogen Engine Cluster: unknown
+Hydrogen Generator: unknown
 Hydroponic Farm: unknown
+Ice Block: unknown
 Ice Liquefier: unknown
+Ice Maker: unknown
+Ice-E Fan: unknown
+Incubator: unknown
+Insulated Tile: unknown
+Interplanetary Launcher: unknown
+Jet Suit Checkpoint: unknown
+Jet Suit Dock: unknown
+Jet Suit Pattern: unknown
+Juicer: unknown
+Jukebot: unknown
+Jumbo Battery: unknown
+Kiln: unknown
+Ladder Bed: unknown
+Lamp: unknown
 Landscape Canvas: unknown
+Large Cargo Bay: unknown
+Large Gas Cargo Canister: unknown
+Large Liquid Cargo Tank: unknown
+Large Liquid Fuel Tank: unknown
+Large Power Transformer: unknown
 Large Sculpting Block: unknown
+Large Solid Oxidizer Tank: unknown
+Lavatory: unknown
+Lead Suit Checkpoint: unknown
+Lead Suit Dock: unknown
+Lead Suit: unknown
+Light Sensor: unknown
+Liquid Bridge: unknown
+Liquid Cargo Tank: unknown
+Liquid Element Sensor: unknown
+Liquid Filter: unknown
 Liquid Meter Valve: unknown
+Liquid Pipe Germ Sensor: unknown
+Liquid Pipe Thermo Sensor: unknown
+Liquid Pipe: unknown
 Liquid Pump: unknown
+Liquid Reservoir: unknown
+Liquid Rocket Port Loader: unknown
+Liquid Rocket Port Unloader: unknown
+Liquid Shutoff: unknown
+Liquid Spacefarer Input Port: unknown
+Liquid Spacefarer Output Port: unknown
+Liquid Tepidizer: unknown
+Liquid Vent: unknown
+Manual Radbolt Generator: unknown
+Marble Block: unknown
+Materials Study Terminal: unknown
+Mechanical Surfboard: unknown
+Mechanized Airlock: unknown
+Memory Toggle: unknown
+Mercury Ceiling Light: unknown
 Mesh Tile: unknown
+Mess Table: unknown
+Metal Block: unknown
 Metal Refinery: unknown
+Metal Tile: unknown
+Meteor Blaster: unknown
+Milking Station: unknown
+Mini Gas Pump: unknown
+Mini Liquid Pump: unknown
+Mission Control Station Cluster: unknown
+Molecular Forge: unknown
+Monument Base: unknown
+Monument Midsection: unknown
+Monument top: unknown
+Natural Gas Generator: unknown
+OR Gate: unknown
 Oil Refinery: unknown
+Oil Well: unknown
+Orbital Cargo Module: unknown
+Ore Scrubber: unknown
+Oxygen Mask Checkpoint: unknown
+Oxygen Mask Dock: unknown
+Oxygen Mask Pattern: unknown
+Oxylite Refinery: unknown
 Oxylite Sconce: unknown
 Park Sign: unknown
+Payload Opener: unknown
 Pedestal: unknown
+Petroleum Engine Cluster: unknown
+Petroleum Generator: unknown
+Pixel Pack: unknown
+Plant Pulverizer: unknown
 Planter Box: unknown
+Plastic Ladder: unknown
 Polymer Press: unknown
+Portrait Canvas: unknown
+Power Control Station: unknown
+Power Outlet Fitting: unknown
+Power Shutoff: unknown
+Radbolt Chamber: unknown
+Radbolt Engine: unknown
+Radbolt Joint Plate: unknown
+Radbolt Reflector: unknown
+Radbolt Sensor: unknown
+Radiant Gas Pipe: unknown
+Radiant Liquid Pipe: unknown
+Radiation Lamp: unknown
+Radiation Sensor: unknown
+Ration Box: unknown
+Refrigerator: unknown
+Rehydrator: unknown
 Remote Controller: unknown
+Research Reactor: unknown
+Ribbon Reader: unknown
+Ribbon Writer: unknown
+Robo-Miner: unknown
+Rock Crusher: unknown
+Rocket Control Station: unknown
+Rocket Platform: unknown
+Rocket Port Extension: unknown
+Rocket Port: unknown
+Rover's Module: unknown
+Rust Deoxidier: unknown
 Sauna: unknown
+Sculpting Block: unknown
+Shearing Station: unknown
 Sick Bay: unknown
+Signal Counter: unknown
+Signal Distributor: unknown
+Signal Selector: unknown
+Signal Switch: unknown
+Sink: unknown
+Sludge Press: unknown
+Small Petroleum Engine: unknown
+Small Solid Oxidizer Tank: unknown
+Smart Storage Bin: unknown
+Soda Fountain: unknown
+Solar Panel Module: unknown
+Solar Panel: unknown
 Solid Filter: unknown
+Solid Rocket Port Unloader: unknown
+Solo Spacefarer Nosecone: unknown
+Space Scanner: unknown
+Spacefarer Module: unknown
+Starmap Location Sensor: unknown
+Steam Engine Cluster: unknown
+Steam Turbine: unknown
+Storage Tile: unknown
+Sugar Engine: unknown
 Sun Lamp: unknown
+Super Computer: unknown
+Sweepy's Dock: unknown
+Switch: unknown
+Targeting Beacon: unknown
+Telescope Cluster: unknown
+Tempshift Plate: unknown
+Textile Loom: unknown
+Thermo Aquatuner: unknown
+Thermo Regulator: unknown
 Thermo Sensor: unknown
+Timer Sensor: unknown
+Trailblazer Module: unknown
+Transit Tube Access: unknown
+Transit Tube Crossing: unknown
+Vertical Wind Tunnel: unknown
+Virtual Planetarium Cluster: unknown
 Virtual Planetarium: unknown
+Wall Pot: unknown
+Wall Toilet: unknown
+Water Cooler: unknown
+Water Fort: unknown
+Water Sieve: unknown
+Wattage Sensor: unknown
+Weight Plate: unknown
+Window Tile: unknown
+Wire Bridge: unknown
+Wood Block: unknown
+Wood Burner: unknown
+Wood Heater: unknown
+Wood Tile: unknown
+XOR Gate: unknown
