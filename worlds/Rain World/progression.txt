@@ -1,4 +1,4 @@
-Alarm trap: unknown
+Alarm trap: trap
 Blue Fruit: filler
 Brother Long Legs trap: trap
 Bubble Fruit: filler
@@ -37,7 +37,7 @@ GATE_SS_UW: progression
 GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
-Gate: Chimney Canopy to The Exterior: unknown
+Gate: Chimney Canopy to The Exterior: progression
 Gate: Drainage System to Chimney Canopy: unknown
 Gate: Drainage System to Garbage Wastes: useful
 Gate: Drainage System to Subterranean: progression
@@ -47,7 +47,7 @@ Gate: Five Pebbles to The Wall: useful
 Gate: Garbage Wastes to Shaded Citadel: unknown
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
-Gate: Industrial Complex to Garbage Wastes: unknown
+Gate: Industrial Complex to Garbage Wastes: progression
 Gate: Industrial Complex to Pipeyard: unknown
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: progression
@@ -66,6 +66,7 @@ Gate: The Exterior to Metropolis: progression
 Gate: The Exterior to Shoreline: unknown
 Gate: Underhang to Five Pebbles: progression
 Glow Weed: filler
+Gravity trap: trap
 Grenade: unknown
 Jellyfish: filler
 Joke Rifle: filler
@@ -123,6 +124,7 @@ Passage-Saint: useful
 Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
+Rain trap: trap
 Rarefaction Cell: unknown
 Red Centipede trap: trap
 Red Lizard trap: unknown
@@ -134,6 +136,7 @@ Scug-Yellow: progression
 Singularity Bomb: unknown
 Slime Mold: filler
 Spear: useful
+Spitter Spider trap: trap
 Spore Puff: filler
 Stun trap: trap
 The Glow: mcguffin

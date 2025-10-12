@@ -1,12 +1,21 @@
+CSEC Executable Pack: progression
 ClockEXE: filler
 ClockV2: filler
+ComShell: useful
 DEC Suite: progression
 DNotes: useful
+Entropy Executable Pack: unknown
 FTPSprint: progression
+Finale Executable Pack: progression
 ForceHack: useful
+HacknetEXE: filler
 HexClock: filler
+Intro Executable Pack: progression
 KBTPortTest: progression
+Labyrinths Executable Pack: unknown
+Mem Suite: progression
 Mission Skip: useful
+NetmapOrganizer: useful
 PacificPortcrusher: progression
 PointClicker +1000pt./s: progression
 PointClicker +100pt./s: progression
@@ -17,6 +26,7 @@ PointClicker Passive*1000: progression
 PointClicker Passive*100: progression
 PointClicker Passive*10: progression
 Progressive Faction Access: progression
+Progressive RAM: progression
 Progressive Shell Limit: progression
 Random IRC Log: filler
 SMTPOverflow: progression

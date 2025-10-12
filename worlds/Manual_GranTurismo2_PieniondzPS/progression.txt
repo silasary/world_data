@@ -29,7 +29,7 @@ Opel/Vauxhall Permit: progression
 Performance Chip: unknown
 Peugeot Permit: unknown
 Plymouth Permit: unknown
-Port & Polish: unknown
+Port & Polish: useful
 Progressive Clutch: useful
 Progressive Flywheel: useful
 Progressive Intercooler: useful
@@ -49,8 +49,8 @@ Shelby Permit: unknown
 Simulation Tires: useful
 Sports Brakes: progression
 Subaru Permit: unknown
-Suzuki Permit: unknown
-TCS Controller: unknown
+Suzuki Permit: progression
+TCS Controller: useful
 TVR Permit: progression
 Tommy Kaira Permit: unknown
 Toyota Permit: unknown

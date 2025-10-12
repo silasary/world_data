@@ -1,35 +1,56 @@
 Aquas - Checkpoint: unknown
 Aquas - Red Path: progression
+Aquas: progression
+Area 6 - Checkpoint: useful
 Area 6 - Red Path: progression
-Bolse - Blue Path: unknown
-Bomb: unknown
-Corneria - Blue Path: unknown
+Area 6: unknown
+Bolse - Blue Path: progression
+Bolse: progression
+Bomb: filler
+Corneria - Blue Path: progression
+Corneria - Checkpoint: unknown
 Corneria - Red Path: progression
-Fortuna - Blue Path: unknown
+Corneria: progression
+Fortuna - Blue Path: progression
 Fortuna - Yellow Path: progression
-Gold Ring: unknown
+Fortuna: progression
+Gold Ring: useful
 Katina - Blue Path: progression
 Katina - Yellow Path: progression
-Laser Upgrade: unknown
+Katina: progression
+Laser Upgrade: useful
 Macbeth - Blue Path: progression
 Macbeth - Checkpoint: unknown
-Macbeth - Red Path: unknown
-Medal: unknown
+Macbeth - Red Path: progression
+Macbeth: progression
+Medal: mcguffin
 Meteo - Blue Path: progression
+Meteo - Checkpoint: unknown
 Meteo - Warp Path: progression
+Meteo: unknown
 Sector X - Blue Path: progression
 Sector X - Checkpoint: unknown
-Sector X - Warp Path: unknown
+Sector X - Warp Path: progression
 Sector X - Yellow Path: progression
+Sector X: progression
 Sector Y - Checkpoint: unknown
 Sector Y - Red Path: progression
 Sector Y - Yellow Path: progression
-Sector Z - Blue Path: unknown
+Sector Y: unknown
+Sector Z - Blue Path: progression
 Sector Z - Red Path: progression
-Silver Ring: unknown
+Sector Z: progression
+Silver Ring: useful
+Silver Star: useful
+Solar - Checkpoint: unknown
 Solar - Yellow Path: unknown
+Solar: progression
 Titania - Blue Path: progression
 Titania - Checkpoint: unknown
+Titania: progression
 Venom 1 - Checkpoint: unknown
-Zoness - Red Path: unknown
-Zoness - Yellow Path: unknown
+Venom: progression
+Zoness - Checkpoint: unknown
+Zoness - Red Path: progression
+Zoness - Yellow Path: progression
+Zoness: unknown

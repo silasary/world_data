@@ -1,26 +1,84 @@
-Bodyslam: unknown
-Boss Key: unknown
-Breakdance: unknown
+Ball: progression
+Barrel: progression
+Bodyslam: progression
+Bomb: progression
+Boss Key: progression
+Breakdance: filler
+Clothes: Autumn: filler
+Clothes: Bad Bones: filler
+Clothes: Blood Red: unknown
 Clothes: Bloodstained: filler
+Clothes: Bowling Stripes: filler
+Clothes: Candy Wrapper: filler
+Clothes: Classic Cook: unknown
+Clothes: Critic: unknown
+Clothes: Dark Cook: filler
+Clothes: Eyes: filler
+Clothes: Flesh Eater: unknown
+Clothes: Forest Goblin: unknown
+Clothes: Funny Polka: unknown
+Clothes: Fur: unknown
 Clothes: Garish Cook: unknown
+Clothes: Goldemanne: filler
 Clothes: Golden God: unknown
-Clothes: John Suit: unknown
-Clown Trap: unknown
+Clothes: Granny Kisses: unknown
+Clothes: Itchy Sweater: unknown
+Clothes: John Suit: filler
+Clothes: Madman: unknown
+Clothes: Money Green: unknown
+Clothes: Mooney Orange: filler
+Clothes: Noise TV: unknown
+Clothes: Outlaw: unknown
+Clothes: PP Shirt: filler
+Clothes: Pizza Man: unknown
+Clothes: Pumpkin: filler
+Clothes: Racer: unknown
+Clothes: Roise: unknown
+Clothes: SAGE Blue: filler
+Clothes: Shitty Cook: unknown
+Clothes: Super: unknown
+Clothes: TV Purple: filler
+Clothes: Unfunny Cook: filler
+Clothes: War Camo: unknown
+Clothes: Well Done: unknown
+Clown Trap: trap
 Cross Buff: filler
-Double Jump: unknown
+Crusher: progression
+Double Jump: progression
+Fake Santa Trap: trap
+Firemouth: progression
+Ghost Trap: trap
+Ghost: progression
 Grab: progression
-Granny Trap: unknown
-Nothing: unknown
-Oktoberfest!: unknown
-Permanent 10 Points: unknown
+Granny Trap: trap
+Knight: progression
+Lap 2 Portals: progression
+Mach 4: useful
+Mort: progression
+Nothing: filler
+Oktoberfest!: trap
+Olive Bubble: progression
+Permanent 10 Points: filler
 Permanent 100 Points: filler
 Permanent 50 Points: filler
-Pizza Shield: unknown
-Primo Burg: unknown
-Rat Kick: unknown
-Superjump: unknown
-Supertaunt: unknown
-Taunt: unknown
+Pizza Shield: filler
+Pizzabox: progression
+Primo Burg: filler
+Pumpkin: progression
+Rat Kick: useful
+Revolver: progression
+Rocket: progression
+Satan's Choice: progression
+Shotgun: progression
+Spin Attack: useful
+Sticky Cheese: progression
+Superjump: progression
+Supertaunt: useful
+Taunt: progression
+Timer Trap: trap
 Toppin: mcguffin
-Uppercut: unknown
-Wallclimb: unknown
+Tornado: progression
+Uppercut: useful
+Wallbounce: progression
+Wallclimb: progression
+Weenie: progression

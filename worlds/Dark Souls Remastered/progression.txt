@@ -2,7 +2,7 @@ Abyss Greatsword: useful
 Alluring Skull: filler
 Anklet of the Great Lord: useful
 Annex Key: progression
-Antiquated Dress: unknown
+Antiquated Dress: useful
 Antiquated Gloves: filler
 Antiquated Skirt: useful
 Archive Prison Extra Key: progression
@@ -15,7 +15,7 @@ Armor of the Glorious: unknown
 Armor of the Sun: filler
 Astora's Straight Sword: filler
 Avelyn: unknown
-Balder Armor: unknown
+Balder Armor: filler
 Balder Gauntlets: filler
 Balder Helm: filler
 Balder Leggings: filler
@@ -32,8 +32,11 @@ Bequeathed Lord Soul Shard (Four Kings): mcguffin
 Bequeathed Lord Soul Shard (Seath): progression
 Big Hat: filler
 Binoculars: filler
+Black Bow of Pharis: unknown
+Black Cleric Robe: unknown
 Black Eye Orb: filler
 Black Firebomb: filler
+Black Iron Armor: unknown
 Black Iron Greatshield: useful
 Black Iron Helm: useful
 Black Iron Leggings: filler
@@ -52,6 +55,7 @@ Black Manchette: useful
 Black Separation Crystal: filler
 Black Sorcerer Boots: useful
 Black Sorcerer Gauntlets: unknown
+Black Sorcerer Hat: useful
 Black Tights: filler
 Blacksmith Hammer: useful
 Blighttown Key: progression
@@ -60,6 +64,7 @@ Bloated Sorcerer Head: useful
 Blood-Stained Skirt: useful
 Bloodbite Ring: unknown
 Bloodred Moss Clump: filler
+Bloodshield: unknown
 Blooming Purple Moss Clump: filler
 Blue Eye Orb: filler
 Blue Tearstone Ring: useful
@@ -96,6 +101,7 @@ Cat Covenant Ring: useful
 Catarina Armor: unknown
 Catarina Gauntlets: useful
 Catarina Helm: useful
+Catarina Leggings: unknown
 Chain Armor: useful
 Chain Helm: filler
 Chain Leggings: unknown
@@ -107,6 +113,8 @@ Chester's Gloves: unknown
 Chester's Long Coat: useful
 Chester's Trousers: unknown
 Claw: useful
+Claymore: unknown
+Cleric Armor: unknown
 Cleric Gauntlets: useful
 Cleric Helm: filler
 Cloranthy Ring: unknown
@@ -155,9 +163,11 @@ Darksword: useful
 Demon Great Machete: filler
 Demon Titanite: useful
 Demon's Catalyst: unknown
+Demon's Great Hammer: unknown
 Demon's Greataxe: unknown
 Dingy Gloves: unknown
 Dingy Hood: unknown
+Dingy Robe: unknown
 Divine Blessing: filler
 Divine Ember: useful
 Dragon Bone Fist: useful
@@ -183,6 +193,7 @@ Eastern Armor: useful
 Eastern Gauntlets: filler
 Eastern Helm: useful
 Eastern Leggings: useful
+Effigy Shield: useful
 Egg Vermifuge: useful
 Elite Cleric Armor: useful
 Elite Cleric Gauntlets: useful
@@ -216,11 +227,12 @@ Gargoyle's Shield: filler
 Gargoyles's Halberd: filler
 Gauntlets of Favor: useful
 Gauntlets of Thorns: unknown
+Gauntlets of the Channelers: unknown
 Gauntlets of the Vanquisher: useful
 Ghost Blade: useful
 Giant Armor: filler
 Giant Gauntlets: useful
-Giant Helm: unknown
+Giant Helm: useful
 Giant Leggings: unknown
 Giant Shield: filler
 Giant's Halberd: filler
@@ -231,7 +243,7 @@ Gold-Hemmed Black Cloak: unknown
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: filler
 Gold-Hemmed Black Skirt: unknown
-Golem Armor: unknown
+Golem Armor: useful
 Golem Axe: useful
 Golem Gauntlets: unknown
 Golem Helm: filler
@@ -256,6 +268,7 @@ Green Titanite Shard: useful
 Guardian Armor: useful
 Guardian Gauntlets: filler
 Guardian Helm: unknown
+Guardian Leggings: unknown
 Guardian Soul: filler
 Guardian Tail: unknown
 Halberd: unknown
@@ -264,23 +277,25 @@ Hand Axe: filler
 Hard Leather Armor: useful
 Hard Leather Boots: useful
 Hard Leather Gauntlets: unknown
+Havel's Armor: useful
 Havel's Gauntlets: unknown
 Havel's Greatshield: filler
 Havel's Helm: useful
 Havel's Leggings: unknown
-Havel's Ring: unknown
+Havel's Ring: useful
 Hawk Ring: filler
 Heater Shield: unknown
 Heavy Bolt: useful
 Heavy Boots: unknown
 Heavy Crossbow: useful
 Helm of Artorias: unknown
-Helm of Thorns: unknown
+Helm of Thorns: filler
 Helm of the Wise: unknown
 Hollow Soldier Armor: filler
 Hollow Soldier Helm: unknown
 Hollow Soldier Shield: useful
 Hollow Soldier Waistcloth: unknown
+Hollow Thief's Leather Armor: unknown
 Hollow Thief's Tights: unknown
 Hollow Warrior Armor: unknown
 Hollow Warrior Helm: useful
@@ -292,14 +307,17 @@ Hornet Ring: unknown
 Humanity: useful
 Iaito: unknown
 Indictment: filler
-Iron Bracelet: unknown
+Iron Bracelet: useful
 Iron Helm: filler
 Iron Leggings: useful
 Iron Round Shield: unknown
 Ivory Talisman: useful
+Izalith Catalyst: unknown
+Jagged Ghost Blade: unknown
 Key to Depths: progression
 Key to New Londo Ruins: progression
 Key to the Seal: progression
+Knight Armor: filler
 Knight Gauntlets: useful
 Knight Helm: useful
 Knight Leggings: useful
@@ -338,7 +356,7 @@ Lord's Blade Robe: useful
 Lord's Blade Waistcloth: useful
 Lordvessel: mcguffin
 Lucerne: filler
-Mace: unknown
+Mace: filler
 Maiden Gloves: useful
 Maiden Hood: unknown
 Maiden Robe: unknown
@@ -350,10 +368,11 @@ Mask of Velka: unknown
 Mask of the Child: unknown
 Mask of the Father: useful
 Mask of the Mother: unknown
+Mask of the Sealer: useful
 Master Key: progression
 Miracle: Bountiful Sunlight: useful
 Miracle: Darkmoon Blade: filler
-Miracle: Emit Force: unknown
+Miracle: Emit Force: filler
 Miracle: Escape Death: filler
 Miracle: Force: useful
 Miracle: Gravelord Greatsword Dance: unknown
@@ -365,9 +384,10 @@ Miracle: Great Magic Barrier: unknown
 Miracle: Heal: useful
 Miracle: Homeward: filler
 Miracle: Karmic Justice: useful
-Miracle: Lightning Spear: unknown
+Miracle: Lightning Spear: useful
 Miracle: Magic Barrier: useful
 Miracle: Replenishment: filler
+Miracle: Seek Guidance: unknown
 Miracle: Soothing Sunlight: filler
 Miracle: Sunlight Blade: useful
 Miracle: Sunlight Spear: unknown
@@ -379,17 +399,20 @@ Moonlight Butterfly Horn: filler
 Moonlight Gloves: useful
 Moonlight Greatsword: useful
 Moonlight Robe: filler
-Moonlight Waistcloth: unknown
+Moonlight Waistcloth: filler
 Morning Star: unknown
-Murakumo: unknown
+Murakumo: filler
 Mystery Key: progression
 Notched Whip: useful
 Obsidian Greatsword: useful
 Old Witch's Ring: filler
 Oolacile Catalyst: useful
+Oolacile Ivory Catalyst: unknown
 Orange Charred Ring: progression
 Orange Guidance Soapstone: filler
+Ornstein's Armor: unknown
 Ornstein's Gauntlets: useful
+Ornstein's Leggings: unknown
 Painting Guardian Gloves: unknown
 Painting Guardian Hood: filler
 Painting Guardian Robe: useful
@@ -398,6 +421,7 @@ Painting Guardian Waistcloth: unknown
 Paladin Armor: unknown
 Paladin Gauntlets: unknown
 Paladin Leggings: filler
+Parrying Dagger: useful
 Partizan: unknown
 Peculiar Doll: progression
 Pendant: progression
@@ -407,7 +431,9 @@ Pike: filler
 Plank Shield: filler
 Poison Arrow: useful
 Poison Throwing Knife: filler
+Poisonbite Ring: unknown
 Porcelain Mask: filler
+Priest's Hat: filler
 Priscilla's Dagger: useful
 Prism Stone: filler
 Purging Stone: useful
@@ -415,6 +441,7 @@ Purple Coward's Crystal: progression
 Purple Moss Clump: filler
 Pyromancy Flame (Ascended): useful
 Pyromancy Flame: useful
+Pyromancy: Acid Surge: unknown
 Pyromancy: Black Flame: filler
 Pyromancy: Chaos Storm: filler
 Pyromancy: Combustion: useful
@@ -430,6 +457,7 @@ Pyromancy: Great Combustion: unknown
 Pyromancy: Great Fireball: useful
 Pyromancy: Iron Flesh: useful
 Pyromancy: Poison Mist: filler
+Pyromancy: Power Within: useful
 Pyromancy: Toxic Mist: useful
 Pyromancy: Undead Rapport: filler
 Quelaag's Furysword: unknown
@@ -441,17 +469,18 @@ Red Tearstone Ring: unknown
 Red Titanite Chunk: useful
 Red Titanite Slab: useful
 Red and White Round Shield: filler
-Reinforced Club: unknown
+Reinforced Club: filler
 Repair Powder: filler
 Repairbox: useful
 Residence Key: useful
 Ring of Favor and Protection: useful
+Ring of Fog: unknown
 Ring of Sacrifice: filler
 Ring of Steel Protection: filler
 Ring of the Evil Eye: filler
 Ring of the Sun Princess: useful
 Ring of the Sun's Firstborn: useful
-Rite of Kindling: unknown
+Rite of Kindling: progression
 Robe of the Channelers: filler
 Robe of the Great Lord: unknown
 Rotten Pine Resin: filler
@@ -464,6 +493,7 @@ Sanctus: useful
 Scimitar: filler
 Scythe: useful
 Servant Roster: filler
+Server: unknown
 Sewer Chamber Key: progression
 Shadow Garb: useful
 Shadow Gauntlets: useful
@@ -479,6 +509,7 @@ Silver Knight Helm: unknown
 Silver Knight Leggings: filler
 Silver Knight Shield: unknown
 Silver Knight Spear: useful
+Silver Knight Straight Sword: unknown
 Silver Pendant: useful
 Six-Eyed Helm of the Channelers: filler
 Skull Lantern: useful
@@ -512,7 +543,10 @@ Sorcery: Hidden Weapon: unknown
 Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
 Sorcery: Hush: unknown
+Sorcery: Magic Shield: unknown
+Sorcery: Magic Weapon: unknown
 Sorcery: Pursuers: useful
+Sorcery: Remedy: unknown
 Sorcery: Repair: unknown
 Sorcery: Resist Curse: unknown
 Sorcery: Soul Arrow: filler
@@ -544,11 +578,15 @@ Standard Arrow: unknown
 Standard Bolt: useful
 Steel Armor: filler
 Steel Gauntlets: unknown
+Steel Helm: unknown
 Steel Leggings: useful
 Stone Armor: filler
-Stone Gauntlets: unknown
+Stone Gauntlets: filler
+Stone Greataxe: useful
 Stone Greatshield: useful
+Stone Greatsword: unknown
 Stone Helm: unknown
+Stone Leggings: unknown
 Straight Sword Hilt: useful
 Sunlight Maggot: progression
 Sunlight Medal: useful
@@ -598,6 +636,7 @@ White Titanite Chunk: useful
 White Titanite Slab: useful
 Winged Spear: useful
 Witch Cloak: useful
+Witch Gloves: unknown
 Witch Hat: useful
 Witch Skirt: unknown
 Wolf Ring: unknown

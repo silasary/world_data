@@ -1,20 +1,155 @@
+ATK-FX-B: filler
+ATK-FX-G: filler
+ATK-FX-R: unknown
+ATK-FX-Y: unknown
+Adventurer ID: unknown
+Apple Core: unknown
+Apple Juice: unknown
+Apple Pie: unknown
+Apple: filler
+Applesauce: filler
 BUX: useful
-Blackrock Castle Key: unknown
-Charge DEF: unknown
-Clownfish Fillet: unknown
-Compost: unknown
-Cookie Dough: unknown
+Bahulu: filler
+Baked Whale: useful
+Ball: progression
+Blackrock Castle Key: progression
+Blackrock Diner Key: progression
+Bloxy Cola: unknown
+Blue Clownfish: unknown
+Bomb: useful
+Cake: unknown
+Call: Gorilla: useful
+Call: Red n' Blue: useful
+Candy Cane: unknown
+Cannonball: unknown
+Charge DEF: useful
+Charge: useful
+Cherry Bomb: unknown
+Cherry Pie: filler
+Cherry: filler
+Chocolate Ice Cream: filler
+Cinnamon Roll: unknown
+Clownfish Fillet: filler
+Coconut Water: unknown
+Coconut: filler
+College Coolaid: unknown
+Comatose: useful
+Compost: useful
+Cookie Dough: filler
+Cookie: filler
+Cure: useful
+Daze: unknown
+Defend+: useful
+Defender: unknown
+Dizzy Dial: filler
+Double Cheezburger: unknown
+Dumpling: filler
+Dust: progression
+Dynamite: progression
+Eel: unknown
+Epicsauce: unknown
+Feel Fine: useful
+Fireball: useful
+First Aid Kit: useful
+Forbidden Drink: unknown
+Free Fire: useful
+Free Ice: filler
+Free Poison: filler
+Ghost Potion: progression
+Ghostwalker: mcguffin
+Goldfish: unknown
+Green Pepper: unknown
+Green Tea: unknown
+Grilled Jellyfish: unknown
+Gulab Jamun: unknown
+HP Drain: useful
+HP Finder: filler
+HP+: useful
+Happy HP: unknown
+Happy SP: unknown
+Haunted Cheezburger: unknown
+Hot Chocolate: filler
+Hypno Glasses: unknown
+Ice Dagger: unknown
+Ice Storm: unknown
+Infect: useful
+Investor: unknown
+Item+: useful
+Jackfruit: filler
+Jasmine Tea: filler
+Jeep Keys: progression
+Jellyfish: filler
+Jumbo Ice Cream: filler
+Launcher: useful
+Lemon Tea: unknown
+Lemon: filler
+Lime: unknown
+Linebounce: unknown
+Lucky Start: useful
+Macaron: filler
+Magnifying Glass: unknown
+Malay Spongecake: filler
+Mango: unknown
+Matcha Dorayaki: unknown
+Minimize: useful
+Mistake: filler
+Mr Batty: unknown
+Mysterious Bottle: progression
 Next Fight, Double Pain: trap
 Next Fight, Gusto: trap
 Next Fight, Hard Mode: trap
 Next Fight, No Cards: trap
 Next Fight, No Guarding: trap
-Next Fight, No Items: unknown
+Next Fight, No Items: trap
 Next Fight, Thick Skull: trap
 Next Fight, Thrill Seeker: trap
 Next Fight, Tick Tock: trap
-Poison Cake: unknown
-Raw Turkey: unknown
-Slow Go: unknown
-Softener: unknown
+Orange Juice: filler
+Papaya: unknown
+Pie: unknown
+Pineapple: unknown
+Poison Cake: filler
+Power Rush: useful
+Power Shot: unknown
+Power Stab: useful
+Pufferfish: unknown
+Pumpkin Pi: unknown
+Pumpkin: unknown
+ROBAR: filler
+Raw Turkey: progression
+Resurrect: useful
+Rocket Boots: progression
+SP Drain: unknown
+SP Finder: unknown
+SP Saver: unknown
+SP+: unknown
+Safe Guard: unknown
+Seahorse Kebab: filler
+Seahorse: filler
+Shark: unknown
+Shrinking: progression
+Slateskin Potion: unknown
+Slingshot: useful
+Slow Go: filler
+Smoked Trout: unknown
+Snowball: useful
+Softener: useful
+Speed Spin: unknown
+Spider: progression
+Stinky Latte: filler
+Storm Tea: unknown
+Superball: progression
 TIX: filler
+Tea: filler
+Thorns: useful
+Tickle Stick: filler
+Train Ticket: progression
+Training Wheels: useful
+Trout: filler
+Unadon: unknown
+Venomshank: mcguffin
+Watermelon: unknown
+Whale: useful
+Witches Brew: unknown
+Wooden Sword: progression
+Yellow Clownfish: unknown

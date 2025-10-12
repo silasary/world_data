@@ -2,7 +2,7 @@
 Ancient Valley: progression
 Boar Beach: filler
 Boss Item: filler
-Combat Trap: unknown
+Combat Trap: trap
 Common Item: useful
 Damp Caverns: progression
 Desolate Forest: progression
@@ -11,7 +11,7 @@ Equipment: filler
 Hive Cluster: progression
 Legendary Item: useful
 Magma Barracks: progression
-Meteor Trap: unknown
+Meteor Trap: trap
 Money: filler
 Progressive Stage: progression
 Risk of Rain: progression
@@ -24,5 +24,5 @@ Stage 5: progression
 Sunken Tombs: progression
 Teleporter Fragment: progression
 Temple of the Elders: progression
-Time Warp Trap: unknown
+Time Warp Trap: trap
 Uncommon Item: useful

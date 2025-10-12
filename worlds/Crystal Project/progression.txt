@@ -1,136 +1,897 @@
+Equipment - Ace of Diamonds - 1896: unknown
+Equipment - Acolyte's Cookbook - 1853: unknown
 Equipment - Acrobat Shoes: unknown
+Equipment - Ad Infinitum - 1822: unknown
+Equipment - Adept Robe - 2099: useful
+Equipment - Adept Seal - 2101: unknown
+Equipment - Adventure axe LV1 - 1640: unknown
+Equipment - Adventure axe LV2 - 1641: unknown
+Equipment - Adventure axe LV3 - 1642: useful
+Equipment - Adventure axe LV4 - 1643: unknown
+Equipment - Adventure bow LV1 - 1648: unknown
+Equipment - Adventure bow LV2 - 1649: unknown
+Equipment - Adventure bow LV3 - 1650: useful
+Equipment - Adventure bow LV4 - 1651: useful
+Equipment - Adventure staff LV1 - 1652: unknown
+Equipment - Adventure staff LV2 - 1653: useful
+Equipment - Adventure staff LV3 - 1654: unknown
+Equipment - Adventure staff LV4 - 1639: useful
+Equipment - Adventure sword LV1 - 1644: unknown
+Equipment - Adventure sword LV2 - 1645: unknown
+Equipment - Adventure sword LV3 - 1646: useful
+Equipment - Adventure sword LV4 - 1647: unknown
+Equipment - Aegis Mail: unknown
+Equipment - Aerotheurge Seal - 1677: unknown
+Equipment - Aerotheurge robe - 1669: unknown
+Equipment - Aether Axe - 2070: useful
 Equipment - Aggro Band: unknown
-Equipment - Autumns Oath: unknown
-Equipment - Awake Ring: unknown
+Equipment - Ambition LV1 - 1710: useful
+Equipment - Ambition LV2 - 1709: unknown
+Equipment - Ambition LV3 - 1711: unknown
+Equipment - Ambition LV4 - 1712: useful
+Equipment - Ambition LV5 - 1762: unknown
+Equipment - Ambush Knife: unknown
+Equipment - Ancient Monster Bone - 1852: unknown
+Equipment - Angel's Blessing - 2009: useful
+Equipment - Aphotic Edge: useful
+Equipment - Apprentice: unknown
+Equipment - Aqua Collar - 1795: useful
+Equipment - Aranea - 1977: unknown
+Equipment - Archmage Vest: unknown
+Equipment - Art of War: unknown
+Equipment - Artillerist Mail - 2146: unknown
+Equipment - Ash Wand: unknown
+Equipment - Ashen Horns - 1615: unknown
+Equipment - Assassin Vest: useful
+Equipment - Assassins Cloak: useful
+Equipment - Autumns Oath: useful
+Equipment - Avatar - 2038: unknown
+Equipment - Awake Ring: useful
+Equipment - Axiom - 1702: unknown
+Equipment - Backbreaker - 1830: unknown
+Equipment - Barrier of Blood - 1883: useful
+Equipment - Battery - 2046: useful
+Equipment - Battle Band: useful
+Equipment - Battle Helm: unknown
+Equipment - Battle Scythe: unknown
+Equipment - Battleplate: unknown
 Equipment - Beads of Defense: unknown
+Equipment - Beastmaster Mail: useful
+Equipment - Beatsmith Vest: unknown
+Equipment - Beret: unknown
+Equipment - Berserk - 2072: unknown
+Equipment - Black Cat's Ring - 1876: unknown
+Equipment - Black Needle - 2153: useful
+Equipment - Blackguard - 2034: unknown
+Equipment - Blade Eater - 1793: unknown
+Equipment - BladeDancer Seal - 2100: unknown
+Equipment - BladeDancer Vest - 2098: unknown
+Equipment - Blank Pages: unknown
+Equipment - Blood of Heroes - 1863: unknown
+Equipment - Bloodbind: unknown
+Equipment - Bloodied Hood - 1957: unknown
+Equipment - Bloodplate - 2068: unknown
+Equipment - Bloodthirsty Vest - 1866: unknown
+Equipment - Bloody Murder - 2028: unknown
+Equipment - Blue Cape: unknown
+Equipment - Blue Dress - 1955: unknown
+Equipment - Blue Moon Katars - 1833: useful
+Equipment - Board - 2041: useful
+Equipment - Bokken - 1806: unknown
+Equipment - Bone Katars - 1834: useful
+Equipment - Bone Mail: unknown
+Equipment - Bone Smasher: unknown
+Equipment - Book of Salads - 1810: unknown
+Equipment - Bookbeater - 1820: unknown
+Equipment - Boomer Duelist - 1960: unknown
+Equipment - Boomer Shield: unknown
+Equipment - Boomer Sword: unknown
+Equipment - Bottomless Bag - 2040: unknown
+Equipment - Bounty Hunter LV1 - 1748: useful
+Equipment - Braccus' Two-Handed Axe - 1665: unknown
 Equipment - Bracer: unknown
+Equipment - Brawler Seal - 2125: unknown
+Equipment - Brawler Wrap - 2060: unknown
+Equipment - Breach Wand - 2002: unknown
+Equipment - Breastplate: unknown
+Equipment - Brigandine: useful
+Equipment - Brimrose Scepter - 1612: unknown
+Equipment - Brionac - 2025: useful
+Equipment - Broadsword: unknown
+Equipment - Broken Shield - 2045: unknown
+Equipment - Broken Table Leg - 2150: unknown
+Equipment - Bronze Hairpin: unknown
+Equipment - Buckler: unknown
+Equipment - Buffalo Sabre - 1693: unknown
+Equipment - Bulk Belt: unknown
 Equipment - Burglars Glove: unknown
-Equipment - Defense Shifter: unknown
+Equipment - Butter Cutter: unknown
+Equipment - Butterfly Shortspear - 1835: useful
+Equipment - Butterfly: unknown
+Equipment - Caduceus - 1994: unknown
+Equipment - Calamitous Hood - 1613: unknown
+Equipment - Calamitous Robes - 1614: unknown
+Equipment - Cantrip - 2031: unknown
+Equipment - Captains Hat: useful
+Equipment - Catalyst - 2052: unknown
+Equipment - Cedar Staff: unknown
+Equipment - Cedar Wand: unknown
+Equipment - Celestial Crown: unknown
+Equipment - Chain - 2036: useful
+Equipment - Chain Helm: unknown
+Equipment - Chartreuse: unknown
+Equipment - Cheater Briefs - 1776: unknown
+Equipment - Chemist Robe: unknown
+Equipment - Chopper: unknown
+Equipment - Cinquedea: unknown
+Equipment - Circle of Ruin - 1965: useful
+Equipment - Circlet: unknown
+Equipment - Claimh Solais - 2021: unknown
+Equipment - Clamshank - 2082: useful
+Equipment - Clamsheath - 2085: unknown
+Equipment - Clamshield - 2081: unknown
+Equipment - Clamshirt - 2083: unknown
+Equipment - Clamshoe - 2084: unknown
+Equipment - Cleaver: useful
+Equipment - Cleric Robe: unknown
+Equipment - Clobbering Time - 1690: unknown
+Equipment - Clover - 2086: unknown
+Equipment - Codex Consiliarii - 1826: unknown
+Equipment - Cold Touch: unknown
+Equipment - Combat Shotgun - 1626: unknown
+Equipment - Compact LMG - 1618: useful
+Equipment - Compact Pistol - 1616: useful
+Equipment - Compass - 2088: unknown
+Equipment - Concealable Knife - 1838: unknown
+Equipment - Conductor Baton - 1777: unknown
+Equipment - Conductor Seal - 1770: unknown
+Equipment - Conduit - 2071: useful
+Equipment - Congealed Orb - 1900: unknown
+Equipment - Conquest: unknown
+Equipment - Contract: useful
+Equipment - Convergence LV1 - 1681: unknown
+Equipment - Convergence LV2 - 1708: unknown
+Equipment - Convergence LV3 - 1734: unknown
+Equipment - Convergence LV4 - 1735: useful
+Equipment - Convergence LV5 - 1753: unknown
+Equipment - Copper Helm: unknown
+Equipment - Copper Suit: unknown
+Equipment - Coronacht - 2018: unknown
+Equipment - Cotton Hood: unknown
+Equipment - Cotton Robe: useful
+Equipment - Crabs Claw: unknown
+Equipment - Craftwork Axe: unknown
+Equipment - Craftwork Bow: useful
+Equipment - Craftwork Cap: unknown
+Equipment - Craftwork Crown: unknown
+Equipment - Craftwork Dagger: useful
+Equipment - Craftwork Eagle - 1619: unknown
+Equipment - Craftwork Helm: useful
+Equipment - Craftwork Katana - 2118: unknown
+Equipment - Craftwork Katana: useful
+Equipment - Craftwork Mail: unknown
+Equipment - Craftwork Pages: unknown
+Equipment - Craftwork Rapier: unknown
+Equipment - Craftwork Robe: useful
+Equipment - Craftwork Scythe: unknown
+Equipment - Craftwork Shield: unknown
+Equipment - Craftwork Spear: unknown
+Equipment - Craftwork Staff: useful
+Equipment - Craftwork Sword: unknown
+Equipment - Craftwork Vest: unknown
+Equipment - Craftwork Wand: unknown
+Equipment - Critique - 2058: unknown
+Equipment - Crystal Shard - 2032: unknown
+Equipment - Crystalia Robe - 1628: unknown
+Equipment - Crystalia Seal - 1629: useful
+Equipment - Cursed Eyeball - 1779: unknown
+Equipment - Cursegiver: unknown
+Equipment - Cutlass: unknown
+Equipment - Cycle Gem - 2010: useful
+Equipment - Dancer's Mask - 1782: unknown
+Equipment - Daredevil Boots - 2013: unknown
+Equipment - Dark Gospel: unknown
+Equipment - Darkspike - 1970: unknown
+Equipment - Darkwood Spear - 1873: unknown
+Equipment - Day's Harvest - 2024: useful
+Equipment - Decapitator: unknown
+Equipment - Defender: useful
+Equipment - Defense Shifter: useful
+Equipment - Deltaic Armor - 1786: unknown
+Equipment - Deltaic Seal - 1784: useful
+Equipment - Demon Helm: unknown
+Equipment - Demon Mail - 1947: unknown
+Equipment - Demon Plate: unknown
+Equipment - Demon Scythe - 1998: unknown
+Equipment - Demonic - 2069: unknown
+Equipment - Depth-seer's Tome - 1825: useful
+Equipment - Dervish Robe: unknown
+Equipment - Desert Ringblade - 1854: unknown
+Equipment - Desert Sickle - 1840: useful
+Equipment - Desperado Vest - 2148: useful
+Equipment - Dew Staff - 1898: unknown
+Equipment - Diamond Eagle - 1622: unknown
+Equipment - Dirk: useful
 Equipment - Dodge Charm: unknown
-Equipment - Earring: unknown
+Equipment - Doomsayer Seal - 1780: unknown
+Equipment - Double Barrel Shotgun - 1617: unknown
+Equipment - Draconic Shell - 1973: unknown
+Equipment - Dragonslayer - 1812: useful
+Equipment - Dream Hunter: unknown
+Equipment - Dress: unknown
+Equipment - Drunkard Vest - 2145: unknown
+Equipment - Dueller: unknown
+Equipment - Dull Scythe - 1808: unknown
+Equipment - Dusk Collar - 1802: unknown
+Equipment - Duskblade Seal - 2117: unknown
+Equipment - Dwarven Maul - 2014: useful
+Equipment - Eaglesclaw - 1839: unknown
+Equipment - Earring: useful
+Equipment - Earth Eater - 1790: unknown
+Equipment - Earth Staff - 1999: useful
+Equipment - Earth's Katana - 1981: unknown
+Equipment - Echo Chamber - 1990: unknown
+Equipment - Eclipsar Seal - 1772: useful
+Equipment - Eclipsar Vest - 1778: unknown
+Equipment - Eldritch Robe - 2067: unknown
+Equipment - Electrocutioner - 2064: useful
+Equipment - Empowered Fortify - 1679: unknown
+Equipment - Empowered Shoking touch - 1691: useful
+Equipment - Empowered Soothe - 1750: unknown
+Equipment - Empowered Volcanic rocks - 1680: useful
+Equipment - Empowered blessed earth - 1633: useful
+Equipment - Empowered boulder bash - 1632: filler
+Equipment - Empowered crushing fist - 1638: useful
+Equipment - Empowered first aid - 1635: unknown
+Equipment - Empowered lower resistence - 1634: unknown
+Equipment - Empowered splintered arrow - 1686: unknown
+Equipment - Empowered vampiric touch - 1637: useful
+Equipment - Empowered wildfire - 1636: unknown
+Equipment - Enchanted Nunchaku - 1849: unknown
+Equipment - Epetam - 2020: useful
+Equipment - Equalizer Hammer - 1813: useful
+Equipment - Ex - 2073: useful
+Equipment - Executioner - 1842: unknown
+Equipment - Expedition LV1 - 1682: useful
+Equipment - Expedition LV2 - 1739: unknown
+Equipment - Expedition LV3 - 1740: unknown
+Equipment - Expedition LV4 - 1741: unknown
+Equipment - Expedition LV5 - 1754: unknown
+Equipment - Eye of the Storm - 1751: unknown
+Equipment - Faceless Hood - 1952: unknown
+Equipment - Facetsplitter - 1819: useful
 Equipment - Fairys Ring: unknown
-Equipment - Fang Pendant: unknown
+Equipment - Fallout - 2043: useful
+Equipment - False Hero's Guise - 1975: unknown
+Equipment - Familiar Hoodie - 2126: unknown
+Equipment - Fang Pendant: useful
+Equipment - Fanged Nunchaku - 1848: unknown
+Equipment - Fearsome Ring: unknown
+Equipment - Feathered Vest - 1995: useful
+Equipment - Fencer Vest: unknown
 Equipment - Fervor Charm: unknown
+Equipment - Fey Collar - 1798: unknown
+Equipment - Feyblessed Tiara - 1956: useful
+Equipment - Fire Collar - 1801: useful
+Equipment - Fire Eater - 1787: unknown
+Equipment - Fire Poker - 2050: unknown
+Equipment - First Strike Mitt: unknown
+Equipment - Fish Skewer: useful
+Equipment - Fishgutter: unknown
+Equipment - Flagellant Seal - 1678: unknown
+Equipment - Flagellant hood - 1670: useful
+Equipment - Flame Guard: unknown
+Equipment - Flame Sword: unknown
+Equipment - Flameseeker: unknown
+Equipment - Flamespike: unknown
+Equipment - Flask of Heroism - 1885: useful
+Equipment - Fleuret: unknown
 Equipment - Float Shoes: unknown
-Equipment - Fursuit: unknown
+Equipment - Flood Pendant - 1964: unknown
+Equipment - Focus Charm - 2012: unknown
+Equipment - Freelancer Seal - 2128: unknown
+Equipment - Frost Plate - 1996: unknown
+Equipment - Frost Reaper: unknown
+Equipment - Frostblossom - 2144: unknown
+Equipment - Frostwing Feather - 1862: unknown
+Equipment - Fursuit: useful
+Equipment - Fuselighter - 2151: unknown
+Equipment - Gaea Impact - 2023: unknown
+Equipment - Gaea's Cloak - 1858: unknown
+Equipment - Gaia Axe: unknown
+Equipment - Gaia Vest: unknown
+Equipment - Gamester Seal - 1768: unknown
+Equipment - Ganymede's Cloak - 1857: unknown
+Equipment - Gemini - 2017: unknown
+Equipment - Geomante Seal - 1675: unknown
+Equipment - Geomante armor - 1660: unknown
+Equipment - Giant Boomer - 1972: useful
+Equipment - Gilded Crescent - 1871: unknown
 Equipment - Givers Ring: unknown
-Equipment - Glasses: unknown
+Equipment - Glasses: useful
+Equipment - Gnarled Root: unknown
+Equipment - Gold Ring - 2091: unknown
+Equipment - Golden Eagle - 1621: useful
+Equipment - Gospel: useful
+Equipment - Gradivus - 2022: unknown
+Equipment - Grand Emerald - 1841: unknown
+Equipment - Gravedigger: useful
+Equipment - Greasy Shirt - 2096: unknown
+Equipment - Greywood Nunchaku - 1851: useful
+Equipment - Grim Scythe: unknown
+Equipment - Guard Crown: unknown
+Equipment - Guardian of Tharsis - 1843: unknown
 Equipment - Gusto Charm: unknown
+Equipment - Guts - 1627: unknown
+Equipment - Halberd: unknown
+Equipment - Half-Phoenix Seal - 2156: unknown
+Equipment - Hand Axe: unknown
 Equipment - Hand of Midas: unknown
+Equipment - Harmacist Robe - 1774: unknown
+Equipment - Harmacist Seal - 1769: useful
+Equipment - Harpy Rod - 2001: useful
+Equipment - Hatchet: useful
+Equipment - Hawkeye - 2059: unknown
+Equipment - Headgear: unknown
+Equipment - Heart Locket - 2035: unknown
+Equipment - Heat Bandana - 2004: unknown
+Equipment - Heavy Edge - 1805: unknown
+Equipment - Heirloom Axe - 2105: unknown
+Equipment - Heirloom Bow - 2108: unknown
+Equipment - Heirloom Dagger - 2107: unknown
+Equipment - Heirloom Katana - 2111: unknown
+Equipment - Heirloom Pages - 2102: unknown
+Equipment - Heirloom Rapier - 2112: unknown
+Equipment - Heirloom Scythe - 2109: useful
+Equipment - Heirloom Shield - 2113: unknown
+Equipment - Heirloom Spear - 2110: useful
+Equipment - Heirloom Staff - 2104: useful
+Equipment - Heirloom Sword - 2106: useful
+Equipment - Heirloom Wand - 2103: useful
+Equipment - Heirloom of Agility - 2116: unknown
+Equipment - Heirloom of Magic - 2115: useful
+Equipment - Heirloom of Might - 2114: unknown
+Equipment - Helm of the Phoenix - 1877: unknown
+Equipment - Help the Prince: unknown
+Equipment - Hemp Hood: unknown
+Equipment - Hemp Robe: unknown
+Equipment - Heroine's Rapier - 2136: unknown
+Equipment - Hi-Tech Robe - 2124: unknown
+Equipment - Hibernaculum LV1 - 1683: unknown
+Equipment - Hibernaculum LV2 - 1736: unknown
+Equipment - Hibernaculum LV3 - 1737: unknown
+Equipment - Hibernaculum LV4 - 1738: unknown
+Equipment - Hibernaculum LV5 - 1755: unknown
+Equipment - Hihiirokane - 1824: unknown
+Equipment - Hoarfrost Buckler - 1880: useful
+Equipment - Holy Hat: unknown
+Equipment - Hooked Sickle - 1872: unknown
+Equipment - Hoplite - 2048: useful
+Equipment - Hoplite's Shield - 1844: useful
+Equipment - Horned Helm: useful
+Equipment - Horologist Seal - 1771: unknown
+Equipment - Hunter Vest: unknown
+Equipment - Hunting Axe: useful
+Equipment - Hunting Bow: unknown
+Equipment - Huntsman - 1893: unknown
+Equipment - Hydrosophist Seal - 1674: unknown
+Equipment - Hydrosophist robe - 1668: unknown
+Equipment - Ice Eater - 1788: useful
+Equipment - Icy Collar - 1800: useful
+Equipment - Illusionist Seal - 1766: useful
+Equipment - Illusionist Wand - 1765: unknown
+Equipment - Infernal Contract LV1 - 1698: unknown
+Equipment - Infernal Contract LV2 - 1699: unknown
+Equipment - Infernal Contract LV3 - 1700: unknown
+Equipment - Infernal Contract LV4 - 1701: unknown
+Equipment - Infernal Contract LV5 - 1760: unknown
+Equipment - Insight - 2039: unknown
+Equipment - Insignia Helm: unknown
+Equipment - Invisible Shield - 2029: unknown
+Equipment - Iron Armor: useful
+Equipment - Iron Guard: unknown
+Equipment - Iron Helm: unknown
+Equipment - Iron Rod: useful
+Equipment - Iron Sword: unknown
+Equipment - Itemmaster's Earrings - 1974: unknown
+Equipment - Jadeforged Ring - 1962: useful
 Equipment - Jewel of Defense: unknown
-Equipment - Knicked Knackers: unknown
-Equipment - Learners Pin: unknown
+Equipment - Judgement: unknown
+Equipment - Judo Gi: unknown
+Equipment - Kaiser Blade - 1860: unknown
+Equipment - Kenshi Seal - 2120: unknown
+Equipment - Kings Guard: useful
+Equipment - Knicked Knackers: useful
+Equipment - Knights Plate: unknown
+Equipment - Knockout Stick: unknown
+Equipment - Lance of Sickness - 1689: unknown
+Equipment - Learners Pin: useful
+Equipment - Leather Cap: unknown
+Equipment - Leather Mail: unknown
+Equipment - Leather Outfit: unknown
+Equipment - Les Condamnes - 1899: useful
+Equipment - Leviathan Plate - 1958: unknown
+Equipment - Life Jewel: unknown
+Equipment - Light Collar - 1797: unknown
+Equipment - Light Crossbow - 1888: useful
+Equipment - Lightforged Katars - 1874: useful
+Equipment - Limiter Shield - 1993: unknown
+Equipment - Lion Crest - 2062: unknown
+Equipment - Liquidator - 1892: unknown
+Equipment - Longneck Rifle - 1895: unknown
 Equipment - Looters Pin: unknown
 Equipment - Looters Ring: unknown
+Equipment - Loyalty - 1827: unknown
 Equipment - Lucky Briefs: unknown
+Equipment - Lucky Platter: useful
 Equipment - Lucky Socks: unknown
-Equipment - Magic Finder: unknown
+Equipment - Lucky charm - 1733: unknown
+Equipment - Lunar Mail: unknown
+Equipment - Machinist Seal - 2123: unknown
+Equipment - Mage Eater - 1794: unknown
+Equipment - Mages Pike: unknown
+Equipment - Mages Platter: useful
+Equipment - Mages Robe: unknown
+Equipment - Magic Barrier - 1991: unknown
+Equipment - Magic Finder: useful
+Equipment - Magical Girl Seal - 2131: unknown
+Equipment - Malifice: unknown
+Equipment - Malleus Maleficarum LV2? - 1695: unknown
 Equipment - Mana Ring: unknown
-Equipment - Muggers Glove: unknown
+Equipment - Mars' Cloak - 1856: unknown
+Equipment - Mask of the Timeless - 2027: unknown
+Equipment - Mechanized Lance - 2154: unknown
+Equipment - Meditate Charm - 2011: unknown
+Equipment - Mercury's Cloak - 1859: unknown
+Equipment - Mermaid's Kiss - 1692: useful
+Equipment - Mermask - 2066: unknown
+Equipment - Mimic Mail: unknown
+Equipment - Mirrage - 1707: unknown
+Equipment - Mirror Shard - 2127: unknown
+Equipment - Mirror Shield: unknown
+Equipment - Mistcore Beads - 1969: unknown
+Equipment - Mithril Armor - 2078: unknown
+Equipment - Moby Dick: useful
+Equipment - Monk Vest: unknown
+Equipment - Moonchill - 1837: unknown
+Equipment - Moonfrost Wand - 1887: unknown
+Equipment - Mountain LV1 - 1718: unknown
+Equipment - Mountain LV2 - 1704: unknown
+Equipment - Mountain LV3 - 1716: unknown
+Equipment - Mountain LV4 - 1717: unknown
+Equipment - Mountain LV5 - 1761: unknown
+Equipment - Muggers Glove: useful
+Equipment - Muramasa: unknown
+Equipment - Murgleys: useful
+Equipment - Musket - 1623: unknown
+Equipment - N. Berserker Vest - 2143: unknown
+Equipment - N. Hemomancer Robe - 2149: unknown
+Equipment - Nan's Robe - 2007: unknown
+Equipment - Needle - 2053: unknown
+Equipment - Nemesis LV1 - 1696: useful
+Equipment - Nemesis LV2 - 1703: unknown
+Equipment - Nemesis LV3 - 1719: unknown
+Equipment - Nemesis LV4 - 1720: unknown
+Equipment - Nemesis LV5 - 1759: unknown
+Equipment - Nightingale: unknown
+Equipment - Ninja Toolbox - 2137: unknown
+Equipment - Ninja Vest: useful
+Equipment - Nomad Vest: useful
 Equipment - Nomads Emblem: unknown
+Equipment - Nomads Guard: unknown
+Equipment - Oak Wand: unknown
+Equipment - Obsidian Staff - 2019: useful
+Equipment - Oily Sword: unknown
+Equipment - Old Monk's Cloak - 1949: unknown
+Equipment - Old Reliable - 1868: unknown
+Equipment - Old sabre - 1694: unknown
+Equipment - Omnispear - 2030: unknown
+Equipment - Oni Charm - 2044: unknown
+Equipment - Orylei: unknown
 Equipment - Oven Mitt: unknown
-Equipment - Progressive 1H Axe: unknown
-Equipment - Progressive 1H Sword: unknown
-Equipment - Progressive 2H Axe: unknown
+Equipment - Padded Vest - 1881: unknown
+Equipment - Paladin Hood - 2057: unknown
+Equipment - Paladin Wand: unknown
+Equipment - Parhia LV1 - 1685: unknown
+Equipment - Parhia LV2 - 1713: unknown
+Equipment - Parhia LV3 - 1714: unknown
+Equipment - Parhia LV4 - 1715: unknown
+Equipment - Parhia LV5 - 1757: unknown
+Equipment - Parry Knife: useful
+Equipment - Parry daggers - 1655: unknown
+Equipment - Partizan: useful
+Equipment - Paypirbak: useful
+Equipment - Phoenix Hero's Crown - 2015: unknown
+Equipment - Phoenix Hero's Plate - 2016: useful
+Equipment - Phoenix Vest - 2155: unknown
+Equipment - Piercing Bone - 1815: unknown
+Equipment - Pincer Spear - 1997: unknown
+Equipment - Pirate Hat: useful
+Equipment - Pirokinetick Seal - 1673: useful
+Equipment - Pirokinetick dress - 1667: unknown
+Equipment - Pistolero's Arsenal - 2152: unknown
+Equipment - Plague Mask: unknown
+Equipment - Plate of Lion: unknown
+Equipment - Plate of Whale: useful
+Equipment - Plate of Wolf: unknown
+Equipment - Plate of the Phoenix - 1878: unknown
+Equipment - Pocket Watch - 1773: unknown
+Equipment - Pocket Watch - 2037: useful
+Equipment - Pointy Hat: unknown
+Equipment - Poison Coat - 2005: useful
+Equipment - Poison Crossbow - 1987: unknown
+Equipment - Poison Talon: unknown
+Equipment - Poisonkiss: unknown
+Equipment - Potion of Aetherbody - 1884: unknown
+Equipment - Power Glove - 2087: unknown
+Equipment - Prayer Beads: unknown
+Equipment - Primitive Axe - 1811: unknown
+Equipment - Prismatic Barrier LV1 - 1745: useful
+Equipment - Prismatic Barrier LV2 - 1746: useful
+Equipment - Prismatic Barrier LV3 - 1747: unknown
+Equipment - Prismatic Barrier LV4 - 1721: unknown
+Equipment - Prismatic Barrier LV5 - 1763: useful
+Equipment - Prismatic Ring - 1803: useful
+Equipment - Prodder: unknown
+Equipment - Progressive 1H Axe: useful
+Equipment - Progressive 1H Sword: useful
+Equipment - Progressive 2H Axe: useful
 Equipment - Progressive 2H Sword: unknown
-Equipment - Progressive Beating Staff: unknown
-Equipment - Progressive Book: unknown
+Equipment - Progressive Beating Staff: useful
+Equipment - Progressive Book: useful
 Equipment - Progressive Bow: unknown
-Equipment - Progressive Dagger: unknown
-Equipment - Progressive Heavy Body: unknown
-Equipment - Progressive Heavy Head: unknown
+Equipment - Progressive Dagger: useful
+Equipment - Progressive Heavy Body: useful
+Equipment - Progressive Heavy Head: useful
 Equipment - Progressive Katana: unknown
-Equipment - Progressive Light Body: unknown
+Equipment - Progressive Light Body: useful
 Equipment - Progressive Light Head: progression
-Equipment - Progressive Medium Body: unknown
-Equipment - Progressive Medium Head: unknown
-Equipment - Progressive Ninja Dagger: unknown
-Equipment - Progressive Rapier: unknown
-Equipment - Progressive Scythe: unknown
-Equipment - Progressive Shield: unknown
-Equipment - Progressive Spear: unknown
-Equipment - Progressive Staff: unknown
-Equipment - Progressive Wand: unknown
+Equipment - Progressive Medium Body: useful
+Equipment - Progressive Medium Head: useful
+Equipment - Progressive Ninja Dagger: useful
+Equipment - Progressive Rapier: useful
+Equipment - Progressive Scythe: useful
+Equipment - Progressive Shield: useful
+Equipment - Progressive Spear: useful
+Equipment - Progressive Staff: useful
+Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: unknown
-Equipment - Red Hairpin: unknown
+Equipment - Protective Goggles - 2008: unknown
+Equipment - Protector: unknown
+Equipment - Pumpking helmet - 1706: unknown
+Equipment - Quickdraw - 2047: useful
+Equipment - Quintar Pheromones - 1951: unknown
+Equipment - Radiance: unknown
+Equipment - Radiant Halberd - 1971: unknown
+Equipment - Rage amulet - 1661: unknown
+Equipment - Ragebringer: unknown
+Equipment - Ranger Seal - 1672: useful
+Equipment - Ranger cape - 1659: unknown
+Equipment - Rapier of Warning - 1988: useful
+Equipment - Rapier: unknown
+Equipment - Raven - 2033: unknown
+Equipment - Ravens Cloak: unknown
+Equipment - Ravens Hood: useful
+Equipment - Reaper Mail: useful
+Equipment - Reaper's Cuffs - 1948: unknown
+Equipment - Red Blindfold - 2121: unknown
+Equipment - Red Cap: useful
+Equipment - Red Coat: unknown
+Equipment - Red Hairpin: useful
+Equipment - Red Helmet - 1978: unknown
+Equipment - Redder Coat - 1979: unknown
+Equipment - Regenerating Flask - 1886: unknown
+Equipment - Reinforced Crossbow - 1889: unknown
 Equipment - Resist Shifter: unknown
+Equipment - Rhetorist Book - 1785: useful
+Equipment - Rhetorist Seal - 1783: unknown
 Equipment - Ribbon: unknown
-Equipment - Sanity Ring: unknown
-Equipment - Scope Bit: unknown
-Equipment - Scope Specs: unknown
+Equipment - Righteous Wrath - 1823: unknown
+Equipment - Ring Mail: unknown
+Equipment - Ring of Wizardry - 1966: unknown
+Equipment - Ring of the Accursed - 1963: unknown
+Equipment - Ritual Dagger - 2056: useful
+Equipment - Robust Shield - 1992: unknown
+Equipment - Rod of conviction LV1 - 1684: unknown
+Equipment - Rod of conviction LV2 - 1742: useful
+Equipment - Rod of conviction LV3 - 1743: useful
+Equipment - Rod of conviction LV4 - 1744: useful
+Equipment - Rod of conviction LV5 - 1756: unknown
+Equipment - Rogue Vest: unknown
+Equipment - Royal Dominance - 1836: unknown
+Equipment - Royal Guard Talisman - 1749: unknown
+Equipment - Royal Guard: useful
+Equipment - Rune Bow: unknown
+Equipment - Rune Sword: unknown
+Equipment - Rune Wand: unknown
+Equipment - Runeblade Vest - 2142: unknown
+Equipment - Runehammer - 1829: unknown
+Equipment - Sacrificial Ring - 1864: unknown
+Equipment - Sages Walker: unknown
+Equipment - Samurai Mail: useful
+Equipment - Samurai's Other Glove - 2095: useful
+Equipment - Samurais Glove: unknown
+Equipment - Sange: unknown
+Equipment - Sanity Ring: useful
+Equipment - Sawn-off Rifle - 1894: useful
+Equipment - Scholar Robe: unknown
+Equipment - Scope Bit: useful
+Equipment - Scope Specs: useful
+Equipment - Scoundrel Seal - 1671: unknown
+Equipment - Scoundrel cape - 1658: unknown
+Equipment - Scribe - 2093: unknown
+Equipment - Sea's Katana - 1980: unknown
+Equipment - Seekers Garb: unknown
+Equipment - Sento - 2119: unknown
+Equipment - Sequoian Barrier - 1817: useful
+Equipment - Sermon - 2063: useful
+Equipment - Serrated Sickle - 1870: useful
+Equipment - Shadow Gi: useful
+Equipment - Shaman Robe: unknown
+Equipment - Shank: unknown
+Equipment - Sharp Sword: unknown
 Equipment - Shell Amulet: unknown
+Equipment - Shellter Gown - 1954: unknown
+Equipment - Shelter Dress: unknown
+Equipment - Shinigami-no-yokan - 1814: useful
+Equipment - Shoddy Bow - 2138: useful
+Equipment - Short Staff: unknown
+Equipment - Short Sword: unknown
+Equipment - Showstopper - 2079: unknown
+Equipment - Shroomling Suit - 2003: unknown
+Equipment - Shyamalan's Ring - 2065: unknown
+Equipment - Sickle - 2076: unknown
+Equipment - Siege Bow: useful
+Equipment - Silenced Screams - 1953: useful
+Equipment - Silver Eagle - 1620: unknown
+Equipment - Skewer: unknown
+Equipment - Skull Shield - 2051: useful
+Equipment - Sky Armor: unknown
+Equipment - Sky Puncture - 1985: unknown
+Equipment - Sky's Katana - 1982: unknown
+Equipment - Sledgehammer - 1831: unknown
+Equipment - Slime - 2094: unknown
+Equipment - Slimy Crown - 1983: unknown
+Equipment - Smelly Gi: unknown
+Equipment - Soaring Falcon - 1846: unknown
+Equipment - Soldier Seal - 1666: unknown
+Equipment - Soldier armor - 1656: unknown
+Equipment - Soul Keeper: useful
+Equipment - Soul Kris: unknown
+Equipment - Soulfrost Gauntlet - 1882: unknown
+Equipment - Spear of Io - 1821: unknown
+Equipment - Spellsword Helm: unknown
+Equipment - Spider leg - 1688: unknown
+Equipment - Spiked Helm - 2090: unknown
+Equipment - Spintowin - 2075: unknown
+Equipment - Spore Blocker: unknown
 Equipment - Springs Oath: unknown
+Equipment - Squire of Avalon - 1816: useful
+Equipment - Squirrel Champion - 1961: unknown
 Equipment - Squirrel Dung: unknown
+Equipment - Stabbers: unknown
+Equipment - Staff of Balance: useful
+Equipment - Staff of imagination - 1664: useful
+Equipment - Stage Costume - 2135: useful
+Equipment - Stalactite - 1950: unknown
+Equipment - Stalwart Shield: unknown
+Equipment - Star Knight Mail - 2140: unknown
+Equipment - Star Knight Seal - 2139: unknown
+Equipment - Star Mask - 2042: unknown
+Equipment - Stardust Wand: unknown
+Equipment - Stat Block - 2089: unknown
+Equipment - Static Rod: unknown
+Equipment - Stealth Cape: useful
+Equipment - Steel Nunchaku - 1850: unknown
+Equipment - Stick - 1897: unknown
+Equipment - Stinger: useful
 Equipment - Stone of Jodan: unknown
-Equipment - Tall Stand Ring: unknown
-Equipment - Torpid Cuffs: unknown
+Equipment - Stonechill - 1924: unknown
+Equipment - Stonecore Beads - 1968: unknown
+Equipment - Storm Cap: unknown
+Equipment - Storm Gun - 1625: unknown
+Equipment - Storm Helm: useful
+Equipment - Storm Hood: unknown
+Equipment - Storm Rod: unknown
+Equipment - Storm Spear - 1989: unknown
+Equipment - Stout Shield: unknown
+Equipment - Strange Idol - 2097: unknown
+Equipment - Studded Armor: unknown
+Equipment - Sturdy Helm: unknown
+Equipment - Suitor Hat: unknown
+Equipment - Summoner Robe: unknown
+Equipment - Super Cute Robe - 2132: unknown
+Equipment - Super Cute Wand - 2133: unknown
+Equipment - Super Shotgun - 1624: useful
+Equipment - Superspeed Bow - 1986: unknown
+Equipment - Suppressor Seal - 1767: useful
+Equipment - Suppressor Spear - 1775: useful
+Equipment - Survival Guide - 2049: unknown
+Equipment - Survival Knife - 2130: unknown
+Equipment - Swimmers Top: unknown
+Equipment - Sword of planets - 1663: useful
+Equipment - Sword of the holy flame - 1662: unknown
+Equipment - Synthesized Angel - 1891: useful
+Equipment - Tachi: useful
+Equipment - Tall Stand Ring: useful
+Equipment - Tanto: unknown
+Equipment - Tar Treks - 2054: useful
+Equipment - Technophile Mail - 2147: unknown
+Equipment - Telepathy Stick - 2122: unknown
+Equipment - Temporal Blade: useful
+Equipment - Temporal Robe - 1984: unknown
+Equipment - Terpsichorean Seal - 1781: unknown
+Equipment - The Beetle - 1976: unknown
+Equipment - The Immovable: useful
+Equipment - The Impaler - 1705: unknown
+Equipment - The Impregnable - 1867: unknown
+Equipment - The Mage in Yellow - 1869: unknown
+Equipment - The Vault LV1 - 1729: unknown
+Equipment - The Vault LV2 - 1730: unknown
+Equipment - The Vault LV3 - 1731: unknown
+Equipment - The Vault LV4 - 1732: unknown
+Equipment - The Vault LV5 - 1764: unknown
+Equipment - The Wolf - 1923: useful
+Equipment - Thin Spear - 1807: unknown
+Equipment - Thunder Eater - 1791: unknown
+Equipment - Thunderstruck Knife - 1861: useful
+Equipment - Timesplitter - 2074: unknown
+Equipment - Tiny Bow - 1809: unknown
+Equipment - Titanfeller - 1875: unknown
+Equipment - Tome of Evocation - 2026: unknown
+Equipment - Tome of Light: unknown
+Equipment - Toothpick: unknown
+Equipment - Torch: unknown
+Equipment - Torpid Cuffs: useful
+Equipment - Tower Shield: unknown
+Equipment - Trailblazer's Coat - 1865: unknown
+Equipment - Training Gi: unknown
+Equipment - Training bow - 1631: unknown
+Equipment - Travel Vest - 2129: unknown
+Equipment - Traveler's Plate - 1879: unknown
+Equipment - Trench Coat - 2006: useful
+Equipment - Trickster Seal - 2134: unknown
+Equipment - Trident: unknown
+Equipment - Triton's Cloak - 1855: unknown
+Equipment - True Strike - 2061: unknown
+Equipment - Tsukumogami - 2077: useful
+Equipment - Tuxedo: unknown
+Equipment - Twilight's Edge - 1818: unknown
+Equipment - Twin Blade Staff - 1847: useful
+Equipment - Twinshot Crossbow - 1890: useful
+Equipment - Unbound's Scythe - 1828: unknown
 Equipment - Undead Ring: unknown
+Equipment - Urgency LV1 - 1687: unknown
+Equipment - Urgency LV2 - 1726: unknown
+Equipment - Urgency LV3 - 1727: unknown
+Equipment - Urgency LV4 - 1728: unknown
+Equipment - Urgency LV5 - 1758: unknown
+Equipment - Valkyrie Mail: useful
+Equipment - Virid Collar - 1799: unknown
+Equipment - Vita Crown: unknown
+Equipment - Volt Collar - 1796: useful
+Equipment - Wailing Staff - 2000: unknown
+Equipment - Walking Stick: useful
+Equipment - Warding Beads - 1967: unknown
+Equipment - Warding Glory - 1845: unknown
+Equipment - Warlock Mail: unknown
+Equipment - Warrior Mail: unknown
+Equipment - Warstorm Helm - 1959: unknown
+Equipment - Water Eater - 1792: useful
+Equipment - Weaver Robe: unknown
+Equipment - Weresheep Armor - 1722: useful
+Equipment - Weresheep Boots - 1725: unknown
+Equipment - Weresheep Gloves - 1724: unknown
+Equipment - Weresheep Helmet - 1723: unknown
+Equipment - Whetstone - 2055: unknown
+Equipment - Wind Eater - 1789: unknown
+Equipment - Wind Thresher: unknown
+Equipment - Windsong: unknown
+Equipment - Winter Ring - 1752: unknown
+Equipment - Witch Seal - 1676: unknown
+Equipment - Witch dress - 1657: unknown
+Equipment - Wizard Robe: unknown
+Equipment - Wizards Wall: unknown
+Equipment - Woodchopper - 1804: unknown
+Equipment - Woodsmacker - 1832: unknown
+Equipment - Worn Scythe - 2092: unknown
+Equipment - Woven Hood: unknown
+Equipment - Woven Shirt: useful
+Equipment - Yasha: unknown
+Equipment - dark contract - 1630: unknown
+Equipment - hnahr'luhnah hup ph' - 1697: unknown
+Item - Adventure axe LV2 part - 335: unknown
+Item - Adventure axe LV3 part - 339: useful
+Item - Adventure axe LV4 part - 346: useful
+Item - Adventure bow LV2 part - 337: unknown
+Item - Adventure bow LV3 part - 341: unknown
+Item - Adventure bow LV4 part - 344: unknown
+Item - Adventure staff LV 2 part - 338: useful
+Item - Adventure staff LV3 part - 342: useful
+Item - Adventure staff LV4 part - 343: unknown
+Item - Adventure sword LV2 part - 336: unknown
+Item - Adventure sword LV3 part - 340: unknown
+Item - Adventure sword LV4 part - 345: useful
 Item - Ancient Labyrinth Map: unknown
 Item - Ancient Labyrinth Pass: unknown
-Item - Ancient Reservoir Map: unknown
-Item - Ancient Tablet A: unknown
+Item - Ancient Reservoir Map: useful
+Item - Ancient Reservoir Pass: progression
+Item - Ancient Tablet A: progression
 Item - Ancient Tablet B: unknown
 Item - Ancient Tablet C: unknown
+Item - Ancient Tome of Body Mastery - 348: unknown
+Item - Ascendent Shard - 360: unknown
 Item - Babel Quintar: unknown
 Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
-Item - Beaurior Rock Map: unknown
+Item - Beaurior Rock Map: useful
+Item - Beaurior Rock Pass: unknown
 Item - Beaurior Volcano Map: unknown
+Item - Beaurior Volcano Pass: unknown
 Item - Bitter Pop Candy: filler
-Item - Black Squirrel: unknown
-Item - Boomer Society Map: unknown
+Item - Black Squirrel: progression
+Item - Blood stone - 347: useful
+Item - Boomer Society Map: useful
 Item - Boomer Society Pass: unknown
 Item - Boss Key: unknown
+Item - Buffalo Amulete - 350: unknown
 Item - Callisto Stone: unknown
 Item - Canopy Key: unknown
-Item - Capital Courtyard Map: unknown
+Item - Capital Courtyard Map: useful
 Item - Capital Jail Map: unknown
-Item - Capital Pipeline Map: unknown
-Item - Capital Pipeline Pass: unknown
+Item - Capital Jail Pass: progression
+Item - Capital Pipeline Map: useful
+Item - Capital Pipeline Pass: progression
 Item - Capital Sequoia Map: unknown
 Item - Capital Sequoia Pass: unknown
-Item - Castle Ramparts Map: unknown
-Item - Castle Ramparts Pass: unknown
-Item - Castle Sequoia Map: unknown
+Item - Castle Ramparts Map: useful
+Item - Castle Ramparts Pass: progression
+Item - Castle Sequoia Map: useful
+Item - Castle Sequoia Pass: progression
 Item - Cave Key: unknown
 Item - Cell Key: unknown
-Item - Central Lookout Token: unknown
-Item - Cerulean Book: unknown
+Item - Central Lookout Token: mcguffin
+Item - Cerulean Book: progression
 Item - Clamshell: mcguffin
 Item - Cobblestone Crag Map: unknown
-Item - Cobblestone Crag Pass: unknown
+Item - Cobblestone Crag Pass: progression
+Item - Compendium of Mortal Techniques - 349: unknown
 Item - Continental Tram Map: unknown
+Item - Continental Tram Pass: progression
 Item - Courtyard Key: unknown
 Item - Crag Demon Horn: unknown
 Item - Dark Wing Key: unknown
-Item - Decent Cod Bag: unknown
-Item - Decent Cod: unknown
-Item - Deity Eye: unknown
+Item - Decent Cod Bag: useful
+Item - Decent Cod: filler
+Item - Deity Eye: progression
 Item - Delende Map: unknown
 Item - Delende Pass: unknown
-Item - Diamond Dust: unknown
-Item - Diamond Ingot: unknown
-Item - Diamond Ore: unknown
+Item - Diamond Dust: filler
+Item - Diamond Ingot: useful
+Item - Diamond Ore: useful
 Item - Digested Head: filler
-Item - Dione Shrine Map: unknown
+Item - Dione Shrine Map: useful
 Item - Dione Shrine Pass: unknown
 Item - Dione Stone: progression
-Item - Dog Bone: unknown
-Item - Draft Shaft Conduit Map: unknown
+Item - Dog Bone: mcguffin
+Item - Draft Shaft Conduit Map: useful
+Item - Draft Shaft Conduit Pass: unknown
 Item - East Wing Key: unknown
 Item - Eastern Chasm Map: unknown
-Item - Elevator Part: unknown
-Item - Ether Pouch: unknown
-Item - Ether: unknown
-Item - Europa Stone: unknown
-Item - Fenix Juice Pouch: unknown
+Item - Eastern Chasm Pass: progression
+Item - Elevator Part: mcguffin
+Item - Ether Pouch: useful
+Item - Ether: filler
+Item - Europa Stone: progression
+Item - Fenix Juice Pouch: useful
 Item - Fenix Juice: filler
-Item - Fenix Syrup Pouch: unknown
-Item - Fenix Syrup: unknown
-Item - Ferry Pass: unknown
+Item - Fenix Syrup Pouch: filler
+Item - Fenix Syrup: filler
+Item - Ferry Pass: progression
+Item - Fire Stone - 367: unknown
 Item - Flimsy Rod: unknown
 Item - Fly Lure: unknown
-Item - Flyer's Crag Map: unknown
+Item - Flyer's Crag Map: useful
 Item - Flyer's Crag Pass: unknown
 Item - Flyer's Lookout Map: unknown
 Item - Flyers Crag Map: unknown
@@ -140,209 +901,320 @@ Item - Forgotten Key: unknown
 Item - Fresh Salmon: filler
 Item - Gaea Stone: unknown
 Item - Ganymede Shrine Map: unknown
-Item - Ganymede Stone: unknown
-Item - Gardeners Key: unknown
-Item - Gold Dust: unknown
-Item - Gold Ingot: unknown
-Item - Gold Ore: unknown
+Item - Ganymede Shrine Pass: progression
+Item - Ganymede Stone: progression
+Item - Gardeners Key: progression
+Item - Gold Dust: useful
+Item - Gold Ingot: filler
+Item - Gold Ore: filler
 Item - Greenshire Reprise Map: unknown
-Item - Greenshire Reprise Pass: unknown
+Item - Greenshire Reprise Pass: progression
 Item - Home Point Stone: useful
-Item - Ibek Bell: unknown
+Item - Ibek Bell: progression
+Item - Ibek Cave Pass: unknown
 Item - Ice Cell Key: progression
 Item - Ice Puzzle Key Ring: unknown
-Item - Ice Puzzle Key: unknown
+Item - Ice Puzzle Key: progression
+Item - Ice Stone - 371: progression
 Item - Jade Cavern Map: unknown
+Item - Jade Cavern Pass: unknown
 Item - Jidamba Eaclaneya Map: unknown
+Item - Jidamba Eaclaneya Pass: unknown
 Item - Jidamba Key Ring: unknown
-Item - Jidamba Tangle Map: unknown
+Item - Jidamba Tangle Map: useful
 Item - Jidamba Tangle Pass: unknown
-Item - Jigging Lure: unknown
-Item - Jojo Sewers Map: unknown
+Item - Jigging Lure: filler
+Item - Jojo Sewers Map: useful
 Item - Jojo Sewers Pass: unknown
 Item - Lake Delende Map: unknown
-Item - Land's End Map: unknown
+Item - Lake Delende Pass: progression
+Item - Land's End Map: useful
+Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
-Item - Lost Penguin: unknown
+Item - Leaf Stone - 370: progression
+Item - Lost Penguin: mcguffin
 Item - Luxury Key: unknown
+Item - Mage's Bane - 361: unknown
+Item - Mage's Bane Pouch - 362: unknown
 Item - Mars Stone: unknown
 Item - Mercury Shrine Map: unknown
+Item - Mercury Shrine Pass: unknown
 Item - Mercury Stone: unknown
 Item - Milk Bag: unknown
-Item - Milk: unknown
-Item - Nans Cocoa: unknown
+Item - Milk: filler
+Item - Moon Stone - 369: progression
+Item - Nans Cocoa: filler
 Item - Nans Secret Recipe: filler
-Item - Nans Stew: unknown
-Item - Neptune Shrine Map: unknown
-Item - Neptune Shrine Pass: unknown
+Item - Nans Stew: filler
+Item - Neptune Shrine Map: useful
+Item - Neptune Shrine Pass: progression
 Item - Neptune Stone: progression
 Item - New World Stone: unknown
-Item - North Lookout Token: unknown
-Item - Northern Cave Map: unknown
-Item - Northern Stretch Map: unknown
+Item - North Lookout Token: progression
+Item - Northern Cave Map: useful
+Item - Northern Cave Pass: unknown
+Item - Northern Stretch Map: useful
+Item - Northern Stretch Pass: unknown
 Item - Nuts Sack: unknown
 Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
-Item - Old World Stone: unknown
-Item - Overpass Map: unknown
-Item - Owl Drum: unknown
+Item - Okimoto N.S. Pass: unknown
+Item - Old World Stone: progression
+Item - Overpass Map: useful
+Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
-Item - Plug Lure: unknown
-Item - Poko Poko Desert Map: unknown
+Item - Pearl of the Seas - 358: unknown
+Item - Plug Lure: filler
+Item - Poko Poko Desert Map: useful
 Item - Poko Poko Desert Pass: unknown
 Item - Poseidon Shrine Map: unknown
-Item - Poseidon Stone: unknown
-Item - Potion Pouch: unknown
-Item - Potion: unknown
+Item - Poseidon Stone: progression
+Item - Potion Pouch: filler
+Item - Potion: filler
 Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
-Item - Progressive Level: unknown
+Item - Progressive Level: useful
 Item - Progressive Luxury Pass: unknown
-Item - Progressive Mount Instrument: unknown
+Item - Progressive Mount Instrument: progression
 Item - Progressive Quintar Flute: progression
-Item - Progressive Salmon Violin: unknown
-Item - Proving Meadows Map: unknown
+Item - Progressive Salmon Violin: progression
+Item - Proving Meadows Map: useful
 Item - Proving Meadows Pass: unknown
-Item - Pyramid Key: unknown
-Item - Quintar Mausoleum Map: unknown
+Item - Pyramid Key: progression
+Item - Quintar Mausoleum Map: useful
 Item - Quintar Mausoleum Pass: unknown
 Item - Quintar Nest Map: unknown
-Item - Quintar Reserve Map: unknown
+Item - Quintar Nest Pass: progression
+Item - Quintar Reserve Map: useful
 Item - Quintar Reserve Pass: unknown
 Item - Quintar Sanctum Map: unknown
 Item - Quintar Sanctum Pass: unknown
-Item - Rampart Key: unknown
+Item - Rampart Key: progression
+Item - Rations - 334: unknown
 Item - Red Door Key: unknown
-Item - River Cat's Ego Map: unknown
+Item - River Cat's Ego Map: useful
 Item - River Cats Ego Map: unknown
-Item - Rolling Quintar Fields Map: unknown
-Item - Room 1 Key: unknown
+Item - Rolling Quintar Fields Map: useful
+Item - Rolling Quintar Fields Pass: unknown
+Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
-Item - STEM WARD: unknown
-Item - Salmon Bay Map: unknown
-Item - Salmon Pass Map: unknown
+Item - STEM WARD: progression
+Item - Salmon Bay Map: useful
+Item - Salmon Bay Pass: progression
+Item - Salmon Pass Map: useful
 Item - Salmon Pass Pass: unknown
-Item - Salmon River Map: unknown
+Item - Salmon River Map: useful
 Item - Salmon River Pass: unknown
-Item - Sara Sara Bazaar Map: unknown
+Item - Sara Sara Bazaar Map: useful
 Item - Sara Sara Bazaar Pass: unknown
 Item - Sara Sara Beach East Pass: unknown
-Item - Sara Sara Beach Map: unknown
+Item - Sara Sara Beach Map: useful
 Item - Sara Sara Beach West Pass: unknown
 Item - Scroll: filler
-Item - Seaside Cliffs Map: unknown
+Item - Seaside Cliffs Map: useful
 Item - Seaside Cliffs Pass: unknown
 Item - Sequoia Athenaeum Map: unknown
-Item - Sequoia Athenaeum Pass: unknown
-Item - Shoudu Province Map: unknown
+Item - Sequoia Athenaeum Pass: progression
+Item - Shiny Stone - 372: unknown
+Item - Shoudu Province Map: useful
 Item - Shoudu Province Pass: unknown
 Item - Shoudu Stew: unknown
 Item - Shoudu Waterfront Pass: unknown
-Item - Silver Dust: unknown
-Item - Silver Ingot: unknown
-Item - Silver Ore: unknown
-Item - Skeleton Key: unknown
-Item - Skumparadise Map: unknown
+Item - Silver Dust: useful
+Item - Silver Ingot: useful
+Item - Silver Ore: useful
+Item - Skeleton Key: progression
+Item - Skumparadise Map: useful
 Item - Skumparadise Pass: unknown
-Item - Slip Glide Ride Map: unknown
+Item - Slip Glide Ride Key Ring: unknown
+Item - Slip Glide Ride Map: useful
 Item - Slip Glide Ride Pass: unknown
 Item - Small Key: unknown
-Item - Soiled Den Map: unknown
+Item - Soiled Den Map: useful
 Item - Soiled Den Pass: unknown
 Item - Sour Pop Candy: filler
-Item - South Wing Key: unknown
-Item - Spawning Meadows Map: unknown
+Item - South Wing Key: progression
+Item - Spawning Meadows Map: useful
 Item - Spawning Meadows Pass: unknown
 Item - Special Fresh Salmon: unknown
 Item - Special Milk: unknown
-Item - Special Rotten Salmon: unknown
+Item - Special Rotten Salmon: progression
 Item - Special Shoudu Stew: unknown
-Item - Super Rod: unknown
-Item - Sweet Pop Candy: unknown
+Item - Sun Stone - 368: progression
+Item - Super Rod: useful
+Item - Sweet Pop Candy: filler
 Item - Tall Tall Heights Map: unknown
-Item - Tall, Tall Heights Map: unknown
-Item - Tall, Tall Heights Pass: unknown
+Item - Tall, Tall Heights Map: useful
+Item - Tall, Tall Heights Pass: progression
+Item - Tarot Box - 373: unknown
 Item - The Chalice of Tar Map: unknown
-Item - The Deep Sea Map: unknown
-Item - The Depths Map: unknown
-Item - The New World Map: unknown
-Item - The Old World Map: unknown
+Item - The Chalice of Tar Pass: progression
+Item - The Deep Sea Map: useful
+Item - The Deep Sea Pass: unknown
+Item - The Depths Map: useful
+Item - The Depths Pass: unknown
+Item - The New World Map: useful
+Item - The New World Pass: unknown
+Item - The Old World Map: useful
+Item - The Old World Pass: progression
 Item - The Open Sea Map: unknown
+Item - The Open Sea Pass: unknown
 Item - The Pale Grotto Map: unknown
+Item - The Pale Grotto Pass: unknown
 Item - The Sequoia Map: unknown
 Item - The Sequoia Pass: unknown
 Item - The Undercity Map: unknown
 Item - The Undercity Pass: unknown
-Item - Tincture Pouch: unknown
-Item - Tincture: unknown
-Item - Tonic Pouch: unknown
-Item - Tonic: unknown
+Item - Thunder Stone - 366: unknown
+Item - Tincture Pouch: useful
+Item - Tincture: filler
+Item - Tonic Pouch: filler
+Item - Tonic: filler
 Item - Tough Rod: unknown
-Item - Tram Key: unknown
-Item - Treasure Finder: unknown
-Item - Trial Caves Map: unknown
+Item - Tram Key: progression
+Item - Treasure Finder: useful
+Item - Treasure map #1 - 351: filler
+Item - Treasure map #2 - 352: unknown
+Item - Treasure map #6 - 356: unknown
+Item - Treasure map #7 - 357: unknown
+Item - Trial Caves Map: useful
 Item - Triton Stone: unknown
-Item - Underpass Map: unknown
-Item - Undersea Crab: unknown
+Item - Underpass Map: useful
+Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
 Item - Viridian Book: unknown
+Item - Warrior's Bane - 363: unknown
+Item - Water Stone - 365: unknown
+Item - Weresheep wool - 359: unknown
 Item - West Lookout Token: unknown
 Item - West Wing Key: unknown
 Item - Yamagawa M.A. Map: unknown
-Item - Z-Potion Pouch: unknown
-Item - Z-Potion: unknown
-Item - Zether Pouch: unknown
+Item - Yamagawa M.A. Pass: unknown
+Item - Z-Potion Pouch: useful
+Item - Z-Potion: filler
+Item - Zether Pouch: useful
 Item - Zether: filler
-Job - Aegis: unknown
+Job - Adept - 83: unknown
+Job - Aegis: progression
+Job - Aerotheurge - 38: unknown
+Job - Arcanist - 73: progression
+Job - Archer - 116: unknown
 Job - Assassin: progression
+Job - Bard - 129: unknown
 Job - Beastmaster: unknown
-Job - Beatsmith: unknown
-Job - Chemist: unknown
+Job - Beatsmith: progression
+Job - Blade Dancer - 82: unknown
+Job - Brawler - 89: progression
+Job - Brimstone Witch - 25: unknown
+Job - Bushi - 75: unknown
+Job - Change of Role - 42: unknown
+Job - Chemist: progression
 Job - Cleric: unknown
-Job - Dervish: unknown
+Job - Conductor - 46: unknown
+Job - Crusader - 127: unknown
+Job - Crystalia - 29: progression
+Job - Dancer - 80: progression
+Job - Dervish: progression
+Job - Desperado - 27: unknown
+Job - Duskblade - 85: unknown
+Job - Eclipsar - 45: unknown
+Job - Eevee - 53: unknown
+Job - Espeon - 57: unknown
+Job - Fafnir - 147: progression
 Job - Fencer: unknown
-Job - Hunter: unknown
-Job - Mimic: unknown
-Job - Monk: unknown
-Job - Ninja: unknown
-Job - Nomad: unknown
-Job - Reaper: unknown
-Job - Rogue: unknown
-Job - Samurai: unknown
-Job - Scholar: unknown
+Job - Flagellant - 30: progression
+Job - Flareon - 56: unknown
+Job - Fortress - 78: progression
+Job - Freelancer - 90: unknown
+Job - Gamester - 48: progression
+Job - Geomante - 33: unknown
+Job - Glaceon - 61: unknown
+Job - Harbinger - 84: unknown
+Job - Harmacist - 44: unknown
+Job - Hero - 96: unknown
+Job - Horologist - 43: unknown
+Job - Hunter: progression
+Job - Hydrosophist - 31: progression
+Job - Illusionist - 41: unknown
+Job - Imperial - 74: unknown
+Job - Innkeeper - 28: unknown
+Job - Jolteon - 55: unknown
+Job - Kenshi - 86: unknown
+Job - Landsknecht - 72: unknown
+Job - Leafeon - 59: unknown
+Job - Luminary - 87: unknown
+Job - Machinist - 88: unknown
+Job - Magical Girl - 91: unknown
+Job - Mars Adept - 152: progression
+Job - Medic - 76: progression
+Job - Mimic: progression
+Job - Monk: progression
+Job - Necromancer - 97: progression
+Job - Nightseeker - 77: progression
+Job - Ninja: progression
+Job - Nomad: progression
+Job - Paladin - 153: unknown
+Job - Pirokinetick - 32: unknown
+Job - Priest - 126: progression
+Job - Ranger - 37: progression
+Job - Reaper: progression
+Job - Rogue: progression
+Job - Runeblade - 154: unknown
+Job - Runemaster - 81: unknown
+Job - Sage - 128: unknown
+Job - Samurai: progression
+Job - Scholar: progression
+Job - Scoundrel - 35: unknown
 Job - Shaman: unknown
+Job - Sniper - 79: unknown
+Job - Soldier - 36: unknown
 Job - Summoner: unknown
+Job - Suppressor - 47: unknown
+Job - Sylveon - 62: unknown
+Job - Umbreon - 58: unknown
 Job - Valkyrie: unknown
-Job - Warlock: unknown
-Job - Warrior: unknown
+Job - Vaporeon - 54: progression
+Job - Warlock: progression
+Job - Warrior: progression
 Job - Weaver: unknown
+Job - Witch - 34: unknown
 Job - Wizard: progression
 Scholar - Adrenaline: unknown
 Scholar - Aero: unknown
-Scholar - Atmoshear: unknown
-Scholar - Barrier: unknown
-Scholar - Build Life: unknown
+Scholar - Atmoshear: useful
+Scholar - Barrier: useful
+Scholar - Build Life: useful
 Scholar - Explode: unknown
-Scholar - Fire Breath: unknown
+Scholar - Fire Breath: useful
 Scholar - Infusion: unknown
 Scholar - Insult: unknown
-Scholar - Lifegiver: unknown
+Scholar - Lifegiver: useful
 Scholar - Lucky Dice: unknown
-Scholar - MP Sickle: unknown
+Scholar - MP Sickle: useful
 Scholar - Overload: unknown
 Scholar - Reflection: unknown
 Scholar - Regenerate: unknown
-Scholar - Reverse Polarity: unknown
+Scholar - Reverse Polarity: useful
 Scholar - Roost: unknown
-Scholar - Sleep Aura: unknown
+Scholar - Sleep Aura: useful
 Scholar - Sun Bath: unknown
 Scholar - Whirlwind: unknown
 Summon - Coyote: unknown
-Summon - Guaba: unknown
+Summon - Guaba: useful
 Summon - Ioske: unknown
 Summon - Juses: unknown
-Summon - Niltsi: unknown
+Summon - Niltsi: useful
 Summon - Pah: unknown
-Summon - Pamoa: unknown
+Summon - Pamoa: useful
 Summon - Shaku: unknown
 Summon - Tira: unknown
+Trap - Clothes Fall Off Trap: unknown
+Trap - Crag Demon Trap: unknown
+Trap - Dialog Trap: unknown
+Trap - Dismount Trap: unknown
+Trap - Dunk Tank Trap: unknown
+Trap - Moon Jump Trap: unknown
+Trap - Oregon Trap: unknown
+Trap - Snail Jump Trap: unknown
+Trap - Teleport Trap: unknown
+Trap - Trap Pack Trap: unknown

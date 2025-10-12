@@ -8,8 +8,10 @@ Engine Balancing: useful
 Front Hard Stabilizers: useful
 Front Medium Stabilizers: useful
 Front Soft Stabilizers: unknown
+Front Stabilizers (Soft): unknown
 Honda/Acura Permit: progression
 Increase Displacement: useful
+Increasing Displacement: useful
 Mazda Permit: progression
 Mitsubishi Permit: progression
 Nissan Permit: progression
@@ -24,6 +26,7 @@ Progressive NA Tune: useful
 Progressive Suspension: useful
 Progressive Tires (Hard/Soft): useful
 Progressive Tires (Soft/Hard): useful
+Progressive Tires (Soft/Soft): unknown
 Progressive Turbo Kit: useful
 Progressive Weight Reduction: useful
 Racing Hard/Hard Tires: useful

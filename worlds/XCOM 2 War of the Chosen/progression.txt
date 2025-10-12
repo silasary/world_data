@@ -1,4 +1,4 @@
-[Chosen Hunt] Assassin Stronghold: unknown
+[Chosen Hunt] Assassin Stronghold: progression
 [Chosen Hunt] Faction Influence: useful
 [Chosen Hunt] Hunter Stronghold: progression
 [Chosen Hunt] Warlock Stronghold: progression
@@ -6,29 +6,31 @@
 [Resource] 10 Alien Alloys: filler
 [Resource] 10 Elerium Crystals: useful
 [Resource] 10 Intel: useful
-[Resource] 15 Alien Alloys: unknown
+[Resource] 15 Alien Alloys: useful
 [Resource] 15 Elerium Crystals: filler
 [Resource] 15 Intel: useful
+[Resource] 20 Intel: unknown
 [Resource] 20 Supplies: filler
 [Resource] 3 Ability Points: filler
 [Resource] 35 Supplies: useful
 [Resource] 5 Ability Points: filler
+[Resource] 5 Alien Alloys: useful
 [Resource] 5 Elerium Crystals: useful
 [Resource] 50 Supplies: useful
 [Resource] 7 Ability Points: useful
 [Staff] 1 Engineer: filler
 [Staff] 1 Scientist: filler
 [Tech] ADVENT Officer Autopsy: progression
-[Tech] ADVENT Priest Autopsy: unknown
+[Tech] ADVENT Priest Autopsy: useful
 [Tech] ADVENT Purifier Autopsy: useful
 [Tech] ADVENT Shieldbearer Autopsy: useful
 [Tech] ADVENT Trooper Autopsy: useful
 [Tech] ADVENT Turret Breakdown: useful
-[Tech] Alien Biotech: unknown
+[Tech] Alien Biotech: useful
 [Tech] Alien Encryption: progression
 [Tech] Andromedon Autopsy: useful
 [Tech] Archon King Autopsy: useful
-[Tech] Assassin Weapons: unknown
+[Tech] Assassin Weapons: useful
 [Tech] Avatar Autopsy: progression
 [Tech] Beam Cannon: useful
 [Tech] Berserker Autopsy: useful
@@ -36,20 +38,20 @@
 [Tech] Blacksite Vial: progression
 [Tech] Chryssalid Autopsy: useful
 [Tech] Codex Brain: progression
-[Tech] Elerium: unknown
-[Tech] Encrypted Codex Data: unknown
+[Tech] Elerium: useful
+[Tech] Encrypted Codex Data: progression
 [Tech] Experimental Weapons: useful
 [Tech] Faceless Autopsy: useful
 [Tech] Gauss Weapons: useful
 [Tech] Hunter Weapons: useful
-[Tech] Hybrid Materials: unknown
+[Tech] Hybrid Materials: useful
 [Tech] Modular Weapons: useful
 [Tech] Muton Autopsy: useful
-[Tech] Plasma Lance: unknown
+[Tech] Plasma Lance: progression
 [Tech] Progressive Armor: useful
 [Tech] Progressive GREMLIN: useful
 [Tech] Progressive Melee Weapon: useful
-[Tech] Progressive Psionics: unknown
+[Tech] Progressive Psionics: useful
 [Tech] Progressive Rifle: progression
 [Tech] Psionic Gate: progression
 [Tech] Recovered ADVENT Stasis Suit: progression
@@ -62,12 +64,17 @@
 [Tech] Warlock Weapons: useful
 [Trap] Avatar Project +1: trap
 [Trap] Force Level +1: trap
+[Upgrade] Advanced Auto-Loader: filler
 [Upgrade] Advanced Expanded Magazine: unknown
+[Upgrade] Advanced Hair Trigger: unknown
 [Upgrade] Advanced Laser Sight: filler
+[Upgrade] Advanced Repeater: unknown
 [Upgrade] Advanced Scope: useful
 [Upgrade] Advanced Stock: useful
 [Upgrade] Superior Auto-Loader: unknown
 [Upgrade] Superior Expanded Magazine: filler
+[Upgrade] Superior Hair Trigger: unknown
 [Upgrade] Superior Laser Sight: unknown
+[Upgrade] Superior Repeater: useful
 [Upgrade] Superior Scope: filler
 [Upgrade] Superior Stock: filler

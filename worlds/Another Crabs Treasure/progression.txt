@@ -1,13 +1,13 @@
 Aggravation: unknown
 Anemone++: unknown
 Anemone+: unknown
-Anemone: unknown
+Anemone: filler
 Another Crab: useful
 Barbed Hook: filler
 Barnacle++: unknown
 Barnacle+: unknown
 Barnacle: unknown
-Bloodstar Limb: unknown
+Bloodstar Limb: filler
 Blue-Collar: unknown
 Bobber: unknown
 Bobbit Trap: unknown
@@ -29,16 +29,16 @@ Dispatch: unknown
 Dr. Kril: unknown
 Earthworm: unknown
 Ebb and Flow: useful
-Eelectrocute: unknown
+Eelectrocute: useful
 Elusive Prey: unknown
 Exiled Flame: unknown
-Fishing Line (Grapple): unknown
-Fork: unknown
-Fredrick: unknown
+Fishing Line (Grapple): progression
+Fork: progression
+Fredrick: progression
 Fruit Sticker+: unknown
 Fruit Sticker: unknown
 Googly Eye: unknown
-Hairclaw: unknown
+Hairclaw: filler
 Heartkelp Sprout: useful
 Housewarming: unknown
 Intern: unknown
@@ -46,7 +46,7 @@ Kintsugi: useful
 Krillionaire: unknown
 Lamprey+: unknown
 Lamprey: unknown
-Lanternfish: unknown
+Lanternfish: useful
 Lil Isopod: unknown
 Limpet++: unknown
 Limpet+: unknown
@@ -56,18 +56,18 @@ Lumpsucker+: unknown
 Lumpsucker: filler
 Mantis Punch: unknown
 Map Piece - Flotsam Vale: unknown
-Map Piece - Heikea: unknown
+Map Piece - Heikea: progression
 Map Piece - Pagurus: unknown
 Mussel++: unknown
 Mussel+: filler
 Mussel: unknown
 Natural Defenses: unknown
-Old World Whorl: unknown
+Old World Whorl: progression
 Oyster: unknown
 Packing Peanut: unknown
 Paperclaw: filler
 Parry: unknown
-Phytoplankton+: unknown
+Phytoplankton+: filler
 Phytoplankton: unknown
 Plunge: unknown
 Pristine Pearl: unknown
@@ -84,7 +84,7 @@ Sand Dollar: filler
 Scrap Hammer: unknown
 Sea Cucumber: unknown
 Seaslug: unknown
-Seastar++: unknown
+Seastar++: filler
 Seastar+: unknown
 Seastar: filler
 Self-Repair: unknown
@@ -104,9 +104,9 @@ Small Battery: unknown
 Snail Sanctum: unknown
 Spearfishing: progression
 Spectral Tentacle: unknown
-Sponge+: unknown
+Sponge+: filler
 Sponge: unknown
-Stainless Relic: unknown
+Stainless Relic: filler
 Stapleclaw: unknown
 Streamline: unknown
 Sunlight: unknown

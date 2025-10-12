@@ -6,10 +6,10 @@
 4 Chocolate Bars: progression
 500 Candies: filler
 A Stone: mcguffin
-Acid Rain Spell: unknown
+Acid Rain Spell: useful
 Advanced Grimoire: progression
 Beginners' Grimoire: progression
-Black Demons Spell: unknown
+Black Demons Spell: useful
 Black Magic Grimoire: progression
 Boots of Introspection: progression
 Candy Merchant's Hat: useful
@@ -18,8 +18,9 @@ Desert Fortress Key: progression
 Desert bird feather: progression
 Enchanted Knight Body Armour: progression
 Enchanted Monkey Wizard Staff: progression
-Erase Magic Spell: unknown
+Erase Magic Spell: useful
 Fireball Spell: progression
+Font Trap: trap
 Giant Spoon of Doom: progression
 Giant Spoon: progression
 Green Fin: progression
@@ -35,6 +36,7 @@ Lightweight Body Armour: progression
 Locked Candy Box: progression
 Lollipop: progression
 Monkey Wizard Staff: progression
+Nothing (Weapon): progression
 Obsidian Wall Spell: useful
 Octopus King Crown with Jaspers: progression
 Octopus King Crown with Obsidian: progression
@@ -45,6 +47,7 @@ Pink Enchanted Gloves: useful
 Pitchfork: progression
 Pogo Stick: progression
 Polished Silver Sword: progression
+Progressive Grimoire: unknown
 Progressive Jump: progression
 Progressive Weapon: useful
 Progressive World Map: progression

@@ -24,16 +24,16 @@ Cube Fire: unknown
 Cube Human: unknown
 Cube Key: unknown
 Cube Plants: unknown
-Cube Pot: unknown
+Cube Pot: progression
 Cube Spring: progression
 Cube Tube: unknown
-Cube Water: unknown
+Cube Water: progression
 Island Battery: unknown
 Island Bolt: progression
 Island Burner: progression
 Island Computer Chip: unknown
 Island Key: unknown
-Island Pickaxe: unknown
+Island Pickaxe: progression
 Island Smokestack: unknown
 Island Steering Wheel: unknown
 Island Wood: progression
@@ -57,7 +57,7 @@ Nano 3 Ice: progression
 Nano 3 Key: unknown
 Nano 3 Medicine: unknown
 Nano 3 Partner: progression
-Nano 3 Vegetables: unknown
+Nano 3 Vegetables: progression
 Nano 3 Victory Point: unknown
 Nano 4 Box: unknown
 Nano 4 Cake: unknown
@@ -78,18 +78,18 @@ RPG Chest: unknown
 RPG Hole: progression
 RPG Key: unknown
 RPG Rock: progression
-RPG Tower: unknown
-RPG Town: unknown
+RPG Tower: progression
+RPG Town: progression
 RPG Tree: progression
 RPG Victory Point: unknown
 RPG Water: unknown
 Tower Brick: unknown
 Tower Button: unknown
 Tower Demon: unknown
-Tower Jar: unknown
+Tower Jar: progression
 Tower Key: progression
 Tower Land: unknown
-Tower Pot: unknown
+Tower Pot: progression
 Tower Victory Point: unknown
 Valley Compass: unknown
 Valley Computer Chip: unknown
@@ -98,18 +98,18 @@ Valley Gear: progression
 Valley Heart: unknown
 Valley Key: unknown
 Valley Magnifying Glass: unknown
-Valley Pickaxe: unknown
+Valley Pickaxe: progression
 Valley Victory Point: unknown
-Ver3 Ball: unknown
+Ver3 Ball: progression
 Ver3 Cube: unknown
 Ver3 Dish: progression
 Ver3 Egg: unknown
 Ver3 Gear: unknown
-Ver3 Key: unknown
+Ver3 Key: progression
 Ver3 Ladder: unknown
-Ver3 Mountain: unknown
-Ver3 Pinwheel: unknown
+Ver3 Mountain: progression
+Ver3 Pinwheel: progression
 Ver3 Pipe: progression
-Ver3 Screen: unknown
+Ver3 Screen: progression
 Ver3 Thruster: unknown
 Ver3 Tornado: unknown

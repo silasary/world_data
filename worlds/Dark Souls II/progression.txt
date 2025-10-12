@@ -1,6 +1,7 @@
 Affinity: filler
 Agape Ring: unknown
 Alluring Skull: unknown
+Alonne Greatbow: unknown
 Amber Herb: filler
 Antiquated Key: unknown
 Archdrake Robes: unknown
@@ -10,11 +11,13 @@ Aromatic Ooze: filler
 Ash Knuckle Ring: unknown
 Ashen Mist Heart: unknown
 Avelyn: unknown
+Azal's Staff: unknown
 Bandit Armor: unknown
 Bandit Axe: unknown
 Bandit Boots: unknown
 Bandit Greataxe: unknown
 Bandit's Knife: unknown
+Baneful Bird Ring: unknown
 Bastard Sword: unknown
 Bastille Key: unknown
 Battle Axe: filler
@@ -30,13 +33,16 @@ Black Knight Ultra Greatsword: unknown
 Black Leather Armor: unknown
 Black Leather Boots: unknown
 Black Leather Gloves: unknown
+Blackweed Balm: filler
 Bleed Stone: unknown
 Bleeding Serum: unknown
+Bloodbite Ring+1: unknown
 Bloodbite Ring: filler
 Blossom Kite Shield: unknown
 Blue Tearstone Ring: unknown
 Blue Wooden Shield: unknown
 Boltstone: unknown
+Bone Fist: unknown
 Bone Staff: unknown
 Bonfire Ascetic: useful
 Bound Hand Axe: unknown
@@ -53,11 +59,13 @@ Brightstone Key: unknown
 Broadsword: unknown
 Broken Straight Sword: unknown
 Broken Thief Sword: unknown
-Buckler: unknown
+Buckler: filler
 Caestus: unknown
 Caitha's Chime: unknown
 Caressing Prayer: filler
 Cast Light: unknown
+Catarina Gauntlets: unknown
+Catarina Leggings: unknown
 Chameleon: unknown
 Chaos Storm: unknown
 Charcoal Pine Resin: unknown
@@ -67,6 +75,7 @@ Claws: unknown
 Claymore: unknown
 Clear Bluestone Ring+1: unknown
 Cleric's Parma: unknown
+Cleric's Sacred Chime: unknown
 Cleric's Small Shield: unknown
 Club: unknown
 Combustion: filler
@@ -78,30 +87,43 @@ Covetous Silver Serpent Ring: unknown
 Craftsman's Hammer: unknown
 Crescent Axe: unknown
 Crimson Parma: unknown
-Crimson Water: unknown
+Crimson Water: useful
 Crystal Magic Weapon: unknown
 Cursebite Ring: unknown
+Curved Nil Greatsword: unknown
 Dagger: unknown
+Dance of Fire: unknown
 Dark Arrow: unknown
 Dark Fog: unknown
+Dark Greatsword: unknown
 Dark Hail: unknown
 Dark Orb: unknown
 Dark Pine Resin: unknown
 Dark Pyromancy Flame: unknown
 Dark Quartz Ring+1: filler
+Dark Quartz Ring+3: unknown
 Dark Quartz Ring: unknown
+Dark Troches: useful
 Darklurker Soul: unknown
 Darknight Stone: unknown
 Dead Again: unknown
 Demon of Song Soul: unknown
+Denial: unknown
 Destructive Greatarrow: unknown
+Dexterity Ring: unknown
 Disc Chime: filler
+Dispelling Ring+1: unknown
 Divine Blessing: filler
 Dragon Acolyte Mask: unknown
-Dragon Charm: unknown
+Dragon Charm: useful
 Dragon Tooth: unknown
 Dragonrider Soul: unknown
 Dragonslayer's Crescent Axe: unknown
+Drakeblood Armor: unknown
+Drakeblood Gauntlets: unknown
+Drakeblood Greatsword: unknown
+Drakeblood Helm: unknown
+Drakeblood Leggings: unknown
 Drakekeeper's Greataxe: unknown
 Drakekeeper's Greatshield: unknown
 Drangleic Gauntlets: filler
@@ -109,6 +131,7 @@ Drangleic Leggings: unknown
 Drangleic Mail: unknown
 Drangleic Shield: filler
 Drangleic Sword: unknown
+Dried Root: unknown
 Dull Ember: useful
 Dung Pie: unknown
 Elizabeth Mushroom: filler
@@ -116,10 +139,12 @@ Emit Force: unknown
 Engraved Gauntlets: unknown
 Estoc: unknown
 Estus Flask Shard: unknown
+Eternal Sanctum Key: unknown
 Executioner's Chariot Soul: unknown
+Eye of the Priestess: unknown
 Fading Soul: filler
 Faintstone: unknown
-Falchion: unknown
+Falchion: useful
 Falconer Armor: unknown
 Falconer Boots: filler
 Falconer Gloves: unknown
@@ -131,39 +156,47 @@ Faraam Boots: filler
 Faraam Gauntlets: unknown
 Faraam Helm: unknown
 Fire Arrow: filler
+Fire Clutch Ring: unknown
 Fire Greatarrow: unknown
 Fire Orb: filler
 Fire Seed: filler
 Fire Tempest: unknown
-Fireball: unknown
+Fireball: useful
 Firebomb: unknown
 Firedrake Stone: unknown
 Firestorm: unknown
 Flamberge: unknown
 Flame Butterfly: filler
+Flame Quartz Ring+3: unknown
 Flame Quartz Ring: unknown
 Flame Swathe: unknown
 Flash Sweat: unknown
 Flexile Sentry Soul: filler
+Flower Skirt: unknown
 Flying Feline Boots: filler
+Flynn's Ring: unknown
+Focus Souls: unknown
 Foot Soldier Shield: unknown
 Force: filler
 Forgotten Key: unknown
+Frozen Flower: unknown
+Garrison Ward Key: unknown
 Gauntlets of Aurous: unknown
 Giant Warrior Club: unknown
-Giant's Kinship: unknown
+Giant's Kinship: progression
 Gold Pine Resin: unknown
 Golden Falcon Shield: unknown
 Golden Wing Shield: unknown
+Goldenfruit Balm: unknown
 Grand Lance: unknown
 Grand Spirit Tree Shield: unknown
 Great Club: unknown
-Great Combustion: unknown
+Great Combustion: useful
 Great Fireball: unknown
 Great Heal Excerpt: unknown
 Great Heal: unknown
 Great Heavy Soul Arrow: unknown
-Great Lightning Spear: unknown
+Great Lightning Spear: useful
 Great Magic Barrier: unknown
 Great Magic Weapon: unknown
 Great Soul Arrow: unknown
@@ -179,25 +212,28 @@ Hard Leather Armor: unknown
 Hard Leather Boots: unknown
 Hard Leather Gauntlets: unknown
 Havel's Armor: unknown
-Havel's Greatshield: unknown
+Havel's Greatshield: useful
 Havel's Helm: unknown
 Havel's Leggings: unknown
 Hawk Ring: unknown
-Heal: unknown
+Heal: useful
+Heavenly Thunder: unknown
 Heavy Bolt: unknown
 Heavy Boots: unknown
 Heavy Crossbow: filler
 Heavy Soul Arrow: filler
+Heide Knight Iron Mask: unknown
 Helix Halberd: unknown
 Helm of Aurous: unknown
 Hexing Urn: unknown
 Hollow Soldier Helm: unknown
-Holy Water Urn: unknown
+Holy Water Urn: filler
 Homeward Bone: filler
 Homeward: unknown
 Homing Crystal Soulmass: unknown
 Homing Soul Arrow: unknown
 Homing Soulmass: unknown
+Homunculus Mace: useful
 Homunculus Wooden Shield: unknown
 House Key: unknown
 Human Effigy: filler
@@ -235,19 +271,21 @@ Large Club: unknown
 Large Leather Shield: unknown
 Large Soul of a Brave Warrior: unknown
 Large Soul of a Lost Undead: unknown
-Large Soul of a Nameless Soldier: unknown
+Large Soul of a Nameless Soldier: useful
 Large Soul of a Proud Knight: unknown
 Large Titanite Shard: filler
-Leather Armor: unknown
+Leather Armor: filler
 Leather Boots: filler
 Leather Gloves: unknown
 Leggings of Aurous: unknown
 Lenigrast's Key: progression
 Life Ring+1: unknown
 Life Ring+2: unknown
+Life Ring+3: unknown
 Life Ring: unknown
 Lifegem: filler
 Light Crossbow: unknown
+Lightning Clutch Ring: unknown
 Lightning Spear: unknown
 Lightning Urn: unknown
 Lingering Dragoncrest Ring: unknown
@@ -261,11 +299,11 @@ Longsword: unknown
 Looking Glass Armor: unknown
 Looking Glass Gauntlets: unknown
 Looking Glass Knight Soul: unknown
-Looking Glass Leggings: unknown
+Looking Glass Leggings: useful
 Looking Glass Mask: unknown
 Lucerne: unknown
 Mace of the Insolent: unknown
-Mace: unknown
+Mace: useful
 Magic Arrow: unknown
 Magic Barrier: unknown
 Magic Bolt: unknown
@@ -275,23 +313,32 @@ Malformed Shell: unknown
 Manchettes of Judgment: unknown
 Manikin Mask: unknown
 Manslayer: unknown
+Mask of Judgment: unknown
 Master Lockstone: unknown
 Mastodon Greatsword: unknown
+Med Heal: unknown
 Monastery Charm: unknown
 Morning Star: unknown
 Mytha, the Baneful Queen Soul: unknown
+Northern Ritual Band+2: unknown
 Northern Ritual Band: unknown
+Northwarder Hood: useful
+Northwarder Manchettes: unknown
+Northwarder Trousers: unknown
 Notched Whip: unknown
 Old Dragonslayer Soul: unknown
+Old Growth Balm: unknown
 Old Knight Greatshield: unknown
 Old Knight Halberd: unknown
 Old Knight Hammer: unknown
 Old Knight Pike: unknown
 Old Leo Ring: unknown
-Old Radiant Lifegem: unknown
+Old Radiant Lifegem: useful
 Old Sun Ring: unknown
 Olenford's Staff: unknown
+Palestone: unknown
 Parrying Dagger: unknown
+Partizan: unknown
 Penal Handcuffs: unknown
 Penal Mask: unknown
 Penal Skirt: filler
@@ -299,14 +346,17 @@ Penal Straightjacket: unknown
 Perseverance: unknown
 Petrified Dragon Bone: unknown
 Petrified Something: unknown
+Pharros Mask: unknown
 Phoenix Parma: filler
 Pickaxe: unknown
 Pike: filler
+Pilgrim's Spontoon: unknown
 Poison Arrow: unknown
 Poison Mist: unknown
-Poison Moss: unknown
+Poison Moss: useful
 Poison Stone: unknown
 Poison Throwing Knife: unknown
+Poisonbite Ring+1: unknown
 Poisonbite Ring: unknown
 Priest's Chime: unknown
 Priestess Gloves: unknown
@@ -314,12 +364,15 @@ Priestess Headpiece: unknown
 Priestess Robe: unknown
 Priestess Skirt: mcguffin
 Prism Stone: unknown
+Promised Walk of Peace: unknown
 Protective Chime: unknown
+Puzzling Stone Sword: unknown
 Pyromancy Flame: unknown
 Radiant Lifegem: filler
 Rapier: unknown
 Raw Stone: unknown
 Rebel's Greatshield: unknown
+Recollection: unknown
 Red Iron Twinblade: unknown
 Red Leech Troches: unknown
 Red Rust Scimitar: unknown
@@ -332,18 +385,23 @@ Repair Powder: filler
 Repair: filler
 Replenishment: unknown
 Resplendent Life: filler
-Ricard's Rapier: unknown
+Retainer Staff: unknown
+Ricard's Rapier: useful
 Ring of Binding: unknown
 Ring of Blades: unknown
 Ring of Giants+1: unknown
 Ring of Giants: filler
-Ring of Prayer: unknown
+Ring of Knowledge: unknown
+Ring of Life Protection: unknown
+Ring of Prayer: useful
+Ring of Resistance+1: useful
 Ring of Restoration: unknown
 Ring of Soul Protection: unknown
 Ring of Thorns+1: unknown
 Ring of Whispers: unknown
 Ring of the Evil Eye+1: unknown
 Ring of the Evil Eye: unknown
+Ring of the Living: unknown
 Robe of Judgment: unknown
 Rotten Pine Resin: unknown
 Rotunda Lockstone: unknown
@@ -355,8 +413,11 @@ Royal Soldier's Ring+1: unknown
 Royal Soldier's Ring: unknown
 Ruin Sentinel Soul: unknown
 Rusted Coin: unknown
+Sanctum Mace: unknown
+Sanctum Shield: unknown
 Santier's Spear: filler
 Scimitar: unknown
+Scorching Iron Scepter: unknown
 Scorpioness Najka Soul: unknown
 Scraps of Life: unknown
 Scythe: unknown
@@ -369,15 +430,17 @@ Silvercat Ring: unknown
 Simpleton's Spice: filler
 Singer's Dress: unknown
 Skeleton Lord's Soul: unknown
-Skeptic's Spice: unknown
+Skeptic's Spice: filler
 Small Leather Shield: filler
 Small Smooth & Silky Stone: unknown
 Smelter Demon Armor: unknown
 Smelter Demon Gauntlets: filler
-Smelter Demon Leggings: unknown
+Smelter Demon Helm: unknown
+Smelter Demon Leggings: useful
 Smelter Demon Soul: unknown
+Smelter Wedge x11: unknown
 Smooth & Silky Stone: unknown
-Soldier Key: unknown
+Soldier Key: progression
 Sorcerer's Staff: unknown
 Soul Appease: unknown
 Soul Arrow: unknown
@@ -387,6 +450,8 @@ Soul Greatsword: unknown
 Soul Spear: unknown
 Soul Vessel: filler
 Soul Vortex: unknown
+Soul of Elana, Squalid Queen: unknown
+Soul of Nashandra: unknown
 Soul of Velstadt: unknown
 Soul of a Brave Warrior: filler
 Soul of a Giant: unknown
@@ -396,22 +461,29 @@ Soul of a Lost Undead: filler
 Soul of a Nameless Soldier: filler
 Soul of a Proud Knight: filler
 Soul of the Duke's Dear Freja: unknown
+Soul of the Fume Knight: unknown
 Soul of the King: unknown
 Soul of the Last Giant: unknown
+Soul of the Pursuer: unknown
 Soul of the Rotten: unknown
-Southern Ritual Band+1: unknown
+Southern Ritual Band+1: filler
 Southern Ritual Band: unknown
-Spell Quartz Ring+1: unknown
-Spell Quartz Ring+2: unknown
+Spear: useful
+Spell Quartz Ring+1: useful
+Spell Quartz Ring+2: useful
+Spell Quartz Ring+3: useful
 Spiked Bandit Helm: unknown
+Splintering Lightning Spear: unknown
 Standard Helm: unknown
 Steel Armor: filler
 Steel Gauntlets: unknown
 Steel Leggings: filler
+Strength Ring: unknown
 Strong Magic Shield: filler
 Sublime Bone Dust: unknown
 Sunlight Blade: unknown
 Target Shield: unknown
+Tattered Cloth Hood: unknown
 Tattered Cloth Manchettes: filler
 Tattered Cloth Robe: filler
 Thief Mask: unknown
@@ -420,27 +492,30 @@ Throne Defender Soul: unknown
 Throne Watcher Soul: unknown
 Throwing Knife: filler
 Thunder Quartz Ring+1: unknown
+Thunder Quartz Ring+3: unknown
 Thunder Quartz Ring: unknown
 Tights of Judgment: unknown
 Titanite Chunk: filler
 Titanite Shard: filler
-Titanite Slab: unknown
+Titanite Slab: useful
 Torch: useful
+Tower Key: unknown
 Tower Shield: unknown
 Transgressor's Leather Shield: filler
 Transgressor's Staff: unknown
+Traveling Merchant Boots: unknown
 Traveling Merchant Coat: filler
 Traveling Merchant Gloves: unknown
 Traveling Merchant Hat: filler
 Triclops Snake Troches: unknown
 Tseldora Den Key: progression
-Twilight Herb: unknown
+Twilight Herb: filler
 Twin Dragon Greatshield: unknown
 Twinblade: unknown
 Twinkling Titanite: filler
 Twisted Barricade: unknown
 Uchigatana: filler
-Undead Lockaway Key: unknown
+Undead Lockaway Key: progression
 Unpetrify Cyclops Statue in Aldia's Keep: progression
 Unpetrify Fang Key Statue in Shaded Ruins: unknown
 Unpetrify Left Cage Statue in Aldia's Keep: unknown
@@ -463,6 +538,7 @@ Velstadt's Armor: unknown
 Velstadt's Gauntlets: filler
 Velstadt's Helm: unknown
 Velstadt's Leggings: filler
+Vine Balm: unknown
 Wanderer Boots: unknown
 Wanderer Coat: unknown
 Wanderer Hood: unknown
@@ -486,4 +562,5 @@ Wood Bolt: unknown
 Wooden Shield: unknown
 Yellow Quartz Longsword: filler
 Yellow Quartz Shield: filler
+Yorgh's Ring: useful
 Zweihander: filler

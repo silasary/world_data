@@ -15,44 +15,44 @@ Bomb Bag: progression
 Bomblings (10): filler
 Bomblings (3): filler
 Bomblings (5): filler
-Bombs (10): useful
+Bombs (10): filler
 Bombs (20): filler
 Bombs (30): filler
-Bombs (5): useful
+Bombs (5): filler
 City in The Sky Big Key: progression
 City in The Sky Compass: useful
 City in The Sky Map: useful
 City in The Sky Small Key: progression
-Empty Bottle (Fishing Hole): useful
-Female Ant: mcguffin
-Female Beetle: mcguffin
+Empty Bottle (Fishing Hole): progression
+Female Ant: progression
+Female Beetle: progression
 Female Butterfly: progression
-Female Dayfly: useful
-Female Dragonfly: mcguffin
-Female Grasshopper: mcguffin
-Female Ladybug: mcguffin
+Female Dayfly: progression
+Female Dragonfly: progression
+Female Grasshopper: progression
+Female Ladybug: progression
 Female Mantis: progression
 Female Phasmid: progression
 Female Pill Bug: progression
-Female Snail: mcguffin
+Female Snail: progression
 Female Stag Beetle: progression
 Forest Temple Big Key: progression
 Forest Temple Compass: useful
 Forest Temple Map: useful
 Forest Temple Small Key: progression
 Gale Boomerang: progression
-Gate Keys: useful
+Gate Keys: progression
 Gerudo Desert Bublin Camp Key: progression
 Giant Bomb Bag: useful
 Goron Mines Compass: useful
 Goron Mines Key Shard: progression
 Goron Mines Map: useful
 Goron Mines Small Key: progression
-Great Fairy Tears (Jovani): mcguffin
+Great Fairy Tears (Jovani): progression
 Green Rupee: filler
-Hawkeye: useful
+Hawkeye: progression
 Heart Container: useful
-Horse Call: useful
+Horse Call: progression
 Hylian Shield: progression
 Hyrule Castle Big Key: progression
 Hyrule Castle Compass: useful
@@ -64,26 +64,26 @@ Lakebed Temple Big Key: progression
 Lakebed Temple Compass: useful
 Lakebed Temple Map: useful
 Lakebed Temple Small Key: progression
-Lantern Oil (Coro Bottle): mcguffin
+Lantern Oil (Coro Bottle): progression
 Lantern: progression
-Links Purple Rupee: mcguffin
+Links Purple Rupee: filler
 Magic Armor: progression
 Male Ant: progression
 Male Beetle: progression
-Male Butterfly: mcguffin
+Male Butterfly: progression
 Male Dayfly: progression
-Male Dragonfly: mcguffin
-Male Grasshopper: mcguffin
-Male Ladybug: mcguffin
-Male Mantis: mcguffin
-Male Phasmid: useful
-Male Pill Bug: mcguffin
+Male Dragonfly: progression
+Male Grasshopper: progression
+Male Ladybug: progression
+Male Mantis: progression
+Male Phasmid: progression
+Male Pill Bug: progression
 Male Snail: progression
-Male Stag Beetle: mcguffin
-Milk (half) (Sera Bottle): useful
+Male Stag Beetle: progression
+Milk (half) (Sera Bottle): progression
 North Faron Woods Gate Keys: progression
 Orange Rupee: filler
-Ordon Goat Cheese: mcguffin
+Ordon Goat Cheese: progression
 Ordon Pumpkin: progression
 Ordon Shield: progression
 Palace of Twilight Big Key: progression
@@ -107,7 +107,7 @@ Red Rupee: filler
 Seeds (50): filler
 Shadow Crystal: progression
 Silver Rupee: filler
-Slingshot: mcguffin
+Slingshot: progression
 Small Key (Coro): progression
 Small Key (North Faron Gate): progression
 Snowpeak Ruins Compass: useful
@@ -123,4 +123,4 @@ Water Bombs (15): filler
 Water Bombs (3): filler
 Water Bombs (5): filler
 Yellow Rupee: filler
-Zora Armor: useful
+Zora Armor: progression

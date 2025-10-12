@@ -111,6 +111,7 @@ Capture Device: progression
 Captured Bunny: progression
 Carpet Runners: progression
 Catalop Pellet x4: filler
+Catalop Pellet x8: unknown
 Catalop Pellet: filler
 Centaur Vest: progression
 Cerberus Fang: progression
@@ -122,8 +123,9 @@ Cheese Spaetzle x3: useful
 Cheese Spaetzle: filler
 Chef Sandwich x2: unknown
 Chef Sandwich x3: filler
+Chef Sandwich x4: filler
 Chef Sandwich x5: unknown
-Chef Sandwich x6: unknown
+Chef Sandwich x6: filler
 Chef Sandwich x8: unknown
 Chef Sandwich: filler
 Chest Detector: filler
@@ -136,6 +138,7 @@ Chili Dog: filler
 Chilling Veil: progression
 Chiron Vest: progression
 Chunky: filler
+Circuit Override x2: useful
 Circuit Override: progression
 Citrine: filler
 Civilian Trigger: progression
@@ -178,6 +181,7 @@ Cross Sandwich x2: filler
 Cross Sandwich x4: filler
 Cross Sandwich: filler
 Crystal Leek x4: filler
+Crystal Leek x6: unknown
 Crystal Leek: filler
 Crystal Plate: progression
 Crystal Water x3: filler
@@ -237,6 +241,7 @@ Emerald x2: unknown
 Emerald: filler
 Encrypted Key: progression
 Energy Espresso x2: unknown
+Energy Espresso x3: unknown
 Energy Espresso x4: unknown
 Energy Espresso: filler
 Enlightened Halo: progression
@@ -397,7 +402,7 @@ Golden Ring: filler
 Golden Satchel x3: filler
 Golden Satchel x6: unknown
 Golden Satchel: filler
-Golden Ticket x3: unknown
+Golden Ticket x3: filler
 Golden Ticket: filler
 Golden Triangle: filler
 Good Boy: filler
@@ -424,6 +429,7 @@ Hardened Liver: filler
 Hardhead Hat: progression
 Hardrock Plate: progression
 Hardwood Stave: progression
+Headphone Scraps x6: unknown
 Headphone Scraps: filler
 Headset TYPE>:3: progression
 Heat: progression
@@ -507,10 +513,12 @@ Lifefiber Uniform: progression
 Light Gem: filler
 Lil' Reap: filler
 Lis'mita Cap: progression
+Living Bolt x3: unknown
 Living Bolt: filler
 Longears: progression
 Loose Trenchcoat: progression
 Lucid Shard x3: filler
+Lucid Shard x6: unknown
 Lucid Shard: filler
 Lunatic Paws UwU: progression
 Lunatic Paws: progression
@@ -606,11 +614,12 @@ Pendulum Striker: progression
 PengoPop: filler
 Pepper Night Tea x2: unknown
 Pepper Night Tea x3: unknown
-Pepper Night Tea x4: unknown
+Pepper Night Tea x4: filler
 Pepper Night Tea: filler
 Perfect Karrot: filler
 Perforated Tophat: filler
 Petal Cloak: progression
+Phoenix Feather x2: filler
 Phoenix Feather x4: filler
 Phoenix Feather: filler
 Piggybank: filler
@@ -703,6 +712,8 @@ Rice Cracker: filler
 Ridge Booster: progression
 Rift Spore: filler
 Ripe Apples x5: filler
+Ripe Apples x7: unknown
+Ripe Apples x8: filler
 Ripe Apples: filler
 Rise Booster: progression
 Rising Super Star: filler
@@ -723,15 +734,18 @@ Rough Branch: progression
 Roundhousers: progression
 Royal Hive x2: filler
 Royal Hive: filler
+Ruby x2: unknown
 Ruby: filler
 Rumble Hive: filler
 Rusty Anchors: progression
 Rusty Bits x5: filler
+Rusty Bits x6: unknown
 Rusty Bits: filler
 Rusty Hook: filler
 S-Rex: filler
 SP Upgrade: progression
 Salami Sphere: filler
+Salted Peanuts x4: unknown
 Salted Peanuts x7: unknown
 Salted Peanuts: filler
 Salty Grass: filler
@@ -787,6 +801,7 @@ Shop Unlock: Tara's Shop: progression
 Shop Unlock: Vermillion Items: progression
 Shop Unlock: Vermillion Weapons: progression
 Shrimp Risotto x4: unknown
+Shrimp Risotto x5: unknown
 Shrimp Risotto: filler
 Shuddering Cleaver: progression
 Shuriken Shooter: progression
@@ -1012,6 +1027,7 @@ Slot Unlock: Willis Waldmahl (Harbor Backer Items): progression
 Slot Unlock: Willis Waldmahl (Rhombus Backer Items): progression
 Smelter Parts: progression
 Smokaway: progression
+Snack Mix x4: unknown
 Snack Mix x6: filler
 Snack Mix: filler
 Sneaky Shiv x2: unknown
@@ -1021,12 +1037,13 @@ So'najiz Key: progression
 Solid Bubble: filler
 Sonic Spike: progression
 Spark Tin x3: filler
-Spark Tin x8: unknown
+Spark Tin x8: filler
 Spark Tin: filler
 Sparkling Bracer: progression
 Sparkly Boots: filler
 Speedy Boom Boots: progression
 Spice Set: filler
+Spicy Beat-0-Type x3: filler
 Spicy Beat-0-Type: filler
 Spicy Bun x3: filler
 Spicy Bun x6: unknown
@@ -1057,6 +1074,7 @@ Steel Edge: progression
 Steel Goggles: progression
 Steel Mail: progression
 Sticky Web x2: filler
+Sticky Web x6: unknown
 Sticky Web: filler
 Stone Key: progression
 Stone of Ages: progression
@@ -1133,9 +1151,11 @@ Tremor Lab Key: progression
 Tremor Mirage: progression
 Trench Boots: progression
 Turbo: filler
+Turret Tokens x7: unknown
 Turret Tokens: filler
 Twilight Dew x5: filler
 Twilight Dew x6: unknown
+Twilight Dew x9: unknown
 Twilight Dew: filler
 Twilight Shard: filler
 Twitching Slicer: progression
@@ -1173,6 +1193,7 @@ Warkeeper: progression
 Wave: progression
 Weird Hillkat Tech: progression
 Weird Skates: progression
+Werewolf Stick x4: unknown
 Werewolf Stick: filler
 Western Starfist: progression
 Whale Wine x3: filler
@@ -1185,15 +1206,16 @@ Winner's Pride: progression
 Winner's Proof: progression
 Winter Thorn x2: filler
 Winter Thorn x3: unknown
+Winter Thorn x4: unknown
 Winter Thorn: filler
 Winterclaw: progression
 Wolf Cicada x4: filler
-Wolf Cicada x7: unknown
+Wolf Cicada x7: filler
 Wolf Cicada: filler
 Wooly Socks: progression
 Worm Band: filler
 Wrap Roll x3: unknown
-Wrap Roll x4: unknown
+Wrap Roll x4: filler
 Wrap Roll x5: unknown
 Wrap Roll: filler
 Ye dirty 'ol cheater: progression

@@ -1,12 +1,13 @@
 AddPC: unknown
 Anvil: progression
-Bombs: unknown
+Bombs: progression
+Boomerang: progression
 Boulder: progression
 BuildStatue: unknown
-Burger: unknown
+Burger: progression
 Call Elevator Buttons: unknown
 Castle To Dark Fortress Cannon: useful
-Castle To Shop Cannon: unknown
+Castle To Shop Cannon: progression
 Change Dark Lord Name: filler
 Change Hero Name: filler
 Change Princess Name: filler
@@ -23,15 +24,16 @@ DarkstoneLeverMiddle: unknown
 DarkstoneLeverRight: unknown
 Desert Geyser East: useful
 Desert Geyser West: unknown
+Dolphins: filler
 Dragon: progression
-Elder: unknown
+Elder: progression
 Elevator Button: progression
 EnableCloset: unknown
-Faceplant Stone: unknown
-Fairy Portal: unknown
-Fishing Rod: unknown
+Faceplant Stone: filler
+Fairy Portal: progression
+Fishing Rod: progression
 Gem: mcguffin
-GrowChicken: unknown
+GrowChicken: progression
 GrowVine: progression
 Hook: progression
 King: progression
@@ -42,7 +44,7 @@ Mimic: progression
 Mirror Portal: useful
 Mister Hugs: progression
 Nothing: filler
-Nuke: unknown
+Nuke: progression
 Open Castle Floor: useful
 OpenCastleFloor: progression
 OpenSewerPipe: unknown
@@ -51,9 +53,9 @@ Princess Statue: filler
 Princess: unknown
 Progressive Sword: progression
 ProgressiveSword: progression
-Sewer Pipe: unknown
-Shield: unknown
-Shop Cannon: unknown
+Sewer Pipe: progression
+Shield: progression
+Shop Cannon: progression
 Shopkeeper: progression
 Shovel: progression
 SpawnAnvilItem: progression
@@ -67,7 +69,7 @@ SpawnDolphins: unknown
 SpawnDragon: progression
 SpawnElder: unknown
 SpawnFishingRodChest: unknown
-SpawnHookChest: unknown
+SpawnHookChest: progression
 SpawnKing: progression
 SpawnLavaTrinketChest: unknown
 SpawnMapChest: unknown

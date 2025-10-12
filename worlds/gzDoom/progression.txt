@@ -95,6 +95,7 @@ Automap (MAP29): useful
 Automap (MAP30): useful
 Automap (MAP31): useful
 Automap (MAP32): useful
+Automap (MAP34): useful
 BFG 9000: progression
 Backpack: filler
 BagOfHolding: filler
@@ -111,20 +112,32 @@ BlueCard (E2M2): progression
 BlueCard (E2M3): progression
 BlueCard (E2M4): progression
 BlueCard (E2M7): progression
+BlueCard (MAP01): progression
 BlueCard (MAP02): progression
 BlueCard (MAP03): progression
 BlueCard (MAP04): progression
 BlueCard (MAP05): progression
 BlueCard (MAP06): progression
+BlueCard (MAP07): unknown
+BlueCard (MAP08): unknown
 BlueCard (MAP09): progression
 BlueCard (MAP10): progression
 BlueCard (MAP11): progression
 BlueCard (MAP12): progression
 BlueCard (MAP13): progression
+BlueCard (MAP14): unknown
 BlueCard (MAP15): progression
+BlueCard (MAP16): unknown
 BlueCard (MAP17): progression
+BlueCard (MAP20): progression
+BlueCard (MAP22): unknown
 BlueCard (MAP24): progression
+BlueCard (MAP25): unknown
 BlueCard (MAP26): progression
+BlueCard (MAP27): progression
+BlueCard (MAP28): unknown
+BlueCard (MAP29): unknown
+BlueCard (MAP31): unknown
 BlueFlemKey (E3M5): progression
 BlueMushroom: filler
 BlueSkull (E1M4): progression
@@ -143,17 +156,30 @@ BlueSkull (E4M3): progression
 BlueSkull (E4M5): progression
 BlueSkull (E4M6): progression
 BlueSkull (E4M7): progression
+BlueSkull (MAP04): progression
+BlueSkull (MAP05): unknown
+BlueSkull (MAP08): progression
+BlueSkull (MAP10): progression
+BlueSkull (MAP11): unknown
+BlueSkull (MAP12): unknown
 BlueSkull (MAP14): progression
+BlueSkull (MAP15): unknown
 BlueSkull (MAP16): progression
+BlueSkull (MAP17): progression
 BlueSkull (MAP18): progression
 BlueSkull (MAP19): progression
+BlueSkull (MAP20): unknown
 BlueSkull (MAP21): progression
 BlueSkull (MAP22): progression
 BlueSkull (MAP25): progression
 BlueSkull (MAP27): unknown
+BlueSkull (MAP28): unknown
+BlueSkull (MAP32): progression
+BlueSkull (MAP35): unknown
 BlurSphere: filler
 BowlOfFruit: filler
 BowlOfVegetables: filler
+Bullets [ClipBox]: filler
 Bullets: filler
 Chaingun: progression
 Chainsaw: progression
@@ -215,6 +241,7 @@ DiamondRune (E2A12): unknown
 DiamondRune (E2A5): unknown
 Dragon Claw: progression
 EnchantedShield: filler
+Energy Cells [CellPack]: filler
 Energy Cells: filler
 EnviroSuit: filler
 Ethereal Crossbow: progression
@@ -233,6 +260,7 @@ HexagonKey (E2A12): unknown
 HolySphere: filler
 HotSauce: filler
 Infrared: filler
+InvulnerabilitySphere2: filler
 InvulnerabilitySphere: filler
 KeyBlue (E1M2): progression
 KeyBlue (E1M5): progression
@@ -429,6 +457,8 @@ Level Access (MAP29): progression
 Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Access (MAP34): unknown
+Level Access (MAP35): unknown
 Level Clear (E1A1): unknown
 Level Clear (E1A2): unknown
 Level Clear (E1A4): unknown
@@ -488,13 +518,13 @@ Level Clear (E5M7): mcguffin
 Level Clear (E5M8): mcguffin
 Level Clear (E5M9): mcguffin
 Level Clear (MAP01): mcguffin
-Level Clear (MAP02): unknown
+Level Clear (MAP02): progression
 Level Clear (MAP03): mcguffin
 Level Clear (MAP04): unknown
 Level Clear (MAP05): mcguffin
 Level Clear (MAP06): mcguffin
 Level Clear (MAP07): mcguffin
-Level Clear (MAP08): unknown
+Level Clear (MAP08): progression
 Level Clear (MAP09): mcguffin
 Level Clear (MAP10): unknown
 Level Clear (MAP11): unknown
@@ -512,13 +542,15 @@ Level Clear (MAP22): mcguffin
 Level Clear (MAP23): mcguffin
 Level Clear (MAP24): mcguffin
 Level Clear (MAP25): unknown
-Level Clear (MAP26): unknown
+Level Clear (MAP26): mcguffin
 Level Clear (MAP27): mcguffin
 Level Clear (MAP28): mcguffin
 Level Clear (MAP29): mcguffin
 Level Clear (MAP30): mcguffin
 Level Clear (MAP31): mcguffin
 Level Clear (MAP32): mcguffin
+Level Clear (MAP34): unknown
+Level Clear (MAP35): mcguffin
 Locationator: filler
 Medikit: filler
 MegaLargeZorcher: unknown
@@ -550,6 +582,7 @@ RedCard (E1M9): progression
 RedCard (E2M1): progression
 RedCard (E2M2): progression
 RedCard (E2M7): progression
+RedCard (MAP01): unknown
 RedCard (MAP02): progression
 RedCard (MAP03): progression
 RedCard (MAP04): progression
@@ -557,10 +590,20 @@ RedCard (MAP05): progression
 RedCard (MAP06): progression
 RedCard (MAP11): progression
 RedCard (MAP13): progression
+RedCard (MAP14): unknown
 RedCard (MAP15): progression
 RedCard (MAP17): progression
+RedCard (MAP21): progression
+RedCard (MAP22): unknown
+RedCard (MAP23): progression
 RedCard (MAP24): progression
+RedCard (MAP25): unknown
 RedCard (MAP26): progression
+RedCard (MAP27): progression
+RedCard (MAP28): progression
+RedCard (MAP29): progression
+RedCard (MAP31): progression
+RedCard (MAP34): unknown
 RedFlemKey (E3M5): progression
 RedMushroom: filler
 RedSkull (E1M4): progression
@@ -577,20 +620,35 @@ RedSkull (E4M5): progression
 RedSkull (E4M6): progression
 RedSkull (E4M7): progression
 RedSkull (E4M8): progression
+RedSkull (MAP04): unknown
+RedSkull (MAP06): progression
+RedSkull (MAP07): unknown
 RedSkull (MAP08): unknown
+RedSkull (MAP09): unknown
+RedSkull (MAP10): unknown
+RedSkull (MAP11): progression
+RedSkull (MAP12): progression
+RedSkull (MAP13): unknown
 RedSkull (MAP14): progression
+RedSkull (MAP15): progression
 RedSkull (MAP16): progression
+RedSkull (MAP18): progression
 RedSkull (MAP19): progression
+RedSkull (MAP20): unknown
 RedSkull (MAP21): progression
 RedSkull (MAP22): progression
+RedSkull (MAP26): unknown
 RedSkull (MAP27): progression
 RedSkull (MAP28): progression
+RedSkull (MAP32): progression
 RhombusKey (E1A7): unknown
 Ring of Invincibility: filler
 Rocket Launcher: progression
+Rockets [RocketBox]: filler
 Rockets: filler
 Shadowsphere: filler
 ShotbowVO: unknown
+Shotgun Shells [ShellBox]: filler
 Shotgun Shells: filler
 Shotgun: progression
 SillySphere: useful
@@ -634,15 +692,25 @@ YellowCard (E1M9): progression
 YellowCard (E2M2): progression
 YellowCard (E2M4): progression
 YellowCard (E2M7): progression
+YellowCard (MAP01): unknown
+YellowCard (MAP03): unknown
 YellowCard (MAP04): progression
 YellowCard (MAP05): progression
 YellowCard (MAP06): progression
+YellowCard (MAP08): unknown
 YellowCard (MAP09): progression
 YellowCard (MAP10): progression
 YellowCard (MAP12): progression
 YellowCard (MAP13): progression
 YellowCard (MAP15): progression
+YellowCard (MAP21): progression
+YellowCard (MAP22): unknown
+YellowCard (MAP23): unknown
 YellowCard (MAP26): progression
+YellowCard (MAP27): unknown
+YellowCard (MAP28): progression
+YellowCard (MAP29): progression
+YellowCard (MAP31): progression
 YellowFlemKey (E3M5): progression
 YellowMushroom: filler
 YellowSkull (E1M4): unknown
@@ -659,13 +727,28 @@ YellowSkull (E4M6): progression
 YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
+YellowSkull (MAP04): unknown
+YellowSkull (MAP05): unknown
+YellowSkull (MAP06): unknown
+YellowSkull (MAP07): unknown
 YellowSkull (MAP08): progression
+YellowSkull (MAP10): progression
+YellowSkull (MAP12): progression
+YellowSkull (MAP13): unknown
+YellowSkull (MAP14): progression
+YellowSkull (MAP15): progression
+YellowSkull (MAP16): progression
 YellowSkull (MAP17): progression
 YellowSkull (MAP18): progression
 YellowSkull (MAP19): progression
+YellowSkull (MAP20): unknown
 YellowSkull (MAP21): progression
+YellowSkull (MAP22): unknown
 YellowSkull (MAP23): progression
+YellowSkull (MAP26): unknown
 YellowSkull (MAP27): progression
 YellowSkull (MAP28): progression
+YellowSkull (MAP31): unknown
+YellowSkull (MAP32): progression
 Zorch Propulsor: progression
 ZorchPack: filler

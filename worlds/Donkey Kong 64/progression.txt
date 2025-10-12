@@ -3,6 +3,11 @@ Angry Aztec Diddy Blueprint: mcguffin
 Angry Aztec Donkey Blueprint: mcguffin
 Angry Aztec Lanky Blueprint: filler
 Angry Aztec Tiny Blueprint: filler
+Aztec Chunky Hint: unknown
+Aztec Diddy Hint: useful
+Aztec Donkey Hint: unknown
+Aztec Lanky Hint: unknown
+Aztec Tiny Hint: unknown
 Baboon Balloon: progression
 Baboon Blast: progression
 Banana Fairy: mcguffin
@@ -11,10 +16,24 @@ Banana Medal: mcguffin
 Barrels: progression
 Battle Crown: mcguffin
 Bongos: progression
+Bubble Trap: unknown
+Candy: progression
+Castle Chunky Hint: unknown
+Castle Diddy Hint: useful
+Castle Donkey Hint: unknown
+Castle Lanky Hint: unknown
+Castle Tiny Hint: unknown
+Caves Chunky Hint: unknown
+Caves Diddy Hint: useful
+Caves Donkey Hint: unknown
+Caves Lanky Hint: unknown
+Caves Tiny Hint: useful
 Chimpy Charge: progression
+Chunky Blueprint: mcguffin
 Chunky: progression
 Climbing: progression
 Coconut: progression
+Cranky: progression
 Creepy Castle Chunky Blueprint: mcguffin
 Creepy Castle Diddy Blueprint: filler
 Creepy Castle Donkey Blueprint: mcguffin
@@ -30,11 +49,29 @@ DK Isles Diddy Blueprint: mcguffin
 DK Isles Donkey Blueprint: progression
 DK Isles Lanky Blueprint: filler
 DK Isles Tiny Blueprint: filler
+Diddy Blueprint: unknown
 Diddy: progression
+Disable A Trap: unknown
+Disable B Trap: unknown
+Disable C Up Trap: unknown
+Disable Z Trap: unknown
 Diving: progression
+Donkey Blueprint: unknown
 Donkey: progression
+Dry Trap: unknown
+Factory Chunky Hint: unknown
+Factory Diddy Hint: unknown
+Factory Donkey Hint: unknown
+Factory Lanky Hint: useful
+Factory Tiny Hint: unknown
 Fairy Camera: progression
 Feather: progression
+Flip Trap: unknown
+Forest Chunky Hint: unknown
+Forest Diddy Hint: unknown
+Forest Donkey Hint: unknown
+Forest Lanky Hint: unknown
+Forest Tiny Hint: unknown
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
@@ -45,6 +82,13 @@ Fungi Forest Diddy Blueprint: filler
 Fungi Forest Donkey Blueprint: mcguffin
 Fungi Forest Lanky Blueprint: progression
 Fungi Forest Tiny Blueprint: mcguffin
+Funky: progression
+Galleon Chunky Hint: unknown
+Galleon Diddy Hint: unknown
+Galleon Donkey Hint: unknown
+Galleon Lanky Hint: unknown
+Galleon Tiny Hint: unknown
+Get Out Trap: unknown
 Gloomy Galleon Chunky Blueprint: mcguffin
 Gloomy Galleon Diddy Blueprint: mcguffin
 Gloomy Galleon Donkey Blueprint: mcguffin
@@ -57,9 +101,15 @@ Grape: progression
 Guitar: progression
 Homing Ammo: useful
 Hunky Chunky: progression
+Ice Floor Trap: unknown
 Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
+Japes Chunky Hint: useful
+Japes Diddy Hint: unknown
+Japes Donkey Hint: unknown
+Japes Lanky Hint: unknown
+Japes Tiny Hint: unknown
 Jungle Japes Chunky Blueprint: progression
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
@@ -74,6 +124,7 @@ Key 5: progression
 Key 6: progression
 Key 7: progression
 Key 8: progression
+Lanky Blueprint: unknown
 Lanky: progression
 Mini Monkey: progression
 Monkeyport: progression
@@ -81,6 +132,7 @@ Nintendo Coin: progression
 Oranges: progression
 Orangstand Sprint: progression
 Orangstand: progression
+Paper Trap: unknown
 Peanut: progression
 Pearl: mcguffin
 Pineapple: progression
@@ -95,9 +147,12 @@ Rocketbarrel Boost: progression
 Saxophone: progression
 Shockwave: progression
 Simian Spring: progression
+Slip Trap: unknown
+Snide: progression
 Sniper Sight: progression
 Strong Kong: progression
 The Bean: progression
+Tiny Blueprint: unknown
 Tiny: progression
 Triangle: progression
 Trombone: progression

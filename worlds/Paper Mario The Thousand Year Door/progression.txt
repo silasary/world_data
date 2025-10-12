@@ -1,5 +1,6 @@
 10 Coins: filler
 All or Nothing: filler
+Attack FX B: useful
 Attack FX G: useful
 Attack FX P: useful
 Attack FX R: useful
@@ -47,6 +48,7 @@ Double Dip: filler
 Double Pain: filler
 Dried Shroom: filler
 Earth Quake: filler
+Elevator Key (Riverside): progression
 Elevator Key 1: progression
 Elevator Key 2: progression
 Elevator Key: progression
@@ -166,6 +168,7 @@ Shrink Stomp: filler
 Simplifier: filler
 Skull Gem: progression
 Sleepy Sheep: filler
+Sleepy Stomp: useful
 Slow Go: filler
 Slow Shroom: filler
 Soft Stomp: filler
@@ -188,6 +191,7 @@ Super Shroom: filler
 Superbombomb: progression
 Tasty Tonic: filler
 The Letter "P": progression
+The Letter "p": progression
 Thunder Bolt: filler
 Thunder Rage: filler
 Timing Tutor: filler

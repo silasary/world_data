@@ -12,7 +12,10 @@ Bestial Communion: progression
 Bestial Mastery: unknown
 Black Book: progression
 Blade of Jusztina: progression
+Blade of Ophelia: unknown
+Bleed Trap: trap
 Blessed Wind: useful
+Blindness Trap: unknown
 Blood Drain: progression
 Blood Strike: progression
 Blood Wine: filler
@@ -24,7 +27,7 @@ Brittle Arming Sword: unknown
 Broken Hilt: progression
 Broken Lance: unknown
 Broken Steps Door Key: unknown
-Broken Sword: unknown
+Broken Sword: filler
 Burning Hot Key: unknown
 Castle Doors Key: unknown
 Cloth Bandage: filler
@@ -35,6 +38,7 @@ Corrupted Dagger: useful
 Crossbow: progression
 Crystal Lantern: progression
 Crystal Shard: useful
+Curse Trap: trap
 Cursed Blade: unknown
 Dark Greatsword: useful
 Dark Rapier: unknown
@@ -49,6 +53,7 @@ Dusty Crystal Orb: progression
 Earth Elixir: useful
 Earth Strike: unknown
 Earth Talisman: progression
+Earth Thorn: filler
 Ectoplasm: filler
 Elfen Bow: progression
 Elfen Longsword: progression
@@ -72,11 +77,13 @@ Forlorn Arena Gate Switch Key: unknown
 Fractured Death: unknown
 Fractured Life: progression
 Ghost Light: progression
+Ghost Sword: useful
 Golden Khopesh: unknown
 Golden Sickle: unknown
 Grotto Fire Switch Keyring: progression
 Halberd: progression
 Hammer of Cruelty: progression
+Health ViaI: unknown
 Health Vial: filler
 Heritage Sword: progression
 Hollow Basin Switch Key: progression
@@ -107,6 +114,7 @@ Lower Rickety Bridge Door Key: progression
 Lucid Blade: progression
 Lucky Bangle: filler
 Lyrian Greatsword: progression
+Mana Drain Trap: trap
 Mana Vial: filler
 Marauder Black Flail: useful
 Moon Beam: progression
@@ -123,11 +131,12 @@ Ocean Elixir: useful
 Oil Lantern: progression
 Onyx: filler
 Opal: mcguffin
-Patchouli's Drink Voucher: unknown
+Patchouli's Drink Voucher: useful
 Pink Shrimp: filler
 Poison Claw: progression
-Poison Mist: unknown
+Poison Mist: filler
 Poison Throwing Knife: filler
+Poison Trap: trap
 Poison Urn: filler
 Prison Main Door Key: progression
 Privateer Musket: progression
@@ -159,6 +168,7 @@ Skeleton Axe: progression
 Skeleton Egg: filler
 Skull of Josiah: progression
 Slime Orb: progression
+Slowness Trap: trap
 Snowflake Obsidian: filler
 Spectral Candle: filler
 Spirit Warp: progression
@@ -166,6 +176,7 @@ Staff of Osiris: filler
 Steel Claw: unknown
 Steel Club: progression
 Steel Lance: unknown
+Steel Spear: filler
 Stone Club: progression
 Strange Coin: mcguffin
 Sucsarian Dagger: unknown

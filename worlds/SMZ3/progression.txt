@@ -62,7 +62,7 @@ CompassSW: filler
 CompassTH: filler
 CompassTR: filler
 CompassTT: filler
-ETank: progression
+ETank: mcguffin
 Ether: progression
 FiftyRupees: filler
 Firerod: progression
@@ -109,7 +109,7 @@ MapTH: filler
 MapTR: filler
 MapTT: filler
 Mirror: progression
-Missile: progression
+Missile: mcguffin
 MoonPearl: progression
 Morph: progression
 Mushroom: progression
@@ -118,7 +118,7 @@ OneHundredRupees: filler
 OneRupee: filler
 Plasma: progression
 Powder: progression
-PowerBomb: progression
+PowerBomb: mcguffin
 ProgressiveGlove: progression
 ProgressiveShield: progression
 ProgressiveSword: progression
@@ -126,7 +126,7 @@ ProgressiveTunic: useful
 Quake: progression
 RedBoomerang: useful
 RedContent: filler
-ReserveTank: progression
+ReserveTank: mcguffin
 ScrewAttack: progression
 Shovel: progression
 SilverArrows: useful
@@ -140,7 +140,7 @@ SpaceJump: progression
 Spazer: useful
 SpeedBooster: progression
 SpringBall: progression
-Super: progression
+Super: mcguffin
 TenArrows: filler
 ThreeBombs: filler
 ThreeHundredRupees: filler

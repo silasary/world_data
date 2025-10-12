@@ -62,7 +62,7 @@ Enemy Card Demyx: unknown
 Enemy Card Dragon Maleficent: useful
 Enemy Card Fat Bandit: filler
 Enemy Card Gargoyle: unknown
-Enemy Card Green Requiem: unknown
+Enemy Card Green Requiem: useful
 Enemy Card Guard Armor: filler
 Enemy Card Hades: useful
 Enemy Card Hook: useful
@@ -88,13 +88,13 @@ Enemy Card Shadow: useful
 Enemy Card Soldier: useful
 Enemy Card Tornado Step: useful
 Enemy Card Trickmaster: useful
-Enemy Card Ursula: unknown
-Enemy Card Vexen: unknown
+Enemy Card Ursula: useful
+Enemy Card Vexen: filler
 Enemy Card White Mushroom: unknown
 Enemy Card Wight Knight: filler
 Enemy Card Wizard: useful
 Enemy Card Wyvern: useful
-Enemy Card Xaldin: unknown
+Enemy Card Xaldin: useful
 Enemy Card Xemnas: useful
 Enemy Card Xigbar: filler
 Enemy Card Yellow Opera: filler
@@ -173,12 +173,12 @@ Sleight Ragnarok: unknown
 Sleight Reflect Raid: useful
 Sleight Sandstorm LV2: useful
 Sleight Sandstorm LV3: useful
-Sleight Shock Impact: unknown
+Sleight Shock Impact: progression
 Sleight Showtime LV2: useful
 Sleight Showtime LV3: useful
 Sleight Sliding Dash: filler
 Sleight Sonic Blade: useful
-Sleight Spiral Wave LV2: unknown
+Sleight Spiral Wave LV2: progression
 Sleight Spiral Wave LV3: useful
 Sleight Splash LV2: useful
 Sleight Splash LV3: filler
@@ -197,7 +197,7 @@ Sleight Thundara: useful
 Sleight Thunder Raid: useful
 Sleight Tornado: useful
 Sleight Trinity Limit: useful
-Sleight Twinkle LV2: unknown
+Sleight Twinkle LV2: useful
 Sleight Twinkle LV3: useful
 Sleight Warp: useful
 Sleight Warpinator: useful

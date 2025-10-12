@@ -1,6 +1,7 @@
 1-1 Key: progression
 1-2 Key: progression
 1-3 Key: progression
+1-4 Key: progression
 1-5 Key: progression
 1-6 Key: progression
 1-7 Key: progression
@@ -88,7 +89,10 @@ Chapter 4 Encore 2 Key: progression
 Chapter 4 Encore 3 Key: progression
 Chapter 4 Finale Key: progression
 Chapter 5 Encore 1 Key: progression
+Chapter 5 Encore 2 Key: unknown
+Chapter 5 Encore 3 Key: progression
 Chapter 5 Finale Key: progression
+Chapter 6 Encore 1 Key: progression
 Chapter 6 Encore 2 Key: progression
 Chapter 6 Encore 3 Key: progression
 Chapter 6 Finale Key: progression
@@ -103,6 +107,7 @@ Chapter 8 Finale Key: progression
 Dart Gun: useful
 Disc: useful
 Dodgeball: useful
+Fan: unknown
 Fireball: useful
 Forceball: useful
 Frog: useful

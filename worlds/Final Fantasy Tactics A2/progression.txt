@@ -75,6 +75,7 @@ Cod Scale: unknown
 Coeurl Pelt: unknown
 Colichemarde: unknown
 Composite Bow: unknown
+Condemner's Choker: unknown
 Corsage of Corruption: unknown
 Cottonflue: unknown
 Cranequin: unknown
@@ -127,7 +128,7 @@ Faerie Shoes: unknown
 Fanatic: unknown
 Femme Fatale: unknown
 Fiend's Blood: unknown
-Fine Wool: unknown
+Fine Wool: progression
 Firebird Crystal: unknown
 Firewheel Rod: unknown
 Flamberge: unknown
@@ -201,9 +202,17 @@ Ivory Pole: unknown
 Jack of Diamonds: unknown
 Jambiya: unknown
 Javelin: unknown
+Job Unlock: Animist: unknown
 Job Unlock: Archer: useful
+Job Unlock: Black Mage: unknown
+Job Unlock: Chocobo Knight: unknown
 Job Unlock: Defender: useful
+Job Unlock: Flintlock: unknown
+Job Unlock: Illusionist: unknown
+Job Unlock: Ninja: unknown
+Job Unlock: Ranger: unknown
 Job Unlock: Ravager: useful
+Job Unlock: Red Mage: unknown
 Job Unlock: Scholar: useful
 Job Unlock: Sniper: useful
 Job Unlock: Spellblade: useful
@@ -221,6 +230,7 @@ Khukuri: useful
 Kiku-ichimonji: useful
 King of Hearts: unknown
 Kotetsu: unknown
+Kris: unknown
 Kunai: unknown
 Kwigon Blade: unknown
 Ladies' Tresses: unknown
@@ -252,6 +262,7 @@ Mage Masher: unknown
 Magick Hands: unknown
 Magick Ring: unknown
 Magick Robe: unknown
+Magus Robe: unknown
 Malboro Flower: unknown
 Malbow: unknown
 Mandragora: unknown
@@ -261,6 +272,7 @@ Marduk: unknown
 Marriom Heather: unknown
 Masamune: unknown
 Massive Bazooka: unknown
+Master Bow: unknown
 Master Sword: unknown
 Materia Armor: unknown
 Materia Blade: unknown
@@ -353,6 +365,7 @@ Scorpion Tail: unknown
 Scramasax: unknown
 Sequencer: useful
 Serpent Staff: unknown
+Seventh Heaven: unknown
 Shadow Blade: unknown
 Shamshir: unknown
 Shield of the Four: unknown
@@ -421,10 +434,12 @@ Tome of Ending: unknown
 Tonberrian: useful
 Tonfa: unknown
 Tournesol: unknown
+Trident: unknown
 Twin Bow: unknown
 Two of Clubs: unknown
 Tyrant Hide: unknown
 Unpurified Ether: unknown
+Urutan Annals: unknown
 Vajra: useful
 Veil of Wiyu: unknown
 Venus Blade: unknown

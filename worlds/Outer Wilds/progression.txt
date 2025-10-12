@@ -31,6 +31,7 @@ HUD Corruption Trap: trap
 Hearthian Radio Frequency: progression
 Hidden Gorge Painting Code: progression
 Hide & Seek Frequency: progression
+Ice Physics Trap: trap
 Imaging Rule: progression
 Island Shard Signal: filler
 Jetpack Fuel Refill: filler
@@ -66,7 +67,7 @@ Signalscope: progression
 Silent Running Mode: progression
 Spacesuit: progression
 Stranger Light Modulator: progression
-Suit Puncture Trap: unknown
+Suit Puncture Trap: trap
 Supernova Trap: trap
 Surface Integrity Scanner: useful
 Tephra's Radio Signal: filler

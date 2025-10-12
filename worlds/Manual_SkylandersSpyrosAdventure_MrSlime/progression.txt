@@ -1,11 +1,14 @@
+Anvil Rain: unknown
 Bash's Soul Ability: unknown
 Bash: Granite Dragon: useful
 Bash: Pulver Dragon: unknown
+Bash: progression
+Boomer's Soul Ability: unknown
 Boomer: Clobber Troll: unknown
 Boomer: Demolition Troll: unknown
 Boomer: progression
 Camo's Soul Ability: useful
-Camo: Melon Master: unknown
+Camo: Melon Master: useful
 Camo: Vine Virtuoso: useful
 Camo: progression
 Chop Chop's Soul Ability: useful
@@ -15,23 +18,30 @@ Chop Chop: unknown
 Cynder: Nether Welder: unknown
 Cynder: Shadowdancer: useful
 Cynder: progression
+Dino-Rang's Soul Ability: useful
 Dino-Rang: Earthen Avenger: useful
 Dino-Rang: Grand Boomerang Master: useful
 Dino-Rang: progression
-Double Trouble: Channeler: unknown
+Double Trouble's Soul Ability: unknown
+Double Trouble: Channeler: useful
 Double Trouble: Conjuror: useful
 Double Trouble: unknown
 Dragon's Peak: unknown
 Drill Sergeant's Soul Ability: useful
-Drill Sergeant: BattleDozer: unknown
+Drill Sergeant: BattleDozer: useful
+Drill Sergeant: MegaDozer: useful
 Drill Sergeant: progression
-Drobot's Soul Ability: unknown
+Drobot's Soul Ability: useful
 Drobot: Clockwork Dragon: unknown
 Drobot: Master Blaster: useful
 Drobot: progression
+Empire of Ice: progression
 Eruptor's Soul Ability: useful
 Eruptor: Magmantor: useful
+Eruptor: Volcanor: useful
 Eruptor: progression
+Flameslinger's Soul Ability: unknown
+Flameslinger: Marksman: unknown
 Flameslinger: Pyromancer: useful
 Flameslinger: progression
 Ghost Pirate Swords: useful
@@ -44,13 +54,17 @@ Gill Grunt: Water Weaver: useful
 Hex's Soul Ability: useful
 Hex: Shade Master: useful
 Hex: progression
-Ignitor: Blademaster: unknown
+Hidden Treasure: unknown
+Ignitor: Blademaster: useful
 Ignitor: Soul of the Flame: useful
 Ignitor: unknown
+Lightning Rod: Lord of the Lightning: unknown
 Lightning Rod: Typhoon Titan: useful
 Lightning Rod: progression
 Pirate Seas: unknown
+Prism Break's Soul Ability: unknown
 Prism Break: Crystaleer: useful
+Prism Break: Prismancer: unknown
 Prism Break: progression
 Progressive Air Skylander Upgrade: useful
 Progressive Chapter: progression
@@ -63,10 +77,14 @@ Progressive Undead Skylander Upgrade: useful
 Progressive Water Skylander Upgrade: useful
 Progressive Winged Sapphires: useful
 Sheep: filler
+Sky-Iron Shield: useful
+Slam Bam's Soul Ability: useful
 Slam Bam: Blizzard Brawler: useful
 Slam Bam: Glacier Yeti: unknown
+Slam Bam: unknown
+Sonic Boom's Soul Ability: useful
 Sonic Boom: Medea Griffin: useful
-Sonic Boom: Siren Griffin: unknown
+Sonic Boom: Siren Griffin: useful
 Sonic Boom: progression
 Sparx Dragonfly: useful
 Spyro's Soul Ability: useful
@@ -75,7 +93,7 @@ Spyro: Sheep Burner Spyro: unknown
 Spyro: progression
 Stealth Elf's Soul Ability: useful
 Stealth Elf: Forest Ninja: useful
-Stealth Elf: Pook Blade Saint: unknown
+Stealth Elf: Pook Blade Saint: useful
 Stealth Elf: progression
 Stump Smash's Soul Ability: useful
 Stump Smash: Nut Crafter: unknown
@@ -83,20 +101,25 @@ Stump Smash: Smash 'n Bash: useful
 Stump Smash: progression
 Sunburn's Soul Ability: unknown
 Sunburn: Blaze Dragon: unknown
-Sunburn: Flame Lord: unknown
+Sunburn: Flame Lord: useful
 Sunburn: progression
 Terrafin's Soul Ability: useful
 Terrafin: Brawler: useful
+Terrafin: Sandhog: useful
 Terrafin: unknown
 Trigger Happy's Soul Ability: useful
-Trigger Happy: Golden Frenzy: unknown
+Trigger Happy: Golden Frenzy: useful
+Trigger Happy: Golden Money Bags: useful
 Trigger Happy: unknown
 Voodood's Soul Ability: useful
+Voodood: Elementalist: useful
 Voodood: Marauder: unknown
 Voodood: progression
 Warnado's Soul Ability: useful
+Warnado: Eye of the Storm: useful
 Warnado: Wind Master: useful
 Warnado: unknown
+Wham-Shell's Soul Ability: unknown
 Wham-Shell: Captain Crustatean: useful
 Wham-Shell: Commander Crab: useful
 Wham-Shell: progression
@@ -109,8 +132,11 @@ Wrecking Ball's Soul Ability: useful
 Wrecking Ball: Total Tongue: useful
 Wrecking Ball: Ultimate Spinner: unknown
 Wrecking Ball: progression
+Zap's Soul Ability: unknown
+Zap: Slime Serpent: unknown
 Zap: Tesla Dragon: useful
 Zap: unknown
 Zook's Soul Ability: unknown
+Zook: Artilleryman: useful
 Zook: Floral Defender: useful
 Zook: progression

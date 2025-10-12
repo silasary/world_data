@@ -1,3 +1,4 @@
+A fistful of nothing...: filler
 Afflict: unknown
 Air Factory: progression
 Airblast Drill: unknown
@@ -73,7 +74,7 @@ Large Plastanium Wall: unknown
 Large Power Node: useful
 Large Solar Panel: unknown
 Large Surge Wall: unknown
-Large Thorium Wall: unknown
+Large Thorium Wall: useful
 Large Titanium Wall: useful
 Large Tungsten Wall: unknown
 Laser Drill: unknown
@@ -118,7 +119,7 @@ Phase Wall: useful
 Phase Weaver: progression
 Plastanium Compressor: unknown
 Plastanium Conveyor: useful
-Plastanium Wall: unknown
+Plastanium Wall: useful
 Plated Conduit: useful
 Pneumatic Drill: progression
 Power Node: useful
@@ -176,7 +177,7 @@ Slag Heater: unknown
 Slag Incinerator: unknown
 Smite: unknown
 Solar Panel: unknown
-Sorter: unknown
+Sorter: useful
 Spectre: useful
 Spore Press: unknown
 Steam Generator: unknown

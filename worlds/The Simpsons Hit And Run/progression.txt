@@ -6,7 +6,8 @@ Apu - American: progression
 Apu - Army: useful
 Apu - B-sharps: useful
 Apu Attack: progression
-Apu Double Jump: unknown
+Apu Checkered Flag: unknown
+Apu Double Jump: progression
 Apu E-Brake: progression
 Armored Truck: useful
 Bandit: useful
@@ -17,8 +18,10 @@ Bart - Hugo: useful
 Bart - Ninja: useful
 Bart - Tall: useful
 Bart Attack: progression
+Bart Checkered Flag: unknown
 Bart Double Jump: progression
 Bart E-Brake: progression
+Bart Gagfinder: unknown
 Book Burning Van: useful
 Canyonero: progression
 Car Built For Homer: progression
@@ -29,6 +32,7 @@ Curator: useful
 Donut Truck: useful
 Duff Trap: trap
 Duff Truck: useful
+Eject: trap
 El Carro Loco: useful
 Electaurus: useful
 Family Sedan: progression
@@ -39,12 +43,13 @@ Hearse: useful
 Hit N Run Reset: filler
 Hit N Run: trap
 Homer - Casual: useful
-Homer - Chosen One: unknown
+Homer - Chosen One: filler
 Homer - Dirty: useful
 Homer - Donut: useful
 Homer - Evil: useful
 Homer - Muumuu: useful
 Homer Attack: progression
+Homer Checkered Flag: unknown
 Homer Double Jump: progression
 Homer E-Brake: progression
 Honor Roller: progression
@@ -53,28 +58,33 @@ Hover Car: useful
 Knight Boat: useful
 Kremlin: useful
 Krusty's Limo: useful
+Launch: unknown
 Level 1: progression
 Level 2: progression
 Level 3: progression
 Level 4: progression
 Level 5: progression
 Level 6: progression
-Level 7: unknown
+Level 7: progression
 Limo: useful
 Lisa - Cool: progression
 Lisa - Floreda: useful
 Lisa - Hockey: useful
 Lisa Attack: progression
-Lisa Double Jump: unknown
+Lisa Checkered Flag: unknown
+Lisa Double Jump: progression
 Lisa E-Brake: progression
+Lisa Gagfinder: unknown
 Longhorn: progression
 Malibu Stacy Car: progression
 Marge - Classy: useful
 Marge - Inmate: useful
 Marge - Police: progression
 Marge Attack: progression
+Marge Checkered Flag: unknown
 Marge Double Jump: progression
 Marge E-Brake: progression
+Moe's Sedan: useful
 Monorail Car: useful
 Mr. Burns' Limo: useful
 Mr. Plow: progression
@@ -85,11 +95,14 @@ Pickup Truck: useful
 Planet Hype 50's Car: useful
 Plow King: progression
 Police Car: useful
+Progressive Level: unknown
+Progressive Wallet Upgrade: progression
 R/C Buggy: useful
 Reset Car: trap
 School Bus: progression
 Sedan: useful
-Speed Rocket: unknown
+Skinner's Sedan: unknown
+Speed Rocket: useful
 Surveillance Van: useful
 Tractor: useful
 WWII Vehicle: useful

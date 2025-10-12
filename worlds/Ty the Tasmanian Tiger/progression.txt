@@ -1,6 +1,6 @@
 Acid Trap: trap
 Air Thunder Egg: mcguffin
-Aquarang: unknown
+Aquarang: progression
 Bilby - Beyond the Black Stump: mcguffin
 Bilby - Bridge on the River Ty: mcguffin
 Bilby - Lyre, Lyre Pants on Fire: mcguffin
@@ -39,7 +39,7 @@ Portal - Bridge on the River Ty: progression
 Portal - Bull's Pen: unknown
 Portal - Cass' Pass: progression
 Portal - Crikey's Cove: unknown
-Portal - Fluffy's Fjord: unknown
+Portal - Fluffy's Fjord: progression
 Portal - Lyre, Lyre Pants on Fire: progression
 Portal - Outback Safari: progression
 Portal - Rex Marks the Spot: progression
@@ -49,9 +49,18 @@ Portal - Two Up: progression
 Portal - Walk in the Park: progression
 Progressive Level: progression
 Progressive Rang: progression
-Quarter Pie: useful
+Quarter Pie: filler
 Second Rang: progression
 Slow Trap: trap
+Stopwatch - Beyond the Black Stump: unknown
+Stopwatch - Bridge on the River Ty: unknown
+Stopwatch - Lyre, Lyre Pants on Fire: unknown
+Stopwatch - Outback Safari: unknown
+Stopwatch - Rex Marks the Spot: progression
+Stopwatch - Ship Rex: unknown
+Stopwatch - Snow Worries: progression
+Stopwatch - Two Up: unknown
+Stopwatch - Walk in the Park: useful
 Swim: progression
 Tiger Talisman: mcguffin
 Zappyrang: progression

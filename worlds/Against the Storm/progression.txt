@@ -3,6 +3,7 @@
 20 Starting Vegetables: unknown
 25 Starting Clay: unknown
 25 Starting Mushrooms: unknown
+Advanced Rain Collector: unknown
 Alchemist's Hut: unknown
 Ale: unknown
 Algae: unknown
@@ -17,31 +18,38 @@ Berries: unknown
 Biscuits: unknown
 Boots: unknown
 Brewery: unknown
+Brick Oven: unknown
 Bricks: unknown
 Brickyard: progression
 Butcher: unknown
 Carpenter: unknown
 Cellar: unknown
+Clan Hall: unknown
 Clay Pit: unknown
 Clay: unknown
+Clothier: unknown
 Coal: unknown
 Cobbler: unknown
 Cookhouse: unknown
 Cooperage: unknown
+Copper Bars: unknown
 Copper Ore: unknown
 Crystallized Dew: unknown
 Distillery: unknown
 Druid's Hut: unknown
+Dye: unknown
 Eggs: unknown
 Explorers Lodge: unknown
 Fabric: unknown
 Fish: unknown
 Fishing Hut: unknown
+Flour: unknown
 Forager's Camp: unknown
 Forester's Hut: unknown
 Furnace: unknown
 Grain: unknown
 Granary: unknown
+Greenhouse: unknown
 Grill: unknown
 Guardian Blood: unknown
 Guardian Feathers: progression
@@ -49,10 +57,13 @@ Guardian Heart: unknown
 Guild House: unknown
 Herb Garden: useful
 Herbalist's Camp: unknown
+Herbs: unknown
 Incense: unknown
 Insects: unknown
 Jerky: unknown
+Kiln: unknown
 Leather: unknown
+Leatherworker: unknown
 Lumber Mill: unknown
 Manufactory: unknown
 Market: unknown
@@ -62,19 +73,24 @@ Mushrooms: unknown
 Oil: unknown
 Pack of Building Materials: unknown
 Pack of Crops: unknown
+Pack of Luxury Goods: progression
 Pack of Provisions: unknown
+Pack of Trade Goods: unknown
 Parts: unknown
 Paste: unknown
 Pickled Goods: unknown
 Pie: unknown
 Pipes: unknown
 Planks: trap
+Plant Fiber: unknown
 Plantation: unknown
 Porridge: unknown
+Pottery: unknown
 Press: unknown
 Provisioner: unknown
 Purging Fire: unknown
 Rain Mill: unknown
+Reeds: unknown
 Resin: unknown
 Roots: unknown
 Salt: unknown
@@ -83,6 +99,7 @@ Scribe: unknown
 Scrolls: unknown
 Sea Marrow: unknown
 Skewers: unknown
+Small Farm: unknown
 Smelter: unknown
 Smithy: unknown
 Smokehouse: unknown
@@ -91,12 +108,18 @@ Stone: unknown
 Supplier: unknown
 Tavern: unknown
 Tea Doctor: unknown
+Tea: unknown
 Teahouse: unknown
 Temple: unknown
 Tinctury: unknown
+Tinkerer: unknown
 Tools: unknown
 Toolshop: unknown
+Training Gear: unknown
 Trapper's Camp: unknown
+Vegetables: unknown
 Waterskins: unknown
+Weaver: unknown
 Wildfire Essence: unknown
+Wine: unknown
 Workshop: unknown
