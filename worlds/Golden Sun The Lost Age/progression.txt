@@ -44,8 +44,9 @@ Coatlique: useful
 Coins 123: filler
 Coins 12: filler
 Coins 166: filler
-Coins 16: unknown
+Coins 16: filler
 Coins 182: unknown
+Coins 18: unknown
 Coins 210: unknown
 Coins 306: unknown
 Coins 315: unknown
@@ -113,6 +114,7 @@ Hagbone Mace: useful
 Hard Nut: useful
 Haures: unknown
 Healing Fungus: progression
+Heavy Armlet: filler
 Herb: filler
 Herbed Shirt: unknown
 Hestia Blade: useful
@@ -122,6 +124,7 @@ Hypnos' Sword: useful
 Imperial Mimic: trap
 Iris Robe: useful
 Iris: useful
+Iron Shield: unknown
 Isaac: progression
 Ivan: progression
 Ixion Mail: useful
@@ -145,6 +148,7 @@ Magical Cassock: useful
 Magma Ball: mcguffin
 Mars Star: mcguffin
 Masamune: useful
+Master Rapier: filler
 Meditation Rod: useful
 Megaera: useful
 Mia: progression
@@ -163,6 +167,7 @@ Moloch: useful
 Muni Robe: useful
 Muramasa: useful
 Mysterious Card: useful
+Mysterious Robe: unknown
 Mythril Armlet: useful
 Mythril Circlet: useful
 Mythril Helm: useful
@@ -203,7 +208,7 @@ Ruin Key: progression
 Running Shirt: useful
 Rusty Axe - Captain's Axe: useful
 Rusty Axe - Viking Axe: useful
-Rusty Mace - Demon Mace: unknown
+Rusty Mace - Demon Mace: filler
 Rusty Mace - Hagbone Mace: useful
 Rusty Staff - Dracomace: useful
 Rusty Staff - Glower Staff: unknown
@@ -223,6 +228,7 @@ Sheba: progression
 Ship: progression
 Silk Robe: unknown
 Silver Armlet: unknown
+Silver Circlet: filler
 Silver Greave: useful
 Silver Helm: unknown
 Sleep Bomb: filler
@@ -245,6 +251,7 @@ Themis' Axe: filler
 Thorn Crown: useful
 Tomegathericon: useful
 Trainer's Whip: useful
+Travel Vest: unknown
 Tremor Bit: progression
 Trident: useful
 Turtle Boots: useful
