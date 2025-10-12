@@ -50,6 +50,7 @@ Progressive emp_resource_timber: unknown
 Progressive emp_resource_wine: unknown
 Progressive emp_settlement_major: unknown
 Progressive emp_settlement_minor: unknown
+Progressive emp_shooting_range: unknown
 Progressive emp_stables: unknown
 Progressive emp_tavern: unknown
 Progressive emp_veh: unknown
