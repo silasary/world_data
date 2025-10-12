@@ -150,6 +150,7 @@ Where is our Map?: unknown
 You too, Brutus?: trap
 tech_dlc16_wef_ancients_cypress: unknown
 tech_dlc16_wef_ancients_oak: unknown
+tech_dlc16_wef_ancients_pine: unknown
 tech_dlc16_wef_ancients_yew: unknown
 tech_grn_end_1_1: unknown
 tech_grn_end_1_2: unknown
