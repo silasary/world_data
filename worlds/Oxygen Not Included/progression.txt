@@ -42,6 +42,7 @@ Care Package: Copper Ore: unknown
 Care Package: Dirt: unknown
 Care Package: Drecko: unknown
 Care Package: Ethanol: unknown
+Care Package: Fertilizer: unknown
 Care Package: Hatch Egg: unknown
 Care Package: Hatch: unknown
 Care Package: Ice: unknown
@@ -195,6 +196,7 @@ Liquid Spacefarer Input Port: unknown
 Liquid Spacefarer Output Port: unknown
 Liquid Tepidizer: unknown
 Liquid Vent: unknown
+Manual Airlock: unknown
 Manual Radbolt Generator: unknown
 Marble Block: unknown
 Materials Study Terminal: unknown
