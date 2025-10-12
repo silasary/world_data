@@ -231,6 +231,7 @@ wh2_dlc12_ikit_workshop_poison_wind_mortar_0: unknown
 wh2_dlc13_anc_arcane_item_amplifier: unknown
 wh2_dlc13_bundle_nakai_temple_gifted: unknown
 wh2_dlc15_hef_dungeon_mistwalker_upgrade_greenskins: unknown
+wh2_dlc15_special_settlement_massif_orcal_brt_2: unknown
 wh2_dlc15_special_settlement_massif_orcal_brt_3: unknown
 wh2_dlc16_bundle_ritual_wef_rebirth_ongoing_jungles_of_chian: unknown
 wh2_dlc16_wef_mon_giant_spiders_0: unknown
@@ -254,12 +255,14 @@ wh2_main_brt_resource_marble_2: unknown
 wh2_main_brt_resource_marble_3: unknown
 wh2_main_brt_resource_medicine_3: unknown
 wh2_main_brt_resource_pottery_3: useful
+wh2_main_brt_resource_salt_2: unknown
 wh2_main_brt_resource_salt_3: unknown
 wh2_main_brt_resource_spices_3: unknown
 wh2_main_brt_resource_timber_3: unknown
 wh2_main_brt_resource_wine_2: unknown
 wh2_main_brt_resource_wine_3: unknown
 wh2_main_effect_force_unit_stat_morale_melee_attack_versus_high_elves: unknown
+wh2_main_foreign_slot_discovery_brt_2: unknown
 wh2_main_hef_intrigue_signed_sealed_delivered_third: unknown
 wh2_main_ritual_grn_waaagh: unknown
 wh2_main_special_settlement_sartosa_brt_2: unknown
@@ -381,6 +384,7 @@ wh3_twa10_ksl_inf_armoured_kossars_ror: unknown
 wh_dlc03_bundle_anc_mark_of_chaos_gouge_tusks: unknown
 wh_dlc05_tech_1_asuryan: unknown
 wh_dlc05_tech_1_cadai: unknown
+wh_dlc05_tech_1_hoeth: unknown
 wh_dlc05_tech_1_isha: unknown
 wh_dlc05_tech_1_ladrielle: unknown
 wh_dlc05_tech_1_lileath: unknown
@@ -389,10 +393,12 @@ wh_dlc05_tech_1_vaul: unknown
 wh_dlc05_tech_2_addaioth: unknown
 wh_dlc05_tech_2_anath_raema: unknown
 wh_dlc05_tech_2_eldrazor: unknown
+wh_dlc05_tech_2_ellinill: unknown
 wh_dlc05_tech_2_ereth_khial: unknown
 wh_dlc05_tech_2_hekarti: unknown
 wh_dlc05_tech_2_hukon: unknown
 wh_dlc07_brt_cav_grail_guardians_0: unknown
+wh_dlc07_brt_cav_knights_errant_0: unknown
 wh_dlc07_brt_inf_battle_pilgrims_0: unknown
 wh_dlc07_brt_inf_foot_squires_0: unknown
 wh_dlc07_tech_brt_chivalry_beastmen_1: unknown
@@ -424,6 +430,7 @@ wh_dlc07_tech_brt_economy_trade_1: unknown
 wh_dlc07_tech_brt_economy_trade_2: unknown
 wh_dlc07_tech_brt_heraldry_artois: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: unknown
+wh_dlc07_tech_brt_heraldry_errantry: unknown
 wh_dlc07_tech_brt_heraldry_lyonesse: unknown
 wh_dlc07_tech_brt_heraldry_parravon: unknown
 wh_dlc07_tech_brt_heraldry_unification: unknown
@@ -449,6 +456,7 @@ wh_main_anc_magic_standard_war_banner: unknown
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
 wh_main_anc_talisman_talisman_of_endurance: unknown
+wh_main_anc_weapon_biting_blade: unknown
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_anc_weapon_sword_of_striking: unknown
 wh_main_brt_cav_grail_knights: unknown
@@ -465,5 +473,6 @@ wh_main_brt_stables_2: unknown
 wh_main_brt_stables_3: unknown
 wh_main_brt_stables_5: unknown
 wh_main_brt_tavern_2: unknown
+wh_main_brt_tavern_3: unknown
 wh_main_brt_tavern_4: unknown
 wh_main_payload_event_the_eye_opens_second: unknown
