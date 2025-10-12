@@ -538,6 +538,7 @@ Cantarella [HARD]: progression
 Cantarella [NORMAL]: progression
 Cantarella: progression
 Cat Communication [EXTREME]: progression
+Cat Food [600]: unknown
 Cat Food [EASY]: progression
 Cat Food [EXEXTREME]: progression
 Cat Food [EXTREME]: progression
@@ -1364,6 +1365,7 @@ Hope [EXTREME]: progression
 Hoshikuzu no Souji-Fu [EXTREME]: progression
 How To Warp [EXTREME]: progression
 How To Warp [HARD]: progression
+How'd It Get To Be Like This? [409]: unknown
 How'd It Get To Be Like This? [EASY]: progression
 How'd It Get To Be Like This? [EXEXTREME]: progression
 How'd It Get To Be Like This? [EXTREME]: progression
@@ -1511,6 +1513,7 @@ Invader Invader [NORMAL]: progression
 Invisible [EXTREME]: progression
 Invisible [HARD]: progression
 Invisible [NORMAL]: progression
+Iroha Uta [211]: unknown
 Iroha Uta [EASY]: progression
 Iroha Uta [EXEXTREME]: progression
 Iroha Uta [EXTREME]: progression
@@ -1698,6 +1701,7 @@ Koi no DISCO QUEEN [EASY]: progression
 Koi no DISCO QUEEN [EXTREME]: progression
 Koi no DISCO QUEEN [HARD]: progression
 Koi no DISCO QUEEN [NORMAL]: progression
+Kokoro [55]: unknown
 Kokoro [EASY]: progression
 Kokoro [EXEXTREME]: progression
 Kokoro [EXTREME]: progression
@@ -1753,6 +1757,7 @@ Last Dance [EXTREME]: progression
 Last Dance [HARD]: progression
 Last Night Good Night [EASY]: progression
 Last Night Good Night [HARD]: progression
+Last Night, Good Night [9]: progression
 Last Night, Good Night [EASY]: progression
 Last Night, Good Night [EXEXTREME]: progression
 Last Night, Good Night [EXTREME]: progression
@@ -1858,18 +1863,21 @@ Love is War: progression
 Love me, Love me, Love me [EXEXTREME]: progression
 Love me, Love me, Love me [EXTREME]: progression
 Love! Snow! Really Magic [EXTREME]: progression
+Love's note [407]: progression
 Love's note [EASY]: progression
 Love's note [EXEXTREME]: progression
 Love's note [EXTREME]: progression
 Love's note [HARD]: progression
 Love's note [NORMAL]: progression
 Love's note: progression
+Love-Colored Ward [52]: progression
 Love-Colored Ward [EASY]: progression
 Love-Colored Ward [EXEXTREME]: progression
 Love-Colored Ward [EXTREME]: progression
 Love-Colored Ward [HARD]: progression
 Love-Colored Ward [NORMAL]: progression
 Love-Colored Ward: progression
+Love-Hate [727]: unknown
 Love-Hate [EASY]: progression
 Love-Hate [EXEXTREME]: progression
 Love-Hate [EXTREME]: progression
@@ -2076,6 +2084,7 @@ Mimukauwa Nice Try [HARD]: progression
 Minority Soldier [EXEXTREME]: progression
 Minority Soldier [EXTREME]: progression
 Minority Soldier [HARD]: progression
+Miracle Paint [14]: unknown
 Miracle Paint [EASY]: progression
 Miracle Paint [EXEXTREME]: progression
 Miracle Paint [EXTREME]: progression
@@ -2209,6 +2218,7 @@ NekoMimi Switch [NORMAL]: progression
 NekoMimi Switch: progression
 Nekomimi Complex [EXTREME]: progression
 Netaminity Theater[666] [448]: unknown
+Never Gonna Give You Up (Miku Ver.) [4528]: unknown
 Never Gonna Give You Up [EASY]: progression
 Never Gonna Give You Up [EXTREME]: progression
 Never Gonna Give You Up [HARD]: progression
@@ -2225,6 +2235,7 @@ Newly Edgy Idols [EXTREME]: progression
 Newly Edgy Idols [HARD]: progression
 Newly Edgy Idols [NORMAL]: progression
 News39 [EXTREME]: progression
+Nice To Meet You, Mr. Earthling [250]: unknown
 Nice To Meet You, Mr. Earthling [EASY]: progression
 Nice To Meet You, Mr. Earthling [EXEXTREME]: progression
 Nice To Meet You, Mr. Earthling [EXTREME]: progression
@@ -2495,6 +2506,7 @@ Please Subscribe to My Channel [EXTREME]: progression
 Please Subscribe to My Channel [HARD]: progression
 Pneumonoultramicroscopicsilicovolcanoconiosis [EXTREME]: progression
 Pneumonoultramicroscopicsilicovolcanoconiosis [HARD]: progression
+Po Pi Po [49]: unknown
 Po Pi Po [EASY]: progression
 Po Pi Po [EXEXTREME]: progression
 Po Pi Po [EXTREME]: progression
@@ -2661,6 +2673,7 @@ Rin-chan Now! [EXTREME]: progression
 Rin-chan Now! [HARD]: progression
 Rin-chan Now! [NORMAL]: progression
 Rin-chan Now!: progression
+RinRin Signal -Append Mix- [97]: unknown
 RinRin Signal -Append Mix- [EASY]: progression
 RinRin Signal -Append Mix- [EXEXTREME]: progression
 RinRin Signal -Append Mix- [EXTREME]: progression
@@ -3039,6 +3052,7 @@ Starlite*Lydian [NORMAL]: progression
 Starlite*Lydian: progression
 Starry Start [EXTREME]: progression
 Starry Start [HARD]: progression
+Stay with me [622]: unknown
 Stay with me [EASY]: progression
 Stay with me [EXEXTREME]: progression
 Stay with me [EXTREME]: progression
@@ -3188,6 +3202,7 @@ Terekakushi Shishunki [EXTREME]: progression
 Terekakushi Shishunki [HARD]: progression
 Terekakushi Shishunki [NORMAL]: progression
 Terekakushi Shishunki: progression
+Teriyaki [9167]: unknown
 Tetoris [7451]: unknown
 Tetoris [EXTREME]: progression
 Tetoris [HARD]: progression
