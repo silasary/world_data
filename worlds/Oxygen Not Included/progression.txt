@@ -6,8 +6,10 @@ Airflow Tile: unknown
 Algae Distiller: unknown
 Algae Terrarium: unknown
 Apothecary: unknown
+Arcade Cabinet: unknown
 Artifact Transport Module: unknown
 Atmo Sensor: unknown
+Atmo Suit Checkpoint: unknown
 Atmo Suit Dock: unknown
 Atmo Suit: unknown
 Auto-Sweeper: unknown
@@ -155,6 +157,7 @@ Ice Liquefier: unknown
 Ice Maker: unknown
 Ice-E Fan: unknown
 Incubator: unknown
+Insulated Liquid Pipe: useful
 Insulated Tile: unknown
 Interplanetary Launcher: unknown
 Jet Suit Checkpoint: unknown
