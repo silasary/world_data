@@ -12,6 +12,7 @@ Battle Shovel: unknown
 Beastmaster: unknown
 Berserk Scroll: unknown
 Berserk Spell: unknown
+Blood Drum: unknown
 Blood Shovel: unknown
 Blunderbuss: unknown
 Bolt: unknown
@@ -46,6 +47,7 @@ Double Empty Heart Container: unknown
 Double Heart Container: unknown
 Dove: unknown
 Drumstick: unknown
+Earth Tome: unknown
 Earthquake Scroll: unknown
 Electric Dagger: unknown
 Eli: unknown
@@ -65,11 +67,13 @@ Glass Slippers: unknown
 Glass Torch: unknown
 Gluttony Charm: unknown
 Grenade Charm: unknown
+Ham: unknown
 Hard Mode: unknown
 Hargreaves: unknown
 Harp: unknown
 Heart Container: unknown
 Heavy Glass Armor: unknown
+Heavy Plate: unknown
 Helm: unknown
 Holster: unknown
 Ice Spirit Familiar: unknown
@@ -112,16 +116,19 @@ Randomizer Mode: unknown
 Rapier: unknown
 Reaper: unknown
 Reflective Shield: unknown
+Rifle: unknown
 Ring of Becoming: unknown
 Ring of Charisma: unknown
 Ring of Courage: unknown
 Ring of Frost: useful
 Ring of Gold: unknown
+Ring of Luck: unknown
 Ring of Mana: unknown
 Ring of Peace: unknown
 Ring of Phasing: unknown
 Ring of Piercing: unknown
 Ring of Protection: unknown
+Ring of Regeneration: unknown
 Ring of Shielding: unknown
 Ring of War: unknown
 Risk Charm: unknown
@@ -137,6 +144,7 @@ Staff: unknown
 Strength Charm: unknown
 Suzu: unknown
 Tempo: progression
+Throwing Charm: unknown
 Titanium Shield: unknown
 Titanium Shovel: unknown
 Torch of Foresight: unknown
