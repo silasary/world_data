@@ -7,6 +7,7 @@ Algae Distiller: unknown
 Algae Terrarium: unknown
 Apothecary: unknown
 Arcade Cabinet: unknown
+Artifact Analysis Station: unknown
 Artifact Transport Module: unknown
 Atmo Sensor: unknown
 Atmo Suit Checkpoint: unknown
@@ -22,6 +23,7 @@ Automation Wire Bridge: unknown
 Automation Wire: unknown
 BUFFER Gate: unknown
 Basic Nosecone: unknown
+Battery Module: unknown
 Beach Chair: unknown
 Blank Canvas: unknown
 Blastshot Maker: unknown
@@ -34,6 +36,7 @@ Bunker Tile: unknown
 Canister Emptier: unknown
 Canister Filler: unknown
 Carbon Dioxide Engine: unknown
+Carbon Skimmer: unknown
 Care Package: Aluminum Ore: unknown
 Care Package: Arbor Tree Seed: unknown
 Care Package: Bammoth: unknown
@@ -127,6 +130,8 @@ Gas Cargo Canister Small: unknown
 Gas Cargo Canister: unknown
 Gas Element Sensor: unknown
 Gas Filter: unknown
+Gas Intake Fitting: unknown
+Gas Meter Valve: unknown
 Gas Pipe Element Sensor: unknown
 Gas Pipe Germ Sensor: unknown
 Gas Pipe: unknown
@@ -200,6 +205,7 @@ Liquid Shutoff: unknown
 Liquid Spacefarer Input Port: unknown
 Liquid Spacefarer Output Port: unknown
 Liquid Tepidizer: unknown
+Liquid Valve: unknown
 Liquid Vent: unknown
 Manual Airlock: unknown
 Manual Radbolt Generator: unknown
@@ -228,6 +234,7 @@ OR Gate: unknown
 Oil Refinery: unknown
 Oil Well: unknown
 Orbital Cargo Module: unknown
+Orbital Data Collection Lab: unknown
 Ore Scrubber: unknown
 Oxygen Mask Checkpoint: unknown
 Oxygen Mask Dock: unknown
@@ -251,6 +258,7 @@ Power Outlet Fitting: unknown
 Power Shutoff: unknown
 Radbolt Chamber: unknown
 Radbolt Engine: unknown
+Radbolt Generator: unknown
 Radbolt Joint Plate: unknown
 Radbolt Reflector: unknown
 Radbolt Sensor: unknown
@@ -276,12 +284,14 @@ Rust Deoxidier: unknown
 Sauna: unknown
 Sculpting Block: unknown
 Shearing Station: unknown
+Shower: unknown
 Sick Bay: unknown
 Signal Counter: unknown
 Signal Distributor: unknown
 Signal Selector: unknown
 Signal Switch: unknown
 Sink: unknown
+Skill Scrubber: unknown
 Sludge Press: unknown
 Small Petroleum Engine: unknown
 Small Solid Oxidizer Tank: unknown
@@ -294,6 +304,7 @@ Solid Rocket Port Unloader: unknown
 Solo Spacefarer Nosecone: unknown
 Space Scanner: unknown
 Spacefarer Module: unknown
+Spice Grinder: unknown
 Starmap Location Sensor: unknown
 Steam Engine Cluster: unknown
 Steam Turbine: unknown
