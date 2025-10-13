@@ -588,6 +588,7 @@ RedCard (MAP03): progression
 RedCard (MAP04): progression
 RedCard (MAP05): progression
 RedCard (MAP06): progression
+RedCard (MAP09): unknown
 RedCard (MAP11): progression
 RedCard (MAP13): progression
 RedCard (MAP14): unknown
@@ -597,7 +598,7 @@ RedCard (MAP21): progression
 RedCard (MAP22): unknown
 RedCard (MAP23): progression
 RedCard (MAP24): progression
-RedCard (MAP25): unknown
+RedCard (MAP25): progression
 RedCard (MAP26): progression
 RedCard (MAP27): progression
 RedCard (MAP28): progression
