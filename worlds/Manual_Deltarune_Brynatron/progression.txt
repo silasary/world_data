@@ -1,6 +1,7 @@
 1 D$: filler
 1 KROMER: filler
 1 POINT: filler
+10 D$: unknown
 10 KROMER: useful
 10 POINTs: filler
 100 D$: useful
@@ -60,6 +61,7 @@ Elnina Recruit: progression
 EmptyDisk: progression
 Exec Buffet: useful
 Feacher Presentation Trap: trap
+Fiber Scarf: unknown
 Flat Soda: useful
 Flex Scarf: unknown
 Flying Ace: useful
@@ -136,6 +138,7 @@ Ragger2: useful
 Ragger: useful
 Ralsei Tea: useful
 Ralsei Unlock: unknown
+Revive Dust: unknown
 Revivemint: progression
 Rhapsotea: filler
 Ribbick Recruit: progression
