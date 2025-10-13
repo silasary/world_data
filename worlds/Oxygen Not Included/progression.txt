@@ -59,6 +59,7 @@ Care Package: Refined Iron: unknown
 Care Package: Rust: unknown
 Care Package: Salt Water: unknown
 Care Package: Sand: unknown
+Care Package: Sandstone: unknown
 Care Package: Spicy Tofu: unknown
 Care Package: Squash Fries: unknown
 Care Package: Thimble Reed Seed: unknown
@@ -157,6 +158,7 @@ Ice Liquefier: unknown
 Ice Maker: unknown
 Ice-E Fan: unknown
 Incubator: unknown
+Insulated Gas Pipe: unknown
 Insulated Liquid Pipe: useful
 Insulated Tile: unknown
 Interplanetary Launcher: unknown
@@ -241,6 +243,7 @@ Pixel Pack: unknown
 Plant Pulverizer: unknown
 Planter Box: unknown
 Plastic Ladder: unknown
+Plastic Tile: unknown
 Polymer Press: unknown
 Portrait Canvas: unknown
 Power Control Station: unknown
