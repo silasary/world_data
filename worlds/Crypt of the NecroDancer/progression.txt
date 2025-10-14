@@ -45,16 +45,19 @@ Cutlass: unknown
 Dash Spell: unknown
 Diamond Dealer: unknown
 Diamond: unknown
+Dorian: unknown
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
 Double Heart Container: unknown
 Dove: unknown
 Drumstick: unknown
+Earth Spell: unknown
 Earth Tome: unknown
 Earthquake Scroll: unknown
 Electric Dagger: unknown
 Eli: unknown
 Empty Heart Container: unknown
+Enchant Weapon Scroll: unknown
 Explorers Boots: unknown
 Fear Scroll: unknown
 Fireball Scroll: unknown
@@ -140,6 +143,7 @@ Ring of Regeneration: unknown
 Ring of Shielding: unknown
 Ring of War: unknown
 Risk Charm: unknown
+Scroll of Need: unknown
 Shield Spell: unknown
 Shield Tome: unknown
 Shield of Shove: unknown
@@ -159,9 +163,11 @@ Titanium Shovel: unknown
 Torch of Foresight: unknown
 Torch of Strength: unknown
 Torch: unknown
+Transmute Spell: unknown
 Transmute Tome: unknown
 Trident: unknown
 War Drum: unknown
+Warhammer: unknown
 Weaponmaster: unknown
 Whip: unknown
 Winged Boots: unknown
