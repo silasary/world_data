@@ -438,6 +438,7 @@ wh_dlc07_tech_brt_heraldry_bretonnia: unknown
 wh_dlc07_tech_brt_heraldry_errantry: unknown
 wh_dlc07_tech_brt_heraldry_lyonesse: unknown
 wh_dlc07_tech_brt_heraldry_parravon: unknown
+wh_dlc07_tech_brt_heraldry_start: unknown
 wh_dlc07_tech_brt_heraldry_unification: unknown
 wh_dlc08_payload_rare_metal_first: unknown
 wh_dlc13_anc_weapon_anguish_of_languille: unknown
