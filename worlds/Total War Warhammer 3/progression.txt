@@ -432,7 +432,7 @@ wh_dlc07_tech_brt_economy_other_draft: unknown
 wh_dlc07_tech_brt_economy_other_siege: unknown
 wh_dlc07_tech_brt_economy_other_tithes: unknown
 wh_dlc07_tech_brt_economy_trade_1: unknown
-wh_dlc07_tech_brt_economy_trade_2: unknown
+wh_dlc07_tech_brt_economy_trade_2: progression
 wh_dlc07_tech_brt_heraldry_artois: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: unknown
 wh_dlc07_tech_brt_heraldry_errantry: unknown
