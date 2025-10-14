@@ -85,6 +85,7 @@ Conveyor Loader: unknown
 Conveyor Meter: unknown
 Conveyor Rail Element Sensor: unknown
 Conveyor Rail Germ Sensor: unknown
+Conveyor Rail Thermo Sensor: unknown
 Conveyor Rail: unknown
 Conveyor Receptacle Fitting: unknown
 Conveyor Receptacle: unknown
@@ -120,6 +121,7 @@ Exosuit Forge: unknown
 FILTER Gate: unknown
 Farm Station: unknown
 Farm Tile: unknown
+Fertilizer Synthesis: unknown
 Fire Pole: unknown
 Fish Feeder: unknown
 Fish Release: unknown
@@ -195,6 +197,7 @@ Liquid Cargo Tank: unknown
 Liquid Element Sensor: unknown
 Liquid Filter: unknown
 Liquid Meter Valve: unknown
+Liquid Pipe Element Sensor: unknown
 Liquid Pipe Germ Sensor: unknown
 Liquid Pipe Thermo Sensor: unknown
 Liquid Pipe: unknown
