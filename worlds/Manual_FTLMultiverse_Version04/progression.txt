@@ -18,6 +18,7 @@ EX_BACKUP_DNA: unknown
 EX_DEFENSE_SCRAMBLER: unknown
 EX_ION_ARMOR: unknown
 EX_MEDBAY_NANO: unknown
+EX_O2_MASKS: unknown
 EX_SHIELD_RECHARGE: unknown
 Emancipated Sanctuary Sector: unknown
 Federation Embassy Sector: unknown
