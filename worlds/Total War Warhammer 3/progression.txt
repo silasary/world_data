@@ -257,6 +257,7 @@ wh2_main_anc_weapon_mechanical_claw: unknown
 wh2_main_anc_weapon_wrath_of_kurnous: unknown
 wh2_main_brt_resource_animals_2: unknown
 wh2_main_brt_resource_animals_3: unknown
+wh2_main_brt_resource_dyes_2: unknown
 wh2_main_brt_resource_dyes_3: unknown
 wh2_main_brt_resource_furs_2: unknown
 wh2_main_brt_resource_marble_2: unknown
@@ -408,6 +409,7 @@ wh_dlc05_tech_2_ereth_khial: unknown
 wh_dlc05_tech_2_hekarti: unknown
 wh_dlc05_tech_2_hukon: unknown
 wh_dlc05_tech_2_mathlann: progression
+wh_dlc07_brt_art_blessed_field_trebuchet_0: unknown
 wh_dlc07_brt_cav_grail_guardians_0: unknown
 wh_dlc07_brt_cav_knights_errant_0: unknown
 wh_dlc07_brt_inf_battle_pilgrims_0: unknown
