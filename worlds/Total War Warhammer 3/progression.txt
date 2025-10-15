@@ -55,6 +55,7 @@ Progressive emp_stables: unknown
 Progressive emp_tavern: unknown
 Progressive emp_veh: unknown
 Progressive emp_walls: unknown
+Progressive emp_wizards: unknown
 Progressive emp_worship: unknown
 Progressive foreign_slot_discovery_brt: unknown
 Progressive foreign_slot_discovery_emp: unknown
@@ -230,6 +231,7 @@ wh2_dlc12_anc_enchanted_item_plaque_of_sotek: unknown
 wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: unknown
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: unknown
+wh2_dlc12_ikit_workshop_warpfire_part_2: unknown
 wh2_dlc13_anc_arcane_item_amplifier: unknown
 wh2_dlc13_bundle_nakai_temple_gifted: unknown
 wh2_dlc15_anc_weapon_star_lance: unknown
@@ -244,6 +246,7 @@ wh2_dlc17_anc_dread_retainer_troll_banner: unknown
 wh2_dlc17_anc_talisman_shardstone_amulet: unknown
 wh2_dlc17_bst_anc_follower_battle_scarred_ungor_raider: unknown
 wh2_dlc17_bst_ruination_passive_tier_6: unknown
+wh2_dlc17_threat_map_reward_region_razed_4_easy: unknown
 wh2_dlc17_threat_map_reward_settlements_4_hard: unknown
 wh2_main_anc_armour_shroud_of_death: unknown
 wh2_main_anc_armour_skull_helmet: unknown
