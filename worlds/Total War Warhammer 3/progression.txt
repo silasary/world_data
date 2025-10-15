@@ -470,6 +470,7 @@ wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
 wh_main_anc_talisman_talisman_of_endurance: unknown
 wh_main_anc_weapon_biting_blade: unknown
+wh_main_anc_weapon_shrieking_blade: unknown
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_anc_weapon_sword_of_striking: unknown
 wh_main_brt_cav_grail_knights: unknown
