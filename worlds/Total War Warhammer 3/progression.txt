@@ -462,6 +462,7 @@ wh_main_anc_enchanted_item_the_other_tricksters_shard: unknown
 wh_main_anc_magic_standard_banner_of_eternal_flame: unknown
 wh_main_anc_magic_standard_gleaming_pennant: unknown
 wh_main_anc_magic_standard_rangers_standard: unknown
+wh_main_anc_magic_standard_razor_standard: unknown
 wh_main_anc_magic_standard_war_banner: unknown
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: unknown
@@ -486,3 +487,4 @@ wh_main_brt_tavern_2: unknown
 wh_main_brt_tavern_3: unknown
 wh_main_brt_tavern_4: unknown
 wh_main_payload_event_the_eye_opens_second: unknown
+wh_main_payload_morale_army: unknown
