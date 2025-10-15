@@ -15,6 +15,7 @@ Progressive brt_resource_dyes: unknown
 Progressive brt_resource_gemstones: unknown
 Progressive brt_resource_gold: unknown
 Progressive brt_resource_marble: unknown
+Progressive brt_resource_medicine: unknown
 Progressive brt_resource_pastures: progression
 Progressive brt_resource_pottery: unknown
 Progressive brt_resource_spices: unknown
@@ -406,6 +407,7 @@ wh_dlc05_tech_2_ellinill: unknown
 wh_dlc05_tech_2_ereth_khial: unknown
 wh_dlc05_tech_2_hekarti: unknown
 wh_dlc05_tech_2_hukon: unknown
+wh_dlc05_tech_2_mathlann: progression
 wh_dlc07_brt_cav_grail_guardians_0: unknown
 wh_dlc07_brt_cav_knights_errant_0: unknown
 wh_dlc07_brt_inf_battle_pilgrims_0: unknown
