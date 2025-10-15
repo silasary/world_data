@@ -350,6 +350,7 @@ wh3_main_anc_talisman_overtyrants_crown: filler
 wh3_main_anc_weapon_necrotic_missiles: unknown
 wh3_main_anc_weapon_slaaneshs_blade: unknown
 wh3_main_anc_weapon_the_bane_spear: unknown
+wh3_main_anc_weapon_wyrmslayer_sword: unknown
 wh3_main_bundle_corruption_chaos_bad_21-30: unknown
 wh3_main_bundle_corruption_khorne_good_1-10: unknown
 wh3_main_bundle_corruption_khorne_good_71-80: unknown
