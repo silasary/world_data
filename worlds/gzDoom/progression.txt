@@ -138,6 +138,7 @@ BlueCard (MAP27): progression
 BlueCard (MAP28): progression
 BlueCard (MAP29): progression
 BlueCard (MAP31): progression
+BlueCard (MAP32): unknown
 BlueFlemKey (E3M5): progression
 BlueMushroom: filler
 BlueSkull (E1M4): progression
@@ -158,6 +159,7 @@ BlueSkull (E4M6): progression
 BlueSkull (E4M7): progression
 BlueSkull (MAP04): progression
 BlueSkull (MAP05): progression
+BlueSkull (MAP06): progression
 BlueSkull (MAP08): progression
 BlueSkull (MAP10): progression
 BlueSkull (MAP11): progression
