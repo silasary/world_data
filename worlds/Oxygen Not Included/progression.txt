@@ -33,6 +33,7 @@ Bottle Drainer: unknown
 Bottle Filler: unknown
 Bunker Door: unknown
 Bunker Tile: unknown
+Canister Drainer: unknown
 Canister Emptier: unknown
 Canister Filler: unknown
 Carbon Dioxide Engine: unknown
@@ -143,10 +144,12 @@ Gas Range: unknown
 Gas Resevoir: unknown
 Gas Rocket Port Loader: unknown
 Gas Rocket Port Unloader: unknown
+Gas Shutoff: unknown
 Gas Valve: unknown
 Gas Vent: unknown
 Geotuner: unknown
 Germ Sensor: unknown
+Glass Forge: unknown
 Grooming Station: unknown
 Hammer: unknown
 Hand Sanitizer: unknown
@@ -332,6 +335,7 @@ Timer Sensor: unknown
 Trailblazer Module: unknown
 Transit Tube Access: unknown
 Transit Tube Crossing: unknown
+Transit Tube: unknown
 Uranium Centrifuge: unknown
 Vertical Wind Tunnel: unknown
 Virtual Planetarium Cluster: unknown
