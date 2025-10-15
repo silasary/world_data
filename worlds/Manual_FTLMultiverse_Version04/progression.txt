@@ -1,6 +1,6 @@
 AETHER TRANSLATOR: unknown
 AUG COMBAT_EXPLOSIVE: unknown
-AUG COMBAT_IONSTORM: unknown
+AUG COMBAT_IONSTORM: useful
 AUG COMBAT_OXYGEN_UNSTABLE: unknown
 AUG COMBAT_SHIELDS_JAMMER: unknown
 AUG EMERGENCY_DRIVE: unknown
@@ -39,6 +39,7 @@ Starting Drones x2: unknown
 Starting Fuel x5: unknown
 Starting Missiles x2: unknown
 Starting Scrap x25: unknown
+The Jerome Protectorate Sector: unknown
 Theocracy Sector: unknown
 Unexplored Sector: progression
 Union Sector: unknown
