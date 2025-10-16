@@ -47,7 +47,7 @@ Care Package: Barbecue: unknown
 Care Package: Bonbon Tree Seed: unknown
 Care Package: Coal: unknown
 Care Package: Copper Ore: unknown
-Care Package: Dirt: unknown
+Care Package: Dirt: filler
 Care Package: Drecko: unknown
 Care Package: Ethanol: unknown
 Care Package: Fertilizer: unknown
@@ -309,6 +309,7 @@ Skill Scrubber: unknown
 Sludge Press: unknown
 Small Petroleum Engine: unknown
 Small Solid Oxidizer Tank: unknown
+Smart Battery: useful
 Smart Storage Bin: unknown
 Soda Fountain: unknown
 Solar Panel Module: unknown
