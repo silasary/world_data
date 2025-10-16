@@ -38,6 +38,7 @@ Progressive emp_resource_animals: unknown
 Progressive emp_resource_dyes: unknown
 Progressive emp_resource_furs: unknown
 Progressive emp_resource_gemstones: unknown
+Progressive emp_resource_gold: unknown
 Progressive emp_resource_iron: unknown
 Progressive emp_resource_ivory: unknown
 Progressive emp_resource_marble: unknown
@@ -228,6 +229,7 @@ wh2_dlc11_payload_incident_perfect_cover: unknown
 wh2_dlc11_ror_reward_1: unknown
 wh2_dlc11_ror_reward_4: unknown
 wh2_dlc11_tech_brt_chivalry_vampire_coast_1: unknown
+wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_02: unknown
 wh2_dlc12_anc_enchanted_item_plaque_of_sotek: unknown
 wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: unknown
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
