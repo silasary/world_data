@@ -34,6 +34,8 @@ class ItemClassification(enum.Flag):
         #     value |= ItemClassification.mcguffin  # skip balancing
         # if flag & 0b10000:
         #     value |= ItemClassification.mcguffin  # deprioritized
+        if value == ItemClassification.progression | ItemClassification.useful:
+            value = ItemClassification.progression  # Useful + Progression is just Progression
         return value
 
 classifications = {v.name: v for v in ItemClassification.__members__.values()}
