@@ -70,6 +70,16 @@ class Datapackage:
         self.items[item_name] = classification
         return True
 
+    def postprocess_item_classification(self, item_name: str, classification: ItemClassification) -> ItemClassification:
+        """Hook for processing classification that came from the API."""
+        # This is mostly for applying mcguffins
+        disk_classification = self.items.get(item_name)
+        if disk_classification is None or disk_classification == ItemClassification.unknown:
+            self.set_classification(item_name, classification)
+        if disk_classification == ItemClassification.mcguffin:
+            classification = ItemClassification.mcguffin
+        return classification
+
 
 def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = True) -> Datapackage:
     if dp is None:
