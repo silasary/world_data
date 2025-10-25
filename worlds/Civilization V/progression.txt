@@ -1,28 +1,28 @@
 Archery: progression
 Architecture: progression
 Banking: unknown
-Bonus - All City Population +1: unknown
-Bonus - Culture: unknown
-Bonus - Extra Happiness Per City: unknown
+Bonus - All City Population +1: filler
+Bonus - Culture: filler
+Bonus - Extra Happiness Per City: filler
 Bonus - Faith: filler
-Bonus - Free Great Person: unknown
+Bonus - Free Great Person: filler
 Bonus - Free Tech: unknown
 Bonus - Gold: filler
-Bonus - Golden Age: unknown
+Bonus - Golden Age: filler
 Bonus - Major Culture: unknown
-Bonus - Major Faith: unknown
-Bonus - Major Gold: unknown
-Bonus - Minor Culture: unknown
+Bonus - Major Faith: filler
+Bonus - Major Gold: filler
+Bonus - Minor Culture: filler
 Bonus - Minor Faith: useful
-Bonus - Minor Gold: unknown
+Bonus - Minor Gold: filler
 Bonus - New City Extra Population +1: useful
-Bonus - New City Extra Population +2: unknown
+Bonus - New City Extra Population +2: filler
 Bronze Working: progression
 Combined Arms: progression
 Combustion: progression
 Dynamite: unknown
 Electricity: unknown
-Era - Progressive: unknown
+Era - Progressive: progression
 Fertilizer: unknown
 Guilds: progression
 Industrialization: unknown
@@ -39,9 +39,9 @@ Plastics: progression
 Policy - Aristocracy: unknown
 Policy - Artistic Genius: unknown
 Policy - Caravans: unknown
-Policy - Collective Rule: unknown
-Policy - Consulates: unknown
-Policy - Cultural Diplomacy: unknown
+Policy - Collective Rule: useful
+Policy - Consulates: progression
+Policy - Cultural Diplomacy: useful
 Policy - Cultural Exchange: unknown
 Policy - Discipline: unknown
 Policy - Entrepreneurship: unknown
@@ -49,44 +49,44 @@ Policy - Fine Arts: unknown
 Policy - Flourishing of the Arts: unknown
 Policy - Humanism: unknown
 Policy - Landed Elite: unknown
-Policy - Legalism: unknown
+Policy - Legalism: useful
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
 Policy - Military Caste: unknown
-Policy - Military Tradition: unknown
+Policy - Military Tradition: useful
 Policy - Monarchy: unknown
 Policy - Naval Tradition: unknown
-Policy - Oligarchy: unknown
+Policy - Oligarchy: useful
 Policy - Organized Religion: unknown
 Policy - Philanthropy: progression
 Policy - Professional Army: unknown
 Policy - Reformation: unknown
 Policy - Religious Tolerance: unknown
 Policy - Representation: unknown
-Policy - Republic: unknown
+Policy - Republic: useful
 Policy - Scientific Revolution: unknown
 Policy - Secularism: unknown
-Policy - Sovereignty: unknown
+Policy - Sovereignty: useful
 Policy - Theocracy: useful
 Policy - Trade Unions: unknown
-Policy - Treasure Fleets: unknown
+Policy - Treasure Fleets: useful
 Policy - Warrior Code: unknown
-Policy Branch - Aesthetics Finisher: unknown
+Policy Branch - Aesthetics Finisher: progression
 Policy Branch - Aesthetics: progression
-Policy Branch - Commerce Finisher: unknown
+Policy Branch - Commerce Finisher: useful
 Policy Branch - Exploration Finisher: unknown
 Policy Branch - Exploration: unknown
-Policy Branch - Honor Finisher: unknown
+Policy Branch - Honor Finisher: useful
 Policy Branch - Honor: unknown
 Policy Branch - Liberty Finisher: unknown
 Policy Branch - Patronage Finisher: unknown
-Policy Branch - Patronage: unknown
+Policy Branch - Patronage: progression
 Policy Branch - Piety Finisher: unknown
-Policy Branch - Piety: unknown
-Policy Branch - Rationalism Finisher: unknown
+Policy Branch - Piety: useful
+Policy Branch - Rationalism Finisher: useful
 Policy Branch - Rationalism: unknown
-Policy Branch - Tradition Finisher: unknown
+Policy Branch - Tradition Finisher: useful
 Policy Branch - Tradition: unknown
 Printing Press: unknown
 Radar: progression
@@ -138,17 +138,17 @@ Tech - Particle Physics: unknown
 Tech - Philosophy: unknown
 Tech - Pottery: unknown
 Tech - Printing Press: unknown
-Tech - Progressive Culture: unknown
-Tech - Progressive Exploration: unknown
+Tech - Progressive Culture: progression
+Tech - Progressive Exploration: progression
 Tech - Progressive Gold: progression
-Tech - Progressive Growth: unknown
+Tech - Progressive Growth: progression
 Tech - Progressive Happiness: progression
 Tech - Progressive Melee Unit: progression
 Tech - Progressive Misc: progression
-Tech - Progressive Production: unknown
+Tech - Progressive Production: progression
 Tech - Progressive Ranged Unit: progression
 Tech - Progressive Science: progression
-Tech - Progressive Siege Unit: unknown
+Tech - Progressive Siege Unit: progression
 Tech - Radar: unknown
 Tech - Radio: unknown
 Tech - Railroad: unknown

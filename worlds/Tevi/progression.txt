@@ -38,7 +38,7 @@ Buff Rush: filler
 Bulletproof Pillar C: filler
 Bulletproof Pillar S: useful
 Buns of Steel: filler
-Burnt Dessert: unknown
+Burnt Dessert: filler
 C. Count Frenzy: Acrobatics: filler
 C. Count Frenzy: Hotshot: filler
 C. Count Frenzy: Preemptive: filler
@@ -78,7 +78,7 @@ Core Expansion: Charge: useful
 Core Expansion: Combo: useful
 Core Expansion: Dazzle: useful
 Core Expansion: Erase: useful
-Core Expansion: Extend: unknown
+Core Expansion: Extend: filler
 Core Expansion: Full Offense: useful
 Core Expansion: Radiant: filler
 Core Expansion: Recovery: filler
@@ -104,7 +104,7 @@ Deadly Reach: useful
 Debuff Counter: filler
 Decay Antidote: useful
 Decay Mask: progression
-Deft A: unknown
+Deft A: useful
 Deft B: filler
 Delicious Secret Notes: filler
 Dextrous: filler
@@ -114,13 +114,13 @@ Dodge Enhancer: Spiral: useful
 Dodge Enhancer: Upper: filler
 Dodge Recovery: filler
 Dodge: Discharge: useful
-Dodge: Feeling Lucky: unknown
+Dodge: Feeling Lucky: filler
 Dodge: Golden Luck: filler
 Dodge: Headstrong: filler
 Dodge: Optimize: useful
 Dodge: Panic Switch: filler
 Dogfight: filler
-Dominator: unknown
+Dominator: filler
 Double Airstrike: useful
 Double Drop: useful
 Double Rabi Boots: progression
@@ -134,7 +134,7 @@ EP Booster: Melee Menace: useful
 EP Booster: Perfectionist: useful
 EP Booster: Quintuple: filler
 EP Booster: Shopaholic: useful
-EP Booster: Synthesizer: unknown
+EP Booster: Synthesizer: filler
 EP Booster: Variety: useful
 Electric Wind: filler
 Energy Happy Juice: unknown
@@ -157,9 +157,9 @@ Go Ballistic: useful
 Good Morning Waffle: useful
 Grape Bunny Potion: useful
 Grip Sole Boots: useful
-Ground Control: unknown
+Ground Control: filler
 Grub Guru: filler
-Head Over Heels: unknown
+Head Over Heels: filler
 Headbutt: filler
 Health Plus: useful
 Health Surge: useful
@@ -193,12 +193,12 @@ MP Quicken: Steady: filler
 MP Quicken: Step Up: useful
 MP Quicken: Style: useful
 MP Quicken: Sugar Rush: filler
-MP Reset A: unknown
+MP Reset A: filler
 MP Reset B: useful
-MP Saver: Fireworks: unknown
+MP Saver: Fireworks: useful
 MP Saver: Rhythm: useful
 MP Surge: Battle Start: useful
-MP Surge: Brawl: unknown
+MP Surge: Brawl: filler
 MP Surge: Break: useful
 MP Surge: Concuss: filler
 MP Surge: Dodge: filler
@@ -237,7 +237,7 @@ Punisher: useful
 Quick Bomber: filler
 Quick Break: filler
 Quickstab: Flurry: filler
-Quickstab: Lightning: unknown
+Quickstab: Lightning: filler
 Quickstab: Sunder: filler
 Rabi Boots: progression
 Rainbow Bunny Potion: useful
@@ -246,7 +246,7 @@ Range Break: filler
 Ranged Roulette: filler
 Rapid Shots Enhance: useful
 Rapid Shots Modchip: useful
-Razor Arrow: unknown
+Razor Arrow: filler
 Red Haze: filler
 Red Module Type-B: progression
 Red Module Type-C: useful
@@ -272,9 +272,9 @@ Slash Quartet: useful
 Slayer: filler
 Slick Boots: progression
 Slide Basher: filler
-Slide Halt: unknown
+Slide Halt: filler
 Slipstream Boots: progression
-Snowflake Rumi Cake: unknown
+Snowflake Rumi Cake: filler
 Soul Burst Module: useful
 Spanner Bash: Bounce: filler
 Spanner Bash: Wrecker: filler
@@ -286,7 +286,7 @@ Special Action: Show Off: useful
 Special Action: Speechless: filler
 Special Action: Yawn: filler
 Spiral Slash: Cyclone: useful
-Spiral Slash: Flurry: unknown
+Spiral Slash: Flurry: filler
 Spring Back: filler
 Style Combo: Aerial A: filler
 Style Combo: Afterimage S: filler
@@ -294,7 +294,7 @@ Style Combo: Backbomb S: useful
 Style Combo: Bunny Kick S: filler
 Style Combo: Flash A: filler
 Style Combo: Lock On A: filler
-Style Combo: Power A: unknown
+Style Combo: Power A: filler
 Style Combo: Tornado A: filler
 Style Combo: Trickshot: filler
 Style Combo: Triple Flash S: filler
@@ -310,24 +310,24 @@ Tabby Bomb: useful
 Tartarus VIP Pass: useful
 Teleporter Anathema: progression
 Teleporter Blushwood: progression
-Teleporter Canyon: unknown
+Teleporter Canyon: progression
 Teleporter Catacombs: progression
-Teleporter Cloister: unknown
+Teleporter Cloister: progression
 Teleporter Copper Forest: progression
-Teleporter Deep Dream: unknown
+Teleporter Deep Dream: progression
 Teleporter Desert Base: progression
-Teleporter Dreamkeeper Inside: unknown
+Teleporter Dreamkeeper Inside: progression
 Teleporter Dreamkeeper Outside: progression
-Teleporter Evernight Garden: unknown
+Teleporter Evernight Garden: progression
 Teleporter Forest: progression
-Teleporter ForestMaze: unknown
+Teleporter ForestMaze: progression
 Teleporter Forgotten City: progression
-Teleporter Gallery of Mirrors: unknown
+Teleporter Gallery of Mirrors: progression
 Teleporter Gallery of Souls: progression
 Teleporter Gloamwood: progression
 Teleporter Heavens Valley West: progression
-Teleporter Industry: unknown
-Teleporter Lab: unknown
+Teleporter Industry: progression
+Teleporter Lab: progression
 Teleporter Magma Depths: progression
 Teleporter Mines: progression
 Teleporter Morose: progression
@@ -347,9 +347,9 @@ Teleporter Valhalla Breath West: progression
 Teleporter Valhalla City: progression
 Terrestrial Agility: filler
 Terrestrial Momentum: filler
-The Untamed: unknown
+The Untamed: filler
 Thick Pillar: filler
-Titanium Spanner: unknown
+Titanium Spanner: filler
 Toasted Meringue Waffle: filler
 Tornado Spin: Flurry: useful
 Tornado Spin: Grav Reversal: filler
@@ -366,9 +366,9 @@ Upper Slash: Volley: filler
 Valhalla VIP Pass: useful
 Vitalolly: unknown
 Void Bomb: filler
-Voodoo's Mewmew Cookie: unknown
+Voodoo's Mewmew Cookie: filler
 Vortex Gloves: progression
-Waffle of Wonder (Attempt): unknown
+Waffle of Wonder (Attempt): filler
 Weak Dominance A: filler
 Weak Dominance B: useful
 Whimsical Waffle of Wonder: filler

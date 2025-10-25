@@ -1,14 +1,14 @@
 Agnus Castle Barbican Key: progression
 Alexandria Token: progression
-Alfeto Valley Hunting License: unknown
+Alfeto Valley Hunting License: progression
 Alfeto Valley Key: progression
-Ashera Token: unknown
+Ashera Token: progression
 Cammuravi Token: progression
-Captocorn Peak Hunting License: unknown
+Captocorn Peak Hunting License: progression
 Captocorn Peak Key: progression
 City Key: progression
 Dannagh Desert Key: progression
-Eagus Wilderness Hunting License: unknown
+Eagus Wilderness Hunting License: progression
 Eagus Wilderness Key: progression
 Elaice Highway Key: progression
 Erythia Sea Hunting License: progression
@@ -17,45 +17,53 @@ Ethel Token: progression
 Eunie: Skill Tree Collumn: useful
 Filler: filler
 Fiona Token: progression
-Ghondor Token: unknown
+Flash Fencer Class: progression
+Ghondor Token: progression
 Gray Token: progression
 Great Cotte Falls Key: progression
 Great Sword's Base Key: progression
 Great Sword's Hilt Key: progression
-Heavy Guard Class: unknown
+Guardian Commander Class: progression
+Heavy Guard Class: progression
+High Maktha Wildwood Hunting License: progression
 High Maktha Wildwood Key: progression
 Incursor Class: progression
 Isurd Token: progression
 Juniper Token: progression
 Keves Castle Key: progression
-Lone Exile Class: unknown
+Lone Exile Class: progression
 Low Maktha Wildwood Hunting License: progression
 Low Maktha Wildwood Key: progression
 Martial Artist Class: progression
 Melia Token: progression
 Melnath's Shoulder Key: progression
-Millick Meadows Hunting License: unknown
+Millick Meadows Hunting License: progression
 Millick Meadows Key: progression
 Miyabi Token: progression
 Monica Token: progression
 Nia Token: useful
-Ogre Class: unknown
+Noah: Skill Tree Collumn: useful
+Ogre Class: progression
 Old Cliffside Way Key: progression
 Origin Amphitheater Key: mcguffin
-Origin Hunting License: unknown
+Origin Hunting License: progression
 Origin Interior Key: progression
 Origin Key: mcguffin
 Rae-Bel Tableland Key: progression
+Rae-Bell Tableland Hunting License: progression
 Ribbi Flats Key: progression
 Riku & Manana Token: progression
+Royal Summoner Class: progression
 Segiri Token: progression
-Slope Running: unknown
-Soulhacker Class: unknown
-Swordfighter Class: unknown
+Sena: Skill Tree Collumn: useful
+Slope Running: progression
+Soulhacker Class: progression
+Strategos Class: progression
+Swordfighter Class: progression
 Syra Hovering Reefs Hunting License: progression
-Syra Hovering Reefs Key: unknown
+Syra Hovering Reefs Key: progression
 Teach Token: progression
-Thaumaturge Class: unknown
+Thaumaturge Class: progression
 The Cavity Hunting License: progression
 The Cavity Key: progression
 Triton Token: progression
@@ -65,8 +73,9 @@ Urayan Trail Key: progression
 Urayan Tunnels Hunting License: progression
 Urayan Tunnels Key: progression
 Valdi Token: progression
-War Medic Class: unknown
-Yumsmith Class: unknown
+War Medic Class: progression
+Yumsmith Class: progression
 Yzana Plain Key: progression
+Yzana Plains Hunting License: progression
 Zeon Token: useful
 Zephyr Class: progression

@@ -138,7 +138,7 @@ BlueCard (MAP27): progression
 BlueCard (MAP28): progression
 BlueCard (MAP29): progression
 BlueCard (MAP31): progression
-BlueCard (MAP32): unknown
+BlueCard (MAP32): progression
 BlueFlemKey (E3M5): progression
 BlueMushroom: filler
 BlueSkull (E1M4): progression
@@ -164,6 +164,7 @@ BlueSkull (MAP08): progression
 BlueSkull (MAP10): progression
 BlueSkull (MAP11): progression
 BlueSkull (MAP12): progression
+BlueSkull (MAP13): progression
 BlueSkull (MAP14): progression
 BlueSkull (MAP15): progression
 BlueSkull (MAP16): progression
@@ -624,6 +625,7 @@ RedSkull (E4M5): progression
 RedSkull (E4M6): progression
 RedSkull (E4M7): progression
 RedSkull (E4M8): progression
+RedSkull (MAP01): progression
 RedSkull (MAP02): progression
 RedSkull (MAP04): progression
 RedSkull (MAP06): progression
@@ -717,6 +719,7 @@ YellowCard (MAP27): progression
 YellowCard (MAP28): progression
 YellowCard (MAP29): progression
 YellowCard (MAP31): progression
+YellowCard (MAP32): progression
 YellowFlemKey (E3M5): progression
 YellowMushroom: filler
 YellowSkull (E1M4): progression
@@ -733,12 +736,14 @@ YellowSkull (E4M6): progression
 YellowSkull (E4M7): progression
 YellowSkull (E4M8): progression
 YellowSkull (E4M9): progression
+YellowSkull (MAP02): progression
 YellowSkull (MAP04): progression
 YellowSkull (MAP05): progression
 YellowSkull (MAP06): progression
 YellowSkull (MAP07): progression
 YellowSkull (MAP08): progression
 YellowSkull (MAP10): progression
+YellowSkull (MAP11): progression
 YellowSkull (MAP12): progression
 YellowSkull (MAP13): progression
 YellowSkull (MAP14): progression

@@ -4,7 +4,7 @@
 1 Swap Trap: trap
 10 Fake Puzzle Pieces: trap
 10 Puzzle Pieces: progression
-10 Rotate Traps: unknown
+10 Rotate Traps: trap
 10 Swap Traps: trap
 10/10!: filler
 100 Puzzle Pieces: progression
@@ -89,7 +89,7 @@
 194 Puzzle Pieces: unknown
 195 Puzzle Pieces: unknown
 197 Puzzle Pieces: unknown
-2 Fake Puzzle Pieces: unknown
+2 Fake Puzzle Pieces: trap
 2 Puzzle Pieces: progression
 2 Rotate Traps: trap
 2 Swap Traps: trap
@@ -137,7 +137,7 @@
 293 Puzzle Pieces: unknown
 3 Fake Puzzle Pieces: progression
 3 Puzzle Pieces: progression
-3 Rotate Traps: unknown
+3 Rotate Traps: trap
 3 Swap Traps: trap
 30 Puzzle Pieces: progression
 303 Puzzle Pieces: progression
@@ -170,7 +170,7 @@
 454 Puzzle Pieces: unknown
 455 Puzzle Pieces: unknown
 46 Puzzle Pieces: progression
-47 Puzzle Pieces: unknown
+47 Puzzle Pieces: progression
 473 Puzzle Pieces: unknown
 48 Puzzle Pieces: progression
 49 Puzzle Pieces: progression
@@ -194,31 +194,31 @@
 60 Puzzle Pieces: progression
 61 Puzzle Pieces: unknown
 62 Puzzle Pieces: progression
-63 Puzzle Pieces: unknown
-64 Puzzle Pieces: unknown
+63 Puzzle Pieces: progression
+64 Puzzle Pieces: progression
 65 Puzzle Pieces: progression
 66 Puzzle Pieces: progression
 67 Puzzle Pieces: progression
 68 Puzzle Pieces: progression
 69 Puzzle Pieces: progression
 7 Puzzle Pieces: progression
-70 Puzzle Pieces: unknown
+70 Puzzle Pieces: progression
 71 Puzzle Pieces: progression
 72 Puzzle Pieces: progression
 73 Puzzle Pieces: progression
 74 Puzzle Pieces: progression
 75 Puzzle Pieces: progression
 76 Puzzle Pieces: progression
-77 Puzzle Pieces: unknown
+77 Puzzle Pieces: progression
 78 Puzzle Pieces: progression
 79 Puzzle Pieces: mcguffin
 8 Puzzle Pieces: progression
 8 Swap Traps: trap
-80 Puzzle Pieces: unknown
+80 Puzzle Pieces: progression
 81 Puzzle Pieces: unknown
-82 Puzzle Pieces: unknown
-83 Puzzle Pieces: unknown
-84 Puzzle Pieces: unknown
+82 Puzzle Pieces: progression
+83 Puzzle Pieces: progression
+84 Puzzle Pieces: progression
 85 Puzzle Pieces: progression
 86 Puzzle Pieces: progression
 87 Puzzle Pieces: unknown
@@ -226,14 +226,16 @@
 89 Puzzle Pieces: unknown
 9 Fake Puzzle Pieces: trap
 9 Puzzle Pieces: progression
-90 Puzzle Pieces: unknown
-91 Puzzle Pieces: unknown
+9 Rotate Traps: trap
+90 Puzzle Pieces: progression
+91 Puzzle Pieces: progression
 93 Puzzle Pieces: progression
-94 Puzzle Pieces: unknown
+94 Puzzle Pieces: progression
 95 Puzzle Pieces: progression
 96 Puzzle Pieces: unknown
 97 Puzzle Pieces: progression
 98 Puzzle Pieces: progression
+99 Puzzle Pieces: progression
 :(: unknown
 :3: unknown
 :3c: unknown

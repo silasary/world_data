@@ -1,11 +1,11 @@
-Anvil Rain: unknown
+Anvil Rain: useful
 Bash's Soul Ability: unknown
 Bash: Granite Dragon: useful
 Bash: Pulver Dragon: unknown
 Bash: progression
 Boomer's Soul Ability: unknown
 Boomer: Clobber Troll: unknown
-Boomer: Demolition Troll: unknown
+Boomer: Demolition Troll: useful
 Boomer: progression
 Camo's Soul Ability: useful
 Camo: Melon Master: useful
@@ -14,9 +14,9 @@ Camo: progression
 Chop Chop's Soul Ability: useful
 Chop Chop: Undead Defender: unknown
 Chop Chop: Vampiric Warrior: unknown
-Chop Chop: unknown
+Chop Chop: progression
 Cynder's Soul Ability: unknown
-Cynder: Nether Welder: unknown
+Cynder: Nether Welder: useful
 Cynder: Shadowdancer: useful
 Cynder: progression
 Dino-Rang's Soul Ability: useful
@@ -59,12 +59,12 @@ Hex: progression
 Hidden Treasure: unknown
 Ignitor: Blademaster: useful
 Ignitor: Soul of the Flame: useful
-Ignitor: unknown
+Ignitor: progression
 Lightning Rod's Soul Ability: unknown
 Lightning Rod: Lord of the Lightning: unknown
 Lightning Rod: Typhoon Titan: useful
 Lightning Rod: progression
-Pirate Seas: unknown
+Pirate Seas: progression
 Prism Break's Soul Ability: unknown
 Prism Break: Crystaleer: useful
 Prism Break: Prismancer: unknown
@@ -122,7 +122,7 @@ Warnado's Soul Ability: useful
 Warnado: Eye of the Storm: useful
 Warnado: Wind Master: useful
 Warnado: unknown
-Wham-Shell's Soul Ability: unknown
+Wham-Shell's Soul Ability: useful
 Wham-Shell: Captain Crustatean: useful
 Wham-Shell: Commander Crab: useful
 Wham-Shell: progression
@@ -130,7 +130,7 @@ Whirlwind's Soul Ability: useful
 Whirlwind: Tempest Dragon: unknown
 Whirlwind: Ultimate Rainbower: unknown
 Whirlwind: progression
-Winged Boots: unknown
+Winged Boots: useful
 Wrecking Ball's Soul Ability: useful
 Wrecking Ball: Total Tongue: useful
 Wrecking Ball: Ultimate Spinner: unknown
@@ -138,7 +138,7 @@ Wrecking Ball: progression
 Zap's Soul Ability: unknown
 Zap: Slime Serpent: unknown
 Zap: Tesla Dragon: useful
-Zap: unknown
+Zap: progression
 Zook's Soul Ability: unknown
 Zook: Artilleryman: useful
 Zook: Floral Defender: useful

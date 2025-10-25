@@ -1,41 +1,41 @@
 5 Bonus Tiles: progression
 5 Letters: progression
-A: unknown
-B: unknown
-C: unknown
+A: progression
+B: progression
+C: progression
 D: progression
 E: progression
 Extra turn: progression
-F: unknown
+F: progression
 G: progression
 H: progression
 I: progression
-J: unknown
+J: trap|progression
 K: unknown
 L: progression
 M: unknown
 N: progression
 O: progression
 P: progression
-Q: unknown
-R: unknown
+Q: trap|progression
+R: progression
 S: progression
 T: progression
 U: progression
-V: unknown
+V: progression
 W: progression
 X: unknown
 Y: useful
 Z: unknown
 ×2L 0,0: progression
 ×2L 0,14: useful
-×2L 0,8: unknown
+×2L 0,8: progression
 ×2L 1,13: unknown
 ×2L 1,5: unknown
 ×2L 1,9: unknown
 ×2L 10,12: unknown
-×2L 10,2: unknown
-×2L 11,3: unknown
+×2L 10,2: progression
+×2L 11,3: progression
 ×2L 12,10: useful
 ×2L 12,4: useful
 ×2L 13,1: unknown
@@ -43,28 +43,28 @@ Z: unknown
 ×2L 14,14: unknown
 ×2L 14,8: unknown
 ×2L 2,10: useful
-×2L 2,2: unknown
+×2L 2,2: progression
 ×2L 2,4: useful
-×2L 3,11: unknown
+×2L 3,11: progression
 ×2L 4,10: unknown
 ×2L 4,4: unknown
 ×2L 5,13: unknown
 ×2L 5,5: unknown
-×2L 5,9: unknown
-×2L 6,0: unknown
-×2L 6,14: unknown
+×2L 5,9: progression
+×2L 6,0: progression
+×2L 6,14: progression
 ×2L 6,8: unknown
 ×2L 7,13: useful
 ×2L 7,1: useful
-×2L 7,7: unknown
+×2L 7,7: progression
 ×2L 8,14: unknown
 ×2L 8,6: unknown
 ×2L 8,8: unknown
 ×2L 9,13: unknown
-×2L 9,1: unknown
+×2L 9,1: progression
 ×2W 0,0: useful
 ×2W 0,14: unknown
-×2W 0,6: unknown
+×2W 0,6: progression
 ×2W 0,8: unknown
 ×2W 1,13: unknown
 ×2W 1,1: unknown
@@ -74,11 +74,11 @@ Z: unknown
 ×2W 10,12: unknown
 ×2W 10,4: unknown
 ×2W 11,11: unknown
-×2W 11,3: unknown
+×2W 11,3: progression
 ×2W 12,10: useful
-×2W 12,2: unknown
+×2W 12,2: progression
 ×2W 12,4: progression
-×2W 13,1: unknown
+×2W 13,1: progression
 ×2W 13,5: useful
 ×2W 13,9: unknown
 ×2W 14,0: unknown
@@ -89,8 +89,8 @@ Z: unknown
 ×2W 2,4: useful
 ×2W 3,11: unknown
 ×2W 3,3: unknown
-×2W 4,10: unknown
-×2W 4,12: unknown
+×2W 4,10: progression
+×2W 4,12: progression
 ×2W 4,2: unknown
 ×2W 5,1: unknown
 ×2W 5,9: unknown
@@ -98,30 +98,30 @@ Z: unknown
 ×2W 7,13: progression
 ×2W 7,1: useful
 ×2W 9,5: unknown
-×2W 9,9: unknown
+×2W 9,9: progression
 ×3L 0,0: unknown
 ×3L 0,14: useful
 ×3L 0,6: unknown
 ×3L 1,13: unknown
-×3L 10,4: unknown
-×3L 11,11: unknown
+×3L 10,4: progression
+×3L 11,11: progression
 ×3L 12,10: progression
 ×3L 12,12: unknown
 ×3L 12,2: unknown
 ×3L 12,4: useful
 ×3L 13,13: unknown
-×3L 13,1: unknown
-×3L 13,9: unknown
+×3L 13,1: progression
+×3L 13,9: progression
 ×3L 14,0: unknown
 ×3L 14,14: progression
 ×3L 2,10: unknown
 ×3L 2,4: progression
-×3L 4,10: unknown
+×3L 4,10: progression
 ×3L 4,12: unknown
-×3L 4,2: unknown
-×3L 5,13: unknown
-×3L 5,1: unknown
-×3L 6,0: unknown
+×3L 4,2: progression
+×3L 5,13: progression
+×3L 5,1: progression
+×3L 6,0: progression
 ×3L 6,14: unknown
 ×3L 6,6: unknown
 ×3L 7,13: useful
@@ -135,14 +135,14 @@ Z: unknown
 ×3W 0,14: useful
 ×3W 0,6: unknown
 ×3W 1,1: unknown
-×3W 1,9: unknown
+×3W 1,9: progression
 ×3W 10,10: unknown
 ×3W 12,10: progression
 ×3W 12,2: unknown
 ×3W 12,4: useful
 ×3W 14,0: useful
 ×3W 14,14: useful
-×3W 14,6: unknown
+×3W 14,6: progression
 ×3W 14,8: unknown
 ×3W 2,10: useful
 ×3W 2,2: unknown
@@ -158,4 +158,4 @@ Z: unknown
 ×3W 7,7: unknown
 ×3W 8,0: unknown
 ×3W 9,13: unknown
-×3W 9,9: unknown
+×3W 9,9: progression

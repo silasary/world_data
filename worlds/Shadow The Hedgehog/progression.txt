@@ -46,7 +46,7 @@ Glyphic Canyon Temple: progression
 Goodbye Forever: progression
 Green Chaos Emerald: progression
 Gun Fortress Computer: progression
-Heal Units: unknown
+Heal Units: progression
 Hero Token: mcguffin
 Iron Jungle Egg Balloon: progression
 Iron Jungle Soldier: progression
@@ -60,10 +60,10 @@ Nothing Junk: filler
 Objective Token: mcguffin
 Prison Island Disc: progression
 Prison Island Soldier: progression
-Pulley: unknown
+Pulley: progression
 Purple Chaos Emerald: mcguffin
 Red Chaos Emerald: progression
-Rocket: unknown
+Rocket: progression
 Shadow Rifle Action: progression
 Shadow Rifle Barrel: progression
 Shadow Rifle Magazine: useful
@@ -126,9 +126,9 @@ Vehicle: Gun Lift: unknown
 Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
-Vehicle:Air Saucer: unknown
-Vehicle:Black Volt: unknown
-Vehicle:Gun Jumper: unknown
+Vehicle:Air Saucer: progression
+Vehicle:Black Volt: progression
+Vehicle:Gun Jumper: progression
 Vehicle:Standard Car: progression
 Warp:Air Fleet: progression
 Warp:Black Comet: unknown
@@ -222,4 +222,4 @@ Westopolis Alien: progression
 Westopolis Soldier: progression
 White Chaos Emerald: progression
 Yellow Chaos Emerald: progression
-Zipwire: unknown
+Zipwire: progression

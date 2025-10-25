@@ -6,7 +6,7 @@ Aevis Killer: unknown
 Agate Ring: unknown
 Aldebaran: unknown
 Ancient Sword: unknown
-Antares: unknown
+Antares: useful
 Aqua: unknown
 Arc Scale: unknown
 Arcturus: unknown
@@ -26,7 +26,7 @@ Battle Bamboo: unknown
 Battle Harness: unknown
 Betelgeuse: unknown
 Black Belt: unknown
-Black Cowl: unknown
+Black Cowl: useful
 Black Mask: unknown
 Blazer Gloves: unknown
 Bleed: unknown
@@ -46,7 +46,7 @@ Bronze Armor: unknown
 Bronze Helm: unknown
 Bronze Mace: unknown
 Bronze Shield: unknown
-Burgonet: unknown
+Burgonet: useful
 Burning Bow: unknown
 Caliper: unknown
 Calot Hat: unknown
@@ -69,7 +69,8 @@ Cura: unknown
 Curaga: unknown
 Curaja: unknown
 Cypress Pole: unknown
-Dark Shot: unknown
+Dagger: useful
+Dark Shot: useful
 Darkga: unknown
 Darkra: unknown
 Death: unknown
@@ -79,10 +80,10 @@ Demon Mail: unknown
 Dhanusha: unknown
 Diamond Armlet: unknown
 Diamond Armor: unknown
-Diamond Shield: unknown
+Diamond Shield: useful
 Disable: unknown
 Dispel: unknown
-Dispelga: unknown
+Dispelga: useful
 Doom Mace: unknown
 Dragon Helm: unknown
 Dragon Mail: unknown
@@ -92,6 +93,7 @@ Dueling Mask: unknown
 Elfin Bow: unknown
 Esuna: unknown
 Esunaga: unknown
+Euclid's Sextant: useful
 Excalipur: unknown
 Faith: unknown
 Famfrit: unknown
@@ -99,9 +101,10 @@ Feathered Cap: unknown
 Fiery Arrows: unknown
 Fira: unknown
 Firaga: unknown
+Firefly: useful
 First Aid: unknown
 Flame Shield: unknown
-Flametongue: unknown
+Flametongue: useful
 Float: unknown
 Fomalhaut: unknown
 Francisca: unknown
@@ -111,7 +114,8 @@ Gaia Hat: unknown
 Gastrophetes: unknown
 Gauntlets: unknown
 Genji Armor: unknown
-Genji Helm: unknown
+Genji Gloves: useful
+Genji Helm: useful
 Genji Shield: unknown
 Gigas Chestplate: unknown
 Gillie Boots: unknown
@@ -125,7 +129,8 @@ Golden Staff: unknown
 Grand Armor: unknown
 Grand Bolts: unknown
 Grand Helm: unknown
-Greataxe: unknown
+Gravity: useful
+Greataxe: useful
 Hashmal: unknown
 Hastega: unknown
 Headband: unknown
@@ -143,6 +148,7 @@ Infuse: unknown
 Iron Hammer: unknown
 Iron Sword: unknown
 Judicer's Staff: unknown
+Kagenui: useful
 Kilimweave Shirt: unknown
 Killer Bow: unknown
 Koga Blade: unknown
@@ -192,7 +198,9 @@ Recurve Crossbow: unknown
 Red Cap: unknown
 Reflect: unknown
 Reflectga: unknown
+Renew: useful
 Renewing Morion: unknown
+Reverse: useful
 Ringmail: unknown
 Rose Corsage: unknown
 Ruby Ring: unknown
@@ -236,20 +244,21 @@ Thorned Mace: unknown
 Thundaga: unknown
 Thundara: unknown
 Time Bolts: unknown
-Topkapi Hat: unknown
+Topkapi Hat: useful
 Tourmaline Ring: unknown
 Tournesol: unknown
 Traitor's Bow: unknown
 Traveler's Vestment: unknown
 Trident: unknown
+Tumulus: useful
 Turtleshell Choker: unknown
 Ultima Blade: unknown
 Ultima: unknown
-Vanish: unknown
+Vanish: useful
 Venetian Shield: unknown
 Volcano: unknown
 Vox: unknown
-Vrscika: unknown
+Vrscika: useful
 War Hammer: unknown
 Water Bombs: unknown
 Whale Whisker: unknown

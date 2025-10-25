@@ -1,48 +1,59 @@
-AETHER TRANSLATOR: unknown
-AUG COMBAT_EXPLOSIVE: unknown
+AETHER TRANSLATOR: progression
+AUG ANCIENT_REPLICATOR: useful
+AUG COMBAT_EXPLOSIVE: filler
 AUG COMBAT_IONSTORM: useful
-AUG COMBAT_OXYGEN_UNSTABLE: unknown
-AUG COMBAT_SHIELDS_JAMMER: unknown
-AUG CURA_SURGES_DRONES: unknown
-AUG EMERGENCY_DRIVE: unknown
+AUG COMBAT_OXYGEN_UNSTABLE: filler
+AUG COMBAT_SHIELDS_JAMMER: useful
+AUG CURA_SURGES_DRONES: useful
+AUG EMERGENCY_DRIVE: filler
 AUG MULTIVERSE_DRIVE_GOOD: useful
-AUG PALADIN_ARMOR: unknown
-AUG PANDORA_BOX: unknown
-Ancient Wastelands Sector: unknown
-CURA's Easy Tasks: unknown
-Coalition Sector: unknown
-Coalition Stronghold Sector: unknown
-Confederate Sector: unknown
-Dynasty Sector: unknown
-EVENT FREE_ITEM: unknown
-EX_BACKUP_DNA: unknown
-EX_DEFENSE_SCRAMBLER: unknown
-EX_ION_ARMOR: unknown
-EX_MEDBAY_NANO: unknown
-EX_O2_MASKS: unknown
-EX_SHIELD_RECHARGE: unknown
-Emancipated Sanctuary Sector: unknown
-Federation Embassy Sector: unknown
-Gathering Gardenworlds Sector: unknown
-Hive Broodworlds Sector: unknown
-Illesctrian Oasis Sector: unknown
-Imperial New-Homelands Sector: unknown
-Ministry Sector: unknown
-Progressive AUG STORE_BEACON_SUPER: unknown
-Progressive Clone Bay: unknown
-Progressive Doors: unknown
-Progressive Hacking: unknown
-Progressive Med Bay: unknown
-Progressive Mind Control: unknown
-Progressive Sensors: unknown
-Separatisit Sector: unknown
-Starting Drones x2: unknown
-Starting Fuel x5: unknown
-Starting Missiles x2: unknown
-Starting Scrap x25: unknown
-The Jerome Protectorate Sector: unknown
-Theocracy Sector: unknown
+AUG MVBOSS_SPAWNER: progression
+AUG ORCHID_KIDS : filler
+AUG PALADIN_ARMOR: useful
+AUG PANDORA_BOX: trap
+Ancient Wastelands Sector: progression
+CURA's Easy Tasks: useful
+Coalition Sector: progression
+Coalition Stronghold Sector: progression
+Confederate Sector: progression
+Dynasty Sector: progression
+EVENT FREE_ITEM: filler
+EX_BACKUP_DNA: useful
+EX_DEFENSE_SCRAMBLER: useful
+EX_FTL_BOOSTER: filler
+EX_ION_ARMOR: useful
+EX_MEDBAY_NANO: useful
+EX_O2_MASKS: useful
+EX_SHIELD_RECHARGE: useful
+Emancipated Sanctuary Sector: progression
+Emancipation Grills: useful
+Federation Embassy Sector: progression
+Gathering Gardenworlds Sector: progression
+Hacked Union Sector: progression
+Hive Broodworlds Sector: progression
+Illesctrian Oasis Sector: progression
+Imperial New-Homelands Sector: progression
+Ministry Capital Sector: progression
+Ministry Sector: progression
+Outcast Sector: progression
+Progressive AUG SLUG_GEL: useful
+Progressive AUG STORE_BEACON_SUPER: useful
+Progressive Clone Bay: progression
+Progressive Doors: progression
+Progressive Hacking: progression
+Progressive Med Bay: progression
+Progressive Mind Control: progression
+Progressive Sensors: progression
+Republican [Sale!] Sector: progression
+Separatisit Sector: progression
+Starting Drones x2: filler
+Starting Fuel x5: filler
+Starting Missiles x2: filler
+Starting Scrap x25: filler
+The Jerome Protectorate Sector: progression
+Theocracy Sector: progression
 Unexplored Sector: progression
-Union Sector: unknown
+Union Sector: progression
 Vagabond Sector: progression
-Withers: unknown
+Wentworth Headquarters Sector: progression
+Withers: progression

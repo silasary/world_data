@@ -3,7 +3,7 @@ Bone: unknown
 Book: progression
 Buried Treasure: unknown
 Chest: unknown
-Clock: unknown
+Clock: progression
 Cloudy Day: unknown
 Coin: progression
 Combination Vault: unknown
@@ -26,6 +26,6 @@ Sword: progression
 TEILRT: unknown
 Tower: progression
 Under Construction: unknown
-X-Ray Device: unknown
+X-Ray Device: progression
 You: unknown
 untitled-DRAFT: unknown

@@ -8,12 +8,12 @@ Blits Nest: trap
 Blits Trap: trap
 Bundle of Ammo: filler
 CFIS Ammo: filler
-CYBERNETIC ENDURANCE: unknown
+CYBERNETIC ENDURANCE: useful
 Clown Shoes Trap: trap
 Clown Shoes: trap
 Crack Stat: progression
-ELECTRONIC MASTERY: unknown
-Fire Anytime: unknown
+ELECTRONIC MASTERY: useful
+Fire Anytime: progression
 GLORY: progression
 Health Pickup: filler
 Health Stat: progression
@@ -35,8 +35,10 @@ Rocket Ammo: filler
 Rocket to the Face Trap: trap
 Rocket to the Face: trap
 SUPPRESSION: progression
+Sector 2 Access: progression
 Sector 3 Access: progression
 Sector 4 Access: progression
+Sector 6 Access: progression
 Sector 8 Access: progression
 Sector 9 Access: progression
 Sector Access: progression
@@ -47,4 +49,4 @@ Supercharge: useful
 Tasen Stat: progression
 Turbo Mode: trap
 Turbo Trap: trap
-VENGEANCE: unknown
+VENGEANCE: useful

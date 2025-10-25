@@ -1,15 +1,15 @@
-1 Diamond: unknown
-2 Diamonds: unknown
-3 Diamonds: unknown
-4 Diamonds: unknown
+1 Diamond: filler
+2 Diamonds: filler
+3 Diamonds: filler
+4 Diamonds: filler
 Apple: unknown
 Aria: unknown
 Axe: unknown
 Backpack: unknown
 Ballet Shoes: unknown
-Bard: unknown
+Bard: progression
 Battle Shovel: unknown
-Beastmaster: unknown
+Beastmaster: useful
 Berserk Scroll: unknown
 Berserk Spell: unknown
 Blood Drum: unknown
@@ -17,7 +17,7 @@ Blood Shovel: unknown
 Blunderbuss: unknown
 Bolt: unknown
 Bomb Charm: unknown
-Bomb Spell: unknown
+Bomb Spell: useful
 Boots of Leaping: unknown
 Boots of Lunging: unknown
 Boots of Pain: unknown
@@ -32,31 +32,32 @@ Chainmail: unknown
 Charm Spell: unknown
 Cheese: unknown
 Circlet of Telepathy: unknown
+Codex: progression
 Compass: unknown
 Cookies: unknown
 Coupon: unknown
 Crossbow: unknown
 Crown of Teleportation: unknown
-Crown of Thorns: unknown
+Crown of Thorns: useful
 Crystal Shovel: unknown
 Cursed Heart Container: unknown
 Cursed Potion: unknown
 Cutlass: unknown
 Dash Spell: unknown
 Diamond Dealer: unknown
-Diamond: unknown
+Diamond: progression
 Dorian: unknown
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
 Double Heart Container: unknown
 Dove Familiar: unknown
-Dove: unknown
+Dove: progression
 Drumstick: unknown
 Earth Spell: unknown
 Earth Tome: unknown
 Earthquake Scroll: unknown
 Electric Dagger: unknown
-Eli: unknown
+Eli: progression
 Empty Heart Container: unknown
 Enchant Weapon Scroll: unknown
 Explorers Boots: unknown
@@ -64,10 +65,10 @@ Fear Scroll: unknown
 Fireball Scroll: unknown
 Fireball Spell: unknown
 Freeze Scroll: unknown
-Freeze Tome: unknown
+Freeze Tome: useful
 Frost Charm: unknown
 Frost Dagger: unknown
-Full Heal: unknown
+Full Heal: filler
 Glass Armor: unknown
 Glass Jaw: unknown
 Glass Shovel: unknown
@@ -76,45 +77,51 @@ Glass Torch: unknown
 Gluttony Charm: unknown
 Grenade Charm: unknown
 Ham: unknown
-Hard Mode: unknown
+Hard Mode: progression
 Hargreaves: unknown
 Harp: unknown
 Heart Container: unknown
-Heavy Glass Armor: unknown
+Heavy Glass Armor: useful
 Heavy Plate: unknown
-Helm: unknown
+Heavy Shield: useful
+Helm: useful
+Hintmaster: progression
 Holster: unknown
 Ice Spirit Familiar: unknown
 Infernal Torch: unknown
-Instant Gold (200): unknown
-Instant Gold (50): unknown
+Instant Gold (200): filler
+Instant Gold (50): filler
+Janitor: progression
 Jeweled Dagger: unknown
-Karate Gi: unknown
+Karate Gi: useful
+Klarinetta: progression
 Lead Boots: unknown
 Leather Armor: unknown
 Longsword: unknown
-Low Percent Mode: unknown
-Luminous Torch: unknown
+Low Percent Mode: progression
+Luminous Torch: useful
 Magic Apple: unknown
 Magic Carrot: unknown
 Magic Cheese: unknown
 Magic Cookies: unknown
 Magic Drumstick: unknown
 Map: unknown
-Melody: unknown
+Mary: progression
+Melody: progression
 Merlin: unknown
 Miku: unknown
 Miner's Cap: unknown
-Monk: unknown
+Monk: progression
 Monkey's Paw: unknown
 Monocle: unknown
 Nazar Charm: unknown
+No Beat Mode: progression
 Nocturna: unknown
 Obsidian Armor: unknown
 Obsidian Shield: unknown
-Obsidian Shovel: unknown
+Obsidian Shovel: useful
 Obsidian Torch: unknown
-Pack of Holding: unknown
+Pack of Holding: useful
 Phasing Dagger: unknown
 Pickaxe: unknown
 Plate Armor: unknown
@@ -123,15 +130,15 @@ Pulse Scroll: unknown
 Pulse Spell: unknown
 Pulse Tome: unknown
 Quartz Armor: unknown
-Randomizer Mode: unknown
+Randomizer Mode: progression
 Rapier: unknown
 Rat Familiar: unknown
-Reaper: unknown
-Reflective Shield: unknown
+Reaper: progression
+Reflective Shield: useful
 Rifle: unknown
 Ring of Becoming: unknown
 Ring of Charisma: unknown
-Ring of Courage: unknown
+Ring of Courage: useful
 Ring of Frost: useful
 Ring of Gold: unknown
 Ring of Luck: unknown
@@ -139,8 +146,8 @@ Ring of Mana: unknown
 Ring of Pain: unknown
 Ring of Peace: unknown
 Ring of Phasing: unknown
-Ring of Piercing: unknown
-Ring of Protection: unknown
+Ring of Piercing: useful
+Ring of Protection: useful
 Ring of Regeneration: unknown
 Ring of Shielding: unknown
 Ring of War: unknown
@@ -151,12 +158,13 @@ Shield Spell: unknown
 Shield Tome: unknown
 Shield of Shove: unknown
 Shield of Strength: unknown
+Shop Stock Unlock: progression
 Shopkeeper Familiar: useful
-Shovel of Courage: unknown
+Shovel of Courage: useful
 Shovel of Strength: unknown
 Spear: unknown
 Spiked Ears: unknown
-Staff: unknown
+Staff: useful
 Strength Charm: unknown
 Sunglasses: unknown
 Suzu: unknown
@@ -171,11 +179,11 @@ Torch of Walls: unknown
 Torch: unknown
 Transmute Scroll: unknown
 Transmute Spell: unknown
-Transmute Tome: unknown
+Transmute Tome: useful
 Trident: unknown
 War Drum: unknown
 Warhammer: unknown
-Weaponmaster: unknown
-Whip: unknown
+Weaponmaster: useful
+Whip: useful
 Winged Boots: unknown
 Wooden Shield: unknown

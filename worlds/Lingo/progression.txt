@@ -22,7 +22,7 @@ Challenge Room - Welcome Door: progression
 Champion's Rest - Entrance: progression
 Color Hunt - BLUE (Panel): progression
 Color Hunt - EXIT (Panel): progression
-Color Hunt - GREEN (Panel): unknown
+Color Hunt - GREEN (Panel): progression
 Color Hunt - Green Barrier: progression
 Color Hunt - ORANGE (Panel): progression
 Color Hunt - Orange Barrier: progression
@@ -37,7 +37,7 @@ Compass Room - Lookout Entrance: progression
 Compass Room Panels: progression
 Courtyard - Backside Door: progression
 Courtyard - Green Barrier: progression
-Courtyard - Ordinal Panels: unknown
+Courtyard - Ordinal Panels: progression
 Crossroads - BEND HI (Panel): progression
 Crossroads - DECAY (Panel): progression
 Crossroads - Eye Wall: progression
@@ -122,11 +122,11 @@ Outside The Agreeable - Black Door: progression
 Outside The Agreeable - CLOSE (Panel): progression
 Outside The Agreeable - Hallway Door: unknown
 Outside The Agreeable - Lookout Entrance: progression
-Outside The Agreeable - MASSACRED (Panel): unknown
+Outside The Agreeable - MASSACRED (Panel): progression
 Outside The Agreeable - Purple Barrier: progression
 Outside The Agreeable - RIGHT (Panel): progression
 Outside The Agreeable - Tenacious Entrance: progression
-Outside The Bold - BEGIN (Panel): unknown
+Outside The Bold - BEGIN (Panel): progression
 Outside The Bold - UNOPEN (Panel): progression
 Outside The Initiated - Blue Barrier: progression
 Outside The Initiated - Eight Door: progression
@@ -170,9 +170,9 @@ Rhyme Room (Looped Square) - Door to Target: progression
 Rhyme Room (Smiley) - Door to Target: progression
 Rhyme Room (Target) - Door to Cross: progression
 Rhyme Room Doors: progression
-Room Room - BROOMED, LAYS, BASE (Panels): unknown
+Room Room - BROOMED, LAYS, BASE (Panels): progression
 Room Room - Cellar Exit: progression
-Room Room - STAIRS (Panel): unknown
+Room Room - STAIRS (Panel): progression
 Second Room - Exit Door: progression
 Slowness Trap: trap
 Speed Boost: useful

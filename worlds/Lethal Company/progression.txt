@@ -16,9 +16,9 @@ Birthday Gift: useful
 Boombox: useful
 BrackenTrap: trap
 Clone Scrap: filler
-Company Building: unknown
+Company Building: progression
 Company Credit: progression
-Cruiser: unknown
+Cruiser: progression
 Dine: unknown
 Double-Barreled Shotgun: unknown
 Experimentation: progression
@@ -31,7 +31,7 @@ InverseTeleporter: useful
 Jetpack: progression
 Less Time: trap
 Lockpicker: filler
-LoudHorn: unknown
+LoudHorn: progression
 March: progression
 Money: filler
 More Time: useful

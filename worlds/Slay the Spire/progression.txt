@@ -41,11 +41,11 @@ Champ Shop Relic Slot: progression
 Champ Unlock: progression
 Collector 15 Gold: useful
 Collector 30 Gold: useful
-Collector Boss Gold: unknown
+Collector Boss Gold: progression
 Collector Boss Relic: progression
 Collector Card Draw: progression
 Collector Five Gold: filler
-Collector Neutral Shop Card Slot: unknown
+Collector Neutral Shop Card Slot: progression
 Collector One Gold: filler
 Collector Potion: useful
 Collector Progressive Rest: progression
@@ -63,7 +63,7 @@ Custom Character 1 30 gold: progression
 Custom Character 1 Boss Gold: progression
 Custom Character 1 Boss Relic: progression
 Custom Character 1 Card Draw: progression
-Custom Character 1 Card Reward: unknown
+Custom Character 1 Card Reward: progression
 Custom Character 1 Five Gold: filler
 Custom Character 1 Neutral Shop Card Slot: progression
 Custom Character 1 One Gold: filler
@@ -72,7 +72,7 @@ Custom Character 1 Progressive Rest: progression
 Custom Character 1 Progressive Shop Remove: progression
 Custom Character 1 Progressive Smith: progression
 Custom Character 1 Rare Card Draw: progression
-Custom Character 1 Rare Card Reward: unknown
+Custom Character 1 Rare Card Reward: progression
 Custom Character 1 Relic: progression
 Custom Character 1 Shop Card Slot: progression
 Custom Character 1 Shop Potion Slot: progression
@@ -170,7 +170,7 @@ Defect Progressive Rest: progression
 Defect Progressive Shop Remove: progression
 Defect Progressive Smith: progression
 Defect Rare Card Draw: progression
-Defect Rare Card Reward: unknown
+Defect Rare Card Reward: progression
 Defect Relic: progression
 Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
@@ -179,8 +179,8 @@ Defect Unlock: progression
 Gremlin Trap: trap
 Gremlins 15 Gold: useful
 Gremlins 30 Gold: useful
-Gremlins Boss Gold: unknown
-Gremlins Boss Relic: unknown
+Gremlins Boss Gold: progression
+Gremlins Boss Relic: progression
 Gremlins Card Draw: progression
 Gremlins Five Gold: filler
 Gremlins Neutral Shop Card Slot: progression
@@ -194,7 +194,7 @@ Gremlins Relic: progression
 Gremlins Shop Card Slot: progression
 Gremlins Shop Potion Slot: progression
 Gremlins Shop Relic Slot: progression
-Gremlins Unlock: unknown
+Gremlins Unlock: progression
 Guardian 15 Gold: useful
 Guardian 30 Gold: useful
 Guardian Boss Gold: useful
@@ -218,16 +218,16 @@ Hermit 30 Gold: progression
 Hermit Boss Gold: progression
 Hermit Boss Relic: progression
 Hermit Card Draw: progression
-Hermit Card Reward: unknown
+Hermit Card Reward: progression
 Hermit Five Gold: filler
 Hermit Neutral Shop Card Slot: progression
 Hermit One Gold: filler
 Hermit Potion: useful
 Hermit Progressive Rest: progression
 Hermit Progressive Shop Remove: useful
-Hermit Progressive Smith: unknown
+Hermit Progressive Smith: progression
 Hermit Rare Card Draw: progression
-Hermit Rare Card Reward: unknown
+Hermit Rare Card Reward: progression
 Hermit Relic: progression
 Hermit Shop Card Slot: progression
 Hermit Shop Potion Slot: progression
@@ -236,10 +236,10 @@ Hermit Unlock: progression
 Hexaghost 15 Gold: useful
 Hexaghost 30 Gold: useful
 Hexaghost Boss Gold: progression
-Hexaghost Boss Relic: unknown
+Hexaghost Boss Relic: progression
 Hexaghost Card Draw: progression
 Hexaghost Five Gold: filler
-Hexaghost Neutral Shop Card Slot: unknown
+Hexaghost Neutral Shop Card Slot: progression
 Hexaghost One Gold: filler
 Hexaghost Potion: useful
 Hexaghost Progressive Rest: progression
@@ -334,7 +334,7 @@ Snecko Shop Relic Slot: progression
 Snecko Unlock: progression
 Status Card Trap: trap
 Strong Buff Trap: trap
-Strong Debuff Trap: unknown
+Strong Debuff Trap: trap
 Watcher 15 Gold: filler
 Watcher 30 Gold: progression
 Watcher Ascension Down: useful
@@ -347,7 +347,7 @@ Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
 Watcher Potion: useful
 Watcher Progressive Rest: progression
-Watcher Progressive Shop Remove: unknown
+Watcher Progressive Shop Remove: progression
 Watcher Progressive Smith: progression
 Watcher Rare Card Draw: progression
 Watcher Rare Card Reward: progression

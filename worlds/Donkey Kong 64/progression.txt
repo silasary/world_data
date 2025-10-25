@@ -3,11 +3,11 @@ Angry Aztec Diddy Blueprint: mcguffin
 Angry Aztec Donkey Blueprint: mcguffin
 Angry Aztec Lanky Blueprint: filler
 Angry Aztec Tiny Blueprint: filler
-Aztec Chunky Hint: unknown
+Aztec Chunky Hint: useful
 Aztec Diddy Hint: useful
-Aztec Donkey Hint: unknown
-Aztec Lanky Hint: unknown
-Aztec Tiny Hint: unknown
+Aztec Donkey Hint: useful
+Aztec Lanky Hint: useful
+Aztec Tiny Hint: useful
 Baboon Balloon: progression
 Baboon Blast: progression
 Banana Fairy: mcguffin
@@ -16,17 +16,17 @@ Banana Medal: mcguffin
 Barrels: progression
 Battle Crown: mcguffin
 Bongos: progression
-Bubble Trap: unknown
+Bubble Trap: trap
 Candy: progression
-Castle Chunky Hint: unknown
+Castle Chunky Hint: useful
 Castle Diddy Hint: useful
-Castle Donkey Hint: unknown
-Castle Lanky Hint: unknown
-Castle Tiny Hint: unknown
-Caves Chunky Hint: unknown
+Castle Donkey Hint: useful
+Castle Lanky Hint: useful
+Castle Tiny Hint: useful
+Caves Chunky Hint: useful
 Caves Diddy Hint: useful
-Caves Donkey Hint: unknown
-Caves Lanky Hint: unknown
+Caves Donkey Hint: useful
+Caves Lanky Hint: useful
 Caves Tiny Hint: useful
 Chimpy Charge: progression
 Chunky Blueprint: mcguffin
@@ -49,29 +49,29 @@ DK Isles Diddy Blueprint: mcguffin
 DK Isles Donkey Blueprint: progression
 DK Isles Lanky Blueprint: filler
 DK Isles Tiny Blueprint: filler
-Diddy Blueprint: unknown
+Diddy Blueprint: progression
 Diddy: progression
-Disable A Trap: unknown
-Disable B Trap: unknown
-Disable C Up Trap: unknown
-Disable Z Trap: unknown
+Disable A Trap: trap
+Disable B Trap: trap
+Disable C Up Trap: trap
+Disable Z Trap: trap
 Diving: progression
 Donkey Blueprint: mcguffin
 Donkey: progression
-Dry Trap: unknown
-Factory Chunky Hint: unknown
-Factory Diddy Hint: unknown
-Factory Donkey Hint: unknown
+Dry Trap: trap
+Factory Chunky Hint: useful
+Factory Diddy Hint: useful
+Factory Donkey Hint: useful
 Factory Lanky Hint: useful
-Factory Tiny Hint: unknown
+Factory Tiny Hint: useful
 Fairy Camera: progression
 Feather: progression
 Flip Trap: unknown
-Forest Chunky Hint: unknown
-Forest Diddy Hint: unknown
-Forest Donkey Hint: unknown
-Forest Lanky Hint: unknown
-Forest Tiny Hint: unknown
+Forest Chunky Hint: useful
+Forest Diddy Hint: useful
+Forest Donkey Hint: useful
+Forest Lanky Hint: useful
+Forest Tiny Hint: useful
 Frantic Factory Chunky Blueprint: mcguffin
 Frantic Factory Diddy Blueprint: mcguffin
 Frantic Factory Donkey Blueprint: filler
@@ -83,12 +83,12 @@ Fungi Forest Donkey Blueprint: mcguffin
 Fungi Forest Lanky Blueprint: progression
 Fungi Forest Tiny Blueprint: mcguffin
 Funky: progression
-Galleon Chunky Hint: unknown
-Galleon Diddy Hint: unknown
-Galleon Donkey Hint: unknown
-Galleon Lanky Hint: unknown
-Galleon Tiny Hint: unknown
-Get Out Trap: unknown
+Galleon Chunky Hint: useful
+Galleon Diddy Hint: useful
+Galleon Donkey Hint: useful
+Galleon Lanky Hint: useful
+Galleon Tiny Hint: useful
+Get Out Trap: trap
 Gloomy Galleon Chunky Blueprint: mcguffin
 Gloomy Galleon Diddy Blueprint: mcguffin
 Gloomy Galleon Donkey Blueprint: mcguffin
@@ -101,15 +101,15 @@ Grape: progression
 Guitar: progression
 Homing Ammo: useful
 Hunky Chunky: progression
-Ice Floor Trap: unknown
+Ice Floor Trap: trap
 Ice Trap (Bubble): trap
 Ice Trap (Reverse): trap
 Ice Trap (Slow): trap
 Japes Chunky Hint: useful
-Japes Diddy Hint: unknown
-Japes Donkey Hint: unknown
-Japes Lanky Hint: unknown
-Japes Tiny Hint: unknown
+Japes Diddy Hint: useful
+Japes Donkey Hint: useful
+Japes Lanky Hint: useful
+Japes Tiny Hint: useful
 Jungle Japes Chunky Blueprint: progression
 Jungle Japes Diddy Blueprint: mcguffin
 Jungle Japes Donkey Blueprint: mcguffin
@@ -124,7 +124,7 @@ Key 5: progression
 Key 6: progression
 Key 7: progression
 Key 8: progression
-Lanky Blueprint: unknown
+Lanky Blueprint: progression
 Lanky: progression
 Mini Monkey: progression
 Monkeyport: progression
@@ -132,7 +132,7 @@ Nintendo Coin: progression
 Oranges: progression
 Orangstand Sprint: progression
 Orangstand: progression
-Paper Trap: unknown
+Paper Trap: trap
 Peanut: progression
 Pearl: mcguffin
 Pineapple: progression
@@ -143,16 +143,17 @@ Progressive Instrument Upgrade: progression
 Progressive Slam: progression
 Rainbow Coin: useful
 Rareware Coin: progression
+Reverse Trap: trap
 Rocketbarrel Boost: progression
 Saxophone: progression
 Shockwave: progression
 Simian Spring: progression
-Slip Trap: unknown
+Slip Trap: trap
 Snide: progression
 Sniper Sight: progression
 Strong Kong: progression
 The Bean: progression
-Tiny Blueprint: unknown
+Tiny Blueprint: progression
 Tiny: progression
 Triangle: progression
 Trombone: progression

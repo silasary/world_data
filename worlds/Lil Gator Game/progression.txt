@@ -1,7 +1,7 @@
 An Actual Digital Camera (Craft): filler
 An Actual Digital Camera: unknown
 Art Palette (Craft): progression
-Art Palette: unknown
+Art Palette: progression
 Artsy Beret (Craft): filler
 Artsy Beret: unknown
 Balloon (Item): useful
@@ -11,7 +11,7 @@ Big Leaf: unknown
 Blue Scooter Board (Craft): progression
 Blue Scooter Board: unknown
 Bowling Bomb (Item): useful
-Bowling Bomb: unknown
+Bowling Bomb: useful
 Bracelet: progression
 Broken Scooter Board: progression
 Bubble Gum (Item): useful
@@ -24,7 +24,7 @@ Cardboard Spear (Craft): filler
 Cardboard Spear: unknown
 Cheese Sandwich: progression
 Chessboard (Craft): progression
-Chessboard: unknown
+Chessboard: progression
 Craft Stuff x15: filler
 Craft Stuff x30: filler
 Detective Cowl (Craft): filler
@@ -34,14 +34,14 @@ Friend x2: mcguffin
 Friend x3: mcguffin
 Friend x4: mcguffin
 Friend: mcguffin
-Giant Socks: unknown
+Giant Socks: progression
 Glider: progression
 Grabby Hand (Item): filler
-Grabby Hand: unknown
+Grabby Hand: progression
 Grass Clippings: progression
 Guitar of Space: unknown
 Inner Tube (Craft): progression
-Inner Tube: unknown
+Inner Tube: progression
 Key: unknown
 Laser Sword (Craft): progression
 Laser Sword: unknown
@@ -58,17 +58,17 @@ Oar: unknown
 Oversized Pencil (Craft): progression
 Oversized Pencil: progression
 Paint Blaster (Item): progression
-Paint Blaster: unknown
+Paint Blaster: progression
 Paintbrush (Craft): progression
 Paintbrush: unknown
 Paleolithic Tool (Item): progression
-Paleolithic Tool: unknown
+Paleolithic Tool: progression
 Plastic Fangs (Item): filler
 Plastic Fangs: unknown
 Platter (Item): progression
-Platter: unknown
+Platter: progression
 Pointy Floppy Thing (Craft): progression
-Pointy Floppy Thing: unknown
+Pointy Floppy Thing: progression
 Pot Lid (Item): progression
 Pot Lid: progression
 Pot?: progression
@@ -84,10 +84,10 @@ Shuriken: unknown
 Skateboard (Craft): progression
 Skateboard: unknown
 Skater Helmet (Craft): filler
-Skater Helmet: unknown
+Skater Helmet: filler
 Skipping Rock (Item): useful
 Skipping Rock: unknown
-Sleep Mask: unknown
+Sleep Mask: progression
 Slime Hat (Craft): filler
 Slime Hat: unknown
 Sorbet: progression
@@ -100,7 +100,7 @@ Stick: unknown
 Sticky Hand (Item): filler
 Sticky Hand: unknown
 Sword (Item): progression
-Sword: unknown
+Sword: progression
 Texting With Jill (Item): unknown
 Texting With Jill: unknown
 Thrown Pencil: progression
@@ -108,11 +108,11 @@ Tiger Form: progression
 Tower Shield (Craft): progression
 Tower Shield: unknown
 Trampoline (Item): progression
-Trampoline: unknown
+Trampoline: progression
 Trash Can Lid (Item): progression
 Trash Can Lid: unknown
 Water: progression
 Western Wide Brim (Item): filler
-Western Wide Brim: unknown
+Western Wide Brim: filler
 Wrench (Item): progression
 Wrench: unknown

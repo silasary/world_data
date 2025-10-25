@@ -1,134 +1,353 @@
 A Job Well Done: filler
-A: unknown
+A: progression
 Age Symbol: progression
-Anagram Symbol: unknown
-B: unknown
-Boxes Symbol: unknown
-C: unknown
-Control Center - Between Door: unknown
-Control Center - Front Door: unknown
-Control Center - X1 Door: unknown
-Control Center Orange Doors: unknown
+Anagram Symbol: progression
+B: progression
+Boxes Symbol: progression
+C: progression
+Control Center - Ancient Entrance: progression
+Control Center - Between Door: progression
+Control Center - Desert Door: progression
+Control Center - Front Door: progression
+Control Center - Partial Door: progression
+Control Center - Repetitive Entrance: progression
+Control Center - Shop Door: progression
+Control Center - Stormy Entrance: progression
+Control Center - Unyielding Door: progression
+Control Center - X1 Door: progression
+Control Center Blue Doors: progression
+Control Center Brown Doors: progression
+Control Center Orange Doors: progression
+Control Center Purple Doors: progression
+Control Center White Doors: progression
 Cross Symbol: progression
-D: unknown
-Daedalus - Amber East Doors: unknown
-Daedalus - Amber North Door: unknown
-Daedalus - Bee Room Back Door: unknown
+Cyan Doors: progression
+D: progression
+Daedalus - Amber East Doors: progression
+Daedalus - Amber North Door: progression
+Daedalus - Amber South Door: progression
+Daedalus - Bee Room Back Door: progression
 Daedalus - Bee Room Entrance: unknown
+Daedalus - Black Hexes Door: progression
+Daedalus - Blue Color Backside: progression
+Daedalus - Blue Color Doorway: progression
+Daedalus - Blue Foyer Door: progression
+Daedalus - Blue Hallway North Divider: progression
+Daedalus - Blue Hallway South Divider: progression
+Daedalus - Blue Room Entrance: progression
 Daedalus - Blue Smiley Entrance: unknown
-Daedalus - Castle Drawbridge: unknown
-Daedalus - Checkered Door: unknown
-Daedalus - Composite Room North Door: unknown
-Daedalus - Composite Room West Door: unknown
-Daedalus - Computer Room Interior Door: unknown
-Daedalus - Dark Light Room Entrance: unknown
-Daedalus - Entry Shortcut Secret Exit: unknown
+Daedalus - Book Room Entrance: progression
+Daedalus - Book Room Exit: progression
+Daedalus - Castle Drawbridge: progression
+Daedalus - Checkered Door: progression
+Daedalus - Composite Room NE Entrance: progression
+Daedalus - Composite Room NW Entrance: progression
+Daedalus - Composite Room North Door: progression
+Daedalus - Composite Room West Door: progression
+Daedalus - Computer Room Back Door: progression
+Daedalus - Computer Room Entrance: progression
+Daedalus - Computer Room Exit: progression
+Daedalus - Computer Room Interior Door: progression
+Daedalus - Cyan Room Entrance: progression
+Daedalus - Dark Light Room Divider: progression
+Daedalus - Dark Light Room Entrance: progression
+Daedalus - Dark Light Room Exit: progression
+Daedalus - Entry Shortcut Secret Exit: progression
+Daedalus - Eye Painting Exit: progression
+Daedalus - Eye Painting: progression
+Daedalus - F Keyholder Door: progression
 Daedalus - F2 Room Entrance: unknown
-Daedalus - Flip Painting Blocker: unknown
-Daedalus - Globe Room East Door: unknown
-Daedalus - Globe Room South Door: unknown
-Daedalus - Hedges Entrance: unknown
+Daedalus - F2 Room Northwest Door: progression
+Daedalus - F2 Room Southwest Door: progression
+Daedalus - F2 Room West Door: progression
+Daedalus - Flip Painting Blocker: progression
+Daedalus - Globe Room East Door: progression
+Daedalus - Globe Room South Door: progression
+Daedalus - Globe Room West Door: progression
+Daedalus - Godot Room Entrance: progression
+Daedalus - Godot Room Exit: progression
+Daedalus - Gourd Door: progression
+Daedalus - Green Smiley: progression
+Daedalus - Hedges Entrance: progression
+Daedalus - Hotel Entrance: progression
+Daedalus - House Entrance: progression
+Daedalus - House Side Door: progression
+Daedalus - Intense Room Entrance: progression
+Daedalus - Magic Room Entrance: progression
+Daedalus - Maze East Door: progression
+Daedalus - Maze North Door: progression
 Daedalus - Maze South Door: unknown
-Daedalus - Near Yellow Room Door: unknown
+Daedalus - Near Flip Painting Door: progression
+Daedalus - Near Pyramid Gate: progression
+Daedalus - Near Sweet Brown Door: progression
+Daedalus - Near Yellow Room Door: progression
 Daedalus - O2 Room Back Door: unknown
-Daedalus - Orange Smiley Exit: unknown
-Daedalus - Pairs Room West Door: unknown
-Daedalus - Planet Room Divider: unknown
-Daedalus - Planet Room Secret Door: unknown
-Daedalus - Purple East Area South Door: unknown
-Daedalus - Purple Room East Entrance: unknown
-Daedalus - Purple Room North Entrance: unknown
-Daedalus - Purple Room South Entrance: unknown
-Daedalus - Purple West Area North Door: unknown
-Daedalus - Rainbow Rooms Entrance: unknown
-Daedalus - Salt Room Entrance: unknown
+Daedalus - O2 Room Northeast Door: progression
+Daedalus - O2 Room Southeast Door: progression
+Daedalus - Orange Smiley Exit: progression
+Daedalus - Pains Room Divider: progression
+Daedalus - Pairs Room East Door: progression
+Daedalus - Pairs Room North And South Doors: progression
+Daedalus - Pairs Room West Door: progression
+Daedalus - Pepper Room Entrance: progression
+Daedalus - Pink Hallway: progression
+Daedalus - Planet Room Divider: progression
+Daedalus - Planet Room Secret Door: progression
+Daedalus - Plum Room Entrance: progression
+Daedalus - Plum Room Exit: progression
+Daedalus - Pumpkin Door: progression
+Daedalus - Pumpkin Room Interior: progression
+Daedalus - Purple East Area North Door: progression
+Daedalus - Purple East Area South Door: progression
+Daedalus - Purple NW Vestibule: progression
+Daedalus - Purple Room East Entrance: progression
+Daedalus - Purple Room North Entrance: progression
+Daedalus - Purple Room South Entrance: progression
+Daedalus - Purple Room West Entrance: progression
+Daedalus - Purple SE Vestibule: progression
+Daedalus - Purple SW Vestibule: progression
+Daedalus - Purple West Area North Door: progression
+Daedalus - Purple West Area South Door: progression
+Daedalus - Purple West Area West Door: progression
+Daedalus - Pyramid Entrance: progression
+Daedalus - Rainbow Rooms Entrance: progression
+Daedalus - Red Room Entrance: progression
+Daedalus - Red Smiley Entrance: progression
+Daedalus - Roof Access: progression
+Daedalus - Salt Room Entrance: progression
+Daedalus - Seasoning Doors: progression
+Daedalus - Snake Room Entrance: progression
+Daedalus - South Castle Area Back Door: progression
+Daedalus - South Castle Area Entrance: progression
+Daedalus - Southwest Area Intersection: progression
 Daedalus - Splintering Exit Left Door: unknown
-Daedalus - Starting Room West Wall Center Door: unknown
-Daedalus - Temple of the Eyes Entrance: unknown
+Daedalus - Splintering Exit South Door: progression
+Daedalus - Starting Room East Wall Center Door: progression
+Daedalus - Starting Room East Wall North Door: progression
+Daedalus - Starting Room North Wall Center Door: progression
+Daedalus - Starting Room North Wall East Door: progression
+Daedalus - Starting Room North Wall West Door: progression
+Daedalus - Starting Room South Wall East Door: progression
+Daedalus - Starting Room South Wall West Door: progression
+Daedalus - Starting Room West Wall Center Door: progression
+Daedalus - Starting Room West Wall South Door: progression
+Daedalus - Sticks And Stones Door: progression
+Daedalus - Temple of the Eyes Entrance: progression
 Daedalus - U2 Room Back Door: unknown
+Daedalus - U2 Room East Door: progression
 Daedalus - U2 Room Entrance: unknown
-Daedalus - Welcome Back Secret Door: unknown
-Daedalus - Z2 Room Northeast Door: unknown
-Daedalus - Z2 Room Northwest Door: unknown
-Daedalus - Zoo North Entrance: unknown
-Daedalus - Zoo South Entrance: unknown
+Daedalus - U2 Room Southeast Door: progression
+Daedalus - U2 Room Southwest Door: progression
+Daedalus - Welcome Back Secret Door: progression
+Daedalus - Wonderland South Door: progression
+Daedalus - Yellow Room Entrance: progression
+Daedalus - Yellow Smiley Door: progression
+Daedalus - Z2 Room Back Exit: progression
+Daedalus - Z2 Room Northeast Door: progression
+Daedalus - Z2 Room Northwest Door: progression
+Daedalus - Z2 Room Southeast Door: progression
+Daedalus - Z2 Room Southwest Door: progression
+Daedalus - Zoo East Entrance: progression
+Daedalus - Zoo North Entrance: progression
+Daedalus - Zoo South Entrance: progression
+Daedalus - Zoo West Entrance: progression
 E: progression
 Eval Symbol: unknown
-Example Symbol: unknown
-F: unknown
+Example Symbol: progression
+F: progression
 Four Rooms - Examples Door: unknown
-Four Rooms - Synonyms Door: unknown
-G: unknown
+Four Rooms - Intensify Door: progression
+Four Rooms - Synonyms Door: progression
+Four Rooms - Time Door: progression
+G: progression
 Gender Symbol: unknown
 H: progression
 I: progression
-J: unknown
-Job Symbol: unknown
-K: unknown
-L: unknown
-Lingo Symbol: unknown
+J: progression
+Job Symbol: progression
+K: progression
+L: progression
+Lavender Cubes: progression
+Lingo Symbol: progression
 M: progression
-N: unknown
-Null Symbol: unknown
-O: unknown
-P: unknown
-Progressive Gold Ending: unknown
-Pyramid Symbol: unknown
-Q: unknown
+N: progression
+Null Symbol: progression
+O: progression
+P: progression
+Planet Symbol: progression
+Progressive Gold Ending: progression
+Pyramid Symbol: progression
+Q: progression
 Question Symbol: progression
-R: unknown
+R: progression
 S: progression
-Sound Symbol: unknown
-Sparkles Symbol: unknown
-Sun Symbol: unknown
+Sound Symbol: progression
+Sparkles Symbol: progression
+Stars Symbol: progression
+Sun Symbol: progression
+Sweet Symbol: progression
 T: unknown
-The Bearer - Exit Door: unknown
-The Between - B2 Door: unknown
-The Between - Control Center Entrance: unknown
-The Between - Plaza Entrance: unknown
-The Colorful - Purple Side Entrance: unknown
-The Colorful - Yellow Door: unknown
-The Congruent - Flipped Yellow Door: unknown
+The Ancient - Front Door: progression
+The Bearer - Butterfly Entrance: progression
+The Bearer - Exit Door: progression
+The Bearer - Overlook Door: progression
+The Between - B2 Door: progression
+The Between - Control Center Entrance: progression
+The Between - Plaza Entrance: progression
+The Colorful - Black Door: progression
+The Colorful - Blue Door: progression
+The Colorful - Brown Door: progression
+The Colorful - Cyan Door: progression
+The Colorful - Gray Door: progression
+The Colorful - Green Door: progression
+The Colorful - Orange Door: progression
+The Colorful - Purple Door: progression
+The Colorful - Purple Side Entrance: progression
+The Colorful - Red Door: progression
+The Colorful - White Door: progression
+The Colorful - Yellow Door: progression
+The Congruent - C Keyholder Blocker: progression
+The Congruent - C2 Door: progression
+The Congruent - Flipped Magenta Door: progression
+The Congruent - Flipped Yellow Door: progression
 The Congruent - G Keyholder Blocker: unknown
-The Congruent - Obverse Magenta Door: unknown
-The Darkroom - Double Sided Entrance: unknown
+The Congruent - G2 Door: progression
+The Congruent - Obverse Magenta Door: progression
+The Congruent - Obverse Yellow Door: progression
+The Darkroom - Colorful Entrance: progression
+The Darkroom - Congruent Entrance: progression
+The Darkroom - Double Sided Entrance: progression
+The Darkroom - Second Room Entrance: progression
+The Darkroom - Third Room Entrance: progression
+The Digital - Gallery Entrance: progression
 The Digital - Tree Entrance: unknown
-The Entry - Blue Alcove Exit: unknown
-The Entry - Colored Doors Area Entrance: unknown
-The Entry - Daedalus Entrance: unknown
-The Entry - Flip Area Entrance: unknown
-The Entry - Lime Room Entrance: unknown
+The Entry - Blue Alcove Entrance: progression
+The Entry - Blue Alcove Exit: progression
+The Entry - Colored Doors Area Entrance: progression
+The Entry - Composite Room Entrance: progression
+The Entry - Corners Painting: progression
+The Entry - D Room Entrance: progression
+The Entry - Daedalus Entrance: progression
+The Entry - Flip Area Entrance: progression
+The Entry - Flipped Second Room Left Door: progression
+The Entry - Flipped Second Room Right Door: progression
+The Entry - Gallery Entrance: progression
+The Entry - L Room Entrance: progression
+The Entry - Lime Room Entrance: progression
+The Entry - Link Area Entrance: progression
 The Entry - Literate Entrance: unknown
-The Entry - Near D Room Painting: unknown
-The Entry - Noon Door: unknown
-The Entry - Red Alcove Exit: unknown
-The Entry - X Area Entrance: unknown
-The Great - Between Entrance: unknown
-The Great - Control Center Gray Door: unknown
+The Entry - Near D Room Painting: progression
+The Entry - Noon Door: progression
+The Entry - Orange Door Hider: progression
+The Entry - Parthenon Entrance: progression
+The Entry - Rabbithole Door: progression
+The Entry - Red Alcove Exit: progression
+The Entry - Red Blue Area Left Door: progression
+The Entry - Red Blue Area Right Door: progression
+The Entry - Red Room Painting: progression
+The Entry - Repetitive Entrance: progression
+The Entry - Revitalized Entrance: progression
+The Entry - Right Eye Entrance: progression
+The Entry - Scarf Door: progression
+The Entry - Second Room Left Door: progression
+The Entry - Second Room Right Door: progression
+The Entry - Shop Entrance: progression
+The Entry - Trick Door: progression
+The Entry - Trick To Shop Door: progression
+The Entry - X Area Entrance: progression
+The Gallery - Ancient Painting: progression
+The Gallery - Between Painting: progression
+The Gallery - Butterfly Painting: progression
+The Gallery - Castle Painting: progression
+The Gallery - Colorful Painting: progression
+The Gallery - Control Center Painting: progression
+The Gallery - Darkroom Painting: progression
+The Gallery - Ending Door: progression
+The Gallery - Entry Painting: progression
+The Gallery - Gallery Extension: progression
+The Gallery - Graveyard Painting: progression
+The Gallery - Rainbow Painting: progression
+The Gallery - Sun Temple Painting: progression
+The Gallery - Tree Painting: progression
+The Gallery - Unyielding Painting: progression
+The Gallery - Wise Painting: progression
+The Gallery - Wondrous Painting: progression
+The Gallery - Words Painting: progression
+The Great - Back Area Entrance: progression
+The Great - Between Entrance: progression
+The Great - Big Y: progression
+The Great - Colorful Entrance: progression
+The Great - Control Center Gray Door: progression
 The Great - Control Center Red Door: progression
-The Great - Hive Entrance: unknown
-The Great - Invisible Entrance: unknown
-The Great - Jail Entrance: unknown
-The Great - Nature Room Door: unknown
-The Great - Savory Painting: unknown
-The Great - Tower Entrance: unknown
+The Great - Courtyard Entrance: progression
+The Great - Daedalus Entrance: progression
+The Great - Digital Entrance: progression
+The Great - Hive Entrance: progression
+The Great - Invisible Entrance: progression
+The Great - Jail Entrance: progression
+The Great - Magnet Room Entrance: progression
+The Great - Nature Room Door: progression
+The Great - Near UC Painting Door: progression
+The Great - North Landscape Entrance: progression
+The Great - Pillar Room Entrance: progression
+The Great - Savory Painting: progression
+The Great - Talented Entrance: progression
+The Great - Tower Entrance: progression
+The Great - West/East Divider: progression
 The Hive - Room 8 Door: unknown
 The Impressive - Control Center Green Door: progression
-The Impressive - Side Door: unknown
-The Invisible - Maze Entrance: unknown
-The Owl - Blue Door: unknown
-The Owl - Gray Bottom Door: unknown
-The Owl - Gray Owl: unknown
-The Owl - Orange Owl: unknown
+The Impressive - Front Door: progression
+The Impressive - Side Door: progression
+The Invisible - Maze Entrance: progression
+The Literate - Door: progression
+The Nuanced - Main Room Door: progression
+The Owl - Black Owl: progression
+The Owl - Blue Door: progression
+The Owl - Blue Owl: progression
+The Owl - Brush Door: progression
+The Owl - Control Center Magenta Door: progression
+The Owl - First Door: progression
+The Owl - First Room Shortcut: progression
+The Owl - Gray Bottom Door: progression
+The Owl - Gray Owl: progression
+The Owl - Gray Top Door: progression
+The Owl - Orange Owl: progression
+The Owl - Sky Bottom Doors: progression
+The Owl - Sky Owl: progression
+The Owl - Sky Top Doors: progression
+The Owl - White Owl: progression
+The Parthenon - K2 Door: progression
+The Partial - F Door: progression
+The Partial - P Door: progression
 The Plaza - Bottom Right Door: unknown
-The Plaza - Sirenic Entrance: unknown
-The Plaza - Symbolic Entrance: unknown
+The Plaza - Northeast Door: progression
+The Plaza - Sirenic Entrance: progression
+The Plaza - Southeast Door: progression
+The Plaza - Southwest Door: progression
+The Plaza - Symbolic Entrance: progression
 The Plaza - Top Right Door: unknown
-The Repetitive - Cyan Door: unknown
-The Tenacious - Paintings Door: unknown
-U: unknown
-V: unknown
+The Plaza - Turtle Entrance: progression
+The Repetitive - Anti-Collectable Room: progression
+The Repetitive - Cyan Door: progression
+The Repetitive - Dot Area Entrance: progression
+The Repetitive - Lime Door: progression
+The Repetitive - Magenta Door: progression
+The Repetitive - Plaza Entrance: progression
+The Sirenic - Entrance: progression
+The Sun Temple - Entrance: progression
+The Symbolic - Tutorial Door: progression
+The Talented - Main Room Door: progression
+The Tenacious - Paintings Door: progression
+The Tower - First Floor Door: progression
+The Unkempt - East Door: progression
+The Unyielding - Bearer Entrance: progression
+The Unyielding - Nuanced Entrance: progression
+The Wise - Front Door: progression
+The Wondrous - Shrink Door: progression
+U: progression
+V: progression
 W: progression
 X: progression
 Y: progression
 Z: progression
+Zero Symbol: progression

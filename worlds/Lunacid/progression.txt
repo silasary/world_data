@@ -2,17 +2,17 @@ Accursed Door Key: progression
 Accursed Tomb Switch Keyring: useful
 Angel Feather: filler
 Antidote: filler
-Ashen Doors Keyring: unknown
+Ashen Doors Keyring: progression
 Ashes: filler
 Axe of Harming: progression
-Ballroom Side Rooms Keyring: unknown
+Ballroom Side Rooms Keyring: progression
 Barrier: progression
 Battle Axe: unknown
 Bestial Communion: progression
 Bestial Mastery: unknown
 Black Book: progression
 Blade of Jusztina: progression
-Blade of Ophelia: unknown
+Blade of Ophelia: useful
 Bleed Trap: trap
 Blessed Wind: useful
 Blindness Trap: trap
@@ -20,17 +20,17 @@ Blood Drain: progression
 Blood Strike: progression
 Blood Wine: filler
 Bloodweed: filler
-Blue Flame Arc: unknown
+Blue Flame Arc: progression
 Bomb: filler
 Bones: filler
-Brittle Arming Sword: unknown
+Brittle Arming Sword: progression
 Broken Hilt: progression
 Broken Lance: unknown
-Broken Steps Door Key: unknown
+Broken Steps Door Key: progression
 Broken Sword: filler
 Burning Hot Key: unknown
-Castle Doors Key: unknown
-Cavalry Saber: unknown
+Castle Doors Key: progression
+Cavalry Saber: useful
 Cloth Bandage: filler
 Coffin: progression
 Corpse Transformation: progression
@@ -52,7 +52,7 @@ Dreamer Key: progression
 Dried Rat: filler
 Dusty Crystal Orb: progression
 Earth Elixir: useful
-Earth Strike: unknown
+Earth Strike: progression
 Earth Talisman: progression
 Earth Thorn: filler
 Ectoplasm: filler
@@ -71,9 +71,9 @@ Fishing Spear: unknown
 Flame Flare: progression
 Flame Spear: progression
 Fool's Gold: mcguffin
-Forbidden Archives Elevator Switch Keyring: unknown
+Forbidden Archives Elevator Switch Keyring: progression
 Forbidden Archives Shortcut Switch Key: unknown
-Forbidden Door Key: unknown
+Forbidden Door Key: progression
 Forlorn Arena Gate Switch Key: unknown
 Fractured Death: unknown
 Fractured Life: progression
@@ -99,16 +99,16 @@ Ikurr'ilb Root: filler
 Iron Claw: progression
 Iron Club: progression
 Iron Torch: progression
-Jailor's Candle: unknown
+Jailor's Candle: progression
 Jotunn Slayer: progression
 Labyrinth of Ash Switch Key: progression
 Lava Chasm: progression
 Library Exit Door Key: progression
-Light Accursed Door Key: unknown
-Light Reveal: unknown
+Light Accursed Door Key: progression
+Light Reveal: progression
 Light Urn: useful
 Lightning: unknown
-Limbo: unknown
+Limbo: progression
 Lithomancy: mcguffin
 Lotus Seed Pod: filler
 Lower Rickety Bridge Door Key: progression
@@ -123,7 +123,7 @@ Moon Petal: filler
 Moonlight Vial: filler
 Moonlight: progression
 Obsidian Cursebrand: progression
-Obsidian Poisonguard: unknown
+Obsidian Poisonguard: progression
 Obsidian Seal: filler
 Obsidian: mcguffin
 Ocean Bone Shard: filler
@@ -143,27 +143,27 @@ Prison Main Door Key: progression
 Privateer Musket: progression
 Progressive Vampiric Symbol: progression
 Prometheus Fire Switch Keyring: progression
-Pumpkin Pop: unknown
+Pumpkin Pop: progression
 Queen's Throne Door Key: unknown
 Quick Stride: progression
 Rapier: unknown
 Replica Sword: progression
-Ritual Dagger: unknown
+Ritual Dagger: useful
 Rock Bridge: progression
 Rusted Sword: unknown
 Saint Ishii: unknown
 Sand Temple Switches Keyring: useful
 Sealed Ballroom Switch Key: progression
-Secondary Lock Key: unknown
+Secondary Lock Key: progression
 Serpent Fang: progression
 Sewers Door Key: unknown
-Sewers Sea Door Key: unknown
-Shadow Blade: unknown
+Sewers Sea Door Key: progression
+Shadow Blade: progression
 Sheryl's Dreamer Voucher: progression
 Sheryl's Golden Armor Voucher: progression
 Sheryl's Initial Offerings Voucher: progression
 Shining Blade: progression
-Silver Rapier: unknown
+Silver Rapier: useful
 Silver: filler
 Skeletal Rattle: filler
 Skeleton Axe: progression
@@ -176,23 +176,23 @@ Soul Candy: useful
 Spectral Candle: filler
 Spirit Warp: progression
 Staff of Osiris: filler
-Steel Claw: unknown
+Steel Claw: progression
 Steel Club: progression
-Steel Lance: unknown
+Steel Lance: progression
 Steel Needle: progression
 Steel Spear: filler
 Stone Club: progression
 Strange Coin: mcguffin
-Sucsarian Dagger: unknown
+Sucsarian Dagger: progression
 Sucsarian Key: progression
-Sucsarian Spear: unknown
+Sucsarian Spear: progression
 Summon Fairy: unknown
-Summon Ice Sword: unknown
+Summon Ice Sword: progression
 Summon Kodama: progression
-Summon Snail: unknown
+Summon Snail: progression
 Surface Door Key: progression
 Survey Banner: filler
-Temple of Earth Switch Key: unknown
+Temple of Earth Switch Key: useful
 Temple of Silence Switch Key: progression
 Temple of Water Switch Key: progression
 Terminus Prison Back Alley Switch Key: useful
@@ -200,9 +200,9 @@ Terminus Prison Key: unknown
 Text on Great Well Resourcefulness: filler
 Thorn: unknown
 Throwing Knife: filler
-Tomb Secret Door Key: unknown
+Tomb Secret Door Key: progression
 Torch: progression
-Tornado: unknown
+Tornado: progression
 Tower of Abyss Keyring: progression
 Treetop Door Key: progression
 Twisted Staff: progression
@@ -210,7 +210,7 @@ VHS Tape: progression
 Vampire Hunter Sword: useful
 Vampiric Ashes: mcguffin
 Wand of Power: progression
-Water Talisman: unknown
+Water Talisman: progression
 White VHS Tape: progression
 Wind Dash: unknown
 Wind Slicer: progression

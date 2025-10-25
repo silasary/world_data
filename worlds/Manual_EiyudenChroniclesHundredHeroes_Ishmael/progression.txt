@@ -16,16 +16,16 @@ Allaby: progression
 Alwe: progression
 An Ordinary Egg: filler
 Aoi: mcguffin
-Apple Cider Vinegar Soda Recipe: unknown
+Apple Cider Vinegar Soda Recipe: useful
 Appraisers Shop: progression
 Armor Shop Merch 1: progression
 Armor Shop Merch 2: progression
 Armor Shop: progression
 Auditorium: progression
-Bang Bang Ji Recipe: unknown
+Bang Bang Ji Recipe: useful
 Barnard: mcguffin
 Bbaba: progression
-Beigoma Box: unknown
+Beigoma Box: progression
 Bounty Hill Access: progression
 Brew Bar Satay Recipe: useful
 CJ: progression
@@ -42,7 +42,7 @@ Castle Harganthia Access: progression
 Celia: mcguffin
 Chandra: mcguffin
 Chelonian Goliath Vilashnu Access: progression
-Cherry Pie Recipe: unknown
+Cherry Pie Recipe: useful
 Chron: progression
 Clarke: progression
 Code L: progression
@@ -66,7 +66,7 @@ Elektra: mcguffin
 Enoe: mcguffin
 Escape From Combat: useful
 Eucrisse Access: progression
-Euma Card: unknown
+Euma Card: useful
 Euma: mcguffin
 Falward: mcguffin
 Farm Prod 1: progression
@@ -77,7 +77,7 @@ Faye: mcguffin
 Fire Runeshards: useful
 Fishing Rod Upgrade 1: progression
 Fishing Rod Upgrade 2: progression
-Fishing Rod: unknown
+Fishing Rod: progression
 Fishing Site 1: progression
 Fishing Site 2: progression
 Fishing Site 3: progression
@@ -93,21 +93,21 @@ Francesca: progression
 Frida: progression
 Fume: mcguffin
 Galactic Meat Recipe: useful
-Galdorf Card: unknown
+Galdorf Card: useful
 Galdorf: mcguffin
 Galladur: mcguffin
 Gardhaven Castle Access: progression
-Garoo Card: unknown
+Garoo Card: useful
 Garoo: progression
 Garr: progression
 Gieran: mcguffin
 Gigina: mcguffin
 Glen: progression
 Gocteau: progression
-Goldsmid Card: unknown
+Goldsmid Card: useful
 Goldsmid: mcguffin
 Goldwyn: mcguffin
-Grace: unknown
+Grace: progression
 Greatwood Access: progression
 Hakugin: mcguffin
 Headquarters 2: progression
@@ -116,9 +116,10 @@ Headquarters 4: progression
 Healing Items: useful
 Heros Den Renovation: progression
 Hildi: progression
+Hiro Card: useful
 Hiro: progression
 Hishahn Old Town Access: progression
-Hogan Card: unknown
+Hogan Card: useful
 Hogan: progression
 Hot Spring Benefits 1: progression
 Hot Spring Benefits 2: progression
@@ -132,12 +133,12 @@ Ice Cave Access: progression
 Impershi-arc Access: progression
 Iris: mcguffin
 Isha: progression
-Iugo Card: unknown
+Iugo Card: useful
 Iugo: progression
-Ivy Card: unknown
+Ivy Card: useful
 Ivy: mcguffin
 Janquis: mcguffin
-Jelly Beans Recipe: unknown
+Jelly Beans Recipe: useful
 Jorhan: mcguffin
 Kallathor: mcguffin
 Kassius: mcguffin
@@ -154,12 +155,12 @@ Larla: mcguffin
 Leene: mcguffin
 Lemon Honey Pickles Recipe: useful
 Leon: mcguffin
-Lian Card: unknown
+Lian Card: useful
 Lian: progression
 Library: progression
 Light Runeshards: useful
 Lilwn: mcguffin
-Lollipop Recipe: unknown
+Lollipop Recipe: progression
 Lost Baqua: filler
 Mana Restoration Items: useful
 Mandie: mcguffin
@@ -192,13 +193,14 @@ Nil: progression
 Normal MP/SP Consumption: useful
 Normal Mode: useful
 Norristar Access: progression
-Nowa Card: unknown
+Nowa Card: useful
 Nowa: progression
 Nowas Room Redecorate: progression
 Obtain Baqua: useful
+Omelet Recipe: progression
 Ormond: progression
 Paquia: progression
-Pasta Carbonara Recipe: unknown
+Pasta Carbonara Recipe: useful
 Pastole: progression
 Pasturage Prod 1: progression
 Pasturage Prod 2: progression
@@ -252,7 +254,7 @@ Smithy 2: progression
 Smithy 3: progression
 Smithy: progression
 Snowpeak Pass Access: progression
-Squash Card: unknown
+Squash Card: useful
 Squash: progression
 Stables Egg Rarity 1: progression
 Stables Egg Rarity 2: progression
@@ -266,7 +268,7 @@ Stowpack Cap 1: progression
 Stowpack Cap 2: progression
 Stowpack Cap 3: progression
 Stowpack Shop: progression
-Sugar Toast Recipe: unknown
+Sugar Toast Recipe: progression
 Sumire: mcguffin
 Syd: progression
 Theater Repertoire 1: progression
@@ -274,7 +276,7 @@ Theater Repertoire 2: progression
 Theater Repertoire 3: progression
 Theater Repertoire 4: progression
 Theater: progression
-Tom Yam Kung Recipe: unknown
+Tom Yam Kung Recipe: useful
 Tool Shop Merchandise 1: progression
 Tool Shop Merchandise 2: progression
 Tool Shop: progression
@@ -308,5 +310,5 @@ Yulin: mcguffin
 Yume: progression
 Yusuke: progression
 Yuthus: mcguffin
-Zabi Card: unknown
+Zabi Card: useful
 Zabi: mcguffin

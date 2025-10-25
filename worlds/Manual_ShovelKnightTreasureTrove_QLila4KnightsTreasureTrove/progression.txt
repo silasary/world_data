@@ -1,65 +1,98 @@
-Alchemy Coin: unknown
-Alchemy Meter Upgrade: unknown
-Barrier Lantern: unknown
-Berserker's Brew: unknown
-Big Boom: unknown
-Birder Bluffs Keys: unknown
-Bounding Soul: unknown
-Bubble Frog: unknown
-Challenge Key (KK): unknown
-Challenge Key (PK): unknown
-Challenge Key (ShK): unknown
-Challenge Key (SpK): unknown
-Charge Handle: unknown
-Chronos Coin: unknown
-Clockwork Tower Keys (PK): unknown
-Conjurer's Coat: unknown
-Darkness Wisp: unknown
+Alchemy Coin: progression
+Alchemy Meter Upgrade: progression
+Barrier Lantern: progression
+Berserker's Brew: progression
+Big Boom: progression
+Big Tonic Bag: progression
+Birder Bluffs Keys: progression
+Bounding Soul: progression
+Bubble Frog: progression
+Challenge Key (KK): progression
+Challenge Key (PK): progression
+Challenge Key (ShK): progression
+Challenge Key (SpK): progression
+Charge Handle: progression
+Chronos Coin: progression
+Cloak of Clemency: progression
+Clockwork Tower Keys (KK): progression
+Clockwork Tower Keys (PK): progression
+Cluster Powder: progression
+Conjurer's Coat: progression
+Darkness Wisp: progression
 Dirt: filler
-Display Overhaul: unknown
-Explodatorium Keys (KK): unknown
-Explodatorium Keys (PK): unknown
-Explodatorium Keys (SpK): unknown
-Final Guard: unknown
-Flare Wand: unknown
-Flying Machine Keys (SpK): unknown
-Frost Burst: unknown
-Ghostly Garb: unknown
-Goo Garment: unknown
-Healing Hammer: unknown
-Hearty Meat Pie: unknown
-Impact Sparks: unknown
-Iron Whale Keys (PK): unknown
-Iron Whale Keys (SpK): unknown
-King's Chair: unknown
-Lich Yard Keys (PK): unknown
-Lich Yard Keys (SpK): unknown
-Lightweight Plate: unknown
-Long Fuse: unknown
-Lost City Keys (KK): unknown
-Lost City Keys (ShK): unknown
-Lost City Keys (SpK): unknown
-Magic Upgrade: unknown
-Meal Ticket: unknown
+Display Overhaul: progression
+Dread Talon: progression
+Drop Casing: progression
+Dust Knuckles: progression
+Explodatorium Keys (KK): progression
+Explodatorium Keys (PK): progression
+Explodatorium Keys (ShK): progression
+Explodatorium Keys (SpK): progression
+Final Guard: progression
+Flare Wand: progression
+Float Burst: progression
+Float Casing: progression
+Flying Machine Keys (PK): progression
+Flying Machine Keys (ShK): progression
+Flying Machine Keys (SpK): progression
+Frost Burst: progression
+Ghostly Garb: progression
+Gilded Deck: progression
+Goo Garment: progression
+Healing Hammer: progression
+Hearty Meat Pie: progression
+Impact Sparks: progression
+Iron Whale Keys (KK): progression
+Iron Whale Keys (PK): progression
+Iron Whale Keys (SpK): progression
+King's Chair: progression
+Leech Liquid: progression
+Lich Yard Keys (PK): progression
+Lich Yard Keys (ShK): progression
+Lich Yard Keys (SpK): progression
+Lightweight Plate: progression
+Lob Casing: progression
+Long Fuse: progression
+Lost City Keys (KK): progression
+Lost City Keys (PK): progression
+Lost City Keys (ShK): progression
+Lost City Keys (SpK): progression
+Magic Upgrade: progression
+Mail of Momentum: progression
+Meal Ticket: progression
 Merit Medal: progression
+Mobile Gear: progression
 Music Sheet: progression
-Orbit Casing: unknown
-Phase Locket: unknown
-Pridemoor Keep Keys (SpK): unknown
-Propeller Blitzsteed: unknown
-Propeller Dagger: unknown
-Quick Fuse: unknown
-Rail Mail: unknown
+Orbit Casing: progression
+Phase Locket: progression
+Pridemoor Keep Keys (KK): progression
+Pridemoor Keep Keys (ShK): progression
+Pridemoor Keep Keys (SpK): progression
+Propeller Blitzsteed: progression
+Propeller Dagger: progression
+Quick Fuse: progression
+Rail Mail: progression
 Red Skull: progression
-Remote Fuse: unknown
+Remote Fuse: progression
+Rodent Regalia: progression
 Scrap Sheet: progression
-Silver Plating: unknown
-Skeletal Sentry: unknown
-Smoke Bomb: unknown
-Stranded Ship Keys (KK): unknown
-Stranded Ship Keys (ShK): unknown
-Striker's Shawl: unknown
-Vigor Cream Pie: unknown
-Wealth Whirl: unknown
-Whirl Casing: unknown
-Willful Wisp: unknown
+Shadow Mirror: progression
+Silver Plating: progression
+Skeletal Sentry: progression
+Smoke Bomb: progression
+Staff of Surging: progression
+Stranded Ship Keys (KK): progression
+Stranded Ship Keys (ShK): progression
+Striker's Shawl: progression
+Striking Staff: progression
+Throwing Anchor: progression
+Tower of Fate Keys (KK): progression
+Tower of Fate Keys (SpK): progression
+Troupple Chalice (PK): progression
+Troupple Pond Keys (KK): progression
+Troupple Pond Keys (PK): progression
+Vigor Cream Pie: progression
+Ward Robe: progression
+Wealth Whirl: progression
+Whirl Casing: progression
+Willful Wisp: progression

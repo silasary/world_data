@@ -1,57 +1,64 @@
-15 Sanity: unknown
-25 Food: unknown
-50 Sanity: unknown
-60 Health: unknown
-Asparagus Seeds: unknown
-Auto-Mat-O-Chanic: unknown
-Bee Mine: unknown
-Bee Queen Crown: unknown
-Belt of Hunger: unknown
-Birdcage: unknown
-Booster Shot: unknown
-Breezy Vest: unknown
+15 Sanity: filler
+25 Food: filler
+50 Sanity: filler
+60 Health: filler
+Asparagus Seeds: progression
+Auto-Mat-O-Chanic: progression
+Backpack: progression
+Bee Mine: useful
+Bee Queen Crown: filler
+Belt of Hunger: useful
+Birdcage: progression
+Booster Shot: progression
+Breezy Vest: useful
 Bush Hat: unknown
-Carrot Seeds: unknown
-Corn Seeds: unknown
-Dragon Fruit Seeds: unknown
-Drying Rack: unknown
-Endothermic Fire Pit: unknown
-Fashion Melon: unknown
+Carrot Seeds: progression
+Corn Seeds: progression
+Damage Bonus: useful
+Dragon Fruit Seeds: progression
+Drying Rack: progression
+Endothermic Fire Pit: progression
+Fashion Melon: useful
 Feather Hat: unknown
-Fencing Sword: unknown
-Fire Staff: unknown
-Friendly Scarecrow: unknown
+Fencing Sword: filler
+Fire Staff: progression
+Freshwater Fishing Rod: progression
+Friendly Scarecrow: progression
 Funcaps: unknown
-Fur Roll: unknown
-Garlic Seeds: unknown
-Hay Wall: unknown
-Healing Salve: unknown
-Ice Box: unknown
-Knight Figure Sketch: unknown
-Life Giving Amulet: unknown
-Lightning Rod: unknown
-Luxury Fan: unknown
+Fur Roll: progression
+Garlic Seeds: progression
+Hay Wall: progression
+Healing Salve: progression
+Ice Box: progression
+Knight Figure Sketch: progression
+Life Giving Amulet: progression
+Lightning Rod: progression
+Luxury Fan: useful
 Mannequin: unknown
-Miner Hat: unknown
+Miner Hat: progression
 Moon Dial: unknown
 Moon Rock Wall: unknown
-Morning Star: unknown
-Night Armor: unknown
+Morning Star: progression
+Night Armor: progression
 Night Light: unknown
 Ocuvigil: unknown
-Onion Seeds: unknown
+Onion Seeds: progression
 Pocket Scale: unknown
-Potato Seeds: unknown
+Potato Seeds: progression
+Pumpkin Seeds: progression
 Rainometer: unknown
-Scaled Chest: unknown
-Scales: unknown
+Scaled Chest: useful
+Scales: filler
 Scrap Wall: unknown
-Sea Fishing Rod: unknown
-Siesta Lean-to: unknown
-Snazzy Pitchfork: unknown
-Spear: unknown
-Telelocator Staff: unknown
+Sea Fishing Rod: progression
+Shield of Terror: filler
+Siesta Lean-to: progression
+Snazzy Pitchfork: progression
+Spear: progression
+Stone Wall: progression
+Telelocator Staff: useful
+Tent: progression
 Thermal Measurer: unknown
-Tooth Trap: unknown
-Top Hat: unknown
-Winter Hat: unknown
+Tooth Trap: useful
+Top Hat: progression
+Winter Hat: progression

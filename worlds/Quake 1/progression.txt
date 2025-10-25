@@ -3,7 +3,7 @@ Backpack: useful
 Biosuit: unknown
 Button: unknown
 Cell Ammo (+1): filler
-Death Trap: unknown
+Death Trap: trap
 Dive: progression
 Door: progression
 Exit: filler
@@ -43,11 +43,11 @@ Shoot Switch: unknown
 Shotgun Ammo (+1): filler
 Small Medkit: filler
 Sound Trap: trap
-Yellow Armor: unknown
+Yellow Armor: useful
 e1m1 Automap: useful
 e1m1 Unlock: unknown
 e1m2 Automap: useful
-e1m2 Silver Key: unknown
+e1m2 Silver Key: progression
 e1m2 Unlock: progression
 e1m3 Automap: useful
 e1m3 Gold Key: unknown
@@ -57,14 +57,14 @@ e1m4 Silver Key: unknown
 e1m4 Unlock: unknown
 e1m5 Automap: useful
 e1m5 Gold Key: unknown
-e1m5 Silver Key: unknown
+e1m5 Silver Key: progression
 e1m5 Unlock: useful
 e1m6 Automap: useful
 e1m6 Gold Key: unknown
 e1m6 Silver Key: progression
 e1m6 Unlock: unknown
 e1m7 Automap: useful
-e1m7 Unlock: unknown
+e1m7 Unlock: progression
 e1m8 Automap: useful
 e1m8 Silver Key: progression
 e1m8 Unlock: unknown
@@ -92,7 +92,7 @@ e2m7 Automap: useful
 e2m7 Gold Key: progression
 e2m7 Unlock: unknown
 e3m1 Automap: unknown
-e3m1 Gold Key: unknown
+e3m1 Gold Key: progression
 e3m1 Unlock: unknown
 e3m2 Automap: unknown
 e3m2 Gold Key: unknown
@@ -106,9 +106,14 @@ e3m4 Unlock: unknown
 e3m5 Automap: unknown
 e3m5 Unlock: unknown
 e3m6 Automap: unknown
-e3m6 Gold Key: unknown
+e3m6 Gold Key: progression
 e3m6 Silver Key: unknown
-e3m6 Unlock: unknown
+e3m6 Unlock: progression
 e3m7 Automap: unknown
 e3m7 Unlock: unknown
+e4m4 Silver Key: progression
+e4m6 Silver Key: progression
+e4m6 Unlock: progression
+e4m8 Silver Key: progression
 end Automap: unknown
+end Unlock: progression

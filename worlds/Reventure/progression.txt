@@ -1,9 +1,9 @@
-AddPC: unknown
+AddPC: filler
 Anvil: progression
 Bombs: progression
 Boomerang: progression
 Boulder: progression
-BuildStatue: unknown
+BuildStatue: progression
 Burger: progression
 Call Elevator Buttons: unknown
 Castle To Dark Fortress Cannon: useful
@@ -15,20 +15,20 @@ Chicken: progression
 Closet: unknown
 Compass: useful
 Dark Fortress Cannon: progression
-Dark Stone Lever Left: unknown
+Dark Stone Lever Left: progression
 Dark Stone Lever Middle: progression
 Dark Stone Lever Right: unknown
-Dark Stone: unknown
+Dark Stone: progression
 DarkstoneLeverLeft: progression
-DarkstoneLeverMiddle: unknown
-DarkstoneLeverRight: unknown
+DarkstoneLeverMiddle: progression
+DarkstoneLeverRight: progression
 Desert Geyser East: useful
 Desert Geyser West: unknown
 Dolphins: filler
 Dragon: progression
 Elder: progression
 Elevator Button: progression
-EnableCloset: unknown
+EnableCloset: filler
 Faceplant Stone: filler
 Fairy Portal: progression
 Fishing Rod: progression
@@ -47,10 +47,10 @@ Nothing: filler
 Nuke: progression
 Open Castle Floor: useful
 OpenCastleFloor: progression
-OpenSewerPipe: unknown
-PC: unknown
+OpenSewerPipe: progression
+PC: filler
 Princess Statue: filler
-Princess: unknown
+Princess: progression
 Progressive Sword: progression
 ProgressiveSword: progression
 Sewer Pipe: progression
@@ -59,45 +59,45 @@ Shop Cannon: progression
 Shopkeeper: progression
 Shovel: progression
 SpawnAnvilItem: progression
-SpawnBombsChest: unknown
+SpawnBombsChest: progression
 SpawnBoomerang: progression
 SpawnBoulderNPC: progression
 SpawnBurgerChest: progression
 SpawnCompassChest: useful
-SpawnDarkstoneChest: unknown
-SpawnDolphins: unknown
+SpawnDarkstoneChest: progression
+SpawnDolphins: filler
 SpawnDragon: progression
-SpawnElder: unknown
-SpawnFishingRodChest: unknown
+SpawnElder: progression
+SpawnFishingRodChest: progression
 SpawnHookChest: progression
 SpawnKing: progression
-SpawnLavaTrinketChest: unknown
-SpawnMapChest: unknown
+SpawnLavaTrinketChest: progression
+SpawnMapChest: progression
 SpawnMimic: progression
-SpawnMimicPet: unknown
+SpawnMimicPet: filler
 SpawnMrHugsChest: progression
-SpawnNukeItem: unknown
+SpawnNukeItem: progression
 SpawnPrincessItem: progression
-SpawnShieldChest: unknown
-SpawnShopkeeper: unknown
-SpawnShovelChest: unknown
-SpawnStrawberry: unknown
+SpawnShieldChest: progression
+SpawnShopkeeper: progression
+SpawnShovelChest: progression
+SpawnStrawberry: progression
 SpawnWhistleChest: progression
 Strawberry: progression
 UnlockCallElevatorButtons: progression
-UnlockCastleToDarkCastleCannon: unknown
-UnlockCastleToShopCannon: unknown
-UnlockDarkCastleCannon: unknown
-UnlockElevatorButton: unknown
+UnlockCastleToDarkCastleCannon: progression
+UnlockCastleToShopCannon: progression
+UnlockDarkCastleCannon: progression
+UnlockElevatorButton: progression
 UnlockFacePlantStone: progression
-UnlockFairyPortal: unknown
-UnlockGeyserDesert1: unknown
+UnlockFairyPortal: progression
+UnlockGeyserDesert1: progression
 UnlockGeyserDesert2: progression
-UnlockGeyserVolcanoe: unknown
-UnlockGeyserWaterfall: unknown
-UnlockMirrorPortal: unknown
+UnlockGeyserVolcanoe: progression
+UnlockGeyserWaterfall: progression
+UnlockMirrorPortal: progression
 UnlockShopCannon: progression
-Vine: unknown
+Vine: progression
 Volcano Geyser: progression
 Waterfall Geyser: unknown
 Whistle: progression

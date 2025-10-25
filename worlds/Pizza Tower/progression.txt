@@ -6,40 +6,40 @@ Boss Key: progression
 Breakdance: filler
 Clothes: Autumn: filler
 Clothes: Bad Bones: filler
-Clothes: Blood Red: unknown
+Clothes: Blood Red: filler
 Clothes: Bloodstained: filler
 Clothes: Bowling Stripes: filler
 Clothes: Candy Wrapper: filler
-Clothes: Classic Cook: unknown
+Clothes: Classic Cook: filler
 Clothes: Critic: unknown
 Clothes: Dark Cook: filler
 Clothes: Eyes: filler
 Clothes: Flesh Eater: unknown
 Clothes: Forest Goblin: unknown
-Clothes: Funny Polka: unknown
-Clothes: Fur: unknown
-Clothes: Garish Cook: unknown
+Clothes: Funny Polka: filler
+Clothes: Fur: filler
+Clothes: Garish Cook: filler
 Clothes: Goldemanne: filler
-Clothes: Golden God: unknown
+Clothes: Golden God: filler
 Clothes: Granny Kisses: unknown
-Clothes: Itchy Sweater: unknown
+Clothes: Itchy Sweater: filler
 Clothes: John Suit: filler
 Clothes: Madman: unknown
-Clothes: Money Green: unknown
+Clothes: Money Green: filler
 Clothes: Mooney Orange: filler
 Clothes: Noise TV: unknown
 Clothes: Outlaw: unknown
 Clothes: PP Shirt: filler
-Clothes: Pizza Man: unknown
+Clothes: Pizza Man: filler
 Clothes: Pumpkin: filler
 Clothes: Racer: unknown
 Clothes: Roise: unknown
 Clothes: SAGE Blue: filler
-Clothes: Shitty Cook: unknown
+Clothes: Shitty Cook: filler
 Clothes: Super: unknown
 Clothes: TV Purple: filler
 Clothes: Unfunny Cook: filler
-Clothes: War Camo: unknown
+Clothes: War Camo: filler
 Clothes: Well Done: unknown
 Clown Trap: trap
 Cross Buff: filler
@@ -51,6 +51,7 @@ Ghost Trap: trap
 Ghost: progression
 Grab: progression
 Granny Trap: trap
+Jumpscare: trap
 Knight: progression
 Lap 2 Portals: progression
 Mach 4: useful

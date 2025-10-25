@@ -1,21 +1,21 @@
 Ancient Urn: mcguffin
-Ankle Guards: unknown
+Ankle Guards: filler
 Anti-venom: filler
-Antique Table: unknown
+Antique Table: progression
 Arm Plates: useful
-Bagonette: unknown
+Bagonette: filler
 Big Mana Prism: filler
 Blizzard Robe: useful
-Blue Stone: unknown
-Bolt Book: unknown
+Blue Stone: useful
+Bolt Book: progression
 Bookshelf: mcguffin
-Bullet Tip: unknown
+Bullet Tip: useful
 Candleholder: mcguffin
-Candlestick: unknown
+Candlestick: progression
 Castle Drawing: filler
-Castle Map 1: unknown
-Castle Map 3: unknown
-Ceramic Mail: unknown
+Castle Map 1: filler
+Castle Map 3: filler
+Ceramic Mail: useful
 Chair: mcguffin
 Chandelier: mcguffin
 Chaos Ring: useful
@@ -30,52 +30,52 @@ Elixir: filler
 Emerald Cloak: useful
 Energy Circle: useful
 Eye of Vlad: mcguffin
-Face-guard: unknown
+Face-guard: filler
 Fairy Journal: useful
 Fancy Bandana: useful
-Fancy Clothes: unknown
-Fang of Vlad: unknown
+Fancy Clothes: filler
+Fang of Vlad: progression
 Fire Book: useful
 Floodgate Key: progression
 Full Helmet: useful
 Gold Trinket: filler
-Greed Amulet: unknown
-Green Stone: unknown
+Greed Amulet: useful
+Green Stone: useful
 Griffin's Wing: progression
 Guardian Armor: useful
-Guardian Boots: unknown
+Guardian Boots: filler
 Guardian Glove: useful
 Guardian Helm: useful
 Hard Gloves: useful
-Healing Mail: unknown
-Heart Choker: unknown
+Healing Mail: useful
+Heart Choker: useful
 Heart Max Up: useful
 Heart of Vlad: mcguffin
-Heaven's Ring: unknown
+Heaven's Ring: useful
 Hero Statue: mcguffin
 High Potion: filler
-Hint Card 1: unknown
-Hint Card 2: unknown
-Hint Card 3: unknown
+Hint Card 1: useful
+Hint Card 2: useful
+Hint Card 3: useful
 Hint Card 4: useful
 Hint Card 5: useful
-Hint Card 6: unknown
+Hint Card 6: useful
 Holy Ring: useful
 Ice Book: progression
 JB's Bracelet: progression
 Kaiser Knuckle: useful
 Kaiser Mail: useful
-King-size Bed: unknown
+King-size Bed: progression
 Leather Armor: useful
 Leather Boots: filler
 Leather Cap: filler
 Leather Gloves: useful
 Leggings: useful
 Life Max Up: useful
-Lightning Robe: unknown
+Lightning Robe: useful
 Lizard Tail: progression
-Logoth's Ring: unknown
-Lucky Cat: unknown
+Logoth's Ring: useful
+Lucky Cat: progression
 Lucky Charm: filler
 Lucky Ring: useful
 Lure Key: progression
@@ -84,7 +84,7 @@ Magical Armor: useful
 Mana Prism: filler
 Medicine Jar: filler
 Monster Tome: useful
-Moon Armor: unknown
+Moon Armor: useful
 Mystic Brooch: useful
 Mystical Robe: useful
 Nail of Vlad: mcguffin
@@ -95,32 +95,32 @@ Padded Armor: useful
 Phonograph: mcguffin
 Plate Mail: useful
 Platinum Crown: useful
-Platinum Shoes: unknown
-Platinum Tip: unknown
+Platinum Shoes: useful
+Platinum Tip: useful
 Potion: filler
 Pretty Vase: mcguffin
 Raccoon Figure: filler
 Rare Ring: filler
 Red Stone: useful
 Rib of Vlad: mcguffin
-Rocking Chair: unknown
+Rocking Chair: progression
 Sage Statue: mcguffin
 Scale Armor: useful
 Side Table: mcguffin
 Silk Cloak: useful
 Silk Curtain: mcguffin
-Silver Armor: unknown
+Silver Armor: useful
 Silver Dishes: mcguffin
 Silver Trinket: useful
 Skull Key: progression
-Smiling Statue: unknown
+Smiling Statue: progression
 Soul Orb: useful
-Steel Glove: unknown
-Steel Tip: unknown
-Strange Mirror: unknown
-Stuffed Stag: unknown
-Summer Clothes: unknown
-Summoning Tome: unknown
+Steel Glove: useful
+Steel Tip: useful
+Strange Mirror: progression
+Stuffed Stag: progression
+Summer Clothes: filler
+Summoning Tome: progression
 Sun Armor: useful
 Sylph Feather: progression
 Tall Clock: mcguffin
@@ -131,12 +131,12 @@ Turquoise: filler
 Twilight Cloak: useful
 Uncurse Potion: filler
 Viking Helm: useful
-Vlad's Ring: unknown
+Vlad's Ring: progression
 Walk Armor: useful
-War Fatigues: unknown
-Wind Book: unknown
-Wind Cloak: unknown
+War Fatigues: useful
+Wind Book: progression
+Wind Cloak: useful
 Wine Glass: mcguffin
 Wizard's Urn: filler
-Wristband: unknown
+Wristband: filler
 Yellow Stone: useful

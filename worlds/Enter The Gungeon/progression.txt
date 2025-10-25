@@ -1,33 +1,34 @@
-50 Casings: unknown
-Blank: unknown
-Bullet Paradox: unknown
-Convict Paradox: unknown
-Curse Meter Trap: unknown
-Curse Trap: unknown
-Enemy Trap: unknown
-Fire Trap: unknown
-Fumble Gun Trap: unknown
-Glassful of Guons: unknown
+50 Casings: filler
+Armor: filler
+Blank: filler
+Bullet Paradox: progression
+Convict Paradox: progression
+Curse Meter Trap: trap
+Curse Trap: trap
+Enemy Trap: trap
+Fire Trap: trap
+Fumble Gun Trap: trap
+Glassful of Guons: filler
 Gnawed Key: unknown
-Heart: unknown
+Heart: filler
 Hunter Paradox: unknown
-Key: unknown
+Key: filler
 Marine Paradox: unknown
-Mimic Gun Trap: unknown
+Mimic Gun Trap: trap
 Old Crest: unknown
 Pilot Paradox: unknown
-Poison Trap: unknown
-Random A Tier Gun: unknown
-Random A Tier Item: unknown
-Random B Tier Gun: unknown
+Poison Trap: trap
+Random A Tier Gun: filler
+Random A Tier Item: filler
+Random B Tier Gun: filler
 Random B Tier Item: useful
-Random C Tier Gun: unknown
-Random C Tier Item: unknown
-Random D Tier Gun: unknown
-Random D Tier Item: unknown
-Random S Tier Gun: unknown
-Random S Tier Item: unknown
+Random C Tier Gun: filler
+Random C Tier Item: filler
+Random D Tier Gun: filler
+Random D Tier Item: filler
+Random S Tier Gun: filler
+Random S Tier Item: filler
 Rats!! Trap: trap
-Reverse Curse Reversal: unknown
+Reverse Curse Reversal: useful
 Robot Paradox: unknown
 Weird Egg: unknown

@@ -1,4 +1,4 @@
-1000 Gil: unknown
+1000 Gil: filler
 10000 Gil: filler
 1020 Gil: filler
 1045 Gil: filler
@@ -8,136 +8,139 @@
 1150 Gil: filler
 1155 Gil: filler
 1180 Gil: filler
-12350 Gil: unknown
-1250 Gil: unknown
-1295 Gil: unknown
+12350 Gil: filler
+1250 Gil: filler
+1295 Gil: filler
 1300 Gil: useful
-13000 Gil: unknown
-13450 Gil: unknown
-1380 Gil: unknown
-1385 Gil: unknown
-1450 Gil: unknown
+13000 Gil: filler
+13450 Gil: filler
+1380 Gil: filler
+1385 Gil: filler
+1450 Gil: filler
 1455 Gil: filler
-1520 Gil: unknown
+1520 Gil: filler
 1760 Gil: filler
 18010 Gil: filler
 1975 Gil: filler
-2000 Gil: unknown
+2000 Gil: filler
 2750 Gil: filler
 330 Gil: filler
 3400 Gil: filler
 4150 Gil: filler
-450 Gil: unknown
+450 Gil: filler
 5000 Gil: filler
 5450 Gil: filler
-5454 Gil: unknown
-575 Gil: unknown
+5454 Gil: filler
+575 Gil: filler
 620 Gil: filler
 6400 Gil: filler
 6720 Gil: filler
-700 Gil: unknown
+700 Gil: filler
 7340 Gil: filler
 7600 Gil: filler
-7690 Gil: unknown
+7690 Gil: filler
 7900 Gil: trap
 795 Gil: filler
-800 Gil: unknown
+800 Gil: filler
 8135 Gil: filler
-880 Gil: unknown
-9000 Gil: unknown
-9500 Gil: unknown
+880 Gil: filler
+9000 Gil: filler
+9500 Gil: filler
 9900 Gil: filler
 Adamantite: progression
-Aegis Shield: unknown
-All Promotion Jobs: unknown
+Aegis Shield: useful
+All Promotion Jobs: useful
 Antidote: filler
-Black Robe: unknown
-Bottled Faerie: unknown
+Black Robe: useful
+Bottled Faerie: progression
 Broadsword: filler
 Bronze Gloves: filler
-Canoe: unknown
+Canoe: progression
 Chime: progression
 Clothes: filler
 Copper Armlet: filler
 Coral Sword: useful
 Cottage: filler
 Crown: progression
-Crystal Eye: unknown
-Dagger: unknown
-Defender: unknown
+Crystal Eye: progression
+Dagger: filler
+Defender: useful
 Diamond Armlet: filler
-Diamond Armor: unknown
+Diamond Armor: useful
 Diamond Gloves: filler
-Diamond Helm: unknown
-Diamond Shield: unknown
+Diamond Helm: useful
+Diamond Shield: useful
 Dragon Mail: filler
-Dry Ether: unknown
-Earth Rod: unknown
+Dry Ether: filler
+Earth Rod: progression
 Elixir: filler
 Ether: filler
-Excalibur: unknown
-Falchion: unknown
-Flame Mail: unknown
-Flame Sword: unknown
-Gauntlets: unknown
-Giant's Gloves: unknown
-Gold Needle: unknown
+Excalibur: useful
+Falchion: filler
+Flame Mail: useful
+Flame Shield: useful
+Flame Sword: useful
+Gauntlets: filler
+Giant's Gloves: useful
+Gold Needle: filler
 Great Axe: useful
 Great Helm: filler
-Great Sword: unknown
-Healing Helm: unknown
+Great Sword: filler
+Healing Helm: useful
 Healing Staff: filler
-Hi-Potion: unknown
-Ice Armor: unknown
+Hi-Potion: filler
+Ice Armor: useful
 Ice Brand: filler
-Ice Shield: unknown
-Iron Armor: unknown
-Jolt Tonic: unknown
-Knight Job: unknown
-Leather Cap: unknown
-Leather Shield: unknown
-Levistone: unknown
+Ice Shield: useful
+Iron Armor: filler
+Jolt Tonic: progression
+Knight Job: useful
+Leather Cap: filler
+Leather Shield: filler
+Levistone: progression
 Light Axe: filler
-Lute: unknown
-Mage's Staff: unknown
-Masamune: unknown
-Master Job: unknown
+Lute: progression
+Mage's Staff: useful
+Masamune: useful
+Master Job: useful
 Mystic Key: progression
-Mythril Axe: unknown
-Mythril Gloves: unknown
+Mythril Axe: filler
+Mythril Gloves: filler
 Mythril Hammer: filler
-Mythril Helm: unknown
-Mythril Knife: unknown
-Mythril Mail: unknown
+Mythril Helm: filler
+Mythril Knife: filler
+Mythril Mail: filler
 Mythril Shield: filler
 Ninja Job: useful
-Nitro Powder: unknown
-Phoenix Down: unknown
+Nitro Powder: progression
+Oxyale: progression
+Phoenix Down: filler
 Potion: filler
-Power Staff: unknown
-Protect Cloak: unknown
-Protect Ring: unknown
+Power Staff: filler
+Protect Cloak: useful
+Protect Ring: useful
 Rat's Tail: progression
-Razer: unknown
+Razer: useful
 Ribbon: filler
-Rosetta Stone: unknown
+Rosetta Stone: progression
 Ruby Armlet: unknown
-Rune Blade: unknown
+Rune Blade: filler
 Saber: filler
 Sasuke's Blade: useful
-Ship: unknown
-Silver Armlet: unknown
-Sleeping Bag: unknown
+Ship: progression
+Silver Armlet: filler
+Sleeping Bag: filler
 Staff: filler
-Star Ruby: unknown
+Star Ruby: progression
 Steel Gloves: filler
 Sun Blade: filler
 Tent: filler
-Thor's Hammer: unknown
+Thor's Hammer: useful
 Vorpal Sword: filler
-Warp Cube: unknown
-Werebuster: unknown
-White Robe: unknown
-White Wizard Job: unknown
-Wyrmkiller: unknown
-X-Potion: unknown
+Warp Cube: progression
+Werebuster: filler
+White Robe: useful
+White Wizard Job: useful
+Wizard's Staff: filler
+Wyrmkiller: filler
+X-Potion: useful

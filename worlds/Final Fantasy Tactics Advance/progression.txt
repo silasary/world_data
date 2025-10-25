@@ -32,7 +32,7 @@ Ayvuir Blue: useful
 Ayvuir Red: useful
 Bandage: filler
 Bangaa Helm: useful
-Bangaa Helmet: unknown
+Bangaa Helmet: useful
 Bangaa Spike: useful
 Barette: useful
 Barong: useful
@@ -62,7 +62,7 @@ Brigandine: useful
 Brint Set: useful
 Bronze Armor: useful
 Bronze Helm: useful
-Bronze Helmet: unknown
+Bronze Helmet: useful
 Bronze Shield: useful
 Bug Soul: useful
 Burglar Sword: useful
@@ -97,7 +97,7 @@ Conch Shell: useful
 Cranequin: useful
 Crescent Bow: useful
 Cross Helm: useful
-Cross Helmet: unknown
+Cross Helmet: useful
 Crystal: progression
 Cuirass: useful
 Cure Staff: useful
@@ -116,7 +116,7 @@ Demon Bell: useful
 Diabolique: useful
 Diamond Armor: useful
 Diamond Helm: useful
-Diamond Helmet: unknown
+Diamond Helmet: useful
 Diamond Sword: useful
 Dictionary: progression
 Djinn Flyssa: useful
@@ -215,7 +215,7 @@ Holy Water: filler
 Homework: progression
 Hunt Bow: useful
 Hunt: progression
-Ice Brand: unknown
+Ice Brand: useful
 Ice Lance: useful
 Ice Shield: useful
 Icebrand: useful
@@ -312,7 +312,7 @@ Law Card: Defend antilaw: filler
 Law Card: Defend: filler
 Law Card: Dmg2: Animal antilaw: filler
 Law Card: Dmg2: Animal: filler
-Law Card: Dmg2: Bangaa antilaw: unknown
+Law Card: Dmg2: Bangaa antilaw: useful
 Law Card: Dmg2: Bangaa: unknown
 Law Card: Dmg2: Human antilaw: unknown
 Law Card: Dmg2: Human: unknown
@@ -353,7 +353,7 @@ Law Card: Items: filler
 Law Card: Katanas antilaw: unknown
 Law Card: Katanas: unknown
 Law Card: Knightswords antilaw: filler
-Law Card: Knightswords: unknown
+Law Card: Knightswords: useful
 Law Card: Knives antilaw: filler
 Law Card: Knives: filler
 Law Card: Knuckles antilaw: filler
@@ -382,7 +382,7 @@ Law Card: R4 Antilaw: unknown
 Law Card: R5 Antilaw: filler
 Law Card: R6 Antilaw: unknown
 Law Card: Rapiers antilaw: filler
-Law Card: Rapiers: unknown
+Law Card: Rapiers: useful
 Law Card: Sabers antilaw: unknown
 Law Card: Sabers: filler
 Law Card: Sharpshoot antilaw: unknown
@@ -422,7 +422,7 @@ Law Card: Wind: filler
 Leather Garb: useful
 Life Crosier: useful
 Light Robe: useful
-Lion Heart: unknown
+Lion Heart: useful
 Lionheart: useful
 Lohengrin: useful
 Longbarrel: useful
@@ -503,13 +503,14 @@ Onion Sword: useful
 Onlyone: useful
 Opal Armor: useful
 Opal Helm: useful
+Opal Helmet: useful
 Opal Shield: useful
 Orichalcum: useful
 Osafune: useful
 Outsider: useful
 Panther Soul: useful
 Parade Helm: useful
-Parade Helmet: unknown
+Parade Helmet: useful
 Paraiba Blade: useful
 Partisan: useful
 Peacemaker: useful

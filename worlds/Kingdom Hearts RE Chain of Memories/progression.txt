@@ -47,7 +47,7 @@ Enemy Card Air Soldier: useful
 Enemy Card Ansem: useful
 Enemy Card Aquatank: useful
 Enemy Card Axel: useful
-Enemy Card Bandit: unknown
+Enemy Card Bandit: useful
 Enemy Card Barrel Spider: useful
 Enemy Card Black Fungus: useful
 Enemy Card Blue Rhapsody: useful
@@ -58,10 +58,10 @@ Enemy Card Crescendo: useful
 Enemy Card Darkball: filler
 Enemy Card Darkside: useful
 Enemy Card Defender: useful
-Enemy Card Demyx: unknown
+Enemy Card Demyx: useful
 Enemy Card Dragon Maleficent: useful
 Enemy Card Fat Bandit: filler
-Enemy Card Gargoyle: unknown
+Enemy Card Gargoyle: useful
 Enemy Card Green Requiem: useful
 Enemy Card Guard Armor: filler
 Enemy Card Hades: useful
@@ -69,8 +69,8 @@ Enemy Card Hook: useful
 Enemy Card Jafar: useful
 Enemy Card Large Body: useful
 Enemy Card Larxene: filler
-Enemy Card Lexaeus: unknown
-Enemy Card Luxord: unknown
+Enemy Card Lexaeus: useful
+Enemy Card Luxord: useful
 Enemy Card Marluxia: filler
 Enemy Card Neoshadow: useful
 Enemy Card Oogie Boogie: useful
@@ -82,7 +82,7 @@ Enemy Card Riku: useful
 Enemy Card Roxas: useful
 Enemy Card Saix: filler
 Enemy Card Screwdiver: useful
-Enemy Card Sea Neon: unknown
+Enemy Card Sea Neon: useful
 Enemy Card Search Ghost: useful
 Enemy Card Shadow: useful
 Enemy Card Soldier: useful
@@ -90,7 +90,7 @@ Enemy Card Tornado Step: useful
 Enemy Card Trickmaster: useful
 Enemy Card Ursula: useful
 Enemy Card Vexen: filler
-Enemy Card White Mushroom: unknown
+Enemy Card White Mushroom: useful
 Enemy Card Wight Knight: filler
 Enemy Card Wizard: useful
 Enemy Card Wyvern: useful
@@ -136,8 +136,8 @@ Sleight Curaga: filler
 Sleight Fira: useful
 Sleight Firaga Burst: useful
 Sleight Firaga: useful
-Sleight Fire Raid: unknown
-Sleight Flare Breath LV2: unknown
+Sleight Fire Raid: useful
+Sleight Flare Breath LV2: useful
 Sleight Flare Breath LV3: filler
 Sleight Freeze: useful
 Sleight Furious Volley LV2: filler
@@ -147,7 +147,7 @@ Sleight Goofy Smash: useful
 Sleight Goofy Torando LV3: unknown
 Sleight Goofy Tornado LV2: filler
 Sleight Goofy Tornado LV3: filler
-Sleight Graviga: unknown
+Sleight Graviga: useful
 Sleight Gravira: filler
 Sleight Holy: filler
 Sleight Homing Blizzara: useful
@@ -160,7 +160,7 @@ Sleight Lucky Bounty LV2: filler
 Sleight Lucky Bounty LV3: useful
 Sleight Magic LV2: useful
 Sleight Magic LV3: filler
-Sleight Magnet Spiral: unknown
+Sleight Magnet Spiral: useful
 Sleight Mega Flare: useful
 Sleight Omnislash: useful
 Sleight Paradise LV2: filler
@@ -169,7 +169,7 @@ Sleight Proud Roar LV2: useful
 Sleight Proud Roar LV3: useful
 Sleight Quake: useful
 Sleight Raging Storm: useful
-Sleight Ragnarok: unknown
+Sleight Ragnarok: useful
 Sleight Reflect Raid: useful
 Sleight Sandstorm LV2: useful
 Sleight Sandstorm LV3: useful
@@ -185,7 +185,7 @@ Sleight Splash LV3: filler
 Sleight Stardust Blitz: useful
 Sleight Stopga: filler
 Sleight Stopra: filler
-Sleight Strike Raid: unknown
+Sleight Strike Raid: useful
 Sleight Stun Impact: useful
 Sleight Surprise! LV2: useful
 Sleight Surprise! LV3: useful
@@ -201,7 +201,7 @@ Sleight Twinkle LV2: useful
 Sleight Twinkle LV3: useful
 Sleight Warp: useful
 Sleight Warpinator: useful
-Sleight Wild Crush: unknown
+Sleight Wild Crush: useful
 Sleight Zantetsuken: filler
 Victory: progression
 World Card 100 Acre Wood: progression

@@ -1,7 +1,7 @@
 Advanced Mimic: trap
 Aegis Shield: useful
 Alastor's Hood: useful
-Angelic Ankh: unknown
+Angelic Ankh: useful
 Antidote: filler
 Apollo's Axe: useful
 Apple: useful
@@ -22,7 +22,7 @@ Blue Key: progression
 Bone Armlet: useful
 Bramble Seed: filler
 Brilliant Circlet: useful
-Broad Axe: unknown
+Broad Axe: filler
 Broad Sword: unknown
 Bronze Shield: unknown
 Burning Sword: useful
@@ -43,19 +43,20 @@ Clumsy Mimic: trap
 Coatlique: useful
 Coins 123: filler
 Coins 12: filler
+Coins 161: filler
 Coins 166: filler
 Coins 16: filler
-Coins 182: unknown
-Coins 18: unknown
-Coins 210: unknown
-Coins 306: unknown
-Coins 315: unknown
-Coins 32: unknown
+Coins 182: filler
+Coins 18: filler
+Coins 210: filler
+Coins 306: filler
+Coins 315: filler
+Coins 32: filler
 Coins 365: unknown
-Coins 383: unknown
+Coins 383: filler
 Coins 3: filler
 Coins 666: unknown
-Coins 777: unknown
+Coins 777: filler
 Coins 82: unknown
 Coins 911: filler
 Comet Mace: useful
@@ -103,7 +104,7 @@ Goblin's Rod: useful
 Golden Boots: useful
 Golden Ring: useful
 Golden Shirt: useful
-Golem Core: unknown
+Golem Core: useful
 Great Axe: unknown
 Great Sword: unknown
 Grindstone: progression
@@ -112,7 +113,7 @@ Guardian Circlet: unknown
 Guardian Ring: filler
 Hagbone Mace: useful
 Hard Nut: useful
-Haures: unknown
+Haures: useful
 Healing Fungus: progression
 Heavy Armlet: filler
 Herb: filler
@@ -124,7 +125,7 @@ Hypnos' Sword: useful
 Imperial Mimic: trap
 Iris Robe: useful
 Iris: useful
-Iron Shield: unknown
+Iron Shield: filler
 Isaac: progression
 Ivan: progression
 Ixion Mail: useful
@@ -167,7 +168,7 @@ Moloch: useful
 Muni Robe: useful
 Muramasa: useful
 Mysterious Card: useful
-Mysterious Robe: unknown
+Mysterious Robe: filler
 Mythril Armlet: useful
 Mythril Circlet: useful
 Mythril Helm: useful
@@ -194,7 +195,7 @@ Power Bread: useful
 Pretty Stone: progression
 Psy Crystal: useful
 Psychic Circlet: useful
-Psynergy Rod: unknown
+Psynergy Rod: useful
 Pure Circlet: filler
 Quick Boots: useful
 Rainbow Ring: useful
@@ -202,7 +203,7 @@ Red Cloth: progression
 Red Key: progression
 Reveal: progression
 Right Prong: progression
-Righteous Mace: unknown
+Righteous Mace: useful
 Robber's Blade: useful
 Royal Mimic: trap
 Ruin Key: progression
@@ -212,11 +213,11 @@ Rusty Axe - Viking Axe: useful
 Rusty Mace - Demon Mace: filler
 Rusty Mace - Hagbone Mace: useful
 Rusty Staff - Dracomace: useful
-Rusty Staff - Glower Staff: unknown
+Rusty Staff - Glower Staff: useful
 Rusty Staff - Goblin's Rod: useful
 Rusty Sword - Corsair's Edge: useful
-Rusty Sword - Pirate's Sabre: unknown
-Rusty Sword - Robber's Blade: unknown
+Rusty Sword - Pirate's Sabre: useful
+Rusty Sword - Robber's Blade: useful
 Rusty Sword - Soul Brand: useful
 Sacred Feather: filler
 Sacred Mimic: trap
@@ -227,8 +228,8 @@ Sea God's Tear: progression
 Shaman's Rod: progression
 Sheba: progression
 Ship: progression
-Silk Robe: unknown
-Silver Armlet: unknown
+Silk Robe: filler
+Silver Armlet: filler
 Silver Circlet: filler
 Silver Greave: useful
 Silver Helm: unknown
@@ -252,8 +253,8 @@ Themis' Axe: filler
 Thorn Crown: useful
 Tomegathericon: useful
 Trainer's Whip: useful
-Travel Robe: unknown
-Travel Vest: unknown
+Travel Robe: filler
+Travel Vest: filler
 Tremor Bit: progression
 Trident: useful
 Turtle Boots: useful
@@ -262,7 +263,7 @@ Unicorn Ring: filler
 Valkyrie Mail: useful
 Vial: filler
 Viking Helm: useful
-War Gloves: unknown
+War Gloves: useful
 War Ring: useful
 Water of Life: useful
 Weasel's Claw: filler

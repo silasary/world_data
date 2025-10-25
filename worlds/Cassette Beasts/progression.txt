@@ -1,67 +1,93 @@
-Aerosol Tape: unknown
-Azure Keystone: unknown
-Basic Tape x5: unknown
-Berserk Cure: unknown
-Canned Ice Latte: unknown
-Captain Clee-o Stamp: unknown
-Captain Codey Stamp: unknown
-Captain Cybil Stamp: unknown
-Captain Heather Stamp: unknown
-Captain Judas Stamp: unknown
-Captain Penny Dreadful Stamp: unknown
-Captain Wallace Stamp: unknown
-Espresso Express: unknown
-Ethereal Tape: unknown
-Full English (Vegan): unknown
-Fused Material x10: unknown
-Fused Material x20: unknown
-Fused Material x5: unknown
-Fused Material: unknown
-Gear Shear Sticker: unknown
-Harbourtown Gate Key: unknown
-Landkeeper Card Key: unknown
-Machine Part: unknown
-Metal x100: unknown
-Metal x5: unknown
-Metal: unknown
-Old Book: unknown
-Olive-Up!: unknown
-Petrification Cure: unknown
-Plastic x10: unknown
-Plastic x120: unknown
-Plastic x25: unknown
-Plastic x2: unknown
-Progressive Climb: unknown
-Progressive Glide: unknown
-Progressive Magnetism: unknown
-Pulp x100: unknown
-Pulp: unknown
-Ranger Handbook: unknown
-Reoderant: unknown
-Ritual Candle: unknown
-Skelly Jelly: unknown
-Song Part (Babelith): unknown
-Song Part (Heckahedron): unknown
-Song Part (Mammon): unknown
-Song Part (Nowhere Monarch): unknown
-Song Part (Puppetox): unknown
-Song Part (Robin Goodfellow): unknown
-Stamina Increase: unknown
-Superconductive Tape: unknown
-Train Ticket (Aldgrave Tomb): unknown
-Train Ticket (Glowcester): unknown
-Treebark Tape: unknown
-Type Chart: unknown
-Valve Handel: unknown
-Water-Filled Tape: unknown
-Waterloop Key: unknown
-Wheat x100: unknown
-White Rabbit Key: unknown
-Wood x100: unknown
-Wood x120: unknown
-Wood x150: unknown
-Wood x15: unknown
-Wood x20: unknown
-Wood x50: unknown
-Wood x52: unknown
-Wood x55: unknown
+Aerosol Tape: filler
+Azure Keystone: progression
+Basic Tape x5: filler
+Basic Tape: filler
+Berserk Cure: filler
+Blizzard Tape: useful
+Canned Ice Latte: filler
+Captain Badge: progression
+Captain Buffy Stamp: progression
+Captain Clee-o Stamp: progression
+Captain Codey Stamp: progression
+Captain Cybil Stamp: progression
+Captain Gladiola Stamp: progression
+Captain Heather Stamp: progression
+Captain Judas Stamp: progression
+Captain Lodestein Stamp: progression
+Captain Penny Dreadful Stamp: progression
+Captain Skip Stamp: progression
+Captain Wallace Stamp: progression
+Captain Zedd Stamp: progression
+Ceramic Tape: filler
+Chrome Tape x5: useful
+Conductive Cure: filler
+Envelope for Meredith: progression
+Espresso Express: filler
+Ethereal Tape: filler
+Ferrichrome Tape: filler
+Full English (Vegan): filler
+Fused Material x10: filler
+Fused Material x20: filler
+Fused Material x5: filler
+Fused Material: filler
+Gear Shear Sticker: progression
+Harbourtown Gate Key: progression
+Ice-IX Tape: filler
+Landkeeper Card Key: progression
+Landkeeper Window Key: progression
+Machine Part: progression
+Metal x100: filler
+Metal x5: filler
+Metal: filler
+Mourningtown Key: progression
+Old Book: filler
+Olive-Up!: useful
+Overgrowth Tape: useful
+Petrification Cure: filler
+Plastic x10: filler
+Plastic x120: filler
+Plastic x25: filler
+Plastic x2: filler
+Plastic x5: filler
+Progressive Climb: progression
+Progressive Dash: progression
+Progressive Glide: filler
+Progressive Magnetism: progression
+Pulp x100: filler
+Pulp: filler
+Ranger Handbook: progression
+Reoderant: filler
+Ritual Candle: filler
+Skelly Jelly: filler
+Song Part (Babelith): progression
+Song Part (Heckahedron): progression
+Song Part (Mammon): progression
+Song Part (Mourningstar): progression
+Song Part (Nowhere Monarch): progression
+Song Part (Puppetox): progression
+Song Part (Robin Goodfellow): progression
+Stamina Increase: progression
+Superconductive Tape: filler
+Swim: progression
+Toaster Tape: filler
+Train Ticket (Aldgrave Tomb): progression
+Train Ticket (Glowcester): progression
+Treebark Tape: filler
+Type Chart: filler
+Upgrape: useful
+Valve Handel: progression
+Water-Filled Tape: filler
+Waterloop Key: progression
+Wheat x100: filler
+Wheat: filler
+White Rabbit Key: progression
+Wood x100: filler
+Wood x120: filler
+Wood x150: filler
+Wood x15: filler
+Wood x20: filler
+Wood x50: filler
+Wood x52: filler
+Wood x55: filler
+Wood: filler
+Zephyr Sticker: progression

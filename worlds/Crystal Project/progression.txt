@@ -24,7 +24,7 @@ Equipment - Aegis Mail: unknown
 Equipment - Aerotheurge Seal - 1677: unknown
 Equipment - Aerotheurge robe - 1669: unknown
 Equipment - Aether Axe - 2070: useful
-Equipment - Aggro Band: unknown
+Equipment - Aggro Band: useful
 Equipment - Ambition LV1 - 1710: useful
 Equipment - Ambition LV2 - 1709: unknown
 Equipment - Ambition LV3 - 1711: unknown
@@ -89,7 +89,7 @@ Equipment - Boomer Sword: unknown
 Equipment - Bottomless Bag - 2040: unknown
 Equipment - Bounty Hunter LV1 - 1748: useful
 Equipment - Braccus' Two-Handed Axe - 1665: unknown
-Equipment - Bracer: unknown
+Equipment - Bracer: useful
 Equipment - Brawler Seal - 2125: unknown
 Equipment - Brawler Wrap - 2060: unknown
 Equipment - Breach Wand - 2002: unknown
@@ -104,7 +104,7 @@ Equipment - Bronze Hairpin: unknown
 Equipment - Buckler: unknown
 Equipment - Buffalo Sabre - 1693: unknown
 Equipment - Bulk Belt: unknown
-Equipment - Burglars Glove: unknown
+Equipment - Burglars Glove: useful
 Equipment - Butter Cutter: unknown
 Equipment - Butterfly Shortspear - 1835: useful
 Equipment - Butterfly: unknown
@@ -113,6 +113,7 @@ Equipment - Calamitous Hood - 1613: unknown
 Equipment - Calamitous Robes - 1614: unknown
 Equipment - Cantrip - 2031: unknown
 Equipment - Captains Hat: useful
+Equipment - Casters Ring: useful
 Equipment - Catalyst - 2052: unknown
 Equipment - Cedar Staff: unknown
 Equipment - Cedar Wand: unknown
@@ -180,7 +181,7 @@ Equipment - Craftwork Staff: useful
 Equipment - Craftwork Sword: unknown
 Equipment - Craftwork Vest: unknown
 Equipment - Craftwork Wand: unknown
-Equipment - Crit Fang: unknown
+Equipment - Crit Fang: useful
 Equipment - Critique - 2058: unknown
 Equipment - Crystal Shard - 2032: unknown
 Equipment - Crystalia Robe - 1628: unknown
@@ -190,7 +191,7 @@ Equipment - Cursegiver: unknown
 Equipment - Cutlass: unknown
 Equipment - Cycle Gem - 2010: useful
 Equipment - Dancer's Mask - 1782: unknown
-Equipment - Dancing Shoes: unknown
+Equipment - Dancing Shoes: useful
 Equipment - Daredevil Boots - 2013: unknown
 Equipment - Dark Gospel: unknown
 Equipment - Darkspike - 1970: unknown
@@ -268,10 +269,10 @@ Equipment - False Hero's Guise - 1975: unknown
 Equipment - Familiar Hoodie - 2126: unknown
 Equipment - Fang Pendant: useful
 Equipment - Fanged Nunchaku - 1848: unknown
-Equipment - Fearsome Ring: unknown
+Equipment - Fearsome Ring: useful
 Equipment - Feathered Vest - 1995: useful
 Equipment - Fencer Vest: unknown
-Equipment - Fervor Charm: unknown
+Equipment - Fervor Charm: useful
 Equipment - Fey Collar - 1798: unknown
 Equipment - Feyblessed Tiara - 1956: useful
 Equipment - Fire Collar - 1801: useful
@@ -288,7 +289,7 @@ Equipment - Flameseeker: unknown
 Equipment - Flamespike: unknown
 Equipment - Flask of Heroism - 1885: useful
 Equipment - Fleuret: unknown
-Equipment - Float Shoes: unknown
+Equipment - Float Shoes: useful
 Equipment - Flood Pendant - 1964: unknown
 Equipment - Focus Charm - 2012: unknown
 Equipment - Freelancer Seal - 2128: unknown
@@ -309,7 +310,7 @@ Equipment - Geomante Seal - 1675: unknown
 Equipment - Geomante armor - 1660: unknown
 Equipment - Giant Boomer - 1972: useful
 Equipment - Gilded Crescent - 1871: unknown
-Equipment - Givers Ring: unknown
+Equipment - Givers Ring: useful
 Equipment - Glasses: useful
 Equipment - Gnarled Root: unknown
 Equipment - Gold Ring - 2091: unknown
@@ -397,7 +398,7 @@ Equipment - Iron Rod: useful
 Equipment - Iron Sword: unknown
 Equipment - Itemmaster's Earrings - 1974: unknown
 Equipment - Jadeforged Ring - 1962: useful
-Equipment - Jewel of Defense: unknown
+Equipment - Jewel of Defense: useful
 Equipment - Judgement: unknown
 Equipment - Judo Gi: unknown
 Equipment - Kaiser Blade - 1860: unknown
@@ -422,11 +423,11 @@ Equipment - Lion Crest - 2062: unknown
 Equipment - Liquidator - 1892: unknown
 Equipment - Longneck Rifle - 1895: unknown
 Equipment - Looters Pin: unknown
-Equipment - Looters Ring: unknown
+Equipment - Looters Ring: useful
 Equipment - Loyalty - 1827: unknown
-Equipment - Lucky Briefs: unknown
+Equipment - Lucky Briefs: useful
 Equipment - Lucky Platter: useful
-Equipment - Lucky Socks: unknown
+Equipment - Lucky Socks: useful
 Equipment - Lucky charm - 1733: unknown
 Equipment - Lunar Mail: unknown
 Equipment - Machinist Seal - 2123: unknown
@@ -439,7 +440,7 @@ Equipment - Magic Finder: useful
 Equipment - Magical Girl Seal - 2131: unknown
 Equipment - Malifice: unknown
 Equipment - Malleus Maleficarum LV2? - 1695: unknown
-Equipment - Mana Ring: unknown
+Equipment - Mana Ring: useful
 Equipment - Mars' Cloak - 1856: unknown
 Equipment - Mask of the Timeless - 2027: unknown
 Equipment - Mechanized Lance - 2154: unknown
@@ -479,7 +480,7 @@ Equipment - Nightingale: unknown
 Equipment - Ninja Toolbox - 2137: unknown
 Equipment - Ninja Vest: useful
 Equipment - Nomad Vest: useful
-Equipment - Nomads Emblem: unknown
+Equipment - Nomads Emblem: useful
 Equipment - Nomads Guard: unknown
 Equipment - Oak Wand: unknown
 Equipment - Obsidian Staff - 2019: useful
@@ -526,7 +527,7 @@ Equipment - Poison Talon: unknown
 Equipment - Poisonkiss: unknown
 Equipment - Potion of Aetherbody - 1884: unknown
 Equipment - Power Glove - 2087: unknown
-Equipment - Prayer Beads: unknown
+Equipment - Prayer Beads: useful
 Equipment - Primitive Axe - 1811: unknown
 Equipment - Prismatic Barrier LV1 - 1745: useful
 Equipment - Prismatic Barrier LV2 - 1746: useful
@@ -538,14 +539,14 @@ Equipment - Prodder: unknown
 Equipment - Progressive 1H Axe: useful
 Equipment - Progressive 1H Sword: useful
 Equipment - Progressive 2H Axe: useful
-Equipment - Progressive 2H Sword: unknown
+Equipment - Progressive 2H Sword: useful
 Equipment - Progressive Beating Staff: useful
 Equipment - Progressive Book: useful
-Equipment - Progressive Bow: unknown
+Equipment - Progressive Bow: useful
 Equipment - Progressive Dagger: useful
 Equipment - Progressive Heavy Body: useful
 Equipment - Progressive Heavy Head: useful
-Equipment - Progressive Katana: unknown
+Equipment - Progressive Katana: useful
 Equipment - Progressive Light Body: useful
 Equipment - Progressive Light Head: progression
 Equipment - Progressive Medium Body: useful
@@ -557,7 +558,7 @@ Equipment - Progressive Shield: useful
 Equipment - Progressive Spear: useful
 Equipment - Progressive Staff: useful
 Equipment - Progressive Wand: useful
-Equipment - Protect Amulet: unknown
+Equipment - Protect Amulet: useful
 Equipment - Protective Goggles - 2008: unknown
 Equipment - Protector: unknown
 Equipment - Pumpking helmet - 1706: unknown
@@ -584,10 +585,10 @@ Equipment - Red Helmet - 1978: unknown
 Equipment - Redder Coat - 1979: unknown
 Equipment - Regenerating Flask - 1886: unknown
 Equipment - Reinforced Crossbow - 1889: unknown
-Equipment - Resist Shifter: unknown
+Equipment - Resist Shifter: useful
 Equipment - Rhetorist Book - 1785: useful
 Equipment - Rhetorist Seal - 1783: unknown
-Equipment - Ribbon: unknown
+Equipment - Ribbon: useful
 Equipment - Righteous Wrath - 1823: unknown
 Equipment - Ring Mail: unknown
 Equipment - Ring of Wizardry - 1966: unknown
@@ -612,7 +613,7 @@ Equipment - Sacrificial Ring - 1864: unknown
 Equipment - Sages Walker: unknown
 Equipment - Samurai Mail: useful
 Equipment - Samurai's Other Glove - 2095: useful
-Equipment - Samurais Glove: unknown
+Equipment - Samurais Glove: useful
 Equipment - Sange: unknown
 Equipment - Sanity Ring: useful
 Equipment - Sawn-off Rifle - 1894: useful
@@ -632,7 +633,7 @@ Equipment - Shadow Gi: useful
 Equipment - Shaman Robe: unknown
 Equipment - Shank: unknown
 Equipment - Sharp Sword: unknown
-Equipment - Shell Amulet: unknown
+Equipment - Shell Amulet: useful
 Equipment - Shellter Gown - 1954: unknown
 Equipment - Shelter Dress: unknown
 Equipment - Shinigami-no-yokan - 1814: useful
@@ -687,7 +688,7 @@ Equipment - Stealth Cape: useful
 Equipment - Steel Nunchaku - 1850: unknown
 Equipment - Stick - 1897: unknown
 Equipment - Stinger: useful
-Equipment - Stone of Jodan: unknown
+Equipment - Stone of Jodan: useful
 Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
 Equipment - Storm Cap: unknown
@@ -819,25 +820,25 @@ Item - Ancient Labyrinth Pass: unknown
 Item - Ancient Reservoir Map: useful
 Item - Ancient Reservoir Pass: progression
 Item - Ancient Tablet A: progression
-Item - Ancient Tablet B: unknown
+Item - Ancient Tablet B: progression
 Item - Ancient Tablet C: unknown
 Item - Ancient Tome of Body Mastery - 348: unknown
 Item - Ascendent Shard - 360: unknown
-Item - Babel Quintar: unknown
+Item - Babel Quintar: progression
 Item - Basement Map: unknown
 Item - Beaurior Key Ring: unknown
 Item - Beaurior Rock Map: useful
-Item - Beaurior Rock Pass: unknown
+Item - Beaurior Rock Pass: progression
 Item - Beaurior Volcano Map: unknown
 Item - Beaurior Volcano Pass: unknown
 Item - Bitter Pop Candy: filler
 Item - Black Squirrel: progression
 Item - Blood stone - 347: useful
 Item - Boomer Society Map: useful
-Item - Boomer Society Pass: unknown
-Item - Boss Key: unknown
+Item - Boomer Society Pass: progression
+Item - Boss Key: progression
 Item - Buffalo Amulete - 350: unknown
-Item - Callisto Stone: unknown
+Item - Callisto Stone: progression
 Item - Canopy Key: unknown
 Item - Capital Courtyard Map: useful
 Item - Capital Jail Map: unknown
@@ -845,13 +846,13 @@ Item - Capital Jail Pass: progression
 Item - Capital Pipeline Map: useful
 Item - Capital Pipeline Pass: progression
 Item - Capital Sequoia Map: unknown
-Item - Capital Sequoia Pass: unknown
+Item - Capital Sequoia Pass: progression
 Item - Castle Ramparts Map: useful
 Item - Castle Ramparts Pass: progression
 Item - Castle Sequoia Map: useful
 Item - Castle Sequoia Pass: progression
 Item - Cave Key: unknown
-Item - Cell Key: unknown
+Item - Cell Key: progression
 Item - Central Lookout Token: mcguffin
 Item - Cerulean Book: progression
 Item - Clamshell: mcguffin
@@ -860,25 +861,25 @@ Item - Cobblestone Crag Pass: progression
 Item - Compendium of Mortal Techniques - 349: unknown
 Item - Continental Tram Map: unknown
 Item - Continental Tram Pass: progression
-Item - Courtyard Key: unknown
-Item - Crag Demon Horn: unknown
-Item - Dark Wing Key: unknown
+Item - Courtyard Key: progression
+Item - Crag Demon Horn: progression
+Item - Dark Wing Key: progression
 Item - Decent Cod Bag: useful
 Item - Decent Cod: filler
 Item - Deity Eye: progression
 Item - Delende Map: unknown
-Item - Delende Pass: unknown
+Item - Delende Pass: progression
 Item - Diamond Dust: filler
 Item - Diamond Ingot: useful
 Item - Diamond Ore: useful
 Item - Digested Head: filler
 Item - Dione Shrine Map: useful
-Item - Dione Shrine Pass: unknown
+Item - Dione Shrine Pass: progression
 Item - Dione Stone: progression
 Item - Dog Bone: mcguffin
 Item - Draft Shaft Conduit Map: useful
-Item - Draft Shaft Conduit Pass: unknown
-Item - East Wing Key: unknown
+Item - Draft Shaft Conduit Pass: progression
+Item - East Wing Key: progression
 Item - Eastern Chasm Map: unknown
 Item - Eastern Chasm Pass: progression
 Item - Elevator Part: mcguffin
@@ -891,17 +892,17 @@ Item - Fenix Syrup Pouch: filler
 Item - Fenix Syrup: filler
 Item - Ferry Pass: progression
 Item - Fire Stone - 367: unknown
-Item - Flimsy Rod: unknown
-Item - Fly Lure: unknown
+Item - Flimsy Rod: useful
+Item - Fly Lure: useful
 Item - Flyer's Crag Map: useful
 Item - Flyer's Crag Pass: unknown
 Item - Flyer's Lookout Map: unknown
 Item - Flyers Crag Map: unknown
 Item - Flyers Lookout Map: unknown
 Item - Foliage Key: unknown
-Item - Forgotten Key: unknown
+Item - Forgotten Key: progression
 Item - Fresh Salmon: filler
-Item - Gaea Stone: unknown
+Item - Gaea Stone: progression
 Item - Ganymede Shrine Map: unknown
 Item - Ganymede Shrine Pass: progression
 Item - Ganymede Stone: progression
@@ -913,7 +914,7 @@ Item - Greenshire Reprise Map: unknown
 Item - Greenshire Reprise Pass: progression
 Item - Home Point Stone: useful
 Item - Ibek Bell: progression
-Item - Ibek Cave Pass: unknown
+Item - Ibek Cave Pass: progression
 Item - Ice Cell Key: progression
 Item - Ice Puzzle Key Ring: unknown
 Item - Ice Puzzle Key: progression
@@ -927,7 +928,7 @@ Item - Jidamba Tangle Map: useful
 Item - Jidamba Tangle Pass: unknown
 Item - Jigging Lure: filler
 Item - Jojo Sewers Map: useful
-Item - Jojo Sewers Pass: unknown
+Item - Jojo Sewers Pass: progression
 Item - Lake Delende Map: unknown
 Item - Lake Delende Pass: progression
 Item - Land's End Map: useful
@@ -935,14 +936,14 @@ Item - Land's End Pass: unknown
 Item - Lands End Map: unknown
 Item - Leaf Stone - 370: progression
 Item - Lost Penguin: mcguffin
-Item - Luxury Key: unknown
+Item - Luxury Key: progression
 Item - Mage's Bane - 361: unknown
 Item - Mage's Bane Pouch - 362: unknown
-Item - Mars Stone: unknown
+Item - Mars Stone: progression
 Item - Mercury Shrine Map: unknown
-Item - Mercury Shrine Pass: unknown
-Item - Mercury Stone: unknown
-Item - Milk Bag: unknown
+Item - Mercury Shrine Pass: progression
+Item - Mercury Stone: progression
+Item - Milk Bag: useful
 Item - Milk: filler
 Item - Moon Stone - 369: progression
 Item - Nans Cocoa: filler
@@ -956,11 +957,11 @@ Item - North Lookout Token: progression
 Item - Northern Cave Map: useful
 Item - Northern Cave Pass: unknown
 Item - Northern Stretch Map: useful
-Item - Northern Stretch Pass: unknown
-Item - Nuts Sack: unknown
+Item - Northern Stretch Pass: progression
+Item - Nuts Sack: useful
 Item - Nuts: filler
 Item - Okimoto N.S. Map: unknown
-Item - Okimoto N.S. Pass: unknown
+Item - Okimoto N.S. Pass: progression
 Item - Old World Stone: progression
 Item - Overpass Map: useful
 Item - Owl Drum: progression
@@ -968,7 +969,7 @@ Item - Pale Grotto Map: unknown
 Item - Pearl of the Seas - 358: unknown
 Item - Plug Lure: filler
 Item - Poko Poko Desert Map: useful
-Item - Poko Poko Desert Pass: unknown
+Item - Poko Poko Desert Pass: progression
 Item - Poseidon Shrine Map: unknown
 Item - Poseidon Stone: progression
 Item - Potion Pouch: filler
@@ -976,7 +977,7 @@ Item - Potion: filler
 Item - Prison Key Ring: unknown
 Item - Progressive Level Cap: progression
 Item - Progressive Level: useful
-Item - Progressive Luxury Pass: unknown
+Item - Progressive Luxury Pass: progression
 Item - Progressive Mount Instrument: progression
 Item - Progressive Quintar Flute: progression
 Item - Progressive Salmon Violin: progression
@@ -984,64 +985,64 @@ Item - Proving Meadows Map: useful
 Item - Proving Meadows Pass: unknown
 Item - Pyramid Key: progression
 Item - Quintar Mausoleum Map: useful
-Item - Quintar Mausoleum Pass: unknown
+Item - Quintar Mausoleum Pass: progression
 Item - Quintar Nest Map: unknown
 Item - Quintar Nest Pass: progression
 Item - Quintar Reserve Map: useful
-Item - Quintar Reserve Pass: unknown
+Item - Quintar Reserve Pass: progression
 Item - Quintar Sanctum Map: unknown
-Item - Quintar Sanctum Pass: unknown
+Item - Quintar Sanctum Pass: progression
 Item - Rampart Key: progression
 Item - Rations - 334: unknown
 Item - Red Door Key: unknown
 Item - River Cat's Ego Map: useful
 Item - River Cats Ego Map: unknown
 Item - Rolling Quintar Fields Map: useful
-Item - Rolling Quintar Fields Pass: unknown
+Item - Rolling Quintar Fields Pass: progression
 Item - Room 1 Key: progression
 Item - Rotten Salmon: unknown
 Item - STEM WARD: progression
 Item - Salmon Bay Map: useful
 Item - Salmon Bay Pass: progression
 Item - Salmon Pass Map: useful
-Item - Salmon Pass Pass: unknown
+Item - Salmon Pass Pass: progression
 Item - Salmon River Map: useful
-Item - Salmon River Pass: unknown
+Item - Salmon River Pass: progression
 Item - Sara Sara Bazaar Map: useful
-Item - Sara Sara Bazaar Pass: unknown
-Item - Sara Sara Beach East Pass: unknown
+Item - Sara Sara Bazaar Pass: progression
+Item - Sara Sara Beach East Pass: progression
 Item - Sara Sara Beach Map: useful
-Item - Sara Sara Beach West Pass: unknown
+Item - Sara Sara Beach West Pass: progression
 Item - Scroll: filler
 Item - Seaside Cliffs Map: useful
-Item - Seaside Cliffs Pass: unknown
+Item - Seaside Cliffs Pass: progression
 Item - Sequoia Athenaeum Map: unknown
 Item - Sequoia Athenaeum Pass: progression
 Item - Shiny Stone - 372: unknown
 Item - Shoudu Province Map: useful
-Item - Shoudu Province Pass: unknown
+Item - Shoudu Province Pass: progression
 Item - Shoudu Stew: unknown
-Item - Shoudu Waterfront Pass: unknown
+Item - Shoudu Waterfront Pass: progression
 Item - Silver Dust: useful
 Item - Silver Ingot: useful
 Item - Silver Ore: useful
 Item - Skeleton Key: progression
 Item - Skumparadise Map: useful
-Item - Skumparadise Pass: unknown
+Item - Skumparadise Pass: progression
 Item - Slip Glide Ride Key Ring: unknown
 Item - Slip Glide Ride Map: useful
 Item - Slip Glide Ride Pass: unknown
-Item - Small Key: unknown
+Item - Small Key: progression
 Item - Soiled Den Map: useful
-Item - Soiled Den Pass: unknown
+Item - Soiled Den Pass: progression
 Item - Sour Pop Candy: filler
 Item - South Wing Key: progression
 Item - Spawning Meadows Map: useful
-Item - Spawning Meadows Pass: unknown
-Item - Special Fresh Salmon: unknown
-Item - Special Milk: unknown
+Item - Spawning Meadows Pass: progression
+Item - Special Fresh Salmon: progression
+Item - Special Milk: progression
 Item - Special Rotten Salmon: progression
-Item - Special Shoudu Stew: unknown
+Item - Special Shoudu Stew: progression
 Item - Sun Stone - 368: progression
 Item - Super Rod: useful
 Item - Sweet Pop Candy: filler
@@ -1052,11 +1053,11 @@ Item - Tarot Box - 373: unknown
 Item - The Chalice of Tar Map: unknown
 Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: useful
-Item - The Deep Sea Pass: unknown
+Item - The Deep Sea Pass: progression
 Item - The Depths Map: useful
-Item - The Depths Pass: unknown
+Item - The Depths Pass: progression
 Item - The New World Map: useful
-Item - The New World Pass: unknown
+Item - The New World Pass: progression
 Item - The Old World Map: useful
 Item - The Old World Pass: progression
 Item - The Open Sea Map: unknown
@@ -1072,7 +1073,7 @@ Item - Tincture Pouch: useful
 Item - Tincture: filler
 Item - Tonic Pouch: filler
 Item - Tonic: filler
-Item - Tough Rod: unknown
+Item - Tough Rod: useful
 Item - Tram Key: progression
 Item - Treasure Finder: useful
 Item - Treasure map #1 - 351: filler
@@ -1088,10 +1089,10 @@ Item - Viridian Book: unknown
 Item - Warrior's Bane - 363: unknown
 Item - Water Stone - 365: unknown
 Item - Weresheep wool - 359: unknown
-Item - West Lookout Token: unknown
-Item - West Wing Key: unknown
+Item - West Lookout Token: progression
+Item - West Wing Key: progression
 Item - Yamagawa M.A. Map: unknown
-Item - Yamagawa M.A. Pass: unknown
+Item - Yamagawa M.A. Pass: progression
 Item - Z-Potion Pouch: useful
 Item - Z-Potion: filler
 Item - Zether Pouch: useful
@@ -1103,7 +1104,7 @@ Job - Arcanist - 73: progression
 Job - Archer - 116: unknown
 Job - Assassin: progression
 Job - Bard - 129: unknown
-Job - Beastmaster: unknown
+Job - Beastmaster: progression
 Job - Beatsmith: progression
 Job - Blade Dancer - 82: unknown
 Job - Brawler - 89: progression
@@ -1111,7 +1112,7 @@ Job - Brimstone Witch - 25: unknown
 Job - Bushi - 75: unknown
 Job - Change of Role - 42: unknown
 Job - Chemist: progression
-Job - Cleric: unknown
+Job - Cleric: progression
 Job - Conductor - 46: unknown
 Job - Crusader - 127: unknown
 Job - Crystalia - 29: progression
@@ -1123,7 +1124,7 @@ Job - Eclipsar - 45: unknown
 Job - Eevee - 53: unknown
 Job - Espeon - 57: unknown
 Job - Fafnir - 147: progression
-Job - Fencer: unknown
+Job - Fencer: progression
 Job - Flagellant - 30: progression
 Job - Flareon - 56: unknown
 Job - Fortress - 78: progression
@@ -1167,56 +1168,56 @@ Job - Sage - 128: unknown
 Job - Samurai: progression
 Job - Scholar: progression
 Job - Scoundrel - 35: unknown
-Job - Shaman: unknown
+Job - Shaman: progression
 Job - Sniper - 79: unknown
 Job - Soldier - 36: unknown
-Job - Summoner: unknown
+Job - Summoner: progression
 Job - Suppressor - 47: unknown
 Job - Sylveon - 62: unknown
 Job - Umbreon - 58: unknown
-Job - Valkyrie: unknown
+Job - Valkyrie: progression
 Job - Vaporeon - 54: progression
 Job - Warlock: progression
 Job - Warrior: progression
-Job - Weaver: unknown
+Job - Weaver: progression
 Job - Witch - 34: unknown
 Job - Wizard: progression
-Scholar - Adrenaline: unknown
-Scholar - Aero: unknown
+Scholar - Adrenaline: useful
+Scholar - Aero: useful
 Scholar - Atmoshear: useful
 Scholar - Barrier: useful
 Scholar - Build Life: useful
-Scholar - Explode: unknown
+Scholar - Explode: useful
 Scholar - Fire Breath: useful
-Scholar - Infusion: unknown
-Scholar - Insult: unknown
+Scholar - Infusion: useful
+Scholar - Insult: useful
 Scholar - Lifegiver: useful
-Scholar - Lucky Dice: unknown
+Scholar - Lucky Dice: useful
 Scholar - MP Sickle: useful
-Scholar - Overload: unknown
+Scholar - Overload: useful
 Scholar - Reflection: unknown
-Scholar - Regenerate: unknown
+Scholar - Regenerate: useful
 Scholar - Reverse Polarity: useful
-Scholar - Roost: unknown
+Scholar - Roost: useful
 Scholar - Sleep Aura: useful
-Scholar - Sun Bath: unknown
-Scholar - Whirlwind: unknown
-Summon - Coyote: unknown
+Scholar - Sun Bath: useful
+Scholar - Whirlwind: useful
+Summon - Coyote: useful
 Summon - Guaba: useful
-Summon - Ioske: unknown
-Summon - Juses: unknown
+Summon - Ioske: useful
+Summon - Juses: useful
 Summon - Niltsi: useful
 Summon - Pah: unknown
 Summon - Pamoa: useful
-Summon - Shaku: unknown
-Summon - Tira: unknown
-Trap - Clothes Fall Off Trap: unknown
-Trap - Crag Demon Trap: unknown
-Trap - Dialog Trap: unknown
-Trap - Dismount Trap: unknown
+Summon - Shaku: useful
+Summon - Tira: useful
+Trap - Clothes Fall Off Trap: trap
+Trap - Crag Demon Trap: trap
+Trap - Dialog Trap: trap
+Trap - Dismount Trap: trap
 Trap - Dunk Tank Trap: unknown
-Trap - Moon Jump Trap: unknown
-Trap - Oregon Trap: unknown
-Trap - Snail Jump Trap: unknown
-Trap - Teleport Trap: unknown
-Trap - Trap Pack Trap: unknown
+Trap - Moon Jump Trap: trap
+Trap - Oregon Trap: trap
+Trap - Snail Jump Trap: trap
+Trap - Teleport Trap: trap
+Trap - Trap Pack Trap: trap

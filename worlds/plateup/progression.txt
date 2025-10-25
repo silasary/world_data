@@ -19,7 +19,7 @@ Conveyor: useful
 Copying Desk: useful
 Counter: useful
 Danger Hob: progression
-Day Lease: unknown
+Day Lease: progression
 Dining Table: useful
 Discount Desk: filler
 Dish Rack: useful
@@ -45,7 +45,7 @@ Hob: useful
 Hosting Stand: filler
 Ice Dispenser: unknown
 Kitchen Floor Protector: filler
-Lasagne Tray: unknown
+Lasagne Tray: filler
 Lasting Mop: useful
 Leftover Bags: useful
 Microwave: useful
@@ -77,8 +77,8 @@ Smart Grabber: progression
 Soaking Sink: useful
 Specials Menu: filler
 Specials Terminal: filler
-Speed Upgrade Chop: unknown
-Speed Upgrade Cook: unknown
+Speed Upgrade Chop: progression
+Speed Upgrade Cook: progression
 Speed Upgrade Player: progression
 Starter Bin: filler
 Starter Plates: filler
@@ -89,7 +89,7 @@ Supplies: useful
 Teleporter: useful
 Trainers: useful
 Wash Basin: progression
-Wellies: unknown
-Woks: unknown
+Wellies: filler
+Woks: filler
 Work Boots: filler
 Workstation: useful

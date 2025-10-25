@@ -6,9 +6,10 @@ Apu - American: progression
 Apu - Army: useful
 Apu - B-sharps: useful
 Apu Attack: progression
-Apu Checkered Flag: unknown
+Apu Checkered Flag: progression
 Apu Double Jump: progression
 Apu E-Brake: progression
+Apu Gagfinder: progression
 Armored Truck: useful
 Bandit: useful
 Bart - Bartman: useful
@@ -18,10 +19,10 @@ Bart - Hugo: useful
 Bart - Ninja: useful
 Bart - Tall: useful
 Bart Attack: progression
-Bart Checkered Flag: unknown
+Bart Checkered Flag: progression
 Bart Double Jump: progression
 Bart E-Brake: progression
-Bart Gagfinder: unknown
+Bart Gagfinder: progression
 Book Burning Van: useful
 Canyonero: progression
 Car Built For Homer: progression
@@ -49,16 +50,18 @@ Homer - Donut: useful
 Homer - Evil: useful
 Homer - Muumuu: useful
 Homer Attack: progression
-Homer Checkered Flag: unknown
+Homer Checkered Flag: progression
 Homer Double Jump: progression
 Homer E-Brake: progression
+Homer Gagfinder: progression
+Homer Progressive Jump: progression
 Honor Roller: progression
 Hover Bike: useful
 Hover Car: useful
 Knight Boat: useful
 Kremlin: useful
 Krusty's Limo: useful
-Launch: unknown
+Launch: trap
 Level 1: progression
 Level 2: progression
 Level 3: progression
@@ -71,19 +74,21 @@ Lisa - Cool: progression
 Lisa - Floreda: useful
 Lisa - Hockey: useful
 Lisa Attack: progression
-Lisa Checkered Flag: unknown
+Lisa Checkered Flag: progression
 Lisa Double Jump: progression
 Lisa E-Brake: progression
-Lisa Gagfinder: unknown
+Lisa Gagfinder: progression
+Lisa Progressive Jump: progression
 Longhorn: progression
 Malibu Stacy Car: progression
 Marge - Classy: useful
 Marge - Inmate: useful
 Marge - Police: progression
 Marge Attack: progression
-Marge Checkered Flag: unknown
+Marge Checkered Flag: progression
 Marge Double Jump: progression
 Marge E-Brake: progression
+Marge Gagfinder: progression
 Moe's Sedan: useful
 Monorail Car: useful
 Mr. Burns' Limo: useful
@@ -101,7 +106,7 @@ R/C Buggy: useful
 Reset Car: trap
 School Bus: progression
 Sedan: useful
-Skinner's Sedan: unknown
+Skinner's Sedan: useful
 Speed Rocket: useful
 Surveillance Van: useful
 Tractor: useful

@@ -1,7 +1,7 @@
 1 D$: filler
 1 KROMER: filler
 1 POINT: filler
-10 D$: unknown
+10 D$: filler
 10 KROMER: useful
 10 POINTs: filler
 100 D$: useful
@@ -34,7 +34,7 @@ Bronze Trophy: filler
 Butler Juice: unknown
 CD Bagel: filler
 Camera: progression
-Chain Mail: unknown
+Chain Mail: useful
 Chapter 1: progression
 Chapter 2: progression
 Chapter 3: progression
@@ -103,7 +103,7 @@ Lanino Recruit: progression
 Light Candy: useful
 Lode Stone: useful
 MIKE Code: unknown
-Malius Fusion: unknown
+Malius Fusion: progression
 Mane Ax: unknown
 Mannequin: useful
 Manual: unknown

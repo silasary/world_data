@@ -1,10 +1,14 @@
 Abyss Heather: progression
-Acerola Pea: unknown
+Acerola Pea: progression
 Agniratha Key: progression
 Alcamoth Key: progression
 Amblygon Turtle: progression
+Angel Bream: progression
 Angel Engine X: progression
+Angel Engine Y: progression
 Angry Monkey: progression
+Arms Appearance Slot: filler
+Azure Hollyhock: progression
 Azure Mouse: progression
 Bad Present: trap
 Bellflower Crystal: progression
@@ -15,6 +19,8 @@ Bionis' Leg Key: progression
 Bitter Broccoli: progression
 Bitter Kiwi: progression
 Black Beetle: progression
+Black Blossom: progression
+Black Chip: progression
 Black Iris: progression
 Black Kiwi: progression
 Black Peony: progression
@@ -29,10 +35,11 @@ Blue Glow: progression
 Blue Ladybird: progression
 Blue Light Amp: progression
 Blue Turnip: progression
-Bluesky Bark: unknown
+Bluesky Bark: progression
 Bright Fig: progression
 Bronze Wood: progression
 Broom Icicle: progression
+Brown Butterfly: progression
 Bud of Eternity: progression
 Casual Mode: useful
 Cave Rat: progression
@@ -51,6 +58,7 @@ Colony 6 Reconstruction Special Level: progression
 Cream Wheat: progression
 Crimson Citrus: progression
 Crystal Frog: progression
+Cute Orchid: progression
 Cute Parsnip: progression
 Dance Apple: progression
 Dancing Squirrel: progression
@@ -73,6 +81,7 @@ Dry Lemon: progression
 Dubious Sculpture: progression
 Dunban Progressive Affinity Rank: progression
 Dunban: Binding Blossom Art Book: useful
+Dunban: Final Flicker Art Book: useful
 Dunban: Heat Haze Art Book: useful
 Dunban: Worldly Slash Art Book: useful
 Electric Cricket: progression
@@ -80,6 +89,7 @@ Emerald Snow: progression
 Emperor Beetle: progression
 Empress Beetle: progression
 Energy Aubergine: progression
+Enigma Lotus: progression
 Eryth Blue: progression
 Eryth Sea Key: progression
 Ether Mine Key: progression
@@ -91,7 +101,9 @@ Fallen Arm Key: progression
 Fancy Bolt: progression
 Fatal Belladonna: progression
 Fiora Progressive Affinity Rank: progression
-Fiora: Power Drain Art Book: unknown
+Fiora: Final Cross Art Book: useful
+Fiora: Hidden Thorn Art Book: useful
+Fiora: Power Drain Art Book: useful
 Fiora: Zero Gravity Art Book: useful
 Fire Apple: progression
 Fire Tarantula: progression
@@ -106,10 +118,12 @@ Frost Glass: progression
 Galahad Fortress Key: progression
 Giant Hornet: progression
 Girl Courgette: progression
+Glider Cockroach: progression
 Gold Burdock: progression
 Gold Caterpillar: progression
-Gold Condenser: unknown
+Gold Condenser: progression
 Gold Dust Illusion: progression
+Grape Spring: progression
 Gravel Disk: progression
 Green Cam: progression
 Green Diode: progression
@@ -134,10 +148,11 @@ Humming Cabbage: progression
 Humming Cat: progression
 Ice Cabbage: progression
 Ice Kiwi Fruit: progression
+Ice Monkey: progression
 Insanity Mint: progression
 Insanity Moss: progression
 Ivy Nest: progression
-Juicy Broccoli: unknown
+Juicy Broccoli: progression
 Juicy Grape: progression
 Juicy Melon: progression
 Juicy Steakplant: progression
@@ -150,28 +165,37 @@ Lemon Stone: progression
 Lemonade Sky: progression
 Lewisia Silver: progression
 Light Bat: progression
-Lightning Weasel: unknown
+Lightning Weasel: progression
 Lobster: filler
 Locust Spring: progression
 Love Beetle: progression
 Love Crane: progression
 Love Source: progression
+Macro Passion: progression
 Makna Forest Key: progression
 Mane Cat (FC): progression
 Mane Cat: progression
+Marine Marble: progression
 Mat Ice: progression
 Meaty Carrot: progression
 Meaty Potato: progression
 Mechonis Field Key: progression
 Melia Progressive Affinity Rank: progression
+Melia: Power Effect Art Book: useful
 Melia: Progressive Head Armor: useful
+Melia: Progressive Weapon: useful
+Melia: Reliability Skill Tree: useful
+Melia: Starlight Kick Art Book: useful
 Melia: Summon Bolt Art Book: useful
 Memory Fragment: mcguffin
 Merry Coronation: progression
+Minute Mantis: progression
 Missing Tree: progression
 Mist Tree: progression
 Modern Blue Gear: progression
+Modern Resistor: progression
 Morrow Cob: progression
+Moth Crawler: progression
 Mud Squirrel: progression
 Mystery Firefly: progression
 Mystic Dahlia: progression
@@ -185,12 +209,14 @@ Parts Noble: progression
 Pauper's Cup: progression
 Pink Asparagus: progression
 Pione Stone: progression
+Poisonous Gourd: progression
 Prairie Dragonfly: progression
 Princess Daffodil: progression
 Prison Island (1st Visit) Key: progression
 Prison Island (2nd Visit) Key: progression
 Progressive Animal Category: progression
 Progressive Bug Category: progression
+Progressive Fire Gem: useful
 Progressive Flower Category: progression
 Progressive Fruit Category: progression
 Progressive Hunting License: progression
@@ -198,36 +224,45 @@ Progressive Nature Category: progression
 Progressive Part Category: progression
 Progressive Strange Category: progression
 Progressive Vegetable Category: progression
+Progressive Water Gem: useful
 Progressive Wind Gem: useful
 Pure Cherry: progression
 Purple Lamp: progression
-Pyro Lizard: unknown
+Pyro Lizard: progression
 Queen Locust: progression
+Rabbit Diode: progression
+Rabbit Stone: progression
 Rainbow Bug: progression
 Rainbow Carrot: progression
 Ready Coil: progression
 Retro Diode: progression
 Reyn Progressive Affinity Rank: progression
+Reyn: Magnum Charge Art Book: useful
 Riki Progressive Affinity Rank: progression
+Riki: Bedtime Art Book: useful
+Riki: Tantrum Art Book: useful
 Rubber Mantis: progression
 Ruby Mangosteen: progression
 Rumble Box: progression
 Rumble Coal: progression
 Rumble Part: progression
 Rumble Stonefly: progression
-Rusty Bolt: unknown
+Rusty Bolt: progression
 Sacred Panther: progression
 Satorl Marsh Key: progression
 Scarlet Crawler: progression
 Scissor Bug: progression
 Sea Berry: progression
 Sharla Progressive Affinity Rank: progression
+Sharla: Heal Counter Art Book: useful
 Shield Bug: progression
 Shin Gecko: progression
 Shin Newt: progression
 Shiny Scarab: progression
 Shulk Progressive Affinity Rank: progression
 Shulk: Monado Cyclone Art Book: useful
+Shulk: Progressive Torso Armor: useful
+Shulk: Shadow Eye Art Book: useful
 Shulk: Stream Edge Art Book: useful
 Sirius Anemone: progression
 Sky Mole: progression
@@ -238,6 +273,7 @@ Soft Sea Cucumber: progression
 Sorrow Beetle: progression
 Sour Turnip: progression
 Spicy Banana: progression
+Spicy Nut: progression
 Splish Splash: progression
 Stardrop: progression
 Steel Hauyne: progression
@@ -252,15 +288,17 @@ Sweet Pepper: progression
 Swirly Slash: progression
 Sword Valley Key: progression
 Tail Antenna: progression
+Tap Tap Tap: progression
 Tephra Cave Key: progression
 Thunder Atmos: progression
 Thunder Compass: progression
 Tropical Radish: progression
 Tweet Tweet: progression
 Ultramarine Ant: progression
+Unskippable Cutscene Trap: trap
 Valak Mountain Key: progression
 Venom Platypus: progression
-Venomous Lizard: unknown
+Venomous Lizard: progression
 Verdant Eternity: progression
 Warning Lamp: progression
 Warrior Screw: progression
@@ -273,3 +311,5 @@ White Plum: progression
 White Songbird: progression
 White Styrene: progression
 White Tail: progression
+White Tube: progression
+Wool Rock: progression

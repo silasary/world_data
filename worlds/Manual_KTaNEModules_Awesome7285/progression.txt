@@ -1,42 +1,61 @@
-ASCII Maze: unknown
+ASCII Maze: progression
 BadTV: progression
-Binary Tree: unknown
-BizzFuzz: unknown
-Brainf---: unknown
-Breaktime: unknown
+Binary Tree: progression
+BizzFuzz: progression
+Blind Circle: progression
+Brainf---: progression
+Breaktime: progression
 Burnout: unknown
-Candy Land: unknown
-Colorful Insanity: unknown
-Conditional Maze: unknown
-Coordination: unknown
-Decolored Squares: unknown
-Driver Updates: unknown
-Dyscalculator: unknown
-Filler: unknown
-Forget Fractal: unknown
-Keyed Buttons: unknown
-Laundry: unknown
-Lousy Chess: unknown
+Candy Land: progression
+Colorful Insanity: progression
+Conditional Maze: progression
+Coordination: progression
+Cruel Synesthesia: progression
+Death Note: progression
+Decolored Squares: progression
+Driver Updates: progression
+Dyscalculator: progression
+Encrypted Equations: progression
+Encrypted Hangman: progression
+Filler: filler
+Forget Fractal: progression
+Forget Me Later: progression
+Infinite Loop: progression
+Katakana: progression
+Keyed Buttons: progression
+Laundry: progression
+Line Equations: progression
+Lousy Chess: progression
 Meme Drought: unknown
-Multitracking: unknown
+Modulus Manipulation: progression
+Multitracking: progression
 Mystery Box: unknown
-Neptune: unknown
+Neptune: progression
 Not Crazy Talk: unknown
-Over Kilo: unknown
+OmegaForget: progression
+Over Kilo: progression
 Pattern Cube: progression
-Pink Sudoku: unknown
+Pink Sudoku: progression
 Poetry: progression
-REPSEQ: unknown
-RSA Cipher: unknown
-Remote Math: unknown
-Rubik's Clock: unknown
-Rusted Morsematics: unknown
-SQL - Cruel: unknown
-Shape Fill: unknown
+Power Button: progression
+Puzzle Identification: progression
+REPSEQ: progression
+RGB Encryption: progression
+RSA Cipher: progression
+Remote Math: progression
+Rotten Beans: progression
+Rubik's Clock: progression
+Rusted Morsematics: progression
+SQL - Cruel: progression
+Shape Fill: progression
+Sign Language: progression
 Symbolic Colouring: progression
-Symbstructions: unknown
+Symbstructions: progression
+Synapse Cipher: progression
 Synapse Says: progression
 The 1, 2, 3 Game: unknown
+The Fan: progression
+Touch Transmission: progression
 Triple Vision: progression
-UltraStores: unknown
+UltraStores: progression
 Z: progression
