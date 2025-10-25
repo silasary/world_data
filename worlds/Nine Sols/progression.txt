@@ -14,23 +14,23 @@
 (Artifact) The Four Treasures of the Study: useful
 (Artifact) Tiandao Academy Periodical: useful
 (Artifact) Unknown Seed: progression
-(Artifact) Virtual Reality Device: useful
-(Database) Ancient Cave Painting: useful
-(Database) Ancient Weapon Console: useful
+(Artifact) Virtual Reality Device: filler
+(Database) Ancient Cave Painting: filler
+(Database) Ancient Weapon Console: filler
 (Database) Anomalous Root Node: filler
 (Database) Apeman Surveillance Footage: filler
 (Database) Camp Scroll: filler
-(Database) Cave Stone Inscription: useful
+(Database) Cave Stone Inscription: filler
 (Database) Coffin Inscription: filler
-(Database) Council Digital Signage: progression
+(Database) Council Digital Signage: filler
 (Database) Council Tenets: filler
-(Database) Dead Person's Note: useful
+(Database) Dead Person's Note: filler
 (Database) Dusk Guardian Headquarters: filler
 (Database) Dusk Guardian Recording Device 1: filler
 (Database) Dusk Guardian Recording Device 2: filler
 (Database) Dusk Guardian Recording Device 3: filler
 (Database) Dusk Guardian Recording Device 4: filler
-(Database) Dusk Guardian Recording Device 5: useful
+(Database) Dusk Guardian Recording Device 5: filler
 (Database) Dusk Guardian Recording Device 6: filler
 (Database) Empyrean Bulletin Board: filler
 (Database) Evacuation Notice For Miners: filler
@@ -82,9 +82,9 @@ Abandoned Mines Chip: useful
 Agricultural Zone Chip: useful
 Air Dash: progression
 Ancient Penglai Ballad: progression
-Arrow: Cloud Piercer: useful
+Arrow: Cloud Piercer: progression
 Arrow: Shadow Hunter: progression
-Arrow: Thunder Buster: useful
+Arrow: Thunder Buster: progression
 Avarice Jade: useful
 Bearing Jade: useful
 Bloody Crimson Hibiscus: filler
@@ -92,7 +92,7 @@ Breather Jade: useful
 Central Core Chip: useful
 Charged Strike: progression
 Cloud Leap: progression
-Computing Unit: filler
+Computing Unit: useful
 Cultivation Jade: useful
 Dark Steel: useful
 Divine Hand Jade: useful
@@ -124,9 +124,9 @@ Qi Swipe Jade: useful
 Research Center Chip: useful
 Revival Jade: useful
 Rhizomatic Bomb: progression
-Seal of Fuxi: progression
-Seal of Goumang: progression
-Seal of Ji: progression
+Seal of Fuxi: mcguffin
+Seal of Goumang: mcguffin
+Seal of Ji: mcguffin
 Seal of Jiequan: mcguffin
 Seal of Kuafu: mcguffin
 Seal of Lady Ethereal: mcguffin
