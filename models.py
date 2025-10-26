@@ -1,4 +1,5 @@
 import enum
+from functools import reduce
 import os
 import pathlib
 
@@ -94,7 +95,8 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
         info = json.loads(info_json.read_text(encoding="utf-8"))
         if 'items' in info:
             for name, classification in info['items'].items():
-                dp.set_classification(name, classifications[classification.strip()])
+                v = reduce((lambda a, b: a | b), {ItemClassification[str_classification] for str_classification in classification.split("|")})
+                dp.set_classification(name, v)
 
     prog_txt = world_folder.joinpath(game_name, "progression.txt")
     if prog_txt.exists():
@@ -110,7 +112,8 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
             if not x:
                 continue
             match = re.match(r"^(.*): (.*)$", x)
-            dp.set_classification(match[1], classifications[match[2].strip()])
+            classification = reduce((lambda a, b: a | b), {ItemClassification[str_classification] for str_classification in match[2].strip().split("|")})
+            dp.set_classification(match[1], classification)
 
     categories_txt = world_folder.joinpath(game_name, "categories.txt")
     if categories_txt.exists():
@@ -121,7 +124,8 @@ def load_datapackage(game_name, dp: Datapackage = None, follow_redirect: bool = 
             if not x:
                 continue
             match = re.match(r"^(.*): (.*)$", x)
-            dp.categories[match[1]] = classifications[match[2].strip()]
+            classification = reduce((lambda a, b: a | b), {ItemClassification[str_classification] for str_classification in match[2].strip().split("|")})
+            dp.categories[match[1]] = classification
 
     return dp
 
