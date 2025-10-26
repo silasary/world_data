@@ -23,7 +23,7 @@ A Surprise for the Commissioner: Hostage: filler
 A Surprise for the Commissioner: Minikit 10: progression
 A Surprise for the Commissioner: Minikit 1: progression
 A Surprise for the Commissioner: Minikit 2: progression
-A Surprise for the Commissioner: Minikit 4: unknown
+A Surprise for the Commissioner: Minikit 4: progression
 A Surprise for the Commissioner: Minikit 7: progression
 A Surprise for the Commissioner: Minikit 9: progression
 A Surprise for the Commissioner: Red Brick Collected: unknown
@@ -83,6 +83,7 @@ Breaking Blocks: Red Brick Collected: progression
 Character Studs Unlocked: useful
 Decoy (Technology Suit) Unlocked: unknown
 Dying of Laughter: Hostage: filler
+Dying of Laughter: Level Unlocked: progression
 Dying of Laughter: Minikit 1: progression
 Dying of Laughter: Minikit 3: unknown
 Dying of Laughter: Minikit 4: unknown
@@ -149,10 +150,13 @@ Joker's Home Turf: Minikit 5: progression
 Joker's Home Turf: Minikit 6: unknown
 Joker's Home Turf: Minikit 7: progression
 Joker's Home Turf: Minikit 8: progression
+Joker's Home Turf: True Status: filler
 Little Fun at the Big Top: Hostage: filler
 Little Fun at the Big Top: Level Unlocked: progression
+Little Fun at the Big Top: Minikit 10: progression
 Little Fun at the Big Top: Minikit 1: progression
 Little Fun at the Big Top: Minikit 3: mcguffin
+Little Fun at the Big Top: Minikit 4: progression
 Little Fun at the Big Top: Minikit 7: progression
 Little Fun at the Big Top: Minikit 8: progression
 Little Fun at the Big Top: Minikit 9: progression
@@ -210,7 +214,7 @@ The Joker's Masterpiece: Level Unlocked: progression
 The Joker's Masterpiece: Minikit 1: progression
 The Joker's Masterpiece: Minikit 2: unknown
 The Joker's Masterpiece: Minikit 3: progression
-The Joker's Masterpiece: Minikit 4: unknown
+The Joker's Masterpiece: Minikit 4: progression
 The Joker's Masterpiece: Minikit 5: unknown
 The Joker's Masterpiece: Minikit 7: unknown
 The Joker's Masterpiece: Minikit 8: progression
@@ -273,7 +277,7 @@ You can Bank on Batman: Minikit 10: progression
 You can Bank on Batman: Minikit 1: progression
 You can Bank on Batman: Minikit 2: progression
 You can Bank on Batman: Minikit 4: unknown
-You can Bank on Batman: Minikit 6: unknown
+You can Bank on Batman: Minikit 6: progression
 You can Bank on Batman: Minikit 7: progression
 You can Bank on Batman: Minikit 8: progression
 You can Bank on Batman: Minikit 9: unknown
@@ -281,7 +285,8 @@ You can Bank on Batman: True Status: filler
 Zoo's Company: Level Unlocked: progression
 Zoo's Company: Minikit 1: progression
 Zoo's Company: Minikit 2: progression
-Zoo's Company: Minikit 4: unknown
+Zoo's Company: Minikit 4: progression
 Zoo's Company: Minikit 6: unknown
 Zoo's Company: Minikit 7: unknown
 Zoo's Company: Minikit 9: progression
+Zoo's Company: True Status: filler

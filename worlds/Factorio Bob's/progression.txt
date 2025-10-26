@@ -66,7 +66,7 @@ bob-lab: unknown
 bob-laser-rifle: filler
 bob-laser-robot: unknown
 bob-laser-turrets-3: filler
-bob-lead-processing: unknown
+bob-lead-processing: progression
 bob-lithium-processing: progression
 bob-nickel-processing: progression
 bob-nitinol-processing: progression
@@ -147,7 +147,7 @@ oil-gathering: unknown
 plastics: progression
 production-science-pack: progression
 progressive-advanced-material-processing: unknown
-progressive-armor: unknown
+progressive-armor: filler
 progressive-artillery-shell-range: unknown
 progressive-artillery-shell-speed: unknown
 progressive-artillery: filler
@@ -165,7 +165,7 @@ progressive-bob-distillery: filler
 progressive-bob-electric-pole: unknown
 progressive-bob-electric-substation: unknown
 progressive-bob-electrolyser: unknown
-progressive-bob-electrolysis: unknown
+progressive-bob-electrolysis: progression
 progressive-bob-electronics-machine: unknown
 progressive-bob-fluid-generator: progression
 progressive-bob-gem-processing: progression
@@ -193,7 +193,7 @@ progressive-bob-vehicle-roboport-equipment: progression
 progressive-bob-vehicle-roboport-modular-equipment: unknown
 progressive-bob-vehicle-shield-equipment: filler
 progressive-bob-vehicle-solar-panel-equipment: unknown
-progressive-bob-water-bore: unknown
+progressive-bob-water-bore: progression
 progressive-bob-water-miner: progression
 progressive-braking-force: filler
 progressive-car: unknown

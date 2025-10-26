@@ -2,6 +2,7 @@ Abyss Heather: progression
 Acerola Pea: progression
 Agniratha Key: progression
 Alcamoth Key: progression
+Amber Leaf: progression
 Amblygon Turtle: progression
 Angel Bream: progression
 Angel Engine X: progression
@@ -102,6 +103,7 @@ Fancy Bolt: progression
 Fatal Belladonna: progression
 Fiora Progressive Affinity Rank: progression
 Fiora: Final Cross Art Book: useful
+Fiora: Guard Shift Art Book: useful
 Fiora: Hidden Thorn Art Book: useful
 Fiora: Power Drain Art Book: useful
 Fiora: Zero Gravity Art Book: useful
@@ -181,12 +183,14 @@ Meaty Carrot: progression
 Meaty Potato: progression
 Mechonis Field Key: progression
 Melia Progressive Affinity Rank: progression
+Melia: Burst End Art Book: useful
 Melia: Power Effect Art Book: useful
 Melia: Progressive Head Armor: useful
 Melia: Progressive Weapon: useful
 Melia: Reliability Skill Tree: useful
 Melia: Starlight Kick Art Book: useful
 Melia: Summon Bolt Art Book: useful
+Melia: Summon Copy Art Book: useful
 Memory Fragment: mcguffin
 Merry Coronation: progression
 Minute Mantis: progression
@@ -237,6 +241,7 @@ Rainbow Carrot: progression
 Ready Coil: progression
 Retro Diode: progression
 Reyn Progressive Affinity Rank: progression
+Reyn: Guard Shift Art Book: useful
 Reyn: Magnum Charge Art Book: useful
 Riki Progressive Affinity Rank: progression
 Riki: Bedtime Art Book: useful
@@ -253,6 +258,7 @@ Satorl Marsh Key: progression
 Scarlet Crawler: progression
 Scissor Bug: progression
 Sea Berry: progression
+Senorita Scarab: progression
 Sharla Progressive Affinity Rank: progression
 Sharla: Heal Counter Art Book: useful
 Shield Bug: progression
@@ -263,6 +269,7 @@ Shulk Progressive Affinity Rank: progression
 Shulk: Monado Cyclone Art Book: useful
 Shulk: Progressive Torso Armor: useful
 Shulk: Shadow Eye Art Book: useful
+Shulk: Shaker Edge Art Book: useful
 Shulk: Stream Edge Art Book: useful
 Sirius Anemone: progression
 Sky Mole: progression
@@ -313,3 +320,4 @@ White Styrene: progression
 White Tail: progression
 White Tube: progression
 Wool Rock: progression
+Yellow Cat: progression

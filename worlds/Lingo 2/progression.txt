@@ -13,6 +13,7 @@ Control Center - Partial Door: progression
 Control Center - Repetitive Entrance: progression
 Control Center - Shop Door: progression
 Control Center - Stormy Entrance: progression
+Control Center - Unkempt Door: progression
 Control Center - Unyielding Door: progression
 Control Center - X1 Door: progression
 Control Center Blue Doors: progression
@@ -27,7 +28,7 @@ Daedalus - Amber East Doors: progression
 Daedalus - Amber North Door: progression
 Daedalus - Amber South Door: progression
 Daedalus - Bee Room Back Door: progression
-Daedalus - Bee Room Entrance: unknown
+Daedalus - Bee Room Entrance: progression
 Daedalus - Black Hexes Door: progression
 Daedalus - Blue Color Backside: progression
 Daedalus - Blue Color Doorway: progression
@@ -40,6 +41,7 @@ Daedalus - Book Room Entrance: progression
 Daedalus - Book Room Exit: progression
 Daedalus - Castle Drawbridge: progression
 Daedalus - Checkered Door: progression
+Daedalus - Composite Room East Door: progression
 Daedalus - Composite Room NE Entrance: progression
 Daedalus - Composite Room NW Entrance: progression
 Daedalus - Composite Room North Door: progression
@@ -58,6 +60,7 @@ Daedalus - Eye Painting: progression
 Daedalus - F Keyholder Door: progression
 Daedalus - F2 Room Entrance: unknown
 Daedalus - F2 Room Northwest Door: progression
+Daedalus - F2 Room Southeast Door: progression
 Daedalus - F2 Room Southwest Door: progression
 Daedalus - F2 Room West Door: progression
 Daedalus - Flip Painting Blocker: progression
@@ -67,6 +70,7 @@ Daedalus - Globe Room West Door: progression
 Daedalus - Godot Room Entrance: progression
 Daedalus - Godot Room Exit: progression
 Daedalus - Gourd Door: progression
+Daedalus - Green Room Entrance: progression
 Daedalus - Green Smiley: progression
 Daedalus - Hedges Entrance: progression
 Daedalus - Hotel Entrance: progression
@@ -79,11 +83,13 @@ Daedalus - Maze North Door: progression
 Daedalus - Maze South Door: unknown
 Daedalus - Near Flip Painting Door: progression
 Daedalus - Near Pyramid Gate: progression
+Daedalus - Near Sweet Blue Door: progression
 Daedalus - Near Sweet Brown Door: progression
 Daedalus - Near Yellow Room Door: progression
 Daedalus - O2 Room Back Door: unknown
 Daedalus - O2 Room Northeast Door: progression
 Daedalus - O2 Room Southeast Door: progression
+Daedalus - Orange Room Entrance: progression
 Daedalus - Orange Smiley Exit: progression
 Daedalus - Pains Room Divider: progression
 Daedalus - Pairs Room East Door: progression
@@ -121,6 +127,7 @@ Daedalus - South Castle Area Back Door: progression
 Daedalus - South Castle Area Entrance: progression
 Daedalus - Southwest Area Intersection: progression
 Daedalus - Splintering Exit Left Door: unknown
+Daedalus - Splintering Exit North Door: progression
 Daedalus - Splintering Exit South Door: progression
 Daedalus - Starting Room East Wall Center Door: progression
 Daedalus - Starting Room East Wall North Door: progression
@@ -138,7 +145,9 @@ Daedalus - U2 Room East Door: progression
 Daedalus - U2 Room Entrance: unknown
 Daedalus - U2 Room Southeast Door: progression
 Daedalus - U2 Room Southwest Door: progression
+Daedalus - U2 Room West Door: progression
 Daedalus - Welcome Back Secret Door: progression
+Daedalus - Wonderland North Door: progression
 Daedalus - Wonderland South Door: progression
 Daedalus - Yellow Room Entrance: progression
 Daedalus - Yellow Smiley Door: progression
@@ -152,15 +161,17 @@ Daedalus - Zoo North Entrance: progression
 Daedalus - Zoo South Entrance: progression
 Daedalus - Zoo West Entrance: progression
 E: progression
-Eval Symbol: unknown
+Eval Symbol: progression
 Example Symbol: progression
 F: progression
-Four Rooms - Examples Door: unknown
+Four Rooms - A2 Door: progression
+Four Rooms - Examples Door: progression
 Four Rooms - Intensify Door: progression
+Four Rooms - Keyholder Door: progression
 Four Rooms - Synonyms Door: progression
 Four Rooms - Time Door: progression
 G: progression
-Gender Symbol: unknown
+Gender Symbol: progression
 H: progression
 I: progression
 J: progression
@@ -186,7 +197,7 @@ Sparkles Symbol: progression
 Stars Symbol: progression
 Sun Symbol: progression
 Sweet Symbol: progression
-T: unknown
+T: progression
 The Ancient - Front Door: progression
 The Bearer - Butterfly Entrance: progression
 The Bearer - Exit Door: progression
@@ -210,7 +221,7 @@ The Congruent - C Keyholder Blocker: progression
 The Congruent - C2 Door: progression
 The Congruent - Flipped Magenta Door: progression
 The Congruent - Flipped Yellow Door: progression
-The Congruent - G Keyholder Blocker: unknown
+The Congruent - G Keyholder Blocker: progression
 The Congruent - G2 Door: progression
 The Congruent - Obverse Magenta Door: progression
 The Congruent - Obverse Yellow Door: progression
@@ -220,7 +231,7 @@ The Darkroom - Double Sided Entrance: progression
 The Darkroom - Second Room Entrance: progression
 The Darkroom - Third Room Entrance: progression
 The Digital - Gallery Entrance: progression
-The Digital - Tree Entrance: unknown
+The Digital - Tree Entrance: progression
 The Entry - Blue Alcove Entrance: progression
 The Entry - Blue Alcove Exit: progression
 The Entry - Colored Doors Area Entrance: progression
@@ -235,7 +246,7 @@ The Entry - Gallery Entrance: progression
 The Entry - L Room Entrance: progression
 The Entry - Lime Room Entrance: progression
 The Entry - Link Area Entrance: progression
-The Entry - Literate Entrance: unknown
+The Entry - Literate Entrance: progression
 The Entry - Near D Room Painting: progression
 The Entry - Noon Door: progression
 The Entry - Orange Door Hider: progression
@@ -280,6 +291,7 @@ The Great - Colorful Entrance: progression
 The Great - Control Center Gray Door: progression
 The Great - Control Center Red Door: progression
 The Great - Courtyard Entrance: progression
+The Great - Courtyard Side Door: progression
 The Great - Daedalus Entrance: progression
 The Great - Digital Entrance: progression
 The Great - Hive Entrance: progression
@@ -291,10 +303,11 @@ The Great - Near UC Painting Door: progression
 The Great - North Landscape Entrance: progression
 The Great - Pillar Room Entrance: progression
 The Great - Savory Painting: progression
+The Great - Spiral Painting: progression
 The Great - Talented Entrance: progression
 The Great - Tower Entrance: progression
 The Great - West/East Divider: progression
-The Hive - Room 8 Door: unknown
+The Hive - Room 8 Door: progression
 The Impressive - Control Center Green Door: progression
 The Impressive - Front Door: progression
 The Impressive - Side Door: progression
@@ -333,6 +346,7 @@ The Repetitive - Dot Area Entrance: progression
 The Repetitive - Lime Door: progression
 The Repetitive - Magenta Door: progression
 The Repetitive - Plaza Entrance: progression
+The Repetitive - Yellow Door: progression
 The Sirenic - Entrance: progression
 The Sun Temple - Entrance: progression
 The Symbolic - Tutorial Door: progression

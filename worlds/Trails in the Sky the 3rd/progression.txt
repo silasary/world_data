@@ -1,6 +1,8 @@
 Action 1: filler
 Action 2: unknown
+Aion Bow: useful
 All Sepith (500): filler
+Amar Spiritus: filler
 Area Expansion: Arseille: progression
 Area Expansion: Bobcat: progression
 Area Expansion: Grancel Arena: progression
@@ -9,7 +11,7 @@ Area Expansion: Grancel Castle: progression
 Area Expansion: Grancel East Block (Day): unknown
 Area Expansion: Grancel East Block (Night): progression
 Area Expansion: Grancel North Block (Day): unknown
-Area Expansion: Grancel North Block (Night): unknown
+Area Expansion: Grancel North Block (Night): progression
 Area Expansion: Grancel Port (Night): progression
 Area Expansion: Grancel South Block (Day): progression
 Area Expansion: Grancel South Block (Night): unknown
@@ -24,8 +26,10 @@ Bestia Coat: unknown
 Black Bangle+: unknown
 Black Bangle: filler
 Brain Roast: filler
+Cast 1: useful
 Cast 2: unknown
 Castel Castella: filler
+Castle Castella: filler
 Celestial Balm: filler
 Chapter 1 Cleared: unknown
 Crimson Eye: useful
@@ -53,7 +57,7 @@ Hit 2: useful
 Information: useful
 Josette's Progressive Craft: useful
 Josette: unknown
-Joshua's Progressive Craft: unknown
+Joshua's Progressive Craft: useful
 Joshua: progression
 Julia's Progressive Craft: useful
 Julia: progression
@@ -65,6 +69,7 @@ Lower Elements Sepith (100): filler
 Lower Elements Sepith (250): filler
 Lower Elements Sepith (50): filler
 Mind 2: unknown
+Mira (10000): filler
 Mira (300): filler
 Mira (500): filler
 Mira (5000): filler

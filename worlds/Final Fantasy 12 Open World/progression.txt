@@ -39,7 +39,7 @@ Aqua: unknown
 Aquara Mote: filler
 Aquarius Gem: unknown
 Arc Scale: unknown
-Arcana: unknown
+Arcana: filler
 Archades Aeropass: progression
 Arctic Wind: unknown
 Arcturus: filler
@@ -79,7 +79,7 @@ Belias: progression
 Bent Staff: unknown
 Berserk: unknown
 Berserker Bracers: unknown
-Betelgeuse: unknown
+Betelgeuse: filler
 Bhuj: unknown
 Bhujerba Aeropass: progression
 Bio Mote: filler
@@ -143,7 +143,7 @@ Buckler: unknown
 Bundle of Feathers: unknown
 Bundle of Needles: unknown
 Burgonet: useful
-Burning Bow: unknown
+Burning Bow: filler
 Cactus Flower: progression
 Cactus Fruit: unknown
 Caldera: unknown
@@ -204,7 +204,7 @@ Cuchulainn: progression
 Cura Mote: filler
 Cura: unknown
 Curaga: useful
-Curaja: unknown
+Curaja: useful
 Cure: useful
 Cypress Pole: unknown
 Dagger: unknown
@@ -225,13 +225,13 @@ Death's-Head: unknown
 Death: useful
 Deathbringer: filler
 Decoy: useful
-Defender: unknown
+Defender: filler
 Deimos Clay: unknown
-Delicious Fish: unknown
+Delicious Fish: filler
 Demon Drink: unknown
 Demon Eyeball: unknown
 Demon Feather: filler
-Demon Mail: unknown
+Demon Mail: filler
 Demon Shield: unknown
 Demon Tail: unknown
 Demon's Sigh: unknown
@@ -268,7 +268,7 @@ Earth Magicite: unknown
 Earth Stone: unknown
 Echo Herbs: filler
 Eight-fluted Pole: useful
-Einherjarium: unknown
+Einherjarium: filler
 Eksir Berries: filler
 Electrum: unknown
 Elfin Bow: unknown
@@ -277,8 +277,8 @@ Embroidered Tippet: unknown
 Emperor Scale: unknown
 Empty Bottle: filler
 Empyreal Soul: unknown
-Empyrean Rod: unknown
-Enchanter's Habit: unknown
+Empyrean Rod: filler
+Enchanter's Habit: filler
 Ensanguined Shield: unknown
 Ensanguined Trophy: unknown
 Errmonea Leaf: progression
@@ -310,14 +310,14 @@ Fire Magicite: unknown
 Fire Stone: unknown
 Fire: useful
 Firefly: filler
-First Aid: unknown
+First Aid: useful
 Fish Scale: unknown
 Flame Shield: filler
 Flame Staff: unknown
 Flametongue: unknown
 Flare: unknown
 Float Mote: filler
-Float: unknown
+Float: useful
 Fomalhaut: useful
 Forbidden Flesh: unknown
 Foul Flesh: unknown
@@ -349,10 +349,10 @@ Giant's Helmet: filler
 Gigas Chestplate: unknown
 Gigas Hat: unknown
 Gil Toss: useful
-Gillie Boots: unknown
-Gilt Measure: unknown
+Gillie Boots: filler
+Gilt Measure: filler
 Gimble Stalk: unknown
-Glacial Staff: unknown
+Glacial Staff: filler
 Gladius: filler
 Glass Jewel: unknown
 Glimmering Robes: unknown
@@ -409,7 +409,7 @@ Hi-Ether: filler
 Hi-Potion: filler
 Hide-covered Trophy: unknown
 High Arcana: unknown
-Holy Crystal: unknown
+Holy Crystal: filler
 Holy Lance: filler
 Holy Magicite: unknown
 Holy Mote: filler
@@ -516,7 +516,7 @@ Malboro Vine: unknown
 Mallet: filler
 Maned Trophy: unknown
 Manufacted Nethicite: progression
-Mardu Halcyon: unknown
+Mardu Halcyon: filler
 Masamune: unknown
 Mateus: progression
 Maverick Trophy: unknown
@@ -589,7 +589,7 @@ Partisan: unknown
 Peach Tuft: unknown
 Pebble: unknown
 Penetrator Crossbow: unknown
-Perseus Bow: unknown
+Perseus Bow: filler
 Pheasant Netsuke: unknown
 Phobos Glaze: unknown
 Phoenix Down: filler
@@ -619,7 +619,7 @@ Protect: useful
 Protectga: unknown
 Putrid Liquid: unknown
 Quality Hide: filler
-Quality Lumber: unknown
+Quality Lumber: filler
 Quality Pelt: filler
 Quality Stone: unknown
 Quasimodo Boots: filler
@@ -669,8 +669,8 @@ Salamand Halcyon: unknown
 Sallet: unknown
 Sandalwood Chop: progression
 Sapping Bolts: unknown
-Sash: unknown
-Save the Queen: unknown
+Sash: filler
+Save the Queen: filler
 Scale Armor: useful
 Scarletite: unknown
 Scathe Mote: filler
@@ -704,7 +704,7 @@ Shortbow: unknown
 Sickle Trophy: unknown
 Sickle-Blade: unknown
 Sight Unseeing: useful
-Silence: unknown
+Silence: useful
 Silencega: useful
 Silent Shot: unknown
 Silent Urn: progression
@@ -769,7 +769,7 @@ Storm Stone: unknown
 Stun Bombs: unknown
 Sturdy Bone: unknown
 Succulent Fruit: unknown
-Sunstone: unknown
+Sunstone: progression
 Survival Vest: unknown
 Sweep: unknown
 Sword of Kings: progression
@@ -796,7 +796,7 @@ Tomato Stalk: unknown
 Topkapi Hat: unknown
 Tourmaline Ring: useful
 Tournesol: unknown
-Toxify: unknown
+Toxify: useful
 Traitor's Bow: filler
 Traveler's Vestment: unknown
 Traveler: unknown
@@ -879,6 +879,6 @@ Zeus Mace: unknown
 Zodiac Escutcheon: unknown
 Zodiac Spear: unknown
 Zodiark: useful
-Zombie Powder: unknown
+Zombie Powder: filler
 Zwill Blade: unknown
 Zwill Crossblade: filler

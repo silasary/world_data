@@ -1063,7 +1063,7 @@ Item - The Old World Pass: progression
 Item - The Open Sea Map: unknown
 Item - The Open Sea Pass: unknown
 Item - The Pale Grotto Map: unknown
-Item - The Pale Grotto Pass: unknown
+Item - The Pale Grotto Pass: progression
 Item - The Sequoia Map: unknown
 Item - The Sequoia Pass: unknown
 Item - The Undercity Map: unknown
@@ -1207,7 +1207,7 @@ Summon - Guaba: useful
 Summon - Ioske: useful
 Summon - Juses: useful
 Summon - Niltsi: useful
-Summon - Pah: unknown
+Summon - Pah: useful
 Summon - Pamoa: useful
 Summon - Shaku: useful
 Summon - Tira: useful
