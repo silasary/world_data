@@ -171,6 +171,7 @@ Torches and Pitchforks!: trap
 Unionize This!: trap
 Where is our Map?: trap
 You too, Brutus?: trap
+tech_dlc16_wef_ancients_ash: progression
 tech_dlc16_wef_ancients_cypress: progression
 tech_dlc16_wef_ancients_oak: progression
 tech_dlc16_wef_ancients_pine: progression
@@ -425,6 +426,7 @@ wh_dlc05_tech_2_morai_heg: progression
 wh_dlc07_brt_art_blessed_field_trebuchet_0: progression
 wh_dlc07_brt_cav_grail_guardians_0: progression
 wh_dlc07_brt_cav_knights_errant_0: progression
+wh_dlc07_brt_cav_royal_pegasus_knights_0: progression
 wh_dlc07_brt_inf_battle_pilgrims_0: progression
 wh_dlc07_brt_inf_foot_squires_0: progression
 wh_dlc07_tech_brt_chivalry_beastmen_1: progression
@@ -439,6 +441,7 @@ wh_dlc07_tech_brt_chivalry_tomb_kings: progression
 wh_dlc07_tech_brt_chivalry_vampires_1: progression
 wh_dlc07_tech_brt_chivalry_wood_elves_1: progression
 wh_dlc07_tech_brt_economy_farm_3: progression
+wh_dlc07_tech_brt_economy_farm_4: progression
 wh_dlc07_tech_brt_economy_farm_farriers: progression
 wh_dlc07_tech_brt_economy_farm_hay: progression
 wh_dlc07_tech_brt_economy_farm_hoods: progression
@@ -449,6 +452,7 @@ wh_dlc07_tech_brt_economy_industry_pottery: progression
 wh_dlc07_tech_brt_economy_industry_steel: progression
 wh_dlc07_tech_brt_economy_industry_tournaments: progression
 wh_dlc07_tech_brt_economy_other_1: progression
+wh_dlc07_tech_brt_economy_other_3: progression
 wh_dlc07_tech_brt_economy_other_carpenters: progression
 wh_dlc07_tech_brt_economy_other_draft: progression
 wh_dlc07_tech_brt_economy_other_fanaticism: progression
@@ -459,6 +463,7 @@ wh_dlc07_tech_brt_economy_trade_1: progression
 wh_dlc07_tech_brt_economy_trade_2: progression
 wh_dlc07_tech_brt_heraldry_artois: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: progression
+wh_dlc07_tech_brt_heraldry_carcassonne: progression
 wh_dlc07_tech_brt_heraldry_errantry: progression
 wh_dlc07_tech_brt_heraldry_lyonesse: progression
 wh_dlc07_tech_brt_heraldry_parravon: progression

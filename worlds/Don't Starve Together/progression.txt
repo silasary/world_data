@@ -1,4 +1,5 @@
 15 Sanity: filler
+20 Health: filler
 25 Food: filler
 50 Sanity: filler
 60 Health: filler
@@ -15,6 +16,8 @@ Bush Hat: unknown
 Carrot Seeds: progression
 Corn Seeds: progression
 Damage Bonus: useful
+Desert Goggles: progression
+Down Feather: filler
 Dragon Fruit Seeds: progression
 Drying Rack: progression
 Endothermic Fire Pit: progression
@@ -34,6 +37,7 @@ Ice Box: progression
 Knight Figure Sketch: progression
 Life Giving Amulet: progression
 Lightning Rod: progression
+Log Suit: progression
 Luxury Fan: useful
 Mannequin: unknown
 Miner Hat: progression
@@ -43,11 +47,13 @@ Morning Star: progression
 Night Armor: progression
 Night Light: unknown
 Ocuvigil: unknown
+One-man Band: useful
 Onion Seeds: progression
 Pocket Scale: unknown
 Potato Seeds: progression
 Pumpkin Seeds: progression
 Rainometer: unknown
+Rook Figure Sketch: progression
 Scaled Chest: useful
 Scales: filler
 Scrap Wall: unknown

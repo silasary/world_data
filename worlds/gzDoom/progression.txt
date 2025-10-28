@@ -96,6 +96,7 @@ Automap (MAP30): useful
 Automap (MAP31): useful
 Automap (MAP32): useful
 Automap (MAP34): useful
+Automap (MAP71): useful
 BFG 9000: progression
 Backpack: filler
 BagOfHolding: filler
@@ -460,8 +461,11 @@ Level Access (MAP29): progression
 Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Access (MAP33): progression
 Level Access (MAP34): progression
 Level Access (MAP35): progression
+Level Access (MAP71): progression
+Level Access (MAP76): progression
 Level Clear (E1A1): mcguffin
 Level Clear (E1A2): mcguffin
 Level Clear (E1A4): mcguffin
@@ -648,6 +652,7 @@ RedSkull (MAP23): progression
 RedSkull (MAP26): progression
 RedSkull (MAP27): progression
 RedSkull (MAP28): progression
+RedSkull (MAP29): progression
 RedSkull (MAP32): progression
 RhombusKey (E1A7): progression
 Ring of Invincibility: filler
@@ -759,6 +764,7 @@ YellowSkull (MAP23): progression
 YellowSkull (MAP26): progression
 YellowSkull (MAP27): progression
 YellowSkull (MAP28): progression
+YellowSkull (MAP29): progression
 YellowSkull (MAP31): progression
 YellowSkull (MAP32): progression
 Zorch Propulsor: progression

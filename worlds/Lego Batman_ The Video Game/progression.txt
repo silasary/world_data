@@ -16,6 +16,7 @@ A Poisonous Appointment: Minikit 2: unknown
 A Poisonous Appointment: Minikit 3: progression
 A Poisonous Appointment: Minikit 4: progression
 A Poisonous Appointment: Minikit 5: progression
+A Poisonous Appointment: Minikit 6: progression
 A Poisonous Appointment: Minikit 8: unknown
 A Poisonous Appointment: Minikit 9: progression
 A Poisonous Appointment: Red Brick Collected: progression
@@ -44,6 +45,7 @@ An Icy Reception: Minikit 2: progression
 An Icy Reception: Minikit 3: unknown
 An Icy Reception: Minikit 5: progression
 An Icy Reception: Minikit 6: progression
+An Icy Reception: Minikit 8: progression
 An Icy Reception: Red Brick Collected: unknown
 An Icy Reception: True Status: filler
 Arctic World: Hostage: unknown
@@ -68,9 +70,11 @@ Batboat Battle: True Status: filler
 Biplane Blast: Level Unlocked: unknown
 Biplane Blast: Minikit 1: progression
 Biplane Blast: Minikit 2: unknown
+Biplane Blast: Minikit 4: progression
 Biplane Blast: Minikit 5: progression
 Biplane Blast: Minikit 6: unknown
 Biplane Blast: Minikit 9: progression
+Biplane Blast: True Status: filler
 Breaking Blocks: Hostage: filler
 Breaking Blocks: Level Unlocked: progression
 Breaking Blocks: Minikit 10: unknown
@@ -84,9 +88,11 @@ Character Studs Unlocked: useful
 Decoy (Technology Suit) Unlocked: unknown
 Dying of Laughter: Hostage: filler
 Dying of Laughter: Level Unlocked: progression
+Dying of Laughter: Minikit 10: progression
 Dying of Laughter: Minikit 1: progression
 Dying of Laughter: Minikit 3: unknown
 Dying of Laughter: Minikit 4: unknown
+Dying of Laughter: Minikit 5: progression
 Dying of Laughter: Minikit 6: progression
 Dying of Laughter: Minikit 7: progression
 Dying of Laughter: Minikit 8: progression
@@ -100,7 +106,7 @@ Fast Walk (Magnet Suit) Unlocked: unknown
 Faster Pieces (Attract Suit) Unlocked: useful
 Flaming Batarang (Heat Protection Suit) Unlocked: unknown
 Flight of the Bat: Level Unlocked: progression
-Flight of the Bat: Minikit 1: unknown
+Flight of the Bat: Minikit 1: progression
 Flight of the Bat: Minikit 2: progression
 Flight of the Bat: Minikit 3: unknown
 Flight of the Bat: Minikit 4: progression
@@ -192,6 +198,7 @@ Score x4 Unlocked: unknown
 Score x8 Unlocked: useful
 Silhouettes Unlocked: unknown
 Stealing the Show: Minikit 10: progression
+Stealing the Show: Minikit 1: progression
 Stealing the Show: Minikit 3: unknown
 Stealing the Show: Minikit 4: progression
 Stealing the Show: Minikit 6: progression
@@ -236,7 +243,7 @@ The Riddler Makes a Withdrawal: Minikit 6: unknown
 The Riddler Makes a Withdrawal: Minikit 7: unknown
 The Riddler Makes a Withdrawal: Minikit 8: progression
 The Riddler Makes a Withdrawal: Minikit 9: progression
-The Riddler Makes a Withdrawal: Red Brick Collected: unknown
+The Riddler Makes a Withdrawal: Red Brick Collected: progression
 There She Goes Again: Level Unlocked: progression
 There She Goes Again: Minikit 10: progression
 There She Goes Again: Minikit 1: unknown

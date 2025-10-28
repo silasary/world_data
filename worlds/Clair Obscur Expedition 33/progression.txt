@@ -55,6 +55,7 @@ Barrier Breaker: progression
 Base Shield: progression
 Battlum: useful
 Beneficial Contamination: progression
+Benisim: useful
 Betelim: useful
 Blizzon: useful
 Blodam: useful
@@ -67,6 +68,7 @@ Breaker: progression
 Breaking Attack: progression
 Breaking Burn: progression
 Breaking Counter: progression
+Breaking Death: progression
 Breaking Shots: progression
 Breaking Slow: progression
 Brulerum: useful
@@ -113,6 +115,7 @@ Contorso: useful
 Coralim: useful
 Corderon: useful
 Corpeso: useful
+Critical Break: progression
 Critical Burn: progression
 Critical Moment: progression
 Critical Stun: progression
@@ -203,6 +206,7 @@ Greater Slow: progression
 Guleson: useful
 Gustave: progression
 Healing Boon: progression
+Healing Counter: progression
 Healing Fire: progression
 Healing Mark: progression
 Healing Parry: progression
@@ -218,6 +222,7 @@ Inverted Affinity: progression
 Jarum: useful
 Joyaro: useful
 Lanceram: useful
+Last Stand Critical: progression
 Light of the Beast: progression
 Lighterim: useful
 Liteso: useful
@@ -288,6 +293,7 @@ Roulette: progression
 Rush On Powerful: progression
 SOS Power: progression
 SOS Rush: progression
+SOS Shell: progression
 Sadon: useful
 Sakaram: useful
 Saperim: useful
@@ -310,6 +316,7 @@ Sidaro: useful
 Simoso: useful
 Sireso: useful
 Slowing Break: progression
+Sniper: progression
 Snowim: useful
 Solidifying: progression
 Solo Fighter: progression
@@ -318,6 +325,7 @@ Stalum: useful
 Stay Marked: progression
 Stun Boost: progression
 Survivor: progression
+Sweet Kill: progression
 Tainted: progression
 Teamwork: progression
 The One: progression

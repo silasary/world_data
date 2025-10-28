@@ -12,9 +12,10 @@ Area Expansion: Grancel East Block (Day): unknown
 Area Expansion: Grancel East Block (Night): progression
 Area Expansion: Grancel North Block (Day): unknown
 Area Expansion: Grancel North Block (Night): progression
+Area Expansion: Grancel Port (Day): progression
 Area Expansion: Grancel Port (Night): progression
 Area Expansion: Grancel South Block (Day): progression
-Area Expansion: Grancel South Block (Night): unknown
+Area Expansion: Grancel South Block (Night): progression
 Area Expansion: Grancel West Block (Day): progression
 Area Expansion: Grancel West Block (Night): progression
 Area Expansion: Jade Corridor 1: progression
@@ -31,7 +32,7 @@ Cast 2: unknown
 Castel Castella: filler
 Castle Castella: filler
 Celestial Balm: filler
-Chapter 1 Cleared: unknown
+Chapter 1 Cleared: progression
 Crimson Eye: useful
 Defend 1: useful
 Defend 2: unknown
@@ -42,19 +43,21 @@ Eagle Eye: unknown
 Easy Paella Recipe: useful
 Extra Spicy Fries: useful
 Fishy Finale: useful
-Fluffy Crepe: unknown
+Fluffy Crepe: filler
 Fresh Water: filler
 Fried Phoenix: filler
 Glam Choker+: useful
 Glam Choker: filler
 HP 1: useful
-HP 2: unknown
+HP 2: useful
 Haze: useful
+Higher Elements Sepith (100): filler
 Higher Elements Sepith (50): filler
 Higher Elements Sepith (500): filler
 Hit 1: filler
 Hit 2: useful
 Information: useful
+Insulting Tape: filler
 Josette's Progressive Craft: useful
 Josette: unknown
 Joshua's Progressive Craft: useful
@@ -76,8 +79,10 @@ Mira (5000): filler
 Move 1: unknown
 Mueller's Progressive Craft: useful
 Mueller: progression
+Pearl Earring+: useful
 Pearl Earring: useful
 Poison: useful
+Proxy Puppet: useful
 Purging Balm: filler
 Queenly Cookie: filler
 Range 1: useful
@@ -86,9 +91,10 @@ Ries's Progressive Craft: useful
 Ries: progression
 Royal Spikes: useful
 S-Tablet: filler
-Scent: unknown
+Scent: useful
 Septium Drops: filler
 Shield 1: filler
+Shield 2: useful
 Silvahn: useful
 Smelling Salts: filler
 Softening Balm: filler

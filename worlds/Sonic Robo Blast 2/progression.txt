@@ -13,14 +13,14 @@ Armageddon Shield: unknown
 Attraction Shield: unknown
 Azure Temple Zone: unknown
 Black Hole Zone: progression
-Bubble Shield: unknown
+Bubble Shield: progression
 Castle Eggman Zone: progression
 Cavern Fortress Zone: progression
 Chaos Emerald: progression
 Christmas Chime Zone: unknown
 Deep Sea Zone: progression
-Dream Hill Zone: unknown
-Drill Refill: unknown
+Dream Hill Zone: progression
+Drill Refill: useful
 Dropped Inputs: unknown
 Dusty Wasteland Zone: unknown
 Egg Rock Zone: progression
@@ -28,7 +28,7 @@ Egg Satellite Zone: unknown
 Elemental Shield: progression
 Emblem: mcguffin
 Extra Time: unknown
-Fang: unknown
+Fang: progression
 Final Demo Zone: unknown
 Flame Shield: unknown
 Flooded Cove Zone: unknown
@@ -38,16 +38,18 @@ Forced Gravity Boots: unknown
 Forced Pity Shield: trap
 Forest Fortress Zone: unknown
 Frozen Hillside Zone: unknown
-Greenflower Zone: unknown
+Greenflower Zone: progression
 Grow Monitor: trap
 Haunted Heights Zone: unknown
 Jumpscare: trap
 Knuckles: progression
-Lightning Shield: unknown
+Lightning Shield: progression
 Link Freeze: unknown
 Magma Caves Zone: unknown
-Metal Sonic: unknown
+Metal Sonic: progression
+Midnight Abyss Zone: progression
 Nightopian Helper: useful
+Orbital Hangar Zone: progression
 Pipe Towers Zone: unknown
 Progressive Emblem Hint: unknown
 Red Volcano Zone: progression
@@ -55,6 +57,7 @@ Replay Tutorial: unknown
 Ring Loss: unknown
 Self-Propelled Bomb: unknown
 Shrink Monitor: unknown
+Silver Shiver Zone: progression
 Slippery Floors: trap
 Sonic Forces: unknown
 Sonic: progression

@@ -1,5 +1,6 @@
 Automaton 15 Gold: useful
 Automaton 30 Gold: useful
+Automaton Ascension Down: useful
 Automaton Boss Gold: progression
 Automaton Boss Relic: progression
 Automaton Card Draw: progression
@@ -26,6 +27,7 @@ Champ 30 Gold: useful
 Champ Boss Gold: progression
 Champ Boss Relic: progression
 Champ Card Draw: filler
+Champ Card Reward: progression
 Champ Five Gold: filler
 Champ Neutral Shop Card Slot: useful
 Champ One Gold: filler
@@ -44,6 +46,7 @@ Collector 30 Gold: useful
 Collector Boss Gold: progression
 Collector Boss Relic: progression
 Collector Card Draw: progression
+Collector Card Reward: progression
 Collector Five Gold: filler
 Collector Neutral Shop Card Slot: progression
 Collector One Gold: filler
@@ -298,9 +301,11 @@ Silent Shop Relic Slot: progression
 Silent Unlock: progression
 SlimeBoss 15 Gold: useful
 SlimeBoss 30 Gold: progression
+SlimeBoss Ascension Down: useful
 SlimeBoss Boss Gold: progression
 SlimeBoss Boss Relic: progression
 SlimeBoss Card Draw: progression
+SlimeBoss Card Reward: progression
 SlimeBoss Five Gold: filler
 SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
@@ -316,9 +321,11 @@ SlimeBoss Shop Relic Slot: progression
 SlimeBoss Unlock: progression
 Snecko 15 Gold: useful
 Snecko 30 Gold: useful
+Snecko Ascension Down: useful
 Snecko Boss Gold: progression
 Snecko Boss Relic: progression
 Snecko Card Draw: progression
+Snecko Card Reward: progression
 Snecko Five Gold: filler
 Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: filler

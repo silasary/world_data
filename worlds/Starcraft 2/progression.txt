@@ -192,7 +192,7 @@ Combat Sensor Array (Scout/Oppressor/Caladrius/Mist Wing): unknown
 Combat Shield (Marine): progression
 Command Center Reactor (Command Center): useful
 Command Center Reactor: useful
-Comorbidity (Defiler): unknown
+Comorbidity (Defiler): useful
 Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Antimatter (Dragoon): unknown
@@ -228,6 +228,7 @@ Dark Templar: progression
 Dark Whispers (Terran) Mission Key: progression
 Dark Whispers (Zerg) Mission Key: progression
 Dawnbringer: progression
+Death From Above (Protoss) Mission Key: progression
 Death From Above (Terran) Mission Key: progression
 Death From Above (Zerg) Mission Key: progression
 Death Heads: useful
@@ -575,6 +576,7 @@ Mirage: progression
 Missile Turret: useful
 Mist Wing: progression
 Mobile Chrono Beam (Energizer): progression
+Mobility Protocols (Disruptor War Council): useful
 Mobility Protocols (Disruptor): unknown
 Modernized Servos (Instigator): unknown
 Monarch Blades (Ultralisk): useful
@@ -1005,6 +1007,7 @@ The Crucible (Zerg) Mission Key: progression
 The Dig (Terran) Mission Key: progression
 The Essence of Eternity Mission Key: progression
 The Great Train Robbery (Zerg) Mission Key: progression
+The Growing Shadow (Protoss) Mission Key: progression
 The Growing Shadow (Zerg) Mission Key: progression
 The Moebius Factor (Zerg) Mission Key: progression
 The Reckoning (Zerg) Mission Key: progression
@@ -1023,7 +1026,7 @@ Transcendence (Archon): unknown
 Trapdoor Adaptation (Defiler): useful
 Trigger Override (Wraith): useful
 Trillic Compression System (Dragoon): useful
-Trireme: unknown
+Trireme: progression
 Tunneling Claws (Roach): filler
 Tunneling Jaws (Baneling): useful
 Twilight Chassis (Annihilator): unknown

@@ -244,6 +244,7 @@ The Entry - Flipped Second Room Left Door: progression
 The Entry - Flipped Second Room Right Door: progression
 The Entry - Gallery Entrance: progression
 The Entry - L Room Entrance: progression
+The Entry - Liberated Entrance: progression
 The Entry - Lime Room Entrance: progression
 The Entry - Link Area Entrance: progression
 The Entry - Literate Entrance: progression
@@ -279,6 +280,7 @@ The Gallery - Gallery Extension: progression
 The Gallery - Graveyard Painting: progression
 The Gallery - Rainbow Painting: progression
 The Gallery - Sun Temple Painting: progression
+The Gallery - Tower Painting: progression
 The Gallery - Tree Painting: progression
 The Gallery - Unyielding Painting: progression
 The Gallery - Wise Painting: progression

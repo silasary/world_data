@@ -11,6 +11,7 @@ AUG MVBOSS_SPAWNER: progression
 AUG ORCHID_KIDS : filler
 AUG PALADIN_ARMOR: useful
 AUG PANDORA_BOX: trap
+Abandoned [Sale!] Sector: progression
 Ancient Wastelands Sector: progression
 CURA's Easy Tasks: useful
 Coalition Sector: progression
@@ -18,6 +19,7 @@ Coalition Stronghold Sector: progression
 Confederate Sector: progression
 Dynasty Sector: progression
 EVENT FREE_ITEM: filler
+EVENT MAP: useful
 EX_BACKUP_DNA: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_FTL_BOOSTER: filler

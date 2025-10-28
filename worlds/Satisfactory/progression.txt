@@ -126,7 +126,7 @@ Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
 Bundle of Four: Somersloops: unknown
-Bundle of Three: Hard Drives: unknown
+Bundle of Three: Hard Drives: filler
 Bundle of Three: Mercer Spheres: useful
 Bundle of Three: Power Shards: unknown
 Bundle: AI Expansion Server: filler
@@ -338,7 +338,7 @@ Inflated Pocket Dimension: useful
 Not The Bees: unknown
 Nuclear Waste (ground): unknown
 Plutonium Waste (ground): unknown
-Recipe: AI Expansion Server: unknown
+Recipe: AI Expansion Server: progression
 Recipe: AI Limiter: progression
 Recipe: Adaptive Control Unit: progression
 Recipe: Adhered Iron Plate: progression
@@ -704,7 +704,7 @@ Single: Versatile Framework: filler
 Single: Wire: filler
 Single: Wood: unknown
 Single: Xeno-Basher: useful
-Single: Xeno-Zapper: unknown
+Single: Xeno-Zapper: useful
 Single: Yellow Power Slug: filler
 Single: Zipline: unknown
 Small Inflated Pocket Dimension: useful
