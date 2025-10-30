@@ -268,7 +268,9 @@ wh2_main_brt_resource_dyes_3: progression
 wh2_main_brt_resource_furs_2: progression
 wh2_main_brt_resource_marble_2: progression
 wh2_main_brt_resource_marble_3: progression
+wh2_main_brt_resource_medicine_2: progression
 wh2_main_brt_resource_medicine_3: progression
+wh2_main_brt_resource_obsidian_2: progression
 wh2_main_brt_resource_obsidian_3: progression
 wh2_main_brt_resource_pottery_3: useful
 wh2_main_brt_resource_salt_2: progression
@@ -415,6 +417,7 @@ wh_dlc05_tech_1_loec: progression
 wh_dlc05_tech_1_vaul: progression
 wh_dlc05_tech_2_addaioth: progression
 wh_dlc05_tech_2_anath_raema: progression
+wh_dlc05_tech_2_atharti: progression
 wh_dlc05_tech_2_drakira: progression
 wh_dlc05_tech_2_eldrazor: progression
 wh_dlc05_tech_2_ellinill: progression
@@ -498,6 +501,7 @@ wh_main_anc_weapon_shrieking_blade: unknown
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_anc_weapon_sword_of_striking: unknown
 wh_main_brt_barracks_3: progression
+wh_main_brt_carpenter_2: progression
 wh_main_brt_cav_grail_knights: progression
 wh_main_brt_cav_knights_of_the_realm: progression
 wh_main_brt_cav_mounted_yeomen_1: progression

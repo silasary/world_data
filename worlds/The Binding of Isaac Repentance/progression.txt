@@ -738,18 +738,25 @@ Undefined: unknown
 Unicorn Stump: unknown
 Unlock Ashpit: progression
 Unlock Catacombs: progression
+Unlock Cathedral: progression
 Unlock Cellar: progression
 Unlock Chest: progression
 Unlock Corpse: progression
+Unlock Dark Room: progression
+Unlock Downpour: progression
 Unlock Flooded Caves: progression
 Unlock Gehenna: progression
+Unlock Home: progression
+Unlock Mausoleum: progression
 Unlock Mega Satan: progression
 Unlock Mines: progression
+Unlock Mirrorworld: progression
 Unlock Necropolis: progression
 Unlock Scarred Womb: progression
 Unlock Sheol: progression
 Unlock The Escape: progression
 Unlock The Void: progression
+Unlock Utero: progression
 Unlock Womb: progression
 Uranus: unknown
 Urn Of Souls: unknown
@@ -760,6 +767,7 @@ Vasculitis: unknown
 Vengeful Spirit: unknown
 Ventricle Razor: unknown
 Venus: unknown
+Victory Condition: progression
 Virgo: unknown
 Virus: unknown
 Void: unknown

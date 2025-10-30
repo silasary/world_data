@@ -1,7 +1,9 @@
 1000 Gil: filler
 Abyss Gate: useful
 Adult Bunny Ears: progression
+Aegis Shield: useful
 Afro & Black Chick: progression
+Afro & Blue Chick: progression
 Afro & Gold Chick: progression
 Afro & Purple Chick: progression
 Afro & Red Chick: progression
@@ -12,17 +14,20 @@ Amazon Warrior: useful
 Angel's Halo: useful
 Aquamarine Waltz: useful
 Arboreal Spore: filler
+Arise: useful
 Arithmometer: progression
 Armor Plate: useful
 Army of One: useful
 Aryas Apple: progression
 Asterion: useful
 Astral Lord: useful
+Bandit's Bloodseal: progression
 Banner of Charity: progression
 Beloved's Gift: progression
 Black Cat Ears: progression
 Black Chocobo Chick: progression
 Black Rose: useful
+Blasphemy: useful
 Blue Chocobo Chick: progression
 Blue Chocobo Figurine: progression
 Blue Moogle Bobble: progression
@@ -38,7 +43,13 @@ Bubbly Party Hat: progression
 Cactair Notes: progression
 Cactuar Doll: filler
 Callais Hawk: useful
+Candy Raver: useful
+Carmen's Dance: useful
 Carnaval Crusher: useful
+Carnelian Choir: useful
+Cathedral Sentry Notes: progression
+Caution Beacon: progression
+Celestial Body: useful
 Chaos Glyphs: progression
 Charging Chaplet: useful
 Chipped Fang: filler
@@ -54,6 +65,7 @@ Corundum Pin+: useful
 Corundum Pin: useful
 Cosmocrator: useful
 Crimson Flower: progression
+Crocea Mors: useful
 Crown of Passion: progression
 Crown of Youth: progression
 Cruel Grace: useful
@@ -66,11 +78,17 @@ Crystal Medal: filler
 Curaga: useful
 Cursed Band: useful
 Cursed Dragon Claw: progression
+Dame du Lac: useful
 Dangerous Blossom: useful
+Dark Discord: useful
+Dark Samurai: useful
+Data Recorder: progression
 Dead Man's Teeth: filler
 Death Herald: useful
 Deicide: useful
 Demon Claw: useful
+Demon Earrings+: useful
+Demon Mane: useful
 Demon Spicule: filler
 Demonic Forgefire: filler
 Deranged Headdress: useful
@@ -80,14 +98,19 @@ Desmond Notes: progression
 Destructive Headdress: useful
 Deucalion: useful
 Devil Crest: useful
+Devil Earrings: useful
 Dogtooth Beret: progression
 Double Cross: useful
 Double Deity: useful
 Dragon's Blood: useful
+Dragoon Scarf: useful
 Dried Scale: filler
 Duelist: useful
 Earth Eater Notes: progression
+Electronica: useful
+Element Lv 4: filler
 Emergency Beacon: progression
+Endymion: useful
 Enfrost Potion: filler
 Enlister's Gloves: useful
 Enthunder Potion: filler
@@ -96,7 +119,11 @@ Escape: useful
 Esunada: useful
 Ether Coil: filler
 Ether: filler
+Etro's Forbidden Tome: progression
 Excalibur: useful
+Eye of the Storm: useful
+Face of the Mage's Nemesis: useful
+Faith Potion: filler
 Falcon Charm: useful
 Falcon Ornament: useful
 Fanatic Notes: progression
@@ -105,10 +132,12 @@ Fealty: useful
 Fencer's Earrings: useful
 Fighter's Emblem: useful
 Firewyrm Scale: filler
+Flamebane Choker+: useful
 Flamebane Choker: useful
 Flamesparka Lv 5: filler
 Flanitor Notes: progression
 Forgefire of Chaos: filler
+Forgefire of Order: filler
 Fragment of Courage: progression
 Fragment of Kindness: progression
 Fragment of Mischief: progression
@@ -120,26 +149,38 @@ Gagnrad: useful
 General's Tie: useful
 Ghostly Crown: useful
 Ghostly Hood+: useful
+Giant's Vambrace: useful
+Gilded Lily: useful
 Glam Hat: progression
 Goblot Hairball: filler
+Goddess's Grace: useful
 Godendag: useful
+Godly Gambrel: useful
 Gold Chocobo Chick: progression
 Gold Dust: filler
 Gold Malistone: filler
 Golden Metal Fragment: progression
+Golden Scarab: progression
 Goopy Goo: filler
+Gordon Gourmet's Recipe: progression
+Green Carbuncle Doll: progression
 Green Leather: filler
 Green Monster Moss: filler
 Green Straw Hat: progression
 Gridanian Sword: useful
+Guard of Avalon: useful
 Guard's Cravat+: useful
 Guardian Corps Shield: useful
 Guardian's Protector: useful
 Gurangatch Notes: progression
 Gysahl Greens: progression
+Hades' Fang: useful
+Halo: progression
+Haste Potion: filler
 Heaven's Banner: progression
 Heavy Slash Lv 1: filler
 Hi-Potion: filler
+Holy Forgefire: filler
 Holy Revelations: progression
 Holy Water: filler
 ID Card: progression
@@ -153,7 +194,10 @@ Imp's Crest+: useful
 Imp's Crest: useful
 Imperilga Lv 1: filler
 Infidel: useful
+Innocence: useful
+Irondragon Scale+: useful
 Iseult's Lament: useful
+Izanami: useful
 Jade Hair Comb: progression
 Jikishinkage: useful
 Juliet's Sorrow: useful
@@ -161,11 +205,13 @@ Juno Sospita: useful
 Kaminari: useful
 Key to the Green Gate: progression
 Key to the Sand Gate: progression
+Kiai Wrist: useful
 Kikuichimonji: useful
 Killer Shades: progression
 Knight of Etro: useful
 Knight's Pledge: useful
 Kore Soteira: useful
+L'ange Noir: useful
 Lady's Brooch: progression
 Lapis Lazuli: progression
 Life Smeltwater: filler
@@ -176,13 +222,17 @@ Lominsan Cutlass: useful
 Loupe: progression
 Love-struck Party Hat: progression
 Lovely Eyepatch: progression
+Loyal Servant: useful
 Lucky Dice: useful
 Mage Hunter's Mask+: useful
 Mage Hunter's Mask: useful
+Mage's Turban+: useful
+Mage's Turban: useful
 Magician's Token: useful
 Magnet Lv 1: filler
 Mandragora Root: progression
 Mega Remedy: filler
+Megalesia: useful
 Metal Armband: useful
 Midnight Mauve: progression
 Mighty Material: filler
@@ -195,15 +245,19 @@ Mog's Shield: useful
 Mog's Staff: useful
 Monster Flesh: progression
 Monster Mince: filler
+Moogle Dust: progression
 Moogle Fragment: progression
 Morgenstern: useful
+Motor Coil: filler
 Music Satchel: progression
 Musical Treasure Sphere Key: progression
 Mystery Egg: progression
 Mystic Veil: useful
 Mythril Malistone: filler
+Nacre Cameo: useful
 Necromancer's Cane: useful
 Niblet Hairball: filler
+Nightingale: useful
 Nightwalker: useful
 Nostalgic Score: Chorus: progression
 Nostalgic Score: Coda: progression
@@ -212,9 +266,13 @@ Oath of the Merchants Guild: progression
 Odin's Horn: progression
 Old-Fashioned Photo Frame: progression
 Order of Salvation Cap: progression
+Pain Dampener: useful
+Paladin: useful
 Pallas Athena: useful
 Patron's Personal Guard Notes: progression
+Pendragon: useful
 Phantom Rose: progression
+Phoenix Wing: filler
 Pilgrim's Crux: progression
 Pink Flower: progression
 Pink Ribbon: progression
@@ -227,9 +285,12 @@ Politician's Beard: progression
 Pot Shard: filler
 Potion: filler
 Power Booster: progression
+Preta Hood: useful
+Pretty Orb: useful
 Pro's Beret: progression
 Proof of Courage: progression
 Proof of Legendary Title: progression
+Proof of Overcoming Limits: progression
 Prophecy of Aspiration: progression
 Prophecy of Rebirth: progression
 Prophecy of the Future: progression
@@ -244,7 +305,9 @@ Queen's Mask: progression
 Quiet Guardian: useful
 Quill Pen: progression
 Radial Bearing: filler
+Red Carbuncle Doll: progression
 Red Chocobo Chick: progression
+Red Mage: useful
 Reflective Shades: progression
 Refresher: filler
 Regen Potion: filler
@@ -256,14 +319,18 @@ Retro Lightning Mask: progression
 Retro Mog Mask: progression
 Retro Serah Mask: progression
 Rhapsody in Rose: useful
+Riot Shield: useful
 Ripe Apple: progression
 Rubber Ball: progression
 Rum Raisin Ice Cream: progression
 SOLDIER's Band: useful
 Salome's Kiss: useful
 Samurai's Comb+: useful
+Samurai's Comb: useful
+Sapping Hood+: useful
 Sapping Hood: useful
 Satanic Sister: useful
+Satin Scrunchie+: useful
 Scarletite Malistone: filler
 Scholar's Beard: progression
 Scramasax: useful
@@ -276,8 +343,10 @@ Shaolong Gui Shell: progression
 Shell Potion: filler
 Shield Polisher: filler
 Shining Prince: useful
+Shogun's Mustache: progression
 Silver Barrette+: useful
 Silver Chocobo Chick: progression
+Silver Chocobo Figurine: progression
 Silver Malistone: filler
 Silvered Medal: filler
 Silvered Metal Fragment: progression
@@ -290,35 +359,50 @@ Sorcerer's Token: useful
 Soul Smeltwater: filler
 Soul of Minwu: useful
 Soul of Thamasa+: useful
+Soul of Thamasa: useful
 Sparkseal Jewel+: useful
+Sparkseal Jewel: useful
 Sparkshield Choker: useful
 Sparksup Malcreous: useful
+Sparrow Comb+: useful
 Spectral Elixir: progression
 Spiritual Veil+: useful
 Steak a la Civet: progression
 Steamy Glasses: progression
+Stigma: useful
 Stone and Sand: useful
 Stormdragon Down: filler
 Stormseal Jewel+: useful
+Stormseal Jewel: useful
 Strahl Charm: useful
 Study of Despair: progression
 Study of the Depths: progression
 Study of the Savage: progression
 Summery Parasol: progression
 Summoner's Shield: useful
+Summoner's Staff: useful
 Sun and Bloom: useful
+Supply Sphere Password: progression
+Swift Ornament+: useful
 Swift Ornament: useful
 Sword Polisher: filler
 Tablet: progression
 Talbot's Gratitude: progression
 Tattered Leather: filler
 Teleport: useful
+Tenacious Ring: useful
 Thief's Silk Hat: progression
 Thorn of Courage: useful
 Thorn of Speed: useful
 Thorn of Will: useful
+Thrilling Party Hat: progression
+Thunderclap Cap: progression
 Thunderstorm Droplet: useful
+Thunderstruck: useful
+Toasty Shawl+: useful
 Toasty Shawl: useful
+Tomb Raider: useful
+Treasure Hold: useful
 Twilight Butterfly: progression
 Twist Headband+: useful
 Twist Headband: useful
@@ -335,9 +419,11 @@ Velvet Bouncer: useful
 Vibrant Ooze: filler
 Vigilance Potion: filler
 Violet Amulet: progression
+Warding Talisman: useful
 Warrior's Headband: useful
 Warrior's Plume+: useful
 Warrior's Plume: useful
+Watergod Bracelet: useful
 White Chocobo Chick: progression
 White Guitar: progression
 White Mage's Hat: progression
@@ -346,9 +432,11 @@ Wildcat Ears: progression
 Windwalker Bracelet: useful
 Witch's Rosary+: useful
 Witch's Rosary: useful
+Witching Hour: useful
 Wonder Gel: filler
 Woodland Walker: useful
 Wyvern Lance: useful
 X-Potion: filler
 Yellow-rimmed Glasses: progression
 Zirconia Brooch+: useful
+Zirconia Brooch: useful

@@ -11,7 +11,7 @@ AttackSpeed2: useful
 AutoCollect: useful
 BitBoost1: useful
 Blues1.2k: unknown
-BonusDropChance1: unknown
+BonusDropChance1: useful
 Boss Drop: progression
 BossArmor1: filler
 BossArmor2: useful

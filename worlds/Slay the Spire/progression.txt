@@ -24,6 +24,7 @@ Buff Trap: trap
 Card Draw: progression
 Champ 15 Gold: filler
 Champ 30 Gold: useful
+Champ Ascension Down: useful
 Champ Boss Gold: progression
 Champ Boss Relic: progression
 Champ Card Draw: filler
@@ -43,6 +44,7 @@ Champ Shop Relic Slot: progression
 Champ Unlock: progression
 Collector 15 Gold: useful
 Collector 30 Gold: useful
+Collector Ascension Down: useful
 Collector Boss Gold: progression
 Collector Boss Relic: progression
 Collector Card Draw: progression
@@ -203,6 +205,7 @@ Guardian 30 Gold: useful
 Guardian Boss Gold: useful
 Guardian Boss Relic: progression
 Guardian Card Draw: progression
+Guardian Card Reward: progression
 Guardian Five Gold: filler
 Guardian Neutral Shop Card Slot: progression
 Guardian One Gold: filler
@@ -241,6 +244,7 @@ Hexaghost 30 Gold: useful
 Hexaghost Boss Gold: progression
 Hexaghost Boss Relic: progression
 Hexaghost Card Draw: progression
+Hexaghost Card Reward: progression
 Hexaghost Five Gold: filler
 Hexaghost Neutral Shop Card Slot: progression
 Hexaghost One Gold: filler

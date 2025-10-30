@@ -95,6 +95,7 @@ Automap (MAP29): useful
 Automap (MAP30): useful
 Automap (MAP31): useful
 Automap (MAP32): useful
+Automap (MAP33): useful
 Automap (MAP34): useful
 Automap (MAP71): useful
 BFG 9000: progression
@@ -180,6 +181,7 @@ BlueSkull (MAP27): progression
 BlueSkull (MAP28): progression
 BlueSkull (MAP32): progression
 BlueSkull (MAP35): progression
+BlueSkull (MAP76): progression
 BlurSphere: filler
 BowlOfFruit: filler
 BowlOfVegetables: filler
@@ -465,6 +467,7 @@ Level Access (MAP33): progression
 Level Access (MAP34): progression
 Level Access (MAP35): progression
 Level Access (MAP71): progression
+Level Access (MAP74): progression
 Level Access (MAP76): progression
 Level Clear (E1A1): mcguffin
 Level Clear (E1A2): mcguffin
@@ -556,8 +559,10 @@ Level Clear (MAP29): mcguffin
 Level Clear (MAP30): mcguffin
 Level Clear (MAP31): mcguffin
 Level Clear (MAP32): mcguffin
+Level Clear (MAP33): progression
 Level Clear (MAP34): mcguffin
 Level Clear (MAP35): mcguffin
+Level Clear (MAP71): progression
 Locationator: filler
 Medikit: filler
 MegaLargeZorcher: progression
@@ -597,6 +602,7 @@ RedCard (MAP05): progression
 RedCard (MAP06): progression
 RedCard (MAP09): progression
 RedCard (MAP11): progression
+RedCard (MAP12): progression
 RedCard (MAP13): progression
 RedCard (MAP14): progression
 RedCard (MAP15): progression
@@ -643,6 +649,7 @@ RedSkull (MAP13): progression
 RedSkull (MAP14): progression
 RedSkull (MAP15): progression
 RedSkull (MAP16): progression
+RedSkull (MAP17): progression
 RedSkull (MAP18): progression
 RedSkull (MAP19): progression
 RedSkull (MAP20): progression
@@ -719,6 +726,7 @@ YellowCard (MAP15): progression
 YellowCard (MAP21): progression
 YellowCard (MAP22): progression
 YellowCard (MAP23): progression
+YellowCard (MAP25): progression
 YellowCard (MAP26): progression
 YellowCard (MAP27): progression
 YellowCard (MAP28): progression

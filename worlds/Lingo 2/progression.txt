@@ -13,6 +13,7 @@ Control Center - Partial Door: progression
 Control Center - Repetitive Entrance: progression
 Control Center - Shop Door: progression
 Control Center - Stormy Entrance: progression
+Control Center - Tenacious Door: progression
 Control Center - Unkempt Door: progression
 Control Center - Unyielding Door: progression
 Control Center - X1 Door: progression
@@ -80,7 +81,7 @@ Daedalus - Intense Room Entrance: progression
 Daedalus - Magic Room Entrance: progression
 Daedalus - Maze East Door: progression
 Daedalus - Maze North Door: progression
-Daedalus - Maze South Door: unknown
+Daedalus - Maze South Door: progression
 Daedalus - Near Flip Painting Door: progression
 Daedalus - Near Pyramid Gate: progression
 Daedalus - Near Sweet Blue Door: progression
