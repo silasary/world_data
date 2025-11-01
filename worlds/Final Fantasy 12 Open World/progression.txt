@@ -96,7 +96,7 @@ Blazer Gloves: useful
 Bleed: useful
 Blind: useful
 Blindga: unknown
-Blindna: unknown
+Blindna: useful
 Blizzaga: useful
 Blizzara: unknown
 Blizzard: useful
@@ -152,7 +152,7 @@ Calot Hat: unknown
 Cameo Belt: filler
 Cancer Gem: unknown
 Capella: unknown
-Capricorn Gem: unknown
+Capricorn Gem: filler
 Carabineer Mail: filler
 Caramel: unknown
 Carmagnole: unknown
@@ -237,7 +237,7 @@ Demon Tail: unknown
 Demon's Sigh: unknown
 Demonsbane: useful
 Destrier Barding: unknown
-Destrier Mane: unknown
+Destrier Mane: filler
 Dhanusha: filler
 Diakon Halcyon: unknown
 Diamond Armlet: useful
@@ -429,7 +429,7 @@ Ice Shield: filler
 Ice Stone: unknown
 Icebrand: unknown
 Icecloud Arrows: unknown
-Ichthon Scale: unknown
+Ichthon Scale: filler
 Iga Blade: useful
 Immobilize: useful
 Indigo Pendant: filler
@@ -668,7 +668,7 @@ Sakura-saezuri: useful
 Salamand Halcyon: unknown
 Sallet: unknown
 Sandalwood Chop: progression
-Sapping Bolts: unknown
+Sapping Bolts: filler
 Sash: filler
 Save the Queen: filler
 Scale Armor: useful

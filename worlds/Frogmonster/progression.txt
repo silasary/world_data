@@ -1,5 +1,7 @@
 Axolotl: mcguffin
 Bass: progression
+Beans: progression
+Bee: progression
 Blue Jelly: mcguffin
 Bridge Frog: unknown
 Bug Slot: progression
@@ -15,10 +17,11 @@ Frog: progression
 Gatling Gun Myzand Upgrade: progression
 Gatling Gun: progression
 Glowbug: progression
-Health Shard: unknown
+Health Shard: progression
 Key: progression
 Mana Shard: progression
 Metal Ore: progression
+Minnow: progression
 Mite: unknown
 Moth: unknown
 Munchinator Myzand Upgrade: progression
@@ -28,12 +31,14 @@ Mushroom: mcguffin
 Purple Snack: mcguffin
 Reeder Myzand Upgrade: unknown
 Reeder: progression
+River Fish: progression
 Roof Snail: mcguffin
 Runi Key: progression
 Seedling Myzand Upgrade: progression
 Sharp Shot: unknown
 Skater: mcguffin
 Slam: progression
+Soul Fish: progression
 Sparkling Gem: useful
 Square Rock: filler
 Sticky Hands: progression

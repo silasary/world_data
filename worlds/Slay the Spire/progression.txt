@@ -214,6 +214,7 @@ Guardian Progressive Rest: progression
 Guardian Progressive Shop Remove: progression
 Guardian Progressive Smith: progression
 Guardian Rare Card Draw: progression
+Guardian Rare Card Reward: progression
 Guardian Relic: progression
 Guardian Shop Card Slot: progression
 Guardian Shop Potion Slot: useful
@@ -318,6 +319,7 @@ SlimeBoss Progressive Rest: progression
 SlimeBoss Progressive Shop Remove: progression
 SlimeBoss Progressive Smith: progression
 SlimeBoss Rare Card Draw: progression
+SlimeBoss Rare Card Reward: progression
 SlimeBoss Relic: progression
 SlimeBoss Shop Card Slot: progression
 SlimeBoss Shop Potion Slot: progression
@@ -338,6 +340,7 @@ Snecko Progressive Rest: progression
 Snecko Progressive Shop Remove: progression
 Snecko Progressive Smith: progression
 Snecko Rare Card Draw: progression
+Snecko Rare Card Reward: progression
 Snecko Relic: progression
 Snecko Shop Card Slot: progression
 Snecko Shop Potion Slot: useful

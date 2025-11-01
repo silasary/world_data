@@ -33,13 +33,13 @@ Progressive Shotgun: progression
 Progressive Super Nailgun: progression
 Progressive Super Shotgun: progression
 Progressive Thunderbolt: progression
-Quad Damage: unknown
+Quad Damage: useful
 Red Armor: useful
 Rocket Ammo (+1): filler
 Rocket Damage Remover: unknown
 Rocket Jump: progression
 Run: progression
-Shoot Switch: unknown
+Shoot Switch: progression
 Shotgun Ammo (+1): filler
 Small Medkit: filler
 Sound Trap: trap
@@ -74,7 +74,7 @@ e2m1 Silver Key: unknown
 e2m1 Unlock: unknown
 e2m2 Automap: useful
 e2m2 Gold Key: unknown
-e2m2 Unlock: unknown
+e2m2 Unlock: progression
 e2m3 Automap: useful
 e2m3 Gold Key: progression
 e2m3 Unlock: unknown
@@ -93,7 +93,7 @@ e2m7 Gold Key: progression
 e2m7 Unlock: unknown
 e3m1 Automap: unknown
 e3m1 Gold Key: progression
-e3m1 Unlock: unknown
+e3m1 Unlock: progression
 e3m2 Automap: unknown
 e3m2 Gold Key: unknown
 e3m2 Silver Key: unknown

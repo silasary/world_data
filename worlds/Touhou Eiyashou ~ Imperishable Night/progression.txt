@@ -1,14 +1,140 @@
 +1 Bomb: useful
-+1 Life: unknown
++1 Life: progression
 +1 Power Point: filler
 +10 Time Point: filler
-+1000 Time Point: unknown
++1000 Time Point: useful
 +25 Power Point: filler
 +50 Time Point: filler
+001 - Firefly Sign "Earthly Meteor": filler
+002 - Firefly Sign "Earthly Comet": progression
+006 - Lamp Sign "Firefly Phenomenon": filler
+009 - Wriggle Sign "Nightbug Storm": filler
+018 - Moth Sign "Hawk Moth's Insect Curse": progression
+019 - Moth Sign "Hawk Moth's Insect Curse": progression
+023 - Hawk Sign "Ill Starred Dive": progression
+024 - Hawk Sign "Ill Starred Dive": progression
+026 - Night-Blindness "Song of the Night Sparrow": progression
+027 - Night-Blindness "Song of the Night Sparrow": filler
+028 - Night-Blindness "Song of the Night Sparrow": progression
+030 - Night-Sparrow "Midnight Chorus Master": filler
+031 - Night-Sparrow "Midnight Chorus Master": progression
+032 - Night-Sparrow "Midnight Chorus Master": progression
+033 - Spiritual Birth "First Pyramid": progression
+035 - Spiritual Birth "First Pyramid": progression
+036 - Spiritual Birth "First Pyramid": filler
+037 - Origin Sign "Ephemerality 137": progression
+039 - Origin Sign "Ephemerality 137": filler
+040 - Ambition Sign "Buretsu Crisis": progression
+041 - Ambition Sign "Masakado Crisis": progression
+042 - Ambition Sign "Yoshimitsu Crisis": progression
+047 - Land Sign "Three Sacred Treasures - Country": filler
+048 - Ending Sign "Phantasmal Emperor": progression
+049 - Ending Sign "Phantasmal Emperor": progression
+051 - Pseudo-History "The Legend of Gensokyo": progression
+053 - Future "Gods' Realm": progression
+054 - Future "Gods' Realm": progression
+056 - Dream Sign "Duplex Barrier": filler
+059 - Spirit Sign "Fantasy Seal -Spread-": progression
+062 - Scattered Sign "Fantasy Seal -Worn-": filler
+064 - Dream Sign "Evil-Sealing Circle": filler
+065 - Divine Arts "Omnidirectional Oni-Binding Circle": progression
+067 - Spirit Sign "Fantasy Seal -Concentrate-": progression
+068 - Spirit Sign "Fantasy Seal -Concentrate-": progression
+071 - Boundary "Duplex Danmaku Barrier": filler
+072 - Boundary "Duplex Danmaku Barrier": progression
+074 - Great Barrier "Hakurei Danmaku Barrier": progression
+076 - Divine Spirit "Fantasy Seal -Blink-": progression
+079 - Magic Sign "Milky Way": progression
+080 - Magic Space "Asteroid Belt": progression
+082 - Magic Sign "Stardust Reverie": progression
+084 - Black Magic "Event Horizon": progression
+085 - Black Magic "Event Horizon": progression
+086 - Love Sign "Non-Directional Laser": progression
+087 - Love Sign "Non-Directional Laser": progression
+089 - Love Storm "Starlight Typhoon": progression
+091 - Love Sign "Master Spark": progression
+092 - Loving Heart "Double Spark": filler
+094 - Light Sign "Earthlight Ray": progression
+097 - Light Blast "Shoot the Moon": filler
+098 - Magicannon "Final Spark": progression
+099 - Magicannon "Final Spark": filler
+102 - Wave Sign "Red-Eyed Hypnosis (Mind Shaker)": progression
+103 - Illusion Wave "Red-Eyed Hypnosis (Mind Blowing)": filler
+104 - Illusion Wave "Red-Eyed Hypnosis (Mind Blowing)": progression
+106 - Lunatic Sign "Hallucination Tuning (Visionary Tuning)": progression
+108 - Lunatic Gaze "Lunatic Stare Tuning (Illusion Seeker)": progression
+112 - Indolence "Life & Spirit Stopping (Mind Stopper)": filler
+113 - Spread Sign "Moon of Truth (Invisible Full Moon)": progression
+115 - Spread Sign "Moon of Truth (Invisible Full Moon)": progression
+117 - Lunar Eyes "Lunar Rabbit's Remote Mesmerism (Tele-Mesmerism)": progression
+119 - Lunar Eyes "Lunar Rabbit's Remote Mesmerism (Tele-Mesmerism)": progression
+120 - Spacesphere "Earth in a Pot": filler
+121 - Spacesphere "Earth in a Pot": progression
+122 - Spacesphere "Earth in a Pot": progression
+126 - God Sign "Genealogy of the Celestials": progression
+128 - Revival "Seimei Yugi -Life Game-": progression
+129 - Revival "Seimei Yugi -Life Game-": filler
+131 - Resurrection "Rising Game": progression
+132 - Leading God "Omoikane's Device": progression
+135 - Mind of God "Omoikane's Brain": progression
+136 - Curse of the Heavens "Apollo 13": progression
+137 - Curse of the Heavens "Apollo 13": filler
+139 - Curse of the Heavens "Apollo 13": filler
+141 - Esoterica "Astronomical Cover-Up": progression
+142 - Esoterica "Astronomical Cover-Up": filler
+144 - Forbidden Elixir "Hourai Elixir": progression
+146 - Forbidden Elixir "Hourai Elixir": progression
+148 - Medicine Sign "Galaxy in a Pot": progression
+149 - Medicine Sign "Galaxy in a Pot": progression
+151 - Medicine Sign "Galaxy in a Pot": progression
+152 - Impossible Request "Dragon's Neck's Jewel -Five-Colored Shots-": filler
+153 - Impossible Request "Dragon's Neck's Jewel -Five-Colored Shots-": progression
+156 - Impossible Request "Buddha's Stone Bowl -Indomitable Will-": progression
+157 - Impossible Request "Buddha's Stone Bowl -Indomitable Will-": progression
+158 - Divine Treasure "Buddhist Diamond": progression
+159 - Divine Treasure "Buddhist Diamond": progression
+160 - Impossible Request "Robe of Fire Rat -Patient Mind-": progression
+162 - Divine Treasure "Salamander Shield": progression
+165 - Impossible Request "Swallow's Cowrie Shell -Everlasting Life-": filler
+167 - Divine Treasure "Life Spring Infinity": progression
+168 - Impossible Request "Bullet Branch of Hourai -Rainbow Danmaku-": filler
+169 - Impossible Request "Bullet Branch of Hourai -Rainbow Danmaku-": progression
+170 - Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-": progression
+171 - Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-": progression
+174 - End of Imperishable Night -1st Quarter's Moon-: filler
+176 - End of Imperishable Night -11 o'Clock-: progression
+177 - End of Imperishable Night -Half of Midnight-: progression
+178 - End of Imperishable Night -Midnight-: progression
+179 - End of Imperishable Night -Half Past Midnight-: progression
+180 - End of Imperishable Night -1 o'Clock-: filler
+181 - End of Imperishable Night -Half Past 1-: progression
+183 - End of Imperishable Night -Half Past 2-: progression
+184 - End of Imperishable Night -3 o'Clock-: progression
+186 - End of Imperishable Night -4 o'Clock-: filler
+188 - End of Imperishable Night -Morning Mist-: progression
+189 - End of Imperishable Night -Dawn-: progression
+190 - End of Imperishable Night -Morning Star-: progression
 Aria of Forbidden Magic Team: unknown
-Illusionary Barrier Team: unknown
-Lower Difficulty: unknown
+Illusionary Barrier Team: progression
+Lower Difficulty: progression
+Netherworld Dwellers Team: progression
 Next Stage: unknown
+Time Gain: progression
+Visionary Scarlet Devil Team: progression
 [Devil Team] Extra Stage: progression
+[Devil Team] Stage 2: progression
+[Devil Team] Stage 3: progression
+[Devil Team] Stage 6A: progression
 [Illusion Team] Extra Stage: unknown
+[Illusion Team] Stage 3: progression
+[Illusion Team] Stage 6A: progression
+[Illusion Team] Stage 6B: progression
 [Magic Team] Extra Stage: progression
+[Magic Team] Stage 2: progression
+[Magic Team] Stage 3: progression
+[Magic Team] Stage 4A: progression
+[Magic Team] Stage 4B: progression
+[Magic Team] Stage 6A: progression
+[Nether Team] Stage 2: progression
+[Nether Team] Stage 4A: progression
+[Nether Team] Stage 4B: progression

@@ -358,7 +358,7 @@ Law Card: Knives antilaw: filler
 Law Card: Knives: filler
 Law Card: Knuckles antilaw: filler
 Law Card: Knuckles: unknown
-Law Card: Law Cards antilaw: unknown
+Law Card: Law Cards antilaw: useful
 Law Card: Law Cards: filler
 Law Card: Lightning antilaw: filler
 Law Card: Lightning: filler
@@ -385,7 +385,7 @@ Law Card: Rapiers antilaw: filler
 Law Card: Rapiers: useful
 Law Card: Sabers antilaw: unknown
 Law Card: Sabers: filler
-Law Card: Sharpshoot antilaw: unknown
+Law Card: Sharpshoot antilaw: useful
 Law Card: Sharpshoot: filler
 Law Card: Shell antilaw: filler
 Law Card: Shell: filler

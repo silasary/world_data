@@ -91,6 +91,7 @@ Size1: filler
 Size2: unknown
 Size3: filler
 SpawnRate1: useful
+SpawnRate2: useful
 SpawnRate3: useful
 SpawnRate4: useful
 StealMaxHealth1: filler

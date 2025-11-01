@@ -1,6 +1,6 @@
 Bronze Card Pack: useful
 Card Set Aero 0: filler
-Card Set Aero 1-3: unknown
+Card Set Aero 1-3: filler
 Card Set Aero 4-6: filler
 Card Set Aero 7-9: filler
 Card Set Bambi 0: filler
@@ -153,7 +153,7 @@ Card Set Wishing Star 7-9: filler
 Enemy Card Air Pirate: filler
 Enemy Card Air Soldier: filler
 Enemy Card Ansem: filler
-Enemy Card Aquatank: unknown
+Enemy Card Aquatank: filler
 Enemy Card Axel: filler
 Enemy Card Bandit: filler
 Enemy Card Barrel Spider: useful
@@ -168,7 +168,7 @@ Enemy Card Darkside: filler
 Enemy Card Defender: unknown
 Enemy Card Dragon Maleficent: filler
 Enemy Card Fat Bandit: useful
-Enemy Card Gargoyle: unknown
+Enemy Card Gargoyle: filler
 Enemy Card Green Requiem: useful
 Enemy Card Hades: filler
 Enemy Card Hook: filler
@@ -182,6 +182,7 @@ Enemy Card Parasite Cage: filler
 Enemy Card Pirate: filler
 Enemy Card Powerwild: filler
 Enemy Card Red Nocturne: unknown
+Enemy Card Screwdiver: filler
 Enemy Card Sea Neon: useful
 Enemy Card Shadow: unknown
 Enemy Card Soldier: filler

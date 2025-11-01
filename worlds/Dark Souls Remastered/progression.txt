@@ -210,7 +210,7 @@ Embraced Armor of Favor: useful
 Enchanted Ember: useful
 Estoc: unknown
 Eye of Death: filler
-Falchion: unknown
+Falchion: filler
 Fang Boar Helm: filler
 Feather Arrow: filler
 Fire Arrow: useful
@@ -273,7 +273,7 @@ Green Titanite Shard: useful
 Guardian Armor: useful
 Guardian Gauntlets: filler
 Guardian Helm: filler
-Guardian Leggings: unknown
+Guardian Leggings: filler
 Guardian Soul: filler
 Guardian Tail: filler
 Halberd: unknown
@@ -470,7 +470,7 @@ Rapier: useful
 Rare Ring of Sacrifice: filler
 Red Eye Orb: filler
 Red Sign Soapstone: useful
-Red Tearstone Ring: unknown
+Red Tearstone Ring: filler
 Red Titanite Chunk: useful
 Red Titanite Slab: useful
 Red and White Round Shield: filler
@@ -549,7 +549,7 @@ Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
 Sorcery: Hush: unknown
 Sorcery: Magic Shield: unknown
-Sorcery: Magic Weapon: unknown
+Sorcery: Magic Weapon: filler
 Sorcery: Pursuers: useful
 Sorcery: Remedy: unknown
 Sorcery: Repair: unknown
@@ -610,6 +610,7 @@ Throwing Knife: filler
 Thunder Stoneplate Ring: filler
 Tin Banishment Catalyst: filler
 Tin Crystallization Catalyst: filler
+Tin Darkmoon Catalyst: filler
 Tiny Being's Ring: unknown
 Titanite Catch Pole: useful
 Titanite Chunk: useful

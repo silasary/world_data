@@ -1,5 +1,6 @@
 1000 Gil: filler
 Abyss Gate: useful
+Adamantoise Shell: progression
 Adult Bunny Ears: progression
 Aegis Shield: useful
 Afro & Black Chick: progression
@@ -21,6 +22,7 @@ Army of One: useful
 Aryas Apple: progression
 Asterion: useful
 Astral Lord: useful
+Attack Lv 4: filler
 Bandit's Bloodseal: progression
 Banner of Charity: progression
 Beloved's Gift: progression
@@ -55,6 +57,7 @@ Charging Chaplet: useful
 Chipped Fang: filler
 Chocoberet: progression
 Chocobo Figurine: progression
+Chocobo Girl's Phone No.: progression
 Chronostasis: useful
 Civet Musk: progression
 Clear Ooze: filler
@@ -65,6 +68,7 @@ Corundum Pin+: useful
 Corundum Pin: useful
 Cosmocrator: useful
 Crimson Flower: progression
+Crippling Hood: useful
 Crocea Mors: useful
 Crown of Passion: progression
 Crown of Youth: progression
@@ -80,11 +84,13 @@ Cursed Band: useful
 Cursed Dragon Claw: progression
 Dame du Lac: useful
 Dangerous Blossom: useful
+Danse Macabre: useful
 Dark Discord: useful
 Dark Samurai: useful
 Data Recorder: progression
 Dead Man's Teeth: filler
 Death Herald: useful
+Debravega Lv 3: filler
 Deicide: useful
 Demon Claw: useful
 Demon Earrings+: useful
@@ -103,7 +109,9 @@ Dogtooth Beret: progression
 Double Cross: useful
 Double Deity: useful
 Dragon's Blood: useful
+Dragoon Gauntlet: useful
 Dragoon Scarf: useful
+Dreamdragon's Scale+: useful
 Dried Scale: filler
 Duelist: useful
 Earth Eater Notes: progression
@@ -123,6 +131,7 @@ Etro's Forbidden Tome: progression
 Excalibur: useful
 Eye of the Storm: useful
 Face of the Mage's Nemesis: useful
+Face of the Warrior's Nemesis: useful
 Faith Potion: filler
 Falcon Charm: useful
 Falcon Ornament: useful
@@ -136,6 +145,8 @@ Flamebane Choker+: useful
 Flamebane Choker: useful
 Flamesparka Lv 5: filler
 Flanitor Notes: progression
+Flesh Render: useful
+Flower of Battle: useful
 Forgefire of Chaos: filler
 Forgefire of Order: filler
 Fragment of Courage: progression
@@ -153,6 +164,7 @@ Giant's Vambrace: useful
 Gilded Lily: useful
 Glam Hat: progression
 Goblot Hairball: filler
+Goddess Glyphs: progression
 Goddess's Grace: useful
 Godendag: useful
 Godly Gambrel: useful
@@ -253,9 +265,11 @@ Music Satchel: progression
 Musical Treasure Sphere Key: progression
 Mystery Egg: progression
 Mystic Veil: useful
+Mythril Brooch: useful
 Mythril Malistone: filler
 Nacre Cameo: useful
 Necromancer's Cane: useful
+Nemesis: useful
 Niblet Hairball: filler
 Nightingale: useful
 Nightwalker: useful
@@ -350,23 +364,31 @@ Silver Chocobo Figurine: progression
 Silver Malistone: filler
 Silvered Medal: filler
 Silvered Metal Fragment: progression
+Skeleton's Earrings+: useful
+Skeleton's Earrings: useful
 Skull: useful
 Slug Sweet: filler
 Smiley Glasses: progression
 Sneaking-In Special Ticket: progression
+Soldier of Peace: useful
 Soldier's Tie+: useful
 Sorcerer's Token: useful
 Soul Smeltwater: filler
 Soul of Minwu: useful
 Soul of Thamasa+: useful
 Soul of Thamasa: useful
+Sparkbane Choker+: useful
+Sparkbane Choker: useful
 Sparkseal Jewel+: useful
 Sparkseal Jewel: useful
 Sparkshield Choker: useful
 Sparksup Malcreous: useful
 Sparrow Comb+: useful
+Sparrow Comb: useful
 Spectral Elixir: progression
+Spira's Summoner: useful
 Spiritual Veil+: useful
+Spiritual Veil: useful
 Steak a la Civet: progression
 Steamy Glasses: progression
 Stigma: useful
@@ -403,12 +425,15 @@ Toasty Shawl+: useful
 Toasty Shawl: useful
 Tomb Raider: useful
 Treasure Hold: useful
+Turbo Ether: filler
 Twilight Butterfly: progression
 Twist Headband+: useful
 Twist Headband: useful
 Ul'dahn Blade: useful
 Ul'dahn Crest: useful
+Ultima Shield: useful
 Ultima Weapon: useful
+Ultimatus: useful
 Urban Shades: progression
 Utsusemi: useful
 Vajra Pin: useful
@@ -420,6 +445,8 @@ Vibrant Ooze: filler
 Vigilance Potion: filler
 Violet Amulet: progression
 Warding Talisman: useful
+Warning Beacon: progression
+Warning Sign: useful
 Warrior's Headband: useful
 Warrior's Plume+: useful
 Warrior's Plume: useful
@@ -428,6 +455,7 @@ White Chocobo Chick: progression
 White Guitar: progression
 White Mage's Hat: progression
 White Strap: useful
+Wild Crest: useful
 Wildcat Ears: progression
 Windwalker Bracelet: useful
 Witch's Rosary+: useful

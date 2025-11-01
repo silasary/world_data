@@ -23,7 +23,7 @@ Accelerated Warp (Oppressor): useful
 Acid Spore Vents (Infested Missile Turret): useful
 Acidic Enzymes (Infested Siege Tank): unknown
 Adapted Spines (Lurker): useful
-Adaptive Defenses (Predator): unknown
+Adaptive Defenses (Predator): progression
 Adaptive Medpacks (Medic): progression
 Adaptive Plating (Roach): useful
 Adaptive Talons (Impaler): filler
@@ -81,7 +81,7 @@ Apocalypse (Kerrigan Ability): progression
 Apocalypse (Kerrigan Tier 7): progression
 Arbiter: progression
 Arc Inducers (Stalwart): useful
-Archon Merge (Dark Templar): unknown
+Archon Merge (Dark Templar): progression
 Ares-Class Targeting System (Goliath): useful
 Argus Amplifier (Hive Mind Emulator): progression
 Argus Jewel (Corsair): useful
@@ -102,6 +102,7 @@ Avenger: progression
 Axiom Plating (Warhound): unknown
 B-2 High-Cal LMG (Dominion Trooper): unknown
 Balanced Roots (Infested Siege Tank): unknown
+Ballistic Flightsuit (Reaper): useful
 Baneling (Zergling Morph): unknown
 Baneling Aspect (Zergling): progression
 Baneling Incubation (Aberration): unknown
@@ -123,7 +124,7 @@ Black Market Launchers (Widow Mine): filler
 Blazefire Gunblade (Nova Weapon): progression
 Blink (Dark Templar/Avenger/Blood Hunter): progression
 Blink (Nova Ability): progression
-Blink Overdrive (Instigator): unknown
+Blink Overdrive (Instigator): progression
 Bloated Bile Ducts (Ravager): useful
 Blood Amulet (Ascendant): useful
 Blood Hunter: progression
@@ -196,7 +197,7 @@ Comorbidity (Defiler): useful
 Compressed Rocket Fuel (Liberator): unknown
 Concealment (Widow Mine): progression
 Concentrated Antimatter (Dragoon): unknown
-Concentrated Fire (Primal Igniter): unknown
+Concentrated Fire (Primal Igniter): useful
 Concentrated Spew (Infested Diamondback): useful
 Concussive Charge (Predator): filler
 Concussive Grenades (Devastator Turret): unknown
@@ -450,7 +451,7 @@ Infested (Zerg) Mission Key: progression
 Infested Banshee (Infested Starport): unknown
 Infested Banshee: unknown
 Infested Banshees: useful
-Infested Bunker: unknown
+Infested Bunker: progression
 Infested Diamondback (Infested Factory): unknown
 Infested Diamondback: progression
 Infested Dusk Wings (Mercenary): unknown
@@ -642,7 +643,7 @@ Overseer (Overlord Morph): unknown
 Overseer Aspect (Overlord): unknown
 Overseer: progression
 Overwatch (Spear of Adun Auto-Cast): useful
-Overwatch (Spear of Adun): unknown
+Overwatch (Spear of Adun): progression
 Pacification Protocol (Colossus): useful
 Paralytic Barbs (Viper): useful
 Parasitic Bomb (Viper): useful
@@ -1039,7 +1040,7 @@ Twin-Linked Flamethrower (Hellion): filler
 Tyrannozor (Ultralisk Morph): unknown
 Tyrannozor Aspect (Ultralisk): unknown
 Tyrannozor: progression
-Tyrant's Protection (Tyrannozor): unknown
+Tyrant's Protection (Tyrannozor): useful
 U-238 Rounds (Reaper): useful
 UED Missile Technology (Liberator): unknown
 Ultra-Capacitors (Terran): unknown
@@ -1056,7 +1057,7 @@ Vanadium Plating: useful
 Vanguard: progression
 Ventral Sacs (Overlord): useful
 Vespene Efficiency (Kerrigan Tier 5): useful
-Vespene Efficiency (Zerg): unknown
+Vespene Efficiency (Zerg): progression
 Vespene Synthesis (Predator): useful
 Vessel of the Conclave (Arbiter): unknown
 Vicious Glaive (Mutalisk): useful
@@ -1093,6 +1094,7 @@ Wild Mutation (Kerrigan Ability): progression
 Wild Mutation (Kerrigan Tier 4): progression
 Winged Nightmares: progression
 Wise Old Torrasque (Mercenary): unknown
+Wise Old Torrasque: progression
 Wraith: progression
 Wrathwalker: progression
 Yggdrasil (Mercenary): unknown
