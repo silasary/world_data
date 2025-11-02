@@ -6,6 +6,7 @@ advanced-material-processing: filler
 advanced-oil-processing: progression
 artillery-shell-speed-1: filler
 automated-rail-transportation: progression
+battery-mk2-equipment: filler
 battery: progression
 belt-immunity-equipment: filler
 bob-acid-bullets: unknown
@@ -13,7 +14,7 @@ bob-acid-rocket: unknown
 bob-advanced-logistic-science-pack: progression
 bob-advanced-research: unknown
 bob-air-compressor-1: progression
-bob-alien-blue-research: unknown
+bob-alien-blue-research: filler
 bob-alien-green-research: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: progression
@@ -89,7 +90,7 @@ bob-nitroglycerin-processing: progression
 bob-oil-boiler-2: filler
 bob-oil-boiler-4: filler
 bob-personal-roboport-mk3-equipment: unknown
-bob-personal-roboport-mk4-equipment: unknown
+bob-personal-roboport-mk4-equipment: filler
 bob-personal-roboport-modular-equipment-1: filler
 bob-personal-roboport-modular-equipment-3: filler
 bob-personal-roboport-modular-equipment-4: filler
@@ -175,7 +176,7 @@ plastics: progression
 production-science-pack: progression
 progressive-advanced-material-processing: unknown
 progressive-armor: filler
-progressive-artillery-shell-range: unknown
+progressive-artillery-shell-range: filler
 progressive-artillery-shell-speed: unknown
 progressive-artillery: filler
 progressive-automation: filler
@@ -277,7 +278,7 @@ progressive-steel-axe: filler
 progressive-stronger-explosives: filler
 progressive-substation: filler
 progressive-toolbelt: filler
-progressive-turrets: unknown
+progressive-turrets: filler
 progressive-wall: unknown
 progressive-weapon-shooting-speed: filler
 progressive-worker-robots-speed: filler

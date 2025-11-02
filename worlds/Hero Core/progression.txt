@@ -10,6 +10,7 @@ Door Key (J,13): progression
 Door Key (J,7): filler
 Health Restore: filler
 Level Up: progression
+Suit Upgrade: progression
 Warp Point (A,8): progression
 Warp Point (G,11): progression
 Warp Point (L,8): progression

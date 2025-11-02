@@ -5,14 +5,14 @@
 1UP: filler
 20 Rings: unknown
 50 Rings: filler
-Aerial Garden Zone: unknown
+Aerial Garden Zone: progression
 Airborne Temple Zone: progression
 Alpine Paradise Zone: progression
 Amy: unknown
 Arid Canyon Zone: unknown
 Armageddon Shield: unknown
 Attraction Shield: unknown
-Azure Temple Zone: unknown
+Azure Temple Zone: progression
 Black Hole Zone: progression
 Bubble Shield: progression
 Castle Eggman Zone: progression
@@ -21,6 +21,7 @@ Chaos Emerald: progression
 Christmas Chime Zone: unknown
 Deep Sea Zone: progression
 Desolate Twilight Zone: progression
+Diamond Blizzard Zone: progression
 Dream Hill Zone: progression
 Drill Refill: useful
 Dropped Inputs: unknown
@@ -29,7 +30,7 @@ Egg Rock Zone: progression
 Egg Satellite Zone: unknown
 Elemental Shield: progression
 Emblem: mcguffin
-Extra Time: unknown
+Extra Time: progression
 Fang: progression
 Final Demo Zone: unknown
 Flame Shield: unknown

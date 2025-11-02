@@ -16,6 +16,7 @@
 026 - Night-Blindness "Song of the Night Sparrow": progression
 027 - Night-Blindness "Song of the Night Sparrow": filler
 028 - Night-Blindness "Song of the Night Sparrow": progression
+029 - Night-Blindness "Song of the Night Sparrow": filler
 030 - Night-Sparrow "Midnight Chorus Master": filler
 031 - Night-Sparrow "Midnight Chorus Master": progression
 032 - Night-Sparrow "Midnight Chorus Master": progression
@@ -27,13 +28,18 @@
 040 - Ambition Sign "Buretsu Crisis": progression
 041 - Ambition Sign "Masakado Crisis": progression
 042 - Ambition Sign "Yoshimitsu Crisis": progression
+045 - Land Sign "Three Sacred Treasures - Orb": progression
+046 - Land Sign "Three Sacred Treasures - Mirror": filler
 047 - Land Sign "Three Sacred Treasures - Country": filler
 048 - Ending Sign "Phantasmal Emperor": progression
 049 - Ending Sign "Phantasmal Emperor": progression
+050 - Pseudo-History "The Legend of Gensokyo": progression
 051 - Pseudo-History "The Legend of Gensokyo": progression
 053 - Future "Gods' Realm": progression
 054 - Future "Gods' Realm": progression
+055 - Dream Sign "Duplex Barrier": filler
 056 - Dream Sign "Duplex Barrier": filler
+057 - Dream Land "Great Duplex Barrier": progression
 059 - Spirit Sign "Fantasy Seal -Spread-": progression
 062 - Scattered Sign "Fantasy Seal -Worn-": filler
 064 - Dream Sign "Evil-Sealing Circle": filler
@@ -43,6 +49,7 @@
 071 - Boundary "Duplex Danmaku Barrier": filler
 072 - Boundary "Duplex Danmaku Barrier": progression
 074 - Great Barrier "Hakurei Danmaku Barrier": progression
+075 - Divine Spirit "Fantasy Seal -Blink-": progression
 076 - Divine Spirit "Fantasy Seal -Blink-": progression
 079 - Magic Sign "Milky Way": progression
 080 - Magic Space "Asteroid Belt": progression
@@ -54,6 +61,7 @@
 089 - Love Storm "Starlight Typhoon": progression
 091 - Love Sign "Master Spark": progression
 092 - Loving Heart "Double Spark": filler
+093 - Loving Heart "Double Spark": progression
 094 - Light Sign "Earthlight Ray": progression
 097 - Light Blast "Shoot the Moon": filler
 098 - Magicannon "Final Spark": progression
@@ -76,6 +84,7 @@
 129 - Revival "Seimei Yugi -Life Game-": filler
 131 - Resurrection "Rising Game": progression
 132 - Leading God "Omoikane's Device": progression
+133 - Leading God "Omoikane's Device": progression
 135 - Mind of God "Omoikane's Brain": progression
 136 - Curse of the Heavens "Apollo 13": progression
 137 - Curse of the Heavens "Apollo 13": filler
@@ -124,6 +133,7 @@ Visionary Scarlet Devil Team: progression
 [Devil Team] Extra Stage: progression
 [Devil Team] Stage 2: progression
 [Devil Team] Stage 3: progression
+[Devil Team] Stage 4B: progression
 [Devil Team] Stage 6A: progression
 [Illusion Team] Extra Stage: unknown
 [Illusion Team] Stage 3: progression

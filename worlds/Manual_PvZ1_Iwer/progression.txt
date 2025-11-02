@@ -10,11 +10,11 @@ Cabbage-Pult: progression
 Cactus: progression
 Chomper: unknown
 Coffee Bean: unknown
-Coin Bag: unknown
+Coin Bag: filler
 Conehead (I, Zombie): unknown
 Doom-Shroom: unknown
 Extra Seed Slot: useful
-Football (I, Zombie): unknown
+Football (I, Zombie): useful
 Fume-Shroom: unknown
 Gargantuar (I, Zombie): unknown
 Garlic: unknown
@@ -24,7 +24,7 @@ Ice-Shroom: unknown
 Imitater: unknown
 Imp (I, Zombie): unknown
 Jalapeno: unknown
-Kernel-Pult: unknown
+Kernel-Pult: progression
 Ladder (I, Zombie): unknown
 Lilypad: unknown
 Magnet-Shroom: unknown
@@ -54,7 +54,7 @@ Squash: unknown
 Sun-Shroom: unknown
 Sunflower: progression
 Taco: filler
-Tall-Nut: unknown
+Tall-Nut: progression
 Tangle Kelp: unknown
 Threepeater: unknown
 Torchwood: unknown

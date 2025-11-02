@@ -128,7 +128,7 @@ Building: Windowed Walls: unknown
 Bundle of Four: Somersloops: unknown
 Bundle of Three: Hard Drives: filler
 Bundle of Three: Mercer Spheres: useful
-Bundle of Three: Power Shards: unknown
+Bundle of Three: Power Shards: filler
 Bundle: AI Expansion Server: filler
 Bundle: AI Limiter: filler
 Bundle: Adaptive Control Unit: filler
@@ -204,6 +204,7 @@ Bundle: High-Speed Connector: filler
 Bundle: Hog Remains: filler
 Bundle: Homing Rifle Ammo: filler
 Bundle: Hover Pack: useful
+Bundle: Hoverpack: filler
 Bundle: Iodine-Infused Filter: filler
 Bundle: Iron Ingot: filler
 Bundle: Iron Ore: filler
@@ -403,7 +404,7 @@ Recipe: Crystal Computer: progression
 Recipe: Crystal Oscillator: progression
 Recipe: Dark Matter Crystal: progression
 Recipe: Dark Matter Crystallization: progression
-Recipe: Dark Matter Residue: unknown
+Recipe: Dark Matter Residue: progression
 Recipe: Dark Matter Trap: progression
 Recipe: Dark-Ion Fuel: useful
 Recipe: Diamonds: progression
@@ -466,7 +467,7 @@ Recipe: Iodine Infused Filter: progression
 Recipe: Iodine-Infused Filter: filler
 Recipe: Ionized Fuel: useful
 Recipe: Iron Alloy Ingot: progression
-Recipe: Iron Ingot: unknown
+Recipe: Iron Ingot: progression
 Recipe: Iron Pipe: progression
 Recipe: Iron Plate: unknown
 Recipe: Iron Rebar: filler
@@ -644,7 +645,7 @@ Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
 Single: Factory Cart: unknown
 Single: Ficsite Ingot: filler
-Single: Gas Mask: unknown
+Single: Gas Mask: useful
 Single: Gas Nobelisk: unknown
 Single: Golden Nut Statue: unknown
 Single: Hazmat Suit: unknown

@@ -3,6 +3,7 @@ Hexcells 1-2: progression
 Hexcells 1-3: progression
 Hexcells 1-4: progression
 Hexcells 1-5: progression
+Hexcells 1-6: progression
 Hexcells 2-1: progression
 Hexcells 2-2: progression
 Hexcells 2-3: progression
@@ -11,6 +12,7 @@ Hexcells 2-5: progression
 Hexcells 2-6: progression
 Hexcells 3-1: progression
 Hexcells 3-2: progression
+Hexcells 3-3: progression
 Hexcells 3-4: progression
 Hexcells 3-5: progression
 Hexcells 3-6: progression
@@ -18,6 +20,7 @@ Hexcells 4-1: progression
 Hexcells 4-2: progression
 Hexcells 4-4: progression
 Hexcells 4-5: progression
+Hexcells 4-6: progression
 Hexcells 5-1: progression
 Hexcells 5-2: progression
 Hexcells 5-3: progression
@@ -27,5 +30,6 @@ Hexcells 5-6: progression
 Hexcells 6-1: progression
 Hexcells 6-2: progression
 Hexcells 6-3: progression
+Hexcells 6-4: progression
 Hexcells 6-5: progression
 Hexcells 6-6: progression

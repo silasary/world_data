@@ -7,6 +7,7 @@ A Daring Rescue: Minikit 5: unknown
 A Daring Rescue: Minikit 6: progression
 A Daring Rescue: Minikit 8: progression
 A Daring Rescue: Minikit 9: progression
+A Daring Rescue: Red Brick Collected: progression
 A Daring Rescue: True Status: filler
 A Poisonous Appointment: Hostage: unknown
 A Poisonous Appointment: Level Unlocked: unknown
@@ -35,6 +36,7 @@ An Enterprising Theft: Level Unlocked: unknown
 An Enterprising Theft: Minikit 1: progression
 An Enterprising Theft: Minikit 2: progression
 An Enterprising Theft: Minikit 4: progression
+An Enterprising Theft: Minikit 5: progression
 An Enterprising Theft: Minikit 6: progression
 An Enterprising Theft: Minikit 8: progression
 An Enterprising Theft: Minikit 9: progression
@@ -67,7 +69,7 @@ Batboat Battle: Minikit 7: unknown
 Batboat Battle: Minikit 9: unknown
 Batboat Battle: Red Brick Collected: progression
 Batboat Battle: True Status: filler
-Biplane Blast: Level Unlocked: unknown
+Biplane Blast: Level Unlocked: progression
 Biplane Blast: Minikit 1: progression
 Biplane Blast: Minikit 2: unknown
 Biplane Blast: Minikit 4: progression
@@ -78,6 +80,7 @@ Biplane Blast: True Status: filler
 Breaking Blocks: Hostage: filler
 Breaking Blocks: Level Unlocked: progression
 Breaking Blocks: Minikit 10: unknown
+Breaking Blocks: Minikit 1: progression
 Breaking Blocks: Minikit 2: mcguffin
 Breaking Blocks: Minikit 3: mcguffin
 Breaking Blocks: Minikit 5: progression
@@ -86,6 +89,7 @@ Breaking Blocks: Minikit 8: progression
 Breaking Blocks: Red Brick Collected: progression
 Character Studs Unlocked: useful
 Decoy (Technology Suit) Unlocked: unknown
+Disguise Unlocked: filler
 Dying of Laughter: Hostage: filler
 Dying of Laughter: Level Unlocked: progression
 Dying of Laughter: Minikit 10: progression
@@ -102,7 +106,7 @@ Extra Toggle Unlocked: filler
 Fast Batarangs (All Suits) Unlocked: useful
 Fast Build Unlocked: useful
 Fast Grapple (All Suits) Unlocked: useful
-Fast Walk (Magnet Suit) Unlocked: unknown
+Fast Walk (Magnet Suit) Unlocked: useful
 Faster Pieces (Attract Suit) Unlocked: useful
 Flaming Batarang (Heat Protection Suit) Unlocked: unknown
 Flight of the Bat: Level Unlocked: progression
@@ -115,6 +119,7 @@ Flight of the Bat: Minikit 6: progression
 Flight of the Bat: Minikit 7: progression
 Flight of the Bat: Minikit 8: unknown
 Flight of the Bat: Red Brick Collected: progression
+Freeze Batarang (Water Suit) Unlocked: useful
 Green Fingers: Level Unlocked: progression
 Green Fingers: Minikit 10: progression
 Green Fingers: Minikit 1: progression
@@ -134,6 +139,7 @@ Harbouring a Grudge: Minikit 3: progression
 Harbouring a Grudge: Minikit 4: progression
 Harbouring a Grudge: Minikit 5: progression
 Harbouring a Grudge: Minikit 6: progression
+Harbouring a Grudge: Minikit 8: progression
 Harbouring a Grudge: Minikit 9: unknown
 Harbouring a Grudge: Red Brick Collected: progression
 Ice Rink Unlocked: unknown
@@ -147,16 +153,20 @@ In the Dark Night: Minikit 3: progression
 In the Dark Night: Minikit 5: progression
 In the Dark Night: Minikit 6: mcguffin
 In the Dark Night: Minikit 7: progression
+In the Dark Night: Minikit 8: progression
 In the Dark Night: Minikit 9: progression
+In the Dark Night: Red Brick Collected: progression
 Invincibility Unlocked: useful
 Joker's Home Turf: Level Unlocked: unknown
 Joker's Home Turf: Minikit 10: progression
+Joker's Home Turf: Minikit 1: progression
 Joker's Home Turf: Minikit 2: progression
 Joker's Home Turf: Minikit 3: progression
 Joker's Home Turf: Minikit 5: progression
 Joker's Home Turf: Minikit 6: unknown
 Joker's Home Turf: Minikit 7: progression
 Joker's Home Turf: Minikit 8: progression
+Joker's Home Turf: Red Brick Collected: progression
 Joker's Home Turf: True Status: filler
 Little Fun at the Big Top: Hostage: filler
 Little Fun at the Big Top: Level Unlocked: progression
@@ -168,16 +178,21 @@ Little Fun at the Big Top: Minikit 7: progression
 Little Fun at the Big Top: Minikit 8: progression
 Little Fun at the Big Top: Minikit 9: progression
 Little Fun at the Big Top: Red Brick Collected: progression
+Little Fun at the Big Top: True Status: filler
 Minikit Detector Unlocked: unknown
+More Detonators (Demolition Suit) Unlocked: useful
 On the Rocks: Hostage: filler
+On the Rocks: Level Unlocked: progression
 On the Rocks: Minikit 2: progression
 On the Rocks: Minikit 3: progression
+On the Rocks: Minikit 4: progression
 On the Rocks: Minikit 5: progression
 On the Rocks: Minikit 6: progression
 On the Rocks: Minikit 9: unknown
 On the Rocks: Red Brick Collected: progression
 On the Rocks: True Status: filler
 Penguin's Lair: Hostage: filler
+Penguin's Lair: Minikit 10: progression
 Penguin's Lair: Minikit 1: progression
 Penguin's Lair: Minikit 2: progression
 Penguin's Lair: Minikit 4: unknown
@@ -196,12 +211,15 @@ Rockin' the Docks: Minikit 5: progression
 Rockin' the Docks: Minikit 7: progression
 Rockin' the Docks: Minikit 8: progression
 Rockin' the Docks: Minikit 9: progression
-Score x2 Unlocked: unknown
+Score x2 Unlocked: useful
 Score x4 Unlocked: unknown
 Score x8 Unlocked: useful
 Silhouettes Unlocked: unknown
+Slam (Glide Suit) Unlocked: useful
+Stealing the Show: Hostage: filler
 Stealing the Show: Minikit 10: progression
 Stealing the Show: Minikit 1: progression
+Stealing the Show: Minikit 2: progression
 Stealing the Show: Minikit 3: progression
 Stealing the Show: Minikit 4: progression
 Stealing the Show: Minikit 6: progression
@@ -211,6 +229,7 @@ Stealing the Show: Minikit 9: progression
 Stealing the Show: Red Brick Collected: progression
 Stealing the Show: True Status: filler
 Stud Magnet Unlocked: useful
+The Face-Off: Hostage: filler
 The Face-Off: Level Unlocked: progression
 The Face-Off: Minikit 10: progression
 The Face-Off: Minikit 1: progression
@@ -237,6 +256,7 @@ The Lure of the Night: Minikit 1: progression
 The Lure of the Night: Minikit 4: unknown
 The Lure of the Night: Minikit 8: progression
 The Lure of the Night: Minikit 9: unknown
+The Lure of the Night: Red Brick Collected: progression
 The Riddler Makes a Withdrawal: Hostage: filler
 The Riddler Makes a Withdrawal: Level Unlocked: progression
 The Riddler Makes a Withdrawal: Minikit 10: progression
@@ -244,7 +264,7 @@ The Riddler Makes a Withdrawal: Minikit 1: progression
 The Riddler Makes a Withdrawal: Minikit 2: unknown
 The Riddler Makes a Withdrawal: Minikit 4: progression
 The Riddler Makes a Withdrawal: Minikit 5: progression
-The Riddler Makes a Withdrawal: Minikit 6: unknown
+The Riddler Makes a Withdrawal: Minikit 6: progression
 The Riddler Makes a Withdrawal: Minikit 7: unknown
 The Riddler Makes a Withdrawal: Minikit 8: progression
 The Riddler Makes a Withdrawal: Minikit 9: progression
@@ -274,6 +294,8 @@ Two-Face Chase: Minikit 4: progression
 Two-Face Chase: Minikit 6: progression
 Two-Face Chase: Minikit 8: progression
 Two-Face Chase: Minikit 9: progression
+Two-Face Chase: Red Brick Collected: progression
+Two-Face Chase: True Status: filler
 Under the City: Hostage: unknown
 Under the City: Level Unlocked: progression
 Under the City: Minikit 10: progression
@@ -282,6 +304,7 @@ Under the City: Minikit 2: unknown
 Under the City: Minikit 3: unknown
 Under the City: Minikit 5: progression
 Under the City: Minikit 6: unknown
+Under the City: Minikit 7: progression
 Under the City: Minikit 9: progression
 Under the City: Red Brick Collected: unknown
 You can Bank on Batman: Level Unlocked: progression
@@ -294,11 +317,13 @@ You can Bank on Batman: Minikit 7: progression
 You can Bank on Batman: Minikit 8: progression
 You can Bank on Batman: Minikit 9: progression
 You can Bank on Batman: True Status: filler
+Zoo's Company: Hostage: filler
 Zoo's Company: Level Unlocked: progression
 Zoo's Company: Minikit 1: progression
 Zoo's Company: Minikit 2: progression
 Zoo's Company: Minikit 4: progression
 Zoo's Company: Minikit 6: unknown
-Zoo's Company: Minikit 7: unknown
+Zoo's Company: Minikit 7: progression
 Zoo's Company: Minikit 9: progression
+Zoo's Company: Red Brick Collected: progression
 Zoo's Company: True Status: filler
