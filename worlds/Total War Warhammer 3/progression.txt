@@ -9,6 +9,7 @@ Orb of Domination: mcguffin
 Progressive brt_allied_outpost: progression
 Progressive brt_barracks: progression
 Progressive brt_carpenter: progression
+Progressive brt_farm: progression
 Progressive brt_industry_extra: progression
 Progressive brt_port: progression
 Progressive brt_resource_dyes: progression
@@ -267,6 +268,7 @@ wh2_main_brt_resource_animals_3: progression
 wh2_main_brt_resource_dyes_2: progression
 wh2_main_brt_resource_dyes_3: progression
 wh2_main_brt_resource_furs_2: progression
+wh2_main_brt_resource_gold_3: progression
 wh2_main_brt_resource_marble_2: progression
 wh2_main_brt_resource_marble_3: progression
 wh2_main_brt_resource_medicine_2: progression
@@ -285,6 +287,7 @@ wh2_main_foreign_slot_discovery_brt_2: progression
 wh2_main_hef_intrigue_signed_sealed_delivered_third: unknown
 wh2_main_ritual_grn_waaagh: unknown
 wh2_main_special_settlement_sartosa_brt_2: progression
+wh2_main_special_settlement_sartosa_brt_3: progression
 wh2_main_special_settlement_sartosa_brt_4: progression
 wh3_dlc20_bundle_chs_authority_tzeentch_6: unknown
 wh3_dlc20_bundle_chs_authority_tzeentch_8: filler

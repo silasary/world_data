@@ -23,6 +23,7 @@ EVENT MAP: useful
 EX_BACKUP_DNA: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_FTL_BOOSTER: filler
+EX_HACKING_STUN: filler
 EX_ION_ARMOR: useful
 EX_MEDBAY_NANO: useful
 EX_O2_MASKS: useful

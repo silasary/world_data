@@ -138,6 +138,7 @@ Daedalus - Starting Room North Wall West Door: progression
 Daedalus - Starting Room South Wall East Door: progression
 Daedalus - Starting Room South Wall West Door: progression
 Daedalus - Starting Room West Wall Center Door: progression
+Daedalus - Starting Room West Wall North Door: progression
 Daedalus - Starting Room West Wall South Door: progression
 Daedalus - Sticks And Stones Door: progression
 Daedalus - Temple of the Eyes Entrance: progression
@@ -338,6 +339,7 @@ The Partial - F Door: progression
 The Partial - P Door: progression
 The Plaza - Bottom Right Door: unknown
 The Plaza - Northeast Door: progression
+The Plaza - Northwest Door: progression
 The Plaza - Sirenic Entrance: progression
 The Plaza - Southeast Door: progression
 The Plaza - Southwest Door: progression

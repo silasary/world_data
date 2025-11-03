@@ -54,12 +54,14 @@ Chewy Radish: progression
 Chimera Rabbit: progression
 Citron Gooseberry: progression
 Clarity Moss: progression
+Clear Almond: progression
 Coin of Fortune: progression
 Colony 6 Key: progression
 Colony 6 Reconstruction Commerce Level: progression
 Colony 6 Reconstruction Housing Level: progression
 Colony 6 Reconstruction Nature Level: progression
 Colony 6 Reconstruction Special Level: progression
+Cool Potato: progression
 Cream Wheat: progression
 Crimson Citrus: progression
 Crystal Frog: progression
@@ -90,6 +92,7 @@ Dunban Progressive Affinity Rank: progression
 Dunban: Binding Blossom Art Book: useful
 Dunban: Final Flicker Art Book: useful
 Dunban: Heat Haze Art Book: useful
+Dunban: Obstinance Skill Tree: useful
 Dunban: Progressive Arms Armor: useful
 Dunban: Worldly Slash Art Book: useful
 Electric Cricket: progression
@@ -114,10 +117,13 @@ Fiora: Cross Impact Art Book: useful
 Fiora: Final Cross Art Book: useful
 Fiora: Guard Shift Art Book: useful
 Fiora: Hidden Thorn Art Book: useful
+Fiora: Innocence Skill Tree: useful
 Fiora: Mag Storm Art Book: useful
 Fiora: Power Drain Art Book: useful
 Fiora: Progressive Weapon: useful
 Fiora: Screw Edge Art Book: useful
+Fiora: Second Gear Art Book: useful
+Fiora: Shutdown Art Book: useful
 Fiora: Zero Gravity Art Book: useful
 Fire Apple: progression
 Fire Tarantula: progression
@@ -202,6 +208,7 @@ Melia Progressive Affinity Rank: progression
 Melia: Burst End Art Book: useful
 Melia: Power Effect Art Book: useful
 Melia: Progressive Head Armor: useful
+Melia: Progressive Legs Armor: useful
 Melia: Progressive Weapon: useful
 Melia: Reflection Art Book: useful
 Melia: Reliability Skill Tree: useful
@@ -210,6 +217,7 @@ Melia: Starlight Kick Art Book: useful
 Melia: Summon Bolt Art Book: useful
 Melia: Summon Copy Art Book: useful
 Melia: Summon Earth Art Book: useful
+Melia: Summon Wind Art Book: useful
 Memory Fragment: mcguffin
 Merry Coronation: progression
 Minute Mantis: progression
@@ -233,6 +241,7 @@ Parts Noble: progression
 Pauper's Cup: progression
 Pink Asparagus: progression
 Pione Stone: progression
+Poisonous Coral: progression
 Poisonous Gourd: progression
 Prairie Dragonfly: progression
 Princess Daffodil: progression
@@ -240,10 +249,12 @@ Prison Island (1st Visit) Key: progression
 Prison Island (2nd Visit) Key: progression
 Progressive Animal Category: progression
 Progressive Bug Category: progression
+Progressive Earth Gem: useful
 Progressive Fire Gem: useful
 Progressive Flower Category: progression
 Progressive Fruit Category: progression
 Progressive Hunting License: progression
+Progressive Ice Gem: useful
 Progressive Nature Category: progression
 Progressive Part Category: progression
 Progressive Strange Category: progression
@@ -261,6 +272,7 @@ Rainbow Carrot: progression
 Rainbow Slug: progression
 Ready Coil: progression
 Red Durian: progression
+Red Lettuce: progression
 Retro Diode: progression
 Reyn Progressive Affinity Rank: progression
 Reyn: Aura Burst Art Book: useful
@@ -270,10 +282,15 @@ Reyn: Guard Shift Art Book: useful
 Reyn: Hammer Beat Art Book: useful
 Reyn: Last Stand Art Book: useful
 Reyn: Magnum Charge Art Book: useful
+Reyn: Progressive Weapon: useful
+Reyn: Rage Art Book: useful
 Riki Progressive Affinity Rank: progression
 Riki: Bedtime Art Book: useful
+Riki: Behave Art Book: useful
 Riki: Burninate Art Book: useful
+Riki: Flexibility Skill Tree: useful
 Riki: Freezinate Art Book: useful
+Riki: Peekaboo Art Book: useful
 Riki: Roly-Poly Art Book: useful
 Riki: Tantrum Art Book: useful
 Rubber Mantis: progression
@@ -293,7 +310,9 @@ Senorita Scarab: progression
 Sharla Progressive Affinity Rank: progression
 Sharla: Cure Bullet Art Book: useful
 Sharla: Heal Blast Art Book: useful
+Sharla: Heal Bullet Art Book: useful
 Sharla: Heal Counter Art Book: useful
+Sharla: Heal Round Art Book: useful
 Sharla: Progressive Arms Armor: useful
 Sharla: Progressive Head Armor: useful
 Sharla: Shield Bullet Art Book: useful
@@ -325,6 +344,7 @@ Sour Turnip: progression
 Spicy Banana: progression
 Spicy Cabbage: progression
 Spicy Nut: progression
+Spicy Papaya: progression
 Spiral Lamp: progression
 Splish Splash: progression
 Stardrop: progression

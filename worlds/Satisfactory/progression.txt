@@ -175,7 +175,7 @@ Bundle: Crystal Oscillator: filler
 Bundle: Cup (gold): unknown
 Bundle: Cup: filler
 Bundle: Dark Matter Crystal: filler
-Bundle: Diamonds: unknown
+Bundle: Diamonds: filler
 Bundle: Electromagnetic Control Rod: filler
 Bundle: Empty Canister: filler
 Bundle: Empty Fluid Tank: filler
@@ -272,7 +272,7 @@ Bundle: Rubber: filler
 Bundle: SAM Fluctuator: filler
 Bundle: SAM Ore: filler
 Bundle: SAM: filler
-Bundle: Satisfactory Pioneering Statue: unknown
+Bundle: Satisfactory Pioneering Statue: filler
 Bundle: Screw: filler
 Bundle: Shatter Rebar: filler
 Bundle: Silica: filler
@@ -496,7 +496,7 @@ Recipe: Nuke Nobelisk: progression
 Recipe: Nutritional Inhaler: useful
 Recipe: OC Supercomputer: useful
 Recipe: Object Scanner: useful
-Recipe: Oil-Based Diamonds: unknown
+Recipe: Oil-Based Diamonds: progression
 Recipe: Packaged Alumina Solution: progression
 Recipe: Packaged Fuel: progression
 Recipe: Packaged Heavy Oil Residue: progression
@@ -643,12 +643,12 @@ Single: Empty Fluid Tank: unknown
 Single: Encased Industrial Beam: unknown
 Single: Explosive Rebar: unknown
 Single: FICSIT Coupon: unknown
-Single: Factory Cart: unknown
+Single: Factory Cart: useful
 Single: Ficsite Ingot: filler
 Single: Gas Mask: useful
 Single: Gas Nobelisk: unknown
 Single: Golden Nut Statue: unknown
-Single: Hazmat Suit: unknown
+Single: Hazmat Suit: useful
 Single: Heat Sink: filler
 Single: Hog Remains: unknown
 Single: Hoverpack: useful

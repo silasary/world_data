@@ -10,7 +10,7 @@ Area Expansion: Grancel Castle Basement: unknown
 Area Expansion: Grancel Castle: progression
 Area Expansion: Grancel East Block (Day): unknown
 Area Expansion: Grancel East Block (Night): progression
-Area Expansion: Grancel North Block (Day): unknown
+Area Expansion: Grancel North Block (Day): progression
 Area Expansion: Grancel North Block (Night): progression
 Area Expansion: Grancel Port (Day): progression
 Area Expansion: Grancel Port (Night): progression
@@ -23,7 +23,7 @@ Area Expansion: Jade Corridor 2: progression
 Attack 1: filler
 Attack 3: useful
 Bennu Defeated (Victory): unknown
-Bestia Coat: unknown
+Bestia Coat: useful
 Black Bangle+: unknown
 Black Bangle: filler
 Brain Roast: filler
@@ -86,6 +86,7 @@ Proxy Puppet: useful
 Purging Balm: filler
 Queenly Cookie: filler
 Range 1: useful
+Repellent Dish: filler
 Reviving Balm: filler
 Ries's Progressive Craft: useful
 Ries: progression

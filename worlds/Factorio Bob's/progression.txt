@@ -10,7 +10,7 @@ battery-mk2-equipment: filler
 battery: progression
 belt-immunity-equipment: filler
 bob-acid-bullets: unknown
-bob-acid-rocket: unknown
+bob-acid-rocket: filler
 bob-advanced-logistic-science-pack: progression
 bob-advanced-research: unknown
 bob-air-compressor-1: progression
@@ -39,7 +39,7 @@ bob-cordite-processing: progression
 bob-deuterium-fuel-cell-2: unknown
 bob-deuterium-fuel-reprocessing: filler
 bob-deuterium-processing: filler
-bob-distractor-mine: unknown
+bob-distractor-mine: filler
 bob-electric-chemical-furnace: filler
 bob-electric-mixing-furnace: unknown
 bob-electric-pole-3: filler
@@ -82,6 +82,7 @@ bob-laser-turrets-3: filler
 bob-laser-turrets-4: filler
 bob-lead-processing: progression
 bob-lithium-processing: progression
+bob-logistic-spidertron: filler
 bob-multi-purpose-furnace-1: filler
 bob-nickel-processing: progression
 bob-nitinol-processing: progression
@@ -103,22 +104,23 @@ bob-poison-bullets: filler
 bob-poison-mine: unknown
 bob-poison-rocket: unknown
 bob-polishing: progression
+bob-power-armor-3: filler
 bob-productivity-module-4: filler
 bob-productivity-module-5: filler
 bob-radar-2: filler
 bob-radar-5: filler
-bob-reinforced-wall: unknown
+bob-reinforced-wall: filler
 bob-robot-flamethrower-drones: filler
 bob-robot-gun-drones: filler
 bob-robot-laser-drones: unknown
-bob-robot-plasma-drones: unknown
+bob-robot-plasma-drones: filler
 bob-robots-3: progression
 bob-rocket: progression
 bob-rtg: progression
 bob-scatter-cannon-shells: filler
 bob-shotgun-acid-shells: unknown
 bob-shotgun-ap-shells: filler
-bob-shotgun-electric-shells: unknown
+bob-shotgun-electric-shells: filler
 bob-shotgun-explosive-shells: filler
 bob-shotgun-flame-shells: unknown
 bob-shotgun-plasma-shells: filler
@@ -130,7 +132,7 @@ bob-sniper-turrets-1: filler
 bob-steel-chemical-furnace: unknown
 bob-steel-mixing-furnace: unknown
 bob-tankotron: filler
-bob-thorium-fuel-reprocessing: unknown
+bob-thorium-fuel-reprocessing: filler
 bob-thorium-plutonium-fuel-cell: progression
 bob-thorium-processing: filler
 bob-titanium-processing: progression
@@ -140,6 +142,7 @@ bob-vehicle-belt-immunity-equipment: unknown
 bob-vehicle-engine-equipment: unknown
 bob-vehicle-laser-defense-equipment-2: filler
 bob-vehicle-laser-defense-equipment-3: filler
+bob-vehicle-laser-defense-equipment-5: filler
 bob-vehicle-motor-equipment: filler
 bob-void-fluid: unknown
 bob-water-bore-2: filler
@@ -154,6 +157,7 @@ coal-liquefaction: unknown
 concrete: progression
 construction-robotics: unknown
 discharge-defense-equipment: unknown
+effect-transmission: filler
 energy-shield-mk2-equipment: filler
 explosives: progression
 flammables: filler
@@ -264,7 +268,7 @@ progressive-pumpjacks: progression
 progressive-radar: filler
 progressive-railway: filler
 progressive-repair-pack: filler
-progressive-research-speed: unknown
+progressive-research-speed: filler
 progressive-robotics: filler
 progressive-robots: filler
 progressive-rocketry: progression
@@ -279,10 +283,12 @@ progressive-stronger-explosives: filler
 progressive-substation: filler
 progressive-toolbelt: filler
 progressive-turrets: filler
-progressive-wall: unknown
+progressive-wall: filler
 progressive-weapon-shooting-speed: filler
 progressive-worker-robots-speed: filler
 progressive-worker-robots-storage: unknown
+radar: filler
+research-speed-4: filler
 research-speed-5: filler
 research-speed-6: filler
 rocket-fuel: unknown
@@ -295,3 +301,4 @@ uranium-mining: unknown
 uranium-processing: filler
 weapon-shooting-speed-2: filler
 weapon-shooting-speed-3: filler
+weapon-shooting-speed-4: filler

@@ -6,8 +6,8 @@
 500 Gil: filler
 5000 Gil: filler
 Accursed Trophy: unknown
-Achilles: unknown
-Adamant Hat: unknown
+Achilles: useful
+Adamant Hat: filler
 Adamant Vest: unknown
 Adamantine Trophy: unknown
 Adamantite: filler
@@ -22,17 +22,17 @@ Aevis Killer: unknown
 Agate Ring: filler
 Aged Turtle Shell: filler
 Ageworn Key: progression
-Aldebaran: unknown
+Aldebaran: filler
 Altair: filler
 Amber Armlet: useful
 Ambrosia: unknown
 Ame-no-Murakumo: filler
-Ancient Bone: unknown
+Ancient Bone: filler
 Ancient Sword: unknown
 Ancient Turtle Shell: unknown
 Ann's Letter: progression
 Antarctic Wind: filler
-Antares: unknown
+Antares: filler
 Antidote: filler
 Aqua Shot: filler
 Aqua: useful
@@ -49,7 +49,7 @@ Aries Gem: unknown
 Arise: useful
 Artemis Arrows: unknown
 Artemis Bow: filler
-Ashura: unknown
+Ashura: filler
 Assassin's Arrows: useful
 Assassin's Dagger: unknown
 Astrakhan Hat: filler
@@ -85,7 +85,7 @@ Bhujerba Aeropass: progression
 Bio Mote: filler
 Bio: useful
 Black Belt: filler
-Black Bolts: unknown
+Black Bolts: filler
 Black Cowl: unknown
 Black Garb: filler
 Black Mask: filler
@@ -111,10 +111,10 @@ Bone Fragment: unknown
 Bone Helm: filler
 Bone Mail: useful
 Bone of Byblos: unknown
-Bonebreaker: unknown
+Bonebreaker: filler
 Bonecrusher: useful
 Bony Trophy: unknown
-Book of Orgain-Cent: unknown
+Book of Orgain-Cent: filler
 Book of Orgain-Mille: unknown
 Book of Orgain: unknown
 Bowgun: filler
@@ -122,14 +122,14 @@ Bowline Sash: filler
 Braid Wool: unknown
 Brave Suit: unknown
 Bravery: unknown
-Break: unknown
+Break: useful
 Brigandine: filler
-Broadaxe: unknown
+Broadaxe: filler
 Broadsword: unknown
 Broken Greataxe: unknown
 Broken Key: progression
 Broken Spear: unknown
-Broken Sword: unknown
+Broken Sword: filler
 Bronze Armor: filler
 Bronze Chestplate: unknown
 Bronze Helm: unknown
@@ -167,10 +167,10 @@ Chaos Bombs: unknown
 Chaos Mace: filler
 Chaos: progression
 Chaperon: unknown
-Charge: unknown
+Charge: useful
 Charged Gizzard: unknown
 Charger Barding: unknown
-Charm: unknown
+Charm: useful
 Cherry Staff: unknown
 Chimera Head: filler
 Chocobo Feather: unknown
@@ -184,7 +184,7 @@ Claymore: unknown
 Cleanse: useful
 Cleric's Robes: filler
 Close Helmet: useful
-Cloud Staff: unknown
+Cloud Staff: filler
 Coeurl Pelt: filler
 Coeurl Whisker: unknown
 Common Fish: unknown
@@ -202,7 +202,7 @@ Cruel Trophy: unknown
 Crystal Shield: filler
 Cuchulainn: progression
 Cura Mote: filler
-Cura: unknown
+Cura: useful
 Curaga: useful
 Curaja: useful
 Cure: useful
@@ -216,7 +216,7 @@ Dark Matter: unknown
 Dark Mote: filler
 Dark Shot: filler
 Dark Stone: unknown
-Dark: unknown
+Dark: useful
 Darkga: useful
 Darkra: useful
 Dawn Shard: progression
@@ -236,20 +236,20 @@ Demon Shield: unknown
 Demon Tail: unknown
 Demon's Sigh: unknown
 Demonsbane: useful
-Destrier Barding: unknown
+Destrier Barding: filler
 Destrier Mane: filler
 Dhanusha: filler
-Diakon Halcyon: unknown
+Diakon Halcyon: filler
 Diamond Armlet: useful
 Diamond Armor: filler
-Diamond Helm: unknown
+Diamond Helm: filler
 Diamond Shield: filler
 Diamond Sword: useful
 Disable: useful
 Dispel Mote: filler
-Dispel: unknown
+Dispel: useful
 Dispelga: useful
-Domaine Calvados: unknown
+Domaine Calvados: filler
 Doom Mace: filler
 Dorsal Fin: unknown
 Drab Wool: unknown
@@ -262,7 +262,7 @@ Drain: useful
 Dueling Mask: unknown
 Dull Fragment: mcguffin
 Durandal: unknown
-Dusty Letter: unknown
+Dusty Letter: progression
 Earth Crystal: filler
 Earth Magicite: unknown
 Earth Stone: unknown
@@ -279,7 +279,7 @@ Empty Bottle: filler
 Empyreal Soul: unknown
 Empyrean Rod: filler
 Enchanter's Habit: filler
-Ensanguined Shield: unknown
+Ensanguined Shield: filler
 Ensanguined Trophy: unknown
 Errmonea Leaf: progression
 Esuna: useful
@@ -290,7 +290,7 @@ Euclid's Sextant: unknown
 Excalibur: useful
 Excalipur: unknown
 Exodus: useful
-Expose: unknown
+Expose: useful
 Eye Drops: filler
 Eye of the Hawk: unknown
 Faith: useful
@@ -304,8 +304,8 @@ Feystone: unknown
 Fiery Arrows: filler
 Fine Wool: unknown
 Fira: useful
-Firaga: unknown
-Fire Crystal: unknown
+Firaga: useful
+Fire Crystal: filler
 Fire Magicite: unknown
 Fire Stone: unknown
 Fire: useful
@@ -314,7 +314,7 @@ First Aid: useful
 Fish Scale: unknown
 Flame Shield: filler
 Flame Staff: unknown
-Flametongue: unknown
+Flametongue: filler
 Flare: useful
 Float Mote: filler
 Float: useful
@@ -323,7 +323,7 @@ Forbidden Flesh: filler
 Foul Flesh: unknown
 Foul Liquid: unknown
 Four-leaf Clover: unknown
-Francisca: unknown
+Francisca: filler
 Frigid Trophy: unknown
 Frog Oil: unknown
 Frogspawn: unknown
@@ -331,7 +331,7 @@ Fumarole: useful
 Fur-scaled Trophy: unknown
 Fuzzy Miter: filler
 Gaia Gear: unknown
-Gaia Hat: unknown
+Gaia Hat: filler
 Gaia Rod: filler
 Gastrophetes: unknown
 Gauntlets: useful
@@ -364,7 +364,7 @@ Gokuu Pole: filler
 Gold Hairpin: unknown
 Gold Needle: filler
 Golden Amulet: filler
-Golden Armor: unknown
+Golden Armor: filler
 Golden Axe: unknown
 Golden Helm: filler
 Golden Shield: unknown
@@ -378,11 +378,11 @@ Gravesoil Trophy: unknown
 Graviga: useful
 Gravity Mote: filler
 Gravity: useful
-Great Serpent's Fang: unknown
+Great Serpent's Fang: filler
 Great Trango: unknown
-Greataxe: unknown
+Greataxe: filler
 Green Beret: unknown
-Green Liquid: unknown
+Green Liquid: filler
 Green Tuft: unknown
 Grimoire Aidhed: unknown
 Grimoire Togail: useful
@@ -400,7 +400,7 @@ Hastega: useful
 Headband: filler
 Headgear: unknown
 Headguard: unknown
-Healing Rod: unknown
+Healing Rod: filler
 Heavy Coat: filler
 Heavy Lance: unknown
 Hell-Gate's Flame: filler
@@ -415,7 +415,7 @@ Holy Magicite: unknown
 Holy Mote: filler
 Holy Rod: useful
 Holy Stone: unknown
-Holy: unknown
+Holy: useful
 Horakhty's Flame: unknown
 Horn: unknown
 Horned Hat: unknown
@@ -423,12 +423,12 @@ Hornito: filler
 Horology: useful
 Hunting Crossbow: filler
 Hypnocrown: unknown
-Ice Crystal: unknown
+Ice Crystal: filler
 Ice Magicite: unknown
 Ice Shield: filler
-Ice Stone: unknown
-Icebrand: unknown
-Icecloud Arrows: unknown
+Ice Stone: filler
+Icebrand: filler
+Icecloud Arrows: filler
 Ichthon Scale: filler
 Iga Blade: useful
 Immobilize: useful
@@ -454,7 +454,7 @@ Kagenui: unknown
 Kaiser Shield: filler
 Kanya: unknown
 Karkata: filler
-Ketu Board: unknown
+Ketu Board: filler
 Kiku-ichimonji: unknown
 Kilimweave Shirt: unknown
 Killer Bow: unknown
@@ -533,7 +533,7 @@ Meteorite A: filler
 Meteorite B: filler
 Meteorite C: unknown
 Meteorite D: unknown
-Mina: unknown
+Mina: filler
 Mind Trophy: unknown
 Minerva Bustier: unknown
 Mirage Vest: unknown
@@ -542,11 +542,11 @@ Mirror Scale: filler
 Miter: unknown
 Mithuna: unknown
 Molting: unknown
-Moon Ring: unknown
+Moon Ring: filler
 Moondust: unknown
 Moonsilver Medallion: progression
 Morning Star: unknown
-Mud Shot: unknown
+Mud Shot: filler
 Multiscale: filler
 Muramasa: unknown
 Murasame: useful
@@ -563,19 +563,19 @@ Nishijin Belt: unknown
 No. 1 Brig Key: progression
 Nu Khai Sand: filler
 Numerology: unknown
-Oak Staff: unknown
+Oak Staff: filler
 Oaken Pole: unknown
 Obelisk: useful
 Odiferous Trophy: unknown
 Officer's Hat: filler
-Oil Bombs: unknown
+Oil Bombs: filler
 Oil: useful
 Omega Badge: unknown
-Onion Arrows: unknown
+Onion Arrows: filler
 Onion Bolts: unknown
 Onion Bombs: filler
 Onion Shot: unknown
-Onion: unknown
+Onion: filler
 Opal Ring: unknown
 Orange Tuft: unknown
 Orichalcum Dirk: unknown
@@ -644,7 +644,7 @@ Renewing Morion: unknown
 Reptilian Trophy: unknown
 Reverse Mote: filler
 Reverse: useful
-Revive: unknown
+Revive: useful
 Ribbon: unknown
 Rime Fang: filler
 Ring Wyrm Liver: filler
@@ -658,21 +658,21 @@ Rod: unknown
 Rose Corsage: filler
 Round Shield: unknown
 Rubber Suit: unknown
-Ruby Ring: unknown
-Runeblade: unknown
+Ruby Ring: filler
+Runeblade: filler
 Rusted Scrap of Armor: filler
 Sage's Ring: filler
 Sagittarius Gem: unknown
 Sagittarius: unknown
 Sakura-saezuri: useful
-Salamand Halcyon: unknown
+Salamand Halcyon: filler
 Sallet: unknown
 Sandalwood Chop: progression
 Sapping Bolts: filler
 Sash: filler
 Save the Queen: filler
 Scale Armor: useful
-Scarletite: unknown
+Scarletite: filler
 Scathe Mote: filler
 Scathe: unknown
 Scorpio Gem: unknown
@@ -715,7 +715,7 @@ Simha: unknown
 Sirius: unknown
 Site 11 Key: progression
 Site 3 Key: progression
-Six-fluted Pole: unknown
+Six-fluted Pole: filler
 Skull Trophy: unknown
 Sky Jewel: filler
 Slasher: filler
@@ -733,7 +733,7 @@ Snake Skin: unknown
 Snowfly: filler
 Soldier's Cap: unknown
 Soleil Fang: filler
-Solid Horn: unknown
+Solid Horn: filler
 Solid Stone: filler
 Sorcerer's Habit: useful
 Sorcerer's Hat: useful
@@ -743,7 +743,7 @@ Soul of Thamasa: unknown
 Souleater: unknown
 Soulless Trophy: unknown
 Spear: filler
-Spica: unknown
+Spica: filler
 Spiral Incisor: unknown
 Split Armor: unknown
 Staff of the Magi: unknown
@@ -757,29 +757,29 @@ Stink Bombs: unknown
 Stolen Articles: progression
 Stona: unknown
 Stone Bolts: unknown
-Stone Shot: unknown
+Stone Shot: filler
 Stone of the Condemner: progression
 Stoneblade: unknown
 Stop: unknown
 Storm Crystal: unknown
 Storm Magicite: unknown
 Storm Spear: filler
-Storm Staff: unknown
+Storm Staff: filler
 Storm Stone: unknown
 Stun Bombs: unknown
 Sturdy Bone: unknown
-Succulent Fruit: unknown
+Succulent Fruit: filler
 Sunstone: progression
 Survival Vest: unknown
-Sweep: unknown
+Sweep: filler
 Sword of Kings: progression
 Sword of the Order: progression
 Sylphi Halcyon: unknown
-Syphon: unknown
+Syphon: useful
 Systems Access Key: progression
 Tanned Giantskin: unknown
-Tanned Hide: unknown
-Tanned Tyrant Hide: unknown
+Tanned Hide: filler
+Tanned Tyrant Hide: filler
 Tattered Garment: unknown
 Taurus Gem: unknown
 Telekinesis: useful
@@ -787,7 +787,7 @@ Teleport Stone: useful
 Thief's Cap: filler
 Thief's Cuffs: unknown
 Thorned Mace: filler
-Throat Wolf Blood: unknown
+Throat Wolf Blood: filler
 Thundaga: useful
 Thundara: useful
 Thunder: useful
@@ -795,7 +795,7 @@ Time Bolts: unknown
 Tomato Stalk: unknown
 Topkapi Hat: unknown
 Tourmaline Ring: useful
-Tournesol: unknown
+Tournesol: filler
 Toxify: useful
 Traitor's Bow: filler
 Traveler's Vestment: unknown
@@ -813,10 +813,10 @@ Ultima Blade: unknown
 Ultima: useful
 Undin Halcyon: unknown
 Unpurified Ether: unknown
-Vampyr Fang: unknown
+Vampyr Fang: filler
 Vanish: unknown
 Vanishga Mote: filler
-Vanishga: unknown
+Vanishga: useful
 Vega: unknown
 Venetian Shield: unknown
 Vengeful Trophy: unknown
@@ -865,7 +865,7 @@ Wyrmfire Shot: filler
 Wyrmhero Blade: unknown
 Wyvern Fang: unknown
 Wyvern Wing: unknown
-X-Potion: unknown
+X-Potion: filler
 Yagyu Darkblade: filler
 Yakei: unknown
 Yellow Liquid: unknown

@@ -57,6 +57,7 @@ Collector Progressive Rest: progression
 Collector Progressive Shop Remove: progression
 Collector Progressive Smith: progression
 Collector Rare Card Draw: progression
+Collector Rare Card Reward: progression
 Collector Relic: progression
 Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
@@ -196,6 +197,7 @@ Gremlins Progressive Rest: progression
 Gremlins Progressive Shop Remove: progression
 Gremlins Progressive Smith: progression
 Gremlins Rare Card Draw: progression
+Gremlins Rare Card Reward: progression
 Gremlins Relic: progression
 Gremlins Shop Card Slot: progression
 Gremlins Shop Potion Slot: progression
