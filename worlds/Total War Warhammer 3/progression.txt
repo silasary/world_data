@@ -13,6 +13,7 @@ Progressive brt_farm: progression
 Progressive brt_industry_extra: progression
 Progressive brt_port: progression
 Progressive brt_resource_dyes: progression
+Progressive brt_resource_furs: progression
 Progressive brt_resource_gemstones: progression
 Progressive brt_resource_gold: progression
 Progressive brt_resource_marble: progression
@@ -275,6 +276,7 @@ wh2_main_brt_resource_medicine_2: progression
 wh2_main_brt_resource_medicine_3: progression
 wh2_main_brt_resource_obsidian_2: progression
 wh2_main_brt_resource_obsidian_3: progression
+wh2_main_brt_resource_pastures_3: progression
 wh2_main_brt_resource_pottery_3: useful
 wh2_main_brt_resource_salt_2: progression
 wh2_main_brt_resource_salt_3: progression
@@ -284,6 +286,7 @@ wh2_main_brt_resource_wine_2: progression
 wh2_main_brt_resource_wine_3: progression
 wh2_main_effect_force_unit_stat_morale_melee_attack_versus_high_elves: unknown
 wh2_main_foreign_slot_discovery_brt_2: progression
+wh2_main_foreign_slot_discovery_brt_3: progression
 wh2_main_hef_intrigue_signed_sealed_delivered_third: unknown
 wh2_main_ritual_grn_waaagh: unknown
 wh2_main_special_settlement_sartosa_brt_2: progression

@@ -362,7 +362,7 @@ Recipe: Basic Iron Ingot: progression
 Recipe: Battery: useful
 Recipe: Beacon: useful
 Recipe: Biochemical Sculptor: progression
-Recipe: Biocoal: unknown
+Recipe: Biocoal: useful
 Recipe: Biomass (Alien Protein): progression
 Recipe: Biomass (Leaves): unknown
 Recipe: Biomass (Mycelia): progression
@@ -469,7 +469,7 @@ Recipe: Ionized Fuel: useful
 Recipe: Iron Alloy Ingot: progression
 Recipe: Iron Ingot: progression
 Recipe: Iron Pipe: progression
-Recipe: Iron Plate: unknown
+Recipe: Iron Plate: progression
 Recipe: Iron Rebar: filler
 Recipe: Iron Rod: progression
 Recipe: Iron Wire: progression

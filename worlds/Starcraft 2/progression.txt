@@ -306,13 +306,13 @@ Entropic Reversal (Intercessor): unknown
 Entropic Reversal (Pulsar): unknown
 Eradicate (Archon): useful
 Evil Awoken Mission Key: progression
-Evolutionary Leap (Zerg): unknown
+Evolutionary Leap (Zerg): progression
 Evolved Carapace (Brood Lord): useful
 Excavating Claws (Zerg): unknown
 Executioner Missiles (Widow Mine): useful
 Expanded Hull (Medivac): filler
 Expeditionary Hull (Scout): useful
-Explosive Spores (Guardian): unknown
+Explosive Spores (Guardian): progression
 Extra Supplies (Command Center): progression
 Eye of Wrath (Wrathwalker): filler
 Fast Delivery (Terran/Zerg): unknown
@@ -322,6 +322,7 @@ Feedback (Signifier): unknown
 Field-Assist Target System (Battlecruiser): unknown
 Fire Lance (Colossus War Council): progression
 Fire Lance (Colossus): unknown
+Fire in the Sky (Terran) Mission Key: progression
 Fire in the Sky (Zerg) Mission Key: progression
 Firebat: progression
 Flashbang Grenades (Nova Gadget): progression
@@ -437,6 +438,7 @@ Improved Nano-Repair (Science Vessel): useful
 Improved Osmosis (Devourer): filler
 Improved Overlords (Kerrigan Tier 3): useful
 Improved Overlords (Overlord): unknown
+In Utter Darkness (Protoss) Mission Key: progression
 In Utter Darkness (Terran) Mission Key: progression
 Incinerator Gauntlets (Firebat): filler
 Increased Building Construction Speed: filler
@@ -615,7 +617,7 @@ Observer: filler
 Ocular Implants (Ghost): useful
 Old Soldiers (Protoss) Mission Key: progression
 Old Soldiers (Zerg) Mission Key: progression
-Oppressor: unknown
+Oppressor: progression
 Optical Flare (Medic): filler
 Optimized Logistics (Battlecruiser): filler
 Optimized Logistics (Dominion Trooper): filler
@@ -699,7 +701,7 @@ Progressive Automated Mitosis (Infested Siege Tank): progression
 Progressive Baneling Launch (Aberration): progression
 Progressive Cross-Spectrum Dampeners (Banshee): filler
 Progressive Defensive Matrix (Battlecruiser): useful
-Progressive Fast Delivery (Terran): unknown
+Progressive Fast Delivery (Terran): progression
 Progressive Fire-Suppression System (Terran): useful
 Progressive Fire-Suppression System: useful
 Progressive Fungal Snare (Infested Diamondback): progression
@@ -1022,6 +1024,7 @@ The Great Train Robbery (Zerg) Mission Key: progression
 The Growing Shadow (Protoss) Mission Key: progression
 The Growing Shadow (Zerg) Mission Key: progression
 The Moebius Factor (Zerg) Mission Key: progression
+The Reckoning (Protoss) Mission Key: progression
 The Reckoning (Zerg) Mission Key: progression
 The Spear of Adun (Terran) Mission Key: progression
 Thermite Filaments (Hellion): useful

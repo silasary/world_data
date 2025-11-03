@@ -73,6 +73,7 @@ Dark Fish: progression
 Dark Grape: progression
 Dark Mango: progression
 Darkness Bottle: progression
+Dawn Dice: progression
 Dawn Hydrangea: progression
 Deadly Kiwi: progression
 Death Bangle: progression
@@ -94,6 +95,8 @@ Dunban: Final Flicker Art Book: useful
 Dunban: Heat Haze Art Book: useful
 Dunban: Obstinance Skill Tree: useful
 Dunban: Progressive Arms Armor: useful
+Dunban: Progressive Torso Armor: useful
+Dunban: Thunder Art Book: useful
 Dunban: Worldly Slash Art Book: useful
 Electric Cricket: progression
 Emerald Snow: progression
@@ -114,6 +117,7 @@ Fatal Belladonna: progression
 Fiora Progressive Affinity Rank: progression
 Fiora: Air Fang Art Book: useful
 Fiora: Cross Impact Art Book: useful
+Fiora: Ether Drain Art Book: useful
 Fiora: Final Cross Art Book: useful
 Fiora: Guard Shift Art Book: useful
 Fiora: Hidden Thorn Art Book: useful
@@ -121,6 +125,7 @@ Fiora: Innocence Skill Tree: useful
 Fiora: Mag Storm Art Book: useful
 Fiora: Power Drain Art Book: useful
 Fiora: Progressive Weapon: useful
+Fiora: Rashness Skill Tree: useful
 Fiora: Screw Edge Art Book: useful
 Fiora: Second Gear Art Book: useful
 Fiora: Shutdown Art Book: useful
@@ -155,6 +160,7 @@ Half Part: progression
 Happy Carnival: progression
 Happy Duck: progression
 Hard Lotus: progression
+Head Appearance Slot: filler
 Heart Peach: progression
 Heartbreaker Trap: trap
 Hell Raspberry: progression
@@ -169,6 +175,7 @@ Hot Taro: progression
 Humming Cabbage: progression
 Humming Cat: progression
 Humming Nettle: progression
+Humming Plum: progression
 Ice Cabbage: progression
 Ice Kiwi Fruit: progression
 Ice Monkey: progression
@@ -206,6 +213,7 @@ Mechonis Core Key: progression
 Mechonis Field Key: progression
 Melia Progressive Affinity Rank: progression
 Melia: Burst End Art Book: useful
+Melia: Healing Gift Art Book: useful
 Melia: Power Effect Art Book: useful
 Melia: Progressive Head Armor: useful
 Melia: Progressive Legs Armor: useful
@@ -217,6 +225,7 @@ Melia: Starlight Kick Art Book: useful
 Melia: Summon Bolt Art Book: useful
 Melia: Summon Copy Art Book: useful
 Melia: Summon Earth Art Book: useful
+Melia: Summon Flare Art Book: useful
 Melia: Summon Wind Art Book: useful
 Memory Fragment: mcguffin
 Merry Coronation: progression
@@ -225,6 +234,7 @@ Missing Tree: progression
 Mist Tree: progression
 Modern Blue Gear: progression
 Modern Resistor: progression
+Moon Flower: progression
 Morrow Cob: progression
 Mossy Panel: progression
 Moth Crawler: progression
@@ -245,6 +255,7 @@ Poisonous Coral: progression
 Poisonous Gourd: progression
 Prairie Dragonfly: progression
 Princess Daffodil: progression
+Prism Centipede: progression
 Prison Island (1st Visit) Key: progression
 Prison Island (2nd Visit) Key: progression
 Progressive Animal Category: progression
@@ -276,6 +287,7 @@ Red Lettuce: progression
 Retro Diode: progression
 Reyn Progressive Affinity Rank: progression
 Reyn: Aura Burst Art Book: useful
+Reyn: Berserker Art Book: useful
 Reyn: Bone Upper Art Book: useful
 Reyn: Dive Sobat Art Book: useful
 Reyn: Guard Shift Art Book: useful
@@ -291,6 +303,7 @@ Riki: Burninate Art Book: useful
 Riki: Flexibility Skill Tree: useful
 Riki: Freezinate Art Book: useful
 Riki: Peekaboo Art Book: useful
+Riki: Progressive Head Armor: useful
 Riki: Roly-Poly Art Book: useful
 Riki: Tantrum Art Book: useful
 Rubber Mantis: progression
@@ -304,11 +317,16 @@ Sacred Panther: progression
 Sarsaparilla: progression
 Satorl Marsh Key: progression
 Scarlet Crawler: progression
+Scarlet Ladybird: progression
 Scissor Bug: progression
 Sea Berry: progression
+Sea Frog: progression
 Senorita Scarab: progression
 Sharla Progressive Affinity Rank: progression
+Sharla: Affection Skill Tree: useful
+Sharla: Aura Bullet Art Book: useful
 Sharla: Cure Bullet Art Book: useful
+Sharla: Head Shaker Art Book: useful
 Sharla: Heal Blast Art Book: useful
 Sharla: Heal Bullet Art Book: useful
 Sharla: Heal Counter Art Book: useful
@@ -325,6 +343,8 @@ Shiny Scarab: progression
 Shulk Progressive Affinity Rank: progression
 Shulk: Back Slash Art Book: useful
 Shulk: Monado Cyclone Art Book: useful
+Shulk: Monado Enchant Art Book: useful
+Shulk: Monado Shield Art Book: useful
 Shulk: Progressive Arms Armor: useful
 Shulk: Progressive Feet Armor: useful
 Shulk: Progressive Head Armor: useful
@@ -346,6 +366,7 @@ Spicy Cabbage: progression
 Spicy Nut: progression
 Spicy Papaya: progression
 Spiral Lamp: progression
+Spirit Clematis: progression
 Splish Splash: progression
 Stardrop: progression
 Steel Hauyne: progression

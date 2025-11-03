@@ -18,7 +18,7 @@ bob-alien-blue-research: filler
 bob-alien-green-research: unknown
 bob-alien-orange-research: unknown
 bob-alien-purple-research: progression
-bob-alien-red-research: unknown
+bob-alien-red-research: progression
 bob-alien-research: progression
 bob-alien-yellow-research: unknown
 bob-alloy-processing: progression
@@ -90,6 +90,7 @@ bob-nitrogen-processing: progression
 bob-nitroglycerin-processing: progression
 bob-oil-boiler-2: filler
 bob-oil-boiler-4: filler
+bob-personal-laser-defense-equipment-5: filler
 bob-personal-roboport-mk3-equipment: unknown
 bob-personal-roboport-mk4-equipment: filler
 bob-personal-roboport-modular-equipment-1: filler
