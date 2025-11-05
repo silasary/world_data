@@ -190,7 +190,7 @@ Bundle: Factory Cart: filler
 Bundle: Ficsite Ingot: filler
 Bundle: Ficsite Trigon: filler
 Bundle: Flower Petals: filler
-Bundle: Fused Modular Frame: unknown
+Bundle: Fused Modular Frame: filler
 Bundle: Gas Filter: filler
 Bundle: Gas Mask: filler
 Bundle: Gas Nobelisk: filler
@@ -250,7 +250,7 @@ Bundle: Plastic: filler
 Bundle: Plutonium Fuel Rod: unknown
 Bundle: Plutonium Pellet: unknown
 Bundle: Plutonium Waste: unknown
-Bundle: Polymer Resin: unknown
+Bundle: Polymer Resin: filler
 Bundle: Portable Miner: filler
 Bundle: Power Shard: filler
 Bundle: Pressure Conversion Cube: filler
@@ -627,7 +627,7 @@ Single: Blade Runners: useful
 Single: Blue Power Slug: filler
 Single: Boom Box: unknown
 Single: Cable: unknown
-Single: Chainsaw: unknown
+Single: Chainsaw: useful
 Single: Cluster Nobelisk: unknown
 Single: Coal: filler
 Single: Compacted Coal: unknown

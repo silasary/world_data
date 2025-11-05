@@ -37,6 +37,7 @@ Champ Progressive Rest: progression
 Champ Progressive Shop Remove: progression
 Champ Progressive Smith: progression
 Champ Rare Card Draw: progression
+Champ Rare Card Reward: progression
 Champ Relic: progression
 Champ Shop Card Slot: progression
 Champ Shop Potion Slot: progression
@@ -206,6 +207,7 @@ Gremlins Shop Relic Slot: progression
 Gremlins Unlock: progression
 Guardian 15 Gold: useful
 Guardian 30 Gold: useful
+Guardian Ascension Down: useful
 Guardian Boss Gold: useful
 Guardian Boss Relic: progression
 Guardian Card Draw: progression

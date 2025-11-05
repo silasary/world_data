@@ -12,6 +12,7 @@
 70 Kerrigan Levels: progression
 8 Kerrigan Levels: progression
 9 Kerrigan Levels: progression
+A Sinister Turn (Protoss) Mission Key: progression
 ATX Laser Battery (Battlecruiser): progression
 Aberration (Larva): unknown
 Aberration: progression
@@ -155,7 +156,7 @@ Button With a Skull on It (Thor): progression
 C20A Canister Rifle (Nova Weapon): progression
 CPO-7 Salamander Flamethrower (Dominion Trooper): unknown
 Caladrius: progression
-Calcified Armor (Infested Bunker): unknown
+Calcified Armor (Infested Bunker): useful
 Carrier: progression
 Carrion Strain (Swarm Host): useful
 Catalytic Boosters (Bullfrog): unknown
@@ -342,7 +343,7 @@ Frightful Fleshwelder (Infested Diamondback): unknown
 Frightful Fleshwelder (Infested Liberator): useful
 Frightful Fleshwelder (Infested Siege Tank): useful
 Fungal Growth (Brood Queen): useful
-Fury (Kerrigan Passive): unknown
+Fury (Kerrigan Passive): progression
 Fury (Kerrigan Tier 6): progression
 Fusion Mortars (Vanguard): useful
 Fusion Reactor (Fusion Core): unknown
@@ -385,6 +386,7 @@ Hallucination (Sentry): filler
 Hammer Securities: useful
 Hand of Darkness (Protoss) Mission Key: progression
 Hand of Darkness (Terran) Mission Key: progression
+Harbinger of Oblivion (Zerg) Mission Key: progression
 Hardened Carapace (Zergling): useful
 Hardened Tentacle Spines (Impaler): useful
 Harvest of Screams (Protoss) Mission Key: progression
@@ -437,7 +439,7 @@ Improved Barrier (Immortal): useful
 Improved Nano-Repair (Science Vessel): useful
 Improved Osmosis (Devourer): filler
 Improved Overlords (Kerrigan Tier 3): useful
-Improved Overlords (Overlord): unknown
+Improved Overlords (Overlord): progression
 In Utter Darkness (Protoss) Mission Key: progression
 In Utter Darkness (Terran) Mission Key: progression
 Incinerator Gauntlets (Firebat): filler
@@ -455,7 +457,7 @@ Infested (Protoss) Mission Key: progression
 Infested (Terran) Mission Key: progression
 Infested (Zerg) Mission Key: progression
 Infested Banshee (Infested Starport): unknown
-Infested Banshee: unknown
+Infested Banshee: progression
 Infested Banshees: useful
 Infested Bunker: progression
 Infested Diamondback (Infested Factory): unknown
@@ -642,7 +644,7 @@ Organic Carapace (Roach): useful
 Organic Carapace (Swarm Host): useful
 Organic Carapace (Swarm Queen): filler
 Organic Carapace (Ultralisk): useful
-Ouroboros Strain (Echidna Worm): unknown
+Ouroboros Strain (Echidna Worm): useful
 Outbreak (Protoss) Mission Key: progression
 Outbreak (Terran) Mission Key: progression
 Overseer (Overlord Morph): unknown
@@ -721,7 +723,7 @@ Progressive Protoss Shields: useful
 Progressive Protoss Weapon Upgrade: useful
 Progressive Protoss Weapon/Armor Upgrade: useful
 Progressive Proxy Pylon (Spear of Adun Calldown): useful
-Progressive Proxy Pylon (Spear of Adun): unknown
+Progressive Proxy Pylon (Spear of Adun): progression
 Progressive Questline Key: progression
 Progressive Regenerative Bio-Steel (Terran): progression
 Progressive Regenerative Bio-Steel: progression
@@ -801,6 +803,7 @@ Rapid Power Cycling (Wrathwalker): useful
 Rapid Recharging (Sentry/Energizer/Havoc/Shield Battery): useful
 Rapid Regeneration (Mutalisk): useful
 Rapid Reignition Systems (Medivac): filler
+Rapid Reinforcement (Terran): progression
 Rapid Reinforcement (Terran/Zerg): unknown
 Rapid Reload (Thor): useful
 Rapid-Fire Cannon (Vanguard War Council): progression
@@ -1077,6 +1080,7 @@ Vile Strain (Roach): useful
 Violent Enzymes (Infested Diamondback): unknown
 Viper (Mutalisk/Corruptor Morph): unknown
 Viper Aspect (Mutalisk/Corruptor): progression
+Viper: progression
 Viral Contamination (Infested Liberator): useful
 Virulent Microbes (Viper): useful
 Virulent Spores (Scourge): useful

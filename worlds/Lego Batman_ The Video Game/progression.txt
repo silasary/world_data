@@ -10,7 +10,7 @@ A Daring Rescue: Minikit 8: progression
 A Daring Rescue: Minikit 9: progression
 A Daring Rescue: Red Brick Collected: progression
 A Daring Rescue: True Status: filler
-A Poisonous Appointment: Hostage: unknown
+A Poisonous Appointment: Hostage: filler
 A Poisonous Appointment: Level Unlocked: unknown
 A Poisonous Appointment: Minikit 10: progression
 A Poisonous Appointment: Minikit 1: progression
@@ -23,16 +23,18 @@ A Poisonous Appointment: Minikit 8: unknown
 A Poisonous Appointment: Minikit 9: progression
 A Poisonous Appointment: Red Brick Collected: progression
 A Surprise for the Commissioner: Hostage: filler
+A Surprise for the Commissioner: Level Unlocked: progression
 A Surprise for the Commissioner: Minikit 10: progression
 A Surprise for the Commissioner: Minikit 1: progression
 A Surprise for the Commissioner: Minikit 2: progression
 A Surprise for the Commissioner: Minikit 4: progression
 A Surprise for the Commissioner: Minikit 7: progression
 A Surprise for the Commissioner: Minikit 9: progression
-A Surprise for the Commissioner: Red Brick Collected: unknown
+A Surprise for the Commissioner: Red Brick Collected: progression
 A Surprise for the Commissioner: True Status: filler
 Always Score Multiply Unlocked: unknown
 Amour Plating (Demolition Suit) Unlocked: useful
+An Enterprising Theft: Hostage: filler
 An Enterprising Theft: Level Unlocked: unknown
 An Enterprising Theft: Minikit 1: progression
 An Enterprising Theft: Minikit 2: progression
@@ -42,6 +44,7 @@ An Enterprising Theft: Minikit 6: progression
 An Enterprising Theft: Minikit 7: progression
 An Enterprising Theft: Minikit 8: progression
 An Enterprising Theft: Minikit 9: progression
+An Enterprising Theft: Red Brick Collected: progression
 An Enterprising Theft: True Status: filler
 An Icy Reception: Hostage: filler
 An Icy Reception: Minikit 10: progression
@@ -71,6 +74,8 @@ Batboat Battle: Minikit 7: unknown
 Batboat Battle: Minikit 9: unknown
 Batboat Battle: Red Brick Collected: progression
 Batboat Battle: True Status: filler
+Bats (Sonic Suit) Unlocked: filler
+Beep Beep Unlocked: filler
 Biplane Blast: Level Unlocked: progression
 Biplane Blast: Minikit 1: progression
 Biplane Blast: Minikit 2: unknown
@@ -89,8 +94,9 @@ Breaking Blocks: Minikit 5: progression
 Breaking Blocks: Minikit 7: unknown
 Breaking Blocks: Minikit 8: progression
 Breaking Blocks: Red Brick Collected: progression
+Breaking Blocks: True Status: filler
 Character Studs Unlocked: useful
-Decoy (Technology Suit) Unlocked: unknown
+Decoy (Technology Suit) Unlocked: useful
 Disguise Unlocked: filler
 Dying of Laughter: Hostage: filler
 Dying of Laughter: Level Unlocked: progression
@@ -121,6 +127,7 @@ Flight of the Bat: Minikit 6: progression
 Flight of the Bat: Minikit 7: progression
 Flight of the Bat: Minikit 8: unknown
 Flight of the Bat: Red Brick Collected: progression
+Flight of the Bat: True Status: filler
 Freeze Batarang (Water Suit) Unlocked: useful
 Green Fingers: Level Unlocked: progression
 Green Fingers: Minikit 10: progression
@@ -183,6 +190,7 @@ Little Fun at the Big Top: Minikit 9: progression
 Little Fun at the Big Top: Red Brick Collected: progression
 Little Fun at the Big Top: True Status: filler
 Minikit Detector Unlocked: unknown
+More Batarang Targets (All Suits) Unlocked: useful
 More Detonators (Demolition Suit) Unlocked: useful
 On the Rocks: Hostage: filler
 On the Rocks: Level Unlocked: progression
@@ -204,7 +212,7 @@ Penguin's Lair: Minikit 6: unknown
 Penguin's Lair: Minikit 8: progression
 Penguin's Lair: True Status: filler
 Piece Detector (Attract Suit) Unlocked: useful
-Power Brick Detector Unlocked: unknown
+Power Brick Detector Unlocked: useful
 Regenerate Hearts Unlocked: useful
 Rockin' the Docks: Level Unlocked: progression
 Rockin' the Docks: Minikit 10: progression
@@ -216,9 +224,11 @@ Rockin' the Docks: Minikit 8: progression
 Rockin' the Docks: Minikit 9: progression
 Score x2 Unlocked: useful
 Score x4 Unlocked: unknown
+Score x6 Unlocked: useful
 Score x8 Unlocked: useful
-Silhouettes Unlocked: unknown
+Silhouettes Unlocked: filler
 Slam (Glide Suit) Unlocked: useful
+Sonic Pain (Sonic Suit) Unlocked: useful
 Stealing the Show: Hostage: filler
 Stealing the Show: Minikit 10: progression
 Stealing the Show: Minikit 1: progression
@@ -253,6 +263,7 @@ The Joker's Masterpiece: Minikit 7: unknown
 The Joker's Masterpiece: Minikit 8: progression
 The Joker's Masterpiece: Minikit 9: unknown
 The Joker's Masterpiece: Red Brick Collected: progression
+The Joker's Masterpiece: True Status: filler
 The Lure of the Night: Hostage: filler
 The Lure of the Night: Level Unlocked: progression
 The Lure of the Night: Minikit 1: progression
@@ -301,7 +312,7 @@ Two-Face Chase: Minikit 8: progression
 Two-Face Chase: Minikit 9: progression
 Two-Face Chase: Red Brick Collected: progression
 Two-Face Chase: True Status: filler
-Under the City: Hostage: unknown
+Under the City: Hostage: filler
 Under the City: Level Unlocked: progression
 Under the City: Minikit 10: progression
 Under the City: Minikit 1: unknown

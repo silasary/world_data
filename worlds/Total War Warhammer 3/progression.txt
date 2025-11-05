@@ -240,6 +240,7 @@ wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: filler
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: progression
 wh2_dlc12_ikit_workshop_warpfire_part_2: unknown
+wh2_dlc12_tech_brt_heraldry_oversea_dwf: progression
 wh2_dlc12_tech_brt_heraldry_oversea_tmb: progression
 wh2_dlc13_anc_arcane_item_amplifier: unknown
 wh2_dlc13_bundle_nakai_temple_gifted: unknown
@@ -521,6 +522,7 @@ wh_main_brt_hospital_2: progression
 wh_main_brt_industry_basic_3: progression
 wh_main_brt_industry_extra_2: progression
 wh_main_brt_legendary_port_2: progression
+wh_main_brt_port_3: progression
 wh_main_brt_settlement_major_2: progression
 wh_main_brt_smiths_2: progression
 wh_main_brt_stables_2: progression

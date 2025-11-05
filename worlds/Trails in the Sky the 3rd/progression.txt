@@ -1,6 +1,7 @@
 Action 1: filler
-Action 2: unknown
+Action 2: useful
 Aion Bow: useful
+All Sepith (100): filler
 All Sepith (500): filler
 Amar Spiritus: filler
 Area Expansion: Arseille: progression
@@ -8,7 +9,7 @@ Area Expansion: Bobcat: progression
 Area Expansion: Grancel Arena: progression
 Area Expansion: Grancel Castle Basement: unknown
 Area Expansion: Grancel Castle: progression
-Area Expansion: Grancel East Block (Day): unknown
+Area Expansion: Grancel East Block (Day): progression
 Area Expansion: Grancel East Block (Night): progression
 Area Expansion: Grancel North Block (Day): progression
 Area Expansion: Grancel North Block (Night): progression
@@ -28,7 +29,7 @@ Black Bangle+: unknown
 Black Bangle: filler
 Brain Roast: filler
 Cast 1: useful
-Cast 2: unknown
+Cast 2: useful
 Castel Castella: filler
 Castle Castella: filler
 Celestial Balm: filler
@@ -36,11 +37,13 @@ Chapter 1 Cleared: progression
 Crimson Eye: useful
 Defend 1: useful
 Defend 2: unknown
+EP 2: useful
 EP Charge: filler
 EP Cut 1: useful
 EP Cut 2: useful
 Eagle Eye: unknown
 Easy Paella Recipe: useful
+Evade 2: useful
 Extra Spicy Fries: useful
 Fishy Finale: useful
 Fluffy Crepe: filler
@@ -71,11 +74,13 @@ Long Barrel 2: filler
 Lower Elements Sepith (100): filler
 Lower Elements Sepith (250): filler
 Lower Elements Sepith (50): filler
+Mind 1: useful
 Mind 2: unknown
 Mira (10000): filler
 Mira (300): filler
 Mira (500): filler
 Mira (5000): filler
+Miso Fish: filler
 Move 1: useful
 Mueller's Progressive Craft: useful
 Mueller: progression
@@ -97,6 +102,8 @@ Septium Drops: filler
 Shield 1: filler
 Shield 2: useful
 Silvahn: useful
+Silver Earring: useful
+Skull Pendant: useful
 Smelling Salts: filler
 Softening Balm: filler
 Sting Edges: useful
@@ -108,4 +115,5 @@ Teara Balm: filler
 Tita's Progressive Craft: useful
 Tita: progression
 White Bracelet+: useful
+White Bracelet: useful
 Zeram Powder: filler

@@ -4,10 +4,12 @@ Box Breaker: progression
 Charge-Boots: progression
 Disk-Blade Gun: progression
 Flux Rifle: progression
+Gravity-Boots: progression
 Hacker: progression
 Hypershot: progression
 Infector: progression
 Inferno Mode: filler
+Infobot: Annihilation Nation: progression
 Infobot: Aquatos: progression
 Infobot: Command Center: progression
 Infobot: Crash Site: progression
@@ -16,10 +18,13 @@ Infobot: Florana: progression
 Infobot: Holostar Studios: progression
 Infobot: Marcadia: progression
 Infobot: Metropolis: progression
+Infobot: Obani Draco: progression
 Infobot: Obani Gemini: progression
+Infobot: Qwarks Hideout: progression
 Infobot: Starship Phoenix: progression
 Infobot: Tyhrranosis: progression
 Jackpot Mode: filler
+Map-O-Matic: useful
 Master Plan: progression
 Plasma Whip: progression
 Progressive Annihilator: progression
@@ -27,6 +32,7 @@ Progressive Armor: useful
 Progressive Disk-Blade Gun: progression
 Progressive Flux Rifle: progression
 Progressive Plasma Coil: useful
+Progressive Plasma Whip: progression
 Progressive Qwack-O-Ray: progression
 Progressive RY3N0: progression
 Progressive Rift Inducer: progression
@@ -34,6 +40,7 @@ Progressive Suck Cannon: progression
 Progressive VidComic: progression
 Qwack-O-Ray: progression
 RY3N0: progression
+Refractor: progression
 Rift Inducer: progression
 Suck Cannon: progression
 Tyhrra-Guise: progression

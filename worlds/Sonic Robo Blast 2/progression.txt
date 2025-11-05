@@ -10,7 +10,7 @@ Airborne Temple Zone: progression
 Alpine Paradise Zone: progression
 Amy: unknown
 Arid Canyon Zone: unknown
-Armageddon Shield: unknown
+Armageddon Shield: progression
 Attraction Shield: unknown
 Azure Temple Zone: progression
 Black Hole Zone: progression
@@ -32,7 +32,7 @@ Elemental Shield: progression
 Emblem: mcguffin
 Extra Time: progression
 Fang: progression
-Final Demo Zone: unknown
+Final Demo Zone: progression
 Flame Shield: unknown
 Flooded Cove Zone: progression
 Floral Field Zone: progression
@@ -67,6 +67,7 @@ Silver Shiver Zone: progression
 Slippery Floors: trap
 Sonic Forces: unknown
 Sonic: progression
+Sound Test: filler
 Super Paraloop: unknown
 Tails: unknown
 Techno Hill Zone: progression

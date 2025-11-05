@@ -14,6 +14,7 @@ Chrom: useful
 Cloud: useful
 Corrin: useful
 Critical Hut ^: useful
+Critical-Health Attack ^: useful
 DK Island Key: progression
 Daisy: useful
 Dark Pit: useful
@@ -23,12 +24,14 @@ Defense ^ When Healthy: useful
 Dharkon Defeated: progression
 Diddy Kong: useful
 Donkey Kong: useful
+Double Final Smash: useful
 Dr. Mario: useful
 Dracula Defeated: progression
 Dracula's Castle Key: progression
 Driver: progression
 Duck Hunt: useful
 Easier Dodging: useful
+Endless Smash Holding: useful
 Falco: useful
 Filler: unknown
 Final Battle Key: progression
@@ -42,6 +45,7 @@ Ganondorf: useful
 Giga Bowser Defeated: progression
 Gourmet Race Key: progression
 Greninja: useful
+Healing-Item Attraction: useful
 Hero: useful
 Ice Climbers: useful
 Ike: useful
@@ -69,6 +73,7 @@ Marx Defeated: progression
 Mega Man: useful
 Meta Knight: useful
 Metal Killer: useful
+Meteor Smashes ^: useful
 Mewtwo: useful
 Mii Brawler: useful
 Mii Gunner: useful
@@ -83,6 +88,7 @@ Olimar: useful
 PAC-MAN: useful
 Palutena: useful
 Peach: useful
+Perfect-Shield Recovery: useful
 Perfect-Shield Reflect: useful
 Pichu: useful
 Pikachu: useful
@@ -121,6 +127,7 @@ Temple of Light Key: progression
 Terry: useful
 Toon Link: useful
 Train: progression
+Transformation Duration ^: useful
 Unflinching Charged Smashes: useful
 Victory Full: progression
 Victory Light: progression

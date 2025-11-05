@@ -50,6 +50,7 @@ Infinity5: useful
 Infinity6: progression
 Infinity7: progression
 Infinity8: progression
+Infinity9: progression
 Laboratory: useful
 Lifesteal1: useful
 Lifesteal2: filler
@@ -87,8 +88,9 @@ RampingArmor1: filler
 RampingDamage1: useful
 Reds50k: unknown
 Salvaging1: useful
+Salvaging2: useful
 Size1: filler
-Size2: unknown
+Size2: useful
 Size3: filler
 SpawnRate1: useful
 SpawnRate2: useful

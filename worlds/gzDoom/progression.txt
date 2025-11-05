@@ -98,6 +98,7 @@ Automap (MAP32): useful
 Automap (MAP33): useful
 Automap (MAP34): useful
 Automap (MAP71): useful
+Automap (MAP72): useful
 BFG 9000: progression
 Backpack: filler
 BagOfHolding: filler
@@ -181,6 +182,7 @@ BlueSkull (MAP27): progression
 BlueSkull (MAP28): progression
 BlueSkull (MAP32): progression
 BlueSkull (MAP35): progression
+BlueSkull (MAP74): progression
 BlueSkull (MAP76): progression
 BlurSphere: filler
 BowlOfFruit: filler

@@ -3,9 +3,9 @@ An Actual Digital Camera: filler
 Art Palette (Craft): progression
 Art Palette: progression
 Artsy Beret (Craft): filler
-Artsy Beret: unknown
+Artsy Beret: filler
 Balloon (Item): useful
-Balloon: unknown
+Balloon: useful
 Big Leaf (Item): progression
 Big Leaf: unknown
 Blue Scooter Board (Craft): progression
@@ -44,7 +44,7 @@ Inner Tube (Craft): progression
 Inner Tube: progression
 Key: unknown
 Laser Sword (Craft): progression
-Laser Sword: unknown
+Laser Sword: progression
 Magic Ore: progression
 Martin (Item): progression
 Martin: progression
@@ -73,14 +73,14 @@ Pot Lid (Item): progression
 Pot Lid: progression
 Pot?: progression
 Princess Tiara (Craft): filler
-Princess Tiara: unknown
+Princess Tiara: filler
 Princess Wand (Craft): progression
-Princess Wand: unknown
+Princess Wand: progression
 Ragdoll (Craft): filler
-Ragdoll: unknown
+Ragdoll: filler
 Retainer: progression
 Shuriken (Item): progression
-Shuriken: unknown
+Shuriken: progression
 Skateboard (Craft): progression
 Skateboard: unknown
 Skater Helmet (Craft): filler
@@ -89,12 +89,12 @@ Skipping Rock (Item): useful
 Skipping Rock: unknown
 Sleep Mask: progression
 Slime Hat (Craft): filler
-Slime Hat: unknown
+Slime Hat: filler
 Sorbet: progression
 Space Blaster (Item): progression
 Space Blaster: unknown
 Space Dome (Item): filler
-Space Dome: unknown
+Space Dome: filler
 Stick (Item): progression
 Stick: progression
 Sticky Hand (Item): filler
@@ -115,4 +115,4 @@ Water: progression
 Western Wide Brim (Item): filler
 Western Wide Brim: filler
 Wrench (Item): progression
-Wrench: unknown
+Wrench: progression

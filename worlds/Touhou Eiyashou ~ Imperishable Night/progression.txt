@@ -21,6 +21,7 @@
 031 - Night-Sparrow "Midnight Chorus Master": progression
 032 - Night-Sparrow "Midnight Chorus Master": progression
 033 - Spiritual Birth "First Pyramid": progression
+034 - Spiritual Birth "First Pyramid": progression
 035 - Spiritual Birth "First Pyramid": progression
 036 - Spiritual Birth "First Pyramid": filler
 037 - Origin Sign "Ephemerality 137": progression
@@ -47,6 +48,7 @@
 067 - Spirit Sign "Fantasy Seal -Concentrate-": progression
 068 - Spirit Sign "Fantasy Seal -Concentrate-": progression
 069 - Migrating Spirit "Fantasy Seal -Marred-": filler
+070 - Migrating Spirit "Fantasy Seal -Marred-": progression
 071 - Boundary "Duplex Danmaku Barrier": filler
 072 - Boundary "Duplex Danmaku Barrier": progression
 074 - Great Barrier "Hakurei Danmaku Barrier": progression
@@ -90,6 +92,7 @@
 136 - Curse of the Heavens "Apollo 13": progression
 137 - Curse of the Heavens "Apollo 13": filler
 139 - Curse of the Heavens "Apollo 13": filler
+140 - Esoterica "Astronomical Cover-Up": filler
 141 - Esoterica "Astronomical Cover-Up": progression
 142 - Esoterica "Astronomical Cover-Up": filler
 144 - Forbidden Elixir "Hourai Elixir": progression
@@ -126,6 +129,7 @@
 190 - End of Imperishable Night -Morning Star-: progression
 Aria of Forbidden Magic Team: unknown
 Illusionary Barrier Team: progression
+Jeweled Branch of Hourai: progression
 Lower Difficulty: progression
 Netherworld Dwellers Team: progression
 Next Stage: unknown
@@ -150,3 +154,4 @@ Visionary Scarlet Devil Team: progression
 [Nether Team] Stage 2: progression
 [Nether Team] Stage 4A: progression
 [Nether Team] Stage 4B: progression
+[Nether Team] Stage 5: progression

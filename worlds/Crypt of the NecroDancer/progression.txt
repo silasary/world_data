@@ -8,7 +8,7 @@ Axe: unknown
 Backpack: unknown
 Ballet Shoes: unknown
 Bard: progression
-Battle Shovel: unknown
+Battle Shovel: useful
 Beastmaster: useful
 Berserk Scroll: unknown
 Berserk Spell: unknown
@@ -80,6 +80,7 @@ Ham: unknown
 Hard Mode: progression
 Hargreaves: unknown
 Harp: unknown
+Heal Spell: useful
 Heart Container: unknown
 Heavy Glass Armor: useful
 Heavy Plate: unknown
@@ -102,9 +103,10 @@ Low Percent Mode: progression
 Luminous Torch: useful
 Magic Apple: unknown
 Magic Carrot: unknown
-Magic Cheese: unknown
+Magic Cheese: useful
 Magic Cookies: unknown
 Magic Drumstick: unknown
+Magic Ham: useful
 Map: unknown
 Mary: progression
 Melody: progression
