@@ -54,6 +54,7 @@ Diddy: progression
 Disable A Trap: trap
 Disable B Trap: trap
 Disable C Up Trap: trap
+Disable Tag Trap: trap
 Disable Z Trap: trap
 Diving: progression
 Donkey Blueprint: mcguffin
@@ -66,7 +67,7 @@ Factory Lanky Hint: useful
 Factory Tiny Hint: useful
 Fairy Camera: progression
 Feather: progression
-Flip Trap: unknown
+Flip Trap: trap
 Forest Chunky Hint: useful
 Forest Diddy Hint: useful
 Forest Donkey Hint: useful

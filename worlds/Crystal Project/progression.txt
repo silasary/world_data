@@ -839,7 +839,7 @@ Item - Boomer Society Pass: progression
 Item - Boss Key: progression
 Item - Buffalo Amulete - 350: unknown
 Item - Callisto Stone: progression
-Item - Canopy Key: unknown
+Item - Canopy Key: progression
 Item - Capital Courtyard Map: useful
 Item - Capital Jail Map: unknown
 Item - Capital Jail Pass: progression
@@ -920,7 +920,7 @@ Item - Ice Puzzle Key Ring: unknown
 Item - Ice Puzzle Key: progression
 Item - Ice Stone - 371: progression
 Item - Jade Cavern Map: unknown
-Item - Jade Cavern Pass: unknown
+Item - Jade Cavern Pass: progression
 Item - Jidamba Eaclaneya Map: unknown
 Item - Jidamba Eaclaneya Pass: unknown
 Item - Jidamba Key Ring: unknown
@@ -1085,7 +1085,7 @@ Item - Triton Stone: unknown
 Item - Underpass Map: useful
 Item - Undersea Crab: progression
 Item - Vermillion Book: unknown
-Item - Viridian Book: unknown
+Item - Viridian Book: progression
 Item - Warrior's Bane - 363: unknown
 Item - Water Stone - 365: unknown
 Item - Weresheep wool - 359: unknown

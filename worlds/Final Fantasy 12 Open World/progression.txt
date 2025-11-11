@@ -78,7 +78,7 @@ Behemoth Steak: unknown
 Belias: progression
 Bent Staff: unknown
 Berserk: unknown
-Berserker Bracers: unknown
+Berserker Bracers: filler
 Betelgeuse: filler
 Bhuj: unknown
 Bhujerba Aeropass: progression
@@ -98,7 +98,7 @@ Blind: useful
 Blindga: unknown
 Blindna: useful
 Blizzaga: useful
-Blizzara: unknown
+Blizzara: useful
 Blizzard: useful
 Blood Sword: filler
 Blood Wool: unknown
@@ -121,7 +121,7 @@ Bowgun: filler
 Bowline Sash: filler
 Braid Wool: unknown
 Brave Suit: unknown
-Bravery: unknown
+Bravery: useful
 Break: useful
 Brigandine: filler
 Broadaxe: filler
@@ -221,7 +221,7 @@ Darkga: useful
 Darkra: useful
 Dawn Shard: progression
 Death Powder: filler
-Death's-Head: unknown
+Death's-Head: filler
 Death: useful
 Deathbringer: filler
 Decoy: useful
@@ -286,7 +286,7 @@ Esuna: useful
 Esunaga: useful
 Eternal Trophy: unknown
 Ether: filler
-Euclid's Sextant: unknown
+Euclid's Sextant: filler
 Excalibur: useful
 Excalipur: unknown
 Exodus: useful
@@ -388,7 +388,7 @@ Grimoire Aidhed: unknown
 Grimoire Togail: useful
 Grimy Fragment: mcguffin
 Gungnir: unknown
-Gysahl Greens: unknown
+Gysahl Greens: filler
 Halberd: useful
 Hammerhead: filler
 Handaxe: unknown
@@ -498,7 +498,7 @@ Lu Shang's Badge: filler
 Lumber: unknown
 Lusterless Medallion: progression
 Mace: unknown
-Maduin Gear: unknown
+Maduin Gear: filler
 Mage Masher: unknown
 Mage's Habit: unknown
 Mage's Hat: filler
@@ -517,7 +517,7 @@ Mallet: filler
 Maned Trophy: unknown
 Manufacted Nethicite: progression
 Mardu Halcyon: filler
-Masamune: unknown
+Masamune: filler
 Mateus: progression
 Maverick Trophy: unknown
 Maximillian: unknown
@@ -548,7 +548,7 @@ Moonsilver Medallion: progression
 Morning Star: unknown
 Mud Shot: filler
 Multiscale: filler
-Muramasa: unknown
+Muramasa: filler
 Murasame: useful
 Musk Stick: unknown
 Mystletainn: unknown
@@ -633,7 +633,7 @@ Ras Algethi: filler
 Rat Pelt: unknown
 Rat Tail: unknown
 Recurve Crossbow: filler
-Red Cap: unknown
+Red Cap: filler
 Reflect: useful
 Reflectga Mote: filler
 Reflectga: useful
@@ -834,7 +834,7 @@ Warp Mote: filler
 Warp: useful
 Water Bombs: unknown
 Water Crystal: unknown
-Water Magicite: unknown
+Water Magicite: filler
 Water Stone: unknown
 Whale Whisker: useful
 Whiskered Trophy: unknown
@@ -867,7 +867,7 @@ Wyvern Fang: unknown
 Wyvern Wing: unknown
 X-Potion: filler
 Yagyu Darkblade: filler
-Yakei: unknown
+Yakei: filler
 Yellow Liquid: unknown
 Yensa Fin: unknown
 Yensa Scale: unknown

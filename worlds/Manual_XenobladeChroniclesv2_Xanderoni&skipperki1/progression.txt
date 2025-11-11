@@ -5,12 +5,14 @@ Agniratha Key: progression
 Alcamoth Key: progression
 Amber Leaf: progression
 Amblygon Turtle: progression
+Amethyst Melon: progression
 Amethyst Vanilla: progression
 Angel Bream: progression
 Angel Engine X: progression
 Angel Engine Y: progression
 Angry Monkey: progression
 Arms Appearance Slot: filler
+Arranged Battle BGM: filler
 Ash Fox: progression
 Azure Hollyhock: progression
 Azure Mouse: progression
@@ -22,6 +24,7 @@ Bionis' Interior (2nd Visit) Key: progression
 Bionis' Leg Key: progression
 Bitter Broccoli: progression
 Bitter Kiwi: progression
+Bitter Melon: progression
 Black Ash: progression
 Black Beetle: progression
 Black Blossom: progression
@@ -31,6 +34,7 @@ Black Kiwi: progression
 Black Liver Bean: progression
 Black Panel: progression
 Black Peony: progression
+Black Styrene: progression
 Blade Bird: progression
 Blaze Chain: progression
 Blood Oil: progression
@@ -66,6 +70,7 @@ Colony 6 Reconstruction Commerce Level: progression
 Colony 6 Reconstruction Housing Level: progression
 Colony 6 Reconstruction Nature Level: progression
 Colony 6 Reconstruction Special Level: progression
+Confusion Ivy: progression
 Cool Potato: progression
 Cream Wheat: progression
 Crimson Citrus: progression
@@ -99,13 +104,24 @@ Dunban Progressive Affinity Rank: progression
 Dunban: Binding Blossom Art Book: useful
 Dunban: Demon Slayer Art Book: useful
 Dunban: Electric Gutbuster Art Book: useful
+Dunban: Enthusiasm Skill Tree: useful
 Dunban: Final Flicker Art Book: useful
+Dunban: Gale Slash Art Book: useful
 Dunban: Heat Haze Art Book: useful
+Dunban: Jaws of Death Art Book: useful
 Dunban: Obstinance Skill Tree: useful
+Dunban: Peerless Art Book: useful
 Dunban: Progressive Arms Armor: useful
 Dunban: Progressive Feet Armor: useful
+Dunban: Progressive Head Armor: useful
+Dunban: Progressive Legs Armor: useful
 Dunban: Progressive Torso Armor: useful
+Dunban: Progressive Weapon: useful
+Dunban: Serene Heart Art Book: useful
+Dunban: Soaring Tempest Art Book: useful
+Dunban: Spirit Breath Art Book: useful
 Dunban: Steel Strike Art Book: useful
+Dunban: Tempest Kick Art Book: useful
 Dunban: Thunder Art Book: useful
 Dunban: Worldly Slash Art Book: useful
 Electric Cricket: progression
@@ -113,6 +129,7 @@ Emerald Snow: progression
 Emperor Beetle: progression
 Empress Beetle: progression
 Energy Aubergine: progression
+English Voice Acting: filler
 Enigma Lotus: progression
 Eryth Blue: progression
 Eryth Sea Key: progression
@@ -120,14 +137,18 @@ Ether Mine Key: progression
 Ether Pebble: progression
 Ether Penguin: progression
 Ether Rose: progression
+Expert Mode: filler
 Fairy Tale Diode: progression
 Fallen Arm Key: progression
 Fancy Bolt: progression
 Fatal Belladonna: progression
+Feather Leaf: progression
 Fiora Progressive Affinity Rank: progression
 Fiora: Air Fang Art Book: useful
 Fiora: Cross Impact Art Book: useful
+Fiora: Daring Skill Tree: useful
 Fiora: Double Blade Art Book: useful
+Fiora: Double Wind Art Book: useful
 Fiora: Ether Drain Art Book: useful
 Fiora: Final Cross Art Book: useful
 Fiora: Guard Shift Art Book: useful
@@ -141,14 +162,17 @@ Fiora: Progressive Arms Armor: useful
 Fiora: Progressive Feet Armor: useful
 Fiora: Progressive Head Armor: useful
 Fiora: Progressive Legs Armor: useful
+Fiora: Progressive Torso Armor: useful
 Fiora: Progressive Weapon: useful
 Fiora: Rashness Skill Tree: useful
 Fiora: Screw Edge Art Book: useful
 Fiora: Second Gear Art Book: useful
 Fiora: Shutdown Art Book: useful
+Fiora: Zeal Skill Tree: useful
 Fiora: Zero Gravity Art Book: useful
 Fire Apple: progression
 Fire Tarantula: progression
+Flame Frame: progression
 Forest of Gossip: progression
 Forget-You-Not: progression
 Fortune Feather: progression
@@ -166,6 +190,7 @@ Gold Caterpillar: progression
 Gold Condenser: progression
 Gold Dust Illusion: progression
 Golden Beetroot: progression
+Golden Cog: progression
 Grape Spring: progression
 Gravel Disk: progression
 Green Cam: progression
@@ -176,11 +201,13 @@ Ha Ha Ha: progression
 Half Part: progression
 Happy Carnival: progression
 Happy Duck: progression
+Happy Rabbit: progression
 Hard Lotus: progression
 Head Appearance Slot: filler
 Heart Peach: progression
 Heartbreaker Trap: trap
 Hell Raspberry: progression
+Hero Nipper: progression
 High Entia Jewel: progression
 High Entia Tomb Key: progression
 High Leaf: progression
@@ -193,6 +220,7 @@ Humming Cabbage: progression
 Humming Cat: progression
 Humming Nettle: progression
 Humming Plum: progression
+Hunger Crash: progression
 Ice Cabbage: progression
 Ice Kiwi Fruit: progression
 Ice Monkey: progression
@@ -200,13 +228,16 @@ Insanity Mint: progression
 Insanity Moss: progression
 Ivy Nest: progression
 Japanese Language Option: filler
+Juicy Blueberry: progression
 Juicy Broccoli: progression
 Juicy Grape: progression
 Juicy Melon: progression
 Juicy Steakplant: progression
 Jujube Silver: progression
 Kelp Mushroom: progression
+Kilopumpkin: progression
 Kneecap Rock: progression
+Large Handcuffs: progression
 Large Mango: progression
 Leaf Coil: progression
 Legs Appearance Slot: filler
@@ -233,7 +264,12 @@ Mechonis Field Key: progression
 Melia Progressive Affinity Rank: progression
 Melia: Burst End Art Book: useful
 Melia: Healing Gift Art Book: useful
+Melia: Honesty Skill Tree: useful
+Melia: Hypnotise Art Book: useful
+Melia: Mind Blast Art Book: useful
 Melia: Power Effect Art Book: useful
+Melia: Progressive Arms Armor: useful
+Melia: Progressive Feet Armor: useful
 Melia: Progressive Head Armor: useful
 Melia: Progressive Legs Armor: useful
 Melia: Progressive Weapon: useful
@@ -241,10 +277,12 @@ Melia: Reflection Art Book: useful
 Melia: Reliability Skill Tree: useful
 Melia: Spear Break Art Book: useful
 Melia: Starlight Kick Art Book: useful
+Melia: Summon Aqua Art Book: useful
 Melia: Summon Bolt Art Book: useful
 Melia: Summon Copy Art Book: useful
 Melia: Summon Earth Art Book: useful
 Melia: Summon Flare Art Book: useful
+Melia: Summon Ice Art Book: useful
 Melia: Summon Wind Art Book: useful
 Memory Fragment: mcguffin
 Merry Coronation: progression
@@ -265,6 +303,7 @@ Night Tulip: progression
 Oil Branch: progression
 Oil Fox: progression
 Oil Oyster: progression
+Original Battle BGM Toggle: filler
 Original Field BGM Toggle: filler
 Palmtop Elephant: progression
 Parts Noble: progression
@@ -281,6 +320,7 @@ Prison Island (2nd Visit) Key: progression
 Progressive Animal Category: progression
 Progressive Bug Category: progression
 Progressive Earth Gem: useful
+Progressive Electric Gem: useful
 Progressive Fire Gem: useful
 Progressive Flower Category: progression
 Progressive Fruit Category: progression
@@ -301,22 +341,29 @@ Rabbit Stone: progression
 Rainbow Bug: progression
 Rainbow Carrot: progression
 Rainbow Slug: progression
+Razor Teasel: progression
 Ready Coil: progression
 Red Durian: progression
 Red Frontier: progression
 Red Lettuce: progression
 Retro Diode: progression
 Reyn Progressive Affinity Rank: progression
+Reyn: Anchor Chain Art Book: useful
 Reyn: Aura Burst Art Book: useful
 Reyn: Berserker Art Book: useful
 Reyn: Bone Upper Art Book: useful
+Reyn: Diligence Skill Tree: useful
 Reyn: Dive Sobat Art Book: useful
 Reyn: Engage Art Book: useful
+Reyn: Enthusiasm Skill Tree: useful
 Reyn: Guard Shift Art Book: useful
 Reyn: Hammer Beat Art Book: useful
 Reyn: Lariat Art Book: useful
 Reyn: Last Stand Art Book: useful
 Reyn: Magnum Charge Art Book: useful
+Reyn: Progressive Head Armor: useful
+Reyn: Progressive Legs Armor: useful
+Reyn: Progressive Torso Armor: useful
 Reyn: Progressive Weapon: useful
 Reyn: Rage Art Book: useful
 Reyn: Shield Bash Art Book: useful
@@ -326,19 +373,26 @@ Reyn: Wild Down Art Book: useful
 Riki Progressive Affinity Rank: progression
 Riki: Bedtime Art Book: useful
 Riki: Behave Art Book: useful
+Riki: Bitey Bitey Art Book: useful
 Riki: Burninate Art Book: useful
 Riki: Flexibility Skill Tree: useful
 Riki: Freezinate Art Book: useful
+Riki: Happy Happy Art Book: useful
+Riki: Hero Time Art Book: useful
 Riki: Innocence Skill Tree: useful
 Riki: Lurgy Art Book: useful
 Riki: Peekaboo Art Book: useful
+Riki: Play Dead Art Book: useful
 Riki: Progressive Feet Armor: useful
 Riki: Progressive Head Armor: useful
+Riki: Progressive Legs Armor: useful
 Riki: Progressive Weapon: useful
 Riki: Riki is Angry Art Book: useful
 Riki: Roly-Poly Art Book: useful
 Riki: Say Sorry Art Book: useful
+Riki: Sneaky Art Book: useful
 Riki: Tantrum Art Book: useful
+Riki: You Can Do It Art Book: useful
 Rubber Mantis: progression
 Ruby Mangosteen: progression
 Rumble Box: progression
@@ -358,6 +412,7 @@ Senorita Scarab: progression
 Sharla Progressive Affinity Rank: progression
 Sharla: Affection Skill Tree: useful
 Sharla: Aura Bullet Art Book: useful
+Sharla: Confidence Skill Tree: useful
 Sharla: Covert Stance Art Book: useful
 Sharla: Cure Bullet Art Book: useful
 Sharla: Cure Round Art Book: useful
@@ -367,13 +422,16 @@ Sharla: Heal Blast Art Book: useful
 Sharla: Heal Bullet Art Book: useful
 Sharla: Heal Counter Art Book: useful
 Sharla: Heal Round Art Book: useful
+Sharla: Heat Bullet Art Book: useful
 Sharla: Progressive Arms Armor: useful
+Sharla: Progressive Feet Armor: useful
 Sharla: Progressive Head Armor: useful
 Sharla: Progressive Torso Armor: useful
 Sharla: Shield Bullet Art Book: useful
 Sharla: Thunder Bullet Art PBook: useful
 Sharla: Tranquilliser Art Book: useful
 Shield Bug: progression
+Shimmertumble: progression
 Shin Gecko: progression
 Shin Newt: progression
 Shiny Scarab: progression
@@ -381,14 +439,19 @@ Shulk Progressive Affinity Rank: progression
 Shulk: Air Slash Art Book: useful
 Shulk: Back Slash Art Book: useful
 Shulk: Battle Soul Art Book: useful
+Shulk: Bravery Skill Tree: useful
+Shulk: Monado Armour Art Book: useful
 Shulk: Monado Buster Art Book: useful
 Shulk: Monado Cyclone Art Book: useful
 Shulk: Monado Eater Art Book: useful
 Shulk: Monado Enchant Art Book: useful
+Shulk: Monado Purge Art Book: useful
 Shulk: Monado Shield Art Book: useful
+Shulk: Monado Speed Art Book: useful
 Shulk: Progressive Arms Armor: useful
 Shulk: Progressive Feet Armor: useful
 Shulk: Progressive Head Armor: useful
+Shulk: Progressive Legs Armor: useful
 Shulk: Progressive Torso Armor: useful
 Shulk: Shadow Eye Art Book: useful
 Shulk: Shaker Edge Art Book: useful
@@ -401,6 +464,7 @@ Snare Wire: progression
 Snow Transistor: progression
 Soft Sea Cucumber: progression
 Sorrow Beetle: progression
+Sour Gooseberry: progression
 Sour Radish: progression
 Sour Turnip: progression
 Spicy Banana: progression
@@ -410,6 +474,7 @@ Spicy Papaya: progression
 Spiral Lamp: progression
 Spirit Clematis: progression
 Splish Splash: progression
+Star Cute: progression
 Stardrop: progression
 Steel Hauyne: progression
 Steel Silk: progression
@@ -441,8 +506,10 @@ Verdant Eternity: progression
 Walnut Grape: progression
 Warning Lamp: progression
 Warrior Screw: progression
+Water Boatman: progression
 Water Log: progression
 Weapon Appearance Slot: filler
+Wet Rat: progression
 Wheel Lurker: progression
 White Beetle: progression
 White Cover: progression

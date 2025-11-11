@@ -1,13 +1,15 @@
 Action 1: filler
 Action 2: useful
 Aion Bow: useful
+Akashic Heart: useful
 All Sepith (100): filler
+All Sepith (200): filler
 All Sepith (500): filler
 Amar Spiritus: filler
 Area Expansion: Arseille: progression
 Area Expansion: Bobcat: progression
 Area Expansion: Grancel Arena: progression
-Area Expansion: Grancel Castle Basement: unknown
+Area Expansion: Grancel Castle Basement: progression
 Area Expansion: Grancel Castle: progression
 Area Expansion: Grancel East Block (Day): progression
 Area Expansion: Grancel East Block (Night): progression
@@ -22,10 +24,11 @@ Area Expansion: Grancel West Block (Night): progression
 Area Expansion: Jade Corridor 1: progression
 Area Expansion: Jade Corridor 2: progression
 Attack 1: filler
+Attack 2: useful
 Attack 3: useful
 Bennu Defeated (Victory): unknown
 Bestia Coat: useful
-Black Bangle+: unknown
+Black Bangle+: useful
 Black Bangle: filler
 Brain Roast: filler
 Cast 1: useful
@@ -35,34 +38,40 @@ Castle Castella: filler
 Celestial Balm: filler
 Chapter 1 Cleared: progression
 Crimson Eye: useful
+Curia Balm: filler
 Defend 1: useful
 Defend 2: unknown
 EP 2: useful
 EP Charge: filler
 EP Cut 1: useful
 EP Cut 2: useful
-Eagle Eye: unknown
+Eagle Eye: useful
 Easy Paella Recipe: useful
+Evade 1: useful
 Evade 2: useful
 Extra Spicy Fries: useful
 Fishy Finale: useful
 Fluffy Crepe: filler
 Fresh Water: filler
 Fried Phoenix: filler
+Gaia Greaves: useful
 Glam Choker+: useful
 Glam Choker: filler
 HP 1: useful
 HP 2: useful
+HP 3: useful
 Haze: useful
 Higher Elements Sepith (100): filler
+Higher Elements Sepith (250): filler
 Higher Elements Sepith (50): filler
 Higher Elements Sepith (500): filler
 Hit 1: filler
 Hit 2: useful
 Information: useful
+Insulating Tape: filler
 Insulting Tape: filler
 Josette's Progressive Craft: useful
-Josette: unknown
+Josette: progression
 Joshua's Progressive Craft: useful
 Joshua: progression
 Julia's Progressive Craft: useful
@@ -71,9 +80,11 @@ Kevin's Progressive Craft: useful
 Kevin: progression
 Kumo No Tachi: useful
 Long Barrel 2: filler
+Lower Elements Sepith (100) and Higher Elements Sepith (50): filler
 Lower Elements Sepith (100): filler
 Lower Elements Sepith (250): filler
 Lower Elements Sepith (50): filler
+Lower Elements Sepith (500): filler
 Mind 1: useful
 Mind 2: unknown
 Mira (10000): filler
@@ -112,6 +123,8 @@ Stun GB: useful
 Swingwich: filler
 Tear Balm: filler
 Teara Balm: filler
+Tearal Balm: filler
+Tiger Heart: useful
 Tita's Progressive Craft: useful
 Tita: progression
 White Bracelet+: useful

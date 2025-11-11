@@ -74,8 +74,8 @@ electric-energy-distribution-2: useful
 electric-engine: useful
 electric-mining-drill: progression
 electric-weapons-damage-1: unknown
-electric-weapons-damage-2: unknown
-electric-weapons-damage-3: unknown
+electric-weapons-damage-2: filler
+electric-weapons-damage-3: filler
 electromagnetic-plant: progression
 electromagnetic-science-pack: progression
 electronics: useful
@@ -89,7 +89,7 @@ energy-weapons-damage-4: filler
 energy-weapons-damage-5: filler
 energy-weapons-damage-6: filler
 engine: useful
-epic-quality: unknown
+epic-quality: filler
 exoskeleton-equipment: useful
 explosive-rocketry: useful
 explosives: useful

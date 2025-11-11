@@ -99,6 +99,7 @@ Automap (MAP33): useful
 Automap (MAP34): useful
 Automap (MAP71): useful
 Automap (MAP72): useful
+Automap (MAP76): useful
 BFG 9000: progression
 Backpack: filler
 BagOfHolding: filler
@@ -142,6 +143,8 @@ BlueCard (MAP28): progression
 BlueCard (MAP29): progression
 BlueCard (MAP31): progression
 BlueCard (MAP32): progression
+BlueCard (MAP73): progression
+BlueCard (MAP74): progression
 BlueFlemKey (E3M5): progression
 BlueMushroom: filler
 BlueSkull (E1M4): progression
@@ -177,6 +180,8 @@ BlueSkull (MAP19): progression
 BlueSkull (MAP20): progression
 BlueSkull (MAP21): progression
 BlueSkull (MAP22): progression
+BlueSkull (MAP23): progression
+BlueSkull (MAP24): progression
 BlueSkull (MAP25): progression
 BlueSkull (MAP27): progression
 BlueSkull (MAP28): progression
@@ -469,6 +474,8 @@ Level Access (MAP33): progression
 Level Access (MAP34): progression
 Level Access (MAP35): progression
 Level Access (MAP71): progression
+Level Access (MAP72): progression
+Level Access (MAP73): progression
 Level Access (MAP74): progression
 Level Access (MAP76): progression
 Level Clear (E1A1): mcguffin
@@ -621,6 +628,9 @@ RedCard (MAP29): progression
 RedCard (MAP31): progression
 RedCard (MAP32): progression
 RedCard (MAP34): progression
+RedCard (MAP72): progression
+RedCard (MAP73): progression
+RedCard (MAP74): progression
 RedFlemKey (E3M5): progression
 RedMushroom: filler
 RedSkull (E1M4): progression
@@ -726,6 +736,7 @@ YellowCard (MAP10): progression
 YellowCard (MAP12): progression
 YellowCard (MAP13): progression
 YellowCard (MAP15): progression
+YellowCard (MAP17): progression
 YellowCard (MAP21): progression
 YellowCard (MAP22): progression
 YellowCard (MAP23): progression
@@ -772,6 +783,8 @@ YellowSkull (MAP20): progression
 YellowSkull (MAP21): progression
 YellowSkull (MAP22): progression
 YellowSkull (MAP23): progression
+YellowSkull (MAP24): progression
+YellowSkull (MAP25): progression
 YellowSkull (MAP26): progression
 YellowSkull (MAP27): progression
 YellowSkull (MAP28): progression

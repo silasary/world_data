@@ -3,6 +3,7 @@ Axolotl: mcguffin
 Bass: progression
 Beans: progression
 Bee: progression
+Beet: progression
 Bird: progression
 Blue Jelly: mcguffin
 Bridge Frog: unknown
@@ -16,6 +17,7 @@ Dragonfly: mcguffin
 Eel Trophy: progression
 Finisher: unknown
 Fire Fruit Juicer Myzand Upgrade: progression
+Fire Fruit Juicer: progression
 Fireball: unknown
 Fog Fly: progression
 Frog: progression
@@ -25,6 +27,7 @@ Glowbug: progression
 Health Shard: progression
 Key: progression
 Mana Shard: progression
+Mantis: progression
 Metal Ore: progression
 Minnow: progression
 Mite: unknown
@@ -32,6 +35,7 @@ Moth: unknown
 Munchinator Myzand Upgrade: progression
 Munchinator: progression
 Mushbomb: unknown
+Mushroll: progression
 Mushroom: mcguffin
 Pecker: progression
 Purple Snack: mcguffin
@@ -41,7 +45,7 @@ River Fish: progression
 Roof Snail: mcguffin
 Runi Key: progression
 Seedling Myzand Upgrade: progression
-Sharp Shot: unknown
+Sharp Shot: progression
 Skater: mcguffin
 Slam: progression
 Smooth Stone: filler
@@ -57,4 +61,5 @@ Turtle: mcguffin
 Weepwood Bow: progression
 Wooden Cannon Myzand Upgrade: unknown
 Wooden Cannon: unknown
+Workshop Key: progression
 Zap: progression

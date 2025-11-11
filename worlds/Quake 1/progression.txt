@@ -1,6 +1,6 @@
 Armor (+1): useful
 Backpack: useful
-Biosuit: unknown
+Biosuit: progression
 Button: unknown
 Cell Ammo (+1): filler
 Death Trap: trap
@@ -11,7 +11,7 @@ Green Armor: useful
 Grenade Damage Remover: unknown
 Grenade Jump: progression
 Heal (+1): useful
-Invisibility: unknown
+Invisibility: useful
 Invulnerability: useful
 Jump Trap: trap
 Jump: progression

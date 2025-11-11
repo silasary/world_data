@@ -31,8 +31,8 @@
 4-2: progression
 4-3: progression
 4-4: progression
-4-5: unknown
-4-6: unknown
+4-5: progression
+4-6: progression
 4-7: progression
 4-8: unknown
 4-9: progression
@@ -67,7 +67,7 @@
 7-8: progression
 7-9: progression
 8-10: progression
-8-1: unknown
+8-1: progression
 8-2: unknown
 8-3: progression
 8-4: progression
@@ -95,7 +95,7 @@ Epic Mode: unknown
 Grappling Hook: useful
 Jetpack: useful
 Levitation: unknown
-Portable Truck: unknown
+Portable Truck: useful
 Supertruck: unknown
 Time Slow: unknown
 Truck Boost: unknown

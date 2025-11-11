@@ -3,9 +3,9 @@
 1878 Nautical Almanac: progression
 3 Ball: unknown
 5 Ball: unknown
-6 Ball: unknown
+6 Ball: useful
 A Bunch Of Really Small Guns: unknown
-A Length Of Rope: unknown
+A Length Of Rope: progression
 A Pile Of Loose Chili Beans: progression
 A Portable Alchemistry Set: unknown
 A Portable Arcane Oven: progression
@@ -27,7 +27,7 @@ Attic-Opening Stick: progression
 Bag Of Grease: unknown
 Balanced Billiards Cue: unknown
 Bale Of Cowsbane: unknown
-Bandit Pistol: unknown
+Bandit Pistol: useful
 Bandit Revolver: useful
 Barnaby Bob's Burnished Boots: unknown
 Barry Knife: unknown
@@ -54,7 +54,7 @@ Blank Sheet Music: unknown
 Blechscalibur: unknown
 Bloodied Cleaver: useful
 Blue Chalk: progression
-Bone Sword: unknown
+Bone Sword: useful
 Bone-Chip Ring: unknown
 Boost Boots: unknown
 Bottle Of Buffalo Tranquilizers: unknown
@@ -159,6 +159,7 @@ El Vibrato Cylinder: progression
 El Vibrato Fluid x5: unknown
 El Vibrato Headband: progression
 El Vibrato Helmet: unknown
+El Vibrato Pants: useful
 El Vibrato Pistol: unknown
 El Vibrato Punchcard (Complicated) x5: unknown
 El Vibrato Punchcard x5: unknown
@@ -177,7 +178,7 @@ English-Goblintongue Dictionary: progression
 Entire Leather Pants: useful
 Extra-Black Hat: unknown
 Extra-Large Boots: unknown
-Fake Pope Hat: unknown
+Fake Pope Hat: useful
 Fancy Coffee: unknown
 Fancy Knife: unknown
 Fancy Pantry Pants: unknown
@@ -187,9 +188,10 @@ Flashy Boots: unknown
 Flexible Chaps: useful
 Fort Treason Ballistics Chart: progression
 Forty Loaves Of Bread: progression
-Fun Law: Rules For Parlor Games: unknown
+Fun Law: Rules For Parlor Games: progression
 Funerary Derby: useful
 Gas Cap: progression
+Gasmask: progression
 General Gob's Hat: unknown
 General Gob's Pistol: unknown
 Geometry Textbook: progression
@@ -294,7 +296,7 @@ Lucky Horseshoe: unknown
 Lucky Marigold: unknown
 Macready's Pocketwatch: unknown
 Magic-Infused Salad: filler
-Magician's Pants: unknown
+Magician's Pants: useful
 Manley's Finest Cotton Candy Schnapps: filler
 Marmotskin Cap: unknown
 Mary Stearns' Diary: filler
@@ -364,7 +366,7 @@ Reinforced Pocket Square: unknown
 Remains Of The Potemkin Gang: progression
 Revolting Brooch: unknown
 Rich Vein, Poor Vein: unknown
-Rifleman Insignia Pin: unknown
+Rifleman Insignia Pin: useful
 Rifleman's Helmet: unknown
 Right Half Of Curly's Map: unknown
 Ring Of Gettin' Places Faster: unknown
@@ -405,7 +407,7 @@ Sloppy Cowboy Hat: unknown
 Sloppy Tophat: useful
 Small Blowtorch: progression
 Small Plush Bear: unknown
-Small Plush Kitten: unknown
+Small Plush Kitten: useful
 Small Plush Owl: unknown
 Smiling Face Button: unknown
 Smoking Crysanthemum: unknown
@@ -434,6 +436,7 @@ Stock Certificate x3: filler
 Stock Certificate: unknown
 Stove Door: unknown
 Strange Head Sack: unknown
+Strange Lamp: filler
 Strange Silvery Crystal: unknown
 Strange Stone Arrow: unknown
 Stripey Hat: useful
@@ -444,13 +447,14 @@ Sweet Sword: unknown
 Sweet-Smellin' Flowers: progression
 Syrup Tap: unknown
 Tainted Milk x3: unknown
-Tannery Back Door Key: unknown
+Tannery Back Door Key: progression
 Tannery St. Rage Key: progression
 Tanning And Tanning: unknown
 Tea Service: progression
 Teeny-Tiny Hat: useful
 Tentacled Badge: unknown
 Texas Ranger Badge: unknown
+Thaumomorphic Diorite Ring: useful
 The Best Love Poem Ever Written: unknown
 The Hedge Wizard's Orb: progression
 The Necromancer's Crown: progression

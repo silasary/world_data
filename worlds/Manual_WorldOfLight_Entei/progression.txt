@@ -1,3 +1,5 @@
+Additional Midair Jump: useful
+Air Attack ^: useful
 Banjo and Kazooie: useful
 Base Entrance: progression
 Base Key: progression
@@ -35,6 +37,7 @@ Endless Smash Holding: useful
 Falco: useful
 Filler: unknown
 Final Battle Key: progression
+Fire/Explosion Resist ^: useful
 Forest Hill Key: progression
 Fox: useful
 Galeem Defeated: progression
@@ -60,7 +63,10 @@ Ken: useful
 King Dedede: useful
 King K. Rool: useful
 Kirby: useful
+Landing Lag v: useful
+Landing Lag vv: useful
 Lapras: progression
+Lava-Floor Resist: useful
 Link: useful
 Little Mac: useful
 Lucario: useful
@@ -70,11 +76,13 @@ Luigi: useful
 Mario: useful
 Marth: useful
 Marx Defeated: progression
+Masterful Fall Break: useful
 Mega Man: useful
 Meta Knight: useful
 Metal Killer: useful
 Meteor Smashes ^: useful
 Mewtwo: useful
+Mighty Throw: useful
 Mii Brawler: useful
 Mii Gunner: useful
 Mii Swordfighter: useful
@@ -83,6 +91,7 @@ Molten Fortress Key: progression
 Mr. Game and Watch: useful
 Mysterious Dimension Key: progression
 Ness: useful
+Neutral Attack ^: useful
 No Penalty for Continuous Dodging: useful
 Olimar: useful
 PAC-MAN: useful
@@ -94,6 +103,7 @@ Pichu: useful
 Pikachu: useful
 Piranha Plant: useful
 Pit: useful
+Poison Damage Reduced: useful
 Poisoned Smash: useful
 Pokemon Trainer: useful
 Power Plant Cleared: progression
@@ -114,6 +124,7 @@ Sacred Land Key: progression
 Samus: useful
 Sephiroth: useful
 Sheik: useful
+Shooting Items ^: useful
 Shulk: useful
 Simon: useful
 Snake: useful
@@ -121,10 +132,13 @@ Sonic: useful
 Sora: useful
 Spaceship: progression
 Special-Move Power ^: useful
+Sprinting Endurance: useful
+Stats ^ after Eating: useful
 Steve: useful
 Temple Cleared: progression
 Temple of Light Key: progression
 Terry: useful
+Tilt Attack ^^: useful
 Toon Link: useful
 Train: progression
 Transformation Duration ^: useful
@@ -133,6 +147,7 @@ Victory Full: progression
 Victory Light: progression
 Villager: useful
 Wario: useful
+Weapon Resist ^: useful
 Wii Fit Trainer: useful
 Wolf: useful
 World Tour Key: progression

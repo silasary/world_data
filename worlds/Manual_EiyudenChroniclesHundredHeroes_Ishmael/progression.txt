@@ -23,7 +23,9 @@ Armor Shop Merch 2: progression
 Armor Shop: progression
 Auditorium: progression
 Bang Bang Ji Recipe: useful
+Barnard Card: useful
 Barnard: mcguffin
+Baumkuchen Recipe: useful
 Bbaba: progression
 Beigoma Box: progression
 Bounty Hill Access: progression
@@ -37,6 +39,7 @@ Card Shop Extra Pack 3: progression
 Card Shop Extra Pack 4: progression
 Card Shop: progression
 Carrie: progression
+Cassandra Card: useful
 Cassandra: mcguffin
 Castle Harganthia Access: progression
 Celia: mcguffin
@@ -44,9 +47,12 @@ Chandra Card: useful
 Chandra: mcguffin
 Chelonian Goliath Vilashnu Access: progression
 Cherry Pie Recipe: useful
+Chocolate Pizza Recipe: useful
 Chron: progression
 Clarke: progression
+Coconut Water Recipe: useful
 Code L: progression
+Cold Pho Recipe: useful
 Dalton: mcguffin
 Dappled Forest Access: progression
 Darkness Runeshards: useful
@@ -56,8 +62,11 @@ Divination Parlor: progression
 Djikstra: mcguffin
 Douglas: progression
 Dr Corque: mcguffin
+Dr. Corque Card: useful
+Dragon Doria Recipe: useful
 Drill Ground: progression
 Drill Mock Battle: progression
+Durlan Card: useful
 Durlan: mcguffin
 Earth Runeshards: useful
 Economy Recovery: useful
@@ -65,6 +74,7 @@ El Alicanto: mcguffin
 Eldroad Access: progression
 Elektra Card: useful
 Elektra: mcguffin
+Enoe Card: useful
 Enoe: mcguffin
 Escape From Combat: useful
 Eucrisse Access: progression
@@ -93,6 +103,8 @@ Food: useful
 Foxiel: mcguffin
 Francesca: progression
 Frida: progression
+Fried Egg Recipe: progression
+Fume Card: useful
 Fume: mcguffin
 Galactic Meat Recipe: useful
 Galdorf Card: useful
@@ -104,6 +116,7 @@ Garoo: progression
 Garr: progression
 Gieran Card: useful
 Gieran: mcguffin
+Gigina Card: useful
 Gigina: mcguffin
 Glen: progression
 Gocteau: progression
@@ -112,11 +125,15 @@ Goldsmid: mcguffin
 Goldwyn: mcguffin
 Grace: progression
 Greatwood Access: progression
+Grilled Tutuva Recipe: useful
+Hakugin Card: useful
 Hakugin: mcguffin
 Headquarters 2: progression
 Headquarters 3: progression
 Headquarters 4: progression
 Healing Items: useful
+Herb Chicken Recipe: useful
+Herb Tea Recipe: useful
 Heros Den Renovation: progression
 Hildi: progression
 Hiro Card: useful
@@ -124,6 +141,7 @@ Hiro: progression
 Hishahn Old Town Access: progression
 Hogan Card: useful
 Hogan: progression
+Hot Sandwich Recipe: useful
 Hot Spring Benefits 1: progression
 Hot Spring Benefits 2: progression
 Hot Spring: progression
@@ -143,9 +161,12 @@ Ivy: mcguffin
 Janquis: mcguffin
 Jelly Beans Recipe: useful
 Jorhan: mcguffin
+Kallathor Card: useful
 Kallathor: mcguffin
+Kassius Card: useful
 Kassius: mcguffin
 Kerrin: progression
+Kogen Card: useful
 Kogen: mcguffin
 Kuroto: mcguffin
 Kurtz: progression
@@ -157,6 +178,7 @@ Landmark 3: progression
 Larla: mcguffin
 Leene: mcguffin
 Lemon Honey Pickles Recipe: useful
+Leon Card: useful
 Leon: mcguffin
 Lian Card: useful
 Lian: progression
@@ -166,11 +188,14 @@ Lilwn: mcguffin
 Lollipop Recipe: progression
 Lost Baqua: filler
 Mana Restoration Items: useful
+Mandie Card: useful
 Mandie: mcguffin
+Maqluba Recipe: useful
 Mariette: progression
 Marin: mcguffin
 Marinated Seafood Recipe: useful
 Marisa Card: useful
+Marisa Side Story Access: progression
 Marisa: progression
 Markus: mcguffin
 Martha: progression
@@ -203,7 +228,9 @@ Nowa: progression
 Nowas Room Redecorate: progression
 Obtain Baqua: useful
 Omelet Recipe: progression
+Ormond Card: useful
 Ormond: progression
+Osechi Recipe: useful
 Paquia: progression
 Pasta Carbonara Recipe: useful
 Pastole: progression
@@ -211,8 +238,11 @@ Pasturage Prod 1: progression
 Pasturage Prod 2: progression
 Pasturage Prod 3: progression
 Pasturage: progression
+Pavlova Recipe: useful
 Perrielle: mcguffin
 Pieter: progression
+Pineapple Pork Recipe: useful
+Pohl Card: useful
 Pohl: progression
 Progressive Cooking Battle: progression
 Progressive Racing Level: progression
@@ -224,7 +254,9 @@ Quarry Prod 3: progression
 Quarry: progression
 Quinn: progression
 Racing Stables: progression
+Raclette Recipe: useful
 Redthroat Ridge Access: progression
+Reid Card: useful
 Reid: mcguffin
 Remodel The Workshop: progression
 Resource Depot Cap 1: progression
@@ -234,7 +266,9 @@ Restauraunt Menu 1: progression
 Restauraunt Menu 2: progression
 Restauraunt: progression
 Revival Items: useful
+Reyna Card: useful
 Reyna: mcguffin
+Riufan Card: useful
 Riufan: progression
 Rody: progression
 Rohan: mcguffin
@@ -245,14 +279,19 @@ Rune Shop Merch 2: progression
 Rune Shop Sell Shards: progression
 Rune Shop: progression
 Runebarrows Access: progression
+Sabine Card: useful
 Sabine: mcguffin
+Sauteed Chicken Breast Recipe: useful
+Scarlet Card: useful
 Scarlet: mcguffin
 Seaside Cavern Access: progression
 Seign Side Story Access: progression
 Seign: progression
 Selbineth: mcguffin
 Shandar Ridge Access: progression
+Shixeen Card: useful
 Shixeen: mcguffin
+Shrimp Doria Recipe: useful
 Skyd: mcguffin
 Smithy 1: progression
 Smithy 2: progression
@@ -275,7 +314,9 @@ Stowpack Cap 2: progression
 Stowpack Cap 3: progression
 Stowpack Shop: progression
 Sugar Toast Recipe: progression
+Sumire Card: useful
 Sumire: mcguffin
+Syd Card: useful
 Syd: progression
 Theater Repertoire 1: progression
 Theater Repertoire 2: progression
@@ -293,12 +334,15 @@ Trading Specialties: progression
 Treasury Cap 1: progression
 Treasury Cap 2: progression
 Treasury Cap 3: progression
+Umeboshi Chazuke Recipe: useful
 Valentin: progression
 Viesskin: mcguffin
+Vorrdice Card: useful
 Vorrdice: mcguffin
 War Troop Boost 1: progression
 War Troop Boost 2: progression
 Water Runeshards: useful
+Wayve Card: useful
 Wayve: mcguffin
 Wind Runeshards: useful
 Woodcutter Prod 1: progression
@@ -306,6 +350,7 @@ Woodcutter Prod 2: progression
 Woodcutter Prod 3: progression
 Woodcutters Cabin: progression
 Workshop: progression
+Wyler Card: useful
 Wyler: mcguffin
 Yaelu: mcguffin
 Yarnaan Access: progression
@@ -313,6 +358,7 @@ Ymir: mcguffin
 Yuferius Card: useful
 Yuferius: mcguffin
 Yulin: mcguffin
+Yume Card: useful
 Yume: progression
 Yusuke Card: useful
 Yusuke: progression

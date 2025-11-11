@@ -46,9 +46,9 @@ Advanced Medic Facilities (Medic): filler
 Advanced Optics (Terran): useful
 Advanced Optics: useful
 Advanced Photon Blasters (Scout): useful
-Advanced Photon Blasters (Scout/Oppressor/Mist Wing): unknown
+Advanced Photon Blasters (Scout/Oppressor/Mist Wing): progression
 Advanced Siege Tech (Siege Tank): useful
-Advanced Targeting (Immortal/Annihilator): unknown
+Advanced Targeting (Immortal/Annihilator): progression
 Advanced Targeting (Planetary Fortress): useful
 Advanced Targeting Mechanics (Immortal/Annihilator): progression
 Advanced Targeting Optics (Banshee): progression
@@ -65,6 +65,7 @@ All-In (Protoss) Mission Key: progression
 All-In (Zerg) Mission Key: progression
 Amon's Fall Mission Key: progression
 Amon's Reach (Protoss) Mission Key: progression
+Amon's Reach (Terran) Mission Key: progression
 Amon's Reach (Zerg) Mission Key: progression
 Amplified Assimilators (Protoss): useful
 Amplified Assimilators: useful
@@ -108,9 +109,10 @@ Ballistic Flightsuit (Reaper): useful
 Baneling (Zergling Morph): unknown
 Baneling Aspect (Zergling): progression
 Baneling Incubation (Aberration): unknown
+Baneling: progression
 Banshee: progression
 Bargain Bin Prices (Ghost): unknown
-Bargain Bin Prices (Reaver): unknown
+Bargain Bin Prices (Reaver): useful
 Bargain Bin Prices (Spectre): unknown
 Barrage of Spikes (Tyrannozor): useful
 Battlecruiser: progression
@@ -119,7 +121,7 @@ Behemoth Reactor (Battlecruiser): filler
 Bile Launcher: progression
 Bio Bonus (Spore Crawler): unknown
 Bio Mechanical Repair Drone (Raven): progression
-Bio-Mechanical Stockpiling (Zerg): unknown
+Bio-Mechanical Stockpiling (Zerg): useful
 Bio-Mechanical Transfusion (Swarm Queen): useful
 Bioelectric Payload (Infested Missile Turret): unknown
 Black Market Launchers (Widow Mine): filler
@@ -148,6 +150,7 @@ Brutal Efficiency (Blood Hunter War Council): progression
 Brutal Efficiency (Blood Hunter): unknown
 Brynhilds: progression
 Bullfrog (Infested Factory): progression
+Bullfrog: progression
 Bunker: useful
 Burrow (Swarm Host): filler
 Burrow Charge (Ultralisk): useful
@@ -175,6 +178,7 @@ Chaotic Attunement (Ascendant): useful
 Charge (Predator): filler
 Chitinous Plating (Ultralisk): useful
 Chrono Shear (Intercessor): unknown
+Chrono Shear (Pulsar War Council): useful
 Chrono Shear (Pulsar): unknown
 Chrono Surge (Spear of Adun Calldown): useful
 Chrono Surge (Spear of Adun): unknown
@@ -223,7 +227,9 @@ Creeper Strain (Swarm Host): filler
 Crius Suit (Ghost): useful
 Crushing Grip (Kerrigan Ability): useful
 Crushing Grip (Kerrigan Tier 2): progression
+Cutthroat (Protoss) Mission Key: progression
 Cutthroat (Terran) Mission Key: progression
+Cutthroat (Zerg) Mission Key: progression
 Cyclone: progression
 Dark Archon Meld (Dark Templar): useful
 Dark Archon: progression
@@ -253,6 +259,7 @@ Devastator Turret: progression
 Devil Dogs: filler
 Devil's Playground (Protoss) Mission Key: progression
 Devil's Playground (Terran) Mission Key: progression
+Devil's Playground (Zerg) Mission Key: progression
 Devourer (Mutalisk/Corruptor Morph): unknown
 Devourer Aspect (Mutalisk/Corruptor): useful
 Devourer: progression
@@ -267,13 +274,14 @@ Disruptor Dispersion (Immortal/Annihilator): useful
 Disruptor: progression
 Distortion Blasters (Banshee): useful
 Domination (Nova Ability): progression
+Domination (Zerg) Mission Key: progression
 Dominion Trooper: progression
 Double Graviton Beam (Phoenix): useful
 Double Shield Recharge (Sentry War Council): progression
 Double Shield Recharge (Sentry): progression
 Dragoon: progression
 Drilling Claws (Widow Mine): filler
-Drop-Pods (Kerrigan Ability): unknown
+Drop-Pods (Kerrigan Ability): progression
 Drop-Pods (Kerrigan Tier 7): progression
 Dual-Fusion Welders (SCV): useful
 Ducal Blades (Pygalisk): useful
@@ -323,6 +331,7 @@ Feedback (Signifier): unknown
 Field-Assist Target System (Battlecruiser): unknown
 Fire Lance (Colossus War Council): progression
 Fire Lance (Colossus): unknown
+Fire in the Sky (Protoss) Mission Key: progression
 Fire in the Sky (Terran) Mission Key: progression
 Fire in the Sky (Zerg) Mission Key: progression
 Firebat: progression
@@ -334,6 +343,7 @@ Flux Vanes (Void Ray/Destroyer/Intercessor/Dawnbringer): unknown
 Flux Vanes (Void Ray/Destroyer/Pulsar/Dawnbringer): unknown
 For Aiur! Mission Key: progression
 Forbidden Weapon (Terran) Mission Key: progression
+Forbidden Weapon (Zerg) Mission Key: progression
 Force Field (Sentry): filler
 Forged Chassis (Energizer): useful
 Fortified Bunker (Bunker): useful
@@ -380,7 +390,7 @@ Guardian Shell: useful
 Guardian: progression
 Guerilla Missiles (Liberator): useful
 HERC: progression
-Hailstorm Launcher (Dominion Trooper): unknown
+Hailstorm Launcher (Dominion Trooper): useful
 Hallucination (High Templar/Signifier): filler
 Hallucination (Sentry): filler
 Hammer Securities: useful
@@ -553,7 +563,7 @@ Locust Metabolic Boost (Swarm Host): filler
 Lurker (Hydralisk Morph): unknown
 Lurker Aspect (Hydralisk): progression
 Lurker: progression
-MULE (Command Center): unknown
+MULE (Command Center): progression
 Macroscopic Recuperation (Zerg): useful
 Maelstrom (Dark Archon): useful
 Maelstrom Rounds (Siege Tank): progression
@@ -618,6 +628,7 @@ Obliterate (Archon): useful
 Observer: filler
 Ocular Implants (Ghost): useful
 Old Soldiers (Protoss) Mission Key: progression
+Old Soldiers (Terran) Mission Key: progression
 Old Soldiers (Zerg) Mission Key: progression
 Oppressor: progression
 Optical Flare (Medic): filler
@@ -659,7 +670,7 @@ Particle Reflection (Stalker/Instigator/Slayer): progression
 Pathogen Projectors (Defiler): useful
 Peer Contempt (Skirmisher): progression
 Perdition Turret: progression
-Perfected Power (Disruptor): unknown
+Perfected Power (Disruptor): progression
 Phalanx Suit (Dragoon): unknown
 Phantom Dash (Mist Wing): unknown
 Phantoms of the Void (Terran) Mission Key: progression
@@ -762,7 +773,7 @@ Progressive Zerg Weapon Upgrade: useful
 Progressive Zerg Weapon/Armor Upgrade: useful
 Projectile Accelerator (Bunker): useful
 Prolonged Dispersion (Guardian): useful
-Propellant Sacs (Guardian): unknown
+Propellant Sacs (Guardian): progression
 Protective Cover (Aberration): useful
 Psi Disrupter: progression
 Psi Indoctrinator (Hive Mind Emulator): progression
@@ -828,6 +839,7 @@ Regenerative Plating (Infested Bunker): useful
 Reinforced Plating (Warhound): useful
 Reintegrated Framework (Stalwart): useful
 Rendezvous (Protoss) Mission Key: progression
+Rendezvous (Terran) Mission Key: progression
 Rendezvous (Zerg) Mission Key: progression
 Repair Drones (Carrier War Council): progression
 Repair Drones (Carrier): progression
@@ -992,6 +1004,7 @@ Superior Warp Gates (Protoss): useful
 Superior Warp Gates: useful
 Supernova (Protoss) Mission Key: progression
 Supernova (Terran) Mission Key: progression
+Supernova (Zerg) Mission Key: progression
 Supplicant: filler
 Supply Efficiency (Scout): unknown
 Supreme Mission Key: progression
@@ -1013,6 +1026,7 @@ Tech Reactor: useful
 Tectonic Destabilizers (Tempest): filler
 Tempest: progression
 Templar's Charge (Protoss) Mission Key: progression
+Templar's Charge (Zerg) Mission Key: progression
 Templar's Return Mission Key: progression
 Temple of Unification (Protoss) Mission Key: progression
 Temple of Unification (Zerg) Mission Key: progression
@@ -1021,11 +1035,14 @@ Temporal Field (Spear of Adun Calldown): useful
 Temporal Field (Spear of Adun): unknown
 The Crucible (Terran) Mission Key: progression
 The Crucible (Zerg) Mission Key: progression
+The Dig (Protoss) Mission Key: progression
 The Dig (Terran) Mission Key: progression
 The Essence of Eternity Mission Key: progression
+The Great Train Robbery (Protoss) Mission Key: progression
 The Great Train Robbery (Zerg) Mission Key: progression
 The Growing Shadow (Protoss) Mission Key: progression
 The Growing Shadow (Zerg) Mission Key: progression
+The Moebius Factor (Protoss) Mission Key: progression
 The Moebius Factor (Zerg) Mission Key: progression
 The Reckoning (Protoss) Mission Key: progression
 The Reckoning (Zerg) Mission Key: progression
@@ -1040,11 +1057,12 @@ Tissue Assimilation (Ultralisk): useful
 Titanium Housing (Missile Turret): filler
 Torrasque Strain (Ultralisk): useful
 Torrasque: progression
-Transcendence (Archon): unknown
+Transcendence (Archon): useful
 Trapdoor Adaptation (Defiler): useful
 Trigger Override (Wraith): useful
 Trillic Compression System (Dragoon): useful
 Trireme: progression
+Trouble In Paradise Mission Key: progression
 Tunneling Claws (Roach): filler
 Tunneling Jaws (Baneling): useful
 Twilight Chassis (Annihilator): unknown
@@ -1121,4 +1139,5 @@ Zergling (Larva): unknown
 Zergling Reconstitution (Kerrigan Tier 3): filler
 Zergling Reconstitution (Zerg): useful
 Zergling: progression
+Zero Hour (Protoss) Mission Key: progression
 Zero Hour (Zerg) Mission Key: progression

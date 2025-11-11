@@ -1,9 +1,12 @@
 AETHER TRANSLATOR: progression
+AUG ANCIENT_COMBAT_EQUALIZER: useful
 AUG ANCIENT_REPLICATOR: useful
 AUG COMBAT_EXPLOSIVE: filler
 AUG COMBAT_IONSTORM: useful
 AUG COMBAT_OXYGEN_UNSTABLE: filler
+AUG COMBAT_PILOT_JAMMER: filler
 AUG COMBAT_SHIELDS_JAMMER: useful
+AUG COMBAT_WEAPON_JAMMER: useful
 AUG CURA_SURGES_DRONES: useful
 AUG EMERGENCY_DRIVE: filler
 AUG MULTIVERSE_DRIVE_GOOD: useful
@@ -14,9 +17,11 @@ AUG PANDORA_BOX: trap
 Abandoned [Sale!] Sector: progression
 Ancient Wastelands Sector: progression
 CURA's Easy Tasks: useful
+CURA's Hard Tasks: progression
 Coalition Sector: progression
 Coalition Stronghold Sector: progression
 Confederate Sector: progression
+Duskbringer Sector: progression
 Dynasty Sector: progression
 EVENT FREE_ITEM: filler
 EVENT MAP: useful
@@ -44,6 +49,7 @@ Logistical Assistant: filler
 Ministry Capital Sector: progression
 Ministry Sector: progression
 Outcast Sector: progression
+Progressive AUG CREW_STIMS: useful
 Progressive AUG SLUG_GEL: useful
 Progressive AUG STORE_BEACON_SUPER: useful
 Progressive Clone Bay: progression
@@ -52,6 +58,8 @@ Progressive Hacking: progression
 Progressive Med Bay: progression
 Progressive Mind Control: progression
 Progressive Sensors: progression
+Progressive Temperal : useful
+Rebel Stronghold Sector: progression
 Republican [Sale!] Sector: progression
 Separatisit Sector: progression
 Starting Drones x2: filler

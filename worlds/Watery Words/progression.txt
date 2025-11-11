@@ -13,7 +13,7 @@ I: progression
 J: trap|progression
 K: unknown
 L: progression
-M: unknown
+M: progression
 N: progression
 O: progression
 P: progression
@@ -70,7 +70,7 @@ Z: unknown
 ×2W 1,1: unknown
 ×2W 1,5: unknown
 ×2W 1,9: unknown
-×2W 10,10: unknown
+×2W 10,10: progression
 ×2W 10,12: unknown
 ×2W 10,4: unknown
 ×2W 11,11: unknown

@@ -1,12 +1,14 @@
 Aggro Bell Rung: progression
 Ancient Key: mcguffin
 Ancient Rune Stone: progression
+Awaken Water Elementals: progression
 Blue Stone Tablet: progression
 Diamond Quest Complete: progression
 Diamond Rune Stone: progression
 Diamond Shard Hit: unknown
 Diamond: mcguffin
 Fire Key: progression
+Floor Is Lava Trap: trap
 Frog Flippers: progression
 Gold Stone Tablet: progression
 Gopher Gloves: progression
@@ -23,7 +25,7 @@ Ruby Shard Hit: unknown
 Ruby: mcguffin
 Salamander Shirt: progression
 Sapphire Quest Complete: progression
-Sapphire Rune Stone: unknown
+Sapphire Rune Stone: progression
 Sapphire Shard Hit: progression
 Sapphire: mcguffin
 Seashell: filler

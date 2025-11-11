@@ -53,7 +53,7 @@ Brevis: unknown
 Brigand's Gloves: unknown
 Brigandine: useful
 Brilliant Theorbo: unknown
-Broadaxe: unknown
+Broadaxe: useful
 Broadsword: unknown
 Bronze Armor: filler
 Bronze Helm: unknown
@@ -102,7 +102,7 @@ Diamond Sword: unknown
 Diklum: unknown
 Dirty Wool: progression
 Divariwood: unknown
-Djinn Flyssa: unknown
+Djinn Flyssa: useful
 Dragon Bone: unknown
 Dragon Whisker: unknown
 Dream Claws: useful
@@ -145,18 +145,18 @@ Francisca: unknown
 Fresh Water: unknown
 Frigid Viol: unknown
 Gaia Gear: unknown
-Gaius Caligae: unknown
+Gaius Caligae: useful
 Gale Sword: unknown
 Galmia Frock: useful
 Galmia Shoes: unknown
-Gastrophetes: unknown
+Gastrophetes: useful
 Gauntlets: unknown
 Gemsteel: unknown
 Genji Armor: useful
 Genji Gloves: unknown
 Genji Helm: useful
 Genji Shield: unknown
-Germinas Boots: unknown
+Germinas Boots: useful
 Giant's Helmet: useful
 Giant's Tanned Hide: unknown
 Gigas Pendant: unknown
@@ -207,10 +207,12 @@ Javelin: unknown
 Job Unlock: Animist: unknown
 Job Unlock: Archer: useful
 Job Unlock: Beastmaster: useful
-Job Unlock: Black Mage: unknown
+Job Unlock: Black Mage: useful
 Job Unlock: Chocobo Knight: unknown
 Job Unlock: Defender: useful
 Job Unlock: Flintlock: useful
+Job Unlock: Green Mage: useful
+Job Unlock: Hunter: useful
 Job Unlock: Illusionist: unknown
 Job Unlock: Ninja: unknown
 Job Unlock: Ranger: unknown
@@ -224,6 +226,7 @@ Job Unlock: White Mage: useful
 Joker: unknown
 Joyeuse: useful
 Judicer's Coat: unknown
+Judicer's Staff: useful
 Jujitsu Gi: unknown
 Kain's Lance: unknown
 Kaiser Knuckles: unknown
@@ -302,7 +305,7 @@ Nike Bow: unknown
 Ninja Gear: unknown
 Ninja Tabi: unknown
 Nirvana: unknown
-Nosada: unknown
+Nosada: useful
 Oblige: unknown
 Ogrenix: unknown
 Ogun Blade: unknown
@@ -325,7 +328,7 @@ Platinum Shield: unknown
 Plumed Hat: filler
 Poison Knuckles: unknown
 Power Sash: unknown
-Predator: unknown
+Predator: useful
 Prima Petal: unknown
 Prime Tanned Hide: unknown
 Putrid Liquid: unknown
@@ -377,6 +380,7 @@ Short Spear: unknown
 Shortbow: unknown
 Shortsword: unknown
 Silk Bloom: unknown
+Silk Thread: progression
 Silken Robe: unknown
 Silver Bow: unknown
 Silver Cannon: unknown
@@ -400,7 +404,7 @@ Spruce: unknown
 Staff of Blessings: unknown
 Staff of Protection: unknown
 Staff of the Magi: unknown
-Stardust Rod: unknown
+Stardust Rod: useful
 Stinger: unknown
 Stormsoul Crystal: unknown
 Stradivari: unknown
@@ -409,6 +413,7 @@ Strawood: unknown
 Stribog: unknown
 Sturdy Bone: unknown
 Sumihomura: unknown
+Superior Silk Thread: progression
 Supernal Ray: unknown
 Survival Vest: unknown
 Survivor: unknown
@@ -418,7 +423,7 @@ Tainted Cufflink: unknown
 Talwar: unknown
 Tanned Hide: unknown
 Tanned Tyrant Hide: unknown
-Target Bow: unknown
+Target Bow: useful
 Tarkov Crystal: unknown
 Telaq Flower: unknown
 Templar Shield: unknown
@@ -466,7 +471,7 @@ Windsong Rapier: useful
 Wizard's Hat: unknown
 Wolf Pelt: unknown
 Wool: filler
-Wygar: unknown
+Wygar: useful
 Wyrm Carapace: unknown
 Xankbras: unknown
 Yellow Liquid: unknown

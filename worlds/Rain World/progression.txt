@@ -6,7 +6,7 @@ Cherrybomb: filler
 Citizen ID Drone: progression
 Daddy Long Legs trap: trap
 Eggbug Egg: filler
-Electric Spear: unknown
+Electric Spear: filler
 Explosive Spear: useful
 Fire Egg: unknown
 Flashbang: filler
@@ -48,7 +48,7 @@ Gate: Garbage Wastes to Shaded Citadel: unknown
 Gate: Garbage Wastes to Shoreline: useful
 Gate: Industrial Complex to Chimney Canopy: progression
 Gate: Industrial Complex to Garbage Wastes: progression
-Gate: Industrial Complex to Pipeyard: unknown
+Gate: Industrial Complex to Pipeyard: progression
 Gate: Industrial Complex to Shaded Citadel: progression
 Gate: Outskirts to Drainage System: progression
 Gate: Outskirts to Industrial Complex: progression
@@ -58,7 +58,7 @@ Gate: Shoreline to Bitter Aerie: progression
 Gate: Shoreline to Pipeyard: unknown
 Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: progression
-Gate: Sky Islands to Pipeyard: unknown
+Gate: Sky Islands to Pipeyard: progression
 Gate: Submerged Superstructure to Shoreline: unknown
 Gate: Subterranean to Pipeyard: progression
 Gate: Subterranean to Shoreline: progression
@@ -67,14 +67,14 @@ Gate: The Exterior to Shoreline: unknown
 Gate: Underhang to Five Pebbles: progression
 Glow Weed: filler
 Gravity trap: trap
-Grenade: unknown
+Grenade: filler
 Jellyfish: filler
 Joke Rifle: filler
 Karma Flower: filler
 Karma: mcguffin
 Lantern: filler
 Lilypuck: filler
-Longer cycles: unknown
+Longer cycles: progression
 MSC: progression
 Mushroom: filler
 Object-DangleFruit: filler
@@ -100,7 +100,7 @@ Object-WaterNut: filler
 Passage Token - The Chieftain: useful
 Passage Token - The Dragon Slayer: useful
 Passage Token - The Friend: useful
-Passage Token - The Hunter: unknown
+Passage Token - The Hunter: useful
 Passage Token - The Martyr: mcguffin
 Passage Token - The Monk: useful
 Passage Token - The Mother: unknown
@@ -108,9 +108,9 @@ Passage Token - The Nomad: unknown
 Passage Token - The Outlaw: useful
 Passage Token - The Pilgrim: unknown
 Passage Token - The Saint: useful
-Passage Token - The Scholar: unknown
+Passage Token - The Scholar: useful
 Passage Token - The Survivor: useful
-Passage Token - The Wanderer: unknown
+Passage Token - The Wanderer: useful
 Passage-Chieftain: useful
 Passage-DragonSlayer: useful
 Passage-Friend: unknown
@@ -127,7 +127,7 @@ Passage-Traveller: unknown
 Rain trap: trap
 Rarefaction Cell: unknown
 Red Centipede trap: trap
-Red Lizard trap: unknown
+Red Lizard trap: trap
 Rock: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
@@ -149,5 +149,5 @@ Trap-RedLizard: trap
 Trap-Stun: trap
 Trap-Timer: trap
 Trap-Zoomies: trap
-Vulture Mask: unknown
+Vulture Mask: filler
 Zoomies trap: trap

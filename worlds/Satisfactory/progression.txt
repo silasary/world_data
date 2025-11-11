@@ -125,7 +125,7 @@ Building: Walls Metal: unknown
 Building: Walls Orange: useful
 Building: Water Extractor: progression
 Building: Windowed Walls: unknown
-Bundle of Four: Somersloops: unknown
+Bundle of Four: Somersloops: filler
 Bundle of Three: Hard Drives: filler
 Bundle of Three: Mercer Spheres: useful
 Bundle of Three: Power Shards: filler
@@ -237,7 +237,7 @@ Bundle: Packaged Ionized Fuel: filler
 Bundle: Packaged Liquid Biofuel: filler
 Bundle: Packaged Nitric Acid: filler
 Bundle: Packaged Nitrogen Gas: filler
-Bundle: Packaged Oil: unknown
+Bundle: Packaged Oil: filler
 Bundle: Packaged Rocket Fuel: filler
 Bundle: Packaged Sulfuric Acid: filler
 Bundle: Packaged Turbofuel: filler
@@ -378,7 +378,7 @@ Recipe: Caterium Computer: progression
 Recipe: Caterium Ingot: progression
 Recipe: Caterium Wire: progression
 Recipe: Chainsaw: useful
-Recipe: Charcoal: unknown
+Recipe: Charcoal: useful
 Recipe: Cheap Silica: progression
 Recipe: Circuit Board: progression
 Recipe: Classic Battery: progression
@@ -625,7 +625,7 @@ Single: Biochemical Sculptor: filler
 Single: Biomass: filler
 Single: Blade Runners: useful
 Single: Blue Power Slug: filler
-Single: Boom Box: unknown
+Single: Boom Box: filler
 Single: Cable: unknown
 Single: Chainsaw: useful
 Single: Cluster Nobelisk: unknown
@@ -707,7 +707,7 @@ Single: Wood: unknown
 Single: Xeno-Basher: useful
 Single: Xeno-Zapper: useful
 Single: Yellow Power Slug: filler
-Single: Zipline: unknown
+Single: Zipline: useful
 Small Inflated Pocket Dimension: useful
 Spitter Forest Alpha: unknown
 Spitter Forest: unknown

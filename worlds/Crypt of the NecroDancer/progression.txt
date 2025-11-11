@@ -28,7 +28,7 @@ Bright Torch: unknown
 Broadsword: unknown
 Cadence: unknown
 Carrot: unknown
-Chainmail: unknown
+Chainmail: useful
 Charm Spell: unknown
 Cheese: unknown
 Circlet of Telepathy: unknown
@@ -98,7 +98,7 @@ Karate Gi: useful
 Klarinetta: progression
 Lead Boots: unknown
 Leather Armor: unknown
-Longsword: unknown
+Longsword: useful
 Low Percent Mode: progression
 Luminous Torch: useful
 Magic Apple: unknown
@@ -118,7 +118,7 @@ Monkey's Paw: unknown
 Monocle: unknown
 Nazar Charm: unknown
 No Beat Mode: progression
-Nocturna: unknown
+Nocturna: progression
 Obsidian Armor: unknown
 Obsidian Shield: unknown
 Obsidian Shovel: useful
@@ -184,7 +184,7 @@ Transmute Scroll: unknown
 Transmute Spell: useful
 Transmute Tome: useful
 Trident: unknown
-War Drum: unknown
+War Drum: useful
 Warhammer: unknown
 Weaponmaster: useful
 Whip: useful

@@ -10,6 +10,7 @@ Progressive brt_allied_outpost: progression
 Progressive brt_barracks: progression
 Progressive brt_carpenter: progression
 Progressive brt_farm: progression
+Progressive brt_hospital: progression
 Progressive brt_industry_extra: progression
 Progressive brt_port: progression
 Progressive brt_resource_dyes: progression
@@ -175,6 +176,7 @@ Where is our Map?: trap
 You too, Brutus?: trap
 tech_dlc16_wef_ancients_ash: progression
 tech_dlc16_wef_ancients_cypress: progression
+tech_dlc16_wef_ancients_eagles: progression
 tech_dlc16_wef_ancients_oak: progression
 tech_dlc16_wef_ancients_pine: progression
 tech_dlc16_wef_ancients_yew: progression
@@ -293,6 +295,7 @@ wh2_main_ritual_grn_waaagh: unknown
 wh2_main_special_settlement_sartosa_brt_2: progression
 wh2_main_special_settlement_sartosa_brt_3: progression
 wh2_main_special_settlement_sartosa_brt_4: progression
+wh2_main_special_settlement_sartosa_brt_5: progression
 wh3_dlc20_bundle_chs_authority_tzeentch_6: unknown
 wh3_dlc20_bundle_chs_authority_tzeentch_8: filler
 wh3_dlc20_bundle_stance_army_encampment_festus: unknown
@@ -419,6 +422,7 @@ wh_dlc05_tech_1_asuryan: progression
 wh_dlc05_tech_1_cadai: progression
 wh_dlc05_tech_1_hoeth: progression
 wh_dlc05_tech_1_isha: progression
+wh_dlc05_tech_1_kurnous: progression
 wh_dlc05_tech_1_ladrielle: progression
 wh_dlc05_tech_1_lileath: progression
 wh_dlc05_tech_1_loec: progression
@@ -433,6 +437,7 @@ wh_dlc05_tech_2_ereth_khial: progression
 wh_dlc05_tech_2_estreath: progression
 wh_dlc05_tech_2_hekarti: progression
 wh_dlc05_tech_2_hukon: progression
+wh_dlc05_tech_2_khaine: progression
 wh_dlc05_tech_2_mathlann: progression
 wh_dlc05_tech_2_morai_heg: progression
 wh_dlc07_brt_art_blessed_field_trebuchet_0: progression
@@ -467,6 +472,7 @@ wh_dlc07_tech_brt_economy_industry_tournaments: progression
 wh_dlc07_tech_brt_economy_other_1: progression
 wh_dlc07_tech_brt_economy_other_2: progression
 wh_dlc07_tech_brt_economy_other_3: progression
+wh_dlc07_tech_brt_economy_other_4: progression
 wh_dlc07_tech_brt_economy_other_carpenters: progression
 wh_dlc07_tech_brt_economy_other_draft: progression
 wh_dlc07_tech_brt_economy_other_fanaticism: progression
@@ -506,6 +512,7 @@ wh_main_anc_magic_standard_razor_standard: unknown
 wh_main_anc_magic_standard_war_banner: filler
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: filler
+wh_main_anc_talisman_opal_amulet: filler
 wh_main_anc_talisman_talisman_of_endurance: unknown
 wh_main_anc_weapon_biting_blade: filler
 wh_main_anc_weapon_shrieking_blade: unknown

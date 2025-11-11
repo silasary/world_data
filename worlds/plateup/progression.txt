@@ -6,18 +6,21 @@ Blueprint Cabinet: filler
 Blueprint Desk: useful
 Booking Desk: filler
 Breadsticks: filler
+Cake Tin: filler
 Candle Box: filler
 Cheap Metal Table: filler
 Clipboard Stand: filler
-Coffee Machine: unknown
+Coffee Machine: filler
 Coffee Table: useful
 Combiner: useful
 Compactor Bin: useful
 Composter Bin: useful
 Conveyor Mixer: useful
 Conveyor: useful
+Cookie Tray: filler
 Copying Desk: useful
 Counter: useful
+Cupcake Tray: filler
 Danger Hob: progression
 Day Lease: progression
 Dining Table: useful
@@ -43,15 +46,15 @@ Grabber: progression
 Heated Mixer: useful
 Hob: useful
 Hosting Stand: filler
-Ice Dispenser: unknown
+Ice Dispenser: filler
 Kitchen Floor Protector: filler
 Lasagne Tray: filler
 Lasting Mop: useful
 Leftover Bags: useful
 Microwave: useful
-Milk Steamer: unknown
+Milk Steamer: filler
 Mixer: useful
-Mixing Bowl: unknown
+Mixing Bowl: filler
 Mop: filler
 Napkins: filler
 Ordering Terminal: filler
@@ -69,7 +72,7 @@ Robot Mop: useful
 Rolling Pin: useful
 Safe Hob: useful
 Scrubbing Brush: useful
-Serving Boards: unknown
+Serving Boards: filler
 Sharp Cutlery: useful
 Sharp Knife: useful
 Sink: useful
@@ -77,6 +80,7 @@ Smart Grabber: progression
 Soaking Sink: useful
 Specials Menu: filler
 Specials Terminal: filler
+Speed Upgrade Appliance: progression
 Speed Upgrade Chop: progression
 Speed Upgrade Clean: progression
 Speed Upgrade Cook: progression
@@ -87,6 +91,7 @@ Starting Hob: filler
 Starting Sink: filler
 Super Slow: trap
 Supplies: useful
+Taco Trays: filler
 Teleporter: useful
 Trainers: useful
 Wash Basin: progression

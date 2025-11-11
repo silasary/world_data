@@ -61,6 +61,7 @@
 (Database) Yellow Water Report: filler
 (Poison) Golden Yinglong Egg: useful
 (Poison) Medicinal Citrine: useful
+(Poison) Molted Tianma Hide: useful
 (Poison) Oriander: useful
 (Poison) Plantago Frog: useful
 (Poison) Porcine Gem: useful
@@ -113,6 +114,7 @@ Ji's Hair: progression
 Jin x320: filler
 Jin x50: filler
 Jin x800: filler
+Ledge Grab: progression
 Mob Quell Jade - Yin: useful
 Mystic Nymph: Scout Mode: progression
 Pauper Jade: useful
@@ -146,4 +148,5 @@ Tianhuo Serum: progression
 Transmutation Zone Chip: useful
 Twin Tao Fruit: useful
 Unbounded Counter: progression
+Wall Climb: progression
 Warehouse Zone Chip: useful

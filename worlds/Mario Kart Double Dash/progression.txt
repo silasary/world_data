@@ -151,7 +151,7 @@ Fake Item for Bowser Jr.: filler
 Fake Item for Bowser: useful
 Fake Item for Daisy: useful
 Fake Item for Diddy Kong: filler
-Fake Item for Donkey Kong: unknown
+Fake Item for Donkey Kong: filler
 Fake Item for Everybody: useful
 Fake Item for King Boo: useful
 Fake Item for Koopa: filler
@@ -331,7 +331,7 @@ Mini-turbo Extender for Toad Kart: progression
 Mini-turbo Extender for Toadette Kart: progression
 Mini-turbo Extender for Turbo Birdo: progression
 Mini-turbo Extender for Turbo Yoshi: useful
-Mini-turbo Extender for Waluigi Racer: unknown
+Mini-turbo Extender for Waluigi Racer: progression
 Mini-turbo Extender for Wario Car: unknown
 Mushroom Bridge Time Trial: progression
 Mushroom City Time Trial: progression
@@ -391,7 +391,7 @@ Power Steering for Bloom Coach: progression
 Power Steering for Bullet Blaster: useful
 Power Steering for DK Jumbo: progression
 Power Steering for Goo-Goo Buggy: progression
-Power Steering for Green Fire: unknown
+Power Steering for Green Fire: progression
 Power Steering for Heart Coach: progression
 Power Steering for Koopa Dasher: unknown
 Power Steering for Koopa King: progression
@@ -576,6 +576,6 @@ Yoshi Egg for Petey Piranha: progression
 Yoshi Egg for Toad: useful
 Yoshi Egg for Toadette: unknown
 Yoshi Egg for Waluigi: unknown
-Yoshi Egg for Wario: unknown
+Yoshi Egg for Wario: progression
 Yoshi Egg for Yoshi: progression
 Yoshi: progression

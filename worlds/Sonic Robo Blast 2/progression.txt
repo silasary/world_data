@@ -8,7 +8,7 @@
 Aerial Garden Zone: progression
 Airborne Temple Zone: progression
 Alpine Paradise Zone: progression
-Amy: unknown
+Amy: progression
 Arid Canyon Zone: unknown
 Armageddon Shield: progression
 Attraction Shield: unknown
@@ -17,15 +17,17 @@ Black Hole Zone: progression
 Bubble Shield: progression
 Castle Eggman Zone: progression
 Cavern Fortress Zone: progression
+Celestial Sanctuary Zone: progression
 Chaos Emerald: progression
-Christmas Chime Zone: unknown
+Christmas Chime Zone: progression
+Crystalline Heights Zone: progression
 Deep Sea Zone: progression
 Desolate Twilight Zone: progression
 Diamond Blizzard Zone: progression
 Dream Hill Zone: progression
 Drill Refill: useful
 Dropped Inputs: unknown
-Dusty Wasteland Zone: unknown
+Dusty Wasteland Zone: progression
 Egg Rock Zone: progression
 Egg Satellite Zone: unknown
 Elemental Shield: progression
@@ -33,28 +35,33 @@ Emblem: mcguffin
 Extra Time: progression
 Fang: progression
 Final Demo Zone: progression
-Flame Shield: unknown
+Flame Shield: useful
 Flooded Cove Zone: progression
 Floral Field Zone: progression
 Force Shield: useful
 Forced Gravity Boots: unknown
 Forced Pity Shield: trap
-Forest Fortress Zone: unknown
+Forest Fortress Zone: progression
 Frigid Mountain Zone: progression
-Frozen Hillside Zone: unknown
+Frost Columns Zone: progression
+Frozen Hillside Zone: progression
+Granite Lake Zone: progression
 Greenflower Zone: progression
 Grow Monitor: trap
-Haunted Heights Zone: unknown
+Haunted Heights Zone: progression
+Jade Valley Zone: progression
 Jumpscare: trap
 Knuckles: progression
 Lightning Shield: progression
 Link Freeze: useful
-Magma Caves Zone: unknown
+Magma Caves Zone: progression
+Meadow Match Zone: progression
 Metal Sonic: progression
 Midnight Abyss Zone: progression
 Nightopian Helper: useful
+Noxious Factory Zone: progression
 Orbital Hangar Zone: progression
-Pipe Towers Zone: unknown
+Pipe Towers Zone: progression
 Pristine Shores Zone: progression
 Progressive Emblem Hint: unknown
 Red Volcano Zone: progression
@@ -74,4 +81,4 @@ Techno Hill Zone: progression
 Temporary Invincibility: filler
 Temporary Super Sneakers: filler
 Toxic Plateau Zone: progression
-Whirlwind Shield: unknown
+Whirlwind Shield: progression
