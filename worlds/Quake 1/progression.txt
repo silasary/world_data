@@ -77,7 +77,7 @@ e2m2 Gold Key: unknown
 e2m2 Unlock: progression
 e2m3 Automap: useful
 e2m3 Gold Key: progression
-e2m3 Unlock: unknown
+e2m3 Unlock: progression
 e2m4 Automap: useful
 e2m4 Gold Key: progression
 e2m4 Silver Key: unknown
@@ -95,7 +95,7 @@ e3m1 Automap: unknown
 e3m1 Gold Key: progression
 e3m1 Unlock: progression
 e3m2 Automap: unknown
-e3m2 Gold Key: unknown
+e3m2 Gold Key: progression
 e3m2 Silver Key: unknown
 e3m2 Unlock: unknown
 e3m3 Automap: unknown

@@ -12,7 +12,7 @@ Battle Shovel: useful
 Beastmaster: useful
 Berserk Scroll: unknown
 Berserk Spell: unknown
-Blood Drum: unknown
+Blood Drum: useful
 Blood Shovel: unknown
 Blunderbuss: unknown
 Bolt: unknown
@@ -30,6 +30,7 @@ Cadence: unknown
 Carrot: unknown
 Chainmail: useful
 Charm Spell: unknown
+Chaunter: progression
 Cheese: unknown
 Circlet of Telepathy: unknown
 Codex: progression
@@ -50,7 +51,7 @@ Dorian: unknown
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
 Double Heart Container: unknown
-Dove Familiar: unknown
+Dove Familiar: useful
 Dove: progression
 Drumstick: unknown
 Earth Spell: unknown
@@ -82,6 +83,7 @@ Hargreaves: unknown
 Harp: unknown
 Heal Spell: useful
 Heart Container: unknown
+Heart Transplant: useful
 Heavy Glass Armor: useful
 Heavy Plate: unknown
 Heavy Shield: useful
@@ -120,9 +122,9 @@ Nazar Charm: unknown
 No Beat Mode: progression
 Nocturna: progression
 Obsidian Armor: unknown
-Obsidian Shield: unknown
+Obsidian Shield: useful
 Obsidian Shovel: useful
-Obsidian Torch: unknown
+Obsidian Torch: useful
 Pack of Holding: useful
 Permanent Health Upgrade: progression
 Phasing Dagger: unknown
@@ -143,7 +145,7 @@ Ring of Becoming: unknown
 Ring of Charisma: unknown
 Ring of Courage: useful
 Ring of Frost: useful
-Ring of Gold: unknown
+Ring of Gold: useful
 Ring of Luck: unknown
 Ring of Mana: unknown
 Ring of Pain: unknown

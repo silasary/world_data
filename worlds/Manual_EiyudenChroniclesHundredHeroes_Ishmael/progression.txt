@@ -30,6 +30,7 @@ Bbaba: progression
 Beigoma Box: progression
 Bounty Hill Access: progression
 Brew Bar Satay Recipe: useful
+CJ Card: useful
 CJ: progression
 Cabana: progression
 Caine: mcguffin
@@ -47,6 +48,7 @@ Chandra Card: useful
 Chandra: mcguffin
 Chelonian Goliath Vilashnu Access: progression
 Cherry Pie Recipe: useful
+Chili Con Carne Recipe: useful
 Chocolate Pizza Recipe: useful
 Chron: progression
 Clarke: progression
@@ -70,6 +72,7 @@ Durlan Card: useful
 Durlan: mcguffin
 Earth Runeshards: useful
 Economy Recovery: useful
+El Alicanto Card: useful
 El Alicanto: mcguffin
 Eldroad Access: progression
 Elektra Card: useful
@@ -104,6 +107,7 @@ Foxiel: mcguffin
 Francesca: progression
 Frida: progression
 Fried Egg Recipe: progression
+Fruit Parfait Recipe: useful
 Fume Card: useful
 Fume: mcguffin
 Galactic Meat Recipe: useful
@@ -165,6 +169,7 @@ Kallathor Card: useful
 Kallathor: mcguffin
 Kassius Card: useful
 Kassius: mcguffin
+Kerrin Card: useful
 Kerrin: progression
 Kogen Card: useful
 Kogen: mcguffin
@@ -218,6 +223,7 @@ Mission Task 4: progression
 Momo: mcguffin
 Mountain Path Access: progression
 Mysterious Room: progression
+Nell Card: useful
 Nell: progression
 Nil: progression
 Normal MP/SP Consumption: useful
@@ -244,6 +250,7 @@ Pieter: progression
 Pineapple Pork Recipe: useful
 Pohl Card: useful
 Pohl: progression
+Pot-au-feu Recipe: useful
 Progressive Cooking Battle: progression
 Progressive Racing Level: progression
 Proving Grounds Access: progression
@@ -272,6 +279,7 @@ Riufan Card: useful
 Riufan: progression
 Rody: progression
 Rohan: mcguffin
+Rudy Card: useful
 Rudy: progression
 Rune Lens Lab Access: progression
 Rune Shop Merch 1: progression
@@ -298,7 +306,10 @@ Smithy 2: progression
 Smithy 3: progression
 Smithy: progression
 Snowpeak Pass Access: progression
+Spiced Coffee Recipe: useful
+Spicy Cheese Hamburg Steak Recipe: useful
 Spicy Pigs Ear Recipe: useful
+Spinach Quiche Recipe: useful
 Squash Card: useful
 Squash: progression
 Stables Egg Rarity 1: progression
@@ -309,6 +320,7 @@ Stables Hatcheries 1: progression
 Stables Hatcheries 2: progression
 Stadler: progression
 Status Effect Items: useful
+Steak Recipe: useful
 Stowpack Cap 1: progression
 Stowpack Cap 2: progression
 Stowpack Cap 3: progression
@@ -334,8 +346,10 @@ Trading Specialties: progression
 Treasury Cap 1: progression
 Treasury Cap 2: progression
 Treasury Cap 3: progression
+Triple Decker Burger Recipe: useful
 Umeboshi Chazuke Recipe: useful
 Valentin: progression
+Viesskin Card: useful
 Viesskin: mcguffin
 Vorrdice Card: useful
 Vorrdice: mcguffin

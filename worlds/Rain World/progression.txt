@@ -55,7 +55,7 @@ Gate: Outskirts to Industrial Complex: progression
 Gate: Shaded Citadel to Shoreline: progression
 Gate: Shaded Citadel to The Exterior: progression
 Gate: Shoreline to Bitter Aerie: progression
-Gate: Shoreline to Pipeyard: unknown
+Gate: Shoreline to Pipeyard: progression
 Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: progression
 Gate: Sky Islands to Pipeyard: progression
@@ -103,7 +103,7 @@ Passage Token - The Friend: useful
 Passage Token - The Hunter: useful
 Passage Token - The Martyr: mcguffin
 Passage Token - The Monk: useful
-Passage Token - The Mother: unknown
+Passage Token - The Mother: useful
 Passage Token - The Nomad: unknown
 Passage Token - The Outlaw: useful
 Passage Token - The Pilgrim: unknown

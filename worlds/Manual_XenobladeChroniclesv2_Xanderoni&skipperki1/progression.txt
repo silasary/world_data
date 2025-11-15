@@ -74,6 +74,7 @@ Confusion Ivy: progression
 Cool Potato: progression
 Cream Wheat: progression
 Crimson Citrus: progression
+Crimson Gear: progression
 Crystal Frog: progression
 Cute Orchid: progression
 Cute Parsnip: progression
@@ -352,6 +353,7 @@ Reyn: Anchor Chain Art Book: useful
 Reyn: Aura Burst Art Book: useful
 Reyn: Berserker Art Book: useful
 Reyn: Bone Upper Art Book: useful
+Reyn: Camaraderie Skill Tree: useful
 Reyn: Diligence Skill Tree: useful
 Reyn: Dive Sobat Art Book: useful
 Reyn: Engage Art Book: useful
@@ -418,6 +420,7 @@ Sharla: Cure Bullet Art Book: useful
 Sharla: Cure Round Art Book: useful
 Sharla: Drive Boost Art Book: useful
 Sharla: Head Shaker Art Book: useful
+Sharla: Head Shot Art Book: useful
 Sharla: Heal Blast Art Book: useful
 Sharla: Heal Bullet Art Book: useful
 Sharla: Heal Counter Art Book: useful
@@ -440,6 +443,8 @@ Shulk: Air Slash Art Book: useful
 Shulk: Back Slash Art Book: useful
 Shulk: Battle Soul Art Book: useful
 Shulk: Bravery Skill Tree: useful
+Shulk: Intuition Skill Tree: useful
+Shulk: Light Heal Art Book: useful
 Shulk: Monado Armour Art Book: useful
 Shulk: Monado Buster Art Book: useful
 Shulk: Monado Cyclone Art Book: useful
@@ -494,6 +499,7 @@ Tasty Sausage: progression
 Tephra Cave Key: progression
 Thunder Atmos: progression
 Thunder Compass: progression
+Torso Appearance Slot: filler
 Tropical Radish: progression
 Tweet Tweet: progression
 Ultramarine Ant: progression

@@ -20,7 +20,7 @@ bob-alien-orange-research: unknown
 bob-alien-purple-research: progression
 bob-alien-red-research: progression
 bob-alien-research: progression
-bob-alien-yellow-research: unknown
+bob-alien-yellow-research: filler
 bob-alloy-processing: progression
 bob-aluminium-processing: progression
 bob-ap-bullets: filler
@@ -56,7 +56,7 @@ bob-electrolysis-1: progression
 bob-energy-shield-equipment-6: filler
 bob-explosive-artillery-shells: filler
 bob-explosive-rocket: unknown
-bob-fertiliser: unknown
+bob-fertiliser: filler
 bob-fire-artillery-shells: unknown
 bob-flame-bullets: filler
 bob-flame-rocket: filler
@@ -71,6 +71,7 @@ bob-gold-processing: progression
 bob-greenhouse: progression
 bob-grinding: progression
 bob-he-bullets: unknown
+bob-heat-pipe-2: filler
 bob-heat-shield: progression
 bob-heavy-water-processing: progression
 bob-hydrazine-generator: progression
@@ -88,6 +89,7 @@ bob-lead-processing: progression
 bob-lithium-processing: progression
 bob-logistic-spidertron: filler
 bob-multi-purpose-furnace-1: filler
+bob-multi-purpose-furnace-2: filler
 bob-nickel-processing: progression
 bob-nitinol-processing: progression
 bob-nitrogen-processing: progression
@@ -263,6 +265,7 @@ progressive-furnaces: progression
 progressive-inserter-capacity-bonus: filler
 progressive-inserter-stack-size-bonus: filler
 progressive-inserter: filler
+progressive-lab: filler
 progressive-laser-shooting-speed: filler
 progressive-laser-turrets: unknown
 progressive-laser-weapons-damage: filler

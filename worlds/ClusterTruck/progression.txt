@@ -47,7 +47,7 @@
 5-8: progression
 5-9: unknown
 6-10: progression
-6-1: unknown
+6-1: progression
 6-2: progression
 6-3: unknown
 6-4: unknown
@@ -55,7 +55,7 @@
 6-6: progression
 6-7: progression
 6-8: unknown
-6-9: unknown
+6-9: progression
 7-10: progression
 7-1: progression
 7-2: unknown
@@ -79,7 +79,7 @@
 9-10: progression
 9-1: progression
 9-2: progression
-9-3: unknown
+9-3: progression
 9-4: progression
 9-5: progression
 9-6: unknown

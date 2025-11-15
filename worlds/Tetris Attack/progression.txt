@@ -10,7 +10,7 @@
 1500 Points: filler
 170 Points: filler
 1800 Points: filler
-20 Points: unknown
+20 Points: filler
 210 Points: filler
 250 Points: filler
 290 Points: filler
@@ -20,7 +20,7 @@
 390 Points: filler
 400 Points: filler
 440 Points: filler
-490 Points: unknown
+490 Points: filler
 50 Points: filler
 500 Points: filler
 550 Points: unknown
@@ -31,7 +31,7 @@
 700 Points: filler
 750 Points: filler
 80 Points: filler
-820 Points: unknown
+820 Points: filler
 900 Points: filler
 980 Points: filler
 Bumpty: filler
@@ -55,6 +55,7 @@ Puzzle Progressive Level 4 Unlock: progression
 Puzzle Progressive Level 5 Unlock: progression
 Puzzle Progressive Level 6 Unlock: progression
 Raphael the Raven: filler
+Stage Clear ! Panels: progression
 Stage Clear Progressive Round 1 Unlock: progression
 Stage Clear Progressive Round 2 Unlock: progression
 Stage Clear Progressive Round 3 Unlock: progression

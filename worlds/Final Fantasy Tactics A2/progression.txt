@@ -63,7 +63,7 @@ Buster Sword: unknown
 Cachusha: unknown
 Carabineer Mail: useful
 Cat Claws: unknown
-Chainmail: unknown
+Chainmail: useful
 Chameleon Robe: unknown
 Cheer Staff: useful
 Chirijiraden: unknown
@@ -134,7 +134,7 @@ Fine Wool: progression
 Firebird Crystal: unknown
 Firewheel Rod: unknown
 Flamberge: useful
-Flame Rod: unknown
+Flame Rod: useful
 Flame Shield: unknown
 Fleuret: useful
 Flurry Robe: unknown
@@ -144,6 +144,7 @@ Four of Spades: useful
 Francisca: unknown
 Fresh Water: unknown
 Frigid Viol: unknown
+Gae Bolg: useful
 Gaia Gear: unknown
 Gaius Caligae: useful
 Gale Sword: unknown
@@ -161,7 +162,7 @@ Giant's Helmet: useful
 Giant's Tanned Hide: unknown
 Gigas Pendant: unknown
 Giot Gun: useful
-Glass Bell: unknown
+Glass Bell: useful
 Gleisburst: unknown
 Gokuu Pole: unknown
 Gold Hairpin: useful
@@ -253,7 +254,7 @@ Lightwing Crystal: unknown
 Lilith Rod: unknown
 Linen Cuirass: unknown
 Lionheart: useful
-Lohengrin: unknown
+Lohengrin: useful
 Longbarrel: unknown
 Longbow: unknown
 Longsword: unknown
@@ -311,6 +312,7 @@ Ogrenix: unknown
 Ogun Blade: unknown
 Omnis Cannon: unknown
 Onion Sword: unknown
+Orb of Minwu: useful
 Orichalcum Dirk: unknown
 Orichalcum: unknown
 Osafune: useful
@@ -373,7 +375,7 @@ Sequencer: useful
 Serpent Staff: unknown
 Seventh Heaven: unknown
 Shadow Blade: unknown
-Shamshir: unknown
+Shamshir: useful
 Shield of the Four: unknown
 Shining Lute: unknown
 Short Spear: unknown

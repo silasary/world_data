@@ -119,7 +119,7 @@ Claymore: unknown
 Cleric Armor: unknown
 Cleric Gauntlets: useful
 Cleric Helm: filler
-Cloranthy Ring: unknown
+Cloranthy Ring: filler
 Club: useful
 Composite Bow: unknown
 Copper Coin: filler
@@ -260,7 +260,7 @@ Gough's Helm: filler
 Gough's Leggings: unknown
 Grass Crest Shield: useful
 Gravelord Sword: useful
-Great Club: unknown
+Great Club: filler
 Great Lord Greatsword: filler
 Great Scythe: filler
 Greataxe: unknown
@@ -396,7 +396,7 @@ Miracle: Seek Guidance: unknown
 Miracle: Soothing Sunlight: filler
 Miracle: Sunlight Blade: useful
 Miracle: Sunlight Spear: unknown
-Miracle: Tranquil Walk of Peace: unknown
+Miracle: Tranquil Walk of Peace: filler
 Miracle: Vow of Silence: useful
 Miracle: Wrath of the Gods: useful
 Moonlight Arrow: useful
@@ -417,6 +417,7 @@ Orange Charred Ring: progression
 Orange Guidance Soapstone: filler
 Ornstein's Armor: filler
 Ornstein's Gauntlets: useful
+Ornstein's Helm: filler
 Ornstein's Leggings: unknown
 Painting Guardian Gloves: unknown
 Painting Guardian Hood: filler
@@ -583,7 +584,7 @@ Spiked Shield: filler
 Standard Arrow: unknown
 Standard Bolt: useful
 Steel Armor: filler
-Steel Gauntlets: unknown
+Steel Gauntlets: filler
 Steel Helm: unknown
 Steel Leggings: useful
 Stone Armor: filler

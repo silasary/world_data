@@ -1,7 +1,7 @@
 Aghast Warp: unknown
 Attic Key Ring: unknown
 Attic Key: progression
-Attic Warp: unknown
+Attic Warp: progression
 Boots Powerup: progression
 Bubble Gum Power: progression
 Cave-in Key Ring: unknown
@@ -10,7 +10,7 @@ Cellar 2 Key Ring: unknown
 Cellar 2 Key: progression
 Cellar 3 Key Ring: unknown
 Cellar 3 Key: progression
-Cellar Warp: unknown
+Cellar Warp: progression
 Clamor 1 Key Ring: unknown
 Clamor 1 Key: progression
 Clamor 4 Key Ring: unknown
@@ -26,7 +26,7 @@ Creepy 2 Key: progression
 Creepy 3 Key Ring: unknown
 Creepy 3 Key: progression
 Creepy Warp: unknown
-Crypt Warp: unknown
+Crypt Warp: progression
 Dock Warp: unknown
 Don't Look Down Key Ring: unknown
 Don't Look Down Key: progression
@@ -39,26 +39,26 @@ Graveplot Key Ring: unknown
 Graveplot Key: progression
 Graveplot Warp: unknown
 Greenhouse Warp: unknown
-Ground Pound Power: unknown
+Ground Pound Power: progression
 Gusts 1 Key Ring: unknown
 Gusts 1 Key: progression
-Gusts 2 Key Ring: unknown
+Gusts 2 Key Ring: progression
 Gusts 2 Key: progression
 Gusts Warp: unknown
 Hedge Maze Key Ring: unknown
-Hedge Maze Key: unknown
+Hedge Maze Key: progression
 Hedge Warp: progression
 Helmet Power: progression
 Hill Warp: progression
 Knight Key Ring: unknown
 Knight Key: progression
 Knight Warp: unknown
-Lab Warp: unknown
+Lab Warp: progression
 Lighthouse Warp: unknown
 MYM Warp: unknown
 Max Gum Ammo: useful
 Max Soap Ammo: useful
-Mind Your Manors Key Ring: unknown
+Mind Your Manors Key Ring: progression
 Mind Your Manors Key: progression
 Monster Gallery Warp: unknown
 Plungers Power: progression
@@ -71,7 +71,7 @@ Shiver Key: progression
 Shockwave Power: progression
 Shovel Power: progression
 Soap Bubble Power: progression
-Spare Snack: unknown
+Spare Snack: filler
 Tomb 1 Key Ring: progression
 Tomb 1 Key: progression
 Tomb 3 Key Ring: unknown

@@ -283,6 +283,7 @@ wh2_main_brt_resource_pastures_3: progression
 wh2_main_brt_resource_pottery_3: useful
 wh2_main_brt_resource_salt_2: progression
 wh2_main_brt_resource_salt_3: progression
+wh2_main_brt_resource_spices_2: progression
 wh2_main_brt_resource_spices_3: progression
 wh2_main_brt_resource_timber_3: progression
 wh2_main_brt_resource_wine_2: progression

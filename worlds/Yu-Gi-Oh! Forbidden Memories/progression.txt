@@ -14,7 +14,7 @@ Amphibious Bugroth: filler
 Ancient Brain: filler
 Ancient Elf: unknown
 Ancient Jar: filler
-Ancient Lizard Warrior: unknown
+Ancient Lizard Warrior: filler
 Ancient One of the Deep Forest: filler
 Ancient Sorcerer: filler
 Ancient Tool: filler
@@ -23,7 +23,7 @@ Angelwitch: unknown
 Ansatsu: unknown
 Anthrosaurus: filler
 Aqua Dragon: filler
-Aqua Madoor: unknown
+Aqua Madoor: filler
 Aqua Snake: filler
 Arlownay: filler
 Arma Knight: filler
@@ -47,7 +47,7 @@ Bat: filler
 Battle Ox: filler
 Battle Steer: filler
 Battle Warrior: filler
-Beaked Snake: unknown
+Beaked Snake: filler
 Bean Soldier: filler
 Bear Trap: filler
 Beast Fangs: filler
@@ -59,7 +59,7 @@ Beaver Warrior: filler
 Behegon: filler
 Bickuribox: filler
 Big Eye: filler
-Big Insect: unknown
+Big Insect: filler
 Binding Chain: filler
 Bio Plant: filler
 Black Luster Ritual: filler
@@ -94,11 +94,11 @@ Chakra: filler
 Change Slime: filler
 Charubin the Fire Knight: filler
 Claw Reacher: filler
-Clown Zombie: unknown
+Clown Zombie: filler
 Cockroach Knight: filler
 Cocoon of Evolution: filler
 Commencement Dance: unknown
-Contruct of Mask: unknown
+Contruct of Mask: filler
 Corroding Shark: filler
 Cosmo Queen's Prayer: filler
 Cosmo Queen: useful
@@ -129,7 +129,7 @@ Dark Chimera: filler
 Dark Elf: filler
 Dark Energy: unknown
 Dark Gray: filler
-Dark Hole: unknown
+Dark Hole: filler
 Dark King of the Abyss: filler
 Dark Magic Ritual: filler
 Dark Magician: useful
@@ -137,7 +137,7 @@ Dark Plant: filler
 Dark Prisoner: filler
 Dark Rabbit: filler
 Dark Shade: filler
-Dark Titan of Terror: unknown
+Dark Titan of Terror: filler
 Dark Witch: filler
 Dark-piercing Light: filler
 Darkfire Dragon: filler
@@ -173,7 +173,7 @@ Eatgaboon: unknown
 Egypt saved: mcguffin
 Eldeen: filler
 Electric Lizard: filler
-Electric Snake: unknown
+Electric Snake: filler
 Electro-whip: filler
 Elegant Egotist: filler
 Elf's Light: filler
@@ -200,11 +200,11 @@ Fiend's Hand: filler
 Fiend's Mirror: filler
 Final Flame: filler
 Fire Eye: filler
-Fire Kraken: unknown
+Fire Kraken: filler
 Fire Reaper: filler
 Firegrass: filler
 Firewing Pegasus: unknown
-Fireyarou: unknown
+Fireyarou: filler
 Flame Cerebrus: filler
 Flame Ghost: filler
 Flame Manipulator: unknown
@@ -231,7 +231,7 @@ Garvas: filler
 Gate Deeg: filler
 Gate Guardian Ritual: filler
 Gate Guardian: useful
-Gatekeeper: unknown
+Gatekeeper: filler
 Gemini Elf: filler
 Genin: filler
 Ghoul with an Appetite: filler
@@ -250,10 +250,10 @@ Goddess of Whim: filler
 Goddess with the Third Eye: filler
 Gokibore: unknown
 Golgoil: filler
-Gorgon Egg: unknown
-Grappler: unknown
+Gorgon Egg: filler
+Grappler: filler
 Graveyard and the Hand of Invitation: filler
-Great Bill: unknown
+Great Bill: filler
 Great Mammoth of Goldfine: filler
 Great Moth: useful
 Great White: filler
@@ -288,18 +288,18 @@ Hitotsu-me Giant: filler
 Holograh: filler
 Horn Imp: filler
 Horn of Light: unknown
-Horn of the Unicorn: unknown
-Hoshiningen: unknown
+Horn of the Unicorn: filler
+Hoshiningen: filler
 Hourglass of Courage: filler
 Hourglass of Life: filler
 House of Adhesive Tape: filler
 Hungry Burger: filler
 Hunter Spider: filler
 Hurricail: filler
-Hyo: unknown
+Hyo: filler
 Hyosube: filler
 Ice Water: filler
-Ill Witch: unknown
+Ill Witch: filler
 Illusionist Faceless Mage: filler
 Insect Armor with Laser Cannon: filler
 Insect Soldiers of the Sky: unknown
@@ -339,7 +339,7 @@ Koumori Dragon: filler
 Krokodilus: filler
 Kumootoko: filler
 Kunai with Chain: useful
-Kurama: unknown
+Kurama: filler
 Kuriboh: filler
 Kuwagata a: filler
 Kwagar Hercules: filler
@@ -353,7 +353,7 @@ Larvae Moth: filler
 Larvas: filler
 Laser Cannon Armor: filler
 Laughing Flower: filler
-Launcher Spider: unknown
+Launcher Spider: filler
 Lava Battleguard: filler
 Left Arm of the Forbidden One: filler
 Left Leg of the Forbidden One: filler
@@ -380,14 +380,14 @@ Machine King: filler
 Madjinn Gunn: unknown
 Magical Ghost: filler
 Magical Labyrinth: filler
-Magician of Black Chaos: unknown
+Magician of Black Chaos: filler
 Magician of Faith: filler
-Maha Vailo: unknown
+Maha Vailo: filler
 Maiden of the Moonlight: filler
 Malevolent Nuzzler: filler
 Mammoth Graveyard: filler
 Man Eater: filler
-Man-eater Bug: unknown
+Man-eater Bug: filler
 Man-eating Black Shark: filler
 Man-eating Plant: filler
 Marine Beast: filler
@@ -398,7 +398,7 @@ Masked Clown: unknown
 Masked Sorcerer: filler
 Master & Expert: filler
 Mavelus: filler
-Mech Bass: unknown
+Mech Bass: filler
 Mech Mole Zombie: filler
 Mechaleon: filler
 Mechanical Snail: filler
@@ -433,7 +433,7 @@ Monster Tamer: filler
 Monstrous Bird: filler
 Monsturtle: filler
 Moon Envoy: filler
-Mooyan Curry: unknown
+Mooyan Curry: filler
 Morinphen: filler
 Morphing Jar: filler
 Mountain Warrior: filler
@@ -474,7 +474,7 @@ One-eyed Shield Dragon: filler
 Ooguchi: filler
 Ookazi: filler
 Orion the Battle King: filler
-Oscillo Hero #2: unknown
+Oscillo Hero #2: filler
 Oscillo Hero: useful
 Pale Beast: filler
 Parrot Dragon: filler
@@ -492,7 +492,7 @@ Phantom Dewan: filler
 Phantom Ghost: filler
 Pot the Trick: filler
 Power of Kaishin: filler
-Pragtical: unknown
+Pragtical: filler
 Prevent Rat: filler
 Princess of Tsurugi: filler
 Prisman: filler
@@ -526,22 +526,22 @@ Right Arm of the Forbidden One: filler
 Right Leg of the Forbidden One: filler
 Roaring Ocean Snake: filler
 Rock Ogre Grotto #1: filler
-Rock Ogre Grotto #2: unknown
+Rock Ogre Grotto #2: filler
 Rock Spirit: filler
 Rogue Doll: filler
 Root Water: filler
 Rose Spectre of Dunn: filler
 Royal Guard: filler
 Rude Kaiser: filler
-Ryu-kishin Powered: unknown
+Ryu-kishin Powered: filler
 Ryu-kishin: filler
 Saber Slasher: unknown
 Saggi the Dark Clown: filler
 Salamandra: filler
-Sand Stone: unknown
+Sand Stone: filler
 Sanga of the Thunder: useful
 Sangan: filler
-Sea Kamen: unknown
+Sea Kamen: filler
 Sea King Dragon: filler
 Sectarian of Secrets: filler
 Seiyaryu: useful
@@ -551,11 +551,11 @@ Serpent Night Dragon: useful
 Shadow Ghoul: filler
 Shadow Specter: filler
 Shadow Spell: filler
-Shining Friendship: unknown
+Shining Friendship: filler
 Shovel Crusher: filler
 Silver Bow and Arrow: filler
 Silver Fang: filler
-Sinister Serpent: unknown
+Sinister Serpent: filler
 Skelengel: filler
 Skelgon: filler
 Skull Guardian: filler
@@ -588,10 +588,10 @@ Starchips x5: filler
 Steel Ogre Grotto #1: filler
 Steel Scorpion: filler
 Steel Shell: filler
-Stone Armadiller: unknown
+Stone Armadiller: filler
 Stone D.: filler
 Stone Ghost: filler
-Stone Ogre Grotto: unknown
+Stone Ogre Grotto: filler
 Stop Defense: filler
 Stuffed Animal: filler
 Succubus Knight: filler
@@ -617,8 +617,8 @@ Tentacle Plant: filler
 Terra the Terrible: filler
 That Which Feeds on Life: filler
 The 13th Grave: filler
-The Bewitching Phantom Thief: unknown
-The Bistro Butcher: unknown
+The Bewitching Phantom Thief: filler
+The Bistro Butcher: filler
 The Drdek: filler
 The Furious Sea King: filler
 The Immortal of Thunder: filler
@@ -626,9 +626,9 @@ The Judgement Hand: filler
 The Little Swordsman of Aile: filler
 The Melting Red Shadow: filler
 The Shadow Who Controls the Dark: filler
-The Snake Hair: unknown
+The Snake Hair: filler
 The Statue of Easter Island: filler
-The Thing That Hides in the Mud: unknown
+The Thing That Hides in the Mud: filler
 The Wandering Doomed: filler
 The Wicked Worm Beast: filler
 Thousand Dragon: filler
@@ -663,12 +663,12 @@ Tyhone #2: filler
 Tyhone: filler
 Ultimate Dragon: filler
 Umi: filler
-Unknown Warrior of Fiend: unknown
+Unknown Warrior of Fiend: filler
 Uraby: filler
 Ushi Oni: filler
 Vermillion Sparrow: filler
 Versago the Destroyer: filler
-Vile Germs: unknown
+Vile Germs: filler
 Violent Rain: filler
 Violet Crystal: filler
 Vishwar Randi: filler
@@ -685,7 +685,7 @@ Waterdragon Fairy: filler
 Weather Control: filler
 Weather Report: filler
 Wetha: filler
-Whiptail Crow: unknown
+Whiptail Crow: filler
 White Dolphin: filler
 White Magical Hat: filler
 Wicked Dragon with the Ersatz Head: filler
@@ -700,7 +700,7 @@ Winged Dragon #2: unknown
 Winged Egg of New Life: filler
 Winged Trumpeter: filler
 Wings of Wicked Flame: filler
-Witch of the Black Forest: unknown
+Witch of the Black Forest: filler
 Witch's Apprentice: filler
 Witty Phantom: filler
 Wodan the Resident of the Forest: filler
@@ -716,7 +716,7 @@ Yamadron: filler
 Yamatano Dragon Scroll: filler
 Yami: filler
 Yaranzo: filler
-Yashinoki: unknown
+Yashinoki: filler
 Yormungarde: filler
 Zanki: filler
 Zarigun: filler

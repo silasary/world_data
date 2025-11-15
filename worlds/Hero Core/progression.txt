@@ -1,7 +1,9 @@
 Barrier Removal - (B,9): progression
 Barrier Removal - (C,6): progression
+Barrier Removal - (E,3): progression
 Barrier Removal - (K,4): progression
 Battle Door Key (H,2): progression
+Blade Upgrade: progression
 Computer: progression
 Door Key (A,7): progression
 Door Key (B,8): progression
@@ -10,10 +12,12 @@ Door Key (E,13): progression
 Door Key (E,15): progression
 Door Key (E,4): progression
 Door Key (E,8): progression
+Door Key (F,14): filler
 Door Key (G,10): filler
 Door Key (H,3): progression
 Door Key (I,13): progression
 Door Key (I,15): progression
+Door Key (I,5): progression
 Door Key (J,10): filler
 Door Key (J,13): progression
 Door Key (J,7): filler

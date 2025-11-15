@@ -1,10 +1,10 @@
 1-1 A+ Rank: progression
 1-10 A+ Rank: progression
-1-11 A+ Rank: unknown
+1-11 A+ Rank: progression
 1-12 A+ Rank: unknown
 1-13 A+ Rank: progression
 1-14 A+ Rank: unknown
-1-15 A+ Rank: unknown
+1-15 A+ Rank: progression
 1-16 A+ Rank: progression
 1-17 A+ Rank: progression
 1-18 A+ Rank: unknown
@@ -44,7 +44,7 @@
 3-12 A+ Rank: progression
 3-13 A+ Rank: unknown
 3-14 A+ Rank: progression
-3-15 A+ Rank: unknown
+3-15 A+ Rank: progression
 3-16 A+ Rank: unknown
 3-17 A+ Rank: progression
 3-18 A+ Rank: unknown
@@ -55,7 +55,7 @@
 3-4 A+ Rank: unknown
 3-5 A+ Rank: unknown
 3-6 A+ Rank: unknown
-3-7 A+ Rank: unknown
+3-7 A+ Rank: progression
 3-8 A+ Rank: unknown
 3-9 A+ Rank: unknown
 4-1 A+ Rank: unknown
@@ -93,7 +93,7 @@
 5-2 A+ Rank: unknown
 5-20 A+ Rank: unknown
 5-3 A+ Rank: progression
-5-4 A+ Rank: unknown
+5-4 A+ Rank: progression
 5-5 A+ Rank: unknown
 5-6 A+ Rank: unknown
 5-8 A+ Rank: unknown
@@ -128,13 +128,19 @@ Bandage: mcguffin
 Brownie: unknown
 Captain Viridian: filler
 Chapter 1 LW Level Completion: mcguffin
+Chapter 1 LW Level Key: progression
 Chapter 2 LW Level Completion: mcguffin
 Chapter 3 LW Level Completion: mcguffin
 Chapter 4 LW Level Completion: mcguffin
+Chapter 4 LW Level Key: progression
 Chapter 5 LW Level Completion: mcguffin
+Chapter 5 LW Level Key: progression
 Chapter 6 LW Level Completion: progression
+Chapter 6 LW Level Key: progression
 Chapter 7 LW Level Completion: mcguffin
+Chapter 7 LW Level Key: filler
 Commander Video: progression
+DW Dr. Fetus Key: progression
 DW Level Completion: mcguffin
 Degraded Bandage: filler
 Flywrench: unknown

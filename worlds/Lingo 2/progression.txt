@@ -176,6 +176,7 @@ G: progression
 Gender Symbol: progression
 H: progression
 I: progression
+Icarus Quick Travel: progression
 J: progression
 Job Symbol: progression
 K: progression
@@ -233,6 +234,7 @@ The Darkroom - Congruent Entrance: progression
 The Darkroom - Double Sided Entrance: progression
 The Darkroom - Second Room Entrance: progression
 The Darkroom - Third Room Entrance: progression
+The Digital - Control Center Blue Door: progression
 The Digital - Gallery Entrance: progression
 The Digital - Tree Entrance: progression
 The Entry - Blue Alcove Entrance: progression
@@ -342,6 +344,7 @@ The Partial - P Door: progression
 The Plaza - Bottom Right Door: unknown
 The Plaza - Northeast Door: progression
 The Plaza - Northwest Door: progression
+The Plaza - Repetitive Entrance: progression
 The Plaza - Sirenic Entrance: progression
 The Plaza - Southeast Door: progression
 The Plaza - Southwest Door: progression

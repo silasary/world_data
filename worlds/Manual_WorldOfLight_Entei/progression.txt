@@ -1,5 +1,7 @@
 Additional Midair Jump: useful
 Air Attack ^: useful
+Airborne Endurance: useful
+Attack ^ When Healthy: useful
 Banjo and Kazooie: useful
 Base Entrance: progression
 Base Key: progression
@@ -33,6 +35,7 @@ Dracula's Castle Key: progression
 Driver: progression
 Duck Hunt: useful
 Easier Dodging: useful
+Edge Grab ^: useful
 Endless Smash Holding: useful
 Falco: useful
 Filler: unknown
@@ -48,8 +51,10 @@ Ganondorf: useful
 Giga Bowser Defeated: progression
 Gourmet Race Key: progression
 Greninja: useful
+Heal with Smash Attacks: useful
 Healing-Item Attraction: useful
 Hero: useful
+Hyper Smash Attacks: useful
 Ice Climbers: useful
 Ike: useful
 Improved Escape: useful
@@ -92,6 +97,7 @@ Mr. Game and Watch: useful
 Mysterious Dimension Key: progression
 Ness: useful
 Neutral Attack ^: useful
+Neutral Attack ^^: useful
 No Penalty for Continuous Dodging: useful
 Olimar: useful
 PAC-MAN: useful
@@ -113,6 +119,7 @@ R.O.B.: useful
 Rain Conjuring: progression
 Rainbow Creation: progression
 Rathalos Defeated: progression
+Recovery Items ^: useful
 Richter: useful
 Ridley: useful
 Robin: useful
@@ -124,6 +131,8 @@ Sacred Land Key: progression
 Samus: useful
 Sephiroth: useful
 Sheik: useful
+Shield Damage ^: useful
+Shield Durability ^: useful
 Shooting Items ^: useful
 Shulk: useful
 Simon: useful
@@ -132,16 +141,21 @@ Sonic: useful
 Sora: useful
 Spaceship: progression
 Special-Move Power ^: useful
+Special-Move Power ^^: useful
 Sprinting Endurance: useful
 Stats ^ after Eating: useful
 Steve: useful
+Strong Throw: useful
+Super Easy Dodging: useful
 Temple Cleared: progression
 Temple of Light Key: progression
 Terry: useful
+Thrown Items ^: useful
 Tilt Attack ^^: useful
 Toon Link: useful
 Train: progression
 Transformation Duration ^: useful
+Undamaged Attack & Speed ^: useful
 Unflinching Charged Smashes: useful
 Victory Full: progression
 Victory Light: progression

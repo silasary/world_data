@@ -1,6 +1,6 @@
 Building: AWESOME Shop: progression
 Building: AWESOME Sink: progression
-Building: Alien Power Augmenter: unknown
+Building: Alien Power Augmenter: useful
 Building: Assembler: progression
 Building: Basic Shelf Unit: unknown
 Building: Billboard Set: unknown
@@ -150,7 +150,7 @@ Bundle: Beacon: filler
 Bundle: Beryl Nut: filler
 Bundle: Biochemical Sculptor: unknown
 Bundle: Biomass: filler
-Bundle: Black Powder: unknown
+Bundle: Black Powder: filler
 Bundle: Blade Runners: useful
 Bundle: Blue Power Slug: filler
 Bundle: Boom Box: filler
@@ -161,7 +161,7 @@ Bundle: Chainsaw: filler
 Bundle: Circuit Board: filler
 Bundle: Cluster Nobelisk: filler
 Bundle: Coal: filler
-Bundle: Color Cartridge: unknown
+Bundle: Color Cartridge: filler
 Bundle: Compacted Coal: filler
 Bundle: Computer: useful
 Bundle: Concrete: filler

@@ -291,10 +291,11 @@ EMP Rounds (Ghost): useful
 EMP Shockwave (Science Vessel): useful
 Echidna Worm (Nydus Network): unknown
 Echidna Worm: progression
+Echoes of the Future (Protoss) Mission Key: progression
 Echoes of the Future (Terran) Mission Key: progression
 Echoes of the Future (Zerg) Mission Key: progression
 Elder Probes (Protoss): progression
-Endless Servitude (Supplicant): unknown
+Endless Servitude (Supplicant): useful
 Enduring Locusts (Swarm Host): useful
 Enduring Sight (Havoc): unknown
 Energizer: progression
@@ -330,7 +331,7 @@ Feedback (Signifier War Council): progression
 Feedback (Signifier): unknown
 Field-Assist Target System (Battlecruiser): unknown
 Fire Lance (Colossus War Council): progression
-Fire Lance (Colossus): unknown
+Fire Lance (Colossus): progression
 Fire in the Sky (Protoss) Mission Key: progression
 Fire in the Sky (Terran) Mission Key: progression
 Fire in the Sky (Zerg) Mission Key: progression
@@ -622,7 +623,7 @@ Nothing: trap
 Noxious Strain (Ultralisk): filler
 Null Shroud (Mist Wing): unknown
 Nydus Worm (Nydus Network): unknown
-Nydus Worm: unknown
+Nydus Worm: progression
 Nyx-Class Cloaking Module (Spectre): useful
 Obliterate (Archon): useful
 Observer: filler
@@ -705,7 +706,7 @@ Primal Form (Kerrigan): useful
 Primal Igniter (Roach Morph): unknown
 Primal Igniter Aspect (Roach): unknown
 Primal Tenacity (Primal Igniter): progression
-Primordial Fury (Guardian): unknown
+Primordial Fury (Guardian): progression
 Prismatic Range (Void Ray): unknown
 Probe Warp-In (Protoss): progression
 Probe Warpin (Protoss): unknown
@@ -894,6 +895,7 @@ Rupture (Baneling): filler
 Sacrifice (Supplicant): unknown
 Safe Haven (Protoss) Mission Key: progression
 Safe Haven (Terran) Mission Key: progression
+Salvation (Protoss) Mission Key: progression
 Salvation (Zerg) Mission Key: progression
 Scanner Sweep (Command Center): progression
 Scarab Damage (Reaver): useful
@@ -906,7 +908,7 @@ Scout: progression
 Secretion Glands (Impaler): useful
 Seismic Sonar (Infested Siege Tank): unknown
 Seismic Spines (Lurker): useful
-Self-Sufficient (Zerg): unknown
+Self-Sufficient (Zerg): progression
 Sensor Array (Observer): filler
 Sensor Tower: useful
 Sentinel: progression
@@ -983,7 +985,7 @@ Spore Crawler: progression
 Stabilized Electrodes (Stalwart): useful
 Stabilizer Medpacks (Medic): progression
 Stalker: progression
-Stalwart: unknown
+Stalwart: progression
 Stasis Calibration (Oracle): useful
 Stasis Expansion (Oracle): useful
 Stealth Drive (Corsair): useful
@@ -1029,6 +1031,7 @@ Templar's Charge (Protoss) Mission Key: progression
 Templar's Charge (Zerg) Mission Key: progression
 Templar's Return Mission Key: progression
 Temple of Unification (Protoss) Mission Key: progression
+Temple of Unification (Terran) Mission Key: progression
 Temple of Unification (Zerg) Mission Key: progression
 Temporal Acceleration Beam (Oracle): useful
 Temporal Field (Spear of Adun Calldown): useful
@@ -1122,6 +1125,7 @@ Welcome to the Jungle (Terran) Mission Key: progression
 Welcome to the Jungle (Zerg) Mission Key: progression
 Whirlwind (Zealot War Council): progression
 Whirlwind (Zealot): unknown
+Whispers of Doom Mission Key: progression
 Widow Mine: progression
 Wild Mutation (Kerrigan Ability): progression
 Wild Mutation (Kerrigan Tier 4): progression
@@ -1140,4 +1144,5 @@ Zergling Reconstitution (Kerrigan Tier 3): filler
 Zergling Reconstitution (Zerg): useful
 Zergling: progression
 Zero Hour (Protoss) Mission Key: progression
+Zero Hour (Terran) Mission Key: progression
 Zero Hour (Zerg) Mission Key: progression

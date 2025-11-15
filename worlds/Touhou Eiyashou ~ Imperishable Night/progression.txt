@@ -8,8 +8,11 @@
 001 - Firefly Sign "Earthly Meteor": filler
 002 - Firefly Sign "Earthly Comet": progression
 003 - Lamp Sign "Firefly Phenomenon": progression
+004 - Lamp Sign "Firefly Phenomenon": progression
 005 - Lamp Sign "Firefly Phenomenon": progression
 006 - Lamp Sign "Firefly Phenomenon": filler
+007 - Wriggle Sign "Little Bug": progression
+008 - Wriggle Sign "Little Bug Storm": progression
 009 - Wriggle Sign "Nightbug Storm": filler
 012 - Hidden Bug "Endless Night Seclusion": progression
 013 - Hidden Bug "Endless Night Seclusion": filler
@@ -18,7 +21,9 @@
 017 - Vocal Sign "Howl of the Horned Owl": progression
 018 - Moth Sign "Hawk Moth's Insect Curse": progression
 019 - Moth Sign "Hawk Moth's Insect Curse": progression
+020 - Toxin Sign "Poisonous Moth's Scales": filler
 021 - Deadly Toxin Sign "Poisonous Moth's Dance in the Dark": progression
+022 - Hawk Sign "Ill Starred Dive": progression
 023 - Hawk Sign "Ill Starred Dive": progression
 024 - Hawk Sign "Ill Starred Dive": progression
 025 - Hawk Sign "Ill Starred Dive": progression
@@ -88,6 +93,7 @@
 092 - Loving Heart "Double Spark": filler
 093 - Loving Heart "Double Spark": progression
 094 - Light Sign "Earthlight Ray": progression
+095 - Light Sign "Earthlight Ray": progression
 097 - Light Blast "Shoot the Moon": filler
 098 - Magicannon "Final Spark": progression
 099 - Magicannon "Final Spark": filler
@@ -142,6 +148,7 @@
 151 - Medicine Sign "Galaxy in a Pot": progression
 152 - Impossible Request "Dragon's Neck's Jewel -Five-Colored Shots-": filler
 153 - Impossible Request "Dragon's Neck's Jewel -Five-Colored Shots-": progression
+154 - Divine Treasure "Brilliant Dragon Bullet": progression
 155 - Divine Treasure "Brilliant Dragon Bullet": progression
 156 - Impossible Request "Buddha's Stone Bowl -Indomitable Will-": progression
 157 - Impossible Request "Buddha's Stone Bowl -Indomitable Will-": progression
@@ -150,6 +157,7 @@
 160 - Impossible Request "Robe of Fire Rat -Patient Mind-": progression
 161 - Impossible Request "Robe of Fire Rat -Patient Mind-": filler
 162 - Divine Treasure "Salamander Shield": progression
+163 - Divine Treasure "Salamander Shield": filler
 165 - Impossible Request "Swallow's Cowrie Shell -Everlasting Life-": filler
 166 - Divine Treasure "Life Spring Infinity": progression
 167 - Divine Treasure "Life Spring Infinity": progression
@@ -159,6 +167,7 @@
 171 - Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-": progression
 173 - End of Imperishable Night -Crescent Moon-: filler
 174 - End of Imperishable Night -1st Quarter's Moon-: filler
+175 - End of Imperishable Night -Matsuyoi-: progression
 176 - End of Imperishable Night -11 o'Clock-: progression
 177 - End of Imperishable Night -Half of Midnight-: progression
 178 - End of Imperishable Night -Midnight-: progression
@@ -168,7 +177,9 @@
 182 - End of Imperishable Night -Dead of Night-: filler
 183 - End of Imperishable Night -Half Past 2-: progression
 184 - End of Imperishable Night -3 o'Clock-: progression
+185 - End of Imperishable Night -Half Past 3-: progression
 186 - End of Imperishable Night -4 o'Clock-: filler
+187 - End of Imperishable Night -Half Past 4-: progression
 188 - End of Imperishable Night -Morning Mist-: progression
 189 - End of Imperishable Night -Dawn-: progression
 190 - End of Imperishable Night -Morning Star-: progression
@@ -180,6 +191,7 @@ Life Spring Shield: progression
 Lower Difficulty: progression
 Netherworld Dwellers Team: progression
 Next Stage: unknown
+Salamander Shield: progression
 Time Gain: progression
 Visionary Scarlet Devil Team: progression
 [Devil Team] Extra Stage: progression
@@ -193,6 +205,7 @@ Visionary Scarlet Devil Team: progression
 [Illusion Team] Stage 2: progression
 [Illusion Team] Stage 3: progression
 [Illusion Team] Stage 4A: progression
+[Illusion Team] Stage 4B: progression
 [Illusion Team] Stage 5: progression
 [Illusion Team] Stage 6A: progression
 [Illusion Team] Stage 6B: progression

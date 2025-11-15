@@ -1,3 +1,4 @@
+Alley House Key: progression
 Arrows (10): filler
 Arrows (5): filler
 Back Tower Key: progression
@@ -20,9 +21,12 @@ Bottle with Blue Fire: progression
 Bottle with Blue Potion: progression
 Bottle with Bugs: progression
 Bottle with Fairy: progression
+Bottle with Fish: progression
 Bottle with Green Potion: progression
+Bottle with Poe: progression
 Bottle with Red Potion: progression
 Bottle with Ruto's Letter: progression
+Bottom of the Well Compass: useful
 Bottom of the Well Key Ring: progression
 Bottom of the Well Small Key: progression
 Broken Goron's Sword: progression
@@ -44,14 +48,18 @@ Fire Arrow: progression
 Fire Medallion: progression
 Fire Temple Boss Key: progression
 Fire Temple Key Ring: progression
+Fire Temple Map: useful
 Fire Temple Small Key: progression
 Fishing Hole Key: progression
 Fishing Pole: progression
 Forest Medallion: progression
 Forest Temple Boss Key: progression
 Forest Temple Key Ring: progression
+Forest Temple Map: useful
 Forest Temple Small Key: progression
+Ganon's Castle Boss Key: progression
 Ganon's Castle Key Ring: progression
+Ganon's Castle Small Key: progression
 Ganon's Soul: progression
 Gerudo Fortress Small Key: progression
 Gerudo Membership Card: progression
@@ -61,6 +69,8 @@ Gold Skulltula Token: progression
 Goron Tunic: progression
 Goron's Ruby: progression
 Granny's Potion Shop Key: progression
+Great Deku Tree Compass: useful
+Great Deku Tree Map: useful
 Greg the Green Rupee: progression
 Guard House Key: progression
 Heart Container: progression
@@ -69,9 +79,11 @@ Huge Rupee: filler
 Hylia Laboratory Key: progression
 Hylian Shield: useful
 Ice Arrow: progression
+Ice Cavern Compass: useful
 Ice Trap: trap
 Impa's House Key: progression
 Iron Boots: progression
+Jabu-Jabu's Belly Compass: useful
 Kakariko Bazaar Key: progression
 Kakariko Potion Shop Key: progression
 Kakariko Shooting Gallery Key: progression
@@ -93,13 +105,18 @@ Mirror Shield: progression
 Morpha's Soul: progression
 Nayru's Love: progression
 Nocturne of Shadow: progression
+Ocarina A Button: progression
+Ocarina C Down Button: progression
+Ocarina C Left Button: progression
 Ocarina C Right Button: progression
+Ocarina C Up Button: progression
 Odd Mushroom: progression
 Odd Potion: progression
 Phantom Ganon's Soul: progression
 Piece of Heart (WINNER): useful
 Piece of Heart: useful
 Poacher's Saw: progression
+Pocket Egg: progression
 Prelude of Light: progression
 Prescription: progression
 Progressive Bomb Bag: progression
@@ -130,7 +147,9 @@ Song of Storms: progression
 Song of Time: progression
 Spirit Medallion: progression
 Spirit Temple Boss Key: progression
+Spirit Temple Compass: useful
 Spirit Temple Key Ring: progression
+Spirit Temple Map: useful
 Spirit Temple Small Key: progression
 Stables Key: progression
 Stone of Agony: progression
@@ -143,8 +162,11 @@ Treasure Chest Game Building Key: progression
 Triforce Piece: progression
 Twinrova's Soul: progression
 Volvagia's Soul: progression
+Water Medallion: progression
 Water Temple Boss Key: progression
+Water Temple Compass: useful
 Water Temple Key Ring: progression
+Water Temple Map: useful
 Water Temple Small Key: progression
 Weird Egg: progression
 Windmill Key: progression

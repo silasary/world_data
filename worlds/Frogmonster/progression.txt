@@ -15,6 +15,7 @@ Dark Pebble: filler
 Dash: progression
 Dragonfly: mcguffin
 Eel Trophy: progression
+Eel: progression
 Finisher: unknown
 Fire Fruit Juicer Myzand Upgrade: progression
 Fire Fruit Juicer: progression
@@ -30,7 +31,7 @@ Mana Shard: progression
 Mantis: progression
 Metal Ore: progression
 Minnow: progression
-Mite: unknown
+Mite: progression
 Moth: unknown
 Munchinator Myzand Upgrade: progression
 Munchinator: progression
@@ -38,6 +39,7 @@ Mushbomb: unknown
 Mushroll: progression
 Mushroom: mcguffin
 Pecker: progression
+Puff: progression
 Purple Snack: mcguffin
 Reeder Myzand Upgrade: unknown
 Reeder: progression
@@ -59,7 +61,7 @@ Tang: mcguffin
 Tongue Swing: unknown
 Turtle: mcguffin
 Weepwood Bow: progression
-Wooden Cannon Myzand Upgrade: unknown
+Wooden Cannon Myzand Upgrade: progression
 Wooden Cannon: unknown
 Workshop Key: progression
 Zap: progression

@@ -39,5 +39,6 @@ beolamu.exe: filler
 bunemon.exe: unknown
 bunplus.com: filler
 lamulana.exe: useful
+miracle.exe: progression
 reader.exe: progression
 xmailer.exe: filler
