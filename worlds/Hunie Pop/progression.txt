@@ -17,10 +17,10 @@ Blotter Tabs: filler
 Blue Orchid: filler
 Board Game: progression
 Bonsai Tree: progression
-Boxing Gloves: unknown
+Boxing Gloves: progression
 Bubble Gum: filler
 Cabbage: filler
-Canvas & Easel: unknown
+Canvas & Easel: progression
 Cardio Weights: unknown
 Carrot: filler
 Champagne: filler
@@ -55,7 +55,7 @@ Endurance Ring: unknown
 Eyelash Curler: filler
 Fairy Wings: useful
 Fairy's Tail: progression
-Feather Pole: unknown
+Feather Pole: progression
 Fish Tank: progression
 Fishy Castle: unknown
 Flippers: progression
@@ -103,33 +103,33 @@ Leopard Print Pumps: filler
 Lifesaver: progression
 Lighter: unknown
 Lilac Perfume: filler
-Lime Margarita: unknown
+Lime Margarita: filler
 Lollipop: filler
 Lovely Ring: filler
 Luchador Mask: unknown
 Magic Wand: progression
-Makeup Kit: unknown
+Makeup Kit: filler
 Mango: filler
 Maple Leaf: progression
 Maracas: filler
 Martini: filler
 Measuring Cup: unknown
 Megaphone: progression
-Miniature UFO: unknown
+Miniature UFO: progression
 Mistletoe: progression
 Mixing Bowl: progression
 Model Rocket: progression
 Mojito: filler
-Moonrock: unknown
+Moonrock: progression
 Muffin: filler
-Mushrooms: unknown
+Mushrooms: progression
 Nail Polish: filler
 Old Fashioned Yoyo: progression
 Omelette: filler
 Orange Cosmos: filler
 Orange Juice: filler
 Orange: filler
-Oven Mitts: unknown
+Oven Mitts: progression
 Oven Timer: progression
 Paint Brushes: progression
 Paint Palette: progression
@@ -146,12 +146,12 @@ Pink Lily: filler
 Pink Mary Janes: filler
 Pink Tutu: progression
 Pizza: filler
-Pocket Vibe: unknown
+Pocket Vibe: progression
 Pom-poms: progression
 Poncho: unknown
 Popcorn: filler
 Pumpkin Pie: filler
-Punching Bag: unknown
+Punching Bag: progression
 Puzzle Cube: unknown
 Rainbow Wig: progression
 Red Tulip: filler
@@ -163,7 +163,7 @@ Rolling Pin: progression
 Rose Perfume: filler
 Round Ornament: unknown
 Royal Scepter: progression
-Ruby: unknown
+Ruby: progression
 Sake: filler
 Samurai Helmet: progression
 Sapphire: progression
@@ -178,7 +178,7 @@ Skipping Rope: progression
 Snorkel: progression
 Soccer Ball: progression
 Soda: filler
-Sombrero: unknown
+Sombrero: progression
 Space Helmet: progression
 Squeaky Mouse: progression
 Stripper Pole: progression
@@ -194,8 +194,8 @@ Sundae: filler
 Sunflower: filler
 Sweatbands: progression
 Swimmers Cap: progression
-Synthetic Coral: unknown
-Synthetic Seaweed: unknown
+Synthetic Coral: progression
+Synthetic Seaweed: progression
 Tango Rose: progression
 Tank Gravel: progression
 Telescope: progression
@@ -203,9 +203,9 @@ Tennis Balls: useful
 Tennis Racket: useful
 Textbooks: progression
 Tomatos: filler
-Topaz: unknown
-Travel Suitcase: unknown
-Twirly Baton: unknown
+Topaz: progression
+Travel Suitcase: progression
+Twirly Baton: progression
 Unlock Girl(aiko): unknown
 Unlock Girl(audrey): progression
 Unlock Girl(beli): progression
@@ -222,7 +222,7 @@ Vintage Platforms: useful
 Vinuela: progression
 Volley Ball: unknown
 Water Bottle: progression
-Watering Can: unknown
+Watering Can: progression
 Watermelon: filler
 Wedding Cake: filler
 Whisky: filler
@@ -231,7 +231,7 @@ Wine: filler
 Wing Pin: progression
 Wooden Birdhouse: progression
 Wooden Sandals: progression
-Yoga Bag: unknown
+Yoga Bag: progression
 Yoga Ball: progression
 Yoga Belt: progression
 Yoga Blocks: unknown

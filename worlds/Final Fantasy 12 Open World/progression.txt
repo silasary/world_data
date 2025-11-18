@@ -234,7 +234,7 @@ Demon Feather: filler
 Demon Mail: filler
 Demon Shield: unknown
 Demon Tail: unknown
-Demon's Sigh: unknown
+Demon's Sigh: filler
 Demonsbane: useful
 Destrier Barding: filler
 Destrier Mane: filler
@@ -616,7 +616,7 @@ Prime Pelt: unknown
 Prime Tanned Hide: unknown
 Prince's Kiss: filler
 Protect: useful
-Protectga: unknown
+Protectga: useful
 Putrid Liquid: unknown
 Quality Hide: filler
 Quality Lumber: filler
@@ -663,7 +663,7 @@ Runeblade: filler
 Rusted Scrap of Armor: filler
 Sage's Ring: filler
 Sagittarius Gem: unknown
-Sagittarius: unknown
+Sagittarius: filler
 Sakura-saezuri: useful
 Salamand Halcyon: filler
 Sallet: unknown
@@ -693,7 +693,7 @@ Shear: useful
 Shell Shield: unknown
 Shell: useful
 Shelled Trophy: progression
-Shellga: unknown
+Shellga: useful
 Shemhazai: useful
 Shepherd's Bolero: unknown
 Shielded Armor: filler
@@ -737,7 +737,7 @@ Solid Horn: filler
 Solid Stone: filler
 Sorcerer's Habit: useful
 Sorcerer's Hat: useful
-Soul Powder: unknown
+Soul Powder: filler
 Soul Ward Key: progression
 Soul of Thamasa: filler
 Souleater: unknown
@@ -755,7 +755,7 @@ Steel Mask: useful
 Steel Poleyns: filler
 Stink Bombs: unknown
 Stolen Articles: progression
-Stona: unknown
+Stona: useful
 Stone Bolts: unknown
 Stone Shot: filler
 Stone of the Condemner: progression
@@ -780,7 +780,7 @@ Systems Access Key: progression
 Tanned Giantskin: unknown
 Tanned Hide: filler
 Tanned Tyrant Hide: filler
-Tattered Garment: unknown
+Tattered Garment: filler
 Taurus Gem: unknown
 Telekinesis: useful
 Teleport Stone: useful
@@ -809,7 +809,7 @@ Turtle Shell: filler
 Turtleshell Choker: unknown
 Tyrant Bone: filler
 Tyrant Hide: unknown
-Ultima Blade: unknown
+Ultima Blade: filler
 Ultima: useful
 Undin Halcyon: unknown
 Unpurified Ether: unknown
@@ -833,7 +833,7 @@ Wargod's Band: unknown
 Warp Mote: filler
 Warp: useful
 Water Bombs: unknown
-Water Crystal: unknown
+Water Crystal: filler
 Water Magicite: filler
 Water Stone: unknown
 Whale Whisker: useful
@@ -870,7 +870,7 @@ Yagyu Darkblade: filler
 Yakei: filler
 Yellow Liquid: unknown
 Yensa Fin: unknown
-Yensa Scale: unknown
+Yensa Scale: filler
 Yoichi Bow: filler
 Zalera: progression
 Zephyr Pole: filler

@@ -29,6 +29,7 @@ Book Burning Van: useful
 Burns Armored Truck: progression
 Canyonero: progression
 Car Built For Homer: progression
+Cell Phone Car: filler
 Chase Sedan: useful
 Clown Car: useful
 Cola Truck: useful
@@ -40,6 +41,7 @@ Eject: trap
 El Carro Loco: useful
 Electaurus: useful
 Family Sedan: progression
+Ferrini - Black: progression
 Ferrini - Red: progression
 Fire Truck: useful
 Globex Super Villain Car: progression
@@ -93,6 +95,7 @@ Marge Double Jump: progression
 Marge E-Brake: progression
 Marge Gagfinder: progression
 Marge Progressive Jump: progression
+Minivan: filler
 Moe's Sedan: useful
 Monorail Car: useful
 Mr. Burns' Limo: useful
@@ -110,11 +113,13 @@ R/C Buggy: useful
 Reset Car: trap
 SUV: progression
 School Bus: progression
+Sedan A: progression
 Sedan: useful
 Skinner's Sedan: useful
 Speed Rocket: useful
 Surveillance Van: useful
 Tractor: useful
+Traffic Trap: trap
 WWII Vehicle: useful
 Wrench: filler
 Zombie Car: progression

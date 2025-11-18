@@ -12,6 +12,7 @@ Chaser: useful
 Coffee: useful
 Coin: filler
 Contract: mcguffin
+Converge EX: useful
 Converge: useful
 Crackshot: useful
 Dash: progression
@@ -20,7 +21,8 @@ Fast Fire: unknown
 Heart Ring: useful
 Heart: useful
 Ingredient: mcguffin
-Lobber: unknown
+Lobber EX: useful
+Lobber: useful
 P. Sugar: useful
 Parry: progression
 Peashooter: unknown
@@ -40,8 +42,10 @@ Progressive Peashooter: progression
 Progressive Roundabout: progression
 Progressive Spread: useful
 Progressive Twist-Up: useful
+Roundabout EX: useful
 Roundabout: useful
 Smoke Bomb: useful
+Spread EX: useful
 Spread: useful
 Super Art I: useful
 Super Art II: progression

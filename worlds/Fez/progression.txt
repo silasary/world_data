@@ -1,7 +1,9 @@
 Anti-Cube: progression
+Arch Door Unlocked: progression
 Arch Map: filler
 Bell Tower Door Unlocked: progression
 Boileroom Door Unlocked: progression
+Cabin Door Unlocked: progression
 Crypt Map A: filler
 Crypt Map B: filler
 Crypt Map C: filler
@@ -18,6 +20,7 @@ QR Code Map: filler
 Reload Trap: trap
 Ritual Map: filler
 Rotation Trap: trap
+Sewer Hub Door Unlocked: progression
 Sewer Pillars Door Unlocked: progression
 Sunglasses: filler
 The Counting Cube: filler

@@ -13,6 +13,7 @@ Angel Engine Y: progression
 Angry Monkey: progression
 Arms Appearance Slot: filler
 Arranged Battle BGM: filler
+Arranged Field BGM: filler
 Ash Fox: progression
 Azure Hollyhock: progression
 Azure Mouse: progression
@@ -29,6 +30,7 @@ Black Ash: progression
 Black Beetle: progression
 Black Blossom: progression
 Black Chip: progression
+Black Frog: progression
 Black Iris: progression
 Black Kiwi: progression
 Black Liver Bean: progression
@@ -144,6 +146,7 @@ Fallen Arm Key: progression
 Fancy Bolt: progression
 Fatal Belladonna: progression
 Feather Leaf: progression
+Feet Appearance Slot: filler
 Fiora Progressive Affinity Rank: progression
 Fiora: Air Fang Art Book: useful
 Fiora: Cross Impact Art Book: useful
@@ -159,6 +162,7 @@ Fiora: Lacerate Art Book: useful
 Fiora: Lock-On Art Book: useful
 Fiora: Mag Storm Art Book: useful
 Fiora: Power Drain Art Book: useful
+Fiora: Power Smash Art Book: useful
 Fiora: Progressive Arms Armor: useful
 Fiora: Progressive Feet Armor: useful
 Fiora: Progressive Head Armor: useful
@@ -183,6 +187,7 @@ Freesia Cyst: progression
 Frontier Village Key: progression
 Frost Glass: progression
 Galahad Fortress Key: progression
+Gentleclam: progression
 Giant Hornet: progression
 Girl Courgette: progression
 Glider Cockroach: progression
@@ -199,6 +204,7 @@ Green Diode: progression
 Green Earwig: progression
 Gypsum Branch: progression
 Ha Ha Ha: progression
+Hades Beetle: progression
 Half Part: progression
 Happy Carnival: progression
 Happy Duck: progression
@@ -268,6 +274,7 @@ Melia: Healing Gift Art Book: useful
 Melia: Honesty Skill Tree: useful
 Melia: Hypnotise Art Book: useful
 Melia: Mind Blast Art Book: useful
+Melia: Passion Skill Tree: useful
 Melia: Power Effect Art Book: useful
 Melia: Progressive Arms Armor: useful
 Melia: Progressive Feet Armor: useful
@@ -276,6 +283,7 @@ Melia: Progressive Legs Armor: useful
 Melia: Progressive Weapon: useful
 Melia: Reflection Art Book: useful
 Melia: Reliability Skill Tree: useful
+Melia: Reticence Skill Tree: useful
 Melia: Spear Break Art Book: useful
 Melia: Starlight Kick Art Book: useful
 Melia: Summon Aqua Art Book: useful
@@ -342,6 +350,7 @@ Rabbit Stone: progression
 Rainbow Bug: progression
 Rainbow Carrot: progression
 Rainbow Slug: progression
+Rainbow Zirconia: progression
 Razor Teasel: progression
 Ready Coil: progression
 Red Durian: progression
@@ -360,9 +369,11 @@ Reyn: Engage Art Book: useful
 Reyn: Enthusiasm Skill Tree: useful
 Reyn: Guard Shift Art Book: useful
 Reyn: Hammer Beat Art Book: useful
+Reyn: Impatience Skill Tree: useful
 Reyn: Lariat Art Book: useful
 Reyn: Last Stand Art Book: useful
 Reyn: Magnum Charge Art Book: useful
+Reyn: Progressive Feet Armor: useful
 Reyn: Progressive Head Armor: useful
 Reyn: Progressive Legs Armor: useful
 Reyn: Progressive Torso Armor: useful
@@ -407,6 +418,7 @@ Sarsaparilla: progression
 Satorl Marsh Key: progression
 Scarlet Crawler: progression
 Scarlet Ladybird: progression
+Schorl Mushroom: progression
 Scissor Bug: progression
 Sea Berry: progression
 Sea Frog: progression
@@ -426,10 +438,13 @@ Sharla: Heal Bullet Art Book: useful
 Sharla: Heal Counter Art Book: useful
 Sharla: Heal Round Art Book: useful
 Sharla: Heat Bullet Art Book: useful
+Sharla: Metal Blast Art Book: useful
 Sharla: Progressive Arms Armor: useful
 Sharla: Progressive Feet Armor: useful
 Sharla: Progressive Head Armor: useful
+Sharla: Progressive Legs Armor: useful
 Sharla: Progressive Torso Armor: useful
+Sharla: Reliance Skill Tree: useful
 Sharla: Shield Bullet Art Book: useful
 Sharla: Thunder Bullet Art PBook: useful
 Sharla: Tranquilliser Art Book: useful
@@ -470,6 +485,7 @@ Snow Transistor: progression
 Soft Sea Cucumber: progression
 Sorrow Beetle: progression
 Sour Gooseberry: progression
+Sour Grape: progression
 Sour Radish: progression
 Sour Turnip: progression
 Spicy Banana: progression

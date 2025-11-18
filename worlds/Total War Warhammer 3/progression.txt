@@ -179,6 +179,7 @@ tech_dlc16_wef_ancients_cypress: progression
 tech_dlc16_wef_ancients_eagles: progression
 tech_dlc16_wef_ancients_oak: progression
 tech_dlc16_wef_ancients_pine: progression
+tech_dlc16_wef_ancients_willow: progression
 tech_dlc16_wef_ancients_yew: progression
 tech_grn_end_1_1: unknown
 tech_grn_end_1_2: unknown
@@ -222,7 +223,7 @@ tech_grn_start_2_4: unknown
 tech_grn_start_3_1: unknown
 tech_grn_start_3_2: unknown
 tech_grn_start_3_3: unknown
-wh2_dlc09_anc_armour_armour_armour_of_dawn: unknown
+wh2_dlc09_anc_armour_armour_armour_of_dawn: filler
 wh2_dlc09_anc_talisman_collar_of_shakkara: unknown
 wh2_dlc09_anc_weapon_golden_dagger: unknown
 wh2_dlc09_anc_weapon_inscribed_khopesh: unknown
@@ -279,6 +280,7 @@ wh2_main_brt_resource_medicine_2: progression
 wh2_main_brt_resource_medicine_3: progression
 wh2_main_brt_resource_obsidian_2: progression
 wh2_main_brt_resource_obsidian_3: progression
+wh2_main_brt_resource_pastures_2: progression
 wh2_main_brt_resource_pastures_3: progression
 wh2_main_brt_resource_pottery_3: useful
 wh2_main_brt_resource_salt_2: progression
@@ -373,6 +375,7 @@ wh3_main_anc_weapon_necrotic_missiles: unknown
 wh3_main_anc_weapon_slaaneshs_blade: filler
 wh3_main_anc_weapon_the_bane_spear: unknown
 wh3_main_anc_weapon_wyrmslayer_sword: unknown
+wh3_main_brt_allied_outpost_3: progression
 wh3_main_bundle_corruption_chaos_bad_21-30: unknown
 wh3_main_bundle_corruption_khorne_good_1-10: unknown
 wh3_main_bundle_corruption_khorne_good_71-80: unknown
@@ -444,6 +447,7 @@ wh_dlc05_tech_2_morai_heg: progression
 wh_dlc07_brt_art_blessed_field_trebuchet_0: progression
 wh_dlc07_brt_cav_grail_guardians_0: progression
 wh_dlc07_brt_cav_knights_errant_0: progression
+wh_dlc07_brt_cav_questing_knights_0: progression
 wh_dlc07_brt_cav_royal_pegasus_knights_0: progression
 wh_dlc07_brt_inf_battle_pilgrims_0: progression
 wh_dlc07_brt_inf_foot_squires_0: progression
@@ -532,6 +536,7 @@ wh_main_brt_industry_extra_2: progression
 wh_main_brt_legendary_port_2: progression
 wh_main_brt_port_3: progression
 wh_main_brt_settlement_major_2: progression
+wh_main_brt_settlement_major_5: progression
 wh_main_brt_smiths_2: progression
 wh_main_brt_stables_2: progression
 wh_main_brt_stables_3: progression

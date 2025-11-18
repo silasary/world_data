@@ -1,7 +1,7 @@
 Acceleration Boost for Barrel Train: filler
 Acceleration Boost for Bloom Coach: progression
 Acceleration Boost for Boo Pipes: progression
-Acceleration Boost for Bullet Blaster: unknown
+Acceleration Boost for Bullet Blaster: progression
 Acceleration Boost for DK Jumbo: progression
 Acceleration Boost for Goo-Goo Buggy: progression
 Acceleration Boost for Green Fire: progression
@@ -18,14 +18,14 @@ Acceleration Boost for Toadette Kart: unknown
 Acceleration Boost for Turbo Birdo: useful
 Acceleration Boost for Turbo Yoshi: progression
 Acceleration Boost for Waluigi Racer: progression
-Acceleration Boost for Wario Car: unknown
+Acceleration Boost for Wario Car: progression
 All Cup Tour: progression
 Baby Luigi: progression
 Baby Mario: progression
 Baby Park Time Trial: progression
 Banana for Baby Luigi: useful
 Banana for Baby Mario: progression
-Banana for Birdo: unknown
+Banana for Birdo: progression
 Banana for Bowser Jr.: unknown
 Banana for Bowser: useful
 Banana for Daisy: progression
@@ -52,7 +52,7 @@ Bob-omb for Baby Mario: progression
 Bob-omb for Birdo: unknown
 Bob-omb for Bowser Jr.: progression
 Bob-omb for Bowser: useful
-Bob-omb for Daisy: unknown
+Bob-omb for Daisy: progression
 Bob-omb for Diddy Kong: progression
 Bob-omb for Donkey Kong: filler
 Bob-omb for Everybody: useful
@@ -110,7 +110,7 @@ Chain Chomp for Mario: unknown
 Chain Chomp for Paratroopa: useful
 Chain Chomp for Peach: progression
 Chain Chomp for Petey Piranha: useful
-Chain Chomp for Toad: unknown
+Chain Chomp for Toad: progression
 Chain Chomp for Toadette: useful
 Chain Chomp for Waluigi: progression
 Chain Chomp for Wario: useful
@@ -130,7 +130,7 @@ Extra Weight for Bullet Blaster: progression
 Extra Weight for DK Jumbo: progression
 Extra Weight for Goo-Goo Buggy: progression
 Extra Weight for Green Fire: useful
-Extra Weight for Heart Coach: unknown
+Extra Weight for Heart Coach: progression
 Extra Weight for Koopa Dasher: unknown
 Extra Weight for Koopa King: progression
 Extra Weight for Para-Wing: progression
@@ -142,7 +142,7 @@ Extra Weight for Toad Kart: progression
 Extra Weight for Toadette Kart: progression
 Extra Weight for Turbo Birdo: progression
 Extra Weight for Turbo Yoshi: progression
-Extra Weight for Waluigi Racer: unknown
+Extra Weight for Waluigi Racer: progression
 Extra Weight for Wario Car: useful
 Fake Item for Baby Luigi: useful
 Fake Item for Baby Mario: progression
@@ -192,7 +192,7 @@ Fireballs for Mario: progression
 Fireballs for Paratroopa: useful
 Fireballs for Peach: progression
 Fireballs for Petey Piranha: useful
-Fireballs for Toad: unknown
+Fireballs for Toad: progression
 Fireballs for Toadette: progression
 Fireballs for Waluigi: useful
 Fireballs for Wario: progression
@@ -219,7 +219,7 @@ Giant Banana for Toadette: unknown
 Giant Banana for Waluigi: useful
 Giant Banana for Wario: progression
 Giant Banana for Yoshi: useful
-Golden Mushroom for Baby Luigi: unknown
+Golden Mushroom for Baby Luigi: progression
 Golden Mushroom for Baby Mario: useful
 Golden Mushroom for Birdo: useful
 Golden Mushroom for Bowser Jr.: progression
@@ -254,7 +254,7 @@ Green Shell for King Boo: filler
 Green Shell for Koopa: progression
 Green Shell for Luigi: progression
 Green Shell for Mario: unknown
-Green Shell for Paratroopa: unknown
+Green Shell for Paratroopa: progression
 Green Shell for Peach: progression
 Green Shell for Petey Piranha: unknown
 Green Shell for Toad: progression
@@ -332,7 +332,7 @@ Mini-turbo Extender for Toadette Kart: progression
 Mini-turbo Extender for Turbo Birdo: progression
 Mini-turbo Extender for Turbo Yoshi: useful
 Mini-turbo Extender for Waluigi Racer: progression
-Mini-turbo Extender for Wario Car: unknown
+Mini-turbo Extender for Wario Car: progression
 Mushroom Bridge Time Trial: progression
 Mushroom City Time Trial: progression
 Mushroom Cup: progression
@@ -360,7 +360,7 @@ Mushroom for Yoshi: progression
 Nothing: filler
 Off-road Tires for Barrel Train: progression
 Off-road Tires for Bloom Coach: progression
-Off-road Tires for Boo Pipes: unknown
+Off-road Tires for Boo Pipes: progression
 Off-road Tires for Bullet Blaster: progression
 Off-road Tires for DK Jumbo: progression
 Off-road Tires for Goo-Goo Buggy: useful
@@ -393,7 +393,7 @@ Power Steering for DK Jumbo: progression
 Power Steering for Goo-Goo Buggy: progression
 Power Steering for Green Fire: progression
 Power Steering for Heart Coach: progression
-Power Steering for Koopa Dasher: unknown
+Power Steering for Koopa Dasher: progression
 Power Steering for Koopa King: progression
 Power Steering for Para-Wing: unknown
 Power Steering for Parade Kart: progression
@@ -462,7 +462,7 @@ Spiny Shell for Wario: useful
 Spiny Shell for Yoshi: progression
 Star Cup: progression
 Star for Baby Luigi: useful
-Star for Baby Mario: unknown
+Star for Baby Mario: progression
 Star for Birdo: progression
 Star for Bowser Jr.: useful
 Star for Bowser: progression
@@ -471,7 +471,7 @@ Star for Diddy Kong: progression
 Star for Donkey Kong: useful
 Star for Everybody: progression
 Star for King Boo: progression
-Star for Koopa: unknown
+Star for Koopa: progression
 Star for Luigi: progression
 Star for Mario: unknown
 Star for Paratroopa: progression
@@ -479,6 +479,7 @@ Star for Peach: progression
 Star for Petey Piranha: progression
 Star for Toad: useful
 Star for Toadette: useful
+Star for Waluigi: progression
 Star for Wario: progression
 Star for Yoshi: useful
 Toad Kart: progression

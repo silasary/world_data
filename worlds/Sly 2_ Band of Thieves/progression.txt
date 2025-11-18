@@ -32,14 +32,14 @@ Clockwerk Leg (Right): mcguffin
 Clockwerk Lung (Left): mcguffin
 Clockwerk Lung (Right): mcguffin
 Clockwerk Neck: mcguffin
-Clockwerk Pelvis: unknown
+Clockwerk Pelvis: progression
 Clockwerk Ribcage: mcguffin
 Clockwerk Skull: unknown
 Clockwerk Stomach: mcguffin
 Clockwerk Tail Feathers: mcguffin
 Clockwerk Talons: mcguffin
 Clockwerk Wing (Left): useful
-Clockwerk Wing (Right): unknown
+Clockwerk Wing (Right): progression
 Coins: filler
 Combat Dodge: useful
 Diablo Fire Slam: useful
@@ -67,7 +67,7 @@ Progressive The Predator Awakens: progression
 Rage Bomb: unknown
 Raging Inferno Flop: unknown
 Reduction Bomb: unknown
-Shadow Power: unknown
+Shadow Power: useful
 Silent Obliteration: useful
 Size Destabilizer: useful
 Smoke Bomb: useful

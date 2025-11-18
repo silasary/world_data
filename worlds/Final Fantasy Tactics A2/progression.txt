@@ -107,7 +107,7 @@ Dragon Bone: unknown
 Dragon Whisker: unknown
 Dream Claws: useful
 Dromaeo: useful
-Druid Mace: unknown
+Druid Mace: useful
 Earth Stone: unknown
 Earthwyrm Crystal: unknown
 Ebon Blade: unknown
@@ -168,7 +168,7 @@ Gokuu Pole: unknown
 Gold Hairpin: useful
 Golden Armor: unknown
 Golden Axe: unknown
-Golden Skullcap: unknown
+Golden Skullcap: useful
 Goug Mk 29: useful
 Greataxe: unknown
 Green Beret: unknown
@@ -199,7 +199,7 @@ Iron Armor: useful
 Iron Blade: useful
 Iron Carapace: unknown
 Iron Hammer: unknown
-Iron Helm: unknown
+Iron Helm: useful
 Iron Pole: unknown
 Ivory Pole: useful
 Jack of Diamonds: useful
@@ -212,6 +212,7 @@ Job Unlock: Black Mage: useful
 Job Unlock: Chocobo Knight: unknown
 Job Unlock: Defender: useful
 Job Unlock: Flintlock: useful
+Job Unlock: Geomancer: useful
 Job Unlock: Green Mage: useful
 Job Unlock: Hunter: useful
 Job Unlock: Illusionist: unknown
@@ -256,7 +257,7 @@ Linen Cuirass: unknown
 Lionheart: useful
 Lohengrin: useful
 Longbarrel: unknown
-Longbow: unknown
+Longbow: useful
 Longsword: unknown
 Lordly Robe: unknown
 Lost Gun: unknown
@@ -288,7 +289,7 @@ Maximilian: unknown
 Metal Knuckles: unknown
 Mind Ceffyl: unknown
 Minerva Bustier: useful
-Mirage Vest: unknown
+Mirage Vest: useful
 Mirror Mail: unknown
 Mirror Scale: unknown
 Mjolnir: unknown
@@ -324,7 +325,7 @@ Perseus Bow: unknown
 Peytral: unknown
 Pin of Order: useful
 Platemail: unknown
-Platinum Armor: unknown
+Platinum Armor: useful
 Platinum Helm: filler
 Platinum Shield: unknown
 Plumed Hat: filler
@@ -379,7 +380,7 @@ Shamshir: useful
 Shield of the Four: unknown
 Shining Lute: unknown
 Short Spear: unknown
-Shortbow: unknown
+Shortbow: useful
 Shortsword: unknown
 Silk Bloom: unknown
 Silk Thread: progression
@@ -395,7 +396,7 @@ Sledgehammer: unknown
 Sleet Rod: unknown
 Snake Skin: unknown
 Snowcat Crystal: unknown
-Snowy Tear: unknown
+Snowy Tear: useful
 Soft Cotton: progression
 Soul Ceffyl: unknown
 Soulsaber: unknown
@@ -428,6 +429,7 @@ Tanned Tyrant Hide: unknown
 Target Bow: useful
 Tarkov Crystal: unknown
 Telaq Flower: unknown
+Templar Cloth: useful
 Templar Shield: unknown
 Terre Rod: unknown
 The Arnath Glyphs: unknown
@@ -479,7 +481,7 @@ Xankbras: unknown
 Yellow Liquid: unknown
 Yoichi Bow: useful
 Zanmato: unknown
-Zephyr Pole: unknown
+Zephyr Pole: useful
 Zeus Mace: unknown
 Zinconium: unknown
 Zodiac Ore: unknown

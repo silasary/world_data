@@ -248,8 +248,8 @@ Bundle: Petroleum Coke: filler
 Bundle: Plasma Spitter Remains: filler
 Bundle: Plastic: filler
 Bundle: Plutonium Fuel Rod: unknown
-Bundle: Plutonium Pellet: unknown
-Bundle: Plutonium Waste: unknown
+Bundle: Plutonium Pellet: trap
+Bundle: Plutonium Waste: trap
 Bundle: Polymer Resin: filler
 Bundle: Portable Miner: filler
 Bundle: Power Shard: filler

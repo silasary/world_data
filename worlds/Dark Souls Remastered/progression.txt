@@ -72,7 +72,7 @@ Blue Titanite Chunk: useful
 Blue Titanite Slab: useful
 Bonewheel Shield: useful
 Book of the Guilty: filler
-Boots of the Explorer: unknown
+Boots of the Explorer: filler
 Bottomless Box: useful
 Bracelet of the Great Lord: useful
 Brass Armor: unknown
@@ -111,7 +111,7 @@ Channeler's Trident: unknown
 Chaos Blade: useful
 Chaos Flame Ember: useful
 Charcoal Pine Resin: filler
-Chester's Gloves: unknown
+Chester's Gloves: filler
 Chester's Long Coat: useful
 Chester's Trousers: unknown
 Claw: useful
@@ -226,7 +226,7 @@ Flamberge: useful
 Flame Stoneplate Ring: filler
 Four-pronged Plow: filler
 Gargoyle Helm: useful
-Gargoyle Tail Axe: unknown
+Gargoyle Tail Axe: filler
 Gargoyle's Shield: filler
 Gargoyles's Halberd: filler
 Gauntlets of Favor: useful
@@ -423,8 +423,8 @@ Painting Guardian Gloves: unknown
 Painting Guardian Hood: filler
 Painting Guardian Robe: useful
 Painting Guardian Sword: unknown
-Painting Guardian Waistcloth: unknown
-Paladin Armor: unknown
+Painting Guardian Waistcloth: filler
+Paladin Armor: filler
 Paladin Gauntlets: unknown
 Paladin Helm: filler
 Paladin Leggings: filler
@@ -448,14 +448,14 @@ Purple Coward's Crystal: progression
 Purple Moss Clump: filler
 Pyromancy Flame (Ascended): useful
 Pyromancy Flame: useful
-Pyromancy: Acid Surge: unknown
+Pyromancy: Acid Surge: filler
 Pyromancy: Black Flame: filler
 Pyromancy: Chaos Storm: filler
 Pyromancy: Combustion: useful
 Pyromancy: Fire Orb: useful
 Pyromancy: Fire Surge: useful
 Pyromancy: Fire Tempest: useful
-Pyromancy: Fire Whip: unknown
+Pyromancy: Fire Whip: filler
 Pyromancy: Fireball: useful
 Pyromancy: Firestorm: filler
 Pyromancy: Flash Sweat: useful
@@ -647,7 +647,7 @@ Witch Cloak: useful
 Witch Gloves: unknown
 Witch Hat: useful
 Witch Skirt: unknown
-Wolf Ring: unknown
+Wolf Ring: filler
 Wood Bolt: filler
 Wooden Arrow: useful
 Wooden Shield: useful

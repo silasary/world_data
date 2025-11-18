@@ -30,6 +30,7 @@ EVENT FREE_ITEM: filler
 EVENT MAP: useful
 EX_BACKUP_DNA: useful
 EX_DEFENSE_SCRAMBLER: useful
+EX_DRONE_SPEED: useful
 EX_FTL_BOOSTER: filler
 EX_HACKING_STUN: filler
 EX_ION_ARMOR: useful
@@ -55,6 +56,7 @@ Ministry Capital Sector: progression
 Ministry Sector: progression
 Outcast Sector: progression
 Progressive AUG CREW_STIMS: useful
+Progressive AUG OBSIDIAN_ARMOR: useful
 Progressive AUG SLUG_GEL: useful
 Progressive AUG STORE_BEACON_SUPER: useful
 Progressive Clone Bay: progression

@@ -21,7 +21,10 @@ Door Key (I,5): progression
 Door Key (J,10): filler
 Door Key (J,13): progression
 Door Key (J,7): filler
+Door Key (K,7): progression
+Door Key (K,9): progression
 Door Key (L,11): progression
+Door Key (L,13): progression
 Door Key (M,10): progression
 Health Restore: filler
 Level Up: progression

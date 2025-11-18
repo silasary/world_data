@@ -26,8 +26,8 @@ Bossmaster: unknown
 Bow: unknown
 Bright Torch: unknown
 Broadsword: unknown
-Cadence: unknown
-Carrot: unknown
+Cadence: progression
+Carrot: useful
 Chainmail: useful
 Charm Spell: unknown
 Chaunter: progression
@@ -47,7 +47,7 @@ Cutlass: unknown
 Dash Spell: unknown
 Diamond Dealer: progression
 Diamond: progression
-Dorian: unknown
+Dorian: progression
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
 Double Heart Container: unknown
@@ -154,12 +154,12 @@ Ring of Phasing: unknown
 Ring of Piercing: useful
 Ring of Protection: useful
 Ring of Regeneration: unknown
-Ring of Shielding: unknown
+Ring of Shielding: useful
 Ring of War: unknown
 Risk Charm: unknown
 Scroll of Need: unknown
 Shield Scroll: unknown
-Shield Spell: unknown
+Shield Spell: useful
 Shield Tome: unknown
 Shield of Shove: unknown
 Shield of Strength: unknown
@@ -176,10 +176,10 @@ Suzu: progression
 Tempo: progression
 Throwing Charm: unknown
 Throwing Stars: unknown
-Titanium Shield: unknown
+Titanium Shield: useful
 Titanium Shovel: unknown
 Torch of Foresight: unknown
-Torch of Strength: unknown
+Torch of Strength: useful
 Torch of Walls: unknown
 Torch: unknown
 Transmute Scroll: unknown

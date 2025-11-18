@@ -133,6 +133,7 @@ BlueCard (MAP14): progression
 BlueCard (MAP15): progression
 BlueCard (MAP16): progression
 BlueCard (MAP17): progression
+BlueCard (MAP18): progression
 BlueCard (MAP20): progression
 BlueCard (MAP22): progression
 BlueCard (MAP24): progression
@@ -737,6 +738,7 @@ YellowCard (MAP12): progression
 YellowCard (MAP13): progression
 YellowCard (MAP15): progression
 YellowCard (MAP17): progression
+YellowCard (MAP20): progression
 YellowCard (MAP21): progression
 YellowCard (MAP22): progression
 YellowCard (MAP23): progression

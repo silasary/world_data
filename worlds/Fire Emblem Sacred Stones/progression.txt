@@ -1,7 +1,7 @@
 AngelicRobe: filler
 Audhulma: unknown
 BodyRing: filler
-Boots: unknown
+Boots: filler
 DragonShield: filler
 ElysianWhip: filler
 EnergyRing: filler
@@ -12,7 +12,7 @@ GoddessIcon: filler
 GuidingRing: unknown
 HeroCrest: unknown
 Ivaldi: progression
-KnightCrest: unknown
+KnightCrest: filler
 Latona: useful
 MasterSeal: unknown
 Nidhogg: progression

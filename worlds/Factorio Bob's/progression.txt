@@ -25,6 +25,7 @@ bob-alloy-processing: progression
 bob-aluminium-processing: progression
 bob-ap-bullets: filler
 bob-area-drills-1: filler
+bob-area-drills-4: filler
 bob-armoured-railway-2: filler
 bob-armoured-railway: filler
 bob-artifact-processing: progression
@@ -32,7 +33,7 @@ bob-artifact-radar: filler
 bob-atomic-artillery-shell: unknown
 bob-battery-equipment-6: filler
 bob-bullets: progression
-bob-ceramics: unknown
+bob-ceramics: progression
 bob-chemical-processing-1: progression
 bob-chemical-processing-2: progression
 bob-cobalt-processing: progression
@@ -40,6 +41,7 @@ bob-cordite-processing: progression
 bob-deuterium-fuel-cell-2: unknown
 bob-deuterium-fuel-reprocessing: filler
 bob-deuterium-processing: filler
+bob-distractor-artillery-shells: filler
 bob-distractor-mine: filler
 bob-drills-4: filler
 bob-electric-bullets: filler
@@ -66,7 +68,7 @@ bob-fluid-chemical-furnace: unknown
 bob-fluid-generator-2: filler
 bob-fluid-handling-2: progression
 bob-fluid-mixing-furnace: unknown
-bob-gas-canisters: unknown
+bob-gas-canisters: progression
 bob-gold-processing: progression
 bob-greenhouse: progression
 bob-grinding: progression
@@ -128,7 +130,7 @@ bob-robots-3: progression
 bob-rocket: progression
 bob-rtg: progression
 bob-scatter-cannon-shells: filler
-bob-shotgun-acid-shells: unknown
+bob-shotgun-acid-shells: filler
 bob-shotgun-ap-shells: filler
 bob-shotgun-electric-shells: filler
 bob-shotgun-explosive-shells: filler
@@ -157,6 +159,7 @@ bob-vehicle-laser-defense-equipment-2: filler
 bob-vehicle-laser-defense-equipment-3: filler
 bob-vehicle-laser-defense-equipment-5: filler
 bob-vehicle-motor-equipment: filler
+bob-vehicle-roboport-equipment-2: filler
 bob-vehicle-roboport-modular-equipment-1: filler
 bob-void-fluid: unknown
 bob-walking-vehicle: filler
@@ -267,7 +270,7 @@ progressive-inserter-stack-size-bonus: filler
 progressive-inserter: filler
 progressive-lab: filler
 progressive-laser-shooting-speed: filler
-progressive-laser-turrets: unknown
+progressive-laser-turrets: progression
 progressive-laser-weapons-damage: filler
 progressive-logistic-system: progression
 progressive-logistics: progression

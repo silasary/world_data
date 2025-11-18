@@ -114,6 +114,7 @@ e3m7 Unlock: unknown
 e4m4 Silver Key: progression
 e4m6 Silver Key: progression
 e4m6 Unlock: progression
+e4m8 Gold Key: progression
 e4m8 Silver Key: progression
 end Automap: unknown
 end Unlock: progression
