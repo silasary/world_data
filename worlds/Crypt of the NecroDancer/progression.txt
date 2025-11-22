@@ -77,15 +77,15 @@ Glass Slippers: unknown
 Glass Torch: unknown
 Gluttony Charm: unknown
 Grenade Charm: unknown
-Ham: unknown
+Ham: useful
 Hard Mode: progression
-Hargreaves: unknown
+Hargreaves: useful
 Harp: unknown
 Heal Spell: useful
 Heart Container: unknown
 Heart Transplant: useful
 Heavy Glass Armor: useful
-Heavy Plate: unknown
+Heavy Plate: useful
 Heavy Shield: useful
 Helm: useful
 Hintmaster: progression
@@ -113,7 +113,7 @@ Map: unknown
 Mary: progression
 Melody: progression
 Merlin: progression
-Miku: unknown
+Miku: progression
 Miner's Cap: unknown
 Monk: progression
 Monkey's Paw: unknown
@@ -154,13 +154,14 @@ Ring of Phasing: unknown
 Ring of Piercing: useful
 Ring of Protection: useful
 Ring of Regeneration: unknown
+Ring of Shadows: useful
 Ring of Shielding: useful
 Ring of War: unknown
 Risk Charm: unknown
 Scroll of Need: unknown
 Shield Scroll: unknown
 Shield Spell: useful
-Shield Tome: unknown
+Shield Tome: useful
 Shield of Shove: unknown
 Shield of Strength: unknown
 Shop Stock Unlock: progression

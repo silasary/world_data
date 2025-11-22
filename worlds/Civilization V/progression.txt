@@ -39,6 +39,7 @@ Plastics: progression
 Policy - Aristocracy: unknown
 Policy - Artistic Genius: useful
 Policy - Caravans: unknown
+Policy - Citizenship: useful
 Policy - Collective Rule: useful
 Policy - Consulates: progression
 Policy - Cultural Diplomacy: useful
@@ -53,6 +54,7 @@ Policy - Legalism: useful
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
+Policy - Merchant Navy: useful
 Policy - Military Caste: unknown
 Policy - Military Tradition: useful
 Policy - Monarchy: unknown
@@ -63,7 +65,7 @@ Policy - Philanthropy: progression
 Policy - Professional Army: unknown
 Policy - Reformation: unknown
 Policy - Religious Tolerance: unknown
-Policy - Representation: unknown
+Policy - Representation: useful
 Policy - Republic: useful
 Policy - Scientific Revolution: useful
 Policy - Secularism: unknown

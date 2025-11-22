@@ -40,7 +40,7 @@ Crossbow: progression
 Crystal Lantern: progression
 Crystal Shard: useful
 Curse Trap: trap
-Cursed Blade: unknown
+Cursed Blade: useful
 Dark Greatsword: useful
 Dark Rapier: progression
 Dark Skull: progression
@@ -67,12 +67,12 @@ Fire Coral: mcguffin
 Fire Opal: filler
 Fire Sword: useful
 Fire Worm: progression
-Fishing Spear: unknown
+Fishing Spear: useful
 Flame Flare: progression
 Flame Spear: progression
 Fool's Gold: mcguffin
 Forbidden Archives Elevator Switch Keyring: progression
-Forbidden Archives Shortcut Switch Key: unknown
+Forbidden Archives Shortcut Switch Key: useful
 Forbidden Door Key: progression
 Forlorn Arena Gate Switch Key: progression
 Fractured Death: progression
@@ -80,7 +80,7 @@ Fractured Life: progression
 Ghost Light: progression
 Ghost Sword: useful
 Golden Khopesh: progression
-Golden Sickle: unknown
+Golden Sickle: progression
 Grotto Fire Switch Keyring: progression
 Halberd: progression
 Hammer of Cruelty: progression
@@ -199,7 +199,7 @@ Temple of Water Switch Key: progression
 Terminus Prison Back Alley Switch Key: useful
 Terminus Prison Key: progression
 Text on Great Well Resourcefulness: filler
-Thorn: unknown
+Thorn: useful
 Throwing Knife: filler
 Tomb Secret Door Key: progression
 Torch: progression

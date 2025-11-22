@@ -434,6 +434,7 @@ wh_dlc05_tech_1_vaul: progression
 wh_dlc05_tech_2_addaioth: progression
 wh_dlc05_tech_2_anath_raema: progression
 wh_dlc05_tech_2_atharti: progression
+wh_dlc05_tech_2_cytharai: progression
 wh_dlc05_tech_2_drakira: progression
 wh_dlc05_tech_2_eldrazor: progression
 wh_dlc05_tech_2_ellinill: progression

@@ -14,7 +14,7 @@ Armor of Thorns: useful
 Armor of the Glorious: filler
 Armor of the Sun: filler
 Astora's Straight Sword: filler
-Avelyn: unknown
+Avelyn: filler
 Balder Armor: filler
 Balder Gauntlets: filler
 Balder Helm: filler
@@ -286,7 +286,7 @@ Havel's Armor: useful
 Havel's Gauntlets: unknown
 Havel's Greatshield: filler
 Havel's Helm: useful
-Havel's Leggings: unknown
+Havel's Leggings: filler
 Havel's Ring: useful
 Hawk Ring: filler
 Heater Shield: filler
@@ -363,7 +363,7 @@ Lordvessel: mcguffin
 Lucerne: filler
 Mace: filler
 Maiden Gloves: useful
-Maiden Hood: unknown
+Maiden Hood: filler
 Maiden Robe: unknown
 Maiden Skirt: filler
 Mail Breaker: filler
@@ -412,7 +412,7 @@ Notched Whip: useful
 Obsidian Greatsword: useful
 Old Witch's Ring: filler
 Oolacile Catalyst: useful
-Oolacile Ivory Catalyst: unknown
+Oolacile Ivory Catalyst: filler
 Orange Charred Ring: progression
 Orange Guidance Soapstone: filler
 Ornstein's Armor: filler
@@ -550,7 +550,7 @@ Sorcery: Hidden Weapon: unknown
 Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
 Sorcery: Hush: unknown
-Sorcery: Magic Shield: unknown
+Sorcery: Magic Shield: filler
 Sorcery: Magic Weapon: filler
 Sorcery: Pursuers: useful
 Sorcery: Remedy: unknown
@@ -632,6 +632,7 @@ Very Large Ember: useful
 Waistcloth of the Channelers: filler
 Wanderer Boots: useful
 Wanderer Coat: useful
+Wanderer Hood: filler
 Wanderer Manchette: filler
 Warpick: useful
 Warrior's Round Shield: filler
@@ -646,7 +647,7 @@ Winged Spear: useful
 Witch Cloak: useful
 Witch Gloves: unknown
 Witch Hat: useful
-Witch Skirt: unknown
+Witch Skirt: filler
 Wolf Ring: filler
 Wood Bolt: filler
 Wooden Arrow: useful

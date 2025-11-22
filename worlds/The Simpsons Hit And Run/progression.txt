@@ -32,7 +32,10 @@ Car Built For Homer: progression
 Cell Phone Car: filler
 Chase Sedan: useful
 Clown Car: useful
+Coffin Car: progression
 Cola Truck: useful
+Compact Car: progression
+Cube Van: progression
 Curator: useful
 Donut Truck: useful
 Duff Trap: trap
@@ -95,6 +98,7 @@ Marge Double Jump: progression
 Marge E-Brake: progression
 Marge Gagfinder: progression
 Marge Progressive Jump: progression
+Milk Truck: progression
 Minivan: filler
 Moe's Sedan: useful
 Monorail Car: useful
@@ -117,9 +121,11 @@ Sedan A: progression
 Sedan: useful
 Skinner's Sedan: useful
 Speed Rocket: useful
+Sports Car A: progression
 Surveillance Van: useful
 Tractor: useful
 Traffic Trap: trap
 WWII Vehicle: useful
+Witch's Broom: filler
 Wrench: filler
 Zombie Car: progression

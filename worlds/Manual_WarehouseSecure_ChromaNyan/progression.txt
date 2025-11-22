@@ -71,11 +71,11 @@ Bouncing Bubble Wrap: filler
 Bouncy Ball Shield: filler
 Bouncy Castle Armor: filler
 Bouncy Castle Shield: filler
-Bouncy Castle of Chaos: unknown
+Bouncy Castle of Chaos: filler
 Bouncy Castle of Defense: filler
 Bouncy Castle: filler
 Bread of Rock Hardness: filler
-Broccoli of Tree Impersonation: unknown
+Broccoli of Tree Impersonation: filler
 Broomstick of Flying: filler
 Bubble Gum Bubble Shield: filler
 Bubble Tea Tonic: filler
@@ -85,7 +85,7 @@ Bubble Wrap of Bliss: filler
 Bubble Wrap of Regeneration: filler
 Bubble Wrap: filler
 Bubblegum Bulletproof Vest: filler
-Bubblegum Shield Potion: unknown
+Bubblegum Shield Potion: filler
 Bubblegum Shield: filler
 Bubblewrap Battering Ram: filler
 Bucket of Dehydrated Water: filler
@@ -142,7 +142,7 @@ Confusion Grenade: filler
 Cooking Pot of Raw Cuisine: filler
 Coral of Dullness Enhancement: filler
 Corgi Treat Dispenser: filler
-Corgi Whisperer's Collar: unknown
+Corgi Whisperer's Collar: filler
 Corn of Butter Melting: filler
 Cosmic Cane Toad: filler
 Cosmic Cereal Box: filler
@@ -268,7 +268,7 @@ Enchanted Quiver of El'goroth: filler
 Enchanted Quiver: filler
 Enoki of Tangled Straightness: filler
 Eternity's Edge Longsword: filler
-Ethereal Eclipse Orb: unknown
+Ethereal Eclipse Orb: filler
 Ethereal Elixir Flask: filler
 Explosive Egg Salad: filler
 Explosive Potted Plant: filler
@@ -590,7 +590,7 @@ Lucky Leaf of Fortune: filler
 Lucky Llama Luck Charm: filler
 Lucky Socks of Doom: filler
 Lucky Socks: filler
-Luminous Cloak: unknown
+Luminous Cloak: filler
 Luminous Lance of Justice: filler
 Luminous Lantern Shield: filler
 Luminous Lantern of Illumination: filler
@@ -814,6 +814,7 @@ Runestone of Resilience: filler
 Rye of Whiskey Aversion: filler
 S'mores Rocket: filler
 Safe Key: progression
+Sassy Boots: filler
 Sassy Sock Drawer Boots: filler
 Sassy Sock Puppet: filler
 Sassy Squirt Gun: filler

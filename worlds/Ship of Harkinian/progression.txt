@@ -23,6 +23,7 @@ Bottle with Bugs: progression
 Bottle with Fairy: progression
 Bottle with Fish: progression
 Bottle with Green Potion: progression
+Bottle with Milk: progression
 Bottle with Poe: progression
 Bottle with Red Potion: progression
 Bottle with Ruto's Letter: progression
@@ -39,6 +40,7 @@ Deku Seeds (30): filler
 Deku Shield: useful
 Deku Stick (1): filler
 Din's Fire: progression
+Dodongo's Cavern Compass: useful
 Dodongo's Cavern Map: useful
 Double Defense: useful
 Empty Bottle: progression
@@ -56,6 +58,7 @@ Fishing Hole Key: progression
 Fishing Pole: progression
 Forest Medallion: progression
 Forest Temple Boss Key: progression
+Forest Temple Compass: useful
 Forest Temple Key Ring: progression
 Forest Temple Map: useful
 Forest Temple Small Key: progression
@@ -83,10 +86,12 @@ Hylia Laboratory Key: progression
 Hylian Shield: useful
 Ice Arrow: progression
 Ice Cavern Compass: useful
+Ice Cavern Map: useful
 Ice Trap: trap
 Impa's House Key: progression
 Iron Boots: progression
 Jabu-Jabu's Belly Compass: useful
+Jabu-Jabu's Belly Map: useful
 Kakariko Bazaar Key: progression
 Kakariko Potion Shop Key: progression
 Kakariko Shooting Gallery Key: progression

@@ -31,10 +31,11 @@ Laser speed: useful
 Laser strength: useful
 Layer unlock: progression
 Maze assignment unlock: progression
+Mining problem assignment unlock: progression
 Orchard ability: useful
 Orchard overcharge: useful
 Projectile hell assignment unlock: progression
-Repellent ability: unknown
+Repellent ability: useful
 Repellent delay: useful
 Repellent overcharge: useful
 Shield ability: useful

@@ -1,4 +1,4 @@
-Ace of Spades: unknown
+Ace of Spades: useful
 Adamant Alloy: unknown
 Adamant Armor: unknown
 Adamant Vest: unknown
@@ -37,7 +37,7 @@ Beastsword: useful
 Black Garb: unknown
 Black Hat: unknown
 Black Quena: useful
-Black Robe: unknown
+Black Robe: useful
 Black Thread: progression
 Blaze Robe: unknown
 Blood Sword: unknown
@@ -216,6 +216,7 @@ Job Unlock: Geomancer: useful
 Job Unlock: Green Mage: useful
 Job Unlock: Hunter: useful
 Job Unlock: Illusionist: unknown
+Job Unlock: Lanista: useful
 Job Unlock: Ninja: unknown
 Job Unlock: Ranger: unknown
 Job Unlock: Ravager: useful
@@ -345,11 +346,11 @@ Rat Pelt: unknown
 Recall Grass: unknown
 Red Geeps: unknown
 Red Robe: unknown
-Red Shoes: unknown
+Red Shoes: useful
 Restorer: unknown
 Reverie Shield: useful
 Rhomphaia: unknown
-Ribbon: unknown
+Ribbon: useful
 Ring of Precepts: unknown
 Ring of the Wheel: unknown
 Riot Gun: useful

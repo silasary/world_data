@@ -1,14 +1,14 @@
 1-Up Ankh: unknown
 5-Up Ankh: unknown
 7-Up Ankh: unknown
-Activate AmF4 Puzzle: unknown
+Activate AmF4 Puzzle: progression
 Activate AmF5 Bonus Portal: unknown
 Activate AmF5 Puzzle: unknown
 Activate AvF7 Puzzle: unknown
 Activate AvF8 Puzzle: progression
 Activate AvF8 SW Light Bridge: progression
 Activate AvF9 Bonus Return Light Bridge: unknown
-Activate AvF9 Simon Says Puzzle: unknown
+Activate AvF9 Simon Says Puzzle: progression
 Activate CL1 East Puzzle: unknown
 Activate CL1 West Puzzle: unknown
 Activate CL2 Puzzle: progression
@@ -39,7 +39,7 @@ Archives Boss Rune n: unknown
 Archives Boss Rune y Progress: unknown
 Archives Boss Rune y: unknown
 Archives Bronze Key: progression
-Archives Floor 7 Master Bronze Key: unknown
+Archives Floor 7 Master Bronze Key: progression
 Archives Floor 7 Master Gold Key: progression
 Archives Floor 7 Master Silver Key: progression
 Archives Floor 8 Master Bronze Key: progression
@@ -110,7 +110,7 @@ Disable AmF5 Blue Spikes: progression
 Disable AvF9 Secret Passage North Room Spikes: progression
 Disable ChF10 North Spikes: unknown
 Disable ChF10 Red Flame Turret: unknown
-Disable ChF10 Red Spike Turrets: unknown
+Disable ChF10 Red Spike Turrets: useful
 Disable ChF10 Red Spikes: unknown
 Disable ChF11 Blue Spike Turret: unknown
 Disable ChF11 South Red Flame Turrets: unknown
@@ -128,7 +128,7 @@ Dune Sharks Arena Gold Key: unknown
 Dune Sharks Arena Silver Key: unknown
 Elevate PoF Pyramid: progression
 Enable PrF2 Spike Puzzle East Buttons: unknown
-Enable PrF2 Spike Puzzle North Buttons: unknown
+Enable PrF2 Spike Puzzle North Buttons: progression
 Enable PrF2 Spike Puzzle South Buttons: unknown
 Enable Queen Arena Buttons: progression
 Fire Trap: trap
@@ -164,14 +164,14 @@ Mirror: progression
 Open AmB Exit: progression
 Open AmB NE Room: unknown
 Open AmB SE Room: unknown
-Open AmF4 Boss Gate: unknown
+Open AmF4 Boss Gate: progression
 Open AmF4 Middle Cache: unknown
-Open AmF4 Middle Shortcut: unknown
+Open AmF4 Middle Shortcut: progression
 Open AmF4 NE Cache: progression
 Open AmF4 SE Cache: unknown
 Open AmF4 SE Rune Room: unknown
 Open AmF4 South Wall: progression
-Open AmF5 SE Tower Room Left Side: unknown
+Open AmF5 SE Tower Room Left Side: progression
 Open AmF5 SE Tower Room Top Side: unknown
 Open AmF5 Start Shortcut: useful
 Open AmF5 West Exits Hall: progression
@@ -180,25 +180,25 @@ Open AmF6 Spike Turret 2nd Reward Rooms: progression
 Open AmF6 Spike Turret Reward Rooms: unknown
 Open AmF6 Start East Wall: progression
 Open AmF6 Start North Wall: unknown
-Open AvF7 Bottom of Left Exit: unknown
+Open AvF7 Bottom of Left Exit: progression
 Open AvF7 East Wall: unknown
 Open AvF7 Exits: unknown
 Open AvF7 Middle Ledge: unknown
 Open AvF7 NE Shortcut: unknown
 Open AvF7 NW Secret Room: unknown
 Open AvF7 North Wall: progression
-Open AvF7 SE Closed Room: unknown
+Open AvF7 SE Closed Room: progression
 Open AvF7 Start Closed Room: progression
-Open AvF7 West Shortcut: unknown
+Open AvF7 West Shortcut: useful
 Open AvF7 West Wall: unknown
-Open AvF8 Boss Rune Room Left Side: unknown
-Open AvF8 Boss Rune Room Right Side: unknown
+Open AvF8 Boss Rune Room Left Side: progression
+Open AvF8 Boss Rune Room Right Side: progression
 Open AvF8 Fire Trap Room Bottom Side: progression
 Open AvF8 Fire Trap Room Top Side: unknown
 Open AvF8 Left Exit: unknown
 Open AvF8 Middle Entrance: unknown
 Open AvF8 NE Cache: unknown
-Open AvF8 NW Shortcut: unknown
+Open AvF8 NW Shortcut: useful
 Open AvF8 Puzzle Room: unknown
 Open AvF8 South Area Left Side: unknown
 Open AvF8 South Area Right Side: progression
@@ -210,7 +210,7 @@ Open AvF9 Boss Rune Room: unknown
 Open AvF9 Exit: unknown
 Open AvF9 NE Room Left Side: unknown
 Open AvF9 NE Room Top Side: unknown
-Open AvF9 SW Secret Room: unknown
+Open AvF9 SW Secret Room: progression
 Open AvF9 Secret Passage End: progression
 Open AvF9 Secret Passage North Room: unknown
 Open AvF9 Secret Passage South Room: progression
@@ -225,7 +225,7 @@ Open ChF11 Bonus Portal: unknown
 Open ChF11 Bonus Room: progression
 Open ChF11 Chance Puzzle Room: unknown
 Open ChF11 East Shop Shortcut: unknown
-Open ChF11 North Exit Closed Room: unknown
+Open ChF11 North Exit Closed Room: progression
 Open ChF11 North Shops Room: progression
 Open ChF11 SW Secret Room: unknown
 Open ChF11 South Entrance Shortcut: unknown
@@ -254,7 +254,7 @@ Open PrF3 Bonus Portal: progression
 Open PrF3 Bonus Room Progress: unknown
 Open PrF3 Bonus Room Side Hall: unknown
 Open PrF3 Bonus Room: progression
-Open PrF3 Boss Gate: unknown
+Open PrF3 Boss Gate: progression
 Open PrF3 Entrance Room: unknown
 Open PrF3 NW Treasure Room: unknown
 Open PrF3 North Secret Shop Room: unknown
@@ -468,10 +468,10 @@ Steak: filler
 Strange Plank: mcguffin
 Teleport AmF4 North Item: unknown
 Teleport AmF5 Blue Spikes Item: unknown
-Teleport AmF5 NE Fireball Hall Item: unknown
+Teleport AmF5 NE Fireball Hall Item: progression
 Teleport AmF5 NE Gates Item: unknown
 Teleport AmF5 NW Pyramid Item: progression
-Teleport AmF5 SE Item: unknown
+Teleport AmF5 SE Item: progression
 Teleport AmF5 SE Pyramid Item: unknown
 Teleport AmF5 SW Item: unknown
 Teleport AmF5 SW Pyramid Item: progression
@@ -479,7 +479,7 @@ Teleport AmF6 Middle Item: unknown
 Teleport AmF6 NE Pyramid Item: unknown
 Teleport AmF6 South Pyramid South Bronze Gate Item: progression
 Teleport AvF9 NE Bottom Item: progression
-Teleport AvF9 NE Top Item: unknown
+Teleport AvF9 NE Top Item: progression
 Teleport AvF9 NW Item: unknown
 Teleport ChF11 West Spike Items Progress: unknown
 Teleport ChF11 West Spike Items: unknown

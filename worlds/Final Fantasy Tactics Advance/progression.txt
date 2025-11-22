@@ -285,7 +285,7 @@ Law Card: Allmighty antilaw: filler
 Law Card: Berserk antilaw: filler
 Law Card: Berserk: unknown
 Law Card: Bind antilaw: unknown
-Law Card: Bind: unknown
+Law Card: Bind: useful
 Law Card: Blades antilaw: filler
 Law Card: Blades: unknown
 Law Card: Broadswords antilaw: filler
@@ -357,7 +357,7 @@ Law Card: Knightswords: useful
 Law Card: Knives antilaw: filler
 Law Card: Knives: filler
 Law Card: Knuckles antilaw: filler
-Law Card: Knuckles: unknown
+Law Card: Knuckles: useful
 Law Card: Law Cards antilaw: useful
 Law Card: Law Cards: filler
 Law Card: Lightning antilaw: filler
@@ -371,7 +371,7 @@ Law Card: Petrify antilaw: filler
 Law Card: Petrify: filler
 Law Card: Poison antilaw: unknown
 Law Card: Poison: filler
-Law Card: Prayer antilaw: unknown
+Law Card: Prayer antilaw: useful
 Law Card: Prayer: filler
 Law Card: Protect antilaw: filler
 Law Card: Protect: filler
@@ -403,7 +403,7 @@ Law Card: Status antilaw: unknown
 Law Card: Status: filler
 Law Card: Steal antilaw: unknown
 Law Card: Steal: filler
-Law Card: Stop antilaw: unknown
+Law Card: Stop antilaw: useful
 Law Card: Stop: filler
 Law Card: Summon antilaw: filler
 Law Card: Summon: unknown

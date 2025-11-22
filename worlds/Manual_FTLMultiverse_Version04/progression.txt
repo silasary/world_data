@@ -28,6 +28,7 @@ Duskbringer Sector: progression
 Dynasty Sector: progression
 EVENT FREE_ITEM: filler
 EVENT MAP: useful
+EX_AUTO_COOLDOWN: useful
 EX_BACKUP_DNA: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_DRONE_SPEED: useful
@@ -43,6 +44,8 @@ Emancipation Grills: useful
 Federation Embassy Sector: progression
 Free Mantis Sector: progression
 Gathering Gardenworlds Sector: progression
+Gathering Sector: progression
+Geniocracy Coreworlds Sector: progression
 Hacked Union Sector: progression
 Hive Broodworlds Sector: progression
 Hunting Grounds Sector: progression
@@ -59,6 +62,7 @@ Progressive AUG CREW_STIMS: useful
 Progressive AUG OBSIDIAN_ARMOR: useful
 Progressive AUG SLUG_GEL: useful
 Progressive AUG STORE_BEACON_SUPER: useful
+Progressive Cloaking: progression
 Progressive Clone Bay: progression
 Progressive Doors: progression
 Progressive Hacking: progression
@@ -67,6 +71,7 @@ Progressive Mind Control: progression
 Progressive Sensors: progression
 Progressive Teleporter: progression
 Progressive Temperal : useful
+Rebel Sector: progression
 Rebel Stronghold Sector: progression
 Republican [Sale!] Sector: progression
 Royal Kleptocracy Nebula Sector: progression
@@ -78,6 +83,7 @@ Starting Scrap x25: filler
 The Jerome Protectorate Sector: progression
 Theocracy Sector: progression
 Unexplored Sector: progression
+Union Coreworlds Sector: progression
 Union Sector: progression
 Vagabond Sector: progression
 Wentworth Headquarters Sector: progression

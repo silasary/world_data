@@ -28,7 +28,7 @@ Amber Armlet: useful
 Ambrosia: unknown
 Ame-no-Murakumo: filler
 Ancient Bone: filler
-Ancient Sword: unknown
+Ancient Sword: filler
 Ancient Turtle Shell: unknown
 Ann's Letter: progression
 Antarctic Wind: filler
@@ -41,7 +41,7 @@ Aquarius Gem: filler
 Arc Scale: unknown
 Arcana: filler
 Archades Aeropass: progression
-Arctic Wind: unknown
+Arctic Wind: filler
 Arcturus: filler
 Ardor: useful
 Argyle Armlet: useful
@@ -72,11 +72,11 @@ Battle Bamboo: unknown
 Battle Harness: useful
 Battlewyrm Carapace: unknown
 Beaked Trophy: unknown
-Beastlord Hide: unknown
+Beastlord Hide: filler
 Beastlord Horn: unknown
-Behemoth Steak: unknown
+Behemoth Steak: filler
 Belias: progression
-Bent Staff: unknown
+Bent Staff: filler
 Berserk: unknown
 Berserker Bracers: filler
 Betelgeuse: filler
@@ -128,7 +128,7 @@ Broadaxe: filler
 Broadsword: unknown
 Broken Greataxe: unknown
 Broken Key: progression
-Broken Spear: unknown
+Broken Spear: filler
 Broken Sword: filler
 Bronze Armor: filler
 Bronze Chestplate: unknown
@@ -155,7 +155,7 @@ Capella: unknown
 Capricorn Gem: filler
 Carabineer Mail: filler
 Caramel: unknown
-Carmagnole: unknown
+Carmagnole: filler
 Castellanos: unknown
 Cat-ear Hood: filler
 Celebrant's Miter: filler
@@ -339,7 +339,7 @@ Gemini Gem: unknown
 Gemsteel: unknown
 Gendarme: unknown
 Genji Armor: filler
-Genji Gloves: unknown
+Genji Gloves: filler
 Genji Helm: filler
 Genji Shield: filler
 Germinas Boots: useful
@@ -365,7 +365,7 @@ Gold Hairpin: unknown
 Gold Needle: filler
 Golden Amulet: filler
 Golden Armor: filler
-Golden Axe: unknown
+Golden Axe: filler
 Golden Helm: filler
 Golden Shield: unknown
 Golden Skullcap: unknown
@@ -554,7 +554,7 @@ Musk Stick: unknown
 Mystletainn: unknown
 Mythril Blade: filler
 Mythril Sword: filler
-Mythril: unknown
+Mythril: filler
 Nalbina Aeropass: progression
 Nebra Succulent: unknown
 Nihopalaoa: filler
@@ -583,7 +583,7 @@ Orichalcum: filler
 Orochi: unknown
 Orrachea Armlet: filler
 Osafune: unknown
-Parallel Arrows: unknown
+Parallel Arrows: filler
 Paramina Crossbow: filler
 Partisan: unknown
 Peach Tuft: filler
@@ -662,7 +662,7 @@ Ruby Ring: filler
 Runeblade: filler
 Rusted Scrap of Armor: filler
 Sage's Ring: filler
-Sagittarius Gem: unknown
+Sagittarius Gem: filler
 Sagittarius: filler
 Sakura-saezuri: useful
 Salamand Halcyon: filler
@@ -761,12 +761,12 @@ Stone Shot: filler
 Stone of the Condemner: progression
 Stoneblade: unknown
 Stop: unknown
-Storm Crystal: unknown
+Storm Crystal: filler
 Storm Magicite: unknown
 Storm Spear: filler
 Storm Staff: filler
 Storm Stone: unknown
-Stun Bombs: unknown
+Stun Bombs: filler
 Sturdy Bone: unknown
 Succulent Fruit: filler
 Sunstone: progression
@@ -808,10 +808,10 @@ Tumulus: useful
 Turtle Shell: filler
 Turtleshell Choker: unknown
 Tyrant Bone: filler
-Tyrant Hide: unknown
+Tyrant Hide: filler
 Ultima Blade: filler
 Ultima: useful
-Undin Halcyon: unknown
+Undin Halcyon: filler
 Unpurified Ether: unknown
 Vampyr Fang: filler
 Vanish: unknown
@@ -844,7 +844,7 @@ White Robes: unknown
 White Tuft: filler
 Wind Crystal: unknown
 Wind Globe: progression
-Wind Magicite: unknown
+Wind Magicite: filler
 Wind Stone: unknown
 Windbreaker: unknown
 Windslicer Pinion: unknown

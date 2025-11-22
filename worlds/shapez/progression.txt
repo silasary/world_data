@@ -19,6 +19,7 @@ Constant Signal: progression
 Cutter: progression
 Demonic Belt Upgrade Trap: trap
 Demonic Painting Upgrade Trap: trap
+Demonic Processors Upgrade Trap: trap
 Display: useful
 Double Painter: progression
 Extractor: progression
