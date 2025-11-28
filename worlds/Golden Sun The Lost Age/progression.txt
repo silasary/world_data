@@ -11,36 +11,36 @@ Armlet: filler
 Aroma Ring: filler
 Astral Circlet: useful
 Asura's Armor: useful
-Azul: useful
-Battle Mace: unknown
-Battle Rapier: unknown
-Blaze: mcguffin
+Azul: mcguffin
+Battle Mace: filler
+Battle Rapier: filler
+Blaze: progression
 Blessed Ankh: useful
-Blessed Robe: unknown
+Blessed Robe: useful
 Blow Mace: useful
 Blue Key: progression
 Bone Armlet: useful
 Bramble Seed: filler
 Brilliant Circlet: useful
 Broad Axe: filler
-Broad Sword: unknown
-Bronze Shield: unknown
+Broad Sword: filler
+Bronze Shield: filler
 Burning Sword: useful
 Burst Brooch: progression
 Captain's Axe: useful
-Carry Stone: mcguffin
+Carry Stone: progression
 Casual Shirt: useful
-Catastrophe: useful
+Catastrophe: mcguffin
 Catch Beads: progression
 Center Prong: progression
-Charon: useful
+Charon: mcguffin
 Chronos Mail: useful
 Clarity Circlet: useful
 Cleric's Ring: useful
 Cloud Brand: useful
 Cloud Wand: useful
 Clumsy Mimic: trap
-Coatlique: useful
+Coatlique: mcguffin
 Coins 123: filler
 Coins 12: filler
 Coins 161: filler
@@ -52,12 +52,12 @@ Coins 210: filler
 Coins 306: filler
 Coins 315: filler
 Coins 32: filler
-Coins 365: unknown
+Coins 365: filler
 Coins 383: filler
 Coins 3: filler
-Coins 666: unknown
+Coins 666: filler
 Coins 777: filler
-Coins 82: unknown
+Coins 82: filler
 Coins 911: filler
 Comet Mace: useful
 Cookie: useful
@@ -67,8 +67,8 @@ Cosmos Shield: useful
 Crafted Gloves: useful
 Crown of Glory: useful
 Crystal Powder: filler
-Cyclone Chip: mcguffin
-Daedalus: useful
+Cyclone Chip: progression
+Daedalus: mcguffin
 Dancing Idol: progression
 Dark Matter: filler
 Demon Mace: useful
@@ -80,7 +80,7 @@ Dracomace: useful
 Dragon Boots: useful
 Dragon Mail: useful
 Dragon Skin: useful
-Eclipse: useful
+Eclipse: mcguffin
 Elixir: useful
 Elven Shirt: useful
 Erebus Armor: useful
@@ -92,7 +92,7 @@ Fire Brand: useful
 Fireman's Pole: useful
 Flame Shield: useful
 Floating Hat: useful
-Flora: useful
+Flora: mcguffin
 Floral Dress: useful
 Frost Jewel: progression
 Fujin Shield: useful
@@ -105,26 +105,26 @@ Golden Boots: useful
 Golden Ring: useful
 Golden Shirt: useful
 Golem Core: useful
-Great Axe: unknown
-Great Sword: unknown
+Great Axe: filler
+Great Sword: filler
 Grindstone: progression
 Growth: progression
-Guardian Circlet: unknown
+Guardian Circlet: filler
 Guardian Ring: filler
 Hagbone Mace: useful
 Hard Nut: useful
-Haures: useful
+Haures: mcguffin
 Healing Fungus: progression
 Heavy Armlet: filler
 Herb: filler
-Herbed Shirt: unknown
+Herbed Shirt: filler
 Hestia Blade: useful
-Hover Jade: mcguffin
+Hover Jade: progression
 Hyper Boots: useful
 Hypnos' Sword: useful
 Imperial Mimic: trap
 Iris Robe: useful
-Iris: useful
+Iris: mcguffin
 Iron Shield: filler
 Isaac: progression
 Ivan: progression
@@ -136,22 +136,22 @@ Knight's Greave: useful
 Knight's Shield: unknown
 Lash Pebble: progression
 Laughing Fungus: filler
-Leather Cap: unknown
+Leather Cap: filler
 Left Prong: progression
 Levatine: useful
 Li'l Turtle: progression
 Lifting Gem: progression
 Lightning Sword: useful
-Long Sword: unknown
-Lucky Medal: filler
+Long Sword: filler
+Lucky Medal: progression
 Lucky Pepper: useful
 Magical Cassock: useful
-Magma Ball: mcguffin
-Mars Star: mcguffin
+Magma Ball: progression
+Mars Star: progression
 Masamune: useful
 Master Rapier: filler
 Meditation Rod: useful
-Megaera: useful
+Megaera: mcguffin
 Mia: progression
 Mighty Axe: useful
 Milk: progression
@@ -164,7 +164,7 @@ Mint: useful
 Mirrored Shield: useful
 Mist Potion: filler
 Mist Sabre: useful
-Moloch: useful
+Moloch: mcguffin
 Muni Robe: useful
 Muramasa: useful
 Mysterious Card: useful
@@ -182,7 +182,7 @@ Oil Drop: filler
 Oracle's Robe: useful
 Orb of Force: progression
 Orihalcon: useful
-Padded Gloves: unknown
+Padded Gloves: filler
 Parch: progression
 Phaeton's Blade: useful
 Phantasmal Mail: useful
@@ -232,7 +232,7 @@ Silk Robe: filler
 Silver Armlet: filler
 Silver Circlet: filler
 Silver Greave: useful
-Silver Helm: unknown
+Silver Helm: filler
 Sleep Bomb: filler
 Smoke Bomb: filler
 Sol Blade: useful
@@ -240,7 +240,7 @@ Soul Ring: useful
 Spirit Armlet: useful
 Spirit Gloves: useful
 Star Dust: filler
-Steel Armor: unknown
+Steel Armor: filler
 Stellar Axe: useful
 Storm Brand: useful
 Sylph Feather: filler
@@ -256,9 +256,9 @@ Trainer's Whip: useful
 Travel Robe: filler
 Travel Vest: filler
 Tremor Bit: progression
-Trident: useful
+Trident: progression
 Turtle Boots: useful
-Ulysses: useful
+Ulysses: mcguffin
 Unicorn Ring: filler
 Valkyrie Mail: useful
 Vial: filler
@@ -270,6 +270,6 @@ Weasel's Claw: filler
 Whirlwind: progression
 Wild Coat: useful
 Wings of Anemos: progression
-Witch's Wand: unknown
-Wooden Stick: unknown
-Zagan: useful
+Witch's Wand: useful
+Wooden Stick: filler
+Zagan: mcguffin
