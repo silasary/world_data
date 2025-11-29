@@ -3,9 +3,13 @@
 50 Blessings Briefcase: useful
 AK Gen 21 Submachine Gun: useful
 AK Rifle: useful
+AK.762 Rifle: useful
+AK17 Rifle: progression
 AK5 Rifle: useful
 AMR-16 Rifle: useful
+Accelerator: useful
 Ace of Spades : useful
+Adhesive Grenade: useful
 Airbow: useful
 Akimbo AK Gen 21 Tactical SMGs: useful
 Akimbo Baby Deagle Pistols: useful
@@ -19,12 +23,14 @@ Akimbo CR 805B Submachine Guns: useful
 Akimbo Castigo .44 Revolvers: useful
 Akimbo Chicago Typewriter SMGs: useful
 Akimbo Chimano 88 Pistols: useful
+Akimbo Chimano Compact Pistols: useful
 Akimbo Chimano Custom Pistols: useful
 Akimbo Cobra Submachine Guns: useful
 Akimbo Compact-5 Submachine Guns: useful
 Akimbo Contractor Pistols: useful
 Akimbo Croskill Pistols: useful
 Akimbo Crosskil Chunky Compact Pistols: useful
+Akimbo Crosskill Guard Pistols: useful
 Akimbo Czech 92 Pistols: useful
 Akimbo Deagle Pistols: useful
 Akimbo Frenchman Model 87 Revolvers: useful
@@ -39,10 +45,12 @@ Akimbo Jackal Submachine Guns: useful
 Akimbo Jacket's Piece: useful
 Akimbo Judge Shotguns: useful
 Akimbo Kahn .357 Revolvers: useful
+Akimbo Kobus 90 Submachine Guns: useful
 Akimbo Krinkov Submachine Guns: useful
 Akimbo Kross Vertex Submachine Guns: useful
 Akimbo Káng Arms Model 54 Pistols: useful
 Akimbo LEO Pistols: useful
+Akimbo M13 9mm Pistols: useful
 Akimbo MP40 Submachine Guns: useful
 Akimbo Mark 10 Submachine Guns: useful
 Akimbo Matever .357 Revolvers: useful
@@ -59,23 +67,32 @@ Akimbo Swedish K Submachine Guns: useful
 Akimbo Tatonka Submachine Guns: useful
 Akimbo Uzi Submachine Guns: useful
 Akimbo VD-12 Shotguns: useful
+Akimbo White Streak Pistols: useful
 Akron HC Light Machine Gun: useful
 Alabama Razor: useful
 Amaroq 900 Sniper Rifle: progression
+Ammo Bag: progression
 Ammo Specialist Tree: progression
+Anarchist: progression
 Another skin ? Purple ? Not bad.: filler
 Aran G2 Sniper Rifle: useful
 Arbiter Grenade Launcher: progression
 Are you so dumb, that the third pallet, a fucking inanimate object, can hide from you ? -Locke: filler
 Argos III Shotgun: useful
 Arkansas Toothpick: useful
+Armor Bag: progression
+Armorer: useful
 Artful Dodger Tree: progression
 Baby Deagle: useful
 Bain: progression
 Ballistic Vest: progression
+Baseball Bat: useful
 Basilisk 3V Grenade Launcher: useful
 Bayonet Knife: useful
+Bearded Axe: useful
 Berger Combat Knife: useful
+Bernetti 9 Pistol: useful
+Bernetti Auto Pistol: useful
 Bernetti Rangehitter Sniper Rifle: useful
 Biker: progression
 Bile sent you some ammo!: filler
@@ -88,6 +105,7 @@ Brawler Tree: progression
 Breacher Tree: progression
 Breaker 12G Shotgun: useful
 Brenner-21 Light Machine Gun: useful
+Bronco .44 Revolver: useful
 Broomstick Pistol: useful
 Brothers Grimm 12G Shotgun: useful
 Buckler Shield: useful
@@ -109,9 +127,12 @@ Chimano 88 Pistol: useful
 Chimano Compact Pistol: useful
 Chimano Custom Pistol: useful
 China Puff 40mm Grenade Launcher: useful
+Claire 12G Shotgun: useful
+Clarion Rifle: useful
 Classic Baton: useful
 Classics: progression
 Cleaver Knife: useful
+Clover's Shillelagh: useful
 Cobra Submachine Gun: useful
 Combined Tactical Vest: progression
 Comically Large Spoon of Gold: useful
@@ -119,6 +140,7 @@ Comically Large Spoon: useful
 Commando 101 Rocket Launcher: useful
 Commando 553 Rifle: useful
 Compact 40mm Grenade Launcher: useful
+Compact Hatchet: useful
 Compact-5 Submachine Gun: useful
 Concealer: useful
 Concussion Grenade: useful
@@ -128,6 +150,7 @@ Controller Tree: progression
 Copycat: progression
 Crook: useful
 Crosskill Chunky Compact Pistol: useful
+Crosskill Guard Pistol: useful
 Crosskill Pistol: useful
 Croupier's Rake: useful
 Czech 92 Pistol: useful
@@ -148,6 +171,8 @@ El Verdugo: useful
 Electrical Brass Knuckles: progression
 Empty Palm Kata: useful
 Engineer Tree: progression
+English Longbow: useful
+Events: progression
 Ex-president: useful
 Falcon Rifle: useful
 Fire Axe: useful
@@ -158,9 +183,12 @@ Flamethrower Mk.1: useful
 Frenchman Model 87 Revolver: useful
 Fuck you, you coward shield ! -Jimmy: filler
 GL40 Grenade Launcher: useful
+GSPS 12G Shotgun: useful
 Galant Rifle: useful
 Gambler: progression
 Gecko 7.62 Rifle: useful
+Gecko M2 Pistol: progression
+Gemma McShay: progression
 Gewehr 3 Rifle: useful
 Gold Fever: useful
 Golden AK.762 Rifle: useful
@@ -173,6 +201,7 @@ Grimm 12G Shotgun: useful
 Grinder: progression
 Grom Sniper Rifle: useful
 Gruber Kurz Pistol: useful
+Gunslinger Tree: progression
 Guys the thermal drill go get it -Bain: filler
 HEF Grenade: useful
 HOLT 9mm Pistol: useful
@@ -188,6 +217,7 @@ Hector: progression
 Hitman: useful
 Hockey Stick: useful
 Hook: useful
+Hotline 8000x: useful
 I always liked to play with cars as a kid -Bile: filler
 I don’t know what this drill is made for but it ain’t drilling -Sokol: filler
 I hope you like to hip-fire :D: trap
@@ -196,6 +226,7 @@ Ice Pick: useful
 If you see a big black f*cking chopper, that's me, unless we are talking about what's in your mom's knicker drawer. -Locke: filler
 Igor Automatik Pistol: useful
 Improved Combined Tactiacal Vest: progression
+Incendiary Grenade: useful
 Infamy: progression
 Infiltrator: useful
 Inspiring: progression
@@ -216,6 +247,7 @@ KSP 58 Light Machine Gun: useful
 KSP Light Machine Gun: useful
 Kahn .357 Revolver: useful
 Kazaguruma: useful
+Kento's Tanto: useful
 Kingpin: progression
 Knuckle Daggers: useful
 Kobus 90 Submachine Gun: useful
@@ -225,6 +257,7 @@ Kross Vertex Submachine Gun: useful
 Kunai Knife: progression
 Káng Arms Model 54 Pistol: useful
 Káng Arms X1 Sniper Rifle: useful
+LEO Pistol: useful
 Leather Sap: useful
 Lebensauger .308 Sniper Rifle: useful
 Leech: useful
@@ -237,11 +270,13 @@ Locomotive 12G Shotgun: useful
 Lucille Baseball Bat: useful
 M1014 Shotgun: useful
 M13 9mm Pistol: useful
+M308 Rifle: useful
 M60 Light Machine Gun: useful
 MA-17 Flamethrower: useful
 MP40 Submachine Gun: useful
 Machete Knife: useful
 Machete: useful
+Maniac: progression
 Mark 10 Submachine Gun: useful
 Mary fucked a little lamb- oh you there ? -Vlad: filler
 Matever .357 Revolver: useful
@@ -256,6 +291,7 @@ Microphone: useful
 Miyaka 10 Special Submachine Gun: useful
 Molotov Cocktail: useful
 Money Bundle: useful
+Monkey Wrench: useful
 Morning Star: useful
 Mosconi 12G Shotgun: useful
 Mosconi 12G Tactical Shotgun: progression
@@ -271,6 +307,7 @@ OVERKILL Boxing Gloves: useful
 Okinawan Style Sai: useful
 Oppressor Tree: progression
 Para Submachine Gun: useful
+Parabellum Pistol: useful
 Patchett L2A1 Submachine Gun: useful
 Peacemaker .45 Revolver: useful
 Piercing: progression
@@ -280,25 +317,32 @@ Pitchfork: useful
 Plainsrider Bow: useful
 Platypus 70 Sniper Rifle: useful
 Poker: useful
+Potato Masher: useful
 Pounder: useful
 Predator 12G Shotgun: useful
 Pronghorn Sniper Rifle: useful
+Psycho Knife: useful
 Push Daggers: useful
 Queen's Wrath Rifle: useful
 Quick: progression
+R700 Sniper Rifle: useful
 R93 Sniper Rifle: useful
 RPK Light Machine Gun: useful
 RUS-12 Angry Tiger Revolver: progression
+Rattlesnake Sniper Rifle: useful
 Raven Shotgun: useful
 Reinfeld 88 Shotgun: useful
+Repeater 1874 Sniper Rifle: useful
 Revenant Tree: progression
 Rezkoye: useful
 Rivertown Glen Bottle: useful
 Rodion 3B Rifle: useful
 SG Versteckt 51D Light Machine Gun: useful
+STRYK 18c Pistol: useful
 Scalper Tomahawk: useful
 Scout Knife: useful
 Selfie-Stick: useful
+Sharpeyed: progression
 Sharpshooter Tree: progression
 Shawn's Shears: useful
 Shayu: progression
@@ -323,15 +367,19 @@ Stay on the ground, or move, and be in it -Sokol: filler
 Stay there. Yeah, I'm talking to you. No, don't answer back, you twat!: filler
 Steakout 12G Shotgun: useful
 Stockpiler: useful
+Stoic: useful
 Street Sweeper Shotgun: useful
 Survival Tomahawk: useful
 Swagger Stick: useful
 Swedish K Submachine Gun: useful
 Switchblade: useful
 Tactical Flashligh: useful
+Tag Team: useful
 Talons: useful
 Tank Tree: progression
 Tatonka Submachine Gun: useful
+Telescopic Baton: useful
+Tempest-21 Rifle: useful
 Tenderizer: useful
 Thanatos .50 cal Sniper Rifle: useful
 The Butcher: progression
@@ -351,8 +399,11 @@ Trautman Knife: useful
 Trench Knife: useful
 Trip Mine: progression
 Turrets (yes both of them): progression
+Two Handed Great Ruler: useful
+UAR Rifle: useful
 URSA Knife: useful
 Union 5.56 Rifle: progression
+Ursa Tanto Knife: useful
 Utility Knife: useful
 Utility Machete: useful
 Uzi Submachine Gun: useful

@@ -1,5 +1,6 @@
 Artillery air gun: unknown
 Artillery mortar: unknown
+Barren lands assignment unlock: progression
 Bundles upgrade: useful
 Carry upgrade: useful
 Cobalt contribution assignment unlock: progression
@@ -21,6 +22,7 @@ Fruit duration: unknown
 Fruit mining boost: useful
 Fruit speed boost: useful
 Gravitational movement: useful
+Heavy hitters assignment unlock: progression
 High risk assignment unlock: progression
 Iron contribution assignment unlock: progression
 Iron shortage assignment unlock: progression
@@ -30,6 +32,7 @@ Laser sight: useful
 Laser speed: useful
 Laser strength: useful
 Layer unlock: progression
+Logistical problem assignment unlock: progression
 Maze assignment unlock: progression
 Mining problem assignment unlock: progression
 Orchard ability: useful
@@ -55,5 +58,6 @@ Tesla better orb: useful
 Tesla quick shot: useful
 Tesla reticle speed: useful
 Tesla shot power: useful
+Upside down assignment unlock: progression
 Wave shortened: trap
 Wave start: unknown

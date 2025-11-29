@@ -80,7 +80,7 @@ Grenade Charm: unknown
 Ham: useful
 Hard Mode: progression
 Hargreaves: useful
-Harp: unknown
+Harp: useful
 Heal Spell: useful
 Heart Container: unknown
 Heart Transplant: useful
@@ -134,7 +134,7 @@ Protection Charm: unknown
 Pulse Scroll: unknown
 Pulse Spell: unknown
 Pulse Tome: unknown
-Quartz Armor: unknown
+Quartz Armor: useful
 Randomizer Mode: progression
 Rapier: unknown
 Rat Familiar: unknown
@@ -148,6 +148,7 @@ Ring of Frost: useful
 Ring of Gold: useful
 Ring of Luck: unknown
 Ring of Mana: unknown
+Ring of Might: useful
 Ring of Pain: unknown
 Ring of Peace: unknown
 Ring of Phasing: unknown
@@ -172,7 +173,7 @@ Spear: unknown
 Spiked Ears: unknown
 Staff: useful
 Strength Charm: unknown
-Sunglasses: unknown
+Sunglasses: useful
 Suzu: progression
 Tempo: progression
 Throwing Charm: unknown

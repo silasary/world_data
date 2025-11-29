@@ -357,7 +357,7 @@ Recipe: Assembly Director System: progression
 Recipe: Automated Miner: useful
 Recipe: Automated Speed Wiring: progression
 Recipe: Automated Wiring: progression
-Recipe: Ballistic Warp Drive: unknown
+Recipe: Ballistic Warp Drive: progression
 Recipe: Basic Iron Ingot: progression
 Recipe: Battery: useful
 Recipe: Beacon: useful
@@ -738,7 +738,7 @@ Trap: Elite Hatcher: trap
 Trap: Fart Cloud: trap
 Trap: Gas Stinger: trap
 Trap: Hatcher: trap
-Trap: Hog: unknown
+Trap: Hog: trap
 Trap: Not the Bees: trap
 Trap: Nuclear Waste Drop: trap
 Trap: Small Stinger: trap

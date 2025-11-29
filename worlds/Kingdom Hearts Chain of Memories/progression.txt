@@ -28,7 +28,7 @@ Card Set Diamond Dust 1-3: filler
 Card Set Diamond Dust 4-6: filler
 Card Set Diamond Dust 7-9: filler
 Card Set Divine Rose 0: filler
-Card Set Divine Rose 1-3: unknown
+Card Set Divine Rose 1-3: filler
 Card Set Divine Rose 4-6: filler
 Card Set Divine Rose 7-9: useful
 Card Set Dumbo 0: useful
@@ -110,7 +110,7 @@ Card Set One Winged Angel 0: filler
 Card Set One Winged Angel 1-3: filler
 Card Set One Winged Angel 4-6: filler
 Card Set One Winged Angel 7-9: useful
-Card Set Potion 0: unknown
+Card Set Potion 0: filler
 Card Set Potion 1-3: filler
 Card Set Potion 4-6: filler
 Card Set Potion 7-9: filler
@@ -184,7 +184,7 @@ Enemy Card Powerwild: filler
 Enemy Card Red Nocturne: unknown
 Enemy Card Screwdiver: filler
 Enemy Card Sea Neon: useful
-Enemy Card Shadow: unknown
+Enemy Card Shadow: filler
 Enemy Card Soldier: filler
 Enemy Card Tornado Step: filler
 Enemy Card Trickmaster: filler

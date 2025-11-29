@@ -32,6 +32,7 @@ EX_AUTO_COOLDOWN: useful
 EX_BACKUP_DNA: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_DRONE_SPEED: useful
+EX_EXPLOSIVE_REPLICATOR: useful
 EX_FTL_BOOSTER: filler
 EX_HACKING_STUN: filler
 EX_ION_ARMOR: useful
@@ -39,6 +40,7 @@ EX_MEDBAY_NANO: useful
 EX_O2_MASKS: useful
 EX_SHIELD_RECHARGE: useful
 EX_TELEPORT_HEAL: useful
+Eargen Republic Capital Sector: progression
 Emancipated Sanctuary Sector: progression
 Emancipation Grills: useful
 Federation Embassy Sector: progression
@@ -47,12 +49,15 @@ Gathering Gardenworlds Sector: progression
 Gathering Sector: progression
 Geniocracy Coreworlds Sector: progression
 Hacked Union Sector: progression
+Harmony Coreworlds Sector: progression
+Harmony Sector: progression
 Hive Broodworlds Sector: progression
 Hunting Grounds Sector: progression
 Illesctrian Oasis Sector: progression
 Imperial New-Homelands Sector: progression
 Imperial Sector: progression
 Infested Sector: progression
+Level 3 Cloaking : useful
 Logistical Assistant: filler
 Lvl 4 Teleporter: useful
 Ministry Capital Sector: progression
@@ -62,6 +67,7 @@ Progressive AUG CREW_STIMS: useful
 Progressive AUG OBSIDIAN_ARMOR: useful
 Progressive AUG SLUG_GEL: useful
 Progressive AUG STORE_BEACON_SUPER: useful
+Progressive AUG WEAPON_PREIGNITE: useful
 Progressive Cloaking: progression
 Progressive Clone Bay: progression
 Progressive Doors: progression
@@ -76,11 +82,13 @@ Rebel Stronghold Sector: progression
 Republican [Sale!] Sector: progression
 Royal Kleptocracy Nebula Sector: progression
 Separatisit Sector: progression
+Spectral Capital Sector: progression
 Starting Drones x2: filler
 Starting Fuel x5: filler
 Starting Missiles x2: filler
 Starting Scrap x25: filler
 The Jerome Protectorate Sector: progression
+Theocracy Homeworlds Sector: progression
 Theocracy Sector: progression
 Unexplored Sector: progression
 Union Coreworlds Sector: progression

@@ -6,6 +6,7 @@
 4-C Unlock: progression
 6-A Unlock: progression
 6-B Unlock: progression
+? Switch: progression
 Boss Token: progression
 Cannon Unlock: progression
 Carry: progression
@@ -17,10 +18,13 @@ Lakitu Cloud: progression
 Luigi: filler
 M-A Unlock: progression
 M-B Unlock: progression
+Mega Mushroom: progression
 Mini Mushroom: progression
 Moon Coin: filler
 Mushroom Kingdom Taxes: filler
+Nerve-Wrack Pack: progression
 OHKO Trap: trap
+P Switch: progression
 Pipe Traversal - Left: progression
 Pipe Traversal - Right: progression
 Pipe Traversal - Up: progression
@@ -33,3 +37,4 @@ Swim: progression
 World 1 Unlock: progression
 World 2 Unlock: progression
 World 3 Unlock: progression
+World Mushroom Unlock: progression

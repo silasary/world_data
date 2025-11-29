@@ -19,7 +19,7 @@
 2-8: unknown
 2-9: unknown
 3-1: unknown
-3-2: unknown
+3-2: progression
 3-3: progression
 3-4: progression
 3-5: progression
@@ -100,5 +100,5 @@ Portable Truck: useful
 Supertruck: unknown
 Time Slow: unknown
 Truck Boost: useful
-Trucker Flip: unknown
+Trucker Flip: useful
 Trucksolute Zero: useful
