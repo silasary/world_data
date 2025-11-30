@@ -26,7 +26,7 @@ Barbed Straight Sword: useful
 Basement Key: progression
 Bastard Sword: useful
 Battle Axe: useful
-Beatrice's Catalyst: unknown
+Beatrice's Catalyst: filler
 Bellowing Dragoncrest Ring: useful
 Bequeathed Lord Soul Shard (Four Kings): mcguffin
 Bequeathed Lord Soul Shard (Seath): progression
@@ -40,7 +40,7 @@ Black Iron Armor: unknown
 Black Iron Greatshield: useful
 Black Iron Helm: useful
 Black Iron Leggings: filler
-Black Knight Gauntlets: unknown
+Black Knight Gauntlets: filler
 Black Knight Greataxe: useful
 Black Knight Greatsword: useful
 Black Knight Halberd: useful
@@ -54,6 +54,7 @@ Black Leather Gloves: unknown
 Black Manchette: useful
 Black Separation Crystal: filler
 Black Sorcerer Boots: useful
+Black Sorcerer Cloak: filler
 Black Sorcerer Gauntlets: unknown
 Black Sorcerer Hat: useful
 Black Tights: filler
@@ -93,7 +94,7 @@ Caduceus Round Shield: useful
 Caestus: useful
 Cage Key: useful
 Calamity Ring: filler
-Canvas Talisman: unknown
+Canvas Talisman: filler
 Carving: HELLO!: filler
 Carving: HELP ME!: filler
 Carving: I'M SORRY!: filler
@@ -116,7 +117,7 @@ Chester's Long Coat: useful
 Chester's Trousers: unknown
 Claw: useful
 Claymore: unknown
-Cleric Armor: unknown
+Cleric Armor: filler
 Cleric Gauntlets: useful
 Cleric Helm: filler
 Cloranthy Ring: filler
@@ -129,6 +130,7 @@ Covetous Gold Serpent Ring: unknown
 Covetous Silver Serpent Ring: useful
 Cracked Red Eye Orb: useful
 Cracked Round Shield: useful
+Crescent Axe: filler
 Crest Key: progression
 Crest Shield: useful
 Crest of Artorias: progression
@@ -158,15 +160,15 @@ Dark Mask: filler
 Dark Silver Tracer: filler
 Dark Wood Grain Ring: filler
 Darkmoon Blade Covenant Ring: filler
-Darkmoon Bow: unknown
-Darkmoon Seance Ring: unknown
+Darkmoon Bow: filler
+Darkmoon Seance Ring: filler
 Darkmoon Talisman: unknown
 Darksign: filler
 Darksword: useful
 Demon Great Machete: filler
 Demon Titanite: useful
 Demon's Catalyst: unknown
-Demon's Great Hammer: unknown
+Demon's Great Hammer: filler
 Demon's Greataxe: unknown
 Demon's Spear: filler
 Dingy Gloves: filler
@@ -243,7 +245,7 @@ Giant's Halberd: filler
 Gold Coin: filler
 Gold Pine Resin: useful
 Gold Tracer: unknown
-Gold-Hemmed Black Cloak: unknown
+Gold-Hemmed Black Cloak: filler
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: filler
 Gold-Hemmed Black Skirt: unknown
@@ -258,12 +260,13 @@ Gough's Great Arrow: useful
 Gough's Greatbow: filler
 Gough's Helm: filler
 Gough's Leggings: unknown
+Grant: filler
 Grass Crest Shield: useful
 Gravelord Sword: useful
 Great Club: filler
 Great Lord Greatsword: filler
 Great Scythe: filler
-Greataxe: unknown
+Greataxe: filler
 Greatshield of Artorias: useful
 Greatsword of Artorias (Cursed): useful
 Greatsword of Artorias: unknown
@@ -295,7 +298,7 @@ Heavy Boots: unknown
 Heavy Crossbow: useful
 Helm of Artorias: unknown
 Helm of Thorns: filler
-Helm of the Wise: unknown
+Helm of the Wise: filler
 Hollow Soldier Armor: filler
 Hollow Soldier Helm: filler
 Hollow Soldier Shield: useful
@@ -318,7 +321,7 @@ Iron Leggings: useful
 Iron Round Shield: unknown
 Ivory Talisman: useful
 Izalith Catalyst: unknown
-Jagged Ghost Blade: unknown
+Jagged Ghost Blade: filler
 Key to Depths: progression
 Key to New Londo Ruins: progression
 Key to the Seal: progression
@@ -349,6 +352,7 @@ Leggings of Thorns: unknown
 Leo Ring: filler
 Lifehunt Scythe: useful
 Light Crossbow: useful
+Lightning Bolt: filler
 Lingering Dragoncrest Ring: unknown
 Lloyd's Talisman: filler
 Logan's Catalyst: filler
@@ -549,11 +553,11 @@ Sorcery: Hidden Body: unknown
 Sorcery: Hidden Weapon: unknown
 Sorcery: Homing Crystal Soulmass: useful
 Sorcery: Homing Soulmass: useful
-Sorcery: Hush: unknown
+Sorcery: Hush: filler
 Sorcery: Magic Shield: filler
 Sorcery: Magic Weapon: filler
 Sorcery: Pursuers: useful
-Sorcery: Remedy: unknown
+Sorcery: Remedy: filler
 Sorcery: Repair: unknown
 Sorcery: Resist Curse: filler
 Sorcery: Soul Arrow: filler
@@ -598,11 +602,11 @@ Straight Sword Hilt: useful
 Sunlight Maggot: progression
 Sunlight Medal: useful
 Sunlight Shield: useful
-Sunlight Straight Sword: unknown
+Sunlight Straight Sword: filler
 Sunlight Talisman: filler
 Symbol of Avarice: useful
 Talisman: unknown
-Target Shield: unknown
+Target Shield: filler
 Tattered Cloth Hood: useful
 Tattered Cloth Machette: useful
 Tattered Cloth Robe: useful

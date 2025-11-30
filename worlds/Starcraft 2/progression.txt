@@ -24,7 +24,7 @@ Ability Efficiency (Kerrigan Passive): progression
 Ability Efficiency (Kerrigan Tier 6): useful
 Accelerated Warp (Oppressor): useful
 Acid Spore Vents (Infested Missile Turret): useful
-Acidic Enzymes (Infested Siege Tank): unknown
+Acidic Enzymes (Infested Siege Tank): useful
 Adapted Spines (Lurker): useful
 Adaptive Defenses (Predator): progression
 Adaptive Medpacks (Medic): progression
@@ -37,7 +37,7 @@ Additional Starting Vespene: filler
 Adept: progression
 Adrenal Overload (Zergling): useful
 Advanced AI Systems (Science Vessel): useful
-Advanced Alloys (Dominion Trooper): unknown
+Advanced Alloys (Dominion Trooper): useful
 Advanced Ballistics (Liberator): useful
 Advanced Cloaking Field (Medivac): useful
 Advanced Cloaking Field (Reaper): useful
@@ -80,7 +80,7 @@ Anion Pulse-Crystals (Phoenix/Mirage/Skirmisher): useful
 Annihilator: progression
 Antennae (Overlord): filler
 Anti-Armor Missile (Raven): filler
-Anti-Armor Munitions (Devastator Turret): unknown
+Anti-Armor Munitions (Devastator Turret): useful
 Anti-Mechanical Munition (Viking): useful
 Anti-Surface Countermeasures (Dawnbringer): useful
 Apial Sensors (Scout): filler
@@ -106,7 +106,7 @@ Automated Extractors (Zerg): useful
 Automated Refinery (Terran): useful
 Automated Refinery: useful
 Avenger: progression
-Axiom Plating (Warhound): unknown
+Axiom Plating (Warhound): useful
 B-2 High-Cal LMG (Dominion Trooper): useful
 Back in the Saddle Mission Key: progression
 Balanced Roots (Infested Siege Tank): useful
@@ -118,7 +118,7 @@ Baneling: progression
 Banshee: progression
 Bargain Bin Prices (Ghost): unknown
 Bargain Bin Prices (Reaver): useful
-Bargain Bin Prices (Spectre): unknown
+Bargain Bin Prices (Spectre): useful
 Barrage of Spikes (Tyrannozor): useful
 Battlecruiser: progression
 Behemoth Plating (Battlecruiser): useful
@@ -167,12 +167,13 @@ Burrow Charge (Ultralisk): useful
 Burst Capacitors (Diamondback): filler
 Button With a Skull on It (Thor): progression
 C20A Canister Rifle (Nova Weapon): progression
-CPO-7 Salamander Flamethrower (Dominion Trooper): unknown
+CPO-7 Salamander Flamethrower (Dominion Trooper): useful
 Caladrius: progression
 Calcified Armor (Infested Bunker): useful
 Carrier: progression
 Carrion Strain (Swarm Host): useful
 Catalytic Boosters (Bullfrog): useful
+Caustic Enzymes (Spore Crawler): useful
 Caustic Horrors: progression
 Caustic Mucus (Infested Diamondback): useful
 Caustic Spray (Corruptor): useful
@@ -193,12 +194,12 @@ Chrono Shear (Pulsar): useful
 Chrono Surge (Spear of Adun Calldown): useful
 Chrono Surge (Spear of Adun): useful
 Chronoclysm (Intercessor): unknown
-Chronoclysm (Pulsar): unknown
+Chronoclysm (Pulsar): useful
 Chronostatic Reinforcement (Arbiter): useful
 Cloak (Battlecruiser): useful
 Cloak (Liberator): filler
 Cloak (Predator): filler
-Cloaking Module (Disruptor): unknown
+Cloaking Module (Disruptor): useful
 Cloaking Module (Sentry/Energizer/Havoc): useful
 Cloud Dispersal (Infested Liberator): progression
 Colossus: progression
@@ -281,7 +282,7 @@ Diamondback: progression
 Disintegrating Particles (Stalker/Instigator/Slayer): progression
 Disintegration (Tempest): useful
 Displacement Field (Wraith): filler
-Disruptive Transfer (Adept): unknown
+Disruptive Transfer (Adept): useful
 Disruptor Dispersion (Immortal/Annihilator): useful
 Disruptor: progression
 Distortion Blasters (Banshee): useful
@@ -290,6 +291,7 @@ Domination (Protoss) Mission Key: progression
 Domination (Terran) Mission Key: progression
 Domination (Zerg) Mission Key: progression
 Dominion Trooper: progression
+Double Graviton Beam (Phoenix War Council): useful
 Double Graviton Beam (Phoenix): useful
 Double Shield Recharge (Sentry War Council): progression
 Double Shield Recharge (Sentry): progression
@@ -312,12 +314,13 @@ Elder Probes (Protoss): progression
 End Game Mission Key: progression
 Endless Servitude (Supplicant): useful
 Enduring Locusts (Swarm Host): useful
-Enduring Sight (Havoc): unknown
+Enduring Sight (Havoc): useful
 Enemy Intelligence Mission Key: progression
 Enemy Within Mission Key: progression
 Energizer: progression
 Energy Suit Module (Nova Suit Module): useful
 Engine of Destruction (Protoss) Mission Key: progression
+Engine of Destruction (Terran) Mission Key: progression
 Engine of Destruction (Zerg) Mission Key: progression
 Engorged Bunkers (Infested Bunker): useful
 Enhanced Cloak Field (Arbiter): filler
@@ -326,19 +329,20 @@ Enhanced Combustion Engines (Siege Tank): unknown
 Enhanced Mitochondria (Brood Queen): useful
 Enhanced Shield Generator (Dawnbringer): useful
 Enhanced Strider Servos (Dragoon): filler
-Enhanced Targeting (Protoss): unknown
+Enhanced Targeting (Protoss): useful
 Enhanced Targeting: useful
 Enhanced Vision (Sensor Tower): unknown
 Ensnare (Brood Queen): useful
 Entropic Reversal (Intercessor): unknown
-Entropic Reversal (Pulsar): unknown
+Entropic Reversal (Pulsar): useful
 Eradicate (Archon): useful
 Evacuation (Protoss) Mission Key: progression
 Evacuation (Terran) Mission Key: progression
+Evacuation (Zerg) Mission Key: progression
 Evil Awoken Mission Key: progression
 Evolutionary Leap (Zerg): progression
 Evolved Carapace (Brood Lord): useful
-Excavating Claws (Zerg): unknown
+Excavating Claws (Zerg): useful
 Executioner Missiles (Widow Mine): useful
 Expanded Hull (Medivac): filler
 Expeditionary Hull (Scout): useful
@@ -349,7 +353,7 @@ Fast Delivery (Terran/Zerg): unknown
 Feedback (Dark Archon): useful
 Feedback (Signifier War Council): progression
 Feedback (Signifier): progression
-Field-Assist Target System (Battlecruiser): unknown
+Field-Assist Target System (Battlecruiser): useful
 Fire Lance (Colossus War Council): progression
 Fire Lance (Colossus): progression
 Fire in the Sky (Protoss) Mission Key: progression
@@ -357,6 +361,7 @@ Fire in the Sky (Terran) Mission Key: progression
 Fire in the Sky (Zerg) Mission Key: progression
 Firebat: progression
 Flashbang Grenades (Nova Gadget): progression
+Flashpoint Mission Key: progression
 Flechette Missiles (Valkyrie): useful
 Fleshfused Targeting Optics (Infested Banshee): progression
 Flux Vanes (Void Ray/Destroyer): filler
@@ -370,7 +375,7 @@ Force Field (Sentry): filler
 Forged Chassis (Energizer): useful
 Fortified Bunker (Bunker): useful
 Frenzy (Hydralisk): useful
-Frightful Fleshwelder (Infested Banshee): unknown
+Frightful Fleshwelder (Infested Banshee): useful
 Frightful Fleshwelder (Infested Diamondback): useful
 Frightful Fleshwelder (Infested Liberator): useful
 Frightful Fleshwelder (Infested Siege Tank): useful
@@ -383,6 +388,7 @@ G-4 Clusterbomb (Reaper): progression
 Gaping Maw (Devourer): useful
 Gates of Hell (Protoss) Mission Key: progression
 Gates of Hell (Terran) Mission Key: progression
+Gates of Hell (Zerg) Mission Key: progression
 Generate Creep (Overlord): progression
 Ghost Visor (Nova Equipment): useful
 Ghost of a Chance Mission Key: progression
@@ -490,7 +496,7 @@ Increased Building Construction Speed: filler
 Increased Shield Regeneration: filler
 Increased Upgrade Research Speed: filler
 Incubator Chamber (Swarm Queen): useful
-Indomitable Will (Dark Archon): unknown
+Indomitable Will (Dark Archon): useful
 Induce Scopophobia (Observer): useful
 Infernal Plating (Hellion): useful
 Infernal Pre-Igniter (Firebat): useful
@@ -586,13 +592,14 @@ Laser Targeting System (Thor): filler
 Last Stand (Protoss) Mission Key: progression
 Last Stand (Terran) Mission Key: progression
 Last Stand (Zerg) Mission Key: progression
-Latticed Shielding (Stalwart): unknown
+Latticed Shielding (Stalwart): useful
 Launching Vector Compensator (Valkyrie): filler
 Leaping Strike (Kerrigan Ability): progression
 Leaping Strike (Kerrigan Tier 1): progression
 Leg Enhancements (Zealot/Sentinel/Centurion): useful
 Lesser Shadow Fury (Dark Templar): useful
 Lethal Impact (Bullfrog): useful
+Liberation Day Mission Key: progression
 Liberator: progression
 Lockdown (Ghost): useful
 Locust Metabolic Boost (Swarm Host): filler
@@ -646,7 +653,7 @@ Modernized Servos (Instigator): progression
 Moirai Impulse Drive (Battlecruiser): progression
 Monarch Blades (Ultralisk): useful
 Monomolecular Blade (Nova Weapon): progression
-Monstrous Resilience (Aberration): unknown
+Monstrous Resilience (Aberration): useful
 Monstrous Resilience (Corruptor): useful
 Mothership: progression
 Multi-Lock Weapons System (Goliath): useful
@@ -684,7 +691,7 @@ Optimized Logistics (Hellion): filler
 Optimized Logistics (Liberator): filler
 Optimized Logistics (Marine): filler
 Optimized Logistics (Oppressor): useful
-Optimized Ordnance (Protoss): unknown
+Optimized Ordnance (Protoss): useful
 Optimized Ordnance: useful
 Oracle: progression
 Orbital Assimilators (Protoss): filler
@@ -692,6 +699,7 @@ Orbital Assimilators: useful
 Orbital Depots (Terran): useful
 Orbital Depots: useful
 Orbital Module (Planetary Fortress): useful
+Orbital Strike (Barracks): useful
 Orbital Strike (Spear of Adun Calldown): useful
 Orbital Strike (Spear of Adun): progression
 Orbital Strike (Terran): useful
@@ -741,7 +749,7 @@ Planetfall (Protoss) Mission Key: progression
 Planetfall (Terran) Mission Key: progression
 Planetfall (Zerg) Mission Key: progression
 Plasma Rifle (Nova Weapon): progression
-Plasma Surge (High Templar): unknown
+Plasma Surge (High Templar): useful
 Pneumatized Carapace (Overlord): useful
 Porous Cartilage (Brood Lord): useful
 Potent Bile (Ravager): useful
@@ -916,7 +924,7 @@ Resource Efficiency (HERC): useful
 Resource Efficiency (Hydralisk): useful
 Resource Efficiency (Liberator): filler
 Resource Efficiency (Medic): filler
-Resource Efficiency (Medivac): unknown
+Resource Efficiency (Medivac): useful
 Resource Efficiency (Missile Turret): useful
 Resource Efficiency (Nydus Worm/Echidna Worm): useful
 Resource Efficiency (Predator): filler
@@ -924,8 +932,8 @@ Resource Efficiency (Raven): useful
 Resource Efficiency (Reaper): progression
 Resource Efficiency (Reaver): useful
 Resource Efficiency (Scourge): progression
-Resource Efficiency (Scout): unknown
-Resource Efficiency (Sentinel): unknown
+Resource Efficiency (Scout): useful
+Resource Efficiency (Sentinel): useful
 Resource Efficiency (Siege Tank): useful
 Resource Efficiency (Spectre): useful
 Resource Efficiency (Swarm Host): useful
@@ -933,9 +941,10 @@ Resource Efficiency (Swarm Queen): useful
 Resource Efficiency (Ultralisk): useful
 Resource Efficiency (Valkyrie): useful
 Resource Efficiency (Warhound): useful
+Resource Efficiency (Widow Mine): useful
 Resource Efficiency (Wraith): useful
 Restoration (Medic): filler
-Restrained Destruction (Disruptor): unknown
+Restrained Destruction (Disruptor): useful
 Retinal Augmentation (Infested Marine): useful
 Ripwave Missiles (Viking): useful
 Roach (Larva): unknown
@@ -1006,7 +1015,7 @@ Sky Shield (Protoss) Mission Key: progression
 Sky Shield (Terran) Mission Key: progression
 Sky Shield (Zerg) Mission Key: progression
 Skylord: progression
-Skyward Chronoanomaly (Oracle): unknown
+Skyward Chronoanomaly (Oracle): useful
 Slayer: progression
 Smart Servos (Hellion): useful
 Smart Servos (Liberator): filler
@@ -1022,7 +1031,7 @@ Solar Bombardment (Spear of Adun): progression
 Solar Lance (Spear of Adun Calldown): progression
 Solar Lance (Spear of Adun): progression
 Solarite Lens (Dawnbringer War Council): progression
-Solarite Lens (Dawnbringer): unknown
+Solarite Lens (Dawnbringer): progression
 Solarite Payload (Reaver): useful
 Solarite Reactor (Caladrius): useful
 Sonic Disrupter (Psi Disrupter): progression
@@ -1085,7 +1094,7 @@ Swarmling Strain (Zergling): useful
 Tac Nuke Strike (Nova Ability): progression
 Tactical Jump (Battlecruiser): useful
 Tactical Jump (Hercules): useful
-Tactical Jump (Science Vessel): unknown
+Tactical Jump (Science Vessel): useful
 Targeting Optics (Cyclone): useful
 Tech Reactor (Terran): progression
 Tech Reactor: useful
@@ -1101,6 +1110,7 @@ Temple of Unification (Zerg) Mission Key: progression
 Temporal Acceleration Beam (Oracle): useful
 Temporal Field (Spear of Adun Calldown): useful
 Temporal Field (Spear of Adun): useful
+The Crucible (Protoss) Mission Key: progression
 The Crucible (Terran) Mission Key: progression
 The Crucible (Zerg) Mission Key: progression
 The Dig (Protoss) Mission Key: progression
@@ -1119,6 +1129,7 @@ The Infinite Cycle Mission Key: progression
 The Moebius Factor (Protoss) Mission Key: progression
 The Moebius Factor (Terran) Mission Key: progression
 The Moebius Factor (Zerg) Mission Key: progression
+The Outlaws (Protoss) Mission Key: progression
 The Outlaws (Terran) Mission Key: progression
 The Outlaws (Zerg) Mission Key: progression
 The Reckoning (Protoss) Mission Key: progression
@@ -1155,7 +1166,7 @@ Tyrannozor: progression
 Tyrant's Protection (Tyrannozor): useful
 U-238 Rounds (Reaper): useful
 UED Missile Technology (Liberator): unknown
-Ultra-Capacitors (Terran): unknown
+Ultra-Capacitors (Terran): useful
 Ultra-Capacitors: useful
 Ultralisk (Larva): unknown
 Ultralisk: progression
@@ -1198,12 +1209,12 @@ Warp Harmonization (Protoss): progression
 Warp Harmonization: useful
 Warp Prism: progression
 Warp Refraction (Warp Prism War Council): useful
-Warp Refraction (Warp Prism): unknown
+Warp Refraction (Warp Prism): useful
 Welcome to the Jungle (Protoss) Mission Key: progression
 Welcome to the Jungle (Terran) Mission Key: progression
 Welcome to the Jungle (Zerg) Mission Key: progression
 Whirlwind (Zealot War Council): progression
-Whirlwind (Zealot): unknown
+Whirlwind (Zealot): progression
 Whispers of Doom Mission Key: progression
 Widow Mine: progression
 Wild Mutation (Kerrigan Ability): progression

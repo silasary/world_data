@@ -1,6 +1,6 @@
 Equipment - Ace of Diamonds - 1896: unknown
 Equipment - Acolyte's Cookbook - 1853: unknown
-Equipment - Acrobat Shoes: unknown
+Equipment - Acrobat Shoes: useful
 Equipment - Ad Infinitum - 1822: unknown
 Equipment - Adept Robe - 2099: useful
 Equipment - Adept Seal - 2101: unknown
@@ -55,7 +55,7 @@ Equipment - Battle Band: useful
 Equipment - Battle Helm: unknown
 Equipment - Battle Scythe: unknown
 Equipment - Battleplate: unknown
-Equipment - Beads of Defense: unknown
+Equipment - Beads of Defense: useful
 Equipment - Beastmaster Mail: useful
 Equipment - Beatsmith Vest: unknown
 Equipment - Beret: unknown
@@ -215,7 +215,7 @@ Equipment - Desperado Vest - 2148: useful
 Equipment - Dew Staff - 1898: unknown
 Equipment - Diamond Eagle - 1622: unknown
 Equipment - Dirk: useful
-Equipment - Dodge Charm: unknown
+Equipment - Dodge Charm: useful
 Equipment - Doomsayer Seal - 1780: unknown
 Equipment - Double Barrel Shotgun - 1617: unknown
 Equipment - Draconic Shell - 1973: unknown
@@ -324,7 +324,7 @@ Equipment - Greywood Nunchaku - 1851: useful
 Equipment - Grim Scythe: unknown
 Equipment - Guard Crown: unknown
 Equipment - Guardian of Tharsis - 1843: unknown
-Equipment - Gusto Charm: unknown
+Equipment - Gusto Charm: useful
 Equipment - Guts - 1627: unknown
 Equipment - Halberd: unknown
 Equipment - Half-Phoenix Seal - 2156: unknown
@@ -422,7 +422,7 @@ Equipment - Limiter Shield - 1993: unknown
 Equipment - Lion Crest - 2062: unknown
 Equipment - Liquidator - 1892: unknown
 Equipment - Longneck Rifle - 1895: unknown
-Equipment - Looters Pin: unknown
+Equipment - Looters Pin: useful
 Equipment - Looters Ring: useful
 Equipment - Loyalty - 1827: unknown
 Equipment - Lucky Briefs: useful
@@ -491,7 +491,7 @@ Equipment - Old sabre - 1694: unknown
 Equipment - Omnispear - 2030: unknown
 Equipment - Oni Charm - 2044: unknown
 Equipment - Orylei: unknown
-Equipment - Oven Mitt: unknown
+Equipment - Oven Mitt: useful
 Equipment - Padded Vest - 1881: unknown
 Equipment - Paladin Hood - 2057: unknown
 Equipment - Paladin Wand: unknown
@@ -671,7 +671,7 @@ Equipment - Spore Blocker: unknown
 Equipment - Springs Oath: useful
 Equipment - Squire of Avalon - 1816: useful
 Equipment - Squirrel Champion - 1961: unknown
-Equipment - Squirrel Dung: unknown
+Equipment - Squirrel Dung: useful
 Equipment - Stabbers: unknown
 Equipment - Staff of Balance: useful
 Equipment - Staff of imagination - 1664: useful
@@ -763,7 +763,7 @@ Equipment - Twilight's Edge - 1818: unknown
 Equipment - Twin Blade Staff - 1847: useful
 Equipment - Twinshot Crossbow - 1890: useful
 Equipment - Unbound's Scythe - 1828: unknown
-Equipment - Undead Ring: unknown
+Equipment - Undead Ring: useful
 Equipment - Urgency LV1 - 1687: unknown
 Equipment - Urgency LV2 - 1726: unknown
 Equipment - Urgency LV3 - 1727: unknown
@@ -851,7 +851,7 @@ Item - Castle Ramparts Map: useful
 Item - Castle Ramparts Pass: progression
 Item - Castle Sequoia Map: useful
 Item - Castle Sequoia Pass: progression
-Item - Cave Key: unknown
+Item - Cave Key: progression
 Item - Cell Key: progression
 Item - Central Lookout Token: mcguffin
 Item - Cerulean Book: progression
@@ -1061,11 +1061,11 @@ Item - The New World Pass: progression
 Item - The Old World Map: useful
 Item - The Old World Pass: progression
 Item - The Open Sea Map: unknown
-Item - The Open Sea Pass: unknown
+Item - The Open Sea Pass: progression
 Item - The Pale Grotto Map: unknown
 Item - The Pale Grotto Pass: progression
 Item - The Sequoia Map: unknown
-Item - The Sequoia Pass: unknown
+Item - The Sequoia Pass: progression
 Item - The Undercity Map: unknown
 Item - The Undercity Pass: unknown
 Item - Thunder Stone - 366: unknown
@@ -1081,10 +1081,10 @@ Item - Treasure map #2 - 352: unknown
 Item - Treasure map #6 - 356: unknown
 Item - Treasure map #7 - 357: unknown
 Item - Trial Caves Map: useful
-Item - Triton Stone: unknown
+Item - Triton Stone: progression
 Item - Underpass Map: useful
 Item - Undersea Crab: progression
-Item - Vermillion Book: unknown
+Item - Vermillion Book: progression
 Item - Viridian Book: progression
 Item - Warrior's Bane - 363: unknown
 Item - Water Stone - 365: unknown

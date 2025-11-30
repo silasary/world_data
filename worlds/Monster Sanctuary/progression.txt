@@ -521,7 +521,7 @@ Flaming Spear: useful
 Flute+1: unknown
 Flute+2: unknown
 Flute+3: unknown
-Flute+4: unknown
+Flute+4: filler
 Flute+5: unknown
 Flute: useful
 Freeze Trap: unknown
@@ -1081,7 +1081,7 @@ Small Reliquary: unknown
 Smoke Bomb: unknown
 Smoke Pipe: progression
 Smoke bomb: filler
-Snake Stick: unknown
+Snake Stick: progression
 Sonar Detector: progression
 Spare Outfit: progression
 Spark+1: unknown

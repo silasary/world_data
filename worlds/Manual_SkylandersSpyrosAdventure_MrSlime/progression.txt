@@ -3,7 +3,7 @@ Bash's Soul Ability: unknown
 Bash: Granite Dragon: useful
 Bash: Pulver Dragon: unknown
 Bash: progression
-Boomer's Soul Ability: unknown
+Boomer's Soul Ability: useful
 Boomer: Clobber Troll: useful
 Boomer: Demolition Troll: useful
 Boomer: progression
@@ -27,7 +27,7 @@ Double Trouble's Soul Ability: unknown
 Double Trouble: Channeler: useful
 Double Trouble: Conjuror: useful
 Double Trouble: progression
-Dragon's Peak: unknown
+Dragon's Peak: progression
 Drill Sergeant's Soul Ability: useful
 Drill Sergeant: BattleDozer: useful
 Drill Sergeant: MegaDozer: useful
@@ -56,7 +56,7 @@ Hex's Soul Ability: useful
 Hex: Bone Crafter: unknown
 Hex: Shade Master: useful
 Hex: progression
-Hidden Treasure: unknown
+Hidden Treasure: useful
 Ignitor's Soul Ability: useful
 Ignitor: Blademaster: useful
 Ignitor: Soul of the Flame: useful
@@ -103,7 +103,7 @@ Stump Smash's Soul Ability: useful
 Stump Smash: Nut Crafter: unknown
 Stump Smash: Smash 'n Bash: useful
 Stump Smash: progression
-Sunburn's Soul Ability: unknown
+Sunburn's Soul Ability: useful
 Sunburn: Blaze Dragon: unknown
 Sunburn: Flame Lord: useful
 Sunburn: progression

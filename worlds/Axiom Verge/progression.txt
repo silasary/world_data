@@ -10,6 +10,7 @@ Fat Beam: progression
 Field Disruptor: progression
 Firewall: progression
 FlameThrower: progression
+Grapple: progression
 Health Node Fragment: useful
 Health Node: useful
 Health Pickup: filler
@@ -18,6 +19,7 @@ Hypo-Atomizer: progression
 Inertial Pulse: progression
 Ion Beam: progression
 Kilver: progression
+Lightning Gun: progression
 Multi-Disruptor: progression
 Nova: progression
 Orbital Discharge: progression
@@ -27,7 +29,11 @@ Power Node: progression
 Progressive Address Disruptor: progression
 Progressive Coat: progression
 Progressive Drone: progression
+Quantum Variegator: progression
 Reflector: progression
 Reverse Slicer: progression
+Shards: progression
+Size Node: useful
 Sudran Key: progression
 Tethered Charge: progression
+Turbine Pulse: progression
