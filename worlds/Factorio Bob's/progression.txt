@@ -161,6 +161,7 @@ bob-thorium-processing: filler
 bob-titanium-processing: progression
 bob-tungsten-alloy-processing: progression
 bob-tungsten-processing: progression
+bob-turrets-3: filler
 bob-turrets-4: filler
 bob-vehicle-belt-immunity-equipment: unknown
 bob-vehicle-engine-equipment: filler
@@ -332,7 +333,7 @@ radar: filler
 research-speed-4: filler
 research-speed-5: filler
 research-speed-6: filler
-rocket-fuel: unknown
+rocket-fuel: filler
 rocket-silo: unknown
 spidertron: filler
 steel-processing: progression

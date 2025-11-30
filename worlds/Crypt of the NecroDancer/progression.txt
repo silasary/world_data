@@ -31,10 +31,11 @@ Carrot: useful
 Chainmail: useful
 Charm Spell: unknown
 Chaunter: progression
-Cheese: unknown
+Cheese: useful
 Circlet of Telepathy: unknown
 Codex: progression
 Compass: unknown
+Confusion Trap: trap
 Cookies: unknown
 Coupon: unknown
 Crossbow: unknown
@@ -76,6 +77,7 @@ Glass Shovel: unknown
 Glass Slippers: unknown
 Glass Torch: unknown
 Gluttony Charm: unknown
+Gold Scatter Trap: trap
 Grenade Charm: unknown
 Ham: useful
 Hard Mode: progression
@@ -116,10 +118,12 @@ Merlin: progression
 Miku: progression
 Miner's Cap: unknown
 Monk: progression
+Monkey Trap: trap
 Monkey's Paw: unknown
 Monocle: unknown
 Nazar Charm: unknown
 No Beat Mode: progression
+No Return Trap: trap
 Nocturna: progression
 Obsidian Armor: unknown
 Obsidian Shield: useful
@@ -169,12 +173,14 @@ Shop Stock Unlock: progression
 Shopkeeper Familiar: useful
 Shovel of Courage: useful
 Shovel of Strength: unknown
+Skeleton Trap: trap
 Spear: unknown
 Spiked Ears: unknown
 Staff: useful
 Strength Charm: unknown
 Sunglasses: useful
 Suzu: progression
+Tempo Trap: trap
 Tempo: progression
 Throwing Charm: unknown
 Throwing Stars: unknown
@@ -182,7 +188,7 @@ Titanium Shield: useful
 Titanium Shovel: unknown
 Torch of Foresight: unknown
 Torch of Strength: useful
-Torch of Walls: unknown
+Torch of Walls: useful
 Torch: unknown
 Transmute Scroll: unknown
 Transmute Spell: useful

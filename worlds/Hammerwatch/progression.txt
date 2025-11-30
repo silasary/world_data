@@ -2,7 +2,7 @@
 5-Up Ankh: unknown
 7-Up Ankh: unknown
 Activate AmF4 Puzzle: progression
-Activate AmF5 Bonus Portal: unknown
+Activate AmF5 Bonus Portal: progression
 Activate AmF5 Puzzle: unknown
 Activate AvF7 Puzzle: unknown
 Activate AvF8 Puzzle: progression
@@ -217,7 +217,7 @@ Open AvF9 Secret Passage South Room: progression
 Open AvF9 Secret Passage: progression
 Open AvF9 Simon Says Room: unknown
 Open AvF9 South Room Right Side: progression
-Open AvF9 South Room Top Side: unknown
+Open AvF9 South Room Top Side: progression
 Open CL1 Secret Tunnel: unknown
 Open ChF10 SW Exit: progression
 Open ChF10 South Shortcut: unknown
@@ -469,7 +469,7 @@ Strange Plank: mcguffin
 Teleport AmF4 North Item: unknown
 Teleport AmF5 Blue Spikes Item: unknown
 Teleport AmF5 NE Fireball Hall Item: progression
-Teleport AmF5 NE Gates Item: unknown
+Teleport AmF5 NE Gates Item: progression
 Teleport AmF5 NW Pyramid Item: progression
 Teleport AmF5 SE Item: progression
 Teleport AmF5 SE Pyramid Item: unknown
