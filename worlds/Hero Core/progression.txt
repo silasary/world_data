@@ -26,6 +26,7 @@ Door Key (H,3): progression
 Door Key (I,11): progression
 Door Key (I,13): progression
 Door Key (I,15): progression
+Door Key (I,2): filler
 Door Key (I,3): useful
 Door Key (I,5): progression
 Door Key (J,10): filler

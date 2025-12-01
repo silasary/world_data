@@ -41,7 +41,7 @@ Blue Door (Mechanism - Red Key): progression
 Blue Door (Mechanism - Shortcut): progression
 Blue Door (Mechanism - Talaria Boots): progression
 Blue Door (Mechanism - Void Charm): progression
-Blue Door (Ruins of Ash - Blood Pot): unknown
+Blue Door (Ruins of Ash - Blood Pot): filler
 Blue Door (Ruins of Ash - Flames): progression
 Blue Door (Serpent Path): progression
 Blue Door (The Apex): progression
@@ -152,15 +152,15 @@ Crystal (Mechanism - Triple 1): unknown
 Crystal (Mechanism - Triple 2): unknown
 Crystal (Mechanism - Triple 3): unknown
 Crystal (Ruins of Ash - 1st Room): unknown
-Crystal (Ruins of Ash - 3 Reapers): unknown
+Crystal (Ruins of Ash - 3 Reapers): progression
 Crystal (Ruins of Ash - Baby Gorgon): unknown
-Crystal (Ruins of Ash - Branch Left): unknown
+Crystal (Ruins of Ash - Branch Left): progression
 Crystal (Ruins of Ash - Branch Right): unknown
 Crystal (Ruins of Ash - Centaur): unknown
 Crystal (Ruins of Ash - Ladder Left): unknown
 Crystal (Ruins of Ash - Ladder Right): progression
-Crystal (Ruins of Ash - Left Ascend): unknown
-Crystal (Ruins of Ash - Spike Balls): unknown
+Crystal (Ruins of Ash - Left Ascend): progression
+Crystal (Ruins of Ash - Spike Balls): progression
 Crystal (Ruins of Ash - Triple 2): unknown
 Crystal (Serpent Path - Blocks): unknown
 Crystal (Tower Roots - Dark Arias): progression
@@ -411,8 +411,8 @@ Switch (Catacombs - Shortcut Access): unknown
 Switch (Catacombs - Top): unknown
 Switch (Catacombs - Water 1): unknown
 Switch (Catacombs - Water 2): progression
-Switch (Cathedral - Beside Shaft): unknown
-Switch (Cathedral - Bottom): unknown
+Switch (Cathedral - Beside Shaft): progression
+Switch (Cathedral - Bottom): progression
 Switch (Cathedral - Top Campfire): unknown
 Switch (Caves - Catacombs Access 1): unknown
 Switch (Caves - Catacombs Access 2): unknown
@@ -448,7 +448,7 @@ Switch (Hall of the Phantoms - Eyeball Shortcut): unknown
 Switch (Hall of the Phantoms - Ghost Blood): unknown
 Switch (Hall of the Phantoms - Left 1): unknown
 Switch (Hall of the Phantoms - Left 2): unknown
-Switch (Hall of the Phantoms - Left 3): unknown
+Switch (Hall of the Phantoms - Left 3): progression
 Switch (Hall of the Phantoms - Left Backtrack): unknown
 Switch (Hall of the Phantoms - Lower Shortcut): progression
 Switch (Hall of the Phantoms - Rock): unknown
@@ -460,7 +460,7 @@ Switch (Hall of the Phantoms - To Claw 2): unknown
 Switch (Hall of the Phantoms - Worm Pillar): unknown
 Switch (Mechanism - Arias Cyclops): unknown
 Switch (Mechanism - Arias): unknown
-Switch (Mechanism - Block Stairs): unknown
+Switch (Mechanism - Block Stairs): progression
 Switch (Mechanism - Boots Lower): progression
 Switch (Mechanism - Boots): unknown
 Switch (Mechanism - Boss 1): progression
@@ -472,7 +472,7 @@ Switch (Mechanism - Eyeball): unknown
 Switch (Mechanism - Invisible): unknown
 Switch (Mechanism - Key Blocks): unknown
 Switch (Mechanism - Linus): unknown
-Switch (Mechanism - Lower Key): unknown
+Switch (Mechanism - Lower Key): progression
 Switch (Mechanism - Maze Backdoor): unknown
 Switch (Mechanism - Pots): unknown
 Switch (Mechanism - Snake 1): unknown
@@ -484,13 +484,13 @@ Switch (Mechanism - to Upper GT): unknown
 Switch (Ruins of Ash - Above Centaur): filler
 Switch (Ruins of Ash - After Worms): progression
 Switch (Ruins of Ash - Apex Access): unknown
-Switch (Ruins of Ash - Ascend Shortcut): unknown
+Switch (Ruins of Ash - Ascend Shortcut): progression
 Switch (Ruins of Ash - Ascend): progression
 Switch (Ruins of Ash - Baby Gorgon): unknown
 Switch (Ruins of Ash - Blood Pot Left): filler
 Switch (Ruins of Ash - Blood Pot Right): unknown
 Switch (Ruins of Ash - Blood Pot): unknown
-Switch (Ruins of Ash - Boss Access): unknown
+Switch (Ruins of Ash - Boss Access): progression
 Switch (Ruins of Ash - Elevator): unknown
 Switch (Ruins of Ash - Icarus): progression
 Switch (Ruins of Ash - Lower Void): unknown
@@ -503,13 +503,13 @@ Switch (Ruins of Ash - Spike Climb): filler
 Switch (Ruins of Ash - Triple 1): progression
 Switch (Ruins of Ash - Triple 3): unknown
 Switch (Ruins of Ash - Worms): unknown
-Switch (Serpent Path - After Star): unknown
+Switch (Serpent Path - After Star): progression
 Switch (Serpent Path - Bubbles): unknown
 Switch (Serpent Path - Double Doors): unknown
 Switch (The Apex): filler
 Switch (Tower Roots - Adorned Left): unknown
 Switch (Tower Roots - Adorned Middle): progression
-Switch (Tower Roots - Adorned Right): unknown
+Switch (Tower Roots - Adorned Right): progression
 Switch (Tower Roots - Bottom): unknown
 Switch (Tower Roots - Elevator): unknown
 Sword of Mirrors: progression

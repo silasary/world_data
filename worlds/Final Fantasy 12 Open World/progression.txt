@@ -207,7 +207,7 @@ Curaga: useful
 Curaja: useful
 Cure: useful
 Cypress Pole: filler
-Dagger: unknown
+Dagger: filler
 Damascus Steel: filler
 Dark Crystal: filler
 Dark Energy: unknown
@@ -254,7 +254,7 @@ Doom Mace: filler
 Dorsal Fin: unknown
 Drab Wool: unknown
 Dragon Helm: filler
-Dragon Mail: unknown
+Dragon Mail: filler
 Dragon Scale: useful
 Dragon Shield: filler
 Dragon Whisker: filler
@@ -272,7 +272,7 @@ Einherjarium: filler
 Eksir Berries: filler
 Electrum: filler
 Elfin Bow: filler
-Elixir: unknown
+Elixir: filler
 Embroidered Tippet: unknown
 Emperor Scale: unknown
 Empty Bottle: filler
@@ -359,7 +359,7 @@ Glimmering Robes: filler
 Gnoma Halcyon: unknown
 Goddess's Magicite: progression
 Godslayer's Badge: unknown
-Goggle Mask: unknown
+Goggle Mask: filler
 Gokuu Pole: filler
 Gold Hairpin: unknown
 Gold Needle: filler
@@ -461,7 +461,7 @@ Killer Bow: unknown
 Knot of Rust: filler
 Koga Blade: filler
 Kogarasumaru: unknown
-Kotetsu: unknown
+Kotetsu: filler
 Kumbha: unknown
 Lab Access Card: progression
 Lambent Hat: unknown
@@ -806,7 +806,7 @@ Tube Fuse: progression
 Tula: unknown
 Tumulus: useful
 Turtle Shell: filler
-Turtleshell Choker: unknown
+Turtleshell Choker: filler
 Tyrant Bone: filler
 Tyrant Hide: filler
 Ultima Blade: filler
@@ -829,7 +829,7 @@ Vox: useful
 Vrsabha: unknown
 Vrscika: filler
 War Hammer: filler
-Wargod's Band: unknown
+Wargod's Band: filler
 Warp Mote: filler
 Warp: useful
 Water Bombs: unknown
@@ -840,7 +840,7 @@ Whale Whisker: useful
 Whiskered Trophy: unknown
 White Incense: unknown
 White Mask: useful
-White Robes: unknown
+White Robes: filler
 White Tuft: filler
 Wind Crystal: unknown
 Wind Globe: progression

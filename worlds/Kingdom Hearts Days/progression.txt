@@ -34,6 +34,7 @@ Crisis Gear 5: useful
 Cura Recipe: progression
 Cura: progression
 Curaga Recipe: progression
+Curaga: useful
 Cure Recipe: progression
 Cure: progression
 Dark Ingot: filler
@@ -87,9 +88,11 @@ Hazard Gear+ 5: useful
 Hi-Ether: filler
 Hi-Potion: filler
 High Jump LV+: progression
+High Jump: progression
 Homing Glide: useful
 Ice Breaker: useful
 Iron: filler
+LV Doubler 6B: progression
 LV Doubler 6C: progression
 LV Quadrupler 3B: progression
 LV Tripler 4: progression
@@ -120,10 +123,12 @@ Phantom Gear+ 4: useful
 Potion: filler
 Power Unit: useful
 Premium Orb: filler
+Prestige Gear+ 4: useful
 Princess's Crown: useful
 Progressive Rank: progression
 Rage Gear+ 5: useful
 Raider's Ring: useful
+Rainforce Ring: useful
 Riku: useful
 Rune Ring: useful
 Safety Ring: useful
