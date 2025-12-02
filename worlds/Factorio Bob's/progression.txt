@@ -113,7 +113,7 @@ bob-personal-roboport-mk4-equipment: filler
 bob-personal-roboport-modular-equipment-1: filler
 bob-personal-roboport-modular-equipment-3: filler
 bob-personal-roboport-modular-equipment-4: filler
-bob-piercing-rocket: unknown
+bob-piercing-rocket: filler
 bob-plasma-bullets: unknown
 bob-plasma-rocket: progression
 bob-plutonium-fuel-cell: filler
@@ -203,7 +203,7 @@ gun-turret: filler
 kovarex-enrichment-process: unknown
 lamp: unknown
 land-mine: filler
-landfill: unknown
+landfill: filler
 laser-weapons-damage-4: filler
 laser-weapons-damage-7: filler
 logistic-robotics: filler
@@ -278,7 +278,7 @@ progressive-electric-energy-distribution: unknown
 progressive-electric-pole: progression
 progressive-energy-shield: filler
 progressive-engine: progression
-progressive-exoskeleton-equipment: unknown
+progressive-exoskeleton-equipment: filler
 progressive-fission-reactor-equipment: filler
 progressive-flamethrower: filler
 progressive-fluid-handling: progression

@@ -20,6 +20,7 @@ Blue Stone 4: unknown
 Blue Stone 6: useful
 Blue Stone 7: unknown
 Bronze Medal 1: unknown
+Bronze Medal 2: filler
 Bronze Medal 3: filler
 Bronze Medal 4: unknown
 Bronze Medal 5: unknown
@@ -35,7 +36,7 @@ Critical's Card 2: filler
 Critical's Card 3: unknown
 Critical's Card 5: unknown
 Critical's Card 6: unknown
-Critical's Card 7: unknown
+Critical's Card 7: filler
 Diamond 3: unknown
 Diamond 4: unknown
 Diamond 5: filler
@@ -44,7 +45,7 @@ Emerald 1: filler
 Emerald 3: filler
 Emerald 7: unknown
 Explosion's Card 4: unknown
-Fire Spirit 3: unknown
+Fire Spirit 3: filler
 Freeze Charm 1: filler
 Freeze Charm 2: filler
 Freeze Rangers: trap
@@ -71,11 +72,12 @@ Ice Spirit 1: unknown
 Ice Spirit 2: filler
 Iron Medal 2: unknown
 Iron Medal 6: unknown
-Kill a Ranger: unknown
+Kill a Ranger: trap
+Knockback's Card 2: filler
 Long Sword's Card 3: unknown
 Long Sword's Card 6: useful
 Long Sword's Card 7: useful
-Peridot 5: unknown
+Peridot 5: filler
 Peridot 7: unknown
 Pierce's Card 1: unknown
 Pierce's Card 3: unknown
@@ -86,7 +88,7 @@ Poison Spirit: filler
 Purple Crystal 4: unknown
 Purple Crystal 6: unknown
 Quick's Card 1: unknown
-Quick's Card 4: unknown
+Quick's Card 4: filler
 Red Crystal 1: unknown
 Red Crystal 4: unknown
 Red Crystal 7: filler
@@ -135,7 +137,7 @@ Unlock Cavern 3: progression
 Unlock Cavern 4: unknown
 Unlock Cavern 5: progression
 Unlock Cavern 6: unknown
-Unlock Cavern 7: unknown
+Unlock Cavern 7: progression
 Unlock Cavern 8: progression
 Unlock Desert 1: progression
 Unlock Desert 2: progression
@@ -182,7 +184,7 @@ Unlock Inferno 3: progression
 Unlock Island: useful
 Unlock Lake: unknown
 Unlock Magician Class: unknown
-Unlock Mist Grove 1: unknown
+Unlock Mist Grove 1: progression
 Unlock Mist Grove 2: unknown
 Unlock Mist Grove 3: unknown
 Unlock Mountain 1: progression
@@ -196,7 +198,7 @@ Unlock Seaside 1: progression
 Unlock Seaside 2: progression
 Unlock Seaside 3: progression
 Unlock Seaside 4: progression
-Unlock Snowfield 1: unknown
+Unlock Snowfield 1: progression
 Unlock Snowfield 2: unknown
 Unlock Snowfield 3: unknown
 Unlock Snowfield 4: progression
@@ -214,7 +216,7 @@ Unlock Village: useful
 Unlock Volcano: progression
 Unlock Whipper Class: unknown
 Vampire's Card 1: unknown
-Vampire's Card 3: unknown
+Vampire's Card 3: filler
 White Stone 2: unknown
 White Stone 5: unknown
 White Stone 6: unknown
@@ -242,7 +244,8 @@ fire claw: unknown
 fire glove: unknown
 fire knuckle: unknown
 fire ring: filler
-fire sabel: unknown
+fire rise: filler
+fire sabel: filler
 flame sword: filler
 freeze exp rod: filler
 freeze explosion: unknown
@@ -255,7 +258,7 @@ homing laser wave: unknown
 homing laser: unknown
 ice GS: unknown
 ice bolt: unknown
-ice chain: unknown
+ice chain: filler
 ice chakram: unknown
 ice circle: filler
 ice flail: unknown
@@ -266,7 +269,7 @@ ice whip: filler
 inferno: unknown
 iron chain: unknown
 iron flail: filler
-iron sword: unknown
+iron sword: filler
 lightning: filler
 lightsaber: filler
 long GS: unknown
@@ -290,10 +293,12 @@ poison cestus: unknown
 poison claw: unknown
 poison flail: unknown
 poison glove: unknown
+poison knuckle: filler
 poisonous rod: unknown
 power chakram: filler
 power circle: unknown
 power laser gun: filler
+power rod: filler
 pyramid arrow: unknown
 quad arrow: unknown
 quick chakram: unknown
@@ -305,12 +310,13 @@ sept shot: unknown
 slow laser gun: unknown
 sniper rifle: unknown
 sonic knuckle: unknown
-spark cestus: unknown
+spark cestus: filler
 staff of flame: unknown
 staff of freeze: filler
 staff of icicle: filler
-staff of light: unknown
+staff of light: filler
 staff of thunder: unknown
+staff of wood: filler
 stone ms: filler
 super volcano: unknown
 sword: filler
@@ -323,11 +329,11 @@ thorn ring: unknown
 thunder GS: unknown
 thunder cestus: unknown
 thunder chakram: filler
-thunder claw: unknown
+thunder claw: filler
 thunder god: filler
 thunder ms: unknown
 thunder orb: unknown
-thunder ring: unknown
+thunder ring: filler
 thunder spear: unknown
 thunder sword: unknown
 thunder whip: unknown
@@ -339,5 +345,6 @@ triple shot: filler
 undecuple arrow: unknown
 uzi: unknown
 volcano: unknown
+warrior staff: filler
 whip: filler
 wooden sword: filler

@@ -1,4 +1,5 @@
 Adamantite: filler
+Aerial Recovery 3: useful
 Aerial Recovery: useful
 Aerial Tech: filler
 Aero Recipe: progression
@@ -18,6 +19,7 @@ Blazing Gem: filler
 Blazing Shard: filler
 Blizzaga Recipe: progression
 Blizzaga: useful
+Blizzara Recipe: progression
 Blizzara: progression
 Blizzard Recipe: progression
 Blizzard: progression
@@ -50,8 +52,10 @@ Day Unlock: 277: progression
 Day Unlock: 296: progression
 Day Unlock: 297: progression
 Day Unlock: 299: progression
+Day Unlock: 301: progression
 Day Unlock: 322: progression
 Day Unlock: 355: progression
+Day Unlock: 72: progression
 Day Unlock: 94: progression
 Day Unlock: 95: progression
 Day Unlock: 97: progression
@@ -77,6 +81,7 @@ Gear Component A: filler
 Gear Component C: filler
 Gear Component D: filler
 Glide 5: progression
+Glide LV+: progression
 Gold: filler
 Goofy: useful
 Guard Unit: useful
@@ -94,6 +99,7 @@ Ice Breaker: useful
 Iron: filler
 LV Doubler 6B: progression
 LV Doubler 6C: progression
+LV Quadrupler 3: progression
 LV Quadrupler 3B: progression
 LV Tripler 4: progression
 LV Tripler 4C: progression
@@ -105,9 +111,11 @@ Lightning Gem: filler
 Lightning Shard: filler
 Limit Recharge: filler
 Loaded Gear: useful
+Lose Your Illusion: useful
 Luck Tech: filler
 Lunar Strike: useful
 Magic LV2 4B: useful
+Magic Unit: useful
 Mega-Ether: filler
 Mega-Potion: filler
 Megalixir Recipe: progression
@@ -133,6 +141,7 @@ Riku: useful
 Rune Ring: useful
 Safety Ring: useful
 Saix: useful
+Scan: filler
 Shining Crystal: filler
 Shining Gem: filler
 Shining Shard: filler
@@ -154,3 +163,4 @@ Thunder Recipe: progression
 Thunder: progression
 Treasure Magnet: useful
 Ultimate Gear 6: useful
+Vexen: useful

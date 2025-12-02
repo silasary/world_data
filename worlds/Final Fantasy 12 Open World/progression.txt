@@ -68,7 +68,7 @@ Barrel Coat: filler
 Bastard Sword: useful
 Bat Fang: filler
 Bat Wing: unknown
-Battle Bamboo: unknown
+Battle Bamboo: filler
 Battle Harness: useful
 Battlewyrm Carapace: unknown
 Beaked Trophy: unknown
@@ -133,7 +133,7 @@ Broken Sword: filler
 Bronze Armor: filler
 Bronze Chestplate: unknown
 Bronze Helm: filler
-Bronze Mace: unknown
+Bronze Mace: filler
 Bronze Shield: unknown
 Brown Tuft: filler
 Bubble Belt: filler
@@ -141,13 +141,13 @@ Bubble Mote: filler
 Bubble: useful
 Buckler: unknown
 Bundle of Feathers: unknown
-Bundle of Needles: unknown
+Bundle of Needles: filler
 Burgonet: useful
 Burning Bow: filler
 Cactus Flower: progression
 Cactus Fruit: unknown
-Caldera: unknown
-Caliper: unknown
+Caldera: filler
+Caliper: filler
 Calot Hat: unknown
 Cameo Belt: filler
 Cancer Gem: unknown
@@ -229,11 +229,11 @@ Defender: filler
 Deimos Clay: unknown
 Delicious Fish: filler
 Demon Drink: filler
-Demon Eyeball: unknown
+Demon Eyeball: filler
 Demon Feather: filler
 Demon Mail: filler
 Demon Shield: unknown
-Demon Tail: unknown
+Demon Tail: filler
 Demon's Sigh: filler
 Demonsbane: useful
 Destrier Barding: filler
@@ -252,7 +252,7 @@ Dispelga: useful
 Domaine Calvados: filler
 Doom Mace: filler
 Dorsal Fin: unknown
-Drab Wool: unknown
+Drab Wool: filler
 Dragon Helm: filler
 Dragon Mail: filler
 Dragon Scale: useful
@@ -288,7 +288,7 @@ Eternal Trophy: unknown
 Ether: filler
 Euclid's Sextant: filler
 Excalibur: useful
-Excalipur: unknown
+Excalipur: filler
 Exodus: useful
 Expose: useful
 Eye Drops: filler
@@ -399,7 +399,7 @@ Hastega Mote: filler
 Hastega: useful
 Headband: filler
 Headgear: unknown
-Headguard: unknown
+Headguard: filler
 Healing Rod: filler
 Heavy Coat: filler
 Heavy Lance: filler
@@ -491,7 +491,7 @@ Linen Cuirass: unknown
 Lohengrin: unknown
 Long Bolts: unknown
 Longbow: filler
-Longsword: unknown
+Longsword: filler
 Lordly Robes: unknown
 Loxley Bow: filler
 Lu Shang's Badge: filler
@@ -509,7 +509,7 @@ Magick Gloves: filler
 Magick Lamp: filler
 Magoroku: filler
 Main Gauche: filler
-Makara: unknown
+Makara: filler
 Malboro Flower: filler
 Malboro Fruit: filler
 Malboro Vine: unknown
@@ -674,7 +674,7 @@ Save the Queen: filler
 Scale Armor: useful
 Scarletite: filler
 Scathe Mote: filler
-Scathe: unknown
+Scathe: useful
 Scorpio Gem: unknown
 Scorpion Tail: unknown
 Scourge: useful

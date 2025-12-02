@@ -1,4 +1,5 @@
 All Up: useful
+Boost Up Permanent +1: progression
 Boost Up: useful
 Charge Up Permanent +1: progression
 Charge Up: useful
@@ -7,6 +8,7 @@ Checkbox Filler (City Trial): progression
 Checkbox Filler (Top Ride): progression
 Defense Up Permanent +1: progression
 Defense Up: useful
+Filler: filler
 Glide Up Permanent +1: progression
 Glide Up: useful
 HP Up Permanent +1: progression
@@ -18,8 +20,16 @@ Top Speed Up Permanent +1: progression
 Top Speed Up: useful
 Turn Up Permanent +1: progression
 Turn Up: useful
+Unlock Stadium: DESTRUCTION DERBY 5: progression
+Unlock Stadium: DRAG RACE 1: progression
+Unlock Stadium: DRAG RACE 3: progression
 Unlock Stadium: DRAG RACE 4: progression
+Unlock Stadium: KIRBY MELEE 1: progression
 Unlock Stadium: KIRBY MELEE 2: progression
 Unlock Stadium: SINGLE RACE 1: progression
+Unlock Stadium: SINGLE RACE 2: progression
+Unlock Stadium: SINGLE RACE 5: progression
 Unlock Stadium: SINGLE RACE 7: progression
+Unlock Stadium: VS. KING DEDEDE: progression
+Weight Up Permanent +1: progression
 Weight Up: useful

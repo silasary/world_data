@@ -9,17 +9,17 @@ Activate AvF8 Puzzle: progression
 Activate AvF8 SW Light Bridge: progression
 Activate AvF9 Bonus Return Light Bridge: unknown
 Activate AvF9 Simon Says Puzzle: progression
-Activate CL1 East Puzzle: unknown
+Activate CL1 East Puzzle: progression
 Activate CL1 West Puzzle: unknown
 Activate CL2 Puzzle: progression
 Activate CL3 Puzzle: progression
 Activate ChF11 North Red Flame Turret: useful
-Activate ChF11 Puzzle: unknown
+Activate ChF11 Puzzle: progression
 Activate ChF12 Blue Flame Turrets: trap
 Activate PoF Puzzle: unknown
 Activate PrF1 Puzzle: progression
 Activate PrF1 SW Light Bridge: progression
-Activate PrF2 Puzzle: unknown
+Activate PrF2 Puzzle: progression
 Activate PrF2 SE Rune Puzzle Reward: progression
 Activate SP Puzzle: unknown
 Activate TF1 East Puzzle: progression
@@ -37,7 +37,7 @@ Archives Bonus Key: progression
 Archives Boss Rune A: unknown
 Archives Boss Rune n: unknown
 Archives Boss Rune y Progress: unknown
-Archives Boss Rune y: unknown
+Archives Boss Rune y: progression
 Archives Bronze Key: progression
 Archives Floor 7 Master Bronze Key: progression
 Archives Floor 7 Master Gold Key: progression
@@ -94,7 +94,7 @@ Chambers Floor 12 Master Bronze Key: progression
 Chambers Floor 12 Master Gold Key: progression
 Chambers Floor 12 Master Silver Key: unknown
 Chambers Gold Key: progression
-Chambers Master Bonus Key: unknown
+Chambers Master Bonus Key: progression
 Chambers Silver Key: progression
 Confuse Trap: trap
 Copper Coin Pile: unknown
@@ -163,7 +163,7 @@ Mana Upgrade: useful
 Mirror: progression
 Open AmB Exit: progression
 Open AmB NE Room: unknown
-Open AmB SE Room: unknown
+Open AmB SE Room: progression
 Open AmF4 Boss Gate: progression
 Open AmF4 Middle Cache: unknown
 Open AmF4 Middle Shortcut: progression
@@ -179,7 +179,7 @@ Open AmF6 Middle Exit: unknown
 Open AmF6 Spike Turret 2nd Reward Rooms: progression
 Open AmF6 Spike Turret Reward Rooms: progression
 Open AmF6 Start East Wall: progression
-Open AmF6 Start North Wall: unknown
+Open AmF6 Start North Wall: progression
 Open AvF7 Bottom of Left Exit: progression
 Open AvF7 East Wall: unknown
 Open AvF7 Exits: unknown
@@ -200,16 +200,16 @@ Open AvF8 Middle Entrance: unknown
 Open AvF8 NE Cache: unknown
 Open AvF8 NW Shortcut: useful
 Open AvF8 Puzzle Room: unknown
-Open AvF8 South Area Left Side: unknown
+Open AvF8 South Area Left Side: progression
 Open AvF8 South Area Right Side: progression
 Open AvF8 Spike Turret Island Left Shortcut: unknown
-Open AvF8 Spike Turret Island Top Shortcut: unknown
+Open AvF8 Spike Turret Island Top Shortcut: progression
 Open AvF9 Bonus Portal Passage: progression
 Open AvF9 Boss Gate: unknown
 Open AvF9 Boss Rune Room: progression
 Open AvF9 Exit: progression
 Open AvF9 NE Room Left Side: unknown
-Open AvF9 NE Room Top Side: unknown
+Open AvF9 NE Room Top Side: progression
 Open AvF9 SW Secret Room: progression
 Open AvF9 Secret Passage End: progression
 Open AvF9 Secret Passage North Room: progression
@@ -224,7 +224,7 @@ Open ChF10 South Shortcut: unknown
 Open ChF11 Bonus Portal: unknown
 Open ChF11 Bonus Room: progression
 Open ChF11 Chance Puzzle Room: unknown
-Open ChF11 East Shop Shortcut: unknown
+Open ChF11 East Shop Shortcut: progression
 Open ChF11 North Exit Closed Room: progression
 Open ChF11 North Shops Room: progression
 Open ChF11 SW Secret Room: progression
@@ -475,7 +475,7 @@ Teleport AmF5 SE Item: progression
 Teleport AmF5 SE Pyramid Item: unknown
 Teleport AmF5 SW Item: progression
 Teleport AmF5 SW Pyramid Item: progression
-Teleport AmF6 Middle Item: unknown
+Teleport AmF6 Middle Item: progression
 Teleport AmF6 NE Pyramid Item: unknown
 Teleport AmF6 South Pyramid South Bronze Gate Item: progression
 Teleport AvF9 NE Bottom Item: progression
@@ -485,7 +485,7 @@ Teleport ChF11 West Spike Items Progress: unknown
 Teleport ChF11 West Spike Items: unknown
 Teleport ChF12 Fire Floor Item: progression
 Teleport ChF12 Middle Item: progression
-Teleport PrF2 West Rune Puzzle Item: unknown
+Teleport PrF2 West Rune Puzzle Item: progression
 Teleport PrF2 West Treasure Room Item: progression
 Temple Floor 1 Master Gold Key: unknown
 Temple Floor 1 Master Silver Key: progression

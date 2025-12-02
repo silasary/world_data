@@ -84,6 +84,7 @@ Ham: useful
 Hard Mode: progression
 Hargreaves: useful
 Harp: useful
+Haunted Shopkeeper Trap: trap
 Heal Spell: useful
 Heart Container: unknown
 Heart Transplant: useful
@@ -122,6 +123,7 @@ Monk: progression
 Monkey Trap: trap
 Monkey's Paw: unknown
 Monocle: unknown
+Mystery Mode: progression
 Nazar Charm: unknown
 No Beat Mode: progression
 No Return Trap: trap
@@ -133,7 +135,7 @@ Obsidian Torch: useful
 Pack of Holding: useful
 Permanent Health Upgrade: progression
 Phasing Dagger: unknown
-Pickaxe: unknown
+Pickaxe: useful
 Plate Armor: unknown
 Protection Charm: unknown
 Pulse Scroll: unknown
@@ -152,17 +154,17 @@ Ring of Courage: useful
 Ring of Frost: useful
 Ring of Gold: useful
 Ring of Luck: unknown
-Ring of Mana: unknown
+Ring of Mana: useful
 Ring of Might: useful
 Ring of Pain: unknown
-Ring of Peace: unknown
+Ring of Peace: useful
 Ring of Phasing: unknown
 Ring of Piercing: useful
 Ring of Protection: useful
 Ring of Regeneration: unknown
 Ring of Shadows: useful
 Ring of Shielding: useful
-Ring of War: unknown
+Ring of War: useful
 Risk Charm: unknown
 Scroll of Need: unknown
 Shield Scroll: unknown

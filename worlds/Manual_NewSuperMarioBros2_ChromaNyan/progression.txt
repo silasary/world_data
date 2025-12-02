@@ -11,7 +11,9 @@ Boss Token: progression
 Cannon Unlock: progression
 Carry: progression
 Door Traversal: progression
+F-A Unlock: progression
 Flip Trap: trap
+Gold Block: useful
 Ground Pound: progression
 Instruction Manual Trap: trap
 Lakitu Cloud: progression
@@ -37,4 +39,5 @@ Swim: progression
 World 1 Unlock: progression
 World 2 Unlock: progression
 World 3 Unlock: progression
+World Flower Unlock: progression
 World Mushroom Unlock: progression

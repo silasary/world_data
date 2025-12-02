@@ -4,10 +4,16 @@ Banana Peel Trap: trap
 Beehive: filler
 Black Clusterberry: filler
 Blue Berrynana: filler
+Cactus: useful
 Chain Launcher: useful
 Checkpoint Flag: useful
+Cloud Fungus: useful
 Coconut Half: filler
+Coconut: filler
+Conch: filler
 Cooked Bird: filler
+Cursed Skull: filler
+Eruption Trap: trap
 First-Aid Kit: useful
 Green Crispberry: filler
 Guidebook: useful
@@ -18,7 +24,11 @@ Magic Bean: useful
 Pandora's Lunchbox: useful
 Pirate's Compass: useful
 Progressive Ascent: progression
+Progressive Endurance: progression
+Progressive Stamina Bar: progression
+Red Clusterberry: filler
 Red Crispberry: filler
+Red Prickleberry: filler
 Red Shroomberry: filler
 Rope Cannon: useful
 Scout Cookies: filler

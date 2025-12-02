@@ -1,4 +1,4 @@
-Absolution: unknown
+Absolution: progression
 Added Chaos Damage Support: unknown
 Added Cold Damage Support: unknown
 Added Fire Damage Support: unknown
@@ -65,12 +65,13 @@ Cobra Lash: progression
 Cold Snap: unknown
 Combustion Support: unknown
 Conductivity: unknown
+Conflagration: useful
 Consecrated Path: unknown
 Contagion: unknown
 Controlled Blaze Support: unknown
 Controlled Destruction Support: unknown
 Conversion Trap: unknown
-Corrupting Fever: unknown
+Corrupting Fever: useful
 Crackling Lance: progression
 Creeping Frost: unknown
 Cremation: unknown
@@ -122,6 +123,7 @@ Fire Trap: unknown
 Firestorm: progression
 Fist of War Support: unknown
 Flame Link: progression
+Flame Surge: useful
 Flame Wall: unknown
 Flamethrower Trap: unknown
 Flamewood Support: unknown
@@ -133,7 +135,7 @@ Focused Channelling Support: unknown
 Forbidden Rite: unknown
 Fortify Support: unknown
 Freezing Pulse: unknown
-Frenzy: unknown
+Frenzy: useful
 Frigid Bond Support: progression
 Frost Blades: progression
 Frost Bomb: unknown
@@ -190,7 +192,7 @@ Lancing Steel: progression
 Leap Slam: unknown
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
-Lightning Conduit: unknown
+Lightning Conduit: useful
 Lightning Penetration Support: unknown
 Lightning Spire Trap: unknown
 Lightning Strike: unknown
@@ -210,6 +212,7 @@ Minion Life Support: unknown
 Mirage Archer Support: unknown
 Mirror Arrow: progression
 Molten Shell: unknown
+Molten Strike: progression
 Multiple Totems Support: unknown
 Multiple Traps Support: unknown
 Multistrike Support: unknown
@@ -223,6 +226,7 @@ Occultist: unknown
 Overcharge Support: unknown
 Pestilent Strike: progression
 Petrified Blood: unknown
+Phase Run: progression
 Physical to Lightning Support: progression
 Pierce Support: progression
 Pinpoint Support: unknown
@@ -233,7 +237,7 @@ Power Charge On Critical Support: unknown
 Power Siphon: progression
 Precision: unknown
 Predator Support: progression
-Progressive Amulet: unknown
+Progressive Amulet: progression
 Progressive Axe: unknown
 Progressive Belt: progression
 Progressive BodyArmour: unknown
@@ -244,19 +248,19 @@ Progressive Dagger: progression
 Progressive Fishing Rod: unknown
 Progressive Flask Unlock: progression
 Progressive Gloves: unknown
-Progressive Helmet: unknown
+Progressive Helmet: progression
 Progressive Mace: progression
 Progressive Quiver: progression
 Progressive Ring (left): unknown
 Progressive Ring (right): unknown
 Progressive Sceptre: unknown
-Progressive Shield: unknown
+Progressive Shield: progression
 Progressive Staff: unknown
 Progressive Sword: unknown
 Progressive Wand: progression
 Progressive max links - BodyArmour: progression
 Progressive max links - Boots: progression
-Progressive max links - Gloves: unknown
+Progressive max links - Gloves: progression
 Progressive max links - Helm: progression
 Progressive max links - Offhand: unknown
 Progressive max links - Weapon: progression
@@ -268,13 +272,14 @@ Punishment: unknown
 Purifying Flame: progression
 Purity of Elements: progression
 Purity of Ice: unknown
+Purity of Lightning: progression
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
 Raise Spectre: unknown
 Raise Zombie: progression
-Rallying Cry: unknown
-Reap: unknown
+Rallying Cry: progression
+Reap: useful
 Reave: unknown
 Rejuvenation Totem: unknown
 Righteous Fire: unknown
@@ -287,7 +292,7 @@ Sadism Support: unknown
 Scorching Ray: unknown
 Searing Bond: progression
 Second Wind Support: unknown
-Seismic Cry: unknown
+Seismic Cry: progression
 Seismic Trap: progression
 Shadow: progression
 Shattering Steel: progression
@@ -299,18 +304,18 @@ Slayer: unknown
 Slower Projectiles Support: unknown
 Sniper's Mark: unknown
 Soul Link: unknown
-Spark: unknown
+Spark: useful
 Spectral Helix: progression
 Spectral Throw: unknown
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: unknown
 Spirit Offering: unknown
-Static Strike: unknown
+Static Strike: progression
 Steelskin: unknown
 Storm Brand: unknown
 Storm Burst: unknown
-Storm Rain: unknown
+Storm Rain: useful
 Stormbind: unknown
 Stun Support: progression
 Summon Carrion Golem: unknown
@@ -318,7 +323,7 @@ Summon Chaos Golem: progression
 Summon Flame Golem: progression
 Summon Lightning Golem: unknown
 Summon Phantasm Support: unknown
-Summon Raging Spirit: unknown
+Summon Raging Spirit: useful
 Summon Reaper: progression
 Summon Skeletons: unknown
 Summon Skitterbots: progression
@@ -342,15 +347,15 @@ Urgent Orders Support: unknown
 Vaal Gems: unknown
 Vampiric Link: unknown
 Vengeful Cry: unknown
-Venom Gyre: unknown
+Venom Gyre: useful
 Vigilant Strike: unknown
 Vile Toxins Support: unknown
-Viper Strike: unknown
+Viper Strike: useful
 Vitality: unknown
 Void Sphere: unknown
 Volatile Dead: progression
 Volatility Support: progression
-Volcanic Fissure: unknown
+Volcanic Fissure: useful
 Voltaxic Burst: progression
 Vortex: unknown
 Vulnerability: progression
@@ -360,6 +365,7 @@ Warlord's Mark: progression
 Wave of Conviction: unknown
 Whirling Blades: unknown
 Wild Strike: unknown
+Windburst Support: useful
 Wintertide Brand: unknown
 Withering Step: unknown
 Withering Touch Support: unknown
