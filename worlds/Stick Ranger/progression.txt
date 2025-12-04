@@ -49,6 +49,7 @@ Fire Spirit 3: filler
 Freeze Charm 1: filler
 Freeze Charm 2: filler
 Freeze Rangers: trap
+Garnet 1: filler
 Garnet 2: unknown
 Garnet 3: unknown
 Garnet 4: filler
@@ -59,7 +60,7 @@ Gold Medal 4: unknown
 Gold Medal 5: unknown
 Gold Medal 6: useful
 Gold Medal 7: unknown
-Gold rush Card: unknown
+Gold rush Card: filler
 GreatSword: filler
 Green Stone 6: useful
 Guide's Card 2: filler
@@ -71,6 +72,7 @@ Ice Charm 4: useful
 Ice Spirit 1: unknown
 Ice Spirit 2: filler
 Iron Medal 2: unknown
+Iron Medal 3: filler
 Iron Medal 6: unknown
 Kill a Ranger: trap
 Knockback's Card 2: filler
@@ -90,10 +92,13 @@ Purple Crystal 6: unknown
 Quick's Card 1: unknown
 Quick's Card 4: filler
 Red Crystal 1: unknown
+Red Crystal 2: filler
 Red Crystal 4: unknown
+Red Crystal 5: filler
 Red Crystal 7: filler
 Red Stone 4: filler
 Reflection Card 1: unknown
+Reflection Card 2: filler
 Reflection Card 3: useful
 Reflection Card 4: unknown
 Ring's Card 2: unknown
@@ -105,8 +110,8 @@ Ruby 5: unknown
 Ruby 6: unknown
 Ruby 7: unknown
 Sapphire 2: unknown
-Sapphire 4: unknown
-Sapphire 6: unknown
+Sapphire 4: filler
+Sapphire 6: filler
 Sapphire 7: useful
 Silver Crystal 2: unknown
 Silver Crystal 5: useful
@@ -117,10 +122,11 @@ Silver Medal 3: unknown
 Silver Medal 7: unknown
 Spawn enemies: trap
 Thunder Spirit 2: unknown
+Thunder Spirit 3: filler
 Topaz 1: unknown
 Topaz 3: unknown
 Unequip items: trap
-Unlock !!!: unknown
+Unlock !!!: progression
 Unlock ???: progression
 Unlock Angel Class: unknown
 Unlock Beach 1: unknown
@@ -144,7 +150,7 @@ Unlock Desert 2: progression
 Unlock Desert 3: progression
 Unlock Desert 4: progression
 Unlock Desert 5: progression
-Unlock Desert 6: unknown
+Unlock Desert 6: progression
 Unlock Desert 7: progression
 Unlock Desert 8: progression
 Unlock Forest 1: progression
@@ -157,7 +163,7 @@ Unlock Forget Tree: useful
 Unlock Frozen Lake: progression
 Unlock Gladiator Class: unknown
 Unlock Grassland 1: progression
-Unlock Grassland 2: unknown
+Unlock Grassland 2: progression
 Unlock Grassland 3: progression
 Unlock Grassland 4: progression
 Unlock Grassland 5: progression
@@ -166,10 +172,10 @@ Unlock Grassland 7: progression
 Unlock Gunner Class: unknown
 Unlock Hell 1: unknown
 Unlock Hell 2: progression
-Unlock Hell 3: unknown
+Unlock Hell 3: progression
 Unlock Hell 4: progression
-Unlock Hell 5: unknown
-Unlock Hell 6: unknown
+Unlock Hell 5: progression
+Unlock Hell 6: progression
 Unlock Hell 7: progression
 Unlock Hell 8: unknown
 Unlock Hell Castle: unknown
@@ -182,7 +188,7 @@ Unlock Inferno 1: unknown
 Unlock Inferno 2: progression
 Unlock Inferno 3: progression
 Unlock Island: useful
-Unlock Lake: unknown
+Unlock Lake: progression
 Unlock Magician Class: unknown
 Unlock Mist Grove 1: progression
 Unlock Mist Grove 2: unknown
@@ -191,16 +197,16 @@ Unlock Mountain 1: progression
 Unlock Mountain 2: progression
 Unlock Mountaintop: progression
 Unlock Oasis: unknown
-Unlock Priest Class: unknown
-Unlock Pyramid: unknown
-Unlock Resort: unknown
+Unlock Priest Class: progression
+Unlock Pyramid: progression
+Unlock Resort: useful
 Unlock Seaside 1: progression
 Unlock Seaside 2: progression
 Unlock Seaside 3: progression
 Unlock Seaside 4: progression
 Unlock Snowfield 1: progression
 Unlock Snowfield 2: unknown
-Unlock Snowfield 3: unknown
+Unlock Snowfield 3: progression
 Unlock Snowfield 4: progression
 Unlock Snowfield 5: progression
 Unlock Snowfield 6: unknown
@@ -229,7 +235,7 @@ blizzard: unknown
 chakram: filler
 charge chakram: unknown
 charge circle: unknown
-charge god: unknown
+charge god: filler
 double arrow: unknown
 electric shock: unknown
 electric staff: unknown
@@ -237,6 +243,7 @@ explosion flail: filler
 explosion ms: unknown
 explosion staff: filler
 explosion whip: unknown
+explosion: filler
 fire chain: unknown
 fire chakram: filler
 fire circle: unknown
@@ -251,6 +258,7 @@ freeze exp rod: filler
 freeze explosion: unknown
 freeze glove: unknown
 freeze whip: unknown
+grenade: filler
 hell fire shot: filler
 high light staff: unknown
 homing laser beam: unknown
@@ -264,7 +272,7 @@ ice circle: filler
 ice flail: unknown
 ice meteor: filler
 ice spike: unknown
-ice sword: unknown
+ice sword: filler
 ice whip: filler
 inferno: unknown
 iron chain: unknown
@@ -279,6 +287,7 @@ long ring: unknown
 long silver staff: unknown
 long staff: unknown
 mach cestus: unknown
+magnum: filler
 mega exp staff: unknown
 micro uzi: unknown
 morning star: unknown
@@ -294,9 +303,10 @@ poison claw: unknown
 poison flail: unknown
 poison glove: unknown
 poison knuckle: filler
+poison ms: filler
 poisonous rod: unknown
 power chakram: filler
-power circle: unknown
+power circle: filler
 power laser gun: filler
 power rod: filler
 pyramid arrow: unknown
@@ -334,6 +344,7 @@ thunder god: filler
 thunder ms: unknown
 thunder orb: unknown
 thunder ring: filler
+thunder rod: filler
 thunder spear: unknown
 thunder sword: unknown
 thunder whip: unknown

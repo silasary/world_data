@@ -263,7 +263,7 @@ Equipment - Expedition LV5 - 1754: unknown
 Equipment - Eye of the Storm - 1751: unknown
 Equipment - Faceless Hood - 1952: unknown
 Equipment - Facetsplitter - 1819: useful
-Equipment - Fairys Ring: unknown
+Equipment - Fairys Ring: useful
 Equipment - Fallout - 2043: useful
 Equipment - False Hero's Guise - 1975: unknown
 Equipment - Familiar Hoodie - 2126: unknown
@@ -932,7 +932,7 @@ Item - Jojo Sewers Pass: progression
 Item - Lake Delende Map: unknown
 Item - Lake Delende Pass: progression
 Item - Land's End Map: useful
-Item - Land's End Pass: unknown
+Item - Land's End Pass: progression
 Item - Lands End Map: unknown
 Item - Leaf Stone - 370: progression
 Item - Lost Penguin: mcguffin

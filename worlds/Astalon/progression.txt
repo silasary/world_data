@@ -403,8 +403,8 @@ SP Switch Bubbles: progression
 SP Switch Double Doors: progression
 Switch (Catacombs - 1st Room): unknown
 Switch (Catacombs - After Blue Door): progression
-Switch (Catacombs - Claw 1): unknown
-Switch (Catacombs - Claw 2): unknown
+Switch (Catacombs - Claw 1): progression
+Switch (Catacombs - Claw 2): progression
 Switch (Catacombs - Dev Room): filler
 Switch (Catacombs - Elevator): progression
 Switch (Catacombs - Flames 1): progression
@@ -435,7 +435,7 @@ Switch (Gorgon Tomb - Crosses): filler
 Switch (Gorgon Tomb - GH Shortcut): unknown
 Switch (Gorgon Tomb - Gorgonheart): unknown
 Switch (Gorgon Tomb - Spike Tunnel): unknown
-Switch (Gorgon Tomb - Sword Access): unknown
+Switch (Gorgon Tomb - Sword Access): progression
 Switch (Gorgon Tomb - Sword Backtrack): unknown
 Switch (Gorgon Tomb - Sword): unknown
 Switch (Gorgon Tomb - Upper Arias): progression
@@ -493,7 +493,7 @@ Switch (Ruins of Ash - Ascend Shortcut): progression
 Switch (Ruins of Ash - Ascend): progression
 Switch (Ruins of Ash - Baby Gorgon): unknown
 Switch (Ruins of Ash - Blood Pot Left): filler
-Switch (Ruins of Ash - Blood Pot Right): unknown
+Switch (Ruins of Ash - Blood Pot Right): filler
 Switch (Ruins of Ash - Blood Pot): unknown
 Switch (Ruins of Ash - Boss Access): progression
 Switch (Ruins of Ash - Elevator): unknown

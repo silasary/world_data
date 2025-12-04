@@ -1,3 +1,4 @@
+A. Recovery LV+: useful
 Adamantite: filler
 Aerial Recovery 3: useful
 Aerial Recovery: useful
@@ -23,6 +24,7 @@ Blizzara Recipe: progression
 Blizzara: progression
 Blizzard Recipe: progression
 Blizzard: progression
+Block 2: progression
 Block 4: progression
 Block LV+: useful
 Brawl Ring: useful
@@ -43,6 +45,7 @@ Dark Ingot: filler
 Day Unlock: 117: progression
 Day Unlock: 118: progression
 Day Unlock: 119: progression
+Day Unlock: 172: progression
 Day Unlock: 173: progression
 Day Unlock: 225: progression
 Day Unlock: 22: progression
@@ -54,13 +57,16 @@ Day Unlock: 297: progression
 Day Unlock: 299: progression
 Day Unlock: 301: progression
 Day Unlock: 322: progression
+Day Unlock: 354: progression
 Day Unlock: 355: progression
 Day Unlock: 72: progression
+Day Unlock: 75: progression
 Day Unlock: 94: progression
 Day Unlock: 95: progression
 Day Unlock: 97: progression
 Diamond: filler
 Dodge Roll LV+: useful
+Dodge Roll: useful
 Dodge Rush: useful
 Dodging Deflect: useful
 Elixir Recipe: progression
@@ -113,6 +119,7 @@ Limit Recharge: filler
 Loaded Gear: useful
 Lose Your Illusion: useful
 Luck Tech: filler
+Lucky Star: useful
 Lunar Strike: useful
 Magic LV2 4B: useful
 Magic Unit: useful
@@ -124,6 +131,7 @@ Memory Shard: progression
 Moonstone: filler
 Mystery Gear 3: useful
 Nimble Gear 4: useful
+Omega Gear 6: useful
 Panacea: filler
 Panel Slot: progression
 Perfect Block: useful
@@ -164,3 +172,5 @@ Thunder: progression
 Treasure Magnet: useful
 Ultimate Gear 6: useful
 Vexen: useful
+White Ring: useful
+Zero Gear 5: useful

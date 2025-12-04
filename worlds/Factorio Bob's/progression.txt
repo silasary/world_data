@@ -163,6 +163,7 @@ bob-tungsten-alloy-processing: progression
 bob-tungsten-processing: progression
 bob-turrets-3: filler
 bob-turrets-4: filler
+bob-turrets-5: filler
 bob-vehicle-belt-immunity-equipment: unknown
 bob-vehicle-engine-equipment: filler
 bob-vehicle-laser-defense-equipment-1: filler
@@ -188,7 +189,7 @@ bobingabout-enrichment-process: filler
 chemical-science-pack: progression
 circuit-network: progression
 cliff-explosives: filler
-coal-liquefaction: unknown
+coal-liquefaction: filler
 concrete: progression
 construction-robotics: unknown
 discharge-defense-equipment: unknown

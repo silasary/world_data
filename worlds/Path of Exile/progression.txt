@@ -9,12 +9,13 @@ Ambush: unknown
 Ancestral Call Support: unknown
 Ancestral Cry: unknown
 Ancestral Protector: progression
+Arc: useful
 Arcanist Brand: unknown
 Archmage Support: unknown
 Armageddon Brand: progression
 Arrow Nova Support: progression
-Ascendant: unknown
-Assassin's Mark: unknown
+Ascendant: progression
+Assassin's Mark: useful
 Autoexertion: unknown
 Automation: unknown
 Ball Lightning: progression
@@ -109,7 +110,7 @@ Elemental Proliferation Support: progression
 Elemental Weakness: unknown
 Elementalist: unknown
 Enduring Cry: unknown
-Energy Blade: unknown
+Energy Blade: useful
 Ensnaring Arrow: unknown
 Eternal Blessing Support: unknown
 Eviscerate: unknown
@@ -125,16 +126,16 @@ Fist of War Support: unknown
 Flame Link: progression
 Flame Surge: useful
 Flame Wall: unknown
-Flamethrower Trap: unknown
+Flamethrower Trap: useful
 Flamewood Support: unknown
 Flammability: unknown
 Flesh Offering: progression
-Flicker Strike: unknown
+Flicker Strike: useful
 Focused Ballista Support: unknown
 Focused Channelling Support: unknown
 Forbidden Rite: unknown
 Fortify Support: unknown
-Freezing Pulse: unknown
+Freezing Pulse: useful
 Frenzy: useful
 Frigid Bond Support: progression
 Frost Blades: progression
@@ -142,7 +143,7 @@ Frost Bomb: unknown
 Frost Wall: unknown
 Frostbite: unknown
 Frostblink: unknown
-Frostbolt: unknown
+Frostbolt: useful
 Galvanic Arrow: unknown
 General's Cry: progression
 Generosity Support: progression
@@ -192,13 +193,15 @@ Lancing Steel: progression
 Leap Slam: unknown
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
+Lightning Arrow: useful
 Lightning Conduit: useful
 Lightning Penetration Support: unknown
 Lightning Spire Trap: unknown
-Lightning Strike: unknown
+Lightning Strike: useful
 Lightning Tendrils: unknown
 Lightning Trap: unknown
 Lightning Warp: unknown
+Living Lightning Support: useful
 Maim Support: progression
 Malevolence: progression
 Manabond: unknown
@@ -224,6 +227,7 @@ Normal Sceptre: unknown
 Normal Sword: unknown
 Occultist: unknown
 Overcharge Support: unknown
+Pathfinder: progression
 Pestilent Strike: progression
 Petrified Blood: unknown
 Phase Run: progression
@@ -238,7 +242,7 @@ Power Siphon: progression
 Precision: unknown
 Predator Support: progression
 Progressive Amulet: progression
-Progressive Axe: unknown
+Progressive Axe: progression
 Progressive Belt: progression
 Progressive BodyArmour: unknown
 Progressive Boots: unknown
@@ -247,15 +251,15 @@ Progressive Claw: unknown
 Progressive Dagger: progression
 Progressive Fishing Rod: unknown
 Progressive Flask Unlock: progression
-Progressive Gloves: unknown
+Progressive Gloves: progression
 Progressive Helmet: progression
 Progressive Mace: progression
 Progressive Quiver: progression
-Progressive Ring (left): unknown
-Progressive Ring (right): unknown
-Progressive Sceptre: unknown
+Progressive Ring (left): progression
+Progressive Ring (right): progression
+Progressive Sceptre: progression
 Progressive Shield: progression
-Progressive Staff: unknown
+Progressive Staff: progression
 Progressive Sword: unknown
 Progressive Wand: progression
 Progressive max links - BodyArmour: progression
@@ -273,6 +277,7 @@ Purifying Flame: progression
 Purity of Elements: progression
 Purity of Ice: unknown
 Purity of Lightning: progression
+Pyroclast Mine: useful
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
@@ -280,8 +285,8 @@ Raise Spectre: unknown
 Raise Zombie: progression
 Rallying Cry: progression
 Reap: useful
-Reave: unknown
-Rejuvenation Totem: unknown
+Reave: useful
+Rejuvenation Totem: useful
 Righteous Fire: unknown
 Rolling Magma: progression
 Ruthless Support: unknown
@@ -296,12 +301,14 @@ Seismic Cry: progression
 Seismic Trap: progression
 Shadow: progression
 Shattering Steel: progression
+Shield Charge: useful
 Shock Nova: unknown
-Shockwave Totem: unknown
-Shrapnel Ballista: unknown
+Shockwave Totem: useful
+Shrapnel Ballista: useful
 Siphoning Trap: unknown
 Slayer: unknown
 Slower Projectiles Support: unknown
+Smite: useful
 Sniper's Mark: unknown
 Soul Link: unknown
 Spark: useful
@@ -315,6 +322,7 @@ Static Strike: progression
 Steelskin: unknown
 Storm Brand: unknown
 Storm Burst: unknown
+Storm Call: useful
 Storm Rain: useful
 Stormbind: unknown
 Stun Support: progression
@@ -333,10 +341,11 @@ Swift Assembly Support: unknown
 Swiftbrand Support: unknown
 Swordstorm: unknown
 Tectonic Slam: progression
-Tempest Shield: unknown
+Tempest Shield: useful
 Templar: progression
+Temporal Chains: useful
 Tornado Shot: unknown
-Tornado: unknown
+Tornado: useful
 Toxic Rain: unknown
 Trap Support: progression
 Trap and Mine Damage Support: unknown

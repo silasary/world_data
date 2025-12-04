@@ -27,7 +27,7 @@ Activate TF1 West Puzzle: unknown
 Activate TF2 East Puzzle: progression
 Activate TF2 Light Bridges: unknown
 Activate TF2 North Puzzle: unknown
-Activate TF2 South Puzzle: unknown
+Activate TF2 South Puzzle: progression
 Activate TF2 West Puzzle: unknown
 Activate TF3 Gold Chutes: filler
 Activate TF3 Puzzle: unknown
@@ -162,7 +162,7 @@ Mana Shard: filler
 Mana Upgrade: useful
 Mirror: progression
 Open AmB Exit: progression
-Open AmB NE Room: unknown
+Open AmB NE Room: progression
 Open AmB SE Room: progression
 Open AmF4 Boss Gate: progression
 Open AmF4 Middle Cache: unknown
@@ -244,7 +244,7 @@ Open PrB NE Treasure Room: progression
 Open PrB North Treasure Rooms: progression
 Open PrB Top of East Hall: progression
 Open PrF1 Passage: unknown
-Open PrF2 East Save Room: unknown
+Open PrF2 East Save Room: progression
 Open PrF2 Middle Entrance Room: unknown
 Open PrF2 Middle Shortcut Bottom: unknown
 Open PrF2 Middle Shortcut Top: progression
@@ -252,7 +252,7 @@ Open PrF2 West Treasure Room: progression
 Open PrF3 Bonus Portal Progress: unknown
 Open PrF3 Bonus Portal: progression
 Open PrF3 Bonus Room Progress: unknown
-Open PrF3 Bonus Room Side Hall: unknown
+Open PrF3 Bonus Room Side Hall: progression
 Open PrF3 Bonus Room: progression
 Open PrF3 Boss Gate: progression
 Open PrF3 Entrance Room: unknown
@@ -296,7 +296,7 @@ Paladin Combo: progression
 Paladin Healing: progression
 Paladin Holy Storm: progression
 Pickaxe Fragment: unknown
-Pickaxe: unknown
+Pickaxe: progression
 Poison Trap: trap
 Priest Combo: unknown
 Priest Cripple Aura Mana Drain: unknown
@@ -360,7 +360,7 @@ Progressive Ranger Bow Damage: unknown
 Progressive Ranger Combo Healing: unknown
 Progressive Ranger Combo Mana: unknown
 Progressive Ranger Combo Nova: unknown
-Progressive Ranger Combo Timer: unknown
+Progressive Ranger Combo Timer: useful
 Progressive Ranger Dodge: unknown
 Progressive Ranger Flurry Arrows: useful
 Progressive Ranger Flurry Waves: unknown
@@ -372,23 +372,23 @@ Progressive Ranger Overgrowth Duration: unknown
 Progressive Ranger Overgrowth Range: unknown
 Progressive Ranger Penetration: useful
 Progressive Sorcerer Armor: useful
-Progressive Sorcerer Chill Duration: unknown
+Progressive Sorcerer Chill Duration: useful
 Progressive Sorcerer Chill Slow: useful
 Progressive Sorcerer Combo Healing: useful
 Progressive Sorcerer Combo Mana: unknown
 Progressive Sorcerer Combo Nova: useful
 Progressive Sorcerer Combo Timer: useful
-Progressive Sorcerer Comet Damage: unknown
+Progressive Sorcerer Comet Damage: useful
 Progressive Sorcerer Frost Shield: useful
 Progressive Sorcerer Health Pool: useful
-Progressive Sorcerer Ice Orb Damage: unknown
+Progressive Sorcerer Ice Orb Damage: useful
 Progressive Sorcerer Ice Orb Time: unknown
 Progressive Sorcerer Ice Shard Bounces: useful
 Progressive Sorcerer Ice Shard Damage: useful
-Progressive Sorcerer Ice Shard Nova Mana: unknown
+Progressive Sorcerer Ice Shard Nova Mana: useful
 Progressive Sorcerer Ice Shard Nova Number: useful
 Progressive Sorcerer Mana Pool: useful
-Progressive Sorcerer Move Speed: unknown
+Progressive Sorcerer Move Speed: useful
 Progressive Thief Armor: useful
 Progressive Thief Combo Healing: useful
 Progressive Thief Combo Mana: useful
@@ -482,7 +482,7 @@ Teleport AvF9 NE Bottom Item: progression
 Teleport AvF9 NE Top Item: progression
 Teleport AvF9 NW Item: unknown
 Teleport ChF11 West Spike Items Progress: unknown
-Teleport ChF11 West Spike Items: unknown
+Teleport ChF11 West Spike Items: progression
 Teleport ChF12 Fire Floor Item: progression
 Teleport ChF12 Middle Item: progression
 Teleport PrF2 West Rune Puzzle Item: progression
