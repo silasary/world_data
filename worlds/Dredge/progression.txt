@@ -35,7 +35,7 @@ Charred Sunfish: unknown
 Cleft-mouth Shark: filler
 Cod: filler
 Common Crab: unknown
-Complex Crab Pot: unknown
+Complex Crab Pot: progression
 Concertina Barracuda: unknown
 Congealed Rattail: unknown
 Conger Eel: filler
@@ -104,7 +104,7 @@ Lumpy Mackerel: filler
 Mahi Mahi: filler
 Malignant Pincer: unknown
 Many-Eyed Mackerel: filler
-Massive Crab Pot: unknown
+Massive Crab Pot: progression
 Mire Screecher: filler
 Mouth of the Deep: progression
 Nautilus: unknown
@@ -138,6 +138,7 @@ Sea Scorpion: filler
 Sea Stars: filler
 Seizing Snailfish: unknown
 Serpentine Mackerel: filler
+Shattered Wreckfish: filler
 Silt Filtering Trawl Net: progression
 Silvering Lancetfish: filler
 Simple Skimmer: progression

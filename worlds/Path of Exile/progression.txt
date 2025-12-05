@@ -92,6 +92,7 @@ Destructive Link: unknown
 Determination: progression
 Detonate Mines: unknown
 Devour Support: unknown
+Devouring Totem: progression
 Discharge: unknown
 Discipline: unknown
 Divine Retribution: progression
@@ -156,7 +157,7 @@ Guardian's Blessing Support: progression
 Guardian: unknown
 Haste: unknown
 Heavy Strike: progression
-Herald of Agony: unknown
+Herald of Agony: useful
 Herald of Ash: progression
 Herald of Ice: unknown
 Herald of Purity: unknown
@@ -326,7 +327,7 @@ Storm Call: useful
 Storm Rain: useful
 Stormbind: unknown
 Stun Support: progression
-Summon Carrion Golem: unknown
+Summon Carrion Golem: useful
 Summon Chaos Golem: progression
 Summon Flame Golem: progression
 Summon Lightning Golem: unknown
@@ -361,7 +362,7 @@ Vigilant Strike: unknown
 Vile Toxins Support: unknown
 Viper Strike: useful
 Vitality: unknown
-Void Sphere: unknown
+Void Sphere: useful
 Volatile Dead: progression
 Volatility Support: progression
 Volcanic Fissure: useful

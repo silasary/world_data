@@ -3,7 +3,9 @@
 3 Guided Pellets: filler
 5 Cookies: filler
 5 Energy Chips: filler
+Banana Peel Trap: trap
 Banana Peel: filler
+Camera Rotate Trap: trap
 City Park Monkey Lamp: progression
 Cookie: filler
 Crabby Beach Monkey Lamp: progression
@@ -11,11 +13,14 @@ Crumbling Castle Monkey Lamp: progression
 Dexter's Island Monkey Lamp: progression
 Energy Chip: filler
 Explosive Pellet: filler
+Gadget Shuffle Trap: trap
 Guided Pellet: filler
+Icy Hot Pants Trap: trap
 Jacket: filler
 Magic Punch: progression
 Monkey Madness Double Door Key: progression
 Monkey Madness Monkey Lamp: progression
+Monkey Mash Trap: trap
 Monkey Mash: trap
 Monkey Radar: useful
 Progressive Water Net: progression
@@ -26,6 +31,7 @@ Slingback Shooter: progression
 Specter Token: mcguffin
 Specter's Factory Monkey Lamp: progression
 Stun Club: progression
+Stun Trap: trap
 Super Hoop: progression
 TV Tower Monkey Lamp (Lobby): progression
 TV Tower Monkey Lamp (Tank Room): progression

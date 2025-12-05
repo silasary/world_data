@@ -11,6 +11,7 @@ Big Card 1: filler
 Big Card 2: unknown
 Black Crystal 1: unknown
 Black Crystal 4: unknown
+Black Crystal 5: filler
 Black Stone 1: filler
 Black Stone 2: unknown
 Black Stone 4: unknown
@@ -48,6 +49,7 @@ Explosion's Card 4: unknown
 Fire Spirit 3: filler
 Freeze Charm 1: filler
 Freeze Charm 2: filler
+Freeze Charm 4: filler
 Freeze Rangers: trap
 Garnet 1: filler
 Garnet 2: unknown
@@ -114,11 +116,13 @@ Sapphire 4: filler
 Sapphire 6: filler
 Sapphire 7: useful
 Silver Crystal 2: unknown
+Silver Crystal 3: filler
 Silver Crystal 5: useful
 Silver Crystal 6: unknown
 Silver Crystal 7: unknown
 Silver Medal 1: unknown
 Silver Medal 3: unknown
+Silver Medal 5: filler
 Silver Medal 7: unknown
 Spawn enemies: trap
 Thunder Spirit 2: unknown
@@ -178,7 +182,7 @@ Unlock Hell 5: progression
 Unlock Hell 6: progression
 Unlock Hell 7: progression
 Unlock Hell 8: unknown
-Unlock Hell Castle: unknown
+Unlock Hell Castle: progression
 Unlock Hell Gate: progression
 Unlock Hill Country 1: unknown
 Unlock Hill Country 2: progression
@@ -316,6 +320,7 @@ quick circle: unknown
 quint poison: filler
 rail gun: unknown
 rocket launcher: useful
+scattergun: filler
 sept shot: unknown
 slow laser gun: unknown
 sniper rifle: unknown

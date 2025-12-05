@@ -10,6 +10,7 @@ Progressive brt_allied_outpost: progression
 Progressive brt_barracks: progression
 Progressive brt_carpenter: progression
 Progressive brt_farm: progression
+Progressive brt_farm_extra: progression
 Progressive brt_hospital: progression
 Progressive brt_industry_extra: progression
 Progressive brt_legendary_port: progression

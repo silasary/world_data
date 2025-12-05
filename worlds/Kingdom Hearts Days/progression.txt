@@ -49,6 +49,7 @@ Day Unlock: 172: progression
 Day Unlock: 173: progression
 Day Unlock: 225: progression
 Day Unlock: 22: progression
+Day Unlock: 23: progression
 Day Unlock: 24: progression
 Day Unlock: 255: progression
 Day Unlock: 277: progression
@@ -69,6 +70,7 @@ Dodge Roll LV+: useful
 Dodge Roll: useful
 Dodge Rush: useful
 Dodging Deflect: useful
+Dying of the Light: useful
 Elixir Recipe: progression
 Elixir: filler
 Ether: filler
@@ -107,6 +109,7 @@ LV Doubler 6B: progression
 LV Doubler 6C: progression
 LV Quadrupler 3: progression
 LV Quadrupler 3B: progression
+LV Quadrupler 3C: progression
 LV Tripler 4: progression
 LV Tripler 4C: progression
 Level Up: progression
@@ -146,6 +149,7 @@ Rage Gear+ 5: useful
 Raider's Ring: useful
 Rainforce Ring: useful
 Riku: useful
+Round Block: useful
 Rune Ring: useful
 Safety Ring: useful
 Saix: useful
@@ -155,6 +159,7 @@ Shining Gem: filler
 Shining Shard: filler
 Sign of Resolve: useful
 Silver: filler
+Sliding Dash 3: progression
 Sliding Dash LV+: progression
 Sliding Dash: progression
 Sora: useful
@@ -173,4 +178,5 @@ Treasure Magnet: useful
 Ultimate Gear 6: useful
 Vexen: useful
 White Ring: useful
+Xigbar: useful
 Zero Gear 5: useful

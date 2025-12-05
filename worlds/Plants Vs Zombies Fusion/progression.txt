@@ -53,13 +53,14 @@ Pool Access: progression
 Puff-shroom: progression
 Pumpkin: progression
 Queen Endoflame: progression
+Roof Access: progression
 Saw-me-not: progression
 Scaredy-shroom: unknown
 Sea-shroom: progression
 Seed Slot: progression
 Shovel: useful
 Sniper Pea: progression
-Snow Access: unknown
+Snow Access: progression
 Snow Lotus: unknown
 Spikerock: progression
 Spikeweed: progression
@@ -67,14 +68,16 @@ Spruce Ballista: unknown
 Spruce Sharpshooter: progression
 Squash: progression
 Star Meteor: filler
+Starfruit: progression
 Sunflower: unknown
-Swordmaster Starfruit: unknown
+Swordmaster Starfruit: progression
 Tall-nut: progression
 Tangle Kelp: progression
+The Fog is Coming: trap
 Threepeater: progression
 Torchwood: progression
 Umbrella Leaf: progression
-Wall-nut: unknown
+Wall-nut: progression
 Watering Can: filler
 Wheelbarrow: filler
 Zen Garden Plant: filler

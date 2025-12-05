@@ -193,6 +193,7 @@ coal-liquefaction: filler
 concrete: progression
 construction-robotics: unknown
 discharge-defense-equipment: unknown
+effect-transmission-3: filler
 effect-transmission: filler
 energy-shield-mk2-equipment: filler
 explosives: progression

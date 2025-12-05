@@ -444,7 +444,7 @@ Iron Pole: filler
 Iron Scraps: unknown
 Iron Sword: unknown
 Ivory Pole: useful
-Jack-o'-Lantern: unknown
+Jack-o'-Lantern: filler
 Jade Collar: filler
 Jade Gown: filler
 Javelin: filler
@@ -474,7 +474,7 @@ Leather Breastplate: unknown
 Leather Cap: unknown
 Leather Clothing: unknown
 Leather Gorget: filler
-Leather Headgear: unknown
+Leather Headgear: filler
 Leather Helm: unknown
 Leather Shield: unknown
 Leathern Trophy: unknown
@@ -562,7 +562,7 @@ Ninja Gear: filler
 Nishijin Belt: unknown
 No. 1 Brig Key: progression
 Nu Khai Sand: filler
-Numerology: unknown
+Numerology: useful
 Oak Staff: filler
 Oaken Pole: unknown
 Obelisk: useful
@@ -657,7 +657,7 @@ Rod of Faith: filler
 Rod: unknown
 Rose Corsage: filler
 Round Shield: unknown
-Rubber Suit: unknown
+Rubber Suit: filler
 Ruby Ring: filler
 Runeblade: filler
 Rusted Scrap of Armor: filler
@@ -745,7 +745,7 @@ Soulless Trophy: unknown
 Spear: filler
 Spica: filler
 Spiral Incisor: unknown
-Split Armor: unknown
+Split Armor: filler
 Staff of the Magi: unknown
 Stamp: unknown
 Stardust: unknown

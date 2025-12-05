@@ -104,7 +104,7 @@ Damage Potion: unknown
 Damage Upgrade: useful
 Defense Upgrade: useful
 Diamond: filler
-Disable AmF4 Red Spikes: unknown
+Disable AmF4 Red Spikes: progression
 Disable AmF4 SW Spikes: progression
 Disable AmF5 Blue Spikes: progression
 Disable AvF9 Secret Passage North Room Spikes: progression
@@ -120,7 +120,7 @@ Disable PrF2 Red Spikes: progression
 Disable PrF3 Blue Spikes: unknown
 Disable PrF3 Entrance Gate Spikes: progression
 Disable PrF3 Red Spikes: progression
-Disable PrF3 South Spikes: unknown
+Disable PrF3 South Spikes: progression
 Disable TF2 Blue Spikes: progression
 Disable TF2 South Spikes: progression
 Disable TF3 North Pillar Walls: unknown
@@ -195,7 +195,7 @@ Open AvF8 Boss Rune Room Left Side: progression
 Open AvF8 Boss Rune Room Right Side: progression
 Open AvF8 Fire Trap Room Bottom Side: progression
 Open AvF8 Fire Trap Room Top Side: unknown
-Open AvF8 Left Exit: unknown
+Open AvF8 Left Exit: progression
 Open AvF8 Middle Entrance: unknown
 Open AvF8 NE Cache: unknown
 Open AvF8 NW Shortcut: useful
@@ -215,7 +215,7 @@ Open AvF9 Secret Passage End: progression
 Open AvF9 Secret Passage North Room: progression
 Open AvF9 Secret Passage South Room: progression
 Open AvF9 Secret Passage: progression
-Open AvF9 Simon Says Room: unknown
+Open AvF9 Simon Says Room: progression
 Open AvF9 South Room Right Side: progression
 Open AvF9 South Room Top Side: progression
 Open CL1 Secret Tunnel: unknown
@@ -255,7 +255,7 @@ Open PrF3 Bonus Room Progress: unknown
 Open PrF3 Bonus Room Side Hall: progression
 Open PrF3 Bonus Room: progression
 Open PrF3 Boss Gate: progression
-Open PrF3 Entrance Room: unknown
+Open PrF3 Entrance Room: progression
 Open PrF3 NW Treasure Room: unknown
 Open PrF3 North Secret Shop Room: progression
 Open PrF3 North Tower Room Shortcut: unknown

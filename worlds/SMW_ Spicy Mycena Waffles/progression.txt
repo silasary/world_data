@@ -3,11 +3,15 @@
 5 coins: filler
 50 coins: filler
 Blue Switch Palace: progression
+Bullet Time Trap: trap
 Carry: progression
 Climb: progression
+Empty Item Box Trap: trap
 Extra Defense: progression
+Fishin' Boo Trap: trap
 Golden Yoshi Egg: progression
 Green Switch Palace: progression
+Ice Trap: trap
 Inventory Blue Yoshi: filler
 Inventory Feather: filler
 Inventory Fire Flower: filler
@@ -17,10 +21,12 @@ Inventory Mushroom: filler
 Inventory Red Yoshi: filler
 Inventory Super Star: filler
 Inventory Yellow Yoshi: filler
+Invisibility Trap: trap
 Item Box: progression
 Midway Points: progression
 P-Balloon: progression
 P-Switch: progression
+Pixelate Trap: trap
 Progressive Powerup: progression
 Progressive Run: progression
 Progressive Super Star: progression
@@ -28,7 +34,13 @@ Progressive Swim: progression
 Progressive Timer: useful
 Progressive Yoshi: progression
 Red Switch Palace: progression
+Screen Flip Trap: trap
 Special Zone Clear: progression
 Spin Jump: progression
+Spotlight Trap: trap
+Sticky Floor Trap: trap
 The Princess: progression
+Thwimp Trap: trap
+Timer Trap: trap
+Trap Repellent: useful
 Yellow Switch Palace: progression
