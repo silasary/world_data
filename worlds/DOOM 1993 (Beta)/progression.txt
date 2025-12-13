@@ -1,4 +1,5 @@
 Armor: filler
+BFG9000: progression
 Backpack: useful
 Berserk: filler
 Box of bullets: filler
@@ -8,15 +9,20 @@ Central Processing (E1M6) - Blue keycard: progression
 Central Processing (E1M6) - Computer area map: filler
 Central Processing (E1M6) - Red keycard: progression
 Central Processing (E1M6) - Yellow keycard: progression
+Chaingun: progression
+Chainsaw: progression
 Command Control (E1M4) - Blue keycard: progression
+Command Control (E1M4) - Complete: progression
 Command Control (E1M4) - Yellow keycard: progression
 Command Control (E1M4): progression
 Computer Station (E1M7) - Blue keycard: progression
+Computer Station (E1M7) - Complete: progression
 Computer Station (E1M7) - Red keycard: progression
 Computer Station (E1M7) - Yellow keycard: progression
 Computer Station (E1M7): progression
 Energy cell pack: filler
 Hangar (E1M1) - Complete: progression
+Hangar (E1M1) - Computer area map: filler
 Hell Keep (E3M1) - Complete: progression
 House of Pain (E3M4) - Blue skull key: progression
 House of Pain (E3M4) - Red skull key: progression
@@ -29,19 +35,31 @@ Limbo (E3M7) - Yellow skull key: progression
 Medikit: filler
 Mega Armor: filler
 Military Base (E1M9) - Blue keycard: progression
+Military Base (E1M9) - Complete: progression
 Military Base (E1M9) - Computer area map: filler
 Military Base (E1M9) - Red keycard: progression
 Military Base (E1M9) - Yellow keycard: progression
+Military Base (E1M9): progression
+Nuclear Plant (E1M2) - Complete: progression
 Nuclear Plant (E1M2) - Red keycard: progression
+Nuclear Plant (E1M2): progression
 Pandemonium (E3M3): progression
+Partial invisibility: trap
+Phobos Anomaly (E1M8) - Complete: progression
 Phobos Anomaly (E1M8) - Computer area map: filler
+Phobos Anomaly (E1M8): progression
 Phobos Lab (E1M5) - Blue keycard: progression
 Phobos Lab (E1M5) - Computer area map: filler
 Phobos Lab (E1M5) - Yellow keycard: progression
+Plasma gun: progression
+Refinery (E2M3) - Blue keycard: progression
+Shotgun: progression
 Slough of Despair (E3M2) - Blue skull key: progression
 Slough of Despair (E3M2) - Complete: progression
 Slough of Despair (E3M2) - Computer area map: filler
 Supercharge: filler
 Toxin Refinery (E1M3) - Blue keycard: progression
+Toxin Refinery (E1M3) - Complete: progression
 Toxin Refinery (E1M3) - Computer area map: filler
 Toxin Refinery (E1M3) - Yellow keycard: progression
+Toxin Refinery (E1M3): progression

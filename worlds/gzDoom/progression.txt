@@ -194,6 +194,7 @@ BlurSphere: filler
 BowlOfFruit: filler
 BowlOfVegetables: filler
 Bullets [ClipBox]: filler
+Bullets [Clip]: filler
 Bullets: filler
 Chaingun: progression
 Chainsaw: progression
@@ -256,6 +257,7 @@ DiamondRune (E2A5): progression
 Dragon Claw: progression
 EnchantedShield: filler
 Energy Cells [CellPack]: filler
+Energy Cells [Cell]: filler
 Energy Cells: filler
 EnviroSuit: filler
 Ethereal Crossbow: progression
@@ -677,11 +679,13 @@ RedSkull (MAP32): progression
 RhombusKey (E1A7): progression
 Ring of Invincibility: filler
 Rocket Launcher: progression
+Rockets [RocketAmmo]: filler
 Rockets [RocketBox]: filler
 Rockets: filler
 Shadowsphere: filler
 ShotbowVO: unknown
 Shotgun Shells [ShellBox]: filler
+Shotgun Shells [Shell]: filler
 Shotgun Shells: filler
 Shotgun: progression
 SillySphere: useful

@@ -91,6 +91,7 @@ Custom Character 2 30 gold: progression
 Custom Character 2 Boss Gold: progression
 Custom Character 2 Boss Relic: progression
 Custom Character 2 Card Draw: progression
+Custom Character 2 Card Reward: progression
 Custom Character 2 Five Gold: filler
 Custom Character 2 Neutral Shop Card Slot: progression
 Custom Character 2 One Gold: filler
@@ -99,6 +100,7 @@ Custom Character 2 Progressive Rest: progression
 Custom Character 2 Progressive Shop Remove: progression
 Custom Character 2 Progressive Smith: progression
 Custom Character 2 Rare Card Draw: progression
+Custom Character 2 Rare Card Reward: progression
 Custom Character 2 Relic: progression
 Custom Character 2 Shop Card Slot: progression
 Custom Character 2 Shop Potion Slot: progression
@@ -110,6 +112,7 @@ Custom Character 3 30 gold: progression
 Custom Character 3 Boss Gold: progression
 Custom Character 3 Boss Relic: progression
 Custom Character 3 Card Draw: progression
+Custom Character 3 Card Reward: progression
 Custom Character 3 Five Gold: filler
 Custom Character 3 Neutral Shop Card Slot: progression
 Custom Character 3 One Gold: filler
@@ -118,6 +121,7 @@ Custom Character 3 Progressive Rest: progression
 Custom Character 3 Progressive Shop Remove: progression
 Custom Character 3 Progressive Smith: progression
 Custom Character 3 Rare Card Draw: progression
+Custom Character 3 Rare Card Reward: progression
 Custom Character 3 Relic: progression
 Custom Character 3 Shop Card Slot: progression
 Custom Character 3 Shop Potion Slot: progression
@@ -129,6 +133,7 @@ Custom Character 4 30 gold: progression
 Custom Character 4 Boss Gold: progression
 Custom Character 4 Boss Relic: progression
 Custom Character 4 Card Draw: progression
+Custom Character 4 Card Reward: progression
 Custom Character 4 Five Gold: filler
 Custom Character 4 Neutral Shop Card Slot: progression
 Custom Character 4 One Gold: filler
@@ -137,6 +142,7 @@ Custom Character 4 Progressive Rest: progression
 Custom Character 4 Progressive Shop Remove: progression
 Custom Character 4 Progressive Smith: progression
 Custom Character 4 Rare Card Draw: progression
+Custom Character 4 Rare Card Reward: progression
 Custom Character 4 Relic: progression
 Custom Character 4 Shop Card Slot: progression
 Custom Character 4 Shop Potion Slot: progression
@@ -148,6 +154,7 @@ Custom Character 5 30 gold: progression
 Custom Character 5 Boss Gold: progression
 Custom Character 5 Boss Relic: progression
 Custom Character 5 Card Draw: progression
+Custom Character 5 Card Reward: progression
 Custom Character 5 Five Gold: filler
 Custom Character 5 Neutral Shop Card Slot: progression
 Custom Character 5 One Gold: filler
@@ -156,6 +163,7 @@ Custom Character 5 Progressive Rest: progression
 Custom Character 5 Progressive Shop Remove: progression
 Custom Character 5 Progressive Smith: progression
 Custom Character 5 Rare Card Draw: progression
+Custom Character 5 Rare Card Reward: progression
 Custom Character 5 Relic: progression
 Custom Character 5 Shop Card Slot: progression
 Custom Character 5 Shop Potion Slot: progression

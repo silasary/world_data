@@ -38,7 +38,7 @@ Physics: unknown
 Plastics: progression
 Policy - Aristocracy: useful
 Policy - Artistic Genius: useful
-Policy - Caravans: unknown
+Policy - Caravans: useful
 Policy - Citizenship: useful
 Policy - Collective Rule: useful
 Policy - Consulates: progression
@@ -48,7 +48,7 @@ Policy - Discipline: useful
 Policy - Entrepreneurship: unknown
 Policy - Fine Arts: unknown
 Policy - Flourishing of the Arts: unknown
-Policy - Humanism: unknown
+Policy - Humanism: useful
 Policy - Landed Elite: unknown
 Policy - Legalism: useful
 Policy - Maritime Infrastructure: unknown
@@ -57,8 +57,9 @@ Policy - Merchant Confederacy: useful
 Policy - Merchant Navy: useful
 Policy - Military Caste: unknown
 Policy - Military Tradition: useful
-Policy - Monarchy: unknown
+Policy - Monarchy: useful
 Policy - Naval Tradition: unknown
+Policy - Navigation School: useful
 Policy - Oligarchy: useful
 Policy - Organized Religion: unknown
 Policy - Philanthropy: progression

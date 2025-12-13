@@ -1,4 +1,5 @@
 A. Recovery LV+: useful
+Ability Unit: useful
 Adamantite: filler
 Aerial Recovery 3: useful
 Aerial Recovery: useful
@@ -9,11 +10,14 @@ Aeroga Recipe: progression
 Aeroga: useful
 Aerora Recipe: progression
 Aerora: progression
+Air Rush: useful
 Air Slide 2: progression
 Air Slide LV+: progression
 Auto-Block: useful
 Auto-Dodge: useful
 Auto-Life 3: useful
+Auto-Life LV+: useful
+Axel: filler
 Backpack: useful
 Blazing Crystal: filler
 Blazing Gem: filler
@@ -27,6 +31,8 @@ Blizzard: progression
 Block 2: progression
 Block 4: progression
 Block LV+: useful
+Block-Counter: useful
+Block-Jump: useful
 Brawl Ring: useful
 Bronze: filler
 Casual Gear 2: useful
@@ -45,6 +51,11 @@ Dark Ingot: filler
 Day Unlock: 117: progression
 Day Unlock: 118: progression
 Day Unlock: 119: progression
+Day Unlock: 13: progression
+Day Unlock: 150: progression
+Day Unlock: 151: progression
+Day Unlock: 152: progression
+Day Unlock: 15: progression
 Day Unlock: 172: progression
 Day Unlock: 173: progression
 Day Unlock: 225: progression
@@ -60,20 +71,25 @@ Day Unlock: 301: progression
 Day Unlock: 322: progression
 Day Unlock: 354: progression
 Day Unlock: 355: progression
+Day Unlock: 357: progression
 Day Unlock: 72: progression
 Day Unlock: 75: progression
 Day Unlock: 94: progression
 Day Unlock: 95: progression
 Day Unlock: 97: progression
+Deep Sky: useful
+Demyx: useful
 Diamond: filler
 Dodge Roll LV+: useful
 Dodge Roll: useful
 Dodge Rush: useful
 Dodging Deflect: useful
+Doublecast 4: useful
 Dying of the Light: useful
 Elixir Recipe: progression
 Elixir: filler
 Ether: filler
+Extreme: useful
 Fairy Circle: useful
 Fencer's Ring: useful
 Fira Recipe: progression
@@ -82,10 +98,12 @@ Firaga Recipe: progression
 Firaga: useful
 Fire Recipe: progression
 Fire: progression
+Float: useful
 Frost Crystal: filler
 Frost Gem: filler
 Frost Shard: filler
 Gear Component A: filler
+Gear Component B: filler
 Gear Component C: filler
 Gear Component D: filler
 Glide 5: progression
@@ -125,6 +143,7 @@ Luck Tech: filler
 Lucky Star: useful
 Lunar Strike: useful
 Magic LV2 4B: useful
+Magic LV2 4C: useful
 Magic Unit: useful
 Mega-Ether: filler
 Mega-Potion: filler
@@ -135,8 +154,10 @@ Moonstone: filler
 Mystery Gear 3: useful
 Nimble Gear 4: useful
 Omega Gear 6: useful
+Ominous Gear+ 4: useful
 Panacea: filler
 Panel Slot: progression
+Parting of Waters: useful
 Perfect Block: useful
 Phantom Gear+ 4: useful
 Potion: filler
@@ -148,8 +169,10 @@ Progressive Rank: progression
 Rage Gear+ 5: useful
 Raider's Ring: useful
 Rainforce Ring: useful
+Recovery Ring: useful
 Riku: useful
 Round Block: useful
+Roxas: useful
 Rune Ring: useful
 Safety Ring: useful
 Saix: useful
@@ -175,8 +198,11 @@ Thunder Charm: useful
 Thunder Recipe: progression
 Thunder: progression
 Treasure Magnet: useful
+Triplecast 3: useful
 Ultimate Gear 6: useful
+Ultimate Gear+ 6: useful
 Vexen: useful
 White Ring: useful
+Wild Gear+ 3: useful
 Xigbar: useful
 Zero Gear 5: useful

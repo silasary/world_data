@@ -3,14 +3,14 @@
 7-Up Ankh: unknown
 Activate AmF4 Puzzle: progression
 Activate AmF5 Bonus Portal: progression
-Activate AmF5 Puzzle: unknown
-Activate AvF7 Puzzle: unknown
+Activate AmF5 Puzzle: progression
+Activate AvF7 Puzzle: progression
 Activate AvF8 Puzzle: progression
 Activate AvF8 SW Light Bridge: progression
-Activate AvF9 Bonus Return Light Bridge: unknown
+Activate AvF9 Bonus Return Light Bridge: progression
 Activate AvF9 Simon Says Puzzle: progression
 Activate CL1 East Puzzle: progression
-Activate CL1 West Puzzle: unknown
+Activate CL1 West Puzzle: progression
 Activate CL2 Puzzle: progression
 Activate CL3 Puzzle: progression
 Activate ChF11 North Red Flame Turret: useful
@@ -30,7 +30,7 @@ Activate TF2 North Puzzle: unknown
 Activate TF2 South Puzzle: progression
 Activate TF2 West Puzzle: unknown
 Activate TF3 Gold Chutes: filler
-Activate TF3 Puzzle: unknown
+Activate TF3 Puzzle: progression
 Activate Water Pumps: progression
 Apple: filler
 Archives Bonus Key: progression
@@ -81,7 +81,7 @@ Bonus Key: progression
 Bronze Key: progression
 Chambers Bonus Key: progression
 Chambers Boss Rune A: progression
-Chambers Boss Rune n: unknown
+Chambers Boss Rune n: progression
 Chambers Boss Rune y: progression
 Chambers Bronze Key: progression
 Chambers Floor 10 Master Bronze Key: progression
@@ -112,7 +112,7 @@ Disable ChF10 North Spikes: progression
 Disable ChF10 Red Flame Turret: unknown
 Disable ChF10 Red Spike Turrets: useful
 Disable ChF10 Red Spikes: unknown
-Disable ChF11 Blue Spike Turret: unknown
+Disable ChF11 Blue Spike Turret: useful
 Disable ChF11 South Red Flame Turrets: unknown
 Disable ChF12 Red Spike Turrets: unknown
 Disable ChF12 Red Spikes: unknown
@@ -129,7 +129,7 @@ Dune Sharks Arena Silver Key: unknown
 Elevate PoF Pyramid: progression
 Enable PrF2 Spike Puzzle East Buttons: progression
 Enable PrF2 Spike Puzzle North Buttons: progression
-Enable PrF2 Spike Puzzle South Buttons: unknown
+Enable PrF2 Spike Puzzle South Buttons: progression
 Enable Queen Arena Buttons: progression
 Fire Trap: trap
 Fish: filler
@@ -172,7 +172,7 @@ Open AmF4 SE Cache: unknown
 Open AmF4 SE Rune Room: unknown
 Open AmF4 South Wall: progression
 Open AmF5 SE Tower Room Left Side: progression
-Open AmF5 SE Tower Room Top Side: unknown
+Open AmF5 SE Tower Room Top Side: progression
 Open AmF5 Start Shortcut: useful
 Open AmF5 West Exits Hall: progression
 Open AmF6 Middle Exit: unknown
@@ -190,7 +190,7 @@ Open AvF7 North Wall: progression
 Open AvF7 SE Closed Room: progression
 Open AvF7 Start Closed Room: progression
 Open AvF7 West Shortcut: useful
-Open AvF7 West Wall: unknown
+Open AvF7 West Wall: progression
 Open AvF8 Boss Rune Room Left Side: progression
 Open AvF8 Boss Rune Room Right Side: progression
 Open AvF8 Fire Trap Room Bottom Side: progression
@@ -205,10 +205,10 @@ Open AvF8 South Area Right Side: progression
 Open AvF8 Spike Turret Island Left Shortcut: unknown
 Open AvF8 Spike Turret Island Top Shortcut: progression
 Open AvF9 Bonus Portal Passage: progression
-Open AvF9 Boss Gate: unknown
+Open AvF9 Boss Gate: progression
 Open AvF9 Boss Rune Room: progression
 Open AvF9 Exit: progression
-Open AvF9 NE Room Left Side: unknown
+Open AvF9 NE Room Left Side: progression
 Open AvF9 NE Room Top Side: progression
 Open AvF9 SW Secret Room: progression
 Open AvF9 Secret Passage End: progression
@@ -221,9 +221,9 @@ Open AvF9 South Room Top Side: progression
 Open CL1 Secret Tunnel: unknown
 Open ChF10 SW Exit: progression
 Open ChF10 South Shortcut: unknown
-Open ChF11 Bonus Portal: unknown
+Open ChF11 Bonus Portal: progression
 Open ChF11 Bonus Room: progression
-Open ChF11 Chance Puzzle Room: unknown
+Open ChF11 Chance Puzzle Room: progression
 Open ChF11 East Shop Shortcut: progression
 Open ChF11 North Exit Closed Room: progression
 Open ChF11 North Shops Room: progression
@@ -236,7 +236,7 @@ Open ChF12 South Hidden Hall: progression
 Open ChF12 West Secret Room: progression
 Open PoF Level 1 Exit: progression
 Open PoF Level 1 South Walls: unknown
-Open PoF Level 2 Exit: unknown
+Open PoF Level 2 Exit: progression
 Open PoF Level 2 Puzzle Room: unknown
 Open PoF Level 3 Start Room: unknown
 Open PrB Bottom of East Hall: unknown
@@ -246,7 +246,7 @@ Open PrB Top of East Hall: progression
 Open PrF1 Passage: unknown
 Open PrF2 East Save Room: progression
 Open PrF2 Middle Entrance Room: unknown
-Open PrF2 Middle Shortcut Bottom: unknown
+Open PrF2 Middle Shortcut Bottom: progression
 Open PrF2 Middle Shortcut Top: progression
 Open PrF2 West Treasure Room: progression
 Open PrF3 Bonus Portal Progress: unknown
@@ -258,9 +258,9 @@ Open PrF3 Boss Gate: progression
 Open PrF3 Entrance Room: progression
 Open PrF3 NW Treasure Room: unknown
 Open PrF3 North Secret Shop Room: progression
-Open PrF3 North Tower Room Shortcut: unknown
+Open PrF3 North Tower Room Shortcut: progression
 Open PrF3 SE Passage: progression
-Open PrF3 SW Shortcut: unknown
+Open PrF3 SW Shortcut: progression
 Open PrF3 South Arrow Hall Passage: progression
 Open PrF3 South Exit Room Left Side: progression
 Open PrF3 South Exit Room Right Side: unknown
@@ -282,7 +282,7 @@ Open TF2 Ornate Room Gate Right Side: progression
 Open TF2 Portal Room Shortcut: unknown
 Open TF2 SW Portal Gate: progression
 Open TF2 South Gate Hall: unknown
-Open TF2 South Gate Shortcut: unknown
+Open TF2 South Gate Shortcut: progression
 Open TF2 South Jail: progression
 Open TF2 West Ice Pillar Gate: unknown
 Open TF2 West Jail: unknown
@@ -466,13 +466,13 @@ Sorcerer Ice Orb: useful
 Sorcerer Ice Shard Nova: useful
 Steak: filler
 Strange Plank: mcguffin
-Teleport AmF4 North Item: unknown
-Teleport AmF5 Blue Spikes Item: unknown
+Teleport AmF4 North Item: progression
+Teleport AmF5 Blue Spikes Item: progression
 Teleport AmF5 NE Fireball Hall Item: progression
 Teleport AmF5 NE Gates Item: progression
 Teleport AmF5 NW Pyramid Item: progression
 Teleport AmF5 SE Item: progression
-Teleport AmF5 SE Pyramid Item: unknown
+Teleport AmF5 SE Pyramid Item: progression
 Teleport AmF5 SW Item: progression
 Teleport AmF5 SW Pyramid Item: progression
 Teleport AmF6 Middle Item: progression

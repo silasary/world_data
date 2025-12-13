@@ -23,14 +23,14 @@ Football (I, Zombie): useful
 Fume-Shroom: progression
 Gargantuar (I, Zombie): useful
 Garlic: useful
-Gravebuster: unknown
+Gravebuster: progression
 Hypno-Shroom: unknown
 Ice-Shroom: progression
 Imitater: useful
 Imp (I, Zombie): unknown
 Jalapeno: unknown
 Kernel-Pult: progression
-Ladder (I, Zombie): unknown
+Ladder (I, Zombie): progression
 Lilypad: progression
 Magnet-Shroom: progression
 Mallet (Whack-a-Zombie): unknown
@@ -40,7 +40,7 @@ Miner (I, Zombie): useful
 Peashooter: progression
 Plantern: useful
 Play Zombiquarium: trap
-Pool Cleaners: unknown
+Pool Cleaners: useful
 Potato Mine: progression
 Puff-Shroom: progression
 Pumpkin: progression
@@ -52,10 +52,11 @@ Roof Cleaners: unknown
 Scaredy-Shroom: progression
 Screendoor (I, Zombie): unknown
 Sea-Shroom: useful
-Shovel: unknown
+Shovel: progression
 Snorkel (Zombiquarium): progression
 Snow Pea: progression
 Spikeweed: progression
+Split Pea: progression
 Squash: unknown
 Starfruit: progression
 Sun-Shroom: progression

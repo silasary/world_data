@@ -28,7 +28,9 @@ Hairball City Flower: progression
 Hairball City Key: progression
 Hairball City Seed: progression
 Hairball City Ticket: progression
+Home Textbox: progression
 Home Trap: trap
+Inverted Camera Trap: trap
 Iron Boots Trap: trap
 Jumping Jacks Trap: trap
 Key: progression
@@ -50,6 +52,7 @@ Salmon Creek Forest Fish: progression
 Salmon Creek Forest Flower: progression
 Salmon Creek Forest Key: progression
 Salmon Creek Forest Seed: progression
+Salmon Creek Forest Textbox: progression
 Salmon Creek Forest Ticket: progression
 Snail Money: filler
 Soda Repair: progression
@@ -69,6 +72,7 @@ Turbine Town Cassette: progression
 Turbine Town Fish: progression
 Turbine Town Flower: progression
 Turbine Town Key: progression
+Turbine Town Textbox: progression
 Turbine Town Ticket: progression
 W I D E Trap: trap
 Whoops! Trap: trap

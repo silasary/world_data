@@ -1,0 +1,62 @@
+ArmorBrick: filler
+ArmorCardboard: filler
+ArmorDiamond: filler
+ArmorThunderbox: filler
+ArmorWood: filler
+CircleKey (E1A3): progression
+CircleKey (E1A8): progression
+CircleKey (E2A4): progression
+CircoolAid: filler
+CrescentRune (E2A10): progression
+CrescentRune (E2A12): progression
+CubeKey (E2A3): progression
+CubeKey (E2A6): progression
+Defibrillator: progression
+DevilSphere: filler
+DiamondRune (E2A12): progression
+EnviroSuit: filler
+FishTank: filler
+FizzoPop: filler
+FloppyDiskLaunchCode (E1A9): progression
+FloppyDiskPassword (E1A9): progression
+FloppyDiskSecurityCode (E1A9): progression
+HappySphere: filler
+HellShellLauncher: progression
+HexagonKey (E2A11): progression
+HotSauce: filler
+Level Access (E1A10): progression
+Level Access (E1A2): progression
+Level Access (E1A3): progression
+Level Access (E1A4): progression
+Level Access (E1A5): progression
+Level Access (E1A6): progression
+Level Access (E1A7): progression
+Level Access (E2A10): progression
+Level Access (E2A11): progression
+Level Access (E2A2): progression
+Level Access (E2A3): progression
+Level Access (E2A6): progression
+Level Clear (E1A1): progression
+Level Clear (E1A3): progression
+Level Clear (E2A1): progression
+Level Clear (E2A11): progression
+Level Clear (E2A3): progression
+Level Clear (E2A6): progression
+Oozi: progression
+PaintCannon: progression
+PaintGuns: progression
+Powerzade: filler
+PyramidKey (E2A3): progression
+PyramidKey (E2A6): progression
+PyramidKey (E2A7): progression
+RhombusKey (E1A7): progression
+Sceptre: progression
+SillySphere: filler
+SphereKey (E2A6): progression
+SquareBackpack: filler
+SquareKey (E1A10): progression
+SquareKey (E2A4): progression
+StarRune (E2A10): progression
+StarRune (E2A5): progression
+TrapezoidKey (E1A7): progression
+TriangleKey (E1A10): progression

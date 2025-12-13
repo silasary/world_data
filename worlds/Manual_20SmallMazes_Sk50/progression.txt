@@ -2,7 +2,7 @@
 Bone: progression
 Book: progression
 Buried Treasure: progression
-Chest: unknown
+Chest: progression
 Clock: progression
 Cloudy Day: progression
 Coin: progression
@@ -19,7 +19,7 @@ Painting: progression
 Password Reminder: unknown
 Pieces To Put Together: unknown
 RYB: progression
-Scavenger Hunt: unknown
+Scavenger Hunt: progression
 Shield: progression
 Sliding Maze: progression
 Sword: progression
@@ -27,5 +27,5 @@ TEILRT: progression
 Tower: progression
 Under Construction: progression
 X-Ray Device: progression
-You: unknown
+You: progression
 untitled-DRAFT: progression

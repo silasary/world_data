@@ -19,6 +19,7 @@
 013 - Hidden Bug "Endless Night Seclusion": filler
 014 - Vocal Sign "Hooting in the Night": filler
 015 - Vocal Sign "Hooting in the Night": progression
+016 - Vocal Sign "Howl of the Horned Owl": progression
 017 - Vocal Sign "Howl of the Horned Owl": progression
 018 - Moth Sign "Hawk Moth's Insect Curse": progression
 019 - Moth Sign "Hawk Moth's Insect Curse": progression
@@ -128,6 +129,7 @@
 127 - God Sign "Genealogy of the Celestials": progression
 128 - Revival "Seimei Yugi -Life Game-": progression
 129 - Revival "Seimei Yugi -Life Game-": filler
+130 - Resurrection "Rising Game": progression
 131 - Resurrection "Rising Game": progression
 132 - Leading God "Omoikane's Device": progression
 133 - Leading God "Omoikane's Device": progression
@@ -187,6 +189,7 @@
 188 - End of Imperishable Night -Morning Mist-: progression
 189 - End of Imperishable Night -Dawn-: progression
 190 - End of Imperishable Night -Morning Star-: progression
+217 - "Deflation Star": progression
 Aria of Forbidden Magic Team: unknown
 Brilliant Dragon Bullet: progression
 Buddhist Diamond: progression
@@ -199,6 +202,7 @@ Next Stage: unknown
 Salamander Shield: progression
 Time Gain: progression
 Visionary Scarlet Devil Team: progression
+[Alice] Stage 4A: progression
 [Devil Team] Extra Stage: progression
 [Devil Team] Stage 2: progression
 [Devil Team] Stage 3: progression
@@ -224,6 +228,7 @@ Visionary Scarlet Devil Team: progression
 [Magic Team] Stage 6B: progression
 [Nether Team] Extra Stage: progression
 [Nether Team] Stage 2: progression
+[Nether Team] Stage 3: progression
 [Nether Team] Stage 4A: progression
 [Nether Team] Stage 4B: progression
 [Nether Team] Stage 5: progression

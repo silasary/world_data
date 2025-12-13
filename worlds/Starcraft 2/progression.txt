@@ -497,6 +497,7 @@ Increased Building Construction Speed: filler
 Increased Shield Regeneration: filler
 Increased Upgrade Research Speed: filler
 Incubator Chamber (Swarm Queen): useful
+Indomitable Will (Dark Archon War Council): useful
 Indomitable Will (Dark Archon): useful
 Induce Scopophobia (Observer): useful
 Infernal Plating (Hellion): useful
@@ -646,6 +647,7 @@ Midnight Riders: useful
 Mirage: progression
 Missile Turret: useful
 Mist Wing: progression
+Mobile Chrono Beam (Energizer War Council): progression
 Mobile Chrono Beam (Energizer): progression
 Mobility Protocols (Disruptor War Council): useful
 Mobility Protocols (Disruptor): useful
@@ -673,7 +675,7 @@ Nexus Overcharge: useful
 Night Terrors Mission Key: progression
 Nothing: trap
 Noxious Strain (Ultralisk): filler
-Null Shroud (Mist Wing): unknown
+Null Shroud (Mist Wing): useful
 Nydus Worm (Nydus Network): unknown
 Nydus Worm: progression
 Nyx-Class Cloaking Module (Spectre): useful
@@ -768,7 +770,7 @@ Primal Igniter Aspect (Roach): unknown
 Primal Igniter: progression
 Primal Tenacity (Primal Igniter): progression
 Primordial Fury (Guardian): progression
-Prismatic Range (Void Ray): unknown
+Prismatic Range (Void Ray): useful
 Probe Warp-In (Protoss): progression
 Probe Warpin (Protoss): unknown
 Progressive Augmented Thrusters (Planetary Fortress): useful
@@ -782,6 +784,11 @@ Progressive Fire-Suppression System: useful
 Progressive Fungal Snare (Infested Diamondback): progression
 Progressive High Impact Payload (Thor): useful
 Progressive Immortality Protocol (Thor): filler
+Progressive Key #1: progression
+Progressive Key #2: progression
+Progressive Key #3: progression
+Progressive Key #4: progression
+Progressive Key #5: progression
 Progressive Missile Pods (Battlecruiser): useful
 Progressive Mission Key: progression
 Progressive Orbital Command: progression
@@ -896,6 +903,7 @@ Reconstruction (Instigator): useful
 Reconstruction Beam (Spear of Adun Auto-Cast): progression
 Reconstruction Beam (Spear of Adun): progression
 Reduced Upgrade Research Cost: filler
+Reforged Bloodshard Core (Destroyer War Council): progression
 Reforged Bloodshard Core (Destroyer): useful
 Regenerative Acid (Baneling): filler
 Regenerative Plating (Infested Bunker): useful
@@ -1120,12 +1128,14 @@ The Dig (Zerg) Mission Key: progression
 The Escape Mission Key: progression
 The Essence of Eternity Mission Key: progression
 The Great Train Robbery (Protoss) Mission Key: progression
+The Great Train Robbery (Terran) Mission Key: progression
 The Great Train Robbery (Zerg) Mission Key: progression
 The Growing Shadow (Protoss) Mission Key: progression
 The Growing Shadow (Terran) Mission Key: progression
 The Growing Shadow (Zerg) Mission Key: progression
 The Host (Protoss) Mission Key: progression
 The Host (Terran) Mission Key: progression
+The Host (Zerg) Mission Key: progression
 The Infinite Cycle Mission Key: progression
 The Moebius Factor (Protoss) Mission Key: progression
 The Moebius Factor (Terran) Mission Key: progression
@@ -1166,7 +1176,7 @@ Tyrannozor Aspect (Ultralisk): unknown
 Tyrannozor: progression
 Tyrant's Protection (Tyrannozor): useful
 U-238 Rounds (Reaper): useful
-UED Missile Technology (Liberator): unknown
+UED Missile Technology (Liberator): useful
 Ultra-Capacitors (Terran): useful
 Ultra-Capacitors: useful
 Ultralisk (Larva): unknown

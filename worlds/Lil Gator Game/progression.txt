@@ -7,7 +7,7 @@ Artsy Beret: filler
 Balloon (Item): useful
 Balloon: useful
 Big Leaf (Item): progression
-Big Leaf: unknown
+Big Leaf: progression
 Blue Scooter Board (Craft): progression
 Blue Scooter Board: progression
 Bowling Bomb (Item): useful
@@ -29,7 +29,7 @@ Craft Stuff x15: filler
 Craft Stuff x30: filler
 Detective Cowl (Craft): filler
 Detective Cowl: filler
-Finish Flag: unknown
+Finish Flag: progression
 Friend x2: mcguffin
 Friend x3: mcguffin
 Friend x4: mcguffin
@@ -39,7 +39,7 @@ Glider: progression
 Grabby Hand (Item): filler
 Grabby Hand: progression
 Grass Clippings: progression
-Guitar of Space: unknown
+Guitar of Space: progression
 Inner Tube (Craft): progression
 Inner Tube: progression
 Key: progression
@@ -54,7 +54,7 @@ Ninja Headband (Craft): filler
 Ninja Headband: useful
 Nunchaku (Item): progression
 Nunchaku: progression
-Oar: unknown
+Oar: progression
 Oversized Pencil (Craft): progression
 Oversized Pencil: progression
 Paint Blaster (Item): progression

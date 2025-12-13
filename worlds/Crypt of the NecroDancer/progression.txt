@@ -12,6 +12,7 @@ Battle Shovel: useful
 Beastmaster: useful
 Berserk Scroll: unknown
 Berserk Spell: unknown
+Blast Helm: useful
 Blood Drum: useful
 Blood Shovel: unknown
 Blunderbuss: unknown
@@ -53,6 +54,7 @@ Dorian: progression
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
 Double Heart Container: unknown
+Double Tempo Mode: progression
 Dove Familiar: useful
 Dove: progression
 Drumstick: useful
@@ -72,9 +74,9 @@ Freeze Tome: useful
 Frost Charm: unknown
 Frost Dagger: unknown
 Full Heal: filler
-Glass Armor: unknown
+Glass Armor: useful
 Glass Jaw: unknown
-Glass Shovel: unknown
+Glass Shovel: useful
 Glass Slippers: unknown
 Glass Torch: unknown
 Gluttony Charm: unknown
@@ -108,7 +110,7 @@ Longsword: useful
 Low Percent Mode: progression
 Luminous Torch: useful
 Magic Apple: unknown
-Magic Carrot: unknown
+Magic Carrot: useful
 Magic Cheese: useful
 Magic Cookies: unknown
 Magic Drumstick: unknown
@@ -128,7 +130,7 @@ Nazar Charm: unknown
 No Beat Mode: progression
 No Return Trap: trap
 Nocturna: progression
-Obsidian Armor: unknown
+Obsidian Armor: useful
 Obsidian Shield: useful
 Obsidian Shovel: useful
 Obsidian Torch: useful
@@ -144,10 +146,10 @@ Pulse Tome: unknown
 Quartz Armor: useful
 Randomizer Mode: progression
 Rapier: unknown
-Rat Familiar: unknown
+Rat Familiar: useful
 Reaper: progression
 Reflective Shield: useful
-Rifle: unknown
+Rifle: useful
 Ring of Becoming: unknown
 Ring of Charisma: unknown
 Ring of Courage: useful
@@ -166,7 +168,7 @@ Ring of Shadows: useful
 Ring of Shielding: useful
 Ring of War: useful
 Risk Charm: unknown
-Scroll of Need: unknown
+Scroll of Need: useful
 Shield Scroll: unknown
 Shield Spell: useful
 Shield Tome: useful
@@ -198,7 +200,7 @@ Transmute Spell: useful
 Transmute Tome: useful
 Trident: unknown
 War Drum: useful
-Warhammer: unknown
+Warhammer: useful
 Weaponmaster: useful
 Whip: useful
 Winged Boots: unknown

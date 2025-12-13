@@ -1,22 +1,28 @@
 1-A Unlock: progression
 2-B Unlock: progression
+3-A Unlock: progression
 3-B Unlock: progression
 4-A Unlock: progression
 4-B Unlock: progression
 4-C Unlock: progression
+5-A Unlock: progression
 6-A Unlock: progression
 6-B Unlock: progression
 ? Switch: progression
 Boss Token: progression
 Cannon Unlock: progression
 Carry: progression
+Climb: progression
 Door Traversal: progression
 F-A Unlock: progression
+F-B Unlock: progression
 Flip Trap: trap
 Gold Block: useful
+Gold Ring: useful
 Ground Pound: progression
 Instruction Manual Trap: trap
 Lakitu Cloud: progression
+Level-Specific Switches: progression
 Luigi: filler
 M-A Unlock: progression
 M-B Unlock: progression
@@ -27,18 +33,23 @@ Mushroom Kingdom Taxes: filler
 Nerve-Wrack Pack: progression
 OHKO Trap: trap
 P Switch: progression
+Pipe Traversal - Down: progression
 Pipe Traversal - Left: progression
 Pipe Traversal - Right: progression
 Pipe Traversal - Up: progression
 Progressive Powerup: progression
 Progressive World Star Unlock: progression
 Red Ring: useful
+Reserve Box: useful
 Springboard: progression
 Star Coin: progression
+Super Star: progression
 Swim: progression
 Wall Jump: progression
 World 1 Unlock: progression
 World 2 Unlock: progression
 World 3 Unlock: progression
+World 4 Unlock: progression
+World 6 Unlock: progression
 World Flower Unlock: progression
 World Mushroom Unlock: progression

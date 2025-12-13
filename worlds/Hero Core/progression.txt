@@ -2,25 +2,33 @@ Barrier Removal - (B,9): progression
 Barrier Removal - (C,6): progression
 Barrier Removal - (D,11): progression
 Barrier Removal - (E,3): progression
+Barrier Removal - (G,9): progression
 Barrier Removal - (I,4): progression
 Barrier Removal - (K,4): progression
 Barrier Removal - (M,11): progression
 Battle Door Key (B,6): progression
 Battle Door Key (H,2): progression
+Battle Door Key (K,2): progression
 Blade Upgrade: progression
+Blaster Upgrade: useful
 Computer: progression
 Door Key (A,12): progression
+Door Key (A,4): filler
 Door Key (A,7): progression
 Door Key (B,4): progression
 Door Key (B,8): progression
+Door Key (C,9): progression
 Door Key (D,10): progression
 Door Key (D,14): progression
 Door Key (E,13): progression
+Door Key (E,14): progression
 Door Key (E,15): progression
 Door Key (E,4): progression
 Door Key (E,8): progression
 Door Key (F,14): filler
+Door Key (F,15): progression
 Door Key (G,10): filler
+Door Key (H,12): progression
 Door Key (H,14): useful
 Door Key (H,3): progression
 Door Key (I,11): progression
@@ -42,13 +50,17 @@ Health Restore: filler
 Level Up: progression
 Suit Upgrade: progression
 Warp Point (A,8): progression
+Warp Point (C,11): progression
 Warp Point (D,15): progression
 Warp Point (D,5): progression
 Warp Point (F,12): progression
 Warp Point (G,11): progression
+Warp Point (G,5): progression
 Warp Point (H,15): progression
 Warp Point (J,3): progression
 Warp Point (L,12): progression
 Warp Point (L,15): filler
 Warp Point (L,8): progression
+Warp Point (M,4): progression
+Warp Point (N,5): progression
 Warp Point (N,9): progression

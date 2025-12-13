@@ -278,6 +278,7 @@ wh2_main_brt_resource_dyes_2: progression
 wh2_main_brt_resource_dyes_3: progression
 wh2_main_brt_resource_furs_2: progression
 wh2_main_brt_resource_furs_3: progression
+wh2_main_brt_resource_gold_2: progression
 wh2_main_brt_resource_gold_3: progression
 wh2_main_brt_resource_marble_2: progression
 wh2_main_brt_resource_marble_3: progression
@@ -481,6 +482,7 @@ wh_dlc07_tech_brt_economy_industry_2: progression
 wh_dlc07_tech_brt_economy_industry_3: progression
 wh_dlc07_tech_brt_economy_industry_4: progression
 wh_dlc07_tech_brt_economy_industry_pottery: progression
+wh_dlc07_tech_brt_economy_industry_start: progression
 wh_dlc07_tech_brt_economy_industry_steel: progression
 wh_dlc07_tech_brt_economy_industry_swords: progression
 wh_dlc07_tech_brt_economy_industry_tournaments: progression
@@ -554,9 +556,11 @@ wh_main_brt_settlement_minor_3: progression
 wh_main_brt_smiths_2: progression
 wh_main_brt_stables_2: progression
 wh_main_brt_stables_3: progression
+wh_main_brt_stables_4: progression
 wh_main_brt_stables_5: progression
 wh_main_brt_tavern_2: progression
 wh_main_brt_tavern_3: progression
 wh_main_brt_tavern_4: progression
+wh_main_brt_walls_3: progression
 wh_main_payload_event_the_eye_opens_second: unknown
 wh_main_payload_morale_army: unknown

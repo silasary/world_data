@@ -1,3 +1,4 @@
+Cluster Grenade Trap: trap
 Grenade Trap: trap
 Inventory Spill Trap: trap
 Teleport Trap: trap
@@ -5,6 +6,7 @@ advanced-combinators: progression
 advanced-material-processing: filler
 advanced-oil-processing: progression
 artillery-shell-speed-1: filler
+artillery: filler
 automated-rail-transportation: progression
 battery-mk2-equipment: filler
 battery: progression
@@ -14,6 +16,7 @@ bob-acid-rocket: filler
 bob-advanced-logistic-science-pack: progression
 bob-advanced-research: unknown
 bob-air-compressor-1: progression
+bob-air-compressor-3: filler
 bob-alien-blue-research: filler
 bob-alien-green-research: progression
 bob-alien-orange-research: filler
@@ -26,6 +29,7 @@ bob-aluminium-processing: progression
 bob-ap-bullets: filler
 bob-area-drills-1: filler
 bob-area-drills-4: filler
+bob-armoured-fluid-wagon-2: filler
 bob-armoured-railway-2: filler
 bob-armoured-railway: filler
 bob-artifact-processing: progression
@@ -33,6 +37,7 @@ bob-artifact-radar: filler
 bob-artillery-wagon-2: filler
 bob-atomic-artillery-shell: filler
 bob-battery-2: filler
+bob-battery-3: filler
 bob-battery-equipment-6: filler
 bob-bullets: progression
 bob-ceramics: progression
@@ -40,7 +45,7 @@ bob-chemical-processing-1: progression
 bob-chemical-processing-2: progression
 bob-cobalt-processing: progression
 bob-cordite-processing: progression
-bob-deuterium-fuel-cell-2: unknown
+bob-deuterium-fuel-cell-2: filler
 bob-deuterium-fuel-reprocessing: filler
 bob-deuterium-processing: filler
 bob-distractor-artillery-shells: filler
@@ -49,7 +54,7 @@ bob-drills-3: filler
 bob-drills-4: filler
 bob-electric-bullets: filler
 bob-electric-chemical-furnace: filler
-bob-electric-mixing-furnace: unknown
+bob-electric-mixing-furnace: filler
 bob-electric-pole-3: filler
 bob-electric-rocket: filler
 bob-electric-substation-2: filler
@@ -57,10 +62,11 @@ bob-electric-substation-4: filler
 bob-electrolyser-2: filler
 bob-electrolyser-3: filler
 bob-electrolyser-4: filler
+bob-electrolyser-5: filler
 bob-electrolysis-1: progression
 bob-energy-shield-equipment-6: filler
 bob-explosive-artillery-shells: filler
-bob-explosive-rocket: unknown
+bob-explosive-rocket: filler
 bob-fertiliser: filler
 bob-fire-artillery-shells: filler
 bob-flame-bullets: filler
@@ -68,6 +74,7 @@ bob-flame-rocket: filler
 bob-fluid-barrel-processing: progression
 bob-fluid-canister-processing: progression
 bob-fluid-chemical-furnace: unknown
+bob-fluid-generator-1: filler
 bob-fluid-generator-2: filler
 bob-fluid-handling-2: progression
 bob-fluid-mixing-furnace: unknown
@@ -75,7 +82,7 @@ bob-gas-canisters: progression
 bob-gold-processing: progression
 bob-greenhouse: progression
 bob-grinding: progression
-bob-he-bullets: unknown
+bob-he-bullets: filler
 bob-heat-pipe-2: filler
 bob-heat-pipe-3: filler
 bob-heat-shield: progression
@@ -114,7 +121,7 @@ bob-personal-roboport-modular-equipment-1: filler
 bob-personal-roboport-modular-equipment-3: filler
 bob-personal-roboport-modular-equipment-4: filler
 bob-piercing-rocket: filler
-bob-plasma-bullets: unknown
+bob-plasma-bullets: filler
 bob-plasma-rocket: progression
 bob-plutonium-fuel-cell: filler
 bob-poison-artillery-shells: filler
@@ -123,6 +130,7 @@ bob-poison-mine: filler
 bob-poison-rocket: filler
 bob-polishing: progression
 bob-pollution-clean-module-1: filler
+bob-pollution-clean-module-2: filler
 bob-pollution-clean-module-5: filler
 bob-power-armor-3: filler
 bob-productivity-module-4: filler
@@ -135,6 +143,7 @@ bob-robot-flamethrower-drones: filler
 bob-robot-gun-drones: filler
 bob-robot-laser-drones: filler
 bob-robot-plasma-drones: filler
+bob-robots-1: filler
 bob-robots-2: filler
 bob-robots-3: progression
 bob-rocket: progression
@@ -153,8 +162,9 @@ bob-slowdown-mine: progression
 bob-sniper-turrets-1: filler
 bob-sniper-turrets-3: filler
 bob-steel-chemical-furnace: unknown
-bob-steel-mixing-furnace: unknown
+bob-steel-mixing-furnace: filler
 bob-tankotron: filler
+bob-tanks-2: filler
 bob-thorium-fuel-reprocessing: filler
 bob-thorium-plutonium-fuel-cell: progression
 bob-thorium-processing: filler
@@ -164,8 +174,9 @@ bob-tungsten-processing: progression
 bob-turrets-3: filler
 bob-turrets-4: filler
 bob-turrets-5: filler
-bob-vehicle-belt-immunity-equipment: unknown
+bob-vehicle-belt-immunity-equipment: filler
 bob-vehicle-engine-equipment: filler
+bob-vehicle-fission-cell-equipment-2: filler
 bob-vehicle-laser-defense-equipment-1: filler
 bob-vehicle-laser-defense-equipment-2: filler
 bob-vehicle-laser-defense-equipment-3: filler
@@ -176,6 +187,8 @@ bob-vehicle-roboport-equipment-2: filler
 bob-vehicle-roboport-equipment-3: filler
 bob-vehicle-roboport-equipment-4: filler
 bob-vehicle-roboport-modular-equipment-1: filler
+bob-vehicle-roboport-modular-equipment-3: filler
+bob-vehicle-roboport-modular-equipment-4: filler
 bob-void-fluid: filler
 bob-walking-vehicle: filler
 bob-water-bore-1: progression
@@ -199,28 +212,37 @@ energy-shield-mk2-equipment: filler
 explosives: progression
 flammables: filler
 fluid-handling: progression
+follower-robot-count-2: filler
 follower-robot-count-3: filler
 follower-robot-count-4: filler
+follower-robot-count-5: filler
 gun-turret: filler
 kovarex-enrichment-process: unknown
-lamp: unknown
+lamp: progression
 land-mine: filler
 landfill: filler
+laser-weapons-damage-1: filler
 laser-weapons-damage-4: filler
 laser-weapons-damage-7: filler
 logistic-robotics: filler
 logistic-science-pack: progression
 low-density-structure: progression
 lubricant: progression
+military-2: filler
 military-science-pack: progression
 military: progression
 modules: progression
-nuclear-fuel-reprocessing: unknown
+nuclear-fuel-reprocessing: filler
 nuclear-power: progression
 oil-gathering: unknown
 personal-laser-defense-equipment: filler
+personal-roboport-equipment: filler
+personal-roboport-mk2-equipment: filler
 plastics: progression
+power-armor-mk2: filler
 production-science-pack: progression
+productivity-module-3: filler
+productivity-module: filler
 progressive-advanced-material-processing: unknown
 progressive-armor: filler
 progressive-artillery-shell-range: filler
@@ -332,6 +354,7 @@ progressive-weapon-shooting-speed: filler
 progressive-worker-robots-speed: filler
 progressive-worker-robots-storage: filler
 radar: filler
+research-speed-3: filler
 research-speed-4: filler
 research-speed-5: filler
 research-speed-6: filler
@@ -348,3 +371,4 @@ weapon-shooting-speed-2: filler
 weapon-shooting-speed-3: filler
 weapon-shooting-speed-4: filler
 weapon-shooting-speed-6: filler
+worker-robots-storage-2: filler

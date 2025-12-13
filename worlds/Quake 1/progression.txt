@@ -36,7 +36,7 @@ Progressive Thunderbolt: progression
 Quad Damage: useful
 Red Armor: useful
 Rocket Ammo (+1): filler
-Rocket Damage Remover: unknown
+Rocket Damage Remover: progression
 Rocket Jump: progression
 Run: progression
 Shoot Switch: progression
@@ -113,6 +113,8 @@ e3m7 Automap: unknown
 e3m7 Unlock: unknown
 e4m3 Gold Key: progression
 e4m4 Silver Key: progression
+e4m5 Silver Key: progression
+e4m5 Unlock: progression
 e4m6 Silver Key: progression
 e4m6 Unlock: progression
 e4m8 Gold Key: progression

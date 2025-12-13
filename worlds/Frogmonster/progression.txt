@@ -17,7 +17,7 @@ Dragonfly: mcguffin
 Eel Trophy: progression
 Eel: progression
 Finisher Myzand Upgrade: progression
-Finisher: unknown
+Finisher: progression
 Fire Fruit Juicer Myzand Upgrade: progression
 Fire Fruit Juicer: progression
 Fireball: progression
@@ -29,6 +29,7 @@ Gatling Gun: progression
 Gecko: progression
 Glowbug: progression
 Health Shard: progression
+Hive: progression
 Key: progression
 Leafbug: progression
 Magnet Roach: progression
@@ -43,6 +44,7 @@ Munchinator: progression
 Mushbomb: progression
 Mushroll: progression
 Mushroom: mcguffin
+Orchus Key: progression
 Pecker: progression
 Puff: progression
 Purple Snack: mcguffin
@@ -70,4 +72,5 @@ Weepwood Bow: progression
 Wooden Cannon Myzand Upgrade: progression
 Wooden Cannon: progression
 Workshop Key: progression
+Wormy: progression
 Zap: progression

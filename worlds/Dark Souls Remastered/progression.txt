@@ -32,7 +32,7 @@ Bequeathed Lord Soul Shard (Four Kings): mcguffin
 Bequeathed Lord Soul Shard (Seath): progression
 Big Hat: filler
 Binoculars: filler
-Black Bow of Pharis: unknown
+Black Bow of Pharis: filler
 Black Cleric Robe: unknown
 Black Eye Orb: filler
 Black Firebomb: filler
@@ -58,6 +58,7 @@ Black Sorcerer Cloak: filler
 Black Sorcerer Gauntlets: unknown
 Black Sorcerer Hat: useful
 Black Tights: filler
+Blacksmith Giant Hammer: filler
 Blacksmith Hammer: useful
 Blighttown Key: progression
 Bloated Head: useful
@@ -76,7 +77,7 @@ Book of the Guilty: filler
 Boots of the Explorer: filler
 Bottomless Box: useful
 Bracelet of the Great Lord: useful
-Brass Armor: unknown
+Brass Armor: filler
 Brass Gauntlets: filler
 Brass Helm: filler
 Brass Leggings: useful
@@ -163,7 +164,7 @@ Dark Wood Grain Ring: filler
 Darkmoon Blade Covenant Ring: filler
 Darkmoon Bow: filler
 Darkmoon Seance Ring: filler
-Darkmoon Talisman: unknown
+Darkmoon Talisman: filler
 Darksign: filler
 Darksword: useful
 Demon Great Machete: filler
@@ -174,7 +175,7 @@ Demon's Greataxe: unknown
 Demon's Spear: filler
 Dingy Gloves: filler
 Dingy Hood: filler
-Dingy Robe: unknown
+Dingy Robe: filler
 Divine Blessing: filler
 Divine Ember: useful
 Dragon Bone Fist: useful
@@ -287,7 +288,7 @@ Hard Leather Armor: useful
 Hard Leather Boots: useful
 Hard Leather Gauntlets: unknown
 Havel's Armor: useful
-Havel's Gauntlets: unknown
+Havel's Gauntlets: filler
 Havel's Greatshield: filler
 Havel's Helm: useful
 Havel's Leggings: filler
@@ -295,9 +296,9 @@ Havel's Ring: useful
 Hawk Ring: filler
 Heater Shield: filler
 Heavy Bolt: useful
-Heavy Boots: unknown
+Heavy Boots: filler
 Heavy Crossbow: useful
-Helm of Artorias: unknown
+Helm of Artorias: filler
 Helm of Thorns: filler
 Helm of the Wise: filler
 Hollow Soldier Armor: filler
@@ -322,7 +323,7 @@ Iron Helm: filler
 Iron Leggings: useful
 Iron Round Shield: unknown
 Ivory Talisman: useful
-Izalith Catalyst: unknown
+Izalith Catalyst: filler
 Jagged Ghost Blade: filler
 Key to Depths: progression
 Key to New Londo Ruins: progression
@@ -398,7 +399,7 @@ Miracle: Karmic Justice: useful
 Miracle: Lightning Spear: useful
 Miracle: Magic Barrier: useful
 Miracle: Replenishment: filler
-Miracle: Seek Guidance: unknown
+Miracle: Seek Guidance: filler
 Miracle: Soothing Sunlight: filler
 Miracle: Sunlight Blade: useful
 Miracle: Sunlight Spear: filler
@@ -424,11 +425,11 @@ Orange Guidance Soapstone: filler
 Ornstein's Armor: filler
 Ornstein's Gauntlets: useful
 Ornstein's Helm: filler
-Ornstein's Leggings: unknown
+Ornstein's Leggings: filler
 Painting Guardian Gloves: unknown
 Painting Guardian Hood: filler
 Painting Guardian Robe: useful
-Painting Guardian Sword: unknown
+Painting Guardian Sword: filler
 Painting Guardian Waistcloth: filler
 Paladin Armor: filler
 Paladin Gauntlets: unknown
@@ -456,6 +457,7 @@ Pyromancy Flame (Ascended): useful
 Pyromancy Flame: useful
 Pyromancy: Acid Surge: filler
 Pyromancy: Black Flame: filler
+Pyromancy: Chaos Fire Whip: filler
 Pyromancy: Chaos Storm: filler
 Pyromancy: Combustion: useful
 Pyromancy: Fire Orb: useful
@@ -513,7 +515,7 @@ Shadow Gauntlets: useful
 Shadow Leggings: filler
 Shadow Mask: filler
 Short Bow: unknown
-Shortsword: unknown
+Shortsword: filler
 Shotel: filler
 Silver Coin: useful
 Silver Knight Armor: useful
@@ -583,12 +585,13 @@ Soul of a Lost Undead: useful
 Soul of a Nameless Soldier: useful
 Soul of a Proud Knight: useful
 Souvenir of Reprisal: filler
-Spear: unknown
+Spear: filler
 Speckled Stoneplate Ring: useful
 Spider Shield: filler
 Spiked Shield: filler
 Standard Arrow: unknown
 Standard Bolt: useful
+Standard Helm: filler
 Steel Armor: filler
 Steel Gauntlets: filler
 Steel Helm: filler
@@ -597,7 +600,7 @@ Stone Armor: filler
 Stone Gauntlets: filler
 Stone Greataxe: useful
 Stone Greatshield: useful
-Stone Greatsword: unknown
+Stone Greatsword: filler
 Stone Helm: filler
 Stone Leggings: filler
 Straight Sword Hilt: useful
@@ -607,7 +610,7 @@ Sunlight Shield: useful
 Sunlight Straight Sword: filler
 Sunlight Talisman: filler
 Symbol of Avarice: useful
-Talisman: unknown
+Talisman: filler
 Target Shield: filler
 Tattered Cloth Hood: useful
 Tattered Cloth Machette: useful
@@ -625,6 +628,7 @@ Titanite Chunk: useful
 Titanite Shard: useful
 Titanite Slab: useful
 Tower Kite Shield: filler
+Tower Shield: filler
 Transient Curse: useful
 Traveling Boots: filler
 Traveling Gloves: filler
