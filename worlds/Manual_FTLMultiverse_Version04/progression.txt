@@ -2,6 +2,7 @@ AETHER PREIGNITER: useful
 AETHER TRANSLATOR: progression
 AUG ANCIENT_COMBAT_EQUALIZER: useful
 AUG ANCIENT_REPLICATOR: useful
+AUG COMBAT_CLOAKING_JAMMER: filler
 AUG COMBAT_EXPLOSIVE: filler
 AUG COMBAT_IONSTORM: useful
 AUG COMBAT_OXYGEN_UNSTABLE: filler
@@ -11,11 +12,13 @@ AUG COMBAT_WARP_JAMMER: filler
 AUG COMBAT_WEAPON_JAMMER: useful
 AUG CURA_SURGES_DRONES: useful
 AUG EMERGENCY_DRIVE: filler
+AUG GOLD_ARMOR: useful
 AUG MULTIVERSE_DRIVE_GOOD: useful
 AUG MVBOSS_SPAWNER: progression
 AUG ORCHID_KIDS : filler
 AUG PALADIN_ARMOR: useful
 AUG PANDORA_BOX: trap
+AUG STORE_BEACON: useful
 Abandoned [Sale!] Sector: progression
 Ancient Wastelands Sector: progression
 Auto Sector: progression
@@ -40,6 +43,7 @@ EX_MEDBAY_NANO: useful
 EX_O2_MASKS: useful
 EX_SHIELD_RECHARGE: useful
 EX_TELEPORT_HEAL: useful
+EX_ZOLTAN_BYPASS: useful
 Eargen Republic Capital Sector: progression
 Emancipated Sanctuary Sector: progression
 Emancipation Grills: useful
@@ -57,6 +61,8 @@ Illesctrian Oasis Sector: progression
 Imperial New-Homelands Sector: progression
 Imperial Sector: progression
 Infested Sector: progression
+Kleptocracy [Sale!] Sector: progression
+Lanius Swarmlands Sector: progression
 Level 3 Cloaking : useful
 Logistical Assistant: filler
 Lost Sun Stronghold Sector: progression
@@ -69,7 +75,9 @@ Progressive AUG CREW_STIMS: useful
 Progressive AUG OBSIDIAN_ARMOR: useful
 Progressive AUG SLUG_GEL: useful
 Progressive AUG STORE_BEACON_SUPER: useful
+Progressive AUG SYLVAN_SHIELD: useful
 Progressive AUG WEAPON_PREIGNITE: useful
+Progressive Battery: useful
 Progressive Cloaking: progression
 Progressive Clone Bay: progression
 Progressive Doors: progression
@@ -84,6 +92,7 @@ Rebel Sector: progression
 Rebel Stronghold Sector: progression
 Republican [Sale!] Sector: progression
 Royal Kleptocracy Nebula Sector: progression
+Scrap Arm: useful
 Separatisit Sector: progression
 Spectral Capital Sector: progression
 Starting Drones x2: filler

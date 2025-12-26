@@ -164,6 +164,7 @@ BlueSkull (E4M3): progression
 BlueSkull (E4M5): progression
 BlueSkull (E4M6): progression
 BlueSkull (E4M7): progression
+BlueSkull (MAP01): progression
 BlueSkull (MAP04): progression
 BlueSkull (MAP05): progression
 BlueSkull (MAP06): progression
@@ -186,6 +187,7 @@ BlueSkull (MAP24): progression
 BlueSkull (MAP25): progression
 BlueSkull (MAP27): progression
 BlueSkull (MAP28): progression
+BlueSkull (MAP29): progression
 BlueSkull (MAP32): progression
 BlueSkull (MAP35): progression
 BlueSkull (MAP74): progression
@@ -612,13 +614,17 @@ RedCard (MAP03): progression
 RedCard (MAP04): progression
 RedCard (MAP05): progression
 RedCard (MAP06): progression
+RedCard (MAP07): progression
+RedCard (MAP08): progression
 RedCard (MAP09): progression
+RedCard (MAP10): progression
 RedCard (MAP11): progression
 RedCard (MAP12): progression
 RedCard (MAP13): progression
 RedCard (MAP14): progression
 RedCard (MAP15): progression
 RedCard (MAP17): progression
+RedCard (MAP19): progression
 RedCard (MAP21): progression
 RedCard (MAP22): progression
 RedCard (MAP23): progression
@@ -671,10 +677,12 @@ RedSkull (MAP20): progression
 RedSkull (MAP21): progression
 RedSkull (MAP22): progression
 RedSkull (MAP23): progression
+RedSkull (MAP25): progression
 RedSkull (MAP26): progression
 RedSkull (MAP27): progression
 RedSkull (MAP28): progression
 RedSkull (MAP29): progression
+RedSkull (MAP30): progression
 RedSkull (MAP32): progression
 RhombusKey (E1A7): progression
 Ring of Invincibility: filler
@@ -740,8 +748,10 @@ YellowCard (MAP09): progression
 YellowCard (MAP10): progression
 YellowCard (MAP12): progression
 YellowCard (MAP13): progression
+YellowCard (MAP14): progression
 YellowCard (MAP15): progression
 YellowCard (MAP17): progression
+YellowCard (MAP18): progression
 YellowCard (MAP20): progression
 YellowCard (MAP21): progression
 YellowCard (MAP22): progression

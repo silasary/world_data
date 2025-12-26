@@ -12,6 +12,7 @@ Progressive brt_carpenter: progression
 Progressive brt_farm: progression
 Progressive brt_farm_extra: progression
 Progressive brt_hospital: progression
+Progressive brt_industry_basic: progression
 Progressive brt_industry_extra: progression
 Progressive brt_legendary_port: progression
 Progressive brt_port: progression
@@ -31,6 +32,7 @@ Progressive brt_settlement_minor: progression
 Progressive brt_stables: progression
 Progressive brt_tavern: progression
 Progressive brt_walls: progression
+Progressive brt_worship: progression
 Progressive emp_allied_outpost: unknown
 Progressive emp_art: unknown
 Progressive emp_barracks: unknown
@@ -183,6 +185,7 @@ tech_dlc16_wef_ancients_cypress: progression
 tech_dlc16_wef_ancients_eagles: progression
 tech_dlc16_wef_ancients_oak: progression
 tech_dlc16_wef_ancients_pine: progression
+tech_dlc16_wef_ancients_poplar: progression
 tech_dlc16_wef_ancients_willow: progression
 tech_dlc16_wef_ancients_yew: progression
 tech_grn_end_1_1: unknown
@@ -235,6 +238,7 @@ wh2_dlc09_anc_weapon_spear_of_pakth: unknown
 wh2_dlc09_payload_dilemma_soulless_sphinx_first: unknown
 wh2_dlc09_ritual_crafting_tmb_army_capacity_16: unknown
 wh2_dlc10_anc_arcane_item_scroll_of_blast: unknown
+wh2_dlc10_anc_weapon_the_widowmaker_3: filler
 wh2_dlc11_bundle_stance_flagship_patrol: filler
 wh2_dlc11_payload_incident_mass_exodus: filler
 wh2_dlc11_payload_incident_perfect_cover: filler
@@ -245,10 +249,13 @@ wh2_dlc11_vmp_ritual_bloodline_awaken_lahmian_bundle_02: unknown
 wh2_dlc12_anc_enchanted_item_plaque_of_sotek: unknown
 wh2_dlc12_bundle_anc_magic_standard_cape_of_sniper: filler
 wh2_dlc12_ikit_workshop_doomwheel_part_3: unknown
+wh2_dlc12_ikit_workshop_doomwheel_part_4: progression
 wh2_dlc12_ikit_workshop_poison_wind_mortar_0: progression
 wh2_dlc12_ikit_workshop_warpfire_part_2: unknown
+wh2_dlc12_tech_brt_chivalry_start: progression
 wh2_dlc12_tech_brt_heraldry_oversea_dwf: progression
 wh2_dlc12_tech_brt_heraldry_oversea_tmb: progression
+wh2_dlc12_tech_brt_heraldry_oversea_wef: progression
 wh2_dlc13_anc_arcane_item_amplifier: unknown
 wh2_dlc13_bundle_nakai_temple_gifted: unknown
 wh2_dlc15_anc_weapon_star_lance: unknown
@@ -258,6 +265,7 @@ wh2_dlc15_special_settlement_massif_orcal_brt_3: progression
 wh2_dlc15_special_settlement_massif_orcal_brt_5: progression
 wh2_dlc16_bundle_ritual_wef_rebirth_ongoing_jungles_of_chian: unknown
 wh2_dlc16_wef_mon_giant_spiders_0: unknown
+wh2_dlc17_anc_banner_banner_of_unholy_exultation: filler
 wh2_dlc17_anc_blessing_of_mania_banner: unknown
 wh2_dlc17_anc_dread_retainer_skinwolf_banner: unknown
 wh2_dlc17_anc_dread_retainer_troll_banner: unknown
@@ -278,6 +286,7 @@ wh2_main_brt_resource_dyes_2: progression
 wh2_main_brt_resource_dyes_3: progression
 wh2_main_brt_resource_furs_2: progression
 wh2_main_brt_resource_furs_3: progression
+wh2_main_brt_resource_gemstones_2: progression
 wh2_main_brt_resource_gold_2: progression
 wh2_main_brt_resource_gold_3: progression
 wh2_main_brt_resource_marble_2: progression
@@ -374,6 +383,7 @@ wh3_dlc26_anc_cloak_of_skulls: unknown
 wh3_dlc26_anc_weapon_bloodstorm_blades: filler
 wh3_main_anc_arcane_item_kairos_life: unknown
 wh3_main_anc_armour_accursed_armour: unknown
+wh3_main_anc_armour_robe_of_vast_pockets: filler
 wh3_main_anc_enchanted_item_cauldron_of_the_great_maw: filler
 wh3_main_anc_enchanted_item_maads_map: unknown
 wh3_main_anc_enchanted_item_skaven_map: unknown
@@ -384,6 +394,9 @@ wh3_main_anc_weapon_slaaneshs_blade: filler
 wh3_main_anc_weapon_the_bane_spear: unknown
 wh3_main_anc_weapon_wyrmslayer_sword: unknown
 wh3_main_brt_allied_outpost_3: progression
+wh3_main_brt_resource_ivory_2: progression
+wh3_main_brt_resource_ivory_3: progression
+wh3_main_bundle_corruption_chaos_bad_11-20: filler
 wh3_main_bundle_corruption_chaos_bad_21-30: unknown
 wh3_main_bundle_corruption_khorne_good_1-10: unknown
 wh3_main_bundle_corruption_khorne_good_71-80: unknown
@@ -532,8 +545,9 @@ wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: filler
 wh_main_anc_talisman_opal_amulet: filler
 wh_main_anc_talisman_talisman_of_endurance: unknown
+wh_main_anc_weapon_berserker_sword: filler
 wh_main_anc_weapon_biting_blade: filler
-wh_main_anc_weapon_shrieking_blade: unknown
+wh_main_anc_weapon_shrieking_blade: filler
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_anc_weapon_sword_of_striking: unknown
 wh_main_brt_barracks_3: progression
@@ -542,6 +556,7 @@ wh_main_brt_cav_grail_knights: progression
 wh_main_brt_cav_knights_of_the_realm: progression
 wh_main_brt_cav_mounted_yeomen_1: progression
 wh_main_brt_cav_pegasus_knights: progression
+wh_main_brt_farm_2: progression
 wh_main_brt_farm_extra_2: progression
 wh_main_brt_garrison_2: progression
 wh_main_brt_hospital_2: progression
@@ -549,6 +564,7 @@ wh_main_brt_industry_basic_2: progression
 wh_main_brt_industry_basic_3: progression
 wh_main_brt_industry_extra_2: progression
 wh_main_brt_legendary_port_2: progression
+wh_main_brt_port_2: progression
 wh_main_brt_port_3: progression
 wh_main_brt_settlement_major_2: progression
 wh_main_brt_settlement_major_5: progression

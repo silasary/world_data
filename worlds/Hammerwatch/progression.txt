@@ -16,7 +16,7 @@ Activate CL3 Puzzle: progression
 Activate ChF11 North Red Flame Turret: useful
 Activate ChF11 Puzzle: progression
 Activate ChF12 Blue Flame Turrets: trap
-Activate PoF Puzzle: unknown
+Activate PoF Puzzle: progression
 Activate PrF1 Puzzle: progression
 Activate PrF1 SW Light Bridge: progression
 Activate PrF2 Puzzle: progression
@@ -35,7 +35,7 @@ Activate Water Pumps: progression
 Apple: filler
 Archives Bonus Key: progression
 Archives Boss Rune A: unknown
-Archives Boss Rune n: unknown
+Archives Boss Rune n: progression
 Archives Boss Rune y Progress: unknown
 Archives Boss Rune y: progression
 Archives Bronze Key: progression
@@ -43,7 +43,7 @@ Archives Floor 7 Master Bronze Key: progression
 Archives Floor 7 Master Gold Key: progression
 Archives Floor 7 Master Silver Key: progression
 Archives Floor 8 Master Bronze Key: progression
-Archives Floor 8 Master Gold Key: unknown
+Archives Floor 8 Master Gold Key: progression
 Archives Floor 8 Master Silver Key: progression
 Archives Floor 9 Master Bronze Key: progression
 Archives Floor 9 Master Gold Key: progression
@@ -53,7 +53,7 @@ Archives Master Bonus Key: unknown
 Archives Silver Key: progression
 Armory Bonus Key: progression
 Armory Boss Rune A: progression
-Armory Boss Rune n: unknown
+Armory Boss Rune n: progression
 Armory Boss Rune y: progression
 Armory Bronze Key: progression
 Armory Floor 4 Master Bronze Key: unknown
@@ -109,12 +109,12 @@ Disable AmF4 SW Spikes: progression
 Disable AmF5 Blue Spikes: progression
 Disable AvF9 Secret Passage North Room Spikes: progression
 Disable ChF10 North Spikes: progression
-Disable ChF10 Red Flame Turret: unknown
+Disable ChF10 Red Flame Turret: useful
 Disable ChF10 Red Spike Turrets: useful
 Disable ChF10 Red Spikes: unknown
 Disable ChF11 Blue Spike Turret: useful
-Disable ChF11 South Red Flame Turrets: unknown
-Disable ChF12 Red Spike Turrets: unknown
+Disable ChF11 South Red Flame Turrets: useful
+Disable ChF12 Red Spike Turrets: useful
 Disable ChF12 Red Spikes: unknown
 Disable PrF2 Red Spikes: progression
 Disable PrF3 Blue Spikes: unknown
@@ -124,7 +124,7 @@ Disable PrF3 South Spikes: progression
 Disable TF2 Blue Spikes: progression
 Disable TF2 South Spikes: progression
 Disable TF3 North Pillar Walls: unknown
-Dune Sharks Arena Gold Key: unknown
+Dune Sharks Arena Gold Key: progression
 Dune Sharks Arena Silver Key: unknown
 Elevate PoF Pyramid: progression
 Enable PrF2 Spike Puzzle East Buttons: progression
@@ -168,21 +168,21 @@ Open AmF4 Boss Gate: progression
 Open AmF4 Middle Cache: unknown
 Open AmF4 Middle Shortcut: progression
 Open AmF4 NE Cache: progression
-Open AmF4 SE Cache: unknown
-Open AmF4 SE Rune Room: unknown
+Open AmF4 SE Cache: progression
+Open AmF4 SE Rune Room: progression
 Open AmF4 South Wall: progression
 Open AmF5 SE Tower Room Left Side: progression
 Open AmF5 SE Tower Room Top Side: progression
 Open AmF5 Start Shortcut: useful
 Open AmF5 West Exits Hall: progression
-Open AmF6 Middle Exit: unknown
+Open AmF6 Middle Exit: progression
 Open AmF6 Spike Turret 2nd Reward Rooms: progression
 Open AmF6 Spike Turret Reward Rooms: progression
 Open AmF6 Start East Wall: progression
 Open AmF6 Start North Wall: progression
 Open AvF7 Bottom of Left Exit: progression
 Open AvF7 East Wall: unknown
-Open AvF7 Exits: unknown
+Open AvF7 Exits: progression
 Open AvF7 Middle Ledge: unknown
 Open AvF7 NE Shortcut: useful
 Open AvF7 NW Secret Room: progression
@@ -194,12 +194,12 @@ Open AvF7 West Wall: progression
 Open AvF8 Boss Rune Room Left Side: progression
 Open AvF8 Boss Rune Room Right Side: progression
 Open AvF8 Fire Trap Room Bottom Side: progression
-Open AvF8 Fire Trap Room Top Side: unknown
+Open AvF8 Fire Trap Room Top Side: progression
 Open AvF8 Left Exit: progression
-Open AvF8 Middle Entrance: unknown
-Open AvF8 NE Cache: unknown
+Open AvF8 Middle Entrance: progression
+Open AvF8 NE Cache: progression
 Open AvF8 NW Shortcut: useful
-Open AvF8 Puzzle Room: unknown
+Open AvF8 Puzzle Room: progression
 Open AvF8 South Area Left Side: progression
 Open AvF8 South Area Right Side: progression
 Open AvF8 Spike Turret Island Left Shortcut: unknown
@@ -220,7 +220,7 @@ Open AvF9 South Room Right Side: progression
 Open AvF9 South Room Top Side: progression
 Open CL1 Secret Tunnel: unknown
 Open ChF10 SW Exit: progression
-Open ChF10 South Shortcut: unknown
+Open ChF10 South Shortcut: progression
 Open ChF11 Bonus Portal: progression
 Open ChF11 Bonus Room: progression
 Open ChF11 Chance Puzzle Room: progression
@@ -256,7 +256,7 @@ Open PrF3 Bonus Room Side Hall: progression
 Open PrF3 Bonus Room: progression
 Open PrF3 Boss Gate: progression
 Open PrF3 Entrance Room: progression
-Open PrF3 NW Treasure Room: unknown
+Open PrF3 NW Treasure Room: progression
 Open PrF3 North Secret Shop Room: progression
 Open PrF3 North Tower Room Shortcut: progression
 Open PrF3 SE Passage: progression
@@ -268,24 +268,24 @@ Open TF1 East Jail: progression
 Open TF1 Fireball Runway Passages: progression
 Open TF1 NE Node Hallway: unknown
 Open TF1 North Jail: progression
-Open TF1 Telarian Gate: unknown
+Open TF1 Telarian Gate: progression
 Open TF1 Trapped Guard Gate: progression
 Open TF2 Back of Indiana Jones Hallway: progression
-Open TF2 Boulder Room Secret Passage: unknown
+Open TF2 Boulder Room Secret Passage: progression
 Open TF2 Boulder Room: progression
 Open TF2 East Ice Pillar Gate: unknown
 Open TF2 East Jail: progression
-Open TF2 Indiana Jones Hallway: unknown
+Open TF2 Indiana Jones Hallway: progression
 Open TF2 NW Pillar Gate: progression
 Open TF2 Ornate Room Gate Left Side: progression
 Open TF2 Ornate Room Gate Right Side: progression
 Open TF2 Portal Room Shortcut: unknown
 Open TF2 SW Portal Gate: progression
-Open TF2 South Gate Hall: unknown
+Open TF2 South Gate Hall: useful
 Open TF2 South Gate Shortcut: progression
 Open TF2 South Jail: progression
 Open TF2 West Ice Pillar Gate: unknown
-Open TF2 West Jail: unknown
+Open TF2 West Jail: progression
 Open TF3 NE Boss Fall Room: unknown
 Open TF3 SE Boss Fall Room: progression
 Open TF3 South Gate: progression
@@ -303,7 +303,7 @@ Priest Cripple Aura Mana Drain: unknown
 Priest Cripple Aura: unknown
 Priest Draining Field: unknown
 Prison Bonus Key: useful
-Prison Boss Rune A: unknown
+Prison Boss Rune A: progression
 Prison Boss Rune n: progression
 Prison Boss Rune y Progress: unknown
 Prison Boss Rune y: progression
@@ -356,33 +356,33 @@ Progressive Priest Smite Damage: unknown
 Progressive Priest Speed Penalty: unknown
 Progressive Ranger Armor: useful
 Progressive Ranger Bomb Damage: unknown
-Progressive Ranger Bow Damage: unknown
+Progressive Ranger Bow Damage: useful
 Progressive Ranger Combo Healing: unknown
-Progressive Ranger Combo Mana: unknown
+Progressive Ranger Combo Mana: useful
 Progressive Ranger Combo Nova: unknown
 Progressive Ranger Combo Timer: useful
 Progressive Ranger Dodge: unknown
 Progressive Ranger Flurry Arrows: useful
 Progressive Ranger Flurry Waves: unknown
-Progressive Ranger Health Pool: unknown
+Progressive Ranger Health Pool: useful
 Progressive Ranger Mana Pool: unknown
 Progressive Ranger Marksmanship: unknown
 Progressive Ranger Move Speed: unknown
 Progressive Ranger Overgrowth Duration: unknown
-Progressive Ranger Overgrowth Range: unknown
+Progressive Ranger Overgrowth Range: useful
 Progressive Ranger Penetration: useful
 Progressive Sorcerer Armor: useful
 Progressive Sorcerer Chill Duration: useful
 Progressive Sorcerer Chill Slow: useful
 Progressive Sorcerer Combo Healing: useful
-Progressive Sorcerer Combo Mana: unknown
+Progressive Sorcerer Combo Mana: useful
 Progressive Sorcerer Combo Nova: useful
 Progressive Sorcerer Combo Timer: useful
 Progressive Sorcerer Comet Damage: useful
 Progressive Sorcerer Frost Shield: useful
 Progressive Sorcerer Health Pool: useful
 Progressive Sorcerer Ice Orb Damage: useful
-Progressive Sorcerer Ice Orb Time: unknown
+Progressive Sorcerer Ice Orb Time: useful
 Progressive Sorcerer Ice Shard Bounces: useful
 Progressive Sorcerer Ice Shard Damage: useful
 Progressive Sorcerer Ice Shard Nova Mana: useful
@@ -476,7 +476,7 @@ Teleport AmF5 SE Pyramid Item: progression
 Teleport AmF5 SW Item: progression
 Teleport AmF5 SW Pyramid Item: progression
 Teleport AmF6 Middle Item: progression
-Teleport AmF6 NE Pyramid Item: unknown
+Teleport AmF6 NE Pyramid Item: progression
 Teleport AmF6 South Pyramid South Bronze Gate Item: progression
 Teleport AvF9 NE Bottom Item: progression
 Teleport AvF9 NE Top Item: progression
@@ -487,7 +487,7 @@ Teleport ChF12 Fire Floor Item: progression
 Teleport ChF12 Middle Item: progression
 Teleport PrF2 West Rune Puzzle Item: progression
 Teleport PrF2 West Treasure Room Item: progression
-Temple Floor 1 Master Gold Key: unknown
+Temple Floor 1 Master Gold Key: progression
 Temple Floor 1 Master Silver Key: progression
 Temple Floor 2 Master Gold Key: progression
 Temple Floor 2 Master Silver Key: unknown

@@ -48,10 +48,12 @@
 [Tech] Modular Weapons: useful
 [Tech] Muton Autopsy: useful
 [Tech] Plasma Lance: progression
+[Tech] Progressive Armor+: progression
 [Tech] Progressive Armor: useful
 [Tech] Progressive GREMLIN: useful
 [Tech] Progressive Melee Weapon: useful
 [Tech] Progressive Psionics: useful
+[Tech] Progressive Rifle+: progression
 [Tech] Progressive Rifle: progression
 [Tech] Psionic Gate: progression
 [Tech] Recovered ADVENT Stasis Suit: progression
@@ -68,10 +70,10 @@
 [Upgrade] Advanced Expanded Magazine: unknown
 [Upgrade] Advanced Hair Trigger: unknown
 [Upgrade] Advanced Laser Sight: filler
-[Upgrade] Advanced Repeater: unknown
+[Upgrade] Advanced Repeater: filler
 [Upgrade] Advanced Scope: useful
 [Upgrade] Advanced Stock: useful
-[Upgrade] Superior Auto-Loader: unknown
+[Upgrade] Superior Auto-Loader: useful
 [Upgrade] Superior Expanded Magazine: filler
 [Upgrade] Superior Hair Trigger: useful
 [Upgrade] Superior Laser Sight: useful

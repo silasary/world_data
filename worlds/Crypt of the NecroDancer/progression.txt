@@ -3,8 +3,8 @@
 3 Diamonds: filler
 4 Diamonds: filler
 Apple: unknown
-Aria: unknown
-Axe: unknown
+Aria: progression
+Axe: useful
 Backpack: unknown
 Ballet Shoes: unknown
 Bard: progression
@@ -23,7 +23,7 @@ Boots of Leaping: unknown
 Boots of Lunging: unknown
 Boots of Pain: useful
 Boots of Strength: unknown
-Bossmaster: unknown
+Bossmaster: useful
 Bow: unknown
 Bright Torch: unknown
 Broadsword: unknown
@@ -58,7 +58,7 @@ Double Tempo Mode: progression
 Dove Familiar: useful
 Dove: progression
 Drumstick: useful
-Earth Spell: unknown
+Earth Spell: useful
 Earth Tome: unknown
 Earthquake Scroll: useful
 Electric Dagger: unknown
@@ -78,7 +78,7 @@ Glass Armor: useful
 Glass Jaw: unknown
 Glass Shovel: useful
 Glass Slippers: unknown
-Glass Torch: unknown
+Glass Torch: useful
 Gluttony Charm: unknown
 Gold Scatter Trap: trap
 Grenade Charm: unknown
@@ -97,7 +97,7 @@ Helm: useful
 Hintmaster: progression
 Holster: useful
 Ice Spirit Familiar: unknown
-Infernal Torch: unknown
+Infernal Torch: useful
 Instant Gold (200): filler
 Instant Gold (50): filler
 Janitor: progression
@@ -163,7 +163,7 @@ Ring of Peace: useful
 Ring of Phasing: unknown
 Ring of Piercing: useful
 Ring of Protection: useful
-Ring of Regeneration: unknown
+Ring of Regeneration: useful
 Ring of Shadows: useful
 Ring of Shielding: useful
 Ring of War: useful
@@ -176,11 +176,12 @@ Shield of Shove: unknown
 Shield of Strength: unknown
 Shop Stock Unlock: progression
 Shopkeeper Familiar: useful
+Shovel Knight: progression
 Shovel of Courage: useful
-Shovel of Strength: unknown
+Shovel of Strength: useful
 Skeleton Trap: trap
 Spear: unknown
-Spiked Ears: unknown
+Spiked Ears: useful
 Staff: useful
 Strength Charm: unknown
 Sunglasses: useful

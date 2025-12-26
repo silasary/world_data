@@ -37,7 +37,7 @@ Enchanted Towers Unlock: progression
 Evening Lake 100 Gems: progression
 Extra Hit Point: useful
 Extra Life: useful
-Filler: unknown
+Filler: filler
 Fireworks Factory 100 Gems: progression
 Fireworks Factory Complete: progression
 Fireworks Factory Unlock: progression
@@ -75,6 +75,7 @@ Midday Gardens 100 Gems: useful
 Midnight Mountain 100 Gems: progression
 Molten Crater 100 Gems: useful
 Molten Crater Complete: progression
+Molten Crater Unlock: progression
 Moneybags Chase Complete: unknown
 Moneybags Unlock - Agent 9: progression
 Moneybags Unlock - Bentley: progression
@@ -105,7 +106,7 @@ Sorceress Defeated: unknown
 Sparx Gem Finder: progression
 Sparxless Trap: trap
 Spider Town 50 Gems: progression
-Spider Town Complete: unknown
+Spider Town Complete: progression
 Spike Defeated: progression
 Spooky Swamp 100 Gems: progression
 Spooky Swamp Complete: progression

@@ -40,6 +40,7 @@ Game- Ruby: progression
 Game- Silver: progression
 Game- Yellow: progression
 Gold- Boulder Badge: progression
+Gold- Cascade Badge: progression
 Gold- Earth Badge: progression
 Gold- Elite Four Entry: progression
 Gold- Fog Badge: progression
@@ -75,6 +76,7 @@ Ruby- Mind Badge: progression
 Ruby- Rain Badge: progression
 Sapphire- Balance Badge: progression
 Sapphire- Dynamo Badge: progression
+Sapphire- Elite Four Entry: progression
 Sapphire- Heat Badge: progression
 Sapphire- Mind Badge: progression
 Sapphire- Rain Badge: progression

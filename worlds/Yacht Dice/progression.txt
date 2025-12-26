@@ -3,12 +3,14 @@
 100 Points: mcguffin
 Bad RNG: trap
 Bonus Point: useful
+Category 1-2-1 Consecutive SUM: progression
 Category 1-2-1 Consecutive ∑: progression
 Category 1-2-1 Consecutive: progression
 Category 10x Ones: progression
 Category 12x Ones: progression
 Category 15x Ones: progression
 Category 16x Ones: progression
+Category 2-1-2 Consecutive SUM: progression
 Category 2-1-2 Consecutive ∑: progression
 Category 2-1-2 Consecutive: progression
 Category 4&5 Full House: progression
@@ -20,13 +22,16 @@ Category Distincts: progression
 Category Double Threes and Fours: progression
 Category Five Distinct Dice: progression
 Category Fives: progression
+Category Four of a Kind SUM: progression
 Category Four of a Kind ∑: progression
 Category Four of a Kind: progression
 Category Fours: progression
+Category Full House SUM: progression
 Category Full House ∑: progression
 Category Full House: progression
 Category Half of Sixes: progression
 Category Inverse Choice: progression
+Category Large Straight SUM: progression
 Category Large Straight ∑: progression
 Category Large Straight: progression
 Category Micro Straight ∑: progression
@@ -36,6 +41,7 @@ Category Pair ∑: progression
 Category Pair: progression
 Category Quadruple Ones and Twos: progression
 Category Sixes: progression
+Category Small Straight SUM: progression
 Category Small Straight ∑: progression
 Category Small Straight: progression
 Category Sum of Evens: progression
@@ -52,6 +58,7 @@ Category Two Pair: progression
 Category Two times Ones: progression
 Category Twos and Threes: progression
 Category Twos: progression
+Category Yacht SUM: progression
 Category Yacht ∑: progression
 Category Yacht: progression
 Dice Fragment: progression

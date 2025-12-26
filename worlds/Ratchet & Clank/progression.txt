@@ -1,3 +1,5 @@
+15,000 bolts: filler
+4 Gold Bolts: progression
 Aridia: progression
 Batalia: progression
 Blarg: progression
@@ -8,6 +10,7 @@ Codebot: progression
 Decoy_glove: useful
 Devastator: progression
 Drek's Fleet: progression
+Drone device: useful
 Drone_device: filler
 Eudora: progression
 Gaspar: progression
@@ -25,6 +28,7 @@ Kalebo III: progression
 Kerwan: progression
 Magneboots: progression
 Map O Matic: filler
+Map-o-Matic: useful
 Metal Detector: progression
 Mine_glove: useful
 Morph_o_ray: useful
@@ -37,6 +41,9 @@ Persuader: useful
 Pilots Helmet: progression
 Pokitaru: progression
 Premium_nanotech: useful
+Progressive Blaster: useful
+Progressive Devastator: progression
+Progressive Mine glove: progression
 Pyrocitor: useful
 Quartu: progression
 RYNO: useful

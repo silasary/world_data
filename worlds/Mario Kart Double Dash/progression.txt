@@ -26,7 +26,7 @@ Baby Park Time Trial: progression
 Banana for Baby Luigi: useful
 Banana for Baby Mario: progression
 Banana for Birdo: progression
-Banana for Bowser Jr.: unknown
+Banana for Bowser Jr.: progression
 Banana for Bowser: useful
 Banana for Daisy: progression
 Banana for Diddy Kong: useful
@@ -56,7 +56,7 @@ Bob-omb for Daisy: progression
 Bob-omb for Diddy Kong: progression
 Bob-omb for Donkey Kong: filler
 Bob-omb for Everybody: useful
-Bob-omb for King Boo: unknown
+Bob-omb for King Boo: progression
 Bob-omb for Koopa: progression
 Bob-omb for Luigi: progression
 Bob-omb for Mario: useful
@@ -290,7 +290,7 @@ Koopa Dasher: progression
 Koopa King: progression
 Koopa: progression
 Lightning for Baby Luigi: useful
-Lightning for Baby Mario: unknown
+Lightning for Baby Mario: progression
 Lightning for Birdo: progression
 Lightning for Bowser Jr.: useful
 Lightning for Bowser: useful
@@ -307,7 +307,7 @@ Lightning for Peach: useful
 Lightning for Petey Piranha: unknown
 Lightning for Toad: useful
 Lightning for Toadette: useful
-Lightning for Waluigi: unknown
+Lightning for Waluigi: progression
 Lightning for Wario: progression
 Lightning for Yoshi: useful
 Luigi Circuit Time Trial: progression
@@ -380,7 +380,7 @@ Off-road Tires for Toadette Kart: progression
 Off-road Tires for Turbo Birdo: progression
 Off-road Tires for Turbo Yoshi: progression
 Off-road Tires for Waluigi Racer: progression
-Off-road Tires for Wario Car: unknown
+Off-road Tires for Wario Car: progression
 Para-Wing: progression
 Parade Kart: progression
 Paratroopa: progression
@@ -435,7 +435,7 @@ Red Shell for Mario: useful
 Red Shell for Paratroopa: useful
 Red Shell for Peach: useful
 Red Shell for Petey Piranha: progression
-Red Shell for Toad: unknown
+Red Shell for Toad: progression
 Red Shell for Toadette: useful
 Red Shell for Waluigi: progression
 Red Shell for Wario: useful
@@ -510,7 +510,7 @@ Triple Green Shells for Toadette: progression
 Triple Green Shells for Waluigi: useful
 Triple Green Shells for Wario: progression
 Triple Green Shells for Yoshi: progression
-Triple Mushrooms for Baby Luigi: unknown
+Triple Mushrooms for Baby Luigi: progression
 Triple Mushrooms for Baby Mario: unknown
 Triple Mushrooms for Birdo: filler
 Triple Mushrooms for Bowser Jr.: progression
@@ -524,6 +524,7 @@ Triple Mushrooms for Luigi: progression
 Triple Mushrooms for Mario: useful
 Triple Mushrooms for Paratroopa: unknown
 Triple Mushrooms for Peach: filler
+Triple Mushrooms for Petey Piranha: progression
 Triple Mushrooms for Toad: useful
 Triple Mushrooms for Toadette: progression
 Triple Mushrooms for Waluigi: useful
@@ -541,7 +542,7 @@ Triple Red Shells for Everybody: progression
 Triple Red Shells for King Boo: useful
 Triple Red Shells for Koopa: progression
 Triple Red Shells for Luigi: useful
-Triple Red Shells for Mario: unknown
+Triple Red Shells for Mario: progression
 Triple Red Shells for Paratroopa: progression
 Triple Red Shells for Peach: progression
 Triple Red Shells for Petey Piranha: progression

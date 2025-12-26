@@ -1,7 +1,7 @@
 5x Beghouled Twist: trap
 5x Beghouled: trap
 Almanac: filler
-Attempt It's Raining Seeds: unknown
+Attempt It's Raining Seeds: trap
 Attempt Slot Machine: trap
 Balloon (I, Zombie): useful
 Big Wave Note: filler
@@ -11,12 +11,13 @@ Buckethead (I, Zombie): progression
 Bungee (I, Zombie): useful
 Cabbage-Pult: progression
 Cactus: progression
+Cherry Bomb: progression
 Chomper: progression
 Coffee Bean: progression
 Coin Bag: filler
 Conehead (I, Zombie): progression
 Dancer (I, Zombie): progression
-Doom-Shroom: unknown
+Doom-Shroom: progression
 Extra Seed Slot: useful
 Flower Pot: progression
 Football (I, Zombie): useful
@@ -27,13 +28,13 @@ Gravebuster: progression
 Hypno-Shroom: unknown
 Ice-Shroom: progression
 Imitater: useful
-Imp (I, Zombie): unknown
+Imp (I, Zombie): useful
 Jalapeno: unknown
 Kernel-Pult: progression
 Ladder (I, Zombie): progression
 Lilypad: progression
 Magnet-Shroom: progression
-Mallet (Whack-a-Zombie): unknown
+Mallet (Whack-a-Zombie): progression
 Marigold: filler
 Melon-Pult: progression
 Miner (I, Zombie): useful
@@ -44,27 +45,27 @@ Pool Cleaners: useful
 Potato Mine: progression
 Puff-Shroom: progression
 Pumpkin: progression
-Rake: unknown
+Rake: useful
 Regular (I, Zombie): progression
 Repeater: progression
 Reverse Repeater (Vasebreaker): progression
-Roof Cleaners: unknown
+Roof Cleaners: progression
 Scaredy-Shroom: progression
-Screendoor (I, Zombie): unknown
+Screendoor (I, Zombie): progression
 Sea-Shroom: useful
 Shovel: progression
 Snorkel (Zombiquarium): progression
 Snow Pea: progression
 Spikeweed: progression
 Split Pea: progression
-Squash: unknown
+Squash: progression
 Starfruit: progression
 Sun-Shroom: progression
 Sunflower: progression
 Taco: filler
 Tall-Nut: progression
 Tangle Kelp: progression
-Threepeater: unknown
+Threepeater: progression
 Torchwood: progression
 Tree of Wisdom: filler
 Umbrella Leaf: useful

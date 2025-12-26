@@ -107,6 +107,7 @@ Daedalus - Pumpkin Door: progression
 Daedalus - Pumpkin Room Interior: progression
 Daedalus - Purple East Area North Door: progression
 Daedalus - Purple East Area South Door: progression
+Daedalus - Purple Hallway From Great: progression
 Daedalus - Purple NW Vestibule: progression
 Daedalus - Purple Room East Entrance: progression
 Daedalus - Purple Room North Entrance: progression
@@ -182,9 +183,11 @@ Icarus - Agender Door: progression
 Icarus - Animals Door: progression
 Icarus - Asteroid Bunch Door: progression
 Icarus - Battery Door: progression
+Icarus - Cow Door: progression
 Icarus - Fatherland Door: progression
 Icarus - Man Door: progression
 Icarus - Mediums Door: progression
+Icarus - Near Fireman Wings Painting: progression
 Icarus - Pea Door: progression
 Icarus - Reversed Arrows Door: progression
 Icarus - Sun Painting To Drone: progression
@@ -218,6 +221,7 @@ Sweet Symbol: progression
 T: progression
 The Ancient - Front Door: progression
 The Bearer - Butterfly Entrance: progression
+The Bearer - Control Center Brown Door: progression
 The Bearer - Exit Door: progression
 The Bearer - Overlook Door: progression
 The Between - B2 Door: progression

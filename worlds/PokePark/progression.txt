@@ -1,39 +1,47 @@
-10 Berries: unknown
-100 Berries: unknown
-20 Berries: unknown
-50 Berries: unknown
+10 Berries: filler
+100 Berries: filler
+20 Berries: filler
+50 Berries: filler
 Abra: unknown
 Aerodactyl: unknown
 Ambipom Unlock: unknown
 Ambipom: unknown
 Arcanine: unknown
+Bastiodon Friendship: progression
 Bastiodon: unknown
 Beach Zone Unlock: unknown
-Bibarel Unlock: unknown
+Bibarel Unlock: progression
 Bibarel: unknown
 Blastoise: unknown
-Blaziken Prisma: unknown
+Blaziken Prisma: progression
 Bonsly Unlock: unknown
 Bonsly: unknown
 Breloom Unlock: unknown
 Breloom: unknown
+Buneary Friendship: progression
+Butterfree Friendship: progression
 Butterfree: unknown
 Camerupt: unknown
 Carvanha: unknown
+Caterpie Friendship: progression
 Caterpie: unknown
 Charmander: unknown
-Chimchar Unlock: unknown
+Chimchar Unlock: progression
 Chimchar: unknown
+Corphish Unlock: progression
 Croagunk: unknown
+Delibird Friendship: progression
 Delibird Unlock: unknown
 Deoxys: unknown
 Drifblim Unlock: progression
 Drifblim: unknown
+Duskull Friendship: progression
 Duskull: unknown
 Electabuzz Unlock: unknown
 Electabuzz: unknown
 Electivire Unlock: unknown
 Electivire: unknown
+Electrode Friendship: filler
 Electrode Unlock: unknown
 Electrode: unknown
 Elekid: unknown
@@ -48,80 +56,112 @@ Gastly Unlock: unknown
 Gastly: unknown
 Geodude: unknown
 Gible: unknown
+Glalie Unlock: progression
 Glalie: unknown
 Gliscor: unknown
 Golbat: progression
 Golduck: unknown
 Golem Unlock: unknown
+Granite Zone Fast Travel: progression
+Gyarados Friendship: filler
+Haunted Zone Mansion Doors Unlock: progression
 Haunted Zone Unlock: unknown
 Haunter: unknown
 Heatran: unknown
+Hitmonchan Unlock: progression
 Hitmonlee Unlock: progression
 Hitmontop: unknown
+Hoppip Friendship: filler
 Ice Zone Unlock: unknown
+Infernape Unlock: progression
+Jirachi Unlock: progression
 Jirachi: unknown
 Jolteon: unknown
 Kakuna: unknown
+Krabby Friendship: progression
 Krabby: unknown
+Lopunny Friendship: progression
+Lotad Unlock: progression
 Lotad: unknown
 Luxray Unlock: unknown
 Luxray: unknown
+Machamp Unlock: filler
 Magby: unknown
+Magcargo Friendship: filler
+Magmortar Friendship: progression
 Magmortar: unknown
-Magnezone Unlock: unknown
+Magnezone Unlock: progression
 Manaphy: unknown
 Marowak: unknown
 Meadow Zone Unlock: progression
 Meditite: unknown
 Meowth: unknown
-Metapod Unlock: unknown
+Metapod Unlock: progression
 Metapod: unknown
 Mew: unknown
+Misdreavus Friendship: progression
+Mismagius Friendship: progression
 Mismagius Unlock: unknown
 Mismagius: unknown
 Murkrow: unknown
 Ninetales Unlock: unknown
+Pachirisu Unlock: progression
 Pachirisu: unknown
-Phanpy Unlock: unknown
+Phanpy Friendship: progression
+Phanpy Unlock: progression
 Phanpy: progression
 Pichu: unknown
 Piloswine: unknown
 Ponyta Unlock: unknown
 Ponyta: unknown
+Porygon-Z Friendship: progression
 Porygon-Z: unknown
 Primeape Unlock: unknown
 Primeape: unknown
 Prinplup: unknown
-Progressive Dash: unknown
-Progressive Health: unknown
+Progressive Dash: progression
+Progressive Health: progression
+Progressive Iron Tail: progression
 Progressive Thunderbolt: unknown
 Psyduck: unknown
+Quagsire Friendship: progression
 Quagsire: unknown
 Quilava: unknown
 Raichu: unknown
 Rayquaza Prisma: unknown
 Rayquaza Unlock: unknown
 Rotom: unknown
+Sableye Friendship: progression
 Shinx Unlock: unknown
 Skiploom: unknown
+Skuntank Unlock: progression
 Skuntank: unknown
-Smoochum Unlock: unknown
+Smoochum Unlock: progression
 Sneasel: unknown
+Snorlax Friendship: progression
+Spinarak Friendship: filler
 Squirtle: unknown
 Staravia: unknown
 Starly Unlock 2: unknown
 Stunky Unlock: unknown
 Stunky: unknown
+Sudowoodo Friendship: progression
 Sudowoodo Unlock: unknown
 Sudowoodo: progression
+Suicune Friendship: progression
 Suicune: unknown
 Taillow: unknown
+Tangrowth Friendship: progression
+Tangrowth Prisma: progression
 Togekiss: unknown
 Torchic: unknown
+Torkoal Friendship: progression
 Torkoal Unlock: unknown
+Torterra Friendship: progression
 Torterra Unlock: unknown
 Torterra: unknown
-Totodile Unlock: unknown
+Totodile Unlock: progression
+Tropius Friendship: progression
 Tropius: unknown
 Turtwig: unknown
 Tyranitar Unlock: unknown
@@ -129,6 +169,9 @@ Tyranitar: unknown
 Umbreon: unknown
 Ursaring Unlock: unknown
 Ursaring: unknown
+Vaporeon Friendship: progression
 Wailord: unknown
+Weedle Unlock: progression
 Weedle: unknown
+Wingull Friendship: progression
 Wingull: unknown

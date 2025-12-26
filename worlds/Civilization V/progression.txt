@@ -9,7 +9,7 @@ Bonus - Free Great Person: filler
 Bonus - Free Tech: filler
 Bonus - Gold: filler
 Bonus - Golden Age: filler
-Bonus - Major Culture: unknown
+Bonus - Major Culture: filler
 Bonus - Major Faith: filler
 Bonus - Major Gold: filler
 Bonus - Minor Culture: filler
@@ -46,16 +46,17 @@ Policy - Cultural Diplomacy: useful
 Policy - Cultural Exchange: progression
 Policy - Discipline: useful
 Policy - Entrepreneurship: unknown
-Policy - Fine Arts: unknown
+Policy - Fine Arts: useful
 Policy - Flourishing of the Arts: unknown
 Policy - Humanism: useful
 Policy - Landed Elite: unknown
 Policy - Legalism: useful
+Policy - Mandate of Heaven: useful
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
 Policy - Merchant Confederacy: useful
 Policy - Merchant Navy: useful
-Policy - Military Caste: unknown
+Policy - Military Caste: useful
 Policy - Military Tradition: useful
 Policy - Monarchy: useful
 Policy - Naval Tradition: unknown
@@ -63,9 +64,9 @@ Policy - Navigation School: useful
 Policy - Oligarchy: useful
 Policy - Organized Religion: unknown
 Policy - Philanthropy: progression
-Policy - Professional Army: unknown
+Policy - Professional Army: useful
 Policy - Reformation: useful
-Policy - Religious Tolerance: unknown
+Policy - Religious Tolerance: useful
 Policy - Representation: useful
 Policy - Republic: useful
 Policy - Scientific Revolution: useful
@@ -79,7 +80,7 @@ Policy Branch - Aesthetics Finisher: progression
 Policy Branch - Aesthetics: progression
 Policy Branch - Commerce Finisher: useful
 Policy Branch - Exploration Finisher: unknown
-Policy Branch - Exploration: unknown
+Policy Branch - Exploration: useful
 Policy Branch - Honor Finisher: useful
 Policy Branch - Honor: unknown
 Policy Branch - Liberty Finisher: useful

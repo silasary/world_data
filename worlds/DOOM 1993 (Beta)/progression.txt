@@ -11,6 +11,7 @@ Central Processing (E1M6) - Red keycard: progression
 Central Processing (E1M6) - Yellow keycard: progression
 Chaingun: progression
 Chainsaw: progression
+Command Center (E2M5): progression
 Command Control (E1M4) - Blue keycard: progression
 Command Control (E1M4) - Complete: progression
 Command Control (E1M4) - Yellow keycard: progression
@@ -20,7 +21,14 @@ Computer Station (E1M7) - Complete: progression
 Computer Station (E1M7) - Red keycard: progression
 Computer Station (E1M7) - Yellow keycard: progression
 Computer Station (E1M7): progression
+Containment Area (E2M2) - Blue keycard: progression
+Containment Area (E2M2) - Red keycard: progression
+Containment Area (E2M2) - Yellow keycard: progression
+Containment Area (E2M2): progression
 Energy cell pack: filler
+Fortress of Mystery (E2M9) - Blue skull key: progression
+Fortress of Mystery (E2M9): progression
+Halls of the Damned (E2M6) - Blue skull key: progression
 Hangar (E1M1) - Complete: progression
 Hangar (E1M1) - Computer area map: filler
 Hell Keep (E3M1) - Complete: progression
@@ -40,9 +48,12 @@ Military Base (E1M9) - Computer area map: filler
 Military Base (E1M9) - Red keycard: progression
 Military Base (E1M9) - Yellow keycard: progression
 Military Base (E1M9): progression
+Mt. Erebus (E3M6) - Blue skull key: progression
+Mt. Erebus (E3M6): progression
 Nuclear Plant (E1M2) - Complete: progression
 Nuclear Plant (E1M2) - Red keycard: progression
 Nuclear Plant (E1M2): progression
+Pandemonium (E3M3) - Blue skull key: progression
 Pandemonium (E3M3): progression
 Partial invisibility: trap
 Phobos Anomaly (E1M8) - Complete: progression
@@ -57,9 +68,13 @@ Shotgun: progression
 Slough of Despair (E3M2) - Blue skull key: progression
 Slough of Despair (E3M2) - Complete: progression
 Slough of Despair (E3M2) - Computer area map: filler
+Slough of Despair (E3M2): progression
+Spawning Vats (E2M7) - Red keycard: progression
+Spawning Vats (E2M7): progression
 Supercharge: filler
 Toxin Refinery (E1M3) - Blue keycard: progression
 Toxin Refinery (E1M3) - Complete: progression
 Toxin Refinery (E1M3) - Computer area map: filler
 Toxin Refinery (E1M3) - Yellow keycard: progression
 Toxin Refinery (E1M3): progression
+Warrens (E3M9): progression

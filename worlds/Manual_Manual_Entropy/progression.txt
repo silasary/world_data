@@ -1,5 +1,6 @@
 ArchipelagoGenerate.exe: progression
 Custom YAML: progression
+Template YAMLs: progression
 game.json: progression
 items.json: progression
 locations.json: progression

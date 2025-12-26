@@ -8,7 +8,7 @@ Dive: progression
 Door: progression
 Exit: filler
 Green Armor: useful
-Grenade Damage Remover: unknown
+Grenade Damage Remover: progression
 Grenade Jump: progression
 Heal (+1): useful
 Invisibility: useful
@@ -90,7 +90,7 @@ e2m6 Gold Key: unknown
 e2m6 Unlock: progression
 e2m7 Automap: useful
 e2m7 Gold Key: progression
-e2m7 Unlock: unknown
+e2m7 Unlock: progression
 e3m1 Automap: unknown
 e3m1 Gold Key: progression
 e3m1 Unlock: progression

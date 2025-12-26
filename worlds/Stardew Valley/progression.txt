@@ -284,7 +284,7 @@ Grinder: filler
 Gunther <3: progression
 Gus <3: progression
 Haley <3: progression
-Haley Portrait: unknown
+Haley Portrait: filler
 Hardwood Preservation Chamber: filler
 Harvey <3: progression
 Harvey Portrait: filler
@@ -423,7 +423,7 @@ Mining Enzyme: progression
 Mining Level: progression
 Mining Mastery: progression
 Mixed Berry Pie Recipe: progression
-Monster Musk Enzyme: unknown
+Monster Musk Enzyme: useful
 Monster Musk Recipe: progression
 Monster Musk: filler
 Monsters Trap: trap
@@ -460,7 +460,7 @@ Nexus: Wizard Runes: progression
 Nudge Trap: trap
 Obsidian Edge: unknown
 Oil Maker: useful
-Oil Of Garlic Enzyme: unknown
+Oil Of Garlic Enzyme: useful
 Olivia <3: progression
 Omelet Recipe: progression
 Open Professor Snail Cave: progression
@@ -1954,7 +1954,7 @@ Tilesanity: Standard Farm (7-9): unknown
 Tilesanity: Standard Farm (8-11): unknown
 Tilesanity: Standard Farm (8-3): progression
 Time Flies Trap: trap
-Tipsy Enzyme: unknown
+Tipsy Enzyme: trap
 Tom Kha Soup Recipe: progression
 Tomato Seeds: progression
 Topaz Ring: filler

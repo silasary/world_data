@@ -6,6 +6,7 @@
 Absolution: progression
 Abyssal Artillery: progression
 Adrenaline Rush: progression
+Aimed Shot: progression
 Barbaric YAWP!: progression
 Battle Ballad: progression
 Battle Heal: progression
@@ -21,10 +22,11 @@ Bola: progression
 Bolster: progression
 Breakthrough: progression
 Buckshot: progression
+Bulwark of Faith: progression
 Caltrops: unknown
-Chop: unknown
+Chop: progression
 Collect Bounty: progression
-Come Hither: unknown
+Come Hither: progression
 Command: progression
 Cry Havoc: progression
 Daemon's Pull: progression
@@ -72,7 +74,7 @@ Nervous Stab: progression
 Noxious Blast: progression
 Open Vein: progression
 Patch Up: progression
-Pick to the Face: unknown
+Pick to the Face: progression
 Pistol Shot: progression
 Plague Grenade: progression
 Point Blank Shot: progression
@@ -108,11 +110,11 @@ Progressive Wagon Size: progression
 Progressive Weaponsmithing: progression
 Protect Me: progression
 Purge: progression
-Rage: unknown
+Rage: progression
 Rake: progression
 Rallying Flare: progression
 Rampart: progression
-Retribution: unknown
+Retribution: progression
 Revenge: progression
 Sacrifical Stab: progression
 Shadow Fade: unknown

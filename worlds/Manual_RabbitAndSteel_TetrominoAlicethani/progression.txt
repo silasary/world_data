@@ -1,5 +1,7 @@
 Ancient (Class): unknown
 Assassin (Class): progression
+Bloodwolf (Item Set): useful
+Bruiser (Class): progression
 Churchmouse Streets - Region Access: progression
 Colour Palette 2: unknown
 Colour Palette 3: filler
@@ -11,9 +13,11 @@ Dancer (Class): progression
 Darkbite (Item Set): useful
 Defender (Class): progression
 Emerald Defensive: unknown
+Emerald Primary: progression
 Emerald Secondary: progression
 Emerald Special: progression
 Essence Of Spell: useful
+Flame (Item Set): useful
 Garnet Primary: useful
 Garnet Secondary: progression
 Gem (Item Set): unknown
@@ -23,17 +27,23 @@ Heavyblade (Class): progression
 Life (Item Set): useful
 Lower Difficulty: progression
 Lucky (Item Set): useful
+Opal Defensive: progression
 Opal Primary: useful
 Opal Special: progression
 Poison (Item Set): useful
 Ruby Defensive: progression
 Ruby Primary: useful
+Ruby Secondary: progression
+Ruby Special: progression
 Sapphire Defensive: progression
+Shrine (Item Set): useful
 Skip Next Item: trap
 Skip Next Shop: trap
 Sniper (Class): progression
+Sparkblade (Item Set): useful
 Spellsword (Class): progression
 Stage Clear Token: progression
 Swiftflight (Item Set): useful
 Trinket: filler
 Wizard (Class): progression
+Youkai (Item Set): useful

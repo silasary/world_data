@@ -30,7 +30,7 @@ Equipment - Ambition LV2 - 1709: unknown
 Equipment - Ambition LV3 - 1711: unknown
 Equipment - Ambition LV4 - 1712: useful
 Equipment - Ambition LV5 - 1762: unknown
-Equipment - Ambush Knife: unknown
+Equipment - Ambush Knife: useful
 Equipment - Ancient Axe: useful
 Equipment - Ancient Monster Bone - 1852: unknown
 Equipment - Angel's Blessing - 2009: useful
@@ -40,7 +40,17 @@ Equipment - Aqua Collar - 1795: useful
 Equipment - Aranea - 1977: unknown
 Equipment - Archmage Vest: unknown
 Equipment - Art of War: useful
+Equipment - Artemis: useful
 Equipment - Artillerist Mail - 2146: unknown
+Equipment - Artisan Bow: useful
+Equipment - Artisan Cap: useful
+Equipment - Artisan Katana: useful
+Equipment - Artisan Pages: useful
+Equipment - Artisan Shield: useful
+Equipment - Artisan Shirt: useful
+Equipment - Artisan Spear: useful
+Equipment - Artisan Vest: useful
+Equipment - Artisan Wand: useful
 Equipment - Ash Wand: useful
 Equipment - Ashen Horns - 1615: unknown
 Equipment - Assassin Vest: useful
@@ -54,6 +64,7 @@ Equipment - Bandana: useful
 Equipment - Barrier of Blood - 1883: useful
 Equipment - Battery - 2046: useful
 Equipment - Battle Band: useful
+Equipment - Battle Bow: useful
 Equipment - Battle Helm: useful
 Equipment - Battle Scythe: useful
 Equipment - Battle Staff: useful
@@ -87,12 +98,13 @@ Equipment - Bone Smasher: useful
 Equipment - Book of Salads - 1810: unknown
 Equipment - Bookbeater - 1820: unknown
 Equipment - Boomer Duelist - 1960: unknown
-Equipment - Boomer Shield: unknown
+Equipment - Boomer Shield: useful
 Equipment - Boomer Sword: useful
 Equipment - Bottomless Bag - 2040: unknown
 Equipment - Bounty Hunter LV1 - 1748: useful
 Equipment - Braccus' Two-Handed Axe - 1665: unknown
 Equipment - Bracer: useful
+Equipment - Brass Cross: useful
 Equipment - Brawler Seal - 2125: unknown
 Equipment - Brawler Wrap - 2060: unknown
 Equipment - Breach Wand - 2002: unknown
@@ -104,7 +116,7 @@ Equipment - Broadsword: useful
 Equipment - Broken Shield - 2045: unknown
 Equipment - Broken Table Leg - 2150: unknown
 Equipment - Bronze Hairpin: useful
-Equipment - Buckler: unknown
+Equipment - Buckler: useful
 Equipment - Buffalo Sabre - 1693: unknown
 Equipment - Bulk Belt: useful
 Equipment - Burglars Glove: useful
@@ -122,11 +134,11 @@ Equipment - Cedar Staff: useful
 Equipment - Cedar Wand: useful
 Equipment - Celestial Crown: useful
 Equipment - Chain - 2036: useful
-Equipment - Chain Helm: unknown
-Equipment - Chartreuse: unknown
+Equipment - Chain Helm: useful
+Equipment - Chartreuse: useful
 Equipment - Cheater Briefs - 1776: unknown
 Equipment - Chemist Robe: useful
-Equipment - Chopper: unknown
+Equipment - Chopper: useful
 Equipment - Cinquedea: useful
 Equipment - Circle of Ruin - 1965: useful
 Equipment - Circlet: useful
@@ -143,7 +155,9 @@ Equipment - Clobbering Time - 1690: unknown
 Equipment - Clover - 2086: unknown
 Equipment - Codex Consiliarii - 1826: unknown
 Equipment - Cold Touch: useful
+Equipment - Combat Band: useful
 Equipment - Combat Shotgun - 1626: unknown
+Equipment - Combat Vest: useful
 Equipment - Compact LMG - 1618: useful
 Equipment - Compact Pistol - 1616: useful
 Equipment - Compass - 2088: unknown
@@ -160,12 +174,12 @@ Equipment - Convergence LV3 - 1734: unknown
 Equipment - Convergence LV4 - 1735: useful
 Equipment - Convergence LV5 - 1753: unknown
 Equipment - Copper Helm: unknown
-Equipment - Copper Suit: unknown
+Equipment - Copper Suit: useful
 Equipment - Coronacht - 2018: unknown
 Equipment - Cotton Hood: useful
 Equipment - Cotton Robe: useful
 Equipment - Crabs Claw: useful
-Equipment - Craftwork Axe: unknown
+Equipment - Craftwork Axe: useful
 Equipment - Craftwork Bow: useful
 Equipment - Craftwork Cap: useful
 Equipment - Craftwork Crown: useful
@@ -178,13 +192,13 @@ Equipment - Craftwork Mail: useful
 Equipment - Craftwork Pages: useful
 Equipment - Craftwork Rapier: useful
 Equipment - Craftwork Robe: useful
-Equipment - Craftwork Scythe: unknown
-Equipment - Craftwork Shield: unknown
+Equipment - Craftwork Scythe: useful
+Equipment - Craftwork Shield: useful
 Equipment - Craftwork Spear: useful
 Equipment - Craftwork Staff: useful
 Equipment - Craftwork Sword: useful
 Equipment - Craftwork Vest: useful
-Equipment - Craftwork Wand: unknown
+Equipment - Craftwork Wand: useful
 Equipment - Crit Fang: useful
 Equipment - Critique - 2058: unknown
 Equipment - Cross Guard: useful
@@ -210,7 +224,7 @@ Equipment - Deltaic Armor - 1786: unknown
 Equipment - Deltaic Seal - 1784: useful
 Equipment - Demon Helm: useful
 Equipment - Demon Mail - 1947: unknown
-Equipment - Demon Plate: unknown
+Equipment - Demon Plate: useful
 Equipment - Demon Scythe - 1998: unknown
 Equipment - Demonic - 2069: unknown
 Equipment - Depth-seer's Tome - 1825: useful
@@ -233,6 +247,7 @@ Equipment - Dress: useful
 Equipment - Drifters Vest: useful
 Equipment - Drunkard Vest - 2145: unknown
 Equipment - Dueller: useful
+Equipment - Duelling Shield: useful
 Equipment - Dull Scythe - 1808: unknown
 Equipment - Dusk Collar - 1802: unknown
 Equipment - Duskblade Seal - 2117: unknown
@@ -261,8 +276,11 @@ Equipment - Empowered splintered arrow - 1686: unknown
 Equipment - Empowered vampiric touch - 1637: useful
 Equipment - Empowered wildfire - 1636: unknown
 Equipment - Enchanted Nunchaku - 1849: unknown
+Equipment - Encyclopedia: useful
+Equipment - Epee: useful
 Equipment - Epetam - 2020: useful
 Equipment - Equalizer Hammer - 1813: useful
+Equipment - Estoc: useful
 Equipment - Ex - 2073: useful
 Equipment - Executioner - 1842: unknown
 Equipment - Expedition LV1 - 1682: useful
@@ -295,7 +313,7 @@ Equipment - Fishgutter: useful
 Equipment - Flagellant Seal - 1678: unknown
 Equipment - Flagellant hood - 1670: useful
 Equipment - Flame Guard: useful
-Equipment - Flame Sword: unknown
+Equipment - Flame Sword: useful
 Equipment - Flameseeker: useful
 Equipment - Flamespike: unknown
 Equipment - Flask of Heroism - 1885: useful
@@ -313,7 +331,7 @@ Equipment - Fuselighter - 2151: unknown
 Equipment - Gaea Impact - 2023: unknown
 Equipment - Gaea's Cloak - 1858: unknown
 Equipment - Gaia Axe: useful
-Equipment - Gaia Vest: unknown
+Equipment - Gaia Vest: useful
 Equipment - Gamester Seal - 1768: unknown
 Equipment - Ganymede's Cloak - 1857: unknown
 Equipment - Gemini - 2017: unknown
@@ -323,7 +341,7 @@ Equipment - Giant Boomer - 1972: useful
 Equipment - Gilded Crescent - 1871: unknown
 Equipment - Givers Ring: useful
 Equipment - Glasses: useful
-Equipment - Gnarled Root: unknown
+Equipment - Gnarled Root: useful
 Equipment - Gold Ring - 2091: unknown
 Equipment - Golden Eagle - 1621: useful
 Equipment - Gospel: useful
@@ -333,7 +351,7 @@ Equipment - Gravedigger: useful
 Equipment - Greasy Shirt - 2096: unknown
 Equipment - Great Thresher: useful
 Equipment - Greywood Nunchaku - 1851: useful
-Equipment - Grim Scythe: unknown
+Equipment - Grim Scythe: useful
 Equipment - Guard Crown: useful
 Equipment - Guardian of Tharsis - 1843: unknown
 Equipment - Gusto Charm: useful
@@ -341,14 +359,14 @@ Equipment - Gusto Fang: useful
 Equipment - Guts - 1627: unknown
 Equipment - Halberd: useful
 Equipment - Half-Phoenix Seal - 2156: unknown
-Equipment - Hand Axe: unknown
+Equipment - Hand Axe: useful
 Equipment - Hand of Midas: unknown
 Equipment - Harmacist Robe - 1774: unknown
 Equipment - Harmacist Seal - 1769: useful
 Equipment - Harpy Rod - 2001: useful
 Equipment - Hatchet: useful
 Equipment - Hawkeye - 2059: unknown
-Equipment - Headgear: unknown
+Equipment - Headgear: useful
 Equipment - Heart Locket - 2035: unknown
 Equipment - Heat Bandana - 2004: unknown
 Equipment - Heavy Edge - 1805: unknown
@@ -369,7 +387,7 @@ Equipment - Heirloom of Magic - 2115: useful
 Equipment - Heirloom of Might - 2114: unknown
 Equipment - Helm of the Phoenix - 1877: unknown
 Equipment - Help the Prince: useful
-Equipment - Hemp Hood: unknown
+Equipment - Hemp Hood: useful
 Equipment - Hemp Robe: useful
 Equipment - Heroine's Rapier - 2136: unknown
 Equipment - Hi-Tech Robe - 2124: unknown
@@ -382,7 +400,7 @@ Equipment - Highland Blade: useful
 Equipment - Hihiirokane - 1824: unknown
 Equipment - Hitofuri: useful
 Equipment - Hoarfrost Buckler - 1880: useful
-Equipment - Holy Hat: unknown
+Equipment - Holy Hat: useful
 Equipment - Hooked Sickle - 1872: unknown
 Equipment - Hoplite - 2048: useful
 Equipment - Hoplite's Shield - 1844: useful
@@ -412,12 +430,12 @@ Equipment - Iron Barbut: useful
 Equipment - Iron Guard: useful
 Equipment - Iron Helm: useful
 Equipment - Iron Rod: useful
-Equipment - Iron Sword: unknown
+Equipment - Iron Sword: useful
 Equipment - Itemmaster's Earrings - 1974: unknown
 Equipment - Jadeforged Ring - 1962: useful
 Equipment - Jewel of Defense: useful
 Equipment - Judgement: unknown
-Equipment - Judo Gi: unknown
+Equipment - Judo Gi: useful
 Equipment - Kaiser Blade - 1860: unknown
 Equipment - Kenshi Seal - 2120: unknown
 Equipment - Kings Guard: useful
@@ -429,7 +447,7 @@ Equipment - Kodachi: useful
 Equipment - Kokaiji: useful
 Equipment - Lance of Sickness - 1689: unknown
 Equipment - Learners Pin: useful
-Equipment - Leather Cap: unknown
+Equipment - Leather Cap: useful
 Equipment - Leather Mail: useful
 Equipment - Leather Outfit: useful
 Equipment - Les Condamnes - 1899: useful
@@ -442,6 +460,7 @@ Equipment - Limiter Shield - 1993: unknown
 Equipment - Lion Crest - 2062: unknown
 Equipment - Liquidator - 1892: unknown
 Equipment - Longneck Rifle - 1895: unknown
+Equipment - Longsword: useful
 Equipment - Looters Pin: useful
 Equipment - Looters Ring: useful
 Equipment - Loyalty - 1827: unknown
@@ -461,9 +480,20 @@ Equipment - Magical Girl Seal - 2131: unknown
 Equipment - Malifice: useful
 Equipment - Malleus Maleficarum LV2? - 1695: unknown
 Equipment - Mana Ring: useful
+Equipment - Maple Wand: useful
 Equipment - Mars' Cloak - 1856: unknown
 Equipment - Martial Vest: useful
 Equipment - Mask of the Timeless - 2027: unknown
+Equipment - Master Bigaxe: useful
+Equipment - Master Bigsword: useful
+Equipment - Master Bow: useful
+Equipment - Master Cap: useful
+Equipment - Master Helm: useful
+Equipment - Master Mail: useful
+Equipment - Master Pages: useful
+Equipment - Master Shield: useful
+Equipment - Master Staff: useful
+Equipment - Master Sword: useful
 Equipment - Mechanized Lance - 2154: unknown
 Equipment - Meditate Charm - 2011: unknown
 Equipment - Menders Ring: useful
@@ -477,7 +507,7 @@ Equipment - Mirror Shield: unknown
 Equipment - Mistcore Beads - 1969: unknown
 Equipment - Mithril Armor - 2078: unknown
 Equipment - Moby Dick: useful
-Equipment - Monk Vest: unknown
+Equipment - Monk Vest: useful
 Equipment - Moonchill - 1837: unknown
 Equipment - Moonfrost Wand - 1887: unknown
 Equipment - Mountain LV1 - 1718: unknown
@@ -503,7 +533,7 @@ Equipment - Ninja Toolbox - 2137: unknown
 Equipment - Ninja Vest: useful
 Equipment - Nomad Vest: useful
 Equipment - Nomads Emblem: useful
-Equipment - Nomads Guard: unknown
+Equipment - Nomads Guard: useful
 Equipment - Oak Wand: useful
 Equipment - Obsidian Staff - 2019: useful
 Equipment - Oily Sword: unknown
@@ -512,6 +542,7 @@ Equipment - Old Reliable - 1868: unknown
 Equipment - Old sabre - 1694: unknown
 Equipment - Omnispear - 2030: unknown
 Equipment - Oni Charm - 2044: unknown
+Equipment - Orion Armor: useful
 Equipment - Orylei: useful
 Equipment - Oven Mitt: useful
 Equipment - Padded Vest - 1881: unknown
@@ -543,6 +574,7 @@ Equipment - Plate of Wolf: useful
 Equipment - Plate of the Phoenix - 1878: unknown
 Equipment - Pocket Watch - 1773: unknown
 Equipment - Pocket Watch - 2037: useful
+Equipment - Poignard: useful
 Equipment - Pointy Hat: useful
 Equipment - Poison Coat - 2005: useful
 Equipment - Poison Crossbow - 1987: unknown
@@ -550,7 +582,9 @@ Equipment - Poison Talon: useful
 Equipment - Poisonkiss: useful
 Equipment - Potion of Aetherbody - 1884: unknown
 Equipment - Power Glove - 2087: unknown
+Equipment - Power Vest: useful
 Equipment - Prayer Beads: useful
+Equipment - Priest Garb: useful
 Equipment - Primitive Axe - 1811: unknown
 Equipment - Prismatic Barrier LV1 - 1745: useful
 Equipment - Prismatic Barrier LV2 - 1746: useful
@@ -585,13 +619,14 @@ Equipment - Protect Amulet: useful
 Equipment - Protective Goggles - 2008: unknown
 Equipment - Protector: unknown
 Equipment - Pumpking helmet - 1706: unknown
+Equipment - Quarterstaff: useful
 Equipment - Quickdraw - 2047: useful
 Equipment - Quintar Pelt: useful
 Equipment - Quintar Pheromones - 1951: unknown
 Equipment - Radiance: useful
 Equipment - Radiant Halberd - 1971: unknown
 Equipment - Rage amulet - 1661: unknown
-Equipment - Ragebringer: unknown
+Equipment - Ragebringer: useful
 Equipment - Ranger Seal - 1672: useful
 Equipment - Ranger cape - 1659: unknown
 Equipment - Rapier of Warning - 1988: useful
@@ -599,11 +634,12 @@ Equipment - Rapier: useful
 Equipment - Raven - 2033: unknown
 Equipment - Ravens Cloak: useful
 Equipment - Ravens Hood: useful
+Equipment - Razor Edge: useful
 Equipment - Reaper Mail: useful
 Equipment - Reaper's Cuffs - 1948: unknown
 Equipment - Red Blindfold - 2121: unknown
 Equipment - Red Cap: useful
-Equipment - Red Coat: unknown
+Equipment - Red Coat: useful
 Equipment - Red Hairpin: useful
 Equipment - Red Headgear: useful
 Equipment - Red Helmet - 1978: unknown
@@ -627,11 +663,12 @@ Equipment - Rod of conviction LV3 - 1743: useful
 Equipment - Rod of conviction LV4 - 1744: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
 Equipment - Rogue Vest: unknown
+Equipment - Rondel: useful
 Equipment - Royal Dominance - 1836: unknown
 Equipment - Royal Guard Talisman - 1749: unknown
 Equipment - Royal Guard: useful
 Equipment - Rune Bow: unknown
-Equipment - Rune Sword: unknown
+Equipment - Rune Sword: useful
 Equipment - Rune Wand: useful
 Equipment - Runeblade Vest - 2142: unknown
 Equipment - Runehammer - 1829: unknown
@@ -644,6 +681,9 @@ Equipment - Samurais Glove: useful
 Equipment - Sange: unknown
 Equipment - Sanity Ring: useful
 Equipment - Sawn-off Rifle - 1894: useful
+Equipment - Scale Helm: useful
+Equipment - Scale Mail: useful
+Equipment - Scarlette: useful
 Equipment - Scholar Robe: useful
 Equipment - Scope Bit: useful
 Equipment - Scope Specs: useful
@@ -662,9 +702,10 @@ Equipment - Shank: unknown
 Equipment - Sharp Sword: useful
 Equipment - Shell Amulet: useful
 Equipment - Shellter Gown - 1954: unknown
-Equipment - Shelter Dress: unknown
+Equipment - Shelter Dress: useful
 Equipment - Shinigami-no-yokan - 1814: useful
 Equipment - Shoddy Bow - 2138: useful
+Equipment - Short Spear: useful
 Equipment - Short Staff: useful
 Equipment - Short Sword: useful
 Equipment - Showstopper - 2079: unknown
@@ -673,8 +714,9 @@ Equipment - Shyamalan's Ring - 2065: unknown
 Equipment - Sickle - 2076: unknown
 Equipment - Siege Bow: useful
 Equipment - Silenced Screams - 1953: useful
+Equipment - Silk Shirt: useful
 Equipment - Silver Eagle - 1620: unknown
-Equipment - Skewer: unknown
+Equipment - Skewer: useful
 Equipment - Skull Shield - 2051: useful
 Equipment - Sky Armor: useful
 Equipment - Sky Puncture - 1985: unknown
@@ -688,6 +730,7 @@ Equipment - Soldier Seal - 1666: unknown
 Equipment - Soldier armor - 1656: unknown
 Equipment - Soul Keeper: useful
 Equipment - Soul Kris: useful
+Equipment - Soul Wand: useful
 Equipment - Soulfrost Gauntlet - 1882: unknown
 Equipment - Spear of Io - 1821: unknown
 Equipment - Spellsword Helm: useful
@@ -715,14 +758,15 @@ Equipment - Stealth Cape: useful
 Equipment - Steel Nunchaku - 1850: unknown
 Equipment - Stick - 1897: unknown
 Equipment - Stinger: useful
+Equipment - Stone Splitter: useful
 Equipment - Stone of Jodan: useful
 Equipment - Stonechill - 1924: unknown
 Equipment - Stonecore Beads - 1968: unknown
-Equipment - Storm Cap: unknown
+Equipment - Storm Cap: useful
 Equipment - Storm Gun - 1625: unknown
 Equipment - Storm Helm: useful
 Equipment - Storm Hood: unknown
-Equipment - Storm Rod: unknown
+Equipment - Storm Rod: useful
 Equipment - Storm Spear - 1989: unknown
 Equipment - Stout Shield: useful
 Equipment - Strange Idol - 2097: unknown
@@ -764,6 +808,7 @@ Equipment - The Vault LV4 - 1732: unknown
 Equipment - The Vault LV5 - 1764: unknown
 Equipment - The Wolf - 1923: useful
 Equipment - Thin Spear - 1807: unknown
+Equipment - Thresher: useful
 Equipment - Thunder Eater - 1791: unknown
 Equipment - Thunderstruck Knife - 1861: useful
 Equipment - Timesplitter - 2074: unknown
@@ -775,20 +820,20 @@ Equipment - Tomokirimaru: useful
 Equipment - Toothpick: useful
 Equipment - Torch: useful
 Equipment - Torpid Cuffs: useful
-Equipment - Tower Shield: unknown
+Equipment - Tower Shield: useful
 Equipment - Trailblazer's Coat - 1865: unknown
-Equipment - Training Gi: unknown
+Equipment - Training Gi: useful
 Equipment - Training bow - 1631: unknown
 Equipment - Travel Vest - 2129: unknown
 Equipment - Traveler's Plate - 1879: unknown
 Equipment - Trench Coat - 2006: useful
 Equipment - Trickster Seal - 2134: unknown
-Equipment - Trident: unknown
+Equipment - Trident: useful
 Equipment - Triton's Cloak - 1855: unknown
 Equipment - True Strike - 2061: unknown
 Equipment - Tsukumogami - 2077: useful
 Equipment - Turtle Shell: useful
-Equipment - Tuxedo: unknown
+Equipment - Tuxedo: useful
 Equipment - Twilight's Edge - 1818: unknown
 Equipment - Twin Blade Staff - 1847: useful
 Equipment - Twinshot Crossbow - 1890: useful
@@ -800,14 +845,16 @@ Equipment - Urgency LV3 - 1727: unknown
 Equipment - Urgency LV4 - 1728: unknown
 Equipment - Urgency LV5 - 1758: unknown
 Equipment - Valkyrie Mail: useful
+Equipment - Vanguard: useful
 Equipment - Virid Collar - 1799: unknown
 Equipment - Vita Crown: unknown
 Equipment - Volt Collar - 1796: useful
 Equipment - Wailing Staff - 2000: unknown
 Equipment - Walking Stick: useful
+Equipment - War Axe: useful
 Equipment - Warding Beads - 1967: unknown
 Equipment - Warding Glory - 1845: unknown
-Equipment - Warlock Mail: unknown
+Equipment - Warlock Mail: useful
 Equipment - Warrior Mail: useful
 Equipment - Warstorm Helm - 1959: unknown
 Equipment - Water Eater - 1792: useful
@@ -825,13 +872,14 @@ Equipment - Winter Ring - 1752: unknown
 Equipment - Witch Seal - 1676: unknown
 Equipment - Witch dress - 1657: unknown
 Equipment - Wizard Robe: useful
+Equipment - Wizards Hat: useful
 Equipment - Wizards Wall: useful
 Equipment - Woodchopper - 1804: unknown
 Equipment - Woodsmacker - 1832: unknown
 Equipment - Worn Scythe - 2092: unknown
 Equipment - Woven Hood: unknown
 Equipment - Woven Shirt: useful
-Equipment - Yasha: unknown
+Equipment - Yasha: useful
 Equipment - dark contract - 1630: unknown
 Equipment - hnahr'luhnah hup ph' - 1697: unknown
 Item - Adventure axe LV2 part - 335: unknown
@@ -852,12 +900,12 @@ Item - Ancient Reservoir Map: useful
 Item - Ancient Reservoir Pass: progression
 Item - Ancient Tablet A: progression
 Item - Ancient Tablet B: progression
-Item - Ancient Tablet C: unknown
+Item - Ancient Tablet C: progression
 Item - Ancient Tome of Body Mastery - 348: unknown
 Item - Ascendent Shard - 360: unknown
 Item - Babel Quintar: progression
 Item - Basement Map: unknown
-Item - Beaurior Key Ring: unknown
+Item - Beaurior Key Ring: progression
 Item - Beaurior Rock Map: useful
 Item - Beaurior Rock Pass: progression
 Item - Beaurior Volcano Map: unknown
@@ -986,7 +1034,7 @@ Item - Neptune Stone: progression
 Item - New World Stone: unknown
 Item - North Lookout Token: progression
 Item - Northern Cave Map: useful
-Item - Northern Cave Pass: unknown
+Item - Northern Cave Pass: progression
 Item - Northern Stretch Map: useful
 Item - Northern Stretch Pass: progression
 Item - Nuts Sack: useful
@@ -1013,7 +1061,7 @@ Item - Progressive Mount Instrument: progression
 Item - Progressive Quintar Flute: progression
 Item - Progressive Salmon Violin: progression
 Item - Proving Meadows Map: useful
-Item - Proving Meadows Pass: unknown
+Item - Proving Meadows Pass: progression
 Item - Pyramid Key: progression
 Item - Quintar Mausoleum Map: useful
 Item - Quintar Mausoleum Pass: progression
@@ -1226,7 +1274,7 @@ Scholar - Lifegiver: useful
 Scholar - Lucky Dice: useful
 Scholar - MP Sickle: useful
 Scholar - Overload: useful
-Scholar - Reflection: unknown
+Scholar - Reflection: useful
 Scholar - Regenerate: useful
 Scholar - Reverse Polarity: useful
 Scholar - Roost: useful
