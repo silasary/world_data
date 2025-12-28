@@ -13,6 +13,7 @@ A Poisonous Appointment: Minikit 1: progression
 A Poisonous Appointment: Minikit 2: progression
 A Poisonous Appointment: Minikit 3: progression
 A Poisonous Appointment: Minikit 4: progression
+A Poisonous Appointment: Minikit 5: progression
 A Poisonous Appointment: Minikit 6: progression
 A Poisonous Appointment: Minikit 7: progression
 A Poisonous Appointment: Minikit 8: progression
@@ -31,6 +32,7 @@ Always Score Multiply Unlocked: useful
 An Enterprising Theft: Minikit 10: progression
 An Enterprising Theft: Minikit 1: progression
 An Enterprising Theft: Minikit 2: progression
+An Enterprising Theft: Minikit 3: progression
 An Enterprising Theft: Minikit 4: progression
 An Enterprising Theft: Minikit 5: progression
 An Enterprising Theft: Minikit 6: progression
@@ -38,10 +40,12 @@ An Enterprising Theft: Minikit 7: progression
 An Enterprising Theft: Minikit 8: progression
 An Enterprising Theft: Minikit 9: progression
 An Icy Reception: Minikit 10: progression
+An Icy Reception: Minikit 1: progression
 An Icy Reception: Minikit 2: progression
 An Icy Reception: Minikit 3: progression
 An Icy Reception: Minikit 4: progression
 An Icy Reception: Minikit 5: progression
+An Icy Reception: Minikit 6: progression
 An Icy Reception: Minikit 7: progression
 An Icy Reception: Minikit 8: progression
 An Icy Reception: Minikit 9: progression
@@ -49,16 +53,22 @@ Arctic World: Minikit 10: progression
 Arctic World: Minikit 1: progression
 Arctic World: Minikit 2: progression
 Arctic World: Minikit 3: progression
+Arctic World: Minikit 4: progression
+Arctic World: Minikit 5: progression
+Arctic World: Minikit 6: progression
 Arctic World: Minikit 7: progression
 Arctic World: Minikit 8: progression
 Arctic World: Minikit 9: progression
 Area Effect (Sonic Suit) Unlocked: useful
 Batboat Battle: Minikit 10: progression
 Batboat Battle: Minikit 1: progression
+Batboat Battle: Minikit 2: progression
 Batboat Battle: Minikit 3: progression
+Batboat Battle: Minikit 4: progression
 Batboat Battle: Minikit 5: progression
 Batboat Battle: Minikit 6: progression
 Batboat Battle: Minikit 7: progression
+Batboat Battle: Minikit 8: progression
 Batboat Battle: Minikit 9: progression
 Bats (Sonic Suit) Unlocked: filler
 Beep Beep Unlocked: filler
@@ -79,6 +89,7 @@ Breaking Blocks: Minikit 3: progression
 Breaking Blocks: Minikit 4: progression
 Breaking Blocks: Minikit 5: progression
 Breaking Blocks: Minikit 6: progression
+Breaking Blocks: Minikit 7: progression
 Breaking Blocks: Minikit 8: progression
 Breaking Blocks: Minikit 9: progression
 Character Studs Unlocked: useful
@@ -90,12 +101,16 @@ Dying of Laughter: Minikit 2: filler
 Dying of Laughter: Minikit 3: filler
 Dying of Laughter: Minikit 4: filler
 Dying of Laughter: Minikit 5: filler
+Dying of Laughter: Minikit 6: filler
 Dying of Laughter: Minikit 7: filler
 Dying of Laughter: Minikit 8: filler
+Dying of Laughter: Minikit 9: filler
 Extra Hearts Unlocked: useful
 Extra Toggle Unlocked: filler
 Fast Build Unlocked: useful
+Fast Grapple (All Suits) Unlocked: useful
 Fast Walk (Magnet Suit) Unlocked: useful
+Faster Pieces (Attract Suit) Unlocked: useful
 Flaming Batarang (Heat Protection Suit) Unlocked: useful
 Flight of the Bat: Minikit 10: progression
 Flight of the Bat: Minikit 1: progression
@@ -127,7 +142,9 @@ Harbouring a Grudge: Minikit 5: progression
 Harbouring a Grudge: Minikit 6: progression
 Harbouring a Grudge: Minikit 7: progression
 Harbouring a Grudge: Minikit 8: progression
+Harbouring a Grudge: Minikit 9: progression
 Hostage (A Daring Rescue): filler
+Hostage (A Poisonous Appointment): progression
 Hostage (A Surprise for the Commissioner): filler
 Hostage (An Enterprising Theft): filler
 Hostage (An Icy Reception): progression
@@ -140,6 +157,7 @@ Hostage (Joker's Home Turf): progression
 Hostage (Little Fun at the Big Top): progression
 Hostage (On the Rocks): progression
 Hostage (Penguin's Lair): progression
+Hostage (Rockin' the Docks): filler
 Hostage (Stealing the Show): filler
 Hostage (The Face-Off): progression
 Hostage (The Joker's Masterpiece): filler
@@ -151,12 +169,14 @@ Hostage (Under the City): progression
 Hostage (You Can Bank On Batman): progression
 Hostage (Zoo's Company): progression
 Ice Rink Unlocked: filler
+Immune to Freeze Unlocked: useful
 In the Dark Night: Minikit 10: progression
 In the Dark Night: Minikit 1: progression
 In the Dark Night: Minikit 2: progression
 In the Dark Night: Minikit 3: progression
 In the Dark Night: Minikit 4: progression
 In the Dark Night: Minikit 6: progression
+In the Dark Night: Minikit 7: progression
 In the Dark Night: Minikit 8: progression
 In the Dark Night: Minikit 9: progression
 Invincibility Unlocked: useful
@@ -172,6 +192,7 @@ Joker's Home Turf: Minikit 8: progression
 Joker's Home Turf: Minikit 9: progression
 Level Unlocked (A Daring Rescue): progression
 Level Unlocked (A Poisonous Appointment): progression
+Level Unlocked (A Surprise for the Commissioner): progression
 Level Unlocked (An Enterprising Theft): progression
 Level Unlocked (An Icy Reception): progression
 Level Unlocked (Arctic World): progression
@@ -194,8 +215,10 @@ Level Unlocked (The Joker's Masterpiece): progression
 Level Unlocked (The Lure of the Night): progression
 Level Unlocked (The Riddler Makes a Withdrawal): progression
 Level Unlocked (There She Goes Again): progression
+Level Unlocked (To the Top of the Tower): progression
 Level Unlocked (Two-Face Chase): progression
 Level Unlocked (Under the City): progression
+Level Unlocked (You can Bank on Batman): progression
 Level Unlocked (Zoo's Company): progression
 Little Fun at the Big Top: Minikit 10: progression
 Little Fun at the Big Top: Minikit 1: progression
@@ -204,8 +227,12 @@ Little Fun at the Big Top: Minikit 3: progression
 Little Fun at the Big Top: Minikit 4: progression
 Little Fun at the Big Top: Minikit 5: progression
 Little Fun at the Big Top: Minikit 6: progression
+Little Fun at the Big Top: Minikit 7: progression
 Little Fun at the Big Top: Minikit 8: progression
+Little Fun at the Big Top: Minikit 9: progression
 Minikit Detector Unlocked: useful
+More Batarang Targets (All Suits) Unlocked: useful
+More Detonators (Demolition Suit) Unlocked: useful
 On the Rocks: Minikit 10: progression
 On the Rocks: Minikit 1: progression
 On the Rocks: Minikit 2: progression
@@ -217,11 +244,15 @@ On the Rocks: Minikit 7: progression
 On the Rocks: Minikit 8: progression
 On the Rocks: Minikit 9: progression
 Penguin's Lair: Minikit 10: progression
+Penguin's Lair: Minikit 1: progression
+Penguin's Lair: Minikit 3: progression
 Penguin's Lair: Minikit 4: progression
 Penguin's Lair: Minikit 5: progression
 Penguin's Lair: Minikit 6: progression
+Penguin's Lair: Minikit 7: progression
 Penguin's Lair: Minikit 8: progression
 Penguin's Lair: Minikit 9: progression
+Piece Detector (Attract Suit) Unlocked: useful
 Playable Character (Alfred): filler
 Playable Character (Bane): progression
 Playable Character (Bat-Tank): progression
@@ -233,9 +264,11 @@ Playable Character (Batmobile): progression
 Playable Character (Batwing): progression
 Playable Character (Bruce Wayne's Private Jet): filler
 Playable Character (Bruce Wayne): filler
+Playable Character (Catwoman (Classic)): progression
 Playable Character (Catwoman's Motorcycle): progression
 Playable Character (Catwoman): progression
 Playable Character (Clayface): progression
+Playable Character (Clown Goon): filler
 Playable Character (Commissioner Gordon): filler
 Playable Character (Fishmonger): filler
 Playable Character (Freeze Girl): filler
@@ -263,6 +296,7 @@ Playable Character (Penguin Minion): filler
 Playable Character (Penguin's Submarine): progression
 Playable Character (Poison Ivy Goon): filler
 Playable Character (Poison Ivy): progression
+Playable Character (Police Boat): filler
 Playable Character (Police Car): progression
 Playable Character (Police Helicopter): progression
 Playable Character (Police Officer): filler
@@ -304,6 +338,7 @@ Purchasable Character (Bruce Wayne's Private Jet): progression
 Purchasable Character (Bruce Wayne): progression
 Purchasable Character (Catwoman (Classic)): progression
 Purchasable Character (Catwoman Motorcycle): progression
+Purchasable Character (Clown Goon): progression
 Purchasable Character (Commissioner Gordon): progression
 Purchasable Character (Fishmonger): progression
 Purchasable Character (Freeze Girl): progression
@@ -317,9 +352,11 @@ Purchasable Character (Joker Henchman): progression
 Purchasable Character (Mad Hatter's Glider): progression
 Purchasable Character (Mad Hatter's Steamboat): progression
 Purchasable Character (Mad Hatter): progression
+Purchasable Character (Man-Bat): progression
 Purchasable Character (Military Policeman): progression
 Purchasable Character (Mr Freeze's Kart): progression
 Purchasable Character (Mr. Freeze's Iceberg): progression
+Purchasable Character (Nightwing): progression
 Purchasable Character (Penguin Goon Submarine): progression
 Purchasable Character (Penguin Goon): progression
 Purchasable Character (Penguin Henchman): progression
@@ -327,12 +364,15 @@ Purchasable Character (Penguin Minion): progression
 Purchasable Character (Poison Ivy Goon): progression
 Purchasable Character (Police Bike): progression
 Purchasable Character (Police Boat): progression
+Purchasable Character (Police Car): progression
 Purchasable Character (Police Helicopter): progression
 Purchasable Character (Police Officer): progression
 Purchasable Character (Police Van): progression
 Purchasable Character (Police Watercraft): progression
 Purchasable Character (Ra's al Ghul): progression
+Purchasable Character (Riddler Henchman): progression
 Purchasable Character (Riddler's Jet): progression
+Purchasable Character (Robin's Submarine): progression
 Purchasable Character (S.W.A.T): progression
 Purchasable Character (Sailor): progression
 Purchasable Character (Scientist): progression
@@ -345,6 +385,7 @@ Purchasable Character (Zoo Sweeper): progression
 Red Brick Purchasable (A Daring Rescue): progression
 Red Brick Purchasable (A Surprise for the Commissioner): progression
 Red Brick Purchasable (An Enterprising Theft): progression
+Red Brick Purchasable (An Icy Reception): progression
 Red Brick Purchasable (Arctic World): progression
 Red Brick Purchasable (Batboat Battle): progression
 Red Brick Purchasable (Biplane Blast): progression
@@ -355,6 +396,7 @@ Red Brick Purchasable (Green Fingers): progression
 Red Brick Purchasable (Harbouring a Grudge): progression
 Red Brick Purchasable (In the Dark Night): progression
 Red Brick Purchasable (Joker's Home Turf): progression
+Red Brick Purchasable (Little Fun at the Big Top): progression
 Red Brick Purchasable (On the Rocks): progression
 Red Brick Purchasable (Penguin's Lair): progression
 Red Brick Purchasable (Rockin' the Docks): progression
@@ -368,7 +410,9 @@ Red Brick Purchasable (To the Top of the Tower): progression
 Red Brick Purchasable (Two-Face Chase): progression
 Red Brick Purchasable (Under the City): progression
 Red Brick Purchasable (You Can Bank On Batman): progression
+Red Brick Purchasable (Zoo's Company): progression
 Regenerate Hearts Unlocked: useful
+Rockin' the Docks: Minikit 10: progression
 Rockin' the Docks: Minikit 1: progression
 Rockin' the Docks: Minikit 2: progression
 Rockin' the Docks: Minikit 3: progression
@@ -388,8 +432,11 @@ Slam (Glide Suit) Unlocked: useful
 Sonic Pain (Sonic Suit) Unlocked: useful
 Stealing the Show: Minikit 10: progression
 Stealing the Show: Minikit 1: progression
+Stealing the Show: Minikit 2: progression
+Stealing the Show: Minikit 3: progression
 Stealing the Show: Minikit 4: progression
 Stealing the Show: Minikit 5: progression
+Stealing the Show: Minikit 6: progression
 Stealing the Show: Minikit 7: progression
 Stealing the Show: Minikit 8: progression
 Stealing the Show: Minikit 9: progression
@@ -403,12 +450,14 @@ The Face-Off: Minikit 5: progression
 The Face-Off: Minikit 6: progression
 The Face-Off: Minikit 7: progression
 The Face-Off: Minikit 8: progression
+The Face-Off: Minikit 9: progression
 The Joker's Masterpiece: Minikit 10: filler
 The Joker's Masterpiece: Minikit 1: filler
 The Joker's Masterpiece: Minikit 2: filler
 The Joker's Masterpiece: Minikit 3: filler
 The Joker's Masterpiece: Minikit 4: filler
 The Joker's Masterpiece: Minikit 5: filler
+The Joker's Masterpiece: Minikit 6: filler
 The Joker's Masterpiece: Minikit 7: filler
 The Joker's Masterpiece: Minikit 8: filler
 The Joker's Masterpiece: Minikit 9: filler
@@ -454,6 +503,7 @@ True Status (A Daring Rescue): filler
 True Status (A Poisonous Appointment): filler
 True Status (A Surprise for the Commissioner): filler
 True Status (An Enterprising Theft): filler
+True Status (An Icy Reception): filler
 True Status (Arctic World): filler
 True Status (Batboat Battle): filler
 True Status (Biplane Blast): filler
@@ -466,6 +516,7 @@ True Status (Joker's Home Turf): filler
 True Status (Little Fun at the Big Top): filler
 True Status (On the Rocks): filler
 True Status (Penguin's Lair): filler
+True Status (Rockin' the Docks): filler
 True Status (Stealing the Show): filler
 True Status (The Face-Off): filler
 True Status (The Joker's Masterpiece): filler
@@ -490,7 +541,9 @@ Under the City: Minikit 10: progression
 Under the City: Minikit 1: progression
 Under the City: Minikit 2: progression
 Under the City: Minikit 3: progression
+Under the City: Minikit 4: progression
 Under the City: Minikit 5: progression
+Under the City: Minikit 6: progression
 Under the City: Minikit 7: progression
 Under the City: Minikit 8: progression
 Under the City: Minikit 9: progression
@@ -500,12 +553,14 @@ You can Bank on Batman: Minikit 2: progression
 You can Bank on Batman: Minikit 3: progression
 You can Bank on Batman: Minikit 4: progression
 You can Bank on Batman: Minikit 5: progression
+You can Bank on Batman: Minikit 6: progression
 You can Bank on Batman: Minikit 7: progression
 You can Bank on Batman: Minikit 8: progression
 You can Bank on Batman: Minikit 9: progression
 Zoo's Company: Minikit 10: progression
 Zoo's Company: Minikit 1: progression
 Zoo's Company: Minikit 2: progression
+Zoo's Company: Minikit 3: progression
 Zoo's Company: Minikit 4: progression
 Zoo's Company: Minikit 5: progression
 Zoo's Company: Minikit 6: progression

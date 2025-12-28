@@ -24,12 +24,14 @@ Astral Foot Pass: progression
 Astral Pass: progression
 Bamboo Pass: progression
 Bjorn's Key: progression
+Dessicated Pass: progression
 Eastern Wild Pass: progression
 Feybreak Pass: progression
 Frostbound Pass: progression
 Glacial Pass: progression
 Ice Wind Pass: progression
 Level Up!: progression
+Lily's Key: progression
 Luck: filler
 Marsh Pass: progression
 Obsidian Pass: progression
@@ -46,6 +48,7 @@ Tech - Antique High Quality Furniture Set: filler
 Tech - Astegon Saddle: progression
 Tech - Azurmane Saddle: progression
 Tech - Barricade Set: filler
+Tech - Bastigor Saddle: progression
 Tech - Bat: useful
 Tech - Beakon Saddle: progression
 Tech - Beam Sword: useful
@@ -60,6 +63,7 @@ Tech - Broncherry Aqua's Saddle: progression
 Tech - Campfire: progression
 Tech - Carbon Fiber: progression
 Tech - Carpet Set: filler
+Tech - Celaray's Gloves: progression
 Tech - Celesdir Saddle: progression
 Tech - Cement: progression
 Tech - Chillet Ignis Saddle: progression
@@ -79,10 +83,14 @@ Tech - Double-Barreled Shotgun: useful
 Tech - Eikthyrdeer Saddle: progression
 Tech - Eikthyrdeer Terra Saddle: progression
 Tech - Electric Cooler: useful
+Tech - Electric Kitchen: progression
+Tech - Electric Medicine Workbench: progression
+Tech - Electric Mine: useful
 Tech - Elphidran Aqua's Saddle: progression
 Tech - Elphidran Saddle: progression
 Tech - Energy Cartridge: useful
 Tech - Energy Shotgun Ammo: useful
+Tech - Energy Shotgun: useful
 Tech - Feed Box: progression
 Tech - Fenglope Saddle: progression
 Tech - Fire Bow: useful
@@ -107,6 +115,7 @@ Tech - Gildane Saddle: progression
 Tech - Glass Structure Set: progression
 Tech - Ground Grenade: useful
 Tech - Handgun Ammo: useful
+Tech - Hanging Trap: useful
 Tech - Hangyu Cryst's Gloves: progression
 Tech - Heat Resistant Hexolite Armor: useful
 Tech - Heat Resistant Metal Armor: useful
@@ -115,6 +124,7 @@ Tech - Heat Resistant Plasteel Armor: useful
 Tech - Hexolite Helmet: useful
 Tech - Hexolite: useful
 Tech - High Quality Hot Spring: progression
+Tech - Hot Spring: progression
 Tech - Ice Mine: useful
 Tech - Incendiary Grenade: useful
 Tech - Iron Gate: useful
@@ -128,7 +138,9 @@ Tech - Katana: useful
 Tech - Killamari's Gloves: progression
 Tech - Kitsun Noct Saddle: progression
 Tech - Kitsun Saddle: progression
+Tech - Large Ceiling Lamp: filler
 Tech - Large Fishing Pond: progression
+Tech - Large Pal Bed: progression
 Tech - Large-Scale Electric Egg Incubator: progression
 Tech - Laser Gatling Gun: useful
 Tech - Laser Rifle: useful
@@ -146,6 +158,7 @@ Tech - Meat Cleaver: useful
 Tech - Medieval Medicine Workbench: progression
 Tech - Melpaca Saddle: progression
 Tech - Metal Armor: useful
+Tech - Metal Barrel Set: filler
 Tech - Metal Chair and Desk Set: filler
 Tech - Metal Detector: useful
 Tech - Metal Spear: useful
@@ -217,6 +230,7 @@ Tech - Stone Structure Set: progression
 Tech - Straw Pal Bed: progression
 Tech - Surfent Saddle: progression
 Tech - Surfent Terra Saddle: progression
+Tech - Suzaku Aqua Saddle: progression
 Tech - Suzaku Saddle: progression
 Tech - Sweepa Saddle: progression
 Tech - Sword: useful

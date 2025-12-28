@@ -74,6 +74,7 @@ Equipment - Beastmaster Mail: useful
 Equipment - Beatsmith Vest: useful
 Equipment - Beret: useful
 Equipment - Berserk - 2072: unknown
+Equipment - Berserker Axe: useful
 Equipment - Black Cat's Ring - 1876: unknown
 Equipment - Black Needle - 2153: useful
 Equipment - Blackguard - 2034: unknown
@@ -315,7 +316,7 @@ Equipment - Flagellant hood - 1670: useful
 Equipment - Flame Guard: useful
 Equipment - Flame Sword: useful
 Equipment - Flameseeker: useful
-Equipment - Flamespike: unknown
+Equipment - Flamespike: useful
 Equipment - Flask of Heroism - 1885: useful
 Equipment - Fleuret: useful
 Equipment - Float Shoes: useful
@@ -406,7 +407,7 @@ Equipment - Hoplite - 2048: useful
 Equipment - Hoplite's Shield - 1844: useful
 Equipment - Horned Helm: useful
 Equipment - Horologist Seal - 1771: unknown
-Equipment - Hunter Vest: unknown
+Equipment - Hunter Vest: useful
 Equipment - Hunting Axe: useful
 Equipment - Hunting Bow: useful
 Equipment - Huntsman - 1893: unknown
@@ -452,7 +453,7 @@ Equipment - Leather Mail: useful
 Equipment - Leather Outfit: useful
 Equipment - Les Condamnes - 1899: useful
 Equipment - Leviathan Plate - 1958: unknown
-Equipment - Life Jewel: unknown
+Equipment - Life Jewel: useful
 Equipment - Light Collar - 1797: unknown
 Equipment - Light Crossbow - 1888: useful
 Equipment - Lightforged Katars - 1874: useful
@@ -543,6 +544,7 @@ Equipment - Old sabre - 1694: unknown
 Equipment - Omnispear - 2030: unknown
 Equipment - Oni Charm - 2044: unknown
 Equipment - Orion Armor: useful
+Equipment - Orion Barbut: useful
 Equipment - Orylei: useful
 Equipment - Oven Mitt: useful
 Equipment - Padded Vest - 1881: unknown
@@ -621,6 +623,7 @@ Equipment - Protector: unknown
 Equipment - Pumpking helmet - 1706: unknown
 Equipment - Quarterstaff: useful
 Equipment - Quickdraw - 2047: useful
+Equipment - Quilted Hat: useful
 Equipment - Quintar Pelt: useful
 Equipment - Quintar Pheromones - 1951: unknown
 Equipment - Radiance: useful
@@ -662,12 +665,13 @@ Equipment - Rod of conviction LV2 - 1742: useful
 Equipment - Rod of conviction LV3 - 1743: useful
 Equipment - Rod of conviction LV4 - 1744: useful
 Equipment - Rod of conviction LV5 - 1756: unknown
-Equipment - Rogue Vest: unknown
+Equipment - Rogue Vest: useful
 Equipment - Rondel: useful
 Equipment - Royal Dominance - 1836: unknown
 Equipment - Royal Guard Talisman - 1749: unknown
 Equipment - Royal Guard: useful
-Equipment - Rune Bow: unknown
+Equipment - Rugged Hat: useful
+Equipment - Rune Bow: useful
 Equipment - Rune Sword: useful
 Equipment - Rune Wand: useful
 Equipment - Runeblade Vest - 2142: unknown
@@ -692,6 +696,7 @@ Equipment - Scoundrel cape - 1658: unknown
 Equipment - Scribe - 2093: unknown
 Equipment - Sea's Katana - 1980: unknown
 Equipment - Seekers Garb: unknown
+Equipment - Sentinel Rod: useful
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
 Equipment - Sermon - 2063: useful
@@ -724,7 +729,7 @@ Equipment - Sky's Katana - 1982: unknown
 Equipment - Sledgehammer - 1831: unknown
 Equipment - Slime - 2094: unknown
 Equipment - Slimy Crown - 1983: unknown
-Equipment - Smelly Gi: unknown
+Equipment - Smelly Gi: useful
 Equipment - Soaring Falcon - 1846: unknown
 Equipment - Soldier Seal - 1666: unknown
 Equipment - Soldier armor - 1656: unknown
@@ -865,7 +870,7 @@ Equipment - Weresheep Gloves - 1724: unknown
 Equipment - Weresheep Helmet - 1723: unknown
 Equipment - Whetstone - 2055: unknown
 Equipment - Wind Eater - 1789: unknown
-Equipment - Wind Thresher: unknown
+Equipment - Wind Thresher: useful
 Equipment - Windsong: useful
 Equipment - Winter Mitten: useful
 Equipment - Winter Ring - 1752: unknown
@@ -877,7 +882,7 @@ Equipment - Wizards Wall: useful
 Equipment - Woodchopper - 1804: unknown
 Equipment - Woodsmacker - 1832: unknown
 Equipment - Worn Scythe - 2092: unknown
-Equipment - Woven Hood: unknown
+Equipment - Woven Hood: useful
 Equipment - Woven Shirt: useful
 Equipment - Yasha: useful
 Equipment - dark contract - 1630: unknown

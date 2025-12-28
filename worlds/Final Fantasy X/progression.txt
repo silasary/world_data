@@ -178,6 +178,7 @@ Electro Marble x 70: useful
 Electro Marble x 80: useful
 Electro Marble x 90: useful
 Elixir x 20: filler
+Elixir x 30: filler
 Elixir x 40: filler
 Elixir x 50: filler
 Elixir x 70: filler
@@ -273,6 +274,7 @@ Hi-Potion x 30: filler
 Hi-Potion x 40: filler
 Hi-Potion x 50: filler
 Hi-Potion x 60: filler
+Hi-Potion x 80: filler
 Holy Water x 10: filler
 Holy Water x 20: filler
 Holy Water x 30: filler
@@ -376,6 +378,7 @@ Mega-Potion x 90: filler
 Megalixir x 10: filler
 Megalixir x 40: filler
 Megalixir x 50: filler
+Megalixir x 70: filler
 Megalixir x 90: filler
 Mercury Crest: progression
 Mercury Sigil: progression
@@ -527,6 +530,7 @@ Soft x 50: filler
 Soft x 60: filler
 Soft x 70: filler
 Soft x 80: filler
+Soft x 90: filler
 Soul Spring x 10: useful
 Soul Spring x 20: useful
 Soul Spring x 30: useful

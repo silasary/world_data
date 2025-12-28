@@ -560,10 +560,12 @@ wh_main_brt_farm_2: progression
 wh_main_brt_farm_extra_2: progression
 wh_main_brt_garrison_2: progression
 wh_main_brt_hospital_2: progression
+wh_main_brt_hospital_3: progression
 wh_main_brt_industry_basic_2: progression
 wh_main_brt_industry_basic_3: progression
 wh_main_brt_industry_extra_2: progression
 wh_main_brt_legendary_port_2: progression
+wh_main_brt_legendary_port_3: progression
 wh_main_brt_port_2: progression
 wh_main_brt_port_3: progression
 wh_main_brt_settlement_major_2: progression

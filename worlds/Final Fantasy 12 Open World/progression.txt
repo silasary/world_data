@@ -148,7 +148,7 @@ Cactus Flower: progression
 Cactus Fruit: unknown
 Caldera: filler
 Caliper: filler
-Calot Hat: unknown
+Calot Hat: filler
 Cameo Belt: filler
 Cancer Gem: unknown
 Capella: unknown
@@ -383,7 +383,7 @@ Great Trango: filler
 Greataxe: filler
 Green Beret: unknown
 Green Liquid: filler
-Green Tuft: unknown
+Green Tuft: filler
 Grimoire Aidhed: unknown
 Grimoire Togail: useful
 Grimy Fragment: mcguffin
@@ -442,7 +442,7 @@ Iron Helm: unknown
 Iron Ore: filler
 Iron Pole: filler
 Iron Scraps: unknown
-Iron Sword: unknown
+Iron Sword: filler
 Ivory Pole: useful
 Jack-o'-Lantern: filler
 Jade Collar: filler
@@ -729,7 +729,7 @@ Slow: useful
 Slowga: unknown
 Sluice Gate Key: progression
 Small Feather: filler
-Snake Skin: unknown
+Snake Skin: filler
 Snowfly: filler
 Soldier's Cap: unknown
 Soleil Fang: filler
@@ -753,7 +753,7 @@ Steal: useful
 Steel Gorget: useful
 Steel Mask: useful
 Steel Poleyns: filler
-Stink Bombs: unknown
+Stink Bombs: filler
 Stolen Articles: progression
 Stona: useful
 Stone Bolts: unknown
@@ -846,7 +846,7 @@ Wind Crystal: unknown
 Wind Globe: progression
 Wind Magicite: filler
 Wind Stone: unknown
-Windbreaker: unknown
+Windbreaker: filler
 Windslicer Pinion: unknown
 Windslicer Shot: unknown
 Windvane: progression

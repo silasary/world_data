@@ -86,6 +86,7 @@ Card - Breath of Light: progression
 Card - Bright Castle: progression
 Card - Bubonic Vermin: progression
 Card - Burning Algae: progression
+Card - Burning Land: progression
 Card - Burning Spear: progression
 Card - Burst Breath: progression
 Card - Buster Blader: progression
@@ -94,6 +95,7 @@ Card - Call of the Dark: progression
 Card - Cannon Soldier: progression
 Card - Castle Gate: progression
 Card - Catapult Turtle: progression
+Card - Cathedral of Nobles: progression
 Card - Cave Dragon: progression
 Card - Ceasefire: progression
 Card - Ceremonial Bell: progression
@@ -115,6 +117,7 @@ Card - Cobra Jar: progression
 Card - Coffin Seller: progression
 Card - Commencement Dance: progression
 Card - Compulsory Evacuation Device: progression
+Card - Confiscation: progression
 Card - Continuous Destruction Punch: progression
 Card - Contract with Exodia: progression
 Card - Contract with the Dark Master: progression
@@ -168,6 +171,7 @@ Card - Deal of Phantom: progression
 Card - Decayed Commander: progression
 Card - Dedication through Light and Darkness: progression
 Card - Deepsea Shark: progression
+Card - Dekoichi the Battlechanted Locomotive: progression
 Card - Delinquent Duo: progression
 Card - Demotion: progression
 Card - Des Counterblow: progression
@@ -177,6 +181,7 @@ Card - Des Feral Imp: progression
 Card - Des Kangaroo: progression
 Card - Des Koala: progression
 Card - Desert Sunlight: progression
+Card - Desertapir: progression
 Card - Destroyer Golem: progression
 Card - Destruction Ring: progression
 Card - Dice Jar: progression
@@ -235,6 +240,7 @@ Card - Final Countdown: progression
 Card - Final Destiny: progression
 Card - Final Flame: progression
 Card - Fire Kraken: progression
+Card - Fire Princess: progression
 Card - Fire Reaper: progression
 Card - Firegrass: progression
 Card - Firewing Pegasus: progression
@@ -259,6 +265,8 @@ Card - Fruits of Kozaky's Studies: progression
 Card - Fuhma Shuriken: progression
 Card - Fulfillment of the Contract: progression
 Card - Fushi No Tori: progression
+Card - Fusion Gate: progression
+Card - Fusion Recovery: progression
 Card - Fusionist: progression
 Card - Gadget Soldier: progression
 Card - Gagagigo: progression
@@ -266,6 +274,7 @@ Card - Gaia the Dragon Champion: progression
 Card - Gale Lizard: progression
 Card - Gamble: progression
 Card - Garma Sword Oath: progression
+Card - Garma Sword: progression
 Card - Garoozis: progression
 Card - Garuda the Wind Spirit: progression
 Card - Gatling Dragon: progression
@@ -274,6 +283,7 @@ Card - Gearfried the Iron Knight: progression
 Card - Gearfried the Swordmaster: progression
 Card - Getsu Fuhma: progression
 Card - Giant Kozaky: progression
+Card - Giant Orc: progression
 Card - Giant Rat: progression
 Card - Giant Trunade: progression
 Card - Gift of The Mystical Elf: progression
@@ -286,6 +296,7 @@ Card - Goblin Attack Force: progression
 Card - Goblin Thief: progression
 Card - Gogiga Gagagigo: progression
 Card - Golem Sentry: progression
+Card - Gora Turtle: progression
 Card - Graceful Dice: progression
 Card - Gradius' Option: progression
 Card - Gradius: progression
@@ -317,10 +328,13 @@ Card - Hannibal Necromancer: progression
 Card - Harpie Girl: progression
 Card - Harpie Lady 1: progression
 Card - Harpie Lady 2: progression
+Card - Harpie Lady 3: progression
 Card - Harpie Lady Sisters: progression
 Card - Harpie Lady: progression
+Card - Harpie's Brother: progression
 Card - Harpie's Feather Duster: progression
 Card - Harpie's Pet Dragon: progression
+Card - Headless Knight: progression
 Card - Hercules Beetle: progression
 Card - Hero Signal: progression
 Card - Hibikime: progression
@@ -346,6 +360,7 @@ Card - Insect Armor with Laser Cannon: progression
 Card - Insect Barrier: progression
 Card - Insect Queen: progression
 Card - Inspection: progression
+Card - Invader from Another Dimension: progression
 Card - Invigoration: progression
 Card - Jack's Knight: progression
 Card - Jar Robber: progression
@@ -426,13 +441,16 @@ Card - Mask of Restrict: progression
 Card - Master Monk: progression
 Card - Master of Oz: progression
 Card - Mataza the Zapper: progression
+Card - Mavelus: progression
 Card - Mech Mole Zombie: progression
 Card - Mecha-Dog Marron: progression
 Card - Mechanical Hound: progression
 Card - Mechanical Spider: progression
+Card - Mechanicalchaser: progression
 Card - Medusa Worm: progression
 Card - Mefist the Infernal General: progression
 Card - Mega Thunderball: progression
+Card - Mega Ton Magical Cannon: progression
 Card - Megamorph: progression
 Card - Megarock Dragon: progression
 Card - Melchid the Four-Face Beast: progression
@@ -469,7 +487,9 @@ Card - Monk Fighter: progression
 Card - Monster Egg: progression
 Card - Monster Gate: progression
 Card - Mother Grizzly: progression
+Card - Mountain: progression
 Card - Mudora: progression
+Card - Multiplication of Ants: progression
 Card - Multiply: progression
 Card - Mystic Horseman: progression
 Card - Mystic Lamp: progression
@@ -477,6 +497,7 @@ Card - Mystic Tomato: progression
 Card - Mystical Beast Serket: progression
 Card - Mystical Elf: progression
 Card - Mystical Moon: progression
+Card - Mystical Sand: progression
 Card - Mystical Space Typhoon: progression
 Card - Mystik Wok: progression
 Card - Needle Ball: progression
@@ -568,6 +589,7 @@ Card - Roaring Ocean Snake: progression
 Card - Robbin' Zombie: progression
 Card - Robotic Knight: progression
 Card - Roc from the Valley of Haze: progression
+Card - Rod of the Mind's Eye: progression
 Card - Royal Decree: progression
 Card - Royal Magical Library: progression
 Card - Royal Surrender: progression
@@ -597,6 +619,7 @@ Card - Shadow Spell: progression
 Card - Shapesnatch: progression
 Card - Shield Crash: progression
 Card - Shinato's Ark: progression
+Card - Shinato, King of a Higher Plane: progression
 Card - Shining Abyss: progression
 Card - Silpheed: progression
 Card - Silver Bow and Arrow: progression
@@ -623,6 +646,7 @@ Card - Soul of the Pure: progression
 Card - Souleater: progression
 Card - Souls of the Forgotten: progression
 Card - Spark Gun: progression
+Card - Sparks: progression
 Card - Spear Dragon: progression
 Card - Special Hurricane: progression
 Card - Spell Canceller: progression
@@ -681,6 +705,7 @@ Card - The Rock Spirit: progression
 Card - The Shallow Grave: progression
 Card - The Unhappy Maiden: progression
 Card - The Wandering Doomed: progression
+Card - The Warrior Returning Alive: progression
 Card - Theban Nightmare: progression
 Card - Theinen the Great Sphinx: progression
 Card - Thousand Dragon: progression
@@ -702,6 +727,7 @@ Card - Torrential Tribute: progression
 Card - Tragedy: progression
 Card - Trakadon: progression
 Card - Transcendent Wings: progression
+Card - Trap Hole: progression
 Card - Tremendous Fire: progression
 Card - Tri-Horned Dragon: progression
 Card - Tribe-Infecting Virus: progression
@@ -712,6 +738,7 @@ Card - Troop Dragon: progression
 Card - Turtle Oath: progression
 Card - Twin-Headed Fire Dragon: progression
 Card - Twin-Headed Thunder Dragon: progression
+Card - Two Thousand Needles: progression
 Card - Two-Headed King Rex: progression
 Card - Tyhone #2: progression
 Card - Tyranno Infinity: progression
@@ -755,6 +782,7 @@ Card - Z-Metal Tank: progression
 Card - Zoa: progression
 Card - Zolga: progression
 Card - Zombie Tiger: progression
+Card - Zombie Warrior: progression
 Card - Zombyra the Dark: progression
 Card - Zone Eater: progression
 Cunning of Slifer: progression
@@ -764,6 +792,7 @@ Pack - Basic 2-A: progression
 Pack - Basic 2-C: progression
 Pack - Basic 3-C: progression
 Pack - Basic 4-A: progression
+Pack - Basic 4-C: progression
 Pack - Be Quick: progression
 Pack - Beasts in Fight: progression
 Pack - Continuous Effects: progression
@@ -787,4 +816,5 @@ Pack - Spellcasters Dance: progression
 Pack - The Machines: progression
 Pack - The Warriors: progression
 Pack - Trap Collection 1: progression
+Pack - Trap Collection 2: progression
 Pack - Trap Special 2: progression
