@@ -1,4 +1,5 @@
 AP Item: filler
+Aerodactyl Tile: mcguffin
 Amulet Coin: useful
 Antidote: filler
 Awakening: filler
@@ -100,11 +101,13 @@ Hard Stone: useful
 Heal Powder: filler
 Heavy Ball: filler
 Hive Badge: progression
+Ho-Oh Tile: mcguffin
 Hyper Potion: filler
 Ice Berry: filler
 Ice Heal: filler
 Iron: filler
 Itemfinder: progression
+Kabuto Tile: mcguffin
 Kings Rock: useful
 Leaf Stone: useful
 Leftovers: useful
@@ -148,6 +151,7 @@ No Item: filler
 Normal Box: filler
 Nugget: filler
 Old Rod: progression
+Omanyte Tile: mcguffin
 PP Up: filler
 Paralysis Trap: trap
 Park Ball: filler
@@ -326,7 +330,3 @@ X Special: filler
 X Speed: filler
 Ylw Apricorn: filler
 Zephyr Badge: progression
-Omanyte Tile: mcguffin
-Aerodactyl Tile: mcguffin
-Kabuto Tile: mcguffin
-Ho-Oh Tile: mcguffin
