@@ -1,14 +1,18 @@
+1-Hit KO Trap: trap
 Agents of Doom: useful
 Annihilator: progression
 Biobliterator Defeated!: progression
+Black Screen Trap: trap
 Bolt Grabber V2: useful
 Bolts: filler
 Bouncer: useful
 Box Breaker: progression
+Charge Boots: progression
 Charge-Boots: progression
 Disk-Blade Gun: progression
 Flux Rifle: progression
 Gadgetron PDA: useful
+Gravity Boots: progression
 Gravity-Boots: progression
 Hacker: progression
 Holo-Shield Glove: useful
@@ -24,6 +28,7 @@ Infobot: Crash Site: progression
 Infobot: Daxx: progression
 Infobot: Florana: progression
 Infobot: Holostar Studios: progression
+Infobot: Insomniac Museum: progression
 Infobot: Koros: progression
 Infobot: Marcadia: progression
 Infobot: Metropolis: progression
@@ -33,26 +38,37 @@ Infobot: Qwarks Hideout: progression
 Infobot: Starship Phoenix: progression
 Infobot: Tyhrranosis: progression
 Infobot: Zeldrin Starport: progression
+Item Lock Trap: trap
 Jackpot Mode: filler
+Jackpot: filler
 Lava Gun: useful
 Map-O-Matic: useful
 Master Plan: progression
 Mini-Turret Glove: useful
+Mirror Trap: trap
 N60 Storm: useful
 Nano Pak: useful
+Nano-pak: useful
 Nitro Launcher: useful
+No Ammo Trap: trap
+No Clank Trap: trap
+PDA: useful
 Plasma Coil: useful
 Plasma Whip: progression
+Player EXP: filler
 Progressive Agents of Doom: useful
 Progressive Annihilator: progression
 Progressive Armor: useful
 Progressive Bouncer: useful
+Progressive Disc Blade Gun: progression
 Progressive Disk-Blade Gun: progression
 Progressive Flux Rifle: progression
+Progressive Holo Shield Glove: useful
 Progressive Holo-Shield Glove: useful
 Progressive Infector: progression
 Progressive Lava Gun: useful
 Progressive Mini-Turret Glove: useful
+Progressive Miniturret Glove: useful
 Progressive N60 Storm: useful
 Progressive Nitro Launcher: useful
 Progressive Plasma Coil: useful
@@ -72,7 +88,9 @@ Rift Inducer: progression
 Shield Charger: useful
 Shock Blaster: useful
 Spitting Hydra: progression
+Star Map: progression
 Suck Cannon: progression
+The Hacker: progression
 Tyhrra-Guise: progression
 Warp Pad: progression
 Weapon EXP: filler

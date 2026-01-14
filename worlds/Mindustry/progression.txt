@@ -1,29 +1,31 @@
 A fistful of nothing...: filler
-Afflict: unknown
+Afflict: progression
 Air Factory: progression
 Airblast Drill: unknown
 Arc: unknown
 Armored Conveyor: useful
-Armored Duct: unknown
-Atmospheric Concentrator: unknown
+Armored Duct: useful
+Atmospheric Concentrator: progression
 Basic Assembler Module: unknown
 Battery Diode: unknown
 Battery: unknown
-Beam Tower: unknown
+Beam Tower: progression
+Blast Door: useful
 Blast Mixer: progression
 Bridge Conduit: unknown
 Bridge Conveyor: useful
-Canvas: unknown
-Carbide Crucible: unknown
-Carbide Wall: unknown
+Build Tower: progression
+Canvas: useful
+Carbide Crucible: progression
+Carbide Wall: progression
 Chemical Combustion Chamber: unknown
 Coal Centrifuge: unknown
 Combustion Generator: progression
 Conduit: progression
-Constructor: unknown
+Constructor: progression
 Container: unknown
 Core: Acropolis: unknown
-Core: Citadel: unknown
+Core: Citadel: useful
 Core: Foundation: unknown
 Core: Nucleus: progression
 Cryofluid Mixer: unknown
@@ -31,13 +33,15 @@ Cultivator: progression
 Cyclone: unknown
 Deconstructor: unknown
 Differential Generator: unknown
-Diffuse: unknown
+Diffuse: progression
 Disassembler: unknown
-Disperse: unknown
+Disperse: progression
 Distributor: unknown
 Door: unknown
-Duct Router: unknown
+Duct Bridge: useful
+Duct Router: useful
 Duct Unloader: unknown
+Electric Heater: progression
 Electrolyzer: unknown
 Eruption Drill: unknown
 Flux Reactor: unknown
@@ -47,7 +51,7 @@ Fuse: unknown
 Graphite Press: progression
 Ground Factory: unknown
 Hail: unknown
-Heat Redirector: unknown
+Heat Redirector: progression
 Heat Router: unknown
 Hyper Processor: unknown
 Illuminator: unknown
@@ -60,11 +64,11 @@ Junction: useful
 Kiln: unknown
 Lancer: unknown
 Large Battery: unknown
-Large Beryllium Wall: unknown
-Large Carbide Wall: unknown
-Large Constructor: unknown
+Large Beryllium Wall: progression
+Large Carbide Wall: progression
+Large Constructor: useful
 Large Copper Wall: filler
-Large Deconstructor: unknown
+Large Deconstructor: useful
 Large Door: unknown
 Large Logic Display: unknown
 Large Payload Mass Driver: unknown
@@ -72,11 +76,12 @@ Large Phase Wall: useful
 Large Plasma Bore: unknown
 Large Plastanium Wall: unknown
 Large Power Node: useful
+Large Reinforced Surge Wall: progression
 Large Solar Panel: unknown
 Large Surge Wall: unknown
 Large Thorium Wall: useful
 Large Titanium Wall: useful
-Large Tungsten Wall: unknown
+Large Tungsten Wall: progression
 Laser Drill: unknown
 Launch Pad: unknown
 Liquid Container: unknown
@@ -90,7 +95,7 @@ Malign: unknown
 Mass Driver: unknown
 Mech Assembler: unknown
 Mech Fabricator: progression
-Mech Refrabricator: unknown
+Mech Refrabricator: progression
 Mechanical Pump: progression
 Meltdown: unknown
 Melter: unknown
@@ -106,15 +111,19 @@ Neoplasia Reactor: unknown
 Oil Extractor: unknown
 Overdrive Dome: unknown
 Overdrive Projector: unknown
-Overflow Duct: unknown
+Overflow Duct: useful
 Overflow Gate: unknown
+Oxidation Chamber: progression
 Parallax: unknown
 Payload Conveyor: unknown
-Payload Loader: unknown
+Payload Loader: progression
+Payload Mass Driver: progression
 Payload Router: unknown
-Payload Unloader: unknown
+Payload Unloader: progression
 Phase Conduit: unknown
 Phase Conveyor: unknown
+Phase Heater: progression
+Phase Synthesizer: progression
 Phase Wall: useful
 Phase Weaver: progression
 Plastanium Compressor: unknown
@@ -123,11 +132,13 @@ Plastanium Wall: useful
 Plated Conduit: useful
 Pneumatic Drill: progression
 Power Node: useful
-Prime Refabricator: unknown
+Prime Refabricator: progression
+Progressive Drills Erekir: progression
 Progressive Drills Serpulo: unknown
+Progressive Generators Erekir: progression
 Progressive Generators Serpulo: unknown
 Progressive Insectoid Ground Unit: filler
-Progressive Mechs: unknown
+Progressive Mechs: progression
 Progressive Offensive Air Unit: progression
 Progressive Offensive Ground Unit: progression
 Progressive Offensive Naval Unit: progression
@@ -146,61 +157,69 @@ Radar: unknown
 Regen Projector: unknown
 Reinforced Bridge Conduit: progression
 Reinforced Conduit: useful
-Reinforced Container: unknown
+Reinforced Container: progression
 Reinforced Liquid Container: unknown
 Reinforced Liquid Junction: progression
+Reinforced Liquid Router: useful
 Reinforced Liquid Tank: unknown
 Reinforced Message: unknown
-Reinforced Payload Conveyor: unknown
+Reinforced Payload Conveyor: useful
 Reinforced Payload Router: unknown
-Reinforced Pump: unknown
+Reinforced Pump: progression
 Reinforced Surge Wall: useful
-Reinforced Vault: unknown
+Reinforced Vault: useful
 Repair Point: unknown
 Repair Turret: unknown
 Ripple: useful
 Rotary Pump: filler
 Router: progression
 Salvo: progression
-Scathe: unknown
+Scathe: progression
 Scorch: unknown
 Segment: unknown
 Separator: unknown
-Shielded Wall: unknown
+Shielded Wall: progression
 Ship Assembler: unknown
 Ship Fabricator: progression
+Ship Refabricator: progression
 Shock Mine: unknown
-Shockwave Tower: unknown
+Shockwave Tower: progression
 Silicon Crucible: unknown
 Silicon Smelter: progression
-Slag Heater: unknown
-Slag Incinerator: unknown
-Smite: unknown
+Slag Heater: progression
+Slag Incinerator: useful
+Smite: progression
 Solar Panel: unknown
 Sorter: useful
 Spectre: useful
 Spore Press: unknown
 Steam Generator: unknown
-Sublimate: unknown
+Sublimate: progression
+Surge Conveyor: useful
 Surge Crucible: unknown
-Surge Router: unknown
+Surge Router: useful
 Surge Smelter: unknown
 Surge Tower: unknown
 Surge Wall: unknown
 Swarmer: unknown
 Switch: filler
 Tank Assembler: unknown
+Tank Refabricator: progression
 Thermal Generator: unknown
 Thorium Reactor: unknown
 Thorium Wall: unknown
+Titan: progression
 Titanium Conveyor: unknown
 Titanium Wall: unknown
 Tsunami: unknown
-Tungsten Wall: unknown
+Tungsten Wall: progression
 Underflow Duct: unknown
 Underflow Gate: unknown
-Unit Cargo Loader: unknown
+Unit Cargo Loader: useful
+Unit Cargo Unload Point: useful
+Unit Repair Tower: useful
 Unloader: unknown
 Vault: filler
+Vent Condenser: useful
 Water Extractor: unknown
 Wave: unknown

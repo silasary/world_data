@@ -17,9 +17,10 @@
 2-5: progression
 2-6: unknown
 2-7: progression
-2-8: unknown
+2-8: progression
 2-9: progression
-3-1: unknown
+3-10: progression
+3-1: progression
 3-2: progression
 3-3: progression
 3-4: progression
@@ -36,18 +37,18 @@
 4-5: progression
 4-6: progression
 4-7: progression
-4-8: unknown
+4-8: progression
 4-9: progression
 5-10: progression
 5-1: progression
-5-2: unknown
+5-2: progression
 5-3: progression
 5-4: progression
 5-5: unknown
 5-6: progression
-5-7: unknown
+5-7: progression
 5-8: progression
-5-9: unknown
+5-9: progression
 6-10: progression
 6-1: progression
 6-2: progression
@@ -84,7 +85,7 @@
 9-3: progression
 9-4: progression
 9-5: progression
-9-6: unknown
+9-6: progression
 9-7: progression
 9-8: unknown
 9-9: progression
@@ -96,10 +97,12 @@ Double Jump: useful
 Epic Mode: unknown
 Grappling Hook: useful
 Jetpack: useful
-Levitation: unknown
+Levitation: useful
 Portable Truck: useful
 Supertruck: useful
 Time Slow: unknown
 Truck Boost: useful
 Trucker Flip: useful
 Trucksolute Zero: useful
+h-1: progression
+h-2: progression

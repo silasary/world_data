@@ -2,7 +2,7 @@
 10 of Diamonds: progression
 10 of Hearts: progression
 10 of Spades: unknown
-2 of Clubs: unknown
+2 of Clubs: progression
 2 of Diamonds: progression
 2 of Hearts: unknown
 2 of Spades: unknown
@@ -38,7 +38,7 @@ Ace of Clubs: progression
 Ace of Diamonds: unknown
 Ace of Hearts: unknown
 Ace of Spades: unknown
-Freecell: unknown
+Freecell: progression
 Jack of Clubs: unknown
 Jack of Diamonds: unknown
 Jack of Hearts: progression

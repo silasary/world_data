@@ -8,6 +8,7 @@ advanced-oil-processing: progression
 artillery-shell-speed-1: filler
 artillery: filler
 automated-rail-transportation: progression
+battery-equipment: filler
 battery-mk2-equipment: filler
 battery: progression
 belt-immunity-equipment: filler
@@ -16,7 +17,9 @@ bob-acid-rocket: filler
 bob-advanced-logistic-science-pack: progression
 bob-advanced-research: unknown
 bob-air-compressor-1: progression
+bob-air-compressor-2: filler
 bob-air-compressor-3: filler
+bob-air-compressor-4: filler
 bob-alien-blue-research: filler
 bob-alien-green-research: progression
 bob-alien-orange-research: filler
@@ -34,12 +37,14 @@ bob-armoured-railway-2: filler
 bob-armoured-railway: filler
 bob-artifact-processing: progression
 bob-artifact-radar: filler
+bob-artillery-turret-2: filler
 bob-artillery-wagon-2: filler
 bob-atomic-artillery-shell: filler
 bob-battery-2: filler
 bob-battery-3: filler
 bob-battery-equipment-6: filler
 bob-bullets: progression
+bob-burner-reactor-2: filler
 bob-ceramics: progression
 bob-chemical-processing-1: progression
 bob-chemical-processing-2: progression
@@ -95,6 +100,7 @@ bob-infinite-worker-robots-storage-4: unknown
 bob-invar-processing: progression
 bob-lab: unknown
 bob-laser-rifle-ammo-1: filler
+bob-laser-rifle-ammo-2: filler
 bob-laser-rifle-ammo-3: filler
 bob-laser-rifle-ammo-4: filler
 bob-laser-rifle-ammo-5: filler
@@ -180,6 +186,8 @@ bob-turrets-5: filler
 bob-vehicle-belt-immunity-equipment: filler
 bob-vehicle-engine-equipment: filler
 bob-vehicle-fission-cell-equipment-2: filler
+bob-vehicle-fission-cell-equipment-5: filler
+bob-vehicle-fission-cell-equipment-6: filler
 bob-vehicle-laser-defense-equipment-1: filler
 bob-vehicle-laser-defense-equipment-2: filler
 bob-vehicle-laser-defense-equipment-3: filler
@@ -367,6 +375,7 @@ rocket-silo: progression
 spidertron: filler
 steel-processing: progression
 sulfur-processing: progression
+tank: progression
 uranium-ammo: filler
 uranium-mining: filler
 uranium-processing: filler
@@ -374,5 +383,6 @@ utility-science-pack: progression
 weapon-shooting-speed-2: filler
 weapon-shooting-speed-3: filler
 weapon-shooting-speed-4: filler
+weapon-shooting-speed-5: filler
 weapon-shooting-speed-6: filler
 worker-robots-storage-2: filler

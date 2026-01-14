@@ -4,9 +4,12 @@ Acid Amulet: filler
 Acid Breath: filler
 Acid Potion: filler
 Anti-Death Halo: useful
+Castle Courtyard Obelisk: progression
 Castle Obelisk 1: progression
 Castle Obelisk 2: progression
 Chimera Mirror Shard: progression
+Cliffs of Desolation Obelisk: progression
+Dagger Peak Obelisk: progression
 Death: trap
 Dragon Mirror Shard: progression
 Electric Shield: filler
@@ -18,6 +21,7 @@ Flame of Tarkana: useful
 Fruit: filler
 Gold: filler
 Growth: filler
+Haunted Cemetery Obelisk: progression
 Ice Axe of Untar: useful
 Invisibility: filler
 Invulnerability: filler
@@ -37,6 +41,23 @@ Mountain Obelisk 3: progression
 Phoenix Familiar: filler
 Plague Fiend Mirror Shard: progression
 Poison Fruit: trap
+Poisoned Fields Obelisk: progression
+Portal to Castle Treasury: progression
+Portal to Chimera's Keep: progression
+Portal to Crystal Mine: progression
+Portal to Dagger Peak: progression
+Portal to Dragon's Lair: progression
+Portal to Dungeon of Torment: progression
+Portal to Erupting Fissure: progression
+Portal to Fortified Towers: progression
+Portal to Frozen Camp: progression
+Portal to Haunted Cemetery: progression
+Portal to Infernal Fortress: progression
+Portal to Tower Armory: progression
+Portal to Toxic Air Ship: progression
+Portal to Vat of the Plague Fiend: progression
+Portal to Venomous Spire: progression
+Portal to Volcanic Caverns: progression
 Rapid Fire: filler
 Reflective Shield: filler
 Reflective Shot: filler
@@ -55,6 +76,8 @@ Runestone 8: progression
 Runestone 9: mcguffin
 Scimitar of Decapitation: useful
 Shrink: filler
+Skorne's Horns: useful
+Skorne's Right Gauntlet: useful
 Soul Savior: useful
 Speed Boots: filler
 Super Shot: filler
@@ -62,4 +85,5 @@ Thunder Hammer: filler
 Timestop: filler
 Town Obelisk 1: progression
 Town Obelisk 2: progression
+Valley of Fire Obelisk: progression
 Yeti Mirror Shard: progression

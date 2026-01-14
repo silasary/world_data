@@ -4,10 +4,10 @@
 3 Ball: unknown
 5 Ball: unknown
 6 Ball: useful
-A Bunch Of Really Small Guns: unknown
+A Bunch Of Really Small Guns: progression
 A Length Of Rope: progression
 A Pile Of Loose Chili Beans: progression
-A Portable Alchemistry Set: unknown
+A Portable Alchemistry Set: useful
 A Portable Arcane Oven: progression
 A Portable Leatherwork Bench: unknown
 A Year's Supply Of Dynamite: progression
@@ -34,7 +34,7 @@ Bandit Revolver: useful
 Barnaby Bob's Burnished Boots: unknown
 Barry Knife: useful
 Basics Of Gun Law: progression
-Battered Old Top Hat: unknown
+Battered Old Top Hat: useful
 Bean-Iron Badge: useful
 Bean-Iron Collander: unknown
 Bean-Iron Nugget: progression
@@ -43,13 +43,14 @@ Bean-Iron Shootin' Iron: unknown
 Bean-Iron Spatula: useful
 Bean-Iron Whisk: unknown
 Beans Illustrated: progression
-Bear Hat: unknown
+Bear Hat: useful
 Bearskin Pants: unknown
 Befouled Pistol: unknown
 Big Coil Of Barbed Wire: progression
 Big Furry Boots: unknown
 Birthing Breeches: unknown
 Black Boots: unknown
+Black Hood: useful
 Blackened Beans: filler
 Blank Postcard: progression
 Blank Sheet Music: unknown
@@ -69,11 +70,11 @@ Bowling Shirt Nametag: useful
 Box Of Science Doohickeys: unknown
 Br*** Censer: unknown
 Branding Ring: unknown
-Brass Knuckles: unknown
+Brass Knuckles: useful
 Breadwood Bread Bowl x5: progression
 Breadwood Cheat Sheet: useful
 Breadwood Logging Report Folder: progression
-Breadwood Logging Report: unknown
+Breadwood Logging Report: progression
 Breadwood's Missing Mail: progression
 Broken Leg Pills: useful
 Brown Boots: useful
@@ -86,7 +87,7 @@ Burned Scroll: progression
 Burning Tophat: unknown
 Bush Whacker: unknown
 CGAS Badge: useful
-Cactus Club: unknown
+Cactus Club: useful
 Caged Canary: useful
 Can Of Infinite Beans: useful
 Can Of Kerosene: progression
@@ -100,18 +101,19 @@ Carrot: filler
 Cat Hat: useful
 Charred Locket: progression
 Chastity Pants: useful
+Cheap Booze: filler
 Cheap Cigar: progression
 Cheap Wine x11: filler
 Chest Full Of Medals: useful
-Child's Bracelet: unknown
+Child's Bracelet: useful
 Chili Sin Pistoles (Muerto): progression
 Chili Sin Pistoles: progression
 Chili Spices: progression
 Chuck's Key: progression
 Circus Show Ticket: progression
 Circus Ticket: progression
-Coal Ring: unknown
-Coccyx With A Hole In It: unknown
+Coal Ring: useful
+Coccyx With A Hole In It: useful
 Coffee-Stained Pants: useful
 Colorful Hat: useful
 Comedy Flier: unknown
@@ -123,12 +125,13 @@ Cowboy Chef's Hat: useful
 Cowseye Ring: useful
 Cowseye: progression
 Crackerjack Hat: unknown
-Crazy Electric Helmet: unknown
+Crazy Electric Helmet: useful
 Creepy Whispering Stone: unknown
 Crowbar: progression
 Cryptic Note About Ley Lines: progression
 Cultist Leader Mask: unknown
 Cultist Mask: useful
+Curly's Auto-Gyrotheodolite: progression
 Curly's Compass: progression
 Curly's Strongbox: unknown
 Cursed Pants: useful
@@ -136,10 +139,10 @@ Dave's Secret Sauce Recipe: progression
 Decent Booze: filler
 Decent Whiskey x2: filler
 Delicate Bean-Iron Nugget: progression
-Demi-Culverin Cannonball: unknown
+Demi-Culverin Cannonball: progression
 Dense Bean-Iron Nugget: progression
 Desert Eatin' And Drinkin': unknown
-Desert Gang's Sixgun: unknown
+Desert Gang's Sixgun: useful
 Dictionary Page (Poach): unknown
 Dilapidated Old Wizard Hat: unknown
 Discipline Slip: progression
@@ -152,7 +155,7 @@ Driftwood Sculpture (Shield): unknown
 Drugs: filler
 Duel Law: unknown
 Duelling Banjos: progression
-Dynamite x10: unknown
+Dynamite x10: filler
 Dynamite x5: filler
 Effluvious Emerald: unknown
 Eight-Legged Pants: useful
@@ -163,6 +166,7 @@ El Vibrato Cone: useful
 El Vibrato Cross: progression
 El Vibrato Crown: progression
 El Vibrato Cylinder: progression
+El Vibrato Device: progression
 El Vibrato Fluid x5: unknown
 El Vibrato Headband: progression
 El Vibrato Helmet: unknown
@@ -180,14 +184,14 @@ Elevator Button: unknown
 Ellsbury's Helmet: unknown
 Emergency Form Transfer Envelope: progression
 Enchanted Bandolier: unknown
-Enchanted Buffalo Skull: unknown
+Enchanted Buffalo Skull: useful
 English-Goblintongue Dictionary: progression
 Entire Leather Pants: useful
 Extra-Black Hat: unknown
-Extra-Large Boots: unknown
+Extra-Large Boots: useful
 Fake Pope Hat: useful
-Fancy Coffee: unknown
-Fancy Knife: unknown
+Fancy Coffee: filler
+Fancy Knife: useful
 Fancy Pantry Pants: unknown
 Filthy Porcelain Cone: useful
 Fine Bandolier: useful
@@ -202,18 +206,18 @@ Gasmask: progression
 General Gob's Hat: unknown
 General Gob's Pistol: unknown
 Geometry Textbook: progression
-Get Crackin': A Guide To Modern Safes: unknown
+Get Crackin': A Guide To Modern Safes: progression
 Ghost Coach To Gun Manor: progression
 Ghost Cowboy Hat: unknown
 Ghost Flower: useful
 Ghost Pencil: progression
 Ghost Pickle x3: progression
 Ghost Pistol: unknown
-Ghost Ring: unknown
+Ghost Ring: useful
 Ghost Skin Cap: useful
 Ghost Staple Remover: progression
 Ghost Stapler: progression
-Ghostwood Visitor's ID: unknown
+Ghostwood Visitor's ID: progression
 Ghostwood Visitor's Permit: progression
 Gilded Lily: unknown
 Glass Eye: progression
@@ -227,20 +231,21 @@ Goblin Lead Ring: unknown
 Goblin Nail Ring: unknown
 Goblin Pistol: unknown
 Goblin Sandwich x5: unknown
-Goblin Shortpants: unknown
+Goblin Shortpants: useful
+Goblin Spyglass: useful
 Goblin Tiara: unknown
 Goblin Trash Sack: unknown
 Goblin Trashbat: useful
 Goblin Trousers: unknown
 Gold Skull: unknown
-Gold Tooth Crown: unknown
+Gold Tooth Crown: progression
 Gold Tooth Tiara: unknown
 Gold Tooth x3: progression
 Gothic Cameo: useful
 Greased Bandolier: useful
 Green Green Apple Jellybeans: progression
-Gulch Goblin Axe: unknown
-Gulch Goblin Lollipop: unknown
+Gulch Goblin Axe: useful
+Gulch Goblin Lollipop: filler
 Gulch Goblin Spatula: useful
 Gun Manor Carriage House Key: progression
 Gun Manor Guest Room Key: progression
@@ -248,7 +253,7 @@ Gun Manor Photo: unknown
 Gun Manor Rifle Token: unknown
 Gun Manor Shotgun Token: unknown
 Gustavson Gulch Treasure Cave Key (Spare): progression
-Gustavson Gulch Treasure Cave Key: unknown
+Gustavson Gulch Treasure Cave Key: progression
 Half A Ton Of Yeast: progression
 Halloway's Pin: progression
 Hammer: progression
@@ -289,7 +294,7 @@ Key To P.O. Box 114: progression
 Key To P.O. Box 441: progression
 Key-Shaped El Vibrato Device: progression
 Kickin' Ass And Chewin' Gum: unknown
-Kitchen Pants: unknown
+Kitchen Pants: progression
 Kneeling Pants: unknown
 Kurtzfit Headband: progression
 Kurtzfit Pants: unknown
@@ -301,6 +306,7 @@ Leather Shears: useful
 Left Half Of Curly's Map: progression
 Lime Lime Jellybeans: unknown
 List Of Buffalo Bones: progression
+Locks And How To Pick Them: progression
 Lodestone Ring: unknown
 Lucky Cap: progression
 Lucky Horseshoe: unknown
@@ -311,25 +317,26 @@ Magician's Pants: useful
 Manley's Finest Cotton Candy Schnapps: filler
 Marmotskin Cap: useful
 Mary Stearns' Diary: filler
-Meat-Stained Ring: unknown
+Meat-Stained Ring: useful
 Medal Of Adequacy: unknown
-Medical Gun: unknown
+Medical Gun: useful
 Military Medical Supplies: filler
 Military School Class Ring: unknown
 Military-Grade Whiskey: filler
 Mind Your Meat: unknown
 Miner's Helmet: unknown
-Mint Mint Jellybeans: unknown
+Miniature Piano: useful
+Mint Mint Jellybeans: progression
 Modern Snake Oiler: useful
-Monkey Wrench: unknown
-Moon Bits: unknown
+Monkey Wrench: progression
+Moon Bits: useful
 Mrs. Gun's Blueprint: progression
 Mrs. Gun's Opus: unknown
-Muck-Clogged Blunderbuss: unknown
+Muck-Clogged Blunderbuss: useful
 Mule Rental Contract: unknown
 Mushroom Map: unknown
 Mushroom Plucking Pliers: progression
-Mushroom-Covered Bone: unknown
+Mushroom-Covered Bone: useful
 NE North Central Logging Permit: unknown
 Nailgoves: useful
 Nearly-Empty Herbicide Can: unknown
@@ -341,7 +348,7 @@ Old Engagement Ring: unknown
 Old Patrol Cap: unknown
 Old Pickaxe: useful
 Old Silk Trousers: unknown
-Old Spanish Sabatons: unknown
+Old Spanish Sabatons: useful
 Old-Timey Ointment x3: filler
 Orthopedic Boots: unknown
 Overdue Breadwood Book: progression
@@ -352,6 +359,7 @@ Packrat Skeleton: unknown
 Paper Bag: progression
 Passenger Car Key: unknown
 Patent Emetic x3: filler
+Percussive Maintenance: progression
 Perfect Cup Of Coffee: filler
 Perfumed Pocket Square: unknown
 Personalized Gun Manor Shotglass: useful
@@ -374,11 +382,11 @@ Pvt. Lemmon's Diary: unknown
 Pvt. Matthau's Diary: unknown
 Rancher's Pistol: unknown
 Really Nice Cowboy Hat: useful
-Red-Hot Pistol: unknown
-Red-Hot Poker: unknown
+Red-Hot Pistol: useful
+Red-Hot Poker: useful
 Reinforced Pocket Square: unknown
 Remains Of The Potemkin Gang: progression
-Revolting Brooch: unknown
+Revolting Brooch: useful
 Rich Vein, Poor Vein: unknown
 Riding Boots: useful
 Rifleman Insignia Pin: useful
@@ -395,7 +403,7 @@ Rucker's Ranchsack: unknown
 Running Boots: useful
 Rusty Deputy Badge: useful
 Sack Of Meat Nuggets: useful
-Sandalwood Ring: unknown
+Sandalwood Ring: useful
 Santa Cortada's Ring: unknown
 Santa Cortada's Skull: unknown
 Saute Knife: progression
@@ -407,14 +415,15 @@ Shiny Abalone Brooch: unknown
 Shiny Ball: unknown
 Shovel: progression
 Shower Curtain: progression
-Sigiled Pistol: unknown
+Sigiled Pistol: useful
 Silenter: unknown
 Silicon Ring: unknown
 Silk Nun's Boots: unknown
-Silver Nugget x5: unknown
+Silver Nugget x5: filler
 Silver Pistol: unknown
 Silver-Plated Barbed Wire: progression
 Silver-Toothed Skull: progression
+Skeleton Bone x4: filler
 Skull Chips x3: filler
 Skull With An Odd Tag On It: useful
 Slide Whistle: progression
@@ -426,13 +435,13 @@ Small Plush Bear: unknown
 Small Plush Kitten: useful
 Small Plush Owl: unknown
 Smiling Face Button: unknown
-Smoking Crysanthemum: unknown
+Smoking Crysanthemum: useful
 Smoking Gun: unknown
 Smoldering Leather Bag: unknown
 Smoldering Leather Hat: unknown
 Smoldering Leather Pants: progression
 Snake Spleen x3: unknown
-Snake Venom Bladder x3: unknown
+Snake Venom Bladder x3: useful
 Somethingskin Pants: unknown
 Southeast-Western Murder Pepper: progression
 Souvenir Spoon: unknown
@@ -450,7 +459,7 @@ Stainless Steel Bean Pan: unknown
 Sticky Note: progression
 Stock Certificate x3: filler
 Stock Certificate: unknown
-Stove Door: unknown
+Stove Door: useful
 Strange Head Sack: unknown
 Strange Lamp: filler
 Strange Silvery Crystal: unknown
@@ -461,15 +470,15 @@ Sulphur Match x4: unknown
 Superdense Coal: progression
 Sweet Sword: unknown
 Sweet-Smellin' Flowers: progression
-Syrup Tap: unknown
+Syrup Tap: progression
 Tainted Milk x3: filler
 Tannery Back Door Key: progression
 Tannery St. Rage Key: progression
-Tanning And Tanning: unknown
+Tanning And Tanning: useful
 Tea Service: progression
 Teeny-Tiny Hat: useful
 Tentacled Badge: useful
-Texas Ranger Badge: unknown
+Texas Ranger Badge: useful
 Thaumomorphic Diorite Ring: useful
 The Best Love Poem Ever Written: unknown
 The Hedge Wizard's Orb: progression
@@ -504,6 +513,7 @@ Unrefined Meat Nugget x4: filler
 Unstable Stick Of Dynamite: unknown
 Varmint Skinnin' Knife: progression
 Very Thick Spectacles: unknown
+Vibrating Scapula: useful
 Wad Of Stuffing: progression
 Walking Stupid: filler
 Weird Knife: unknown
@@ -512,7 +522,7 @@ Weird Silver Idol: useful
 Weirdly Deformed Bone: unknown
 Wet Boots: unknown
 Wobbly Billiards Cue: progression
-Work Boots: unknown
+Work Boots: useful
 Worry Stone: unknown
 Wreath Of Laurels: unknown
 Yeast-Covered Hat: useful

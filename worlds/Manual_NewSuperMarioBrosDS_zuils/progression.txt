@@ -12,7 +12,9 @@ World 1 Key: progression
 World 2 Key: progression
 World 3 Castle Key: progression
 World 3 Key: progression
+World 3 Tower Key: progression
 World 4 Key: progression
+World 4 Tower Key: progression
 World 5 Castle Key: progression
 World 5 Key: progression
 World 5 Tower Key: progression
@@ -22,3 +24,4 @@ World 7 Castle Key: progression
 World 7 Key: progression
 World 8 Castle Key: progression
 World 8 Key: progression
+World 8 Tower Key: progression

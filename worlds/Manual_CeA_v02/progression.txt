@@ -29,6 +29,7 @@ Emerald- Stone Badge: progression
 FireRed- Cascade Badge: progression
 FireRed- Earth Badge: progression
 FireRed- Elite Four Entry: progression
+FireRed- Marsh Badge: progression
 FireRed- Rainbow Badge: progression
 FireRed- Volcano Badge: progression
 Game- Blue: progression
@@ -47,6 +48,7 @@ Gold- Fog Badge: progression
 Gold- Glacier Badge: progression
 Gold- Hive Badge: progression
 Gold- Marsh Badge: progression
+Gold- Mineral Badge: progression
 Gold- Plain Badge: progression
 Gold- Rising Badge: progression
 Gold- Storm Badge: progression
@@ -102,6 +104,7 @@ Type- Fire: progression
 Type- Flying: progression
 Type- Ghost: progression
 Type- Grass: progression
+Type- Ground: progression
 Type- Ice: progression
 Type- Normal: progression
 Type- Poison: progression

@@ -15,10 +15,10 @@
 1-4 A+ Rank: progression
 1-5 A+ Rank: progression
 1-6 A+ Rank: progression
-1-7 A+ Rank: unknown
+1-7 A+ Rank: progression
 1-8 A+ Rank: progression
 1-9 A+ Rank: progression
-2-1 A+ Rank: unknown
+2-1 A+ Rank: progression
 2-10 A+ Rank: progression
 2-11 A+ Rank: progression
 2-12 A+ Rank: progression
@@ -34,9 +34,9 @@
 2-3 A+ Rank: progression
 2-4 A+ Rank: progression
 2-5 A+ Rank: progression
-2-6 A+ Rank: unknown
+2-6 A+ Rank: progression
 2-7 A+ Rank: progression
-2-8 A+ Rank: unknown
+2-8 A+ Rank: progression
 2-9 A+ Rank: unknown
 3-1 A+ Rank: progression
 3-10 A+ Rank: progression
@@ -45,18 +45,18 @@
 3-13 A+ Rank: progression
 3-14 A+ Rank: progression
 3-15 A+ Rank: progression
-3-16 A+ Rank: unknown
+3-16 A+ Rank: progression
 3-17 A+ Rank: progression
 3-18 A+ Rank: unknown
 3-19 A+ Rank: progression
 3-2 A+ Rank: progression
-3-20 A+ Rank: unknown
+3-20 A+ Rank: progression
 3-3 A+ Rank: progression
 3-4 A+ Rank: unknown
 3-5 A+ Rank: progression
 3-6 A+ Rank: progression
 3-7 A+ Rank: progression
-3-8 A+ Rank: unknown
+3-8 A+ Rank: progression
 3-9 A+ Rank: progression
 4-1 A+ Rank: progression
 4-10 A+ Rank: progression
@@ -71,12 +71,12 @@
 4-19 A+ Rank: progression
 4-2 A+ Rank: progression
 4-20 A+ Rank: progression
-4-3 A+ Rank: unknown
+4-3 A+ Rank: progression
 4-4 A+ Rank: progression
 4-5 A+ Rank: progression
 4-6 A+ Rank: progression
 4-7 A+ Rank: progression
-4-8 A+ Rank: unknown
+4-8 A+ Rank: progression
 4-9 A+ Rank: progression
 4bit/4color/8bit/Normal Meat Boy: unknown
 5-1 A+ Rank: progression
@@ -85,7 +85,7 @@
 5-12 A+ Rank: progression
 5-13 A+ Rank: progression
 5-14 A+ Rank: progression
-5-15 A+ Rank: unknown
+5-15 A+ Rank: progression
 5-16 A+ Rank: progression
 5-17 A+ Rank: progression
 5-18 A+ Rank: progression
@@ -94,21 +94,21 @@
 5-20 A+ Rank: progression
 5-3 A+ Rank: progression
 5-4 A+ Rank: progression
-5-5 A+ Rank: unknown
+5-5 A+ Rank: progression
 5-6 A+ Rank: progression
 5-7 A+ Rank: progression
-5-8 A+ Rank: unknown
+5-8 A+ Rank: progression
 5-9 A+ Rank: progression
 6-1 A+ Rank: progression
 6-2 A+ Rank: progression
 6-3 A+ Rank: progression
 6-4 A+ Rank: progression
-7-1 A+ Rank: unknown
+7-1 A+ Rank: progression
 7-10 A+ Rank: progression
 7-11 A+ Rank: progression
 7-12 A+ Rank: progression
 7-13 A+ Rank: progression
-7-14 A+ Rank: unknown
+7-14 A+ Rank: progression
 7-15 A+ Rank: progression
 7-16 A+ Rank: progression
 7-17 A+ Rank: progression
@@ -123,10 +123,10 @@
 7-7 A+ Rank: progression
 7-8 A+ Rank: progression
 7-9 A+ Rank: progression
-Alien Hominid: unknown
+Alien Hominid: useful
 Bandage Girl: progression
 Bandage: mcguffin
-Brownie: unknown
+Brownie: useful
 Captain Viridian: filler
 Chapter 1 LW Level Completion: mcguffin
 Chapter 1 LW Level Key: progression
@@ -149,11 +149,11 @@ Degraded Bandage: filler
 Flywrench: progression
 Glitch Level Completion: unknown
 Goo Ball: mcguffin
-Headcrab: unknown
-Jill: unknown
+Headcrab: useful
+Jill: progression
 Meat Ninja: useful
 Naija: progression
-Ogmo: unknown
+Ogmo: progression
 RunMan: unknown
 Steve: unknown
 The Kid: progression

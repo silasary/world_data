@@ -38,7 +38,7 @@ Equipment - Aphotic Edge: useful
 Equipment - Apprentice: useful
 Equipment - Aqua Collar - 1795: useful
 Equipment - Aranea - 1977: unknown
-Equipment - Archmage Vest: unknown
+Equipment - Archmage Vest: useful
 Equipment - Art of War: useful
 Equipment - Artemis: useful
 Equipment - Artillerist Mail - 2146: unknown
@@ -81,7 +81,7 @@ Equipment - Blackguard - 2034: unknown
 Equipment - Blade Eater - 1793: unknown
 Equipment - BladeDancer Seal - 2100: unknown
 Equipment - BladeDancer Vest - 2098: unknown
-Equipment - Blank Pages: unknown
+Equipment - Blank Pages: useful
 Equipment - Blood of Heroes - 1863: unknown
 Equipment - Bloodbind: useful
 Equipment - Bloodied Hood - 1957: unknown
@@ -174,7 +174,7 @@ Equipment - Convergence LV2 - 1708: unknown
 Equipment - Convergence LV3 - 1734: unknown
 Equipment - Convergence LV4 - 1735: useful
 Equipment - Convergence LV5 - 1753: unknown
-Equipment - Copper Helm: unknown
+Equipment - Copper Helm: useful
 Equipment - Copper Suit: useful
 Equipment - Coronacht - 2018: unknown
 Equipment - Cotton Hood: useful
@@ -218,7 +218,7 @@ Equipment - Dark Gospel: useful
 Equipment - Darkspike - 1970: unknown
 Equipment - Darkwood Spear - 1873: unknown
 Equipment - Day's Harvest - 2024: useful
-Equipment - Decapitator: unknown
+Equipment - Decapitator: useful
 Equipment - Defender: useful
 Equipment - Defense Shifter: useful
 Equipment - Deltaic Armor - 1786: unknown
@@ -361,7 +361,7 @@ Equipment - Guts - 1627: unknown
 Equipment - Halberd: useful
 Equipment - Half-Phoenix Seal - 2156: unknown
 Equipment - Hand Axe: useful
-Equipment - Hand of Midas: unknown
+Equipment - Hand of Midas: useful
 Equipment - Harmacist Robe - 1774: unknown
 Equipment - Harmacist Seal - 1769: useful
 Equipment - Harpy Rod - 2001: useful
@@ -435,7 +435,7 @@ Equipment - Iron Sword: useful
 Equipment - Itemmaster's Earrings - 1974: unknown
 Equipment - Jadeforged Ring - 1962: useful
 Equipment - Jewel of Defense: useful
-Equipment - Judgement: unknown
+Equipment - Judgement: useful
 Equipment - Judo Gi: useful
 Equipment - Kaiser Blade - 1860: unknown
 Equipment - Kenshi Seal - 2120: unknown
@@ -469,7 +469,7 @@ Equipment - Lucky Briefs: useful
 Equipment - Lucky Platter: useful
 Equipment - Lucky Socks: useful
 Equipment - Lucky charm - 1733: unknown
-Equipment - Lunar Mail: unknown
+Equipment - Lunar Mail: useful
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
 Equipment - Mages Pike: unknown
@@ -537,7 +537,7 @@ Equipment - Nomads Emblem: useful
 Equipment - Nomads Guard: useful
 Equipment - Oak Wand: useful
 Equipment - Obsidian Staff - 2019: useful
-Equipment - Oily Sword: unknown
+Equipment - Oily Sword: useful
 Equipment - Old Monk's Cloak - 1949: unknown
 Equipment - Old Reliable - 1868: unknown
 Equipment - Old sabre - 1694: unknown
@@ -742,7 +742,7 @@ Equipment - Spellsword Helm: useful
 Equipment - Spider leg - 1688: unknown
 Equipment - Spiked Helm - 2090: unknown
 Equipment - Spintowin - 2075: unknown
-Equipment - Spore Blocker: unknown
+Equipment - Spore Blocker: useful
 Equipment - Springs Oath: useful
 Equipment - Squire of Avalon - 1816: useful
 Equipment - Squirrel Champion - 1961: unknown
@@ -770,7 +770,7 @@ Equipment - Stonecore Beads - 1968: unknown
 Equipment - Storm Cap: useful
 Equipment - Storm Gun - 1625: unknown
 Equipment - Storm Helm: useful
-Equipment - Storm Hood: unknown
+Equipment - Storm Hood: useful
 Equipment - Storm Rod: useful
 Equipment - Storm Spear - 1989: unknown
 Equipment - Stout Shield: useful
@@ -852,7 +852,7 @@ Equipment - Urgency LV5 - 1758: unknown
 Equipment - Valkyrie Mail: useful
 Equipment - Vanguard: useful
 Equipment - Virid Collar - 1799: unknown
-Equipment - Vita Crown: unknown
+Equipment - Vita Crown: useful
 Equipment - Volt Collar - 1796: useful
 Equipment - Wailing Staff - 2000: unknown
 Equipment - Walking Stick: useful
@@ -887,6 +887,80 @@ Equipment - Woven Shirt: useful
 Equipment - Yasha: useful
 Equipment - dark contract - 1630: unknown
 Equipment - hnahr'luhnah hup ph' - 1697: unknown
+Home Point - AP Spawn Point: progression
+Home Point - Ancient Labyrinth Core: progression
+Home Point - Ancient Reservoir Entrance: progression
+Home Point - Astley's Keep: progression
+Home Point - Astley's Shrine: progression
+Home Point - Beach Bird's Nest: progression
+Home Point - Beaurior Rock: progression
+Home Point - Beaurior Volcano Peak: progression
+Home Point - Boomer Society: progression
+Home Point - Boss Room: progression
+Home Point - Cabin On The Cliff: progression
+Home Point - Capital Jail Dark Wing: progression
+Home Point - Capital Jail Entrance: progression
+Home Point - Capital Pipeline: progression
+Home Point - Delende Falls: progression
+Home Point - Delende Peak: progression
+Home Point - Dione Shrine: progression
+Home Point - Discipline Hollow: progression
+Home Point - Eaclaneya Entrance: progression
+Home Point - East Market District: progression
+Home Point - East Ramparts: progression
+Home Point - Europa Shrine: progression
+Home Point - Fish Hatchery: progression
+Home Point - Flyer's Lookout: progression
+Home Point - Gaea Shrine: progression
+Home Point - Ganymede Shrine: progression
+Home Point - Ibek's Cave: progression
+Home Point - Ice Fisher's Hut: progression
+Home Point - Ice Pass: progression
+Home Point - Know-It-All Ducks' House: progression
+Home Point - Labyrinth Encampment: progression
+Home Point - Land's End Cottage: progression
+Home Point - Main Reservoir Chamber: progression
+Home Point - Mercury Shrine: progression
+Home Point - Neptune Shrine: progression
+Home Point - Ninja Yashiki: progression
+Home Point - Okimoto N.S. Base: progression
+Home Point - Old Nan's Watering Hole: progression
+Home Point - Platform A: progression
+Home Point - Poko Poko East Gate: progression
+Home Point - Poko Poko West Gate: progression
+Home Point - Proving Meadows Camp: progression
+Home Point - Quintar Enthusiast's House: progression
+Home Point - Quintar Nameko: progression
+Home Point - Quintar Sanctum: progression
+Home Point - Sailor's Raft: progression
+Home Point - Salmon Pass Entrance: progression
+Home Point - Salmon Room: progression
+Home Point - Salmon Shack: progression
+Home Point - Sara Sara Bazaar Port: progression
+Home Point - Seaside Cliffs Camp: progression
+Home Point - Sequoia Athenaeum: progression
+Home Point - Shanty Inn: progression
+Home Point - Shoudu Elevator: progression
+Home Point - Shoudu Fields: progression
+Home Point - Shoudu Market: progression
+Home Point - Shoudu Port: progression
+Home Point - Skumparadise Depths: progression
+Home Point - Skumparadise Entrance: progression
+Home Point - Skumparadise Exit: progression
+Home Point - Sky Arena: progression
+Home Point - Slip Glide Ride Entrance: progression
+Home Point - Soiled Den: progression
+Home Point - Tall, Tall Heights: progression
+Home Point - Tall, Tall Souvenir Shop: progression
+Home Point - The Chalice of Tar: progression
+Home Point - The Pale Grotto Entrance: progression
+Home Point - The Undercity: progression
+Home Point - Top Of The Sequoia: progression
+Home Point - Training Grounds: progression
+Home Point - Triton Shrine: progression
+Home Point - West Market District: progression
+Home Point - West Ramparts: progression
+Home Point - Yamagawa M.A. Summit: progression
 Item - Adventure axe LV2 part - 335: unknown
 Item - Adventure axe LV3 part - 339: useful
 Item - Adventure axe LV4 part - 346: useful
@@ -900,7 +974,7 @@ Item - Adventure sword LV2 part - 336: unknown
 Item - Adventure sword LV3 part - 340: unknown
 Item - Adventure sword LV4 part - 345: useful
 Item - Ancient Labyrinth Map: unknown
-Item - Ancient Labyrinth Pass: unknown
+Item - Ancient Labyrinth Pass: progression
 Item - Ancient Reservoir Map: useful
 Item - Ancient Reservoir Pass: progression
 Item - Ancient Tablet A: progression
@@ -909,7 +983,7 @@ Item - Ancient Tablet C: progression
 Item - Ancient Tome of Body Mastery - 348: unknown
 Item - Ascendent Shard - 360: unknown
 Item - Babel Quintar: progression
-Item - Basement Map: unknown
+Item - Basement Map: useful
 Item - Beaurior Key Ring: progression
 Item - Beaurior Rock Map: useful
 Item - Beaurior Rock Pass: progression
@@ -929,7 +1003,7 @@ Item - Capital Jail Map: unknown
 Item - Capital Jail Pass: progression
 Item - Capital Pipeline Map: useful
 Item - Capital Pipeline Pass: progression
-Item - Capital Sequoia Map: unknown
+Item - Capital Sequoia Map: useful
 Item - Capital Sequoia Pass: progression
 Item - Castle Ramparts Map: useful
 Item - Castle Ramparts Pass: progression
@@ -940,10 +1014,10 @@ Item - Cell Key: progression
 Item - Central Lookout Token: mcguffin
 Item - Cerulean Book: progression
 Item - Clamshell: mcguffin
-Item - Cobblestone Crag Map: unknown
+Item - Cobblestone Crag Map: useful
 Item - Cobblestone Crag Pass: progression
 Item - Compendium of Mortal Techniques - 349: unknown
-Item - Continental Tram Map: unknown
+Item - Continental Tram Map: useful
 Item - Continental Tram Pass: progression
 Item - Courtyard Key: progression
 Item - Crag Demon Horn: progression
@@ -951,7 +1025,7 @@ Item - Dark Wing Key: progression
 Item - Decent Cod Bag: useful
 Item - Decent Cod: filler
 Item - Deity Eye: progression
-Item - Delende Map: unknown
+Item - Delende Map: useful
 Item - Delende Pass: progression
 Item - Diamond Dust: filler
 Item - Diamond Ingot: useful
@@ -987,14 +1061,14 @@ Item - Foliage Key: progression
 Item - Forgotten Key: progression
 Item - Fresh Salmon: filler
 Item - Gaea Stone: progression
-Item - Ganymede Shrine Map: unknown
+Item - Ganymede Shrine Map: useful
 Item - Ganymede Shrine Pass: progression
 Item - Ganymede Stone: progression
 Item - Gardeners Key: progression
 Item - Gold Dust: useful
 Item - Gold Ingot: filler
 Item - Gold Ore: filler
-Item - Greenshire Reprise Map: unknown
+Item - Greenshire Reprise Map: useful
 Item - Greenshire Reprise Pass: progression
 Item - Home Point Stone: useful
 Item - Ibek Bell: progression
@@ -1005,15 +1079,15 @@ Item - Ice Puzzle Key: progression
 Item - Ice Stone - 371: progression
 Item - Jade Cavern Map: unknown
 Item - Jade Cavern Pass: progression
-Item - Jidamba Eaclaneya Map: unknown
-Item - Jidamba Eaclaneya Pass: unknown
+Item - Jidamba Eaclaneya Map: useful
+Item - Jidamba Eaclaneya Pass: progression
 Item - Jidamba Key Ring: progression
 Item - Jidamba Tangle Map: useful
 Item - Jidamba Tangle Pass: progression
 Item - Jigging Lure: filler
 Item - Jojo Sewers Map: useful
 Item - Jojo Sewers Pass: progression
-Item - Lake Delende Map: unknown
+Item - Lake Delende Map: useful
 Item - Lake Delende Pass: progression
 Item - Land's End Map: useful
 Item - Land's End Pass: progression
@@ -1024,7 +1098,7 @@ Item - Luxury Key: progression
 Item - Mage's Bane - 361: unknown
 Item - Mage's Bane Pouch - 362: unknown
 Item - Mars Stone: progression
-Item - Mercury Shrine Map: unknown
+Item - Mercury Shrine Map: useful
 Item - Mercury Shrine Pass: progression
 Item - Mercury Stone: progression
 Item - Milk Bag: useful
@@ -1036,7 +1110,7 @@ Item - Nans Stew: filler
 Item - Neptune Shrine Map: useful
 Item - Neptune Shrine Pass: progression
 Item - Neptune Stone: progression
-Item - New World Stone: unknown
+Item - New World Stone: progression
 Item - North Lookout Token: progression
 Item - Northern Cave Map: useful
 Item - Northern Cave Pass: progression
@@ -1044,17 +1118,18 @@ Item - Northern Stretch Map: useful
 Item - Northern Stretch Pass: progression
 Item - Nuts Sack: useful
 Item - Nuts: filler
-Item - Okimoto N.S. Map: unknown
+Item - Okimoto N.S. Map: useful
 Item - Okimoto N.S. Pass: progression
 Item - Old World Stone: progression
 Item - Overpass Map: useful
 Item - Owl Drum: progression
 Item - Pale Grotto Map: unknown
+Item - Passive Point Boost: useful
 Item - Pearl of the Seas - 358: unknown
 Item - Plug Lure: filler
 Item - Poko Poko Desert Map: useful
 Item - Poko Poko Desert Pass: progression
-Item - Poseidon Shrine Map: unknown
+Item - Poseidon Shrine Map: useful
 Item - Poseidon Stone: progression
 Item - Potion Pouch: filler
 Item - Potion: filler
@@ -1070,11 +1145,11 @@ Item - Proving Meadows Pass: progression
 Item - Pyramid Key: progression
 Item - Quintar Mausoleum Map: useful
 Item - Quintar Mausoleum Pass: progression
-Item - Quintar Nest Map: unknown
+Item - Quintar Nest Map: useful
 Item - Quintar Nest Pass: progression
 Item - Quintar Reserve Map: useful
 Item - Quintar Reserve Pass: progression
-Item - Quintar Sanctum Map: unknown
+Item - Quintar Sanctum Map: useful
 Item - Quintar Sanctum Pass: progression
 Item - Rampart Key: progression
 Item - Rations - 334: unknown
@@ -1096,6 +1171,7 @@ Item - Sara Sara Bazaar Map: useful
 Item - Sara Sara Bazaar Pass: progression
 Item - Sara Sara Beach East Pass: progression
 Item - Sara Sara Beach Map: useful
+Item - Sara Sara Beach Pass: progression
 Item - Sara Sara Beach West Pass: progression
 Item - Scroll: filler
 Item - Seaside Cliffs Map: useful
@@ -1113,7 +1189,7 @@ Item - Silver Ore: useful
 Item - Skeleton Key: progression
 Item - Skumparadise Map: useful
 Item - Skumparadise Pass: progression
-Item - Slip Glide Ride Key Ring: unknown
+Item - Slip Glide Ride Key Ring: progression
 Item - Slip Glide Ride Map: useful
 Item - Slip Glide Ride Pass: progression
 Item - Small Key: progression
@@ -1134,7 +1210,7 @@ Item - Tall Tall Heights Map: unknown
 Item - Tall, Tall Heights Map: useful
 Item - Tall, Tall Heights Pass: progression
 Item - Tarot Box - 373: unknown
-Item - The Chalice of Tar Map: unknown
+Item - The Chalice of Tar Map: useful
 Item - The Chalice of Tar Pass: progression
 Item - The Deep Sea Map: useful
 Item - The Deep Sea Pass: progression
@@ -1144,13 +1220,13 @@ Item - The New World Map: useful
 Item - The New World Pass: progression
 Item - The Old World Map: useful
 Item - The Old World Pass: progression
-Item - The Open Sea Map: unknown
+Item - The Open Sea Map: useful
 Item - The Open Sea Pass: progression
-Item - The Pale Grotto Map: unknown
+Item - The Pale Grotto Map: useful
 Item - The Pale Grotto Pass: progression
-Item - The Sequoia Map: unknown
+Item - The Sequoia Map: useful
 Item - The Sequoia Pass: progression
-Item - The Undercity Map: unknown
+Item - The Undercity Map: useful
 Item - The Undercity Pass: progression
 Item - Thunder Stone - 366: unknown
 Item - Tincture Pouch: useful

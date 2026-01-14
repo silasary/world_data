@@ -4,6 +4,7 @@ Bounty: progression
 Caulfield Access: progression
 Echuca Access: filler
 Filler: filler
+Flemington Racecourse Access: filler
 Metro Tunnel Access: progression
 Myki Top Up: useful
 Newport Access: progression
@@ -19,6 +20,7 @@ Progressive Upfield Access: progression
 Progressive Waurn Ponds Access: progression
 Richmond and South Yarra Access: progression
 Sandringham Access: progression
+Seymour Access: filler
 Tram Route 1 Access: filler
 Tram Route 16 Access: filler
 Tram Route 35 Access: filler
@@ -27,5 +29,6 @@ Tram Route 58 Access: filler
 Tram Route 59 Access: filler
 Tram Route 6 Access: filler
 Tram Route 75 Access: filler
+Tram Route 86 Access: filler
 Tullamarine Airport Access: filler
 Williamstown Access: progression

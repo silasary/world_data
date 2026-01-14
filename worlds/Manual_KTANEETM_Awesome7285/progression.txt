@@ -1,32 +1,48 @@
 +1 Millisecond: filler
 3D Maze: progression
 3D Tunnels Interactive: useful
+3D Tunnels: progression
+Adjacent Letters: progression
 Algebra: progression
 Alphabetical Order: progression
+Backgrounds Condensed: useful
 Backgrounds: progression
 Battleship: progression
+Big Circle Optimized: useful
+Big Circle Swapped Pages: useful
+Binary LEDs Optimized: useful
+Binary LEDs: progression
 Bitmaps: progression
 Bitwise Operations Condensed: useful
 Bitwise Operations: progression
 Black Hole Optimized: useful
 Boolean Venn Diagram: progression
+Caesar Cipher: progression
 Color Morse Embellished: useful
 Color Morse: progression
 Colored Switches Colorblind: useful
 Colored Switches: progression
 Connection Check: progression
+Cruel Digital Root: progression
 Decolored Squares: progression
 Digital Root Audio: useful
 Discolored Squares Embellished: useful
+Discolored Squares: progression
 Divided Squares Lookup Table: useful
 Divided Squares: progression
 Emoji Math: progression
 Faulty Digital Root Optimized: useful
 Follow the Leader: progression
 Forget Me Not Condensed (LeGeND): useful
+Forget This Optimized: useful
 Forget This: progression
+Letter Keys Lookup Table: useful
 Lights Out Solving Steps: useful
+Logic Gates: progression
+Next Chapter: progression
+Perplexing Wires Black & White: useful
 Perplexing Wires Lookup Table: useful
+Piano Keys Embellished: useful
 Piano Keys Optimized: useful
 Piano Keys: progression
 Plumbing Condensed (Timwi): useful
@@ -36,9 +52,19 @@ Rock-Paper-Scissors-Lizard-Spock Embellished: useful
 Rock-Paper-Scissors-Lizard-Spock: progression
 Safety Safe: progression
 Semaphore: progression
+Simon States: progression
+Snap!: progression
 Switches Optimized: useful
+Symbolic Password: progression
+Text Field: progression
 The Screw Condensed: useful
+The Screw: progression
+The Swan: progression
 Third Base Alphabetized Flipped: useful
 Third Base Flipped: useful
 Third Base: progression
+Two Bits: progression
+Uncolored Squares: progression
 Varicolored Squares: progression
+Wire Placement Embellished: useful
+Yahtzee Condensed (mathgeniuszach): useful

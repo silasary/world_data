@@ -41,7 +41,7 @@ Banana for Peach: progression
 Banana for Petey Piranha: useful
 Banana for Toad: progression
 Banana for Toadette: progression
-Banana for Waluigi: unknown
+Banana for Waluigi: progression
 Banana for Wario: progression
 Banana for Yoshi: useful
 Barrel Train: progression
@@ -74,7 +74,7 @@ Bowser's Castle Time Trial: progression
 Bowser's Shell for Baby Luigi: useful
 Bowser's Shell for Baby Mario: useful
 Bowser's Shell for Birdo: useful
-Bowser's Shell for Bowser Jr.: unknown
+Bowser's Shell for Bowser Jr.: progression
 Bowser's Shell for Bowser: useful
 Bowser's Shell for Daisy: progression
 Bowser's Shell for Diddy Kong: progression
@@ -106,7 +106,7 @@ Chain Chomp for Everybody: progression
 Chain Chomp for King Boo: progression
 Chain Chomp for Koopa: useful
 Chain Chomp for Luigi: progression
-Chain Chomp for Mario: unknown
+Chain Chomp for Mario: progression
 Chain Chomp for Paratroopa: useful
 Chain Chomp for Peach: progression
 Chain Chomp for Petey Piranha: useful
@@ -131,7 +131,7 @@ Extra Weight for DK Jumbo: progression
 Extra Weight for Goo-Goo Buggy: progression
 Extra Weight for Green Fire: useful
 Extra Weight for Heart Coach: progression
-Extra Weight for Koopa Dasher: unknown
+Extra Weight for Koopa Dasher: progression
 Extra Weight for Koopa King: progression
 Extra Weight for Para-Wing: progression
 Extra Weight for Parade Kart: progression
@@ -161,7 +161,7 @@ Fake Item for Paratroopa: useful
 Fake Item for Peach: useful
 Fake Item for Petey Piranha: filler
 Fake Item for Toad: useful
-Fake Item for Toadette: unknown
+Fake Item for Toadette: filler
 Fake Item for Waluigi: useful
 Fake Item for Wario: useful
 Fake Item for Yoshi: filler
@@ -203,7 +203,7 @@ Giant Banana for Baby Mario: progression
 Giant Banana for Birdo: progression
 Giant Banana for Bowser Jr.: useful
 Giant Banana for Bowser: progression
-Giant Banana for Daisy: unknown
+Giant Banana for Daisy: progression
 Giant Banana for Diddy Kong: progression
 Giant Banana for Donkey Kong: progression
 Giant Banana for Everybody: progression
@@ -236,7 +236,7 @@ Golden Mushroom for Paratroopa: progression
 Golden Mushroom for Peach: progression
 Golden Mushroom for Petey Piranha: progression
 Golden Mushroom for Toad: progression
-Golden Mushroom for Toadette: unknown
+Golden Mushroom for Toadette: progression
 Golden Mushroom for Waluigi: useful
 Golden Mushroom for Wario: useful
 Golden Mushroom for Yoshi: useful
@@ -248,7 +248,7 @@ Green Shell for Birdo: useful
 Green Shell for Bowser Jr.: progression
 Green Shell for Bowser: progression
 Green Shell for Daisy: progression
-Green Shell for Diddy Kong: unknown
+Green Shell for Diddy Kong: progression
 Green Shell for Donkey Kong: useful
 Green Shell for Everybody: progression
 Green Shell for King Boo: filler
@@ -282,7 +282,7 @@ Heart for Peach: useful
 Heart for Petey Piranha: progression
 Heart for Toad: progression
 Heart for Toadette: progression
-Heart for Waluigi: unknown
+Heart for Waluigi: progression
 Heart for Wario: progression
 Heart for Yoshi: progression
 King Boo: progression
@@ -338,7 +338,7 @@ Mini-turbo Extender for Wario Car: progression
 Mushroom Bridge Time Trial: progression
 Mushroom City Time Trial: progression
 Mushroom Cup: progression
-Mushroom for Baby Luigi: unknown
+Mushroom for Baby Luigi: progression
 Mushroom for Baby Mario: progression
 Mushroom for Birdo: progression
 Mushroom for Bowser Jr.: useful
@@ -563,7 +563,7 @@ Wario Colosseum Time Trial: progression
 Wario: progression
 Yoshi Circuit Time Trial: progression
 Yoshi Egg for Baby Luigi: useful
-Yoshi Egg for Baby Mario: unknown
+Yoshi Egg for Baby Mario: progression
 Yoshi Egg for Birdo: useful
 Yoshi Egg for Bowser Jr.: progression
 Yoshi Egg for Bowser: progression

@@ -30,6 +30,7 @@ Chimchar Unlock: progression
 Chimchar: unknown
 Corphish Unlock: progression
 Croagunk: unknown
+Cyndaquil Friendship: progression
 Delibird Friendship: progression
 Delibird Unlock: unknown
 Deoxys: unknown
@@ -42,13 +43,14 @@ Electabuzz: unknown
 Electivire Unlock: unknown
 Electivire: unknown
 Electrode Friendship: filler
-Electrode Unlock: unknown
+Electrode Unlock: progression
 Electrode: unknown
 Elekid: unknown
 Empoleon Prisma: unknown
 Feraligatr: unknown
 Flareon: unknown
 Floatzel: unknown
+Flygon Friendship: progression
 Flygon: unknown
 Froslass: unknown
 Furret Friendship: progression
@@ -57,6 +59,7 @@ Gastly Unlock: unknown
 Gastly: unknown
 Geodude: unknown
 Gible: unknown
+Glalie Friendship: progression
 Glalie Unlock: progression
 Glalie: unknown
 Gliscor: unknown
@@ -64,12 +67,15 @@ Golbat: progression
 Golduck: unknown
 Golem Unlock: unknown
 Granite Zone Fast Travel: progression
+Groudon Unlock: progression
 Gyarados Friendship: filler
+Gyarados Prisma: progression
 Haunted Zone Mansion Doors Unlock: progression
 Haunted Zone Unlock: unknown
 Haunter: unknown
 Heatran: unknown
 Hitmonchan Unlock: progression
+Hitmonlee Friendship: progression
 Hitmonlee Unlock: progression
 Hitmontop: unknown
 Hoppip Friendship: filler
@@ -77,6 +83,7 @@ Ice Zone Unlock: unknown
 Infernape Unlock: progression
 Jirachi Unlock: progression
 Jirachi: unknown
+Jolteon Unlock: progression
 Jolteon: unknown
 Kakuna: unknown
 Krabby Friendship: progression
@@ -92,6 +99,8 @@ Magcargo Friendship: filler
 Magmortar Friendship: progression
 Magmortar: unknown
 Magnezone Unlock: progression
+Mamoswine Unlock: progression
+Manaphy Friendship: progression
 Manaphy: unknown
 Marowak: unknown
 Meadow Zone Unlock: progression
@@ -106,8 +115,10 @@ Mismagius Unlock: unknown
 Mismagius: unknown
 Murkrow: unknown
 Ninetales Unlock: unknown
+Pachirisu Friendship: progression
 Pachirisu Unlock: progression
 Pachirisu: unknown
+Pelipper Prisma: progression
 Phanpy Friendship: progression
 Phanpy Unlock: progression
 Phanpy: progression
@@ -117,7 +128,7 @@ Ponyta Unlock: unknown
 Ponyta: unknown
 Porygon-Z Friendship: progression
 Porygon-Z: unknown
-Primeape Unlock: unknown
+Primeape Unlock: progression
 Primeape: unknown
 Prinplup: unknown
 Progressive Dash: progression
@@ -136,6 +147,7 @@ Rotom: unknown
 Sableye Friendship: progression
 Shinx Unlock: unknown
 Skiploom: unknown
+Skorupi Friendship: filler
 Skuntank Unlock: progression
 Skuntank: unknown
 Slowpoke Friendship: progression

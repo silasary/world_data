@@ -1,5 +1,6 @@
 Broadsword Charge (20): filler
 Broadsword Charge (50): filler
+Chaos Rune: Pumpkin Gorge: progression
 Chaos Rune: The Hilltop Mausoleum: progression
 Chicken Drumsticks Ammo (10): filler
 Club Charge (20): filler
@@ -9,10 +10,14 @@ Crossbow Ammo (20): filler
 Crossbow Ammo (50): filler
 Dagger Ammo (10): filler
 Dagger Ammo (20): filler
+Earth Rune: Enchanted Earth: progression
 Earth Rune: Pumpkin Gorge: progression
 Earth Rune: The Crystal Caves: progression
 Earth Rune: The Sleeping Village: progression
+Equipment: Chicken Drumsticks: useful
+Equipment: Copper Shield: useful
 Equipment: Crossbow: useful
+Equipment: Small Sword: useful
 Fire Longbow Ammo (20): filler
 Fire Longbow Ammo (50): filler
 Gold Coins (100): filler
@@ -29,7 +34,10 @@ Key Item: Dragon Gem - Inside the Asylum: progression
 Key Item: Safe Key: progression
 Key Item: Sheet Music: progression
 Key Item: Soul Helmet 3: progression
+Key Item: Soul Helmet 5: progression
+Key Item: Soul Helmet 6: progression
 Life Bottle: Dan's Crypt: progression
+Lightning Charge (30): filler
 Lightning Charge (50): filler
 Magic Longbow Ammo (20): filler
 Magic Longbow Ammo (50): filler
@@ -39,4 +47,5 @@ Silver Shield Ammo (50): filler
 Spear Ammo (20): filler
 Spear Ammo (50): filler
 Star Rune: Dan's Crypt: progression
+Star Rune: Ghost Ship: progression
 Star Rune: The Crystal Caves: progression

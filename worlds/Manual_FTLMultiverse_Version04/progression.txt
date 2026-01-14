@@ -1,24 +1,41 @@
 AETHER PREIGNITER: useful
+AETHER SHIELDS: useful
 AETHER TRANSLATOR: progression
+AUG ADV_SCANNERS: useful
 AUG ANCIENT_COMBAT_EQUALIZER: useful
+AUG ANCIENT_DNA: useful
 AUG ANCIENT_REPLICATOR: useful
 AUG COMBAT_CLOAKING_JAMMER: filler
 AUG COMBAT_EXPLOSIVE: filler
+AUG COMBAT_HAZARD: useful
 AUG COMBAT_IONSTORM: useful
+AUG COMBAT_OXYGEN_JAMMER : filler
 AUG COMBAT_OXYGEN_UNSTABLE: filler
 AUG COMBAT_PILOT_JAMMER: filler
+AUG COMBAT_REACTOR_JAMMER: filler
 AUG COMBAT_SHIELDS_JAMMER: useful
 AUG COMBAT_WARP_JAMMER: filler
 AUG COMBAT_WEAPON_JAMMER: useful
+AUG CRYSTAL_ARMOR: useful
 AUG CURA_SURGES_DRONES: useful
 AUG EMERGENCY_DRIVE: filler
+AUG ENERGY_SHIELD: useful
+AUG EXTRA_LIFE: filler
 AUG GOLD_ARMOR: useful
+AUG MODULAR_STORE: useful
+AUG MULTIVERSE_DRIVE: filler
 AUG MULTIVERSE_DRIVE_GOOD: useful
 AUG MVBOSS_SPAWNER: progression
+AUG NANOBOT_DEFENSE_SYSTEM: useful
 AUG ORCHID_KIDS : filler
 AUG PALADIN_ARMOR: useful
 AUG PANDORA_BOX: trap
+AUG REGEN_ARMOR: useful
+AUG REPAIR_HULL: useful
+AUG SOLAR_PANELS: filler
 AUG STORE_BEACON: useful
+AUG SUPER_ARMOR: useful
+AUG TULLY_PRESENT: progression
 Abandoned [Sale!] Sector: progression
 Ancient Wastelands Sector: progression
 Auto Sector: progression
@@ -26,25 +43,34 @@ CURA's Easy Tasks: useful
 CURA's Hard Tasks: progression
 Coalition Sector: progression
 Coalition Stronghold Sector: progression
+Confederate Coreworlds Sector: progression
 Confederate Sector: progression
+Crystalline Origins Sector: progression
 Duskbringer Sector: progression
 Dynasty Sector: progression
 EVENT FREE_ITEM: filler
 EVENT MAP: useful
 EX_AUTO_COOLDOWN: useful
 EX_BACKUP_DNA: useful
+EX_BATTERY_BOOSTER: filler
+EX_BREACH_SEALANT: useful
+EX_CLOAK_FIRE: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_DRONE_SPEED: useful
 EX_EXPLOSIVE_REPLICATOR: useful
 EX_FTL_BOOSTER: filler
+EX_FTL_JUMPER: useful
 EX_HACKING_STUN: filler
 EX_ION_ARMOR: useful
+EX_LIFE_SCANNER: useful
 EX_MEDBAY_NANO: useful
+EX_MEDBAY_SPEED: useful
 EX_O2_MASKS: useful
 EX_SHIELD_RECHARGE: useful
 EX_TELEPORT_HEAL: useful
 EX_ZOLTAN_BYPASS: useful
 Eargen Republic Capital Sector: progression
+Electrical Insulatoin: filler
 Emancipated Sanctuary Sector: progression
 Emancipation Grills: useful
 Federation Embassy Sector: progression
@@ -52,10 +78,13 @@ Free Mantis Sector: progression
 Gathering Gardenworlds Sector: progression
 Gathering Sector: progression
 Geniocracy Coreworlds Sector: progression
+Geniocracy Sector: progression
+Guild Territory Sector: progression
 Hacked Union Sector: progression
 Harmony Coreworlds Sector: progression
 Harmony Sector: progression
 Hive Broodworlds Sector: progression
+Hive Sector: progression
 Hunting Grounds Sector: progression
 Illesctrian Oasis Sector: progression
 Imperial New-Homelands Sector: progression
@@ -67,6 +96,7 @@ Level 3 Cloaking : useful
 Logistical Assistant: filler
 Lost Sun Stronghold Sector: progression
 Lvl 4 Teleporter: useful
+Militia Encampment Sector: progression
 Ministry Capital Sector: progression
 Ministry Sector: progression
 Outcast Sector: progression
@@ -90,6 +120,7 @@ Progressive Teleporter: progression
 Progressive Temperal : useful
 Rebel Sector: progression
 Rebel Stronghold Sector: progression
+Repair Arm: useful
 Republican [Sale!] Sector: progression
 Royal Kleptocracy Nebula Sector: progression
 Scrap Arm: useful
@@ -100,6 +131,8 @@ Starting Fuel x5: filler
 Starting Missiles x2: filler
 Starting Scrap x25: filler
 The Jerome Protectorate Sector: progression
+The Nexus Sector: progression
+Theocracy Badlands Sector: progression
 Theocracy Homeworlds Sector: progression
 Theocracy Sector: progression
 Unexplored Sector: progression

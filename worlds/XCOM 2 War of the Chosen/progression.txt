@@ -2,6 +2,9 @@
 [Chosen Hunt] Faction Influence: useful
 [Chosen Hunt] Hunter Stronghold: progression
 [Chosen Hunt] Warlock Stronghold: progression
+[PCS] Advanced Speed: filler
+[PCS] Superior Focus: useful
+[PCS] Superior Perception: useful
 [Resource] 1 Elerium Core: filler
 [Resource] 10 Alien Alloys: filler
 [Resource] 10 Elerium Crystals: useful
@@ -67,7 +70,7 @@
 [Trap] Avatar Project +1: trap
 [Trap] Force Level +1: trap
 [Upgrade] Advanced Auto-Loader: filler
-[Upgrade] Advanced Expanded Magazine: unknown
+[Upgrade] Advanced Expanded Magazine: filler
 [Upgrade] Advanced Hair Trigger: unknown
 [Upgrade] Advanced Laser Sight: filler
 [Upgrade] Advanced Repeater: filler

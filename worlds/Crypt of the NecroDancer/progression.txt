@@ -29,6 +29,7 @@ Bright Torch: unknown
 Broadsword: unknown
 Cadence: progression
 Carrot: useful
+Cat o' Nine Tails: useful
 Chainmail: useful
 Charm Spell: unknown
 Chaunter: progression
@@ -44,7 +45,7 @@ Crown of Teleportation: unknown
 Crown of Thorns: useful
 Crystal Shovel: unknown
 Cursed Heart Container: unknown
-Cursed Potion: unknown
+Cursed Potion: useful
 Cutlass: unknown
 Dad Trap: trap
 Dash Spell: unknown
@@ -69,13 +70,15 @@ Explorers Boots: unknown
 Fear Scroll: unknown
 Fireball Scroll: unknown
 Fireball Spell: unknown
+Fireball Tome: useful
 Freeze Scroll: unknown
+Freeze Spell: useful
 Freeze Tome: useful
 Frost Charm: unknown
 Frost Dagger: unknown
 Full Heal: filler
 Glass Armor: useful
-Glass Jaw: unknown
+Glass Jaw: useful
 Glass Shovel: useful
 Glass Slippers: unknown
 Glass Torch: useful
@@ -113,7 +116,7 @@ Magic Apple: unknown
 Magic Carrot: useful
 Magic Cheese: useful
 Magic Cookies: unknown
-Magic Drumstick: unknown
+Magic Drumstick: useful
 Magic Ham: useful
 Map: unknown
 Mary: progression
@@ -145,17 +148,18 @@ Pulse Spell: useful
 Pulse Tome: unknown
 Quartz Armor: useful
 Randomizer Mode: progression
-Rapier: unknown
+Rapier: useful
 Rat Familiar: useful
 Reaper: progression
 Reflective Shield: useful
+Riches Scroll: useful
 Rifle: useful
 Ring of Becoming: unknown
 Ring of Charisma: unknown
 Ring of Courage: useful
 Ring of Frost: useful
 Ring of Gold: useful
-Ring of Luck: unknown
+Ring of Luck: useful
 Ring of Mana: useful
 Ring of Might: useful
 Ring of Pain: unknown
@@ -199,7 +203,7 @@ Torch: unknown
 Transmute Scroll: unknown
 Transmute Spell: useful
 Transmute Tome: useful
-Trident: unknown
+Trident: useful
 War Drum: useful
 Warhammer: useful
 Weaponmaster: useful

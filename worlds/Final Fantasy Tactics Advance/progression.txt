@@ -283,29 +283,29 @@ Law Card: Aim antilaw: filler
 Law Card: Aim: unknown
 Law Card: Allmighty antilaw: filler
 Law Card: Berserk antilaw: filler
-Law Card: Berserk: unknown
+Law Card: Berserk: useful
 Law Card: Bind antilaw: unknown
 Law Card: Bind: useful
 Law Card: Blades antilaw: filler
-Law Card: Blades: unknown
+Law Card: Blades: useful
 Law Card: Broadswords antilaw: filler
 Law Card: Broadswords: filler
 Law Card: Call antilaw: filler
-Law Card: Call: unknown
+Law Card: Call: useful
 Law Card: Charge antilaw: filler
 Law Card: Charge: filler
 Law Card: Charm antilaw: filler
 Law Card: Charm: filler
-Law Card: Chivalry antilaw: unknown
+Law Card: Chivalry antilaw: useful
 Law Card: Chivalry: unknown
 Law Card: Color Magic antilaw: filler
-Law Card: Color Magic: unknown
-Law Card: Confuse antilaw: unknown
+Law Card: Color Magic: useful
+Law Card: Confuse antilaw: useful
 Law Card: Confuse: unknown
 Law Card: Control antilaw: filler
 Law Card: Control: filler
 Law Card: Copycat antilaw: filler
-Law Card: Copycat: unknown
+Law Card: Copycat: useful
 Law Card: Corner antilaw: filler
 Law Card: Corner: filler
 Law Card: Defend antilaw: filler
@@ -314,44 +314,44 @@ Law Card: Dmg2: Animal antilaw: filler
 Law Card: Dmg2: Animal: filler
 Law Card: Dmg2: Bangaa antilaw: useful
 Law Card: Dmg2: Bangaa: useful
-Law Card: Dmg2: Human antilaw: unknown
-Law Card: Dmg2: Human: unknown
+Law Card: Dmg2: Human antilaw: useful
+Law Card: Dmg2: Human: useful
 Law Card: Dmg2: Moogle antilaw: unknown
-Law Card: Dmg2: Nu Mou antilaw: unknown
-Law Card: Dmg2: Nu Mou: unknown
+Law Card: Dmg2: Nu Mou antilaw: useful
+Law Card: Dmg2: Nu Mou: useful
 Law Card: Dmg2: Viera antilaw: filler
-Law Card: Dmg2: Viera: unknown
+Law Card: Dmg2: Viera: useful
 Law Card: Dmg2: moogle: filler
 Law Card: Elementals antilaw: filler
 Law Card: Elementals: filler
 Law Card: Fight antilaw: filler
 Law Card: Fight: filler
-Law Card: Fire antilaw: unknown
+Law Card: Fire antilaw: useful
 Law Card: Fire: useful
 Law Card: Frog antilaw: filler
 Law Card: Frog: filler
 Law Card: Ganging Up antilaw: filler
 Law Card: Ganging Up: filler
 Law Card: Greatswords antilaw: unknown
-Law Card: Greatswords: unknown
+Law Card: Greatswords: useful
 Law Card: Gunmanship antilaw: filler
 Law Card: Gunmanship: filler
 Law Card: Haste antilaw: filler
 Law Card: Haste: filler
-Law Card: Healing antilaw: unknown
+Law Card: Healing antilaw: useful
 Law Card: Healing: filler
 Law Card: Holy antilaw: filler
 Law Card: Holy: filler
 Law Card: Hunt antilaw: filler
-Law Card: Hunt: unknown
+Law Card: Hunt: useful
 Law Card: Ice antilaw: useful
 Law Card: Ice: filler
 Law Card: Instruments antilaw: filler
 Law Card: Instruments: filler
-Law Card: Items antilaw: unknown
+Law Card: Items antilaw: useful
 Law Card: Items: filler
 Law Card: Katanas antilaw: useful
-Law Card: Katanas: unknown
+Law Card: Katanas: useful
 Law Card: Knightswords antilaw: filler
 Law Card: Knightswords: useful
 Law Card: Knives antilaw: filler
@@ -362,28 +362,28 @@ Law Card: Law Cards antilaw: useful
 Law Card: Law Cards: filler
 Law Card: Lightning antilaw: filler
 Law Card: Lightning: filler
-Law Card: Missile: unknown
+Law Card: Missile: useful
 Law Card: Morph antilaw: filler
 Law Card: Morph: unknown
 Law Card: NoClr Magic antilaw: filler
 Law Card: NoClr Magic: filler
 Law Card: Petrify antilaw: filler
 Law Card: Petrify: filler
-Law Card: Poison antilaw: unknown
+Law Card: Poison antilaw: useful
 Law Card: Poison: filler
 Law Card: Prayer antilaw: useful
 Law Card: Prayer: filler
 Law Card: Protect antilaw: filler
 Law Card: Protect: filler
-Law Card: R1 Antilaw: unknown
+Law Card: R1 Antilaw: useful
 Law Card: R2 Antilaw: filler
-Law Card: R3 Antilaw: unknown
+Law Card: R3 Antilaw: useful
 Law Card: R4 Antilaw: unknown
 Law Card: R5 Antilaw: filler
 Law Card: R6 Antilaw: useful
 Law Card: Rapiers antilaw: filler
 Law Card: Rapiers: useful
-Law Card: Sabers antilaw: unknown
+Law Card: Sabers antilaw: useful
 Law Card: Sabers: filler
 Law Card: Sharpshoot antilaw: useful
 Law Card: Sharpshoot: filler
@@ -391,15 +391,15 @@ Law Card: Shell antilaw: filler
 Law Card: Shell: filler
 Law Card: Silence antilaw: filler
 Law Card: Silence: filler
-Law Card: Skills antilaw: unknown
-Law Card: Skills: unknown
-Law Card: Slow antilaw: unknown
+Law Card: Skills antilaw: useful
+Law Card: Skills: useful
+Law Card: Slow antilaw: useful
 Law Card: Slow: filler
 Law Card: Soul antilaw: filler
 Law Card: Soul: filler
 Law Card: Spears antilaw: filler
 Law Card: Spears: filler
-Law Card: Status antilaw: unknown
+Law Card: Status antilaw: useful
 Law Card: Status: filler
 Law Card: Steal antilaw: unknown
 Law Card: Steal: filler
@@ -409,7 +409,7 @@ Law Card: Summon antilaw: filler
 Law Card: Summon: unknown
 Law Card: Swords antilaw: filler
 Law Card: Swords: filler
-Law Card: Target All antilaw: unknown
+Law Card: Target All antilaw: useful
 Law Card: Target All: filler
 Law Card: Target Area antilaw: filler
 Law Card: Target Area: filler

@@ -10,6 +10,7 @@ Archive Tower Cell Key: progression
 Archive Tower Giant Cell Key: progression
 Archive Tower Giant Door Key: progression
 Armor Smithbox: filler
+Armor of Artorias: filler
 Armor of Thorns: useful
 Armor of the Glorious: filler
 Armor of the Sun: filler
@@ -40,6 +41,7 @@ Black Iron Armor: unknown
 Black Iron Greatshield: useful
 Black Iron Helm: useful
 Black Iron Leggings: filler
+Black Knight Armor: filler
 Black Knight Gauntlets: filler
 Black Knight Greataxe: useful
 Black Knight Greatsword: useful
@@ -48,14 +50,14 @@ Black Knight Helm: filler
 Black Knight Leggings: filler
 Black Knight Shield: filler
 Black Knight Sword: useful
-Black Leather Armor: unknown
+Black Leather Armor: filler
 Black Leather Boots: useful
 Black Leather Gloves: unknown
 Black Manchette: useful
 Black Separation Crystal: filler
 Black Sorcerer Boots: useful
 Black Sorcerer Cloak: filler
-Black Sorcerer Gauntlets: unknown
+Black Sorcerer Gauntlets: filler
 Black Sorcerer Hat: useful
 Black Tights: filler
 Blacksmith Giant Hammer: filler
@@ -129,7 +131,7 @@ Composite Bow: unknown
 Copper Coin: filler
 Core of an Iron Golem: filler
 Covenant of Artorias: progression
-Covetous Gold Serpent Ring: unknown
+Covetous Gold Serpent Ring: filler
 Covetous Silver Serpent Ring: useful
 Cracked Red Eye Orb: useful
 Cracked Round Shield: useful
@@ -207,6 +209,7 @@ Egg Vermifuge: useful
 Elite Cleric Armor: useful
 Elite Cleric Gauntlets: useful
 Elite Cleric Helm: useful
+Elite Cleric Leggings: filler
 Elite Knight Gauntlets: useful
 Elite Knight Helm: useful
 Elite Knight Leggings: useful
@@ -242,19 +245,19 @@ Ghost Blade: useful
 Giant Armor: filler
 Giant Gauntlets: useful
 Giant Helm: useful
-Giant Leggings: unknown
+Giant Leggings: filler
 Giant Shield: filler
 Giant's Halberd: filler
 Gold Coin: filler
 Gold Pine Resin: useful
-Gold Tracer: unknown
+Gold Tracer: filler
 Gold-Hemmed Black Cloak: filler
 Gold-Hemmed Black Gloves: useful
 Gold-Hemmed Black Hood: filler
 Gold-Hemmed Black Skirt: unknown
 Golem Armor: useful
 Golem Axe: useful
-Golem Gauntlets: unknown
+Golem Gauntlets: filler
 Golem Helm: filler
 Golem Leggings: useful
 Gough's Armor: useful
@@ -380,7 +383,7 @@ Manus Catalyst: filler
 Mask of Velka: filler
 Mask of the Child: filler
 Mask of the Father: useful
-Mask of the Mother: unknown
+Mask of the Mother: filler
 Mask of the Sealer: useful
 Master Key: progression
 Miracle: Bountiful Sunlight: useful
@@ -536,6 +539,7 @@ Smough's Hammer: filler
 Smough's Helm: useful
 Smough's Leggings: filler
 Snickering Top Hat: useful
+Sniper Bolt: filler
 Sniper Crossbow: filler
 Sorcerer Boots: useful
 Sorcerer Cloak: useful
@@ -552,6 +556,7 @@ Sorcery: Dark Fog: useful
 Sorcery: Dark Orb: useful
 Sorcery: Fall Control: useful
 Sorcery: Great Heavy Soul Arrow: useful
+Sorcery: Great Magic Weapon: filler
 Sorcery: Great Soul Arrow: useful
 Sorcery: Heavy Soul Arrow: useful
 Sorcery: Hidden Body: unknown

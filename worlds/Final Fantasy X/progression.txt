@@ -6,10 +6,12 @@ Ability Distiller x 50: useful
 Ability Distiller x 60: useful
 Ability Distiller x 70: useful
 Ability Distiller x 80: useful
+Ability Distiller x 90: useful
 Aeon's Soul: progression
 Al Bhed Potion x 20: useful
 Al Bhed Potion x 30: useful
 Al Bhed Potion x 40: useful
+Al Bhed Potion x 50: useful
 Al Bhed Potion x 70: useful
 Al Bhed Potion x 80: useful
 Al Bhed Primer I: progression
@@ -43,6 +45,7 @@ Antarctic Wind x 20: useful
 Antarctic Wind x 30: useful
 Antarctic Wind x 50: useful
 Antarctic Wind x 60: useful
+Antarctic Wind x 70: useful
 Antarctic Wind x 80: useful
 Antarctic Wind x 90: useful
 Antidote x 10: filler
@@ -61,7 +64,9 @@ Arctic Wind x 50: useful
 Arctic Wind x 60: useful
 Arctic Wind x 70: useful
 Arctic Wind x 80: useful
+Armor (Auron): Defending Bracer I: useful
 Armor (Auron): Defending Bracer II: useful
+Armor (Auron): Serene Bracer: useful
 Armor (Kimahri): Defending Armlet: useful
 Armor (Kimahri): Lucid Armlet: useful
 Armor (Kimahri): Red Armlet: useful
@@ -110,14 +115,17 @@ Bomb Fragment x 10: useful
 Bomb Fragment x 20: useful
 Bomb Fragment x 30: useful
 Bomb Fragment x 40: useful
+Bomb Fragment x 50: useful
 Bomb Fragment x 60: useful
 Bomb Fragment x 70: useful
+Bomb Fragment x 80: useful
 Bomb Fragment x 90: useful
 Candle of Life x 10: useful
 Candle of Life x 20: useful
 Candle of Life x 30: useful
 Candle of Life x 40: useful
 Candle of Life x 50: useful
+Candle of Life x 60: useful
 Candle of Life x 70: useful
 Candle of Life x 90: useful
 Celestial Mirror: progression
@@ -137,6 +145,7 @@ Chocobo Wing x 50: useful
 Chocobo Wing x 60: useful
 Chocobo Wing x 70: useful
 Chocobo Wing x 80: useful
+Chocobo Wing x 90: useful
 Cloudy Mirror: progression
 Dark Matter x 10: useful
 Dark Matter x 20: useful
@@ -156,6 +165,7 @@ Dragon Scale x 70: useful
 Dragon Scale x 90: useful
 Dream Powder x 10: useful
 Dream Powder x 20: useful
+Dream Powder x 30: useful
 Dream Powder x 40: useful
 Dream Powder x 50: useful
 Dream Powder x 60: useful
@@ -165,15 +175,18 @@ Dream Powder x 90: useful
 Echo Screen x 10: filler
 Echo Screen x 20: filler
 Echo Screen x 30: filler
+Echo Screen x 40: filler
 Echo Screen x 50: filler
 Echo Screen x 60: filler
 Echo Screen x 70: filler
 Echo Screen x 80: filler
 Echo Screen x 90: filler
+Electro Marble x 10: useful
 Electro Marble x 20: useful
 Electro Marble x 30: useful
 Electro Marble x 40: useful
 Electro Marble x 50: useful
+Electro Marble x 60: useful
 Electro Marble x 70: useful
 Electro Marble x 80: useful
 Electro Marble x 90: useful
@@ -185,15 +198,19 @@ Elixir x 70: filler
 Elixir x 80: filler
 Elixir x 90: filler
 Ether x 10: filler
+Ether x 20: filler
 Ether x 30: filler
 Ether x 50: filler
 Ether x 60: filler
 Ether x 70: filler
 Ether x 80: filler
+Eye Drops x 20: filler
 Eye Drops x 30: filler
+Eye Drops x 60: filler
 Eye Drops x 70: filler
 Eye Drops x 90: filler
 Farplane Shadow x 10: useful
+Farplane Shadow x 20: useful
 Farplane Shadow x 30: useful
 Farplane Shadow x 40: useful
 Farplane Shadow x 50: useful
@@ -208,6 +225,7 @@ Farplane Wind x 40: useful
 Farplane Wind x 50: useful
 Farplane Wind x 60: useful
 Farplane Wind x 70: useful
+Farplane Wind x 80: useful
 Farplane Wind x 90: useful
 Fire Gem x 10: useful
 Fire Gem x 20: useful
@@ -220,6 +238,7 @@ Fire Gem x 90: useful
 Fish Scale x 10: useful
 Fish Scale x 20: useful
 Fish Scale x 30: useful
+Fish Scale x 40: useful
 Fish Scale x 50: useful
 Fish Scale x 60: useful
 Fish Scale x 70: useful
@@ -237,6 +256,7 @@ Frag Grenade x 80: useful
 Frag Grenade x 90: useful
 Gold Hourglass x 10: useful
 Gold Hourglass x 20: useful
+Gold Hourglass x 30: useful
 Gold Hourglass x 40: useful
 Gold Hourglass x 50: useful
 Gold Hourglass x 60: useful
@@ -262,6 +282,7 @@ Healing Spring x 70: useful
 Healing Spring x 80: useful
 Healing Spring x 90: useful
 Healing Water x 10: useful
+Healing Water x 20: useful
 Healing Water x 30: useful
 Healing Water x 40: useful
 Healing Water x 50: useful
@@ -270,10 +291,12 @@ Healing Water x 70: useful
 Healing Water x 80: useful
 Healing Water x 90: useful
 Hi-Potion x 10: filler
+Hi-Potion x 20: filler
 Hi-Potion x 30: filler
 Hi-Potion x 40: filler
 Hi-Potion x 50: filler
 Hi-Potion x 60: filler
+Hi-Potion x 70: filler
 Hi-Potion x 80: filler
 Holy Water x 10: filler
 Holy Water x 20: filler
@@ -319,6 +342,7 @@ Lightning Marble x 40: useful
 Lightning Marble x 50: useful
 Lightning Marble x 60: useful
 Lightning Marble x 70: useful
+Lightning Marble x 80: useful
 Lightning Marble x 90: useful
 Lunar Curtain x 10: useful
 Lunar Curtain x 20: useful
@@ -352,6 +376,7 @@ Mana Tablet x 60: useful
 Mana Tablet x 70: useful
 Mana Tablet x 80: useful
 Mana Tablet x 90: useful
+Mana Tonic x 10: useful
 Mana Tonic x 20: useful
 Mana Tonic x 30: useful
 Mana Tonic x 40: useful
@@ -370,7 +395,9 @@ Mega Phoenix x 60: filler
 Mega Phoenix x 70: filler
 Mega Phoenix x 80: filler
 Mega Phoenix x 90: filler
+Mega-Potion x 10: filler
 Mega-Potion x 30: filler
+Mega-Potion x 40: filler
 Mega-Potion x 50: filler
 Mega-Potion x 60: filler
 Mega-Potion x 80: filler
@@ -401,6 +428,7 @@ Party Member: Yojimbo: progression
 Party Member: Yuna: progression
 Petrify Grenade x 20: useful
 Petrify Grenade x 30: useful
+Petrify Grenade x 40: useful
 Petrify Grenade x 50: useful
 Petrify Grenade x 60: useful
 Petrify Grenade x 70: useful
@@ -468,7 +496,9 @@ Region: Thunder Plains: progression
 Region: Zanarkand Ruins: progression
 Remedy x 10: filler
 Remedy x 30: filler
+Remedy x 40: filler
 Remedy x 60: filler
+Remedy x 70: filler
 Remedy x 80: filler
 Remedy x 90: filler
 Rusty Sword: progression
@@ -510,6 +540,7 @@ Silver Hourglass x 80: useful
 Silver Hourglass x 90: useful
 Sleeping Powder x 10: useful
 Sleeping Powder x 20: useful
+Sleeping Powder x 30: useful
 Sleeping Powder x 40: useful
 Sleeping Powder x 50: useful
 Sleeping Powder x 60: useful
@@ -522,7 +553,9 @@ Smoke Bomb x 30: useful
 Smoke Bomb x 40: useful
 Smoke Bomb x 50: useful
 Smoke Bomb x 70: useful
+Smoke Bomb x 80: useful
 Smoke Bomb x 90: useful
+Soft x 10: filler
 Soft x 20: filler
 Soft x 30: filler
 Soft x 40: filler
@@ -540,6 +573,7 @@ Soul Spring x 60: useful
 Soul Spring x 70: useful
 Soul Spring x 80: useful
 Soul Spring x 90: useful
+Speed Distiller x 10: useful
 Speed Distiller x 20: useful
 Speed Distiller x 30: useful
 Speed Distiller x 40: useful
@@ -571,10 +605,12 @@ Stamina Tonic x 20: useful
 Stamina Tonic x 30: useful
 Stamina Tonic x 40: useful
 Stamina Tonic x 50: useful
+Stamina Tonic x 60: useful
 Stamina Tonic x 70: useful
 Stamina Tonic x 80: useful
 Stamina Tonic x 90: useful
 Star Curtain x 10: useful
+Star Curtain x 20: useful
 Star Curtain x 30: useful
 Star Curtain x 50: useful
 Star Curtain x 60: useful
@@ -638,6 +674,7 @@ Weapon (Auron): Murasame: useful
 Weapon (Auron): Stillblade: useful
 Weapon (Auron): Thunder Blade: useful
 Weapon (Kimahri): Dragoon Lance: useful
+Weapon (Kimahri): Hunter's Spear: useful
 Weapon (Kimahri): Ice Lance: useful
 Weapon (Kimahri): Knight Lance I: useful
 Weapon (Kimahri): Knight Lance II: useful
@@ -652,9 +689,11 @@ Weapon (Lulu): Sleepy Cait Sith: useful
 Weapon (Lulu): Wicked Cait Sith: useful
 Weapon (Rikku): Flexible Arm: useful
 Weapon (Rikku): Godhand: progression
+Weapon (Rikku): Infinity: useful
 Weapon (Rikku): Sonar: useful
 Weapon (Rikku): Warmonger: useful
 Weapon (Tidus): Ascalon: useful
+Weapon (Tidus): Avenger I: useful
 Weapon (Tidus): Avenger II: useful
 Weapon (Tidus): Brotherhood: progression
 Weapon (Tidus): Caladbolg: progression
@@ -665,6 +704,7 @@ Weapon (Tidus): Ice Brand: useful
 Weapon (Tidus): Variable Steel I: useful
 Weapon (Tidus): Variable Steel II: useful
 Weapon (Wakka): Ace Wizard: useful
+Weapon (Wakka): All-Rounder: useful
 Weapon (Wakka): Bright Armguard: useful
 Weapon (Wakka): Pep Talk: useful
 Weapon (Wakka): Prism Ball: useful
@@ -675,6 +715,7 @@ Weapon (Wakka): Turnover: useful
 Weapon (Wakka): Water Ball: useful
 Weapon (Wakka): World Champion: progression
 Weapon (Yuna): Laevatein: useful
+Weapon (Yuna): Mage's Staff: useful
 Weapon (Yuna): Magistral Rod: useful
 Weapon (Yuna): Nirvana: progression
 Withered Bouquet: progression
@@ -684,6 +725,7 @@ X-Potion x 30: filler
 X-Potion x 40: filler
 X-Potion x 50: filler
 X-Potion x 60: filler
+X-Potion x 70: filler
 X-Potion x 80: filler
 X-Potion x 90: filler
 [Ability Sphere] x 10: useful
@@ -730,13 +772,16 @@ X-Potion x 90: filler
 [Blk Magic Sphere] x 10: useful
 [Blk Magic Sphere] x 20: useful
 [Blk Magic Sphere] x 30: useful
+[Blk Magic Sphere] x 40: useful
 [Blk Magic Sphere] x 50: useful
 [Blk Magic Sphere] x 60: useful
+[Blk Magic Sphere] x 70: useful
 [Blk Magic Sphere] x 80: useful
 [Blk Magic Sphere] x 90: useful
 [Clear Sphere] x 10: useful
 [Clear Sphere] x 40: useful
 [Clear Sphere] x 50: useful
+[Clear Sphere] x 60: useful
 [Clear Sphere] x 70: useful
 [Clear Sphere] x 80: useful
 [Clear Sphere] x 90: useful
@@ -747,6 +792,7 @@ X-Potion x 90: filler
 [Defense Sphere] x 50: useful
 [Defense Sphere] x 60: useful
 [Defense Sphere] x 70: useful
+[Defense Sphere] x 80: useful
 [Defense Sphere] x 90: useful
 [Designer Wallet] x 10: useful
 [Designer Wallet] x 20: useful
@@ -759,10 +805,12 @@ X-Potion x 90: filler
 [Designer Wallet] x 90: useful
 [Door to Tomorrow] x 10: useful
 [Door to Tomorrow] x 20: useful
+[Door to Tomorrow] x 40: useful
 [Door to Tomorrow] x 50: useful
 [Door to Tomorrow] x 60: useful
 [Door to Tomorrow] x 70: useful
 [Door to Tomorrow] x 80: useful
+[Door to Tomorrow] x 90: useful
 [Evasion Sphere] x 10: useful
 [Evasion Sphere] x 20: useful
 [Evasion Sphere] x 30: useful
@@ -773,6 +821,7 @@ X-Potion x 90: filler
 [Evasion Sphere] x 80: useful
 [Evasion Sphere] x 90: useful
 [Fortune Sphere] x 10: useful
+[Fortune Sphere] x 20: useful
 [Fortune Sphere] x 30: useful
 [Fortune Sphere] x 40: useful
 [Fortune Sphere] x 50: useful
@@ -791,6 +840,7 @@ X-Potion x 90: filler
 [Friend Sphere] x 90: useful
 [Gambler's Spirit] x 10: useful
 [Gambler's Spirit] x 40: useful
+[Gambler's Spirit] x 50: useful
 [Gambler's Spirit] x 70: useful
 [Gambler's Spirit] x 80: useful
 [HP Sphere] x 10: useful
@@ -799,11 +849,14 @@ X-Potion x 90: filler
 [HP Sphere] x 40: useful
 [HP Sphere] x 50: useful
 [HP Sphere] x 60: useful
+[HP Sphere] x 70: useful
 [HP Sphere] x 80: useful
 [HP Sphere] x 90: useful
 [Hypello Potion] x 10: useful
+[Hypello Potion] x 20: useful
 [Hypello Potion] x 30: useful
 [Hypello Potion] x 40: useful
+[Hypello Potion] x 50: useful
 [Hypello Potion] x 60: useful
 [Hypello Potion] x 70: useful
 [Hypello Potion] x 80: useful
@@ -813,6 +866,7 @@ X-Potion x 90: filler
 [Luck Sphere] x 70: useful
 [Luck Sphere] x 80: useful
 [Luck Sphere] x 90: useful
+[Lv. 1 Key Sphere] x 10: useful
 [Lv. 1 Key Sphere] x 20: useful
 [Lv. 1 Key Sphere] x 30: useful
 [Lv. 1 Key Sphere] x 40: useful
@@ -842,6 +896,7 @@ X-Potion x 90: filler
 [Lv. 4 Key Sphere] x 20: useful
 [Lv. 4 Key Sphere] x 30: useful
 [Lv. 4 Key Sphere] x 40: useful
+[Lv. 4 Key Sphere] x 50: useful
 [Lv. 4 Key Sphere] x 60: useful
 [Lv. 4 Key Sphere] x 70: useful
 [Lv. 4 Key Sphere] x 80: useful
@@ -868,6 +923,7 @@ X-Potion x 90: filler
 [Magic Sphere] x 20: useful
 [Magic Sphere] x 30: useful
 [Magic Sphere] x 40: useful
+[Magic Sphere] x 50: useful
 [Magic Sphere] x 60: useful
 [Magic Sphere] x 70: useful
 [Magic Sphere] x 80: useful
@@ -890,6 +946,7 @@ X-Potion x 90: filler
 [Map] x 80: useful
 [Map] x 90: useful
 [Master Sphere] x 10: useful
+[Master Sphere] x 20: useful
 [Master Sphere] x 30: useful
 [Master Sphere] x 50: useful
 [Master Sphere] x 60: useful
@@ -903,6 +960,8 @@ X-Potion x 90: filler
 [Musk] x 60: useful
 [Musk] x 70: useful
 [Musk] x 80: useful
+[Musk] x 90: useful
+[Pendulum] x 10: useful
 [Pendulum] x 20: useful
 [Pendulum] x 30: useful
 [Pendulum] x 40: useful
@@ -957,6 +1016,7 @@ X-Potion x 90: filler
 [Special Sphere] x 50: useful
 [Special Sphere] x 60: useful
 [Special Sphere] x 70: useful
+[Special Sphere] x 80: useful
 [Special Sphere] x 90: useful
 [Speed Sphere] x 10: useful
 [Speed Sphere] x 20: useful
@@ -979,11 +1039,13 @@ X-Potion x 90: filler
 [Teleport Sphere] x 20: useful
 [Teleport Sphere] x 30: useful
 [Teleport Sphere] x 40: useful
+[Teleport Sphere] x 50: useful
 [Teleport Sphere] x 70: useful
 [Teleport Sphere] x 80: useful
 [Teleport Sphere] x 90: useful
 [Underdog's Secret] x 10: useful
 [Underdog's Secret] x 20: useful
+[Underdog's Secret] x 40: useful
 [Underdog's Secret] x 50: useful
 [Underdog's Secret] x 60: useful
 [Underdog's Secret] x 70: useful
@@ -1006,14 +1068,17 @@ X-Potion x 90: filler
 [Wht Magic Sphere] x 70: useful
 [Wht Magic Sphere] x 80: useful
 [Wht Magic Sphere] x 90: useful
+[Wings to Discovery] x 10: useful
 [Wings to Discovery] x 20: useful
 [Wings to Discovery] x 30: useful
 [Wings to Discovery] x 40: useful
+[Wings to Discovery] x 50: useful
 [Wings to Discovery] x 60: useful
 [Wings to Discovery] x 70: useful
 [Wings to Discovery] x 80: useful
 [Wings to Discovery] x 90: useful
 [Winning Formula] x 10: useful
+[Winning Formula] x 20: useful
 [Winning Formula] x 30: useful
 [Winning Formula] x 40: useful
 [Winning Formula] x 50: useful

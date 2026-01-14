@@ -3,6 +3,8 @@ ArmorCardboard: filler
 ArmorDiamond: filler
 ArmorThunderbox: filler
 ArmorWood: filler
+CircleKey (E1A10): progression
+CircleKey (E1A2): progression
 CircleKey (E1A3): progression
 CircleKey (E1A8): progression
 CircleKey (E2A4): progression
@@ -10,13 +12,16 @@ CircoolAid: filler
 CrescentRune (E2A10): progression
 CrescentRune (E2A12): progression
 CrescentRune (E2A9): progression
+CubeKey (E2A2): progression
 CubeKey (E2A3): progression
 CubeKey (E2A6): progression
 Defibrillator: progression
 DevilSphere: filler
+DiamondRune (E2A10): progression
 DiamondRune (E2A12): progression
 DiamondRune (E2A5): progression
 EnviroSuit: filler
+FactoryDisc (E1A8): progression
 FishTank: filler
 FizzoPop: filler
 FloppyDiskLaunchCode (E1A9): progression
@@ -27,6 +32,8 @@ HappySphere: filler
 HellShellLauncher: progression
 HexagonKey (E1A7): progression
 HexagonKey (E2A11): progression
+HexagonKey (E2A12): progression
+HolySphere: filler
 HotSauce: filler
 Level Access (E1A10): progression
 Level Access (E1A2): progression
@@ -36,17 +43,21 @@ Level Access (E1A5): progression
 Level Access (E1A6): progression
 Level Access (E1A7): progression
 Level Access (E1A8): progression
+Level Access (E1A9): progression
 Level Access (E2A10): progression
 Level Access (E2A11): progression
 Level Access (E2A2): progression
 Level Access (E2A3): progression
+Level Access (E2A4): progression
 Level Access (E2A5): progression
 Level Access (E2A6): progression
 Level Access (E2A7): progression
+Level Access (E2A8): progression
 Level Clear (E1A1): progression
 Level Clear (E1A2): progression
 Level Clear (E1A3): progression
 Level Clear (E1A4): progression
+Level Clear (E1A9): progression
 Level Clear (E2A1): progression
 Level Clear (E2A11): progression
 Level Clear (E2A3): progression
@@ -59,15 +70,19 @@ Powerzade: filler
 PyramidKey (E2A3): progression
 PyramidKey (E2A6): progression
 PyramidKey (E2A7): progression
+Quadcannon: progression
 RhombusKey (E1A7): progression
 Sceptre: progression
 SillySphere: filler
 SphereKey (E2A2): progression
+SphereKey (E2A3): progression
 SphereKey (E2A6): progression
 SquareBackpack: filler
 SquareKey (E1A10): progression
 SquareKey (E1A2): progression
 SquareKey (E1A4): progression
+SquareKey (E1A7): progression
+SquareKey (E1A8): progression
 SquareKey (E2A4): progression
 StarRune (E2A10): progression
 StarRune (E2A12): progression
@@ -77,4 +92,5 @@ TriangleKey (E1A10): progression
 TriangleKey (E1A3): progression
 TriangleKey (E1A4): progression
 TriangleKey (E1A5): progression
+TriangleKey (E1A7): progression
 TriangleKey (E1A8): progression

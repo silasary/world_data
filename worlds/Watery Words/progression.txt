@@ -24,7 +24,7 @@ T: progression
 U: progression
 V: progression
 W: progression
-X: unknown
+X: trap|progression
 Y: useful
 Z: trap|progression
 ×2L 0,0: progression
@@ -51,7 +51,7 @@ Z: trap|progression
 ×2L 3,3: progression
 ×2L 4,10: unknown
 ×2L 4,4: unknown
-×2L 5,13: unknown
+×2L 5,13: progression
 ×2L 5,1: progression
 ×2L 5,5: unknown
 ×2L 5,9: progression
@@ -103,7 +103,9 @@ Z: trap|progression
 ×2W 7,13: progression
 ×2W 7,1: useful
 ×2W 8,0: progression
-×2W 9,5: unknown
+×2W 8,14: progression
+×2W 9,13: progression
+×2W 9,5: progression
 ×2W 9,9: progression
 ×3L 0,0: unknown
 ×3L 0,14: useful
@@ -151,6 +153,7 @@ Z: trap|progression
 ×3W 12,10: progression
 ×3W 12,2: unknown
 ×3W 12,4: useful
+×3W 13,13: progression
 ×3W 14,0: useful
 ×3W 14,14: useful
 ×3W 14,6: progression

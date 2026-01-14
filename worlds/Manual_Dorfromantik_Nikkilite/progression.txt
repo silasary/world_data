@@ -13,6 +13,7 @@ Gold Heart: progression
 Grain Task Marker - 4: progression
 Grain Task Marker - 5: progression
 Grain Task Marker - 6: progression
+Grain Tunnel: progression
 Harbor: progression
 Red Heart: progression
 Signalman: progression
@@ -22,6 +23,8 @@ Stream Task Marker - 6: progression
 Track Task Marker - 4: unknown
 Track Task Marker - 5: progression
 Track Task Marker - 6: progression
+Train Station: progression
+Village Task Marker - 4: progression
 Village Task Marker - 5: progression
 Village Task Marker - 6: progression
 Village Tunnel: progression

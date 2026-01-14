@@ -16,10 +16,12 @@ Progressive brt_industry_basic: progression
 Progressive brt_industry_extra: progression
 Progressive brt_legendary_port: progression
 Progressive brt_port: progression
+Progressive brt_resource_animals: progression
 Progressive brt_resource_dyes: progression
 Progressive brt_resource_furs: progression
 Progressive brt_resource_gemstones: progression
 Progressive brt_resource_gold: progression
+Progressive brt_resource_ivory: progression
 Progressive brt_resource_marble: progression
 Progressive brt_resource_medicine: progression
 Progressive brt_resource_obsidian: progression
@@ -237,6 +239,7 @@ wh2_dlc09_anc_weapon_inscribed_khopesh: unknown
 wh2_dlc09_anc_weapon_spear_of_pakth: unknown
 wh2_dlc09_payload_dilemma_soulless_sphinx_first: unknown
 wh2_dlc09_ritual_crafting_tmb_army_capacity_16: unknown
+wh2_dlc09_the_blessed_blade_of_ptra_reward_2: filler
 wh2_dlc10_anc_arcane_item_scroll_of_blast: unknown
 wh2_dlc10_anc_weapon_the_widowmaker_3: filler
 wh2_dlc11_bundle_stance_flagship_patrol: filler
@@ -254,6 +257,7 @@ wh2_dlc12_ikit_workshop_poison_wind_mortar_0: progression
 wh2_dlc12_ikit_workshop_warpfire_part_2: unknown
 wh2_dlc12_tech_brt_chivalry_start: progression
 wh2_dlc12_tech_brt_heraldry_oversea_dwf: progression
+wh2_dlc12_tech_brt_heraldry_oversea_men: progression
 wh2_dlc12_tech_brt_heraldry_oversea_tmb: progression
 wh2_dlc12_tech_brt_heraldry_oversea_wef: progression
 wh2_dlc13_anc_arcane_item_amplifier: unknown
@@ -262,6 +266,7 @@ wh2_dlc15_anc_weapon_star_lance: unknown
 wh2_dlc15_hef_dungeon_mistwalker_upgrade_greenskins: unknown
 wh2_dlc15_special_settlement_massif_orcal_brt_2: progression
 wh2_dlc15_special_settlement_massif_orcal_brt_3: progression
+wh2_dlc15_special_settlement_massif_orcal_brt_4: progression
 wh2_dlc15_special_settlement_massif_orcal_brt_5: progression
 wh2_dlc16_bundle_ritual_wef_rebirth_ongoing_jungles_of_chian: unknown
 wh2_dlc16_wef_mon_giant_spiders_0: unknown
@@ -287,6 +292,7 @@ wh2_main_brt_resource_dyes_3: progression
 wh2_main_brt_resource_furs_2: progression
 wh2_main_brt_resource_furs_3: progression
 wh2_main_brt_resource_gemstones_2: progression
+wh2_main_brt_resource_gemstones_3: progression
 wh2_main_brt_resource_gold_2: progression
 wh2_main_brt_resource_gold_3: progression
 wh2_main_brt_resource_marble_2: progression
@@ -303,6 +309,7 @@ wh2_main_brt_resource_salt_2: progression
 wh2_main_brt_resource_salt_3: progression
 wh2_main_brt_resource_spices_2: progression
 wh2_main_brt_resource_spices_3: progression
+wh2_main_brt_resource_timber_2: progression
 wh2_main_brt_resource_timber_3: progression
 wh2_main_brt_resource_wine_2: progression
 wh2_main_brt_resource_wine_3: progression
@@ -319,6 +326,7 @@ wh2_pro08_anc_weapon_felix_sword: filler
 wh3_dlc20_bundle_chs_authority_tzeentch_6: unknown
 wh3_dlc20_bundle_chs_authority_tzeentch_8: filler
 wh3_dlc20_bundle_stance_army_encampment_festus: unknown
+wh3_dlc20_climate_unsuitable_temperate: filler
 wh3_dlc20_payload_dilemma_dicovered_ritual_khorne_first: unknown
 wh3_dlc23_anc_armour_lesser_relic_of_skavor: filler
 wh3_dlc23_anc_talisman_major_relic_of_grimnir: unknown
@@ -402,12 +410,13 @@ wh3_main_bundle_corruption_khorne_good_1-10: unknown
 wh3_main_bundle_corruption_khorne_good_71-80: unknown
 wh3_main_bundle_corruption_slaanesh_bad_41-50: unknown
 wh3_main_bundle_daemon_prince_soul_ogr: unknown
+wh3_main_bundle_daemon_prince_soul_sla: filler
 wh3_main_bundle_lock_recruitment_wh3_main_kho_mon_bloodthirster_0: filler
 wh3_main_corruption_slaanesh_cult_of_pleasure_71-80: unknown
 wh3_main_dilemma_dae_8_second: filler
 wh3_main_dilemma_ksl_1_first: unknown
 wh3_main_incident_kho_9: unknown
-wh3_main_incident_nur_4: unknown
+wh3_main_incident_nur_4: filler
 wh3_main_ksl_cav_gryphon_legion_0: unknown
 wh3_main_ksl_cav_horse_archers_0: unknown
 wh3_main_ksl_cav_war_bear_riders_1: unknown
@@ -451,6 +460,7 @@ wh_dlc05_tech_1_kurnous: progression
 wh_dlc05_tech_1_ladrielle: progression
 wh_dlc05_tech_1_lileath: progression
 wh_dlc05_tech_1_loec: progression
+wh_dlc05_tech_1_the_ancients: progression
 wh_dlc05_tech_1_vaul: progression
 wh_dlc05_tech_2_addaioth: progression
 wh_dlc05_tech_2_anath_raema: progression
@@ -466,6 +476,7 @@ wh_dlc05_tech_2_hukon: progression
 wh_dlc05_tech_2_khaine: progression
 wh_dlc05_tech_2_mathlann: progression
 wh_dlc05_tech_2_morai_heg: progression
+wh_dlc05_tech_2_nethu: progression
 wh_dlc07_brt_art_blessed_field_trebuchet_0: progression
 wh_dlc07_brt_cav_grail_guardians_0: progression
 wh_dlc07_brt_cav_knights_errant_0: progression
@@ -485,6 +496,8 @@ wh_dlc07_tech_brt_chivalry_skaven: progression
 wh_dlc07_tech_brt_chivalry_tomb_kings: progression
 wh_dlc07_tech_brt_chivalry_vampires_1: progression
 wh_dlc07_tech_brt_chivalry_wood_elves_1: progression
+wh_dlc07_tech_brt_economy_farm_1: progression
+wh_dlc07_tech_brt_economy_farm_2: progression
 wh_dlc07_tech_brt_economy_farm_3: progression
 wh_dlc07_tech_brt_economy_farm_4: progression
 wh_dlc07_tech_brt_economy_farm_farriers: progression
@@ -494,6 +507,7 @@ wh_dlc07_tech_brt_economy_industry_1: progression
 wh_dlc07_tech_brt_economy_industry_2: progression
 wh_dlc07_tech_brt_economy_industry_3: progression
 wh_dlc07_tech_brt_economy_industry_4: progression
+wh_dlc07_tech_brt_economy_industry_mines: progression
 wh_dlc07_tech_brt_economy_industry_pottery: progression
 wh_dlc07_tech_brt_economy_industry_start: progression
 wh_dlc07_tech_brt_economy_industry_steel: progression
@@ -506,12 +520,15 @@ wh_dlc07_tech_brt_economy_other_4: progression
 wh_dlc07_tech_brt_economy_other_carpenters: progression
 wh_dlc07_tech_brt_economy_other_draft: progression
 wh_dlc07_tech_brt_economy_other_fanaticism: progression
+wh_dlc07_tech_brt_economy_other_fletchers: progression
 wh_dlc07_tech_brt_economy_other_siege: progression
+wh_dlc07_tech_brt_economy_other_spears: progression
 wh_dlc07_tech_brt_economy_other_tithes: progression
 wh_dlc07_tech_brt_economy_start: progression
 wh_dlc07_tech_brt_economy_trade_1: progression
 wh_dlc07_tech_brt_economy_trade_2: progression
 wh_dlc07_tech_brt_heraldry_artois: progression
+wh_dlc07_tech_brt_heraldry_bastonne: progression
 wh_dlc07_tech_brt_heraldry_bretonnia: progression
 wh_dlc07_tech_brt_heraldry_carcassonne: progression
 wh_dlc07_tech_brt_heraldry_errantry: progression
@@ -550,7 +567,9 @@ wh_main_anc_weapon_biting_blade: filler
 wh_main_anc_weapon_shrieking_blade: filler
 wh_main_anc_weapon_sword_of_bloodshed: unknown
 wh_main_anc_weapon_sword_of_striking: unknown
+wh_main_brt_art_field_trebuchet: progression
 wh_main_brt_barracks_3: progression
+wh_main_brt_barracks_4: progression
 wh_main_brt_carpenter_2: progression
 wh_main_brt_cav_grail_knights: progression
 wh_main_brt_cav_knights_of_the_realm: progression
@@ -569,6 +588,7 @@ wh_main_brt_legendary_port_3: progression
 wh_main_brt_port_2: progression
 wh_main_brt_port_3: progression
 wh_main_brt_settlement_major_2: progression
+wh_main_brt_settlement_major_4: progression
 wh_main_brt_settlement_major_5: progression
 wh_main_brt_settlement_minor_3: progression
 wh_main_brt_smiths_2: progression
@@ -580,5 +600,6 @@ wh_main_brt_tavern_2: progression
 wh_main_brt_tavern_3: progression
 wh_main_brt_tavern_4: progression
 wh_main_brt_walls_3: progression
+wh_main_brt_worship_3: progression
 wh_main_payload_event_the_eye_opens_second: unknown
 wh_main_payload_morale_army: unknown

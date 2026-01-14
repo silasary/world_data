@@ -6,10 +6,13 @@ Class 1-2 Friends: progression
 Class 1-3 Friends: progression
 Class 1-4 Friends: progression
 Class 1-5 Friends: progression
+Class 1-6 Friends: progression
 Class 1-7 Friends: progression
 Class 2-1 Friends: progression
 Class 2-2 Friends: progression
 Class 2-3 Friends: progression
+Class 2-5 Friends: progression
+Class 2-6 Friends: progression
 Class 2-7 Friends: progression
 Class 3-1 Friends: progression
 Class 3-2 Friends: progression
@@ -18,11 +21,16 @@ Class 3-4 Friends: progression
 Class 3-5 Friends: progression
 Class 3-6 Friends: progression
 Class 3-7 Friends: progression
+Cold Clarity: useful
+Crimson Tears: useful
 Ecstatic High: useful
 Eiji Biwasaka: progression
+Explosive Loader: useful
 Fanatic Eye: useful
+Field Clearance: useful
 Forged ID: progression
 Friendship Remnants: mcguffin
+Frozen Heart: useful
 Gleeful Sadism: useful
 Greed Discord: useful
 Heal Virtue: useful
@@ -30,18 +38,23 @@ Heal: useful
 Hot Spring Vacation Package: progression
 Ike-P: progression
 Izuru Minezawa: progression
+Kensuke Hibiki: progression
 Kotaro Tomoe: progression
 Kuchinashi: progression
 Library Card: progression
 Mall Membership: progression
 Mifue Shinohara: progression
 Mirei: progression
+Misery: useful
+Mother's Mercy: useful
+Motion Binder: useful
 Naruko Morita: progression
 Night Terrors: useful
 Old School Key: progression
 Poison Rain: useful
 Progressive Aerial Rave: useful
 Progressive Ailurus Fulgens: useful
+Progressive Alexander: useful
 Progressive Amaretto: useful
 Progressive Angel's Descent: useful
 Progressive Balalaika: useful
@@ -49,17 +62,23 @@ Progressive Bellini: useful
 Progressive Blissful Ignorance: useful
 Progressive Borderline Of Love: useful
 Progressive Boring Rain: useful
+Progressive Bottom Line Landmine: useful
 Progressive Brain Strike: useful
 Progressive Brazen Bull: useful
+Progressive Break Impact: useful
+Progressive Broken Faith: useful
 Progressive Bull's Eye: useful
 Progressive Carnage Of Despair: useful
 Progressive Carol: useful
 Progressive Catherine Wheel: useful
 Progressive Chain Trigger: useful
+Progressive Clustered Ego: useful
 Progressive Criminal Embryo: useful
 Progressive Crimson Moon: useful
 Progressive Crown Of Judgement: useful
 Progressive Crushing Stomp: useful
+Progressive Dancing Flames: useful
+Progressive Dark Pace: useful
 Progressive Difficulty Decrease: useful
 Progressive Disruption Trigger: useful
 Progressive Dove Striker: useful
@@ -67,10 +86,12 @@ Progressive Dragon Storm: useful
 Progressive Draw A Bead: useful
 Progressive Drunkard's Cloak: useful
 Progressive Dual Trigger: useful
+Progressive Dynamite Extradite: useful
 Progressive Elegy: useful
 Progressive Emancipation Detonation: useful
 Progressive Envious Javelin: useful
 Progressive Eternal Garden: useful
+Progressive Face Palm Cluster Bomb: useful
 Progressive Fairy Shot: useful
 Progressive Falling Sun: useful
 Progressive Filled With Beauty: useful
@@ -82,6 +103,7 @@ Progressive Fractal Splitter: useful
 Progressive Gatling Combo: useful
 Progressive Get In There!: useful
 Progressive Get On With It!: useful
+Progressive Gimlet: useful
 Progressive Glaucus: useful
 Progressive Greed Raid: useful
 Progressive Grenade Cascade: useful
@@ -90,8 +112,10 @@ Progressive Ground Strike: useful
 Progressive Gunslinger: useful
 Progressive Halifax Gibbet: useful
 Progressive Haymaker: useful
+Progressive Heart Of Loneliness: useful
 Progressive Heartbreaker: useful
 Progressive Heat Rush: useful
+Progressive Heavenly Wind: useful
 Progressive Here I Go I Guess: useful
 Progressive Hunting Arrow: useful
 Progressive Hypselodoris: useful
@@ -112,7 +136,9 @@ Progressive Lust Stinger: useful
 Progressive Maria's Kiss: useful
 Progressive Matador: useful
 Progressive Matrix Piercer: useful
+Progressive Mimosa: useful
 Progressive Moonbeam: useful
+Progressive Munition Magician: useful
 Progressive Nevermore Blade: useful
 Progressive Panic Room: useful
 Progressive Pendulum: useful
@@ -125,11 +151,14 @@ Progressive Raid Dump: useful
 Progressive Rebellion Trigger: useful
 Progressive Reckless Roundhouse: useful
 Progressive Risk-Reward Ratio: useful
+Progressive Ritual Of Decay: useful
 Progressive Royal Asphyxiation: useful
+Progressive Rusty Nail: useful
 Progressive Sacrament: useful
 Progressive Shadow Pierce: useful
 Progressive Shadows Of The Night: useful
 Progressive Shining Uppercut: useful
+Progressive Sloth Slicer: useful
 Progressive Spectral Thunder: useful
 Progressive Stealth Round: useful
 Progressive Striking Pierce: useful
@@ -139,7 +168,9 @@ Progressive Sweet Time: useful
 Progressive Sweetheart Shot: useful
 Progressive Teeming Lib: useful
 Progressive Traumerei: useful
+Progressive Twin Veil: useful
 Progressive Ultraviolent: useful
+Progressive Unguiculatus: useful
 Progressive Valkyrie Limit: useful
 Progressive Variant Stinger: useful
 Progressive Vintage Strike: useful
@@ -155,6 +186,7 @@ Shadow Knife: progression
 Shogo Satake: progression
 Shonen-Doll: progression
 Shopping Coupon: progression
+Single Soul: useful
 Soul Refresh: useful
 Stork: progression
 Suzuna Kagura: progression
@@ -165,4 +197,5 @@ Theme Park Ticket: progression
 Thorn: progression
 Train Ticket: progression
 Wallflower: useful
+Way Of The Hermit: useful
 Wicked: progression

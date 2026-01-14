@@ -20,7 +20,7 @@ BossDamage2: useful
 CritChance1: useful
 CritDamage1: useful
 CritDamage2: useful
-CryptoLevel: unknown
+CryptoLevel: filler
 CryptoMine: progression
 Damage1: useful
 Damage2: useful
@@ -69,15 +69,26 @@ MovingPulserAttackSpeed1: useful
 MovingPulserSize1: filler
 MovingPulserSize2: filler
 MovingPulserSpeed1: filler
-NodeBoost1: unknown
+NodeBoost1: useful
 NodeFinder1: progression
 PickupRadius1: useful
-Progressive Armor: unknown
+Progressive Additional Damage: progression
+Progressive Armor: progression
+Progressive Blue Milestone Reward: filler
+Progressive Blue Spawn: progression
+Progressive Boss Armor: progression
+Progressive Boss Damage: progression
+Progressive Critical Damage: progression
+Progressive Damage Per Second: progression
 Progressive Damage: useful
-Progressive Health: unknown
-Progressive Infinity: unknown
-Progressive Regen: unknown
-Progressive SpawnRate: unknown
+Progressive Health: progression
+Progressive Infinity: progression
+Progressive Lifesteal: progression
+Progressive Red Milestone Reward: filler
+Progressive Regen: progression
+Progressive SpawnRate: useful
+Progressive Yellow Milestone Reward: filler
+Progressive Yellow Spawn: progression
 PulseBoltCount1: useful
 PulseBoltCount2: useful
 PulseBoltDamage1: useful

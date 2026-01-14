@@ -1,3 +1,4 @@
+10x Game Speed: trap
 Aloe Aqua: progression
 Amp-nion: unknown
 Bamblock: progression
@@ -7,12 +8,12 @@ Bonus Sun: filler
 Bug Spray: filler
 Burger Blaster: progression
 Cabbage-pult: progression
-Cactus: unknown
+Cactus: progression
 Cattail Girl: unknown
 Cattail: progression
 Cherry Bomb: progression
 Chomper: progression
-Chrysanctum: unknown
+Chrysanctum: progression
 Cob Cannon: progression
 Coldsnap Bean: progression
 Day Access: unknown
@@ -44,7 +45,7 @@ Marigold: progression
 Melon-pult: progression
 Neko Squash: unknown
 Night Access: progression
-Pearmafrost: unknown
+Pearmafrost: progression
 Peashooter: unknown
 Phonograph: filler
 Plant Giftbox: useful
@@ -54,6 +55,7 @@ Puff-shroom: progression
 Pumpkin: progression
 Queen Endoflame: progression
 Roof Access: progression
+Rough Economy: trap
 Saw-me-not: progression
 Scaredy-shroom: unknown
 Sea-shroom: progression
@@ -64,7 +66,7 @@ Snow Access: progression
 Snow Lotus: unknown
 Spikerock: progression
 Spikeweed: progression
-Spruce Ballista: unknown
+Spruce Ballista: progression
 Spruce Sharpshooter: progression
 Squash: progression
 Star Meteor: filler
@@ -77,7 +79,11 @@ The Fog is Coming: trap
 Threepeater: progression
 Torchwood: progression
 Umbrella Leaf: progression
+Vasebreaker Access: filler
+Wall-nut Billiards: progression
 Wall-nut: progression
 Watering Can: filler
 Wheelbarrow: filler
 Zen Garden Plant: filler
+Zombie Giftbox: useful
+Zombie Meteor: trap

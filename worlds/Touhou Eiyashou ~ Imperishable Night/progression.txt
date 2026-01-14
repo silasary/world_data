@@ -171,6 +171,7 @@
 169 - Impossible Request "Bullet Branch of Hourai -Rainbow Danmaku-": progression
 170 - Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-": progression
 171 - Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-": progression
+172 - End of Imperishable Night -New Moon-: progression
 173 - End of Imperishable Night -Crescent Moon-: filler
 174 - End of Imperishable Night -1st Quarter's Moon-: filler
 175 - End of Imperishable Night -Matsuyoi-: progression
@@ -189,12 +190,22 @@
 188 - End of Imperishable Night -Morning Mist-: progression
 189 - End of Imperishable Night -Dawn-: progression
 190 - End of Imperishable Night -Morning Star-: progression
+193 - Reincarnation "Ichijou Returning Bridge": progression
 195 - Statute of Limitations "Curse of Tsuki no Iwakasa": progression
 196 - Undying "Fire Bird -Feng Wing Ascension-": progression
+197 - Fujiwara "Wounds of Metsuzai Temple": progression
+200 - Hollow Being "Wu": progression
+206 - "Unseasonal Butterfly Storm": progression
+208 - "Emperor of the Land of the Rising Sun": progression
+209 - "Stare of the Hazy Phantom Moon (Lunatic Red Eyes)": progression
+210 - "Heaven Spider's Butterfly-Capturing Web": progression
 212 - "Phoenix Rebirth": progression
+214 - "Total Purification": progression
+215 - "Fantasy Nature": progression
 217 - "Deflation Star": progression
+219 - "The Phantom of the Grand Guignol": progression
 221 - "Saigyouji Parinirvana": progression
-Aria of Forbidden Magic Team: unknown
+Aria of Forbidden Magic Team: progression
 Brilliant Dragon Bullet: progression
 Buddhist Diamond: progression
 Illusionary Barrier Team: progression
@@ -217,7 +228,7 @@ Visionary Scarlet Devil Team: progression
 [Devil Team] Stage 5: progression
 [Devil Team] Stage 6A: progression
 [Devil Team] Stage 6B: progression
-[Illusion Team] Extra Stage: unknown
+[Illusion Team] Extra Stage: progression
 [Illusion Team] Stage 2: progression
 [Illusion Team] Stage 3: progression
 [Illusion Team] Stage 4A: progression
@@ -240,7 +251,18 @@ Visionary Scarlet Devil Team: progression
 [Nether Team] Stage 4B: progression
 [Nether Team] Stage 5: progression
 [Nether Team] Stage 6B: progression
+[Reimu] Stage 3: progression
+[Reimu] Stage 4A: progression
+[Reimu] Stage 5: progression
+[Reimu] Stage 6A: progression
+[Remilia] Stage 3: progression
+[Remilia] Stage 6A: progression
 [Sakuya] Stage 3: progression
+[Sakuya] Stage 5: progression
+[Sakuya] Stage 6A: progression
+[Solo] Extra Stage: progression
+[Youmu] Stage 3: progression
+[Yukari] Stage 3: progression
 [Yukari] Stage 4B: progression
 [Yukari] Stage 5: progression
 [Yuyuko] Stage 3: progression

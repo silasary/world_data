@@ -173,13 +173,16 @@ Weapon:Canyon Pole: unknown
 Weapon:Circus Pole: filler
 Weapon:Cosmic Pole: filler
 Weapon:Cryptic Torch: progression
+Weapon:Dark Hammer Ammo Boost: filler
 Weapon:Dark Hammer: progression
 Weapon:Digital Pole: filler
 Weapon:Doom Pole: filler
+Weapon:Egg Bazooka Ammo Boost: filler
 Weapon:Egg Bazooka: progression
 Weapon:Egg Gun: progression
 Weapon:Egg Spear: progression
 Weapon:Egg Vacuum: progression
+Weapon:Flash Shot Ammo Boost: filler
 Weapon:Flash Shot: progression
 Weapon:Fleet Pole: filler
 Weapon:Fortress Pole: filler
@@ -187,6 +190,7 @@ Weapon:Gadget Pole: filler
 Weapon:Gatling Gun: progression
 Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: filler
+Weapon:Heal Cannon Ammo Boost: filler
 Weapon:Heal Cannon: progression
 Weapon:Heavy Machine Gun: useful
 Weapon:Heavy Shot: progression
@@ -211,6 +215,7 @@ Weapon:Semi Automatic Rifle: progression
 Weapon:Shadow Rifle: progression
 Weapon:Sky Pole: filler
 Weapon:Speed Limit Sign: filler
+Weapon:Splitter Ammo Boost: filler
 Weapon:Splitter: progression
 Weapon:Stop Sign: filler
 Weapon:Sub Machine Gun: progression
@@ -218,6 +223,7 @@ Weapon:Survival Knife: progression
 Weapon:Tank Cannon: progression
 Weapon:Vacuum Pod: progression
 Weapon:Wide Worm Shooter: progression
+Weapon:Worm Shooter Ammo Boost: filler
 Weapon:Worm Shooter: progression
 Westopolis Alien: progression
 Westopolis Soldier: progression

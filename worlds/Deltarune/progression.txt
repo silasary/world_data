@@ -1,3 +1,4 @@
+1 Dark Dollar: filler
 40 Dark Dollars: filler
 40 Gold: filler
 Amber Card: useful
@@ -9,6 +10,8 @@ Broken Key A: progression
 Broken Key B: useful
 Broken Key C: progression
 BrokenCake: progression
+BrokenSwd: filler
+ButJuice: filler
 Castle Key: progression
 Castle Warp: progression
 ChocDiamond: filler
@@ -18,16 +21,22 @@ Dark Candy: filler
 Darkburger: filler
 DevilsKnife: useful
 Dice Brace: useful
+DogDollar: filler
 Door Key: useful
 Egg: filler
+FiberScarf: useful
 Fields Key: useful
 Fields Warp: filler
 Forest Key: progression
 Forest Warp: progression
+FrayedBowtie: filler
+GlowWrist: progression
 Glowshard: filler
+Great Door Key: progression
 HeartsDonut: filler
 IronShackle: useful
 JevilsTail: useful
+King Chess Piece: progression
 King-Shaped Key Piece: progression
 LancerCookie: filler
 Manual: progression
@@ -36,5 +45,7 @@ ReviveMint: useful
 ShadowCrystal: progression
 Spincake: useful
 Spookysword: useful
+TensionBow: useful
 Top Cake: filler
+Twin Ribbon: useful
 White Ribbon: useful
