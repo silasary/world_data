@@ -15,7 +15,8 @@ Black Crystal 4: filler
 Black Crystal 5: filler
 Black Stone 1: filler
 Black Stone 2: unknown
-Black Stone 4: unknown
+Black Stone 4: filler
+Black Stone 5: filler
 Black Stone 6: unknown
 Blue Stone 1: unknown
 Blue Stone 4: filler
@@ -39,6 +40,7 @@ Catapult's Card 6: unknown
 Catapult's Card 7: filler
 Critical's Card 2: filler
 Critical's Card 3: filler
+Critical's Card 4: filler
 Critical's Card 5: unknown
 Critical's Card 6: filler
 Critical's Card 7: filler
@@ -49,6 +51,7 @@ Diamond 5: filler
 Diamond 6: useful
 Emerald 1: filler
 Emerald 3: filler
+Emerald 5: filler
 Emerald 7: unknown
 Explosion's Card 4: filler
 Fire Spirit 1: filler
@@ -76,6 +79,7 @@ Guide's Card 3: filler
 Guide's Card 5: filler
 Guide's Card 6: unknown
 Heal's Card 1: unknown
+Heal's Card 2: filler
 Ice Charm 4: useful
 Ice Spirit 1: unknown
 Ice Spirit 2: filler
@@ -83,15 +87,19 @@ Ice Spirit 3: filler
 Iron Medal 2: unknown
 Iron Medal 3: filler
 Iron Medal 6: unknown
+Katana's Card 7: filler
 Kill a Ranger: trap
 Knockback's Card 1: filler
 Knockback's Card 2: filler
 Long Sword's Card 3: unknown
 Long Sword's Card 6: useful
 Long Sword's Card 7: useful
+Napalm bomb: filler
 ONIGIRI's Card: filler
+Peridot 2: filler
 Peridot 4: filler
 Peridot 5: filler
+Peridot 6: filler
 Peridot 7: unknown
 Pierce's Card 1: unknown
 Pierce's Card 3: unknown
@@ -99,13 +107,14 @@ Pierce's Card 4: unknown
 Poison Charm 1: filler
 Poison Charm 2: filler
 Poison Charm 3: filler
-Poison Charm 4: unknown
+Poison Charm 4: filler
 Poison Spirit: filler
 Purple Crystal 4: filler
 Purple Crystal 5: filler
 Purple Crystal 6: unknown
 Purple Crystal 7: filler
 Quick's Card 1: unknown
+Quick's Card 3: filler
 Quick's Card 4: filler
 Quick's Card 7: filler
 Red Crystal 1: unknown
@@ -135,14 +144,15 @@ Sapphire 7: useful
 Silver Crystal 2: unknown
 Silver Crystal 3: filler
 Silver Crystal 5: useful
-Silver Crystal 6: unknown
+Silver Crystal 6: filler
 Silver Crystal 7: unknown
 Silver Medal 1: filler
 Silver Medal 3: unknown
+Silver Medal 4: filler
 Silver Medal 5: filler
 Silver Medal 7: unknown
 Spawn enemies: trap
-Thunder Spirit 2: unknown
+Thunder Spirit 2: filler
 Thunder Spirit 3: filler
 Thunder Spirit 4: filler
 Topaz 1: unknown
@@ -155,7 +165,7 @@ Unlock Beach 1: unknown
 Unlock Beach 2: progression
 Unlock Beach 3: progression
 Unlock Beach 4: progression
-Unlock Blood Lake: unknown
+Unlock Blood Lake: progression
 Unlock Boxer Class: unknown
 Unlock Castle Gate: progression
 Unlock Castle: progression
@@ -164,7 +174,7 @@ Unlock Cavern 2: progression
 Unlock Cavern 3: progression
 Unlock Cavern 4: progression
 Unlock Cavern 5: progression
-Unlock Cavern 6: unknown
+Unlock Cavern 6: progression
 Unlock Cavern 7: progression
 Unlock Cavern 8: progression
 Unlock Desert 1: progression
@@ -179,7 +189,7 @@ Unlock Forest 1: progression
 Unlock Forest 2: progression
 Unlock Forest 3: progression
 Unlock Forest 4: progression
-Unlock Forest 5: unknown
+Unlock Forest 5: progression
 Unlock Forest 6: progression
 Unlock Forget Tree: useful
 Unlock Frozen Lake: progression
@@ -218,7 +228,7 @@ Unlock Mist Grove 3: progression
 Unlock Mountain 1: progression
 Unlock Mountain 2: progression
 Unlock Mountaintop: progression
-Unlock Oasis: unknown
+Unlock Oasis: progression
 Unlock Priest Class: progression
 Unlock Pyramid: progression
 Unlock Resort: useful
@@ -231,14 +241,14 @@ Unlock Snowfield 2: progression
 Unlock Snowfield 3: progression
 Unlock Snowfield 4: progression
 Unlock Snowfield 5: progression
-Unlock Snowfield 6: unknown
+Unlock Snowfield 6: progression
 Unlock Snowfield 7: progression
 Unlock Snowfield 8: progression
 Unlock Snowfield 9: progression
 Unlock Submarine 1: progression
 Unlock Submarine 2: progression
-Unlock Submarine 3: unknown
-Unlock Submarine 4: unknown
+Unlock Submarine 3: progression
+Unlock Submarine 4: progression
 Unlock Submarine Shrine: progression
 Unlock Village: useful
 Unlock Volcano: progression
@@ -287,10 +297,11 @@ freeze exp staff: filler
 freeze explosion: unknown
 freeze glove: unknown
 freeze knuckle: filler
-freeze whip: unknown
+freeze whip: filler
 frozen sword: filler
 giga exp rod: filler
 grenade: filler
+gun: filler
 hell fire shot: filler
 high light staff: unknown
 homing laser beam: unknown
@@ -305,9 +316,11 @@ ice circle: filler
 ice flail: unknown
 ice god: filler
 ice meteor: filler
+ice missile: filler
 ice spike: unknown
 ice sword: filler
 ice whip: filler
+inferno rod: filler
 inferno: filler
 iron chain: unknown
 iron flail: filler
@@ -322,6 +335,7 @@ long silver staff: unknown
 long staff: filler
 long sword: filler
 mach cestus: unknown
+mach punch: filler
 magnum: filler
 mega exp staff: unknown
 micro uzi: unknown
@@ -334,6 +348,7 @@ nonuple shot: filler
 oct arrow: filler
 oct poison: filler
 permafrost: filler
+pierce homing: filler
 poison arrow: unknown
 poison cestus: unknown
 poison claw: unknown
@@ -351,6 +366,7 @@ power rod: filler
 pyramid arrow: filler
 pyroclastic flow: filler
 quad arrow: unknown
+quad iron arrow: filler
 quad steel arrow: filler
 quick chakram: unknown
 quick circle: filler
@@ -362,7 +378,7 @@ sept shot: unknown
 slow laser gun: unknown
 sniper rifle: unknown
 sonic cestus: filler
-sonic knuckle: unknown
+sonic knuckle: filler
 spark cestus: filler
 spark claw: filler
 staff of flame: unknown
@@ -388,6 +404,7 @@ thunder blade: filler
 thunder cestus: filler
 thunder chain: filler
 thunder chakram: filler
+thunder circle: filler
 thunder claw: filler
 thunder god: filler
 thunder ms: filler

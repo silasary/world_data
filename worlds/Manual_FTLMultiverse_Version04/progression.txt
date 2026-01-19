@@ -17,6 +17,7 @@ AUG COMBAT_SHIELDS_JAMMER: useful
 AUG COMBAT_WARP_JAMMER: filler
 AUG COMBAT_WEAPON_JAMMER: useful
 AUG CRYSTAL_ARMOR: useful
+AUG CURA_SURGES_DAMAGE: useful
 AUG CURA_SURGES_DRONES: useful
 AUG EMERGENCY_DRIVE: filler
 AUG ENERGY_SHIELD: useful
@@ -33,6 +34,7 @@ AUG PANDORA_BOX: trap
 AUG REGEN_ARMOR: useful
 AUG REPAIR_HULL: useful
 AUG SOLAR_PANELS: filler
+AUG SPEED_SUITS: useful
 AUG STORE_BEACON: useful
 AUG SUPER_ARMOR: useful
 AUG TULLY_PRESENT: progression
@@ -41,6 +43,7 @@ Ancient Wastelands Sector: progression
 Auto Sector: progression
 CURA's Easy Tasks: useful
 CURA's Hard Tasks: progression
+CURA's medium Tasks: useful
 Coalition Sector: progression
 Coalition Stronghold Sector: progression
 Confederate Coreworlds Sector: progression
@@ -58,13 +61,17 @@ EX_CLOAK_FIRE: useful
 EX_DEFENSE_SCRAMBLER: useful
 EX_DRONE_SPEED: useful
 EX_EXPLOSIVE_REPLICATOR: useful
+EX_FIRE_EXTINGUISHERS: useful
 EX_FTL_BOOSTER: filler
+EX_FTL_JAMMER: filler
 EX_FTL_JUMPER: useful
 EX_HACKING_STUN: filler
 EX_ION_ARMOR: useful
 EX_LIFE_SCANNER: useful
 EX_MEDBAY_NANO: useful
 EX_MEDBAY_SPEED: useful
+EX_MIND_BUFF: useful
+EX_MIND_IMMUNITY: useful
 EX_O2_MASKS: useful
 EX_SHIELD_RECHARGE: useful
 EX_TELEPORT_HEAL: useful
@@ -83,6 +90,7 @@ Guild Territory Sector: progression
 Hacked Union Sector: progression
 Harmony Coreworlds Sector: progression
 Harmony Sector: progression
+Hektar Mega-Market (tm) Sector: progression
 Hive Broodworlds Sector: progression
 Hive Sector: progression
 Hunting Grounds Sector: progression
@@ -100,6 +108,7 @@ Militia Encampment Sector: progression
 Ministry Capital Sector: progression
 Ministry Sector: progression
 Outcast Sector: progression
+Pirate [Sale!] Sector: progression
 Progressive AUG ANCIENT_SHIELD: useful
 Progressive AUG CREW_STIMS: useful
 Progressive AUG OBSIDIAN_ARMOR: useful
@@ -130,6 +139,7 @@ Starting Drones x2: filler
 Starting Fuel x5: filler
 Starting Missiles x2: filler
 Starting Scrap x25: filler
+The Black Market Sector: progression
 The Jerome Protectorate Sector: progression
 The Nexus Sector: progression
 Theocracy Badlands Sector: progression

@@ -3,10 +3,12 @@ Agency Pickup - Bangkok - South Wing Basement: filler
 Agency Pickup - Berlin - Chill-Out Stff Trailer: filler
 Agency Pickup - Berlin - Skylight Access: filler
 Agency Pickup - Chongqing - Arcade: filler
+Agency Pickup - Chongqing - Corridor: filler
 Agency Pickup - Colorado - Water Tower: filler
 Agency Pickup - Dartmoor - Hallway: filler
 Agency Pickup - Dubai - Art Backstage Balcony: filler
 Agency Pickup - Haven Island - Villa Beach Storage Area: filler
+Agency Pickup - Hokkaido - Garage: filler
 Agency Pickup - Hokkaido - Kitchen Food Storage: filler
 Agency Pickup - Miami - Backstage Truck: filler
 Agency Pickup - Mumbai - Carpark: filler
@@ -20,8 +22,10 @@ Agency Pickup - Whittleton Creek - Park Shed: filler
 Assault Rifle - RS-15: filler
 Assault Rifle - Shashka A33 Gold: filler
 Assault Rifle - TAC-4 AR Desert: filler
+Assault Rifle - TAC-4 AR MKII: filler
 Assault Rifle - TAC-4 AR Stealth: filler
 Assault Rifle - TAC-4 S/A Jungle: filler
+Assault Rifle - TAC-4 S/A: filler
 Assault Rifle - The Ornamental Assault Rifle: filler
 Contract Piece: progression
 Distraction - "Mixtape 47": filler
@@ -29,6 +33,8 @@ Distraction - ICA Commendable Performance Coin: filler
 Distraction - ICA Outstanding Performance Coin: filler
 Distraction - ICA Outstanding Service Coin: filler
 Distraction - ICA Remote Audio Distraction: filler
+Distraction - ICA Superior Service Coin: filler
+Distraction - Red-Tie Kiwi: filler
 Distraction - The Big One: filler
 Distraction - The Purple Streak Coin: filler
 Explosive - Bomb-Ass Dynamite: filler
@@ -44,7 +50,9 @@ Explosive - ICA Tripwire Mine: filler
 Explosive - Lil' Flashy: filler
 Explosive - Molotov Cocktail: filler
 Explosive - Napolen Blownaparte: filler
+Explosive - Nitroglycerin: filler
 Explosive - Proximity CX Demo Block MK II: filler
+Explosive - Proximity Explosive Duck: filler
 Explosive - Proximity Explosive Rubber Duck MK II: filler
 Explosive - Proximity Semtex Demo Block MK III: filler
 Explosive - RFID Triggered Explosive: filler
@@ -58,6 +66,7 @@ Explosive - Shaman Powder: filler
 Explosive - The Ancestral Fountain Pen: filler
 Explosive - The Dino Duck: filler
 Explosive - The Dragon Duck: filler
+Explosive - The IOI Showcase Duck: filler
 Hidden Stash - Ambrose Island - Farah's Place: filler
 Hidden Stash - Chongqing - Facility Rooftop: filler
 Hidden Stash - Chongqing - Facility Ventilation Room: filler
@@ -65,12 +74,15 @@ Hidden Stash - Colorado - Courtyard Shed: filler
 Hidden Stash - Colorado - Ground Floor Laundry Room: filler
 Hidden Stash - Colorado - Hay Shed: filler
 Hidden Stash - Dubai - Atrium Toilet: filler
+Hidden Stash - Dubai - Kitchen: filler
 Hidden Stash - Marrakesh - Shisha Café Restroom: filler
 Hidden Stash - Mumbai - Balcony Pot: filler
+Hidden Stash - Mumbai - Meat Market: filler
 Hidden Stash - Sapienza - Mansion Garage: filler
 Hidden Stash - Sapienza - Mansion Pantry: filler
 Level - Ambrose Island: progression
 Level - Bangkok: progression
+Level - Chongqing: progression
 Level - Colorado: progression
 Level - Isle of Sgail: progression
 Level - Marrakesh: progression
@@ -101,11 +113,13 @@ Melee - Sacrificial Knife: filler
 Melee - Shuriken: filler
 Melee - Tanto: filler
 Melee - The Ancestral Knife: filler
+Melee - The Ornamental Katana: filler
 Melee - The Sapienza FA-Sanguine Boot: filler
 Melee - Violin: filler
 Melee - Walking Cane: filler
 Package - Assault Rifles: useful
 Package - Distractions: useful
+Package - Everythings: useful
 Package - Explosives: useful
 Package - Melees: useful
 Package - Shotguns: useful
@@ -122,11 +136,13 @@ Pistol - Krugermeier 2-2 Dark: filler
 Pistol - Krugermeier 2-2 Silver: filler
 Pistol - Krugermeier 2-2: filler
 Pistol - Striker: filler
+Pistol - The Cherry Blossom Baller: filler
 Pistol - The Floral Baller: filler
 Pistol - The Ornamental Pistol: filler
 Pistol - The Purple Streak ICA19 Classic Baller: filler
 Poison - Antique Lethal Syringe: filler
 Poison - Blue Easter Egg: filler
+Poison - Emetic Poison Vial  MK III: filler
 Poison - Emetic Poison Vial: useful
 Poison - ICA Pen Syringe Emetic: filler
 Poison - Lethal Poison Vial MK III: filler
@@ -162,6 +178,7 @@ Starting Location - Bangkok - Undercover in the 2nd Floor Hallway: filler
 Starting Location - Bangkok - Undercover in the Restaurant Kitchen: filler
 Starting Location - Berlin - Biker Hangout: filler
 Starting Location - Berlin - Radio Tower: filler
+Starting Location - Chongqing - Facility Locker Room: filler
 Starting Location - Chongqing - Restaurant Kitchen: filler
 Starting Location - Chongqing - River-side Walkway: useful
 Starting Location - Colorado - Old Orchard: filler
@@ -181,6 +198,9 @@ Starting Location - New York - First Floor Mezzanine: filler
 Starting Location - Paris - Pile-Driver Barge: filler
 Starting Location - Paris - Undercover in Dressing Area: filler
 Starting Location - Paris - Undercover in Kitchen: filler
+Starting Location - Santa Fortuna - Construction Site: filler
+Starting Location - Santa Fortuna - Shaman's Hut: filler
+Starting Location - Santa Fortuna - Submarine Cave: filler
 Starting Location - Santa Fortuna - Village Hostel: filler
 Starting Location - Sapienza - Undercover as Security Staff: filler
 Starting Location - Sapienza - Undercover in Mansion Garden: filler
@@ -190,6 +210,7 @@ Suit - Cowboy Suit: filler
 Suit - Freedom Phantom Suit: filler
 Suit - Guerilla Wetsuit: filler
 Suit - Italian Suit with Gloves: filler
+Suit - Little Helper 47: filler
 Suit - Number Six: filler
 Suit - Patient Gown: filler
 Suit - Plague Doctor: filler
@@ -199,8 +220,11 @@ Suit - Summer Suit: filler
 Suit - The Ancestral Hunter Suit: filler
 Suit - The Arkian Tuxedo: filler
 Suit - The Banker Suit: filler
+Suit - The Big, Bad Wolf Suit: filler
+Suit - The Cashmerian: filler
 Suit - The Cozy Christmas Suit: filler
 Suit - The Gauze Suit: filler
+Suit - The Golden Contender Suit: filler
 Suit - The Jack-O'-Lantern Suit: filler
 Suit - The Lucky Ducky Suit: filler
 Suit - The Master Freelancer Suit: filler
@@ -211,8 +235,11 @@ Suit - The Purple Streak Suit: filler
 Suit - The Purple Streak Swimwear Suit: filler
 Suit - The Sandman Suit: filler
 Suit - The Sangfroid Suit: filler
+Suit - Trendy Tourist Suit: filler
 Suit - Tuxedo, Mask and Gloves: filler
+Suit - VIP Patient: filler
 Suit - White Sunset Suit: filler
+Suitcase - ICA Briefcase MK III: filler
 Suitcase - Orange Pinstripe Briefcase: filler
 Suitcase - Siger 300 Sniper Case: filler
 Tool - Disposable Scrambler: filler

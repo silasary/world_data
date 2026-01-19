@@ -36,6 +36,7 @@ Melon-pult: progression
 Mini-game Unlock: Beghouled Twist: progression
 Mini-game Unlock: Beghouled: progression
 Mini-game Unlock: Big Trouble Little Zombie: progression
+Mini-game Unlock: Bobsled Bonanza: progression
 Mini-game Unlock: Column Like You See 'Em: progression
 Mini-game Unlock: Dr. Zomboss's Revenge: progression
 Mini-game Unlock: Invisi-ghoul: progression
@@ -49,7 +50,9 @@ Mini-game Unlock: Wall-nut Bowling 2: progression
 Mini-game Unlock: Wall-nut Bowling: progression
 Mini-game Unlock: Whack a Zombie: progression
 Mini-game Unlock: ZomBotany 2: progression
+Mini-game Unlock: ZomBotany: progression
 Mini-game Unlock: Zombie Nimble Zombie Quick: progression
+Mini-game Unlock: Zombiquarium: progression
 Mini-games: progression
 Mower Deploy Trap: trap
 Mustache Mode: filler
@@ -73,6 +76,7 @@ Puzzle Unlock: I, Zombie Too: progression
 Puzzle Unlock: I, Zombie: progression
 Puzzle Unlock: M is for Metal: progression
 Puzzle Unlock: Me Smash!: progression
+Puzzle Unlock: Scary Potter: progression
 Puzzle Unlock: Third Vase: progression
 Puzzle Unlock: Three Hit Wonder: progression
 Puzzle Unlock: To The Left: progression
@@ -85,6 +89,7 @@ Roof Cleaners: progression
 Scaredy-shroom: progression
 Sea-shroom: useful
 Seed Packet Cooldown Trap: trap
+Shovel: useful
 Silver Coin: filler
 Snow Pea: progression
 Spikerock: useful

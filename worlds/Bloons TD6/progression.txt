@@ -53,7 +53,7 @@ CeramicShock-KUnlock: progression
 ChargedChinooks-KUnlock: progression
 CheapRangs-KUnlock: progression
 CheaperDoubles-KUnlock: useful
-CheaperLakes-KUnlock: unknown
+CheaperLakes-KUnlock: progression
 CheaperMaiming-KUnlock: progression
 CheaperSolution-KUnlock: progression
 Chutes-MUnlock: progression
@@ -92,7 +92,7 @@ FarmSubsidy-KUnlock: progression
 FastGlue-KUnlock: progression
 FastTackAttacks-KUnlock: progression
 FasterTakedowns-KUnlock: unknown
-FiringRange-MUnlock: unknown
+FiringRange-MUnlock: progression
 FirstLastLineOfDefense-KUnlock: progression
 FitFarmers-KUnlock: useful
 FlameJet-KUnlock: progression
@@ -122,9 +122,9 @@ HeliPilot-TUnlock: progression
 HeroFavors-KUnlock: unknown
 HeroicReach-KUnlock: progression
 HeroicVelocity-KUnlock: unknown
-HiValueMines-KUnlock: unknown
+HiValueMines-KUnlock: progression
 HighFinance-MUnlock: progression
-HotMagic-KUnlock: unknown
+HotMagic-KUnlock: progression
 Hypothermia-KUnlock: useful
 IceMonkey-TUnlock: useful
 IcyChill-KUnlock: progression

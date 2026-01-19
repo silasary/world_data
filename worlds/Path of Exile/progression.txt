@@ -52,6 +52,7 @@ Cast on Melee Kill Support: unknown
 Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
 Chain Hook: progression
+Champion: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
 Chance to Poison Support: unknown
@@ -65,7 +66,7 @@ Cluster Traps Support: progression
 Cobra Lash: progression
 Cold Snap: unknown
 Combustion Support: unknown
-Conductivity: unknown
+Conductivity: useful
 Conflagration: useful
 Consecrated Path: unknown
 Contagion: unknown
@@ -94,7 +95,7 @@ Detonate Mines: unknown
 Devour Support: unknown
 Devouring Totem: progression
 Discharge: unknown
-Discipline: unknown
+Discipline: useful
 Divine Retribution: progression
 Double Strike: unknown
 Dread Banner: unknown
@@ -150,6 +151,7 @@ General's Cry: progression
 Generosity Support: progression
 Glacial Hammer: unknown
 Glacial Shield Swipe: unknown
+Gladiator: progression
 Grace: unknown
 Greater Multiple Projectiles Support: unknown
 Greater Volley Support: unknown
@@ -184,7 +186,7 @@ Infernal Legion Support: unknown
 Innervate Support: unknown
 Inquisitor: progression
 Intimidating Cry: unknown
-Intuitive Link: unknown
+Intuitive Link: filler
 Iron Will Support: unknown
 Item Rarity Support: progression
 Juggernaut: unknown
@@ -205,7 +207,7 @@ Lightning Warp: unknown
 Living Lightning Support: useful
 Maim Support: progression
 Malevolence: progression
-Manabond: unknown
+Manabond: useful
 Marauder: unknown
 Mark On Hit Support: unknown
 Meat Shield Support: unknown
@@ -237,7 +239,7 @@ Pierce Support: progression
 Pinpoint Support: unknown
 Poacher's Mark: unknown
 Point Blank Support: unknown
-Poisonous Concoction: unknown
+Poisonous Concoction: useful
 Power Charge On Critical Support: unknown
 Power Siphon: progression
 Precision: unknown
@@ -245,12 +247,12 @@ Predator Support: progression
 Progressive Amulet: progression
 Progressive Axe: progression
 Progressive Belt: progression
-Progressive BodyArmour: unknown
+Progressive BodyArmour: progression
 Progressive Boots: unknown
 Progressive Bow: progression
 Progressive Claw: unknown
 Progressive Dagger: progression
-Progressive Fishing Rod: unknown
+Progressive Fishing Rod: filler
 Progressive Flask Unlock: progression
 Progressive Gloves: progression
 Progressive Helmet: progression
@@ -374,8 +376,9 @@ Warden: unknown
 Warlord's Mark: progression
 Wave of Conviction: unknown
 Whirling Blades: unknown
-Wild Strike: unknown
+Wild Strike: useful
 Windburst Support: useful
+Winter Orb: useful
 Wintertide Brand: unknown
 Withering Step: unknown
 Withering Touch Support: unknown

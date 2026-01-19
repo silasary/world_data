@@ -1,5 +1,6 @@
 Block A16: progression
 Block A19: progression
+Block D13: progression
 Block D16: progression
 Block D19: progression
 Block G10: progression
@@ -13,6 +14,8 @@ Block N13: progression
 Block N16: progression
 Block N7: progression
 Block S13: progression
+Block S19: progression
+Block S4: progression
 Block V16: progression
 Block V19: progression
 Nothing: filler

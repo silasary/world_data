@@ -72,6 +72,7 @@ Progressive-Vampirism: progression
 Progressive-Zipline-Speed: unknown
 Resource-Mining-Strength: unknown
 Supply-Sentries: useful
+Trap-Bedrock-Encasing: trap
 Trap-Cave-Haunting: trap
 Trap-Extraction-Bulk: trap
 Trap-Intoxication: trap

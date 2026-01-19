@@ -21,6 +21,7 @@ Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
 Boss Relic: progression
 Buff Trap: trap
+CAW CAW: filler
 Card Draw: progression
 Champ 15 Gold: filler
 Champ 30 Gold: useful
@@ -64,6 +65,7 @@ Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
 Collector Shop Relic Slot: progression
 Collector Unlock: progression
+Combat Buff: filler
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
 Custom Character 1 30 gold: progression

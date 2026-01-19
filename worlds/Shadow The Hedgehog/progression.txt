@@ -219,9 +219,12 @@ Weapon:Splitter Ammo Boost: filler
 Weapon:Splitter: progression
 Weapon:Stop Sign: filler
 Weapon:Sub Machine Gun: progression
+Weapon:Survival Knife Ammo Boost: filler
 Weapon:Survival Knife: progression
 Weapon:Tank Cannon: progression
+Weapon:Vacuum Pod Ammo Boost: filler
 Weapon:Vacuum Pod: progression
+Weapon:Wide Worm Shooter Ammo Boost: filler
 Weapon:Wide Worm Shooter: progression
 Weapon:Worm Shooter Ammo Boost: filler
 Weapon:Worm Shooter: progression

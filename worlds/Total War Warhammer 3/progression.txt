@@ -29,8 +29,10 @@ Progressive brt_resource_pastures: progression
 Progressive brt_resource_pottery: progression
 Progressive brt_resource_salt: progression
 Progressive brt_resource_spices: progression
+Progressive brt_resource_timber: progression
 Progressive brt_settlement_major: progression
 Progressive brt_settlement_minor: progression
+Progressive brt_smiths: progression
 Progressive brt_stables: progression
 Progressive brt_tavern: progression
 Progressive brt_walls: progression
@@ -234,6 +236,7 @@ tech_grn_start_3_2: unknown
 tech_grn_start_3_3: unknown
 wh2_dlc09_anc_armour_armour_armour_of_dawn: filler
 wh2_dlc09_anc_talisman_collar_of_shakkara: unknown
+wh2_dlc09_anc_weapon_fang_of_quaph: filler
 wh2_dlc09_anc_weapon_golden_dagger: unknown
 wh2_dlc09_anc_weapon_inscribed_khopesh: unknown
 wh2_dlc09_anc_weapon_spear_of_pakth: unknown
@@ -329,7 +332,7 @@ wh3_dlc20_bundle_stance_army_encampment_festus: unknown
 wh3_dlc20_climate_unsuitable_temperate: filler
 wh3_dlc20_payload_dilemma_dicovered_ritual_khorne_first: unknown
 wh3_dlc23_anc_armour_lesser_relic_of_skavor: filler
-wh3_dlc23_anc_talisman_major_relic_of_grimnir: unknown
+wh3_dlc23_anc_talisman_major_relic_of_grimnir: filler
 wh3_dlc24_anc_cth_magistrate_specialist_monster_hunter: unknown
 wh3_dlc24_anc_talisman_blessing_wafers: unknown
 wh3_dlc24_climate_suitable_magicforest_ostankya: unknown
@@ -401,6 +404,7 @@ wh3_main_anc_weapon_necrotic_missiles: unknown
 wh3_main_anc_weapon_slaaneshs_blade: filler
 wh3_main_anc_weapon_the_bane_spear: unknown
 wh3_main_anc_weapon_wyrmslayer_sword: unknown
+wh3_main_brt_allied_outpost_2: progression
 wh3_main_brt_allied_outpost_3: progression
 wh3_main_brt_resource_ivory_2: progression
 wh3_main_brt_resource_ivory_3: progression
@@ -543,7 +547,9 @@ wh_main_anc_arcane_item_channelling_staff: unknown
 wh_main_anc_arcane_item_power_stone: unknown
 wh_main_anc_arcane_item_sceptre_of_stability: filler
 wh_main_anc_arcane_item_scroll_of_shielding: filler
+wh_main_anc_armour_armour_of_destiny: filler
 wh_main_anc_armour_armour_of_silvered_steel: unknown
+wh_main_anc_armour_gamblers_armour: filler
 wh_main_anc_armour_glittering_scales: unknown
 wh_main_anc_armour_helm_of_discord: unknown
 wh_main_anc_armour_shield_of_ptolos: filler
@@ -558,6 +564,7 @@ wh_main_anc_magic_standard_gleaming_pennant: unknown
 wh_main_anc_magic_standard_rangers_standard: unknown
 wh_main_anc_magic_standard_razor_standard: unknown
 wh_main_anc_magic_standard_war_banner: filler
+wh_main_anc_talisman_dawnstone: filler
 wh_main_anc_talisman_obsidian_amulet: unknown
 wh_main_anc_talisman_obsidian_trinket: filler
 wh_main_anc_talisman_opal_amulet: filler

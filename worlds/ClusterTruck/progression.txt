@@ -6,7 +6,7 @@
 1-4: unknown
 1-5: progression
 1-6: progression
-1-7: unknown
+1-7: progression
 1-8: progression
 1-9: progression
 2-10: progression
@@ -87,7 +87,7 @@
 9-5: progression
 9-6: progression
 9-7: progression
-9-8: unknown
+9-8: progression
 9-9: progression
 Air Dash: useful
 Back Truck: unknown
@@ -104,5 +104,6 @@ Time Slow: unknown
 Truck Boost: useful
 Trucker Flip: useful
 Trucksolute Zero: useful
+c-1: progression
 h-1: progression
 h-2: progression

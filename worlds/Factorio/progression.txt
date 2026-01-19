@@ -56,7 +56,7 @@ coal-liquefaction: filler
 concrete: useful
 construction-robotics: useful
 cryogenic-plant: useful
-cryogenic-science-pack: unknown
+cryogenic-science-pack: progression
 defender: useful
 destroyer: useful
 discharge-defense-equipment: useful

@@ -42,7 +42,7 @@ Duct Bridge: useful
 Duct Router: useful
 Duct Unloader: unknown
 Electric Heater: progression
-Electrolyzer: unknown
+Electrolyzer: progression
 Eruption Drill: unknown
 Flux Reactor: unknown
 Force Projector: unknown
@@ -164,7 +164,7 @@ Reinforced Liquid Router: useful
 Reinforced Liquid Tank: unknown
 Reinforced Message: unknown
 Reinforced Payload Conveyor: useful
-Reinforced Payload Router: unknown
+Reinforced Payload Router: useful
 Reinforced Pump: progression
 Reinforced Surge Wall: useful
 Reinforced Vault: useful
@@ -196,7 +196,7 @@ Spore Press: unknown
 Steam Generator: unknown
 Sublimate: progression
 Surge Conveyor: useful
-Surge Crucible: unknown
+Surge Crucible: progression
 Surge Router: useful
 Surge Smelter: unknown
 Surge Tower: unknown

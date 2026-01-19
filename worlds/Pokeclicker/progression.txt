@@ -25,6 +25,7 @@
 063 Abra: progression
 065 Alakazam: progression
 067 Machoke: progression
+068 Machamp: progression
 069 Bellsprout: progression
 071 Victreebel: progression
 075 Graveler: progression
@@ -44,6 +45,7 @@
 112 Rhydon: progression
 115 Kangaskhan: progression
 120 Staryu: progression
+121 Starmie: progression
 122 Mr. Mime: progression
 125 Electabuzz: progression
 126 Magmar: progression
@@ -61,10 +63,16 @@ Amulet Coin: useful
 Armored Mewtwo: progression
 Articuno: progression
 Auto Safari Zone (Progressive Fast Animations): progression
+Blastoise: progression
+Caterpie: progression
+Chansey: progression
 Charity Chansey: progression
+Charizard (Clone): progression
+Charmeleon (Clone): progression
 Charmeleon: progression
 Clefairy: progression
 Cubone: progression
+Dodrio: progression
 Dragonite: progression
 EXP Share: useful
 Eevee: progression
@@ -75,26 +83,35 @@ Golbat: progression
 Golduck: progression
 Grimer: progression
 Hitmonlee: progression
+Horsea: progression
 Ivysaur (Clone): progression
 Jynx: progression
+Kadabra: progression
 Kakuna: progression
 Kanto Elite Agatha Badge: progression
 Koffing: progression
+Let's Go Eevee: progression
 Magic Ball: useful
 Magma Stone: useful
 Marsh Badge: progression
+Meowth: progression
 Mew: progression
 Muk: progression
 Mystery Egg: progression
+Oddish: progression
 Omanyte: progression
 Onix: progression
 Parasect: progression
 Persian: progression
 Pidgeot: progression
+Pikachu (Palaeontologist): progression
+Poliwhirl: progression
 Ponyta: progression
 Progressive Elite Badge: progression
 Protein: filler
 Rattata: progression
+Red Spearow: progression
+Sandslash: progression
 Santa Jynx: progression
 Scyther: progression
 Soul Badge: progression

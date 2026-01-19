@@ -3,13 +3,22 @@ Air Hockey: progression
 Battle Tanks: progression
 Billiards: progression
 Carrom: progression
+Checkers: progression
+Chess: progression
+Dominoes: progression
 Drop in Enemy Area Forbidden (Chinese Checkers): useful
 Finish Open Out (Darts): useful
 First Move CPU (Dots and Boxes): useful
 First Move CPU (Pig's Tail): useful
+First Move CPU (Renegade): useful
+First Move P1 (Four-in-a-Row): useful
+First Move P1 (Mancala): useful
 First Move P1 (Matching): useful
 First Move P1 (Nine Men's Morris): useful
+First Move Random (Billiards): useful
 First Move Random (Checkers): useful
+First Move Random (Hex): useful
+First Move Random (Toy Curling): useful
 Fishing: progression
 Four & Four Forbid for P1 (Gomoku): useful
 Gomoku: progression
@@ -27,10 +36,14 @@ Play 2-Game Match (Toy Tennis): useful
 Play 5 Rounds (Blackjack): useful
 Play 5 Rounds (President): useful
 Play 5-Point Match (Air Hockey): useful
+Play 61-Point Match (Dominoes): useful
 Play Field #1 (Battle Tanks): useful
+Play Field #3 (Battle Tanks): useful
 Play Track #3 (Slot Cars): useful
+Play as Hare (Hare and Hounds): useful
 President: progression
 Renegade: progression
+Riichi Mahjong: progression
 Sevens: progression
 Shogi: progression
 Shooting Gallery: progression
@@ -38,11 +51,14 @@ Sliding Puzzle: progression
 Slot Cars: progression
 Speed: progression
 Spider Solitaire: progression
+Starting Hole #1 (Golf): useful
 Starting Hole #2 (Golf): useful
 Starting Hole #4 (Golf): useful
 Starting Threshold No Roll (Ludo): useful
+Takoyaki: progression
 Team Tanks: progression
 Toy Baseball: progression
 Toy Boxing: progression
 Toy Curling: progression
+Toy Tennis: progression
 Yacht Dice: progression

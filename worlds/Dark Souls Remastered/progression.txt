@@ -22,7 +22,7 @@ Balder Helm: filler
 Balder Leggings: filler
 Balder Shield: useful
 Balder Side Sword: filler
-Bandit's Knife: unknown
+Bandit's Knife: filler
 Barbed Straight Sword: useful
 Basement Key: progression
 Bastard Sword: useful
@@ -119,7 +119,7 @@ Chester's Gloves: filler
 Chester's Long Coat: useful
 Chester's Trousers: unknown
 Claw: useful
-Claymore: unknown
+Claymore: filler
 Cleansing Greatshield: filler
 Cleric Armor: filler
 Cleric Gauntlets: useful
@@ -146,7 +146,7 @@ Crown of Dusk: useful
 Crown of the Dark Sun: filler
 Crown of the Great Lord: useful
 Crystal Ember: useful
-Crystal Greatsword: unknown
+Crystal Greatsword: filler
 Crystal Ring Shield: filler
 Crystal Shield: filler
 Crystal Straight Sword: useful
@@ -172,7 +172,7 @@ Darksign: filler
 Darksword: useful
 Demon Great Machete: filler
 Demon Titanite: useful
-Demon's Catalyst: unknown
+Demon's Catalyst: filler
 Demon's Great Hammer: filler
 Demon's Greataxe: unknown
 Demon's Spear: filler
@@ -232,11 +232,24 @@ Fire Keeper Soul (Undead Parish): useful
 Firebomb: filler
 Flamberge: useful
 Flame Stoneplate Ring: filler
+Fog Wall Key - Anor Londo #1 (Rafters): progression
+Fog Wall Key - Anor Londo #2 (Archers): progression
+Fog Wall Key - Ash Lake Entrance: progression
+Fog Wall Key - Depths Rat Room: progression
+Fog Wall Key - Duke's Archives Courtyard Entrance: progression
+Fog Wall Key - Lower Blighttown Entrance: progression
+Fog Wall Key - New Londo (Lower): progression
+Fog Wall Key - New Londo (Upper): progression
+Fog Wall Key - Painted World: progression
+Fog Wall Key - Sen's Fortress #1 (Outside Stairs): progression
+Fog Wall Key - Sen's Fortress #2 (Upper Entrance): progression
+Fog Wall Key - Tomb of the Giants: progression
 Four-pronged Plow: filler
 Gargoyle Helm: useful
 Gargoyle Tail Axe: filler
 Gargoyle's Shield: filler
 Gargoyles's Halberd: filler
+Gauntlets of Artorias: filler
 Gauntlets of Favor: useful
 Gauntlets of Thorns: unknown
 Gauntlets of the Channelers: filler
@@ -391,7 +404,7 @@ Miracle: Darkmoon Blade: filler
 Miracle: Emit Force: filler
 Miracle: Escape Death: filler
 Miracle: Force: useful
-Miracle: Gravelord Greatsword Dance: unknown
+Miracle: Gravelord Greatsword Dance: filler
 Miracle: Gravelord Sword Dance: useful
 Miracle: Great Heal Excerpt: filler
 Miracle: Great Heal: useful
@@ -472,7 +485,7 @@ Pyromancy: Fireball: useful
 Pyromancy: Firestorm: filler
 Pyromancy: Flash Sweat: useful
 Pyromancy: Great Chaos Fireball: filler
-Pyromancy: Great Combustion: unknown
+Pyromancy: Great Combustion: filler
 Pyromancy: Great Fireball: useful
 Pyromancy: Iron Flesh: useful
 Pyromancy: Poison Mist: filler
@@ -501,7 +514,7 @@ Ring of the Sun Princess: useful
 Ring of the Sun's Firstborn: useful
 Rite of Kindling: progression
 Robe of the Channelers: filler
-Robe of the Great Lord: unknown
+Robe of the Great Lord: filler
 Rotten Pine Resin: filler
 Royal Helm: filler
 Rubbish: filler
@@ -593,6 +606,7 @@ Soul of a Proud Knight: useful
 Souvenir of Reprisal: filler
 Spear: filler
 Speckled Stoneplate Ring: useful
+Spell Stoneplate Ring: filler
 Spider Shield: filler
 Spiked Shield: filler
 Standard Arrow: unknown

@@ -82,7 +82,7 @@ Card Set Mega-Potion 0: filler
 Card Set Mega-Potion 1-3: filler
 Card Set Mega-Potion 4-6: filler
 Card Set Mega-Potion 7-9: filler
-Card Set Megalixir 0: unknown
+Card Set Megalixir 0: filler
 Card Set Megalixir 1-3: filler
 Card Set Megalixir 4-6: filler
 Card Set Megalixir 7-9: filler
@@ -160,7 +160,7 @@ Enemy Card Barrel Spider: useful
 Enemy Card Black Fungus: filler
 Enemy Card Blue Rhapsody: filler
 Enemy Card Bouncywild: filler
-Enemy Card Card Soldier (Black): unknown
+Enemy Card Card Soldier (Black): filler
 Enemy Card Card Soldier (Red): filler
 Enemy Card Creeper Plant: filler
 Enemy Card Crescendo: unknown
@@ -191,6 +191,7 @@ Enemy Card Soldier: filler
 Enemy Card Tornado Step: filler
 Enemy Card Trickmaster: filler
 Enemy Card Ursula: filler
+Enemy Card Vexen: filler
 Enemy Card White Mushroom: unknown
 Enemy Card Wight Knight: filler
 Enemy Card Wyvern: filler
