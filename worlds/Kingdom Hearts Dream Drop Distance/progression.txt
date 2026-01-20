@@ -9,7 +9,9 @@ Aura Lion Recipe: progression
 Balloon: filler
 Balloonra: filler
 Bind Block: useful
+Bind: filler
 Blackout: filler
+Blindness Block: useful
 Blitz: filler
 Blizzaga: filler
 Blizzara: filler
@@ -34,6 +36,7 @@ Cure Boost: useful
 Cyber Yog Recipe: progression
 Damage Syphon: useful
 Dark Aura: filler
+Dark Barrier: useful
 Dark Break: filler
 Dark Firaga: filler
 Dark Roll: useful
@@ -46,10 +49,12 @@ Defense Boost: useful
 Defense Increase [Riku]: useful
 Defense Increase [Sora]: useful
 Divewing [Riku]: useful
+Double Flight: progression
 Double Impact: filler
 Drain Dive: filler
 Drak Quack Recipe: progression
 Drill Sye Recipe: progression
+Dual Disc [Sora]: useful
 Ducky Goose Recipe: progression
 EXP Boost: useful
 EXP Walker: useful
@@ -81,6 +86,7 @@ HP Increase [Riku]: useful
 HP Increase [Sora]: useful
 Halbird Recipe: progression
 Hebby Rep Recipe: progression
+High Jump: progression
 Ice Barrage: filler
 Icebreaker: filler
 Icequin Ace Recipe: progression
@@ -126,6 +132,7 @@ Quick Blitz: filler
 R & R Seal Recipe: progression
 Rapid Descent: filler
 Recusant Sigil: progression
+Ryu Dragon Recipe: progression
 Sacrifice: filler
 Salvation: filler
 Second Chance: useful

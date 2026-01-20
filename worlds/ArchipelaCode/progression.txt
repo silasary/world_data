@@ -2,8 +2,10 @@ Aider: filler
 Cursor: filler
 Gemini Code Assist: filler
 Github Copilot: filler
+Google Jules: filler
 Progressive Problem Unlock: progression
 Python '%': progression
+Python '*': progression
 Python '-': progression
 Python '/': progression
 Python '=': progression

@@ -1,326 +1,381 @@
-Absolute Zero: unknown
-Accelerator: unknown
-Agnry Faic: unknown
-Air: unknown
-Alchemist's Bow: unknown
-Alchemy Set: unknown
+Absolute Zero: useful
+Accelerator: useful
+Acid: useful
+Agnry Faic: useful
+Air: useful
+Alchemist's Bow: useful
+Alchemy Set: useful
 Amber Bobble: useful
 Amethyst Earrings: useful
-Angel Pin: unknown
-Angel Wing: unknown
-Aquamarine: unknown
-Arctic Trident: unknown
-Art Attack: unknown
-Baby Penguin: unknown
-Balance Badge: unknown
-Bandage: unknown
-Bandit Blade: unknown
+Angel Pin: useful
+Angel Wing: useful
+Annihalate: useful
+Aquamarine: useful
+Arctic Trident: useful
+Army Helmet: useful
+Art Attack: useful
+Baby Penguin: useful
+Balance Badge: useful
+Bandage: useful
+Bandit Blade: useful
 Barrier: useful
-Basket Hat: unknown
-Battle Paint: unknown
-Beholding Eye: unknown
-Berzerker: unknown
-Big Eyebrows: unknown
-Bind: unknown
-Bitey Badge: unknown
-Black Fang: unknown
-Black Hole: unknown
-Black Widow: unknown
-Blue Elephant: unknown
-Book of Spells: unknown
-Bubble Dress: unknown
-Bubble Ring: unknown
+Basket Hat: useful
+Battle Paint: useful
+Beholding Eye: useful
+Berzerker: useful
+Big Eyebrows: useful
+Bind: useful
+Biohazard Blaster: useful
+Bitey Badge: useful
+Black Fang: useful
+Black Hole: useful
+Black Widow: useful
+Blood Bank: useful
+Blue Elephant: useful
+Book of Spells: useful
+Bubble Dress: useful
+Bubble Ring: useful
 Bubble: useful
-Bullet Bob: unknown
-Bunny Ears: unknown
-Buster Sword: unknown
-Cactus Dress: unknown
-Camo Jacket: unknown
-Captain Viridian: unknown
+Bullet Bob: useful
+Bunny Ears: useful
+Buster Sword: useful
+Cactus Dress: useful
+Camo Jacket: useful
+Camo Skirt: useful
+Captain Viridian: useful
+Captain's Coat: useful
 Captain's Hat: useful
-Card 01 (Baby Bush): unknown
+Card 01 (Baby Bush): useful
 Card 02 (Big Bush): useful
-Card 03 (Bazooka Bush): unknown
-Card 04 (Creepy Idol): unknown
-Card 05 (Undead Boulder): unknown
-Card 06 (Snarky Radish): unknown
-Card 07 (Snarky Tree): unknown
-Card 08 (Eyeball Plant): unknown
-Card 09 (Beholding Bat): unknown
-Card 10 (Beholding Beast): unknown
-Card 11 (Potted Gloop): unknown
-Card 13 (Sandstone Gloop): unknown
-Card 15 (Frosty Face): unknown
+Card 03 (Bazooka Bush): useful
+Card 04 (Creepy Idol): useful
+Card 05 (Undead Boulder): useful
+Card 06 (Snarky Radish): useful
+Card 07 (Snarky Tree): useful
+Card 08 (Eyeball Plant): useful
+Card 09 (Beholding Bat): useful
+Card 10 (Beholding Beast): useful
+Card 11 (Potted Gloop): useful
+Card 12 (Crystal Gloop): useful
+Card 13 (Sandstone Gloop): useful
+Card 14 (Famine Face): useful
+Card 15 (Frosty Face): useful
 Card 16 (Fire Face): useful
-Card 17 (Cursed Medallion): unknown
-Card 18 (Cursed Chest): unknown
-Card 19 (Spy Satellite): unknown
-Card 20 (Flybot Drone): unknown
+Card 17 (Cursed Medallion): useful
+Card 18 (Cursed Chest): useful
+Card 19 (Spy Satellite): useful
+Card 20 (Flybot Drone): useful
 Card 21 (Lava Slime): useful
-Card 23 (Volcano Slime): unknown
-Card 24 (Touchy Octopus): unknown
+Card 22 (Magma Slime): useful
+Card 23 (Volcano Slime): useful
+Card 24 (Touchy Octopus): useful
 Card 25 (Angry Bee): useful
-Card 26 (Fighter Bee): unknown
-Card 27 (Mountain Goat): unknown
-Card 30 (Normal Turtle): unknown
-Card 31 (Derpy Turtle): unknown
-Card 32 (Titanic Turtle): unknown
-Card 33 (Sea Jelly): unknown
-Card 34 (Electron Child): unknown
-Card 35 (Electron Cloud): unknown
-Card 36 (Electron Knight): unknown
-Card 37 (Sacred Guardian): unknown
-Card 38 (Evil Fungus): unknown
-Card 39 (Ice Mite): unknown
-Card 41 (Pupper): unknown
-Card 42 (Doggo): unknown
-Card 43 (Specter): unknown
+Card 26 (Fighter Bee): useful
+Card 27 (Mountain Goat): useful
+Card 28 (Chibi Robot): useful
+Card 29 (Dai Robot): useful
+Card 30 (Normal Turtle): useful
+Card 31 (Derpy Turtle): useful
+Card 32 (Titanic Turtle): useful
+Card 33 (Sea Jelly): useful
+Card 34 (Electron Child): useful
+Card 35 (Electron Cloud): useful
+Card 36 (Electron Knight): useful
+Card 37 (Sacred Guardian): useful
+Card 38 (Evil Fungus): useful
+Card 39 (Ice Mite): useful
+Card 40 (Ice Roach): useful
+Card 41 (Pupper): useful
+Card 42 (Doggo): useful
+Card 43 (Specter): useful
 Card 44 (Hollow Soldier): useful
-Card 45 (Fire Elemental): unknown
-Card 46 (Donut Snake): unknown
-Card 47 (Toaster): unknown
-Card 48 (Baby Bacon): unknown
-Card 49 (Bacon Roll): unknown
-Card 50 (Adult Bacon): unknown
+Card 45 (Fire Elemental): useful
+Card 46 (Donut Snake): useful
+Card 47 (Toaster): useful
+Card 48 (Baby Bacon): useful
+Card 49 (Bacon Roll): useful
+Card 50 (Adult Bacon): useful
 Cardboard Box: useful
-Casual Skirt: unknown
-Cat Ears: unknown
-Cat Tail: unknown
-Celtic Cross: unknown
+Casual Skirt: useful
+Cat Ears: useful
+Cat Tail: useful
+Celtic Cross: useful
 Chainsaw Gun: useful
-Chieftain's Horns: unknown
-Chili Pepper: unknown
-Chrome Earrings: unknown
+Chieftain's Horns: useful
+Chili Pepper: filler
+Chrome Earrings: useful
 Club of Withering: useful
-Coconut Shooter: unknown
-Coin Charm: unknown
-Cold Steel: unknown
-Companion C*be: unknown
-Copper Key: unknown
-Coral Key: unknown
-Crimson Dragon: unknown
-Crimson Razorback: unknown
-Crossbone Pin: unknown
-Crystal Wing: unknown
-Dark Bobble: unknown
-Dark Gown: unknown
+Coat of Teeth: useful
+Coconut Shooter: useful
+Coin Charm: useful
+Cold Steel: useful
+Companion C*be: useful
+Copper Key: progression
+Coral Key: progression
+Cow Costume: useful
+Crimson Dragon: useful
+Crimson Razorback: useful
+Crossbone Pin: useful
+Crystal Wing: useful
+Curly Horns: useful
+Dark Bobble: useful
+Dark Gown: useful
 Dark Stalker: useful
 Dark Tooth: useful
-Death Mask: unknown
-Death Metal: unknown
+Death Mask: useful
+Death Metal: useful
 Debilitate: useful
 Deep Blue: useful
 Defeated Crystal Hydra: unknown
-Defeated Neon Valhalla: unknown
-Defeated Sol & Skadi: unknown
-Defeated Telperion: unknown
+Defeated Neon Valhalla: progression
+Defeated Sol & Skadi: progression
+Defeated Telperion: progression
 Defeated Vulcan: unknown
-Demon Swords: unknown
+Demon Swords: useful
 Desert Scorpion: useful
-Devil's Fork: unknown
-Diamond Key: unknown
+Devil's Fork: useful
+Diamond Key: progression
+Dinosaur Egg: useful
 Dispel: useful
-Dog Sausage: unknown
-Dog Tags: unknown
-Dragon Armor: unknown
-Dragon Wings: unknown
-Dragon's Feather: unknown
-Drill Bits: unknown
-Eagle Eye: unknown
-Earth Orb: unknown
-Earth's Whisper: unknown
+Dog Sausage: useful
+Dog Tags: useful
+Dragon Armor: useful
+Dragon Helm: useful
+Dragon Wings: useful
+Dragon's Feather: useful
+Drill Bits: useful
+Druid Staff: useful
+Eagle Eye: useful
+Earth Orb: progression
+Earth's Whisper: useful
+Elder's Wisdom: useful
+Electron Gun: useful
+Elven Shield: useful
 Emerald Cyclone: useful
-Emerald Earrings: unknown
+Emerald Earrings: useful
 Emerald Smasher: useful
 Emerald of Life: progression
-Encore: unknown
-Enfeeble: unknown
+Encore: useful
+Energy: useful
+Enfeeble: useful
 Espresso: useful
-Explorer's Jacket: unknown
-Fairy Bombs: unknown
+Explorer's Jacket: useful
+Fairy Bombs: useful
 Fairy Bow: useful
-Fairy: unknown
-Fake Mustache: unknown
-Fat Fly: unknown
-Fenrir's Jaw: unknown
-Fire Orb: unknown
-Firecrackers: unknown
-Flame Suit: unknown
-Flame Titan: unknown
-Flare: unknown
-Flower Bobble: unknown
-Fur Dress: unknown
-Fur Hat: unknown
-Fusion Blade: unknown
-Gale: unknown
-Gas Mask: unknown
-Genji Armor: unknown
-Genji Helmet: unknown
-Geometry: unknown
-Giant Slayer: unknown
-Giga Drill: unknown
-Gigavolt: unknown
-Godly Book: unknown
-Gold Key: unknown
-Gold Star: unknown
-Golden Axe: unknown
-Golden Pendant: unknown
-Green Cross: unknown
-Green Goliath: unknown
-Gungnir: unknown
-Headband: unknown
+Fairy: useful
+Fake Mustache: useful
+Fat Fly: useful
+Fenrir's Jaw: useful
+Fire Orb: progression
+Fire Spin: useful
+Firecrackers: useful
+Flame Badge: useful
+Flame Suit: useful
+Flame Titan: useful
+Flare: useful
+Flower Bobble: useful
+Frost Badge: useful
+Fur Dress: useful
+Fur Hat: useful
+Fusion Blade: useful
+Gaia Seed: useful
+Gaia's Gift: useful
+Gale: useful
+Gas Mask: useful
+Genji Armor: useful
+Genji Helmet: useful
+Geometry: useful
+Giant Slayer: useful
+Giga Drill: useful
+Gigavolt: useful
+Godly Book: useful
+Gold Key: progression
+Gold Star: useful
+Golden Axe: useful
+Golden Pendant: useful
+Green Cross: useful
+Green Goliath: useful
+Gungnir: useful
+Headband: useful
 Heal: useful
-Heart Pendant: unknown
-Heartstopper: unknown
-Heaven's Gate: unknown
-Heaven's Voice: unknown
-Heavenly Shield: unknown
-Hellfire Shotgun: unknown
+Heart Pendant: useful
+Heartstopper: useful
+Heaven's Gate: useful
+Heaven's Voice: useful
+Heavenly Shield: useful
+Heavy Claw: useful
+Hellfire Shotgun: useful
 Heroic Armor: useful
-Hidden Power: unknown
-Hipster Shirt: unknown
+Hidden Power: useful
+Hipster Shirt: useful
 Hobo Clothes: useful
 Holly Hairpin: useful
-Honjo Masamune: unknown
-Hoop Earrings: unknown
-Horned Helmet: unknown
-Human Skull: unknown
-Hyper Drill: unknown
-Ice Needle: unknown
-Ice Shards: unknown
-Icecream Sandwich: unknown
-Inferno: unknown
+Honjo Masamune: useful
+Hoop Earrings: useful
+Horned Helmet: useful
+Human Skull: useful
+Hyper Drill: useful
+Ice Needle: useful
+Ice Shards: useful
+Icecream Sandwich: useful
+Inferno: useful
 Ion Cannon: useful
-Iron Tusk: unknown
-Ivy: unknown
-Juggernaut: unknown
-Juicy Beast: unknown
-Kaladanda: unknown
+Iron Cross: useful
+Iron Tusk: useful
+Ivy: useful
+Juggernaut: useful
+Juicy Beast: useful
+Kaladanda: useful
+King's Guard: useful
 Knight's Helmet: useful
-Leaf Shield: unknown
-Leafy Boots: unknown
-Leafy Hairclip: unknown
-Lightning Badge: unknown
-Lightning Shard: unknown
-Lock On: unknown
-Love Blade: unknown
-Lucky Clover: unknown
-Magical Skirt: unknown
-Magnetic Boots: unknown
-Maid Outfit: unknown
-Mecha Suit: unknown
-Meow Meow Badge: unknown
-Narutomaki: unknown
-Necromancer's Helmet: unknown
+Leaf Shield: useful
+Leafy Boots: progression
+Leafy Hairclip: useful
+Lightning Badge: useful
+Lightning Shard: useful
+Lock On: useful
+Love Blade: useful
+Lucky Clover: useful
+Lucky Fish: useful
+Magical Skirt: useful
+Magnetic Boots: progression
+Maid Outfit: useful
+Mecha Suit: useful
+Meow Meow Badge: useful
+Mini Drone: useful
+Nano Machines: useful
+Narutomaki: useful
+Necromancer's Helmet: useful
 Neon Lightbulb: useful
-Nimbus Rod: unknown
+Nimbus Rod: useful
 Ninja Chopsticks: useful
-Ninja Skirt: unknown
-Nurse Hat: unknown
-Nurse Uniform: unknown
-Oak Staff: unknown
-Obsidian Armor: unknown
+Ninja Gear: useful
+Ninja Skirt: useful
+Nitro Bomber XL: useful
+Nurse Hat: useful
+Nurse Uniform: useful
+Oak Staff: useful
+Obsidian Armor: useful
 Obsidian Staff: useful
 Officer's Coat: useful
 Officer's Helmet: useful
-Paper Fan: unknown
-Peace Badge: unknown
-Phyrnna's Blessing: unknown
-Pixel Popper: unknown
-Pizza: unknown
+Paper Fan: useful
+Peace Badge: useful
+Pearl Necklace: useful
+Pet Rock: useful
+Phyrnna's Blessing: useful
+Pixel Glasses: useful
+Pixel Popper: useful
+Pizza: filler
 Platinum Star: useful
-Pocket Watch: unknown
-Pope Dress: unknown
+Pocket Watch: useful
+Pope Dress: useful
 Pope Hat: useful
-Post-Jotun: unknown
-Post-Laurelin: unknown
-Post-Neon Valkyrie: unknown
-Post-Poseidon: unknown
-Power Paw: unknown
+Post-Jotun: progression
+Post-Laurelin: progression
+Post-Neon Valkyrie: progression
+Post-Poseidon: progression
+Power Metal: useful
+Power Paw: useful
+Priest's Tunic: useful
 Protect: useful
-Pumpkin Head: unknown
-Puppy Hat: unknown
-Purging Flame: unknown
-Purify: unknown
+Pumpkin Head: useful
+Puppy Hat: useful
+Purging Flame: useful
+Purify: useful
+RAM Chip: useful
 Ranger Skirt: useful
 Red Dress: useful
 Red Ribbon: useful
-Regal Turtle: unknown
-Revive: unknown
+Reflex: useful
+Regal Turtle: useful
+Revive: useful
 Riot Shield: useful
-Robot Ears: unknown
-Rubber Duck: unknown
-Ruby of Death: unknown
-Sami Dress: unknown
-Sand: unknown
-Santa Outfit: unknown
-Santa Skirt: unknown
-Sapphire Saint: unknown
-Sapphire of Dreams: unknown
+Robot Ears: useful
+Royal Crown: useful
+Rubber Duck: useful
+Ruby of Death: progression
+Sami Dress: useful
+Sand: useful
+Santa Hat: useful
+Santa Outfit: useful
+Santa Skirt: useful
+Sapphire Saint: useful
+Sapphire of Dreams: progression
+Sawblade: useful
+School Uniform: useful
 Scottish Cap: useful
-Scottish Kilt: unknown
+Scottish Kilt: useful
+Screamer: useful
 Seven Swords: useful
 Shadow Blaster: useful
-Sharpen: unknown
-Shield Medal: unknown
+Sharanga: useful
+Sharpen: useful
+Shell Armor: useful
+Shield Medal: useful
 Shock: useful
-Shooting Star: unknown
-Silver Cross: unknown
-Slime Bunny: unknown
-Small Cloud: unknown
-Snow Bunnies: unknown
-Sol Spear: unknown
-Soul Crusher: unknown
-Soul Eater: unknown
-Soul Pistol: unknown
-Space Ace: unknown
-Space Helmet: unknown
-Spartan Cuirass: unknown
-Spartan Helmet: unknown
-Spider Bobble: unknown
-Spider Gown: unknown
-Spiked Boots: unknown
-Spine Snapper: unknown
-Star Hammer: unknown
+Shooting Star: useful
+Silver Cross: useful
+Slime Bunny: useful
+Slime Staff: useful
+Small Cloud: useful
+Snow Bunnies: useful
+Sol Spear: useful
+Soul Crusher: useful
+Soul Eater: useful
+Soul Pistol: useful
+Space Ace: useful
+Space Helmet: useful
+Spartan Cuirass: useful
+Spartan Helmet: useful
+Spelunking Hat: useful
+Spider Bobble: useful
+Spider Gown: useful
+Spiked Boots: progression
+Spine Snapper: useful
+Star Hammer: useful
 Steel Buckler: useful
-Stone Head: unknown
-Sub Zero: unknown
-Summer Kimono: unknown
-Super Snipe ZX: unknown
+Stone Head: progression
+Sub Zero: useful
+Summer Kimono: useful
+Super Snipe ZX: useful
 Supernova: useful
-Target Badge: unknown
-Tentacle: unknown
-Tetromino: unknown
-The Axe: unknown
-The Big Hammer: unknown
-The Candle: unknown
-The Deceased: unknown
-The Hammer: unknown
-The Knife: unknown
-The One R*ng: unknown
-The Raft: unknown
-The Reaper: unknown
-The Shovel: unknown
-The Stepladder: unknown
-The Stinger: unknown
-The Tr*force: unknown
-Thermal Boots: unknown
-Thor's Hammer: unknown
-Thunder Core: unknown
-Tooth: unknown
-Topaz Key: unknown
-Tsunami: unknown
-Turtle Gi: unknown
-Turtle Shell: unknown
+Surgical Mask: useful
+Sword Medal: useful
+Target Badge: useful
+Tentacle: useful
+Tetromino: useful
+The Axe: progression
+The Big Hammer: progression
+The Candle: progression
+The Chopper: useful
+The Deceased: useful
+The Hammer: progression
+The Knife: useful
+The One R*ng: useful
+The Raft: progression
+The Reaper: useful
+The Shovel: progression
+The Stepladder: progression
+The Stinger: useful
+The Tr*force: useful
+Thermal Boots: progression
+Thor's Hammer: useful
+Thunder Core: useful
+Tooth: useful
+Topaz Key: progression
+Tsunami: useful
+Turtle Gi: useful
+Turtle Shell: useful
 Ultra Pro 9000X: useful
-Viking Buckler: unknown
-Viking Fur: unknown
-Vortex Cannon: unknown
-Water Orb: unknown
-Wind Orb: unknown
+Viking Buckler: useful
+Viking Fur: useful
+Vortex Cannon: useful
+Water Orb: progression
+Wind Orb: progression
 Winged Boots: progression
-Wizard Hat: unknown
-Wizard Robe: unknown
-Wooden Key: unknown
-Wrath of Zeus: unknown
-Wrecking Rod: unknown
+Wizard Hat: useful
+Wizard Robe: useful
+Wooden Key: progression
+Wrath of Zeus: useful
+Wrecking Rod: useful

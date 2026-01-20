@@ -23,6 +23,7 @@ Bolster: progression
 Breakthrough: progression
 Buckshot: progression
 Bulwark of Faith: progression
+Call the Shot: progression
 Caltrops: unknown
 Chop: progression
 Collect Bounty: progression
@@ -141,5 +142,5 @@ Weakening Curse: progression
 Wicked Hack: progression
 Wicked Slice: progression
 Withstand: progression
-Wyrd Reconstruction: unknown
+Wyrd Reconstruction: progression
 Zealous Accusation: progression

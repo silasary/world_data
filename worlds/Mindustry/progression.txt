@@ -71,7 +71,7 @@ Large Copper Wall: filler
 Large Deconstructor: useful
 Large Door: unknown
 Large Logic Display: unknown
-Large Payload Mass Driver: unknown
+Large Payload Mass Driver: useful
 Large Phase Wall: useful
 Large Plasma Bore: unknown
 Large Plastanium Wall: unknown
@@ -153,7 +153,7 @@ Pulverizer: useful
 Pyratite Mixer: progression
 Pyrolysis Generator: unknown
 RTG Generator: unknown
-Radar: unknown
+Radar: useful
 Regen Projector: unknown
 Reinforced Bridge Conduit: progression
 Reinforced Conduit: useful
@@ -179,7 +179,7 @@ Scorch: unknown
 Segment: unknown
 Separator: unknown
 Shielded Wall: progression
-Ship Assembler: unknown
+Ship Assembler: progression
 Ship Fabricator: progression
 Ship Refabricator: progression
 Shock Mine: unknown
@@ -203,7 +203,7 @@ Surge Tower: unknown
 Surge Wall: unknown
 Swarmer: unknown
 Switch: filler
-Tank Assembler: unknown
+Tank Assembler: progression
 Tank Refabricator: progression
 Thermal Generator: unknown
 Thorium Reactor: unknown

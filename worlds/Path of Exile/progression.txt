@@ -79,7 +79,7 @@ Creeping Frost: unknown
 Cremation: unknown
 Critical Strike Affliction Support: progression
 Cruelty Support: progression
-Crushing Fist: unknown
+Crushing Fist: useful
 Culling Strike Support: progression
 Cursed Ground Support: unknown
 Cyclone: unknown
@@ -114,6 +114,7 @@ Elementalist: unknown
 Enduring Cry: unknown
 Energy Blade: useful
 Ensnaring Arrow: unknown
+Essence Drain: useful
 Eternal Blessing Support: unknown
 Eviscerate: unknown
 Expert Retaliation Support: unknown
@@ -128,6 +129,7 @@ Fist of War Support: unknown
 Flame Link: progression
 Flame Surge: useful
 Flame Wall: unknown
+Flameblast: useful
 Flamethrower Trap: useful
 Flamewood Support: unknown
 Flammability: unknown
@@ -146,10 +148,11 @@ Frost Wall: unknown
 Frostbite: unknown
 Frostblink: unknown
 Frostbolt: useful
+Frozen Legion: useful
 Galvanic Arrow: unknown
 General's Cry: progression
 Generosity Support: progression
-Glacial Hammer: unknown
+Glacial Hammer: progression
 Glacial Shield Swipe: unknown
 Gladiator: progression
 Grace: unknown
@@ -163,6 +166,7 @@ Herald of Agony: useful
 Herald of Ash: progression
 Herald of Ice: unknown
 Herald of Purity: unknown
+Herald of Thunder: useful
 Hex Bloom Support: unknown
 Hextouch Support: progression
 High-Impact Mine Support: unknown
@@ -269,7 +273,7 @@ Progressive max links - BodyArmour: progression
 Progressive max links - Boots: progression
 Progressive max links - Gloves: progression
 Progressive max links - Helm: progression
-Progressive max links - Offhand: unknown
+Progressive max links - Offhand: progression
 Progressive max links - Weapon: progression
 Progressive passive point: progression
 Protective Link: unknown
@@ -290,7 +294,7 @@ Rallying Cry: progression
 Reap: useful
 Reave: useful
 Rejuvenation Totem: useful
-Righteous Fire: unknown
+Righteous Fire: useful
 Rolling Magma: progression
 Ruthless Support: unknown
 Saboteur: unknown
@@ -305,7 +309,7 @@ Seismic Trap: progression
 Shadow: progression
 Shattering Steel: progression
 Shield Charge: useful
-Shock Nova: unknown
+Shock Nova: progression
 Shockwave Totem: useful
 Shrapnel Ballista: useful
 Siphoning Trap: unknown
@@ -375,7 +379,7 @@ War Banner: unknown
 Warden: unknown
 Warlord's Mark: progression
 Wave of Conviction: unknown
-Whirling Blades: unknown
+Whirling Blades: progression
 Wild Strike: useful
 Windburst Support: useful
 Winter Orb: useful

@@ -240,6 +240,7 @@ wh2_dlc09_anc_weapon_fang_of_quaph: filler
 wh2_dlc09_anc_weapon_golden_dagger: unknown
 wh2_dlc09_anc_weapon_inscribed_khopesh: unknown
 wh2_dlc09_anc_weapon_spear_of_pakth: unknown
+wh2_dlc09_bundle_quest_battle_full_hide: filler
 wh2_dlc09_payload_dilemma_soulless_sphinx_first: unknown
 wh2_dlc09_ritual_crafting_tmb_army_capacity_16: unknown
 wh2_dlc09_the_blessed_blade_of_ptra_reward_2: filler

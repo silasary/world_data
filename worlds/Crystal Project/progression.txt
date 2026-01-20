@@ -472,7 +472,7 @@ Equipment - Lucky charm - 1733: unknown
 Equipment - Lunar Mail: useful
 Equipment - Machinist Seal - 2123: unknown
 Equipment - Mage Eater - 1794: unknown
-Equipment - Mages Pike: unknown
+Equipment - Mages Pike: useful
 Equipment - Mages Platter: useful
 Equipment - Mages Robe: useful
 Equipment - Magic Barrier - 1991: unknown
@@ -504,7 +504,7 @@ Equipment - Mermask - 2066: unknown
 Equipment - Mimic Mail: useful
 Equipment - Mirrage - 1707: unknown
 Equipment - Mirror Shard - 2127: unknown
-Equipment - Mirror Shield: unknown
+Equipment - Mirror Shield: useful
 Equipment - Mistcore Beads - 1969: unknown
 Equipment - Mithril Armor - 2078: unknown
 Equipment - Moby Dick: useful
@@ -953,6 +953,7 @@ Home Point - Sky Arena: progression
 Home Point - Slip Glide Ride Entrance: progression
 Home Point - Slip Glide Ride Exit: progression
 Home Point - Soiled Den: progression
+Home Point - Summit Shrine: progression
 Home Point - Tall, Tall Heights: progression
 Home Point - Tall, Tall Souvenir Shop: progression
 Home Point - The Chalice of Tar: progression

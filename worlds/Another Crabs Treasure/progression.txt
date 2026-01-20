@@ -1,5 +1,5 @@
 Aggravation: unknown
-Anemone++: unknown
+Anemone++: useful
 Anemone+: useful
 Anemone: filler
 Another Crab: useful
@@ -58,7 +58,7 @@ Limpet: filler
 Lugnut: unknown
 Lumpsucker+: useful
 Lumpsucker: filler
-Mantis Punch: unknown
+Mantis Punch: progression
 Map Piece - Flotsam Vale: progression
 Map Piece - Heikea: progression
 Map Piece - Pagurus: unknown
@@ -88,7 +88,7 @@ Salp: useful
 Sand Dollar: filler
 Scour Trap: trap
 Scrap Hammer: unknown
-Sea Cucumber: unknown
+Sea Cucumber: useful
 Seaslug: useful
 Seastar++: filler
 Seastar+: useful

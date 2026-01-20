@@ -26,6 +26,7 @@ ChexBlueCard (E3M1): progression
 ChexBlueCard (E3M2): progression
 ChexBlueCard (E3M3): progression
 ChexBlueCard (E3M4): progression
+ChexRedCard (E1M1): progression
 ChexRedCard (E1M2): progression
 ChexRedCard (E1M3): progression
 ChexRedCard (E1M5): progression
@@ -71,9 +72,11 @@ Level Access (E3M4): progression
 Level Access (E3M5): progression
 Level Clear (E1M1): progression
 Level Clear (E1M2): progression
+Level Clear (E1M3): progression
 Level Clear (E1M4): progression
 Level Clear (E1M5): progression
 Level Clear (E2M1): progression
+Level Clear (E2M2): progression
 Level Clear (E2M3): progression
 Level Clear (E2M4): progression
 Level Clear (E2M5): progression

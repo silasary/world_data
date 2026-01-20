@@ -12,6 +12,7 @@ Bastiodon: unknown
 Beach Zone Unlock: unknown
 Bibarel Unlock: progression
 Bibarel: unknown
+Blastoise Unlock: progression
 Blastoise: unknown
 Blaziken Prisma: progression
 Bonsly Unlock: unknown
@@ -37,8 +38,12 @@ Cyndaquil Friendship: progression
 Delibird Friendship: progression
 Delibird Unlock: unknown
 Deoxys: unknown
+Diglett Unlock: progression
+Dragonite Friendship: progression
 Drifblim Unlock: progression
 Drifblim: unknown
+Dusknoir Friendship: progression
+Dusknoir Unlock: progression
 Duskull Friendship: progression
 Duskull: unknown
 Electabuzz Unlock: unknown
@@ -51,6 +56,7 @@ Electrode: unknown
 Elekid: unknown
 Empoleon Friendship: progression
 Empoleon Prisma: unknown
+Espeon Unlock: progression
 Feraligatr: unknown
 Flareon Friendship: progression
 Flareon: unknown
@@ -91,6 +97,7 @@ Jirachi Unlock: progression
 Jirachi: unknown
 Jolteon Unlock: progression
 Jolteon: unknown
+Kakuna Unlock: progression
 Kakuna: unknown
 Krabby Friendship: progression
 Krabby: unknown
@@ -122,6 +129,7 @@ Misdreavus Friendship: progression
 Mismagius Friendship: progression
 Mismagius Unlock: unknown
 Mismagius: unknown
+Munchlax Friendship: progression
 Murkrow Friendship: progression
 Murkrow: unknown
 Ninetales Unlock: unknown
@@ -133,6 +141,7 @@ Phanpy Friendship: progression
 Phanpy Unlock: progression
 Phanpy: progression
 Pichu: unknown
+Pikachu Snowboard: progression
 Piloswine: unknown
 Ponyta Unlock: unknown
 Ponyta: unknown
@@ -145,6 +154,7 @@ Progressive Dash: progression
 Progressive Health: progression
 Progressive Iron Tail: progression
 Progressive Thunderbolt: unknown
+Psyduck Friendship: progression
 Psyduck: unknown
 Quagsire Friendship: progression
 Quagsire: unknown
@@ -167,12 +177,13 @@ Sneasel: unknown
 Snorlax Friendship: progression
 Spinarak Friendship: filler
 Squirtle: unknown
+Staraptor Friendship: progression
 Staravia: unknown
 Starly Unlock 2: unknown
 Stunky Unlock: unknown
 Stunky: unknown
 Sudowoodo Friendship: progression
-Sudowoodo Unlock: unknown
+Sudowoodo Unlock: progression
 Sudowoodo: progression
 Suicune Friendship: progression
 Suicune: unknown
@@ -190,7 +201,7 @@ Totodile Unlock: progression
 Tropius Friendship: progression
 Tropius: unknown
 Turtwig: unknown
-Tyranitar Unlock: unknown
+Tyranitar Unlock: progression
 Tyranitar: unknown
 Umbreon: unknown
 Ursaring Friendship: progression

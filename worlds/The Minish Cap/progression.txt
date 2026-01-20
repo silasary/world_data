@@ -81,6 +81,7 @@ Figurine: progression
 Fire Element: progression
 Fire Rod: progression
 Flippers: progression
+Four Sword: progression
 Freeze Trap: trap
 Graveyard Key: progression
 Greatspin: progression
@@ -110,6 +111,7 @@ LikeLike Trap: trap
 LonLon Key: progression
 Long Spin: progression
 Magic Boomerang: progression
+Mirror Shield: progression
 Mole Mitts: progression
 Ocarina: progression
 Pegasus Boots: progression
@@ -132,6 +134,7 @@ Roll Attack: progression
 Rope Trap: trap
 Rupee Trap: trap
 Shells: progression
+Shield: progression
 Small Key (CoF): progression
 Small Key (DHC): progression
 Small Key (DWS): progression
@@ -149,5 +152,6 @@ Tingle Trophy: progression
 Wakeup Mushroom: progression
 Water Element: progression
 White Sword (Blue): progression
+White Sword (Red): progression
 Wind Element: progression
 Zap Trap: trap

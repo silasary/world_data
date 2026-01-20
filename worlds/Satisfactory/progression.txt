@@ -155,6 +155,7 @@ Bundle: Blade Runners: useful
 Bundle: Blue Power Slug: filler
 Bundle: Boom Box: filler
 Bundle: Cable: filler
+Bundle: Candy Cane: filler
 Bundle: Caterium Ingot: filler
 Bundle: Caterium Ore: filler
 Bundle: Chainsaw: filler
@@ -424,6 +425,8 @@ Recipe: Encased Industrial Pipe: progression
 Recipe: Encased Plutonium Cell: progression
 Recipe: Encased Uranium Cell: progression
 Recipe: Explosive Rebar: useful
+Recipe: FICSMAS Bow: progression
+Recipe: FICSMAS Tree Branch: progression
 Recipe: Fabric: progression
 Recipe: Factory Cart: useful
 Recipe: Fertile Uranium: progression
