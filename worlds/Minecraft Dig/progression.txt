@@ -4,10 +4,13 @@ Bad Air: trap
 Bee Trap: trap
 Creeper Trap: trap
 Defensive Fish: progression
+Excavation Boost: useful
 Fish Fountain: trap
 Flash Flood: trap
 Golden Pick: useful
 Goon Squad: trap
+Haste Boost: useful
+Increased Gravity: trap
 Pesky Bird: trap
 Pet the kitty: trap
 Pocket Sand: trap
@@ -22,3 +25,4 @@ Spawn Wither: trap
 TNT: useful
 True Golden Pick: useful
 Wingardium Leviosa: trap
+World Barrier Expansion: progression

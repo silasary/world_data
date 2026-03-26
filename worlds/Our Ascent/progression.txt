@@ -1,0 +1,96 @@
+Accessory - Apolonia Death Ring I: useful
+Accessory - Apolonia Death Ring II: useful
+Accessory - Apolonia Enchanted Ring: useful
+Accessory - Apolonia Recovery Ring: useful
+Accessory - Apolonia Slim Double Band: useful
+Accessory - Hina Blood Ring: useful
+Accessory - Hina Dagger Amulet: useful
+Accessory - Hina Tooth Amulet: useful
+Accessory - Lan Defeated Earring: useful
+Accessory - Lan Slim Band: useful
+Accessory - Sibyl Dull Ring: useful
+Accessory - Sibyl Masked Amulet: useful
+Accessory - Sibyl Power Ring: useful
+Accessory - Sibyl Slim Double Band: useful
+Accessory - Sibyl Twilight Amulet: useful
+Accessory - Stan Engraved Ring: useful
+Accessory - Stan Slim Band: useful
+Accessory - Stan Studded Band: useful
+Augment - Apolonia Holy Power: progression
+Augment - Apolonia Magical Imbuement: progression
+Augment - Apolonia Mobility: progression
+Augment - Apolonia Weapon Mastery: progression
+Augment - Hina Form Training: progression
+Augment - Hina Kick Training: progression
+Augment - Hina Mighty Monkey: progression
+Augment - Hina Patient Panda: progression
+Augment - Hina Punch Training: progression
+Augment - Hina Sinister Serpent: progression
+Augment - Hina Speed Training: progression
+Augment - Hina Tenacious Tiger: progression
+Augment - Lan Bloodthirsty Quiver: progression
+Augment - Lan Hunter's Insight: progression
+Augment - Lan Killer Instinct: progression
+Augment - Lan Lucky Shots: progression
+Augment - Lan Relentless Fire: progression
+Augment - Sibyl Dual Depredation: progression
+Augment - Sibyl Grounded Motion: progression
+Augment - Sibyl Ruinous Bleed: progression
+Augment - Sibyl Stunning Distraction: progression
+Augment - Stan Amplified Strength: progression
+Augment - Stan Defiant Guard: progression
+Augment - Stan Vitality Boost: progression
+Character - Playable Apolonia: progression
+Character - Playable Hina: progression
+Character - Playable Lan: progression
+Character - Playable Sibyl: progression
+Equipment - Apolonia Progressive Boots: progression
+Equipment - Apolonia Progressive Breastplate: progression
+Equipment - Apolonia Progressive Gloves: progression
+Equipment - Apolonia Progressive Helmet: progression
+Equipment - Apolonia Progressive Shield: progression
+Equipment - Apolonia Progressive Sword: progression
+Equipment - Hina Progressive Cloak: progression
+Equipment - Hina Progressive Helmet: progression
+Equipment - Hina Progressive Left Weapon: progression
+Equipment - Hina Progressive Right Weapon: progression
+Equipment - Hina Progressive Shirt: progression
+Equipment - Hina Progressive Snack: progression
+Equipment - Lan Progressive Arrow: progression
+Equipment - Lan Progressive Belt: progression
+Equipment - Lan Progressive Bow: progression
+Equipment - Lan Progressive Cloak: progression
+Equipment - Lan Progressive Hat: progression
+Equipment - Lan Progressive Pants: progression
+Equipment - Sibyl Progressive Accessory: progression
+Equipment - Sibyl Progressive Boots: progression
+Equipment - Sibyl Progressive Gloves: progression
+Equipment - Sibyl Progressive Left Weapon: progression
+Equipment - Sibyl Progressive Pouch: progression
+Equipment - Sibyl Progressive Right Weapon: progression
+Equipment - Stan Progressive Belt: progression
+Equipment - Stan Progressive Gloves: progression
+Equipment - Stan Progressive Pants: progression
+Equipment - Stan Progressive Shirt: progression
+Equipment - Stan Progressive Snack: progression
+Equipment - Stan Progressive Sword: progression
+Hina Meditates: filler
+Sibyl Gets Drunk: filler
+Stan Falls Asleep: filler
+Stat Base - Apolonia Encounter Points: useful
+Stat Base - Apolonia Temp AGI Multi Per Turn: useful
+Stat Base - Apolonia Temp ATK Multi Per Turn: useful
+Stat Base - Apolonia Temp DEF Multi Per Turn: useful
+Stat Base - Hina Encounter Points: useful
+Stat Base - Hina Extra EP Per Boss: useful
+Stat Base - Hina Max HP Heal Per Turn: useful
+Stat Base - Lan Current HP Heal Per Attack: useful
+Stat Base - Lan Encounter Points: useful
+Stat Base - Lan Missing HP Heal Per Attack: useful
+Stat Base - Sibyl Attack Per Stat Point: useful
+Stat Base - Stan AGI Under 50%: useful
+Stat Base - Stan ATK Under 50%: useful
+Stat Base - Stan Initial Combo: useful
+Stat Base - Stan LUC Under 50%: useful
+Stat Mult - Apolonia Health: useful
+Stat Mult - Lan Stat Point Per Level: useful

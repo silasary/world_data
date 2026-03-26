@@ -1,25 +1,54 @@
 Broadsword Charge (20): filler
 Broadsword Charge (50): filler
+Chaos Rune: Ghost Ship: progression
+Chaos Rune: Pools of the Ancient Dead: progression
 Chaos Rune: Pumpkin Gorge: progression
+Chaos Rune: Scarecrow Fields: progression
+Chaos Rune: The Asylum Grounds: progression
+Chaos Rune: The Graveyard: progression
+Chaos Rune: The Haunted Ruins: progression
 Chaos Rune: The Hilltop Mausoleum: progression
+Chaos Rune: The Lake: progression
+Chaos Rune: The Sleeping Village: progression
+Chaos Rune: The Time Device: progression
 Chicken Drumsticks Ammo (10): filler
 Club Charge (20): filler
 Club Charge (50): filler
+Copper Shield Ammo (100): filler
 Copper Shield Ammo (50): filler
 Crossbow Ammo (20): filler
 Crossbow Ammo (50): filler
 Dagger Ammo (10): filler
 Dagger Ammo (20): filler
 Earth Rune: Enchanted Earth: progression
+Earth Rune: Inside the Asylum: progression
 Earth Rune: Pumpkin Gorge: progression
+Earth Rune: Scarecrow Fields: progression
 Earth Rune: The Crystal Caves: progression
+Earth Rune: The Graveyard: progression
+Earth Rune: The Haunted Ruins: progression
+Earth Rune: The Hilltop Mausoleum: progression
+Earth Rune: The Lake: progression
 Earth Rune: The Sleeping Village: progression
+Earth Rune: The Time Device: progression
 Equipment: Axe: useful
+Equipment: Broadsword: useful
 Equipment: Chicken Drumsticks: useful
+Equipment: Club: progression
 Equipment: Copper Shield: useful
 Equipment: Crossbow: useful
+Equipment: Daggers: useful
+Equipment: Dragon Armour: useful
+Equipment: Fire Longbow: useful
+Equipment: Gold Shield: useful
 Equipment: Good Lightning: useful
+Equipment: Hammer: useful
+Equipment: Longbow: useful
+Equipment: Magic Longbow: useful
+Equipment: Magic Sword: useful
+Equipment: Silver Shield: useful
 Equipment: Small Sword: useful
+Equipment: Spear: useful
 Fire Longbow Ammo (20): filler
 Fire Longbow Ammo (50): filler
 Gold Coins (100): filler
@@ -30,16 +59,38 @@ Gold Shield Ammo (50): filler
 Health Vial (150): filler
 Health Vial (300): filler
 Health Vial (50): filler
+Key Item: Amber Piece 1: progression
 Key Item: Amber Piece 2: progression
 Key Item: Amber Piece 3: progression
+Key Item: Amber Piece 4: progression
+Key Item: Amber Piece 5: progression
 Key Item: Amber Piece 6: progression
+Key Item: Amber Piece 7: progression
+Key Item: Crucifix Cast: progression
+Key Item: Crucifix: progression
 Key Item: Dragon Gem - Inside the Asylum: progression
+Key Item: Dragon Gem - Pumpkin Serpent: progression
+Key Item: Harvester Parts: progression
 Key Item: Safe Key: progression
+Key Item: Shadow Artefact: progression
+Key Item: Shadow Talisman: progression
 Key Item: Sheet Music: progression
+Key Item: Soul Helmet 1: progression
+Key Item: Soul Helmet 2: progression
 Key Item: Soul Helmet 3: progression
+Key Item: Soul Helmet 4: progression
 Key Item: Soul Helmet 5: progression
 Key Item: Soul Helmet 6: progression
+Key Item: Soul Helmet 7: progression
+Key Item: Witches Talisman: progression
+Life Bottle: Dan's Crypt - Behind Wall: progression
 Life Bottle: Dan's Crypt: progression
+Life Bottle: Hall of Heroes (Canny Tim): progression
+Life Bottle: Hall of Heroes (Dirk Steadfast): progression
+Life Bottle: Hall of Heroes (Ravenhooves The Archer): progression
+Life Bottle: Scarecrow Fields: progression
+Life Bottle: The Graveyard: progression
+Life Bottle: The Time Device: progression
 Lightning Charge (30): filler
 Lightning Charge (50): filler
 Longbow Ammo (20): filler
@@ -47,12 +98,24 @@ Longbow Ammo (50): filler
 Magic Longbow Ammo (20): filler
 Magic Longbow Ammo (50): filler
 Moon Rune: Ghost Ship: progression
+Moon Rune: Pumpkin Gorge: progression
+Moon Rune: Scarecrow Fields: progression
+Moon Rune: The Hilltop Mausoleum: progression
 Moon Rune: The Sleeping Village: progression
+Moon Rune: The Time Device: progression
 Silver Shield Ammo (100): filler
 Silver Shield Ammo (50): filler
+Skill: Daring Dash: progression
 Spear Ammo (20): filler
 Spear Ammo (50): filler
 Star Rune: Dan's Crypt: progression
+Star Rune: Enchanted Earth: progression
 Star Rune: Ghost Ship: progression
+Star Rune: Pumpkin Gorge: progression
+Star Rune: Return to the Graveyard: progression
 Star Rune: The Crystal Caves: progression
 Star Rune: The Gallows Gauntlet: progression
+Star Rune: The Lake: progression
+Time Rune: Pumpkin Gorge: progression
+Time Rune: The Lake: progression
+Time Rune: The Time Device: progression

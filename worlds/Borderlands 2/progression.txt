@@ -1,1 +1,320 @@
-
+$100: filler
+10 Eridium: filler
+10% Exp: filler
+3 Skill Points: filler
+Backpack Upgrade: filler
+BlueCandy: filler
+Common AssaultRifle: progression
+Common GrenadeMod: progression
+Common Pistol: progression
+Common Relic: progression
+Common SMG: progression
+Common Shield: progression
+Common Shotgun: progression
+Crouch: progression
+E-Tech AssaultRifle: progression
+E-Tech Relic: progression
+E-Tech SMG: progression
+E-Tech Shotgun: progression
+Filler Gear: 12 Pounder: filler
+Filler Gear: 1340 Shield: filler
+Filler Gear: Actualizer: filler
+Filler Gear: Aequitas: filler
+Filler Gear: Amigo Sincero: filler
+Filler Gear: Antagonist: filler
+Filler Gear: Baby Maker: filler
+Filler Gear: Bitch: filler
+Filler Gear: Black Hole: filler
+Filler Gear: Blockade: filler
+Filler Gear: Blockhead: filler
+Filler Gear: Blood of Terramorphous: filler
+Filler Gear: Blood of the Ancients: filler
+Filler Gear: Blood of the Seraphs: filler
+Filler Gear: Bone Shredder: filler
+Filler Gear: Bouncing Bonny: filler
+Filler Gear: Breath of Terramorphous: filler
+Filler Gear: Breath of the Seraphs: filler
+Filler Gear: Butcher: filler
+Filler Gear: Crit: filler
+Filler Gear: Crossfire: filler
+Filler Gear: Deadly Bloom: filler
+Filler Gear: Deliverance: filler
+Filler Gear: Dog: filler
+Filler Gear: Elephant Gun: filler
+Filler Gear: Evil Smasher: filler
+Filler Gear: Evolution: filler
+Filler Gear: Fire Storm: filler
+Filler Gear: Fireball: filler
+Filler Gear: Flakker: filler
+Filler Gear: Flame of the Firehawk: filler
+Filler Gear: Fuster Cluck: filler
+Filler Gear: Gemstone AssaultRifle: filler
+Filler Gear: Gemstone Pistol: filler
+Filler Gear: Gemstone Shotgun: filler
+Filler Gear: Gemstone SniperRifle: filler
+Filler Gear: Godfinger: filler
+Filler Gear: Good Touch: filler
+Filler Gear: Gub: filler
+Filler Gear: Gunerang: filler
+Filler Gear: Hard Carry: filler
+Filler Gear: Heart Breaker: filler
+Filler Gear: Heart of the Ancients: filler
+Filler Gear: Hector's Paradise: filler
+Filler Gear: Hellfire: filler
+Filler Gear: Hornet: filler
+Filler Gear: Hydra: filler
+Filler Gear: Interfacer: filler
+Filler Gear: Invader: filler
+Filler Gear: KerBlaster: filler
+Filler Gear: Kitten: filler
+Filler Gear: Lady Fist: filler
+Filler Gear: Lascaux: filler
+Filler Gear: Leech: filler
+Filler Gear: Lightning Bolt: filler
+Filler Gear: Longbow: filler
+Filler Gear: Lucrative Opportunity: filler
+Filler Gear: Madhous!: filler
+Filler Gear: Magic Missile (Purple): filler
+Filler Gear: Manly Man Shield: filler
+Filler Gear: Meteor Shower: filler
+Filler Gear: Midnight Star: filler
+Filler Gear: Mongol: filler
+Filler Gear: Mouthwash: filler
+Filler Gear: Moxxi's Endowment: filler
+Filler Gear: Nasty Surprise: filler
+Filler Gear: Nirvana: filler
+Filler Gear: Norfleet: filler
+Filler Gear: Nukem: filler
+Filler Gear: Octo: filler
+Filler Gear: Omen: filler
+Filler Gear: Order: filler
+Filler Gear: Orphan Maker: filler
+Filler Gear: Otto Idol: filler
+Filler Gear: Overcompensator: filler
+Filler Gear: Peak Opener: filler
+Filler Gear: Pimpernel: filler
+Filler Gear: Pyrophobia: filler
+Filler Gear: Rapier: filler
+Filler Gear: Retcher: filler
+Filler Gear: Rolling Thunder: filler
+Filler Gear: Sand Hawk: filler
+Filler Gear: Scorpio: filler
+Filler Gear: Shadow of the Seraphs: filler
+Filler Gear: Shredifier: filler
+Filler Gear: Skin of the Ancients: filler
+Filler Gear: Skullmasher: filler
+Filler Gear: Slow Hand: filler
+Filler Gear: Sponge: filler
+Filler Gear: Striker: filler
+Filler Gear: Teeth of Terramorphous: filler
+Filler Gear: The Afterburner: filler
+Filler Gear: The Cradle: filler
+Filler Gear: The Electric Chair: filler
+Filler Gear: Tidal Wave: filler
+Filler Gear: Toothpick: filler
+Filler Gear: Triquetra: filler
+Filler Gear: Tunguska: filler
+Filler Gear: Twister: filler
+Filler Gear: Unforgiven: filler
+Filler Gear: Unkempt Harold: filler
+Filler Gear: Veruc: filler
+Filler Gear: VeryRare Shotgun: filler
+Filler Gear: Whisky Tango Foxtrot: filler
+Filler Gear: Winter is Over: filler
+Filler Gear: World Burn: filler
+Filler Gear: Yellow Jacket: filler
+GreenCandy: filler
+Legendary ClassMod: progression
+Legendary Pistol: progression
+Legendary SniperRifle: progression
+Max Ammo AssaultRifle: filler
+Max Ammo Pistol: filler
+Max Ammo RocketLauncher: filler
+Max Ammo SMG: filler
+Max Ammo Shotgun: filler
+Max Ammo SniperRifle: filler
+Max Grenade Count: filler
+Progressive Jump: progression
+Progressive Money Cap: progression
+Progressive Sprint: progression
+Progressive Weapon Slot: useful
+Rare AssaultRifle: progression
+Rare GrenadeMod: progression
+Rare SMG: progression
+Rare Shield: progression
+Rare Shotgun: progression
+RedCandy: filler
+Reward: 3:10 to Kaboom: filler
+Reward: A Hard Place: filler
+Reward: A Match Made on Pandora: filler
+Reward: A Warm Welcome: filler
+Reward: Animal Rescue: Shelter: filler
+Reward: Arms Dealing: filler
+Reward: Assassinate the Assassins: filler
+Reward: BFFFs: filler
+Reward: BFFs: filler
+Reward: Bad Hair Day: filler
+Reward: Bandit Slaughter: Round 2: filler
+Reward: Bandit Slaughter: Round 3: filler
+Reward: Bandit Slaughter: Round 4: filler
+Reward: Battle: Twelve O' Clock High: filler
+Reward: Bearer of Bad News: filler
+Reward: Best Minion Ever: filler
+Reward: Big Feet: filler
+Reward: Breaking the Bank: filler
+Reward: Capture the Flags: filler
+Reward: Catch-A-Ride, and Also Tetanus: filler
+Reward: Chief Executive Overlord: filler
+Reward: Chop Suey: filler
+Reward: Clan War: Reach the Dead Drop: filler
+Reward: Clan War: Starting the War: filler
+Reward: Clan War: Trailer Trashing: filler
+Reward: Clan War: Zafords vs. Hodunks: filler
+Reward: Claptrap's Birthday Bash!: filler
+Reward: Crazy About You: filler
+Reward: Creature Slaughter: Round 4: filler
+Reward: Creature Slaughter: Round 5: filler
+Reward: Critical Fail: filler
+Reward: Cult Following: Eternal Flame: filler
+Reward: Cult Following: Lighting the Match: filler
+Reward: Cult Following: The Enkindling: filler
+Reward: Defend Slab Tower: filler
+Reward: Do No Harm: filler
+Reward: Don't Copy That Floppy: filler
+Reward: Echoes of the Past: filler
+Reward: Ell in Shining Armor: filler
+Reward: Follow The Glow: filler
+Reward: Fun, Sun, and Guns: filler
+Reward: Get Frosty: filler
+Reward: Get Your Motor Running: filler
+Reward: Giving Jocko A Leg Up: filler
+Reward: Grendel: filler
+Reward: Hidden Journals: filler
+Reward: Highway To Hell: filler
+Reward: Home Movies: filler
+Reward: I Know It When I See It: filler
+Reward: Kill Yourself: filler
+Reward: Learning to Love: filler
+Reward: MMORPGFPS: filler
+Reward: Magic Slaughter: Round 3: filler
+Reward: Magic Slaughter: Round 5: filler
+Reward: Medical Mystery: filler
+Reward: Message in a Bottle 3 (HaytersFolly): filler
+Reward: Mighty Morphin': filler
+Reward: Mine, All Mine: filler
+Reward: Monster Hunter: filler
+Reward: Mother-Lover: filler
+Reward: My Dead Brother: filler
+Reward: Nakayama-rama: filler
+Reward: Note for Self-Person: filler
+Reward: Palling Around: filler
+Reward: Perfectly Peaceful: filler
+Reward: Poetic License: filler
+Reward: Positive Self Image: filler
+Reward: Professor Nakayama, I Presume?: filler
+Reward: Rakkaholics Anonymous: filler
+Reward: Rock, Paper, Genocide: Slag Weapons!: filler
+Reward: Roll Insight: filler
+Reward: Shielded Favors: filler
+Reward: Shoot This Guy in the Face: filler
+Reward: Slap-Happy: filler
+Reward: Smells Like Victory: filler
+Reward: Spore Chores: filler
+Reward: The Amulet: filler
+Reward: The Bane: filler
+Reward: The Bloody Harvest: filler
+Reward: The Cold Shoulder: filler
+Reward: The Cost of Progress: filler
+Reward: The Dawn of New Pandora: filler
+Reward: The Fall of Nakayama: filler
+Reward: The Hermit: filler
+Reward: The Lost Treasure: filler
+Reward: The Name Game: filler
+Reward: The Overlooked: Medicine Man: filler
+Reward: The Pretty Good Train Robbery: filler
+Reward: The Rakk Dahlia Murder: filler
+Reward: The Road to Sanctuary: filler
+Reward: This Town Ain't Big Enough: filler
+Reward: Tier 2 Battle: The Death Race: filler
+Reward: Tier 3 Battle: Bar Room Blitz: filler
+Reward: Tier 3 Rematch: Appetite for Destruction: filler
+Reward: Tier 3 Rematch: The Death Race: filler
+Reward: Tier 3 Rematch: Twelve O' Clock High: filler
+Reward: Too Close For Missiles: filler
+Reward: Torture Chairs: filler
+Reward: Totally Recall: filler
+Reward: Tree Hugger: filler
+Reward: Uncle Teddy: filler
+Reward: Urine, You're Out: filler
+Reward: Walking the Dog: filler
+Reward: Welcome To The Jungle: filler
+Reward: Whoops: filler
+Reward: Winging It: filler
+Reward: Wingman: filler
+Reward: Won't Get Fooled Again: filler
+Reward: Written by the Victor: filler
+Reward: Ye Scurvy Dogs: filler
+Reward: You Are Cordially Invited: Party Prep: filler
+Reward: You Are Cordially Invited: Tea Party: filler
+Reward: You. Will. Die. (Seriously.): filler
+Trap Spawn: Creepers: trap
+Trap Spawn: Doc Mercy: trap
+Trap Spawn: Dukino's Mom: trap
+Trap Spawn: Saturn: trap
+Travel: Arid Nexus Badlands: progression
+Travel: Arid Nexus Boneyard: progression
+Travel: Badass Crater Bar: progression
+Travel: Bloodshot Stronghold: progression
+Travel: Control Core Angel: progression
+Travel: End of the Line: progression
+Travel: Eridium Blight: progression
+Travel: FFS Intro Sanctuary: progression
+Travel: Fink's Slaughterhouse: progression
+Travel: Flamerock Refuge: progression
+Travel: Frostburn Canyon: progression
+Travel: Gluttony Gulch: progression
+Travel: Hallowed Hollow: progression
+Travel: Hatred's Shadow: progression
+Travel: Highlands Outwash: progression
+Travel: Immortal Woods: progression
+Travel: Mines of Avarice: progression
+Travel: Natural Selection Annex: progression
+Travel: Ore Chasm: progression
+Travel: Pyro Pete's Bar: progression
+Travel: Sanctuary Hole: progression
+Travel: Southern Raceway: progression
+Travel: Southern Shelf Bay: progression
+Travel: Southern Shelf: progression
+Travel: Terminus: progression
+Travel: The Backburner: progression
+Travel: The Beatdown: progression
+Travel: The Bunker: progression
+Travel: The Forest: progression
+Travel: The Fridge: progression
+Travel: The Rustyards: progression
+Travel: Thousand Cuts: progression
+Travel: Three Horns Divide: progression
+Travel: Tundra Express: progression
+Travel: Wam Bam Island: progression
+Travel: Writhing Deep: progression
+Uncommon AssaultRifle: progression
+Uncommon ClassMod: progression
+Uncommon GrenadeMod: progression
+Uncommon Pistol: progression
+Uncommon RocketLauncher: progression
+Uncommon Shield: progression
+Unique RocketLauncher: progression
+Unique SMG: progression
+Unique Shield: progression
+Unique Shotgun: progression
+Unique SniperRifle: progression
+VeryRare AssaultRifle: progression
+VeryRare GrenadeMod: progression
+VeryRare Pistol: progression
+VeryRare Relic: progression
+VeryRare RocketLauncher: progression
+VeryRare SMG: progression
+VeryRare Shield: progression
+VeryRare Shotgun: progression
+VeryRare SniperRifle: progression
+YellowCandy: filler

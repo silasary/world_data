@@ -25,7 +25,7 @@
 2x Copper: filler
 2x Corn: filler
 2x Cotton: filler
-2x Craft Box: unknown
+2x Craft Box: filler
 2x Crimson Gem: filler
 2x Crystal Shard: filler
 2x Emerald: unknown
@@ -111,9 +111,9 @@
 3x Reward Box Lvl 2: filler
 3x Reward Box Lvl 3: useful
 3x Reward Box Lvl 4: filler
-3x Reward Box X: unknown
+3x Reward Box X: filler
 3x Silk: unknown
-3x Silver: unknown
+3x Silver: filler
 3x Skill Resetter: unknown
 3x Small Antidote: filler
 3x Small Potion: unknown
@@ -238,7 +238,7 @@ Aurumtail Saddle: progression
 Azure Gem: unknown
 Banana: filler
 Bandana+1: unknown
-Bandana+2: unknown
+Bandana+2: filler
 Bandana+3: unknown
 Bandana+4: useful
 Bandana+5: unknown
@@ -322,10 +322,10 @@ Caraglow Collar: progression
 Caraglow Egg: unknown
 Carrot: filler
 Catzerker Egg: unknown
-Catzerker's Blade: unknown
+Catzerker's Blade: progression
 Cauldron+1: unknown
 Cauldron+2: unknown
-Cauldron+3: unknown
+Cauldron+3: filler
 Cauldron+4: unknown
 Cauldron+5: unknown
 Cauldron: unknown
@@ -754,7 +754,7 @@ Magic Bell: progression
 Magical Clay: useful
 Magma Chamber key: progression
 Magmamoth Egg: unknown
-Magmamoth Pheromones: unknown
+Magmamoth Pheromones: progression
 Magmapillar Egg: unknown
 Majestic Crown: progression
 Mana Crystal: progression
@@ -784,7 +784,7 @@ Medallion: unknown
 Mega Potion: filler
 Mega Rock Egg: unknown
 Megataur Egg: unknown
-Memorial Ring: unknown
+Memorial Ring: progression
 Mimic Egg: unknown
 Mining Helmet: progression
 Minitaur Egg: unknown
@@ -803,7 +803,7 @@ Moon Ring+1: unknown
 Moon Ring+2: unknown
 Moon Ring+3: unknown
 Moon Ring+4: unknown
-Moon Ring+5: unknown
+Moon Ring+5: filler
 Moon Ring: unknown
 Moon Sword+1: filler
 Moon Sword+2: unknown
@@ -835,10 +835,10 @@ Nimble Wings+3: unknown
 Nimble Wings+4: unknown
 Nimble Wings+5: useful
 Nimble Wings: filler
-Nimbus Cloud: unknown
+Nimbus Cloud: progression
 Ninki Egg: unknown
 Ninki Nanka Egg: unknown
-Oaken Mask: unknown
+Oaken Mask: progression
 Ocarina+1: filler
 Ocarina+2: unknown
 Ocarina+3: unknown
@@ -908,7 +908,7 @@ Pirate Hook+4: unknown
 Pirate Hook+5: unknown
 Pirate Hook: unknown
 Plague Mask: progression
-Pneumatic Piston: unknown
+Pneumatic Piston: progression
 Poison Trap: unknown
 Poisoned Dart+1: unknown
 Poisoned Dart+2: unknown
@@ -1073,7 +1073,7 @@ Slimy Ball+1: unknown
 Slimy Ball+2: unknown
 Slimy Ball+3: unknown
 Slimy Ball+4: unknown
-Slimy Ball+5: unknown
+Slimy Ball+5: filler
 Slimy Ball: useful
 Small Antidote: unknown
 Small Potion: unknown
@@ -1112,7 +1112,7 @@ Spirit Charm: unknown
 Staff of Doom+1: unknown
 Staff of Doom+2: useful
 Staff of Doom+3: unknown
-Staff of Doom+4: unknown
+Staff of Doom+4: filler
 Staff of Doom+5: unknown
 Staff of Doom: useful
 Staff+1: unknown
@@ -1131,7 +1131,7 @@ Static Loop: useful
 Steam Golem Egg: unknown
 Steel: filler
 Stolby Egg: unknown
-Stolby's Spellbook: unknown
+Stolby's Spellbook: progression
 Strange Spores: unknown
 Strawberry: filler
 Stronghold Dungeon key: progression
@@ -1163,7 +1163,7 @@ Sustain Ring: filler
 Sutsune Egg: unknown
 Sutsune's True Name: progression
 Swallow+1: unknown
-Swallow+2: unknown
+Swallow+2: filler
 Swallow+3: filler
 Swallow+4: unknown
 Swallow+5: unknown
@@ -1232,7 +1232,7 @@ Totem+4: unknown
 Totem+5: unknown
 Totem: useful
 Toxic Pot+1: unknown
-Toxic Pot+2: unknown
+Toxic Pot+2: filler
 Toxic Pot+3: unknown
 Toxic Pot+4: unknown
 Toxic Pot+5: unknown

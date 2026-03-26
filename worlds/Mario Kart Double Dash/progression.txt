@@ -14,7 +14,7 @@ Acceleration Boost for Piranha Pipes: progression
 Acceleration Boost for Rattle Buggy: progression
 Acceleration Boost for Red Fire: progression
 Acceleration Boost for Toad Kart: progression
-Acceleration Boost for Toadette Kart: unknown
+Acceleration Boost for Toadette Kart: progression
 Acceleration Boost for Turbo Birdo: useful
 Acceleration Boost for Turbo Yoshi: progression
 Acceleration Boost for Waluigi Racer: progression
@@ -215,7 +215,7 @@ Giant Banana for Paratroopa: progression
 Giant Banana for Peach: useful
 Giant Banana for Petey Piranha: progression
 Giant Banana for Toad: useful
-Giant Banana for Toadette: unknown
+Giant Banana for Toadette: progression
 Giant Banana for Waluigi: useful
 Giant Banana for Wario: progression
 Giant Banana for Yoshi: useful
@@ -243,7 +243,7 @@ Golden Mushroom for Yoshi: useful
 Goo-Goo Buggy: useful
 Green Fire: progression
 Green Shell for Baby Luigi: progression
-Green Shell for Baby Mario: unknown
+Green Shell for Baby Mario: progression
 Green Shell for Birdo: useful
 Green Shell for Bowser Jr.: progression
 Green Shell for Bowser: progression
@@ -266,7 +266,7 @@ Green Shell for Yoshi: progression
 Heart Coach: progression
 Heart for Baby Luigi: progression
 Heart for Baby Mario: useful
-Heart for Birdo: unknown
+Heart for Birdo: progression
 Heart for Bowser Jr.: unknown
 Heart for Bowser: useful
 Heart for Daisy: useful
@@ -317,7 +317,7 @@ Mario: progression
 Mini-turbo Extender for Barrel Train: progression
 Mini-turbo Extender for Bloom Coach: progression
 Mini-turbo Extender for Boo Pipes: useful
-Mini-turbo Extender for Bullet Blaster: unknown
+Mini-turbo Extender for Bullet Blaster: progression
 Mini-turbo Extender for DK Jumbo: progression
 Mini-turbo Extender for Goo-Goo Buggy: useful
 Mini-turbo Extender for Green Fire: progression
@@ -398,7 +398,7 @@ Power Steering for Green Fire: progression
 Power Steering for Heart Coach: progression
 Power Steering for Koopa Dasher: progression
 Power Steering for Koopa King: progression
-Power Steering for Para-Wing: unknown
+Power Steering for Para-Wing: progression
 Power Steering for Parade Kart: progression
 Power Steering for Piranha Pipes: progression
 Power Steering for Rattle Buggy: progression
@@ -511,10 +511,10 @@ Triple Green Shells for Waluigi: useful
 Triple Green Shells for Wario: progression
 Triple Green Shells for Yoshi: progression
 Triple Mushrooms for Baby Luigi: progression
-Triple Mushrooms for Baby Mario: unknown
+Triple Mushrooms for Baby Mario: progression
 Triple Mushrooms for Birdo: filler
 Triple Mushrooms for Bowser Jr.: progression
-Triple Mushrooms for Bowser: unknown
+Triple Mushrooms for Bowser: progression
 Triple Mushrooms for Daisy: useful
 Triple Mushrooms for Donkey Kong: progression
 Triple Mushrooms for Everybody: progression
@@ -522,14 +522,14 @@ Triple Mushrooms for King Boo: progression
 Triple Mushrooms for Koopa: useful
 Triple Mushrooms for Luigi: progression
 Triple Mushrooms for Mario: useful
-Triple Mushrooms for Paratroopa: unknown
+Triple Mushrooms for Paratroopa: progression
 Triple Mushrooms for Peach: filler
 Triple Mushrooms for Petey Piranha: progression
 Triple Mushrooms for Toad: useful
 Triple Mushrooms for Toadette: progression
 Triple Mushrooms for Waluigi: useful
 Triple Mushrooms for Wario: progression
-Triple Mushrooms for Yoshi: unknown
+Triple Mushrooms for Yoshi: progression
 Triple Red Shells for Baby Luigi: progression
 Triple Red Shells for Baby Mario: useful
 Triple Red Shells for Birdo: useful
@@ -579,7 +579,7 @@ Yoshi Egg for Paratroopa: useful
 Yoshi Egg for Peach: progression
 Yoshi Egg for Petey Piranha: progression
 Yoshi Egg for Toad: useful
-Yoshi Egg for Toadette: unknown
+Yoshi Egg for Toadette: progression
 Yoshi Egg for Waluigi: progression
 Yoshi Egg for Wario: progression
 Yoshi Egg for Yoshi: progression

@@ -9,6 +9,8 @@ A.Tech - Large Incubator: progression
 A.Tech - Lily's Spear: useful
 A.Tech - Pal Essence Condenser: useful
 A.Tech - Progressive Air Dash Boots: progression
+A.Tech - Progressive Egg Incubator: progression
+A.Tech - Progressive Feed Bag: progression
 A.Tech - Progressive Grappling Gun: progression
 A.Tech - Progressive Hip Lantern: progression
 A.Tech - Progressive Lock Picking Tool: progression
@@ -19,41 +21,128 @@ A.Tech - Single-Shot Sphere Launcher: useful
 A.Tech - Sulfur Mine: useful
 A.Tech - Summoning Altar: progression
 Alex's Key: progression
+Applied Generating Electricity Technique I: progression
+Applied Watering Technique I: progression
 Arena Pass: progression
+Assault Rifle Schematic 1: filler
 Astral Foot Pass: progression
 Astral Pass: progression
+Attack Support Whistle: filler
 Bamboo Pass: progression
+Beam Sword Schematic 4: progression
 Bjorn's Key: progression
+Cloth Outfit Schematic 1: filler
+Cold Resistant Hexolite Armor Schematic 4: progression
+Cold Resistant Metal Armor Schematic 1: filler
+Common Egg Voucher: progression
+Crossbow Schematic 2: filler
+Dark Orb: progression
 Dessicated Pass: progression
+Dragon Orb: progression
+Dumud Chowder Recipe: progression
+Eastern Wild Beacon: progression
 Eastern Wild Pass: progression
+Eikthyrdeer Stew Recipe: progression
+Electric Skill Fruit: Thunderstorm: progression
+Eternal Summer Pass: progression
+Excalibur Schematic 1: filler
 Feybreak Pass: progression
+Fire Orb: progression
+Fire Skill Fruit: Flare Arrow: filler
+Forgotten Spawn: progression
+Fried Kelpsea: filler
+Frostbitten Pass: progression
 Frostbound Pass: progression
+Galeclaw Nikujaga Recipe: progression
+Gatling Gun Schematic 1: filler
 Glacial Pass: progression
+Grass Orb: progression
+Gratin Recipe: progression
+Gratin: filler
+Grilled Lamball Recipe: progression
+Grinning Tocotoco Schematic 1: filler
+Ground Orb: progression
+Ground Support Whistle +2: progression
+Heat Resistant Metal Armor Schematic 2: filler
+Heat Resistant Pelt Armor Schematic 4: progression
+Heat Resistant Refined Metal Armor Schematic 4: progression
+Hexolite Armor Schematic 4: progression
+Hillside Dungeon Key: progression
+Ice Orb: progression
 Ice Wind Pass: progression
+Ice Wind Spawn: progression
+Innovative Technical Manual: filler
+Jelliette's Jiggly Jelly Recipe: progression
+Killamari Cap Schematic 1: filler
+Lamball Kebab Recipe: progression
 Level Up!: progression
 Lily's Key: progression
+Lily's Spear Schematic 4: progression
+Low Quality Recovery Meds: filler
 Luck: filler
+Makeshift Assault Rifle Schematic 2: filler
+Makeshift SMG Schematic 4: progression
+Makeshift Shotgun Schematic 2: filler
+Mammorest Steak Recipe: progression
+Marsh Beacon: progression
 Marsh Pass: progression
+Marsh Spawn: progression
+Membership Card: progression
+Metal Helm Schematic 1: filler
+Mozzarina Hamburger: filler
+Neutral Orb: progression
 Obsidian Pass: progression
+Pal Metal Armor Schematic 3: useful
 Phantom Pass: progression
+Plasteel Armor Schematic 4: progression
+Plasteel Helmet Schematic 1: filler
+Player Beacon: progression
+Red Wooden Lantern Schematic: filler
+Refined Metal Armor Schematic 4: progression
+Refined Metal Helm Schematic 2: filler
+Reindrix Stew Recipe: progression
+Ring of Grass Resistance +2: progression
+Ring of Ice Resistance: filler
+Roast Eikthyrdeer Recipe: progression
+Rocket Launcher Schematic 2: filler
+Rushoar Gyoza Recipe: progression
+Rushoar Hot Dog: filler
+SMG Schematic 4: progression
+Sakurajima Pass: progression
+Sea Breeze Pass: progression
+Seal of the Esoteric: progression
+Seal of the Frozen Wings: progression
+Seal of the Swift: progression
+Seal of the Winged Tyrant: progression
+Secret Membership Card: progression
+Silk Hat Schematic 1: filler
+Single-Shot Rifle Schematic 4: progression
+Skill Fruit: Power Shot: filler
+Suspicious Juice: filler
 Tech - Advanced Arrow: useful
 Tech - Advanced Fishing Rod: progression
 Tech - Advanced Medicine Workbench: progression
 Tech - Advanced Recovery Meds: progression
+Tech - Advanced Sphere Assembly Line: progression
 Tech - Alarm Bell: useful
 Tech - Amusement Furniture Set: filler
 Tech - Antique Chair Set: filler
 Tech - Antique Desk Set: filler
 Tech - Antique High Quality Furniture Set: filler
+Tech - Antique Mirror Set: filler
+Tech - Assault Rifle: useful
 Tech - Astegon Saddle: progression
 Tech - Azurmane Saddle: progression
+Tech - Azurobe Cryst  Saddle: progression
 Tech - Barricade Set: filler
 Tech - Bastigor Saddle: progression
 Tech - Bat: useful
+Tech - Bathroom Set: filler
 Tech - Beakon Saddle: progression
 Tech - Beam Sword: useful
 Tech - Beginner Fishing Set: progression
 Tech - Berry Plantation: progression
+Tech - Blazamut Ryu Saddle: progression
 Tech - Blazamut Saddle: progression
 Tech - Blazehowl Noct Saddle: progression
 Tech - Blazehowl Saddle: progression
@@ -63,6 +152,7 @@ Tech - Broncherry Aqua's Saddle: progression
 Tech - Campfire: progression
 Tech - Carbon Fiber: progression
 Tech - Carpet Set: filler
+Tech - Carrot Plantation: progression
 Tech - Celaray's Gloves: progression
 Tech - Celesdir Saddle: progression
 Tech - Cement: progression
@@ -70,12 +160,14 @@ Tech - Chillet Ignis Saddle: progression
 Tech - Chillet Saddle: progression
 Tech - Circuit Board: progression
 Tech - Cloth Outfit: useful
+Tech - Cloth: progression
 Tech - Cold Food Box: progression
 Tech - Cold Resistant Pal Metal Armor: useful
 Tech - Cooking Pot: progression
 Tech - Crude Oil Extractor: progression
 Tech - Daedream's Necklace: useful
 Tech - Dark Grenade: useful
+Tech - Deluxe Bait: progression
 Tech - Digtoise's Headband: useful
 Tech - Dinossom Lux Saddle: progression
 Tech - Dinossom Saddle: progression
@@ -91,7 +183,9 @@ Tech - Elphidran Saddle: progression
 Tech - Energy Cartridge: useful
 Tech - Energy Shotgun Ammo: useful
 Tech - Energy Shotgun: useful
+Tech - Falleris Aqua Saddle: progression
 Tech - Feed Box: progression
+Tech - Fenglope Lux Saddle: progression
 Tech - Fenglope Saddle: progression
 Tech - Fire Bow: useful
 Tech - Fireplace Set: filler
@@ -113,6 +207,7 @@ Tech - Gatling Gun Ammo: useful
 Tech - Ghangler Ignis Saddle: progression
 Tech - Gildane Saddle: progression
 Tech - Glass Structure Set: progression
+Tech - Global Palbox: filler
 Tech - Ground Grenade: useful
 Tech - Handgun Ammo: useful
 Tech - Hanging Trap: useful
@@ -120,19 +215,24 @@ Tech - Hangyu Cryst's Gloves: progression
 Tech - Heat Resistant Hexolite Armor: useful
 Tech - Heat Resistant Metal Armor: useful
 Tech - Heat Resistant Pal Metal Armor: useful
+Tech - Heat Resistant Pelt Armor: progression
 Tech - Heat Resistant Plasteel Armor: useful
+Tech - Helzephyr Lux Saddle: progression
 Tech - Hexolite Helmet: useful
 Tech - Hexolite: useful
 Tech - High Quality Hot Spring: progression
 Tech - Hot Spring: progression
+Tech - Houseplant Set: filler
 Tech - Ice Mine: useful
 Tech - Incendiary Grenade: useful
+Tech - Intermediate Fishing Rod: progression
 Tech - Iron Gate: useful
 Tech - Ironwood Table Set: filler
 Tech - Item Retrieval Machine: useful
 Tech - Japanese-Style Structure Set: progression
 Tech - Jetragon's Missile Launcher: progression
 Tech - Jolthog's Gloves: useful
+Tech - Jormuntide Ignis Saddle: progression
 Tech - Jormuntide Saddle: progression
 Tech - Katana: useful
 Tech - Killamari's Gloves: progression
@@ -169,12 +269,15 @@ Tech - Moonflower Flag Set: filler
 Tech - Mossanda's Grenade Launcher: progression
 Tech - Mounted Machine Gun: useful
 Tech - Necromus Saddle: progression
+Tech - Neptilius Saddle: progression
 Tech - Nitewing Saddle: progression
 Tech - Old Bow: useful
 Tech - Onion Plantation: progression
+Tech - Outdoor Furniture Set: filler
 Tech - Overheat Rifle Ammo: useful
 Tech - Overheat Rifle: useful
 Tech - PAL Genetic Research Unit Flag Set: filler
+Tech - PIDF Flag Set: filler
 Tech - Pal Disassembly Conveyor: useful
 Tech - Pal Expedition Station: progression
 Tech - Pal Labor Research Laboratory: progression
@@ -187,6 +290,7 @@ Tech - Pengullet Lux's Rocket Launcher: useful
 Tech - Piano Furniture Set: filler
 Tech - Plasma Cannon: useful
 Tech - Plasma Cartridge: useful
+Tech - Plasteel Armor: useful
 Tech - Plasteel Helmet: useful
 Tech - Plasteel: useful
 Tech - Poison Arrow Crossbow: useful
@@ -205,6 +309,7 @@ Tech - Pyrin Noct Saddle: progression
 Tech - Pyrin Saddle: progression
 Tech - Quivern Saddle: progression
 Tech - Refined Metal Armor: useful
+Tech - Refined Metal Chest: progression
 Tech - Refined Metal Helm: useful
 Tech - Refined Metal Spear: useful
 Tech - Refrigerated Crusher: progression
@@ -217,17 +322,25 @@ Tech - Reptyro Saddle: progression
 Tech - Revival Potion: useful
 Tech - Road Sign Set: filler
 Tech - Rushour Saddle: progression
+Tech - SMG: useful
 Tech - Sandbag: useful
 Tech - Semi-Auto Shotgun: useful
+Tech - Shadowbeak Saddle: progression
 Tech - Shoddy Bed: progression
+Tech - Shroomer Noct Saddle: progression
 Tech - Sign: filler
+Tech - Silvegis Saddle: progression
 Tech - Smokie's Harness: useful
 Tech - Sniper Module II: useful
+Tech - Sphere Assembly Line: progression
+Tech - Starryon Saddle: progression
+Tech - Statue of Power: progression
 Tech - Stone Defensive Wall: useful
 Tech - Stone Gate: useful
 Tech - Stone Spear: useful
 Tech - Stone Structure Set: progression
 Tech - Straw Pal Bed: progression
+Tech - Stun Baton: useful
 Tech - Surfent Saddle: progression
 Tech - Surfent Terra Saddle: progression
 Tech - Suzaku Aqua Saddle: progression
@@ -242,21 +355,32 @@ Tech - Traffic Control Set: filler
 Tech - Training Dummy: filler
 Tech - Tropical Outfit: useful
 Tech - Vanwyrm Cryst Saddle: progression
+Tech - Vanwyrm Saddle: progression
 Tech - Viewing Cage: filler
 Tech - Wall-Mounted Houseplant Set: filler
 Tech - Wall-Mounted Sign: filler
 Tech - Weapon Assembly Line II: progression
 Tech - Weapon Assembly Line: progression
 Tech - Wheat Plantation: progression
+Tech - Witch Cauldron: progression
 Tech - Wooden Defensive Wall: useful
 Tech - Wooden Living Room Furniture Set: filler
+Tech - Wooden Structure Set: progression
 Tech - Wooden Tavern Cabinet Furniture Set: useful
 Tech - Wumpo Botan Saddle: progression
 Tech - Xenogard Saddle: progression
 Tech - Xenolord Saddle: progression
+Terra Blade Schematic 3: useful
+Terraprisma Schematic 4: progression
 Twilight Pass: progression
+Verdant Egg Voucher: progression
 Verdant Pass: progression
+Vortex Beater Schematic 2: filler
+Vortex Beater Schematic 4: progression
+Water Orb: progression
+Water Support Whistle +2: progression
 Wildlife Sanctuary 1 Tracker: progression
 Wildlife Sanctuary 2 Tracker: progression
 Wildlife Sanctuary 3 Tracker: progression
+Windswept Pass: progression
 Zoey's Key: progression

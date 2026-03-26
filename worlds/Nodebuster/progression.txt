@@ -33,6 +33,7 @@ Execute1: useful
 Execute2: useful
 ExplodersChance: useful
 ExplodersSize: useful
+Extra Bits: filler
 FocusArmor1: useful
 Health1: useful
 Health2: filler

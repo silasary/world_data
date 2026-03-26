@@ -5,49 +5,122 @@
 40 coins: filler
 5 coins: filler
 50 coins: filler
+70 coins: filler
 80 coins: filler
 Baby DK: progression
 Baby Daisy's Rattle: progression
 Baby Daisy: progression
+Baby Luigi: progression
 Baby Mario: progression
 Baby Peach: progression
 Birdo: progression
 Blue Kritter: progression
+Blue Noki: progression
+Blue Pianta: progression
 Blue Toad: progression
 Blue Yoshi: progression
 Boo: progression
+Boomerang Bro: progression
+Bowser Jr.: progression
 Brown Kritter: progression
+Brush: progression
+Buddy Badge: filler
+Charge Bat: filler
+Cruiser Pass: progression
+Daisy Statue: progression
 Daisy: progression
+Dark Bones: progression
+Dash Spikes: filler
+Day-night cycle: progression
 Diddy Kong: progression
 Dixie Kong: progression
 Donkey Kong: progression
+Dr. K: filler
+Dry Bones: progression
+Error Booster: filler
+Fire Bro: progression
 Fireball: filler
+Funky Kong: progression
 Goomba: progression
 Gray Shy Guy: progression
+Green Dry Bones: progression
+Green Magikoopa: progression
+Green Noki: progression
 Green Paratroopa: progression
 Green Shy Guy: progression
+Green Toad: progression
+Hammer Bro: progression
 King Boo: progression
 King K. Rool: progression
 Koopa: progression
 Kritter: progression
 Light Blue Yoshi: progression
+Lucky Glove: filler
+Luigi's Flashlight: progression
 Luigi: progression
 Mario: progression
 Mini Boo: progression
+Monty Mole: progression
+Nice Bat: filler
 POW-Ball: filler
+Paragoomba: progression
 Paratroopa: progression
 Peach: progression
 Petey Piranha: progression
+Pink Yoshi: progression
+Power Bat: filler
 Purple Toad: progression
 Red Koopa: progression
 Red Kritter: progression
 Red Noki: progression
 Red Pianta: progression
 Red Toad: progression
+Red Yoshi: progression
 Sea Hut Key: progression
+Shy Guy: progression
 Special Shop Pass: filler
+Star Candy: filler
+Star for Baby DK: progression
+Star for Baby Daisy: progression
+Star for Baby Luigi: progression
+Star for Baby Mario: progression
+Star for Baby Peach: progression
+Star for Birdo: progression
+Star for Blooper: progression
+Star for Boo: progression
+Star for Bowser Jr.: progression
+Star for Bowser: progression
+Star for Daisy: progression
+Star for Diddy Kong: progression
+Star for Dixie Kong: progression
+Star for Donkey Kong: progression
+Star for Dry Bones: progression
+Star for Funky Kong: progression
+Star for Goomba: progression
+Star for Hammer Bro: progression
+Star for King Boo: progression
+Star for King K. Rool: progression
+Star for Koopa: progression
+Star for Kritter: progression
+Star for Luigi: progression
+Star for Magikoopa: progression
+Star for Mario: progression
+Star for Noki: progression
+Star for Paragoomba: progression
+Star for Paratroopa: progression
+Star for Peach: progression
+Star for Petey Piranha: progression
+Star for Shy Guy: progression
+Star for Toad: progression
+Star for Toadette: progression
+Star for Toadsworth: progression
+Star for Wario: progression
+Star for Wiggler: progression
+Star for Yoshi: progression
 Stone tablet piece A: progression
+Stone tablet piece B: progression
 Stone tablet piece C: progression
+Superstar: filler
 Tiny Kong: progression
 Toad Statue: progression
 Toadette: progression
@@ -55,6 +128,8 @@ Toadsworth: progression
 Toy Field Pass: filler
 Waluigi: progression
 Wario: progression
+Wiggler: progression
+Yellow Magikoopa: progression
 Yellow Pianta: progression
 Yellow Shy Guy: progression
 Yellow Toad: progression

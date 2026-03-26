@@ -2,13 +2,16 @@ Alarm trap: trap
 Blue Fruit: filler
 Brother Long Legs trap: trap
 Bubble Fruit: filler
+Bubble Weed: filler
 Cherrybomb: filler
 Citizen ID Drone: progression
 Daddy Long Legs trap: trap
+Dandelion Peach: filler
+Dual Wielding Perk: useful
 Eggbug Egg: filler
 Electric Spear: filler
 Explosive Spear: useful
-Fire Egg: unknown
+Fire Egg: filler
 Flashbang: filler
 GATE_CC_UW: progression
 GATE_DS_CC: progression
@@ -104,7 +107,7 @@ Passage Token - The Hunter: useful
 Passage Token - The Martyr: mcguffin
 Passage Token - The Monk: useful
 Passage Token - The Mother: useful
-Passage Token - The Nomad: unknown
+Passage Token - The Nomad: useful
 Passage Token - The Outlaw: useful
 Passage Token - The Pilgrim: unknown
 Passage Token - The Saint: useful
@@ -135,6 +138,7 @@ Scug-White: mcguffin
 Scug-Yellow: progression
 Singularity Bomb: unknown
 Slime Mold: filler
+Spear Damage Increase: useful
 Spear: useful
 Spitter Spider trap: trap
 Spore Puff: filler

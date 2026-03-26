@@ -7,14 +7,14 @@ Cassette Tape: progression
 Culture Sample: progression
 Detonator: progression
 Dot Sight - G19: filler
-Dual Magazine - Assault Rifle: unknown
+Dual Magazine - Assault Rifle: useful
 Electronic Gadget: progression
 Explosive A: filler
 Explosive B: filler
 Explosive Rounds: filler
-Extended Barrel - MAG: unknown
-Extended Mag - G19: unknown
-Fire Hose: unknown
+Extended Barrel - MAG: useful
+Extended Mag - G19: useful
+Fire Hose: progression
 First Aid Spray: filler
 Flame Rounds: useful
 Flash Grenade: filler
@@ -23,7 +23,7 @@ Fuse 2: progression
 Fuse 3: progression
 G18: useful
 Green Herb: useful
-Green Jewel: unknown
+Green Jewel: progression
 Gunpowder: filler
 Hand Grenade: useful
 Handgun Ammo: useful
@@ -37,7 +37,7 @@ Lock Pick: progression
 Locker Room Key: progression
 M3 Shotgun: filler
 MAG Ammo: filler
-MAG: unknown
+MAG: useful
 MGL Grenade Launcher: filler
 Mine Rounds: filler
 Moderator - G19: useful
@@ -45,14 +45,14 @@ Override Key: progression
 Red Herb: filler
 Red Jewel: useful
 Safety Deposit Key: progression
-Scope - Assault Rifle: unknown
-Semi-Auto Barrel - M3: unknown
+Scope - Assault Rifle: useful
+Semi-Auto Barrel - M3: useful
 Shell Holder - M3: filler
 Shotgun Shells: useful
-Supply Case - Flame Rounds: unknown
+Supply Case - Flame Rounds: useful
 Supply Case - Shotgun Shells: filler
 Tactical Grip - Assault Rifle: filler
-Tactical Stock - M3: unknown
+Tactical Stock - M3: useful
 Tape Player: useful
 Vaccine Sample: progression
 Vaccine: progression

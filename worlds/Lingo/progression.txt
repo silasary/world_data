@@ -32,7 +32,9 @@ Color Hunt - RED (Panel): progression
 Color Hunt - Shortcut to The Steady: progression
 Color Hunt - YELLOW (Panel): progression
 Color Hunt Barriers: progression
+Color Hunt Panels: progression
 Colorful Doors: progression
+Colorful Panels: progression
 Compass Room - Lookout Entrance: progression
 Compass Room Panels: progression
 Courtyard - Backside Door: progression
@@ -173,6 +175,7 @@ Rhyme Room Doors: progression
 Room Room - BROOMED, LAYS, BASE (Panels): progression
 Room Room - Cellar Exit: progression
 Room Room - STAIRS (Panel): progression
+Room Room Panels: progression
 Second Room - Exit Door: progression
 Slowness Trap: trap
 Speed Boost: useful
@@ -190,6 +193,7 @@ Symmetry Doors: progression
 Symmetry Room - Leaf Feel Door: progression
 Symmetry Room - Near Far Door: progression
 Symmetry Room - Warts Straw Door: progression
+Symmetry Room Panels: progression
 Tenacious Entrance Panels: progression
 The Agreeable - Entrance: progression
 The Agreeable - Shortcut to Hedge Maze: progression

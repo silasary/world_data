@@ -12,6 +12,7 @@ Crystal- Elite Four Entry: progression
 Crystal- Fog Badge: progression
 Crystal- Hive Badge: progression
 Crystal- Marsh Badge: progression
+Crystal- Mineral Badge: progression
 Crystal- Rainbow Badge: progression
 Crystal- Rising Badge: progression
 Crystal- Soul Badge: progression
@@ -31,6 +32,7 @@ FireRed- Earth Badge: progression
 FireRed- Elite Four Entry: progression
 FireRed- Marsh Badge: progression
 FireRed- Rainbow Badge: progression
+FireRed- Soul Badge: progression
 FireRed- Volcano Badge: progression
 Game- Blue: progression
 Game- Crystal: progression
@@ -62,9 +64,12 @@ LeafGreen- Elite Four Entry: progression
 LeafGreen- Marsh Badge: progression
 LeafGreen- Rainbow Badge: progression
 LeafGreen- Soul Badge: progression
+LeafGreen- Thunder Badge: progression
 LeafGreen- Volcano Badge: progression
 Painful Filler: filler
 Red- Boulder Badge: progression
+Red- Cascade Badge: progression
+Red- Earth Badge: progression
 Red- Elite Four Entry: progression
 Red- Rainbow Badge: progression
 Red- Soul Badge: progression
@@ -89,6 +94,7 @@ Silver- Earth Badge: progression
 Silver- Hive Badge: progression
 Silver- Marsh Badge: progression
 Silver- Mineral Badge: progression
+Silver- Rainbow Badge: progression
 Silver- Rising Badge: progression
 Silver- Soul Badge: progression
 Silver- Storm Badge: progression
@@ -108,6 +114,7 @@ Type- Ground: progression
 Type- Ice: progression
 Type- Normal: progression
 Type- Poison: progression
+Type- Psychic: progression
 Type- Rock: progression
 Yellow- Cascade Badge: progression
 Yellow- Earth Badge: progression

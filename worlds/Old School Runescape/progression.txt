@@ -32,6 +32,7 @@ Area: Lumberyard: progression
 Area: Lumbridge Farms: progression
 Area: Lumbridge Swamp: progression
 Area: Lumbridge: progression
+Area: Menaphos: filler
 Area: Monastery: progression
 Area: Mudskipper Point: progression
 Area: Port Sarim: progression
@@ -57,6 +58,7 @@ Care Pack: 300 Each Elemental Rune: useful
 Care Pack: 50 Bronze Bars: useful
 Care Pack: 50 Lobsters: useful
 Care Pack: 50 Willow Logs: useful
+Care Pack: 500 Rune Essence: useful
 Care Pack: 90 Steel Nails: useful
 Empty White Hallways: filler
 Evolution of Combat: filler

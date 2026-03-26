@@ -1,0 +1,88 @@
+ArmorBonus: filler
+Automap (MAP01): useful
+Automap (MAP04): useful
+Automap (MAP06): useful
+Automap (MAP07): useful
+Automap (MAP09): useful
+Automap (MAP12): useful
+Automap (MAP14): useful
+Automap (MAP15): useful
+Automap (MAP16): useful
+Automap (MAP17): useful
+Automap (MAP21): useful
+Automap (MAP23): useful
+Automap (MAP25): useful
+Automap (MAP27): useful
+Automap (MAP29): useful
+Automap (MAP30): useful
+BFG 9000: progression
+Backpack: filler
+Berserk: filler
+BlueArmor: filler
+BlueCard (MAP03): progression
+BlueCard (MAP06): progression
+BlueCard (MAP12): progression
+BlueCard (MAP13): progression
+BlueCard (MAP24): progression
+BlueSkull (MAP14): progression
+BlueSkull (MAP18): progression
+BlueSkull (MAP22): progression
+BlueSkull (MAP25): progression
+BlurSphere: filler
+Bullets [ClipBox]: filler
+Bullets [Clip]: filler
+Energy Cells [CellPack]: filler
+Energy Cells [Cell]: filler
+GreenArmor: filler
+HealthBonus: filler
+Infrared: filler
+InvulnerabilitySphere: filler
+Level Access (MAP03): progression
+Level Access (MAP07): progression
+Level Access (MAP09): progression
+Level Access (MAP10): progression
+Level Access (MAP13): progression
+Level Access (MAP17): progression
+Level Access (MAP20): progression
+Level Access (MAP21): progression
+Level Access (MAP24): progression
+Level Access (MAP25): progression
+Level Access (MAP28): progression
+Level Access (MAP31): progression
+Level Clear (MAP01): progression
+Level Clear (MAP03): progression
+Level Clear (MAP07): progression
+Level Clear (MAP17): progression
+Level Clear (MAP20): progression
+Level Clear (MAP25): progression
+Level Clear (MAP28): progression
+Level Clear (MAP31): progression
+Medikit: filler
+Megasphere: filler
+Plasma Rifle: progression
+RadSuit: filler
+RedCard (MAP03): progression
+RedCard (MAP05): progression
+RedCard (MAP06): progression
+RedCard (MAP11): progression
+RedCard (MAP17): progression
+RedSkull (MAP08): progression
+RedSkull (MAP14): progression
+RedSkull (MAP16): progression
+RedSkull (MAP27): progression
+RedSkull (MAP28): progression
+Rocket Launcher: progression
+Rockets [RocketAmmo]: filler
+Rockets [RocketBox]: filler
+Shotgun Shells [ShellBox]: filler
+Shotgun Shells [Shell]: filler
+Soulsphere: filler
+Stimpack: filler
+Super Shotgun: progression
+YellowCard (MAP04): progression
+YellowCard (MAP06): progression
+YellowCard (MAP12): progression
+YellowCard (MAP15): progression
+YellowSkull (MAP08): progression
+YellowSkull (MAP17): progression
+YellowSkull (MAP23): progression

@@ -88,7 +88,7 @@ Equipment - Bloodied Hood - 1957: unknown
 Equipment - Bloodplate - 2068: unknown
 Equipment - Bloodthirsty Vest - 1866: unknown
 Equipment - Bloody Murder - 2028: unknown
-Equipment - Blue Cape: unknown
+Equipment - Blue Cape: useful
 Equipment - Blue Dress - 1955: unknown
 Equipment - Blue Moon Katars - 1833: useful
 Equipment - Board - 2041: useful
@@ -308,7 +308,7 @@ Equipment - Feyblessed Tiara - 1956: useful
 Equipment - Fire Collar - 1801: useful
 Equipment - Fire Eater - 1787: unknown
 Equipment - Fire Poker - 2050: unknown
-Equipment - First Strike Mitt: unknown
+Equipment - First Strike Mitt: useful
 Equipment - Fish Skewer: useful
 Equipment - Fishgutter: useful
 Equipment - Flagellant Seal - 1678: unknown
@@ -547,6 +547,7 @@ Equipment - Orion Armor: useful
 Equipment - Orion Barbut: useful
 Equipment - Orylei: useful
 Equipment - Oven Mitt: useful
+Equipment - Pact Ring: useful
 Equipment - Padded Vest - 1881: unknown
 Equipment - Paladin Hood - 2057: unknown
 Equipment - Paladin Wand: useful
@@ -619,7 +620,7 @@ Equipment - Progressive Staff: useful
 Equipment - Progressive Wand: useful
 Equipment - Protect Amulet: useful
 Equipment - Protective Goggles - 2008: unknown
-Equipment - Protector: unknown
+Equipment - Protector: useful
 Equipment - Pumpking helmet - 1706: unknown
 Equipment - Quarterstaff: useful
 Equipment - Quickdraw - 2047: useful
@@ -682,7 +683,7 @@ Equipment - Sai: useful
 Equipment - Samurai Mail: useful
 Equipment - Samurai's Other Glove - 2095: useful
 Equipment - Samurais Glove: useful
-Equipment - Sange: unknown
+Equipment - Sange: useful
 Equipment - Sanity Ring: useful
 Equipment - Sawn-off Rifle - 1894: useful
 Equipment - Scale Helm: useful
@@ -695,7 +696,7 @@ Equipment - Scoundrel Seal - 1671: unknown
 Equipment - Scoundrel cape - 1658: unknown
 Equipment - Scribe - 2093: unknown
 Equipment - Sea's Katana - 1980: unknown
-Equipment - Seekers Garb: unknown
+Equipment - Seekers Garb: useful
 Equipment - Sentinel Rod: useful
 Equipment - Sento - 2119: unknown
 Equipment - Sequoian Barrier - 1817: useful
@@ -703,7 +704,7 @@ Equipment - Sermon - 2063: useful
 Equipment - Serrated Sickle - 1870: useful
 Equipment - Shadow Gi: useful
 Equipment - Shaman Robe: useful
-Equipment - Shank: unknown
+Equipment - Shank: useful
 Equipment - Sharp Sword: useful
 Equipment - Shell Amulet: useful
 Equipment - Shellter Gown - 1954: unknown
@@ -897,15 +898,18 @@ Home Point - Beaurior Rock: progression
 Home Point - Beaurior Volcano Peak: progression
 Home Point - Boomer Society: progression
 Home Point - Boss Room: progression
+Home Point - Bulletin Square: progression
 Home Point - Cabin On The Cliff: progression
 Home Point - Capital Jail Dark Wing: progression
 Home Point - Capital Jail Entrance: progression
 Home Point - Capital Pipeline: progression
+Home Point - Castle Sequoia Foyer: progression
 Home Point - Delende Falls: progression
 Home Point - Delende Peak: progression
 Home Point - Dione Shrine: progression
 Home Point - Discipline Hollow: progression
 Home Point - Eaclaneya Entrance: progression
+Home Point - East Capital Pipeline: progression
 Home Point - East Market District: progression
 Home Point - East Ramparts: progression
 Home Point - Europa Shrine: progression
@@ -958,6 +962,7 @@ Home Point - Tall, Tall Heights: progression
 Home Point - Tall, Tall Souvenir Shop: progression
 Home Point - The Chalice of Tar: progression
 Home Point - The Pale Grotto Entrance: progression
+Home Point - The Pale Grotto Ruins: progression
 Home Point - The Undercity: progression
 Home Point - Top Of The Sequoia: progression
 Home Point - Training Grounds: progression
@@ -1078,7 +1083,7 @@ Item - Home Point Stone: useful
 Item - Ibek Bell: progression
 Item - Ibek Cave Pass: progression
 Item - Ice Cell Key: progression
-Item - Ice Puzzle Key Ring: unknown
+Item - Ice Puzzle Key Ring: progression
 Item - Ice Puzzle Key: progression
 Item - Ice Stone - 371: progression
 Item - Jade Cavern Map: unknown
@@ -1137,7 +1142,7 @@ Item - Poseidon Shrine Map: useful
 Item - Poseidon Stone: progression
 Item - Potion Pouch: filler
 Item - Potion: filler
-Item - Prison Key Ring: unknown
+Item - Prison Key Ring: progression
 Item - Progressive Level Cap: progression
 Item - Progressive Level: useful
 Item - Progressive Luxury Pass: progression

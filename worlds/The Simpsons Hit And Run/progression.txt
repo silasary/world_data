@@ -51,6 +51,7 @@ Ferrini - Black: progression
 Ferrini - Red: progression
 Fire Truck: useful
 Fish Van: filler
+Garbage Truck: progression
 Ghost Ship: filler
 Glass Truck: progression
 Globex Super Villain Car: progression
@@ -116,6 +117,7 @@ Mr. Burns' Limo: useful
 Mr. Plow: progression
 Nerd Car: useful
 Nonuplets Minivan: filler
+Nonuplets Van: filler
 Obliteratatron Big Wheel Truck: useful
 Open Wheel Race Car: useful
 Pickup Truck: useful
@@ -131,6 +133,7 @@ Reset Car: trap
 SUV: progression
 School Bus: progression
 Sedan A: progression
+Sedan B: filler
 Sedan: useful
 Skinner's Sedan: useful
 Speed Rocket: useful
@@ -138,6 +141,7 @@ Sports Car A: progression
 Sports Car B: progression
 Station Wagon: progression
 Surveillance Van: useful
+Taxi: filler
 Tractor: useful
 Traffic Trap: trap
 Vote Quimby Truck: progression

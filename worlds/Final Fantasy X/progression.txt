@@ -7,11 +7,27 @@ Ability Distiller x 60: useful
 Ability Distiller x 70: useful
 Ability Distiller x 80: useful
 Ability Distiller x 90: useful
+Aeon Customization: Aim: filler
+Aeon Customization: Armor Break: useful
+Aeon Customization: Cheer: filler
+Aeon Customization: Dark Attack: useful
+Aeon Customization: Dispel: useful
+Aeon Customization: Focus: filler
+Aeon Customization: Holy: useful
+Aeon Customization: Life: useful
+Aeon Customization: Pray: filler
+Aeon Customization: Reflect: useful
+Aeon Customization: Reflex: filler
+Aeon Customization: Regen: useful
+Aeon Customization: Scan: filler
+Aeon Customization: Slow: useful
+Aeon Customization: Ultima: useful
 Aeon's Soul: progression
 Al Bhed Potion x 20: useful
 Al Bhed Potion x 30: useful
 Al Bhed Potion x 40: useful
 Al Bhed Potion x 50: useful
+Al Bhed Potion x 60: useful
 Al Bhed Potion x 70: useful
 Al Bhed Potion x 80: useful
 Al Bhed Primer I: progression
@@ -43,6 +59,7 @@ Al Bhed Primer XXVI: progression
 Antarctic Wind x 10: useful
 Antarctic Wind x 20: useful
 Antarctic Wind x 30: useful
+Antarctic Wind x 40: useful
 Antarctic Wind x 50: useful
 Antarctic Wind x 60: useful
 Antarctic Wind x 70: useful
@@ -135,6 +152,7 @@ Chocobo Feather x 30: useful
 Chocobo Feather x 40: useful
 Chocobo Feather x 50: useful
 Chocobo Feather x 60: useful
+Chocobo Feather x 70: useful
 Chocobo Feather x 80: useful
 Chocobo Feather x 90: useful
 Chocobo Wing x 10: useful
@@ -157,6 +175,7 @@ Dark Matter x 70: useful
 Dark Matter x 80: useful
 Dark Matter x 90: useful
 Dragon Scale x 10: useful
+Dragon Scale x 20: useful
 Dragon Scale x 30: useful
 Dragon Scale x 40: useful
 Dragon Scale x 50: useful
@@ -190,6 +209,7 @@ Electro Marble x 60: useful
 Electro Marble x 70: useful
 Electro Marble x 80: useful
 Electro Marble x 90: useful
+Elixir x 10: filler
 Elixir x 20: filler
 Elixir x 30: filler
 Elixir x 40: filler
@@ -200,12 +220,16 @@ Elixir x 90: filler
 Ether x 10: filler
 Ether x 20: filler
 Ether x 30: filler
+Ether x 40: filler
 Ether x 50: filler
 Ether x 60: filler
 Ether x 70: filler
 Ether x 80: filler
+Eye Drops x 10: filler
 Eye Drops x 20: filler
 Eye Drops x 30: filler
+Eye Drops x 40: filler
+Eye Drops x 50: filler
 Eye Drops x 60: filler
 Eye Drops x 70: filler
 Eye Drops x 90: filler
@@ -233,6 +257,7 @@ Fire Gem x 30: useful
 Fire Gem x 40: useful
 Fire Gem x 50: useful
 Fire Gem x 60: useful
+Fire Gem x 70: useful
 Fire Gem x 80: useful
 Fire Gem x 90: useful
 Fish Scale x 10: useful
@@ -243,6 +268,7 @@ Fish Scale x 50: useful
 Fish Scale x 60: useful
 Fish Scale x 70: useful
 Fish Scale x 80: useful
+Fish Scale x 90: useful
 Flint: progression
 Flower Scepter: progression
 Frag Grenade x 10: useful
@@ -254,6 +280,41 @@ Frag Grenade x 60: useful
 Frag Grenade x 70: useful
 Frag Grenade x 80: useful
 Frag Grenade x 90: useful
+Gear Customization: Auto-Reflect: useful
+Gear Customization: Auto-Shell: useful
+Gear Customization: Dark Ward: filler
+Gear Customization: Darktouch: useful
+Gear Customization: Defense +5%: filler
+Gear Customization: Double AP: useful
+Gear Customization: Fire Ward: filler
+Gear Customization: Fireproof: useful
+Gear Customization: First Strike: useful
+Gear Customization: HP +20%: useful
+Gear Customization: HP Stroll: filler
+Gear Customization: Lightning Eater: useful
+Gear Customization: Lightningproof: useful
+Gear Customization: MP +10%: filler
+Gear Customization: MP Stroll: filler
+Gear Customization: Magic +3%: filler
+Gear Customization: Magic +5%: filler
+Gear Customization: Magic Counter: useful
+Gear Customization: Magic Def +10%: useful
+Gear Customization: Magic Def +3%: filler
+Gear Customization: Magic Def +5%: filler
+Gear Customization: Piercing: useful
+Gear Customization: Poisonstrike: useful
+Gear Customization: SOS NulShock: useful
+Gear Customization: SOS Protect: filler
+Gear Customization: SOS Regen: filler
+Gear Customization: SOS Shell: filler
+Gear Customization: Sensor: filler
+Gear Customization: Silence Ward: filler
+Gear Customization: Slow Ward: filler
+Gear Customization: Stone Ward: useful
+Gear Customization: Stoneproof: useful
+Gear Customization: Strength +3%: filler
+Gear Customization: Water Ward: filler
+Gear Customization: Zombie Ward: filler
 Gold Hourglass x 10: useful
 Gold Hourglass x 20: useful
 Gold Hourglass x 30: useful
@@ -302,6 +363,7 @@ Holy Water x 10: filler
 Holy Water x 20: filler
 Holy Water x 30: filler
 Holy Water x 40: filler
+Holy Water x 50: filler
 Holy Water x 70: filler
 Holy Water x 80: filler
 Holy Water x 90: filler
@@ -368,6 +430,7 @@ Mana Spring x 60: useful
 Mana Spring x 70: useful
 Mana Spring x 80: useful
 Mana Spring x 90: useful
+Mana Tablet x 10: useful
 Mana Tablet x 20: useful
 Mana Tablet x 30: useful
 Mana Tablet x 40: useful
@@ -396,15 +459,20 @@ Mega Phoenix x 70: filler
 Mega Phoenix x 80: filler
 Mega Phoenix x 90: filler
 Mega-Potion x 10: filler
+Mega-Potion x 20: filler
 Mega-Potion x 30: filler
 Mega-Potion x 40: filler
 Mega-Potion x 50: filler
 Mega-Potion x 60: filler
+Mega-Potion x 70: filler
 Mega-Potion x 80: filler
 Mega-Potion x 90: filler
 Megalixir x 10: filler
+Megalixir x 20: filler
+Megalixir x 30: filler
 Megalixir x 40: filler
 Megalixir x 50: filler
+Megalixir x 60: filler
 Megalixir x 70: filler
 Megalixir x 90: filler
 Mercury Crest: progression
@@ -440,6 +508,7 @@ Phoenix Down x 30: filler
 Phoenix Down x 40: filler
 Phoenix Down x 50: filler
 Phoenix Down x 60: filler
+Phoenix Down x 70: filler
 Phoenix Down x 80: filler
 Phoenix Down x 90: filler
 Poison Fang x 10: useful
@@ -458,6 +527,7 @@ Potion x 50: filler
 Potion x 60: filler
 Potion x 70: filler
 Potion x 80: filler
+Potion x 90: filler
 Power Distiller x 10: useful
 Power Distiller x 20: useful
 Power Distiller x 30: useful
@@ -466,6 +536,17 @@ Power Distiller x 50: useful
 Power Distiller x 60: useful
 Power Distiller x 70: useful
 Power Distiller x 80: useful
+Progressive Al Bhed Primer: progression
+Progressive Brotherhood: progression
+Progressive Caladbolg: progression
+Progressive Godhand: progression
+Progressive Jecht's Sphere: progression
+Progressive Masamune: progression
+Progressive Mirror: progression
+Progressive Nirvana: progression
+Progressive Onion Knight: progression
+Progressive Spirit Lance: progression
+Progressive World Champion: progression
 Purifying Salt x 20: useful
 Purifying Salt x 30: useful
 Purifying Salt x 40: useful
@@ -487,6 +568,7 @@ Region: Kilika: progression
 Region: Luca: progression
 Region: Macalania: progression
 Region: Mi'ihen Highroad: progression
+Region: Monster Arena: progression
 Region: Moonflow: progression
 Region: Mt. Gagazet: progression
 Region: Mushroom Rock Road: progression
@@ -627,6 +709,9 @@ Supreme Gem x 30: useful
 Supreme Gem x 40: useful
 Supreme Gem x 50: useful
 Supreme Gem x 60: useful
+Supreme Gem x 70: useful
+Supreme Gem x 80: useful
+Supreme Gem x 90: useful
 Tetra Elemental x 10: useful
 Tetra Elemental x 20: useful
 Tetra Elemental x 30: useful
@@ -648,8 +733,10 @@ Three Stars x 90: useful
 Turbo Ether x 10: filler
 Turbo Ether x 20: filler
 Turbo Ether x 30: filler
+Turbo Ether x 40: filler
 Turbo Ether x 50: filler
 Turbo Ether x 60: filler
+Turbo Ether x 70: filler
 Turbo Ether x 80: filler
 Twin Stars x 10: useful
 Twin Stars x 20: useful
@@ -674,6 +761,7 @@ Weapon (Auron): Murasame: useful
 Weapon (Auron): Stillblade: useful
 Weapon (Auron): Thunder Blade: useful
 Weapon (Kimahri): Dragoon Lance: useful
+Weapon (Kimahri): Heat Lance: useful
 Weapon (Kimahri): Hunter's Spear: useful
 Weapon (Kimahri): Ice Lance: useful
 Weapon (Kimahri): Knight Lance I: useful
@@ -683,6 +771,7 @@ Weapon (Kimahri): Spirit Lance: progression
 Weapon (Kimahri): Tidal Spear: useful
 Weapon (Kimahri): Wizard Lance: useful
 Weapon (Lulu): Cactuar Wizard: useful
+Weapon (Lulu): Magician Mog: useful
 Weapon (Lulu): Onion Knight: progression
 Weapon (Lulu): Quiet Cait Sith: useful
 Weapon (Lulu): Sleepy Cait Sith: useful
@@ -741,6 +830,7 @@ X-Potion x 90: filler
 [Accuracy Sphere] x 20: useful
 [Accuracy Sphere] x 30: useful
 [Accuracy Sphere] x 40: useful
+[Accuracy Sphere] x 50: useful
 [Accuracy Sphere] x 60: useful
 [Accuracy Sphere] x 70: useful
 [Accuracy Sphere] x 80: useful
@@ -779,6 +869,7 @@ X-Potion x 90: filler
 [Blk Magic Sphere] x 80: useful
 [Blk Magic Sphere] x 90: useful
 [Clear Sphere] x 10: useful
+[Clear Sphere] x 30: useful
 [Clear Sphere] x 40: useful
 [Clear Sphere] x 50: useful
 [Clear Sphere] x 60: useful
@@ -841,8 +932,10 @@ X-Potion x 90: filler
 [Gambler's Spirit] x 10: useful
 [Gambler's Spirit] x 40: useful
 [Gambler's Spirit] x 50: useful
+[Gambler's Spirit] x 60: useful
 [Gambler's Spirit] x 70: useful
 [Gambler's Spirit] x 80: useful
+[Gambler's Spirit] x 90: useful
 [HP Sphere] x 10: useful
 [HP Sphere] x 20: useful
 [HP Sphere] x 30: useful
@@ -948,9 +1041,11 @@ X-Potion x 90: filler
 [Master Sphere] x 10: useful
 [Master Sphere] x 20: useful
 [Master Sphere] x 30: useful
+[Master Sphere] x 40: useful
 [Master Sphere] x 50: useful
 [Master Sphere] x 60: useful
 [Master Sphere] x 70: useful
+[Master Sphere] x 80: useful
 [Master Sphere] x 90: useful
 [Musk] x 10: useful
 [Musk] x 20: useful
@@ -982,6 +1077,7 @@ X-Potion x 90: filler
 [Rename Card] x 20: useful
 [Rename Card] x 30: useful
 [Rename Card] x 40: useful
+[Rename Card] x 50: useful
 [Rename Card] x 60: useful
 [Rename Card] x 70: useful
 [Rename Card] x 80: useful
@@ -1034,6 +1130,7 @@ X-Potion x 90: filler
 [Strength Sphere] x 50: useful
 [Strength Sphere] x 60: useful
 [Strength Sphere] x 70: useful
+[Strength Sphere] x 80: useful
 [Strength Sphere] x 90: useful
 [Teleport Sphere] x 10: useful
 [Teleport Sphere] x 20: useful
@@ -1045,6 +1142,7 @@ X-Potion x 90: filler
 [Teleport Sphere] x 90: useful
 [Underdog's Secret] x 10: useful
 [Underdog's Secret] x 20: useful
+[Underdog's Secret] x 30: useful
 [Underdog's Secret] x 40: useful
 [Underdog's Secret] x 50: useful
 [Underdog's Secret] x 60: useful
@@ -1056,6 +1154,7 @@ X-Potion x 90: filler
 [Warp Sphere] x 30: useful
 [Warp Sphere] x 40: useful
 [Warp Sphere] x 50: useful
+[Warp Sphere] x 60: useful
 [Warp Sphere] x 70: useful
 [Warp Sphere] x 80: useful
 [Warp Sphere] x 90: useful

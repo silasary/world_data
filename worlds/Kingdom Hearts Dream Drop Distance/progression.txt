@@ -1,4 +1,5 @@
 Aerial Recovery: useful
+Aerial Slam: filler
 Air Combo Plus: useful
 Air Slide: progression
 All for One [Riku]: useful
@@ -7,7 +8,9 @@ Attack Boost: useful
 Attack Haste: useful
 Aura Lion Recipe: progression
 Balloon: filler
+Balloonga: filler
 Balloonra: filler
+Beatalike Recipe: progression
 Bind Block: useful
 Bind: filler
 Blackout: filler
@@ -20,6 +23,8 @@ Blizzard Edge: filler
 Blizzard Screen: useful
 Blizzard: filler
 Break Time: filler
+Catanuki Recipe: progression
+Cera Terror Recipe: progression
 Chef Kyroo Recipe: progression
 Collision Magnet: filler
 Combo Master: useful
@@ -28,6 +33,7 @@ Confuse: filler
 Confusion Block: useful
 Counter Aura: useful
 Counter Rush: useful
+Counterpoint [Riku]: useful
 Counterpoint [Sora]: useful
 Country of the Musketeers [Riku]: progression
 Country of the Musketeers [Sora]: progression
@@ -45,6 +51,7 @@ Dark Splicer: filler
 Deck Capacity Increase [Riku]: useful
 Deck Capacity Increase [Sora]: useful
 Deep Freeze: filler
+Defender: useful
 Defense Boost: useful
 Defense Increase [Riku]: useful
 Defense Increase [Sora]: useful
@@ -54,6 +61,7 @@ Double Impact: filler
 Drain Dive: filler
 Drak Quack Recipe: progression
 Drill Sye Recipe: progression
+Dual Disc [Riku]: useful
 Dual Disc [Sora]: useful
 Ducky Goose Recipe: progression
 EXP Boost: useful
@@ -62,6 +70,7 @@ Eaglider Recipe: progression
 Electricorn Recipe: progression
 End of Pain [Riku]: useful
 End of Pain [Sora]: useful
+Escarglow Recipe: progression
 Esuna: filler
 Faith: filler
 Ferris Gear [Sora]: useful
@@ -73,6 +82,7 @@ Fire Boost: useful
 Fire Screen: useful
 Fire Windmill: filler
 Fire: filler
+Fishbone Recipe: progression
 Flowbermeow Recipe: progression
 Flowmotion: progression
 Frootz Cat Recipe: progression
@@ -90,6 +100,7 @@ High Jump: progression
 Ice Barrage: filler
 Icebreaker: filler
 Icequin Ace Recipe: progression
+Icicle Splitter: filler
 Instant Drop: trap
 Item Boost: useful
 Jestabocky Recipe: progression
@@ -102,8 +113,10 @@ Knockout Punch [Sora]: useful
 Komory Bat Recipe: progression
 Kooma Panda Recipe: progression
 La Cite des Cloches [Riku]: progression
+Leaf Bracer: useful
 Light Screen: useful
 Limit Storm: filler
+Link Block: filler
 Lord Kyroo Recipe: progression
 Magic Boost: useful
 Magic Haste: useful
@@ -113,6 +126,7 @@ Majik Lapin Recipe: progression
 Me Me Bunny Recipe: progression
 Mega Flare: filler
 Meow Wow Recipe: progression
+Meowjesty Recipe: progression
 Meteor Crash: filler
 Mini Block: useful
 Mini: filler
@@ -125,11 +139,16 @@ Pegaslick Recipe: progression
 Poison Block: useful
 Poison Dive: filler
 Poison: filler
+Pole Spin: progression
+Pole Swing: progression
 Potion: filler
 Prankster's Paradise [Riku]: progression
 Prankster's Paradise [Sora]: progression
+Pricklemane Recipe: progression
+Prism Windmill: filler
 Quick Blitz: filler
 R & R Seal Recipe: progression
+Rail Slide: progression
 Rapid Descent: filler
 Recusant Sigil: progression
 Ryu Dragon Recipe: progression
@@ -140,6 +159,7 @@ Shadow Slide: filler
 Shadow Strike: useful
 Shadowbreaker: filler
 Sir Kyroo Recipe: progression
+Skelterwild Recipe: progression
 Skull Noise [Riku]: useful
 Skull Noise [Sora]: useful
 Sleep Block: useful
@@ -167,6 +187,7 @@ Strength Increase [Riku]: useful
 Strength Increase [Sora]: useful
 Strike Raid: filler
 Sudo Neku Recipe: progression
+Super Jump: progression
 Superglide: progression
 Sweet Dreams [Riku]: useful
 Symphony of Sorcery [Riku]: progression
@@ -182,6 +203,7 @@ Thundara: filler
 Thunder Boost: useful
 Thunder Dash: filler
 Thunder Screen: useful
+Thunder: filler
 Time Bomb: filler
 Timestorm: filler
 Tornado Strike: filler
@@ -199,6 +221,7 @@ Ursa Circus Recipe: progression
 Vanish: filler
 Wake-Up Block: filler
 Waking Dream: useful
+Wall Kick: progression
 Water Boost: useful
 Water Screen: useful
 Wheeflower Recipe: progression
@@ -209,3 +232,4 @@ Zero Graviga: filler
 Zero Gravira: filler
 Zero Gravity: filler
 Zero Graviza: filler
+Zolephant Recipe: progression

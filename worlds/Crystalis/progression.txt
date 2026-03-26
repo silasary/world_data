@@ -3,21 +3,27 @@ Antidote: filler
 Barrier: progression
 Battle Armor: useful
 Blizzard Bracelet: progression
+Bow of Darkness: progression
+Bow of Earth: progression
 Bow of Moon: progression
 Bow of Sun: progression
+Bow of Thunder: progression
 Bow of Truth: progression
 Broken Statue: progression
 Change: progression
+Copper Statue: progression
 Deo's Pendant: useful
 Eye Glasses: progression
 Flame Bracelet: progression
 Flight: progression
 Flute of Lime: progression
 Fog Lamp: progression
+Forbidden Statue: progression
 Fruit of Lime: filler
 Fruit of Power: filler
 Fruit of Repun: filler
 Glowing Lamp: progression
+Hazmat Suit: progression
 Insect Flute: progression
 Iron Necklace: useful
 Key to Prison: progression
@@ -39,11 +45,15 @@ Power Ring: useful
 Psycho Armor: useful
 Psycho Shield: useful
 Rabbit Boots: progression
+Random Statue: progression
 Recover: useful
 Refresh: useful
+Rusty Statue: progression
 Sacred Shield: useful
 Shell Flute: progression
 Shield Ring: useful
+Silver Key: progression
+Silver Lamp: progression
 Speed Boots: progression
 Statue of Gold: progression
 Statue of Onyx: progression
@@ -53,7 +63,9 @@ Sword of Thunder: trap|progression
 Sword of Water: progression
 Sword of Wind: progression
 Telepathy: progression
+Teleport: progression
 Tornado Bracelet: progression
 Warp Boots: filler
 Warrior Ring: useful
 Windmill Key: progression
+Wooden Flute: progression

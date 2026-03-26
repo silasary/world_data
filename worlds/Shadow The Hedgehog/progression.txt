@@ -4,22 +4,69 @@
 20 Rings: filler
 5 Rings: filler
 Air Fleet Alien: progression
+Air Fleet Checkpoint 2: progression
+Air Fleet Checkpoint 3: progression
+Air Fleet Checkpoint 4: progression
+Air Fleet Checkpoint 6: progression
+Air Fleet Checkpoint 7: progression
+Air Fleet Key: progression
 Air Fleet President Aircraft: progression
+Air Shoes: progression
+Black Comet Checkpoint 1: progression
+Black Comet Checkpoint 4: progression
+Black Comet Checkpoint 6: progression
+Black Comet Checkpoint 7: progression
+Black Comet Checkpoint 8: progression
+Black Comet Key: progression
 Black Comet Soldier: progression
+Black Oak Weapons: progression
+Black Warrior Weapons: progression
 Blue Chaos Emerald: progression
 Bombs: progression
 Boss Token: mcguffin
 Central City Big Bomb: progression
+Central City Checkpoint 2: progression
+Central City Checkpoint 3: progression
+Central City Key: progression
 Central City Little Bomb: progression
+Circus Park Checkpoint 1: progression
+Circus Park Checkpoint 2: progression
+Circus Park Checkpoint 3: progression
+Circus Park Key: progression
 Circus Park Soldier: progression
+Cosmic Fall Checkpoint 3: progression
+Cosmic Fall Checkpoint 6: progression
+Cosmic Fall Key: progression
+Cryptic Castle Checkpoint 1: progression
+Cryptic Castle Checkpoint 3: progression
+Cryptic Castle Checkpoint 4: progression
+Cryptic Castle Checkpoint 5: progression
+Cryptic Castle Checkpoint 6: progression
 Cryptic Castle Cream: progression
+Cryptic Castle Key: progression
 Cryptic Castle Lantern: progression
 Cyan Chaos Emerald: mcguffin
 Dark Token: mcguffin
 Death Ruins Alien: progression
+Death Ruins Checkpoint 4: progression
+Death Ruins Checkpoint 6: progression
+Death Ruins Key: progression
+Digital Circuit Checkpoint 2: progression
+Digital Circuit Checkpoint 5: progression
+Digital Circuit Checkpoint 7: progression
+Digital Circuit Key: progression
+Egg Pawn Weapons: progression
 Final Boss Token: progression
+Final Haunt Checkpoint 2: progression
+Final Haunt Checkpoint 4: progression
+Final Haunt Checkpoint 5: progression
+Final Haunt Checkpoint 6: progression
+Final Haunt Checkpoint 7: progression
+Final Haunt Key: progression
 Final Haunt Shield: progression
 Final Token: mcguffin
+GUN Launcher Weapons: progression
+Gate Key: progression
 Gauge:Dark-10000: filler
 Gauge:Dark-1000: filler
 Gauge:Dark-100: filler
@@ -43,23 +90,58 @@ Gauge:Hero-5000: filler
 Gauge:Hero-500: filler
 Gauge:Hero-5: filler
 Glyphic Canyon Alien: progression
+Glyphic Canyon Checkpoint 1: progression
+Glyphic Canyon Checkpoint 3: progression
+Glyphic Canyon Checkpoint 5: progression
+Glyphic Canyon Checkpoint 6: progression
+Glyphic Canyon Checkpoint 7: progression
+Glyphic Canyon Key: progression
 Glyphic Canyon Temple: progression
 Goodbye Forever: progression
 Green Chaos Emerald: progression
+Gun Fortress Checkpoint 1: progression
+Gun Fortress Checkpoint 5: progression
 Gun Fortress Computer: progression
+Gun Fortress Key: progression
+Gun Mech Weapons: progression
+Gun Soldier Weapons: progression
 Heal Units: progression
 Hero Token: mcguffin
+Iron Jungle Checkpoint 1: progression
+Iron Jungle Checkpoint 2: progression
+Iron Jungle Checkpoint 4: progression
 Iron Jungle Egg Balloon: progression
+Iron Jungle Key: progression
 Iron Jungle Soldier: progression
+Lava Shelter Checkpoint 1: progression
+Lava Shelter Checkpoint 2: progression
+Lava Shelter Checkpoint 3: progression
 Lava Shelter Defense: progression
+Lava Shelter Key: progression
+Lethal Highway Checkpoint 1: progression
+Lethal Highway Checkpoint 3: progression
+Lethal Highway Checkpoint 5: progression
+Lethal Highway Key: progression
 Lethal Highway Tank: progression
 Lost Impact Artificial Chaos: progression
+Lost Impact Checkpoint 1: progression
+Lost Impact Checkpoint 5: progression
+Lost Impact Key: progression
 Mad Matrix Bomb: progression
+Mad Matrix Checkpoint 2: progression
+Mad Matrix Checkpoint 3: progression
+Mad Matrix Key: progression
 Mad Matrix Terminal: progression
 Mission Token: mcguffin
 Nothing Junk: filler
 Objective Token: mcguffin
+Prison Island Checkpoint 1: progression
+Prison Island Checkpoint 4: progression
+Prison Island Checkpoint 5: progression
+Prison Island Checkpoint 6: progression
+Prison Island Checkpoint 7: progression
 Prison Island Disc: progression
+Prison Island Key: progression
 Prison Island Soldier: progression
 Pulley: progression
 Purple Chaos Emerald: mcguffin
@@ -70,9 +152,15 @@ Shadow Rifle Barrel: progression
 Shadow Rifle Magazine: useful
 Shadow Rifle Receiver: useful
 Shadow Rifle Stock: progression
+Sky Troops Checkpoint 6: progression
+Sky Troops Checkpoint 8: progression
 Sky Troops Egg Ship: progression
+Sky Troops Key: progression
 Sky Troops Temple: progression
+Space Gadget Checkpoint 2: progression
+Space Gadget Checkpoint 4: progression
 Space Gadget Defense Unit: progression
+Space Gadget Key: progression
 Stage Melee Weapons: progression
 Stage:Air Fleet: progression
 Stage:Black Bull Death Ruins: progression
@@ -112,9 +200,20 @@ Stage:Space Gadget: progression
 Stage:The Ark: progression
 Stage:The Doom: progression
 Stage:Westopolis: progression
+The Ark Checkpoint 1: progression
+The Ark Checkpoint 4: progression
+The Ark Checkpoint 8: progression
 The Ark Defense Unit: progression
+The Ark Key: progression
+The Doom Checkpoint 1: progression
+The Doom Checkpoint 5: progression
+The Doom Key: progression
 The Doom Researcher: progression
 The Doom Soldier: progression
+The Last Way Checkpoint 2: progression
+The Last Way Checkpoint 3: progression
+The Last Way Checkpoint 6: progression
+The Last Way Key: progression
 Vehicle: Air Saucer: unknown
 Vehicle: Armored Car: unknown
 Vehicle: Black Hawk: unknown
@@ -128,9 +227,18 @@ Vehicle: Gun Motorcycle: unknown
 Vehicle: Gun Turret: unknown
 Vehicle: Standard Car: unknown
 Vehicle:Air Saucer: progression
+Vehicle:Armored Car: progression
+Vehicle:Black Hawk: progression
+Vehicle:Black Turret: progression
 Vehicle:Black Volt: progression
+Vehicle:Convertible: progression
+Vehicle:Gun Cannon: progression
 Vehicle:Gun Jumper: progression
+Vehicle:Gun Lift: progression
+Vehicle:Gun Motorcycle: progression
+Vehicle:Gun Turret: progression
 Vehicle:Standard Car: progression
+Warp Holes: progression
 Warp:Air Fleet: progression
 Warp:Black Comet: unknown
 Warp:Black Doom Cosmic Fall: unknown
@@ -162,12 +270,18 @@ Warp:The Ark: progression
 Warp:The Doom: unknown
 Warp:The Last Way: unknown
 Warp:Westopolis: unknown
+Weapon:4-Shot RPG Ammo Boost: filler
 Weapon:4-Shot RPG: progression
+Weapon:8-Shot RPG Ammo Boost: filler
 Weapon:8-Shot RPG: progression
+Weapon:Bazooka Ammo Boost: filler
 Weapon:Bazooka: progression
+Weapon:Big Barrel Ammo Boost: filler
 Weapon:Big Barrel: progression
 Weapon:Big Worm Shooter: progression
+Weapon:Black Barrel Ammo Boost: filler
 Weapon:Black Barrel: progression
+Weapon:Black Sword Ammo Boost: filler
 Weapon:Black Sword: progression
 Weapon:Canyon Pole: unknown
 Weapon:Circus Pole: filler
@@ -179,48 +293,67 @@ Weapon:Digital Pole: filler
 Weapon:Doom Pole: filler
 Weapon:Egg Bazooka Ammo Boost: filler
 Weapon:Egg Bazooka: progression
+Weapon:Egg Gun Ammo Boost: filler
 Weapon:Egg Gun: progression
 Weapon:Egg Spear: progression
+Weapon:Egg Vacuum Ammo Boost: filler
 Weapon:Egg Vacuum: progression
 Weapon:Flash Shot Ammo Boost: filler
 Weapon:Flash Shot: progression
 Weapon:Fleet Pole: filler
 Weapon:Fortress Pole: filler
 Weapon:Gadget Pole: filler
+Weapon:Gatling Gun Ammo Boost: filler
 Weapon:Gatling Gun: progression
+Weapon:Grenade Launcher Ammo Boost: filler
 Weapon:Grenade Launcher: progression
 Weapon:Haunt Pole: filler
 Weapon:Heal Cannon Ammo Boost: filler
 Weapon:Heal Cannon: progression
+Weapon:Heavy Machine Gun Ammo Boost: filler
 Weapon:Heavy Machine Gun: useful
+Weapon:Heavy Shot Ammo Boost: filler
 Weapon:Heavy Shot: progression
 Weapon:Impact Pole: filler
 Weapon:Iron Pole: filler
+Weapon:Laser Rifle Ammo Boost: filler
 Weapon:Laser Rifle: progression
-Weapon:Last Pole: unknown
-Weapon:Lava Shovel: unknown
+Weapon:Last Pole: filler
+Weapon:Lava Shovel: filler
 Weapon:Lethal Pole: filler
+Weapon:Light Shot Ammo Boost: filler
 Weapon:Light Shot: progression
 Weapon:Matrix Pole: filler
+Weapon:Omochao Gun Ammo Boost: filler
 Weapon:Omochao Gun: progression
+Weapon:Pistol Ammo Boost: filler
 Weapon:Pistol: progression
 Weapon:Prison Branch: filler
+Weapon:RPG Ammo Boost: filler
 Weapon:RPG: progression
+Weapon:Refractor Ammo Boost: filler
 Weapon:Refractor: progression
+Weapon:Ring Shot Ammo Boost: filler
 Weapon:Ring Shot: progression
 Weapon:Ruins Branch: filler
+Weapon:Samurai Blade Ammo Boost: filler
 Weapon:Samurai Blade: progression
+Weapon:Satellite Gun Ammo Boost: filler
 Weapon:Satellite Gun: progression
+Weapon:Semi Automatic Rifle Ammo Boost: filler
 Weapon:Semi Automatic Rifle: progression
+Weapon:Shadow Rifle Ammo Boost: filler
 Weapon:Shadow Rifle: progression
 Weapon:Sky Pole: filler
 Weapon:Speed Limit Sign: filler
 Weapon:Splitter Ammo Boost: filler
 Weapon:Splitter: progression
 Weapon:Stop Sign: filler
+Weapon:Sub Machine Gun Ammo Boost: filler
 Weapon:Sub Machine Gun: progression
 Weapon:Survival Knife Ammo Boost: filler
 Weapon:Survival Knife: progression
+Weapon:Tank Cannon Ammo Boost: filler
 Weapon:Tank Cannon: progression
 Weapon:Vacuum Pod Ammo Boost: filler
 Weapon:Vacuum Pod: progression
@@ -229,7 +362,11 @@ Weapon:Wide Worm Shooter: progression
 Weapon:Worm Shooter Ammo Boost: filler
 Weapon:Worm Shooter: progression
 Westopolis Alien: progression
+Westopolis Checkpoint 1: progression
+Westopolis Checkpoint 4: progression
+Westopolis Key: progression
 Westopolis Soldier: progression
 White Chaos Emerald: progression
+Worm Weapons: progression
 Yellow Chaos Emerald: progression
 Zipwire: progression

@@ -6,6 +6,7 @@ Barrier Removal - (G,9): progression
 Barrier Removal - (I,4): progression
 Barrier Removal - (K,4): progression
 Barrier Removal - (M,11): progression
+Barrier Removal - (M,6): progression
 Battle Door Key (B,6): progression
 Battle Door Key (H,2): progression
 Battle Door Key (K,2): progression
@@ -16,6 +17,7 @@ Door Key (A,12): progression
 Door Key (A,4): filler
 Door Key (A,7): progression
 Door Key (B,4): progression
+Door Key (B,7): progression
 Door Key (B,8): progression
 Door Key (C,9): progression
 Door Key (D,10): progression
@@ -48,6 +50,7 @@ Door Key (M,10): progression
 Door Key (N,4): progression
 Health Restore: filler
 Level Up: progression
+Pattern Scanner: progression
 Suit Upgrade: progression
 Warp Point (A,8): progression
 Warp Point (C,11): progression

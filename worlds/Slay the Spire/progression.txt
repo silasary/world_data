@@ -5,6 +5,7 @@ Automaton Boss Gold: progression
 Automaton Boss Relic: progression
 Automaton Card Draw: progression
 Automaton Card Reward: progression
+Automaton Emerald Key: progression
 Automaton Five Gold: filler
 Automaton Neutral Shop Card Slot: progression
 Automaton One Gold: filler
@@ -15,10 +16,33 @@ Automaton Progressive Smith: progression
 Automaton Rare Card Draw: progression
 Automaton Rare Card Reward: progression
 Automaton Relic: progression
+Automaton Ruby Key: progression
+Automaton Sapphire Key: progression
 Automaton Shop Card Slot: progression
 Automaton Shop Potion Slot: useful
 Automaton Shop Relic Slot: progression
 Automaton Unlock: progression
+AwakenedOne 15 Gold: useful
+AwakenedOne 30 Gold: progression
+AwakenedOne Boss Gold: progression
+AwakenedOne Boss Relic: progression
+AwakenedOne Card Reward: progression
+AwakenedOne Emerald Key: progression
+AwakenedOne Five Gold: filler
+AwakenedOne Neutral Shop Card Slot: progression
+AwakenedOne One Gold: filler
+AwakenedOne Potion: useful
+AwakenedOne Progressive Rest: progression
+AwakenedOne Progressive Shop Remove: progression
+AwakenedOne Progressive Smith: progression
+AwakenedOne Rare Card Reward: progression
+AwakenedOne Relic: progression
+AwakenedOne Ruby Key: progression
+AwakenedOne Sapphire Key: progression
+AwakenedOne Shop Card Slot: progression
+AwakenedOne Shop Potion Slot: progression
+AwakenedOne Shop Relic Slot: progression
+AwakenedOne Unlock: progression
 Boss Relic: progression
 Buff Trap: trap
 CAW CAW: filler
@@ -30,6 +54,7 @@ Champ Boss Gold: progression
 Champ Boss Relic: progression
 Champ Card Draw: filler
 Champ Card Reward: progression
+Champ Emerald Key: progression
 Champ Five Gold: filler
 Champ Neutral Shop Card Slot: useful
 Champ One Gold: filler
@@ -40,6 +65,8 @@ Champ Progressive Smith: progression
 Champ Rare Card Draw: progression
 Champ Rare Card Reward: progression
 Champ Relic: progression
+Champ Ruby Key: progression
+Champ Sapphire Key: progression
 Champ Shop Card Slot: progression
 Champ Shop Potion Slot: progression
 Champ Shop Relic Slot: progression
@@ -51,6 +78,7 @@ Collector Boss Gold: progression
 Collector Boss Relic: progression
 Collector Card Draw: progression
 Collector Card Reward: progression
+Collector Emerald Key: progression
 Collector Five Gold: filler
 Collector Neutral Shop Card Slot: progression
 Collector One Gold: filler
@@ -61,6 +89,8 @@ Collector Progressive Smith: progression
 Collector Rare Card Draw: progression
 Collector Rare Card Reward: progression
 Collector Relic: progression
+Collector Ruby Key: progression
+Collector Sapphire Key: progression
 Collector Shop Card Slot: progression
 Collector Shop Potion Slot: progression
 Collector Shop Relic Slot: progression
@@ -69,10 +99,12 @@ Combat Buff: filler
 Custom Character 1 15 Gold: useful
 Custom Character 1 30 Gold: progression
 Custom Character 1 30 gold: progression
+Custom Character 1 Ascension Down: useful
 Custom Character 1 Boss Gold: progression
 Custom Character 1 Boss Relic: progression
 Custom Character 1 Card Draw: progression
 Custom Character 1 Card Reward: progression
+Custom Character 1 Emerald Key: progression
 Custom Character 1 Five Gold: filler
 Custom Character 1 Neutral Shop Card Slot: progression
 Custom Character 1 One Gold: filler
@@ -83,6 +115,8 @@ Custom Character 1 Progressive Smith: progression
 Custom Character 1 Rare Card Draw: progression
 Custom Character 1 Rare Card Reward: progression
 Custom Character 1 Relic: progression
+Custom Character 1 Ruby Key: progression
+Custom Character 1 Sapphire Key: progression
 Custom Character 1 Shop Card Slot: progression
 Custom Character 1 Shop Potion Slot: progression
 Custom Character 1 Shop Relic Slot: progression
@@ -179,6 +213,7 @@ Defect Boss Gold: useful
 Defect Boss Relic: progression
 Defect Card Draw: progression
 Defect Card Reward: progression
+Defect Emerald Key: progression
 Defect Five Gold: filler
 Defect Neutral Shop Card Slot: progression
 Defect One Gold: filler
@@ -189,6 +224,8 @@ Defect Progressive Smith: progression
 Defect Rare Card Draw: progression
 Defect Rare Card Reward: progression
 Defect Relic: progression
+Defect Ruby Key: progression
+Defect Sapphire Key: progression
 Defect Shop Card Slot: progression
 Defect Shop Potion Slot: progression
 Defect Shop Relic Slot: progression
@@ -201,6 +238,7 @@ Gremlins Boss Gold: progression
 Gremlins Boss Relic: progression
 Gremlins Card Draw: progression
 Gremlins Card Reward: progression
+Gremlins Emerald Key: progression
 Gremlins Five Gold: filler
 Gremlins Neutral Shop Card Slot: progression
 Gremlins One Gold: filler
@@ -211,6 +249,8 @@ Gremlins Progressive Smith: progression
 Gremlins Rare Card Draw: progression
 Gremlins Rare Card Reward: progression
 Gremlins Relic: progression
+Gremlins Ruby Key: progression
+Gremlins Sapphire Key: progression
 Gremlins Shop Card Slot: progression
 Gremlins Shop Potion Slot: progression
 Gremlins Shop Relic Slot: progression
@@ -222,6 +262,7 @@ Guardian Boss Gold: useful
 Guardian Boss Relic: progression
 Guardian Card Draw: progression
 Guardian Card Reward: progression
+Guardian Emerald Key: progression
 Guardian Five Gold: filler
 Guardian Neutral Shop Card Slot: progression
 Guardian One Gold: filler
@@ -232,6 +273,8 @@ Guardian Progressive Smith: progression
 Guardian Rare Card Draw: progression
 Guardian Rare Card Reward: progression
 Guardian Relic: progression
+Guardian Ruby Key: progression
+Guardian Sapphire Key: progression
 Guardian Shop Card Slot: progression
 Guardian Shop Potion Slot: useful
 Guardian Shop Relic Slot: progression
@@ -243,6 +286,7 @@ Hermit Boss Gold: progression
 Hermit Boss Relic: progression
 Hermit Card Draw: progression
 Hermit Card Reward: progression
+Hermit Emerald Key: progression
 Hermit Five Gold: filler
 Hermit Neutral Shop Card Slot: progression
 Hermit One Gold: filler
@@ -253,6 +297,8 @@ Hermit Progressive Smith: progression
 Hermit Rare Card Draw: progression
 Hermit Rare Card Reward: progression
 Hermit Relic: progression
+Hermit Ruby Key: progression
+Hermit Sapphire Key: progression
 Hermit Shop Card Slot: progression
 Hermit Shop Potion Slot: progression
 Hermit Shop Relic Slot: progression
@@ -264,6 +310,7 @@ Hexaghost Boss Gold: progression
 Hexaghost Boss Relic: progression
 Hexaghost Card Draw: progression
 Hexaghost Card Reward: progression
+Hexaghost Emerald Key: progression
 Hexaghost Five Gold: filler
 Hexaghost Neutral Shop Card Slot: progression
 Hexaghost One Gold: filler
@@ -274,6 +321,8 @@ Hexaghost Progressive Smith: progression
 Hexaghost Rare Card Draw: progression
 Hexaghost Rare Card Reward: progression
 Hexaghost Relic: progression
+Hexaghost Ruby Key: progression
+Hexaghost Sapphire Key: progression
 Hexaghost Shop Card Slot: useful
 Hexaghost Shop Potion Slot: progression
 Hexaghost Shop Relic Slot: progression
@@ -285,6 +334,7 @@ Ironclad Boss Gold: progression
 Ironclad Boss Relic: progression
 Ironclad Card Draw: progression
 Ironclad Card Reward: progression
+Ironclad Emerald Key: progression
 Ironclad Five Gold: filler
 Ironclad Neutral Shop Card Slot: progression
 Ironclad One Gold: filler
@@ -295,6 +345,8 @@ Ironclad Progressive Smith: progression
 Ironclad Rare Card Draw: progression
 Ironclad Rare Card Reward: progression
 Ironclad Relic: progression
+Ironclad Ruby Key: progression
+Ironclad Sapphire Key: progression
 Ironclad Shop Card Slot: progression
 Ironclad Shop Potion Slot: progression
 Ironclad Shop Relic Slot: progression
@@ -309,6 +361,7 @@ Silent Boss Gold: progression
 Silent Boss Relic: progression
 Silent Card Draw: progression
 Silent Card Reward: progression
+Silent Emerald Key: progression
 Silent Five Gold: filler
 Silent Neutral Shop Card Slot: progression
 Silent One Gold: filler
@@ -319,6 +372,8 @@ Silent Progressive Smith: progression
 Silent Rare Card Draw: progression
 Silent Rare Card Reward: progression
 Silent Relic: progression
+Silent Ruby Key: progression
+Silent Sapphire Key: progression
 Silent Shop Card Slot: progression
 Silent Shop Potion Slot: progression
 Silent Shop Relic Slot: progression
@@ -330,6 +385,7 @@ SlimeBoss Boss Gold: progression
 SlimeBoss Boss Relic: progression
 SlimeBoss Card Draw: progression
 SlimeBoss Card Reward: progression
+SlimeBoss Emerald Key: progression
 SlimeBoss Five Gold: filler
 SlimeBoss Neutral Shop Card Slot: progression
 SlimeBoss One Gold: filler
@@ -340,6 +396,8 @@ SlimeBoss Progressive Smith: progression
 SlimeBoss Rare Card Draw: progression
 SlimeBoss Rare Card Reward: progression
 SlimeBoss Relic: progression
+SlimeBoss Ruby Key: progression
+SlimeBoss Sapphire Key: progression
 SlimeBoss Shop Card Slot: progression
 SlimeBoss Shop Potion Slot: progression
 SlimeBoss Shop Relic Slot: progression
@@ -351,6 +409,7 @@ Snecko Boss Gold: progression
 Snecko Boss Relic: progression
 Snecko Card Draw: progression
 Snecko Card Reward: progression
+Snecko Emerald Key: progression
 Snecko Five Gold: filler
 Snecko Neutral Shop Card Slot: progression
 Snecko One Gold: filler
@@ -361,6 +420,8 @@ Snecko Progressive Smith: progression
 Snecko Rare Card Draw: progression
 Snecko Rare Card Reward: progression
 Snecko Relic: progression
+Snecko Ruby Key: progression
+Snecko Sapphire Key: progression
 Snecko Shop Card Slot: progression
 Snecko Shop Potion Slot: useful
 Snecko Shop Relic Slot: progression
@@ -375,6 +436,7 @@ Watcher Boss Gold: progression
 Watcher Boss Relic: progression
 Watcher Card Draw: progression
 Watcher Card Reward: progression
+Watcher Emerald Key: progression
 Watcher Five Gold: filler
 Watcher Neutral Shop Card Slot: progression
 Watcher One Gold: filler
@@ -385,6 +447,8 @@ Watcher Progressive Smith: progression
 Watcher Rare Card Draw: progression
 Watcher Rare Card Reward: progression
 Watcher Relic: progression
+Watcher Ruby Key: progression
+Watcher Sapphire Key: progression
 Watcher Shop Card Slot: progression
 Watcher Shop Potion Slot: progression
 Watcher Shop Relic Slot: progression

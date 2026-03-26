@@ -8,6 +8,7 @@ $50: filler
 Abaddon Soul: useful
 Aguni Soul: useful
 Alastor Soul: filler
+Alura Une Soul: useful
 Amalaric Sniper Soul: useful
 Amanita: trap
 Anti-Venom: filler
@@ -23,16 +24,21 @@ Bat Soul: filler
 Beef Curry: useful
 Bhuj: useful
 Biker Jacket: filler
+Black Cloak: filler
 Black Panther Soul: progression
 Blocking Mail: useful
 Bloody Stud: useful
 Blunt Sword: filler
 Boiled Starfish: filler
 Bomber Armor Soul: filler
+Bone Ark Soul: progression
+Bone Pillar Soul: useful
 Boomerang: filler
 Brass Knuckles: filler
+Buer Soul: filler
 Bugbear Soul: filler
 Burtgang: useful
+Cape: filler
 Casual Clothes: filler
 Catoblepas Soul: filler
 Cave Troll Soul: filler
@@ -46,8 +52,10 @@ Corn Soup: filler
 Corpseweed Soul: filler
 Cream Puff: filler
 Cream Soda: filler
+Cuirass: useful
 Cutall: filler
 Cutlass: filler
+Dead Crusader Soul: useful
 Dead Mate Soul: filler
 Dead Pirate Soul: filler
 Dead Warrior Soul: useful
@@ -60,16 +68,25 @@ Disc Armor Soul: useful
 Doppelganger Soul: useful
 Dracula's Tunic: useful
 Draghignazzo Soul: useful
+East Lab Gate Key: progression
+Elfin Robe: filler
 Erinys Soul: useful
+Estoc: filler
 Eversing: useful
+Final Guard Soul: useful
 Fish Head Soul: filler
 Flame Demon Soul: useful
+Flame Necklace: filler
+Fleaman Soul: filler
+Fleuret: useful
 Flying Armor Soul: progression
 Flying Humanoid Soul: filler
 Foie Gras: useful
 Fragarach: filler
 Fried Chicken: filler
 Frozen Shade Soul: filler
+Gaibon Soul: useful
+Garden Gate Key: progression
 Garian Sword: filler
 Gergoth Soul: useful
 Ghost Dancer Soul: useful
@@ -79,6 +96,7 @@ Gold Stud: filler
 Golem Soul: useful
 Gorgon Soul: filler
 Grapes: filler
+Great Armor Soul: filler
 Great Axe Armor Soul: useful
 Great Sword: filler
 Guillotiner Soul: useful
@@ -103,12 +121,17 @@ Joyeuse: filler
 Justaucorps: filler
 Kaladbolg: useful
 Killer Clown Soul: progression
+Killer Doll Soul: filler
 Killer Fish Soul: filler
 Kris Naga: filler
+Kung Fu Suit: filler
 Lance: filler
 Larva Soul: filler
 Leather Armor: filler
+Lilith Soul: useful
+Long Sword: filler
 Longinus: useful
+Lucky Charm: filler
 Mace: filler
 Mage Robe: filler
 Magic Seal 1: progression
@@ -126,6 +149,7 @@ Manticore Soul: filler
 Masamune: filler
 Meat Strip: filler
 Medusa Head Soul: useful
+Megingiord: useful
 Melon: useful
 Merman Soul: filler
 Milican's Sword: useful
@@ -135,10 +159,12 @@ Mina's Talisman: progression
 Mini Devil Soul: filler
 Mjollnjr: useful
 Mollusca Soul: filler
+Morgenstern: filler
 Mothman Soul: useful
 Mud Demon Soul: useful
 Muramasa: useful
 Mushroom: filler
+Mushussu Soul: filler
 Nebula: useful
 Neck Warmer: filler
 Needles Soul: filler
@@ -151,6 +177,7 @@ Paella: filler
 Pancake: filler
 Paranoia Soul: progression
 Peeping Eye Soul: filler
+Persephone Soul: filler
 Piroshki: filler
 Platinum Stud: useful
 Potion: filler
@@ -159,10 +186,13 @@ Procel Soul: useful
 Pudding: filler
 Pumpkin Pie: filler
 Puppet Master Soul: progression
+Quetzalcoatl Soul: filler
 Rahab Soul: progression
 Rare Ring: useful
 Ring Mail: filler
 Ripper Soul: filler
+Rotten Meat: trap
+Rune Ring: filler
 Rusty Food Tin: trap
 Rycuda Soul: filler
 Salmon Meuniere: filler
@@ -177,6 +207,7 @@ Skeleton Ape Soul: progression
 Skeleton Farmer Soul: filler
 Skeleton Soul: filler
 Skull Necklace: filler
+Slaughterer Soul: filler
 Slime Soul: filler
 Slogra Soul: filler
 Small Sword: filler
@@ -190,6 +221,7 @@ Strawberry: filler
 Student Witch Soul: filler
 Succubus Soul: useful
 Super Potion: useful
+Tanjelly Soul: useful
 Tasty Meat: useful
 Tea: filler
 Tear Of Blood: useful
@@ -202,6 +234,7 @@ Tomahawk: filler
 Tombstone Soul: filler
 Tower Key: progression
 Traveler Cape: filler
+Treant Soul: useful
 Truffle: useful
 Turquoise Stud: filler
 Ukoback Soul: progression
@@ -211,11 +244,15 @@ Valkyrie Soul: filler
 Waiter Skeleton Soul: progression
 Wakwak Tree Soul: useful
 War Fatigues: filler
+Warg Soul: filler
 Werewolf Soul: filler
+West Lab Gate Key: progression
 Whip Knuckle: filler
 Whip Sword: filler
+White Dragon Soul: filler
 Witch Soul: filler
 Wyrm Robe: filler
 Yeti Soul: filler
+Yorick Soul: filler
 Zephyr Soul: progression
 Zombie Soul: filler

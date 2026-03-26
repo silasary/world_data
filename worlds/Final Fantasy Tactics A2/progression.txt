@@ -1,5 +1,5 @@
 Ace of Spades: useful
-Adamant Alloy: unknown
+Adamant Alloy: progression
 Adamant Armor: unknown
 Adamant Vest: unknown
 Adamantite: unknown
@@ -12,7 +12,7 @@ Air Blade: useful
 Ama-no-murakumo: unknown
 Ancient Sword: unknown
 Angel Ring: unknown
-Animal Bone: unknown
+Animal Bone: progression
 Apocalypse: unknown
 Aqua Galac: unknown
 Aqua Saber: unknown
@@ -42,22 +42,22 @@ Black Thread: progression
 Blaze Robe: unknown
 Blood Sword: unknown
 Blood-darkened Bone: unknown
-Blueleaf Flute: unknown
+Blueleaf Flute: useful
 Body Ceffyl: unknown
 Bomb Arm: unknown
 Bomb Shell: unknown
 Bone Armlets: unknown
 Bone Plate: useful
-Bracers: unknown
+Bracers: useful
 Brevis: unknown
 Brigand's Gloves: unknown
 Brigandine: useful
 Brilliant Theorbo: unknown
 Broadaxe: useful
-Broadsword: unknown
+Broadsword: useful
 Bronze Armor: filler
 Bronze Helm: unknown
-Bronze Shield: unknown
+Bronze Shield: useful
 Burglar Sword: unknown
 Buster Sword: unknown
 Cachusha: unknown
@@ -65,11 +65,12 @@ Carabineer Mail: useful
 Cat Claws: unknown
 Chainmail: useful
 Chameleon Robe: unknown
+Char Bow: useful
 Cheer Staff: useful
 Chirijiraden: unknown
 Chocobo Shield: unknown
 Chocobo Skin: unknown
-Circlet: unknown
+Circlet: useful
 Claymore: unknown
 Cleansing Staff: unknown
 Close Helmet: unknown
@@ -85,10 +86,10 @@ Crescent Bow: unknown
 Crimson Tear: useful
 Crown Scepter: unknown
 Crusader Tonic: unknown
-Crusite Alloy: unknown
+Crusite Alloy: progression
 Cypress Pole: unknown
 Dagger: unknown
-Dagriohm: unknown
+Dagriohm: useful
 Damascus: unknown
 Danbukwood: unknown
 Darklord Crystal: unknown
@@ -164,6 +165,7 @@ Gigas Pendant: unknown
 Giot Gun: useful
 Glass Bell: useful
 Gleisburst: unknown
+Godhand: useful
 Gokuu Pole: unknown
 Gold Hairpin: useful
 Golden Armor: unknown
@@ -175,7 +177,7 @@ Green Beret: unknown
 Green Liquid: unknown
 Gupti Aga: unknown
 Hades Bow: useful
-Hammerhead: unknown
+Hammerhead: useful
 Hand Cannon: useful
 Hanya Mask: unknown
 Harpe: unknown
@@ -221,6 +223,7 @@ Job Unlock: Ninja: unknown
 Job Unlock: Ranger: unknown
 Job Unlock: Ravager: useful
 Job Unlock: Red Mage: unknown
+Job Unlock: Sage: useful
 Job Unlock: Scholar: useful
 Job Unlock: Sniper: useful
 Job Unlock: Spellblade: useful
@@ -243,7 +246,7 @@ Kris: useful
 Kunai: unknown
 Kwigon Blade: unknown
 Ladies' Tresses: unknown
-Lamia Harp: unknown
+Lamia Harp: useful
 Lamia Scale: unknown
 Last Letter: unknown
 Leather Clothing: unknown
@@ -257,7 +260,7 @@ Lilith Rod: unknown
 Linen Cuirass: unknown
 Lionheart: useful
 Lohengrin: useful
-Longbarrel: unknown
+Longbarrel: useful
 Longbow: useful
 Longsword: unknown
 Lordly Robe: unknown
@@ -265,7 +268,7 @@ Lost Gun: unknown
 Lotus Mace: useful
 Luabreaker: unknown
 Luminous Robe: unknown
-Madu: unknown
+Madu: useful
 Mage Manual: useful
 Mage Masher: useful
 Magick Hands: useful
@@ -276,9 +279,9 @@ Malboro Flower: unknown
 Malbow: unknown
 Mandragora: unknown
 Manganese Saber: unknown
-Mape Wood: unknown
+Mape Wood: progression
 Marduk: unknown
-Marriom Heather: unknown
+Marriom Heather: progression
 Masamune: unknown
 Massive Bazooka: unknown
 Master Bow: unknown
@@ -292,8 +295,8 @@ Mind Ceffyl: unknown
 Minerva Bustier: useful
 Mirage Vest: useful
 Mirror Mail: unknown
-Mirror Scale: unknown
-Mjolnir: unknown
+Mirror Scale: progression
+Mjolnir: useful
 Molting: unknown
 Moon Bloom: unknown
 Moon Maiden: unknown
@@ -331,9 +334,10 @@ Platinum Helm: filler
 Platinum Shield: unknown
 Plumed Hat: filler
 Poison Knuckles: unknown
+Pomegranate Staff: useful
 Power Sash: unknown
 Predator: useful
-Prima Petal: unknown
+Prima Petal: progression
 Prime Tanned Hide: unknown
 Putrid Liquid: unknown
 Quality Hide: unknown
@@ -355,12 +359,12 @@ Ring of Precepts: unknown
 Ring of the Wheel: unknown
 Riot Gun: useful
 Rising Sun: unknown
-Rocket Punch: unknown
+Rocket Punch: useful
 Rod: unknown
 Rondel: useful
 Round Shield: unknown
 Rubber Suit: unknown
-Ruby Earring: unknown
+Ruby Earring: useful
 Sage Crosier: unknown
 Sage's Robe: unknown
 Samite Coat: unknown
@@ -388,7 +392,7 @@ Silk Thread: progression
 Silken Robe: unknown
 Silver Bow: unknown
 Silver Cannon: unknown
-Silver Liquid: unknown
+Silver Liquid: progression
 Silver Rapier: useful
 Silver Sword: useful
 Six of Diamonds: useful
@@ -410,13 +414,14 @@ Staff of Protection: unknown
 Staff of the Magi: unknown
 Stardust Rod: useful
 Stinger: unknown
-Stormsoul Crystal: unknown
+Stormsoul Crystal: progression
 Stradivari: unknown
 Strange Liquid: unknown
 Strawood: unknown
 Stribog: unknown
-Sturdy Bone: unknown
+Sturdy Bone: progression
 Sumihomura: unknown
+Sun Blade: useful
 Superior Silk Thread: progression
 Supernal Ray: unknown
 Survival Vest: unknown
@@ -425,7 +430,7 @@ Sweep Blade: unknown
 Swordbreaker: unknown
 Tainted Cufflink: unknown
 Talwar: unknown
-Tanned Hide: unknown
+Tanned Hide: progression
 Tanned Tyrant Hide: unknown
 Target Bow: useful
 Tarkov Crystal: unknown
@@ -438,7 +443,7 @@ The Fallen Angel: unknown
 Thief's Cap: unknown
 Thor Rod: unknown
 Thorn Bow: unknown
-Thunder Robe: unknown
+Thunder Robe: useful
 Thunder Rod: unknown
 Tiara: unknown
 Tiger Fangs: unknown
@@ -469,7 +474,7 @@ White Fangs: useful
 White Hat: useful
 White Robe: unknown
 White Staff: unknown
-White Thread: unknown
+White Thread: progression
 Windgod Crystal: unknown
 Windslash Bow: unknown
 Windsong Rapier: useful

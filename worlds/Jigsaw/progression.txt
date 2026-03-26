@@ -190,6 +190,7 @@
 57 Puzzle Pieces: progression
 58 Puzzle Pieces: progression
 59 Puzzle Pieces: progression
+6 Fake Puzzle Pieces: trap
 6 Puzzle Pieces: progression
 60 Puzzle Pieces: progression
 61 Puzzle Pieces: progression
@@ -201,6 +202,7 @@
 67 Puzzle Pieces: progression
 68 Puzzle Pieces: progression
 69 Puzzle Pieces: progression
+7 Fake Puzzle Pieces: trap
 7 Puzzle Pieces: progression
 7 Rotate Traps: trap
 70 Puzzle Pieces: progression
@@ -213,7 +215,9 @@
 77 Puzzle Pieces: progression
 78 Puzzle Pieces: progression
 79 Puzzle Pieces: mcguffin
+8 Fake Puzzle Pieces: trap
 8 Puzzle Pieces: progression
+8 Rotate Traps: trap
 8 Swap Traps: trap
 80 Puzzle Pieces: progression
 81 Puzzle Pieces: unknown
@@ -222,12 +226,13 @@
 84 Puzzle Pieces: progression
 85 Puzzle Pieces: progression
 86 Puzzle Pieces: progression
-87 Puzzle Pieces: unknown
+87 Puzzle Pieces: progression
 88 Puzzle Pieces: unknown
 89 Puzzle Pieces: progression
 9 Fake Puzzle Pieces: trap
 9 Puzzle Pieces: progression
 9 Rotate Traps: trap
+9 Swap Traps: trap
 90 Puzzle Pieces: progression
 91 Puzzle Pieces: progression
 93 Puzzle Pieces: progression

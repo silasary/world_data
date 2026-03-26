@@ -100,7 +100,7 @@ HoH Entrance Key: progression
 Hypnotic Platter: useful
 Icon of Progress: useful
 Impediment Scourge: mcguffin
-Impenetrable Cookie: unknown
+Impenetrable Cookie: progression
 Imperative Cookie: useful
 Implement of Toil: progression
 Indomitable CPU: useful
@@ -204,6 +204,8 @@ Time Capsule: progression
 Toxic Toadstool: useful
 Treasured Gyro Block: progression
 Triple Sugar Threat: useful
+Ultra-Bitter Spray: filler
+Ultra-Spicy Spray: filler
 Universal Com: progression
 Unknown Item (ID: 236): unknown
 Unknown Merit: progression

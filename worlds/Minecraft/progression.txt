@@ -16,6 +16,7 @@ Bed: progression
 Bee Trap: trap
 Bottles: progression
 Brewing: progression
+Brush: progression
 Bucket: progression
 Campfire: progression
 Channeling Book: progression
@@ -40,8 +41,10 @@ Shulker Box: filler
 Silk Touch Book: progression
 Single Arrow: filler
 Spyglass: progression
+Structure Compass (Ancient City): progression
 Structure Compass (Bastion Remnant): progression
 Structure Compass (End City): progression
 Structure Compass (Nether Fortress): progression
+Structure Compass (Ocean Monument): progression
 Structure Compass (Pillager Outpost): progression
 Structure Compass (Village): progression

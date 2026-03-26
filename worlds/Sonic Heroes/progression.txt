@@ -1,5 +1,8 @@
+10 Ring Bundle: filler
 10 Rings: filler
+20 Ring Bundle: filler
 20 Rings: filler
+5 Ring Bundle: filler
 5 Rings: filler
 Blue Chaos Emerald: mcguffin
 Charmy Trap: trap
@@ -15,8 +18,25 @@ Purple Chaos Emerald: progression
 Red Chaos Emerald: progression
 Ring Trap: trap
 Shield: filler
+Sonic Combo Finisher Ocean Region: progression
+Sonic Combo Finisher Sky Region: progression
+Sonic Dummy Rings Train Region: progression
+Sonic Flight Ghost Region: progression
+Sonic Flight Train Region: progression
+Sonic Glide Sky Region: progression
+Sonic Homing Attack BigPlant Region: progression
+Sonic Homing Attack Ghost Region: progression
+Sonic Light Attack HotPlant Region: progression
+Sonic Light Dash BigPlant Region: progression
+Sonic Light Dash Train Region: progression
+Sonic Rocket Accel BigPlant Region: progression
+Sonic Tornado Ghost Region: progression
+Sonic Tornado HotPlant Region: progression
+Sonic Tornado Sky Region: progression
+Sonic Triangle Jump Casino Region: progression
 Speed Level Up: filler
 Stealth Trap: trap
+Team Blast Refill: filler
 Team Level Up: filler
 White Chaos Emerald: progression
 Yellow Chaos Emerald: mcguffin

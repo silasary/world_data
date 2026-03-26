@@ -1,3 +1,4 @@
+500 Zennie Pack: filler
 Acrobat: filler
 Act Tough: filler
 Aerial Accel: filler
@@ -102,6 +103,7 @@ Dagger: progression
 Daisy Chain: filler
 Deadly Reach: useful
 Debuff Counter: filler
+Debuff: trap
 Decay Antidote: useful
 Decay Mask: progression
 Deft A: useful
@@ -124,6 +126,7 @@ Dominator: filler
 Double Airstrike: useful
 Double Drop: useful
 Double Rabi Boots: progression
+Double Time: trap
 Drop Kick: filler
 Dual Combo: Flow: useful
 Dual Combo: Rush: filler
@@ -208,6 +211,7 @@ MP Surge: Soul: useful
 MP Surge: Tag Out: useful
 Magic Cannon: useful
 Magic Mixer: filler
+Magitite Shard: progression
 Mana Armor: filler
 Mana Flare: useful
 Mana Platform: useful
@@ -251,7 +255,9 @@ Razor Arrow: filler
 Red Haze: filler
 Red Module Type-B: progression
 Red Module Type-C: useful
+Reduce Jump Height: trap
 Refractor: filler
+Reverse Camera: trap
 Rewind Donut: filler
 Royal Emblem: progression
 Running Boots: useful
@@ -309,6 +315,7 @@ Synchronized Support I: filler
 Synchronized Support II: useful
 Tabby Bomb: useful
 Tartarus VIP Pass: useful
+Taunt: trap
 Teleporter Anathema: progression
 Teleporter Blushwood: progression
 Teleporter Canyon: progression
@@ -375,3 +382,4 @@ Weak Dominance B: useful
 Whimsical Waffle of Wonder: filler
 Whipcrack: filler
 Windmill Strike: useful
+Yeet: trap

@@ -3,8 +3,11 @@
 +10 Gag Capacity: progression
 +2 Base Gag XP Multiplier: progression
 +2 Laff Boost: progression
++2% Damage Boost: progression
 +3 Laff Boost: progression
++3% Damage Boost: progression
 +4 Laff Boost: progression
++4% Damage Boost: progression
 +5 Gag Capacity: progression
 +5 Laff Boost: progression
 10% Gag XP Bundle: filler
@@ -80,6 +83,7 @@ Progressive Task Capacity: progression
 Random 3-Star SOS Card: filler
 Random 4-Star SOS Card: filler
 Random 5-Star SOS Card: filler
+Random Cog Summon: filler
 Random Gag Unite: filler
 Random SOS Card: filler
 Random Toon-Up Unite: filler

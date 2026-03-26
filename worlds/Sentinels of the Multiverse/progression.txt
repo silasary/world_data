@@ -23,7 +23,7 @@ Anomalos: unknown
 Anor Londo: Guardians of Gwynevere: unknown
 Anor Londo: unknown
 Apostate: Dark Angel: unknown
-Apostate: unknown
+Apostate: progression
 Arachne Gorgon: unknown
 Arcanist: unknown
 Archivist: unknown
@@ -105,7 +105,7 @@ Dark Hunter: unknown
 Dark Pact Nightmist: unknown
 Dark Smoke Puncher: unknown
 Dark Visionary: progression
-Dark Watch Expatriette: unknown
+Dark Watch Expatriette: progression
 Dark Watch Harpy: unknown
 Dark Watch Mister Fixer: unknown
 Dark Watch Nightmist: unknown
@@ -157,7 +157,7 @@ Expatraith: unknown
 Expatriette: progression
 Extremist Sky-Scraper: progression
 F.S.C. Continuance Wanderer: unknown
-Fanatic: unknown
+Fanatic: progression
 Farseer: unknown
 Fate's End: unknown
 Fathomless Deep: unknown
@@ -404,7 +404,7 @@ Old Town Rook City: unknown
 Omnitron II: progression
 Omnitron IV: unknown
 Omnitron-U: progression
-Omnitron-X: unknown
+Omnitron-X: progression
 Omnitron-XI: unknown
 Omnitron: Techno Terror: unknown
 Omnitron: unknown
@@ -438,7 +438,7 @@ Power use -1 (Any Mainstay): unknown
 Power use -1 (Any Ra): unknown
 Power use -1 (Any Tachyon): unknown
 Power use -1 (Any Tempest): trap
-Prime Wardens Argent Adept: unknown
+Prime Wardens Argent Adept: progression
 Prime Wardens Captain Cosmic: progression
 Prime Wardens Fanatic: progression
 Prime Wardens Haka: progression
@@ -504,7 +504,7 @@ Space Marine: unknown
 Spite: Agent of Gloom: unknown
 Spite: Death Addict: unknown
 Spite: Drug Runner: unknown
-Spite: unknown
+Spite: progression
 St. Simeon's Catacombs: unknown
 Stand User Vector: unknown
 Starlight Area-51: unknown
@@ -610,7 +610,7 @@ The River Heralds: Kumena: unknown
 The River Heralds: Tuvasa: unknown
 The Road Home: unknown
 The Runecarved Stranger: unknown
-The Scholar of the Infinite: unknown
+The Scholar of the Infinite: progression
 The Scholar: progression
 The Sentinels As One: unknown
 The Sentinels: unknown

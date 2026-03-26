@@ -5,10 +5,12 @@ Berserk: filler
 Box of bullets: filler
 Box of rockets: filler
 Box of shotgun shells: filler
+Bullet capacity: useful
 Central Processing (E1M6) - Blue keycard: progression
 Central Processing (E1M6) - Computer area map: filler
 Central Processing (E1M6) - Red keycard: progression
 Central Processing (E1M6) - Yellow keycard: progression
+Central Processing (E1M6): progression
 Chaingun: progression
 Chainsaw: progression
 Command Center (E2M5): progression
@@ -25,10 +27,15 @@ Containment Area (E2M2) - Blue keycard: progression
 Containment Area (E2M2) - Red keycard: progression
 Containment Area (E2M2) - Yellow keycard: progression
 Containment Area (E2M2): progression
+Deimos Lab (E2M4) - Yellow keycard: progression
+Energy cell capacity: useful
 Energy cell pack: filler
 Fortress of Mystery (E2M9) - Blue skull key: progression
+Fortress of Mystery (E2M9) - Yellow skull key: progression
 Fortress of Mystery (E2M9): progression
 Halls of the Damned (E2M6) - Blue skull key: progression
+Halls of the Damned (E2M6) - Yellow skull key: progression
+Halls of the Damned (E2M6): progression
 Hangar (E1M1) - Complete: progression
 Hangar (E1M1) - Computer area map: filler
 Hell Keep (E3M1) - Complete: progression
@@ -64,14 +71,20 @@ Phobos Lab (E1M5) - Computer area map: filler
 Phobos Lab (E1M5) - Yellow keycard: progression
 Plasma gun: progression
 Refinery (E2M3) - Blue keycard: progression
+Rocket capacity: useful
+Rocket launcher: progression
+Shell capacity: useful
 Shotgun: progression
 Slough of Despair (E3M2) - Blue skull key: progression
 Slough of Despair (E3M2) - Complete: progression
 Slough of Despair (E3M2) - Computer area map: filler
 Slough of Despair (E3M2): progression
 Spawning Vats (E2M7) - Red keycard: progression
+Spawning Vats (E2M7) - Yellow keycard: progression
 Spawning Vats (E2M7): progression
 Supercharge: filler
+Tower of Babel (E2M8) - Complete: progression
+Tower of Babel (E2M8): progression
 Toxin Refinery (E1M3) - Blue keycard: progression
 Toxin Refinery (E1M3) - Complete: progression
 Toxin Refinery (E1M3) - Computer area map: filler

@@ -1,4 +1,6 @@
+Agency Pickup - Bangkok - Garden Shed: filler
 Agency Pickup - Bangkok - Penthouse: filler
+Agency Pickup - Bangkok - Recording Studio: filler
 Agency Pickup - Bangkok - South Wing Basement: filler
 Agency Pickup - Berlin - Chill-Out Stff Trailer: filler
 Agency Pickup - Berlin - Skylight Access: filler
@@ -10,11 +12,15 @@ Agency Pickup - Dubai - Art Backstage Balcony: filler
 Agency Pickup - Haven Island - Villa Beach Storage Area: filler
 Agency Pickup - Hokkaido - Garage: filler
 Agency Pickup - Hokkaido - Kitchen Food Storage: filler
+Agency Pickup - Marrakesh - West Bazaar Rooftops: filler
 Agency Pickup - Miami - Backstage Truck: filler
+Agency Pickup - Miami - Pit Building Locker Room: filler
 Agency Pickup - Mumbai - Carpark: filler
 Agency Pickup - Mumbai - Construction site: filler
+Agency Pickup - Mumbai - Mumbai Laundry: filler
 Agency Pickup - Mumbai - The Hill: filler
 Agency Pickup - New York - Executive Floor: filler
+Agency Pickup - New York - Vault's Loading Bay: filler
 Agency Pickup - Paris - Empty Attic Room: filler
 Agency Pickup - Paris - Logistics Trailer: filler
 Agency Pickup - Paris - Shed: filler
@@ -32,18 +38,24 @@ Distraction - "Mixtape 47": filler
 Distraction - ICA Commendable Performance Coin: filler
 Distraction - ICA Outstanding Performance Coin: filler
 Distraction - ICA Outstanding Service Coin: filler
+Distraction - ICA Remote Audio Distraction MKII: filler
 Distraction - ICA Remote Audio Distraction: filler
 Distraction - ICA Superior Service Coin: filler
 Distraction - Red-Tie Kiwi: filler
+Distraction - The "Casino Monarchique" Chip (100.000): filler
 Distraction - The Big One: filler
 Distraction - The Purple Streak Coin: filler
 Explosive - Bomb-Ass Dynamite: filler
 Explosive - Breaching Charge MK II: filler
 Explosive - Breaching Charge MK III: filler
 Explosive - Concussion Grenade: filler
+Explosive - Explosive Baseball: filler
 Explosive - Explosive Compound: filler
 Explosive - Fragmentation Grenade: filler
+Explosive - ICA Impact Explosive: filler
 Explosive - ICA Micro Remote Explosive: filler
+Explosive - ICA Proximity Concussion Device: filler
+Explosive - ICA Proximity Explosive: filler
 Explosive - ICA Remote Explosive: useful
 Explosive - ICA Remote Flash Device: filler
 Explosive - ICA Tripwire Mine: filler
@@ -62,31 +74,47 @@ Explosive - Remote Concussion Rubber Duck: filler
 Explosive - Remote Explosive Duck: filler
 Explosive - Remote Explosive Rubber Duck MK II: filler
 Explosive - Remote Semetex Demo Block MK III: filler
+Explosive - Remove Explosive Devil Rubber Duck: filler
 Explosive - Shaman Powder: filler
 Explosive - Sunset Rubber Duck: filler
 Explosive - The Ancestral Fountain Pen: filler
+Explosive - The Creator Duck: filler
 Explosive - The Dino Duck: filler
 Explosive - The Dragon Duck: filler
 Explosive - The IOI Showcase Duck: filler
+Explosive - The Purple Streak Explosive Duck: filler
 Hidden Stash - Ambrose Island - Farah's Place: filler
 Hidden Stash - Chongqing - Facility Rooftop: filler
+Hidden Stash - Chongqing - Facility Server Supply Room: filler
 Hidden Stash - Chongqing - Facility Ventilation Room: filler
 Hidden Stash - Colorado - Courtyard Shed: filler
 Hidden Stash - Colorado - Ground Floor Laundry Room: filler
 Hidden Stash - Colorado - Hay Shed: filler
+Hidden Stash - Colorado - Orchard Road: filler
 Hidden Stash - Dubai - Atrium Toilet: filler
 Hidden Stash - Dubai - Kitchen: filler
+Hidden Stash - Haven Island - Restaurant Storage Room: filler
 Hidden Stash - Marrakesh - Shisha Café Restroom: filler
+Hidden Stash - Mendoza - Dance Floor: filler
+Hidden Stash - Miami - Kronstadt Reception: filler
 Hidden Stash - Mumbai - Balcony Pot: filler
 Hidden Stash - Mumbai - Meat Market: filler
+Hidden Stash - Mumbai - Pottery Market: filler
+Hidden Stash - Mumbai - Shoeshop: filler
+Hidden Stash - New York - Waiting Area Bathroom: filler
+Hidden Stash - Paris - Pantry: filler
 Hidden Stash - Sapienza - Mansion Garage: filler
 Hidden Stash - Sapienza - Mansion Pantry: filler
+Hidden Stash - Whittleton Creek - Janus Kitchen: filler
 Level - Ambrose Island: progression
 Level - Bangkok: progression
+Level - Carpathian Mountains: progression
 Level - Chongqing: progression
 Level - Colorado: progression
+Level - Hawkes Bay: progression
 Level - Isle of Sgail: progression
 Level - Marrakesh: progression
+Level - Miami: progression
 Level - Paris: progression
 Level - Santa Fortuna: progression
 Level - Sapienza: progression
@@ -99,12 +127,17 @@ Melee - Concealable Knife: filler
 Melee - Crystal Ball: filler
 Melee - Durian: filler
 Melee - Earphones: filler
+Melee - Fiber Wire Red Tie: filler
 Melee - Fiber Wire: filler
+Melee - Fish: filler
 Melee - Fishing Line: filler
 Melee - Hook: filler
 Melee - ICA combat axe: filler
+Melee - Ice Pick: filler
 Melee - Janbiya: filler
 Melee - Kukri Knife: filler
+Melee - Mace: filler
+Melee - Meat Hook: filler
 Melee - Meaty Bone: filler
 Melee - Nne Obara's Machete: filler
 Melee - Okinawan Tonfa: filler
@@ -116,6 +149,7 @@ Melee - Tanto: filler
 Melee - The Ancestral Knife: filler
 Melee - The Ornamental Katana: filler
 Melee - The Sapienza FA-Sanguine Boot: filler
+Melee - Unicorn Horn: filler
 Melee - Violin: filler
 Melee - Walking Cane: filler
 Package - Assault Rifles: useful
@@ -125,12 +159,17 @@ Package - Explosives: useful
 Package - Melees: useful
 Package - Shotguns: useful
 Package - Tools: useful
+Pistol - "El Matador": filler
 Pistol - "Rude Ruby": filler
+Pistol - Custom 5mm: filler
 Pistol - HWK21 Covert: filler
+Pistol - ICA19 Chrome: filler
 Pistol - ICA19 Classicballer: filler
 Pistol - ICA19 F/A Stealth "Ducky" Edition: filler
 Pistol - ICA19 F/A Stealth: filler
+Pistol - ICA19 F/A: filler
 Pistol - ICA19 Goldballer: filler
+Pistol - ICA19 Iceballer: filler
 Pistol - ICA19 Shortballer: filler
 Pistol - Kalmer 2 - Tranquilizer: filler
 Pistol - Krugermeier 2-2 Dark: filler
@@ -151,11 +190,13 @@ Poison - Lethal Syringe Mk III: filler
 Poison - Modern Lethal Syringe: useful
 Poison - Modern Sedative Syringe: useful
 Poison - Sedative Pills: filler
+SMG - Brine-Damaged SMG: filler
 SMG - DAK Black Covert: filler
 SMG - ICA SMG Raptor Covert: filler
 SMG - Malitia-Issued HX-10 SMG: filler
 SMG - SMG Raptor Rude Ruby Covert: filler
 SMG - TAC-SMG S: filler
+SMG - The Ornamental SMG: filler
 Shotgun - Bartoli 12G Short H: filler
 Shotgun - Enram HV CM: filler
 Shotgun - Enram HV Covert MKII: filler
@@ -164,6 +205,8 @@ Shotgun - ICA Tactical Shotgun: filler
 Sniper - Druzhina 34 DTI: filler
 Sniper - Druzhina 34 ICA Arctic: filler
 Sniper - Druzhina 34: filler
+Sniper - Hackl Leviathan Sniper Rifle Covert: filler
+Sniper - Hackl Sniper Riffle Covert "Ducky" Edition: filler
 Sniper - ICA Bartoli Woodsman Hunting Rifle Covert: filler
 Sniper - Jaeger 7 Covert: filler
 Sniper - Jaeger 7 Lancer: filler
@@ -176,27 +219,35 @@ Sniper - The White Ruby Rude 300 Sniper Rifle: filler
 Starting Location - Ambrose Island - Central Social Hub: filler
 Starting Location - Bangkok - 47's Suite: filler
 Starting Location - Bangkok - Undercover in the 2nd Floor Hallway: filler
+Starting Location - Bangkok - Undercover in the Linen Room: filler
 Starting Location - Bangkok - Undercover in the Restaurant Kitchen: filler
 Starting Location - Berlin - Biker Hangout: filler
 Starting Location - Berlin - Radio Tower: filler
 Starting Location - Chongqing - Facility Locker Room: filler
 Starting Location - Chongqing - Restaurant Kitchen: filler
 Starting Location - Chongqing - River-side Walkway: useful
+Starting Location - Chongqing - The Block: filler
 Starting Location - Colorado - Old Orchard: filler
 Starting Location - Colorado - Undercover on the Demolition Range: filler
 Starting Location - Colorado - Water Tower: filler
 Starting Location - Dubai - Atrium Lobby: useful
 Starting Location - Dubai - Guard Room: filler
+Starting Location - Haven Island - Resort Gym: filler
 Starting Location - Hawkes Bay - Beach: filler
 Starting Location - Hokkaido - Infiltrating Along the Mountain Path: filler
 Starting Location - Hokkaido - Spa: filler
 Starting Location - Hokkaido - Undercover in the Garden: filler
+Starting Location - Hokkaido - Undercover in the Operating Theater: filler
+Starting Location - Mendoza - Sniper Spot: filler
 Starting Location - Mendoza - Vineyard: filler
 Starting Location - Miami - Kowoon Pit: filler
+Starting Location - Miami - Kronstadt Bayside Center: filler
 Starting Location - Miami - Overpass: filler
+Starting Location - Mumbai - Hill: filler
 Starting Location - Mumbai - Metal Forge: filler
 Starting Location - New York - First Floor Mezzanine: filler
 Starting Location - Paris - Pile-Driver Barge: filler
+Starting Location - Paris - Undercover in AV Center: filler
 Starting Location - Paris - Undercover in Dressing Area: filler
 Starting Location - Paris - Undercover in Kitchen: filler
 Starting Location - Santa Fortuna - Construction Site: filler
@@ -205,29 +256,41 @@ Starting Location - Santa Fortuna - Submarine Cave: filler
 Starting Location - Santa Fortuna - Village Hostel: filler
 Starting Location - Sapienza - Undercover as Security Staff: filler
 Starting Location - Sapienza - Undercover in Mansion Garden: filler
+Suit - 47's Signature Suit with Gloves: filler
+Suit - Absolution Suit: filler
 Suit - Casual Suit with Gloves: filler
+Suit - Casual Suit: filler
 Suit - Classic Cut Long Coat Suit With Gloves: filler
 Suit - Cowboy Suit: filler
 Suit - Freedom Phantom Suit: filler
 Suit - Guerilla Wetsuit: filler
+Suit - Imperial Classic With Gloves: filler
 Suit - Italian Suit with Gloves: filler
+Suit - Italian Suit: filler
 Suit - Little Helper 47: filler
 Suit - Number Six: filler
 Suit - Patient Gown: filler
 Suit - Plague Doctor: filler
+Suit - Requiem Suit: filler
+Suit - Snow Festival Suit: filler
+Suit - Subject 47: filler
 Suit - Summer Sightseeing Suit: filler
 Suit - Summer Suit with Gloves: filler
 Suit - Summer Suit: filler
+Suit - Tactical Wetsuit: filler
 Suit - The Ancestral Hunter Suit: filler
 Suit - The Arkian Tuxedo: filler
 Suit - The Banker Suit: filler
 Suit - The Big, Bad Wolf Suit: filler
+Suit - The Black Streak Suit: filler
+Suit - The Black Turtle Streak Suit: filler
 Suit - The Cashmerian: filler
 Suit - The Cozy Christmas Suit: filler
 Suit - The Gauze Suit: filler
 Suit - The Golden Contender Suit: filler
 Suit - The Jack-O'-Lantern Suit: filler
 Suit - The Lucky Ducky Suit: filler
+Suit - The Mansion Suit: filler
 Suit - The Master Freelancer Suit: filler
 Suit - The New Yorker with Gloves: filler
 Suit - The New Yorker: filler
@@ -236,17 +299,24 @@ Suit - The Purple Streak Suit: filler
 Suit - The Purple Streak Swimwear Suit: filler
 Suit - The Sandman Suit: filler
 Suit - The Sangfroid Suit: filler
+Suit - The Solstice Suit: filler
+Suit - The Splitter Suit: filler
 Suit - Trendy Tourist Suit: filler
+Suit - Tuxedo with Gloves: filler
 Suit - Tuxedo, Mask and Gloves: filler
 Suit - VIP Patient: filler
 Suit - White Sunset Suit: filler
 Suitcase - ICA Briefcase MK III: filler
 Suitcase - Orange Pinstripe Briefcase: filler
 Suitcase - Siger 300 Sniper Case: filler
+Suitcase - Toolbox: filler
+Tool - Bone Lockpick: filler
+Tool - Classic Lockpick: filler
 Tool - Disposable Scrambler: filler
 Tool - Electronic Key Hacker MK III: filler
 Tool - Electronic Key Hacker: useful
 Tool - Handyman Wrench: filler
+Tool - ICA Proximity Micro Taser: filler
 Tool - ICA Proximity Taser: filler
 Tool - ICA Remote Taser: filler
 Tool - ICA Titanium Crowbar: filler

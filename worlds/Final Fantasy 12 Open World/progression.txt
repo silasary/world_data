@@ -45,7 +45,7 @@ Arctic Wind: filler
 Arcturus: filler
 Ardor: useful
 Argyle Armlet: useful
-Aries Gem: unknown
+Aries Gem: filler
 Arise: useful
 Artemis Arrows: unknown
 Artemis Bow: filler
@@ -156,7 +156,7 @@ Capricorn Gem: filler
 Carabineer Mail: filler
 Caramel: unknown
 Carmagnole: filler
-Castellanos: unknown
+Castellanos: filler
 Cat-ear Hood: filler
 Celebrant's Miter: filler
 Centurio Hero's Badge: unknown
@@ -166,7 +166,7 @@ Chanter's Djellaba: unknown
 Chaos Bombs: filler
 Chaos Mace: filler
 Chaos: progression
-Chaperon: unknown
+Chaperon: filler
 Charge: useful
 Charged Gizzard: filler
 Charger Barding: unknown
@@ -186,7 +186,7 @@ Cleric's Robes: filler
 Close Helmet: useful
 Cloud Staff: filler
 Coeurl Pelt: filler
-Coeurl Whisker: unknown
+Coeurl Whisker: filler
 Common Fish: unknown
 Confuse: useful
 Corpse Fly: filler
@@ -215,7 +215,7 @@ Dark Magicite: unknown
 Dark Matter: unknown
 Dark Mote: filler
 Dark Shot: filler
-Dark Stone: unknown
+Dark Stone: filler
 Dark: useful
 Darkga: useful
 Darkra: useful
@@ -264,7 +264,7 @@ Dull Fragment: mcguffin
 Durandal: unknown
 Dusty Letter: progression
 Earth Crystal: filler
-Earth Magicite: unknown
+Earth Magicite: filler
 Earth Stone: filler
 Echo Herbs: filler
 Eight-fluted Pole: useful
@@ -307,7 +307,7 @@ Fira: useful
 Firaga: useful
 Fire Crystal: filler
 Fire Magicite: unknown
-Fire Stone: unknown
+Fire Stone: filler
 Fire: useful
 Firefly: filler
 First Aid: useful
@@ -467,8 +467,8 @@ Lab Access Card: progression
 Lambent Hat: unknown
 Lamia's Tiara: filler
 Large Feather: filler
-Lead Bolts: unknown
-Leamonde Halcyon: unknown
+Lead Bolts: filler
+Leamonde Halcyon: filler
 Leather Armor: unknown
 Leather Breastplate: unknown
 Leather Cap: unknown
@@ -503,7 +503,7 @@ Mage Masher: unknown
 Mage's Habit: filler
 Mage's Hat: filler
 Magepower Shishak: unknown
-Maggoty Flesh: unknown
+Maggoty Flesh: filler
 Magick Curch: unknown
 Magick Gloves: filler
 Magick Lamp: filler
@@ -588,7 +588,7 @@ Paramina Crossbow: filler
 Partisan: unknown
 Peach Tuft: filler
 Pebble: filler
-Penetrator Crossbow: unknown
+Penetrator Crossbow: filler
 Perseus Bow: filler
 Pheasant Netsuke: filler
 Phobos Glaze: filler
@@ -597,7 +597,7 @@ Pilika's Diary: progression
 Pinewood Chop: progression
 Pirate Hat: filler
 Pisces Gem: filler
-Platinum Armor: unknown
+Platinum Armor: filler
 Platinum Dagger: filler
 Platinum Helm: filler
 Platinum Shield: useful
@@ -683,7 +683,7 @@ Scythe Trophy: unknown
 Second Board: progression
 Seitengrat: unknown
 Serpent Eye: unknown
-Serpent Rod: unknown
+Serpent Rod: filler
 Serpentarius: unknown
 Serpentwyne Must: useful
 Serum: filler
@@ -860,7 +860,7 @@ Wolf Pelt: unknown
 Wrath of the Gods: unknown
 Writ of Transit: progression
 Wyrm Bone: unknown
-Wyrm Carapace: unknown
+Wyrm Carapace: filler
 Wyrmfire Shot: filler
 Wyrmhero Blade: unknown
 Wyvern Fang: unknown

@@ -1,47 +1,48 @@
-Appreciation Trap: unknown
-Armor: unknown
-Atomic Health: unknown
+Appreciation Trap: trap
+Armor: filler
+Atomic Health: filler
 Battlelord Trap: unknown
-Buff Up: unknown
+Buff Up: useful
 Busted!: unknown
-Caffeine Trap: unknown
-Celebration Trap: unknown
-Chaingun Capacity: unknown
-Chaingun: unknown
-Crouch: unknown
-Death Trap: unknown
-Devastator Capacity: unknown
-Devastator: unknown
-E1L1 Automap: unknown
+Caffeine Trap: trap
+Celebration Trap: trap
+Chaingun Capacity: useful
+Chaingun: useful
+Crouch: progression
+Death Trap: trap
+Devastator Capacity: useful
+Devastator: progression
+E1L1 Automap: useful
 E1L1 Red Key Card: unknown
 E1L1 Unlock: progression
 E1L2 Automap: unknown
 E1L2 Blue Key Card: unknown
-E1L2 Red Key Card: unknown
-E1L2 Unlock: unknown
+E1L2 Red Key Card: progression
+E1L2 Unlock: progression
 E1L2 Yellow Key Card: unknown
-E1L3 Automap: unknown
-E1L3 Blue Key Card: unknown
+E1L3 Automap: useful
+E1L3 Blue Key Card: progression
 E1L3 Red Key Card: unknown
 E1L3 Unlock: unknown
-E1L3 Yellow Key Card: unknown
-E1L4 Automap: unknown
+E1L3 Yellow Key Card: progression
+E1L4 Automap: useful
 E1L4 Blue Key Card: unknown
-E1L4 Red Key Card: unknown
+E1L4 Red Key Card: progression
 E1L4 Unlock: unknown
-E1L5 Automap: unknown
-E1L5 Blue Key Card: unknown
-E1L5 Unlock: unknown
+E1L5 Automap: useful
+E1L5 Blue Key Card: progression
+E1L5 Unlock: progression
 E1L6 Automap: unknown
 E1L6 Blue Key Card: unknown
-E1L6 Red Key Card: unknown
+E1L6 Red Key Card: progression
 E1L6 Unlock: unknown
+E1L7 Unlock: progression
 E2L1 Automap: unknown
 E2L1 Blue Key Card: unknown
 E2L1 Red Key Card: unknown
 E2L1 Unlock: unknown
 E2L10 Automap: unknown
-E2L10 Unlock: unknown
+E2L10 Unlock: progression
 E2L11 Automap: unknown
 E2L11 Unlock: unknown
 E2L2 Automap: unknown
@@ -50,30 +51,30 @@ E2L2 Yellow Key Card: unknown
 E2L3 Automap: unknown
 E2L3 Blue Key Card: unknown
 E2L3 Unlock: unknown
-E2L3 Yellow Key Card: unknown
+E2L3 Yellow Key Card: progression
 E2L4 Automap: unknown
 E2L4 Unlock: unknown
 E2L5 Automap: unknown
-E2L5 Blue Key Card: unknown
+E2L5 Blue Key Card: progression
 E2L5 Red Key Card: unknown
 E2L5 Unlock: unknown
 E2L6 Automap: unknown
 E2L6 Blue Key Card: unknown
-E2L6 Red Key Card: unknown
+E2L6 Red Key Card: progression
 E2L6 Unlock: unknown
-E2L7 Automap: unknown
+E2L7 Automap: useful
 E2L7 Blue Key Card: unknown
-E2L7 Red Key Card: unknown
-E2L7 Unlock: unknown
-E2L7 Yellow Key Card: unknown
+E2L7 Red Key Card: progression
+E2L7 Unlock: progression
+E2L7 Yellow Key Card: progression
 E2L8 Automap: unknown
 E2L8 Blue Key Card: unknown
-E2L8 Unlock: unknown
+E2L8 Unlock: progression
 E2L8 Yellow Key Card: unknown
-E2L9 Automap: unknown
-E2L9 Unlock: unknown
+E2L9 Automap: useful
+E2L9 Unlock: progression
 E3L1 Automap: unknown
-E3L1 Blue Key Card: unknown
+E3L1 Blue Key Card: progression
 E3L1 Red Key Card: unknown
 E3L1 Unlock: progression
 E3L10 Automap: unknown
@@ -81,123 +82,134 @@ E3L10 Unlock: unknown
 E3L11 Automap: unknown
 E3L11 Blue Key Card: unknown
 E3L11 Red Key Card: unknown
-E3L11 Unlock: unknown
-E3L2 Automap: unknown
+E3L11 Unlock: progression
+E3L2 Automap: useful
 E3L2 Blue Key Card: unknown
-E3L2 Red Key Card: unknown
+E3L2 Red Key Card: progression
 E3L2 Unlock: unknown
 E3L3 Automap: unknown
 E3L3 Blue Key Card: unknown
 E3L3 Red Key Card: unknown
 E3L3 Unlock: unknown
-E3L3 Yellow Key Card: unknown
+E3L3 Yellow Key Card: progression
 E3L4 Automap: unknown
 E3L4 Blue Key Card: unknown
-E3L4 Red Key Card: unknown
+E3L4 Red Key Card: progression
 E3L4 Unlock: unknown
 E3L5 Automap: unknown
 E3L5 Blue Key Card: unknown
-E3L5 Red Key Card: unknown
+E3L5 Red Key Card: progression
 E3L5 Unlock: unknown
 E3L5 Yellow Key Card: unknown
-E3L6 Automap: unknown
-E3L6 Blue Key Card: unknown
+E3L6 Automap: useful
+E3L6 Blue Key Card: progression
 E3L6 Red Key Card: unknown
-E3L6 Unlock: unknown
+E3L6 Unlock: progression
 E3L7 Automap: unknown
 E3L7 Blue Key Card: unknown
 E3L7 Red Key Card: unknown
-E3L7 Unlock: unknown
+E3L7 Unlock: progression
 E3L7 Yellow Key Card: unknown
 E3L8 Automap: unknown
 E3L8 Blue Key Card: unknown
 E3L8 Unlock: unknown
-E3L8 Yellow Key Card: unknown
-E3L9 Automap: unknown
-E3L9 Unlock: unknown
+E3L8 Yellow Key Card: progression
+E3L9 Automap: useful
+E3L9 Unlock: progression
 E4L1 Automap: unknown
 E4L1 Blue Key Card: unknown
 E4L1 Red Key Card: unknown
 E4L1 Unlock: progression
-E4L10 Automap: unknown
+E4L10 Automap: useful
 E4L10 Blue Key Card: unknown
-E4L10 Red Key Card: unknown
+E4L10 Red Key Card: progression
 E4L10 Unlock: unknown
-E4L10 Yellow Key Card: unknown
+E4L10 Yellow Key Card: progression
 E4L11 Automap: unknown
 E4L11 Blue Key Card: unknown
-E4L11 Red Key Card: unknown
+E4L11 Red Key Card: progression
 E4L11 Unlock: unknown
-E4L11 Yellow Key Card: unknown
-E4L2 Automap: unknown
+E4L11 Yellow Key Card: progression
+E4L2 Automap: useful
 E4L2 Blue Key Card: unknown
 E4L2 Red Key Card: unknown
 E4L2 Unlock: unknown
 E4L3 Automap: unknown
-E4L3 Blue Key Card: unknown
-E4L3 Red Key Card: unknown
-E4L3 Unlock: unknown
+E4L3 Blue Key Card: progression
+E4L3 Red Key Card: progression
+E4L3 Unlock: progression
 E4L3 Yellow Key Card: unknown
 E4L4 Automap: unknown
-E4L4 Blue Key Card: unknown
+E4L4 Blue Key Card: progression
 E4L4 Red Key Card: unknown
 E4L4 Unlock: unknown
 E4L5 Automap: unknown
-E4L5 Blue Key Card: unknown
+E4L5 Blue Key Card: progression
 E4L5 Red Key Card: unknown
 E4L5 Unlock: unknown
-E4L5 Yellow Key Card: unknown
-E4L6 Blue Key Card: unknown
-E4L6 Red Key Card: unknown
+E4L5 Yellow Key Card: progression
+E4L6 Blue Key Card: progression
+E4L6 Red Key Card: progression
 E4L6 Unlock: unknown
 E4L6 Yellow Key Card: unknown
 E4L7 Blue Key Card: unknown
 E4L7 Red Key Card: unknown
 E4L7 Unlock: unknown
 E4L8 Automap: unknown
-E4L8 Blue Key Card: unknown
-E4L8 Red Key Card: unknown
+E4L8 Blue Key Card: progression
+E4L8 Red Key Card: progression
 E4L8 Unlock: unknown
 E4L8 Yellow Key Card: unknown
 E4L9 Automap: unknown
 E4L9 Blue Key Card: unknown
-E4L9 Red Key Card: unknown
+E4L9 Red Key Card: progression
 E4L9 Unlock: unknown
 E4L9 Yellow Key Card: unknown
-Ego Boost: unknown
+Ego Boost: useful
 Exit: mcguffin
-Expander Capacity: unknown
-Expander: unknown
-First Aid Kit: unknown
-Freezethrower Capacity: unknown
+Expander Capacity: useful
+Expander: useful
+First Aid Kit: filler
+Freezethrower Capacity: useful
 Freezethrower: unknown
 Heavy Armor: useful
-Jetpack Capacity: unknown
-Jetpack: unknown
-Jump: unknown
-Lizard Trap: unknown
+Jetpack Capacity: progression
+Jetpack: progression
+Jump: progression
+Lizard Trap: trap
 Medpak: useful
-Octabrain Trap: unknown
-Ooze Trap: unknown
-Paranoia Trap: unknown
-Pipebomb Capacity: unknown
+Octabrain Trap: trap
+Ooze Trap: trap
+Open: progression
+Paranoia Trap: trap
+Pipebomb Capacity: useful
 Pipebomb: unknown
-Pistol Capacity: unknown
+Pistol Capacity: useful
 Plutonium Health: useful
-Protective Boots: unknown
-RPG Capacity: unknown
+Progressive Chaingun: useful
+Progressive Devastator: progression
+Progressive Expander: useful
+Progressive Freezethrower: useful
+Progressive Pipebomb: progression
+Progressive Pistol: useful
+Progressive RPG: progression
+Progressive Shotgun: useful
+Progressive Shrinker: useful
+Progressive Tripmine: progression
+Protective Boots: filler
+RPG Capacity: useful
 RPG: unknown
-Scuba Gear Capacity: unknown
+Scuba Gear Capacity: progression
 Scuba Gear: unknown
 Shotgun Capacity: useful
 Shotgun: unknown
-Shrink Trap: unknown
-Shrinker Capacity: unknown
+Shrink Trap: trap
+Shrinker Capacity: useful
 Shrinker: unknown
 Sprint: unknown
 Steroids Capacity: useful
-Steroids: unknown
-Sturdy Armor: unknown
-Tripmine Capacity: unknown
+Steroids: progression
+Sturdy Armor: useful
+Tripmine Capacity: useful
 Tripmine: unknown
-Uranium Health: unknown
+Uranium Health: filler

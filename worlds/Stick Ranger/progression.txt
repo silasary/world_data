@@ -1,16 +1,21 @@
 -50% gold: trap
-3-round burst: unknown
+3-round burst: filler
 Aquamarine 1: filler
 Aquamarine 2: filler
+Aquamarine 3: filler
+Aquamarine 4: filler
 Aquamarine 6: unknown
-Berserk Card 1: unknown
-Berserk Card 2: unknown
+Berserk Card 1: filler
+Berserk Card 2: filler
 Berserk Card 3: filler
+Berserk Card 4: filler
 Berserk Card 5: filler
+Berserk Card 6: filler
 Big Card 1: filler
 Big Card 2: unknown
 Big Card 5: filler
 Black Crystal 1: filler
+Black Crystal 2: filler
 Black Crystal 3: filler
 Black Crystal 4: filler
 Black Crystal 5: filler
@@ -20,6 +25,7 @@ Black Stone 3: filler
 Black Stone 4: filler
 Black Stone 5: filler
 Black Stone 6: unknown
+Black Stone 7: filler
 Blue Stone 1: unknown
 Blue Stone 4: filler
 Blue Stone 5: filler
@@ -28,11 +34,15 @@ Blue Stone 7: unknown
 Bronze Medal 1: unknown
 Bronze Medal 2: filler
 Bronze Medal 3: filler
-Bronze Medal 4: unknown
+Bronze Medal 4: filler
 Bronze Medal 5: unknown
-Bronze Medal 7: unknown
+Bronze Medal 6: filler
+Bronze Medal 7: filler
+Bullet's Card 1: filler
 Bullet's Card 2: filler
 Bullet's Card 3: unknown
+Bullet's Card 5: filler
+Bullet's Card 6: filler
 Bullet's Card 7: filler
 Catapult's Card 1: unknown
 Catapult's Card 2: filler
@@ -40,6 +50,7 @@ Catapult's Card 3: filler
 Catapult's Card 5: filler
 Catapult's Card 6: unknown
 Catapult's Card 7: filler
+Critical's Card 1: filler
 Critical's Card 2: filler
 Critical's Card 3: filler
 Critical's Card 4: filler
@@ -52,47 +63,57 @@ Diamond 3: filler
 Diamond 4: unknown
 Diamond 5: filler
 Diamond 6: useful
+Diamond 7: filler
 Emerald 1: filler
 Emerald 3: filler
 Emerald 5: filler
 Emerald 6: filler
-Emerald 7: unknown
+Emerald 7: filler
 Explosion's Card 1: filler
+Explosion's Card 2: filler
+Explosion's Card 3: filler
 Explosion's Card 4: filler
 Fire Spirit 1: filler
+Fire Spirit 2: filler
 Fire Spirit 3: filler
+Fire Spirit 4: filler
 Freeze Charm 1: filler
 Freeze Charm 2: filler
 Freeze Charm 4: filler
 Freeze Rangers: trap
 Garnet 1: filler
 Garnet 2: filler
-Garnet 3: unknown
+Garnet 3: filler
 Garnet 4: filler
 Garnet 5: filler
 Garnet 6: filler
 Garnet 7: filler
 Gold Medal 1: filler
-Gold Medal 2: unknown
+Gold Medal 2: filler
 Gold Medal 4: unknown
-Gold Medal 5: unknown
+Gold Medal 5: filler
 Gold Medal 6: useful
-Gold Medal 7: unknown
+Gold Medal 7: filler
 Gold rush Card: filler
 GreatSword: filler
 Green Stone 3: filler
+Green Stone 5: filler
 Green Stone 6: useful
+Guide's Card 1: filler
 Guide's Card 2: filler
 Guide's Card 3: filler
 Guide's Card 5: filler
 Guide's Card 6: unknown
-Heal's Card 1: unknown
+Heal's Card 1: filler
 Heal's Card 2: filler
 Ice Charm 1: filler
+Ice Charm 2: filler
+Ice Charm 3: filler
 Ice Charm 4: useful
 Ice Spirit 1: unknown
 Ice Spirit 2: filler
 Ice Spirit 3: filler
+Iron Medal 1: filler
 Iron Medal 2: unknown
 Iron Medal 3: filler
 Iron Medal 6: unknown
@@ -101,6 +122,7 @@ Kill a Ranger: trap
 Knockback's Card 1: filler
 Knockback's Card 2: filler
 Knockback's Card 4: filler
+Long Sword's Card 1: filler
 Long Sword's Card 2: filler
 Long Sword's Card 3: unknown
 Long Sword's Card 4: filler
@@ -108,23 +130,26 @@ Long Sword's Card 6: useful
 Long Sword's Card 7: useful
 Napalm bomb: filler
 ONIGIRI's Card: filler
+Peridot 1: filler
 Peridot 2: filler
 Peridot 4: filler
 Peridot 5: filler
 Peridot 6: filler
 Peridot 7: unknown
-Pierce's Card 1: unknown
-Pierce's Card 3: unknown
-Pierce's Card 4: unknown
+Pierce's Card 1: filler
+Pierce's Card 2: filler
+Pierce's Card 3: filler
+Pierce's Card 4: filler
 Poison Charm 1: filler
 Poison Charm 2: filler
 Poison Charm 3: filler
 Poison Charm 4: filler
 Poison Spirit: filler
+Purple Crystal 1: filler
 Purple Crystal 3: filler
 Purple Crystal 4: filler
 Purple Crystal 5: filler
-Purple Crystal 6: unknown
+Purple Crystal 6: filler
 Purple Crystal 7: filler
 Quick's Card 1: unknown
 Quick's Card 3: filler
@@ -135,7 +160,9 @@ Red Crystal 1: filler
 Red Crystal 2: filler
 Red Crystal 4: filler
 Red Crystal 5: filler
+Red Crystal 6: filler
 Red Crystal 7: filler
+Red Stone 1: filler
 Red Stone 2: filler
 Red Stone 4: filler
 Reflection Card 1: unknown
@@ -147,20 +174,22 @@ Ring's Card 2: filler
 Ring's Card 3: filler
 Ring's Card 4: filler
 Ring's Card 5: filler
-Ring's Card 6: unknown
+Ring's Card 6: filler
 Ruby 1: filler
 Ruby 2: filler
 Ruby 3: filler
 Ruby 4: filler
 Ruby 5: unknown
 Ruby 6: unknown
-Ruby 7: unknown
+Ruby 7: filler
 Sapphire 1: filler
 Sapphire 2: filler
 Sapphire 3: filler
 Sapphire 4: filler
+Sapphire 5: filler
 Sapphire 6: filler
 Sapphire 7: useful
+Silver Crystal 1: filler
 Silver Crystal 2: unknown
 Silver Crystal 3: filler
 Silver Crystal 5: useful
@@ -173,22 +202,25 @@ Silver Medal 5: filler
 Silver Medal 6: filler
 Silver Medal 7: filler
 Spawn enemies: trap
+Thunder Spirit 1: filler
 Thunder Spirit 2: filler
 Thunder Spirit 3: filler
 Thunder Spirit 4: filler
-Topaz 1: unknown
+Topaz 1: filler
 Topaz 3: filler
 Topaz 4: filler
+Topaz 5: filler
+Topaz 6: filler
 Unequip items: trap
 Unlock !!!: progression
 Unlock ???: progression
 Unlock Angel Class: progression
-Unlock Beach 1: unknown
+Unlock Beach 1: progression
 Unlock Beach 2: progression
 Unlock Beach 3: progression
 Unlock Beach 4: progression
 Unlock Blood Lake: progression
-Unlock Boxer Class: unknown
+Unlock Boxer Class: progression
 Unlock Castle Gate: progression
 Unlock Castle: progression
 Unlock Cavern 1: progression
@@ -223,7 +255,7 @@ Unlock Grassland 4: progression
 Unlock Grassland 5: progression
 Unlock Grassland 6: progression
 Unlock Grassland 7: progression
-Unlock Gunner Class: unknown
+Unlock Gunner Class: progression
 Unlock Hell 1: progression
 Unlock Hell 2: progression
 Unlock Hell 3: progression
@@ -258,6 +290,7 @@ Unlock Seaside 1: progression
 Unlock Seaside 2: progression
 Unlock Seaside 3: progression
 Unlock Seaside 4: progression
+Unlock Sniper Class: progression
 Unlock Snowfield 1: progression
 Unlock Snowfield 2: progression
 Unlock Snowfield 3: progression
@@ -275,35 +308,47 @@ Unlock Submarine Shrine: progression
 Unlock Village: useful
 Unlock Volcano: progression
 Unlock Whipper Class: progression
-Vampire's Card 1: unknown
+Vampire's Card 1: filler
 Vampire's Card 3: filler
 Vampire's Card 4: filler
-White Stone 2: unknown
+White Stone 2: filler
 White Stone 3: filler
 White Stone 4: filler
 White Stone 5: unknown
 White Stone 6: unknown
+White Stone 7: filler
+Yellow Crystal 1: filler
 Yellow Crystal 2: filler
+Yellow Crystal 3: filler
+Yellow Crystal 4: filler
 Yellow Crystal 5: filler
+Yellow Crystal 6: filler
 Zombie's Card: filler
 atomic ray: unknown
-big icicle: unknown
+bazooka: filler
+beretta: filler
+big icicle: filler
 big thunder: filler
+blade: filler
 blizzard: filler
 cannon: filler
 chakram: filler
 charge chakram: unknown
-charge circle: unknown
+charge circle: filler
 charge god: filler
+charge punch: filler
+combat staff: filler
+delta explosion: filler
 double arrow: filler
 double fire: filler
 double hell fire: filler
+double poison: filler
 electric shock: filler
 electric staff: unknown
 explosion flail: filler
 explosion ms: filler
 explosion staff: filler
-explosion whip: unknown
+explosion whip: filler
 explosion: filler
 fire chain: unknown
 fire chakram: filler
@@ -311,33 +356,41 @@ fire circle: filler
 fire claw: unknown
 fire glove: unknown
 fire knuckle: filler
+fire ms: filler
 fire ring: filler
 fire rise: filler
 fire sabel: filler
 fire shot: filler
+fire whip: filler
 flame blade: filler
+flame sabel: filler
+flame shot: filler
 flame sword: filler
+freeze cestus: filler
 freeze claw: filler
 freeze exp rod: filler
 freeze exp staff: filler
 freeze explosion: unknown
-freeze glove: unknown
+freeze glove: filler
 freeze knuckle: filler
 freeze whip: filler
 freeze: filler
 frozen GS: filler
+frozen blade: filler
+frozen sabel: filler
 frozen sword: filler
 giga exp rod: filler
 grenade: filler
 gun: filler
+handgun: filler
 hell fire shot: filler
-high light staff: unknown
+high light staff: filler
 homing laser beam: unknown
-homing laser wave: unknown
-homing laser: unknown
+homing laser wave: filler
+homing laser: filler
 ice GS: filler
 ice blade: filler
-ice bolt: unknown
+ice bolt: filler
 ice chain: filler
 ice chakram: unknown
 ice circle: filler
@@ -345,53 +398,68 @@ ice flail: unknown
 ice god: filler
 ice meteor: filler
 ice missile: filler
-ice spike: unknown
+ice orb: filler
+ice spike: filler
 ice sword: filler
 ice whip: filler
+ice: filler
 inferno rod: filler
+inferno staff: filler
 inferno: filler
-iron chain: unknown
+iron chain: filler
 iron flail: filler
 iron sword: filler
 iron whip: filler
+laser beam gun: filler
+laser gun: filler
+lava: filler
 lightning: filler
 lightsaber: filler
 long GS: filler
 long blade: filler
 long circle: filler
+long gold rod: filler
 long ring: unknown
 long sabel: filler
 long silver staff: unknown
 long staff: filler
 long sword: filler
-mach cestus: unknown
+mach cestus: filler
 mach punch: filler
+magic: filler
 magnum: filler
-mega exp staff: unknown
-micro uzi: unknown
-morning star: unknown
+mega exp staff: filler
+micro uzi: filler
+mini uzi: filler
+missile: filler
+morning star: filler
 napalm gun: filler
 needle claw: filler
+needle glove: filler
 needle knuckle: filler
 nonuple arrow: filler
 nonuple shot: filler
 oct arrow: filler
 oct poison: filler
 permafrost: filler
+pierce arrow: filler
 pierce homing: filler
 poison arrow: unknown
-poison cestus: unknown
+poison cestus: filler
 poison claw: unknown
 poison flail: unknown
 poison glove: unknown
 poison knuckle: filler
 poison ms: filler
+poison shot: filler
 poison whip: filler
 poisonous rod: unknown
+poisonous staff: filler
 power chakram: filler
 power circle: filler
 power god: filler
 power laser gun: filler
+power ring: filler
 power rod: filler
 pyramid arrow: filler
 pyroclastic flow: filler
@@ -400,20 +468,27 @@ quad iron arrow: filler
 quad steel arrow: filler
 quick chakram: unknown
 quick circle: filler
+quick god: filler
+quick ring: filler
 quint poison: filler
 rail gun: unknown
+remington: filler
+ring: filler
 rocket launcher: useful
+sabel: filler
 scattergun: filler
-sept shot: unknown
+sept shot: filler
 slow laser gun: unknown
-sniper rifle: unknown
+sniper rifle: filler
 sonic cestus: filler
 sonic knuckle: filler
 spark cestus: filler
 spark claw: filler
+spread explosion: filler
 staff of fire: filler
-staff of flame: unknown
+staff of flame: filler
 staff of freeze: filler
+staff of ice: filler
 staff of icicle: filler
 staff of light: filler
 staff of poisoner: filler
@@ -421,19 +496,21 @@ staff of thunder: unknown
 staff of wood: filler
 staff: filler
 stone chain: filler
+stone flail: filler
 stone ms: filler
 stone whip: filler
 strike rod: filler
 submachine-gun: filler
 super volcano: filler
 sword: filler
-thorn chain: unknown
+thorn chain: filler
 thorn chakram: filler
 thorn circle: unknown
 thorn flail: filler
 thorn god: filler
 thorn ms: filler
 thorn ring: unknown
+thorn whip: filler
 thunder GS: unknown
 thunder blade: filler
 thunder cestus: filler
@@ -443,13 +520,15 @@ thunder circle: filler
 thunder claw: filler
 thunder flail: filler
 thunder god: filler
+thunder knuckle: filler
 thunder ms: filler
 thunder orb: filler
 thunder ring: filler
 thunder rod: filler
+thunder sabel: filler
 thunder spear: unknown
 thunder storm: filler
-thunder sword: unknown
+thunder sword: filler
 thunder whip: unknown
 thunder: filler
 thunderbolt: unknown
@@ -458,10 +537,11 @@ triple arrow: filler
 triple iron arrow: unknown
 triple poison: unknown
 triple shot: filler
-undecuple arrow: unknown
+undecuple arrow: filler
 uzi: filler
 vigintuple arrow: filler
 volcano: unknown
 warrior staff: filler
+wave cannon: filler
 whip: filler
 wooden sword: filler

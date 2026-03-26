@@ -1,10 +1,10 @@
 Absolution: progression
 Added Chaos Damage Support: unknown
 Added Cold Damage Support: unknown
-Added Fire Damage Support: unknown
+Added Fire Damage Support: progression
 Added Lightning Damage Support: unknown
 Additional Accuracy Support: unknown
-Alternate Gems: unknown
+Alternate Gems: progression
 Ambush: unknown
 Ancestral Call Support: unknown
 Ancestral Cry: unknown
@@ -12,15 +12,16 @@ Ancestral Protector: progression
 Arc: useful
 Arcanist Brand: unknown
 Archmage Support: unknown
+Arctic Armour: useful
 Armageddon Brand: progression
 Arrow Nova Support: progression
 Ascendant: progression
 Assassin's Mark: useful
-Autoexertion: unknown
+Autoexertion: useful
 Automation: unknown
 Ball Lightning: progression
 Ballista Totem Support: unknown
-Barrage: unknown
+Barrage: progression
 Battlemage's Cry: unknown
 Bear Trap: unknown
 Behead Support: unknown
@@ -35,19 +36,21 @@ Blasphemy Support: unknown
 Blast Rain: unknown
 Blazing Salvo: progression
 Blight: progression
-Blink Arrow: unknown
+Blind Support: progression
+Blink Arrow: progression
 Blood Rage: progression
-Blood and Sand: unknown
-Bloodlust Support: unknown
-Bloodthirst Support: unknown
-Bodyswap: unknown
-Bonechill Support: unknown
+Blood and Sand: useful
+Bloodlust Support: filler
+Bloodthirst Support: filler
+Bodyswap: progression
+Bonechill Support: useful
 Boneshatter: unknown
 Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
 Burning Damage Support: unknown
 Cast On Critical Strike Support: progression
+Cast on Death Support: progression
 Cast on Melee Kill Support: unknown
 Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
@@ -61,17 +64,17 @@ Charged Mines Support: unknown
 Chieftain: unknown
 Clarity: progression
 Cleave: progression
-Close Combat Support: unknown
+Close Combat Support: progression
 Cluster Traps Support: progression
 Cobra Lash: progression
 Cold Snap: unknown
-Combustion Support: unknown
+Combustion Support: progression
 Conductivity: useful
 Conflagration: useful
 Consecrated Path: unknown
 Contagion: unknown
 Controlled Blaze Support: unknown
-Controlled Destruction Support: unknown
+Controlled Destruction Support: progression
 Conversion Trap: unknown
 Corrupting Fever: useful
 Crackling Lance: progression
@@ -88,18 +91,19 @@ Dark Pact: unknown
 Dash: unknown
 Deadeye: progression
 Deadly Ailments Support: unknown
+Desecrate: useful
 Despair: unknown
-Destructive Link: unknown
+Destructive Link: filler
 Determination: progression
 Detonate Mines: unknown
 Devour Support: unknown
 Devouring Totem: progression
-Discharge: unknown
+Discharge: useful
 Discipline: useful
 Divine Retribution: progression
 Double Strike: unknown
 Dread Banner: unknown
-Dual Strike: unknown
+Dual Strike: progression
 Duelist: unknown
 Earthquake: progression
 Earthshatter: unknown
@@ -116,13 +120,14 @@ Energy Blade: useful
 Ensnaring Arrow: unknown
 Essence Drain: useful
 Eternal Blessing Support: unknown
-Eviscerate: unknown
+Eviscerate: useful
 Expert Retaliation Support: unknown
+Explosive Arrow: useful
 Explosive Concoction: unknown
 Explosive Trap: unknown
 Exsanguinate: unknown
 Faster Casting Support: progression
-Faster Projectiles Support: unknown
+Faster Projectiles Support: useful
 Fire Trap: unknown
 Firestorm: progression
 Fist of War Support: unknown
@@ -138,14 +143,15 @@ Flicker Strike: useful
 Focused Ballista Support: unknown
 Focused Channelling Support: unknown
 Forbidden Rite: unknown
-Fortify Support: unknown
+Fork Support: useful
+Fortify Support: useful
 Freezing Pulse: useful
 Frenzy: useful
 Frigid Bond Support: progression
 Frost Blades: progression
 Frost Bomb: unknown
-Frost Wall: unknown
-Frostbite: unknown
+Frost Wall: progression
+Frostbite: progression
 Frostblink: unknown
 Frostbolt: useful
 Frozen Legion: useful
@@ -153,7 +159,7 @@ Galvanic Arrow: unknown
 General's Cry: progression
 Generosity Support: progression
 Glacial Hammer: progression
-Glacial Shield Swipe: unknown
+Glacial Shield Swipe: progression
 Gladiator: progression
 Grace: unknown
 Greater Multiple Projectiles Support: unknown
@@ -165,7 +171,7 @@ Heavy Strike: progression
 Herald of Agony: useful
 Herald of Ash: progression
 Herald of Ice: unknown
-Herald of Purity: unknown
+Herald of Purity: progression
 Herald of Thunder: useful
 Hex Bloom Support: unknown
 Hextouch Support: progression
@@ -173,7 +179,7 @@ High-Impact Mine Support: unknown
 Holy Flame Totem: unknown
 Hydrosphere: progression
 Hypothermia Support: unknown
-Ice Bite Support: unknown
+Ice Bite Support: useful
 Ice Crash: progression
 Ice Shot: unknown
 Ice Spear: unknown
@@ -182,11 +188,13 @@ Ignite Proliferation Support: progression
 Immolate Support: unknown
 Immortal Call: progression
 Impale Support: progression
+Impending Doom Support: progression
 Increased Area of Effect Support: progression
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
 Infernal Cry: unknown
 Infernal Legion Support: unknown
+Infused Channelling Support: progression
 Innervate Support: unknown
 Inquisitor: progression
 Intimidating Cry: unknown
@@ -197,22 +205,24 @@ Juggernaut: unknown
 Kinetic Blast: unknown
 Lacerate: progression
 Lancing Steel: progression
-Leap Slam: unknown
+Leap Slam: progression
 Less Duration Support: unknown
 Life Gain on Hit Support: unknown
+Life Leech Support: useful
+Lifetap Support: useful
 Lightning Arrow: useful
 Lightning Conduit: useful
-Lightning Penetration Support: unknown
+Lightning Penetration Support: progression
 Lightning Spire Trap: unknown
 Lightning Strike: useful
 Lightning Tendrils: unknown
 Lightning Trap: unknown
-Lightning Warp: unknown
+Lightning Warp: progression
 Living Lightning Support: useful
 Maim Support: progression
 Malevolence: progression
 Manabond: useful
-Marauder: unknown
+Marauder: progression
 Mark On Hit Support: unknown
 Meat Shield Support: unknown
 Melee Physical Damage Support: unknown
@@ -223,6 +233,7 @@ Mirage Archer Support: unknown
 Mirror Arrow: progression
 Molten Shell: unknown
 Molten Strike: progression
+Momentum Support: useful
 Multiple Totems Support: unknown
 Multiple Traps Support: unknown
 Multistrike Support: unknown
@@ -236,11 +247,12 @@ Occultist: unknown
 Overcharge Support: unknown
 Pathfinder: progression
 Pestilent Strike: progression
-Petrified Blood: unknown
+Petrified Blood: useful
 Phase Run: progression
 Physical to Lightning Support: progression
 Pierce Support: progression
 Pinpoint Support: unknown
+Plague Bearer: useful
 Poacher's Mark: unknown
 Point Blank Support: unknown
 Poisonous Concoction: useful
@@ -252,9 +264,9 @@ Progressive Amulet: progression
 Progressive Axe: progression
 Progressive Belt: progression
 Progressive BodyArmour: progression
-Progressive Boots: unknown
+Progressive Boots: progression
 Progressive Bow: progression
-Progressive Claw: unknown
+Progressive Claw: progression
 Progressive Dagger: progression
 Progressive Fishing Rod: filler
 Progressive Flask Unlock: progression
@@ -288,7 +300,7 @@ Pyroclast Mine: useful
 Rage Support: unknown
 Rage Vortex: unknown
 Rain of Arrows: unknown
-Raise Spectre: unknown
+Raise Spectre: useful
 Raise Zombie: progression
 Rallying Cry: progression
 Reap: useful
@@ -296,11 +308,12 @@ Reave: useful
 Rejuvenation Totem: useful
 Righteous Fire: useful
 Rolling Magma: progression
-Ruthless Support: unknown
+Ruthless Support: useful
 Saboteur: unknown
 Sacred Wisps Support: unknown
 Sacrifice Support: unknown
 Sadism Support: unknown
+Scion: progression
 Scorching Ray: unknown
 Searing Bond: progression
 Second Wind Support: unknown
@@ -312,7 +325,8 @@ Shield Charge: useful
 Shock Nova: progression
 Shockwave Totem: useful
 Shrapnel Ballista: useful
-Siphoning Trap: unknown
+Siege Ballista: useful
+Siphoning Trap: progression
 Slayer: unknown
 Slower Projectiles Support: unknown
 Smite: useful
@@ -320,6 +334,7 @@ Sniper's Mark: unknown
 Soul Link: unknown
 Spark: useful
 Spectral Helix: progression
+Spectral Shield Throw: useful
 Spectral Throw: unknown
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
@@ -336,17 +351,17 @@ Stun Support: progression
 Summon Carrion Golem: useful
 Summon Chaos Golem: progression
 Summon Flame Golem: progression
-Summon Lightning Golem: unknown
+Summon Lightning Golem: useful
 Summon Phantasm Support: unknown
 Summon Raging Spirit: useful
 Summon Reaper: progression
 Summon Skeletons: unknown
 Summon Skitterbots: progression
 Sweep: unknown
-Swift Affliction Support: unknown
+Swift Affliction Support: progression
 Swift Assembly Support: unknown
 Swiftbrand Support: unknown
-Swordstorm: unknown
+Swordstorm: progression
 Tectonic Slam: progression
 Tempest Shield: useful
 Templar: progression
@@ -372,6 +387,7 @@ Void Sphere: useful
 Volatile Dead: progression
 Volatility Support: progression
 Volcanic Fissure: useful
+Volley Support: progression
 Voltaxic Burst: progression
 Vortex: unknown
 Vulnerability: progression
@@ -384,6 +400,7 @@ Wild Strike: useful
 Windburst Support: useful
 Winter Orb: useful
 Wintertide Brand: unknown
+Witch: progression
 Withering Step: unknown
 Withering Touch Support: unknown
 Zealotry: unknown

@@ -1,49 +1,63 @@
-2 Starting Villagers: unknown
-20 Starting Stone: unknown
-20 Starting Vegetables: unknown
+10 Starting Planks: filler
+10 Starting Tools: filler
+15 Starting Crystallized Dew: filler
+15 Starting Pack of Provisions: filler
+2 Starting Villagers: filler
+20 Starting Amber: filler
+20 Starting Pipes: filler
+20 Starting Stone: filler
+20 Starting Vegetables: filler
 25 Starting Clay: unknown
 25 Starting Mushrooms: unknown
+30 Starting Grain: filler
+30 Starting Oil: filler
+30 Starting Sea Marrow: filler
+40 Starting Insects: filler
 Advanced Rain Collector: unknown
 Alchemist's Hut: unknown
-Ale: unknown
-Algae: unknown
-Ancient Tablet: unknown
+Ale: progression
+Algae: progression
+Amber: progression
+Ancient Tablet: progression
 Apothecary: unknown
 Artisan: unknown
 Bakery: unknown
-Barrels: unknown
+Barrels: progression
 Bath House: unknown
 Beanery: unknown
-Berries: unknown
-Biscuits: unknown
-Boots: unknown
+Berries: progression
+Biscuits: progression
+Boots: progression
 Brewery: unknown
 Brick Oven: unknown
-Bricks: unknown
+Bricks: progression
 Brickyard: progression
 Butcher: unknown
 Carpenter: unknown
 Cellar: unknown
 Clan Hall: unknown
 Clay Pit: unknown
-Clay: unknown
+Clay: progression
 Clothier: unknown
-Coal: unknown
+Coal: progression
+Coats: progression
 Cobbler: unknown
 Cookhouse: unknown
 Cooperage: unknown
 Copper Bars: unknown
-Copper Ore: unknown
-Crystallized Dew: unknown
+Copper Ore: progression
+Coral Forest: progression
+Crystallized Dew: progression
+Cursed Royal Woodlands: progression
 Distillery: unknown
 Druid's Hut: unknown
-Dye: unknown
+Dye: progression
 Eggs: unknown
 Explorers Lodge: unknown
-Fabric: unknown
-Fish: unknown
+Fabric: progression
+Fish: progression
 Fishing Hut: unknown
-Flour: unknown
+Flour: progression
 Forager's Camp: unknown
 Forester's Hut: unknown
 Furnace: unknown
@@ -51,75 +65,80 @@ Grain: unknown
 Granary: unknown
 Greenhouse: unknown
 Grill: unknown
-Guardian Blood: unknown
+Guardian Blood: progression
+Guardian Essence: progression
 Guardian Feathers: progression
-Guardian Heart: unknown
+Guardian Heart: progression
 Guild House: unknown
 Herb Garden: useful
 Herbalist's Camp: unknown
-Herbs: unknown
-Incense: unknown
-Insects: unknown
-Jerky: unknown
+Herbs: progression
+Incense: progression
+Insects: progression
+Jerky: progression
 Kiln: unknown
-Leather: unknown
+Leather: progression
 Leatherworker: unknown
 Lumber Mill: unknown
 Manufactory: unknown
 Market: unknown
-Meat: unknown
+Meat: progression
 Monastery: unknown
-Mushrooms: unknown
-Oil: unknown
-Pack of Building Materials: unknown
-Pack of Crops: unknown
+Mushrooms: progression
+Oil: progression
+Pack of Building Materials: progression
+Pack of Crops: progression
 Pack of Luxury Goods: progression
-Pack of Provisions: unknown
-Pack of Trade Goods: unknown
-Parts: unknown
-Paste: unknown
-Pickled Goods: unknown
-Pie: unknown
-Pipes: unknown
+Pack of Provisions: progression
+Pack of Trade Goods: progression
+Parts: progression
+Paste: progression
+Pickled Goods: progression
+Pie: progression
+Pipes: progression
 Planks: trap
-Plant Fiber: unknown
+Plant Fiber: progression
 Plantation: unknown
-Porridge: unknown
-Pottery: unknown
+Porridge: progression
+Pottery: progression
 Press: unknown
 Provisioner: unknown
-Purging Fire: unknown
+Purging Fire: progression
 Rain Mill: unknown
-Reeds: unknown
-Resin: unknown
-Roots: unknown
-Salt: unknown
-Scales: unknown
+Reeds: progression
+Resin: progression
+Roots: progression
+Salt: progression
+Scales: progression
+Scarlet Orchard: progression
 Scribe: unknown
-Scrolls: unknown
-Sea Marrow: unknown
-Skewers: unknown
+Scrolls: progression
+Sea Marrow: progression
+Sealed Forest: progression
+Skewers: progression
 Small Farm: unknown
 Smelter: unknown
 Smithy: unknown
 Smokehouse: unknown
 Stamping Mill: unknown
-Stone: unknown
+Stone: progression
 Supplier: unknown
+Survivor Bonding: filler
 Tavern: unknown
 Tea Doctor: unknown
-Tea: unknown
+Tea: progression
 Teahouse: unknown
 Temple: unknown
+The Marshlands: progression
 Tinctury: unknown
 Tinkerer: unknown
-Tools: unknown
+Tools: progression
 Toolshop: unknown
-Training Gear: unknown
+Training Gear: progression
 Trapper's Camp: unknown
-Vegetables: unknown
-Waterskins: unknown
+Vegetables: progression
+Waterskins: progression
 Weaver: unknown
-Wildfire Essence: unknown
-Wine: unknown
+Wildfire Essence: useful
+Wine: progression
 Workshop: unknown

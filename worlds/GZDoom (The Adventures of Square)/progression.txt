@@ -11,10 +11,12 @@ CircleKey (E2A4): progression
 CircoolAid: filler
 CrescentRune (E2A10): progression
 CrescentRune (E2A12): progression
+CrescentRune (E2A5): progression
 CrescentRune (E2A9): progression
 CubeKey (E2A2): progression
 CubeKey (E2A3): progression
 CubeKey (E2A6): progression
+CubeKey (E2A7): progression
 Defibrillator: progression
 DevilSphere: filler
 DiamondRune (E2A10): progression
@@ -29,6 +31,7 @@ FloppyDiskPassword (E1A9): progression
 FloppyDiskSecurityCode (E1A9): progression
 Goonades: progression
 HappySphere: filler
+Health: filler
 HellShellLauncher: progression
 HexagonKey (E1A7): progression
 HexagonKey (E2A11): progression
@@ -46,6 +49,7 @@ Level Access (E1A8): progression
 Level Access (E1A9): progression
 Level Access (E2A10): progression
 Level Access (E2A11): progression
+Level Access (E2A12): progression
 Level Access (E2A2): progression
 Level Access (E2A3): progression
 Level Access (E2A4): progression
@@ -53,13 +57,18 @@ Level Access (E2A5): progression
 Level Access (E2A6): progression
 Level Access (E2A7): progression
 Level Access (E2A8): progression
+Level Access (E2A9): progression
 Level Clear (E1A1): progression
+Level Clear (E1A10): progression
 Level Clear (E1A2): progression
 Level Clear (E1A3): progression
 Level Clear (E1A4): progression
+Level Clear (E1A8): progression
 Level Clear (E1A9): progression
 Level Clear (E2A1): progression
+Level Clear (E2A10): progression
 Level Clear (E2A11): progression
+Level Clear (E2A12): progression
 Level Clear (E2A3): progression
 Level Clear (E2A6): progression
 Oozi: progression
@@ -77,13 +86,16 @@ SillySphere: filler
 SphereKey (E2A2): progression
 SphereKey (E2A3): progression
 SphereKey (E2A6): progression
+SphereKey (E2A7): progression
 SquareBackpack: filler
 SquareKey (E1A10): progression
 SquareKey (E1A2): progression
 SquareKey (E1A4): progression
+SquareKey (E1A6): progression
 SquareKey (E1A7): progression
 SquareKey (E1A8): progression
 SquareKey (E2A4): progression
+SquareKey (E2A8): progression
 StarRune (E2A10): progression
 StarRune (E2A12): progression
 StarRune (E2A5): progression

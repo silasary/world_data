@@ -4,8 +4,12 @@ Accessory Slot Increase: useful
 Adamant Shield: useful
 Aerial Sweep: useful
 Aero Arts: progression
+Aero Boost: useful
+Aero Cost Down: useful
+Aero Down: trap
 Agrabah: progression
 Air Combo Plus: useful
+Air Guard/Dodge Roll: progression
 All Puppies: progression
 Angel Bangle: useful
 Ansem's Report 10: progression
@@ -31,6 +35,9 @@ Blizzaga Ring: useful
 Blizzagun Band: useful
 Blizzara Ring: useful
 Blizzard Arts: progression
+Blizzard Boost: useful
+Blizzard Cost Down: useful
+Blizzard Cost Up: trap
 Blizzard Ring: useful
 Blue Trinity: progression
 Brave Warrior: useful
@@ -49,6 +56,10 @@ Critical Plus: useful
 Crystal Crown: useful
 Crystal Trident: progression
 Cure Arts: progression
+Cure Boost: useful
+Cure Cost Down: useful
+Cure Cost Up: trap
+Cure Down: trap
 Dark Ring: useful
 Deep Jungle: progression
 Defender: useful
@@ -82,10 +93,15 @@ Ether: filler
 Fairy Harp: progression
 Fantasista: useful
 Final Door Key: progression
+Finisher Lock: useful
+Finishing Plus: useful
 Fira Ring: useful
 Firaga Ring: useful
 Firagun Band: useful
 Fire Arts: progression
+Fire Boost: useful
+Fire Cost Down: useful
+Fire Cost Up: trap
 Fire Ring: useful
 Fish: progression
 Footprints: progression
@@ -99,11 +115,17 @@ Golem Chain: useful
 Golem Shield: useful
 Grand Mallet: useful
 Gravity Arts: progression
+Gravity Boost: useful
 Gravity Break: useful
+Gravity Cost Down: useful
+Gravity Cost Up: trap
+Gravity Down: trap
 Green Trinity: progression
 Guard Earring: useful
 Guard: progression
 Halloween Town: progression
+Hastega: useful
+Hastera: useful
 Heartguard: useful
 Herc's Shield: useful
 Hercules Cup: progression
@@ -335,14 +357,23 @@ Slapshot: useful
 Slide 1: progression
 Slides: progression
 Sliding Dash: useful
+Slow: trap
+Slowga: trap
+Slowra: trap
 Smasher: useful
 Sonic Blade: useful
 Spellbinder: useful
 Stop Arts: progression
+Stop Boost: useful
+Stop Cost Down: useful
+Stop Cost Up: trap
+Stop Down: trap
 Stout Shield: useful
 Strength Increase: useful
 Strike Raid: useful
 Stun Impact: useful
+Summon Anywhere: useful
+Summon Boost: useful
 Superglide: progression
 Tech Boost: useful
 Tent: filler
@@ -353,6 +384,10 @@ Thundaga Ring: useful
 Thundagun Band: useful
 Thundara Ring: useful
 Thunder Arts: progression
+Thunder Boost: useful
+Thunder Cost Down: useful
+Thunder Cost Up: trap
+Thunder Down: trap
 Thunder Ring: useful
 Tinker Bell: progression
 Titan Chain: useful

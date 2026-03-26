@@ -17,6 +17,7 @@ Big Root: filler
 Big Scale: filler
 Big Tree: filler
 Black Flute: filler
+BlackGlasses: filler
 Blue Shard: filler
 Bluk Berry: filler
 Burn Heal: filler
@@ -24,12 +25,15 @@ CALCULATOR: filler
 CALENDAR: filler
 CHIMCHAR Mask: filler
 COIN TOSS: filler
+COLOR CHANGER: useful
 COUNTER: filler
 Calcium: filler
 Carbos: filler
 Charcoal: filler
 Cheri Berry: filler
+Cherish Ball: filler
 Chesto Berry: filler
+Choice Specs: filler
 Cleanse Tag: filler
 Coal Badge: progression
 Cobble Badge: progression
@@ -41,19 +45,25 @@ DAY-CARE CHECKER: filler
 DOT ARTIST: filler
 DOWSING MACHINE: filler
 Dawn Stone: filler
+Daytime: progression
+DeepSeaScale: progression
+DeepSeaTooth: progression
 Destiny Knot: filler
 Dire Hit: filler
 Dive Ball: filler
 Draco Plate: progression
 Dragon Fang: filler
+Dragon Scale: progression
 Dread Plate: progression
 Dubious Disc: filler
+Durin Berry: filler
 Dusk Ball: filler
 Dusk Stone: useful
 Earth Plate: filler
 Eerie Thing: filler
 Electirizer: filler
 Elixir: filler
+Emerald Cartridge: progression
 Energy Root: filler
 EnergyPowder: filler
 Escape Rope: filler
@@ -64,6 +74,7 @@ FRIENDSHIP CHECKER: filler
 Fashion Case: filler
 Fen Badge: progression
 Figy Berry: unknown
+Fire Red Cartridge: progression
 Fire Stone: filler
 Fist Plate: progression
 Flag: filler
@@ -82,6 +93,7 @@ Green Shard: filler
 Grepa Berry: filler
 Grip Claw: filler
 Guard Spec.: filler
+HM Reader: progression
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
@@ -95,11 +107,13 @@ Hard Stone: filler
 Heal Ball: filler
 Heal Powder: filler
 Heart Scale: filler
+Hondew Berry: filler
 Honey x10: filler
 Honey x3: filler
 Honey: filler
 Humming Note: filler
 Hyper Potion: filler
+Iapapa Berry: filler
 Ice Heal: filler
 Icicle Badge: progression
 Icicle Plate: progression
@@ -108,16 +122,20 @@ Iron Ball: filler
 Iron Plate: filler
 Iron: filler
 Journal: useful
+KITCHEN TIMER: filler
 Kelpsy Berry: filler
+King's Rock: filler
 King’s Rock: filler
 LINK SEARCHER: filler
 Lagging Tail: filler
 Lax Incense: filler
+Leaf Green Cartridge: progression
 Leaf Stone: useful
 Leftovers: filler
 Leppa Berry: filler
 Life Orb: filler
 Light Clay: filler
+Linking Cord: progression
 Luck Incense: filler
 Lunar Wing: filler
 Lustrous Orb: useful
@@ -150,6 +168,7 @@ Mystic Water: filler
 Nest Ball: filler
 Net Ball: filler
 NeverMeltIce: filler
+Nighttime: progression
 Nomel Berry: filler
 Nugget: filler
 Odd Incense: filler
@@ -161,6 +180,8 @@ Oran Berry: filler
 Oval Stone: filler
 PEDOMETER: filler
 PIPLUP Mask: filler
+POKeMON HISTORY: filler
+POKeMON LIST: filler
 POKéMON HISTORY: filler
 POKéMON LIST: filler
 PP Max: filler
@@ -173,12 +194,20 @@ Pecha Berry: filler
 Peculiar Spoon: filler
 Poffin Case: progression
 Poison Barb: filler
+Poke Ball x5: filler
+Poke Ball: filler
+Poke Doll: filler
+Poke Radar: filler
+PokeSonar: progression
+Poketch: progression
 Poké Ball x5: filler
 Poké Ball: filler
 Poké Doll: filler
 Poké Radar: filler
 Pokétch: progression
+Pomeg Berry: filler
 Potion: filler
+Premier Ball: filler
 Pretty Dewdrop: filler
 Protector: filler
 Protein: filler
@@ -202,8 +231,11 @@ Revival Herb: filler
 Revive: filler
 Rock Incense: filler
 Rose Incense: filler
+Ruby Cartridge: progression
 Running Shoes: useful
 S.S. Ticket: progression
+Safari Ball: filler
+Sapphire Cartridge: progression
 Scope Lens: filler
 Sea Incense: filler
 Seal Case: filler
@@ -308,6 +340,10 @@ TM89: filler
 TM90: useful
 TM91: useful
 TM92: filler
+TM93 Rollout: progression
+TM94 Ancient Power: progression
+TM95 Double Hit: progression
+TM96 Mimic: progression
 TRAINER COUNTER: filler
 TURTWIG Mask: filler
 Tamato Berry: filler
@@ -316,9 +352,11 @@ Timer Ball: filler
 TinyMushroom: filler
 Town Map: filler
 Toxic Plate: progression
+Tree Camera: progression
 Ultra Ball: useful
 Unown File: mcguffin
 Up-Grade: filler
+Upgradable Pokedex: progression
 Upgradable Pokédex: progression
 Vs. Recorder: filler
 Vs. Seeker: filler
@@ -327,6 +365,7 @@ Watmel Berry: filler
 Wave Incense: filler
 Wealthy Coin: filler
 White Flute: filler
+Wise Glasses: filler
 Works Key: progression
 X Accuracy: filler
 X Attack: filler
