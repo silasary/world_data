@@ -152,7 +152,7 @@ Fish Release: unknown
 Fish Trap: useful
 Flower Pot: unknown
 Fossil Block: useful
-Gantry: unknown
+Gantry: useful
 Gas Bridge: useful
 Gas Cargo Canister Small: useful
 Gas Cargo Canister: unknown
@@ -237,7 +237,7 @@ Liquid Pipe Germ Sensor: useful
 Liquid Pipe Thermo Sensor: unknown
 Liquid Pipe: progression
 Liquid Pump: progression
-Liquid Reservoir: unknown
+Liquid Reservoir: useful
 Liquid Rocket Port Loader: useful
 Liquid Rocket Port Unloader: useful
 Liquid Shutoff: useful
@@ -274,7 +274,7 @@ NOT Gate: useful
 Natural Gas Generator: useful
 OR Gate: useful
 Oil Refinery: progression
-Oil Well: unknown
+Oil Well: progression
 Orbital Cargo Module: useful
 Orbital Data Collection Lab: progression
 Ore Scrubber: useful
@@ -297,13 +297,13 @@ Plastic Ladder: useful
 Plastic Tile: useful
 Plywood Press: useful
 Polymer Press: progression
-Portrait Canvas: unknown
+Portrait Canvas: filler
 Power Bank Charger: useful
 Power Control Station: useful
 Power Outlet Fitting: useful
 Power Shutoff: useful
 Power Transformer: useful
-Radbolt Chamber: unknown
+Radbolt Chamber: useful
 Radbolt Engine: progression
 Radbolt Generator: progression
 Radbolt Joint Plate: unknown
@@ -340,7 +340,7 @@ Signal Selector: useful
 Signal Switch: useful
 Sink: useful
 Skill Scrubber: useful
-Sludge Press: unknown
+Sludge Press: useful
 Small Petroleum Engine: progression
 Small Solid Oxidizer Tank: progression
 Smart Battery: useful
@@ -365,7 +365,7 @@ Sugar Engine: unknown
 Sun Lamp: filler
 Super Computer: progression
 Sweepy's Dock: unknown
-Switch: unknown
+Switch: useful
 Targeting Beacon: useful
 Telescope Cluster: useful
 Tempshift Plate: useful
@@ -395,6 +395,6 @@ Window Tile: useful
 Wire Bridge: unknown
 Wood Block: useful
 Wood Burner: useful
-Wood Heater: unknown
+Wood Heater: useful
 Wood Tile: useful
 XOR Gate: unknown

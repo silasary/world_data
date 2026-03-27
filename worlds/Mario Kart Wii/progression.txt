@@ -4,6 +4,7 @@ Bike: Twinkle Star: useful
 Character: Baby Daisy: useful
 Character: Funky Kong: useful
 Character: Rosalina: useful
+Filler: Blooper: filler
 Filler: Bob-omb: filler
 Filler: Bullet Bill: filler
 Filler: Golden Mushroom: filler
@@ -16,15 +17,19 @@ Filler: Red Shell: filler
 Filler: Star: filler
 Filler: Triple Mushroom: filler
 Filler: Triple Red Shell: filler
+Kart: B. Dasher Mk 2: useful
+Kart: Blue Falcon: useful
 Leaf Cup 100cc: progression
 Leaf Cup 150cc: progression
 Leaf Cup 50cc: progression
 Lightning Cup 150cc: progression
 Lightning Cup 50cc: progression
+Powerup: Bob-omb: useful
 Powerup: Bullet Bill: useful
 Powerup: Green Shell: useful
 Powerup: Red Shell: useful
 Powerup: Star: useful
 Powerup: Triple Bananas: useful
+Powerup: Triple Red Shells: useful
 Special Cup 50cc: progression
 Star Cup 150cc: progression

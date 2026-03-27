@@ -121,6 +121,7 @@ Block AE28: progression
 Block AE31: progression
 Block AE33: progression
 Block AE38: progression
+Block AE40: progression
 Block AE47: progression
 Block AE4: progression
 Block AE50: progression
@@ -162,6 +163,7 @@ Block AF67: progression
 Block AF70: progression
 Block AF72: progression
 Block AF75: progression
+Block AF76: progression
 Block AF79: progression
 Block AF7: progression
 Block AF81: progression
@@ -259,6 +261,7 @@ Block AM63: progression
 Block AM65: progression
 Block AM67: progression
 Block AM69: progression
+Block AM70: progression
 Block AM72: progression
 Block AM73: progression
 Block AM76: progression
@@ -826,6 +829,7 @@ Block CA19: progression
 Block CA1: progression
 Block CA23: progression
 Block CA26: progression
+Block CA29: progression
 Block CA33: progression
 Block CA35: progression
 Block CA38: progression
@@ -877,6 +881,7 @@ Block CD29: progression
 Block CD32: progression
 Block CD35: progression
 Block CD38: progression
+Block CD41: progression
 Block CD45: progression
 Block CD48: progression
 Block CD4: progression
@@ -1025,6 +1030,7 @@ Block CN89: progression
 Block CN92: progression
 Block CN95: progression
 Block CS101: progression
+Block CS104: progression
 Block CS107: progression
 Block CS13: progression
 Block CS16: progression

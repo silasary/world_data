@@ -31,7 +31,9 @@ BlueSkull (MAP10): progression
 BlueSkull (MAP11): progression
 BlueSkull (MAP13): progression
 BlueSkull (MAP15): progression
+BlueSkull (MAP16): progression
 BlueSkull (MAP17): progression
+BlueSkull (MAP18): progression
 BlueSkull (MAP23): progression
 BlueSkull (MAP24): progression
 BlueSkull (MAP26): progression
@@ -100,6 +102,7 @@ Shotgun Shells [ShellBox]: filler
 Shotgun: progression
 Soulsphere: filler
 Super Shotgun: progression
+YellowCard (MAP02): progression
 YellowSkull (MAP01): progression
 YellowSkull (MAP04): progression
 YellowSkull (MAP05): progression

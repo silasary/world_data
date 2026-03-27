@@ -27,6 +27,7 @@ Boss Token: mcguffin
 Central City Big Bomb: progression
 Central City Checkpoint 2: progression
 Central City Checkpoint 3: progression
+Central City Checkpoint 4: progression
 Central City Key: progression
 Central City Little Bomb: progression
 Circus Park Checkpoint 1: progression
@@ -48,6 +49,7 @@ Cryptic Castle Lantern: progression
 Cyan Chaos Emerald: mcguffin
 Dark Token: mcguffin
 Death Ruins Alien: progression
+Death Ruins Checkpoint 1: progression
 Death Ruins Checkpoint 4: progression
 Death Ruins Checkpoint 6: progression
 Death Ruins Key: progression
@@ -109,6 +111,7 @@ Heal Units: progression
 Hero Token: mcguffin
 Iron Jungle Checkpoint 1: progression
 Iron Jungle Checkpoint 2: progression
+Iron Jungle Checkpoint 3: progression
 Iron Jungle Checkpoint 4: progression
 Iron Jungle Egg Balloon: progression
 Iron Jungle Key: progression

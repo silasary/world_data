@@ -1,3 +1,4 @@
+Act Clear - Hell: progression
 Act Clear - Nightmare: progression
 Act Clear - Normal: progression
 Antidote Potion: filler
@@ -51,6 +52,8 @@ Knowledge of Jah: progression
 Knowledge of Ko: progression
 Knowledge of Lem: progression
 Knowledge of Nef: progression
+Knowledge of Ort: progression
+Knowledge of Pul: progression
 Knowledge of Ral: progression
 Knowledge of Shael: progression
 Knowledge of Sol: progression
@@ -73,9 +76,12 @@ Minor Healing Potion: filler
 Minor Mana Potion: filler
 Oil Potion: filler
 Prison of Ice Rare Item Reward - Hell: useful
+Prison of Ice Rare Item Reward - Normal: useful
 Prison of Ice Resistance Scroll Reward - Hell: useful
 Prison of Ice Resistance Scroll Reward - Nightmare: useful
 Prison of Ice Resistance Scroll Reward - Normal: useful
+Radament's Lair Book of Skill Reward - Hell: useful
+Radament's Lair Book of Skill Reward - Nightmare: useful
 Radament's Lair Book of Skill Reward - Normal: useful
 Rancid Gas Potion: filler
 Rejuvenation Potion: filler
@@ -101,6 +107,7 @@ The Golden Bird Potion of Life Reward - Nightmare: useful
 The Golden Bird Potion of Life Reward - Normal: useful
 Tools of the Trade Enchant Reward - Hell: useful
 Tools of the Trade Enchant Reward - Nightmare: useful
+Tools of the Trade Enchant Reward - Normal: useful
 Viper Amulet: progression
 Visit Beautiful Worthram!: filler
 Your relaxation awaits! Caldeum - Jewel of the East: filler

@@ -1,3 +1,4 @@
+1 Dark Dollar: useful
 1 POINT: filler
 10 POINTs: filler
 100 Dark Dollars: filler
@@ -20,6 +21,7 @@ Broken Key A: progression
 Broken Key B: progression
 Broken Key C: progression
 BrokenCake: progression
+BrokenSwd: filler
 ButJuice: filler
 CD Bagel: filler
 CH1 Egg: useful
@@ -80,6 +82,7 @@ ShadowMantle: progression
 SheetMusic: progression
 Shelter Key: progression
 Silver Card: filler
+SpagettiCode: filler
 SpikeBand: useful
 Spincake: useful
 TVDinner: filler

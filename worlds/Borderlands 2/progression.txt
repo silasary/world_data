@@ -23,6 +23,7 @@ Filler Gear: Aequitas: filler
 Filler Gear: Amigo Sincero: filler
 Filler Gear: Antagonist: filler
 Filler Gear: Baby Maker: filler
+Filler Gear: Big Boom Blaster: filler
 Filler Gear: Bitch: filler
 Filler Gear: Black Hole: filler
 Filler Gear: Blockade: filler
@@ -31,6 +32,7 @@ Filler Gear: Blood of Terramorphous: filler
 Filler Gear: Blood of the Ancients: filler
 Filler Gear: Blood of the Seraphs: filler
 Filler Gear: Bone Shredder: filler
+Filler Gear: Boom Puppy: filler
 Filler Gear: Bouncing Bonny: filler
 Filler Gear: Breath of Terramorphous: filler
 Filler Gear: Breath of the Seraphs: filler
@@ -43,6 +45,7 @@ Filler Gear: Dog: filler
 Filler Gear: Elephant Gun: filler
 Filler Gear: Evil Smasher: filler
 Filler Gear: Evolution: filler
+Filler Gear: Fastball: filler
 Filler Gear: Fire Storm: filler
 Filler Gear: Fireball: filler
 Filler Gear: Flakker: filler
@@ -66,6 +69,7 @@ Filler Gear: Hydra: filler
 Filler Gear: Interfacer: filler
 Filler Gear: Invader: filler
 Filler Gear: KerBlaster: filler
+Filler Gear: Kiss of Death: filler
 Filler Gear: Kitten: filler
 Filler Gear: Lady Fist: filler
 Filler Gear: Lascaux: filler
@@ -94,10 +98,13 @@ Filler Gear: Overcompensator: filler
 Filler Gear: Peak Opener: filler
 Filler Gear: Pimpernel: filler
 Filler Gear: Pyrophobia: filler
+Filler Gear: Quasar: filler
 Filler Gear: Rapier: filler
 Filler Gear: Retcher: filler
+Filler Gear: Rex: filler
 Filler Gear: Rolling Thunder: filler
 Filler Gear: Sand Hawk: filler
+Filler Gear: Sawbar: filler
 Filler Gear: Scorpio: filler
 Filler Gear: Shadow of the Seraphs: filler
 Filler Gear: Shredifier: filler
@@ -223,6 +230,7 @@ Reward: Spore Chores: filler
 Reward: The Amulet: filler
 Reward: The Bane: filler
 Reward: The Bloody Harvest: filler
+Reward: The Claptrap's Apprentice: filler
 Reward: The Cold Shoulder: filler
 Reward: The Cost of Progress: filler
 Reward: The Dawn of New Pandora: filler
@@ -248,6 +256,7 @@ Reward: Uncle Teddy: filler
 Reward: Urine, You're Out: filler
 Reward: Walking the Dog: filler
 Reward: Welcome To The Jungle: filler
+Reward: Where Angels Fear to Tread (Part 2): filler
 Reward: Whoops: filler
 Reward: Winging It: filler
 Reward: Wingman: filler
@@ -279,6 +288,7 @@ Travel: Highlands Outwash: progression
 Travel: Immortal Woods: progression
 Travel: Mines of Avarice: progression
 Travel: Natural Selection Annex: progression
+Travel: Opportunity: progression
 Travel: Ore Chasm: progression
 Travel: Pyro Pete's Bar: progression
 Travel: Sanctuary Hole: progression

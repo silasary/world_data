@@ -2,6 +2,7 @@ A.Tech - Coal Mine: useful
 A.Tech - Decal Gun Set: filler
 A.Tech - Dimensional Pal Storage: useful
 A.Tech - Egg Incubator: progression
+A.Tech - Guild Chest: useful
 A.Tech - Hexolite Quartz Mine: filler
 A.Tech - Homeward Thundercloud: useful
 A.Tech - Homing Sphere Launcher: useful
@@ -43,16 +44,20 @@ Dumud Chowder Recipe: progression
 Eastern Wild Beacon: progression
 Eastern Wild Pass: progression
 Eikthyrdeer Stew Recipe: progression
+Electric Orb: progression
 Electric Skill Fruit: Thunderstorm: progression
 Eternal Summer Pass: progression
 Excalibur Schematic 1: filler
 Feybreak Pass: progression
 Fire Orb: progression
 Fire Skill Fruit: Flare Arrow: filler
+Forest Dungeon Key: progression
 Forgotten Spawn: progression
+Fried Egg Recipe: progression
 Fried Kelpsea: filler
 Frostbitten Pass: progression
 Frostbound Pass: progression
+Frozen Egg Voucher: progression
 Galeclaw Nikujaga Recipe: progression
 Gatling Gun Schematic 1: filler
 Glacial Pass: progression
@@ -63,9 +68,12 @@ Grilled Lamball Recipe: progression
 Grinning Tocotoco Schematic 1: filler
 Ground Orb: progression
 Ground Support Whistle +2: progression
+Handgun Schematic 4: progression
 Heat Resistant Metal Armor Schematic 2: filler
+Heat Resistant Pal Metal Armor Schematic 4: progression
 Heat Resistant Pelt Armor Schematic 4: progression
 Heat Resistant Refined Metal Armor Schematic 4: progression
+Herb Roasted Lamball Recipe: progression
 Hexolite Armor Schematic 4: progression
 Hillside Dungeon Key: progression
 Ice Orb: progression
@@ -73,9 +81,12 @@ Ice Wind Pass: progression
 Ice Wind Spawn: progression
 Innovative Technical Manual: filler
 Jelliette's Jiggly Jelly Recipe: progression
+Katana Schematic 1: filler
 Killamari Cap Schematic 1: filler
 Lamball Kebab Recipe: progression
+Laser Rifle Schematic 4: progression
 Level Up!: progression
+Lightweight Plasteel Armor Schematic 4: progression
 Lily's Key: progression
 Lily's Spear Schematic 4: progression
 Low Quality Recovery Meds: filler
@@ -90,6 +101,7 @@ Marsh Spawn: progression
 Membership Card: progression
 Metal Helm Schematic 1: filler
 Mozzarina Hamburger: filler
+Mushroom Quiche Recipe: progression
 Neutral Orb: progression
 Obsidian Pass: progression
 Pal Metal Armor Schematic 3: useful
@@ -105,6 +117,7 @@ Ring of Grass Resistance +2: progression
 Ring of Ice Resistance: filler
 Roast Eikthyrdeer Recipe: progression
 Rocket Launcher Schematic 2: filler
+Rushoar Bacon 'n' Eggs Recipe: progression
 Rushoar Gyoza Recipe: progression
 Rushoar Hot Dog: filler
 SMG Schematic 4: progression
@@ -112,6 +125,7 @@ Sakurajima Pass: progression
 Sea Breeze Pass: progression
 Seal of the Esoteric: progression
 Seal of the Frozen Wings: progression
+Seal of the Sorcerer: progression
 Seal of the Swift: progression
 Seal of the Winged Tyrant: progression
 Secret Membership Card: progression
@@ -149,6 +163,7 @@ Tech - Blazehowl Saddle: progression
 Tech - Boost Gun: useful
 Tech - Breeding Farm: progression
 Tech - Broncherry Aqua's Saddle: progression
+Tech - Broncherry Saddle: progression
 Tech - Campfire: progression
 Tech - Carbon Fiber: progression
 Tech - Carpet Set: filler
@@ -180,6 +195,7 @@ Tech - Electric Medicine Workbench: progression
 Tech - Electric Mine: useful
 Tech - Elphidran Aqua's Saddle: progression
 Tech - Elphidran Saddle: progression
+Tech - Emergency Exit Sign Set: filler
 Tech - Energy Cartridge: useful
 Tech - Energy Shotgun Ammo: useful
 Tech - Energy Shotgun: useful
@@ -261,6 +277,7 @@ Tech - Metal Armor: useful
 Tech - Metal Barrel Set: filler
 Tech - Metal Chair and Desk Set: filler
 Tech - Metal Detector: useful
+Tech - Metal Helm: useful
 Tech - Metal Spear: useful
 Tech - Metal Structure Set: progression
 Tech - Mill: progression
@@ -281,6 +298,7 @@ Tech - PIDF Flag Set: filler
 Tech - Pal Disassembly Conveyor: useful
 Tech - Pal Expedition Station: progression
 Tech - Pal Labor Research Laboratory: progression
+Tech - Pal Recovery Grenade: useful
 Tech - Pal Surgery Table: useful
 Tech - Paladius Saddle: progression
 Tech - Palbox: progression
@@ -320,6 +338,7 @@ Tech - Repair Kit: useful
 Tech - Reptyro Cryst Saddle: progression
 Tech - Reptyro Saddle: progression
 Tech - Revival Potion: useful
+Tech - Rifle Ammo: useful
 Tech - Road Sign Set: filler
 Tech - Rushour Saddle: progression
 Tech - SMG: useful
@@ -372,6 +391,7 @@ Tech - Xenogard Saddle: progression
 Tech - Xenolord Saddle: progression
 Terra Blade Schematic 3: useful
 Terraprisma Schematic 4: progression
+Thermal Undershirt +2: progression
 Twilight Pass: progression
 Verdant Egg Voucher: progression
 Verdant Pass: progression
@@ -383,4 +403,5 @@ Wildlife Sanctuary 1 Tracker: progression
 Wildlife Sanctuary 2 Tracker: progression
 Wildlife Sanctuary 3 Tracker: progression
 Windswept Pass: progression
+Zoe's Key: progression
 Zoey's Key: progression

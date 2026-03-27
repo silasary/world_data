@@ -4,6 +4,7 @@ item-crispr:crafty_2: useful
 item-crispr:creep_2: useful
 item-crispr:governor_1: useful
 item-crispr:queue_2: useful
+item-crispr:store_3: useful
 item-filler:antiplasmid_1: filler
 item-filler:antiplasmid_2: filler
 item-filler:building: filler

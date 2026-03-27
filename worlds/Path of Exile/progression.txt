@@ -58,7 +58,7 @@ Chain Hook: progression
 Champion: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
-Chance to Poison Support: unknown
+Chance to Poison Support: useful
 Charged Dash: progression
 Charged Mines Support: unknown
 Chieftain: unknown
@@ -88,7 +88,7 @@ Cursed Ground Support: unknown
 Cyclone: unknown
 Damage on Full Life Support: unknown
 Dark Pact: unknown
-Dash: unknown
+Dash: progression
 Deadeye: progression
 Deadly Ailments Support: unknown
 Desecrate: useful
@@ -115,7 +115,7 @@ Elemental Penetration Support: unknown
 Elemental Proliferation Support: progression
 Elemental Weakness: unknown
 Elementalist: unknown
-Enduring Cry: unknown
+Enduring Cry: useful
 Energy Blade: useful
 Ensnaring Arrow: unknown
 Essence Drain: useful
@@ -128,9 +128,11 @@ Explosive Trap: unknown
 Exsanguinate: unknown
 Faster Casting Support: progression
 Faster Projectiles Support: useful
+Feeding Frenzy Support: useful
 Fire Trap: unknown
 Firestorm: progression
 Fist of War Support: unknown
+Flame Dash: useful
 Flame Link: progression
 Flame Surge: useful
 Flame Wall: unknown
@@ -170,10 +172,11 @@ Haste: unknown
 Heavy Strike: progression
 Herald of Agony: useful
 Herald of Ash: progression
-Herald of Ice: unknown
+Herald of Ice: useful
 Herald of Purity: progression
 Herald of Thunder: useful
 Hex Bloom Support: unknown
+Hexblast: progression
 Hextouch Support: progression
 High-Impact Mine Support: unknown
 Holy Flame Totem: unknown
@@ -225,7 +228,7 @@ Manabond: useful
 Marauder: progression
 Mark On Hit Support: unknown
 Meat Shield Support: unknown
-Melee Physical Damage Support: unknown
+Melee Physical Damage Support: useful
 Melee Splash Support: unknown
 Minion Damage Support: unknown
 Minion Life Support: unknown
@@ -246,6 +249,7 @@ Normal Sword: unknown
 Occultist: unknown
 Overcharge Support: unknown
 Pathfinder: progression
+Perforate: useful
 Pestilent Strike: progression
 Petrified Blood: useful
 Phase Run: progression
@@ -288,9 +292,9 @@ Progressive max links - Helm: progression
 Progressive max links - Offhand: progression
 Progressive max links - Weapon: progression
 Progressive passive point: progression
-Protective Link: unknown
+Protective Link: filler
 Pulverise Support: unknown
-Puncture: unknown
+Puncture: useful
 Punishment: unknown
 Purifying Flame: progression
 Purity of Elements: progression
@@ -312,7 +316,7 @@ Ruthless Support: useful
 Saboteur: unknown
 Sacred Wisps Support: unknown
 Sacrifice Support: unknown
-Sadism Support: unknown
+Sadism Support: useful
 Scion: progression
 Scorching Ray: unknown
 Searing Bond: progression
@@ -357,9 +361,10 @@ Summon Raging Spirit: useful
 Summon Reaper: progression
 Summon Skeletons: unknown
 Summon Skitterbots: progression
+Sunder: useful
 Sweep: unknown
 Swift Affliction Support: progression
-Swift Assembly Support: unknown
+Swift Assembly Support: progression
 Swiftbrand Support: unknown
 Swordstorm: progression
 Tectonic Slam: progression

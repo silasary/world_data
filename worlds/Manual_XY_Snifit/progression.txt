@@ -59,6 +59,7 @@ Full Incense: filler
 Grass Gem: filler
 Great Ball: filler
 Green Shard: filler
+Grip Claw: filler
 Griseous Orb: filler
 Ground Gem: filler
 HM01 Cut: progression
@@ -210,6 +211,7 @@ TM49 (Echoed Voice): useful
 TM50 (Overheat): useful
 TM51 (Steel Wing): useful
 TM52 (Focus Blast): useful
+TM54 (False Swipe): useful
 TM55 (Scald): useful
 TM56 (Fling): useful
 TM57 (Charge Beam): useful
@@ -232,6 +234,7 @@ TM75 (Swords Dance): useful
 TM76 (Struggle Bug): useful
 TM77 (Psych Up): useful
 TM78 (Bulldoze): useful
+TM79 (Frost Breath): useful
 TM80 (Rock Slide): useful
 TM82 (Dragon Tail): useful
 TM83 (Infestation): useful
@@ -242,6 +245,7 @@ TM87 (Swagger): useful
 TM88 (Sleep Talk): useful
 TM89 (U-turn): useful
 TM90 (Substitute): useful
+TM91 (Flash Cannon): useful
 TM92 (Trick Room): useful
 TM93 (Wild Charge): useful
 TM94 (Rock Smash): progression

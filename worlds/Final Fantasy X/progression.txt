@@ -14,6 +14,8 @@ Aeon Customization: Dark Attack: useful
 Aeon Customization: Dispel: useful
 Aeon Customization: Focus: filler
 Aeon Customization: Holy: useful
+Aeon Customization: Jinx: filler
+Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
 Aeon Customization: Pray: filler
 Aeon Customization: Reflect: useful
@@ -118,6 +120,7 @@ Blessed Gem x 50: useful
 Blessed Gem x 60: useful
 Blessed Gem x 70: useful
 Blessed Gem x 80: useful
+Blessed Gem x 90: useful
 Blossom Crown: progression
 Bomb Core x 10: useful
 Bomb Core x 20: useful
@@ -282,6 +285,7 @@ Frag Grenade x 80: useful
 Frag Grenade x 90: useful
 Gear Customization: Auto-Reflect: useful
 Gear Customization: Auto-Shell: useful
+Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
 Gear Customization: Defense +5%: filler
@@ -292,6 +296,7 @@ Gear Customization: First Strike: useful
 Gear Customization: HP +20%: useful
 Gear Customization: HP Stroll: filler
 Gear Customization: Lightning Eater: useful
+Gear Customization: Lightning Ward: filler
 Gear Customization: Lightningproof: useful
 Gear Customization: MP +10%: filler
 Gear Customization: MP Stroll: filler
@@ -301,6 +306,7 @@ Gear Customization: Magic Counter: useful
 Gear Customization: Magic Def +10%: useful
 Gear Customization: Magic Def +3%: filler
 Gear Customization: Magic Def +5%: filler
+Gear Customization: Master Thief: useful
 Gear Customization: Piercing: useful
 Gear Customization: Poisonstrike: useful
 Gear Customization: SOS NulShock: useful
@@ -313,7 +319,9 @@ Gear Customization: Slow Ward: filler
 Gear Customization: Stone Ward: useful
 Gear Customization: Stoneproof: useful
 Gear Customization: Strength +3%: filler
+Gear Customization: Strength +5%: filler
 Gear Customization: Water Ward: filler
+Gear Customization: Waterproof: useful
 Gear Customization: Zombie Ward: filler
 Gold Hourglass x 10: useful
 Gold Hourglass x 20: useful
@@ -474,6 +482,7 @@ Megalixir x 40: filler
 Megalixir x 50: filler
 Megalixir x 60: filler
 Megalixir x 70: filler
+Megalixir x 80: filler
 Megalixir x 90: filler
 Mercury Crest: progression
 Mercury Sigil: progression
@@ -577,6 +586,7 @@ Region: Sin: progression
 Region: Thunder Plains: progression
 Region: Zanarkand Ruins: progression
 Remedy x 10: filler
+Remedy x 20: filler
 Remedy x 30: filler
 Remedy x 40: filler
 Remedy x 60: filler

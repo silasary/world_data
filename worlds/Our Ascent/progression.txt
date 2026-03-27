@@ -1,14 +1,21 @@
 Accessory - Apolonia Death Ring I: useful
 Accessory - Apolonia Death Ring II: useful
+Accessory - Apolonia Dull Ring: useful
 Accessory - Apolonia Enchanted Ring: useful
 Accessory - Apolonia Recovery Ring: useful
 Accessory - Apolonia Slim Double Band: useful
 Accessory - Hina Blood Ring: useful
 Accessory - Hina Dagger Amulet: useful
+Accessory - Hina Masked Amulet: useful
 Accessory - Hina Tooth Amulet: useful
+Accessory - Lan Creepy Amulet: useful
 Accessory - Lan Defeated Earring: useful
+Accessory - Lan Fancy Ring: useful
 Accessory - Lan Slim Band: useful
+Accessory - Lan Slim Double Band: useful
+Accessory - Sibyl Defeated Earring: useful
 Accessory - Sibyl Dull Ring: useful
+Accessory - Sibyl Fancy Ring: useful
 Accessory - Sibyl Masked Amulet: useful
 Accessory - Sibyl Power Ring: useful
 Accessory - Sibyl Slim Double Band: useful
@@ -36,6 +43,7 @@ Augment - Lan Relentless Fire: progression
 Augment - Sibyl Dual Depredation: progression
 Augment - Sibyl Grounded Motion: progression
 Augment - Sibyl Ruinous Bleed: progression
+Augment - Sibyl Silent Steps: progression
 Augment - Sibyl Stunning Distraction: progression
 Augment - Stan Amplified Strength: progression
 Augment - Stan Defiant Guard: progression
