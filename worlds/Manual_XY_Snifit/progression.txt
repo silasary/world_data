@@ -65,6 +65,7 @@ Ground Gem: filler
 HM01 Cut: progression
 HM02 Fly: useful
 HM03 Surf: progression
+HM04 Strength: progression
 HM05 Waterfall: progression
 Hard Stone: filler
 Heal Ball: filler
@@ -207,6 +208,7 @@ TM42 (Facade): useful
 TM43 (Flame Charge): useful
 TM45 (Attract): useful
 TM46 (Thief): useful
+TM47 (Low Sweep): useful
 TM49 (Echoed Voice): useful
 TM50 (Overheat): useful
 TM51 (Steel Wing): useful
@@ -217,6 +219,7 @@ TM56 (Fling): useful
 TM57 (Charge Beam): useful
 TM58 (Sky Drop): useful
 TM59 (Incinerate): useful
+TM60 (Quash): useful
 TM61 (Will-O-Wisp): useful
 TM62 (Acrobatics): useful
 TM63 (Embargo): useful

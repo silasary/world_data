@@ -74,6 +74,7 @@ Antidote x 40: filler
 Antidote x 50: filler
 Antidote x 60: filler
 Antidote x 70: filler
+Antidote x 80: filler
 Antidote x 90: filler
 Arctic Wind x 10: useful
 Arctic Wind x 20: useful
@@ -318,6 +319,7 @@ Gear Customization: Silence Ward: filler
 Gear Customization: Slow Ward: filler
 Gear Customization: Stone Ward: useful
 Gear Customization: Stoneproof: useful
+Gear Customization: Stonetouch: useful
 Gear Customization: Strength +3%: filler
 Gear Customization: Strength +5%: filler
 Gear Customization: Water Ward: filler
@@ -813,6 +815,7 @@ Weapon (Wakka): Scout III: useful
 Weapon (Wakka): Turnover: useful
 Weapon (Wakka): Water Ball: useful
 Weapon (Wakka): World Champion: progression
+Weapon (Yuna): Astral Rod: useful
 Weapon (Yuna): Laevatein: useful
 Weapon (Yuna): Mage's Staff: useful
 Weapon (Yuna): Magistral Rod: useful

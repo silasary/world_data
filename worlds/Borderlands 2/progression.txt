@@ -5,6 +5,7 @@ $100: filler
 Backpack Upgrade: filler
 BlueCandy: filler
 Common AssaultRifle: progression
+Common ClassMod: progression
 Common GrenadeMod: progression
 Common Pistol: progression
 Common Relic: progression
@@ -16,6 +17,7 @@ E-Tech AssaultRifle: progression
 E-Tech Relic: progression
 E-Tech SMG: progression
 E-Tech Shotgun: progression
+E-Tech SniperRifle: progression
 Filler Gear: 12 Pounder: filler
 Filler Gear: 1340 Shield: filler
 Filler Gear: Actualizer: filler
@@ -23,6 +25,7 @@ Filler Gear: Aequitas: filler
 Filler Gear: Amigo Sincero: filler
 Filler Gear: Antagonist: filler
 Filler Gear: Baby Maker: filler
+Filler Gear: Bearcat: filler
 Filler Gear: Big Boom Blaster: filler
 Filler Gear: Bitch: filler
 Filler Gear: Black Hole: filler
@@ -66,6 +69,7 @@ Filler Gear: Hector's Paradise: filler
 Filler Gear: Hellfire: filler
 Filler Gear: Hornet: filler
 Filler Gear: Hydra: filler
+Filler Gear: Infection: filler
 Filler Gear: Interfacer: filler
 Filler Gear: Invader: filler
 Filler Gear: KerBlaster: filler
@@ -82,6 +86,7 @@ Filler Gear: Magic Missile (Purple): filler
 Filler Gear: Manly Man Shield: filler
 Filler Gear: Meteor Shower: filler
 Filler Gear: Midnight Star: filler
+Filler Gear: Might of the Seraphs: filler
 Filler Gear: Mongol: filler
 Filler Gear: Mouthwash: filler
 Filler Gear: Moxxi's Endowment: filler
@@ -126,6 +131,7 @@ Filler Gear: Unforgiven: filler
 Filler Gear: Unkempt Harold: filler
 Filler Gear: Veruc: filler
 Filler Gear: VeryRare Shotgun: filler
+Filler Gear: Wanderlust: filler
 Filler Gear: Whisky Tango Foxtrot: filler
 Filler Gear: Winter is Over: filler
 Filler Gear: World Burn: filler
@@ -164,9 +170,11 @@ Reward: Bad Hair Day: filler
 Reward: Bandit Slaughter: Round 2: filler
 Reward: Bandit Slaughter: Round 3: filler
 Reward: Bandit Slaughter: Round 4: filler
+Reward: Bandit Slaughter: Round 5: filler
 Reward: Battle: Twelve O' Clock High: filler
 Reward: Bearer of Bad News: filler
 Reward: Best Minion Ever: filler
+Reward: Best Mother's Day Ever: filler
 Reward: Big Feet: filler
 Reward: Breaking the Bank: filler
 Reward: Capture the Flags: filler
@@ -199,14 +207,23 @@ Reward: Grendel: filler
 Reward: Hidden Journals: filler
 Reward: Highway To Hell: filler
 Reward: Home Movies: filler
+Reward: Hyperion Contract #873: filler
+Reward: Hyperion Slaughter: Round 1: filler
 Reward: I Know It When I See It: filler
+Reward: Interview with a Vault Hunter: filler
 Reward: Kill Yourself: filler
 Reward: Learning to Love: filler
+Reward: Let There Be Light: filler
+Reward: Long Way To The Top: filler
 Reward: MMORPGFPS: filler
+Reward: Magic Slaughter: Badass Round: filler
+Reward: Magic Slaughter: Round 2: filler
 Reward: Magic Slaughter: Round 3: filler
 Reward: Magic Slaughter: Round 5: filler
+Reward: Man's Best Friend: filler
 Reward: Medical Mystery: filler
 Reward: Message in a Bottle 3 (HaytersFolly): filler
+Reward: Message in a Bottle 4 (Rustyards): filler
 Reward: Mighty Morphin': filler
 Reward: Mine, All Mine: filler
 Reward: Monster Hunter: filler
@@ -214,6 +231,7 @@ Reward: Mother-Lover: filler
 Reward: My Dead Brother: filler
 Reward: Nakayama-rama: filler
 Reward: Note for Self-Person: filler
+Reward: Now You See It: filler
 Reward: Palling Around: filler
 Reward: Perfectly Peaceful: filler
 Reward: Poetic License: filler
@@ -226,6 +244,7 @@ Reward: Shielded Favors: filler
 Reward: Shoot This Guy in the Face: filler
 Reward: Slap-Happy: filler
 Reward: Smells Like Victory: filler
+Reward: Space Cowboy: filler
 Reward: Spore Chores: filler
 Reward: The Amulet: filler
 Reward: The Bane: filler
@@ -242,6 +261,7 @@ Reward: The Overlooked: Medicine Man: filler
 Reward: The Pretty Good Train Robbery: filler
 Reward: The Rakk Dahlia Murder: filler
 Reward: The Road to Sanctuary: filler
+Reward: This Just In: filler
 Reward: This Town Ain't Big Enough: filler
 Reward: Tier 2 Battle: The Death Race: filler
 Reward: Tier 3 Battle: Bar Room Blitz: filler
@@ -292,6 +312,7 @@ Travel: Opportunity: progression
 Travel: Ore Chasm: progression
 Travel: Pyro Pete's Bar: progression
 Travel: Sanctuary Hole: progression
+Travel: Sawtooth Cauldron: progression
 Travel: Southern Raceway: progression
 Travel: Southern Shelf Bay: progression
 Travel: Southern Shelf: progression
