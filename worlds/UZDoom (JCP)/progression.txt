@@ -1,0 +1,19 @@
+ArmorBonus: filler
+Backpack: filler
+BlurSphere: filler
+Bullets [ClipBox]: filler
+Bullets [Clip]: filler
+Chaingun: progression
+Energy Cells [CellPack]: filler
+Energy Cells [Cell]: filler
+GreenArmor: filler
+HealthBonus: filler
+MAP14: G_T_Factory: progression
+MAP31: Manufacturing Plant: progression
+Medikit: filler
+Rockets [RocketAmmo]: filler
+Rockets [RocketBox]: filler
+Shotgun Shells [ShellBox]: filler
+Shotgun Shells [Shell]: filler
+Soulsphere: filler
+Stimpack: filler

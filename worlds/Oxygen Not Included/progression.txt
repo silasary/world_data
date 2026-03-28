@@ -100,7 +100,7 @@ Communal Table: useful
 Compost: unknown
 Conduction Panel: useful
 Conductive Wire Bridge: useful
-Conductive Wire: unknown
+Conductive Wire: useful
 Conveyor Bridge: useful
 Conveyor Chute: useful
 Conveyor Loader Fitting: useful
@@ -153,7 +153,7 @@ Fire Pole: useful
 Fish Feeder: useful
 Fish Release: unknown
 Fish Trap: useful
-Flower Pot: unknown
+Flower Pot: filler
 Fossil Block: useful
 Gantry: useful
 Gas Bridge: useful
@@ -283,7 +283,7 @@ Orbital Data Collection Lab: progression
 Ore Scrubber: useful
 Oxygen Mask Checkpoint: useful
 Oxygen Mask Dock: useful
-Oxygen Mask Pattern: unknown
+Oxygen Mask Pattern: useful
 Oxylite Refinery: useful
 Oxylite Sconce: useful
 Park Sign: filler
@@ -321,7 +321,7 @@ Refrigerator: unknown
 Rehydrator: useful
 Remote Controller: useful
 Research Module: useful
-Research Reactor: unknown
+Research Reactor: useful
 Ribbon Reader: useful
 Ribbon Writer: useful
 Robo-Miner: useful
@@ -361,7 +361,7 @@ Space Scanner: useful
 Spacefarer Module: progression
 Spice Grinder: useful
 Starmap Location Sensor: useful
-Steam Engine Cluster: unknown
+Steam Engine Cluster: progression
 Steam Turbine: useful
 Storage Tile: unknown
 Sugar Engine: unknown
@@ -378,7 +378,7 @@ Thermo Regulator: unknown
 Thermo Sensor: useful
 Timer Sensor: useful
 Trailblazer Module: useful
-Transit Tube Access: unknown
+Transit Tube Access: useful
 Transit Tube Crossing: useful
 Transit Tube: useful
 Uranium Centrifuge: unknown

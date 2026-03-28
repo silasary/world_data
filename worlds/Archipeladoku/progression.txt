@@ -218,8 +218,10 @@ Block AJ57: progression
 Block AJ62: progression
 Block AJ65: progression
 Block AJ69: progression
+Block AJ73: progression
 Block AJ75: progression
 Block AJ76: progression
+Block AJ79: progression
 Block AJ7: progression
 Block AJ84: progression
 Block AJ87: progression
@@ -278,6 +280,7 @@ Block AM92: progression
 Block AM93: progression
 Block AM95: progression
 Block AM96: progression
+Block AM98: progression
 Block AM99: progression
 Block AP10: progression
 Block AP22: progression
@@ -716,9 +719,12 @@ Block BR78: progression
 Block BS25: progression
 Block BS28: progression
 Block BS31: progression
+Block BS35: progression
+Block BS41: progression
 Block BS47: progression
 Block BS50: progression
 Block BS53: progression
+Block BS65: progression
 Block BS69: progression
 Block BS81: progression
 Block BS93: progression
@@ -807,6 +813,7 @@ Block BX79: progression
 Block BX7: progression
 Block BX82: progression
 Block BX85: progression
+Block BX89: progression
 Block BX95: progression
 Block BZ10: progression
 Block BZ1: progression
@@ -903,6 +910,7 @@ Block CD76: progression
 Block CD79: progression
 Block CD7: progression
 Block CD82: progression
+Block CD85: progression
 Block CD89: progression
 Block CD92: progression
 Block CD95: progression
@@ -1214,6 +1222,7 @@ Block K81: progression
 Block K87: progression
 Block K90: progression
 Block K93: progression
+Block K95: progression
 Block K98: progression
 Block N101: progression
 Block N104: progression

@@ -269,6 +269,7 @@ Element 399: progression
 Element 39: progression
 Element 400: progression
 Element 401: progression
+Element 405: progression
 Element 406: progression
 Element 408: progression
 Element 409: progression
@@ -523,6 +524,7 @@ Element 687: progression
 Element 689: progression
 Element 68: progression
 Element 691: progression
+Element 692: progression
 Element 693: progression
 Element 694: progression
 Element 697: progression
