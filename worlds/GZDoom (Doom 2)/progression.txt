@@ -52,6 +52,7 @@ Level Access (MAP31): progression
 Level Clear (MAP01): progression
 Level Clear (MAP03): progression
 Level Clear (MAP07): progression
+Level Clear (MAP09): progression
 Level Clear (MAP17): progression
 Level Clear (MAP20): progression
 Level Clear (MAP25): progression
@@ -81,6 +82,7 @@ Stimpack: filler
 Super Shotgun: progression
 YellowCard (MAP04): progression
 YellowCard (MAP06): progression
+YellowCard (MAP09): progression
 YellowCard (MAP12): progression
 YellowCard (MAP15): progression
 YellowSkull (MAP08): progression

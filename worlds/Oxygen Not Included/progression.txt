@@ -1,4 +1,4 @@
-AND Gate: unknown
+AND Gate: useful
 Aero Pot: filler
 Airborne Critter Condo: filler
 Airborne Critter Trap: useful
@@ -23,7 +23,7 @@ Automation Ribbon Bridge: useful
 Automation Ribbon: useful
 Automation Wire Bridge: useful
 Automation Wire: useful
-BUFFER Gate: unknown
+BUFFER Gate: useful
 Basic Nosecone: progression
 Battery Module: useful
 Beach Chair: filler
@@ -57,10 +57,12 @@ Care Package: Drecko: unknown
 Care Package: Ethanol: filler
 Care Package: Fertilizer: unknown
 Care Package: Flox: filler
+Care Package: Grilling Booster: filler
 Care Package: Hatch Egg: filler
 Care Package: Hatch: unknown
 Care Package: Ice: filler
 Care Package: Idylla Seed: filler
+Care Package: Lime: filler
 Care Package: Masterworks Art Booster: filler
 Care Package: Nutrient Bar: filler
 Care Package: Omelettes: filler
@@ -71,6 +73,7 @@ Care Package: Pip Egg: filler
 Care Package: Pip: unknown
 Care Package: Plastic: unknown
 Care Package: Plume Squash Seed: unknown
+Care Package: Refined Copper: filler
 Care Package: Refined Iron: filler
 Care Package: Researching Booster: filler
 Care Package: Rust: filler
@@ -175,10 +178,10 @@ Gas Valve: useful
 Gas Vent: progression
 Gear Balm Pattern: progression
 Geotuner: useful
-Germ Sensor: unknown
+Germ Sensor: useful
 Glass Forge: useful
 Grooming Station: unknown
-Hammer: unknown
+Hammer: filler
 Hand Sanitizer: useful
 Hanging Fossil Block: useful
 Hanging Pot: unknown
@@ -216,7 +219,7 @@ Large Cargo Bay: useful
 Large Discharger: useful
 Large Gas Cargo Canister: unknown
 Large Liquid Cargo Tank: unknown
-Large Liquid Fuel Tank: unknown
+Large Liquid Fuel Tank: progression
 Large Power Transformer: useful
 Large Sculpting Block: filler
 Large Solid Oxidizer Tank: progression
@@ -225,7 +228,7 @@ Lead Suit Checkpoint: useful
 Lead Suit Dock: useful
 Lead Suit: useful
 Light Sensor: useful
-Liquid Bridge: unknown
+Liquid Bridge: useful
 Liquid Cargo Tank: useful
 Liquid Element Sensor: unknown
 Liquid Filter: useful
@@ -256,7 +259,7 @@ Mechanized Airlock: useful
 Memory Toggle: useful
 Mercury Ceiling Light: useful
 Mesh Tile: useful
-Mess Table: unknown
+Mess Table: useful
 Metal Block: filler
 Metal Refinery: progression
 Metal Tile: useful
@@ -325,7 +328,7 @@ Robo-Miner: useful
 Rock Crusher: progression
 Rocket Control Station: unknown
 Rocket Platform: progression
-Rocket Port Extension: unknown
+Rocket Port Extension: useful
 Rocket Port: unknown
 Rover's Module: useful
 Rust Deoxidier: useful
@@ -347,7 +350,7 @@ Smart Battery: useful
 Smart Storage Bin: useful
 Smoker: useful
 Soda Fountain: useful
-Solar Panel Module: unknown
+Solar Panel Module: useful
 Solar Panel: useful
 Soldering Station: useful
 Solid Filter: unknown

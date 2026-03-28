@@ -2,7 +2,9 @@ Bike: Phantom: useful
 Bike: Torpedo: useful
 Bike: Twinkle Star: useful
 Character: Baby Daisy: useful
+Character: Birdo: useful
 Character: Funky Kong: useful
+Character: Mii Outfit B: useful
 Character: Rosalina: useful
 Filler: Blooper: filler
 Filler: Bob-omb: filler
@@ -27,6 +29,9 @@ Lightning Cup 50cc: progression
 Powerup: Bob-omb: useful
 Powerup: Bullet Bill: useful
 Powerup: Green Shell: useful
+Powerup: Mega Mushroom: useful
+Powerup: Mushroom: useful
+Powerup: POW Block: useful
 Powerup: Red Shell: useful
 Powerup: Star: useful
 Powerup: Triple Bananas: useful

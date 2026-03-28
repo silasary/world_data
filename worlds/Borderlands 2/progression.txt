@@ -24,6 +24,7 @@ Filler Gear: Actualizer: filler
 Filler Gear: Aequitas: filler
 Filler Gear: Amigo Sincero: filler
 Filler Gear: Antagonist: filler
+Filler Gear: Avenger: filler
 Filler Gear: Baby Maker: filler
 Filler Gear: Bearcat: filler
 Filler Gear: Big Boom Blaster: filler
@@ -40,15 +41,18 @@ Filler Gear: Bouncing Bonny: filler
 Filler Gear: Breath of Terramorphous: filler
 Filler Gear: Breath of the Seraphs: filler
 Filler Gear: Butcher: filler
+Filler Gear: Commerce: filler
 Filler Gear: Crit: filler
 Filler Gear: Crossfire: filler
 Filler Gear: Deadly Bloom: filler
 Filler Gear: Deliverance: filler
 Filler Gear: Dog: filler
+Filler Gear: Easy Mode: filler
 Filler Gear: Elephant Gun: filler
 Filler Gear: Evil Smasher: filler
 Filler Gear: Evolution: filler
 Filler Gear: Fastball: filler
+Filler Gear: Fibber: filler
 Filler Gear: Fire Storm: filler
 Filler Gear: Fireball: filler
 Filler Gear: Flakker: filler
@@ -60,6 +64,7 @@ Filler Gear: Gemstone Shotgun: filler
 Filler Gear: Gemstone SniperRifle: filler
 Filler Gear: Godfinger: filler
 Filler Gear: Good Touch: filler
+Filler Gear: Grog Nozzle: filler
 Filler Gear: Gub: filler
 Filler Gear: Gunerang: filler
 Filler Gear: Hard Carry: filler
@@ -69,6 +74,7 @@ Filler Gear: Hector's Paradise: filler
 Filler Gear: Hellfire: filler
 Filler Gear: Hornet: filler
 Filler Gear: Hydra: filler
+Filler Gear: Impaler: filler
 Filler Gear: Infection: filler
 Filler Gear: Interfacer: filler
 Filler Gear: Invader: filler
@@ -79,6 +85,7 @@ Filler Gear: Lady Fist: filler
 Filler Gear: Lascaux: filler
 Filler Gear: Leech: filler
 Filler Gear: Lightning Bolt: filler
+Filler Gear: Little Evie: filler
 Filler Gear: Longbow: filler
 Filler Gear: Lucrative Opportunity: filler
 Filler Gear: Madhous!: filler
@@ -100,8 +107,11 @@ Filler Gear: Order: filler
 Filler Gear: Orphan Maker: filler
 Filler Gear: Otto Idol: filler
 Filler Gear: Overcompensator: filler
+Filler Gear: Patriot: filler
 Filler Gear: Peak Opener: filler
 Filler Gear: Pimpernel: filler
+Filler Gear: Pocket Rocket: filler
+Filler Gear: Pun-chee: filler
 Filler Gear: Pyrophobia: filler
 Filler Gear: Quasar: filler
 Filler Gear: Rapier: filler
@@ -117,7 +127,11 @@ Filler Gear: Skin of the Ancients: filler
 Filler Gear: Skullmasher: filler
 Filler Gear: Slow Hand: filler
 Filler Gear: Sponge: filler
+Filler Gear: Stinger: filler
+Filler Gear: Stinkpot: filler
 Filler Gear: Striker: filler
+Filler Gear: Tattler: filler
+Filler Gear: Teapot: filler
 Filler Gear: Teeth of Terramorphous: filler
 Filler Gear: The Afterburner: filler
 Filler Gear: The Cradle: filler
@@ -162,6 +176,7 @@ Reward: A Hard Place: filler
 Reward: A Match Made on Pandora: filler
 Reward: A Warm Welcome: filler
 Reward: Animal Rescue: Shelter: filler
+Reward: Animal Rights: filler
 Reward: Arms Dealing: filler
 Reward: Assassinate the Assassins: filler
 Reward: BFFFs: filler
@@ -177,15 +192,18 @@ Reward: Best Minion Ever: filler
 Reward: Best Mother's Day Ever: filler
 Reward: Big Feet: filler
 Reward: Breaking the Bank: filler
+Reward: Cadeuceus: filler
 Reward: Capture the Flags: filler
 Reward: Catch-A-Ride, and Also Tetanus: filler
 Reward: Chief Executive Overlord: filler
 Reward: Chop Suey: filler
+Reward: Clan War: End of the Rainbow: filler
 Reward: Clan War: Reach the Dead Drop: filler
 Reward: Clan War: Starting the War: filler
 Reward: Clan War: Trailer Trashing: filler
 Reward: Clan War: Zafords vs. Hodunks: filler
 Reward: Claptrap's Birthday Bash!: filler
+Reward: Claptrap's Secret Stash: filler
 Reward: Crazy About You: filler
 Reward: Creature Slaughter: Round 4: filler
 Reward: Creature Slaughter: Round 5: filler
@@ -207,11 +225,13 @@ Reward: Grendel: filler
 Reward: Hidden Journals: filler
 Reward: Highway To Hell: filler
 Reward: Home Movies: filler
+Reward: Hungry Like the Skag: filler
 Reward: Hyperion Contract #873: filler
 Reward: Hyperion Slaughter: Round 1: filler
 Reward: I Know It When I See It: filler
 Reward: Interview with a Vault Hunter: filler
 Reward: Kill Yourself: filler
+Reward: Knockin' on Heaven's Door: filler
 Reward: Learning to Love: filler
 Reward: Let There Be Light: filler
 Reward: Long Way To The Top: filler
@@ -221,7 +241,9 @@ Reward: Magic Slaughter: Round 2: filler
 Reward: Magic Slaughter: Round 3: filler
 Reward: Magic Slaughter: Round 5: filler
 Reward: Man's Best Friend: filler
+Reward: Master Gee the Invincible: filler
 Reward: Medical Mystery: filler
+Reward: Message In A Bottle 5 (MagnysLighthouse): filler
 Reward: Message in a Bottle 3 (HaytersFolly): filler
 Reward: Message in a Bottle 4 (Rustyards): filler
 Reward: Mighty Morphin': filler
@@ -229,9 +251,12 @@ Reward: Mine, All Mine: filler
 Reward: Monster Hunter: filler
 Reward: Mother-Lover: filler
 Reward: My Dead Brother: filler
+Reward: My Kingdom for a Wand: filler
 Reward: Nakayama-rama: filler
+Reward: No Hard Feelings: filler
 Reward: Note for Self-Person: filler
 Reward: Now You See It: filler
+Reward: Out of Body Experience: filler
 Reward: Palling Around: filler
 Reward: Perfectly Peaceful: filler
 Reward: Poetic License: filler
@@ -245,7 +270,10 @@ Reward: Shoot This Guy in the Face: filler
 Reward: Slap-Happy: filler
 Reward: Smells Like Victory: filler
 Reward: Space Cowboy: filler
+Reward: Special Delivery: filler
 Reward: Spore Chores: filler
+Reward: Statuesque: filler
+Reward: Symbiosis: filler
 Reward: The Amulet: filler
 Reward: The Bane: filler
 Reward: The Bloody Harvest: filler
@@ -257,6 +285,7 @@ Reward: The Fall of Nakayama: filler
 Reward: The Hermit: filler
 Reward: The Lost Treasure: filler
 Reward: The Name Game: filler
+Reward: The Once and Future Slab: filler
 Reward: The Overlooked: Medicine Man: filler
 Reward: The Pretty Good Train Robbery: filler
 Reward: The Rakk Dahlia Murder: filler
@@ -305,8 +334,10 @@ Travel: Gluttony Gulch: progression
 Travel: Hallowed Hollow: progression
 Travel: Hatred's Shadow: progression
 Travel: Highlands Outwash: progression
+Travel: Hunter's Grotto: progression
 Travel: Immortal Woods: progression
 Travel: Mines of Avarice: progression
+Travel: Murderlin's Temple: progression
 Travel: Natural Selection Annex: progression
 Travel: Opportunity: progression
 Travel: Ore Chasm: progression
@@ -323,9 +354,12 @@ Travel: The Bunker: progression
 Travel: The Forest: progression
 Travel: The Fridge: progression
 Travel: The Rustyards: progression
+Travel: The Winged Storm: progression
 Travel: Thousand Cuts: progression
 Travel: Three Horns Divide: progression
 Travel: Tundra Express: progression
+Travel: Unassuming Docks: progression
+Travel: Vault of the Warrior: progression
 Travel: Wam Bam Island: progression
 Travel: Writhing Deep: progression
 Uncommon AssaultRifle: progression

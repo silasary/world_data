@@ -14,18 +14,22 @@ Cash Bundle: progression
 Cauldron Unlock: progression
 Chemistry Station Unlock: progression
 Chili Unlock: useful
+Chili: filler
 Donut: filler
 Drying Rack Unlock: progression
 Electric Plant Trimmers Unlock: useful
+Energy Drink Unlock: useful
 Energy Drink: filler
 Extra Long Life Soil: filler
 Extra Long-Life Soil Unlock: progression
 Fertilizer Unlock: progression
 Flu Medicine Unlock: useful
 Full Spectrum Grow Light Unlock: progression
+Fungal Phil Unlocked: progression
 Gasoline Unlock: progression
 Gold Bar: filler
 Golden Toilet: filler
+Grain Bag: filler
 Granddaddy Purple Seed Unlock: useful
 Green Crack Seed Unlock: useful
 Halogen Grow Light: filler
@@ -47,6 +51,8 @@ M1911 Mag Unlock: useful
 M1911 Unlock: useful
 Medium Storage Closet Unlock: useful
 Medium Storage Rack: filler
+Mega Bean Unlock: useful
+Metal Sign: filler
 Mixing Station Mk2 Unlock: progression
 Mixing Station Unlock: progression
 Modern Wall Lamp: filler
@@ -55,10 +61,12 @@ Motor Oil Unlock: useful
 Mouth Wash Unlock: useful
 Mouth Wash: filler
 Mushroom Bed: filler
+Mushroom Substrate: filler
 PGR Unlock: useful
 Packaging Station Mk II Unlock: progression
 Packaging Station Mk2: filler
 Pan Trap: trap
+Paracetamol: filler
 Phosphorus Unlock: progression
 Phosphorus: filler
 Plastic Pot Unlock: useful
@@ -77,11 +85,13 @@ Salvador Moreno Unlocked: progression
 Sewer Office: progression
 Shirley Watts Unlocked: progression
 Shotgun Shell Unlock: useful
+Shotgun Shell: filler
 Sleep Trap: trap
 Slippery Trap: trap
 Small Storage Closet Unlock: useful
 Small Storage Closet: filler
 Small Storage Rack: filler
+Soil Pourer Unlock: useful
 Sour Diesel Seed Unlock: useful
 Speed Grow Unlock: useful
 Storage Unit: progression
@@ -90,8 +100,10 @@ Suspension Rack: filler
 TV: filler
 TimeScale Trap: trap
 Toilet: filler
+Trash Can: filler
 Trash Trap: trap
 Viagor Unlock: useful
+Viagra: filler
 Warehouse Access: progression
 Westville Region Unlock: progression
 Wood Square Table: filler

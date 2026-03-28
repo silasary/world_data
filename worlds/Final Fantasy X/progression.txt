@@ -17,6 +17,7 @@ Aeon Customization: Holy: useful
 Aeon Customization: Jinx: filler
 Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
+Aeon Customization: Power Break: useful
 Aeon Customization: Pray: filler
 Aeon Customization: Reflect: useful
 Aeon Customization: Reflex: filler
@@ -284,11 +285,13 @@ Frag Grenade x 60: useful
 Frag Grenade x 70: useful
 Frag Grenade x 80: useful
 Frag Grenade x 90: useful
+Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
 Gear Customization: Auto-Shell: useful
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
+Gear Customization: Death Ward: useful
 Gear Customization: Defense +5%: filler
 Gear Customization: Double AP: useful
 Gear Customization: Fire Ward: filler
@@ -308,6 +311,7 @@ Gear Customization: Magic Def +10%: useful
 Gear Customization: Magic Def +3%: filler
 Gear Customization: Magic Def +5%: filler
 Gear Customization: Master Thief: useful
+Gear Customization: One MP Cost: useful
 Gear Customization: Piercing: useful
 Gear Customization: Poisonstrike: useful
 Gear Customization: SOS NulShock: useful
@@ -316,6 +320,7 @@ Gear Customization: SOS Regen: filler
 Gear Customization: SOS Shell: filler
 Gear Customization: Sensor: filler
 Gear Customization: Silence Ward: filler
+Gear Customization: Silencetouch: useful
 Gear Customization: Slow Ward: filler
 Gear Customization: Stone Ward: useful
 Gear Customization: Stoneproof: useful
@@ -558,6 +563,7 @@ Progressive Nirvana: progression
 Progressive Onion Knight: progression
 Progressive Spirit Lance: progression
 Progressive World Champion: progression
+Purifying Salt x 10: useful
 Purifying Salt x 20: useful
 Purifying Salt x 30: useful
 Purifying Salt x 40: useful
@@ -1094,6 +1100,7 @@ X-Potion x 90: filler
 [Rename Card] x 60: useful
 [Rename Card] x 70: useful
 [Rename Card] x 80: useful
+[Rename Card] x 90: useful
 [Return Sphere] x 10: useful
 [Return Sphere] x 20: useful
 [Return Sphere] x 30: useful

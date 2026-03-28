@@ -48,7 +48,7 @@ Boneshatter: unknown
 Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
-Burning Damage Support: unknown
+Burning Damage Support: useful
 Cast On Critical Strike Support: progression
 Cast on Death Support: progression
 Cast on Melee Kill Support: unknown
@@ -108,6 +108,7 @@ Duelist: unknown
 Earthquake: progression
 Earthshatter: unknown
 Efficacy Support: unknown
+Elemental Army Support: useful
 Elemental Damage with Attacks Support: unknown
 Elemental Focus Support: progression
 Elemental Hit: progression
@@ -115,8 +116,10 @@ Elemental Penetration Support: unknown
 Elemental Proliferation Support: progression
 Elemental Weakness: unknown
 Elementalist: unknown
+Empower Support: filler
 Enduring Cry: useful
 Energy Blade: useful
+Enhance Support: filler
 Ensnaring Arrow: unknown
 Essence Drain: useful
 Eternal Blessing Support: unknown
@@ -152,12 +155,14 @@ Frenzy: useful
 Frigid Bond Support: progression
 Frost Blades: progression
 Frost Bomb: unknown
+Frost Shield: progression
 Frost Wall: progression
 Frostbite: progression
 Frostblink: unknown
 Frostbolt: useful
 Frozen Legion: useful
-Galvanic Arrow: unknown
+Galvanic Arrow: useful
+Galvanic Field: useful
 General's Cry: progression
 Generosity Support: progression
 Glacial Hammer: progression
@@ -178,7 +183,8 @@ Herald of Thunder: useful
 Hex Bloom Support: unknown
 Hexblast: progression
 Hextouch Support: progression
-High-Impact Mine Support: unknown
+Hierophant: progression
+High-Impact Mine Support: useful
 Holy Flame Totem: unknown
 Hydrosphere: progression
 Hypothermia Support: unknown
@@ -206,6 +212,7 @@ Iron Will Support: unknown
 Item Rarity Support: progression
 Juggernaut: unknown
 Kinetic Blast: unknown
+Kinetic Fusillade: useful
 Lacerate: progression
 Lancing Steel: progression
 Leap Slam: progression
@@ -231,7 +238,7 @@ Meat Shield Support: unknown
 Melee Physical Damage Support: useful
 Melee Splash Support: unknown
 Minion Damage Support: unknown
-Minion Life Support: unknown
+Minion Life Support: progression
 Mirage Archer Support: unknown
 Mirror Arrow: progression
 Molten Shell: unknown
@@ -298,7 +305,7 @@ Puncture: useful
 Punishment: unknown
 Purifying Flame: progression
 Purity of Elements: progression
-Purity of Ice: unknown
+Purity of Ice: useful
 Purity of Lightning: progression
 Pyroclast Mine: useful
 Rage Support: unknown
@@ -315,7 +322,7 @@ Rolling Magma: progression
 Ruthless Support: useful
 Saboteur: unknown
 Sacred Wisps Support: unknown
-Sacrifice Support: unknown
+Sacrifice Support: filler
 Sadism Support: useful
 Scion: progression
 Scorching Ray: unknown
@@ -327,6 +334,7 @@ Shadow: progression
 Shattering Steel: progression
 Shield Charge: useful
 Shock Nova: progression
+Shockwave Support: filler
 Shockwave Totem: useful
 Shrapnel Ballista: useful
 Siege Ballista: useful
@@ -334,12 +342,13 @@ Siphoning Trap: progression
 Slayer: unknown
 Slower Projectiles Support: unknown
 Smite: useful
+Smoke Mine: useful
 Sniper's Mark: unknown
 Soul Link: unknown
 Spark: useful
 Spectral Helix: progression
 Spectral Shield Throw: useful
-Spectral Throw: unknown
+Spectral Throw: useful
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: unknown
@@ -371,7 +380,7 @@ Tectonic Slam: progression
 Tempest Shield: useful
 Templar: progression
 Temporal Chains: useful
-Tornado Shot: unknown
+Tornado Shot: progression
 Tornado: useful
 Toxic Rain: unknown
 Trap Support: progression
@@ -394,7 +403,7 @@ Volatility Support: progression
 Volcanic Fissure: useful
 Volley Support: progression
 Voltaxic Burst: progression
-Vortex: unknown
+Vortex: progression
 Vulnerability: progression
 War Banner: unknown
 Warden: unknown
@@ -408,4 +417,5 @@ Wintertide Brand: unknown
 Witch: progression
 Withering Step: unknown
 Withering Touch Support: unknown
+Wrath: useful
 Zealotry: unknown

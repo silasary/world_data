@@ -15,6 +15,7 @@ Fever Meter Permanent Bonus: 11-4 Don't Panic: useful
 Fever Meter Permanent Bonus: 11-5 Beyond Reason: useful
 Fever Meter Permanent Bonus: 2-2 Buffalo Wings: useful
 Fever Meter Permanent Bonus: 2-3 Skate Park: useful
+Fever Meter Permanent Bonus: 2-4 Spiral of Doom: useful
 Fever Meter Permanent Bonus: 2-5 Mr. Peepers: useful
 Fever Meter Permanent Bonus: 3-1 Scarab Crunch: useful
 Fever Meter Permanent Bonus: 3-2 Infinite Cheese: useful
@@ -26,6 +27,7 @@ Fever Meter Permanent Bonus: 4-4 Maid in Space: useful
 Fever Meter Permanent Bonus: 5-1 Pearl Clam: useful
 Fever Meter Permanent Bonus: 5-2 Insane Aquarium: useful
 Fever Meter Permanent Bonus: 5-3 Tasty Waves: useful
+Fever Meter Permanent Bonus: 5-4 Our Favorite Eel: useful
 Fever Meter Permanent Bonus: 5-5 Love Story: useful
 Fever Meter Permanent Bonus: 6-2 Spiderweb: useful
 Fever Meter Permanent Bonus: 7-1 Holland Oats: useful
@@ -36,6 +38,7 @@ Fever Meter Permanent Bonus: 8-5 Five of a Kind: useful
 Fever Meter Permanent Bonus: 9-2 Doom with a View: useful
 Fever Meter Permanent Bonus: 9-3 Rhombi: useful
 Fever Meter Permanent Bonus: 9-4 9 Luft Balloons: useful
+Fever Meter Permanent Bonus: 9-5 Twisted Sisters: useful
 Full Clear Discount: [3-3] Ra Deal: useful
 Gold Peg: progression
 Hollow Peg: filler
@@ -50,6 +53,7 @@ Level Unlock: 11-3 Billions & Billions: progression
 Level Unlock: 11-5 Beyond Reason: progression
 Level Unlock: 2-1 Birdy's Crib: progression
 Level Unlock: 2-2 Buffalo Wings: progression
+Level Unlock: 2-3 Skate Park: progression
 Level Unlock: 2-5 Mr. Peepers: progression
 Level Unlock: 3-1 Scarab Crunch: progression
 Level Unlock: 3-2 Infinite Cheese: progression
@@ -57,18 +61,21 @@ Level Unlock: 3-3 Ra Deal: progression
 Level Unlock: 3-4 Croco-Gator Pit: progression
 Level Unlock: 3-5 The Fever Level: progression
 Level Unlock: 4-1 The Amoeban: progression
+Level Unlock: 4-3 We Come in Peace: progression
 Level Unlock: 4-4 Maid in Space: progression
 Level Unlock: 5-1 Pearl Clam: progression
 Level Unlock: 5-3 Tasty Waves: progression
 Level Unlock: 5-5 Love Story: progression
 Level Unlock: 6-4 Baseball: progression
 Level Unlock: 6-5 Vermin: progression
+Level Unlock: 7-3 Workin from Home: progression
 Level Unlock: 7-4 Tula's Ride: progression
 Level Unlock: 7-5 70 and Sunny: progression
 Level Unlock: 8-1 Win a Monkey: progression
 Level Unlock: 8-2 Dog Pinball: progression
 Level Unlock: 8-3 Spin Again: progression
 Level Unlock: 8-4 Roll 'Em: progression
+Level Unlock: 8-5 Five of a Kind: progression
 Level Unlock: 9-2 Doom with a View: progression
 Level Unlock: 9-4 9 Luft Balloons: progression
 Level Unlock: 9-5 Twisted Sisters: progression
@@ -115,8 +122,10 @@ Score Multiplier: 11-2 End of Time: useful
 Score Multiplier: 11-3 Billions & Billions: useful
 Score Multiplier: 11-4 Don't Panic: useful
 Score Multiplier: 11-5 Beyond Reason: useful
+Score Multiplier: 2-1 Birdy's Crib: useful
 Score Multiplier: 2-3 Skate Park: useful
 Score Multiplier: 3-1 Scarab Crunch: useful
+Score Multiplier: 3-2 Infinite Cheese: useful
 Score Multiplier: 3-3 Ra Deal: useful
 Score Multiplier: 3-4 Croco-Gator Pit: useful
 Score Multiplier: 4-1 The Amoeban: useful
@@ -145,6 +154,7 @@ Score Multiplier: 9-4 9 Luft Balloons: useful
 Score Multiplier: 9-5 Twisted Sisters: useful
 Score Multiplier: [10-4] Yang, Yin: useful
 Score Multiplier: [9-3] Rhombi: useful
+Target Score Discount: 1-3 Bjorn's Gazebo: useful
 Target Score Discount: 1-5 Snow Day: useful
 Target Score Discount: 10-2 The Dude Abides: useful
 Target Score Discount: 10-4 Yang, Yin: useful
@@ -176,6 +186,7 @@ Target Score Discount: 7-5 70 and Sunny: useful
 Target Score Discount: 8-1 Win a Monkey: useful
 Target Score Discount: 8-2 Dog Pinball: useful
 Target Score Discount: 8-3 Spin Again: useful
+Target Score Discount: 9-1 The Love Moat: useful
 Target Score Discount: 9-2 Doom with a View: useful
 Target Score Discount: 9-5 Twisted Sisters: useful
 Target Score Discount: [3-5] The Fever Level: useful

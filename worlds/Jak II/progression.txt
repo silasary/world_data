@@ -11,10 +11,14 @@ Earthquake Trap: trap
 Gear: progression
 Gunpod: progression
 Health Pack: filler
+Health Trap: trap
+Heart of Mar: progression
 High Alert Trap: trap
 Ledge Trap: trap
 Morph Gun Ammo Upgrade: progression
+Morph Gun Damage Upgrade: progression
 Morph Gun Fire Rate Upgrade: progression
+Pacifism Trap: trap
 Peacemaker Ammo: filler
 Precursor Stone: progression
 Purple Security Pass: progression
@@ -27,7 +31,9 @@ Seal Piece #2: progression
 Slow Trap: trap
 Speed Trap: trap
 Teleport Trap: trap
+Time Map: progression
 Titan Suit: progression
 Trip Trap: trap
 Vulcan Fury Ammo: filler
+Vulcan Fury: progression
 Yellow Security Pass: progression

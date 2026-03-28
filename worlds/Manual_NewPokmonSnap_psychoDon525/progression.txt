@@ -97,6 +97,7 @@ Frame - Design 2: filler
 Frame - Design 3: filler
 Frame - Design 4: filler
 Frame - Design 5: filler
+Frame - Design 6: filler
 Frame - Design 7: filler
 Frame - Design 8: filler
 Frame - Design 9: filler
@@ -127,6 +128,7 @@ Frame - Monitor: Professor Mirror: filler
 Frame - Monitor: Rita: filler
 Frame - Monitor: Todd: filler
 Frame - Monitor: You: filler
+Frame - Photo Frame 2: filler
 Frame - Photo Frame 3: filler
 Frame - Photo Frame 4: filler
 Frame - Photo Frame 5: filler
@@ -138,6 +140,7 @@ Illumina Orb (Aurus): progression
 Illumina Orb (Belusylva): progression
 Illumina Orb (Durice): progression
 Illumina Orb (Florio): progression
+Illumina Orb (Maricopia): progression
 Illumina Orb (Voluca): progression
 LS 1 Complete: progression
 LS 2 Complete: progression
@@ -148,6 +151,8 @@ Lental Seafloor 3 Unlocked: progression
 MR Day 1 Complete: progression
 MR Day 2 Complete: progression
 MR Day 3 Complete: progression
+Maricopia IS 1 Complete: progression
+Maricopia IS 2 Complete: progression
 Maricopia Illumina Spot 1 Unlocked: progression
 Maricopia Illumina Spot 2 Unlocked: progression
 Maricopia Reef Day 1 Unlocked: progression
@@ -158,6 +163,7 @@ Maricopia Reef Evening 2 Unlocked: progression
 Mightywide River Day 1 Unlocked: progression
 Mightywide River Day 2 Unlocked: progression
 Mightywide River Day 3 Unlocked: progression
+Mightywide River Night 1 Unlocked: progression
 Mightywide River Night 2 Unlocked: progression
 NP Day 1 Complete: progression
 NP Day 2 Complete: progression
@@ -239,6 +245,7 @@ Profile Icon - Research Course: filler
 Profile Icon - Research Lab: filler
 Profile Icon - Research Logo: filler
 Profile Icon - Research Notes: filler
+Profile Icon - Rimstone Pools: filler
 Profile Icon - Rita (Heart-Eyes): filler
 Profile Icon - Rita (Smiling): filler
 Profile Icon - Rita (Surprised): filler
@@ -260,6 +267,7 @@ Profile Icon - Todd (Surprised): filler
 Profile Icon - Todd's Bag: filler
 Profile Icon - Todd's Camera: filler
 Profile Icon - Todd's Shoe: filler
+Profile Icon - Todd's Wristband: filler
 Profile Icon - Type: Bug: filler
 Profile Icon - Type: Dark: filler
 Profile Icon - Type: Dragon: filler
@@ -275,6 +283,7 @@ Profile Icon - Type: Ice: filler
 Profile Icon - Type: Normal: filler
 Profile Icon - Type: Poison: filler
 Profile Icon - Type: Psychic: filler
+Profile Icon - Type: Steel: filler
 Profile Icon - Type: Water: filler
 Profile Icon - Undersea: filler
 Profile Icon - Volcano: filler
@@ -286,6 +295,7 @@ Profile Icon - Your Bag: filler
 Profile Icon - Your Cap: filler
 Profile Icon - Your Shoe: filler
 Profile Icon - Your Smartwatch: filler
+RCE Complete: progression
 RCL Complete: progression
 Research Camp (Entrance) Unlocked: progression
 Research Camp (Lab) Unlocked: progression
@@ -298,6 +308,9 @@ SS Day 2 Complete: progression
 SS Day 3 Complete: progression
 SS Night 1 Complete: progression
 SS Night 2 Complete: progression
+SSF Day 1 Complete: progression
+SSF Day 2 Complete: progression
+SSF Day 3 Complete: progression
 SSP Day Complete: progression
 SSP Night Complete: progression
 Scanner: progression
@@ -376,6 +389,7 @@ Sticker - Eye 8: filler
 Sticker - Eyebrow 1: filler
 Sticker - Eyebrow 2: filler
 Sticker - Eyelashes: filler
+Sticker - Flower 1: filler
 Sticker - Flower 2: filler
 Sticker - Flower 3: filler
 Sticker - Flower 4: filler

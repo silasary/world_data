@@ -162,6 +162,7 @@ Block AF63: progression
 Block AF67: progression
 Block AF70: progression
 Block AF72: progression
+Block AF73: progression
 Block AF75: progression
 Block AF76: progression
 Block AF79: progression
@@ -494,6 +495,7 @@ Block BB73: progression
 Block BB79: progression
 Block BB7: progression
 Block BB82: progression
+Block BB85: progression
 Block BB89: progression
 Block BB92: progression
 Block BB95: progression
@@ -549,6 +551,7 @@ Block BE76: progression
 Block BE79: progression
 Block BE7: progression
 Block BE82: progression
+Block BE85: progression
 Block BE89: progression
 Block BE92: progression
 Block BE95: progression
@@ -770,6 +773,7 @@ Block BV99: progression
 Block BW19: progression
 Block BW22: progression
 Block BW41: progression
+Block BW49: progression
 Block BW53: progression
 Block BW56: progression
 Block BW59: progression
@@ -784,6 +788,7 @@ Block BX101: progression
 Block BX104: progression
 Block BX13: progression
 Block BX19: progression
+Block BX1: progression
 Block BX26: progression
 Block BX29: progression
 Block BX35: progression
@@ -821,6 +826,7 @@ Block BZ81: progression
 Block BZ84: progression
 Block BZ87: progression
 Block BZ93: progression
+Block CA101: progression
 Block CA104: progression
 Block CA107: progression
 Block CA13: progression
@@ -1046,6 +1052,7 @@ Block CS45: progression
 Block CS48: progression
 Block CS4: progression
 Block CS51: progression
+Block CS57: progression
 Block CS60: progression
 Block CS63: progression
 Block CS67: progression
@@ -1271,7 +1278,9 @@ Block N86: progression
 Block N87: progression
 Block N89: progression
 Block N90: progression
+Block N92: progression
 Block N94: progression
+Block N95: progression
 Block N96: progression
 Block N98: progression
 Block N99: progression

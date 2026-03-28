@@ -34,6 +34,7 @@ Greenhorn Ruins Yellow Spriteling: progression
 Horror Manor Blue Spriteling: progression
 Horror Manor Door: progression
 Horror Manor Green Spriteling: progression
+Horror Manor Left Arm Statue Part: useful
 Horror Manor Left Foot Statue Part: useful
 Horror Manor Moustache Statue Part: useful
 Horror Manor Red Diamond 2: progression
@@ -73,13 +74,16 @@ Shivering Mountains Left Foot Statue Part: useful
 Shivering Mountains Moustache Statue Part: useful
 Shivering Mountains Purple Spriteling: progression
 Shivering Mountains Red Diamond 1: progression
+Shivering Mountains Red Diamond 2: progression
 Shivering Mountains Red Diamond 3: progression
+Shivering Mountains Red Diamond 5: progression
 Shivering Mountains Red Diamond 6: progression
 Shivering Mountains Red Diamond 7: progression
 Shivering Mountains Right Arm Statue Part: useful
 Shivering Mountains Yellow Spriteling: progression
 Silver Candlestick: filler
 Take Damage: trap
+Teapot: filler
 Trombone: filler
 Vase: filler
 Wonky Circus Blue Spriteling: progression
@@ -95,3 +99,4 @@ Wonky Circus Red Diamond 8: progression
 Wonky Circus Red Spriteling: progression
 Wonky Circus Right Foot Statue Part: useful
 Wonky Circus Torso Statue Part: useful
+Wonky Circus Yellow Spriteling: progression
