@@ -3,6 +3,7 @@ Accessory - Apolonia Death Ring II: useful
 Accessory - Apolonia Dull Ring: useful
 Accessory - Apolonia Enchanted Ring: useful
 Accessory - Apolonia Recovery Ring: useful
+Accessory - Apolonia Shield Amulet: useful
 Accessory - Apolonia Slim Double Band: useful
 Accessory - Hina Blood Ring: useful
 Accessory - Hina Dagger Amulet: useful
@@ -93,6 +94,7 @@ Stat Base - Apolonia Encounter Points: useful
 Stat Base - Apolonia Temp AGI Multi Per Turn: useful
 Stat Base - Apolonia Temp ATK Multi Per Turn: useful
 Stat Base - Apolonia Temp DEF Multi Per Turn: useful
+Stat Base - Hina Current HP Heal Per Turn: useful
 Stat Base - Hina Encounter Points: useful
 Stat Base - Hina Extra EP Per Boss: useful
 Stat Base - Hina Max HP Heal Per Turn: useful

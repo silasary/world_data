@@ -19,6 +19,7 @@ Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
 Aeon Customization: Power Break: useful
 Aeon Customization: Pray: filler
+Aeon Customization: Protect: useful
 Aeon Customization: Reflect: useful
 Aeon Customization: Reflex: filler
 Aeon Customization: Regen: useful
@@ -186,6 +187,7 @@ Dragon Scale x 40: useful
 Dragon Scale x 50: useful
 Dragon Scale x 60: useful
 Dragon Scale x 70: useful
+Dragon Scale x 80: useful
 Dragon Scale x 90: useful
 Dream Powder x 10: useful
 Dream Powder x 20: useful
@@ -230,6 +232,7 @@ Ether x 50: filler
 Ether x 60: filler
 Ether x 70: filler
 Ether x 80: filler
+Ether x 90: filler
 Eye Drops x 10: filler
 Eye Drops x 20: filler
 Eye Drops x 30: filler
@@ -292,6 +295,7 @@ Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
 Gear Customization: Death Ward: useful
+Gear Customization: Defense +3%: filler
 Gear Customization: Defense +5%: filler
 Gear Customization: Double AP: useful
 Gear Customization: Fire Ward: filler
@@ -598,6 +602,7 @@ Remedy x 10: filler
 Remedy x 20: filler
 Remedy x 30: filler
 Remedy x 40: filler
+Remedy x 50: filler
 Remedy x 60: filler
 Remedy x 70: filler
 Remedy x 80: filler

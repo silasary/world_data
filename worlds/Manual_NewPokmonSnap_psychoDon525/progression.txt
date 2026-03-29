@@ -108,6 +108,7 @@ Frame - Effect 4: filler
 Frame - Effect 5: filler
 Frame - Effect 6: filler
 Frame - Effect 7: filler
+Frame - Effect 8: filler
 Frame - Lental Region 10: filler
 Frame - Lental Region 11: filler
 Frame - Lental Region 12: filler
@@ -283,6 +284,7 @@ Profile Icon - Type: Ice: filler
 Profile Icon - Type: Normal: filler
 Profile Icon - Type: Poison: filler
 Profile Icon - Type: Psychic: filler
+Profile Icon - Type: Rock: filler
 Profile Icon - Type: Steel: filler
 Profile Icon - Type: Water: filler
 Profile Icon - Undersea: filler
@@ -323,6 +325,7 @@ Shiver Snowfields Night 2 Unlocked: progression
 Sticker - Accessory 10: filler
 Sticker - Accessory 11: filler
 Sticker - Accessory 12: filler
+Sticker - Accessory 13: filler
 Sticker - Accessory 1: filler
 Sticker - Accessory 2: filler
 Sticker - Accessory 3: filler

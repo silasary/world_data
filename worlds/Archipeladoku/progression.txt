@@ -160,6 +160,7 @@ Block AF60: progression
 Block AF62: progression
 Block AF63: progression
 Block AF67: progression
+Block AF69: progression
 Block AF70: progression
 Block AF72: progression
 Block AF73: progression
@@ -283,6 +284,7 @@ Block AM96: progression
 Block AM98: progression
 Block AM99: progression
 Block AP10: progression
+Block AP13: progression
 Block AP22: progression
 Block AP31: progression
 Block AP34: progression
@@ -392,6 +394,7 @@ Block AU90: progression
 Block AU92: progression
 Block AU93: progression
 Block AU95: progression
+Block AW21: progression
 Block AW37: progression
 Block AW40: progression
 Block AW43: progression
@@ -449,6 +452,9 @@ Block AY89: progression
 Block AY92: progression
 Block AY95: progression
 Block AZ13: progression
+Block AZ17: progression
+Block AZ1: progression
+Block AZ33: progression
 Block AZ49: progression
 Block BA10: progression
 Block BA13: progression
@@ -1293,6 +1299,8 @@ Block N95: progression
 Block N96: progression
 Block N98: progression
 Block N99: progression
+Block R15: progression
+Block R3: progression
 Block S101: progression
 Block S103: progression
 Block S104: progression

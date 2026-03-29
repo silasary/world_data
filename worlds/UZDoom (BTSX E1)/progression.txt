@@ -31,6 +31,7 @@ Level Access (MAP21): progression
 Level Access (MAP22): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
+Level Clear (MAP02): progression
 Level Clear (MAP22): progression
 Megasphere: filler
 Plasma Rifle: progression
@@ -44,6 +45,7 @@ RedCard (MAP14): progression
 RedCard (MAP18): progression
 RedCard (MAP19): progression
 RedCard (MAP22): progression
+RedCard (MAP32): progression
 Rocket Launcher: progression
 Shotgun: progression
 Soulsphere: filler

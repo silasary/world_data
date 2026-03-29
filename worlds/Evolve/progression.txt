@@ -3,10 +3,13 @@ item-crispr:ancients_6: useful
 item-crispr:crafty_2: useful
 item-crispr:crafty_3: useful
 item-crispr:creep_2: useful
+item-crispr:enhance_1: useful
 item-crispr:governor_1: useful
 item-crispr:governor_3: useful
 item-crispr:queue_2: useful
+item-crispr:queue_3: useful
 item-crispr:store_3: useful
+item-crispr:trader_2: useful
 item-filler:antiplasmid_1: filler
 item-filler:antiplasmid_2: filler
 item-filler:building: filler

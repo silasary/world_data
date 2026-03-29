@@ -432,6 +432,7 @@ Element 587: progression
 Element 589: progression
 Element 58: progression
 Element 590: progression
+Element 591: progression
 Element 593: progression
 Element 594: progression
 Element 595: progression
@@ -462,6 +463,7 @@ Element 618: progression
 Element 619: progression
 Element 61: progression
 Element 620: progression
+Element 621: progression
 Element 623: progression
 Element 625: progression
 Element 626: progression
@@ -594,6 +596,7 @@ Element 764: progression
 Element 765: progression
 Element 766: progression
 Element 767: progression
+Element 768: progression
 Element 769: progression
 Element 76: progression
 Element 770: progression
@@ -619,6 +622,7 @@ Element 794: progression
 Element 795: progression
 Element 796: progression
 Element 797: progression
+Element 798: progression
 Element 799: progression
 Element 79: progression
 Element 7: progression
@@ -768,6 +772,7 @@ Element 971: progression
 Element 972: progression
 Element 973: progression
 Element 974: progression
+Element 976: progression
 Element 977: progression
 Element 978: progression
 Element 979: progression

@@ -4,7 +4,7 @@ Airborne Critter Condo: filler
 Airborne Critter Trap: useful
 Airflow Tile: useful
 Algae Distiller: useful
-Algae Terrarium: unknown
+Algae Terrarium: useful
 Apothecary: progression
 Arcade Cabinet: unknown
 Artifact Analysis Station: useful
@@ -47,7 +47,7 @@ Care Package: Alveo Vera Seed: filler
 Care Package: Arbor Tree Seed: filler
 Care Package: Bammoth: filler
 Care Package: Barbecue: filler
-Care Package: Bonbon Tree Seed: unknown
+Care Package: Bonbon Tree Seed: filler
 Care Package: Coal: filler
 Care Package: Construction Booster: filler
 Care Package: Copper Ore: unknown
@@ -97,7 +97,7 @@ Clothing Refashionator: filler
 Coal Generator: useful
 Comfy Bed: filler
 Communal Table: useful
-Compost: unknown
+Compost: useful
 Conduction Panel: useful
 Conductive Wire Bridge: useful
 Conductive Wire: useful
@@ -123,13 +123,13 @@ Critter Fountain: unknown
 Critter Pick-Up: unknown
 Critter Sensor: filler
 Critter Trap: unknown
-Cycle Sensor: unknown
+Cycle Sensor: useful
 Data Miner: progression
 Decontamination Shower: useful
 Deep Fryer: useful
 Dehydrator: unknown
 Deoderizer: unknown
-Desalinator: unknown
+Desalinator: useful
 Diamond Press: useful
 Disease Clinic: useful
 Display Shelf: useful
@@ -247,7 +247,7 @@ Liquid Shutoff: useful
 Liquid Spacefarer Input Port: useful
 Liquid Spacefarer Output Port: useful
 Liquid Tepidizer: unknown
-Liquid Valve: unknown
+Liquid Valve: useful
 Liquid Vent: progression
 Lubrication Station: useful
 Manual Airlock: useful
@@ -353,7 +353,7 @@ Soda Fountain: useful
 Solar Panel Module: useful
 Solar Panel: useful
 Soldering Station: useful
-Solid Filter: unknown
+Solid Filter: useful
 Solid Rocket Port Unloader: unknown
 Solo Spacefarer Nosecone: progression
 Space Heater: useful

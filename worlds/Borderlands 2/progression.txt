@@ -68,6 +68,7 @@ Filler Gear: Good Touch: filler
 Filler Gear: Grog Nozzle: filler
 Filler Gear: Gub: filler
 Filler Gear: Gunerang: filler
+Filler Gear: Gwen's Head: filler
 Filler Gear: Hail: filler
 Filler Gear: Hard Carry: filler
 Filler Gear: Hawk Eye: filler
@@ -140,6 +141,7 @@ Filler Gear: The Afterburner: filler
 Filler Gear: The Cradle: filler
 Filler Gear: The Electric Chair: filler
 Filler Gear: Tidal Wave: filler
+Filler Gear: Tinderbox: filler
 Filler Gear: Toothpick: filler
 Filler Gear: Triquetra: filler
 Filler Gear: Tunguska: filler
@@ -204,6 +206,7 @@ Reward: Clan War: End of the Rainbow: filler
 Reward: Clan War: Reach the Dead Drop: filler
 Reward: Clan War: Starting the War: filler
 Reward: Clan War: Trailer Trashing: filler
+Reward: Clan War: Wakey Wakey: filler
 Reward: Clan War: Zafords vs. Hodunks: filler
 Reward: Claptrap's Birthday Bash!: filler
 Reward: Claptrap's Secret Stash: filler
@@ -216,6 +219,7 @@ Reward: Cult Following: Lighting the Match: filler
 Reward: Cult Following: The Enkindling: filler
 Reward: Defend Slab Tower: filler
 Reward: Do No Harm: filler
+Reward: Doctor's Orders: filler
 Reward: Don't Copy That Floppy: filler
 Reward: Echoes of the Past: filler
 Reward: Ell in Shining Armor: filler
@@ -289,6 +293,7 @@ Reward: The Cost of Progress: filler
 Reward: The Dawn of New Pandora: filler
 Reward: The Fall of Nakayama: filler
 Reward: The Hermit: filler
+Reward: The Ice Man Cometh: filler
 Reward: The Lost Treasure: filler
 Reward: The Name Game: filler
 Reward: The Once and Future Slab: filler
@@ -349,11 +354,13 @@ Travel: Opportunity: progression
 Travel: Ore Chasm: progression
 Travel: Pyro Pete's Bar: progression
 Travel: Sanctuary Hole: progression
+Travel: Sanctuary: progression
 Travel: Sawtooth Cauldron: progression
 Travel: Southern Raceway: progression
 Travel: Southern Shelf Bay: progression
 Travel: Southern Shelf: progression
 Travel: Terminus: progression
+Travel: Terramorphous Peak: progression
 Travel: The Backburner: progression
 Travel: The Beatdown: progression
 Travel: The Bunker: progression

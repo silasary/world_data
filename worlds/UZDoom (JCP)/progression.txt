@@ -1,19 +1,34 @@
 ArmorBonus: filler
+Automap (MAP09): useful
+Automap (MAP32): useful
 Backpack: filler
+Berserk: filler
+Blue Keycard (MAP12): progression
+BlueArmor: filler
 BlurSphere: filler
 Bullets [ClipBox]: filler
 Bullets [Clip]: filler
 Chaingun: progression
+Chainsaw: progression
 Energy Cells [CellPack]: filler
 Energy Cells [Cell]: filler
 GreenArmor: filler
 HealthBonus: filler
+Level Clear (MAP01): progression
+MAP05: Woodexial: progression
+MAP06: Riminshi Valley: progression
+MAP07: Confused Arena: progression
+MAP11: My fav: progression
 MAP14: G_T_Factory: progression
 MAP31: Manufacturing Plant: progression
 Medikit: filler
+Megasphere: filler
+Red Skull (MAP03): progression
 Rockets [RocketAmmo]: filler
 Rockets [RocketBox]: filler
 Shotgun Shells [ShellBox]: filler
 Shotgun Shells [Shell]: filler
 Soulsphere: filler
 Stimpack: filler
+Yellow Keycard (MAP01): progression
+Yellow Keycard (MAP10): progression
