@@ -1,4 +1,5 @@
 item-crispr:ancients_3: useful
+item-crispr:ancients_5: useful
 item-crispr:ancients_6: useful
 item-crispr:crafty_2: useful
 item-crispr:crafty_3: useful
@@ -6,6 +7,7 @@ item-crispr:creep_2: useful
 item-crispr:enhance_1: useful
 item-crispr:governor_1: useful
 item-crispr:governor_3: useful
+item-crispr:queue_1: useful
 item-crispr:queue_2: useful
 item-crispr:queue_3: useful
 item-crispr:store_3: useful
@@ -22,4 +24,5 @@ item-filler:pop_bonus: filler
 item-filler:power_bonus: filler
 item-filler:prod_bonus: filler
 item-filler:resources: filler
+item-trap:power_malus: trap
 item-trap:resources: trap

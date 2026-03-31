@@ -6,7 +6,7 @@ Airflow Tile: useful
 Algae Distiller: useful
 Algae Terrarium: useful
 Apothecary: progression
-Arcade Cabinet: unknown
+Arcade Cabinet: useful
 Artifact Analysis Station: useful
 Artifact Transport Module: useful
 Atmo Sensor: useful
@@ -29,7 +29,7 @@ Battery Module: useful
 Beach Chair: filler
 Blank Canvas: filler
 Blastshot Maker: unknown
-Bleach Stone Hopper: unknown
+Bleach Stone Hopper: useful
 Botanical Analyzer: useful
 Bottle Drainer: useful
 Bottle Filler: useful
@@ -55,7 +55,7 @@ Care Package: Dirt: filler
 Care Package: Drecko Egg: filler
 Care Package: Drecko: unknown
 Care Package: Ethanol: filler
-Care Package: Fertilizer: unknown
+Care Package: Fertilizer: filler
 Care Package: Flox: filler
 Care Package: Grilling Booster: filler
 Care Package: Hatch Egg: filler
@@ -86,6 +86,7 @@ Care Package: Squash Fries: filler
 Care Package: Steel: filler
 Care Package: Strength Booster: filler
 Care Package: Thimble Reed Seed: unknown
+Care Package: Water: filler
 Care Package: Wood: filler
 Care Package: Wort Seed: unknown
 Cargo Bay Small: useful
@@ -112,7 +113,7 @@ Conveyor Rail Thermo Sensor: useful
 Conveyor Rail: useful
 Conveyor Receptacle Fitting: unknown
 Conveyor Receptacle: useful
-Conveyor Shutoff: unknown
+Conveyor Shutoff: useful
 Corner Trim: filler
 Crafting Station: useful
 Critter Cargo Bay: useful
@@ -120,21 +121,21 @@ Critter Condo: unknown
 Critter Drop-Off: progression
 Critter Feeder: progression
 Critter Fountain: unknown
-Critter Pick-Up: unknown
+Critter Pick-Up: useful
 Critter Sensor: filler
 Critter Trap: unknown
 Cycle Sensor: useful
 Data Miner: progression
 Decontamination Shower: useful
 Deep Fryer: useful
-Dehydrator: unknown
+Dehydrator: useful
 Deoderizer: unknown
 Desalinator: useful
 Diamond Press: useful
 Disease Clinic: useful
 Display Shelf: useful
 Drillcone: progression
-Drywall: unknown
+Drywall: useful
 Duplicant Checkpoint: useful
 Duplicant Motion Sensor: useful
 Egg Cracker: useful
@@ -154,6 +155,7 @@ Fish Feeder: useful
 Fish Release: unknown
 Fish Trap: useful
 Flower Pot: filler
+Flydo Pattern: useful
 Fossil Block: useful
 Gantry: useful
 Gas Bridge: useful
@@ -168,19 +170,20 @@ Gas Pipe Element Sensor: useful
 Gas Pipe Germ Sensor: useful
 Gas Pipe Thermo Sensor: useful
 Gas Pipe: progression
-Gas Pump: unknown
+Gas Pump: progression
 Gas Range: useful
 Gas Resevoir: useful
 Gas Rocket Port Loader: unknown
 Gas Rocket Port Unloader: useful
-Gas Shutoff: unknown
+Gas Shutoff: useful
 Gas Valve: useful
 Gas Vent: progression
 Gear Balm Pattern: progression
 Geotuner: useful
 Germ Sensor: useful
 Glass Forge: useful
-Grooming Station: unknown
+Grooming Station: progression
+Gunk Extractor: useful
 Hammer: filler
 Hand Sanitizer: useful
 Hanging Fossil Block: useful
@@ -192,7 +195,7 @@ Heavi-Watt Wire: unknown
 High Pressure Gas Vent: progression
 Hot Tub: filler
 Hydro Sensor: useful
-Hydrogen Engine Cluster: unknown
+Hydrogen Engine Cluster: progression
 Hydrogen Generator: useful
 Hydroponic Farm: useful
 Ice Block: filler
@@ -205,7 +208,7 @@ Insulated Gas Pipe: progression
 Insulated Liquid Pipe: useful
 Insulated Tile: useful
 Interplanetary Launcher: unknown
-Jet Suit Checkpoint: unknown
+Jet Suit Checkpoint: useful
 Jet Suit Dock: unknown
 Jet Suit Pattern: useful
 Juicer: filler
@@ -217,8 +220,8 @@ Lamp: filler
 Landscape Canvas: filler
 Large Cargo Bay: useful
 Large Discharger: useful
-Large Gas Cargo Canister: unknown
-Large Liquid Cargo Tank: unknown
+Large Gas Cargo Canister: useful
+Large Liquid Cargo Tank: useful
 Large Liquid Fuel Tank: progression
 Large Power Transformer: useful
 Large Sculpting Block: filler
@@ -232,12 +235,12 @@ Liquid Bridge: useful
 Liquid Cargo Tank: useful
 Liquid Element Sensor: unknown
 Liquid Filter: useful
-Liquid Meter Valve: unknown
+Liquid Meter Valve: useful
 Liquid Oxidizer Tank Cluster: progression
 Liquid Oxidizer Tank: unknown
 Liquid Pipe Element Sensor: useful
 Liquid Pipe Germ Sensor: useful
-Liquid Pipe Thermo Sensor: unknown
+Liquid Pipe Thermo Sensor: useful
 Liquid Pipe: progression
 Liquid Pump: progression
 Liquid Reservoir: useful
@@ -320,16 +323,17 @@ Ration Box: useful
 Refrigerator: unknown
 Rehydrator: useful
 Remote Controller: useful
+Remote Worker Dock: useful
 Research Module: useful
 Research Reactor: useful
 Ribbon Reader: useful
 Ribbon Writer: useful
 Robo-Miner: useful
 Rock Crusher: progression
-Rocket Control Station: unknown
+Rocket Control Station: useful
 Rocket Platform: progression
 Rocket Port Extension: useful
-Rocket Port: unknown
+Rocket Port: useful
 Rover's Module: useful
 Rust Deoxidier: useful
 Sauna: unknown
@@ -367,21 +371,21 @@ Storage Tile: unknown
 Sugar Engine: unknown
 Sun Lamp: filler
 Super Computer: progression
-Sweepy's Dock: unknown
+Sweepy's Dock: useful
 Switch: useful
 Targeting Beacon: useful
 Telescope Cluster: useful
 Tempshift Plate: useful
 Textile Loom: useful
 Thermo Aquatuner: useful
-Thermo Regulator: unknown
+Thermo Regulator: useful
 Thermo Sensor: useful
 Timer Sensor: useful
 Trailblazer Module: useful
 Transit Tube Access: useful
 Transit Tube Crossing: useful
 Transit Tube: useful
-Uranium Centrifuge: unknown
+Uranium Centrifuge: useful
 Uranium Ore Power Bank Pattern: useful
 Vertical Wind Tunnel: filler
 Virtual Planetarium Cluster: progression
@@ -395,7 +399,7 @@ Wattage Sensor: useful
 Weight Plate: unknown
 Wicker Door: useful
 Window Tile: useful
-Wire Bridge: unknown
+Wire Bridge: useful
 Wood Block: useful
 Wood Burner: useful
 Wood Heater: useful

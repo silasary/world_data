@@ -129,19 +129,22 @@ Tech - Fertilizer: unknown
 Tech - Guilds: unknown
 Tech - Gunpowder: unknown
 Tech - Iron Working: unknown
-Tech - Lasers: unknown
+Tech - Lasers: progression
 Tech - Machinery: unknown
 Tech - Masonry: unknown
 Tech - Mathematics: unknown
-Tech - Metal Casting: unknown
+Tech - Metal Casting: progression
 Tech - Metallurgy: unknown
+Tech - Military Science: progression
+Tech - Mining: progression
 Tech - Mobile Tactics: unknown
 Tech - Nanotechnology: unknown
 Tech - Navigation: unknown
 Tech - Nuclear Fission: unknown
 Tech - Particle Physics: unknown
+Tech - Penicillin: progression
 Tech - Philosophy: unknown
-Tech - Pottery: unknown
+Tech - Pottery: progression
 Tech - Printing Press: unknown
 Tech - Progressive Culture: progression
 Tech - Progressive Exploration: progression
@@ -160,7 +163,7 @@ Tech - Radio: unknown
 Tech - Railroad: unknown
 Tech - Refrigeration: unknown
 Tech - Replaceable Parts: unknown
-Tech - Rifling: unknown
+Tech - Rifling: progression
 Tech - Robotics: unknown
 Tech - Rocketry: progression
 Tech - Sailing: unknown

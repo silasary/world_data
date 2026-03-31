@@ -12,6 +12,7 @@ Aeon Customization: Armor Break: useful
 Aeon Customization: Cheer: filler
 Aeon Customization: Dark Attack: useful
 Aeon Customization: Dispel: useful
+Aeon Customization: Drain: useful
 Aeon Customization: Focus: filler
 Aeon Customization: Holy: useful
 Aeon Customization: Jinx: filler
@@ -288,9 +289,11 @@ Frag Grenade x 60: useful
 Frag Grenade x 70: useful
 Frag Grenade x 80: useful
 Frag Grenade x 90: useful
+Gear Customization: Auto-Med: useful
 Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
 Gear Customization: Auto-Shell: useful
+Gear Customization: Berserk Ward: filler
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
@@ -298,12 +301,16 @@ Gear Customization: Death Ward: useful
 Gear Customization: Defense +3%: filler
 Gear Customization: Defense +5%: filler
 Gear Customization: Double AP: useful
+Gear Customization: Double Overdrive: useful
 Gear Customization: Fire Ward: filler
 Gear Customization: Fireproof: useful
 Gear Customization: First Strike: useful
+Gear Customization: Gillionaire: useful
 Gear Customization: HP +10%: filler
 Gear Customization: HP +20%: useful
+Gear Customization: HP +5%: filler
 Gear Customization: HP Stroll: filler
+Gear Customization: Initiative: useful
 Gear Customization: Lightning Eater: useful
 Gear Customization: Lightning Ward: filler
 Gear Customization: Lightningproof: useful
@@ -327,6 +334,7 @@ Gear Customization: Sensor: filler
 Gear Customization: Silence Ward: filler
 Gear Customization: Silencetouch: useful
 Gear Customization: Slow Ward: filler
+Gear Customization: Slowproof: useful
 Gear Customization: Stone Ward: useful
 Gear Customization: Stoneproof: useful
 Gear Customization: Stonetouch: useful
@@ -772,6 +780,7 @@ Twin Stars x 80: useful
 Twin Stars x 90: useful
 Venus Crest: progression
 Venus Sigil: progression
+Voice Trap: trap
 Water Gem x 10: useful
 Water Gem x 20: useful
 Water Gem x 30: useful
@@ -979,6 +988,7 @@ X-Potion x 90: filler
 [Hypello Potion] x 70: useful
 [Hypello Potion] x 80: useful
 [Hypello Potion] x 90: useful
+[Luck Sphere] x 30: useful
 [Luck Sphere] x 50: useful
 [Luck Sphere] x 60: useful
 [Luck Sphere] x 70: useful

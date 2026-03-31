@@ -68,6 +68,7 @@ Final Haunt Checkpoint 4: progression
 Final Haunt Checkpoint 5: progression
 Final Haunt Checkpoint 6: progression
 Final Haunt Checkpoint 7: progression
+Final Haunt Checkpoint 8: progression
 Final Haunt Key: progression
 Final Haunt Shield: progression
 Final Token: mcguffin
@@ -106,6 +107,7 @@ Glyphic Canyon Temple: progression
 Goodbye Forever: progression
 Green Chaos Emerald: progression
 Gun Fortress Checkpoint 1: progression
+Gun Fortress Checkpoint 4: progression
 Gun Fortress Checkpoint 5: progression
 Gun Fortress Computer: progression
 Gun Fortress Key: progression
@@ -123,6 +125,7 @@ Iron Jungle Soldier: progression
 Lava Shelter Checkpoint 1: progression
 Lava Shelter Checkpoint 2: progression
 Lava Shelter Checkpoint 3: progression
+Lava Shelter Checkpoint 6: progression
 Lava Shelter Checkpoint 7: progression
 Lava Shelter Defense: progression
 Lava Shelter Key: progression
@@ -220,6 +223,7 @@ The Doom Checkpoint 5: progression
 The Doom Key: progression
 The Doom Researcher: progression
 The Doom Soldier: progression
+The Last Way Checkpoint 1: progression
 The Last Way Checkpoint 2: progression
 The Last Way Checkpoint 3: progression
 The Last Way Checkpoint 6: progression
@@ -375,6 +379,7 @@ Weapon:Worm Shooter: progression
 Westopolis Alien: progression
 Westopolis Checkpoint 1: progression
 Westopolis Checkpoint 4: progression
+Westopolis Checkpoint 6: progression
 Westopolis Key: progression
 Westopolis Soldier: progression
 White Chaos Emerald: progression

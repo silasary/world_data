@@ -119,7 +119,7 @@ HealthyBananas-KUnlock: progression
 HeavyKnockback-KUnlock: unknown
 Hedge-MUnlock: progression
 HeliPilot-TUnlock: progression
-HeroFavors-KUnlock: unknown
+HeroFavors-KUnlock: progression
 HeroicReach-KUnlock: progression
 HeroicVelocity-KUnlock: unknown
 HiValueMines-KUnlock: progression
@@ -166,7 +166,7 @@ MonkeysTogetherStrong-KUnlock: progression
 MoonLanding-MUnlock: progression
 MoreCash-KUnlock: progression
 MoreSplattyGlue-KUnlock: progression
-MoreSplody-KUnlock: unknown
+MoreSplody-KUnlock: progression
 MoreValuableBananas-KUnlock: progression
 MortarMonkey-TUnlock: useful
 MuddyPuddles-MUnlock: progression
@@ -237,7 +237,7 @@ TreeStump-MUnlock: progression
 Tutorial-MUnlock: progression
 Underground-MUnlock: progression
 VeryShreddy-KUnlock: progression
-VeteranMonkeyTraining-KUnlock: unknown
+VeteranMonkeyTraining-KUnlock: progression
 VigilantSentries-KUnlock: progression
 VineRupture-KUnlock: progression
 ViolentImpact-KUnlock: unknown

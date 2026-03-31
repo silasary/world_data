@@ -33,14 +33,18 @@ Bulbasaur Line Unlock: progression
 Buneary Line Unlock: progression
 Bunnelby Line Unlock: progression
 Burmy Line Unlock: progression
+Cacnea Line Unlock: progression
 Capsakid Line Unlock: progression
 Carbink Unlock: progression
+Carnivine Unlock: progression
 Carvanha Line Unlock: progression
 Castform Unlock: progression
 Caterpie Line Unlock: progression
 Cetoddle Line Unlock: progression
 Chansey Line Unlock: progression
 Charcadet Line Unlock: progression
+Charmander Line Unlock: progression
+Chatot Unlock: progression
 Cherubi Line Unlock: progression
 Chespin Line Unlock: progression
 Chewtle Line Unlock: progression
@@ -71,6 +75,7 @@ Dedenne Unlock: progression
 Deerling Line Unlock: progression
 Deino Line Unlock: progression
 Delibird Unlock: progression
+Dewpider Line Unlock: progression
 Diglett Line Unlock: progression
 Ditto Unlock: progression
 Doduo Line Unlock: progression
@@ -79,6 +84,7 @@ Drampa Unlock: progression
 Dratini Line Unlock: progression
 Dreepy Line Unlock: progression
 Drifloon Line Unlock: progression
+Drowzee Line Unlock: progression
 Druddigon Unlock: progression
 Ducklett Line Unlock: progression
 Dunsparce Line Unlock: progression
@@ -92,6 +98,7 @@ Electrike Line Unlock: progression
 Elgyem Line Unlock: progression
 Emolga Unlock: progression
 Enamorus Unlock: progression
+Espurr Line Unlock: progression
 Exeggcute Line Unlock: progression
 Falinks Unlock: progression
 Farfetch'd Line Unlock: progression
@@ -132,6 +139,7 @@ Grubbin Line Unlock: progression
 Gulpin Line Unlock: progression
 Hatenna Line Unlock: progression
 Hawlucha Unlock: progression
+Heatmor Unlock: progression
 Helioptile Line Unlock: progression
 Heracross Unlock: progression
 Hippopotas Line Unlock: progression
@@ -156,6 +164,7 @@ Karrablast Line Unlock: progression
 Kecleon Unlock: progression
 Klawf Unlock: progression
 Klefki Unlock: progression
+Koffing Line Unlock: progression
 Komala Unlock: progression
 Kricketot Line Unlock: progression
 Lapras Unlock: progression
@@ -178,6 +187,7 @@ Magnemite Line Unlock: progression
 Makuhita Line Unlock: progression
 Mankey Line Unlock: progression
 Mantine Line Unlock: progression
+Maractus Unlock: progression
 Mareanie Line Unlock: progression
 Mareep Line Unlock: progression
 Marill Line Unlock: progression
@@ -191,6 +201,7 @@ Miltank Unlock: progression
 Mimikyu Unlock: progression
 Minccino Line Unlock: progression
 Minior Unlock: progression
+Minun Unlock: progression
 Misdreavus Line Unlock: progression
 Morelull Line Unlock: progression
 Morpeko Unlock: progression
@@ -206,6 +217,7 @@ Nidoran♀ Line Unlock: progression
 Nidoran♂ Line Unlock: progression
 Noibat Line Unlock: progression
 Nosepass Line Unlock: progression
+Numel Line Unlock: progression
 Nymble Line Unlock: progression
 Oddish Line Unlock: progression
 Omanyte Line Unlock: progression
@@ -219,6 +231,7 @@ Paldea Legendaries Unlock: progression
 Pancham Line Unlock: progression
 Panpour Line Unlock: progression
 Pansage Line Unlock: progression
+Pansear Line Unlock: progression
 Paras Line Unlock: progression
 Passimian Unlock: progression
 Pawmi Line Unlock: progression
@@ -235,6 +248,7 @@ Pineco Line Unlock: progression
 Pinsir Unlock: progression
 Piplup Line Unlock: progression
 Plusle Unlock: progression
+Poliwag Line Unlock: progression
 Poltchageist Line Unlock: progression
 Ponyta Line Unlock: progression
 Poochyena Line Unlock: progression
@@ -307,6 +321,8 @@ Solosis Line Unlock: progression
 Solrock Unlock: progression
 Spearow Line Unlock: progression
 Spheal Line Unlock: progression
+Spinarak Line Unlock: progression
+Spinda Unlock: progression
 Spiritomb Unlock: progression
 Sprigatito Line Unlock: progression
 Spritzee Line Unlock: progression
@@ -360,6 +376,7 @@ Volbeat Unlock: progression
 Voltorb Line Unlock: progression
 Vullaby Line Unlock: progression
 Vulpix Line Unlock: progression
+Wailmer Line Unlock: progression
 Wattrel Line Unlock: progression
 Weedle Line Unlock: progression
 Whismur Line Unlock: progression

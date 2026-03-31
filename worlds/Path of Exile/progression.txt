@@ -5,11 +5,12 @@ Added Fire Damage Support: progression
 Added Lightning Damage Support: unknown
 Additional Accuracy Support: unknown
 Alternate Gems: progression
-Ambush: unknown
+Ambush: useful
 Ancestral Call Support: unknown
 Ancestral Cry: unknown
 Ancestral Protector: progression
 Arc: useful
+Arcane Surge Support: useful
 Arcanist Brand: unknown
 Archmage Support: unknown
 Arctic Armour: useful
@@ -18,9 +19,10 @@ Arrow Nova Support: progression
 Ascendant: progression
 Assassin's Mark: useful
 Autoexertion: useful
-Automation: unknown
+Automation: useful
 Ball Lightning: progression
 Ballista Totem Support: unknown
+Barrage Support: useful
 Barrage: progression
 Battlemage's Cry: unknown
 Bear Trap: unknown
@@ -32,8 +34,10 @@ Blade Flurry: progression
 Blade Trap: progression
 Blade Vortex: progression
 Bladefall: unknown
+Bladestorm: useful
 Blasphemy Support: unknown
 Blast Rain: unknown
+Blastchain Mine Support: useful
 Blazing Salvo: progression
 Blight: progression
 Blind Support: progression
@@ -51,10 +55,11 @@ Burning Arrow: unknown
 Burning Damage Support: useful
 Cast On Critical Strike Support: progression
 Cast on Death Support: progression
-Cast on Melee Kill Support: unknown
+Cast on Melee Kill Support: filler
 Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
 Chain Hook: progression
+Chain Support: useful
 Champion: progression
 Chance to Bleed Support: progression
 Chance to Flee Support: unknown
@@ -71,7 +76,7 @@ Cold Snap: unknown
 Combustion Support: progression
 Conductivity: useful
 Conflagration: useful
-Consecrated Path: unknown
+Consecrated Path: useful
 Contagion: unknown
 Controlled Blaze Support: unknown
 Controlled Destruction Support: progression
@@ -90,12 +95,12 @@ Damage on Full Life Support: unknown
 Dark Pact: unknown
 Dash: progression
 Deadeye: progression
-Deadly Ailments Support: unknown
+Deadly Ailments Support: useful
 Desecrate: useful
 Despair: unknown
 Destructive Link: filler
 Determination: progression
-Detonate Mines: unknown
+Detonate Mines: progression
 Devour Support: unknown
 Devouring Totem: progression
 Discharge: useful
@@ -146,7 +151,7 @@ Flammability: unknown
 Flesh Offering: progression
 Flicker Strike: useful
 Focused Ballista Support: useful
-Focused Channelling Support: unknown
+Focused Channelling Support: useful
 Forbidden Rite: unknown
 Fork Support: useful
 Fortify Support: useful
@@ -190,9 +195,11 @@ Hydrosphere: progression
 Hypothermia Support: unknown
 Ice Bite Support: useful
 Ice Crash: progression
+Ice Nova: useful
 Ice Shot: unknown
 Ice Spear: unknown
 Ice Trap: unknown
+Icicle Mine: useful
 Ignite Proliferation Support: progression
 Immolate Support: unknown
 Immortal Call: progression
@@ -213,11 +220,12 @@ Item Rarity Support: progression
 Juggernaut: unknown
 Kinetic Blast: unknown
 Kinetic Fusillade: useful
+Knockback Support: filler
 Lacerate: progression
 Lancing Steel: progression
 Leap Slam: progression
 Less Duration Support: unknown
-Life Gain on Hit Support: unknown
+Life Gain on Hit Support: useful
 Life Leech Support: useful
 Lifetap Support: useful
 Lightning Arrow: useful
@@ -229,6 +237,7 @@ Lightning Tendrils: unknown
 Lightning Trap: unknown
 Lightning Warp: progression
 Living Lightning Support: useful
+Locus Mine Support: useful
 Maim Support: progression
 Malevolence: progression
 Mana Leech Support: useful
@@ -238,16 +247,18 @@ Mark On Hit Support: unknown
 Meat Shield Support: unknown
 Melee Physical Damage Support: useful
 Melee Splash Support: unknown
+Minefield Support: progression
 Minion Damage Support: unknown
 Minion Life Support: progression
+Minion Speed Support: useful
 Mirage Archer Support: unknown
 Mirror Arrow: progression
-Molten Shell: unknown
+Molten Shell: useful
 Molten Strike: progression
 Momentum Support: useful
 Multiple Totems Support: unknown
 Multiple Traps Support: unknown
-Multistrike Support: unknown
+Multistrike Support: useful
 Necromancer: unknown
 Nightblade Support: unknown
 Normal Dagger: progression
@@ -320,6 +331,7 @@ Reave: useful
 Rejuvenation Totem: useful
 Righteous Fire: useful
 Rolling Magma: progression
+Rupture Support: filler
 Ruthless Support: useful
 Saboteur: unknown
 Sacred Wisps Support: unknown
@@ -346,16 +358,18 @@ Smite: useful
 Smoke Mine: useful
 Sniper's Mark: unknown
 Soul Link: unknown
+Soulrend: progression
 Spark: useful
 Spectral Helix: progression
 Spectral Shield Throw: useful
 Spectral Throw: useful
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
-Spellblade Support: unknown
-Spirit Offering: unknown
+Spellblade Support: useful
+Spirit Offering: progression
+Splitting Steel: progression
 Static Strike: progression
-Steelskin: unknown
+Steelskin: useful
 Storm Brand: unknown
 Storm Burst: unknown
 Storm Call: useful
@@ -371,8 +385,9 @@ Summon Raging Spirit: useful
 Summon Reaper: progression
 Summon Skeletons: unknown
 Summon Skitterbots: progression
+Summon Stone Golem: progression
 Sunder: useful
-Sweep: unknown
+Sweep: useful
 Swift Affliction Support: progression
 Swift Assembly Support: progression
 Swiftbrand Support: unknown
@@ -389,7 +404,7 @@ Trap and Mine Damage Support: unknown
 Trauma Support: progression
 Unbound Ailments Support: progression
 Unearth: progression
-Urgent Orders Support: unknown
+Urgent Orders Support: filler
 Vaal Gems: unknown
 Vampiric Link: unknown
 Vengeful Cry: unknown
@@ -398,6 +413,7 @@ Vigilant Strike: unknown
 Vile Toxins Support: unknown
 Viper Strike: useful
 Vitality: unknown
+Void Manipulation Support: useful
 Void Sphere: useful
 Volatile Dead: progression
 Volatility Support: progression
@@ -417,6 +433,6 @@ Winter Orb: useful
 Wintertide Brand: unknown
 Witch: progression
 Withering Step: unknown
-Withering Touch Support: unknown
+Withering Touch Support: useful
 Wrath: useful
 Zealotry: unknown

@@ -17,6 +17,7 @@ Automap (MAP23): useful
 Automap (MAP24): useful
 Automap (MAP27): useful
 Automap (MAP29): useful
+Automap (MAP30): useful
 Automap (MAP31): useful
 BFG 9000: progression
 Backpack: filler
@@ -51,6 +52,7 @@ Level Access (MAP02): progression
 Level Access (MAP04): progression
 Level Access (MAP05): progression
 Level Access (MAP06): progression
+Level Access (MAP09): progression
 Level Access (MAP10): progression
 Level Access (MAP11): progression
 Level Access (MAP12): progression
@@ -64,19 +66,23 @@ Level Access (MAP21): progression
 Level Access (MAP22): progression
 Level Access (MAP23): progression
 Level Access (MAP25): progression
+Level Access (MAP26): progression
 Level Access (MAP27): progression
 Level Access (MAP28): progression
 Level Access (MAP29): progression
+Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
 Level Clear (MAP04): progression
 Level Clear (MAP05): progression
+Level Clear (MAP09): progression
 Level Clear (MAP10): progression
 Level Clear (MAP12): progression
 Level Clear (MAP15): progression
 Level Clear (MAP21): progression
 Level Clear (MAP22): progression
 Level Clear (MAP25): progression
+Level Clear (MAP30): progression
 Level Clear (MAP31): progression
 Megasphere: filler
 Plasma Rifle: progression

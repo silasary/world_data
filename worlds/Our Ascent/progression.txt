@@ -7,12 +7,15 @@ Accessory - Apolonia Shield Amulet: useful
 Accessory - Apolonia Slim Double Band: useful
 Accessory - Hina Blood Ring: useful
 Accessory - Hina Dagger Amulet: useful
+Accessory - Hina Engraved Ring: useful
 Accessory - Hina Masked Amulet: useful
 Accessory - Hina Studded Band: useful
 Accessory - Hina Tooth Amulet: useful
+Accessory - Hina Twilight Ring: useful
 Accessory - Lan Chipped Earring: useful
 Accessory - Lan Creepy Amulet: useful
 Accessory - Lan Defeated Earring: useful
+Accessory - Lan Enchanted Earring: useful
 Accessory - Lan Fancy Ring: useful
 Accessory - Lan Slim Band: useful
 Accessory - Lan Slim Double Band: useful
@@ -23,10 +26,13 @@ Accessory - Sibyl Masked Amulet: useful
 Accessory - Sibyl Power Ring: useful
 Accessory - Sibyl Slim Double Band: useful
 Accessory - Sibyl Twilight Amulet: useful
+Accessory - Stan Crown Ring: useful
 Accessory - Stan Empty Ring: useful
 Accessory - Stan Engraved Ring: useful
+Accessory - Stan Power Ring: useful
 Accessory - Stan Slim Band: useful
 Accessory - Stan Studded Band: useful
+Accessory - Stan Tooth Amulet: useful
 Augment - Apolonia Holy Power: progression
 Augment - Apolonia Magical Imbuement: progression
 Augment - Apolonia Mobility: progression
@@ -94,6 +100,7 @@ Stat Base - Apolonia Encounter Points: useful
 Stat Base - Apolonia Temp AGI Multi Per Turn: useful
 Stat Base - Apolonia Temp ATK Multi Per Turn: useful
 Stat Base - Apolonia Temp DEF Multi Per Turn: useful
+Stat Base - Hina Bleed Damage: useful
 Stat Base - Hina Current HP Heal Per Turn: useful
 Stat Base - Hina Encounter Points: useful
 Stat Base - Hina Extra EP Per Boss: useful
@@ -102,13 +109,21 @@ Stat Base - Lan Current HP Heal Per Attack: useful
 Stat Base - Lan Encounter Points: useful
 Stat Base - Lan Gold Gain: useful
 Stat Base - Lan Missing HP Heal Per Attack: useful
+Stat Base - Lan Stat Point Per Level: useful
+Stat Base - Sibyl Agility Per Stat Point: useful
 Stat Base - Sibyl Attack Per Stat Point: useful
 Stat Base - Sibyl Defense Per Stat Point: useful
+Stat Base - Sibyl Encounter Points: useful
+Stat Base - Sibyl Health Per Stat Point: useful
+Stat Base - Sibyl Min Distance Per Encounter: useful
+Stat Base - Sibyl Move Speed: useful
 Stat Base - Stan AGI Under 50%: useful
 Stat Base - Stan ATK Under 50%: useful
+Stat Base - Stan Encounter Points: useful
 Stat Base - Stan HP Under 50%: useful
 Stat Base - Stan Initial Combo: useful
 Stat Base - Stan LUC Under 50%: useful
 Stat Base - Stan Minimum Combo: useful
+Stat Mult - Apolonia Defense: useful
 Stat Mult - Apolonia Health: useful
 Stat Mult - Lan Stat Point Per Level: useful

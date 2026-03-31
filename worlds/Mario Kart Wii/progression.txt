@@ -3,6 +3,7 @@ Bike: Torpedo: useful
 Bike: Twinkle Star: useful
 Character: Baby Daisy: useful
 Character: Birdo: useful
+Character: Dry Bowser: useful
 Character: Funky Kong: useful
 Character: Mii Outfit B: useful
 Character: Rosalina: useful
@@ -22,9 +23,11 @@ Filler: Triple Red Shell: filler
 Kart: B. Dasher Mk 2: useful
 Kart: Blue Falcon: useful
 Kart: Piranha Prowler: useful
+Kart: Royal Racer: useful
 Leaf Cup 100cc: progression
 Leaf Cup 150cc: progression
 Leaf Cup 50cc: progression
+Lightning Cup 100cc: progression
 Lightning Cup 150cc: progression
 Lightning Cup 50cc: progression
 Powerup: Bob-omb: useful
@@ -36,6 +39,7 @@ Powerup: POW Block: useful
 Powerup: Red Shell: useful
 Powerup: Star: useful
 Powerup: Triple Bananas: useful
+Powerup: Triple Mushrooms: useful
 Powerup: Triple Red Shells: useful
 Special Cup 50cc: progression
 Star Cup 150cc: progression

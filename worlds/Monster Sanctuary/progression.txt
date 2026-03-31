@@ -11,7 +11,7 @@
 2500 G: filler
 2x Almond: filler
 2x Antidote: filler
-2x Apple: unknown
+2x Apple: filler
 2x Azure Gem: unknown
 2x Banana: filler
 2x Berry: filler
@@ -19,7 +19,7 @@
 2x Blue Gem: filler
 2x Bronze: filler
 2x Carrot: filler
-2x Clear Stone: unknown
+2x Clear Stone: filler
 2x Combo Potion: filler
 2x Cookie Mushroom: filler
 2x Copper: filler
@@ -36,7 +36,7 @@
 2x Iron: filler
 2x Leather: filler
 2x Level Badge: filler
-2x Linen: unknown
+2x Linen: filler
 2x Mango: filler
 2x Mass Antidote: filler
 2x Mass Potion: filler
@@ -56,7 +56,7 @@
 2x Reward Box Lvl 3: filler
 2x Reward Box Lvl 4: useful
 2x Reward Box X: unknown
-2x Ruby: unknown
+2x Ruby: filler
 2x Sapphire: filler
 2x Shift Stone: filler
 2x Silk: unknown
@@ -77,7 +77,7 @@
 3000 G: filler
 350 G: filler
 3500 G: filler
-3x Antidote: unknown
+3x Antidote: filler
 3x Apple: filler
 3x Azure Gem: filler
 3x Berry: filler
@@ -87,7 +87,7 @@
 3x Combo Potion: unknown
 3x Cookie Mushroom: filler
 3x Copper: unknown
-3x Corn: unknown
+3x Corn: filler
 3x Cotton: unknown
 3x Craft Box: unknown
 3x Crimson Gem: unknown
@@ -114,13 +114,13 @@
 3x Reward Box X: filler
 3x Silk: unknown
 3x Silver: filler
-3x Skill Resetter: unknown
+3x Skill Resetter: filler
 3x Small Antidote: filler
 3x Small Potion: unknown
 3x Smoke Bomb: filler
 3x Smoke bomb: filler
 3x Steel: filler
-3x Verdant Gem: unknown
+3x Verdant Gem: filler
 3x Walnut: filler
 3x Wool: unknown
 400 G: filler
@@ -130,7 +130,7 @@
 4x Copper: unknown
 4x Cotton: unknown
 4x Iron: unknown
-4x Leather: unknown
+4x Leather: filler
 4x Level Badge: filler
 4x Wool: unknown
 500 G: filler
@@ -209,7 +209,7 @@ Ancient Clock+2: unknown
 Ancient Clock+3: unknown
 Ancient Clock+4: unknown
 Ancient Clock+5: unknown
-Ancient Clock: unknown
+Ancient Clock: filler
 Ancient Encyclopedia: unknown
 Ancient Woods key: progression
 Antidote: filler
@@ -343,7 +343,7 @@ Charging Sphere+2: unknown
 Charging Sphere+3: unknown
 Charging Sphere+4: unknown
 Charging Sphere+5: unknown
-Charging Sphere: unknown
+Charging Sphere: filler
 Claws+1: unknown
 Claws+2: filler
 Claws+3: filler
@@ -422,7 +422,7 @@ Draconov Harness: progression
 Dracozul Egg: unknown
 Dracozul Harness: unknown
 Dragon Lord (alt): useful
-Dragon Lord: unknown
+Dragon Lord: filler
 Dragon Orb: unknown
 Dragon Saddle+1: unknown
 Dragon Saddle+2: unknown
@@ -462,13 +462,13 @@ Earth Symbol+2: unknown
 Earth Symbol+3: unknown
 Earth Symbol+4: unknown
 Earth Symbol+5: unknown
-Earth Symbol: unknown
+Earth Symbol: filler
 Eclipse Sword+1: filler
 Eclipse Sword+2: unknown
 Eclipse Sword+3: unknown
 Eclipse Sword+4: unknown
 Eclipse Sword+5: unknown
-Eclipse Sword: unknown
+Eclipse Sword: filler
 Elderjel Egg: unknown
 Elderjel Lure: unknown
 Emerald: unknown
@@ -490,7 +490,7 @@ Feather+2: unknown
 Feather+3: unknown
 Feather+4: unknown
 Feather+5: unknown
-Feather: unknown
+Feather: filler
 Fin+1: unknown
 Fin+2: unknown
 Fin+3: unknown
@@ -611,11 +611,11 @@ Heavy Greaves+4: unknown
 Heavy Greaves+5: unknown
 Heavy Greaves: filler
 Heavy Mace+1: unknown
-Heavy Mace+2: unknown
+Heavy Mace+2: filler
 Heavy Mace+3: useful
 Heavy Mace+4: unknown
 Heavy Mace+5: unknown
-Heavy Mace: unknown
+Heavy Mace: filler
 Helmet+1: unknown
 Helmet+2: unknown
 Helmet+3: unknown
@@ -672,7 +672,7 @@ Infinity Flame+2: unknown
 Infinity Flame+3: unknown
 Infinity Flame+4: unknown
 Infinity Flame+5: unknown
-Infinity Flame: unknown
+Infinity Flame: filler
 Insect Pheromones: unknown
 Insulated Gloves: progression
 Iron: filler
@@ -749,7 +749,7 @@ Mage Flask+2: unknown
 Mage Flask+3: unknown
 Mage Flask+4: unknown
 Mage Flask+5: unknown
-Mage Flask: unknown
+Mage Flask: filler
 Magic Bell: progression
 Magical Clay: useful
 Magma Chamber key: progression
@@ -859,7 +859,7 @@ Omni Sword+2: unknown
 Omni Sword+3: unknown
 Omni Sword+4: unknown
 Omni Sword+5: unknown
-Omni Sword: unknown
+Omni Sword: filler
 One Punch Fist+1: unknown
 One Punch Fist+2: unknown
 One Punch Fist+3: useful
@@ -957,7 +957,7 @@ Purifying Mace+2: unknown
 Purifying Mace+3: unknown
 Purifying Mace+4: unknown
 Purifying Mace+5: unknown
-Purifying Mace: unknown
+Purifying Mace: filler
 Qilin Egg: unknown
 Qilin Saddle: progression
 Quick Wits: unknown
@@ -974,7 +974,7 @@ Raw Hide: progression
 Red Gem: filler
 Repair Kit: unknown
 Reptilian Idol+1: unknown
-Reptilian Idol+2: unknown
+Reptilian Idol+2: filler
 Reptilian Idol+3: unknown
 Reptilian Idol+4: unknown
 Reptilian Idol+5: unknown
@@ -1059,7 +1059,7 @@ Silver Feather: progression
 Silver: filler
 Sizzle Knight Egg: unknown
 Skill Potion: filler
-Skill Resetter: unknown
+Skill Resetter: filler
 Skorch Egg: unknown
 Sledgehammer: progression
 Slime Skin+1: unknown
@@ -1075,7 +1075,7 @@ Slimy Ball+3: unknown
 Slimy Ball+4: unknown
 Slimy Ball+5: filler
 Slimy Ball: useful
-Small Antidote: unknown
+Small Antidote: filler
 Small Potion: unknown
 Small Reliquary: unknown
 Smoke Bomb: unknown
@@ -1218,7 +1218,7 @@ Tome+2: filler
 Tome+3: unknown
 Tome+4: unknown
 Tome+5: unknown
-Tome: unknown
+Tome: filler
 Torch+1: unknown
 Torch+2: unknown
 Torch+3: unknown
@@ -1271,7 +1271,7 @@ Wand+2: unknown
 Wand+3: unknown
 Wand+4: unknown
 Wand+5: unknown
-Wand: unknown
+Wand: filler
 Warhorn+1: unknown
 Warhorn+2: unknown
 Warhorn+3: unknown
@@ -1310,7 +1310,7 @@ Wizard Hat+3: unknown
 Wizard Hat+4: unknown
 Wizard Hat+5: unknown
 Wizard Hat: useful
-Wool: unknown
+Wool: filler
 Worm Egg: progression
 Yowie Egg: unknown
 Yowie Treat: unknown

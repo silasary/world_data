@@ -7,6 +7,7 @@ Area Unlock - Dark World North: progression
 Area Unlock - Dark World Southeast: progression
 Area Unlock - Dark World Southwest: progression
 Area Unlock - Floating Isles: progression
+Area Unlock - Foggy Forest: progression
 Area Unlock - Heart Lake: progression
 Area Unlock - Icicle Mountain: progression
 Area Unlock - Mountain Climb: progression
@@ -42,14 +43,18 @@ Corrin: useful
 Daisy: useful
 Dark Pit: useful
 Dark Samus: useful
+Dharkon Defeated: progression
 Diddy Kong: useful
 Donkey Kong: useful
 Dr. Mario: useful
+Dracula's Castle Completed: progression
 Dragon Quest Spirit Board Key: progression
 Duck Hunt: useful
 Falco: useful
 Final Fantasy Spirit Board Key: progression
+Forest Hill Completed: progression
 Fox: useful
+Galeem Defeated: progression
 Ganondorf: useful
 Green Switch: progression
 Greninja: useful
@@ -85,6 +90,7 @@ Min Min: useful
 Minecraft Spirit Board Key: progression
 Molten Fortress Completed: progression
 Mr. Game & Watch: useful
+Mysterious Dimension Completed: progression
 Ness: useful
 Olimar: useful
 Pac-Man: useful
@@ -96,6 +102,7 @@ Pikachu: useful
 Piranha Plant: useful
 Pit: useful
 Pokemon Trainer: useful
+Power Plant Completed: progression
 Pyra/Mythra: useful
 R.O.B.: useful
 Red Switch: progression
@@ -106,6 +113,7 @@ Rosalina & Luma: useful
 Roy: useful
 Ryu: useful
 SNK Spirit Board Key: progression
+Sacred Realm Completed: progression
 Samus: useful
 Secret Base Completed: progression
 Sephiroth: useful

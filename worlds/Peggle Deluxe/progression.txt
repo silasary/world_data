@@ -108,6 +108,7 @@ Level Unlock: 11-5 Beyond Reason: progression
 Level Unlock: 2-1 Birdy's Crib: progression
 Level Unlock: 2-2 Buffalo Wings: progression
 Level Unlock: 2-3 Skate Park: progression
+Level Unlock: 2-4 Spiral of Doom: progression
 Level Unlock: 2-5 Mr. Peepers: progression
 Level Unlock: 3-1 Scarab Crunch: progression
 Level Unlock: 3-2 Infinite Cheese: progression
@@ -120,6 +121,7 @@ Level Unlock: 4-4 Maid in Space: progression
 Level Unlock: 5-1 Pearl Clam: progression
 Level Unlock: 5-3 Tasty Waves: progression
 Level Unlock: 5-5 Love Story: progression
+Level Unlock: 6-1 Waves: progression
 Level Unlock: 6-4 Baseball: progression
 Level Unlock: 6-5 Vermin: progression
 Level Unlock: 7-3 Workin from Home: progression
@@ -152,6 +154,7 @@ Level Unlock: [2-1] Birdy's Crib: progression
 Level Unlock: [2-2] Buffalo Wings: progression
 Level Unlock: [2-3] Skate Park: progression
 Level Unlock: [2-4] Spiral of Doom: progression
+Level Unlock: [2-5] Mr. Peepers: progression
 Level Unlock: [3-1] Scarab Crunch: progression
 Level Unlock: [3-2] Infinite Cheese: progression
 Level Unlock: [3-3] Ra Deal: progression
@@ -242,6 +245,7 @@ Score Multiplier: 9-3 Rhombi: useful
 Score Multiplier: 9-4 9 Luft Balloons: useful
 Score Multiplier: 9-5 Twisted Sisters: useful
 Score Multiplier: [1-1] Peggleland: useful
+Score Multiplier: [1-2] Slip and Slide: useful
 Score Multiplier: [1-3] Bjorn's Gazebo: useful
 Score Multiplier: [1-4] Das Bucket: useful
 Score Multiplier: [1-5] Snow Day: useful
@@ -313,6 +317,7 @@ Target Score Discount: 4-2 The Last Flower: useful
 Target Score Discount: 4-3 We Come in Peace: useful
 Target Score Discount: 4-4 Maid in Space: useful
 Target Score Discount: 5-1 Pearl Clam: useful
+Target Score Discount: 5-2 Insane Aquarium: useful
 Target Score Discount: 5-3 Tasty Waves: useful
 Target Score Discount: 5-4 Our Favorite Eel: useful
 Target Score Discount: 5-5 Love Story: useful
@@ -330,6 +335,7 @@ Target Score Discount: 9-2 Doom with a View: useful
 Target Score Discount: 9-4 9 Luft Balloons: useful
 Target Score Discount: 9-5 Twisted Sisters: useful
 Target Score Discount: [1-1] Peggleland: useful
+Target Score Discount: [1-2] Slip and Slide: useful
 Target Score Discount: [1-3] Bjorn's Gazebo: useful
 Target Score Discount: [1-4] Das Bucket: useful
 Target Score Discount: [1-5] Snow Day: useful
@@ -341,6 +347,7 @@ Target Score Discount: [10-5] Zen Frog: useful
 Target Score Discount: [11-1] Paw Reader: useful
 Target Score Discount: [11-2] End of Time: useful
 Target Score Discount: [11-3] Billions & Billions: useful
+Target Score Discount: [11-4] Don't Panic: useful
 Target Score Discount: [11-5] Beyond Reason: useful
 Target Score Discount: [2-1] Birdy's Crib: useful
 Target Score Discount: [2-2] Buffalo Wings: useful
@@ -372,6 +379,7 @@ Target Score Discount: [7-2] I Heart Flowers: useful
 Target Score Discount: [7-3] Workin from Home: useful
 Target Score Discount: [7-4] Tula's Ride: useful
 Target Score Discount: [7-5] 70 and Sunny: useful
+Target Score Discount: [8-1] Win a Monkey: useful
 Target Score Discount: [8-2] Dog Pinball: useful
 Target Score Discount: [8-3] Spin Again: useful
 Target Score Discount: [8-4] Roll 'Em: useful

@@ -39,6 +39,7 @@ Cold Resistant Metal Armor Schematic 1: filler
 Common Egg Voucher: progression
 Crossbow Schematic 2: filler
 Dark Orb: progression
+Defense Pendant: filler
 Dessicated Pass: progression
 Dragon Orb: progression
 Dumud Chowder Recipe: progression
@@ -65,6 +66,7 @@ Glacial Pass: progression
 Grass Orb: progression
 Gratin Recipe: progression
 Gratin: filler
+Grilled Kelpsea Recipe: progression
 Grilled Lamball Recipe: progression
 Grinning Tocotoco Schematic 1: filler
 Ground Orb: progression
@@ -102,6 +104,7 @@ Marsh Spawn: progression
 Membership Card: progression
 Metal Helm Schematic 1: filler
 Mozzarina Hamburger: filler
+Multi Guided Missile Launcher Schematic 1: filler
 Mushroom Quiche Recipe: progression
 Neutral Orb: progression
 Obsidian Pass: progression
@@ -117,6 +120,7 @@ Reindrix Stew Recipe: progression
 Ring of Grass Resistance +2: progression
 Ring of Ice Resistance: filler
 Roast Eikthyrdeer Recipe: progression
+Roast Reindrix Recipe: progression
 Rocket Launcher Schematic 2: filler
 Rushoar Bacon 'n' Eggs Recipe: progression
 Rushoar Gyoza Recipe: progression
@@ -128,6 +132,7 @@ Seal of the Esoteric: progression
 Seal of the Frozen Wings: progression
 Seal of the Sorcerer: progression
 Seal of the Swift: progression
+Seal of the Swordmaster: progression
 Seal of the Winged Tyrant: progression
 Secret Membership Card: progression
 Silk Hat Schematic 1: filler
@@ -178,6 +183,7 @@ Tech - Circuit Board: progression
 Tech - Cloth Outfit: useful
 Tech - Cloth: progression
 Tech - Cold Food Box: progression
+Tech - Cold Resistant Metal Armor: progression
 Tech - Cold Resistant Pal Metal Armor: useful
 Tech - Cooking Pot: progression
 Tech - Crude Oil Extractor: progression
@@ -227,6 +233,7 @@ Tech - Glass Structure Set: progression
 Tech - Global Palbox: filler
 Tech - Ground Grenade: useful
 Tech - Handgun Ammo: useful
+Tech - Handgun: useful
 Tech - Hanging Trap: useful
 Tech - Hangyu Cryst's Gloves: progression
 Tech - Heat Resistant Hexolite Armor: useful
@@ -240,6 +247,7 @@ Tech - Hexolite: useful
 Tech - High Quality Hot Spring: progression
 Tech - Hot Spring: progression
 Tech - Houseplant Set: filler
+Tech - Ice Grenade: useful
 Tech - Ice Mine: useful
 Tech - Incendiary Grenade: useful
 Tech - Intermediate Fishing Rod: progression
@@ -353,6 +361,7 @@ Tech - Sign: filler
 Tech - Silvegis Saddle: progression
 Tech - Smokie's Harness: useful
 Tech - Sniper Module II: useful
+Tech - Snowman: progression
 Tech - Sphere Assembly Line: progression
 Tech - Starryon Saddle: progression
 Tech - Statue of Power: progression
@@ -375,11 +384,13 @@ Tech - Tombstone: filler
 Tech - Traffic Control Set: filler
 Tech - Training Dummy: filler
 Tech - Tropical Outfit: useful
+Tech - Tundra Outfit: progression
 Tech - Vanwyrm Cryst Saddle: progression
 Tech - Vanwyrm Saddle: progression
 Tech - Viewing Cage: filler
 Tech - Wall-Mounted Houseplant Set: filler
 Tech - Wall-Mounted Sign: filler
+Tech - Water Fountain: progression
 Tech - Weapon Assembly Line II: progression
 Tech - Weapon Assembly Line: progression
 Tech - Wheat Plantation: progression

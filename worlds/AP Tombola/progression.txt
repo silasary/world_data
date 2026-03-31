@@ -4,9 +4,11 @@
 12 - Soldier: progression
 13 - Saint Anthony: progression
 15 - Boy: progression
+16 - Luck: progression
 17 - Misfortune: progression
 18 - Blood: progression
 2 - Daughter: progression
+20 - Party: progression
 21 - Naked Woman: progression
 24 - Guards: progression
 25 - Christmas: progression
@@ -14,6 +16,7 @@
 27 - Chamber Pot: progression
 28 - Boobs: progression
 29 - Father of the Children: progression
+3 - Cat: progression
 30 - Lieutenant's Cannonballs: progression
 31 - Landlord: progression
 32 - Anguilla anguilla: progression
@@ -34,6 +37,7 @@
 50 - Bread: progression
 51 - Garden: progression
 52 - Mother: progression
+56 - Plummeting: progression
 57 - Hunchback: progression
 58 - Package: progression
 59 - Body Hair: progression
@@ -43,6 +47,7 @@
 66 - Two Maidens: progression
 68 - Soup: progression
 7 - Jar: progression
+70 - Palace: progression
 71 - Very Very Bad Person: progression
 72 - Stupor: progression
 78 - Pretty Woman: progression
@@ -54,4 +59,5 @@
 89 - Old Woman: progression
 90 - Fear: progression
 Card 1 Unlock: progression
+Card 3 Unlock: progression
 Card 4 Unlock: progression

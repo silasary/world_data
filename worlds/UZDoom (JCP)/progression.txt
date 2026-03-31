@@ -1,9 +1,21 @@
 ArmorBonus: filler
+Automap (MAP06): useful
 Automap (MAP09): useful
+Automap (MAP13): useful
 Automap (MAP32): useful
+BFG 9000: progression
 Backpack: filler
 Berserk: filler
+Blue Keycard (MAP10): progression
 Blue Keycard (MAP12): progression
+Blue Keycard (MAP14): progression
+Blue Keycard (MAP16): progression
+Blue Keycard (MAP17): progression
+Blue Keycard (MAP18): progression
+Blue Keycard (MAP19): progression
+Blue Keycard (MAP31): progression
+Blue Skull (MAP03): progression
+Blue Skull (MAP31): progression
 BlueArmor: filler
 BlurSphere: filler
 Bullets [ClipBox]: filler
@@ -15,20 +27,43 @@ Energy Cells [Cell]: filler
 GreenArmor: filler
 HealthBonus: filler
 Level Clear (MAP01): progression
+Level Clear (MAP07): progression
+Level Clear (MAP11): progression
+Level Clear (MAP31): progression
+MAP04: Thaumasia: progression
 MAP05: Woodexial: progression
 MAP06: Riminshi Valley: progression
 MAP07: Confused Arena: progression
+MAP10: The Odd Encampment: progression
 MAP11: My fav: progression
+MAP13: Bad Morning: progression
 MAP14: G_T_Factory: progression
+MAP19: Remind: progression
+MAP20: Escape from UAC space base: progression
 MAP31: Manufacturing Plant: progression
 Medikit: filler
 Megasphere: filler
+RadSuit: filler
+Red Keycard (MAP01): progression
+Red Keycard (MAP08): progression
+Red Keycard (MAP15): progression
+Red Keycard (MAP17): progression
 Red Skull (MAP03): progression
+Red Skull (MAP19): progression
+Red Skull (MAP31): progression
+Rocket Launcher: progression
 Rockets [RocketAmmo]: filler
 Rockets [RocketBox]: filler
 Shotgun Shells [ShellBox]: filler
 Shotgun Shells [Shell]: filler
+Shotgun: progression
 Soulsphere: filler
 Stimpack: filler
+Super Shotgun: progression
 Yellow Keycard (MAP01): progression
+Yellow Keycard (MAP08): progression
 Yellow Keycard (MAP10): progression
+Yellow Keycard (MAP12): progression
+Yellow Keycard (MAP20): progression
+Yellow Skull (MAP19): progression
+Yellow Skull (MAP31): progression

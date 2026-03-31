@@ -43,6 +43,7 @@ Key_Level_5-2: progression
 Key_Level_5-3: progression
 Key_Level_5-4: progression
 Key_Level_5-X: progression
+Key_Level_6-1: progression
 Key_Level_6-2: progression
 Key_Level_6-3: progression
 Key_Level_6-4: progression
@@ -136,6 +137,7 @@ Key_Level_T4-6: progression
 Key_Level_T4-7: progression
 Key_Level_T4-8: progression
 Key_Level_T4-9: progression
+Key_Level_T4-X: progression
 Key_Level_T4EX-1: progression
 Key_Level_T4EX-2: progression
 Key_Level_T4EX-3: progression
@@ -163,6 +165,7 @@ Key_Level_XH-3: progression
 Key_Level_XH-X: progression
 Key_Level_XI-1: progression
 Key_Level_XI-2: progression
+Key_Level_XI-3: progression
 Key_Level_XI-4: progression
 Key_Level_XI-5: progression
 Key_Level_XI-6: progression

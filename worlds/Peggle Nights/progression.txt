@@ -2,8 +2,10 @@ Brittle Peg: filler
 Chipped Peg: filler
 Dented Peg: filler
 Fever Meter Permanent Bonus: 1-3 Horsepower: useful
+Fever Meter Permanent Bonus: 1-4 Just Desserts: useful
 Fever Meter Permanent Bonus: 10-1 Pick One: useful
 Fever Meter Permanent Bonus: 10-3 Wild Thing: useful
+Fever Meter Permanent Bonus: 10-4 We Will Rock You: useful
 Fever Meter Permanent Bonus: 10-5 Feel The Noize: useful
 Fever Meter Permanent Bonus: 11-2 Ouroboros: useful
 Fever Meter Permanent Bonus: 12-1 Psyclone: useful
@@ -13,35 +15,46 @@ Fever Meter Permanent Bonus: 12-4 The Rising: useful
 Fever Meter Permanent Bonus: 12-5 Shadowshine: useful
 Fever Meter Permanent Bonus: 13-1 Plants v. Zombies: useful
 Fever Meter Permanent Bonus: 13-2 The Guardians: useful
+Fever Meter Permanent Bonus: 13-3 Spaint!: useful
 Fever Meter Permanent Bonus: 13-5 Blue Slough: useful
 Fever Meter Permanent Bonus: 14-2 Bloomin': useful
+Fever Meter Permanent Bonus: 2-1 Experiment X: useful
 Fever Meter Permanent Bonus: 2-2 Brrrzap!: useful
 Fever Meter Permanent Bonus: 2-3 Antitoxic: useful
 Fever Meter Permanent Bonus: 3-1 Scary Night: useful
 Fever Meter Permanent Bonus: 3-4 Twitching Hour: useful
 Fever Meter Permanent Bonus: 4-1 Step Right Up: useful
 Fever Meter Permanent Bonus: 4-2 Parade!: useful
+Fever Meter Permanent Bonus: 4-3 Me-Yowwww!: useful
+Fever Meter Permanent Bonus: 4-4 Jump The Squid: useful
 Fever Meter Permanent Bonus: 4-5 Death Defying: useful
 Fever Meter Permanent Bonus: 5-1 Bowl Of Drome: useful
 Fever Meter Permanent Bonus: 5-2 Arrivance: useful
 Fever Meter Permanent Bonus: 5-3 Last Ball: useful
 Fever Meter Permanent Bonus: 5-4 Explodious: useful
 Fever Meter Permanent Bonus: 6-2 Vast Visitor: useful
+Fever Meter Permanent Bonus: 6-4 Old Friends: useful
 Fever Meter Permanent Bonus: 7-3 Many Minarets: useful
+Fever Meter Permanent Bonus: 7-5 Wall Flower: useful
 Fever Meter Permanent Bonus: 8-1 Inferno: useful
 Fever Meter Permanent Bonus: 8-2 Water Wings: useful
 Fever Meter Permanent Bonus: 8-3 Steppin' Out: useful
 Fever Meter Permanent Bonus: 8-4 Fire Eater: useful
 Fever Meter Permanent Bonus: 8-5 Letting Off Steam: useful
 Fever Meter Permanent Bonus: 9-5 Great Ball of Ire: useful
+Fever Meter Permanent Bonus: [10-2] Turn It To Zen: useful
 Fever Meter Permanent Bonus: [11-1] Jelly Jeopardy: useful
 Fever Meter Permanent Bonus: [12-2] Why You Buggin'?: useful
 Fever Meter Permanent Bonus: [3-2] Seasick: useful
 Fever Meter Permanent Bonus: [6-2] Vast Visitor: useful
+Fever Meter Permanent Bonus: [9-5] Great Ball of Ire: useful
+Full Clear Discount: 1-1 Crimewave: useful
 Full Clear Discount: 1-3 Horsepower: useful
 Full Clear Discount: 1-5 Bjorn Identity: useful
+Full Clear Discount: 10-2 Turn It To Zen: useful
 Full Clear Discount: 10-3 Wild Thing: useful
 Full Clear Discount: 10-5 Feel The Noize: useful
+Full Clear Discount: 11-4 Water Whirled: useful
 Full Clear Discount: 11-5 Diploma, See?: useful
 Full Clear Discount: 12-1 Psyclone: useful
 Full Clear Discount: 12-3 Wyrm Sign: useful
@@ -50,17 +63,22 @@ Full Clear Discount: 12-5 Shadowshine: useful
 Full Clear Discount: 13-1 Plants v. Zombies: useful
 Full Clear Discount: 13-2 The Guardians: useful
 Full Clear Discount: 13-4 To The Limit: useful
+Full Clear Discount: 14-1 Lolly Drop: useful
 Full Clear Discount: 14-3 Magic Hour: useful
 Full Clear Discount: 14-4 Tulip Leaves: useful
+Full Clear Discount: 2-1 Experiment X: useful
 Full Clear Discount: 2-2 Brrrzap!: useful
 Full Clear Discount: 2-3 Antitoxic: useful
 Full Clear Discount: 2-4 Breakthrough: useful
 Full Clear Discount: 2-5 Smartiness: useful
+Full Clear Discount: 3-1 Scary Night: useful
 Full Clear Discount: 3-2 Seasick: useful
 Full Clear Discount: 3-3 Nooooo!!!: useful
+Full Clear Discount: 3-4 Twitching Hour: useful
 Full Clear Discount: 3-5 Nowhere Stairs: useful
 Full Clear Discount: 4-1 Step Right Up: useful
 Full Clear Discount: 4-4 Jump The Squid: useful
+Full Clear Discount: 5-1 Bowl Of Drome: useful
 Full Clear Discount: 5-4 Explodious: useful
 Full Clear Discount: 5-5 Perfectified: useful
 Full Clear Discount: 6-1 Pollution Picnic: useful
@@ -70,6 +88,7 @@ Full Clear Discount: 7-2 The Henge: useful
 Full Clear Discount: 7-3 Many Minarets: useful
 Full Clear Discount: 7-4 It's A Dry Heat: useful
 Full Clear Discount: 7-5 Wall Flower: useful
+Full Clear Discount: 8-1 Inferno: useful
 Full Clear Discount: 8-2 Water Wings: useful
 Full Clear Discount: 8-3 Steppin' Out: useful
 Full Clear Discount: 8-5 Letting Off Steam: useful
@@ -77,6 +96,7 @@ Full Clear Discount: 9-2 Beats Driving: useful
 Full Clear Discount: 9-4 I Love Carats: useful
 Hollow Peg: filler
 Level Unlock: 1-1 Crimewave: progression
+Level Unlock: 1-2 Call For Help: progression
 Level Unlock: 1-4 Just Desserts: progression
 Level Unlock: 10-1 Pick One: progression
 Level Unlock: 10-2 Turn It To Zen: progression
@@ -103,6 +123,7 @@ Level Unlock: 3-5 Nowhere Stairs: progression
 Level Unlock: 4-1 Step Right Up: progression
 Level Unlock: 4-5 Death Defying: progression
 Level Unlock: 5-1 Bowl Of Drome: progression
+Level Unlock: 5-3 Last Ball: progression
 Level Unlock: 5-4 Explodious: progression
 Level Unlock: 6-3 Eiffel Power: progression
 Level Unlock: 6-4 Old Friends: progression
@@ -131,6 +152,7 @@ Level Unlock: [6-2] Vast Visitor: progression
 Level Unlock: [7-1] Founding Fathers: progression
 Level Unlock: [9-5] Great Ball of Ire: progression
 Master Unlock: Bjorn: useful
+Master Unlock: Lord Cinderbottom: useful
 Master Unlock: Master Hu: useful
 Master Unlock: Renfield: useful
 Master Unlock: Splork: useful
@@ -146,6 +168,7 @@ Score Multiplier: 11-3 The Deep: useful
 Score Multiplier: 11-4 Water Whirled: useful
 Score Multiplier: 11-5 Diploma, See?: useful
 Score Multiplier: 12-1 Psyclone: useful
+Score Multiplier: 12-2 Why You Buggin'?: useful
 Score Multiplier: 12-3 Wyrm Sign: useful
 Score Multiplier: 12-4 The Rising: useful
 Score Multiplier: 13-4 To The Limit: useful
@@ -159,6 +182,7 @@ Score Multiplier: 2-4 Breakthrough: useful
 Score Multiplier: 3-1 Scary Night: useful
 Score Multiplier: 3-3 Nooooo!!!: useful
 Score Multiplier: 3-4 Twitching Hour: useful
+Score Multiplier: 3-5 Nowhere Stairs: useful
 Score Multiplier: 4-1 Step Right Up: useful
 Score Multiplier: 4-2 Parade!: useful
 Score Multiplier: 4-4 Jump The Squid: useful
@@ -170,6 +194,7 @@ Score Multiplier: 5-5 Perfectified: useful
 Score Multiplier: 6-1 Pollution Picnic: useful
 Score Multiplier: 6-2 Vast Visitor: useful
 Score Multiplier: 6-4 Old Friends: useful
+Score Multiplier: 6-5 Au Revoir: useful
 Score Multiplier: 7-1 Founding Fathers: useful
 Score Multiplier: 7-2 The Henge: useful
 Score Multiplier: 7-4 It's A Dry Heat: useful
@@ -179,6 +204,9 @@ Score Multiplier: 8-2 Water Wings: useful
 Score Multiplier: 8-3 Steppin' Out: useful
 Score Multiplier: 9-2 Beats Driving: useful
 Score Multiplier: 9-3 Tomb Of Doom: useful
+Score Multiplier: 9-4 I Love Carats: useful
+Score Multiplier: [10-2] Turn It To Zen: useful
+Score Multiplier: [10-4] We Will Rock You: useful
 Score Multiplier: [11-1] Jelly Jeopardy: useful
 Score Multiplier: [11-3] The Deep: useful
 Score Multiplier: [12-2] Why You Buggin'?: useful
@@ -192,6 +220,7 @@ Shadow Peg: progression
 Target Score Discount: 1-1 Crimewave: useful
 Target Score Discount: 1-3 Horsepower: useful
 Target Score Discount: 1-4 Just Desserts: useful
+Target Score Discount: 1-5 Bjorn Identity: useful
 Target Score Discount: 10-1 Pick One: useful
 Target Score Discount: 10-2 Turn It To Zen: useful
 Target Score Discount: 10-3 Wild Thing: useful
@@ -208,6 +237,7 @@ Target Score Discount: 13-4 To The Limit: useful
 Target Score Discount: 14-4 Tulip Leaves: useful
 Target Score Discount: 2-1 Experiment X: useful
 Target Score Discount: 2-2 Brrrzap!: useful
+Target Score Discount: 2-3 Antitoxic: useful
 Target Score Discount: 2-5 Smartiness: useful
 Target Score Discount: 3-1 Scary Night: useful
 Target Score Discount: 3-3 Nooooo!!!: useful
@@ -231,8 +261,10 @@ Target Score Discount: 9-1 X Marks The Loot: useful
 Target Score Discount: 9-2 Beats Driving: useful
 Target Score Discount: 9-5 Great Ball of Ire: useful
 Target Score Discount: [11-1] Jelly Jeopardy: useful
+Target Score Discount: [12-2] Why You Buggin'?: useful
 Target Score Discount: [2-4] Breakthrough: useful
 Target Score Discount: [3-2] Seasick: useful
 Target Score Discount: [4-3] Me-Yowwww!: useful
+Target Score Discount: [4-5] Death Defying: useful
 Target Score Discount: [6-3] Eiffel Power: useful
 Target Score Discount: [7-2] The Henge: useful

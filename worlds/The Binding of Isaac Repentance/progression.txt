@@ -124,6 +124,7 @@ Bucket Of Lard: unknown
 Buddy In A Box: unknown
 Bum Friend: unknown
 Bumbo: unknown
+Burning Basement Unlock: progression
 Bursting Sack: unknown
 Butt Bombs: unknown
 Butter Bean: unknown
@@ -139,6 +140,8 @@ Capricorn: unknown
 Car Battery: unknown
 Card Reading: unknown
 Cat O Nine Tails: unknown
+Catacombs Unlock: progression
+Cellar Unlock: progression
 Celtic Cross: unknown
 Censer: unknown
 Ceremonial Robes: unknown
@@ -229,8 +232,10 @@ Doctors Remote: unknown
 Dog Tooth: unknown
 Dogma: unknown
 Dollar: unknown
+Downpour Unlock: progression
 Dr Fetus: unknown
 Dream Catcher: unknown
+Dross Unlock: progression
 Dry Baby: unknown
 Duality: unknown
 Dull Razor: unknown
@@ -281,6 +286,7 @@ Fruit Cake: unknown
 Fruity Plum: unknown
 Gamekid: unknown
 Gb Bug: unknown
+Gehenna Unlock: progression
 Gello: unknown
 Gemini: unknown
 Genesis: unknown
@@ -380,6 +386,7 @@ Key Bum: unknown
 Key Master Item: unknown
 Key Piece 1: unknown
 Key Piece 2: unknown
+Key Pieces Unlock: progression
 Kidney Bean: unknown
 Kidney Stone: unknown
 King Baby: unknown
@@ -459,6 +466,7 @@ Midnight Snack: unknown
 Milk: unknown
 Mind: unknown
 Mine Crafter: unknown
+Mines Unlock: progression
 Mini Mush: unknown
 Missing No: unknown
 Missing Page 2: unknown
@@ -536,6 +544,7 @@ Pause: unknown
 Pay To Play: unknown
 Peeper: unknown
 Pentagram: unknown
+Permanent Range Up: useful
 Phd: unknown
 Piggy Bank: unknown
 Pinking Shears: unknown
@@ -586,6 +595,7 @@ Razor Blade: unknown
 Recall: unknown
 Red Candle: unknown
 Red Chest Item: useful
+Red Key Unlock: progression
 Red Key: unknown
 Red Stew: unknown
 Redemption: unknown
@@ -624,6 +634,7 @@ Satanic Bible: unknown
 Saturnus: unknown
 Sausage: unknown
 Scapular: unknown
+Scarred Womb Unlock: progression
 Scatter Bombs: unknown
 Schoolbag: unknown
 Scissors: unknown
@@ -781,10 +792,12 @@ Wafer: unknown
 Wait What: unknown
 Wavy Cap Trap: trap
 Wavy Cap: unknown
+We Need To Go Deeper! Unlock: progression
 We Need To Go Deeper: unknown
 White Pony: unknown
 Whore Of Babylon: unknown
 Wire Coat Hanger: unknown
+Womb Unlock: progression
 Wooden Chest Item: unknown
 Wooden Nickel: unknown
 Wooden Spoon: unknown
