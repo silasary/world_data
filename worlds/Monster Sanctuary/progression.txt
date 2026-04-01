@@ -12,7 +12,7 @@
 2x Almond: filler
 2x Antidote: filler
 2x Apple: filler
-2x Azure Gem: unknown
+2x Azure Gem: filler
 2x Banana: filler
 2x Berry: filler
 2x Big Potion: unknown
@@ -28,7 +28,7 @@
 2x Craft Box: filler
 2x Crimson Gem: filler
 2x Crystal Shard: filler
-2x Emerald: unknown
+2x Emerald: filler
 2x Gold: filler
 2x Grapes: unknown
 2x Green Gem: useful
@@ -235,7 +235,7 @@ Asura Egg: unknown
 Asura's Girdle: unknown
 Aurumtail Egg: unknown
 Aurumtail Saddle: progression
-Azure Gem: unknown
+Azure Gem: filler
 Banana: filler
 Bandana+1: unknown
 Bandana+2: filler
@@ -317,7 +317,7 @@ Cape+2: unknown
 Cape+3: unknown
 Cape+4: unknown
 Cape+5: unknown
-Cape: unknown
+Cape: filler
 Caraglow Collar: progression
 Caraglow Egg: unknown
 Carrot: filler
@@ -403,7 +403,7 @@ Diadem+2: unknown
 Diadem+3: unknown
 Diadem+4: unknown
 Diadem+5: unknown
-Diadem: unknown
+Diadem: filler
 Diavola Egg: unknown
 Digging Claws: unknown
 Divine Hourglass: progression
@@ -557,7 +557,7 @@ Goblin Garment+2: unknown
 Goblin Garment+3: unknown
 Goblin Garment+4: unknown
 Goblin Garment+5: unknown
-Goblin Garment: unknown
+Goblin Garment: filler
 Goblin Hood Egg: unknown
 Goblin King Egg: unknown
 Goblin Miner Egg: unknown
@@ -810,7 +810,7 @@ Moon Sword+2: unknown
 Moon Sword+3: filler
 Moon Sword+4: unknown
 Moon Sword+5: unknown
-Moon Sword: unknown
+Moon Sword: filler
 Morning Star+1: unknown
 Morning Star+2: unknown
 Morning Star+3: unknown
@@ -984,7 +984,7 @@ Restoring Wand+2: unknown
 Restoring Wand+3: unknown
 Restoring Wand+4: unknown
 Restoring Wand+5: unknown
-Restoring Wand: unknown
+Restoring Wand: filler
 Reward Box Lvl 1: filler
 Reward Box Lvl 2: filler
 Reward Box Lvl 3: filler
@@ -1198,7 +1198,7 @@ Thermal Reactor+2: unknown
 Thermal Reactor+3: unknown
 Thermal Reactor+4: unknown
 Thermal Reactor+5: unknown
-Thermal Reactor: unknown
+Thermal Reactor: filler
 Thorn Tendril+1: unknown
 Thorn Tendril+2: unknown
 Thorn Tendril+3: unknown

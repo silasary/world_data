@@ -18,6 +18,7 @@ Aeon Customization: Holy: useful
 Aeon Customization: Jinx: filler
 Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
+Aeon Customization: Luck: filler
 Aeon Customization: Power Break: useful
 Aeon Customization: Pray: filler
 Aeon Customization: Protect: useful
@@ -294,6 +295,7 @@ Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
 Gear Customization: Auto-Shell: useful
 Gear Customization: Berserk Ward: filler
+Gear Customization: Break HP Limit: useful
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
@@ -310,6 +312,7 @@ Gear Customization: HP +10%: filler
 Gear Customization: HP +20%: useful
 Gear Customization: HP +5%: filler
 Gear Customization: HP Stroll: filler
+Gear Customization: Ice Ward: filler
 Gear Customization: Initiative: useful
 Gear Customization: Lightning Eater: useful
 Gear Customization: Lightning Ward: filler
@@ -333,6 +336,7 @@ Gear Customization: SOS Shell: filler
 Gear Customization: Sensor: filler
 Gear Customization: Silence Ward: filler
 Gear Customization: Silencetouch: useful
+Gear Customization: Sleep Ward: filler
 Gear Customization: Slow Ward: filler
 Gear Customization: Slowproof: useful
 Gear Customization: Stone Ward: useful

@@ -1,5 +1,8 @@
 ArmorBonus: filler
+Automap (MAP01): useful
 Automap (MAP06): useful
+Automap (MAP07): useful
+Automap (MAP08): useful
 Automap (MAP09): useful
 Automap (MAP13): useful
 Automap (MAP32): useful
@@ -15,6 +18,7 @@ Blue Keycard (MAP18): progression
 Blue Keycard (MAP19): progression
 Blue Keycard (MAP31): progression
 Blue Skull (MAP03): progression
+Blue Skull (MAP04): progression
 Blue Skull (MAP31): progression
 BlueArmor: filler
 BlurSphere: filler
@@ -26,9 +30,12 @@ Energy Cells [CellPack]: filler
 Energy Cells [Cell]: filler
 GreenArmor: filler
 HealthBonus: filler
+Infrared: filler
 Level Clear (MAP01): progression
 Level Clear (MAP07): progression
 Level Clear (MAP11): progression
+Level Clear (MAP15): progression
+Level Clear (MAP17): progression
 Level Clear (MAP31): progression
 MAP04: Thaumasia: progression
 MAP05: Woodexial: progression
@@ -38,16 +45,25 @@ MAP10: The Odd Encampment: progression
 MAP11: My fav: progression
 MAP13: Bad Morning: progression
 MAP14: G_T_Factory: progression
+MAP15: Nandeyanen: progression
+MAP17: UAC energy plant: progression
+MAP18: Space Port Panik: progression
 MAP19: Remind: progression
 MAP20: Escape from UAC space base: progression
 MAP31: Manufacturing Plant: progression
+MAP32: Blood Fund Gang: progression
 Medikit: filler
 Megasphere: filler
+Plasma Rifle: progression
 RadSuit: filler
 Red Keycard (MAP01): progression
+Red Keycard (MAP02): progression
 Red Keycard (MAP08): progression
+Red Keycard (MAP13): progression
+Red Keycard (MAP14): progression
 Red Keycard (MAP15): progression
 Red Keycard (MAP17): progression
+Red Keycard (MAP18): progression
 Red Skull (MAP03): progression
 Red Skull (MAP19): progression
 Red Skull (MAP31): progression
@@ -65,5 +81,6 @@ Yellow Keycard (MAP08): progression
 Yellow Keycard (MAP10): progression
 Yellow Keycard (MAP12): progression
 Yellow Keycard (MAP20): progression
+Yellow Skull (MAP03): progression
 Yellow Skull (MAP19): progression
 Yellow Skull (MAP31): progression

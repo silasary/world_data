@@ -8,6 +8,7 @@
 7 Seals: unknown
 8 Inch Nails: unknown
 9 Volt: unknown
+??? Unlock: progression
 Abaddon: unknown
 Abel: unknown
 Abyss: unknown
@@ -103,6 +104,7 @@ Boom: unknown
 Boomerang: unknown
 Booster Pack: unknown
 Boss Item: useful
+Boss Rush Unlock: progression
 Bot Fly: unknown
 Box Of Friends: unknown
 Box Of Spiders: unknown
@@ -141,6 +143,7 @@ Car Battery: unknown
 Card Reading: unknown
 Cat O Nine Tails: unknown
 Catacombs Unlock: progression
+Cathedral Unlock: progression
 Cellar Unlock: progression
 Celtic Cross: unknown
 Censer: unknown
@@ -544,7 +547,11 @@ Pause: unknown
 Pay To Play: unknown
 Peeper: unknown
 Pentagram: unknown
+Permanent Damage Up: useful
+Permanent Luck Up: useful
 Permanent Range Up: useful
+Permanent Speed Up: useful
+Permanent Tears Up: useful
 Phd: unknown
 Piggy Bank: unknown
 Pinking Shears: unknown
@@ -569,6 +576,7 @@ Portable Slot: unknown
 Potato Peeler: unknown
 Pound Of Flesh: unknown
 Prayer Card: unknown
+Progressive Map Upgrade: useful
 Proptosis: unknown
 Psy Fly: unknown
 Punching Bag: unknown
@@ -650,6 +658,7 @@ Sharp Key: unknown
 Sharp Plug: unknown
 Sharp Straw: unknown
 Shell Game Item: unknown
+Sheol Unlock: progression
 Shoop Da Whoop: unknown
 Shop Item: useful
 Sinus Infection: unknown
@@ -721,9 +730,11 @@ Telepathy Book: unknown
 Teleport 2: unknown
 Teleport Trap: trap
 Teleport: unknown
+Telescope Lens Unlock: progression
 Terra: unknown
 The Jar: unknown
 The Nail: unknown
+The Polaroid Unlock: progression
 The Wiz: unknown
 Theres Options: unknown
 Thunder Thighs: unknown
@@ -745,6 +756,7 @@ Troll Bomb Trap: trap
 Tropicamide: unknown
 Twisted Pair: unknown
 Ultra Secret Room Item: unknown
+Undefined Unlock: progression
 Undefined: unknown
 Unicorn Stump: unknown
 Unlock ???: progression
@@ -776,6 +788,7 @@ Unlock Utero: progression
 Unlock Womb: progression
 Uranus: unknown
 Urn Of Souls: unknown
+Utero Unlock: progression
 Vade Retro: unknown
 Vanishing Twin: unknown
 Varicose Veins: unknown
@@ -786,6 +799,7 @@ Venus: unknown
 Victory Condition: progression
 Virgo: unknown
 Virus: unknown
+Void Portal Unlock: progression
 Void: unknown
 Voodoo Head: unknown
 Wafer: unknown

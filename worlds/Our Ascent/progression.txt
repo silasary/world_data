@@ -63,6 +63,7 @@ Character - Playable Apolonia: progression
 Character - Playable Hina: progression
 Character - Playable Lan: progression
 Character - Playable Sibyl: progression
+Character - Playable Stan: progression
 Equipment - Apolonia Progressive Boots: progression
 Equipment - Apolonia Progressive Breastplate: progression
 Equipment - Apolonia Progressive Gloves: progression
@@ -101,6 +102,7 @@ Stat Base - Apolonia Temp AGI Multi Per Turn: useful
 Stat Base - Apolonia Temp ATK Multi Per Turn: useful
 Stat Base - Apolonia Temp DEF Multi Per Turn: useful
 Stat Base - Hina Bleed Damage: useful
+Stat Base - Hina Crit Damage Multiplier: useful
 Stat Base - Hina Current HP Heal Per Turn: useful
 Stat Base - Hina Encounter Points: useful
 Stat Base - Hina Extra EP Per Boss: useful

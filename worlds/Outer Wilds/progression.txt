@@ -9,10 +9,13 @@ Cave Shard Signal: filler
 Chert's Signal: filler
 Cinder Isles Painting Code: progression
 Coordinates: progression
+Crystal Repair Manual: progression
+Deep Bramble Coordinates: progression
 Deep Space Radio Frequency: progression
 Deep Space Satellite Signal: filler
 Distress Beacon Frequency: progression
 Dream Totem Patch: progression
+Echolocation Tones Frequency: progression
 Eject Button: useful
 Electrical Insulation: progression
 Entanglement Rule: progression
@@ -20,6 +23,7 @@ Escape Pod 1 Signal: filler
 Escape Pod 2 Signal: filler
 Escape Pod 3 Signal: progression
 Esker's Signal: filler
+Expanded Dictionary: progression
 Feldspar's Signal: progression
 Fuel Capacity Upgrade: useful
 Gabbro's Signal: filler
@@ -53,6 +57,7 @@ Nothing: filler
 Oxygen Capacity Upgrade: useful
 Oxygen Refill: filler
 Perfect Marshmallow: filler
+Probability Rule: progression
 Projection Range Patch: progression
 Quantum Fluctuations Frequency: progression
 Quantum Moon Signal: progression
@@ -70,7 +75,9 @@ Stranger Light Modulator: progression
 Suit Puncture Trap: trap
 Supernova Trap: trap
 Surface Integrity Scanner: useful
+Taming Techniques: progression
 Tephra's Radio Signal: filler
+Thermal Insulation: progression
 Tornado Aerodynamic Adjustments: progression
 Tower Shard Signal: filler
 Translator (Brittle Hollow): progression

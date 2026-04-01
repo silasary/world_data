@@ -10,6 +10,7 @@ item-crispr:governor_3: useful
 item-crispr:queue_1: useful
 item-crispr:queue_2: useful
 item-crispr:queue_3: useful
+item-crispr:store_1: useful
 item-crispr:store_3: useful
 item-crispr:trader_2: useful
 item-filler:antiplasmid_1: filler

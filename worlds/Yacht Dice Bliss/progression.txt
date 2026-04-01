@@ -7,6 +7,7 @@ Category 1-2-1 Consecutive SUM: progression
 Category 1-2-1 Consecutive: progression
 Category 2-1-2 Consecutive: progression
 Category Choice: progression
+Category Distincts: progression
 Category Double Threes and Fours: progression
 Category Fives: progression
 Category Four of a Kind SUM: progression
@@ -17,8 +18,10 @@ Category Half of Sixes: progression
 Category Inverse Choice: progression
 Category Large Straight SUM: progression
 Category Large Straight: progression
+Category Micro Straight SUM: progression
 Category Micro Straight: progression
 Category Ones: progression
+Category Pair SUM: progression
 Category Pair: progression
 Category Quadruple Ones and Twos: progression
 Category Sixes: progression

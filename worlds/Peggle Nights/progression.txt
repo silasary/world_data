@@ -50,6 +50,7 @@ Fever Meter Permanent Bonus: [6-2] Vast Visitor: useful
 Fever Meter Permanent Bonus: [9-5] Great Ball of Ire: useful
 Full Clear Discount: 1-1 Crimewave: useful
 Full Clear Discount: 1-3 Horsepower: useful
+Full Clear Discount: 1-4 Just Desserts: useful
 Full Clear Discount: 1-5 Bjorn Identity: useful
 Full Clear Discount: 10-2 Turn It To Zen: useful
 Full Clear Discount: 10-3 Wild Thing: useful
@@ -152,6 +153,7 @@ Level Unlock: [6-2] Vast Visitor: progression
 Level Unlock: [7-1] Founding Fathers: progression
 Level Unlock: [9-5] Great Ball of Ire: progression
 Master Unlock: Bjorn: useful
+Master Unlock: Claude: useful
 Master Unlock: Lord Cinderbottom: useful
 Master Unlock: Master Hu: useful
 Master Unlock: Renfield: useful
@@ -163,6 +165,7 @@ Rusty Peg: filler
 Score Multiplier: 1-2 Call For Help: useful
 Score Multiplier: 1-4 Just Desserts: useful
 Score Multiplier: 10-1 Pick One: useful
+Score Multiplier: 10-3 Wild Thing: useful
 Score Multiplier: 10-5 Feel The Noize: useful
 Score Multiplier: 11-3 The Deep: useful
 Score Multiplier: 11-4 Water Whirled: useful
@@ -232,6 +235,7 @@ Target Score Discount: 11-4 Water Whirled: useful
 Target Score Discount: 11-5 Diploma, See?: useful
 Target Score Discount: 12-2 Why You Buggin'?: useful
 Target Score Discount: 12-4 The Rising: useful
+Target Score Discount: 12-5 Shadowshine: useful
 Target Score Discount: 13-3 Spaint!: useful
 Target Score Discount: 13-4 To The Limit: useful
 Target Score Discount: 14-4 Tulip Leaves: useful
@@ -250,12 +254,14 @@ Target Score Discount: 5-5 Perfectified: useful
 Target Score Discount: 6-2 Vast Visitor: useful
 Target Score Discount: 6-3 Eiffel Power: useful
 Target Score Discount: 6-4 Old Friends: useful
+Target Score Discount: 6-5 Au Revoir: useful
 Target Score Discount: 7-1 Founding Fathers: useful
 Target Score Discount: 7-2 The Henge: useful
 Target Score Discount: 7-3 Many Minarets: useful
 Target Score Discount: 7-5 Wall Flower: useful
 Target Score Discount: 8-2 Water Wings: useful
 Target Score Discount: 8-3 Steppin' Out: useful
+Target Score Discount: 8-4 Fire Eater: useful
 Target Score Discount: 8-5 Letting Off Steam: useful
 Target Score Discount: 9-1 X Marks The Loot: useful
 Target Score Discount: 9-2 Beats Driving: useful
