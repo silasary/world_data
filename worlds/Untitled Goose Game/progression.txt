@@ -9,6 +9,7 @@ Cork: progression
 Dartboard: progression
 Dish Soap Bottle: progression
 Duck Statue: progression
+Enamel Jug: progression
 Esky: progression
 Fancy Ladies' Souls: progression
 Fishing Bobber: progression
@@ -27,6 +28,7 @@ Miniature Birdbath: progression
 Miniature Pump: progression
 Mop: progression
 No Goose Sign (Pub): progression
+Old Man's Soul: progression
 Oranges: progression
 Poppy Flower: progression
 Pot Stack: progression
@@ -37,6 +39,8 @@ Radio: progression
 Rake: progression
 Rose: progression
 Shopping Basket: progression
+Speedy Feet: useful
+Stealth Box: progression
 Sun Hat: progression
 Sunglasses: progression
 Suspicious Goose: trap
@@ -51,4 +55,5 @@ Tulip: progression
 Umbrellas: progression
 Vase: progression
 Walkie Talkies: progression
+Watering Can: progression
 Wooden Crate: progression

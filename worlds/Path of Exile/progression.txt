@@ -66,7 +66,7 @@ Chance to Flee Support: unknown
 Chance to Poison Support: useful
 Charged Dash: progression
 Charged Mines Support: unknown
-Chieftain: unknown
+Chieftain: progression
 Clarity: progression
 Cleave: progression
 Close Combat Support: progression
@@ -209,12 +209,12 @@ Increased Area of Effect Support: progression
 Increased Critical Damage Support: unknown
 Increased Critical Strikes Support: unknown
 Infernal Cry: unknown
-Infernal Legion Support: unknown
+Infernal Legion Support: useful
 Infused Channelling Support: progression
 Innervate Support: useful
 Inquisitor: progression
 Intensify Support: useful
-Intimidating Cry: unknown
+Intimidating Cry: progression
 Intuitive Link: filler
 Iron Will Support: unknown
 Item Rarity Support: progression
@@ -257,6 +257,7 @@ Mirror Arrow: progression
 Molten Shell: useful
 Molten Strike: progression
 Momentum Support: useful
+More Duration Support: useful
 Multiple Totems Support: unknown
 Multiple Traps Support: unknown
 Multistrike Support: useful
@@ -284,6 +285,7 @@ Power Charge On Critical Support: unknown
 Power Siphon: progression
 Precision: unknown
 Predator Support: progression
+Pride: useful
 Progressive Amulet: progression
 Progressive Axe: progression
 Progressive Belt: progression
@@ -414,7 +416,7 @@ Venom Gyre: useful
 Vigilant Strike: unknown
 Vile Toxins Support: unknown
 Viper Strike: useful
-Vitality: unknown
+Vitality: useful
 Void Manipulation Support: useful
 Void Sphere: useful
 Volatile Dead: progression

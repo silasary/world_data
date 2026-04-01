@@ -24,6 +24,7 @@ BlueCard (MAP03): progression
 BlueCard (MAP06): progression
 BlueCard (MAP12): progression
 BlueCard (MAP13): progression
+BlueCard (MAP15): progression
 BlueCard (MAP24): progression
 BlueSkull (MAP14): progression
 BlueSkull (MAP18): progression
@@ -49,6 +50,7 @@ Level Access (MAP21): progression
 Level Access (MAP24): progression
 Level Access (MAP25): progression
 Level Access (MAP28): progression
+Level Access (MAP30): progression
 Level Access (MAP31): progression
 Level Clear (MAP01): progression
 Level Clear (MAP03): progression
@@ -58,6 +60,7 @@ Level Clear (MAP17): progression
 Level Clear (MAP20): progression
 Level Clear (MAP25): progression
 Level Clear (MAP28): progression
+Level Clear (MAP30): progression
 Level Clear (MAP31): progression
 Medikit: filler
 Megasphere: filler
@@ -89,3 +92,4 @@ YellowCard (MAP15): progression
 YellowSkull (MAP08): progression
 YellowSkull (MAP17): progression
 YellowSkull (MAP23): progression
+YellowSkull (MAP28): progression

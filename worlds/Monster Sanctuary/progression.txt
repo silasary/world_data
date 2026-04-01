@@ -15,7 +15,7 @@
 2x Azure Gem: filler
 2x Banana: filler
 2x Berry: filler
-2x Big Potion: unknown
+2x Big Potion: filler
 2x Blue Gem: filler
 2x Bronze: filler
 2x Carrot: filler
@@ -116,7 +116,7 @@
 3x Silver: filler
 3x Skill Resetter: filler
 3x Small Antidote: filler
-3x Small Potion: unknown
+3x Small Potion: filler
 3x Smoke Bomb: filler
 3x Smoke bomb: filler
 3x Steel: filler
@@ -356,7 +356,7 @@ Coat+2: unknown
 Coat+3: unknown
 Coat+4: unknown
 Coat+5: unknown
-Coat: unknown
+Coat: filler
 Cocoon: progression
 Combo Potion: unknown
 Cookie Mushroom: filler
@@ -483,7 +483,7 @@ Fang+2: unknown
 Fang+3: unknown
 Fang+4: unknown
 Fang+5: unknown
-Fang: unknown
+Fang: filler
 Faulty Equipment: unknown
 Feather+1: unknown
 Feather+2: unknown
@@ -733,7 +733,7 @@ Lion Fang+4: useful
 Lion Fang+5: unknown
 Lion Fang: unknown
 Lockpicks: progression
-Looter's Handbook: unknown
+Looter's Handbook: useful
 Lucky Clover+1: unknown
 Lucky Clover+2: unknown
 Lucky Clover+3: unknown
@@ -1015,7 +1015,7 @@ Scroll+2: unknown
 Scroll+3: unknown
 Scroll+4: unknown
 Scroll+5: unknown
-Scroll: unknown
+Scroll: filler
 Scythe+1: unknown
 Scythe+2: unknown
 Scythe+3: unknown

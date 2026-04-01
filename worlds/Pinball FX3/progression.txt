@@ -9,7 +9,9 @@ Score Multiplier: Star Wars Pinball: Calrissian Chronicles: useful
 Score Multiplier: Star Wars Pinball: Darth Vader: useful
 Score Multiplier: Star Wars Pinball: Droids: useful
 Score Multiplier: Star Wars Pinball: Han Solo: useful
+Score Multiplier: Star Wars Pinball: Might of the First Order: useful
 Score Multiplier: Star Wars Pinball: Return of the Jedi: useful
+Score Multiplier: Star Wars Pinball: Rogue One: useful
 Score Multiplier: Star Wars Pinball: The Clone Wars: useful
 Score Multiplier: Star Wars Pinball: The Empire Strikes Back: useful
 Score Multiplier: Star Wars Pinball: The Force Awakens: useful
@@ -21,6 +23,7 @@ Star Requirement Discount: Star Wars Pinball: Calrissian Chronicles: useful
 Star Requirement Discount: Star Wars Pinball: Might of the First Order: useful
 Star Requirement Discount: Star Wars Pinball: Return of the Jedi: useful
 Star Requirement Discount: Star Wars Pinball: Solo: useful
+Star Requirement Discount: Star Wars Pinball: Starfighter Assault: useful
 Star Requirement Discount: Star Wars Pinball: The Clone Wars: useful
 Star Requirement Discount: Star Wars Pinball: The Empire Strikes Back: useful
 Star Requirement Discount: Star Wars Pinball: The Force Awakens: useful
@@ -54,5 +57,6 @@ Target Score Discount: Star Wars Pinball: Return of the Jedi: useful
 Target Score Discount: Star Wars Pinball: Solo: useful
 Target Score Discount: Star Wars Pinball: Starfighter Assault: useful
 Target Score Discount: Star Wars Pinball: The Clone Wars: useful
+Target Score Discount: Star Wars Pinball: The Empire Strikes Back: useful
 Target Score Discount: Star Wars Pinball: The Force Awakens: useful
 Target Score Discount: Star Wars Pinball: The Last Jedi: useful

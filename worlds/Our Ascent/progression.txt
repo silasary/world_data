@@ -110,6 +110,7 @@ Stat Base - Hina Max HP Heal Per Turn: useful
 Stat Base - Lan Current HP Heal Per Attack: useful
 Stat Base - Lan Encounter Points: useful
 Stat Base - Lan Gold Gain: useful
+Stat Base - Lan Life Steal: useful
 Stat Base - Lan Missing HP Heal Per Attack: useful
 Stat Base - Lan Stat Point Per Level: useful
 Stat Base - Sibyl Agility Per Stat Point: useful

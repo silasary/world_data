@@ -29,6 +29,8 @@ B18: progression
 B19: progression
 B1: progression
 B20: progression
+B21: progression
+B22: progression
 B2: progression
 B3: progression
 B4: progression
@@ -48,6 +50,8 @@ C18: progression
 C19: progression
 C1: progression
 C20: progression
+C23: progression
+C25: progression
 C2: progression
 C3: progression
 C4: progression
@@ -66,6 +70,8 @@ D17: progression
 D18: progression
 D19: progression
 D1: progression
+D23: progression
+D24: progression
 D2: progression
 D3: progression
 D4: progression
@@ -86,6 +92,7 @@ E18: progression
 E19: progression
 E1: progression
 E20: progression
+E21: progression
 E2: progression
 E3: progression
 E4: progression
@@ -106,6 +113,7 @@ F18: progression
 F19: progression
 F1: progression
 F20: progression
+F26: progression
 F2: progression
 F3: progression
 F4: progression
@@ -125,6 +133,7 @@ G18: progression
 G19: progression
 G1: progression
 G20: progression
+G26: progression
 G2: progression
 G3: progression
 G4: progression
@@ -156,6 +165,7 @@ H9: progression
 I10: progression
 I11: progression
 I12: progression
+I13: progression
 I14: progression
 I15: progression
 I16: progression
@@ -163,6 +173,7 @@ I17: progression
 I19: progression
 I1: progression
 I20: progression
+I23: progression
 I2: progression
 I3: progression
 I4: progression
@@ -203,6 +214,9 @@ K18: progression
 K19: progression
 K1: progression
 K20: progression
+K23: progression
+K25: progression
+K26: progression
 K2: progression
 K3: progression
 K4: progression
@@ -221,6 +235,8 @@ L18: progression
 L19: progression
 L1: progression
 L20: progression
+L22: progression
+L26: progression
 L3: progression
 L4: progression
 L5: progression
@@ -296,6 +312,7 @@ P18: progression
 P19: progression
 P1: progression
 P20: progression
+P25: progression
 P2: progression
 P4: progression
 P6: progression
@@ -330,6 +347,7 @@ R18: progression
 R19: progression
 R1: progression
 R20: progression
+R21: progression
 R2: progression
 R3: progression
 R4: progression
@@ -349,6 +367,7 @@ S18: progression
 S19: progression
 S1: progression
 S20: progression
+S24: progression
 S2: progression
 S3: progression
 S4: progression
@@ -375,3 +394,31 @@ T6: progression
 T7: progression
 T8: progression
 T9: progression
+U11: progression
+U19: progression
+U23: progression
+U26: progression
+U9: progression
+V10: progression
+V24: progression
+V25: progression
+V5: progression
+W15: progression
+W17: progression
+X14: progression
+X17: progression
+X19: progression
+Y12: progression
+Y13: progression
+Y17: progression
+Y20: progression
+Y24: progression
+Z16: progression
+Z17: progression
+Z23: progression
+Z2: progression
+Z3: progression
+Z4: progression
+Z5: progression
+Z6: progression
+Z8: progression

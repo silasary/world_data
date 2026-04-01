@@ -1,5 +1,10 @@
+Agility Perk: useful
 Alarm trap: trap
+Aquatic Perk: progression
+Beehive: filler
+Blizzard Lizard trap: trap
 Blue Fruit: filler
+Boomerang: filler
 Brother Long Legs trap: trap
 Bubble Fruit: filler
 Bubble Weed: filler
@@ -10,8 +15,11 @@ Dandelion Peach: filler
 Dual Wielding Perk: useful
 Eggbug Egg: filler
 Electric Spear: filler
+Explosive Jump Perk: progression
+Explosive Parry Perk: useful
 Explosive Spear: useful
 Fire Egg: filler
+Fire Sprite Larva: filler
 Flashbang: filler
 GATE_CC_UW: progression
 GATE_DS_CC: progression
@@ -41,7 +49,7 @@ GATE_SU_DS: progression
 GATE_SU_HI: progression
 GATE_UW_SS: progression
 Gate: Chimney Canopy to The Exterior: progression
-Gate: Drainage System to Chimney Canopy: unknown
+Gate: Drainage System to Chimney Canopy: progression
 Gate: Drainage System to Garbage Wastes: useful
 Gate: Drainage System to Subterranean: progression
 Gate: Farm Arrays to Outskirts: progression
@@ -62,14 +70,16 @@ Gate: Shoreline to Pipeyard: progression
 Gate: Sky Islands to Chimney Canopy: progression
 Gate: Sky Islands to Farm Arrays: progression
 Gate: Sky Islands to Pipeyard: progression
-Gate: Submerged Superstructure to Shoreline: unknown
+Gate: Submerged Superstructure to Shoreline: progression
 Gate: Subterranean to Pipeyard: progression
 Gate: Subterranean to Shoreline: progression
 Gate: The Exterior to Metropolis: progression
-Gate: The Exterior to Shoreline: unknown
+Gate: The Exterior to Shoreline: progression
 Gate: The Precipice to Looks to the Moon: progression
 Gate: Underhang to Five Pebbles: progression
 Glow Weed: filler
+Gooieduck: filler
+Graffiti Bomb: filler
 Gravity trap: trap
 Grenade: filler
 Jellyfish: filler
@@ -111,7 +121,7 @@ Passage Token - The Monk: useful
 Passage Token - The Mother: useful
 Passage Token - The Nomad: useful
 Passage Token - The Outlaw: useful
-Passage Token - The Pilgrim: unknown
+Passage Token - The Pilgrim: useful
 Passage Token - The Saint: useful
 Passage Token - The Scholar: useful
 Passage Token - The Survivor: useful
@@ -129,16 +139,21 @@ Passage-Saint: useful
 Passage-Scholar: useful
 Passage-Survivor: unknown
 Passage-Traveller: unknown
+Pearl: filler
+Poison Spear: filler
 Rain trap: trap
 Rarefaction Cell: progression
 Red Centipede trap: trap
 Red Lizard trap: trap
+Responsibility trap: trap
+Ripple Spawn trap: trap
 Rock: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
 Scug-Yellow: progression
 Singularity Bomb: filler
+Slag Key: progression
 Slime Mold: filler
 Spear Damage Increase: useful
 Spear: useful
