@@ -8,7 +8,10 @@ Crab: progression
 End: progression
 Fruit: progression
 Garden Key: progression
+Group: progression
 Hand: progression
+Hot: progression
+Island Key: progression
 Key: progression
 Lake Key: progression
 Me: progression
@@ -18,6 +21,7 @@ Open: progression
 Red: progression
 Right: progression
 Rocket: progression
+Shift: progression
 Sink: progression
 Skull: progression
 Speck: filler

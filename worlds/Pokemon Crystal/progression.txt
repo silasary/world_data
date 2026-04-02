@@ -105,6 +105,7 @@ Ho-Oh Tile: mcguffin
 Hyper Potion: filler
 Ice Berry: filler
 Ice Heal: filler
+Ice Trap: trap
 Iron: filler
 Itemfinder: progression
 Kabuto Tile: mcguffin
@@ -190,6 +191,7 @@ Revive: filler
 Rising Badge: progression
 S.S. Ticket: progression
 Sacred Ash: filler
+Sandstorm Trap: trap
 Scope Lens: filler
 Secretpotion: progression
 Sharp Beak: useful
@@ -323,6 +325,7 @@ Ultra Ball: filler
 Up-Grade: useful
 Volcano Badge: progression
 Water Stone: useful
+Whirlpool Trap: trap
 Wht Apricorn: filler
 X Accuracy: filler
 X Attack: filler

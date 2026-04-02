@@ -1,5 +1,6 @@
 Acid Abrasive: filler
 Acid Canister: filler
+Acidic Crystal Spear: useful
 Acidic Great Curved Sword: useful
 Advance Crank: useful
 Alchemical Booster: filler
@@ -16,10 +17,12 @@ Attribute Resistance Ampoule: filler
 Azure Dragon Crescent Glaive: progression
 Balance Crank: useful
 Bandana of the Honorable: filler
+Belford Fiber-Reinforced Liner: useful
 Belford Multi-Layer Liner: useful
 Belford Shock Cartridge: useful
 Belford Superior Corrosion Resistance Converter: useful
 Belford Superior Insulation Converter: useful
+Big Pipe Wrench: useful
 Black Cat's Amulet: useful
 Black Cat's Hunting Apparel: filler
 Black Cat's Mask: filler
@@ -27,7 +30,9 @@ Black Death's Protective Apparel: progression
 Black Rabbit Hole Key: progression
 Bloody Cipher Machine: progression
 Blue Blood's Tailcoat: filler
+Blue Guardianship Amulet: useful
 Blue Sheep's Battle Apparel: filler
+Booster Glaive: useful
 Bramble Curved Sword : useful
 Broken Hero's Ergo: progression
 Broken Piercing Grindstone: useful
@@ -36,6 +41,7 @@ Cable Railway Key: progression
 Carcass Body Fluid Bottle: filler
 Carcass Crystal Axe: useful
 Carnival Coin: progression
+Carrier's Amulet +1: useful
 Carrier's Amulet: useful
 Cat Dust: filler
 Chain: filler
@@ -45,6 +51,7 @@ Cluster Grenade: filler
 Conquering Amulet: useful
 Coolant Control Room Console Key: progression
 Courage Amulet: useful
+Crafted Cryptic Vessel: progression
 Crescent Moonstone: progression
 Cube: useful
 Cursed Knight's Halberd: useful
@@ -65,10 +72,12 @@ Ergo Crystal of the Eternal: filler
 Extreme Modification Amulet: useful
 Fable Catalyst: filler
 Fallen One's Ergo: progression
+Famed Detective's Coat: filler
 Famed Detective's Hat: filler
 Famous Detective's Mustache: filler
 Fancy Venigni Collection: progression
 Fire Abrasive: filler
+Fire Axe: useful
 Fire Canister: filler
 Fisherman's Weathered Key: progression
 Flame Grindstone: progression
@@ -90,6 +99,7 @@ Grindstone Coating Capsule: filler
 Half Moonstone: progression
 Hidden Moonstone: progression
 High-Level Alchemist Badge: progression
+High-Powered Flame Amplifier: useful
 Hunter's Amulet: useful
 Illusory Emerald Glasses: filler
 Impregnable Fortress Amulet: useful
@@ -104,6 +114,7 @@ Krat City Hall Courtyard Key: progression
 Krat City Hall Key: progression
 Krat Police Baton: useful
 Krat Supply Box: progression
+LADA Break Cartridge: useful
 LADA Disruption Cartridge: useful
 LADA Multi-Layer Liner: useful
 Leader's Battle Apparel: filler
@@ -124,6 +135,7 @@ Military Shovel: useful
 Miraculous Enhancement Ampoule: filler
 Miraculous Recovery Ampoule: filler
 Monad's Rose Sword: progression
+Morbid Ambition's Amulet: useful
 Motivity Crank: useful
 Murderer Puppet's Amulet: useful
 Nameless One's Amulet: useful
@@ -166,6 +178,7 @@ Seven-Coil Spring Sword: progression
 Sharp Pipe: filler
 Shot Put: filler
 Slum Shack Key: progression
+Solutionist's Amulet : useful
 Someone's Memory: filler
 Special Krat Supply Box: progression
 Special Purification Ampoule: filler
@@ -177,22 +190,26 @@ Storyteller's Amulet: useful
 Strategist's Amulet: useful
 Strength Amulet: useful
 Sturdy Krat Supply Box: progression
+Survival Amulet: useful
 Survivor's Hunting Apparel: filler
 Survivor's Mask: filler
 Tap Dance: progression
 Technique Amulet: useful
 Technique Crank: useful
 The Atoned's Hunting Apparel: filler
+The Chosen Ones Trinity Key: progression
 The Eccentric's Mask: filler
 The Eldest's Gas Mask: filler
 The Youngest's Mask: filler
 Thermite: filler
 Throwing Cell: filler
+Transformation Amulet: useful
 Treasure Hunter's Hunting Apparel: filler
 Trident Of The Covenent: progression
 Trinity Key: progression
 Triumvirate Amulet: useful
 Twisted Angel's Ergo: progression
+Two Dragons Sword: progression
 Tyrant Murderer's Dagger: useful
 Upgrade Core: progression
 Uroboros’s Eye: progression
@@ -203,13 +220,16 @@ Vivid Ergo Crystal: filler
 Vivid Ergo Fragment: filler
 White Lady's Hunting Clothes: filler
 Winter Festival Peaked Hat: filler
+Winter's Hunting Apparel: filler
 Winter's Hunting Hat: filler
 Winter's Sleep Amulet: useful
 Wintry Rapier: useful
 Workshop Union Composite Armor Liner: useful
 Workshop Union Finished Cartridge: useful
+Workshop Union Lightweight Frame: useful
 Workshop Union Multi-Layer Liner: useful
 Workshop Union Standard Corrosion Resistance Converter: useful
+Workshop Union Standard Insulation Converter: useful
 Workshop Union Standard Radiation Converter: useful
 Workshop Union Strengthening Frame: useful
 Zoo Tram Station Key: progression

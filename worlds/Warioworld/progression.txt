@@ -1,6 +1,9 @@
 Amber: filler
+Amethyst: filler
 Ancient Chalice: filler
+Ancient Relief: filler
 Ancient Ring: filler
+Antique Clock: filler
 Anubis Statue: filler
 Beanstalk Way Blue Spriteling: progression
 Beanstalk Way Door: progression
@@ -23,12 +26,20 @@ Brawl Doll Boss Medal: progression
 Bugle: filler
 Captain Skull Big Key Fragment: progression
 Captain Skull's Showdown Door: progression
+Castle Painting: filler
 Ceramic Vase: filler
+Crazy Glasses: filler
 Diamond: filler
 DinoMighty Big Key Fragment: progression
+DinoMighty's Showdown Door: progression
 Drum: filler
+Dual Dragon Big Key Fragment: progression
+Dual Dragon's Showdown Door: progression
 Earring: filler
+Emerald: filler
+Fine China: filler
 GameBoy Advance: filler
+Gladiator's Helmet: filler
 Gold Clock: filler
 Gold Mirror: filler
 Gold Pocketwatch: filler
@@ -40,20 +51,26 @@ Greenhorn Forest Head Statue Part: useful
 Greenhorn Forest Left Arm Statue Part: useful
 Greenhorn Forest Moustache Statue Part: useful
 Greenhorn Forest Purple Spriteling: progression
+Greenhorn Forest Red Diamond 1: progression
+Greenhorn Forest Red Diamond 2: progression
 Greenhorn Forest Red Diamond 3: progression
 Greenhorn Forest Red Diamond 4: progression
 Greenhorn Forest Red Diamond 5: progression
 Greenhorn Forest Red Diamond 6: progression
+Greenhorn Forest Red Diamond 7: progression
 Greenhorn Forest Red Diamond 8: progression
 Greenhorn Forest Red Spriteling: progression
+Greenhorn Forest Right Arm Statue Part: useful
 Greenhorn Ruins Backside Statue Part: useful
 Greenhorn Ruins Green Spriteling: progression
+Greenhorn Ruins Left Foot Statue Part: useful
 Greenhorn Ruins Moustache Statue Part: useful
 Greenhorn Ruins Red Diamond 2: progression
 Greenhorn Ruins Red Diamond 3: progression
 Greenhorn Ruins Red Diamond 5: progression
 Greenhorn Ruins Red Diamond 6: progression
 Greenhorn Ruins Red Diamond 7: progression
+Greenhorn Ruins Red Diamond 8: progression
 Greenhorn Ruins Red Spriteling: progression
 Greenhorn Ruins Right Foot Statue Part: useful
 Greenhorn Ruins Yellow Spriteling: progression
@@ -69,8 +86,10 @@ Horror Manor Red Diamond 2: progression
 Horror Manor Red Diamond 3: progression
 Horror Manor Red Diamond 4: progression
 Horror Manor Red Diamond 5: progression
+Horror Manor Red Diamond 6: progression
 Horror Manor Red Diamond 8: progression
 Horror Manor Red Spriteling: progression
+Horror Manor Right Arm Statue Part: useful
 Horror Manor Right Foot Statue Part: useful
 Horror Manor Torso Statue Part: useful
 Horror Manor Yellow Spriteling: progression
@@ -79,6 +98,7 @@ King's Crown: filler
 Knight's Helmet: filler
 Mirror Mansion Blue Spriteling: progression
 Mirror Mansion Door: progression
+Mirror Mansion Head Statue Part: useful
 Mirror Mansion Left Arm Statue Part: useful
 Mirror Mansion Left Foot Statue Part: useful
 Mirror Mansion Red Diamond 1: progression
@@ -86,33 +106,47 @@ Mirror Mansion Red Diamond 2: progression
 Mirror Mansion Red Diamond 3: progression
 Mirror Mansion Red Diamond 4: progression
 Mirror Mansion Red Diamond 6: progression
+Mirror Mansion Red Diamond 7: progression
 Mirror Mansion Red Diamond 8: progression
+Mirror Mansion Red Spriteling: progression
+Mirror Mansion Right Arm Statue Part: useful
 Mirror Mansion Right Foot Statue Part: useful
 Mirror Mansion Torso Statue Part: useful
 Mirror Mansion Yellow Spriteling: progression
 Nice Glass: filler
+Nice Goblet: filler
 Nice Sceptre: filler
 Nintendo GameCube: filler
 Nintendo64: filler
 Opal: filler
 Ornate Bag: filler
+Ornate Decanter: filler
 Pecan Sands Door: progression
 Pecan Sands Green Spriteling: progression
+Pecan Sands Left Foot Statue Part: useful
 Pecan Sands Moustache Statue Part: useful
 Pecan Sands Red Diamond 2: progression
+Pecan Sands Red Diamond 3: progression
+Pecan Sands Red Diamond 4: progression
 Pecan Sands Red Diamond 5: progression
+Pecan Sands Red Diamond 7: progression
 Pecan Sands Red Diamond 8: progression
 Pecan Sands Red Spriteling: progression
 Pecan Sands Right Arm Statue Part: useful
 Pecan Sands Right Foot Statue Part: useful
+Pecan Sands Torso Statue Part: useful
 Pecan Sands Yellow Spriteling: progression
 Porcelain Urn: filler
 Precious Pot: filler
+Red-Brief J Big Key Fragment: progression
 Red-Brief J's Showdown Door: progression
+Ruby: filler
 Sandworm Boss Medal: progression
 Shivering Mountain Right Foot Statue Part: useful
 Shivering Mountains Blue Spriteling: progression
+Shivering Mountains Door: progression
 Shivering Mountains Green Spriteling: progression
+Shivering Mountains Head Statue Part: useful
 Shivering Mountains Left Foot Statue Part: useful
 Shivering Mountains Moustache Statue Part: useful
 Shivering Mountains Purple Spriteling: progression
@@ -123,6 +157,7 @@ Shivering Mountains Red Diamond 5: progression
 Shivering Mountains Red Diamond 6: progression
 Shivering Mountains Red Diamond 7: progression
 Shivering Mountains Red Diamond 8: progression
+Shivering Mountains Red Spriteling: progression
 Shivering Mountains Right Arm Statue Part: useful
 Shivering Mountains Yellow Spriteling: progression
 Silver Candlestick: filler

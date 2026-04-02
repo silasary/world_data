@@ -108,6 +108,7 @@ Hidden Stash - Sapienza - Mansion Pantry: filler
 Hidden Stash - Whittleton Creek - Janus Kitchen: filler
 Level - Ambrose Island: progression
 Level - Bangkok: progression
+Level - Berlin: progression
 Level - Carpathian Mountains: progression
 Level - Chongqing: progression
 Level - Colorado: progression
@@ -331,3 +332,4 @@ Tool - Oil Canister: filler
 Tool - Professional Screwdriver: filler
 Tool - Proximity EMP Charge: filler
 Tool - Remote EMP Charge: filler
+Tool - Remote Emetic Gas Device: filler

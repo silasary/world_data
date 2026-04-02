@@ -140,6 +140,7 @@ Level Unlock: [1-1] Peggleland: progression
 Level Unlock: [1-2] Slip and Slide: progression
 Level Unlock: [1-3] Bjorn's Gazebo: progression
 Level Unlock: [1-4] Das Bucket: progression
+Level Unlock: [1-5] Snow Day: progression
 Level Unlock: [10-1] Spin Cycle: progression
 Level Unlock: [10-2] The Dude Abides: progression
 Level Unlock: [10-3] When Pigs Fly: progression
@@ -282,6 +283,7 @@ Score Multiplier: [5-5] Love Story: useful
 Score Multiplier: [6-1] Waves: useful
 Score Multiplier: [6-2] Spiderweb: useful
 Score Multiplier: [6-3] Blockers: useful
+Score Multiplier: [6-4] Baseball: useful
 Score Multiplier: [7-1] Holland Oats: useful
 Score Multiplier: [7-2] I Heart Flowers: useful
 Score Multiplier: [7-3] Workin from Home: useful
@@ -385,6 +387,7 @@ Target Score Discount: [8-2] Dog Pinball: useful
 Target Score Discount: [8-3] Spin Again: useful
 Target Score Discount: [8-4] Roll 'Em: useful
 Target Score Discount: [8-5] Five of a Kind: useful
+Target Score Discount: [9-1] The Love Moat: useful
 Target Score Discount: [9-2] Doom with a View: useful
 Target Score Discount: [9-3] Rhombi: useful
 Target Score Discount: [9-4] 9 Luft Balloons: useful

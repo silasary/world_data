@@ -44,6 +44,7 @@ Filler Gear: Breath of Terramorphous: filler
 Filler Gear: Breath of the Seraphs: filler
 Filler Gear: Butcher: filler
 Filler Gear: Commerce: filler
+Filler Gear: Contraband Sky Rocket: filler
 Filler Gear: Crit: filler
 Filler Gear: Crossfire: filler
 Filler Gear: Dahlminator: filler
@@ -84,6 +85,7 @@ Filler Gear: Hornet: filler
 Filler Gear: Hydra: filler
 Filler Gear: Impaler: filler
 Filler Gear: Infection: filler
+Filler Gear: Infinity: filler
 Filler Gear: Interfacer: filler
 Filler Gear: Invader: filler
 Filler Gear: Jolly Roger: filler
@@ -177,6 +179,7 @@ Max Ammo Shotgun: filler
 Max Ammo SniperRifle: filler
 Max Grenade Count: filler
 Pearlescent Pistol: progression
+Pearlescent RocketLauncher: progression
 Progressive Jump: progression
 Progressive Money Cap: progression
 Progressive Sprint: progression
@@ -193,6 +196,7 @@ Reward: A Dam Fine Rescue: filler
 Reward: A Hard Place: filler
 Reward: A Match Made on Pandora: filler
 Reward: A Real Boy: Face Time: filler
+Reward: A Train to Catch: filler
 Reward: A Warm Welcome: filler
 Reward: Animal Rescue: Shelter: filler
 Reward: Animal Rights: filler
@@ -252,6 +256,8 @@ Reward: Home Movies: filler
 Reward: Hungry Like the Skag: filler
 Reward: Hyperion Contract #873: filler
 Reward: Hyperion Slaughter: Round 1: filler
+Reward: Hyperion Slaughter: Round 2: filler
+Reward: Hyperion Slaughter: Round 5: filler
 Reward: I Know It When I See It: filler
 Reward: In Memoriam: filler
 Reward: Interview with a Vault Hunter: filler
@@ -264,6 +270,7 @@ Reward: MMORPGFPS: filler
 Reward: Magic Slaughter: Badass Round: filler
 Reward: Magic Slaughter: Round 2: filler
 Reward: Magic Slaughter: Round 3: filler
+Reward: Magic Slaughter: Round 4: filler
 Reward: Magic Slaughter: Round 5: filler
 Reward: Man's Best Friend: filler
 Reward: Master Gee the Invincible: filler
@@ -346,6 +353,7 @@ Reward: Urine, You're Out: filler
 Reward: Walking the Dog: filler
 Reward: Welcome To The Jungle: filler
 Reward: Where Angels Fear to Tread (Part 2): filler
+Reward: Where Angels Fear to Tread: filler
 Reward: Whoops: filler
 Reward: Winging It: filler
 Reward: Wingman: filler
@@ -356,6 +364,7 @@ Reward: You Are Cordially Invited: Party Prep: filler
 Reward: You Are Cordially Invited: Tea Party: filler
 Reward: You. Will. Die. (Seriously.): filler
 Seraph RocketLauncher: progression
+Seraph Shield: progression
 Seraph SniperRifle: progression
 Trap Spawn: Assassins: trap
 Trap Spawn: Creepers: trap

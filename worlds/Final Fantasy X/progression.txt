@@ -9,16 +9,20 @@ Ability Distiller x 80: useful
 Ability Distiller x 90: useful
 Aeon Customization: Aim: filler
 Aeon Customization: Armor Break: useful
+Aeon Customization: Bio: useful
 Aeon Customization: Cheer: filler
+Aeon Customization: Cure: useful
 Aeon Customization: Dark Attack: useful
 Aeon Customization: Dispel: useful
 Aeon Customization: Drain: useful
 Aeon Customization: Focus: filler
+Aeon Customization: Full-Life: useful
 Aeon Customization: Holy: useful
 Aeon Customization: Jinx: filler
 Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
 Aeon Customization: Luck: filler
+Aeon Customization: NulBlaze: useful
 Aeon Customization: Power Break: useful
 Aeon Customization: Pray: filler
 Aeon Customization: Protect: useful
@@ -242,6 +246,7 @@ Eye Drops x 40: filler
 Eye Drops x 50: filler
 Eye Drops x 60: filler
 Eye Drops x 70: filler
+Eye Drops x 80: filler
 Eye Drops x 90: filler
 Farplane Shadow x 10: useful
 Farplane Shadow x 20: useful
@@ -313,6 +318,7 @@ Gear Customization: HP +20%: useful
 Gear Customization: HP +5%: filler
 Gear Customization: HP Stroll: filler
 Gear Customization: Ice Ward: filler
+Gear Customization: Iceproof: useful
 Gear Customization: Initiative: useful
 Gear Customization: Lightning Eater: useful
 Gear Customization: Lightning Ward: filler
@@ -344,6 +350,7 @@ Gear Customization: Stoneproof: useful
 Gear Customization: Stonetouch: useful
 Gear Customization: Strength +3%: filler
 Gear Customization: Strength +5%: filler
+Gear Customization: Triple Overdrive: useful
 Gear Customization: Water Ward: filler
 Gear Customization: Waterproof: useful
 Gear Customization: Zombie Ward: filler
@@ -478,6 +485,7 @@ Mana Tonic x 40: useful
 Mana Tonic x 60: useful
 Mana Tonic x 70: useful
 Mana Tonic x 80: useful
+Mana Tonic x 90: useful
 Mark of Conquest: progression
 Mars Crest: progression
 Mars Sigil: progression
@@ -774,6 +782,7 @@ Turbo Ether x 50: filler
 Turbo Ether x 60: filler
 Turbo Ether x 70: filler
 Turbo Ether x 80: filler
+Turbo Ether x 90: filler
 Twin Stars x 10: useful
 Twin Stars x 20: useful
 Twin Stars x 30: useful

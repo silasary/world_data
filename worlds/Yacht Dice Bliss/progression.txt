@@ -13,6 +13,7 @@ Category Fives: progression
 Category Four of a Kind SUM: progression
 Category Four of a Kind: progression
 Category Fours: progression
+Category Full House SUM: progression
 Category Full House: progression
 Category Half of Sixes: progression
 Category Inverse Choice: progression
@@ -28,6 +29,7 @@ Category Sixes: progression
 Category Small Straight SUM: progression
 Category Small Straight: progression
 Category Sum of Odds: progression
+Category Three Odds: progression
 Category Three of a Kind SUM: progression
 Category Three of a Kind: progression
 Category Threes: progression
@@ -35,6 +37,7 @@ Category Tiny Straight: progression
 Category Two Pair SUM: progression
 Category Two Pair: progression
 Category Two times Ones: progression
+Category Twos and Threes: progression
 Category Twos: progression
 Category Yacht: progression
 Dice Fragment: progression

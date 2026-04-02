@@ -7,14 +7,14 @@ Cache Detector: useful
 Carry: progression
 Chimp Caverns Access: progression
 Climb: progression
-Diddy: unknown
+Diddy: progression
 Donkey: progression
 Enguarde: progression
 Expresso: progression
 Gorilla Glacier Access: progression
 Gorilla Slap: progression
 Ice Trap: unknown
-Jump Trap: unknown
+Jump Trap: trap
 Kongo Jungle Access: progression
 Kremkroc Industries Inc. Access: progression
 Minecart: progression
@@ -25,7 +25,7 @@ Rambi: progression
 Roll: progression
 Squawks: progression
 Sticky Floor Trap: unknown
-Stun Trap: unknown
+Stun Trap: trap
 Swim: progression
 Switch Barrels: progression
 Tires: progression
