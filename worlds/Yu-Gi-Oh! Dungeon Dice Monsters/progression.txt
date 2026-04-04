@@ -2,16 +2,20 @@ AD_ARCHIE: progression
 ANDREA: progression
 ANTON_PERIWIG: progression
 ARKANA: progression
+B. Skull Dragon: filler
 BAKURA: progression
 BANDIT_KEITH: progression
 BELUGA: progression
 BICKFORD_GAGE: progression
 BONZ: unknown
+Battle Ox: filler
+Black Luster Soldier: filler
 CEDRIC: progression
 CHARLIE_GALE: progression
 CHOPMAN: progression
 CROQUET: unknown
 CURATOR_ADRIEL_WAINWRIGHT: progression
+Crater Creator: filler
 Crocozaurus: unknown
 DAMIEN_DRACO: progression
 DEMITRIUS_THE_BULLY: progression
@@ -21,13 +25,19 @@ DIRECTOR_LUCIUS: progression
 DORIS: progression
 DOX: progression
 DUKE_DEVLIN: progression
+Dark Magician: filler
+Dragon Piper: filler
 EGGER_BALDWIN: progression
 ESPA_ROBA: progression
+Energy Disc: filler
+Exploding Disc: filler
 FENDER_SHRILL: progression
 FENG_LONG: progression
 FORTUNO: progression
-GAME_SHOW_PRODUCER: unknown
+GAME_SHOW_PRODUCER: progression
 GRANDPA: progression
+Gaia the Dragon Champion: filler
+Harpie Lady: filler
 ISHIZU_ISHTAR: progression
 JACKPOT: progression
 JILL: progression
@@ -38,30 +48,36 @@ KANE_MINION_A: progression
 KANE_MINION_B: progression
 KANE_MINION_C: progression
 KANE_MINION_D: progression
-KANE_MINION_E: unknown
+KANE_MINION_E: progression
 KANE_MINION_F: unknown
 KEMO: progression
 KREIGER: progression
 Kanan the Swordmistress: unknown
 LINT_GREENDALE: progression
-LLOYD: unknown
+LLOYD: progression
 LUMIS: progression
-MAI_VALENTINE: unknown
+Lord of D.: filler
+MAI_VALENTINE: progression
 MAKO_TSUNAMI: progression
-MARIK_ISHTAR: unknown
+MARIK_ISHTAR: progression
 MAXIMILLION_PEGASUS: progression
 MELODY: progression
 MISS_MADUSA: progression
 MOKUBA_KAIBA: progression
 MR_TITUS: unknown
+Magician of Black Chaos: filler
+Metalzoa: filler
+Mystical Elf: filler
 NIBBLES: progression
 NORMAN: progression
-ODION: unknown
+ODION: progression
 PANIK: progression
 PARA: progression
 PARADOX: progression
 PAUL: progression
 PROFESSOR_JEREMY_HARRISON: progression
+Parrot Dragon: filler
+R Leg of Forbidden: filler
 REX_RAPTOR: progression
 ROGER: progression
 RYAN: progression
@@ -73,21 +89,27 @@ SHADI: progression
 SINDIN_THE_CLOWN: progression
 SNIPES_CROSSHAIR: filler
 STRINGER: progression
-STRINGS: unknown
+STRINGS: progression
+Strike Ninja: filler
+Suijin: filler
+Summoned Skull: filler
 TEA_GARDNER: progression
 THE_GREENDALE_ZOMPIRE: progression
 THE_MERCHANT: progression
 THE_PUPPETEER: progression
 THUG_A: progression
 THUG_B: progression
-THUG_C: unknown
+THUG_C: progression
 TICK_TOCK: progression
 TRISTAN_TAYLOR: progression
+Time Machine: filler
 UMBRA: unknown
 VENOM_A: progression
 VENOM_B: progression
 VENOM_C: progression
 WEEVIL_UNDERWOOD: progression
+Warp Vortex: filler
 YAMI_BAKURA: progression
 YUGIS_MOTHER: progression
 Yami Yugi Defeated: unknown
+Zoa: filler

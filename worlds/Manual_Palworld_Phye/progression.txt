@@ -30,13 +30,17 @@ Assault Rifle Schematic 2: filler
 Astral Foot Pass: progression
 Astral Pass: progression
 Attack Support Whistle: filler
+Axel's Key: progression
 Bamboo Pass: progression
 Beam Sword Schematic 4: progression
 Bjorn's Key: progression
 Cloth Outfit Schematic 1: filler
 Cold Resistant Hexolite Armor Schematic 4: progression
 Cold Resistant Metal Armor Schematic 1: filler
+Cold Resistant Pal Metal Armor Schematic 1: filler
+Cold Resistant Pelt Armor Schematic 2: filler
 Common Egg Voucher: progression
+Crescent Pass: progression
 Crossbow Schematic 2: filler
 Dark Orb: progression
 Defense Pendant: filler
@@ -110,7 +114,9 @@ Mushroom Quiche Recipe: progression
 Neutral Orb: progression
 Obsidian Pass: progression
 Pal Metal Armor Schematic 3: useful
+Pal Metal Helm Schematic 1: filler
 Phantom Pass: progression
+Plasteel Armor Schematic 1: filler
 Plasteel Armor Schematic 4: progression
 Plasteel Helmet Schematic 1: filler
 Player Beacon: progression
@@ -140,6 +146,7 @@ Secret Membership Card: progression
 Silk Hat Schematic 1: filler
 Single-Shot Rifle Schematic 4: progression
 Skill Fruit: Power Shot: filler
+Stir-Fried Vegetables Recipe: progression
 Suspicious Juice: filler
 Tech - Advanced Arrow: useful
 Tech - Advanced Fishing Rod: progression
@@ -215,6 +222,7 @@ Tech - Fenglope Saddle: progression
 Tech - Fire Bow: useful
 Tech - Fireplace Set: filler
 Tech - Fishing Pond: progression
+Tech - Flame Cauldron: progression
 Tech - Flamethrower: useful
 Tech - Flea Market (Items): filler
 Tech - Flea Market (Pals): filler
@@ -233,6 +241,7 @@ Tech - Ghangler Ignis Saddle: progression
 Tech - Gildane Saddle: progression
 Tech - Glass Structure Set: progression
 Tech - Global Palbox: filler
+Tech - Grass Grenade: useful
 Tech - Ground Grenade: useful
 Tech - Handgun Ammo: useful
 Tech - Handgun: useful
@@ -294,6 +303,7 @@ Tech - Metal Spear: useful
 Tech - Metal Structure Set: progression
 Tech - Mill: progression
 Tech - Mine: useful
+Tech - Mining Cart: progression
 Tech - Moonflower Flag Set: filler
 Tech - Mossanda's Grenade Launcher: progression
 Tech - Mounted Machine Gun: useful
@@ -372,6 +382,7 @@ Tech - Stone Gate: useful
 Tech - Stone Spear: useful
 Tech - Stone Structure Set: progression
 Tech - Straw Pal Bed: progression
+Tech - Stump and Axe: useful
 Tech - Stun Baton: useful
 Tech - Surfent Saddle: progression
 Tech - Surfent Terra Saddle: progression

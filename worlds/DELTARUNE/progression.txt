@@ -7,8 +7,10 @@
 20 Dark Dollars: filler
 250 Dark Dollars: filler
 300 POINTs: useful
+40 Dark Dollars: useful
 50 POINTs: filler
 500 Dark Dollars: filler
+500 POINTs: useful
 80 Dark Dollars: filler
 AbsorbAx: useful
 Amber Card: useful
@@ -31,10 +33,12 @@ CD Bagel: filler
 CH1 Egg: useful
 CH2 Egg: useful
 CH3 Egg: useful
+CH4 Egg: useful
 Castle Key: progression
 Castle Moss: useful
 Castle Warp: progression
 ChainMail: useful
+Chapter 1 Unlock: progression
 Chapter 2 Unlock: progression
 Chapter 3 Unlock: progression
 ChocDiamond: filler
@@ -48,8 +52,10 @@ DD-Burger: filler
 DaintyScarf: useful
 Dark Candy: filler
 Darkburger: filler
+DealMaker: useful
 DeluxeDinner: filler
 DevilsKnife: useful
+Devilsknife: useful
 Dice Brace: useful
 DogDollar: filler
 Door Key: progression
@@ -63,10 +69,13 @@ GingerGuard: useful
 GlowWrist: progression
 Glowshard: filler
 HeartsDonut: filler
+IronShackle: progression
 JevilsTail: useful
 Joe's Life Savings: useful
 KeyGen: progression
+Kris Tea: filler
 LancerCookie: filler
+LightCandy: useful
 LodeStone: filler
 Mannequin: filler
 Mansion Reservation: progression
@@ -78,7 +87,9 @@ Odd Controller: progression
 OddController: progression
 Pink Ribbon: progression
 PowerBand: useful
+PrincessRBN: useful
 PuppetScarf: useful
+Ragger2: useful
 Ragger: useful
 Ralsei Tea: filler
 Remote Battery: progression
@@ -86,6 +97,8 @@ Revive Mint: useful
 ReviveDust: filler
 Rhapsotea: filler
 RouxlsRoux: filler
+RoyalPin: filler
+S.POISON: filler
 SHELTER KEY: progression
 SMILE: useful
 Saber10: useful
@@ -100,6 +113,8 @@ Silver Card: filler
 SpagettiCode: filler
 SpikeBand: useful
 Spincake: useful
+Spookysword: useful
+Susie Tea: filler
 TVDinner: filler
 TVSlop: filler
 TennaTie: useful
@@ -107,6 +122,7 @@ TensionBit: progression
 TensionBow: useful
 ThornRing: progression
 Top Cake: progression
+ToxicAxe: useful
 Trash Zone Warp: progression
 TripTicket: progression
 VIP Pass: progression

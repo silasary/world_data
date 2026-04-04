@@ -59,7 +59,7 @@
 2x Ruby: filler
 2x Sapphire: filler
 2x Shift Stone: filler
-2x Silk: unknown
+2x Silk: filler
 2x Silver: unknown
 2x Skill Potion: unknown
 2x Skill Resetter: unknown
@@ -132,7 +132,7 @@
 4x Iron: unknown
 4x Leather: filler
 4x Level Badge: filler
-4x Wool: unknown
+4x Wool: filler
 500 G: filler
 5000 G: filler
 5x Level Badge: unknown
@@ -230,7 +230,7 @@ Assisting Bow+2: unknown
 Assisting Bow+3: filler
 Assisting Bow+4: unknown
 Assisting Bow+5: unknown
-Assisting Bow: unknown
+Assisting Bow: filler
 Asura Egg: unknown
 Asura's Girdle: unknown
 Aurumtail Egg: unknown
@@ -397,7 +397,7 @@ Devonian Medal+2: unknown
 Devonian Medal+3: unknown
 Devonian Medal+4: unknown
 Devonian Medal+5: unknown
-Devonian Medal: unknown
+Devonian Medal: filler
 Diadem+1: unknown
 Diadem+2: unknown
 Diadem+3: unknown
@@ -773,7 +773,7 @@ Mandolin: unknown
 Mango: filler
 Manticorb Egg: unknown
 Mass Antidote: unknown
-Mass Potion: unknown
+Mass Potion: filler
 Mechanical Lens: unknown
 Medallion+1: unknown
 Medallion+2: unknown
@@ -844,7 +844,7 @@ Ocarina+2: unknown
 Ocarina+3: unknown
 Ocarina+4: unknown
 Ocarina+5: unknown
-Ocarina: unknown
+Ocarina: filler
 Oculus Egg: unknown
 Odd Mushroom: unknown
 Old World Tycoon: filler
@@ -1303,7 +1303,7 @@ Wind Symbol+3: filler
 Wind Symbol+4: unknown
 Wind Symbol+5: unknown
 Wind Symbol: unknown
-Winter Explorer: unknown
+Winter Explorer: filler
 Wizard Hat+1: unknown
 Wizard Hat+2: unknown
 Wizard Hat+3: unknown

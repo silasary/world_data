@@ -1,3 +1,4 @@
+Accessory - Apolonia Chipped Earring: useful
 Accessory - Apolonia Death Ring I: useful
 Accessory - Apolonia Death Ring II: useful
 Accessory - Apolonia Dull Ring: useful
@@ -8,6 +9,7 @@ Accessory - Apolonia Shield Amulet: useful
 Accessory - Apolonia Slim Double Band: useful
 Accessory - Hina Blood Ring: useful
 Accessory - Hina Dagger Amulet: useful
+Accessory - Hina Dull Ring: useful
 Accessory - Hina Engraved Ring: useful
 Accessory - Hina Masked Amulet: useful
 Accessory - Hina Studded Band: useful
@@ -16,8 +18,10 @@ Accessory - Hina Twilight Ring: useful
 Accessory - Lan Chipped Earring: useful
 Accessory - Lan Creepy Amulet: useful
 Accessory - Lan Defeated Earring: useful
+Accessory - Lan Double Band: useful
 Accessory - Lan Enchanted Earring: useful
 Accessory - Lan Fancy Ring: useful
+Accessory - Lan Shield Amulet: useful
 Accessory - Lan Slim Band: useful
 Accessory - Lan Slim Double Band: useful
 Accessory - Sibyl Defeated Earring: useful
@@ -26,10 +30,13 @@ Accessory - Sibyl Fancy Ring: useful
 Accessory - Sibyl Masked Amulet: useful
 Accessory - Sibyl Power Ring: useful
 Accessory - Sibyl Slim Double Band: useful
+Accessory - Sibyl Studded Band: useful
 Accessory - Sibyl Twilight Amulet: useful
 Accessory - Stan Crown Ring: useful
+Accessory - Stan Double Band: useful
 Accessory - Stan Empty Ring: useful
 Accessory - Stan Engraved Ring: useful
+Accessory - Stan Jeweled Ring: useful
 Accessory - Stan Power Ring: useful
 Accessory - Stan Slim Band: useful
 Accessory - Stan Studded Band: useful
@@ -98,6 +105,8 @@ Equipment - Stan Progressive Sword: progression
 Hina Meditates: filler
 Sibyl Gets Drunk: filler
 Stan Falls Asleep: filler
+Stat Base - Apolonia Attack: useful
+Stat Base - Apolonia Defense: useful
 Stat Base - Apolonia Encounter Points: useful
 Stat Base - Apolonia Temp AGI Multi Per Turn: useful
 Stat Base - Apolonia Temp ATK Multi Per Turn: useful
@@ -107,7 +116,9 @@ Stat Base - Hina Crit Damage Multiplier: useful
 Stat Base - Hina Current HP Heal Per Turn: useful
 Stat Base - Hina Encounter Points: useful
 Stat Base - Hina Extra EP Per Boss: useful
+Stat Base - Hina Heal Per Turn: useful
 Stat Base - Hina Max HP Heal Per Turn: useful
+Stat Base - Hina Missing HP Heal Per Turn: useful
 Stat Base - Lan Current HP Heal Per Attack: useful
 Stat Base - Lan Encounter Points: useful
 Stat Base - Lan Gold Gain: useful
@@ -119,6 +130,7 @@ Stat Base - Sibyl Attack Per Stat Point: useful
 Stat Base - Sibyl Defense Per Stat Point: useful
 Stat Base - Sibyl Encounter Points: useful
 Stat Base - Sibyl Health Per Stat Point: useful
+Stat Base - Sibyl Max Distance Per Encounter: useful
 Stat Base - Sibyl Min Distance Per Encounter: useful
 Stat Base - Sibyl Move Speed: useful
 Stat Base - Stan AGI Under 50%: useful
@@ -128,6 +140,8 @@ Stat Base - Stan HP Under 50%: useful
 Stat Base - Stan Initial Combo: useful
 Stat Base - Stan LUC Under 50%: useful
 Stat Base - Stan Minimum Combo: useful
+Stat Mult - Apolonia Attack: useful
 Stat Mult - Apolonia Defense: useful
 Stat Mult - Apolonia Health: useful
 Stat Mult - Lan Stat Point Per Level: useful
+Stat Mult - Sibyl Max Distance Per Encounter: useful

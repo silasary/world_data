@@ -3,15 +3,21 @@ And: progression
 Blossom: progression
 Bolt: progression
 Bonus Orb: filler
+Chasm Key: progression
 Cog: progression
 Crab: progression
 End: progression
+Fall: progression
+Fence: progression
+Float: progression
 Fruit: progression
 Garden Key: progression
 Group: progression
 Hand: progression
+Has: progression
 Hot: progression
 Island Key: progression
+Keke: progression
 Key: progression
 Lake Key: progression
 Me: progression
@@ -24,4 +30,8 @@ Rocket: progression
 Shift: progression
 Sink: progression
 Skull: progression
+Sleep: progression
 Speck: filler
+Star: progression
+Sun: progression
+Tile: progression

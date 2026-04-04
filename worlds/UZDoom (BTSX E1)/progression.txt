@@ -1,9 +1,12 @@
 Automap (MAP03): useful
+Automap (MAP07): useful
 Automap (MAP09): useful
 Automap (MAP11): useful
 Automap (MAP13): useful
+Automap (MAP15): useful
 Automap (MAP17): useful
 Automap (MAP18): useful
+Automap (MAP19): useful
 Automap (MAP20): useful
 Automap (MAP21): useful
 Automap (MAP22): useful
@@ -14,13 +17,16 @@ Backpack: filler
 Berserk: filler
 BlueArmor: filler
 BlueCard (MAP04): progression
+BlueCard (MAP05): progression
 BlueCard (MAP07): progression
 BlueCard (MAP12): progression
 BlueCard (MAP13): progression
 BlueCard (MAP14): progression
 BlueCard (MAP15): progression
+BlueCard (MAP17): progression
 BlueCard (MAP21): progression
 BlueCard (MAP22): progression
+BlueCard (MAP31): progression
 BlueCard (MAP32): progression
 BlurSphere: filler
 Chaingun: progression
@@ -29,13 +35,18 @@ GreenArmor: filler
 Infrared: filler
 InvulnerabilitySphere: filler
 Level Access (MAP02): progression
+Level Access (MAP03): progression
 Level Access (MAP04): progression
+Level Access (MAP06): progression
+Level Access (MAP07): progression
 Level Access (MAP09): progression
 Level Access (MAP11): progression
 Level Access (MAP12): progression
 Level Access (MAP13): progression
 Level Access (MAP15): progression
+Level Access (MAP17): progression
 Level Access (MAP18): progression
+Level Access (MAP20): progression
 Level Access (MAP21): progression
 Level Access (MAP22): progression
 Level Access (MAP31): progression
@@ -47,8 +58,10 @@ Plasma Rifle: progression
 RadSuit: filler
 RedCard (MAP02): progression
 RedCard (MAP04): progression
+RedCard (MAP05): progression
 RedCard (MAP06): progression
 RedCard (MAP07): progression
+RedCard (MAP09): progression
 RedCard (MAP10): progression
 RedCard (MAP11): progression
 RedCard (MAP14): progression
@@ -57,14 +70,20 @@ RedCard (MAP18): progression
 RedCard (MAP19): progression
 RedCard (MAP20): progression
 RedCard (MAP22): progression
+RedCard (MAP24): progression
 RedCard (MAP32): progression
 Rocket Launcher: progression
 Shotgun: progression
 Soulsphere: filler
 Super Shotgun: progression
 YellowCard (MAP02): progression
+YellowCard (MAP03): progression
 YellowCard (MAP04): progression
+YellowCard (MAP06): progression
+YellowCard (MAP09): progression
 YellowCard (MAP12): progression
+YellowCard (MAP15): progression
 YellowCard (MAP17): progression
 YellowCard (MAP19): progression
 YellowCard (MAP24): progression
+YellowCard (MAP32): progression

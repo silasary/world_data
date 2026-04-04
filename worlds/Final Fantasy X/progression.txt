@@ -11,6 +11,7 @@ Aeon Customization: Aim: filler
 Aeon Customization: Armor Break: useful
 Aeon Customization: Bio: useful
 Aeon Customization: Cheer: filler
+Aeon Customization: Cura: useful
 Aeon Customization: Cure: useful
 Aeon Customization: Dark Attack: useful
 Aeon Customization: Dispel: useful
@@ -301,6 +302,7 @@ Gear Customization: Auto-Reflect: useful
 Gear Customization: Auto-Shell: useful
 Gear Customization: Berserk Ward: filler
 Gear Customization: Break HP Limit: useful
+Gear Customization: Confuse Ward: useful
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
 Gear Customization: Darktouch: useful
@@ -317,6 +319,7 @@ Gear Customization: HP +10%: filler
 Gear Customization: HP +20%: useful
 Gear Customization: HP +5%: filler
 Gear Customization: HP Stroll: filler
+Gear Customization: Half MP Cost: useful
 Gear Customization: Ice Ward: filler
 Gear Customization: Iceproof: useful
 Gear Customization: Initiative: useful
@@ -324,9 +327,11 @@ Gear Customization: Lightning Eater: useful
 Gear Customization: Lightning Ward: filler
 Gear Customization: Lightningproof: useful
 Gear Customization: MP +10%: filler
+Gear Customization: MP +5%: filler
 Gear Customization: MP Stroll: filler
 Gear Customization: Magic +3%: filler
 Gear Customization: Magic +5%: filler
+Gear Customization: Magic Booster: useful
 Gear Customization: Magic Counter: useful
 Gear Customization: Magic Def +10%: useful
 Gear Customization: Magic Def +3%: filler
@@ -336,6 +341,7 @@ Gear Customization: One MP Cost: useful
 Gear Customization: Piercing: useful
 Gear Customization: Poisonstrike: useful
 Gear Customization: SOS NulShock: useful
+Gear Customization: SOS Overdrive: useful
 Gear Customization: SOS Protect: filler
 Gear Customization: SOS Regen: filler
 Gear Customization: SOS Shell: filler

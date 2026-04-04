@@ -7,6 +7,7 @@ Air Fleet Alien: progression
 Air Fleet Checkpoint 2: progression
 Air Fleet Checkpoint 3: progression
 Air Fleet Checkpoint 4: progression
+Air Fleet Checkpoint 5: progression
 Air Fleet Checkpoint 6: progression
 Air Fleet Checkpoint 7: progression
 Air Fleet Key: progression
@@ -28,6 +29,7 @@ Central City Big Bomb: progression
 Central City Checkpoint 2: progression
 Central City Checkpoint 3: progression
 Central City Checkpoint 4: progression
+Central City Checkpoint 6: progression
 Central City Key: progression
 Central City Little Bomb: progression
 Circus Park Checkpoint 1: progression
@@ -57,6 +59,7 @@ Death Ruins Checkpoint 4: progression
 Death Ruins Checkpoint 5: progression
 Death Ruins Checkpoint 6: progression
 Death Ruins Key: progression
+Digital Circuit Checkpoint 1: progression
 Digital Circuit Checkpoint 2: progression
 Digital Circuit Checkpoint 5: progression
 Digital Circuit Checkpoint 7: progression
@@ -127,6 +130,7 @@ Lava Shelter Checkpoint 2: progression
 Lava Shelter Checkpoint 3: progression
 Lava Shelter Checkpoint 6: progression
 Lava Shelter Checkpoint 7: progression
+Lava Shelter Checkpoint 8: progression
 Lava Shelter Defense: progression
 Lava Shelter Key: progression
 Lethal Highway Checkpoint 1: progression
@@ -142,6 +146,7 @@ Mad Matrix Bomb: progression
 Mad Matrix Checkpoint 1: progression
 Mad Matrix Checkpoint 2: progression
 Mad Matrix Checkpoint 3: progression
+Mad Matrix Checkpoint 4: progression
 Mad Matrix Key: progression
 Mad Matrix Terminal: progression
 Mission Token: mcguffin
@@ -215,6 +220,7 @@ Stage:The Doom: progression
 Stage:Westopolis: progression
 The Ark Checkpoint 1: progression
 The Ark Checkpoint 4: progression
+The Ark Checkpoint 7: progression
 The Ark Checkpoint 8: progression
 The Ark Defense Unit: progression
 The Ark Key: progression

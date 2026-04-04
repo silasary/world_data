@@ -5,6 +5,7 @@ Bad RNG: trap
 Bonus Point: useful
 Category 1-2-1 Consecutive SUM: progression
 Category 1-2-1 Consecutive: progression
+Category 2-1-2 Consecutive SUM: progression
 Category 2-1-2 Consecutive: progression
 Category Choice: progression
 Category Distincts: progression
@@ -29,10 +30,12 @@ Category Sixes: progression
 Category Small Straight SUM: progression
 Category Small Straight: progression
 Category Sum of Odds: progression
+Category Three Distinct Dice: progression
 Category Three Odds: progression
 Category Three of a Kind SUM: progression
 Category Three of a Kind: progression
 Category Threes: progression
+Category Tiny Straight SUM: progression
 Category Tiny Straight: progression
 Category Two Pair SUM: progression
 Category Two Pair: progression

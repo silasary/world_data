@@ -96,6 +96,7 @@ Fever Meter Permanent Bonus: [9-5] Twisted Sisters: useful
 Full Clear Discount: [3-3] Ra Deal: useful
 Gold Peg: progression
 Hollow Peg: filler
+Level Unlock: 1-1 Peggleland: progression
 Level Unlock: 1-4 Das Bucket: progression
 Level Unlock: 1-5 Snow Day: progression
 Level Unlock: 10-2 The Dude Abides: progression
@@ -118,7 +119,9 @@ Level Unlock: 3-5 The Fever Level: progression
 Level Unlock: 4-1 The Amoeban: progression
 Level Unlock: 4-3 We Come in Peace: progression
 Level Unlock: 4-4 Maid in Space: progression
+Level Unlock: 4-5 Getting the Spare: progression
 Level Unlock: 5-1 Pearl Clam: progression
+Level Unlock: 5-2 Insane Aquarium: progression
 Level Unlock: 5-3 Tasty Waves: progression
 Level Unlock: 5-5 Love Story: progression
 Level Unlock: 6-1 Waves: progression
@@ -235,6 +238,7 @@ Score Multiplier: 6-1 Waves: useful
 Score Multiplier: 6-2 Spiderweb: useful
 Score Multiplier: 6-3 Blockers: useful
 Score Multiplier: 6-4 Baseball: useful
+Score Multiplier: 6-5 Vermin: useful
 Score Multiplier: 7-1 Holland Oats: useful
 Score Multiplier: 7-4 Tula's Ride: useful
 Score Multiplier: 7-5 70 and Sunny: useful
@@ -325,6 +329,7 @@ Target Score Discount: 5-3 Tasty Waves: useful
 Target Score Discount: 5-4 Our Favorite Eel: useful
 Target Score Discount: 5-5 Love Story: useful
 Target Score Discount: 6-2 Spiderweb: useful
+Target Score Discount: 6-5 Vermin: useful
 Target Score Discount: 7-2 I Heart Flowers: useful
 Target Score Discount: 7-3 Workin from Home: useful
 Target Score Discount: 7-4 Tula's Ride: useful

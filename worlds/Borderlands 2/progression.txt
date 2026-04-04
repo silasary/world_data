@@ -1,6 +1,7 @@
 $100: filler
 10 Eridium: filler
 10% Exp: filler
+3 Skill Points (p): progression
 3 Skill Points: filler
 Backpack Upgrade: filler
 BlueCandy: filler
@@ -42,17 +43,22 @@ Filler Gear: Boom Puppy: filler
 Filler Gear: Bouncing Bonny: filler
 Filler Gear: Breath of Terramorphous: filler
 Filler Gear: Breath of the Seraphs: filler
+Filler Gear: Bunny: filler
 Filler Gear: Butcher: filler
+Filler Gear: Chain Lightning: filler
+Filler Gear: Chulainn: filler
 Filler Gear: Commerce: filler
 Filler Gear: Contraband Sky Rocket: filler
 Filler Gear: Crit: filler
 Filler Gear: Crossfire: filler
 Filler Gear: Dahlminator: filler
+Filler Gear: Damned Cowboy: filler
 Filler Gear: Deadly Bloom: filler
 Filler Gear: Deliverance: filler
 Filler Gear: Dog: filler
 Filler Gear: Easy Mode: filler
 Filler Gear: Elephant Gun: filler
+Filler Gear: Emperor: filler
 Filler Gear: Evil Smasher: filler
 Filler Gear: Evolution: filler
 Filler Gear: Fastball: filler
@@ -114,6 +120,7 @@ Filler Gear: Nirvana: filler
 Filler Gear: Norfleet: filler
 Filler Gear: Nukem: filler
 Filler Gear: Octo: filler
+Filler Gear: Ogre: filler
 Filler Gear: Omen: filler
 Filler Gear: Order: filler
 Filler Gear: Orphan Maker: filler
@@ -122,6 +129,7 @@ Filler Gear: Overcompensator: filler
 Filler Gear: Patriot: filler
 Filler Gear: Peak Opener: filler
 Filler Gear: Pimpernel: filler
+Filler Gear: Pitchfork: filler
 Filler Gear: Pocket Rocket: filler
 Filler Gear: Pun-chee: filler
 Filler Gear: Pyrophobia: filler
@@ -130,6 +138,7 @@ Filler Gear: Rapier: filler
 Filler Gear: Retcher: filler
 Filler Gear: Rex: filler
 Filler Gear: Rolling Thunder: filler
+Filler Gear: Rubi: filler
 Filler Gear: Sand Hawk: filler
 Filler Gear: Sawbar: filler
 Filler Gear: Scorpio: filler
@@ -158,6 +167,7 @@ Filler Gear: Triquetra: filler
 Filler Gear: Tunguska: filler
 Filler Gear: Twister: filler
 Filler Gear: Unforgiven: filler
+Filler Gear: Unicornsplosion: filler
 Filler Gear: Unkempt Harold: filler
 Filler Gear: Veruc: filler
 Filler Gear: VeryRare Shotgun: filler
@@ -178,8 +188,10 @@ Max Ammo SMG: filler
 Max Ammo Shotgun: filler
 Max Ammo SniperRifle: filler
 Max Grenade Count: filler
+Melee: progression
 Pearlescent Pistol: progression
 Pearlescent RocketLauncher: progression
+Pearlescent SMG: progression
 Progressive Jump: progression
 Progressive Money Cap: progression
 Progressive Sprint: progression
@@ -198,6 +210,7 @@ Reward: A Match Made on Pandora: filler
 Reward: A Real Boy: Face Time: filler
 Reward: A Train to Catch: filler
 Reward: A Warm Welcome: filler
+Reward: Animal Rescue: Medicine: filler
 Reward: Animal Rescue: Shelter: filler
 Reward: Animal Rights: filler
 Reward: Arms Dealing: filler
@@ -215,6 +228,7 @@ Reward: Best Minion Ever: filler
 Reward: Best Mother's Day Ever: filler
 Reward: Big Feet: filler
 Reward: Breaking the Bank: filler
+Reward: Burn, Baby, Burn: filler
 Reward: Cadeuceus: filler
 Reward: Capture the Flags: filler
 Reward: Catch-A-Ride, and Also Tetanus: filler
@@ -235,12 +249,14 @@ Reward: Critical Fail: filler
 Reward: Cult Following: Eternal Flame: filler
 Reward: Cult Following: Lighting the Match: filler
 Reward: Cult Following: The Enkindling: filler
+Reward: Customer Service: filler
 Reward: Defend Slab Tower: filler
 Reward: Demon Hunter: filler
 Reward: Denial, Anger, Initiative: filler
 Reward: Do No Harm: filler
 Reward: Doctor's Orders: filler
 Reward: Don't Copy That Floppy: filler
+Reward: Dwarven Allies: filler
 Reward: Echoes of the Past: filler
 Reward: Ell in Shining Armor: filler
 Reward: Follow The Glow: filler
@@ -266,6 +282,7 @@ Reward: Knockin' on Heaven's Door: filler
 Reward: Learning to Love: filler
 Reward: Let There Be Light: filler
 Reward: Long Way To The Top: filler
+Reward: Lost Souls: filler
 Reward: MMORPGFPS: filler
 Reward: Magic Slaughter: Badass Round: filler
 Reward: Magic Slaughter: Round 2: filler
@@ -283,6 +300,7 @@ Reward: Mighty Morphin': filler
 Reward: Mine, All Mine: filler
 Reward: Monster Hunter: filler
 Reward: Monster Mash (Part 1): filler
+Reward: Monster Mash (Part 2): filler
 Reward: Mother-Lover: filler
 Reward: My Brittle Pony: filler
 Reward: My Dead Brother: filler
@@ -299,6 +317,7 @@ Reward: Perfectly Peaceful: filler
 Reward: Pete the Invincible: filler
 Reward: Poetic License: filler
 Reward: Positive Self Image: filler
+Reward: Post-Crumpocalyptic: filler
 Reward: Professor Nakayama, I Presume?: filler
 Reward: Rakkaholics Anonymous: filler
 Reward: Rock, Paper, Genocide: Slag Weapons!: filler
@@ -332,6 +351,7 @@ Reward: The Lost Treasure: filler
 Reward: The Name Game: filler
 Reward: The Once and Future Slab: filler
 Reward: The Overlooked: Medicine Man: filler
+Reward: The Overlooked: This Is Only a Test: filler
 Reward: The Pretty Good Train Robbery: filler
 Reward: The Rakk Dahlia Murder: filler
 Reward: The Road to Sanctuary: filler
@@ -355,6 +375,7 @@ Reward: Welcome To The Jungle: filler
 Reward: Where Angels Fear to Tread (Part 2): filler
 Reward: Where Angels Fear to Tread: filler
 Reward: Whoops: filler
+Reward: Wildlife Preservation: filler
 Reward: Winging It: filler
 Reward: Wingman: filler
 Reward: Won't Get Fooled Again: filler
@@ -376,8 +397,10 @@ Travel: Arid Nexus Boneyard: progression
 Travel: Badass Crater Bar: progression
 Travel: Bloodshot Ramparts: progression
 Travel: Bloodshot Stronghold: progression
+Travel: Candlerakk's Cragg: progression
 Travel: Caustic Caverns: progression
 Travel: Control Core Angel: progression
+Travel: Dragon Keep: progression
 Travel: End of the Line: progression
 Travel: Eridium Blight: progression
 Travel: FFS Intro Sanctuary: progression
@@ -396,6 +419,7 @@ Travel: Lynchwood: progression
 Travel: Mines of Avarice: progression
 Travel: Murderlin's Temple: progression
 Travel: Natural Selection Annex: progression
+Travel: Oasis: progression
 Travel: Opportunity: progression
 Travel: Ore Chasm: progression
 Travel: Pyro Pete's Bar: progression
@@ -425,6 +449,7 @@ Travel: Unassuming Docks: progression
 Travel: Vault of the Warrior: progression
 Travel: Wam Bam Island: progression
 Travel: Writhing Deep: progression
+Travel: Wurmwater: progression
 Uncommon AssaultRifle: progression
 Uncommon ClassMod: progression
 Uncommon GrenadeMod: progression
@@ -432,12 +457,14 @@ Uncommon Pistol: progression
 Uncommon RocketLauncher: progression
 Uncommon SMG: progression
 Uncommon Shield: progression
+Uncommon Shotgun: progression
 Unique RocketLauncher: progression
 Unique SMG: progression
 Unique Shield: progression
 Unique Shotgun: progression
 Unique SniperRifle: progression
 VeryRare AssaultRifle: progression
+VeryRare ClassMod: progression
 VeryRare GrenadeMod: progression
 VeryRare Pistol: progression
 VeryRare Relic: progression

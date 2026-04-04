@@ -51,6 +51,7 @@ Explosive - Breaching Charge MK III: filler
 Explosive - Concussion Grenade: filler
 Explosive - Explosive Baseball: filler
 Explosive - Explosive Compound: filler
+Explosive - Explosive Pen: filler
 Explosive - Fragmentation Grenade: filler
 Explosive - ICA Impact Explosive: filler
 Explosive - ICA Micro Remote Explosive: filler
@@ -173,6 +174,7 @@ Pistol - ICA19 F/A: filler
 Pistol - ICA19 Goldballer: filler
 Pistol - ICA19 Iceballer: filler
 Pistol - ICA19 Shortballer: filler
+Pistol - ICA19: useful
 Pistol - Kalmer 2 - Tranquilizer: filler
 Pistol - Krugermeier 2-2 Dark: filler
 Pistol - Krugermeier 2-2 Silver: filler
@@ -217,6 +219,7 @@ Sniper - Jaeger 7 MKII: filler
 Sniper - Jaeger 7 Tiger: filler
 Sniper - Jaeger 7 Tuatara: filler
 Sniper - Sieger 300 Tactical: filler
+Sniper - Siger 300 Viper: filler
 Sniper - The Ornamental Sniper Rifle: filler
 Sniper - The White Ruby Rude 300 Sniper Rifle: filler
 Starting Location - Ambrose Island - Central Social Hub: filler
@@ -235,6 +238,7 @@ Starting Location - Colorado - Undercover on the Demolition Range: filler
 Starting Location - Colorado - Water Tower: filler
 Starting Location - Dubai - Atrium Lobby: useful
 Starting Location - Dubai - Guard Room: filler
+Starting Location - Dubai - Penthouse: filler
 Starting Location - Haven Island - Resort Gym: filler
 Starting Location - Haven Island - Resort Pool Area: filler
 Starting Location - Hawkes Bay - Beach: filler
@@ -242,6 +246,8 @@ Starting Location - Hokkaido - Infiltrating Along the Mountain Path: filler
 Starting Location - Hokkaido - Spa: filler
 Starting Location - Hokkaido - Undercover in the Garden: filler
 Starting Location - Hokkaido - Undercover in the Operating Theater: filler
+Starting Location - Marrakesh - Undercover on the West Bazaar Rooftop: filler
+Starting Location - Mendoza - Dining Area: filler
 Starting Location - Mendoza - Sniper Spot: filler
 Starting Location - Mendoza - Vineyard: filler
 Starting Location - Miami - Kowoon Pit: filler
@@ -288,6 +294,7 @@ Suit - The Ancestral Hunter Suit: filler
 Suit - The Arkian Tuxedo: filler
 Suit - The Banker Suit: filler
 Suit - The Big, Bad Wolf Suit: filler
+Suit - The Black Bruiser Suit: filler
 Suit - The Black Streak Suit: filler
 Suit - The Black Turtle Streak Suit: filler
 Suit - The Cashmerian: filler

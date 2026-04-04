@@ -5,10 +5,12 @@ Clank Pack: progression
 Hypershot: progression
 Infobot: Annihilation Nation: progression
 Infobot: Command Center: progression
+Infobot: Daxx: progression
 Infobot: Florana: progression
 Infobot: Koros: progression
 Infobot: Marcadia: progression
 Infobot: Metropolis: progression
+Infobot: Obani Draco: progression
 Infobot: Obani Gemini: progression
 Infobot: Starship Phoenix: progression
 Infobot: Tyhrranosis: progression
@@ -17,6 +19,7 @@ Invisible Trap: trap
 Jackpot: filler
 Master Plan: progression
 No Clank Trap: trap
+Progressive Agents of Doom: useful
 Progressive Annihilator: progression
 Progressive Armor: progression
 Progressive Bouncer: useful

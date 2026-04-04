@@ -3,7 +3,10 @@ Fire_Flower: progression
 Starcoin: progression
 Super_Mushroom: progression
 World2: progression
+World4: progression
 World6: progression
+World7: progression
 World9: progression
 climb: progression
 fill_inventory: filler
+triple_jump: progression

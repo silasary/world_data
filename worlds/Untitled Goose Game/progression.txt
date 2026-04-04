@@ -3,12 +3,15 @@ Boots: progression
 Bra: progression
 Bust Pipe: progression
 Butterbeak: trap
+Clippers: progression
 Coin: filler
 Confused Feet: trap
 Cork: progression
 Dartboard: progression
 Dish Soap Bottle: progression
 Duck Statue: progression
+Dustbin Lid: progression
+Dustbin: progression
 Enamel Jug: progression
 Esky: progression
 Fancy Ladies' Souls: progression
@@ -19,6 +22,7 @@ Garage Rope: progression
 Gumboots: progression
 Harmonica: progression
 Horn-Rimmed Glasses: progression
+Jam: progression
 Jeremy Fish: progression
 Knives: progression
 Leeks: progression
@@ -29,6 +33,7 @@ Miniature Birdbath: progression
 Miniature Goose: progression
 Miniature Pump: progression
 Mop: progression
+No Goose Sign (Messy): progression
 No Goose Sign (Pub): progression
 Old Man's Soul: progression
 Oranges: progression
@@ -41,6 +46,7 @@ Quoits (Red): progression
 Radio: progression
 Rake: progression
 Rose: progression
+Sandwich: progression
 Shopping Basket: progression
 Speedy Feet: useful
 Spray Bottle: progression
@@ -49,6 +55,8 @@ Sun Hat: progression
 Sunglasses: progression
 Suspicious Goose: trap
 Tackle Box: progression
+Tennis Ball: progression
+Thermos: progression
 Tidy Neighbour's Soul: progression
 Timber Handle: progression
 Tinned Food: progression

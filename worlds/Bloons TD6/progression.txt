@@ -7,7 +7,7 @@ AcidStability-KUnlock: progression
 AdmiralBrickell-HUnlock: progression
 Adora-HUnlock: progression
 AdorasTemple-MUnlock: useful
-AdvancedLogistics-KUnlock: unknown
+AdvancedLogistics-KUnlock: progression
 AeronauticSubsidy-KUnlock: progression
 AirforceUpgrades-KUnlock: useful
 Alchemist-TUnlock: progression
@@ -73,7 +73,7 @@ DartMonkey-TUnlock: progression
 DartlingGunner-TUnlock: progression
 DeadlyTranquility-KUnlock: useful
 DiversionTactics-KUnlock: progression
-DoorGunner-KUnlock: unknown
+DoorGunner-KUnlock: progression
 Downstream-MUnlock: progression
 Druid-TUnlock: progression
 EliteMilitaryTraining-KUnlock: progression
@@ -121,7 +121,7 @@ Hedge-MUnlock: progression
 HeliPilot-TUnlock: progression
 HeroFavors-KUnlock: progression
 HeroicReach-KUnlock: progression
-HeroicVelocity-KUnlock: unknown
+HeroicVelocity-KUnlock: progression
 HiValueMines-KUnlock: progression
 HighFinance-MUnlock: progression
 HotMagic-KUnlock: progression
@@ -207,6 +207,7 @@ SelfTaughtHeroes-KUnlock: progression
 Skates-MUnlock: progression
 SniperMonkey-TUnlock: progression
 SoCold-KUnlock: useful
+SpaPits-MUnlock: progression
 SpeedyBrewing-KUnlock: progression
 SpiceIslands-MUnlock: unknown
 SpikeFactory-TUnlock: progression
