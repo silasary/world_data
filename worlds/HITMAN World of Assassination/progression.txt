@@ -114,6 +114,7 @@ Level - Carpathian Mountains: progression
 Level - Chongqing: progression
 Level - Colorado: progression
 Level - Dartmoor: progression
+Level - Haven Island: progression
 Level - Hawkes Bay: progression
 Level - Isle of Sgail: progression
 Level - Marrakesh: progression
@@ -228,6 +229,7 @@ Starting Location - Bangkok - Undercover in the 2nd Floor Hallway: filler
 Starting Location - Bangkok - Undercover in the Linen Room: filler
 Starting Location - Bangkok - Undercover in the Restaurant Kitchen: filler
 Starting Location - Berlin - Biker Hangout: filler
+Starting Location - Berlin - Projection Bar: filler
 Starting Location - Berlin - Radio Tower: filler
 Starting Location - Chongqing - Facility Locker Room: filler
 Starting Location - Chongqing - Restaurant Kitchen: filler

@@ -45,6 +45,7 @@ Filler Gear: Breath of Terramorphous: filler
 Filler Gear: Breath of the Seraphs: filler
 Filler Gear: Bunny: filler
 Filler Gear: Butcher: filler
+Filler Gear: Carnage: filler
 Filler Gear: Chain Lightning: filler
 Filler Gear: Chulainn: filler
 Filler Gear: Commerce: filler
@@ -100,6 +101,7 @@ Filler Gear: Kiss of Death: filler
 Filler Gear: Kitten: filler
 Filler Gear: Lady Fist: filler
 Filler Gear: Lascaux: filler
+Filler Gear: Law: filler
 Filler Gear: Leech: filler
 Filler Gear: Lightning Bolt: filler
 Filler Gear: Little Evie: filler
@@ -128,6 +130,7 @@ Filler Gear: Otto Idol: filler
 Filler Gear: Overcompensator: filler
 Filler Gear: Patriot: filler
 Filler Gear: Peak Opener: filler
+Filler Gear: Pearlescent AssaultRifle: filler
 Filler Gear: Pimpernel: filler
 Filler Gear: Pitchfork: filler
 Filler Gear: Pocket Rocket: filler
@@ -137,16 +140,19 @@ Filler Gear: Quasar: filler
 Filler Gear: Rapier: filler
 Filler Gear: Retcher: filler
 Filler Gear: Rex: filler
+Filler Gear: Roaster: filler
 Filler Gear: Rolling Thunder: filler
 Filler Gear: Rubi: filler
 Filler Gear: Sand Hawk: filler
 Filler Gear: Sawbar: filler
 Filler Gear: Scorpio: filler
+Filler Gear: Seraph SniperRifle: filler
 Filler Gear: Shadow of the Seraphs: filler
 Filler Gear: Shotgun 1340: filler
 Filler Gear: Shredifier: filler
 Filler Gear: Skin of the Ancients: filler
 Filler Gear: Skullmasher: filler
+Filler Gear: Sloth: filler
 Filler Gear: Slow Hand: filler
 Filler Gear: Sponge: filler
 Filler Gear: Stalker: filler
@@ -169,6 +175,7 @@ Filler Gear: Twister: filler
 Filler Gear: Unforgiven: filler
 Filler Gear: Unicornsplosion: filler
 Filler Gear: Unkempt Harold: filler
+Filler Gear: Vault Hunter's Relic: filler
 Filler Gear: Veruc: filler
 Filler Gear: VeryRare Shotgun: filler
 Filler Gear: Wanderlust: filler
@@ -189,6 +196,7 @@ Max Ammo Shotgun: filler
 Max Ammo SniperRifle: filler
 Max Grenade Count: filler
 Melee: progression
+Pearlescent AssaultRifle: progression
 Pearlescent Pistol: progression
 Pearlescent RocketLauncher: progression
 Pearlescent SMG: progression
@@ -199,6 +207,7 @@ Progressive Weapon Slot: useful
 Rainbow Shotgun: progression
 Rare AssaultRifle: progression
 Rare GrenadeMod: progression
+Rare RocketLauncher: progression
 Rare SMG: progression
 Rare Shield: progression
 Rare Shotgun: progression
@@ -207,6 +216,7 @@ Reward: 3:10 to Kaboom: filler
 Reward: A Dam Fine Rescue: filler
 Reward: A Hard Place: filler
 Reward: A Match Made on Pandora: filler
+Reward: A Most Cacophonous Lure: filler
 Reward: A Real Boy: Face Time: filler
 Reward: A Train to Catch: filler
 Reward: A Warm Welcome: filler
@@ -259,6 +269,8 @@ Reward: Don't Copy That Floppy: filler
 Reward: Dwarven Allies: filler
 Reward: Echoes of the Past: filler
 Reward: Ell in Shining Armor: filler
+Reward: Faster Than the Speed of Love: filler
+Reward: Feed Butt Stallion: filler
 Reward: Follow The Glow: filler
 Reward: Fun, Sun, and Guns: filler
 Reward: Get Frosty: filler
@@ -275,6 +287,7 @@ Reward: Hyperion Slaughter: Round 1: filler
 Reward: Hyperion Slaughter: Round 2: filler
 Reward: Hyperion Slaughter: Round 5: filler
 Reward: I Know It When I See It: filler
+Reward: I Like My Monsters Rare: filler
 Reward: In Memoriam: filler
 Reward: Interview with a Vault Hunter: filler
 Reward: Kill Yourself: filler
@@ -305,6 +318,7 @@ Reward: Mother-Lover: filler
 Reward: My Brittle Pony: filler
 Reward: My Dead Brother: filler
 Reward: My First Gun: filler
+Reward: My Husband the Skag: filler
 Reward: My Kingdom for a Wand: filler
 Reward: Nakayama-rama: filler
 Reward: No Hard Feelings: filler
@@ -319,6 +333,7 @@ Reward: Poetic License: filler
 Reward: Positive Self Image: filler
 Reward: Post-Crumpocalyptic: filler
 Reward: Professor Nakayama, I Presume?: filler
+Reward: Raiders of the Last Boss: filler
 Reward: Rakkaholics Anonymous: filler
 Reward: Rock, Paper, Genocide: Slag Weapons!: filler
 Reward: Rocko's Modern Strife: filler
@@ -346,6 +361,7 @@ Reward: The Cost of Progress: filler
 Reward: The Dawn of New Pandora: filler
 Reward: The Fall of Nakayama: filler
 Reward: The Hermit: filler
+Reward: The Hunger Pangs: filler
 Reward: The Ice Man Cometh: filler
 Reward: The Lost Treasure: filler
 Reward: The Name Game: filler
@@ -382,6 +398,7 @@ Reward: Won't Get Fooled Again: filler
 Reward: Written by the Victor: filler
 Reward: Ye Scurvy Dogs: filler
 Reward: You Are Cordially Invited: Party Prep: filler
+Reward: You Are Cordially Invited: RSVP: filler
 Reward: You Are Cordially Invited: Tea Party: filler
 Reward: You. Will. Die. (Seriously.): filler
 Seraph RocketLauncher: progression
@@ -416,6 +433,7 @@ Travel: Hunter's Grotto: progression
 Travel: Immortal Woods: progression
 Travel: Lair of Infinite Agony: progression
 Travel: Lynchwood: progression
+Travel: Marcus's Mercenary Shop: progression
 Travel: Mines of Avarice: progression
 Travel: Murderlin's Temple: progression
 Travel: Natural Selection Annex: progression

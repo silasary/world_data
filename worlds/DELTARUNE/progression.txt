@@ -20,6 +20,7 @@ Bake Sale Ticket: progression
 Bake Sale Warp: progression
 BlackShard: useful
 Blue Ribbon: useful
+Board 2 Cartridge: progression
 Board 2 Game Cartridge: progression
 BounceBlade: useful
 Brave Ax: useful
@@ -34,6 +35,7 @@ CH1 Egg: useful
 CH2 Egg: useful
 CH3 Egg: useful
 CH4 Egg: useful
+Card Castle Warp: progression
 Castle Key: progression
 Castle Moss: useful
 Castle Warp: progression
@@ -57,6 +59,7 @@ DeluxeDinner: filler
 DevilsKnife: useful
 Devilsknife: useful
 Dice Brace: useful
+Dice Bracelet: useful
 DogDollar: filler
 Door Key: progression
 EmptyDisk: progression
@@ -65,6 +68,7 @@ FiberScarf: useful
 FlatSoda: filler
 FlexScarf: useful
 FrayedBowtie: filler
+FreezeRing: useful
 GingerGuard: useful
 GlowWrist: progression
 Glowshard: filler
@@ -102,6 +106,7 @@ S.POISON: filler
 SHELTER KEY: progression
 SMILE: useful
 Saber10: useful
+Sacred Moss: useful
 Safety Vest: progression
 ScarfMark: useful
 Scarlixir: filler
@@ -120,11 +125,13 @@ TVSlop: filler
 TennaTie: useful
 TensionBit: progression
 TensionBow: useful
+TensionMax: useful
 ThornRing: progression
 Top Cake: progression
 ToxicAxe: useful
 Trash Zone Warp: progression
 TripTicket: progression
+Twin Ribbon: useful
 VIP Pass: progression
 Waferguard: useful
 White Ribbon: progression

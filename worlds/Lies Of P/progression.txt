@@ -11,17 +11,23 @@ Anti-Freeze Ampoule: filler
 Arcade Underground Passage Key: progression
 Arch Disruption Cartridge: useful
 Arch Fiber-Reinforced Liner: useful
+Arch Heavyweight Frame: useful
 Arch Multi-Layer Liner: useful
 Arche Abbey Passageway Key: progression
+Arm of God Amulet: useful
+Armor of The Honorable: filler
 Attribute Purification Ampoule: filler
 Attribute Resistance Ampoule: filler
 Awakened God's Amulet: useful
 Azure Dragon Crescent Glaive: progression
 Balance Crank: useful
 Bandana of the Honorable: filler
+Belford Break Cartridge: useful
+Belford Disruption Cartridge: useful
 Belford Fiber-Reinforced Liner: useful
 Belford Multi-Layer Liner: useful
 Belford Shock Cartridge: useful
+Belford Spaced Armor Liner: useful
 Belford Superior Corrosion Resistance Converter: useful
 Belford Superior Insulation Converter: useful
 Big Pipe Wrench: useful
@@ -34,13 +40,16 @@ Bloody Cipher Machine: progression
 Blue Blood's Tailcoat: filler
 Blue Guardianship Amulet: useful
 Blue Sheep's Battle Apparel: filler
+Bone-Cutting Saw: useful
 Booster Glaive: useful
 Bramble Curved Sword : useful
+Broken Cutting Grindstone: useful
 Broken Hero's Ergo: progression
 Broken Piercing Grindstone: useful
 Burnt-White King's Ergo: progression
 Cable Railway Key: progression
 Carcass Body Fluid Bottle: filler
+Carcass Butcher's Amulet: useful
 Carcass Crystal Axe: useful
 Carnival Coin: progression
 Carrier's Amulet +1: useful
@@ -48,6 +57,7 @@ Carrier's Amulet: useful
 Cat Dust: filler
 Chain: filler
 Circular Electric Chainsaw: useful
+City Longspear: useful
 Clock Sword: useful
 Cluster Grenade: filler
 Conquering Amulet: useful
@@ -62,6 +72,7 @@ Dancing One's Amulet: useful
 Dark Moon Moonstone Of The Covenant: progression
 Daylight-Wreathed Horn: progression
 Death's Talons: progression
+Dim Ergo Chunk: filler
 Dim Ergo Crystal: filler
 Dim Ergo Fragment: filler
 Duelist's Amulet: useful
@@ -85,6 +96,7 @@ Fisherman's Weathered Key: progression
 Flame Grindstone: progression
 Frenzied Amulet: useful
 Frosted Cipher Machine: progression
+Frozen Feast: progression
 Full Moonstone Of The Covenent: progression
 Full Moonstone: progression
 Gemini's Emergency Protection: filler
@@ -98,16 +110,20 @@ Golden Snail's Mask: filler
 Golden Snail's Tailcoat: filler
 Great Adventure Mask: filler
 Great Venigni Collection: progression
+Greatsword of Fate: useful
+Grinder Modification Tool: progression
 Grindstone Coating Capsule: filler
 Half Moonstone: progression
 Hidden Moonstone: progression
 High-Level Alchemist Badge: progression
 High-Powered Flame Amplifier: useful
+Holy Sword Of The Ark: progression
 Hunter's Amulet: useful
 Illusory Emerald Glasses: filler
 Impregnable Fortress Amulet: useful
 Incredible Venigni Collection: progression
 Indomitable Amulet: useful
+Iron Wall Amulet: useful
 Jeweled Cryptic Vessel: progression
 King's Flame Ergo: progression
 Klaus's Luxury Bag: progression
@@ -119,7 +135,13 @@ Krat Police Baton: useful
 Krat Supply Box: progression
 LADA Break Cartridge: useful
 LADA Disruption Cartridge: useful
+LADA F150 Frame: useful
+LADA F250 Frame: useful
+LADA Large Capacity Corrosion Resistance Converter: useful
+LADA Large Capacity Radiation Converter: useful
 LADA Multi-Layer Liner: useful
+LADA Shock Cartridge: useful
+La Vendetta: useful
 Leader's Battle Apparel: filler
 Leader's Mask: filler
 Leaping Amulet: useful
@@ -130,9 +152,11 @@ Life Amulet: useful
 Live Puppet's Axe: useful
 Lorenzini Arcade 1st Floor Key: progression
 Lorenzini Bolt: useful
+Mad Donkey's Mask: filler
 Maniac's Pinwheel: useful
 Markiona's Key: progression
 Master Chef's Knife: useful
+Mechanical Cryptic Vessel: progression
 Midwinter Night's Red Nose: filler
 Military Shovel: useful
 Miraculous Enhancement Ampoule: filler
@@ -151,6 +175,7 @@ Owl Doctor's Hunting Apparel: filler
 Owl Doctor's Mask: filler
 Pale Knight: progression
 Parade Leader's Ergo: progression
+Patience Amulet: useful
 Piercing Death's Hunting Apparel: progression
 Piercing Hatred Amulet: useful
 Proof Of Humanity: progression
@@ -162,6 +187,7 @@ Quartz: progression
 Radiant Ergo Chunk: filler
 Radiant Ergo Crystal: filler
 Radiant Ergo Fragment: filler
+Recharged Amulet: useful
 Red Fox's Amulet: useful
 Red Fox's Hunting Apparel: filler
 Red Fox's Mask: filler
@@ -172,17 +198,22 @@ Resplendent Ergo Fragment: filler
 Robber Weasel's Hunting Apparel: filler
 Robbers' Shack Key: progression
 Rosa Isabelle Street Entrance Key: progression
+Rose Garden Key: progression
 Royal Horn Bow: progression
 Sad Zealot's Ergo: progression
+Saintess Of Mercy Statue Gallery Key: progression
 Saw Blade: filler
 Sawtoothed Wheel: filler
 Secret Ruins Key: progression
 Seven-Coil Spring Sword: progression
 Sharp Pipe: filler
+Shepherd's Amulet: useful
 Shot Put: filler
+Silent Evangelists' Mace: useful
 Slum Shack Key: progression
 Solutionist's Amulet : useful
 Someone's Memory: filler
+Spear of Honor: useful
 Special Krat Supply Box: progression
 Special Purification Ampoule: filler
 Special Resistance Ampoule: filler
@@ -200,14 +231,17 @@ Tap Dance: progression
 Technique Amulet: useful
 Technique Crank: useful
 The Atoned's Hunting Apparel: filler
+The Atoned's Mask: filler
 The Chosen Ones Trinity Key: progression
 The Eccentric's Mask: filler
 The Eldest's Gas Mask: filler
+The White Lady's Mask: filler
 The Youngest's Mask: filler
 Thermite: filler
 Throwing Cell: filler
 Transformation Amulet: useful
 Treasure Hunter's Hunting Apparel: filler
+Treasure Hunter's Mask: filler
 Trident Of The Covenent: progression
 Trinity Key: progression
 Triumvirate Amulet: useful
@@ -218,6 +252,7 @@ Upgrade Core: progression
 Uroboros’s Eye: progression
 Venigni's Urgent Repair Tool: filler
 Veteran's Amulet: useful
+Veteran's Eyepatch: filler
 Vivid Ergo Chunk: filler
 Vivid Ergo Crystal: filler
 Vivid Ergo Fragment: filler
@@ -227,6 +262,8 @@ Winter's Hunting Apparel: filler
 Winter's Hunting Hat: filler
 Winter's Sleep Amulet: useful
 Wintry Rapier: useful
+Workshop Master's Workwear: filler
+Workshop Union Auto-Adaptive Converter: useful
 Workshop Union Composite Armor Liner: useful
 Workshop Union Finished Cartridge: useful
 Workshop Union Lightweight Frame: useful

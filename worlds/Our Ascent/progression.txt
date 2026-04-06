@@ -8,7 +8,9 @@ Accessory - Apolonia Recovery Ring: useful
 Accessory - Apolonia Shield Amulet: useful
 Accessory - Apolonia Slim Double Band: useful
 Accessory - Hina Blood Ring: useful
+Accessory - Hina Coin Amulet: useful
 Accessory - Hina Dagger Amulet: useful
+Accessory - Hina Death Ring II: useful
 Accessory - Hina Dull Ring: useful
 Accessory - Hina Engraved Ring: useful
 Accessory - Hina Masked Amulet: useful
@@ -26,6 +28,7 @@ Accessory - Lan Slim Band: useful
 Accessory - Lan Slim Double Band: useful
 Accessory - Sibyl Defeated Earring: useful
 Accessory - Sibyl Dull Ring: useful
+Accessory - Sibyl Engraved Ring: useful
 Accessory - Sibyl Fancy Ring: useful
 Accessory - Sibyl Masked Amulet: useful
 Accessory - Sibyl Power Ring: useful
@@ -33,6 +36,7 @@ Accessory - Sibyl Slim Double Band: useful
 Accessory - Sibyl Studded Band: useful
 Accessory - Sibyl Twilight Amulet: useful
 Accessory - Stan Crown Ring: useful
+Accessory - Stan Dagger Amulet: useful
 Accessory - Stan Double Band: useful
 Accessory - Stan Empty Ring: useful
 Accessory - Stan Engraved Ring: useful
@@ -66,6 +70,7 @@ Augment - Sibyl Stunning Distraction: progression
 Augment - Stan Amplified Strength: progression
 Augment - Stan Defiant Guard: progression
 Augment - Stan Fierce Onslaught: progression
+Augment - Stan Swift Steps: progression
 Augment - Stan Vitality Boost: progression
 Character - Playable Apolonia: progression
 Character - Playable Hina: progression
@@ -108,9 +113,11 @@ Stan Falls Asleep: filler
 Stat Base - Apolonia Attack: useful
 Stat Base - Apolonia Defense: useful
 Stat Base - Apolonia Encounter Points: useful
+Stat Base - Apolonia Health: useful
 Stat Base - Apolonia Temp AGI Multi Per Turn: useful
 Stat Base - Apolonia Temp ATK Multi Per Turn: useful
 Stat Base - Apolonia Temp DEF Multi Per Turn: useful
+Stat Base - Apolonia Temp HP Multi Per Turn: useful
 Stat Base - Hina Bleed Damage: useful
 Stat Base - Hina Crit Damage Multiplier: useful
 Stat Base - Hina Current HP Heal Per Turn: useful
@@ -143,5 +150,6 @@ Stat Base - Stan Minimum Combo: useful
 Stat Mult - Apolonia Attack: useful
 Stat Mult - Apolonia Defense: useful
 Stat Mult - Apolonia Health: useful
+Stat Mult - Lan Experience Gain: useful
 Stat Mult - Lan Stat Point Per Level: useful
 Stat Mult - Sibyl Max Distance Per Encounter: useful

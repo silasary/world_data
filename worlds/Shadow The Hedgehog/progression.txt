@@ -10,11 +10,13 @@ Air Fleet Checkpoint 4: progression
 Air Fleet Checkpoint 5: progression
 Air Fleet Checkpoint 6: progression
 Air Fleet Checkpoint 7: progression
+Air Fleet Checkpoint 8: progression
 Air Fleet Key: progression
 Air Fleet President Aircraft: progression
 Air Shoes: progression
 Black Comet Checkpoint 1: progression
 Black Comet Checkpoint 4: progression
+Black Comet Checkpoint 5: progression
 Black Comet Checkpoint 6: progression
 Black Comet Checkpoint 7: progression
 Black Comet Checkpoint 8: progression
@@ -35,14 +37,18 @@ Central City Little Bomb: progression
 Circus Park Checkpoint 1: progression
 Circus Park Checkpoint 2: progression
 Circus Park Checkpoint 3: progression
+Circus Park Checkpoint 7: progression
 Circus Park Key: progression
 Circus Park Soldier: progression
 Cosmic Fall Checkpoint 1: progression
+Cosmic Fall Checkpoint 2: progression
 Cosmic Fall Checkpoint 3: progression
+Cosmic Fall Checkpoint 4: progression
 Cosmic Fall Checkpoint 5: progression
 Cosmic Fall Checkpoint 6: progression
 Cosmic Fall Key: progression
 Cryptic Castle Checkpoint 1: progression
+Cryptic Castle Checkpoint 2: progression
 Cryptic Castle Checkpoint 3: progression
 Cryptic Castle Checkpoint 4: progression
 Cryptic Castle Checkpoint 5: progression
@@ -61,12 +67,14 @@ Death Ruins Checkpoint 6: progression
 Death Ruins Key: progression
 Digital Circuit Checkpoint 1: progression
 Digital Circuit Checkpoint 2: progression
+Digital Circuit Checkpoint 4: progression
 Digital Circuit Checkpoint 5: progression
 Digital Circuit Checkpoint 7: progression
 Digital Circuit Key: progression
 Egg Pawn Weapons: progression
 Final Boss Token: progression
 Final Haunt Checkpoint 2: progression
+Final Haunt Checkpoint 3: progression
 Final Haunt Checkpoint 4: progression
 Final Haunt Checkpoint 5: progression
 Final Haunt Checkpoint 6: progression
@@ -101,7 +109,9 @@ Gauge:Hero-500: filler
 Gauge:Hero-5: filler
 Glyphic Canyon Alien: progression
 Glyphic Canyon Checkpoint 1: progression
+Glyphic Canyon Checkpoint 2: progression
 Glyphic Canyon Checkpoint 3: progression
+Glyphic Canyon Checkpoint 4: progression
 Glyphic Canyon Checkpoint 5: progression
 Glyphic Canyon Checkpoint 6: progression
 Glyphic Canyon Checkpoint 7: progression
@@ -122,6 +132,8 @@ Iron Jungle Checkpoint 1: progression
 Iron Jungle Checkpoint 2: progression
 Iron Jungle Checkpoint 3: progression
 Iron Jungle Checkpoint 4: progression
+Iron Jungle Checkpoint 5: progression
+Iron Jungle Checkpoint 8: progression
 Iron Jungle Egg Balloon: progression
 Iron Jungle Key: progression
 Iron Jungle Soldier: progression
@@ -134,19 +146,25 @@ Lava Shelter Checkpoint 8: progression
 Lava Shelter Defense: progression
 Lava Shelter Key: progression
 Lethal Highway Checkpoint 1: progression
+Lethal Highway Checkpoint 2: progression
 Lethal Highway Checkpoint 3: progression
 Lethal Highway Checkpoint 5: progression
 Lethal Highway Key: progression
 Lethal Highway Tank: progression
 Lost Impact Artificial Chaos: progression
 Lost Impact Checkpoint 1: progression
+Lost Impact Checkpoint 3: progression
 Lost Impact Checkpoint 5: progression
+Lost Impact Checkpoint 6: progression
+Lost Impact Checkpoint 7: progression
 Lost Impact Key: progression
 Mad Matrix Bomb: progression
 Mad Matrix Checkpoint 1: progression
 Mad Matrix Checkpoint 2: progression
 Mad Matrix Checkpoint 3: progression
 Mad Matrix Checkpoint 4: progression
+Mad Matrix Checkpoint 5: progression
+Mad Matrix Checkpoint 6: progression
 Mad Matrix Key: progression
 Mad Matrix Terminal: progression
 Mission Token: mcguffin
@@ -170,6 +188,8 @@ Shadow Rifle Magazine: useful
 Shadow Rifle Receiver: useful
 Shadow Rifle Stock: progression
 Sky Troops Checkpoint 1: progression
+Sky Troops Checkpoint 3: progression
+Sky Troops Checkpoint 5: progression
 Sky Troops Checkpoint 6: progression
 Sky Troops Checkpoint 8: progression
 Sky Troops Egg Ship: progression
@@ -219,20 +239,25 @@ Stage:The Ark: progression
 Stage:The Doom: progression
 Stage:Westopolis: progression
 The Ark Checkpoint 1: progression
+The Ark Checkpoint 3: progression
 The Ark Checkpoint 4: progression
+The Ark Checkpoint 5: progression
 The Ark Checkpoint 7: progression
 The Ark Checkpoint 8: progression
 The Ark Defense Unit: progression
 The Ark Key: progression
 The Doom Checkpoint 1: progression
 The Doom Checkpoint 5: progression
+The Doom Checkpoint 6: progression
 The Doom Key: progression
 The Doom Researcher: progression
 The Doom Soldier: progression
 The Last Way Checkpoint 1: progression
 The Last Way Checkpoint 2: progression
 The Last Way Checkpoint 3: progression
+The Last Way Checkpoint 4: progression
 The Last Way Checkpoint 6: progression
+The Last Way Checkpoint 7: progression
 The Last Way Key: progression
 Vehicle: Air Saucer: unknown
 Vehicle: Armored Car: unknown
@@ -304,7 +329,7 @@ Weapon:Black Barrel Ammo Boost: filler
 Weapon:Black Barrel: progression
 Weapon:Black Sword Ammo Boost: filler
 Weapon:Black Sword: progression
-Weapon:Canyon Pole: unknown
+Weapon:Canyon Pole: filler
 Weapon:Circus Pole: filler
 Weapon:Cosmic Pole: filler
 Weapon:Cryptic Torch: progression
@@ -384,7 +409,9 @@ Weapon:Worm Shooter Ammo Boost: filler
 Weapon:Worm Shooter: progression
 Westopolis Alien: progression
 Westopolis Checkpoint 1: progression
+Westopolis Checkpoint 2: progression
 Westopolis Checkpoint 4: progression
+Westopolis Checkpoint 5: progression
 Westopolis Checkpoint 6: progression
 Westopolis Key: progression
 Westopolis Soldier: progression

@@ -10,6 +10,7 @@ Ambush: useful
 Ancestral Call Support: unknown
 Ancestral Cry: unknown
 Ancestral Protector: progression
+Animate Weapon: useful
 Arc: useful
 Arcane Surge Support: useful
 Arcanist Brand: unknown
@@ -50,7 +51,7 @@ Bloodlust Support: filler
 Bloodthirst Support: filler
 Bodyswap: progression
 Bonechill Support: useful
-Boneshatter: unknown
+Boneshatter: useful
 Brand Recall: progression
 Brutality Support: progression
 Burning Arrow: unknown
@@ -60,6 +61,7 @@ Cast on Death Support: progression
 Cast on Melee Kill Support: filler
 Cast when Damage Taken Support: unknown
 Cast while Channelling Support: unknown
+Caustic Arrow: useful
 Chain Hook: progression
 Chain Support: useful
 Champion: progression
@@ -96,13 +98,13 @@ Crushing Fist: useful
 Culling Strike Support: progression
 Cursed Ground Support: useful
 Cyclone: unknown
-Damage on Full Life Support: unknown
+Damage on Full Life Support: progression
 Dark Pact: useful
 Dash: progression
 Deadeye: progression
 Deadly Ailments Support: useful
 Desecrate: useful
-Despair: unknown
+Despair: useful
 Destructive Link: filler
 Determination: progression
 Detonate Mines: progression
@@ -112,11 +114,11 @@ Discharge: useful
 Discipline: useful
 Divine Retribution: progression
 Double Strike: unknown
-Dread Banner: unknown
+Dread Banner: useful
 Dual Strike: progression
 Duelist: unknown
 Earthquake: progression
-Earthshatter: unknown
+Earthshatter: useful
 Efficacy Support: unknown
 Elemental Army Support: useful
 Elemental Damage with Attacks Support: useful
@@ -125,7 +127,7 @@ Elemental Hit: progression
 Elemental Penetration Support: useful
 Elemental Proliferation Support: progression
 Elemental Weakness: unknown
-Elementalist: unknown
+Elementalist: progression
 Empower Support: filler
 Enduring Cry: useful
 Energy Blade: useful
@@ -135,16 +137,16 @@ Ensnaring Arrow: useful
 Essence Drain: useful
 Eternal Blessing Support: useful
 Eviscerate: useful
-Expert Retaliation Support: unknown
+Expert Retaliation Support: useful
 Explosive Arrow: useful
 Explosive Concoction: unknown
-Explosive Trap: unknown
+Explosive Trap: progression
 Exsanguinate: unknown
 Eye of Winter: useful
 Faster Casting Support: progression
 Faster Projectiles Support: useful
 Feeding Frenzy Support: useful
-Fire Trap: unknown
+Fire Trap: useful
 Firestorm: progression
 Fist of War Support: unknown
 Flame Dash: useful
@@ -159,7 +161,7 @@ Flesh Offering: progression
 Flicker Strike: useful
 Focused Ballista Support: useful
 Focused Channelling Support: useful
-Forbidden Rite: unknown
+Forbidden Rite: useful
 Fork Support: useful
 Fortify Support: useful
 Freezing Pulse: useful
@@ -181,24 +183,25 @@ Glacial Cascade: useful
 Glacial Hammer: progression
 Glacial Shield Swipe: progression
 Gladiator: progression
-Grace: unknown
-Greater Multiple Projectiles Support: unknown
+Grace: useful
+Greater Multiple Projectiles Support: useful
 Greater Volley Support: useful
 Guardian's Blessing Support: progression
 Guardian: unknown
-Haste: unknown
+Haste: useful
+Hatred: progression
 Heavy Strike: progression
 Herald of Agony: useful
 Herald of Ash: progression
 Herald of Ice: useful
 Herald of Purity: progression
 Herald of Thunder: useful
-Hex Bloom Support: unknown
+Hex Bloom Support: useful
 Hexblast: progression
 Hextouch Support: progression
 Hierophant: progression
 High-Impact Mine Support: useful
-Holy Flame Totem: unknown
+Holy Flame Totem: useful
 Hydrosphere: progression
 Hypothermia Support: unknown
 Ice Bite Support: useful
@@ -215,7 +218,7 @@ Impale Support: progression
 Impending Doom Support: progression
 Increased Area of Effect Support: progression
 Increased Critical Damage Support: unknown
-Increased Critical Strikes Support: unknown
+Increased Critical Strikes Support: useful
 Infernal Cry: useful
 Infernal Legion Support: useful
 Infused Channelling Support: progression
@@ -225,6 +228,7 @@ Inspiration Support: useful
 Intensify Support: useful
 Intimidating Cry: progression
 Intuitive Link: filler
+Iron Grip Support: filler
 Iron Will Support: unknown
 Item Rarity Support: progression
 Juggernaut: unknown
@@ -235,7 +239,7 @@ Knockback Support: filler
 Lacerate: progression
 Lancing Steel: progression
 Leap Slam: progression
-Less Duration Support: unknown
+Less Duration Support: useful
 Life Gain on Hit Support: useful
 Life Leech Support: useful
 Lifetap Support: useful
@@ -258,7 +262,7 @@ Marauder: progression
 Mark On Hit Support: unknown
 Meat Shield Support: useful
 Melee Physical Damage Support: useful
-Melee Splash Support: unknown
+Melee Splash Support: useful
 Minefield Support: progression
 Minion Damage Support: unknown
 Minion Life Support: progression
@@ -273,7 +277,7 @@ Multiple Totems Support: useful
 Multiple Traps Support: unknown
 Multistrike Support: useful
 Necromancer: unknown
-Nightblade Support: unknown
+Nightblade Support: useful
 Normal Dagger: progression
 Normal Mace: unknown
 Normal Sceptre: unknown
@@ -281,6 +285,7 @@ Normal Sword: unknown
 Occultist: unknown
 Overcharge Support: useful
 Pathfinder: progression
+Penance Brand: useful
 Perforate: useful
 Pestilent Strike: progression
 Petrified Blood: useful
@@ -289,7 +294,7 @@ Physical to Lightning Support: progression
 Pierce Support: progression
 Pinpoint Support: unknown
 Plague Bearer: useful
-Poacher's Mark: unknown
+Poacher's Mark: useful
 Point Blank Support: filler
 Poisonous Concoction: useful
 Power Charge On Critical Support: unknown
@@ -297,6 +302,7 @@ Power Siphon: progression
 Precision: unknown
 Predator Support: progression
 Pride: useful
+Prismatic Burst Support: useful
 Progressive Amulet: progression
 Progressive Axe: progression
 Progressive Belt: progression
@@ -334,9 +340,9 @@ Purity of Elements: progression
 Purity of Ice: useful
 Purity of Lightning: progression
 Pyroclast Mine: useful
-Rage Support: unknown
+Rage Support: useful
 Rage Vortex: useful
-Rain of Arrows: unknown
+Rain of Arrows: useful
 Raise Spectre: useful
 Raise Zombie: progression
 Rallying Cry: progression
@@ -367,6 +373,7 @@ Shockwave Support: filler
 Shockwave Totem: useful
 Shrapnel Ballista: useful
 Siege Ballista: useful
+Sigil of Power: useful
 Siphoning Trap: progression
 Slayer: unknown
 Slower Projectiles Support: unknown
@@ -382,6 +389,7 @@ Spectral Throw: useful
 Spell Cascade Support: unknown
 Spell Totem Support: unknown
 Spellblade Support: useful
+Spellslinger: useful
 Spirit Offering: progression
 Splitting Steel: progression
 Static Strike: progression
@@ -396,6 +404,7 @@ Stun Support: progression
 Summon Carrion Golem: useful
 Summon Chaos Golem: progression
 Summon Flame Golem: progression
+Summon Holy Relic: useful
 Summon Lightning Golem: useful
 Summon Phantasm Support: useful
 Summon Raging Spirit: useful
@@ -426,11 +435,11 @@ Unearth: progression
 Unleash Support: useful
 Urgent Orders Support: filler
 Vaal Gems: unknown
-Vampiric Link: unknown
-Vengeful Cry: unknown
+Vampiric Link: filler
+Vengeful Cry: useful
 Venom Gyre: useful
 Vigilant Strike: unknown
-Vile Toxins Support: unknown
+Vile Toxins Support: useful
 Viper Strike: useful
 Vitality: useful
 Void Manipulation Support: useful

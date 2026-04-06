@@ -11,8 +11,11 @@ Fever Meter Permanent Bonus: 10-2 Turn It To Zen: useful
 Fever Meter Permanent Bonus: 10-3 Wild Thing: useful
 Fever Meter Permanent Bonus: 10-4 We Will Rock You: useful
 Fever Meter Permanent Bonus: 10-5 Feel The Noize: useful
+Fever Meter Permanent Bonus: 11-1 Jelly Jeopardy: useful
 Fever Meter Permanent Bonus: 11-2 Ouroboros: useful
 Fever Meter Permanent Bonus: 11-3 The Deep: useful
+Fever Meter Permanent Bonus: 11-4 Water Whirled: useful
+Fever Meter Permanent Bonus: 11-5 Diploma, See?: useful
 Fever Meter Permanent Bonus: 12-1 Psyclone: useful
 Fever Meter Permanent Bonus: 12-2 Why You Buggin'?: useful
 Fever Meter Permanent Bonus: 12-3 Wyrm Sign: useful
@@ -33,6 +36,7 @@ Fever Meter Permanent Bonus: 2-2 Brrrzap!: useful
 Fever Meter Permanent Bonus: 2-3 Antitoxic: useful
 Fever Meter Permanent Bonus: 2-5 Smartiness: useful
 Fever Meter Permanent Bonus: 3-1 Scary Night: useful
+Fever Meter Permanent Bonus: 3-2 Seasick: useful
 Fever Meter Permanent Bonus: 3-3 Nooooo!!!: useful
 Fever Meter Permanent Bonus: 3-4 Twitching Hour: useful
 Fever Meter Permanent Bonus: 3-5 Nowhere Stairs: useful
@@ -66,6 +70,7 @@ Fever Meter Permanent Bonus: [10-4] We Will Rock You: useful
 Fever Meter Permanent Bonus: [11-1] Jelly Jeopardy: useful
 Fever Meter Permanent Bonus: [12-2] Why You Buggin'?: useful
 Fever Meter Permanent Bonus: [3-2] Seasick: useful
+Fever Meter Permanent Bonus: [4-2] Parade!: useful
 Fever Meter Permanent Bonus: [6-2] Vast Visitor: useful
 Fever Meter Permanent Bonus: [9-5] Great Ball of Ire: useful
 Full Clear Discount: 1-1 Crimewave: useful
@@ -76,7 +81,10 @@ Full Clear Discount: 1-5 Bjorn Identity: useful
 Full Clear Discount: 10-1 Pick One: useful
 Full Clear Discount: 10-2 Turn It To Zen: useful
 Full Clear Discount: 10-3 Wild Thing: useful
+Full Clear Discount: 10-4 We Will Rock You: useful
 Full Clear Discount: 10-5 Feel The Noize: useful
+Full Clear Discount: 11-1 Jelly Jeopardy: useful
+Full Clear Discount: 11-2 Ouroboros: useful
 Full Clear Discount: 11-4 Water Whirled: useful
 Full Clear Discount: 11-5 Diploma, See?: useful
 Full Clear Discount: 12-1 Psyclone: useful
@@ -103,10 +111,12 @@ Full Clear Discount: 3-3 Nooooo!!!: useful
 Full Clear Discount: 3-4 Twitching Hour: useful
 Full Clear Discount: 3-5 Nowhere Stairs: useful
 Full Clear Discount: 4-1 Step Right Up: useful
+Full Clear Discount: 4-3 Me-Yowwww!: useful
 Full Clear Discount: 4-4 Jump The Squid: useful
 Full Clear Discount: 4-5 Death Defying: useful
 Full Clear Discount: 5-1 Bowl Of Drome: useful
 Full Clear Discount: 5-2 Arrivance: useful
+Full Clear Discount: 5-3 Last Ball: useful
 Full Clear Discount: 5-4 Explodious: useful
 Full Clear Discount: 5-5 Perfectified: useful
 Full Clear Discount: 6-1 Pollution Picnic: useful
@@ -151,6 +161,7 @@ Level Unlock: 14-1 Lolly Drop: progression
 Level Unlock: 14-2 Bloomin': progression
 Level Unlock: 14-3 Magic Hour: progression
 Level Unlock: 14-4 Tulip Leaves: progression
+Level Unlock: 14-5 Fluffy Sunnies: progression
 Level Unlock: 2-1 Experiment X: progression
 Level Unlock: 2-2 Brrrzap!: progression
 Level Unlock: 2-3 Antitoxic: progression
@@ -158,9 +169,11 @@ Level Unlock: 2-4 Breakthrough: progression
 Level Unlock: 2-5 Smartiness: progression
 Level Unlock: 3-1 Scary Night: progression
 Level Unlock: 3-2 Seasick: progression
+Level Unlock: 3-3 Nooooo!!!: progression
 Level Unlock: 3-5 Nowhere Stairs: progression
 Level Unlock: 4-1 Step Right Up: progression
 Level Unlock: 4-2 Parade!: progression
+Level Unlock: 4-3 Me-Yowwww!: progression
 Level Unlock: 4-5 Death Defying: progression
 Level Unlock: 5-1 Bowl Of Drome: progression
 Level Unlock: 5-2 Arrivance: progression
@@ -239,6 +252,7 @@ Score Multiplier: 14-2 Bloomin': useful
 Score Multiplier: 14-3 Magic Hour: useful
 Score Multiplier: 14-4 Tulip Leaves: useful
 Score Multiplier: 14-5 Fluffy Sunnies: useful
+Score Multiplier: 2-1 Experiment X: useful
 Score Multiplier: 2-2 Brrrzap!: useful
 Score Multiplier: 2-3 Antitoxic: useful
 Score Multiplier: 2-4 Breakthrough: useful
@@ -269,6 +283,7 @@ Score Multiplier: 7-5 Wall Flower: useful
 Score Multiplier: 8-1 Inferno: useful
 Score Multiplier: 8-2 Water Wings: useful
 Score Multiplier: 8-3 Steppin' Out: useful
+Score Multiplier: 8-4 Fire Eater: useful
 Score Multiplier: 8-5 Letting Off Steam: useful
 Score Multiplier: 9-1 X Marks The Loot: useful
 Score Multiplier: 9-2 Beats Driving: useful
@@ -309,6 +324,8 @@ Target Score Discount: 13-1 Plants v. Zombies: useful
 Target Score Discount: 13-2 The Guardians: useful
 Target Score Discount: 13-3 Spaint!: useful
 Target Score Discount: 13-4 To The Limit: useful
+Target Score Discount: 13-5 Blue Slough: useful
+Target Score Discount: 14-1 Lolly Drop: useful
 Target Score Discount: 14-2 Bloomin': useful
 Target Score Discount: 14-3 Magic Hour: useful
 Target Score Discount: 14-4 Tulip Leaves: useful
@@ -320,6 +337,7 @@ Target Score Discount: 3-1 Scary Night: useful
 Target Score Discount: 3-2 Seasick: useful
 Target Score Discount: 3-3 Nooooo!!!: useful
 Target Score Discount: 3-4 Twitching Hour: useful
+Target Score Discount: 3-5 Nowhere Stairs: useful
 Target Score Discount: 4-1 Step Right Up: useful
 Target Score Discount: 4-2 Parade!: useful
 Target Score Discount: 4-3 Me-Yowwww!: useful
@@ -328,6 +346,7 @@ Target Score Discount: 4-5 Death Defying: useful
 Target Score Discount: 5-2 Arrivance: useful
 Target Score Discount: 5-4 Explodious: useful
 Target Score Discount: 5-5 Perfectified: useful
+Target Score Discount: 6-1 Pollution Picnic: useful
 Target Score Discount: 6-2 Vast Visitor: useful
 Target Score Discount: 6-3 Eiffel Power: useful
 Target Score Discount: 6-4 Old Friends: useful

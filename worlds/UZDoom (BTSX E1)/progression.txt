@@ -52,6 +52,9 @@ Level Access (MAP22): progression
 Level Access (MAP31): progression
 Level Access (MAP32): progression
 Level Clear (MAP02): progression
+Level Clear (MAP03): progression
+Level Clear (MAP06): progression
+Level Clear (MAP07): progression
 Level Clear (MAP22): progression
 Megasphere: filler
 Plasma Rifle: progression
@@ -81,6 +84,7 @@ YellowCard (MAP03): progression
 YellowCard (MAP04): progression
 YellowCard (MAP06): progression
 YellowCard (MAP09): progression
+YellowCard (MAP10): progression
 YellowCard (MAP12): progression
 YellowCard (MAP15): progression
 YellowCard (MAP17): progression

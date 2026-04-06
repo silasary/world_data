@@ -55,7 +55,7 @@
 2x Reward Box Lvl 2: filler
 2x Reward Box Lvl 3: filler
 2x Reward Box Lvl 4: useful
-2x Reward Box X: unknown
+2x Reward Box X: filler
 2x Ruby: filler
 2x Sapphire: filler
 2x Shift Stone: filler
@@ -89,7 +89,7 @@
 3x Copper: unknown
 3x Corn: filler
 3x Cotton: unknown
-3x Craft Box: unknown
+3x Craft Box: filler
 3x Crimson Gem: unknown
 3x Crystal Shard: useful
 3x Gold: filler
@@ -242,7 +242,7 @@ Bandana+2: filler
 Bandana+3: unknown
 Bandana+4: useful
 Bandana+5: unknown
-Bandana: unknown
+Bandana: filler
 Bard Egg: progression
 Bard's Lute: progression
 Bead Chain+1: useful
@@ -302,7 +302,7 @@ Brooch+2: unknown
 Brooch+3: unknown
 Brooch+4: unknown
 Brooch+5: unknown
-Brooch: unknown
+Brooch: filler
 Brutus Egg: unknown
 Brutus Treat: progression
 Buckler+1: unknown
@@ -365,7 +365,7 @@ Corn: filler
 Cotton: useful
 Crackle Knight Egg: unknown
 Craft Box: filler
-Crimson Gem: unknown
+Crimson Gem: filler
 Crit Ring+1: unknown
 Crit Ring+2: unknown
 Crit Ring+3: unknown
@@ -407,7 +407,7 @@ Diadem: filler
 Diavola Egg: unknown
 Digging Claws: unknown
 Divine Hourglass: progression
-Dodo Egg: unknown
+Dodo Egg: progression
 Dodo Saddle: progression
 Double Jump Boots: progression
 Double-Headed Axe: progression
@@ -595,7 +595,7 @@ Hammer+2: unknown
 Hammer+3: unknown
 Hammer+4: unknown
 Hammer+5: unknown
-Hammer: unknown
+Hammer: filler
 Harp+1: unknown
 Harp+2: unknown
 Harp+3: filler
@@ -865,7 +865,7 @@ One Punch Fist+2: unknown
 One Punch Fist+3: useful
 One Punch Fist+4: unknown
 One Punch Fist+5: unknown
-One Punch Fist: unknown
+One Punch Fist: filler
 Orange: filler
 Orb+1: unknown
 Orb+2: unknown
@@ -990,7 +990,7 @@ Reward Box Lvl 2: filler
 Reward Box Lvl 3: filler
 Reward Box Lvl 4: filler
 Reward Box Lvl 5: filler
-Reward Box X: unknown
+Reward Box X: filler
 Ribbon+1: unknown
 Ribbon+2: unknown
 Ribbon+3: unknown
@@ -1060,7 +1060,7 @@ Silver: filler
 Sizzle Knight Egg: unknown
 Skill Potion: filler
 Skill Resetter: filler
-Skorch Egg: unknown
+Skorch Egg: progression
 Sledgehammer: progression
 Slime Skin+1: unknown
 Slime Skin+2: unknown
@@ -1076,7 +1076,7 @@ Slimy Ball+4: unknown
 Slimy Ball+5: filler
 Slimy Ball: useful
 Small Antidote: filler
-Small Potion: unknown
+Small Potion: filler
 Small Reliquary: unknown
 Smoke Bomb: unknown
 Smoke Pipe: progression
@@ -1302,7 +1302,7 @@ Wind Symbol+2: unknown
 Wind Symbol+3: filler
 Wind Symbol+4: unknown
 Wind Symbol+5: unknown
-Wind Symbol: unknown
+Wind Symbol: filler
 Winter Explorer: filler
 Wizard Hat+1: unknown
 Wizard Hat+2: unknown

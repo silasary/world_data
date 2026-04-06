@@ -6,9 +6,11 @@ Bonus Orb: filler
 Chasm Key: progression
 Cog: progression
 Crab: progression
+Defeat: progression
 End: progression
 Fall: progression
 Fence: progression
+Fire: progression
 Float: progression
 Fruit: progression
 Garden Key: progression
@@ -20,10 +22,12 @@ Island Key: progression
 Keke: progression
 Key: progression
 Lake Key: progression
+Leaf: progression
 Me: progression
 Melt: progression
 Move: progression
 Open: progression
+Pull: progression
 Red: progression
 Right: progression
 Rocket: progression
@@ -35,3 +39,5 @@ Speck: filler
 Star: progression
 Sun: progression
 Tile: progression
+Tree: progression
+Violet: progression

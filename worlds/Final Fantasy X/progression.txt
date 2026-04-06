@@ -299,6 +299,7 @@ Frag Grenade x 90: useful
 Gear Customization: Auto-Med: useful
 Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
+Gear Customization: Auto-Regen: useful
 Gear Customization: Auto-Shell: useful
 Gear Customization: Berserk Ward: filler
 Gear Customization: Break HP Limit: useful
@@ -569,6 +570,7 @@ Poison Fang x 80: useful
 Poison Fang x 90: useful
 Potion x 10: filler
 Potion x 20: filler
+Potion x 30: filler
 Potion x 40: filler
 Potion x 50: filler
 Potion x 60: filler
@@ -896,6 +898,7 @@ X-Potion x 90: filler
 [Agility Sphere] x 60: useful
 [Agility Sphere] x 70: useful
 [Agility Sphere] x 80: useful
+[Agility Sphere] x 90: useful
 [Amulet] x 20: useful
 [Amulet] x 30: useful
 [Amulet] x 40: useful

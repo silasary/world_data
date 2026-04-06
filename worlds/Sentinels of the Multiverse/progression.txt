@@ -168,6 +168,7 @@ First Response Cypher: progression
 First Response Doc Havoc: unknown
 First Response Echelon: unknown
 First Response Vanish: unknown
+Flashbang: progression
 Folie: unknown
 Fort Adamant: progression
 Franz Rayner: unknown
@@ -240,6 +241,7 @@ Hero Fortification 1 (Any Omnitron-X): unknown
 Hero Fragility 1: unknown
 Hero Fragility: trap
 Hero Strength (Any Expatriette): unknown
+Hero Strength (Any The Harpy): filler
 Hero Strength 1 (Any Parse): unknown
 Hero Strength 1 (Any The Sentinels): unknown
 Hero Toughness 1: unknown
@@ -247,6 +249,7 @@ Hero Toughness: useful
 Hero Vulnerability (Any Bunker): unknown
 Hero Vulnerability (Any Captain Cosmic): trap
 Hero Vulnerability (Any La Comodora): unknown
+Hero Vulnerability (Any Setback): trap
 Hero Vulnerability (Any The Idealist): unknown
 Hero Vulnerability (Any The Naturalist): trap
 Hero Weakness (Any Expatriette): unknown
@@ -352,7 +355,7 @@ Mainstay: progression
 Malichae: unknown
 Medusa Gorgon: unknown
 Mega-Megamind: unknown
-Megalopolis: unknown
+Megalopolis: progression
 Menagerie: unknown
 Mera: unknown
 Ministry of Strategic Science Lady of the Wood: unknown
@@ -409,7 +412,7 @@ Omnitron-U: progression
 Omnitron-X: progression
 Omnitron-XI: unknown
 Omnitron: Techno Terror: unknown
-Omnitron: unknown
+Omnitron: progression
 Omochao: unknown
 Oriphel: unknown
 Orzhov Syndicate: unknown
@@ -519,6 +522,7 @@ Starting Handsize +1 (Any Expatriette): useful
 Starting Handsize +1 (Any Stuntman): useful
 Starting Handsize +1 (Any Terminus): filler
 Starting Handsize +1 (Any The Harpy): unknown
+Starting Handsize +1 (Any The Scholar): filler
 Starting Handsize +1 (Any The Visionary): unknown
 Starting Handsize +1 (Any Writhe): unknown
 Starting Handsize -1 (Any Benchmark): trap

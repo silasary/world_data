@@ -25,6 +25,7 @@ Crystals to Petals: useful
 Crystals: filler
 Earth Shield: filler
 Element Burst: useful
+Expensive Stocks: trap
 Extra Item Slot: useful
 Extra Life: filler
 Extra Potion Slot: useful
@@ -37,9 +38,11 @@ Metal Charm: useful
 Metal Shield: filler
 No Guarding: trap
 No Petals: trap
+No Revivals: trap
 Petal Armor: useful
 Potion - Accelerator: useful
 Potion - Attack Up: useful
+Potion - Cheaper Stocks: useful
 Potion - Extra Stock: useful
 Potion - Healing Strike: useful
 Potion - Strong Revivals: useful
@@ -48,10 +51,12 @@ Potion - Super Feather: progression
 Powerup Start: useful
 Powerup: filler
 Progressive Chapter: progression
+Rainbow Charm: useful
 Robot Wars! Snake VS Tarsier: progression
 Shadow Guard: useful
 Star Card: progression
 Time Capsule: progression
+Time Limit: trap
 Water Charm: useful
 Water Shield: filler
 Wood Shield: filler

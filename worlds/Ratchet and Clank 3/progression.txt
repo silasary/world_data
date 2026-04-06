@@ -2,11 +2,13 @@
 Bolts: filler
 Box Breaker: progression
 Clank Pack: progression
+Gravity Boots: progression
 Hypershot: progression
 Infobot: Annihilation Nation: progression
 Infobot: Command Center: progression
 Infobot: Daxx: progression
 Infobot: Florana: progression
+Infobot: Holostar Studios: progression
 Infobot: Koros: progression
 Infobot: Marcadia: progression
 Infobot: Metropolis: progression
@@ -31,6 +33,7 @@ Progressive Lava Gun: useful
 Progressive Miniturret Glove: useful
 Progressive N60 Storm: useful
 Progressive Nitro Launcher: useful
+Progressive Plasma Coil: useful
 Progressive Plasma Whip: progression
 Progressive Qwack-O-Ray: progression
 Progressive RY3N0: progression
@@ -40,5 +43,6 @@ Progressive Shock Blaster: progression
 Progressive Spitting Hydra: progression
 Progressive Suck Cannon: progression
 Progressive VidComic: progression
+Star Map: progression
 The Hacker: progression
 Warp Pad: progression
