@@ -67,12 +67,15 @@ Death Ruins Checkpoint 6: progression
 Death Ruins Key: progression
 Digital Circuit Checkpoint 1: progression
 Digital Circuit Checkpoint 2: progression
+Digital Circuit Checkpoint 3: progression
 Digital Circuit Checkpoint 4: progression
 Digital Circuit Checkpoint 5: progression
+Digital Circuit Checkpoint 6: progression
 Digital Circuit Checkpoint 7: progression
 Digital Circuit Key: progression
 Egg Pawn Weapons: progression
 Final Boss Token: progression
+Final Haunt Checkpoint 1: progression
 Final Haunt Checkpoint 2: progression
 Final Haunt Checkpoint 3: progression
 Final Haunt Checkpoint 4: progression
@@ -140,6 +143,7 @@ Iron Jungle Soldier: progression
 Lava Shelter Checkpoint 1: progression
 Lava Shelter Checkpoint 2: progression
 Lava Shelter Checkpoint 3: progression
+Lava Shelter Checkpoint 5: progression
 Lava Shelter Checkpoint 6: progression
 Lava Shelter Checkpoint 7: progression
 Lava Shelter Checkpoint 8: progression
@@ -189,6 +193,7 @@ Shadow Rifle Receiver: useful
 Shadow Rifle Stock: progression
 Sky Troops Checkpoint 1: progression
 Sky Troops Checkpoint 3: progression
+Sky Troops Checkpoint 4: progression
 Sky Troops Checkpoint 5: progression
 Sky Troops Checkpoint 6: progression
 Sky Troops Checkpoint 8: progression
@@ -196,6 +201,7 @@ Sky Troops Egg Ship: progression
 Sky Troops Key: progression
 Sky Troops Temple: progression
 Space Gadget Checkpoint 2: progression
+Space Gadget Checkpoint 3: progression
 Space Gadget Checkpoint 4: progression
 Space Gadget Defense Unit: progression
 Space Gadget Key: progression
@@ -247,6 +253,7 @@ The Ark Checkpoint 8: progression
 The Ark Defense Unit: progression
 The Ark Key: progression
 The Doom Checkpoint 1: progression
+The Doom Checkpoint 3: progression
 The Doom Checkpoint 5: progression
 The Doom Checkpoint 6: progression
 The Doom Key: progression
@@ -410,6 +417,7 @@ Weapon:Worm Shooter: progression
 Westopolis Alien: progression
 Westopolis Checkpoint 1: progression
 Westopolis Checkpoint 2: progression
+Westopolis Checkpoint 3: progression
 Westopolis Checkpoint 4: progression
 Westopolis Checkpoint 5: progression
 Westopolis Checkpoint 6: progression

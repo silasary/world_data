@@ -100,6 +100,7 @@ Filler Gear: KerBlaster: filler
 Filler Gear: Kiss of Death: filler
 Filler Gear: Kitten: filler
 Filler Gear: Lady Fist: filler
+Filler Gear: Landscaper: filler
 Filler Gear: Lascaux: filler
 Filler Gear: Law: filler
 Filler Gear: Leech: filler
@@ -110,6 +111,7 @@ Filler Gear: Lucrative Opportunity: filler
 Filler Gear: Madhous!: filler
 Filler Gear: Maggie: filler
 Filler Gear: Magic Missile (Purple): filler
+Filler Gear: Magic Missile: filler
 Filler Gear: Manly Man Shield: filler
 Filler Gear: Meteor Shower: filler
 Filler Gear: Midnight Star: filler
@@ -118,6 +120,7 @@ Filler Gear: Mongol: filler
 Filler Gear: Mouthwash: filler
 Filler Gear: Moxxi's Endowment: filler
 Filler Gear: Nasty Surprise: filler
+Filler Gear: Neogenator: filler
 Filler Gear: Nirvana: filler
 Filler Gear: Norfleet: filler
 Filler Gear: Nukem: filler
@@ -128,6 +131,7 @@ Filler Gear: Order: filler
 Filler Gear: Orphan Maker: filler
 Filler Gear: Otto Idol: filler
 Filler Gear: Overcompensator: filler
+Filler Gear: Pandemic: filler
 Filler Gear: Patriot: filler
 Filler Gear: Peak Opener: filler
 Filler Gear: Pearlescent AssaultRifle: filler
@@ -146,12 +150,15 @@ Filler Gear: Rubi: filler
 Filler Gear: Sand Hawk: filler
 Filler Gear: Sawbar: filler
 Filler Gear: Scorpio: filler
+Filler Gear: Seeker: filler
 Filler Gear: Seraph SniperRifle: filler
 Filler Gear: Shadow of the Seraphs: filler
 Filler Gear: Shotgun 1340: filler
 Filler Gear: Shredifier: filler
 Filler Gear: Skin of the Ancients: filler
 Filler Gear: Skullmasher: filler
+Filler Gear: Slagga: filler
+Filler Gear: Sledge's Shotgun: filler
 Filler Gear: Sloth: filler
 Filler Gear: Slow Hand: filler
 Filler Gear: Sponge: filler
@@ -166,6 +173,8 @@ Filler Gear: Teeth of Terramorphous: filler
 Filler Gear: The Afterburner: filler
 Filler Gear: The Cradle: filler
 Filler Gear: The Electric Chair: filler
+Filler Gear: The Sham: filler
+Filler Gear: The Transformer: filler
 Filler Gear: Tidal Wave: filler
 Filler Gear: Tinderbox: filler
 Filler Gear: Toothpick: filler
@@ -187,6 +196,7 @@ GreenCandy: filler
 Legendary ClassMod: progression
 Legendary Pistol: progression
 Legendary SMG: progression
+Legendary Shotgun: progression
 Legendary SniperRifle: progression
 Max Ammo AssaultRifle: filler
 Max Ammo Pistol: filler
@@ -206,6 +216,7 @@ Progressive Sprint: progression
 Progressive Weapon Slot: useful
 Rainbow Shotgun: progression
 Rare AssaultRifle: progression
+Rare ClassMod: progression
 Rare GrenadeMod: progression
 Rare RocketLauncher: progression
 Rare SMG: progression
@@ -218,8 +229,11 @@ Reward: A Hard Place: filler
 Reward: A Match Made on Pandora: filler
 Reward: A Most Cacophonous Lure: filler
 Reward: A Real Boy: Face Time: filler
+Reward: A Role-Playing Game: filler
 Reward: A Train to Catch: filler
 Reward: A Warm Welcome: filler
+Reward: A-Hunting We Will Go: filler
+Reward: An Acquired Taste: filler
 Reward: Animal Rescue: Medicine: filler
 Reward: Animal Rescue: Shelter: filler
 Reward: Animal Rights: filler
@@ -260,6 +274,7 @@ Reward: Cult Following: Eternal Flame: filler
 Reward: Cult Following: Lighting the Match: filler
 Reward: Cult Following: The Enkindling: filler
 Reward: Customer Service: filler
+Reward: Data Mining: filler
 Reward: Defend Slab Tower: filler
 Reward: Demon Hunter: filler
 Reward: Denial, Anger, Initiative: filler
@@ -267,6 +282,7 @@ Reward: Do No Harm: filler
 Reward: Doctor's Orders: filler
 Reward: Don't Copy That Floppy: filler
 Reward: Dwarven Allies: filler
+Reward: Eat Cookies and Crap Thunder: filler
 Reward: Echoes of the Past: filler
 Reward: Ell in Shining Armor: filler
 Reward: Faster Than the Speed of Love: filler
@@ -295,9 +311,11 @@ Reward: Knockin' on Heaven's Door: filler
 Reward: Learning to Love: filler
 Reward: Let There Be Light: filler
 Reward: Long Way To The Top: filler
+Reward: Loot Ninja: filler
 Reward: Lost Souls: filler
 Reward: MMORPGFPS: filler
 Reward: Magic Slaughter: Badass Round: filler
+Reward: Magic Slaughter: Round 1: filler
 Reward: Magic Slaughter: Round 2: filler
 Reward: Magic Slaughter: Round 3: filler
 Reward: Magic Slaughter: Round 4: filler
@@ -311,9 +329,11 @@ Reward: Message in a Bottle 3 (HaytersFolly): filler
 Reward: Message in a Bottle 4 (Rustyards): filler
 Reward: Mighty Morphin': filler
 Reward: Mine, All Mine: filler
+Reward: Minecart Mischief: filler
 Reward: Monster Hunter: filler
 Reward: Monster Mash (Part 1): filler
 Reward: Monster Mash (Part 2): filler
+Reward: More History of Simulated Violence: filler
 Reward: Mother-Lover: filler
 Reward: My Brittle Pony: filler
 Reward: My Dead Brother: filler
@@ -322,11 +342,13 @@ Reward: My Husband the Skag: filler
 Reward: My Kingdom for a Wand: filler
 Reward: Nakayama-rama: filler
 Reward: No Hard Feelings: filler
+Reward: No Vacancy: filler
 Reward: Note for Self-Person: filler
 Reward: Now You See It: filler
 Reward: Number One Fan: filler
 Reward: Out of Body Experience: filler
 Reward: Palling Around: filler
+Reward: Paradise Found: filler
 Reward: Perfectly Peaceful: filler
 Reward: Pete the Invincible: filler
 Reward: Poetic License: filler
@@ -360,6 +382,7 @@ Reward: The Cold Shoulder: filler
 Reward: The Cost of Progress: filler
 Reward: The Dawn of New Pandora: filler
 Reward: The Fall of Nakayama: filler
+Reward: The Great Escape: filler
 Reward: The Hermit: filler
 Reward: The Hunger Pangs: filler
 Reward: The Ice Man Cometh: filler
@@ -367,6 +390,7 @@ Reward: The Lost Treasure: filler
 Reward: The Name Game: filler
 Reward: The Once and Future Slab: filler
 Reward: The Overlooked: Medicine Man: filler
+Reward: The Overlooked: Shields Up: filler
 Reward: The Overlooked: This Is Only a Test: filler
 Reward: The Pretty Good Train Robbery: filler
 Reward: The Rakk Dahlia Murder: filler
@@ -394,8 +418,10 @@ Reward: Whoops: filler
 Reward: Wildlife Preservation: filler
 Reward: Winging It: filler
 Reward: Wingman: filler
+Reward: Winter is a Bloody Business: filler
 Reward: Won't Get Fooled Again: filler
 Reward: Written by the Victor: filler
+Reward: X Marks The Spot: filler
 Reward: Ye Scurvy Dogs: filler
 Reward: You Are Cordially Invited: Party Prep: filler
 Reward: You Are Cordially Invited: RSVP: filler
@@ -466,6 +492,7 @@ Travel: Tundra Express: progression
 Travel: Unassuming Docks: progression
 Travel: Vault of the Warrior: progression
 Travel: Wam Bam Island: progression
+Travel: Wildlife Exploitation Preserve: progression
 Travel: Writhing Deep: progression
 Travel: Wurmwater: progression
 Uncommon AssaultRifle: progression

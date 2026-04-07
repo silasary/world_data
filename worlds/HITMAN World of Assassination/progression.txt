@@ -52,6 +52,7 @@ Explosive - Concussion Grenade: filler
 Explosive - Explosive Baseball: filler
 Explosive - Explosive Compound: filler
 Explosive - Explosive Pen: filler
+Explosive - Flash Grenade MK III: filler
 Explosive - Fragmentation Grenade: filler
 Explosive - ICA Impact Explosive: filler
 Explosive - ICA Micro Remote Explosive: filler
@@ -99,6 +100,7 @@ Hidden Stash - Marrakesh - Shisha Café Restroom: filler
 Hidden Stash - Mendoza - Dance Floor: filler
 Hidden Stash - Miami - Kronstadt Reception: filler
 Hidden Stash - Mumbai - Balcony Pot: filler
+Hidden Stash - Mumbai - Beach: filler
 Hidden Stash - Mumbai - Meat Market: filler
 Hidden Stash - Mumbai - Pottery Market: filler
 Hidden Stash - Mumbai - Shoeshop: filler
@@ -231,6 +233,7 @@ Starting Location - Bangkok - Undercover in the Restaurant Kitchen: filler
 Starting Location - Berlin - Biker Hangout: filler
 Starting Location - Berlin - Projection Bar: filler
 Starting Location - Berlin - Radio Tower: filler
+Starting Location - Carpathian Mountains - Laboratory: useful
 Starting Location - Chongqing - Facility Locker Room: filler
 Starting Location - Chongqing - Restaurant Kitchen: filler
 Starting Location - Chongqing - River-side Walkway: useful
@@ -255,6 +258,7 @@ Starting Location - Mendoza - Vineyard: filler
 Starting Location - Miami - Kowoon Pit: filler
 Starting Location - Miami - Kronstadt Bayside Center: filler
 Starting Location - Miami - Overpass: filler
+Starting Location - Mumbai - Boat: filler
 Starting Location - Mumbai - Hill: filler
 Starting Location - Mumbai - Metal Forge: filler
 Starting Location - New York - First Floor Mezzanine: filler
@@ -266,6 +270,8 @@ Starting Location - Santa Fortuna - Construction Site: filler
 Starting Location - Santa Fortuna - Shaman's Hut: filler
 Starting Location - Santa Fortuna - Submarine Cave: filler
 Starting Location - Santa Fortuna - Village Hostel: filler
+Starting Location - Sapienza - ICA Safe House: filler
+Starting Location - Sapienza - Main Square Tower: filler
 Starting Location - Sapienza - Undercover as Security Staff: filler
 Starting Location - Sapienza - Undercover in Mansion Garden: filler
 Suit - 47's Signature Suit with Gloves: filler

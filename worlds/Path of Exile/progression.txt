@@ -5,6 +5,7 @@ Added Fire Damage Support: progression
 Added Lightning Damage Support: progression
 Additional Accuracy Support: useful
 Advanced Traps Support: useful
+Alchemist's Mark: useful
 Alternate Gems: progression
 Ambush: useful
 Ancestral Call Support: unknown
@@ -14,7 +15,7 @@ Animate Weapon: useful
 Arc: useful
 Arcane Surge Support: useful
 Arcanist Brand: unknown
-Archmage Support: unknown
+Archmage Support: useful
 Arctic Armour: useful
 Armageddon Brand: progression
 Arrow Nova Support: progression
@@ -38,7 +39,7 @@ Blade Vortex: progression
 Bladefall: unknown
 Bladestorm: useful
 Blasphemy Support: useful
-Blast Rain: unknown
+Blast Rain: useful
 Blastchain Mine Support: useful
 Blazing Salvo: progression
 Blight: progression
@@ -86,7 +87,7 @@ Consecrated Path: useful
 Contagion: unknown
 Controlled Blaze Support: unknown
 Controlled Destruction Support: progression
-Conversion Trap: unknown
+Conversion Trap: useful
 Corrupting Cry Support: useful
 Corrupting Fever: useful
 Crackling Lance: progression
@@ -139,7 +140,7 @@ Eternal Blessing Support: useful
 Eviscerate: useful
 Expert Retaliation Support: useful
 Explosive Arrow: useful
-Explosive Concoction: unknown
+Explosive Concoction: useful
 Explosive Trap: progression
 Exsanguinate: unknown
 Eye of Winter: useful
@@ -166,6 +167,7 @@ Fork Support: useful
 Fortify Support: useful
 Freezing Pulse: useful
 Frenzy: useful
+Fresh Meat Support: useful
 Frigid Bond Support: progression
 Frost Blades: progression
 Frost Bomb: unknown
@@ -267,7 +269,7 @@ Minefield Support: progression
 Minion Damage Support: unknown
 Minion Life Support: progression
 Minion Speed Support: useful
-Mirage Archer Support: unknown
+Mirage Archer Support: progression
 Mirror Arrow: progression
 Molten Shell: useful
 Molten Strike: progression
@@ -283,6 +285,7 @@ Normal Mace: unknown
 Normal Sceptre: unknown
 Normal Sword: unknown
 Occultist: unknown
+Orb of Storms: useful
 Overcharge Support: useful
 Pathfinder: progression
 Penance Brand: useful
@@ -438,7 +441,7 @@ Vaal Gems: unknown
 Vampiric Link: filler
 Vengeful Cry: useful
 Venom Gyre: useful
-Vigilant Strike: unknown
+Vigilant Strike: useful
 Vile Toxins Support: useful
 Viper Strike: useful
 Vitality: useful

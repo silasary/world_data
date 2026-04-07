@@ -5,10 +5,12 @@ Super_Mushroom: progression
 World1: progression
 World2: progression
 World4: progression
+World5: progression
 World6: progression
 World7: progression
 World9: progression
 Yoshi: progression
 climb: progression
 fill_inventory: filler
+ground_pound: progression
 triple_jump: progression

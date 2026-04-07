@@ -4,6 +4,8 @@ Backpack: filler
 Berserk: filler
 Blue Keycard (MAP24): progression
 Blue Skull (MAP18): progression
+Blue Skull (MAP19): progression
+Blue Skull (MAP25): progression
 BlueArmor: filler
 BlurSphere: filler
 Bullets [ClipBox]: filler
@@ -14,13 +16,16 @@ GreenArmor: filler
 HealthBonus: filler
 InvulnerabilitySphere: filler
 Level Clear (MAP01): progression
+Level Clear (MAP25): progression
 MAP04: The Focus: progression
 MAP25: Bloodfalls: progression
+MAP26: The Abandoned Mines: progression
 Medikit: filler
 Megasphere: filler
 RadSuit: filler
 Red Keycard (MAP06): progression
 Red Skull (MAP16): progression
+Red Skull (MAP22): progression
 Rocket Launcher: progression
 Rockets [RocketAmmo]: filler
 Rockets [RocketBox]: filler

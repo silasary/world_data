@@ -122,6 +122,7 @@ Fuzzy Boots Gift: progression
 Garden Flip Flops Gift: progression
 Gin Unique Gift: progression
 Glass Dolphin: filler
+Goat Skull Unique Gift: progression
 Gold Digger Baggage: trap
 Golden Heels Gift: progression
 Goldfish Plush: filler
@@ -131,6 +132,7 @@ Hair Brush: filler
 Handcuffs Unique Gift: progression
 Heavy Boots Gift: progression
 Hemp Bracelet: filler
+High Top Sneakers Gift: progression
 Hot Stones Unique Gift: progression
 Hourglass Unique Gift: progression
 Inner Tube: filler
@@ -286,6 +288,7 @@ Unsentimental Baggage: filler
 Vindictive Baggage: filler
 Violet Pansy Flowers: filler
 Vodka Unique Gift: progression
+Web Gladiators Gift: progression
 Whisky Unique Gift: progression
 White Lily Flowers: filler
 Witch Hat Unique Gift: progression
@@ -300,6 +303,7 @@ Zoey Scarehoe Outfit: progression
 abia Flarora Outfit: progression
 abia Invisikini Outfit: progression
 ashley Black Fly Outfit: progression
+ashley Lazy Teacher Outfit: progression
 ashley Stay Black Outfit: progression
 brooke Bath Time Outfit: progression
 candace Health Care Outfit: progression
@@ -309,15 +313,18 @@ flirtation lv-up 4: useful
 jessie Blue Wave Outfit: progression
 jessie Cloud Nine Outfit: progression
 jessie Naughty List Outfit: progression
+jessie Sinful Devil Outfit: progression
 lailani Blupee Outfit: progression
 lailani Hula Dancer Outfit: progression
 lailani Koimono Outfit: progression
 lailani Native Chic Outfit: progression
 lailani Sea Foam Outfit: progression
 lailani Sunny Day Outfit: progression
+lillian Dark Queen Outfit: progression
 lillian Panda Bare Outfit: progression
 lillian Sweet Dreams Outfit: progression
 lillian Vampiress Outfit: progression
+lola Basketball Outfit: progression
 lola Cream Puff Outfit: progression
 lola Mocha Latte Outfit: progression
 nora Aquarius Outfit: progression
@@ -346,4 +353,5 @@ talent lv-up 2: useful
 talent lv-up 3: useful
 talent lv-up 4: useful
 zoey Cyber Slave Outfit: progression
+zoey Gamer Girl Outfit: progression
 zoey Sacrilege Outfit: progression

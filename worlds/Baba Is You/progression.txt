@@ -1,5 +1,6 @@
 All: progression
 And: progression
+Bat: progression
 Blossom: progression
 Bolt: progression
 Bonus Orb: filler
@@ -38,6 +39,7 @@ Sleep: progression
 Speck: filler
 Star: progression
 Sun: progression
+Tele: progression
 Tile: progression
 Tree: progression
 Violet: progression
