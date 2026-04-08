@@ -1,5 +1,6 @@
 Item That Does Nothing: filler
 Key 100: progression
+Key 101: progression
 Key 102: progression
 Key 103: progression
 Key 104: progression
@@ -56,6 +57,7 @@ Key 154: progression
 Key 155: progression
 Key 156: progression
 Key 157: progression
+Key 158: progression
 Key 159: progression
 Key 15: progression
 Key 168: progression
@@ -84,6 +86,7 @@ Key 2: progression
 Key 30: progression
 Key 31: progression
 Key 32: progression
+Key 33: progression
 Key 34: progression
 Key 35: progression
 Key 37: progression
@@ -113,6 +116,7 @@ Key 60: progression
 Key 61: progression
 Key 62: progression
 Key 63: progression
+Key 64: progression
 Key 65: progression
 Key 66: progression
 Key 68: progression

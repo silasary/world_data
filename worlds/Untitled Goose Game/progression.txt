@@ -8,10 +8,12 @@ Boots: progression
 Boy's Soul: progression
 Bra: progression
 Bucket: progression
+Burly Man's Soul: progression
 Bust Glasses: progression
 Bust Hat: progression
 Bust Pipe: progression
 Butterbeak: trap
+Cabbages: progression
 Candlestick: progression
 Carrots: progression
 Chalk: progression
@@ -20,7 +22,9 @@ Coin: filler
 Confused Feet: trap
 Cook's Soul: progression
 Cork: progression
+Cricket Ball: progression
 Cricket Bat: progression
+Cucumbers: progression
 Dartboard: progression
 Dish Soap Bottle: progression
 Drawer: progression
@@ -51,6 +55,7 @@ Knives: progression
 Leeks: progression
 Letter: progression
 Lily Flower: progression
+Mallet: progression
 Market Lady's Soul: progression
 Mega Honk: useful
 Messy Neighbour's Soul: progression
@@ -58,10 +63,12 @@ Miniature Benches: progression
 Miniature Birdbath: progression
 Miniature Easel: progression
 Miniature Goose: progression
+Miniature Mail Pillar: progression
 Miniature People: progression
 Miniature Pump: progression
 Miniature Shovel: progression
 Miniature Sun Lounge: progression
+Model Village Access: progression
 Mop Bucket: progression
 Mop: progression
 Newspaper: progression
@@ -69,6 +76,7 @@ No Goose Sign (Messy): progression
 No Goose Sign (Pub): progression
 Old Man's Soul: progression
 Oranges: progression
+Paintbrush: progression
 Parcel: progression
 Pepper Grinder: progression
 Picnic Basket: progression
@@ -89,6 +97,7 @@ Quoits (Red): progression
 Radio: progression
 Rake: progression
 Red Glasses: progression
+Ribbons: progression
 Rose: progression
 Sandwich: progression
 Shopping Basket: progression
@@ -105,6 +114,7 @@ Suspicious Goose: trap
 TV Shop Owner's Soul: progression
 Tackle Box: progression
 Tea Cup: progression
+Tea Pot: progression
 Tennis Ball: progression
 Thermos: progression
 Tidy Neighbour's Soul: progression

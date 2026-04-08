@@ -10,6 +10,7 @@ Common ClassMod: progression
 Common GrenadeMod: progression
 Common Pistol: progression
 Common Relic: progression
+Common RocketLauncher: progression
 Common SMG: progression
 Common Shield: progression
 Common Shotgun: progression
@@ -64,6 +65,7 @@ Filler Gear: Evil Smasher: filler
 Filler Gear: Evolution: filler
 Filler Gear: Fastball: filler
 Filler Gear: Fibber: filler
+Filler Gear: Fire Bee: filler
 Filler Gear: Fire Storm: filler
 Filler Gear: Fireball: filler
 Filler Gear: Flakker: filler
@@ -89,6 +91,7 @@ Filler Gear: Heart of the Ancients: filler
 Filler Gear: Hector's Paradise: filler
 Filler Gear: Hellfire: filler
 Filler Gear: Hornet: filler
+Filler Gear: Hot Mama: filler
 Filler Gear: Hydra: filler
 Filler Gear: Impaler: filler
 Filler Gear: Infection: filler
@@ -185,6 +188,7 @@ Filler Gear: Unforgiven: filler
 Filler Gear: Unicornsplosion: filler
 Filler Gear: Unkempt Harold: filler
 Filler Gear: Vault Hunter's Relic: filler
+Filler Gear: Veritas: filler
 Filler Gear: Veruc: filler
 Filler Gear: VeryRare Shotgun: filler
 Filler Gear: Wanderlust: filler
@@ -194,6 +198,7 @@ Filler Gear: World Burn: filler
 Filler Gear: Yellow Jacket: filler
 GreenCandy: filler
 Legendary ClassMod: progression
+Legendary GrenadeMod: progression
 Legendary Pistol: progression
 Legendary SMG: progression
 Legendary Shotgun: progression

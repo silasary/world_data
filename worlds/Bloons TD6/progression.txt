@@ -24,7 +24,7 @@ Bazaar-MUnlock: progression
 BeastHandler-TUnlock: progression
 Benjamin-HUnlock: progression
 BetterSellDeals-KUnlock: progression
-BigBloonBlueprints-KUnlock: unknown
+BigBloonBlueprints-KUnlock: progression
 BigBloonSabotage-KUnlock: progression
 BigBunch-KUnlock: progression
 BigCryoBlast-KUnlock: progression
@@ -48,6 +48,7 @@ CandyFalls-MUnlock: progression
 CaptainChurchill-HUnlock: progression
 Cargo-MUnlock: progression
 Carved-MUnlock: progression
+Cash Drop: filler
 CastleRevenge-MUnlock: progression
 CeramicShock-KUnlock: progression
 ChargedChinooks-KUnlock: progression
@@ -58,7 +59,7 @@ CheaperMaiming-KUnlock: progression
 CheaperSolution-KUnlock: progression
 Chutes-MUnlock: progression
 ColdFront-KUnlock: progression
-ComeOnEverybody-KUnlock: unknown
+ComeOnEverybody-KUnlock: progression
 Cornfield-MUnlock: progression
 Corvus-HUnlock: useful
 CoveredGarden-MUnlock: useful
@@ -155,6 +156,7 @@ MiddleOfTheRoad-MUnlock: progression
 MidnightMansion-MUnlock: unknown
 MilitaryConscription-KUnlock: progression
 MoMonkeyMoney-KUnlock: progression
+Monkey Boost: filler
 Monkey Knowledge: useful
 Monkey Money: filler
 MonkeyAce-TUnlock: progression
@@ -223,7 +225,7 @@ SunkenColumns-MUnlock: progression
 SupaThrive-KUnlock: useful
 SuperMonkey-TUnlock: progression
 SuperRange-KUnlock: progression
-SupersizeGlueTrap-KUnlock: unknown
+SupersizeGlueTrap-KUnlock: progression
 TackShooter-TUnlock: useful
 TargetedPineapples-KUnlock: unknown
 TheCabin-MUnlock: unknown

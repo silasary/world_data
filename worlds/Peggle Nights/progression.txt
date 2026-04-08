@@ -138,10 +138,13 @@ Full Clear Discount: 8-5 Letting Off Steam: useful
 Full Clear Discount: 9-2 Beats Driving: useful
 Full Clear Discount: 9-3 Tomb Of Doom: useful
 Full Clear Discount: 9-4 I Love Carats: useful
+Full Clear Discount: 9-5 Great Ball of Ire: useful
 Hollow Peg: filler
 Level Unlock: 1-1 Crimewave: progression
 Level Unlock: 1-2 Call For Help: progression
+Level Unlock: 1-3 Horsepower: progression
 Level Unlock: 1-4 Just Desserts: progression
+Level Unlock: 1-5 Bjorn Identity: progression
 Level Unlock: 10-1 Pick One: progression
 Level Unlock: 10-2 Turn It To Zen: progression
 Level Unlock: 10-3 Wild Thing: progression
@@ -153,6 +156,7 @@ Level Unlock: 11-3 The Deep: progression
 Level Unlock: 11-4 Water Whirled: progression
 Level Unlock: 11-5 Diploma, See?: progression
 Level Unlock: 12-1 Psyclone: progression
+Level Unlock: 12-2 Why You Buggin'?: progression
 Level Unlock: 12-3 Wyrm Sign: progression
 Level Unlock: 12-5 Shadowshine: progression
 Level Unlock: 13-1 Plants v. Zombies: progression
@@ -183,6 +187,7 @@ Level Unlock: 5-1 Bowl Of Drome: progression
 Level Unlock: 5-2 Arrivance: progression
 Level Unlock: 5-3 Last Ball: progression
 Level Unlock: 5-4 Explodious: progression
+Level Unlock: 6-1 Pollution Picnic: progression
 Level Unlock: 6-3 Eiffel Power: progression
 Level Unlock: 6-4 Old Friends: progression
 Level Unlock: 6-5 Au Revoir: progression
@@ -220,6 +225,7 @@ Level Unlock: [7-2] The Henge: progression
 Level Unlock: [9-5] Great Ball of Ire: progression
 Master Unlock: Bjorn: useful
 Master Unlock: Claude: useful
+Master Unlock: Kat Tut: useful
 Master Unlock: Lord Cinderbottom: useful
 Master Unlock: Marina: useful
 Master Unlock: Master Hu: useful
@@ -269,6 +275,7 @@ Score Multiplier: 3-4 Twitching Hour: useful
 Score Multiplier: 3-5 Nowhere Stairs: useful
 Score Multiplier: 4-1 Step Right Up: useful
 Score Multiplier: 4-2 Parade!: useful
+Score Multiplier: 4-3 Me-Yowwww!: useful
 Score Multiplier: 4-4 Jump The Squid: useful
 Score Multiplier: 4-5 Death Defying: useful
 Score Multiplier: 5-1 Bowl Of Drome: useful
@@ -351,6 +358,7 @@ Target Score Discount: 4-3 Me-Yowwww!: useful
 Target Score Discount: 4-4 Jump The Squid: useful
 Target Score Discount: 4-5 Death Defying: useful
 Target Score Discount: 5-2 Arrivance: useful
+Target Score Discount: 5-3 Last Ball: useful
 Target Score Discount: 5-4 Explodious: useful
 Target Score Discount: 5-5 Perfectified: useful
 Target Score Discount: 6-1 Pollution Picnic: useful

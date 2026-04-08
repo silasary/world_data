@@ -13,6 +13,7 @@ Central Processing (E1M6) - Yellow keycard: progression
 Central Processing (E1M6): progression
 Chaingun: progression
 Chainsaw: progression
+Command Center (E2M5) - Complete: progression
 Command Center (E2M5): progression
 Command Control (E1M4) - Blue keycard: progression
 Command Control (E1M4) - Complete: progression
@@ -24,6 +25,7 @@ Computer Station (E1M7) - Red keycard: progression
 Computer Station (E1M7) - Yellow keycard: progression
 Computer Station (E1M7): progression
 Containment Area (E2M2) - Blue keycard: progression
+Containment Area (E2M2) - Complete: progression
 Containment Area (E2M2) - Red keycard: progression
 Containment Area (E2M2) - Yellow keycard: progression
 Containment Area (E2M2): progression
@@ -35,10 +37,12 @@ Deimos Lab (E2M4): progression
 Energy cell capacity: useful
 Energy cell pack: filler
 Fortress of Mystery (E2M9) - Blue skull key: progression
+Fortress of Mystery (E2M9) - Complete: progression
 Fortress of Mystery (E2M9) - Red skull key: progression
 Fortress of Mystery (E2M9) - Yellow skull key: progression
 Fortress of Mystery (E2M9): progression
 Halls of the Damned (E2M6) - Blue skull key: progression
+Halls of the Damned (E2M6) - Complete: progression
 Halls of the Damned (E2M6) - Red skull key: progression
 Halls of the Damned (E2M6) - Yellow skull key: progression
 Halls of the Damned (E2M6): progression
@@ -73,6 +77,7 @@ Phobos Anomaly (E1M8) - Complete: progression
 Phobos Anomaly (E1M8) - Computer area map: filler
 Phobos Anomaly (E1M8): progression
 Phobos Lab (E1M5) - Blue keycard: progression
+Phobos Lab (E1M5) - Complete: progression
 Phobos Lab (E1M5) - Computer area map: filler
 Phobos Lab (E1M5) - Yellow keycard: progression
 Phobos Lab (E1M5): progression
@@ -86,6 +91,7 @@ Slough of Despair (E3M2) - Blue skull key: progression
 Slough of Despair (E3M2) - Complete: progression
 Slough of Despair (E3M2) - Computer area map: filler
 Slough of Despair (E3M2): progression
+Spawning Vats (E2M7) - Complete: progression
 Spawning Vats (E2M7) - Red keycard: progression
 Spawning Vats (E2M7) - Yellow keycard: progression
 Spawning Vats (E2M7): progression

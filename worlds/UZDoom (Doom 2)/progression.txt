@@ -2,6 +2,8 @@ ArmorBonus: filler
 BFG 9000: progression
 Backpack: filler
 Berserk: filler
+Blue Keycard (MAP04): progression
+Blue Keycard (MAP10): progression
 Blue Keycard (MAP24): progression
 Blue Skull (MAP18): progression
 Blue Skull (MAP19): progression
@@ -23,6 +25,7 @@ MAP26: The Abandoned Mines: progression
 Medikit: filler
 Megasphere: filler
 RadSuit: filler
+Red Keycard (MAP02): progression
 Red Keycard (MAP06): progression
 Red Skull (MAP16): progression
 Red Skull (MAP22): progression

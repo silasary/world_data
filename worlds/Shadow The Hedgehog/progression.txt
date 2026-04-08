@@ -4,6 +4,7 @@
 20 Rings: filler
 5 Rings: filler
 Air Fleet Alien: progression
+Air Fleet Checkpoint 1: progression
 Air Fleet Checkpoint 2: progression
 Air Fleet Checkpoint 3: progression
 Air Fleet Checkpoint 4: progression
@@ -15,6 +16,7 @@ Air Fleet Key: progression
 Air Fleet President Aircraft: progression
 Air Shoes: progression
 Black Comet Checkpoint 1: progression
+Black Comet Checkpoint 3: progression
 Black Comet Checkpoint 4: progression
 Black Comet Checkpoint 5: progression
 Black Comet Checkpoint 6: progression
@@ -158,6 +160,7 @@ Lethal Highway Tank: progression
 Lost Impact Artificial Chaos: progression
 Lost Impact Checkpoint 1: progression
 Lost Impact Checkpoint 3: progression
+Lost Impact Checkpoint 4: progression
 Lost Impact Checkpoint 5: progression
 Lost Impact Checkpoint 6: progression
 Lost Impact Checkpoint 7: progression
@@ -175,6 +178,7 @@ Mission Token: mcguffin
 Nothing Junk: filler
 Objective Token: mcguffin
 Prison Island Checkpoint 1: progression
+Prison Island Checkpoint 2: progression
 Prison Island Checkpoint 4: progression
 Prison Island Checkpoint 5: progression
 Prison Island Checkpoint 6: progression
@@ -192,6 +196,7 @@ Shadow Rifle Magazine: useful
 Shadow Rifle Receiver: useful
 Shadow Rifle Stock: progression
 Sky Troops Checkpoint 1: progression
+Sky Troops Checkpoint 2: progression
 Sky Troops Checkpoint 3: progression
 Sky Troops Checkpoint 4: progression
 Sky Troops Checkpoint 5: progression

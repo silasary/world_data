@@ -1,5 +1,6 @@
 Automap (MAP01): useful
 Automap (MAP02): useful
+Automap (MAP03): useful
 Automap (MAP04): useful
 Automap (MAP05): useful
 Automap (MAP06): useful
@@ -49,6 +50,7 @@ Chaingun: progression
 Chainsaw: progression
 Energy Cells [CellPack]: filler
 GreenArmor: filler
+Infrared: filler
 InvulnerabilitySphere: filler
 Level Access (MAP02): progression
 Level Access (MAP04): progression
@@ -58,6 +60,7 @@ Level Access (MAP09): progression
 Level Access (MAP10): progression
 Level Access (MAP11): progression
 Level Access (MAP12): progression
+Level Access (MAP13): progression
 Level Access (MAP14): progression
 Level Access (MAP15): progression
 Level Access (MAP16): progression
@@ -80,6 +83,7 @@ Level Clear (MAP05): progression
 Level Clear (MAP09): progression
 Level Clear (MAP10): progression
 Level Clear (MAP12): progression
+Level Clear (MAP13): progression
 Level Clear (MAP15): progression
 Level Clear (MAP16): progression
 Level Clear (MAP20): progression
