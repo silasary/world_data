@@ -1,45 +1,77 @@
 All: progression
 And: progression
 Bat: progression
+Bird: progression
 Blossom: progression
+Blue: progression
 Bolt: progression
 Bonus Orb: filler
+Box: progression
+Bug: progression
+Cavern Key: progression
 Chasm Key: progression
+Cloud: progression
 Cog: progression
 Crab: progression
 Defeat: progression
+Door: progression
+Empty: progression
 End: progression
+Facing: progression
+Fall Key: progression
 Fall: progression
 Fence: progression
 Fire: progression
 Float: progression
 Fruit: progression
+Fungus: progression
 Garden Key: progression
+Ghost: progression
+Grass: progression
 Group: progression
 Hand: progression
 Has: progression
 Hot: progression
+Ice: progression
 Island Key: progression
+Jelly: progression
 Keke: progression
 Key: progression
 Lake Key: progression
+Lava: progression
 Leaf: progression
+Lonely: progression
+Make: progression
 Me: progression
 Melt: progression
+Moon: progression
+More: progression
 Move: progression
+Not: progression
+On: progression
 Open: progression
+Pillar: progression
 Pull: progression
 Red: progression
 Right: progression
+Robot: progression
 Rocket: progression
+Rose: progression
+Ruins Key: progression
 Shift: progression
 Sink: progression
 Skull: progression
 Sleep: progression
+Space Key: progression
 Speck: filler
 Star: progression
 Sun: progression
+Swap: progression
 Tele: progression
+Text: progression
 Tile: progression
 Tree: progression
+Up: progression
 Violet: progression
+Water: progression
+Word: progression

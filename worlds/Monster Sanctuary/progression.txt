@@ -311,7 +311,7 @@ Buckler+3: unknown
 Buckler+4: unknown
 Buckler+5: unknown
 Buckler: unknown
-Candle Wax: unknown
+Candle Wax: progression
 Cape+1: unknown
 Cape+2: unknown
 Cape+3: unknown
@@ -627,7 +627,7 @@ Hexing Rod+2: unknown
 Hexing Rod+3: unknown
 Hexing Rod+4: unknown
 Hexing Rod+5: unknown
-Hexing Rod: unknown
+Hexing Rod: filler
 Hide+1: unknown
 Hide+2: unknown
 Hide+3: unknown
@@ -861,7 +861,7 @@ Omni Sword+4: unknown
 Omni Sword+5: unknown
 Omni Sword: filler
 One Punch Fist+1: unknown
-One Punch Fist+2: unknown
+One Punch Fist+2: filler
 One Punch Fist+3: useful
 One Punch Fist+4: unknown
 One Punch Fist+5: unknown
@@ -1178,7 +1178,7 @@ Tambourine+5: unknown
 Tambourine: unknown
 Tanuki Egg: unknown
 Tar Blob Egg: unknown
-Tar Blob Saddle: unknown
+Tar Blob Saddle: progression
 Targoat Egg: unknown
 Targoat Horn: progression
 Tarot Card+1: filler

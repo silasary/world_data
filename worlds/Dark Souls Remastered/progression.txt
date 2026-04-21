@@ -1,4 +1,5 @@
 Abyss Greatsword: useful
+Alluring Skull x4: filler
 Alluring Skull: filler
 Anklet of the Great Lord: useful
 Annex Key: progression
@@ -36,8 +37,9 @@ Binoculars: filler
 Black Bow of Pharis: filler
 Black Cleric Robe: unknown
 Black Eye Orb: filler
+Black Firebomb x5: filler
 Black Firebomb: filler
-Black Iron Armor: unknown
+Black Iron Armor: filler
 Black Iron Gauntlets: filler
 Black Iron Greatshield: useful
 Black Iron Helm: useful
@@ -70,19 +72,37 @@ Blood-Stained Skirt: useful
 Bloodbite Ring: filler
 Bloodred Moss Clump: filler
 Bloodshield: filler
+Blooming Purple Moss Clump x3: filler
 Blooming Purple Moss Clump: filler
 Blue Eye Orb: filler
 Blue Tearstone Ring: useful
 Blue Titanite Chunk: useful
 Blue Titanite Slab: useful
 Bonewheel Shield: useful
+Bonfire Warp Unlock - Catacombs: filler
+Bonfire Warp Unlock - Daughter of Chaos: filler
+Bonfire Warp Unlock - Depths: filler
 Bonfire Warp Unlock - Firelink Shrine: filler
+Bonfire Warp Unlock - Stone Dragon: filler
+Bonfire Warp Unlock - Sunlight Altar: filler
+Bonfire Warp Unlock - Undead Parish: filler
 Book of the Guilty: filler
 Boots of the Explorer: filler
+Boss Fog Wall Key - Artorias: progression
+Boss Fog Wall Key - Bed of Chaos: progression
+Boss Fog Wall Key - Bell Gargoyles: progression
 Boss Fog Wall Key - Capra Demon: progression
+Boss Fog Wall Key - Centipede Demon: progression
+Boss Fog Wall Key - Crossbreed Priscilla: progression
+Boss Fog Wall Key - Four Kings: progression
 Boss Fog Wall Key - Gaping Dragon: progression
 Boss Fog Wall Key - Gwyn: progression
+Boss Fog Wall Key - Gwyndolin: progression
+Boss Fog Wall Key - Iron Golem: progression
 Boss Fog Wall Key - Nito: progression
+Boss Fog Wall Key - Ornstein and Smough: progression
+Boss Fog Wall Key - Pinwheel: progression
+Boss Fog Wall Key - Quelaag: progression
 Boss Fog Wall Key - Sanctuary Guardian: progression
 Bottomless Box: useful
 Bracelet of the Great Lord: useful
@@ -91,7 +111,7 @@ Brass Gauntlets: filler
 Brass Helm: filler
 Brass Leggings: useful
 Brigand Armor: useful
-Brigand Gauntlets: unknown
+Brigand Gauntlets: filler
 Brigand Hood: filler
 Brigand Trousers: filler
 BroadSword: unknown
@@ -178,6 +198,7 @@ Darkmoon Talisman: filler
 Darksign: filler
 Darksword: useful
 Demon Great Machete: filler
+Demon Titanite x2: filler
 Demon Titanite: useful
 Demon's Catalyst: filler
 Demon's Great Hammer: filler
@@ -228,6 +249,7 @@ Estoc: filler
 Eye of Death: filler
 Falchion: filler
 Fang Boar Helm: filler
+Feather Arrow x16: filler
 Feather Arrow: filler
 Fire Arrow: useful
 Fire Keeper Soul (Anastacia of Astora): useful
@@ -244,6 +266,7 @@ Flame Stoneplate Ring: filler
 Fog Wall Key - Anor Londo #1 (Rafters): progression
 Fog Wall Key - Anor Londo #2 (Archers): progression
 Fog Wall Key - Ash Lake Entrance: progression
+Fog Wall Key - Catacombs: progression
 Fog Wall Key - Depths Rat Room: progression
 Fog Wall Key - Duke's Archives Courtyard Entrance: progression
 Fog Wall Key - Lower Blighttown Entrance: progression
@@ -253,6 +276,7 @@ Fog Wall Key - Painted World: progression
 Fog Wall Key - Sen's Fortress #1 (Outside Stairs): progression
 Fog Wall Key - Sen's Fortress #2 (Upper Entrance): progression
 Fog Wall Key - Tomb of the Giants: progression
+Fog Wall Key - Undead Burg: progression
 Fog Wall Key - Undead Parish: progression
 Four-pronged Plow: filler
 Gargoyle Helm: useful
@@ -272,6 +296,7 @@ Giant Leggings: filler
 Giant Shield: filler
 Giant's Halberd: filler
 Gold Coin: filler
+Gold Pine Resin x3: filler
 Gold Pine Resin: useful
 Gold Tracer: filler
 Gold-Hemmed Black Cloak: filler
@@ -342,6 +367,7 @@ Hollow Warrior Helm: useful
 Hollow Warrior Waistcloth: filler
 Holy Robe: filler
 Holy Trousers: filler
+Homeward Bone x6: filler
 Homeward Bone: filler
 Hornet Ring: filler
 Humanity x3: filler
@@ -363,6 +389,7 @@ Knight Gauntlets: useful
 Knight Helm: useful
 Knight Leggings: useful
 Knight Shield: useful
+Large Arrow x16: filler
 Large Arrow: filler
 Large Club: useful
 Large Divine Ember: useful
@@ -373,6 +400,7 @@ Large Soul of a Brave Warrior: useful
 Large Soul of a Lost Undead: useful
 Large Soul of a Nameless Soldier: filler
 Large Soul of a Proud Knight: useful
+Large Titanite Shard x2: filler
 Large Titanite Shard: useful
 Leather Armor: useful
 Leather Boots: filler
@@ -387,6 +415,7 @@ Lifehunt Scythe: useful
 Light Crossbow: useful
 Lightning Bolt: filler
 Lingering Dragoncrest Ring: unknown
+Lloyd's Talisman x4: filler
 Lloyd's Talisman: filler
 Logan's Catalyst: filler
 Longbow: filler
@@ -456,7 +485,7 @@ Ornstein's Armor: filler
 Ornstein's Gauntlets: useful
 Ornstein's Helm: filler
 Ornstein's Leggings: filler
-Painting Guardian Gloves: unknown
+Painting Guardian Gloves: filler
 Painting Guardian Hood: filler
 Painting Guardian Robe: useful
 Painting Guardian Sword: filler
@@ -623,6 +652,7 @@ Spell Stoneplate Ring: filler
 Spider Shield: filler
 Spiked Shield: filler
 Standard Arrow: unknown
+Standard Bolt x16: filler
 Standard Bolt: useful
 Standard Helm: filler
 Steel Armor: filler
@@ -650,6 +680,7 @@ Tattered Cloth Machette: useful
 Tattered Cloth Robe: useful
 Thief Mask: useful
 Thorolund Talisman: unknown
+Throwing Knife x10: filler
 Throwing Knife: filler
 Thunder Stoneplate Ring: filler
 Tin Banishment Catalyst: filler

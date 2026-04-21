@@ -1,5 +1,6 @@
 5 Weights: filler
 Ankh Jewel (Baphomet): progression
+Ankh Jewel (Mother): progression
 Ankh Jewel (Palenque): progression
 Ankh Jewel (Tiamat): progression
 Ankh Jewel (Viy): progression
@@ -55,6 +56,7 @@ Sacred Orb (Temple of the Sun): progression
 Scalesphere: progression
 Scriptures: useful
 Shuriken: progression
+Spaulder: filler
 Talisman: progression
 Treasures: progression
 Twin Statue: progression
@@ -63,6 +65,7 @@ beolamu.exe: filler
 bounce.exe: filler
 bunemon.exe: unknown
 bunplus.com: filler
+guild.exe: filler
 lamulana.exe: useful
 miracle.exe: progression
 reader.exe: progression

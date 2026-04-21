@@ -30,9 +30,9 @@
 8 of Diamonds: progression
 8 of Hearts: progression
 8 of Spades: progression
-9 of Clubs: unknown
+9 of Clubs: progression
 9 of Diamonds: progression
-9 of Hearts: unknown
+9 of Hearts: progression
 9 of Spades: progression
 Ace of Clubs: progression
 Ace of Diamonds: progression
@@ -40,7 +40,7 @@ Ace of Hearts: unknown
 Ace of Spades: unknown
 Freecell: progression
 Jack of Clubs: progression
-Jack of Diamonds: unknown
+Jack of Diamonds: progression
 Jack of Hearts: progression
 Jack of Spades: progression
 King of Clubs: progression

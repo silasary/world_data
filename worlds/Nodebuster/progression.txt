@@ -11,6 +11,13 @@ AttackSpeed2: useful
 AutoCollect: useful
 BitBoost1: useful
 Blues1.2k: unknown
+Blues1.6k: filler
+Blues100: filler
+Blues10: filler
+Blues2k: filler
+Blues300: filler
+Blues800: filler
+Blues8k: filler
 BonusDropChance1: useful
 Boss Drop: progression
 BossArmor1: filler
@@ -98,7 +105,15 @@ PulseBoltExplode: useful
 PulseBolts: useful
 RampingArmor1: filler
 RampingDamage1: useful
-Reds50k: unknown
+Reds100k: filler
+Reds10k: filler
+Reds15k: filler
+Reds2k: filler
+Reds4k: filler
+Reds500: filler
+Reds50k: filler
+Reds6k: filler
+Reds8k: filler
 Salvaging1: useful
 Salvaging2: useful
 Size1: filler
@@ -115,3 +130,6 @@ Undamaged1: filler
 Undamaged2: useful
 YellowSpawn1: useful
 YellowSpawn2: useful
+Yellows10: filler
+Yellows15: filler
+Yellows5: filler

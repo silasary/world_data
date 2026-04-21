@@ -74,10 +74,12 @@ Red- Earth Badge: progression
 Red- Elite Four Entry: progression
 Red- Rainbow Badge: progression
 Red- Soul Badge: progression
+Red- Thunder Badge: progression
 Red- Volcano Badge: progression
 Ruby- Balance Badge: progression
 Ruby- Dynamo Badge: progression
 Ruby- Elite Four Entry: progression
+Ruby- Feather Badge: progression
 Ruby- Heat Badge: progression
 Ruby- Knuckle Badge: progression
 Ruby- Mind Badge: progression
@@ -86,6 +88,7 @@ Sapphire- Balance Badge: progression
 Sapphire- Dynamo Badge: progression
 Sapphire- Elite Four Entry: progression
 Sapphire- Heat Badge: progression
+Sapphire- Knuckle Badge: progression
 Sapphire- Mind Badge: progression
 Sapphire- Rain Badge: progression
 Sapphire- Stone Badge: progression
@@ -117,6 +120,7 @@ Type- Normal: progression
 Type- Poison: progression
 Type- Psychic: progression
 Type- Rock: progression
+Yellow- Boulder Badge: progression
 Yellow- Cascade Badge: progression
 Yellow- Earth Badge: progression
 Yellow- Elite Four Entry: progression

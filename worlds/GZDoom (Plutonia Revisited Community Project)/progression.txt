@@ -7,15 +7,19 @@ Automap (MAP06): useful
 Automap (MAP07): useful
 Automap (MAP08): useful
 Automap (MAP10): useful
+Automap (MAP11): useful
 Automap (MAP12): useful
 Automap (MAP13): useful
 Automap (MAP14): useful
+Automap (MAP15): useful
 Automap (MAP17): useful
 Automap (MAP19): useful
 Automap (MAP20): useful
 Automap (MAP21): useful
+Automap (MAP22): useful
 Automap (MAP23): useful
 Automap (MAP24): useful
+Automap (MAP25): useful
 Automap (MAP26): useful
 Automap (MAP27): useful
 Automap (MAP29): useful
@@ -29,7 +33,9 @@ BlueCard (MAP02): progression
 BlueSkull (MAP01): progression
 BlueSkull (MAP03): progression
 BlueSkull (MAP04): progression
+BlueSkull (MAP05): progression
 BlueSkull (MAP06): progression
+BlueSkull (MAP08): progression
 BlueSkull (MAP09): progression
 BlueSkull (MAP10): progression
 BlueSkull (MAP11): progression
@@ -38,7 +44,9 @@ BlueSkull (MAP15): progression
 BlueSkull (MAP16): progression
 BlueSkull (MAP17): progression
 BlueSkull (MAP18): progression
+BlueSkull (MAP19): progression
 BlueSkull (MAP20): progression
+BlueSkull (MAP22): progression
 BlueSkull (MAP23): progression
 BlueSkull (MAP24): progression
 BlueSkull (MAP26): progression
@@ -53,9 +61,11 @@ GreenArmor: filler
 Infrared: filler
 InvulnerabilitySphere: filler
 Level Access (MAP02): progression
+Level Access (MAP03): progression
 Level Access (MAP04): progression
 Level Access (MAP05): progression
 Level Access (MAP06): progression
+Level Access (MAP08): progression
 Level Access (MAP09): progression
 Level Access (MAP10): progression
 Level Access (MAP11): progression
@@ -94,6 +104,7 @@ Level Clear (MAP30): progression
 Level Clear (MAP31): progression
 Megasphere: filler
 Plasma Rifle: progression
+RedCard (MAP02): progression
 RedSkull (MAP01): progression
 RedSkull (MAP04): progression
 RedSkull (MAP05): progression
@@ -119,6 +130,7 @@ Shotgun: progression
 Soulsphere: filler
 Super Shotgun: progression
 YellowCard (MAP02): progression
+YellowCard (MAP27): progression
 YellowSkull (MAP01): progression
 YellowSkull (MAP04): progression
 YellowSkull (MAP05): progression
@@ -128,8 +140,10 @@ YellowSkull (MAP10): progression
 YellowSkull (MAP11): progression
 YellowSkull (MAP14): progression
 YellowSkull (MAP16): progression
+YellowSkull (MAP19): progression
 YellowSkull (MAP20): progression
 YellowSkull (MAP22): progression
+YellowSkull (MAP24): progression
 YellowSkull (MAP25): progression
 YellowSkull (MAP28): progression
 YellowSkull (MAP29): progression

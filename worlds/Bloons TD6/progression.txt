@@ -13,6 +13,7 @@ AirforceUpgrades-KUnlock: useful
 Alchemist-TUnlock: progression
 AlpineRun-MUnlock: progression
 AmbushTech-KUnlock: progression
+AncientPortal-MUnlock: progression
 AnotherBrick-MUnlock: progression
 ArcaneImpale-KUnlock: progression
 AviationGradeGlue-KUnlock: progression
@@ -65,7 +66,7 @@ Corvus-HUnlock: useful
 CoveredGarden-MUnlock: useful
 Cracked-MUnlock: progression
 CrossTheStreams-KUnlock: progression
-CrossbowReach-KUnlock: unknown
+CrossbowReach-KUnlock: progression
 Cubism-MUnlock: progression
 DarkCastle-MUnlock: progression
 DarkDungeons-MUnlock: progression
@@ -80,6 +81,7 @@ Druid-TUnlock: progression
 EliteMilitaryTraining-KUnlock: progression
 EmergencyUnlock-KUnlock: progression
 EmpoweredHeroes-KUnlock: progression
+EnchantedGlade-MUnlock: progression
 Encrypted-MUnlock: progression
 EndOfTheRoad-MUnlock: progression
 EngineerMonkey-TUnlock: progression
@@ -92,7 +94,7 @@ Ezili-HUnlock: progression
 FarmSubsidy-KUnlock: progression
 FastGlue-KUnlock: progression
 FastTackAttacks-KUnlock: progression
-FasterTakedowns-KUnlock: unknown
+FasterTakedowns-KUnlock: progression
 FiringRange-MUnlock: progression
 FirstLastLineOfDefense-KUnlock: progression
 FitFarmers-KUnlock: useful
@@ -136,11 +138,13 @@ InlandRevenueStreams-KUnlock: progression
 InsiderTrades-KUnlock: progression
 JustOneMore-KUnlock: useful
 KartsNDarts-MUnlock: progression
+LastResort-MUnlock: progression
 LingeringMagic-KUnlock: progression
 Logs-MUnlock: progression
 LongTurbo-KUnlock: progression
 LongerBoosts-KUnlock: useful
 LongerDartTime-KUnlock: useful
+LostCrevasse-MUnlock: progression
 LotusIsland-MUnlock: progression
 LuminousCove-MUnlock: progression
 MagicTricks-KUnlock: progression
@@ -153,15 +157,17 @@ MegaMauler-KUnlock: progression
 Mermonkey-TUnlock: progression
 Mesa-MUnlock: progression
 MiddleOfTheRoad-MUnlock: progression
-MidnightMansion-MUnlock: unknown
+MidnightMansion-MUnlock: progression
 MilitaryConscription-KUnlock: progression
 MoMonkeyMoney-KUnlock: progression
 Monkey Boost: filler
 Monkey Knowledge: useful
 Monkey Money: filler
+Monkey Storm: filler
 MonkeyAce-TUnlock: progression
 MonkeyBuccaneer-TUnlock: useful
 MonkeyEducation-KUnlock: progression
+MonkeyMeadow-MUnlock: progression
 MonkeySub-TUnlock: useful
 MonkeyVillage-TUnlock: progression
 MonkeysTogetherStrong-KUnlock: progression
@@ -172,6 +178,7 @@ MoreSplody-KUnlock: progression
 MoreValuableBananas-KUnlock: progression
 MortarMonkey-TUnlock: useful
 MuddyPuddles-MUnlock: progression
+MushroomGrotto-MUnlock: progression
 NavalUpgrades-KUnlock: progression
 NinjaMonkey-TUnlock: useful
 ObynGreenfoot-HUnlock: progression
@@ -188,6 +195,7 @@ Polyphemus-MUnlock: progression
 PoppyBlades-KUnlock: progression
 PowerfulMonkeyStorm-KUnlock: progression
 PreGamePrep-KUnlock: progression
+Progressive Prices: progression
 Psi-HUnlock: progression
 Quad-MUnlock: progression
 QuadBurst-KUnlock: progression
@@ -219,7 +227,7 @@ Streambed-MUnlock: progression
 StrikeDownTheFalse-KUnlock: progression
 StrikerJones-HUnlock: progression
 StrongTonic-KUnlock: progression
-SubAdmiral-KUnlock: unknown
+SubAdmiral-KUnlock: progression
 SulfurSprings-MUnlock: useful
 SunkenColumns-MUnlock: progression
 SupaThrive-KUnlock: useful
@@ -227,8 +235,8 @@ SuperMonkey-TUnlock: progression
 SuperRange-KUnlock: progression
 SupersizeGlueTrap-KUnlock: progression
 TackShooter-TUnlock: useful
-TargetedPineapples-KUnlock: unknown
-TheCabin-MUnlock: unknown
+TargetedPineapples-KUnlock: progression
+TheCabin-MUnlock: progression
 ThereCanBeOnlyOne-KUnlock: useful
 ThickerFoams-KUnlock: progression
 Tinkerton-MUnlock: progression
@@ -237,13 +245,14 @@ ToArms-KUnlock: useful
 TownCentre-MUnlock: progression
 TradeAgreements-KUnlock: progression
 TreeStump-MUnlock: progression
+TrickyTracks-MUnlock: progression
 Tutorial-MUnlock: progression
 Underground-MUnlock: progression
 VeryShreddy-KUnlock: progression
 VeteranMonkeyTraining-KUnlock: progression
 VigilantSentries-KUnlock: progression
 VineRupture-KUnlock: progression
-ViolentImpact-KUnlock: unknown
+ViolentImpact-KUnlock: progression
 WarmOak-KUnlock: progression
 WaterPark-MUnlock: progression
 WeakPoint-KUnlock: progression

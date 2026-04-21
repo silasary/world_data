@@ -10,20 +10,28 @@ Ability Distiller x 90: useful
 Aeon Customization: Aim: filler
 Aeon Customization: Armor Break: useful
 Aeon Customization: Bio: useful
+Aeon Customization: Blizzaga: useful
+Aeon Customization: Blizzard: useful
 Aeon Customization: Cheer: filler
 Aeon Customization: Cura: useful
 Aeon Customization: Cure: useful
 Aeon Customization: Dark Attack: useful
+Aeon Customization: Death: useful
+Aeon Customization: Demi: useful
 Aeon Customization: Dispel: useful
 Aeon Customization: Drain: useful
+Aeon Customization: Fira: useful
+Aeon Customization: Firaga: useful
 Aeon Customization: Focus: filler
 Aeon Customization: Full-Life: useful
+Aeon Customization: Hastega: useful
 Aeon Customization: Holy: useful
 Aeon Customization: Jinx: filler
 Aeon Customization: Lancet: filler
 Aeon Customization: Life: useful
 Aeon Customization: Luck: filler
 Aeon Customization: NulBlaze: useful
+Aeon Customization: NulShock: useful
 Aeon Customization: Power Break: useful
 Aeon Customization: Pray: filler
 Aeon Customization: Protect: useful
@@ -32,7 +40,12 @@ Aeon Customization: Reflex: filler
 Aeon Customization: Regen: useful
 Aeon Customization: Scan: filler
 Aeon Customization: Slow: useful
+Aeon Customization: Slowga: useful
+Aeon Customization: Thundaga: useful
 Aeon Customization: Ultima: useful
+Aeon Customization: Water: useful
+Aeon Customization: Watera: useful
+Aeon Customization: Zombie Attack: useful
 Aeon's Soul: progression
 Al Bhed Potion x 20: useful
 Al Bhed Potion x 30: useful
@@ -95,6 +108,7 @@ Arctic Wind x 70: useful
 Arctic Wind x 80: useful
 Armor (Auron): Defending Bracer I: useful
 Armor (Auron): Defending Bracer II: useful
+Armor (Auron): Defending Bracer III: useful
 Armor (Auron): Serene Bracer: useful
 Armor (Kimahri): Defending Armlet: useful
 Armor (Kimahri): Lucid Armlet: useful
@@ -109,6 +123,7 @@ Armor (Rikku): Spiritual Targe: useful
 Armor (Rikku): Victorious: useful
 Armor (Tidus): NulBlaze Shield: useful
 Armor (Tidus): Yellow Shield: useful
+Armor (Wakka): Bright Armguard: useful
 Armor (Yuna): Echo Ring: useful
 Armor (Yuna): Lucid Ring I: useful
 Armor (Yuna): Lucid Ring II: useful
@@ -228,6 +243,7 @@ Elixir x 20: filler
 Elixir x 30: filler
 Elixir x 40: filler
 Elixir x 50: filler
+Elixir x 60: filler
 Elixir x 70: filler
 Elixir x 80: filler
 Elixir x 90: filler
@@ -296,6 +312,7 @@ Frag Grenade x 60: useful
 Frag Grenade x 70: useful
 Frag Grenade x 80: useful
 Frag Grenade x 90: useful
+Gear Customization: Alchemy: useful
 Gear Customization: Auto-Med: useful
 Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
@@ -303,16 +320,21 @@ Gear Customization: Auto-Regen: useful
 Gear Customization: Auto-Shell: useful
 Gear Customization: Berserk Ward: filler
 Gear Customization: Berserkproof: useful
+Gear Customization: Break Damage Limit: useful
 Gear Customization: Break HP Limit: useful
 Gear Customization: Confuse Ward: useful
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
+Gear Customization: Darkstrike: useful
 Gear Customization: Darktouch: useful
 Gear Customization: Death Ward: useful
+Gear Customization: Deathproof: useful
+Gear Customization: Defense +20%: useful
 Gear Customization: Defense +3%: filler
 Gear Customization: Defense +5%: filler
 Gear Customization: Double AP: useful
 Gear Customization: Double Overdrive: useful
+Gear Customization: Evade & Counter: useful
 Gear Customization: Fire Ward: filler
 Gear Customization: Fireproof: useful
 Gear Customization: First Strike: useful
@@ -322,13 +344,16 @@ Gear Customization: HP +20%: useful
 Gear Customization: HP +5%: filler
 Gear Customization: HP Stroll: filler
 Gear Customization: Half MP Cost: useful
+Gear Customization: Ice Eater: useful
 Gear Customization: Ice Ward: filler
 Gear Customization: Iceproof: useful
+Gear Customization: Icestrike: useful
 Gear Customization: Initiative: useful
 Gear Customization: Lightning Eater: useful
 Gear Customization: Lightning Ward: filler
 Gear Customization: Lightningproof: useful
 Gear Customization: MP +10%: filler
+Gear Customization: MP +30%: useful
 Gear Customization: MP +5%: filler
 Gear Customization: MP Stroll: filler
 Gear Customization: Magic +3%: filler
@@ -341,7 +366,10 @@ Gear Customization: Magic Def +5%: filler
 Gear Customization: Master Thief: useful
 Gear Customization: One MP Cost: useful
 Gear Customization: Piercing: useful
+Gear Customization: Poison Ward: filler
 Gear Customization: Poisonstrike: useful
+Gear Customization: Poisontouch: useful
+Gear Customization: Ribbon: useful
 Gear Customization: SOS NulShock: useful
 Gear Customization: SOS Overdrive: useful
 Gear Customization: SOS Protect: filler
@@ -349,12 +377,16 @@ Gear Customization: SOS Regen: filler
 Gear Customization: SOS Shell: filler
 Gear Customization: Sensor: filler
 Gear Customization: Silence Ward: filler
+Gear Customization: Silenceproof: useful
 Gear Customization: Silencetouch: useful
 Gear Customization: Sleep Ward: filler
+Gear Customization: Sleepstrike: useful
+Gear Customization: Sleeptouch: useful
 Gear Customization: Slow Ward: filler
 Gear Customization: Slowproof: useful
 Gear Customization: Stone Ward: useful
 Gear Customization: Stoneproof: useful
+Gear Customization: Stonestrike: useful
 Gear Customization: Stonetouch: useful
 Gear Customization: Strength +3%: filler
 Gear Customization: Strength +5%: filler
@@ -362,6 +394,7 @@ Gear Customization: Triple Overdrive: useful
 Gear Customization: Water Ward: filler
 Gear Customization: Waterproof: useful
 Gear Customization: Zombie Ward: filler
+Gear Customization: Zombietouch: useful
 Gold Hourglass x 10: useful
 Gold Hourglass x 20: useful
 Gold Hourglass x 30: useful
@@ -411,6 +444,7 @@ Holy Water x 20: filler
 Holy Water x 30: filler
 Holy Water x 40: filler
 Holy Water x 50: filler
+Holy Water x 60: filler
 Holy Water x 70: filler
 Holy Water x 80: filler
 Holy Water x 90: filler
@@ -528,6 +562,7 @@ Mercury Crest: progression
 Mercury Sigil: progression
 Moon Crest: progression
 Moon Sigil: progression
+Overdrive: Energy Blast: progression
 Party Member: Anima: progression
 Party Member: Auron: progression
 Party Member: Bahamut: progression
@@ -636,6 +671,11 @@ Remedy x 60: filler
 Remedy x 70: filler
 Remedy x 80: filler
 Remedy x 90: filler
+Ronso Rage: Aqua Breath: progression
+Ronso Rage: Jump: progression
+Ronso Rage: Seed Cannon: progression
+Ronso Rage: Self Destruct: progression
+Ronso Rage: Stone Breath: progression
 Rusty Sword: progression
 Saturn Crest: progression
 Saturn Sigil: progression
@@ -682,6 +722,7 @@ Sleeping Powder x 60: useful
 Sleeping Powder x 70: useful
 Sleeping Powder x 80: useful
 Sleeping Powder x 90: useful
+Slots: Aurochs Reels: progression
 Smoke Bomb x 10: useful
 Smoke Bomb x 20: useful
 Smoke Bomb x 30: useful
@@ -765,6 +806,8 @@ Supreme Gem x 60: useful
 Supreme Gem x 70: useful
 Supreme Gem x 80: useful
 Supreme Gem x 90: useful
+Swordplay: Energy Rain: progression
+Swordplay: Slice and Dice: progression
 Tetra Elemental x 10: useful
 Tetra Elemental x 20: useful
 Tetra Elemental x 30: useful
@@ -797,6 +840,7 @@ Twin Stars x 20: useful
 Twin Stars x 30: useful
 Twin Stars x 40: useful
 Twin Stars x 50: useful
+Twin Stars x 60: useful
 Twin Stars x 70: useful
 Twin Stars x 80: useful
 Twin Stars x 90: useful
@@ -809,6 +853,7 @@ Water Gem x 30: useful
 Water Gem x 40: useful
 Water Gem x 50: useful
 Water Gem x 60: useful
+Water Gem x 70: useful
 Water Gem x 80: useful
 Water Gem x 90: useful
 Weapon (Auron): Masamune: progression
@@ -850,6 +895,7 @@ Weapon (Tidus): Variable Steel II: useful
 Weapon (Wakka): Ace Wizard: useful
 Weapon (Wakka): All-Rounder: useful
 Weapon (Wakka): Bright Armguard: useful
+Weapon (Wakka): Four-on-One: useful
 Weapon (Wakka): Pep Talk: useful
 Weapon (Wakka): Prism Ball: useful
 Weapon (Wakka): Rematch: useful
@@ -910,6 +956,7 @@ X-Potion x 90: filler
 [Amulet] x 90: useful
 [Attribute Sphere] x 10: useful
 [Attribute Sphere] x 20: useful
+[Attribute Sphere] x 30: useful
 [Attribute Sphere] x 40: useful
 [Attribute Sphere] x 50: useful
 [Attribute Sphere] x 60: useful
@@ -953,6 +1000,7 @@ X-Potion x 90: filler
 [Designer Wallet] x 90: useful
 [Door to Tomorrow] x 10: useful
 [Door to Tomorrow] x 20: useful
+[Door to Tomorrow] x 30: useful
 [Door to Tomorrow] x 40: useful
 [Door to Tomorrow] x 50: useful
 [Door to Tomorrow] x 60: useful
@@ -1151,6 +1199,7 @@ X-Potion x 90: filler
 [Shining Thorn] x 20: useful
 [Shining Thorn] x 30: useful
 [Shining Thorn] x 40: useful
+[Shining Thorn] x 50: useful
 [Shining Thorn] x 60: useful
 [Shining Thorn] x 70: useful
 [Shining Thorn] x 80: useful

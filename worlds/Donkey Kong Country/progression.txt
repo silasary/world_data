@@ -1,5 +1,6 @@
 1-Up Balloon: filler
 Animal Bonus Trap: trap
+Army Trap: trap
 Backup DK Barrel: filler
 Banana Extractinator: useful
 Barrel Kannons: progression
@@ -14,7 +15,7 @@ Enguarde: progression
 Expresso: progression
 Gorilla Glacier Access: progression
 Gorilla Slap: progression
-Ice Trap: unknown
+Ice Trap: trap
 Jump Trap: trap
 Kongo Jungle Access: progression
 Kremkroc Industries Inc. Access: progression

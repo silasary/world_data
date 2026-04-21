@@ -7,6 +7,7 @@ Box of rockets: filler
 Box of shotgun shells: filler
 Bullet capacity: useful
 Central Processing (E1M6) - Blue keycard: progression
+Central Processing (E1M6) - Complete: progression
 Central Processing (E1M6) - Computer area map: filler
 Central Processing (E1M6) - Red keycard: progression
 Central Processing (E1M6) - Yellow keycard: progression
@@ -29,6 +30,7 @@ Containment Area (E2M2) - Complete: progression
 Containment Area (E2M2) - Red keycard: progression
 Containment Area (E2M2) - Yellow keycard: progression
 Containment Area (E2M2): progression
+Deimos Anomaly (E2M1) - Blue keycard: progression
 Deimos Anomaly (E2M1) - Red keycard: progression
 Deimos Lab (E2M4) - Blue keycard: progression
 Deimos Lab (E2M4) - Complete: progression
@@ -83,6 +85,8 @@ Phobos Lab (E1M5) - Yellow keycard: progression
 Phobos Lab (E1M5): progression
 Plasma gun: progression
 Refinery (E2M3) - Blue keycard: progression
+Refinery (E2M3) - Complete: progression
+Refinery (E2M3): progression
 Rocket capacity: useful
 Rocket launcher: progression
 Shell capacity: useful
@@ -91,6 +95,7 @@ Slough of Despair (E3M2) - Blue skull key: progression
 Slough of Despair (E3M2) - Complete: progression
 Slough of Despair (E3M2) - Computer area map: filler
 Slough of Despair (E3M2): progression
+Spawning Vats (E2M7) - Blue keycard: progression
 Spawning Vats (E2M7) - Complete: progression
 Spawning Vats (E2M7) - Red keycard: progression
 Spawning Vats (E2M7) - Yellow keycard: progression

@@ -8,6 +8,9 @@ Enchanting: progression
 GuildProgressive: progression
 MainQuestProgressive: progression
 One-Handed: progression
+ProgressiveHeavyArmorTier: useful
+ProgressiveLightArmorTier: useful
 ProgressiveSpellTier: progression
 ProgressiveWeaponTier: progression
+Smithing: progression
 ThalmorEars: filler

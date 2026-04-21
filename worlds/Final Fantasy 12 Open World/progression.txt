@@ -145,7 +145,7 @@ Bundle of Needles: filler
 Burgonet: useful
 Burning Bow: filler
 Cactus Flower: progression
-Cactus Fruit: unknown
+Cactus Fruit: filler
 Caldera: filler
 Caliper: filler
 Calot Hat: filler
@@ -212,7 +212,7 @@ Damascus Steel: filler
 Dark Crystal: filler
 Dark Energy: unknown
 Dark Magicite: unknown
-Dark Matter: unknown
+Dark Matter: filler
 Dark Mote: filler
 Dark Shot: filler
 Dark Stone: filler
@@ -261,7 +261,7 @@ Dragon Whisker: filler
 Drain: useful
 Dueling Mask: unknown
 Dull Fragment: mcguffin
-Durandal: unknown
+Durandal: filler
 Dusty Letter: progression
 Earth Crystal: filler
 Earth Magicite: filler
@@ -361,7 +361,7 @@ Goddess's Magicite: progression
 Godslayer's Badge: unknown
 Goggle Mask: filler
 Gokuu Pole: filler
-Gold Hairpin: unknown
+Gold Hairpin: filler
 Gold Needle: filler
 Golden Amulet: filler
 Golden Armor: filler
@@ -418,7 +418,7 @@ Holy Stone: unknown
 Holy: useful
 Horakhty's Flame: unknown
 Horn: unknown
-Horned Hat: unknown
+Horned Hat: filler
 Hornito: filler
 Horology: useful
 Hunting Crossbow: filler
@@ -495,7 +495,7 @@ Longsword: filler
 Lordly Robes: unknown
 Loxley Bow: filler
 Lu Shang's Badge: filler
-Lumber: unknown
+Lumber: filler
 Lusterless Medallion: progression
 Mace: unknown
 Maduin Gear: filler
@@ -520,7 +520,7 @@ Mardu Halcyon: filler
 Masamune: filler
 Mateus: progression
 Maverick Trophy: unknown
-Maximillian: unknown
+Maximillian: filler
 Medallion of Bravery: progression
 Medallion of Love: progression
 Medallion of Might: progression
@@ -564,7 +564,7 @@ No. 1 Brig Key: progression
 Nu Khai Sand: filler
 Numerology: useful
 Oak Staff: filler
-Oaken Pole: unknown
+Oaken Pole: filler
 Obelisk: useful
 Odiferous Trophy: unknown
 Officer's Hat: filler
@@ -611,8 +611,8 @@ Poisona: useful
 Potion: filler
 Power Armlet: filler
 Power Rod: unknown
-Power Vest: unknown
-Prime Pelt: unknown
+Power Vest: filler
+Prime Pelt: filler
 Prime Tanned Hide: unknown
 Prince's Kiss: filler
 Protect: useful
@@ -621,7 +621,7 @@ Putrid Liquid: filler
 Quality Hide: filler
 Quality Lumber: filler
 Quality Pelt: filler
-Quality Stone: unknown
+Quality Stone: filler
 Quasimodo Boots: filler
 Rabanastre Aeropass: progression
 Rabbit's Tail: progression
@@ -731,7 +731,7 @@ Sluice Gate Key: progression
 Small Feather: filler
 Snake Skin: filler
 Snowfly: filler
-Soldier's Cap: unknown
+Soldier's Cap: filler
 Soleil Fang: filler
 Solid Horn: filler
 Solid Stone: filler
@@ -791,7 +791,7 @@ Throat Wolf Blood: filler
 Thundaga: useful
 Thundara: useful
 Thunder: useful
-Time Bolts: unknown
+Time Bolts: filler
 Tomato Stalk: unknown
 Topkapi Hat: unknown
 Tourmaline Ring: useful
@@ -848,7 +848,7 @@ Wind Magicite: filler
 Wind Stone: unknown
 Windbreaker: filler
 Windslicer Pinion: unknown
-Windslicer Shot: unknown
+Windslicer Shot: filler
 Windvane: progression
 Winged Boots: filler
 Winged Helm: useful

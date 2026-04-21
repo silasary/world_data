@@ -4,11 +4,14 @@ Acid Amulet: filler
 Acid Breath: filler
 Acid Potion: filler
 Anti-Death Halo: useful
+Bomb Runner: trap
+Bomb Thrower: trap
 Castle Courtyard Obelisk: progression
 Castle Obelisk 1: progression
 Castle Obelisk 2: progression
 Chimera Mirror Shard: progression
 Cliffs of Desolation Obelisk: progression
+Crossbow Shooter: trap
 Dagger Peak Obelisk: progression
 Death: trap
 Dragon Mirror Shard: progression
@@ -21,6 +24,7 @@ Fire Shield: filler
 Flame of Tarkana: useful
 Fruit: filler
 Gold: filler
+Golem: trap
 Growth: filler
 Haunted Cemetery Obelisk: progression
 Ice Axe of Untar: useful
@@ -60,6 +64,7 @@ Portal to Toxic Air Ship: progression
 Portal to Vat of the Plague Fiend: progression
 Portal to Venomous Spire: progression
 Portal to Volcanic Caverns: progression
+Portal to Yeti's Cavern: progression
 Rapid Fire: filler
 Reflective Shield: filler
 Reflective Shot: filler

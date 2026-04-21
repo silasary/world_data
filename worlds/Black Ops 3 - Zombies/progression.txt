@@ -1,30 +1,90 @@
+(Der Eisendrache) Dead Shot: progression
 (Der Eisendrache) Double Tap: progression
+(Der Eisendrache) Electric Cherry: progression
+(Der Eisendrache) Juggernog: progression
+(Der Eisendrache) Mule Kick: progression
 (Der Eisendrache) Mystery Box - Monkey Bombs: progression
+(Der Eisendrache) Mystery Box - Raygun: progression
 (Der Eisendrache) Ragnarok DG-4 Part - Body: progression
+(Der Eisendrache) Ragnarok DG-4 Part - Guards: progression
+(Der Eisendrache) Ragnarok DG-4 Part - Handle: progression
+(Der Eisendrache) Shield Part - Clamp: progression
 (Der Eisendrache) Shield Part - Dolly: progression
+(Der Eisendrache) Speed Cola: progression
 (Der Eisendrache) Stamin-up: progression
 (Der Eisendrache) Victory: progression
 (Der Eisendrache) Widow's Wine: progression
+(Gorod Krovi) Dead Shot: progression
+(Gorod Krovi) Double Tap: progression
+(Gorod Krovi) Juggernog: progression
+(Gorod Krovi) Mule Kick: progression
 (Gorod Krovi) Mystery Box - Monkey Bombs: progression
 (Gorod Krovi) Mystery Box - Raygun Mark 3: progression
 (Gorod Krovi) Mystery Box - Raygun: progression
+(Gorod Krovi) Shield Part - Dolly: progression
+(Gorod Krovi) Shield Part - Door: progression
+(Gorod Krovi) Speed Cola: progression
 (Gorod Krovi) Stamin-up: progression
+(Gorod Krovi) Victory: progression
 (Gorod Krovi) Widow's Wine: progression
+(Revelations) Dead Shot: progression
+(Revelations) Double Tap: progression
+(Revelations) Electric Cherry: progression
+(Revelations) Juggernog: progression
+(Revelations) Mule Kick: progression
+(Revelations) Mystery Box - Apothicon Servant: progression
 (Revelations) Mystery Box - Li'l Arnies: progression
 (Revelations) Mystery Box - Ragnarok DG-4s: progression
+(Revelations) Mystery Box - Raygun: progression
 (Revelations) Mystery Box - Thundergun: progression
+(Revelations) Shield Part - Clamp: progression
+(Revelations) Shield Part - Door: progression
+(Revelations) Stamin-up: progression
+(Revelations) Victory: progression
+(Revelations) Widow's Wine: progression
+(Shadows of Evil) Apothicon Servant Part - Margwa Heart: progression
+(Shadows of Evil) Apothicon Servant Part - Margwa Tentacle: progression
+(Shadows of Evil) Apothicon Servant Part - Xenomatter: progression
+(Shadows of Evil) Civil Protector Part - Canals Fuse: progression
+(Shadows of Evil) Civil Protector Part - Waterfront Fuse: progression
 (Shadows of Evil) Double Tap: progression
+(Shadows of Evil) Juggernog: progression
+(Shadows of Evil) Mule Kick: progression
+(Shadows of Evil) Mystery Box - Apothicon Servant: progression
+(Shadows of Evil) Mystery Box - Li'l Arnies: progression
+(Shadows of Evil) Mystery Box - Raygun: progression
+(Shadows of Evil) Shield Part - Clamp: progression
 (Shadows of Evil) Shield Part - Dolly: progression
 (Shadows of Evil) Shield Part - Door: progression
 (Shadows of Evil) Speed Cola: progression
+(Shadows of Evil) Stamin-up: progression
+(Shadows of Evil) Victory: progression
+(Shadows of Evil) Widow's Wine: progression
+(The Giant) Double Tap: progression
 (The Giant) Juggernog: progression
+(The Giant) Mule Kick: progression
 (The Giant) Mystery Box - Monkey Bombs: progression
+(The Giant) Mystery Box - Raygun: progression
+(The Giant) Mystery Box - Wunderwaffe DG-2: progression
 (The Giant) Speed Cola: progression
 (Zetsubou No Shima) Dead Shot: progression
+(Zetsubou No Shima) Double Tap: progression
 (Zetsubou No Shima) Gasmask Part - Filter: progression
+(Zetsubou No Shima) Gasmask Part - Strap: progression
+(Zetsubou No Shima) Gasmask Part - Visor: progression
+(Zetsubou No Shima) Juggernog: progression
 (Zetsubou No Shima) Mule Kick: progression
+(Zetsubou No Shima) Mystery Box - KT-4: progression
 (Zetsubou No Shima) Mystery Box - Monkey Bombs: progression
+(Zetsubou No Shima) Mystery Box - Raygun: progression
+(Zetsubou No Shima) Shield Part - Clamp: progression
+(Zetsubou No Shima) Shield Part - Dolly: progression
+(Zetsubou No Shima) Shield Part - Door: progression
+(Zetsubou No Shima) Speed Cola: progression
 (Zetsubou No Shima) Stamin-up: progression
+(Zetsubou No Shima) Victory: progression
+(Zetsubou No Shima) Widow's Wine: progression
+1500 Points: filler
 200 Points: filler
 Gift - Carpenter Powerup: filler
 Gift - Double Points Powerup: filler
@@ -34,10 +94,20 @@ Gift - InstaKill Powerup: filler
 Gift - Max Ammo Powerup: filler
 Gift - Unlimited Sprint (2 Minutes): filler
 Map Unlock - Castle: progression
+Map Unlock - Gorod Krovi: progression
+Map Unlock - Revelations: progression
 Map Unlock - Shadows of Evil: progression
 Map Unlock - The Giant: progression
 Map Unlock - Zetsubou No Shima: progression
+Mystery Box - 205 Brecci: progression
+Mystery Box - 48 Dredge: progression
 Mystery Box - Dingo: progression
+Mystery Box - Drakon: progression
+Mystery Box - HVK-30: progression
+Mystery Box - Haymaker 12: progression
+Mystery Box - ICR-1: progression
+Mystery Box - Locus: progression
+Mystery Box - Man-o-War: progression
 Mystery Box - RPK: progression
 Mystery Box - VMP: progression
 Mystery Box - Vesper: progression
@@ -48,5 +118,17 @@ Shop - Checkpoint Token: useful
 Shop - Legendary Mega Gobblegum Token: useful
 Shop - Mega Gobblegum Token: useful
 Shop - Rare Mega Gobblegum Token: useful
+Wallbuy - Argus: useful
 Wallbuy - BRM: useful
+Wallbuy - Bootlegger: useful
+Wallbuy - Bowie Knife: useful
+Wallbuy - ICR-1: useful
+Wallbuy - KN-44: useful
+Wallbuy - KRM-262: useful
+Wallbuy - L-CAR: useful
+Wallbuy - M8A7: useful
+Wallbuy - Pharo: useful
+Wallbuy - RK5: useful
+Wallbuy - Sheiva: useful
 Wallbuy - VMP: useful
+Wallbuy - Vesper: useful

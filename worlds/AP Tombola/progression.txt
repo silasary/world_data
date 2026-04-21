@@ -25,6 +25,7 @@
 31 - Landlord: progression
 32 - Anguilla anguilla: progression
 33 - Christ's Age: progression
+34 - Head: progression
 35 - Bird: progression
 36 - Castanets: progression
 37 - Monk: progression
@@ -45,11 +46,14 @@
 50 - Bread: progression
 51 - Garden: progression
 52 - Mother: progression
+53 - Old Person: progression
 54 - Hat: progression
+55 - Music: progression
 56 - Plummeting: progression
 57 - Hunchback: progression
 58 - Package: progression
 59 - Body Hair: progression
+6 - She who Looks to the Ground: progression
 60 - Lament: progression
 61 - Hunter: progression
 62 - Dead Person Killed: progression
@@ -70,6 +74,7 @@
 76 - Fountain: progression
 77 - Devils: progression
 78 - Pretty Woman: progression
+79 - Thief: progression
 8 - Virgin Mary: progression
 80 - Mouth: progression
 81 - Flowers: progression
@@ -84,6 +89,7 @@
 9 - Offspring: progression
 90 - Fear: progression
 Card 1 Unlock: progression
+Card 2 Unlock: progression
 Card 3 Unlock: progression
 Card 4 Unlock: progression
 Card 5 Unlock: progression

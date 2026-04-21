@@ -19,16 +19,16 @@ E1L2 Automap: unknown
 E1L2 Blue Key Card: unknown
 E1L2 Red Key Card: progression
 E1L2 Unlock: progression
-E1L2 Yellow Key Card: unknown
+E1L2 Yellow Key Card: progression
 E1L3 Automap: useful
 E1L3 Blue Key Card: progression
-E1L3 Red Key Card: unknown
-E1L3 Unlock: unknown
+E1L3 Red Key Card: progression
+E1L3 Unlock: progression
 E1L3 Yellow Key Card: progression
 E1L4 Automap: useful
-E1L4 Blue Key Card: unknown
+E1L4 Blue Key Card: progression
 E1L4 Red Key Card: progression
-E1L4 Unlock: unknown
+E1L4 Unlock: progression
 E1L5 Automap: useful
 E1L5 Blue Key Card: progression
 E1L5 Unlock: progression
@@ -50,7 +50,7 @@ E2L2 Automap: unknown
 E2L2 Unlock: unknown
 E2L2 Yellow Key Card: unknown
 E2L3 Automap: unknown
-E2L3 Blue Key Card: unknown
+E2L3 Blue Key Card: progression
 E2L3 Unlock: unknown
 E2L3 Yellow Key Card: progression
 E2L4 Automap: unknown
@@ -62,9 +62,9 @@ E2L5 Unlock: unknown
 E2L6 Automap: unknown
 E2L6 Blue Key Card: unknown
 E2L6 Red Key Card: progression
-E2L6 Unlock: unknown
+E2L6 Unlock: progression
 E2L7 Automap: useful
-E2L7 Blue Key Card: unknown
+E2L7 Blue Key Card: progression
 E2L7 Red Key Card: progression
 E2L7 Unlock: progression
 E2L7 Yellow Key Card: progression
@@ -81,7 +81,7 @@ E3L1 Unlock: progression
 E3L10 Automap: unknown
 E3L10 Unlock: unknown
 E3L11 Automap: unknown
-E3L11 Blue Key Card: unknown
+E3L11 Blue Key Card: progression
 E3L11 Red Key Card: unknown
 E3L11 Unlock: progression
 E3L2 Automap: useful
@@ -89,7 +89,7 @@ E3L2 Blue Key Card: progression
 E3L2 Red Key Card: progression
 E3L2 Unlock: unknown
 E3L3 Automap: unknown
-E3L3 Blue Key Card: unknown
+E3L3 Blue Key Card: progression
 E3L3 Red Key Card: unknown
 E3L3 Unlock: unknown
 E3L3 Yellow Key Card: progression
@@ -100,11 +100,11 @@ E3L4 Unlock: unknown
 E3L5 Automap: unknown
 E3L5 Blue Key Card: unknown
 E3L5 Red Key Card: progression
-E3L5 Unlock: unknown
+E3L5 Unlock: progression
 E3L5 Yellow Key Card: unknown
 E3L6 Automap: useful
 E3L6 Blue Key Card: progression
-E3L6 Red Key Card: unknown
+E3L6 Red Key Card: progression
 E3L6 Unlock: progression
 E3L7 Automap: unknown
 E3L7 Blue Key Card: unknown
@@ -117,14 +117,14 @@ E3L8 Unlock: unknown
 E3L8 Yellow Key Card: progression
 E3L9 Automap: useful
 E3L9 Unlock: progression
-E4L1 Automap: unknown
+E4L1 Automap: useful
 E4L1 Blue Key Card: unknown
 E4L1 Red Key Card: unknown
 E4L1 Unlock: progression
 E4L10 Automap: useful
 E4L10 Blue Key Card: progression
 E4L10 Red Key Card: progression
-E4L10 Unlock: unknown
+E4L10 Unlock: progression
 E4L10 Yellow Key Card: progression
 E4L11 Automap: useful
 E4L11 Blue Key Card: progression
@@ -142,13 +142,14 @@ E4L3 Unlock: progression
 E4L3 Yellow Key Card: unknown
 E4L4 Automap: unknown
 E4L4 Blue Key Card: progression
-E4L4 Red Key Card: unknown
+E4L4 Red Key Card: progression
 E4L4 Unlock: unknown
 E4L5 Automap: unknown
 E4L5 Blue Key Card: progression
 E4L5 Red Key Card: unknown
 E4L5 Unlock: unknown
 E4L5 Yellow Key Card: progression
+E4L6 Automap: useful
 E4L6 Blue Key Card: progression
 E4L6 Red Key Card: progression
 E4L6 Unlock: unknown

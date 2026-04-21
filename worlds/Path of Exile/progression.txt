@@ -8,25 +8,30 @@ Advanced Traps Support: useful
 Alchemist's Mark: useful
 Alternate Gems: progression
 Ambush: useful
-Ancestral Call Support: unknown
-Ancestral Cry: unknown
+Ancestral Call Support: useful
+Ancestral Cry: useful
 Ancestral Protector: progression
 Ancestral Warchief: useful
+Anger: useful
+Animate Guardian: useful
 Animate Weapon: useful
 Arc: useful
 Arcane Cloak: useful
 Arcane Surge Support: useful
-Arcanist Brand: unknown
+Arcanist Brand: useful
 Archmage Support: useful
 Arctic Armour: useful
 Armageddon Brand: progression
+Arrogance Support: useful
 Arrow Nova Support: progression
+Artillery Ballista: useful
 Ascendant: progression
 Assassin's Mark: useful
 Autoexertion: useful
 Automation: useful
 Ball Lightning: progression
-Ballista Totem Support: unknown
+Ballista Totem Support: useful
+Bane: useful
 Barrage Support: useful
 Barrage: progression
 Battlemage's Cry: progression
@@ -38,7 +43,7 @@ Blade Blast: useful
 Blade Flurry: progression
 Blade Trap: progression
 Blade Vortex: progression
-Bladefall: unknown
+Bladefall: useful
 Bladestorm: useful
 Blasphemy Support: useful
 Blast Rain: useful
@@ -53,26 +58,29 @@ Blood and Sand: useful
 Bloodlust Support: filler
 Bloodthirst Support: filler
 Bodyswap: progression
+Bone Offering: progression
 Bonechill Support: useful
 Boneshatter: useful
 Brand Recall: progression
 Brutality Support: progression
-Burning Arrow: unknown
+Burning Arrow: useful
 Burning Damage Support: useful
 Cast On Critical Strike Support: progression
 Cast on Death Support: progression
 Cast on Melee Kill Support: filler
-Cast when Damage Taken Support: unknown
-Cast while Channelling Support: unknown
+Cast when Damage Taken Support: useful
+Cast when Stunned Support: useful
+Cast while Channelling Support: useful
 Caustic Arrow: useful
 Chain Hook: progression
 Chain Support: useful
 Champion: progression
 Chance to Bleed Support: progression
-Chance to Flee Support: unknown
+Chance to Flee Support: filler
 Chance to Poison Support: useful
 Charged Dash: progression
-Charged Mines Support: unknown
+Charged Mines Support: useful
+Charged Traps Support: useful
 Chieftain: progression
 Clarity: progression
 Cleave: progression
@@ -80,16 +88,18 @@ Close Combat Support: progression
 Cluster Traps Support: progression
 Cobra Lash: progression
 Cold Penetration Support: useful
-Cold Snap: unknown
+Cold Snap: useful
+Cold to Fire Support: useful
 Combustion Support: progression
 Concentrated Effect Support: useful
 Conductivity: useful
 Conflagration: useful
 Consecrated Path: useful
-Contagion: unknown
-Controlled Blaze Support: unknown
+Contagion: useful
+Controlled Blaze Support: filler
 Controlled Destruction Support: progression
 Conversion Trap: useful
+Convocation: useful
 Corrupting Cry Support: useful
 Corrupting Fever: useful
 Crackling Lance: progression
@@ -100,67 +110,81 @@ Cruelty Support: progression
 Crushing Fist: useful
 Culling Strike Support: progression
 Cursed Ground Support: useful
-Cyclone: unknown
+Cyclone: useful
 Damage on Full Life Support: progression
 Dark Pact: useful
 Dash: progression
 Deadeye: progression
 Deadly Ailments Support: useful
+Decay Support: useful
+Decoy Totem: useful
+Defiance Banner: useful
 Desecrate: useful
 Despair: useful
 Destructive Link: filler
 Determination: progression
+Detonate Dead: useful
 Detonate Mines: progression
-Devour Support: unknown
+Devour Support: useful
 Devouring Totem: progression
 Discharge: useful
 Discipline: useful
+Divine Ire: useful
 Divine Retribution: progression
+Dominating Blow: useful
 Double Strike: unknown
 Dread Banner: useful
 Dual Strike: progression
 Duelist: unknown
 Earthquake: progression
 Earthshatter: useful
-Efficacy Support: unknown
+Efficacy Support: useful
 Elemental Army Support: useful
 Elemental Damage with Attacks Support: useful
 Elemental Focus Support: progression
 Elemental Hit: progression
 Elemental Penetration Support: useful
 Elemental Proliferation Support: progression
-Elemental Weakness: unknown
+Elemental Weakness: useful
 Elementalist: progression
 Empower Support: filler
+Endurance Charge on Melee Stun Support: useful
 Enduring Cry: useful
 Energy Blade: useful
+Energy Leech Support: useful
 Enfeeble: useful
 Enhance Support: filler
+Enlighten Support: filler
 Ensnaring Arrow: useful
 Essence Drain: useful
 Eternal Blessing Support: useful
+Ethereal Knives: progression
 Eviscerate: useful
 Expert Retaliation Support: useful
 Explosive Arrow: useful
 Explosive Concoction: useful
 Explosive Trap: progression
-Exsanguinate: unknown
+Exsanguinate: useful
 Eye of Winter: useful
+Faster Attacks Support: useful
 Faster Casting Support: progression
 Faster Projectiles Support: useful
 Feeding Frenzy Support: useful
+Fire Penetration Support: useful
 Fire Trap: useful
+Fireball: useful
 Firestorm: progression
 Fist of War Support: useful
 Flame Dash: useful
 Flame Link: progression
 Flame Surge: useful
-Flame Wall: unknown
+Flame Wall: useful
 Flameblast: useful
 Flamethrower Trap: useful
 Flamewood Support: useful
 Flammability: useful
 Flesh Offering: progression
+Flesh and Stone: progression
 Flicker Strike: useful
 Focused Ballista Support: useful
 Focused Channelling Support: useful
@@ -172,11 +196,11 @@ Frenzy: useful
 Fresh Meat Support: useful
 Frigid Bond Support: progression
 Frost Blades: progression
-Frost Bomb: unknown
+Frost Bomb: useful
 Frost Shield: progression
 Frost Wall: progression
 Frostbite: progression
-Frostblink: unknown
+Frostblink: useful
 Frostbolt: useful
 Frozen Legion: useful
 Galvanic Arrow: useful
@@ -208,12 +232,12 @@ Hierophant: progression
 High-Impact Mine Support: useful
 Holy Flame Totem: useful
 Hydrosphere: progression
-Hypothermia Support: unknown
+Hypothermia Support: useful
 Ice Bite Support: useful
 Ice Crash: progression
 Ice Nova: useful
-Ice Shot: unknown
-Ice Spear: unknown
+Ice Shot: useful
+Ice Spear: useful
 Ice Trap: useful
 Icicle Mine: useful
 Ignite Proliferation Support: progression
@@ -221,9 +245,11 @@ Immolate Support: useful
 Immortal Call: progression
 Impale Support: progression
 Impending Doom Support: progression
+Incinerate: useful
 Increased Area of Effect Support: progression
-Increased Critical Damage Support: unknown
+Increased Critical Damage Support: useful
 Increased Critical Strikes Support: useful
+Infernal Blow: useful
 Infernal Cry: useful
 Infernal Legion Support: useful
 Infused Channelling Support: progression
@@ -234,27 +260,29 @@ Intensify Support: useful
 Intimidating Cry: progression
 Intuitive Link: filler
 Iron Grip Support: filler
-Iron Will Support: unknown
+Iron Will Support: useful
 Item Rarity Support: progression
 Juggernaut: unknown
 Kinetic Blast: useful
 Kinetic Bolt: useful
 Kinetic Fusillade: useful
+Kinetic Rain: useful
 Knockback Support: filler
 Lacerate: progression
 Lancing Steel: progression
 Leap Slam: progression
 Less Duration Support: useful
+Lesser Multiple Projectiles Support: useful
 Life Gain on Hit Support: useful
 Life Leech Support: useful
 Lifetap Support: useful
 Lightning Arrow: useful
 Lightning Conduit: useful
 Lightning Penetration Support: progression
-Lightning Spire Trap: unknown
+Lightning Spire Trap: useful
 Lightning Strike: useful
 Lightning Tendrils: useful
-Lightning Trap: unknown
+Lightning Trap: useful
 Lightning Warp: progression
 Living Lightning Support: useful
 Locus Mine Support: useful
@@ -264,12 +292,12 @@ Mana Leech Support: useful
 Manabond: useful
 Manaforged Arrows Support: useful
 Marauder: progression
-Mark On Hit Support: unknown
+Mark On Hit Support: useful
 Meat Shield Support: useful
 Melee Physical Damage Support: useful
 Melee Splash Support: useful
 Minefield Support: progression
-Minion Damage Support: unknown
+Minion Damage Support: useful
 Minion Life Support: progression
 Minion Speed Support: useful
 Mirage Archer Support: progression
@@ -279,7 +307,7 @@ Molten Strike: progression
 Momentum Support: useful
 More Duration Support: useful
 Multiple Totems Support: useful
-Multiple Traps Support: unknown
+Multiple Traps Support: useful
 Multistrike Support: useful
 Necromancer: unknown
 Nightblade Support: useful
@@ -290,6 +318,7 @@ Normal Sword: unknown
 Occultist: unknown
 Orb of Storms: useful
 Overcharge Support: useful
+Overexertion Support: useful
 Pathfinder: progression
 Penance Brand: useful
 Perforate: useful
@@ -303,9 +332,9 @@ Plague Bearer: useful
 Poacher's Mark: useful
 Point Blank Support: filler
 Poisonous Concoction: useful
-Power Charge On Critical Support: unknown
+Power Charge On Critical Support: progression
 Power Siphon: progression
-Precision: unknown
+Precision: progression
 Predator Support: progression
 Pride: useful
 Prismatic Burst Support: useful
@@ -328,7 +357,7 @@ Progressive Ring (right): progression
 Progressive Sceptre: progression
 Progressive Shield: progression
 Progressive Staff: progression
-Progressive Sword: unknown
+Progressive Sword: filler
 Progressive Wand: progression
 Progressive max links - BodyArmour: progression
 Progressive max links - Boots: progression
@@ -338,11 +367,12 @@ Progressive max links - Offhand: progression
 Progressive max links - Weapon: progression
 Progressive passive point: progression
 Protective Link: filler
-Pulverise Support: unknown
+Pulverise Support: progression
 Puncture: useful
-Punishment: unknown
+Punishment: useful
 Purifying Flame: progression
 Purity of Elements: progression
+Purity of Fire: useful
 Purity of Ice: useful
 Purity of Lightning: progression
 Pyroclast Mine: useful
@@ -366,14 +396,16 @@ Sacred Wisps Support: useful
 Sacrifice Support: filler
 Sadism Support: useful
 Scion: progression
-Scorching Ray: unknown
+Scorching Ray: useful
+Scourge Arrow: useful
 Searing Bond: progression
-Second Wind Support: unknown
+Second Wind Support: useful
 Seismic Cry: progression
 Seismic Trap: progression
 Shadow: progression
 Shattering Steel: progression
 Shield Charge: useful
+Shield Crush: useful
 Shock Nova: progression
 Shockwave Support: filler
 Shockwave Totem: useful
@@ -382,18 +414,21 @@ Siege Ballista: useful
 Sigil of Power: useful
 Siphoning Trap: progression
 Slayer: unknown
-Slower Projectiles Support: unknown
+Slower Projectiles Support: useful
 Smite: useful
 Smoke Mine: useful
-Sniper's Mark: unknown
+Snipe: useful
+Sniper's Mark: useful
+Somatic Shell: useful
 Soul Link: filler
 Soulrend: progression
 Spark: useful
 Spectral Helix: progression
 Spectral Shield Throw: useful
 Spectral Throw: useful
-Spell Cascade Support: unknown
-Spell Totem Support: unknown
+Spell Cascade Support: useful
+Spell Echo Support: useful
+Spell Totem Support: useful
 Spellblade Support: useful
 Spellslinger: useful
 Spirit Offering: progression
@@ -401,29 +436,30 @@ Split Arrow: useful
 Splitting Steel: progression
 Static Strike: progression
 Steelskin: useful
-Storm Brand: unknown
+Storm Brand: useful
 Storm Burst: useful
 Storm Call: useful
 Storm Rain: useful
-Stormbind: unknown
+Stormbind: progression
 Stormblast Mine: useful
 Stun Support: progression
 Summon Carrion Golem: useful
 Summon Chaos Golem: progression
 Summon Flame Golem: progression
 Summon Holy Relic: useful
+Summon Ice Golem: useful
 Summon Lightning Golem: useful
 Summon Phantasm Support: useful
 Summon Raging Spirit: useful
 Summon Reaper: progression
-Summon Skeletons: unknown
+Summon Skeletons: useful
 Summon Skitterbots: progression
 Summon Stone Golem: progression
 Sunder: useful
 Sweep: useful
 Swift Affliction Support: progression
 Swift Assembly Support: progression
-Swiftbrand Support: unknown
+Swiftbrand Support: useful
 Swordstorm: progression
 Tectonic Slam: progression
 Tempest Shield: useful
@@ -435,17 +471,19 @@ Tornado Shot: progression
 Tornado: useful
 Toxic Rain: useful
 Trap Support: progression
-Trap and Mine Damage Support: unknown
+Trap and Mine Damage Support: progression
 Trauma Support: progression
 Trickster: progression
+Trinity Support: useful
 Unbound Ailments Support: progression
 Unearth: progression
 Unleash Support: useful
 Urgent Orders Support: filler
-Vaal Gems: unknown
+Vaal Gems: progression
 Vampiric Link: filler
 Vengeful Cry: useful
 Venom Gyre: useful
+Vicious Projectiles Support: useful
 Vigilant Strike: useful
 Vile Toxins Support: useful
 Viper Strike: useful
@@ -459,17 +497,26 @@ Volley Support: progression
 Voltaxic Burst: progression
 Vortex: progression
 Vulnerability: progression
-War Banner: unknown
+Wall of Force: useful
+War Banner: useful
 Warden: unknown
 Warlord's Mark: progression
-Wave of Conviction: unknown
+Wave of Conviction: useful
 Whirling Blades: progression
 Wild Strike: useful
 Windburst Support: useful
 Winter Orb: useful
-Wintertide Brand: unknown
+Wintertide Brand: useful
 Witch: progression
-Withering Step: unknown
+Withering Step: useful
 Withering Touch Support: useful
 Wrath: useful
-Zealotry: unknown
+Zealotry: useful
+defeat cortex: filler
+defeat elder: filler
+defeat exarch: filler
+defeat incarnation_of_dread: filler
+defeat incarnation_of_fear: filler
+defeat incarnation_of_neglect: filler
+defeat shaper: filler
+defeat sirus: filler

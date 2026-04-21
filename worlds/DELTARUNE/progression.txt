@@ -22,6 +22,7 @@ BlackShard: useful
 Blue Ribbon: useful
 Board 2 Cartridge: progression
 Board 2 Game Cartridge: progression
+Board Moss: useful
 BounceBlade: useful
 Brave Ax: useful
 Broken Key A: progression
@@ -43,6 +44,7 @@ ChainMail: useful
 Chapter 1 Unlock: progression
 Chapter 2 Unlock: progression
 Chapter 3 Unlock: progression
+Chapter 4 Unlock: progression
 ChocDiamond: filler
 City Moss: useful
 ClaimbClaws: progression
@@ -66,8 +68,10 @@ Door Key: progression
 EmptyDisk: progression
 ExecBuffet: useful
 FiberScarf: useful
+Fields Warp: progression
 FlatSoda: filler
 FlexScarf: useful
+Forest Warp: progression
 FrayedBowtie: filler
 FreezeRing: useful
 GingerGuard: useful
@@ -77,7 +81,9 @@ HeartsDonut: filler
 ICE KEY: progression
 IronShackle: progression
 JevilsTail: useful
+Jigsaw Joe's Life Savings: useful
 Joe's Life Savings: useful
+JusticeAxe: useful
 KeyGen: progression
 Kris Tea: filler
 LancerCookie: filler
@@ -88,6 +94,7 @@ Mansion Reservation: progression
 Mansion Warp: progression
 Manual: progression
 MechaSaber: useful
+MysticBand: useful
 Noelle Tea: filler
 Odd Controller: progression
 OddController: progression
@@ -127,6 +134,7 @@ TVSlop: filler
 TennaTie: useful
 TensionBit: progression
 TensionBow: useful
+TensionGem: filler
 TensionMax: useful
 ThornRing: progression
 Top Cake: progression
@@ -137,4 +145,5 @@ Twin Ribbon: useful
 VIP Pass: progression
 Waferguard: useful
 White Ribbon: progression
+Wingblade: useful
 Winglade: useful

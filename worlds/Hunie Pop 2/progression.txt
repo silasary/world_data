@@ -3,6 +3,7 @@ Abia Birthday Suit Outfit: progression
 Abia Flarora Outfit: progression
 Abia Morning Delight Outfit: useful
 Abia Silk Road Outfit: progression
+Abstract Booties Gift: progression
 Airy Sneakers Gift: progression
 Allergies Baggage: filler
 Amethyst Necklace: filler
@@ -21,8 +22,10 @@ Asthma Baggage: filler
 Astro Boots Gift: progression
 Attention Whore Baggage: filler
 Baby Bottle Unique Gift: progression
+Baby Cap Unique Gift: progression
 Ball Gag Unique Gift: progression
 Basic Flats Gift: progression
+Bath Salts Unique Gift: progression
 Beach Ball: filler
 Beach Towel: filler
 Binky Unique Gift: progression
@@ -47,6 +50,7 @@ Candace Health Care Outfit: progression
 Candace Law & Order Outfit: progression
 Candace Onahole Outfit: progression
 Candace Splish Splash Outfit: progression
+Candy Platforms Gift: progression
 Car Carrier Unique Gift: progression
 Cellphone Cover Unique Gift: useful
 Chain Collar Unique Gift: progression
@@ -73,6 +77,7 @@ Douche: filler
 Drama Queen Baggage: filler
 Drum Sticks Unique Gift: progression
 Egg Vibrator: filler
+Elegant Peep Toes Gift: progression
 Elegant Tote Bag Unique Gift: useful
 Emerald Bracelet: filler
 Emotionally Guarded Baggage: filler
@@ -87,6 +92,7 @@ Fairy Wings (ashley/lillian): progression
 Fairy Wings (ashley/nora): progression
 Fairy Wings (ashley/polly): progression
 Fairy Wings (brooke/jessie): progression
+Fairy Wings (brooke/polly): progression
 Fairy Wings (candace/lailani): progression
 Fairy Wings (candace/nora): progression
 Fairy Wings (candace/polly): progression
@@ -95,6 +101,7 @@ Fairy Wings (jessie/lola): progression
 Fairy Wings (lailani/lillian): progression
 Fairy Wings (lailani/sarah): progression
 Fairy Wings (lillian/zoey): progression
+Fairy Wings (lola/nora): progression
 Fairy Wings (lola/zoey): progression
 Fairy Wings (nora/sarah): progression
 Fairy Wings (polly/zoey): progression
@@ -105,27 +112,39 @@ Feminine Wash: filler
 Feminine Wipes: filler
 Flippers: filler
 Floral Flats Gift: progression
+Found abia's One Pump Chump Baggage: filler
 Found abia's Self-Effacing Baggage: filler
 Found ashley's Commitment Issues Baggage: filler
 Found ashley's Easily Bored Baggage: filler
 Found brooke's Gold Digger Baggage: filler
+Found brooke's Unsentimental Baggage: filler
 Found candace's Forgetful Baggage: filler
 Found candace's Intellectually Challenged Baggage: filler
+Found jessie's Busted Vadge Baggage: filler
+Found lailani's Old Fashioned Baggage: filler
 Found lillian's Asthma Baggage: filler
 Found lillian's The Darkness Baggage: filler
+Found lola's Busy Schedule Baggage: filler
+Found lola's Caffeine Junkie Baggage: filler
+Found lola's Miss Independent Baggage: filler
+Found nora's Vindictive Baggage: filler
+Found polly's Brand Loyalist Baggage: filler
 Found polly's Drama Queen Baggage: filler
 Found polly's Jealousy Baggage: filler
+Found zoey's Kinda Crazy Baggage: filler
 Fox Plush: filler
 Frog Plush: filler
 Fruit Seeds: filler
 Fuzzy Boots Gift: progression
 Garden Flip Flops Gift: progression
 Gin Unique Gift: progression
+Girly Pumps Gift: progression
 Glass Dolphin: filler
 Goat Skull Unique Gift: progression
 Gold Digger Baggage: trap
 Golden Heels Gift: progression
 Goldfish Plush: filler
+Goth Booties Gift: progression
 Green Clover Flowers: filler
 Guitar Amp Unique Gift: progression
 Hair Brush: filler
@@ -203,8 +222,10 @@ Pair Unlock (candace/lailani): progression
 Pair Unlock (candace/nora): progression
 Pair Unlock (candace/polly): progression
 Pair Unlock (jessie/lailani): progression
+Pair Unlock (jessie/lola): progression
 Pair Unlock (lailani/lillian): progression
 Pair Unlock (nora/sarah): useful
+Pair Unlock (polly/zoey): progression
 Pair Unlock (sarah/zoey): progression
 Patriotic Wedges Gift: progression
 Peacock Plush: filler
@@ -228,6 +249,7 @@ Powder Brush: filler
 Progressive Flirtation Lv-Up: useful
 Progressive Passion Lv-Up: useful
 Progressive Romance Lv-Up: useful
+Progressive Sexual Lv-Up: useful
 Progressive Style Lv-Up: useful
 Pumpkin Spice Candle: filler
 Quilted Handbag Unique Gift: progression
@@ -238,6 +260,7 @@ Ribbon Peep Toes Gift: progression
 Ring Stacker Unique Gift: progression
 Ruby Ring: filler
 Rum Unique Gift: progression
+Sacred Boots Gift: progression
 Sanitary Pad: filler
 Sarah Bubble Bath Outfit: progression
 Sarah Cow Girl Outfit: progression
@@ -246,15 +269,18 @@ Sarah Panda Hoodie Outfit: progression
 Sarah Sailor Outfit: useful
 Sarah Turbo Skank Outfit: progression
 Satanic Booties Gift: progression
+Scissors Unique Gift: progression
 Seasonal Boots Gift: progression
 Self-Effacing Baggage: filler
 Sex Addict Baggage: filler
 Sherbet Boots Gift: progression
+Shiny Pumps Gift: progression
 Shoulder Bag Unique Gift: progression
 Skater Sneakers Gift: progression
 Smelly Pussy Baggage: filler
 Snorkel Mask: filler
 Snow Globe: filler
+Soda Machine Unique Gift: progression
 Spanking Paddle Unique Gift: progression
 Spinel Necklace: filler
 Spool of Thread Unique Gift: progression
@@ -270,6 +296,7 @@ Tampon: filler
 Tarot Cards Unique Gift: progression
 Teen Angst Baggage: filler
 Television Unique Gift: progression
+Tequila Unique Gift: progression
 The Darkness Baggage: filler
 Tiki Head Charm: filler
 Topaz Earrings: filler
@@ -289,6 +316,7 @@ Unsentimental Baggage: filler
 Vindictive Baggage: filler
 Violet Pansy Flowers: filler
 Vodka Unique Gift: progression
+Weave Gladiators Gift: progression
 Web Gladiators Gift: progression
 Whisky Unique Gift: progression
 White Lily Flowers: filler
@@ -301,36 +329,60 @@ Zoey Gamer Girl Outfit: progression
 Zoey Luvendass Outfit: progression
 Zoey Sacrilege Outfit: progression
 Zoey Scarehoe Outfit: progression
+abia Arabian Allure Outfit: progression
+abia Assassin Outfit: progression
+abia Birthday Suit Outfit: progression
 abia Flarora Outfit: progression
 abia Invisikini Outfit: progression
 ashley Black Fly Outfit: progression
+ashley Clamouflage Outfit: progression
 ashley Lazy Teacher Outfit: progression
 ashley Stay Black Outfit: progression
 brooke Bath Time Outfit: progression
+brooke Captain Mommy Outfit: progression
+brooke Cougar Outfit: progression
+brooke Glamorous Outfit: progression
+brooke Kitchen Cook Outfit: progression
+brooke Stars & Stripes Outfit: progression
 candace Health Care Outfit: progression
 candace Splish Splash Outfit: progression
+candace Vanilla Cream Outfit: progression
 flirtation lv-up 3: useful
 flirtation lv-up 4: useful
 jessie Blue Wave Outfit: progression
 jessie Cloud Nine Outfit: progression
+jessie Hibiscus Outfit: progression
 jessie Naughty List Outfit: progression
 jessie Sinful Devil Outfit: progression
+jessie Tiffany Outfit: progression
+jessie Wrapped Up Outfit: progression
 lailani Blupee Outfit: progression
+lailani Closet Freak Outfit: progression
 lailani Hula Dancer Outfit: progression
 lailani Koimono Outfit: progression
 lailani Native Chic Outfit: progression
 lailani Sea Foam Outfit: progression
 lailani Sunny Day Outfit: progression
+lillian Bat Wings Outfit: progression
 lillian Dark Queen Outfit: progression
+lillian Mega Bitch Outfit: progression
 lillian Panda Bare Outfit: progression
+lillian Pentagram Outfit: progression
 lillian Sweet Dreams Outfit: progression
+lillian Trapped Soul Outfit: progression
 lillian Vampiress Outfit: progression
 lola Basketball Outfit: progression
 lola Cream Puff Outfit: progression
+lola Elegance Outfit: progression
+lola Jamaikini Outfit: progression
 lola Mocha Latte Outfit: progression
+lola Tennis Outfit: progression
 nora Aquarius Outfit: progression
+nora Badass Bitch Outfit: progression
+nora Caliente Outfit: progression
 nora Gangster Outfit: progression
 nora Streetwear Outfit: progression
+nora Tough Gal Outfit: progression
 passion lv-up 2: useful
 passion lv-up 3: useful
 passion lv-up 4: useful
@@ -338,14 +390,24 @@ passion lv-up 6: useful
 passion lv-up 7: useful
 passion lv-up 8: useful
 polly Fifties Outfit: progression
+polly Forties Outfit: progression
 polly Pin-up Girl Outfit: progression
+polly Roller Skate Outfit: progression
+polly Seventies Outfit: progression
+polly Sex Symbol Outfit: progression
 polly Tuxedo Outfit: progression
+polly Wife Material Outfit: progression
 romance lv-up 1: useful
 romance lv-up 2: useful
 romance lv-up 3: useful
 romance lv-up 4: useful
+sarah Bubble Bath Outfit: progression
+sarah Healing Touch Outfit: progression
 sarah Kimonochi Outfit: progression
+sarah Kitty Kat Outfit: progression
+sarah Over All Outfit: progression
 sarah Panda Hoodie Outfit: progression
+sarah Sailor Outfit: progression
 sexual lv-up 1: useful
 style lv-up 4: useful
 style lv-up 6: useful
@@ -353,6 +415,9 @@ talent lv-up 1: useful
 talent lv-up 2: useful
 talent lv-up 3: useful
 talent lv-up 4: useful
+zoey Cheetah Outfit: progression
 zoey Cyber Slave Outfit: progression
+zoey Dreamsicle Outfit: progression
 zoey Gamer Girl Outfit: progression
 zoey Sacrilege Outfit: progression
+zoey Sugar High Outfit: progression

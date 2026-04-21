@@ -1,10 +1,18 @@
 ArmorBonus: filler
+Automap (MAP05): useful
+Automap (MAP12): useful
 BFG 9000: progression
 Backpack: filler
 Berserk: filler
+Blue Keycard (MAP02): progression
+Blue Keycard (MAP03): progression
 Blue Keycard (MAP04): progression
+Blue Keycard (MAP06): progression
 Blue Keycard (MAP10): progression
+Blue Keycard (MAP15): progression
 Blue Keycard (MAP24): progression
+Blue Keycard (MAP26): progression
+Blue Skull (MAP16): progression
 Blue Skull (MAP18): progression
 Blue Skull (MAP19): progression
 Blue Skull (MAP25): progression
@@ -12,31 +20,62 @@ BlueArmor: filler
 BlurSphere: filler
 Bullets [ClipBox]: filler
 Bullets [Clip]: filler
+Chaingun: progression
 Energy Cells [CellPack]: filler
 Energy Cells [Cell]: filler
 GreenArmor: filler
 HealthBonus: filler
+Infrared: filler
 InvulnerabilitySphere: filler
 Level Clear (MAP01): progression
+Level Clear (MAP02): progression
+Level Clear (MAP10): progression
+Level Clear (MAP15): progression
+Level Clear (MAP16): progression
 Level Clear (MAP25): progression
+Level Clear (MAP26): progression
+Level Clear (MAP29): progression
+Level Clear (MAP30): progression
+Level Clear (MAP31): progression
+MAP02: Underhalls: progression
 MAP04: The Focus: progression
+MAP05: The Waste Tunnels: progression
+MAP10: Refueling Base: progression
+MAP13: Downtown: progression
+MAP15: Industrial Zone: progression
+MAP16: Suburbs: progression
+MAP17: Tenements: progression
+MAP21: Nirvana: progression
 MAP25: Bloodfalls: progression
 MAP26: The Abandoned Mines: progression
+MAP29: The Living End: progression
+MAP30: Icon of Sin: progression
+MAP31: Wolfenstein: progression
 Medikit: filler
 Megasphere: filler
+Plasma Rifle: progression
 RadSuit: filler
 Red Keycard (MAP02): progression
+Red Keycard (MAP04): progression
+Red Keycard (MAP05): progression
 Red Keycard (MAP06): progression
+Red Keycard (MAP13): progression
+Red Keycard (MAP24): progression
+Red Keycard (MAP26): progression
 Red Skull (MAP16): progression
+Red Skull (MAP21): progression
 Red Skull (MAP22): progression
 Rocket Launcher: progression
 Rockets [RocketAmmo]: filler
 Rockets [RocketBox]: filler
 Shotgun Shells [ShellBox]: filler
 Shotgun Shells [Shell]: filler
+Shotgun: progression
 Soulsphere: filler
 Stimpack: filler
 Super Shotgun: progression
 Yellow Keycard (MAP10): progression
 Yellow Keycard (MAP15): progression
+Yellow Keycard (MAP26): progression
+Yellow Skull (MAP19): progression
 Yellow Skull (MAP28): progression

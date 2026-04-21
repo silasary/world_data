@@ -28,8 +28,10 @@ Applied Watering Technique I: progression
 Arena Pass: progression
 Assault Rifle Schematic 1: filler
 Assault Rifle Schematic 2: filler
+Assault Rifle Schematic 3: useful
 Astral Foot Pass: progression
 Astral Pass: progression
+Attack Pendant +1: useful
 Attack Support Whistle: filler
 Axel's Key: progression
 Bamboo Pass: progression
@@ -48,6 +50,7 @@ Defense Pendant +2: progression
 Defense Pendant: filler
 Defense Support Whistle +1: useful
 Dessicated Pass: progression
+Double-Barreled Shotgun Schematic 3: useful
 Dragon Orb: progression
 Dumud Chowder Recipe: progression
 Eastern Wild Beacon: progression
@@ -55,6 +58,7 @@ Eastern Wild Pass: progression
 Eikthyrdeer Stew Recipe: progression
 Electric Orb: progression
 Electric Skill Fruit: Thunderstorm: progression
+Energy Shotgun Schematic 4: progression
 Eternal Summer Pass: progression
 Excalibur Schematic 1: filler
 Feathered Hair Band Schematic 4: progression
@@ -63,6 +67,7 @@ Feybreak Pass: progression
 Fire Orb: progression
 Fire Skill Fruit: Flare Arrow: filler
 Forest Dungeon Key: progression
+Forgotten Pass: progression
 Forgotten Spawn: progression
 Fried Chikipi Recipe: progression
 Fried Egg Recipe: progression
@@ -81,12 +86,16 @@ Grilled Lamball Recipe: progression
 Grinning Tocotoco Schematic 1: filler
 Ground Orb: progression
 Ground Support Whistle +2: progression
+Hallowed Headgear Schematic 2: filler
+Hallowed Mask Schematic 1: filler
+Hallowed Mask Schematic 2: filler
 Handgun Schematic 4: progression
 Heat Resistant Metal Armor Schematic 1: filler
 Heat Resistant Metal Armor Schematic 2: filler
 Heat Resistant Pal Metal Armor Schematic 4: progression
 Heat Resistant Pelt Armor Schematic 4: progression
 Heat Resistant Refined Metal Armor Schematic 4: progression
+Herb Roasted Caprity Recipe: progression
 Herb Roasted Lamball Recipe: progression
 Hexolite Armor Schematic 4: progression
 Hillside Dungeon Key: progression
@@ -94,6 +103,7 @@ Ice Orb: progression
 Ice Wind Pass: progression
 Ice Wind Spawn: progression
 Innovative Technical Manual: filler
+Isolated Dungeon Key: progression
 Jelliette's Jiggly Jelly Recipe: progression
 Jellroy's Jolly Jelly Recipe: progression
 Katana Schematic 1: filler
@@ -101,6 +111,7 @@ Killamari Cap Schematic 1: filler
 Lamball Kebab Recipe: progression
 Laser Rifle Schematic 4: progression
 Level Up!: progression
+Lightweight Plasteel Armor Schematic 1: filler
 Lightweight Plasteel Armor Schematic 4: progression
 Lily's Key: progression
 Lily's Spear Schematic 4: progression
@@ -117,12 +128,16 @@ Marsh Pass: progression
 Marsh Spawn: progression
 Membership Card: progression
 Metal Helm Schematic 1: filler
+Minestrone Recipe: progression
 Mozzarina Hamburger: filler
 Multi Guided Missile Launcher Schematic 1: filler
 Multiclimate Undershirt: filler
 Mushroom Quiche Recipe: progression
+Mushroom Soup Recipe: progression
 Neutral Orb: progression
+Nightglow Schematic 4: progression
 Obsidian Pass: progression
+Old Bow Schematic 4: progression
 Pal Metal Armor Schematic 3: useful
 Pal Metal Helm Schematic 1: filler
 Phantom Pass: progression
@@ -134,12 +149,15 @@ Red Wooden Lantern Schematic: filler
 Refined Metal Armor Schematic 4: progression
 Refined Metal Helm Schematic 2: filler
 Reindrix Stew Recipe: progression
+Ring of Dragon Resistance +1: useful
+Ring of Dragon Resistance +2: progression
 Ring of Dragon Resistance: filler
 Ring of Grass Resistance +2: progression
 Ring of Grass Resistance: filler
 Ring of Ice Resistance: filler
 Roast Eikthyrdeer Recipe: progression
 Roast Reindrix Recipe: progression
+Roast Rushoar Recipe: progression
 Rocket Launcher Schematic 2: filler
 Rushoar Bacon 'n' Eggs Recipe: progression
 Rushoar Gyoza Recipe: progression
@@ -147,15 +165,19 @@ Rushoar Hot Dog: filler
 SMG Schematic 2: filler
 SMG Schematic 4: progression
 Sakurajima Pass: progression
+Scorching Egg Voucher: progression
 Sea Breeze Pass: progression
 Seal of the Esoteric: progression
 Seal of the Frozen Wings: progression
 Seal of the Little Hero: progression
+Seal of the Pristine: progression
 Seal of the Sorcerer: progression
 Seal of the Swift: progression
 Seal of the Swordmaster: progression
+Seal of the Thunder Dragon: progression
 Seal of the Winged Tyrant: progression
 Secret Membership Card: progression
+Semi-Auto Rifle Schematic 2: filler
 Silk Hat Schematic 1: filler
 Single-Shot Rifle Schematic 4: progression
 Skill Fruit: Power Shot: filler
@@ -173,10 +195,12 @@ Tech - Antique Couch Set: filler
 Tech - Antique Desk Set: filler
 Tech - Antique High Quality Furniture Set: filler
 Tech - Antique Mirror Set: filler
+Tech - Assault Rifle Ammo: useful
 Tech - Assault Rifle: useful
 Tech - Astegon Saddle: progression
 Tech - Azurmane Saddle: progression
 Tech - Azurobe Cryst  Saddle: progression
+Tech - Azurobe Saddle: progression
 Tech - Barricade Set: filler
 Tech - Bastigor Saddle: progression
 Tech - Bat: useful
@@ -211,6 +235,7 @@ Tech - Cold Resistant Metal Armor: progression
 Tech - Cold Resistant Pal Metal Armor: useful
 Tech - Cooking Pot: progression
 Tech - Crude Oil Extractor: progression
+Tech - Crusher: progression
 Tech - Daedream's Necklace: useful
 Tech - Dark Grenade: useful
 Tech - Deluxe Bait: progression
@@ -268,6 +293,7 @@ Tech - Heat Resistant Pal Metal Armor: useful
 Tech - Heat Resistant Pelt Armor: progression
 Tech - Heat Resistant Plasteel Armor: useful
 Tech - Helzephyr Lux Saddle: progression
+Tech - Helzephyr Saddle: progression
 Tech - Hexolite Helmet: useful
 Tech - Hexolite: useful
 Tech - High Quality Hot Spring: progression
@@ -307,6 +333,7 @@ Tech - Makeshift Shotgun: useful
 Tech - Mammorest Saddle: progression
 Tech - Maraith Saddle: progression
 Tech - Meat Cleaver: useful
+Tech - Medicine Rack: useful
 Tech - Medieval Medicine Workbench: progression
 Tech - Melpaca Saddle: progression
 Tech - Metal Armor: useful
@@ -349,6 +376,7 @@ Tech - Plasteel Armor: useful
 Tech - Plasteel Helmet: useful
 Tech - Plasteel: useful
 Tech - Poison Arrow Crossbow: useful
+Tech - Poison Arrow: useful
 Tech - Polapup Saddle: progression
 Tech - Polymer: progression
 Tech - Power Generator: progression
@@ -420,6 +448,7 @@ Tech - Viewing Cage: filler
 Tech - Wall-Mounted Houseplant Set: filler
 Tech - Wall-Mounted Sign: filler
 Tech - Water Fountain: progression
+Tech - Water Grenade: useful
 Tech - Weapon Assembly Line II: progression
 Tech - Weapon Assembly Line: progression
 Tech - Wheat Plantation: progression
@@ -435,6 +464,7 @@ Tech - Xenolord Saddle: progression
 Terra Blade Schematic 3: useful
 Terraprisma Schematic 4: progression
 Thermal Undershirt +2: progression
+Tropical Outfit Schematic 1: filler
 Twilight Pass: progression
 Verdant Egg Voucher: progression
 Verdant Pass: progression

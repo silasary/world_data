@@ -34,6 +34,7 @@ Fever Meter Permanent Bonus: 14-5 Fluffy Sunnies: useful
 Fever Meter Permanent Bonus: 2-1 Experiment X: useful
 Fever Meter Permanent Bonus: 2-2 Brrrzap!: useful
 Fever Meter Permanent Bonus: 2-3 Antitoxic: useful
+Fever Meter Permanent Bonus: 2-4 Breakthrough: useful
 Fever Meter Permanent Bonus: 2-5 Smartiness: useful
 Fever Meter Permanent Bonus: 3-1 Scary Night: useful
 Fever Meter Permanent Bonus: 3-2 Seasick: useful
@@ -182,11 +183,13 @@ Level Unlock: 3-5 Nowhere Stairs: progression
 Level Unlock: 4-1 Step Right Up: progression
 Level Unlock: 4-2 Parade!: progression
 Level Unlock: 4-3 Me-Yowwww!: progression
+Level Unlock: 4-4 Jump The Squid: progression
 Level Unlock: 4-5 Death Defying: progression
 Level Unlock: 5-1 Bowl Of Drome: progression
 Level Unlock: 5-2 Arrivance: progression
 Level Unlock: 5-3 Last Ball: progression
 Level Unlock: 5-4 Explodious: progression
+Level Unlock: 5-5 Perfectified: progression
 Level Unlock: 6-1 Pollution Picnic: progression
 Level Unlock: 6-3 Eiffel Power: progression
 Level Unlock: 6-4 Old Friends: progression
@@ -357,6 +360,7 @@ Target Score Discount: 4-2 Parade!: useful
 Target Score Discount: 4-3 Me-Yowwww!: useful
 Target Score Discount: 4-4 Jump The Squid: useful
 Target Score Discount: 4-5 Death Defying: useful
+Target Score Discount: 5-1 Bowl Of Drome: useful
 Target Score Discount: 5-2 Arrivance: useful
 Target Score Discount: 5-3 Last Ball: useful
 Target Score Discount: 5-4 Explodious: useful

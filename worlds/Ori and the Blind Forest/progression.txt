@@ -12,6 +12,7 @@ EX15: filler
 EX200: filler
 EX50: filler
 EnergyCell: mcguffin
+EnergyRegen: useful
 ForlornKey: progression
 ForlornKeyStone: mcguffin
 ForlornMapStone: progression
@@ -25,6 +26,7 @@ GrottoKeyStone: mcguffin
 GrottoMapStone: progression
 GroveMapStone: progression
 HealthCell: mcguffin
+HealthRegen: useful
 HoruKey: progression
 HoruMapStone: progression
 KeyStone: mcguffin
@@ -33,6 +35,7 @@ MistyKeyStone: mcguffin
 Relic: progression
 SorrowKeyStone: mcguffin
 SorrowMapStone: progression
+SpiritFlame: progression
 Stomp: progression
 SwampKeyStone: mcguffin
 SwampMapStone: progression

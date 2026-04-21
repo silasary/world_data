@@ -4,6 +4,7 @@ Progressive Survival Challenge Tier: progression
 Score Multiplier: Fish Tales: useful
 Score Multiplier: Portal: useful
 Score Multiplier: Sorcerer's Lair: useful
+Score Multiplier: Star Wars Pinball: A New Hope: useful
 Score Multiplier: Star Wars Pinball: Ahch-To Island: useful
 Score Multiplier: Star Wars Pinball: Battle of Mimban: useful
 Score Multiplier: Star Wars Pinball: Calrissian Chronicles: useful
@@ -23,12 +24,16 @@ Score Multiplier: Star Wars Pinball: The Force Awakens: useful
 Score Multiplier: Star Wars Pinball: The Last Jedi: useful
 Shiny Quarter: progression
 Star Requirement Discount: Fish Tales: useful
+Star Requirement Discount: Portal: useful
+Star Requirement Discount: Sorcerer's Lair: useful
 Star Requirement Discount: Star Wars Pinball: A New Hope: useful
 Star Requirement Discount: Star Wars Pinball: Ahch-To Island: useful
 Star Requirement Discount: Star Wars Pinball: Battle of Mimban: useful
 Star Requirement Discount: Star Wars Pinball: Boba Fett: useful
 Star Requirement Discount: Star Wars Pinball: Calrissian Chronicles: useful
 Star Requirement Discount: Star Wars Pinball: Darth Vader: useful
+Star Requirement Discount: Star Wars Pinball: Han Solo: useful
+Star Requirement Discount: Star Wars Pinball: Masters of the Force: useful
 Star Requirement Discount: Star Wars Pinball: Might of the First Order: useful
 Star Requirement Discount: Star Wars Pinball: Rebels: useful
 Star Requirement Discount: Star Wars Pinball: Return of the Jedi: useful
@@ -38,13 +43,16 @@ Star Requirement Discount: Star Wars Pinball: The Clone Wars: useful
 Star Requirement Discount: Star Wars Pinball: The Empire Strikes Back: useful
 Star Requirement Discount: Star Wars Pinball: The Force Awakens: useful
 Star Requirement Discount: Star Wars Pinball: The Last Jedi: useful
+Table Unlock: Fish Tales: progression
 Table Unlock: Portal: progression
 Table Unlock: Sorcerer's Lair: progression
 Table Unlock: Star Wars Pinball: A New Hope: progression
 Table Unlock: Star Wars Pinball: Ahch-To Island: progression
 Table Unlock: Star Wars Pinball: Battle of Mimban: progression
 Table Unlock: Star Wars Pinball: Boba Fett: progression
+Table Unlock: Star Wars Pinball: Calrissian Chronicles: progression
 Table Unlock: Star Wars Pinball: Darth Vader: progression
+Table Unlock: Star Wars Pinball: Droids: progression
 Table Unlock: Star Wars Pinball: Han Solo: progression
 Table Unlock: Star Wars Pinball: Masters of the Force: progression
 Table Unlock: Star Wars Pinball: Might of the First Order: progression

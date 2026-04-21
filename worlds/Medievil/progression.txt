@@ -76,6 +76,7 @@ Key Item: Safe Key: progression
 Key Item: Shadow Artefact: progression
 Key Item: Shadow Talisman: progression
 Key Item: Sheet Music: progression
+Key Item: Skull Key: progression
 Key Item: Soul Helmet 1: progression
 Key Item: Soul Helmet 2: progression
 Key Item: Soul Helmet 3: progression
@@ -83,6 +84,7 @@ Key Item: Soul Helmet 4: progression
 Key Item: Soul Helmet 5: progression
 Key Item: Soul Helmet 6: progression
 Key Item: Soul Helmet 7: progression
+Key Item: Soul Helmet 8: progression
 Key Item: Witches Talisman: progression
 Life Bottle: Dan's Crypt - Behind Wall: progression
 Life Bottle: Dan's Crypt: progression
@@ -121,3 +123,7 @@ Star Rune: The Lake: progression
 Time Rune: Pumpkin Gorge: progression
 Time Rune: The Lake: progression
 Time Rune: The Time Device: progression
+Trap: Darkness: trap
+Trap: Heavy Dan: trap
+Trap: Hudless: trap
+Trap: Light Dan: trap
