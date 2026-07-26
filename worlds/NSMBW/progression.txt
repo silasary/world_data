@@ -1,19 +1,52 @@
+1-ups: filler
 1ups: filler
+?-switch: progression
+Check point: progression
+Coin x01: filler
+Coin x10: filler
+Coin x50: filler
+Death trap: trap
+Door: progression
 Fire_Flower: progression
+Ice Flower: progression
+Ice_Flower: progression
+Mini Mushroom: progression
 Mini_Mushroom: progression
+Movement lock trap: trap
+Penguin_Suit: progression
+Propeller Mushroom: progression
+Propeller_Mushroom: progression
+Random Power-up: filler
+Shrink trap: trap
 Starcoin: progression
+Super Mushroom: progression
+Super Speed: useful
 Super_Mushroom: progression
+Swim: progression
+Throw trap: trap
+Time trap: trap
+Wall jump: progression
+World1 progressive: progression
 World1: progression
+World2 progressive: progression
 World2: progression
+World3: progression
+World4 progressive: progression
 World4: progression
 World5: progression
+World6 progressive: progression
 World6: progression
+World7 progressive: progression
 World7: progression
+World8 progressive: progression
+World8: progression
 World9: progression
 Yoshi: progression
 cary: progression
 climb: progression
+fill inventory: filler
 fill_inventory: filler
 ground_pound: progression
+p-switch: progression
 swing: progression
 triple_jump: progression

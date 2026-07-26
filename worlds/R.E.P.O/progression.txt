@@ -1,3 +1,4 @@
+Audit Trap: trap
 Baseball Bat Unlock: progression
 Boltzap Unlock: progression
 C.A.R.T. Cannon Unlock: progression
@@ -5,26 +6,34 @@ C.A.R.T. Laser Unlock: progression
 C.A.R.T. Unlock: useful
 Crouch Rest Upgrade: filler
 Death Head Battery Upgrade: filler
+Defibro Unlock: useful
 Double Jump Upgrade: useful
 Duck Bucket Unlock: useful
 Duct Taped Grenade Unlock: progression
+Duct Taped Grenades Unlock: progression
 Energy Crystal Unlock: progression
 Explosive Mine Unlock: progression
+Extra Monster Trap: trap
 Extraction Detector Unlock: useful
+Extraction Tracker Unlock: useful
 Feather Drone Unlock: progression
 Frying Pan Unlock: progression
 Grenade Unlock: progression
 Gun Unlock: progression
+Hauler Unlock: useful
 Headman Manor Level: progression
 Health Upgrade: useful
 Human Grenade Unlock: progression
 Indestructible Drone Unlock: useful
 Inflatable Hammer Unlock: progression
 Large Health Pack: useful
+Leaf Blower Unlock: useful
 Map Player Count Upgrade: filler
 McJannek Station Level: progression
 Medium Health Pack: filler
+Monster Lure Trap: trap
 Museum of Human Art Level: progression
+POCKET C.A.R.T. Unlock: useful
 Phase Bridge Unlock: useful
 Photon Blaster Unlock: progression
 Pocket C.A.R.T. Unlock: useful
@@ -35,8 +44,12 @@ Pulse Pistol Unlock: progression
 Range Upgrade: useful
 Recharge Drone Unlock: progression
 Roll Drone Unlock: useful
+Roll Staff Unlock: progression
 Rubber Duck Unlock: progression
+Scout Unlock: useful
+Semibot Walkies Unlock: useful
 Shock Grenade Unlock: progression
+Shockwave Grenade Unlock: progression
 Shockwave Mine Unlock: progression
 Shotgun Unlock: progression
 Sledge Hammer Unlock: progression
@@ -54,5 +67,8 @@ Tumble Climb Upgrade: filler
 Tumble Launch Upgrade: filler
 Tumble Wings Upgrade: useful
 Valuable Detector Unlock: useful
+Valuable Tracker Unlock: useful
+Void Staff Unlock: progression
 Zero Gravity Drone Unlock: progression
 Zero Gravity Orb Unlock: progression
+Zero Gravity Staff Unlock: progression

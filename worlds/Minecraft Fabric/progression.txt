@@ -14,6 +14,7 @@ Andesite: filler
 Apples: filler
 Baked Potatos: filler
 Bee Trap: trap
+Brewing: progression
 Brush Recipes: progression
 Bucket Recipes: progression
 Bundle Recipes: progression
@@ -26,6 +27,7 @@ Cookies: filler
 Diamond Ore Vein: useful
 Diorite: filler
 Emerald Ore Vein: useful
+Enchanting: progression
 Ender Pearls: useful
 Eye of Ender Recipes: progression
 Fishing Rod Recipes: progression

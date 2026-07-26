@@ -1,3 +1,5 @@
+Bahiagrass: progression
+Bermuda grass: progression
 Block Blub Minigame Blues: progression
 Block Blub Minigame Greens: progression
 Block Blub Minigame Reds: progression
@@ -6,8 +8,17 @@ Block Brawl Minigame Blues: progression
 Block Brawl Minigame Greens: progression
 Block Brawl Minigame Reds: progression
 Block Brawl Minigame Yellows: progression
+Blue fescue grass: progression
+Blue oat grass: progression
 Blurrrrgh: trap
+Bouteloua dactyloides: progression
+Buffalo grass: progression
 Button Galore Minigame: progression
+Calamagrostis x acutiflora: progression
+Carnation: filler
+Centipede grass: progression
+Chrysanthemum indicum: filler
+Chrysanthemum: filler
 Climb Chaos Minigame: progression
 Climb Line Minigame: progression
 Climb Spiral Minigame: progression
@@ -41,30 +52,74 @@ Cluster 6: progression
 Cluster 7: progression
 Cluster 8: progression
 Cluster 9: progression
+Cortaderia selloana: useful
+Cynodon dactylon: progression
 Dark skies: trap
+Dianthus caryophyllus: filler
+Eremochloa ophiuroides: progression
 Fast-mo: trap
+Feather reed grass: useful
+Festuca arundinacea: progression
+Festuca glauca: progression
+Festuca rubra: progression
 Final Platform: progression
+Fine fescue: useful
 Flower: filler
+Gerbera Daisy: filler
+Gerbera jamesonii: filler
 Goal Location: progression
 Grass: progression
 Green Cubes Bag: progression
+Helianthus annuus: filler
+Helictotrichon sempervirens: progression
 Hurricane: trap
+Hydrangea macrophylla: filler
+Hydrangea: filler
 Jump Pads: progression
 Jumppads: progression
+Kentucky bluegrass: useful
 Ledge Grab: progression
 Lifts: progression
+Lilium: filler
+Lily: filler
+Little bluestem: progression
+Lolium perenne: progression
+Maiden grass: progression
+Mexican feather grass: progression
+Miscanthus sinensis Zebrinus: useful
+Muhlenbergia capillaris: progression
 No skylight: trap
 OG Randomizer Minigame: progression
+Orchid: filler
+Orchidaceae: filler
+Paeonia: filler
+Pampas grass: progression
+Panicum virgatum Shenandoah: progression
+Paspalum notatum: progression
+Pennisetum setaceum Rubrum: progression
+Peony: filler
+Perennial ryegrass: progression
+Pink muhly grass: progression
 Pipes: progression
+Poa pratensis: useful
 Progressive Wall Jump: progression
+Purple fountain grass: progression
 Red Cubes Bag: progression
 Red sky: trap
 Refunct Mountain Minigame: progression
+Rosa: filler
+Rose: filler
+Schizachyrium scoparium: progression
 Seeker Minigame: progression
+Shenandoah switchgrass: progression
 Slo-mo: trap
+St. Augustine grass: progression
 Starry sky: trap
 Starting Platform: filler
+Stenotaphrum secundatum: progression
+Sunflower: filler
 Swim: progression
+Tall fescue: progression
 Trigger Cluster 10: progression
 Trigger Cluster 11: progression
 Trigger Cluster 12: progression
@@ -94,6 +149,8 @@ Trigger Cluster 6: progression
 Trigger Cluster 7: progression
 Trigger Cluster 8: progression
 Trigger Cluster 9: progression
+Tulip: filler
+Tulipa: filler
 Unlock Block Brawl Minigame Blues: progression
 Unlock Block Brawl Minigame Greens: progression
 Unlock Block Brawl Minigame Reds: progression
@@ -103,3 +160,6 @@ Unlock OG Randomizer Minigame: progression
 Unlock Seeker Minigame: progression
 Unlock Vanilla Minigame: progression
 Vanilla Minigame: progression
+Zebra grass: progression
+Zoysia grass: progression
+Zoysia japonica: useful

@@ -10,12 +10,16 @@ Ancient Disk: progression
 Anti-Freeze Ampoule: filler
 Arcade Underground Passage Key: progression
 Arch Disruption Cartridge: useful
+Arch Extra Heavyweight Frame: useful
 Arch Fiber-Reinforced Liner: useful
 Arch Heavyweight Frame: useful
 Arch Multi-Layer Liner: useful
+Arch Shock Cartridge: useful
+Arch Spaced Armor Liner: useful
 Arche Abbey Passageway Key: progression
 Arm of God Amulet: useful
 Armor of The Honorable: filler
+Assassin's Amulet: useful
 Attribute Purification Ampoule: filler
 Attribute Resistance Ampoule: filler
 Awakened God's Amulet: useful
@@ -30,12 +34,15 @@ Belford Shock Cartridge: useful
 Belford Spaced Armor Liner: useful
 Belford Superior Corrosion Resistance Converter: useful
 Belford Superior Insulation Converter: useful
+Belford Superior Radiation Converter: useful
 Big Pipe Wrench: useful
 Black Cat's Amulet: useful
 Black Cat's Hunting Apparel: filler
 Black Cat's Mask: filler
 Black Death's Protective Apparel: progression
 Black Rabbit Hole Key: progression
+Black Steel Cutter: useful
+Blind Man's Double-Sided Spear: useful
 Bloody Cipher Machine: progression
 Blue Blood's Tailcoat: filler
 Blue Guardianship Amulet: useful
@@ -60,6 +67,7 @@ Circular Electric Chainsaw: useful
 City Longspear: useful
 Clock Sword: useful
 Cluster Grenade: filler
+Coil Mjolnir: useful
 Conquering Amulet: useful
 Coolant Control Room Console Key: progression
 Courage Amulet: useful
@@ -76,12 +84,15 @@ Dim Ergo Chunk: filler
 Dim Ergo Crystal: filler
 Dim Ergo Fragment: filler
 Duelist's Amulet: useful
+Earnest Reindeer's Antlers: filler
 Electric Blitz Abrasive: filler
 Electric Blitz Canister: filler
 Electric Coil Stick: useful
 Enhanced Alchemical Booster: filler
 Enigma Assembly Tool: useful
 Ergo Crystal of the Eternal: filler
+Etiquette: progression
+Exploding Pickaxe: useful
 Extreme Modification Amulet: useful
 Fable Catalyst: filler
 Fallen One's Ergo: progression
@@ -137,21 +148,28 @@ LADA Break Cartridge: useful
 LADA Disruption Cartridge: useful
 LADA F150 Frame: useful
 LADA F250 Frame: useful
+LADA F350 Frame: useful
+LADA Fiber-Reinforced Liner: useful
 LADA Large Capacity Corrosion Resistance Converter: useful
+LADA Large Capacity Insulation Converter: useful
 LADA Large Capacity Radiation Converter: useful
 LADA Multi-Layer Liner: useful
 LADA Shock Cartridge: useful
+LADA Spaced Armor Liner: useful
 La Vendetta: useful
 Leader's Battle Apparel: filler
 Leader's Mask: filler
+Leaping Amulet +1: useful
 Leaping Amulet: useful
 Legion Caliber: useful
 Legion Magazine: filler
 Legion Plug: useful
+Life Amulet +1: useful
 Life Amulet: useful
 Live Puppet's Axe: useful
 Lorenzini Arcade 1st Floor Key: progression
 Lorenzini Bolt: useful
+Mad Donkey's Hunting Apparel: filler
 Mad Donkey's Mask: filler
 Maniac's Pinwheel: useful
 Markiona's Key: progression
@@ -162,6 +180,7 @@ Military Shovel: useful
 Miraculous Enhancement Ampoule: filler
 Miraculous Recovery Ampoule: filler
 Monad's Rose Sword: progression
+Monster Sweeper's Hunting Apparel: filler
 Morbid Ambition's Amulet: useful
 Motivity Crank: useful
 Murderer Puppet's Amulet: useful
@@ -178,15 +197,18 @@ Parade Leader's Ergo: progression
 Patience Amulet: useful
 Piercing Death's Hunting Apparel: progression
 Piercing Hatred Amulet: useful
+Pistol Rock Drill: useful
 Proof Of Humanity: progression
 Puppet Destroyer's Amulet: useful
 Puppet Prince's Formal Dress: filler
 Puppet Ripper: progression
 Puppet's Saber: useful
+Puppet-Devouring Green Hunter's Ergo: progression
 Quartz: progression
 Radiant Ergo Chunk: filler
 Radiant Ergo Crystal: filler
 Radiant Ergo Fragment: filler
+Reborn Champion's Ergo: progression
 Recharged Amulet: useful
 Red Fox's Amulet: useful
 Red Fox's Hunting Apparel: filler
@@ -196,12 +218,14 @@ Respledent Ergo Chunk: filler
 Resplendent Ergo Crystal: filler
 Resplendent Ergo Fragment: filler
 Robber Weasel's Hunting Apparel: filler
+Robber Weasel's Mask: filler
 Robbers' Shack Key: progression
 Rosa Isabelle Street Entrance Key: progression
 Rose Garden Key: progression
 Royal Horn Bow: progression
 Sad Zealot's Ergo: progression
 Saintess Of Mercy Statue Gallery Key: progression
+Salamander Dagger: useful
 Saw Blade: filler
 Sawtoothed Wheel: filler
 Secret Ruins Key: progression
@@ -227,6 +251,7 @@ Sturdy Krat Supply Box: progression
 Survival Amulet: useful
 Survivor's Hunting Apparel: filler
 Survivor's Mask: filler
+Swordsmanship Master's Amulet: useful
 Tap Dance: progression
 Technique Amulet: useful
 Technique Crank: useful
@@ -265,6 +290,7 @@ Wintry Rapier: useful
 Workshop Master's Workwear: filler
 Workshop Union Auto-Adaptive Converter: useful
 Workshop Union Composite Armor Liner: useful
+Workshop Union Fiber-Reinforced Liner: useful
 Workshop Union Finished Cartridge: useful
 Workshop Union Lightweight Frame: useful
 Workshop Union Multi-Layer Liner: useful

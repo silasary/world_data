@@ -1,84 +1,341 @@
+Ability Ring: useful
+Accelerating Shot: useful
+Adrenaline Amulet: useful
+Air Strike: progression
 All You Can Eat: useful
+Amber Resin: useful
+Ammo Ring: useful
+Anti Crit: useful
 Arc Shot: useful
 Arcane Blast: useful
+Arcane Claws: progression
+Arcane Ring: useful
 Arcane Shot: useful
+Arcane Wand: progression
+Assassin: useful
+Aura Explosion: useful
+Aura Shot: useful
 Auto Rifle: progression
+Auto Shotgun: progression
+Banana: useful
 Barrel Explosion: useful
 Beam Shot: useful
+Beam Turret: useful
+Big Ability: useful
+Big Bones: useful
 Big Chests: useful
+Big Claws: useful
+Big Mag: useful
 Big Shot: useful
+Bigger Boom: useful
+Blacksmith Amulet: useful
+Blacksmith Ring: useful
+Blade Launcher: progression
+Blender: useful
 Blind Fire: useful
+Bomb Explosion: useful
+Bomb Shot: useful
+Bonus Chests: useful
 Bonus Crystals: useful
+Boomerang Shot: useful
+Bouncing Explosion: useful
+Bouncing Shot: progression
+Bounty Hunter: useful
+Brawler: useful
 Bribe: useful
+Brute Force: useful
+Bubble Blast: useful
+Bubble Shot: useful
+Bulletproof: useful
+Bullseye: useful
+Burst Pistol: progression
+Care Package: useful
 Chaotic Explosion: useful
+Chaotic Shot: useful
+Checklist: useful
+Claw: progression
+Clone Explosion: useful
+Cluster Launcher: progression
+Collector: useful
+Combo Ring: useful
+Coral Amulet: useful
+Crimson Haze: useful
+Critical Arrow: useful
+Critical Blast: useful
+Critical Lightning: useful
 Critical Thinking: useful
+Crossbow: progression
 Crystal Asteroids: useful
+Crystal Barrage: useful
 Crystal Cache: filler
+Crystal Combo: useful
 Crystal Fertilizer: useful
 Crystal Hoard: filler
 Crystal Jackpot: filler
 Crystal Strike: useful
+Dagger Arc: useful
+Dagger Blast: useful
+Dagger Dash: useful
+Dagger: progression
+Damage Aura: useful
+Damage Combo: useful
+Damage Explosion: useful
+Damage Seeker: useful
 Damage Shot: useful
+Danger Close: useful
+Dice Shot: useful
+Double Shot: useful
+Double Tap: useful
+Double Trouble: useful
+Double Vision: useful
+Drill Shot: useful
+Driller: useful
+Dual Pistols: progression
+Dual Shotguns: progression
+Duplication Ring: useful
+Eagle Eye: useful
+Efficient Shot: useful
+Electric Enemies: progression
+Electro Globe: progression
+Elemental Expert: useful
+Elemental Specialist: useful
+Endurance: progression
+Energy Ring: useful
+Enhanced Turrets: useful
+Equalizer: useful
+Escalating Shot: useful
+Ethereal Armor: useful
+Exploding Enemies: useful
+Explosive Armor: useful
+Fast Shot: useful
+Faulty Chests: useful
+Fire Aura: useful
 Fire Claws: useful
 Fire Explosion: useful
+Fire Ring: useful
+Fire Shot: useful
 Fire Storm: useful
+Fire Strike: useful
 Fireball Shot: useful
 Firepower: useful
+Firestarter: useful
+Firework Explosion: useful
 Firework Shot: useful
+Flamethrower: progression
 Flammable Armor: useful
+Flammable Enemies: progression
 Fortitude: useful
+Freezing Enemies: progression
+Full Metal Jacket: useful
 Gemstone: useful
+Giant Drill: useful
+Glass Cannon: useful
 Glue Explosion: useful
+Glue Shot: progression
+Gold Coating: useful
+Grappling Hook: progression
+Grenade: progression
 Grenadier: useful
+Grim Reaper: progression
 Grip Tape: useful
+Hammer: progression
+Hard Target: useful
 Health Is Power: useful
+Health Shot: progression
+Heat Sink: useful
 Heavy Hitter: useful
+Heavy Shot: useful
+High Caliber: useful
 High Roller: useful
+High Voltage: useful
+Hoarder Backpack: useful
+Homing Blades: useful
 Homing Shot: useful
+Hot Shot: useful
+Hot Steam: useful
+Ice Aura: useful
+Ice Blast: progression
+Ice Claws: useful
+Ice Cold: useful
 Ice Dash: useful
+Ice Explosion: progression
+Ice Ring: useful
+Ice Shot: useful
+Ice Staff: progression
+Ice Storm: useful
+Ice Strike: useful
+Icebreaker: useful
+Imploding Explosion: useful
+Iron Claws: useful
+Iron Explosion: useful
+Juggernaut: useful
+Juiced: useful
+Knockback Shot: useful
 Landmine Explosion: useful
+Landmine Shot: useful
+Laser Beam: progression
+Laser Cannons: progression
+Layered Explosion: useful
+Leap Of Faith: useful
+Level Up: useful
 Lightning Aura: useful
 Lightning Claws: useful
+Lightning Dash: useful
 Lightning Explosion: useful
 Lightning Ring: useful
+Lightning Scepter: progression
+Lightning Shot: progression
+Lightning Storm: useful
+Lightning Strike: useful
 Limited Loot: useful
 Link Shot: useful
 Mace Shot: useful
+Mag Shot: useful
 Magnify: useful
+Mango: useful
+Marksman Rifle: progression
 Mega Crit: useful
+Minigun: progression
+Money Is Power: useful
+Money Shot: useful
+Mortar Turret: progression
+Orb Launcher: progression
+Orbiting Scythes: useful
+Orbiting Shot: useful
+Overspill Goblet: useful
+Paycheck: useful
+Performance Bonus: useful
+Personal Space: useful
+Pickaxe: progression
 Piercing Shot: useful
+Piercing Wave: useful
 Poison Aura: useful
+Poison Cannon: progression
+Poison Claws: progression
 Poison Explosion: useful
 Poison Ring: useful
+Poison Shot: useful
+Poison Storm: useful
+Poison Strike: useful
+Poisonous Armor: progression
 Poisonous Enemies: useful
+Portal Amulet: useful
+Portal Ring: useful
 Potent Magic: useful
 Power Armor: useful
+Power Punch: useful
+Powerslide: useful
 Progressive Ability Mod Slot: progression
+Progressive Melee Mod Slot: progression
 Progressive Perk Slot: progression
 Progressive Weapon Mod Slot: progression
+Proximity Barrage: useful
+Pumpkin Shot: useful
+Random Shot: useful
+Rapid Fire: useful
+Rare Treasure: useful
 Recoil Shot: useful
 Regenerator: useful
+Reload Arc: useful
+Ring Of Armor: useful
+Ring Of Defense: useful
+Ring Of Deflection: useful
+Ring Of Destruction: useful
+Ring Of Dividends: useful
+Ring Of Favoritism: useful
+Ring Of Fury: useful
+Ring Of Gravity: useful
+Ring Of Healing: progression
+Ring Of Healthy Turrets: useful
+Ring Of Luck: useful
+Ring Of Potential: useful
+Ring Of Power: useful
+Ring Of Precision: useful
+Ring Of Protection: useful
+Ring Of Regenerating Armor: useful
+Ring Of Reinforcement: useful
+Ring Of Reloading: useful
 Ring Of Repulsion: useful
+Ring Of Rocket Jumping: useful
+Ring Of Swiftness: progression
+Ring Of Tankiness: useful
+Ring Of Value: useful
+Ring Of Vigor: useful
+Ring Of Wisdom: progression
 Rising Star: useful
+Scatter Shot: useful
 Scavenger: useful
+Scythe Vortex: useful
+Seagle: progression
+Sentry Turret: useful
 Sharp Claws: useful
 Sharp Shot: useful
+Sharpened Axe: useful
+Sharpshooter: progression
 Shockwave: useful
 Shotgun Blast: useful
+Silver Lining: useful
+Skill Ring: useful
+Slippery Slope: useful
+Slugger: useful
 Snake Shot: useful
+Snatcher: useful
+Sniper Turret: useful
+Sniper: progression
+Sonic Boom: useful
+Spark Explosion: useful
 Spark Shot: useful
 Special Delivery: useful
+Speed Demon: useful
+Speed Is Power: useful
+Spike Strike (Ability): useful
+Spike Strike: useful
+Spinning Blade: useful
+Spiral Shot: useful
+Splash Damage: useful
 Split Ability: useful
 Split Shot: useful
+Spore Explosion: useful
 Spore Shot: useful
+Square Shot: useful
+Stamina: useful
+Steady Shot: useful
+Streak Shot: useful
 Streamer Loot: useful
 Sturdy Totems: useful
+Supercharged: useful
 Survivor: useful
+Targeting Explosion: useful
+Targeting Shot: useful
+Tasty Orange: useful
+Thorn Explosion: useful
+Thorn Shot: useful
+Time Bolt: progression
 Time Claws: useful
+Time Explosion: progression
+Time Ring: useful
 Time Shot: useful
+Tony's Amulet: useful
+Tony's Black Card: useful
+Torpedo Shot: useful
+Totem Enthusiast: useful
+Toxic: useful
 Triangle Shot: useful
 Trick Shot: useful
+Trigger Ring: useful
+Triple Ability: useful
+Triple Shot: useful
+Turbo Ring: useful
+Twin Ring: useful
+Ultra Mushroom: useful
 Ultra Shot: useful
+Up The Ante: useful
+Upgrade Ring: useful
+Valued Customer: useful
+Vampire: progression
 Vitality: useful
 Wave Turret: useful
 Wind Up: useful
+Workaholic: useful
+X Shot: useful
+Zig Zag Shot: useful

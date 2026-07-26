@@ -15,6 +15,7 @@ Citizen ID Drone: progression
 Crafting Perk: useful
 Daddy Long Legs trap: trap
 Dandelion Peach: filler
+Dial Warp Ability: progression
 Dual Wielding Perk: useful
 Eggbug Egg: filler
 Electric Spear: filler
@@ -150,7 +151,9 @@ Red Centipede trap: trap
 Red Lizard trap: trap
 Responsibility trap: trap
 Ripple Spawn trap: trap
+Ripple: progression
 Rock: filler
+Rot Fruit: filler
 Scug-Artificer: progression
 Scug-Rivulet: unknown
 Scug-White: mcguffin
@@ -174,4 +177,65 @@ Trap-Stun: trap
 Trap-Timer: trap
 Trap-Zoomies: trap
 Vulture Mask: filler
+Warp: Aether Ridge / Coral Caves: progression
+Warp: Aether Ridge / Daemon: progression
+Warp: Aether Ridge / Migration Path: progression
+Warp: Aether Ridge / Shrouded Stacks: progression
+Warp: Aether Ridge / Sunbaked Alley: progression
+Warp: Aether Ridge / Torrential Railways: progression
+Warp: Aether Ridge / Torrid Desert: progression
+Warp: Badlands / Daemon: progression
+Warp: Badlands / Fractured Gateways: progression
+Warp: Badlands / Migration Path: progression
+Warp: Badlands / Torrid Desert: progression
+Warp: Cold Storage / Daemon: progression
+Warp: Cold Storage / Fractured Gateways: progression
+Warp: Cold Storage / Migration Path: progression
+Warp: Cold Storage / Shrouded Stacks: progression
+Warp: Cold Storage / Stormy Coast: progression
+Warp: Cold Storage / The Surface: progression
+Warp: Cold Storage / Unfortunate Evolution: progression
+Warp: Coral Caves / Daemon: progression
+Warp: Coral Caves / Rusted Wrecks: progression
+Warp: Daemon / Desolate Tract: progression
+Warp: Daemon / Fractured Gateways: progression
+Warp: Daemon / Shrouded Stacks: progression
+Warp: Daemon / Stormy Coast: progression
+Warp: Daemon / Sunbaked Alley: progression
+Warp: Daemon / Torrential Railways: progression
+Warp: Daemon / Torrid Desert: progression
+Warp: Daemon / Verdant Waterways: progression
+Warp: Fetid Glen / Daemon: progression
+Warp: Fetid Glen / Fractured Gateways: progression
+Warp: Fetid Glen / Verdant Waterways: progression
+Warp: Heat Ducts / Daemon: progression
+Warp: Heat Ducts / Stormy Coast: progression
+Warp: Heat Ducts / Torrid Desert: progression
+Warp: Heat Ducts / Turbulent Pump: progression
+Warp: Migration Path / Daemon: progression
+Warp: Outer Rim / Daemon: progression
+Warp: Pillar Grove / Coral Caves: progression
+Warp: Pillar Grove / Daemon: progression
+Warp: Pillar Grove / Shrouded Stacks: progression
+Warp: Pillar Grove / Torrential Railways: progression
+Warp: Rusted Wrecks / Daemon: progression
+Warp: Rusted Wrecks / Desolate Tract: progression
+Warp: Rusted Wrecks / Sunbaked Alley: progression
+Warp: Salination / Daemon: progression
+Warp: Salination / Fetid Glen: progression
+Warp: Salination / Heat Ducts: progression
+Warp: Shattered Terrace / Ancient Urban: progression
+Warp: Shattered Terrace / Fetid Glen: progression
+Warp: Shattered Terrace / Salination: progression
+Warp: Shattered Terrace / Signal Spires: progression
+Warp: Signal Spires / Daemon: progression
+Warp: Signal Spires / Stormy Coast: progression
+Warp: Signal Spires / Verdant Waterways: progression
+Warp: The Surface / Daemon: progression
+Warp: The Surface / Desolate Tract: progression
+Warp: The Surface / Shrouded Stacks: progression
+Warp: The Surface / Torrid Desert: progression
+Warp: Turbulent Pump / Daemon: progression
+Warp: Turbulent Pump / Desolate Tract: progression
+Warp: Turbulent Pump / Verdant Waterways: progression
 Zoomies trap: trap

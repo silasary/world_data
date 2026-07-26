@@ -23,6 +23,7 @@ Fever Meter Permanent Bonus: 2-4 Spiral of Doom: useful
 Fever Meter Permanent Bonus: 2-5 Mr. Peepers: useful
 Fever Meter Permanent Bonus: 3-1 Scarab Crunch: useful
 Fever Meter Permanent Bonus: 3-2 Infinite Cheese: useful
+Fever Meter Permanent Bonus: 3-3 Ra Deal: useful
 Fever Meter Permanent Bonus: 3-4 Croco-Gator Pit: useful
 Fever Meter Permanent Bonus: 3-5 The Fever Level: useful
 Fever Meter Permanent Bonus: 4-1 The Amoeban: useful
@@ -35,6 +36,7 @@ Fever Meter Permanent Bonus: 5-2 Insane Aquarium: useful
 Fever Meter Permanent Bonus: 5-3 Tasty Waves: useful
 Fever Meter Permanent Bonus: 5-4 Our Favorite Eel: useful
 Fever Meter Permanent Bonus: 5-5 Love Story: useful
+Fever Meter Permanent Bonus: 6-1 Waves: useful
 Fever Meter Permanent Bonus: 6-2 Spiderweb: useful
 Fever Meter Permanent Bonus: 6-3 Blockers: useful
 Fever Meter Permanent Bonus: 6-4 Baseball: useful
@@ -44,8 +46,12 @@ Fever Meter Permanent Bonus: 7-2 I Heart Flowers: useful
 Fever Meter Permanent Bonus: 7-3 Workin from Home: useful
 Fever Meter Permanent Bonus: 7-4 Tula's Ride: useful
 Fever Meter Permanent Bonus: 7-5 70 and Sunny: useful
+Fever Meter Permanent Bonus: 8-1 Win a Monkey: useful
+Fever Meter Permanent Bonus: 8-2 Dog Pinball: useful
+Fever Meter Permanent Bonus: 8-3 Spin Again: useful
 Fever Meter Permanent Bonus: 8-4 Roll 'Em: useful
 Fever Meter Permanent Bonus: 8-5 Five of a Kind: useful
+Fever Meter Permanent Bonus: 9-1 The Love Moat: useful
 Fever Meter Permanent Bonus: 9-2 Doom with a View: useful
 Fever Meter Permanent Bonus: 9-3 Rhombi: useful
 Fever Meter Permanent Bonus: 9-4 9 Luft Balloons: useful
@@ -104,22 +110,58 @@ Fever Meter Permanent Bonus: [9-2] Doom with a View: useful
 Fever Meter Permanent Bonus: [9-3] Rhombi: useful
 Fever Meter Permanent Bonus: [9-4] 9 Luft Balloons: useful
 Fever Meter Permanent Bonus: [9-5] Twisted Sisters: useful
+Full Clear Discount: 1-1 Peggleland: useful
+Full Clear Discount: 1-2 Slip and Slide: useful
+Full Clear Discount: 1-3 Bjorn's Gazebo: useful
 Full Clear Discount: 1-4 Das Bucket: useful
+Full Clear Discount: 1-5 Snow Day: useful
 Full Clear Discount: 10-1 Spin Cycle: useful
 Full Clear Discount: 10-2 The Dude Abides: useful
+Full Clear Discount: 10-3 When Pigs Fly: useful
+Full Clear Discount: 10-4 Yang, Yin: useful
+Full Clear Discount: 10-5 Zen Frog: useful
+Full Clear Discount: 11-1 Paw Reader: useful
 Full Clear Discount: 11-2 End of Time: useful
+Full Clear Discount: 11-3 Billions & Billions: useful
+Full Clear Discount: 11-4 Don't Panic: useful
 Full Clear Discount: 11-5 Beyond Reason: useful
 Full Clear Discount: 2-1 Birdy's Crib: useful
 Full Clear Discount: 2-2 Buffalo Wings: useful
 Full Clear Discount: 2-3 Skate Park: useful
+Full Clear Discount: 2-4 Spiral of Doom: useful
+Full Clear Discount: 2-5 Mr. Peepers: useful
+Full Clear Discount: 3-1 Scarab Crunch: useful
+Full Clear Discount: 3-2 Infinite Cheese: useful
+Full Clear Discount: 3-3 Ra Deal: useful
 Full Clear Discount: 3-5 The Fever Level: useful
 Full Clear Discount: 4-1 The Amoeban: useful
 Full Clear Discount: 4-2 The Last Flower: useful
+Full Clear Discount: 4-3 We Come in Peace: useful
+Full Clear Discount: 4-4 Maid in Space: useful
+Full Clear Discount: 4-5 Getting the Spare: useful
+Full Clear Discount: 5-1 Pearl Clam: useful
 Full Clear Discount: 5-2 Insane Aquarium: useful
 Full Clear Discount: 5-3 Tasty Waves: useful
+Full Clear Discount: 5-4 Our Favorite Eel: useful
 Full Clear Discount: 5-5 Love Story: useful
 Full Clear Discount: 6-1 Waves: useful
+Full Clear Discount: 6-2 Spiderweb: useful
+Full Clear Discount: 6-3 Blockers: useful
+Full Clear Discount: 6-4 Baseball: useful
+Full Clear Discount: 6-5 Vermin: useful
+Full Clear Discount: 7-1 Holland Oats: useful
+Full Clear Discount: 7-2 I Heart Flowers: useful
+Full Clear Discount: 7-3 Workin from Home: useful
+Full Clear Discount: 7-4 Tula's Ride: useful
+Full Clear Discount: 8-2 Dog Pinball: useful
 Full Clear Discount: 8-3 Spin Again: useful
+Full Clear Discount: 8-4 Roll 'Em: useful
+Full Clear Discount: 8-5 Five of a Kind: useful
+Full Clear Discount: 9-1 The Love Moat: useful
+Full Clear Discount: 9-2 Doom with a View: useful
+Full Clear Discount: 9-3 Rhombi: useful
+Full Clear Discount: 9-4 9 Luft Balloons: useful
+Full Clear Discount: 9-5 Twisted Sisters: useful
 Full Clear Discount: [3-3] Ra Deal: useful
 Full Clear Discount: [5-2] Insane Aquarium: useful
 Full Clear Discount: [9-2] Doom with a View: useful
@@ -257,6 +299,7 @@ Score Multiplier: 10-1 Spin Cycle: useful
 Score Multiplier: 10-2 The Dude Abides: useful
 Score Multiplier: 10-3 When Pigs Fly: useful
 Score Multiplier: 10-4 Yang, Yin: useful
+Score Multiplier: 10-5 Zen Frog: useful
 Score Multiplier: 11-1 Paw Reader: useful
 Score Multiplier: 11-2 End of Time: useful
 Score Multiplier: 11-3 Billions & Billions: useful
@@ -288,11 +331,13 @@ Score Multiplier: 6-3 Blockers: useful
 Score Multiplier: 6-4 Baseball: useful
 Score Multiplier: 6-5 Vermin: useful
 Score Multiplier: 7-1 Holland Oats: useful
+Score Multiplier: 7-2 I Heart Flowers: useful
 Score Multiplier: 7-3 Workin from Home: useful
 Score Multiplier: 7-4 Tula's Ride: useful
 Score Multiplier: 7-5 70 and Sunny: useful
 Score Multiplier: 8-1 Win a Monkey: useful
 Score Multiplier: 8-2 Dog Pinball: useful
+Score Multiplier: 8-3 Spin Again: useful
 Score Multiplier: 8-4 Roll 'Em: useful
 Score Multiplier: 8-5 Five of a Kind: useful
 Score Multiplier: 9-1 The Love Moat: useful
@@ -369,6 +414,7 @@ Target Score Discount: 11-1 Paw Reader: useful
 Target Score Discount: 11-2 End of Time: useful
 Target Score Discount: 11-3 Billions & Billions: useful
 Target Score Discount: 11-4 Don't Panic: useful
+Target Score Discount: 11-5 Beyond Reason: useful
 Target Score Discount: 2-1 Birdy's Crib: useful
 Target Score Discount: 2-2 Buffalo Wings: useful
 Target Score Discount: 2-3 Skate Park: useful
@@ -383,6 +429,7 @@ Target Score Discount: 4-1 The Amoeban: useful
 Target Score Discount: 4-2 The Last Flower: useful
 Target Score Discount: 4-3 We Come in Peace: useful
 Target Score Discount: 4-4 Maid in Space: useful
+Target Score Discount: 4-5 Getting the Spare: useful
 Target Score Discount: 5-1 Pearl Clam: useful
 Target Score Discount: 5-2 Insane Aquarium: useful
 Target Score Discount: 5-3 Tasty Waves: useful
@@ -391,6 +438,7 @@ Target Score Discount: 5-5 Love Story: useful
 Target Score Discount: 6-1 Waves: useful
 Target Score Discount: 6-2 Spiderweb: useful
 Target Score Discount: 6-3 Blockers: useful
+Target Score Discount: 6-4 Baseball: useful
 Target Score Discount: 6-5 Vermin: useful
 Target Score Discount: 7-1 Holland Oats: useful
 Target Score Discount: 7-2 I Heart Flowers: useful
@@ -400,9 +448,11 @@ Target Score Discount: 7-5 70 and Sunny: useful
 Target Score Discount: 8-1 Win a Monkey: useful
 Target Score Discount: 8-2 Dog Pinball: useful
 Target Score Discount: 8-3 Spin Again: useful
+Target Score Discount: 8-4 Roll 'Em: useful
 Target Score Discount: 8-5 Five of a Kind: useful
 Target Score Discount: 9-1 The Love Moat: useful
 Target Score Discount: 9-2 Doom with a View: useful
+Target Score Discount: 9-3 Rhombi: useful
 Target Score Discount: 9-4 9 Luft Balloons: useful
 Target Score Discount: 9-5 Twisted Sisters: useful
 Target Score Discount: [1-1] Peggleland: useful

@@ -14,7 +14,7 @@ Ashen Mist Heart: progression
 Avelyn: filler
 Azal's Staff: filler
 Bandit Armor: filler
-Bandit Axe: unknown
+Bandit Axe: filler
 Bandit Boots: filler
 Bandit Gauntlets: filler
 Bandit Greataxe: filler
@@ -43,7 +43,7 @@ Bloodbite Ring: filler
 Blossom Kite Shield: filler
 Blue Tearstone Ring: filler
 Blue Wooden Shield: filler
-Boltstone: unknown
+Boltstone: filler
 Bone Fist: filler
 Bone Staff: filler
 Bonfire Ascetic: useful
@@ -66,8 +66,9 @@ Caestus: filler
 Caitha's Chime: filler
 Caressing Prayer: filler
 Cast Light: filler
-Catarina Gauntlets: unknown
-Catarina Leggings: unknown
+Catarina Gauntlets: filler
+Catarina Helm: filler
+Catarina Leggings: filler
 Chameleon: filler
 Chaos Storm: filler
 Charcoal Pine Resin: filler
@@ -83,7 +84,7 @@ Club: filler
 Combustion: filler
 Common Fruit: filler
 Corrosive Urn: filler
-Covetous Demon Soul: unknown
+Covetous Demon Soul: filler
 Covetous Gold Serpent Ring: filler
 Covetous Silver Serpent Ring: filler
 Craftsman's Hammer: filler
@@ -92,7 +93,7 @@ Crimson Parma: filler
 Crimson Water: useful
 Crystal Magic Weapon: filler
 Cursebite Ring: filler
-Curved Nil Greatsword: unknown
+Curved Nil Greatsword: filler
 Dagger: filler
 Dance of Fire: filler
 Dark Arrow: filler
@@ -106,16 +107,16 @@ Dark Pine Resin: filler
 Dark Pyromancy Flame: filler
 Dark Quartz Ring+1: filler
 Dark Quartz Ring+3: filler
-Dark Quartz Ring: unknown
+Dark Quartz Ring: filler
 Dark Troches: useful
 Darklurker Soul: filler
 Darknight Stone: filler
 Darkstorm: filler
 Dead Again: filler
 Demon of Song Soul: unknown
-Denial: unknown
+Denial: filler
 Destructive Greatarrow: filler
-Dexterity Ring: unknown
+Dexterity Ring: filler
 Disc Chime: filler
 Dispelling Ring+1: filler
 Divine Blessing: filler
@@ -130,7 +131,7 @@ Drakeblood Armor: unknown
 Drakeblood Gauntlets: filler
 Drakeblood Greatsword: filler
 Drakeblood Helm: filler
-Drakeblood Leggings: unknown
+Drakeblood Leggings: filler
 Drakekeeper's Greataxe: filler
 Drakekeeper's Greatshield: filler
 Drangleic Gauntlets: filler
@@ -158,7 +159,7 @@ Falconer Boots: filler
 Falconer Gloves: filler
 Falconer Helm: filler
 Fall Control: filler
-Fang Key: unknown
+Fang Key: progression
 Faraam Armor: filler
 Faraam Boots: filler
 Faraam Gauntlets: filler
@@ -184,8 +185,8 @@ Flash Sweat: filler
 Flexile Sentry Soul: filler
 Flower Skirt: filler
 Flying Feline Boots: filler
-Flynn's Ring: unknown
-Focus Souls: unknown
+Flynn's Ring: filler
+Focus Souls: filler
 Foot Soldier Shield: filler
 Force: filler
 Forgotten Key: progression
@@ -263,7 +264,7 @@ Iron Flesh: filler
 Iron Key: progression
 Iron Parma: filler
 Jester's Cap: filler
-Jester's Gloves: unknown
+Jester's Gloves: filler
 Jester's Robes: filler
 Jester's Tights: filler
 Key to King's Passage: progression
@@ -294,7 +295,7 @@ Leggings of Aurous: filler
 Lenigrast's Key: progression
 Life Ring+1: filler
 Life Ring+2: filler
-Life Ring+3: unknown
+Life Ring+3: filler
 Life Ring: filler
 Lifegem: filler
 Light Crossbow: filler
@@ -339,9 +340,9 @@ Mytha, the Baneful Queen Soul: filler
 Northern Ritual Band+2: filler
 Northern Ritual Band: filler
 Northwarder Hood: useful
-Northwarder Manchettes: unknown
+Northwarder Manchettes: filler
 Northwarder Robe: filler
-Northwarder Trousers: unknown
+Northwarder Trousers: filler
 Notched Whip: filler
 Old Bell Helm: filler
 Old Dragonslayer Soul: unknown
@@ -352,6 +353,7 @@ Old Knight Halberd: filler
 Old Knight Hammer: filler
 Old Knight Pike: filler
 Old Leo Ring: filler
+Old Mundane Stone: filler
 Old Radiant Lifegem: useful
 Old Sun Ring: filler
 Olenford's Staff: filler
@@ -369,13 +371,13 @@ Pharros Mask: filler
 Phoenix Parma: filler
 Pickaxe: filler
 Pike: filler
-Pilgrim's Spontoon: unknown
+Pilgrim's Spontoon: filler
 Poison Arrow: filler
 Poison Mist: filler
 Poison Moss: useful
 Poison Stone: filler
 Poison Throwing Knife: filler
-Poisonbite Ring+1: unknown
+Poisonbite Ring+1: filler
 Poisonbite Ring: filler
 Porcine Shield: filler
 Priest's Chime: filler
@@ -392,7 +394,7 @@ Radiant Lifegem: filler
 Rapier: filler
 Raw Stone: filler
 Rebel's Greatshield: filler
-Recollection: unknown
+Recollection: filler
 Red Iron Twinblade: filler
 Red Leech Troches: filler
 Red Rust Scimitar: filler
@@ -417,11 +419,11 @@ Ring of Prayer: useful
 Ring of Resistance+1: useful
 Ring of Restoration: filler
 Ring of Soul Protection: filler
-Ring of Thorns+1: unknown
+Ring of Thorns+1: filler
 Ring of Whispers: progression
 Ring of the Embedded: filler
 Ring of the Evil Eye+1: filler
-Ring of the Evil Eye: unknown
+Ring of the Evil Eye: filler
 Ring of the Living: filler
 Robe of Judgment: filler
 Rotten Pine Resin: filler
@@ -440,7 +442,7 @@ Sanctum Mace: filler
 Sanctum Shield: filler
 Santier's Spear: filler
 Scimitar: filler
-Scorching Iron Scepter: unknown
+Scorching Iron Scepter: progression
 Scorpioness Najka Soul: filler
 Scraps of Life: filler
 Scythe: filler
@@ -450,12 +452,14 @@ Shotel: filler
 Silver Eagle Kite Shield: filler
 Silver Talisman: filler
 Silvercat Ring: progression
+Simpleton's Ring: filler
 Simpleton's Spice: filler
 Singer's Dress: filler
 Skeleton Lord's Soul: filler
 Skeptic's Spice: filler
 Small Blue Burr: filler
 Small Leather Shield: filler
+Small Orange Burr: filler
 Small Smooth & Silky Stone: filler
 Smelter Demon Armor: filler
 Smelter Demon Gauntlets: filler
@@ -471,6 +475,7 @@ Sorcery Clutch Ring: filler
 Soul Appease: filler
 Soul Arrow: filler
 Soul Bolt: filler
+Soul Flash: filler
 Soul Geyser: filler
 Soul Greatsword: filler
 Soul Spear: filler
@@ -505,7 +510,7 @@ Spell Quartz Ring+1: useful
 Spell Quartz Ring+2: useful
 Spell Quartz Ring+3: useful
 Spiked Bandit Helm: filler
-Splintering Lightning Spear: unknown
+Splintering Lightning Spear: filler
 Standard Helm: filler
 Steel Armor: filler
 Steel Gauntlets: filler
@@ -522,17 +527,17 @@ Tattered Cloth Robe: filler
 Thief Mask: filler
 Third Dragon Ring: filler
 Throne Defender Soul: filler
-Throne Watcher Soul: unknown
+Throne Watcher Soul: filler
 Throwing Knife: filler
 Thunder Quartz Ring+1: filler
-Thunder Quartz Ring+3: unknown
+Thunder Quartz Ring+3: filler
 Thunder Quartz Ring: filler
 Tights of Judgment: filler
 Titanite Chunk: filler
 Titanite Shard: filler
 Titanite Slab: useful
 Torch: useful
-Tower Key: unknown
+Tower Key: progression
 Tower Shield: filler
 Transgressor's Leather Shield: filler
 Transgressor's Staff: filler
@@ -544,6 +549,7 @@ Triclops Snake Troches: filler
 Tseldora Den Key: progression
 Twilight Herb: filler
 Twin Dragon Greatshield: filler
+Twin-headed Greatbow: filler
 Twinblade: filler
 Twinkling Titanite: filler
 Twisted Barricade: filler
@@ -572,6 +578,7 @@ Velstadt's Armor: filler
 Velstadt's Gauntlets: filler
 Velstadt's Helm: filler
 Velstadt's Leggings: filler
+Vessel Shield: filler
 Vine Balm: filler
 Wanderer Boots: filler
 Wanderer Coat: filler

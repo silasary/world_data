@@ -159,6 +159,7 @@ Level Unlock: 11-5 Diploma, See?: progression
 Level Unlock: 12-1 Psyclone: progression
 Level Unlock: 12-2 Why You Buggin'?: progression
 Level Unlock: 12-3 Wyrm Sign: progression
+Level Unlock: 12-4 The Rising: unknown
 Level Unlock: 12-5 Shadowshine: progression
 Level Unlock: 13-1 Plants v. Zombies: progression
 Level Unlock: 13-2 The Guardians: progression
@@ -334,6 +335,7 @@ Target Score Discount: 11-4 Water Whirled: useful
 Target Score Discount: 11-5 Diploma, See?: useful
 Target Score Discount: 12-1 Psyclone: useful
 Target Score Discount: 12-2 Why You Buggin'?: useful
+Target Score Discount: 12-3 Wyrm Sign: unknown
 Target Score Discount: 12-4 The Rising: useful
 Target Score Discount: 12-5 Shadowshine: useful
 Target Score Discount: 13-1 Plants v. Zombies: useful

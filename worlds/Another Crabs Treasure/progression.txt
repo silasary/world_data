@@ -9,16 +9,16 @@ Barnacle+: useful
 Barnacle: useful
 Bleached Trap: trap
 Bloodstar Limb: filler
-Blue-Collar: unknown
+Blue-Collar: filler
 Bobber: useful
 Bobbit Trap: useful
 Breadclaw: filler
 Bubble Bullet: progression
-Captain: unknown
+Captain: filler
 Carclaw: filler
 Chipclaw: filler
 Chum: progression
-Circle of Life: unknown
+Circle of Life: useful
 Clothesclaw: filler
 Clown: filler
 Clutz Trap: trap
@@ -29,7 +29,7 @@ Cotton Ball: useful
 Cowfishboy: filler
 Dispatch: useful
 Dr. Kril: filler
-Earthworm: unknown
+Earthworm: useful
 Ebb and Flow: useful
 Eelectrocute: useful
 Elusive Prey: useful
@@ -44,7 +44,7 @@ Googly Eye: useful
 Gunk Trap: trap
 Hairclaw: filler
 Heartkelp Sprout: useful
-Housewarming: unknown
+Housewarming: useful
 Intern: filler
 Kintsugi: useful
 Krillionaire: filler
@@ -55,13 +55,13 @@ Lil Isopod: progression
 Limpet++: useful
 Limpet+: useful
 Limpet: filler
-Lugnut: unknown
+Lugnut: useful
 Lumpsucker+: useful
 Lumpsucker: filler
 Mantis Punch: progression
 Map Piece - Flotsam Vale: progression
 Map Piece - Heikea: progression
-Map Piece - Pagurus: unknown
+Map Piece - Pagurus: progression
 Mussel++: useful
 Mussel+: filler
 Mussel: useful
@@ -79,7 +79,7 @@ Pristine Pearl: progression
 Puffer Quill: useful
 Razor Blade: useful
 Riposte: useful
-Royal Wave: unknown
+Royal Wave: progression
 Rubber Band: useful
 Rusty Nail+: useful
 Rusty Nail: useful
@@ -87,13 +87,13 @@ Salp+: useful
 Salp: useful
 Sand Dollar: filler
 Scour Trap: trap
-Scrap Hammer: unknown
+Scrap Hammer: useful
 Sea Cucumber: useful
 Seaslug: useful
 Seastar++: filler
 Seastar+: useful
 Seastar: filler
-Self-Repair: unknown
+Self-Repair: useful
 Shark Egg: useful
 Shark Tooth+: useful
 Shark Tooth: useful
@@ -101,36 +101,36 @@ Shell Shatter Trap: trap
 Shelleport: progression
 Sinker++: useful
 Sinker+: useful
-Sinker: unknown
+Sinker: useful
 Siphonophore+: useful
 Siphonophore: useful
 Skeddadle: useful
-Skewer: unknown
+Skewer: useful
 Small Battery+: useful
 Small Battery: useful
 Snail Sanctum: useful
 Spearfishing: progression
-Spectral Tentacle: unknown
+Spectral Tentacle: useful
 Sponge+: filler
 Sponge: progression
 Stainless Relic: filler
 Stapleclaw: filler
 Streamline: useful
-Sunlight: unknown
+Sunlight: filler
 Tackle Pouch: useful
 Taser Trap: trap
 Text Trap: trap
 Turtle Shell Shard: useful
-Umami Training 1: unknown
-Umami Training 2: unknown
-Umami Training 3: unknown
+Umami Training 1: useful
+Umami Training 2: useful
+Umami Training 3: useful
 Urchin Toss: progression
-Used Bandage+: unknown
+Used Bandage+: useful
 Used Bandage: useful
 Wad of Gum: useful
-Wave Breaker: unknown
+Wave Breaker: useful
 Whelk++: filler
 Whelk+: useful
 Whelk: useful
-Zooplankton+: unknown
+Zooplankton+: progression
 Zooplankton: progression

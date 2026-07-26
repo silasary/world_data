@@ -1,5 +1,15 @@
+1 Frame of Random Inputs: trap
+1 Second of Random Inputs: trap
+2 Seconds of Random Inputs: trap
+3 Seconds of Random Inputs: trap
 4 Seconds of Random Inputs: trap
 Active Piece Gets Stuck in the Left Wall: trap
+Active Piece Gets Stuck in the Right Wall: trap
+Active Piece is an Illusion: trap
 Clear Random Line: filler
 Decrease Speed: progression
+Garbage Line: trap
+Increase Speed: trap
+Instantly Lock Active Piece: trap
 Score Multiplier: progression
+Shuffle Garbage Line Hole: trap

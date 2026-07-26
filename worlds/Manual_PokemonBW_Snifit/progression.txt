@@ -3,63 +3,105 @@ Antidote: filler
 Awakening: filler
 Basic Badge: progression
 Bicycle: progression
+Big Mushroom: filler
 Big Pearl: filler
 Bolt Badge: progression
 Bright Powder: filler
 Burn Heal: filler
+Charcoal: filler
 Chesto Berry: filler
+Choice Band: useful
 Choice Scarf: filler
-Choice Specs: unknown
+Choice Specs: useful
 Cover Fossil: filler
 Damp Rock: filler
 Dawn Stone: unknown
+DeepSeaScale: useful
+Dome Fossil: useful
+Dusk Ball: filler
 Dusk Stone: filler
 EXP Share: useful
+Earth Plate: filler
+Electric Gem: filler
 Eviolite: filler
 Fire Stone: filler
+Fist Plate: filler
 Focus Sash: filler
 Freeze Badge: progression
 Fresh Water: filler
 Full Heal: filler
 Full Incense: filler
+Ghost Gem: filler
+Gram 1: progression
+Gram 3: progression
+Grass Gem: filler
 Great Ball: filler
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Waterfall: unknown
-HM06 Dive: unknown
+HM06 Dive: progression
+HP Up: filler
 Heal Ball: unknown
 Heat Rock: unknown
 Hyper Potion: filler
 Ice Heal: filler
+Icicle Plate: filler
 Icy Rock: filler
 Insect Badge: progression
+Iron: filler
 Jet Badge: progression
 Lax Incense: filler
 Leaf Stone: filler
 Legend Badge: progression
+Light/Dark Stone: progression
 Luck Incense: unknown
+Magmarizer: useful
 Max Revive: filler
+Metal Coat: useful
+Miracle Seed: filler
 Moon Stone: filler
+Mystic Water: filler
+Nest Ball: filler
+Net Ball: filler
 Nugget: filler
 Odd Incense: filler
+Old Amber: useful
 Old Gateau: filler
 Oran Berry: filler
+PP Max: useful
+PP Up: useful
 Pearl: filler
 Plume Fossil: filler
 Poké Ball: filler
+Premier Ball: filler
+Prism Scale: useful
+Protein: filler
 Pure Incense: filler
+Quake Badge: progression
 Rare Candy: filler
+Razor Claw: useful
+Relic Band: filler
+Relic Crown: filler
+Relic Silver: filler
 Revival Herb: filler
 Revive: filler
 Rock Incense: filler
+Root Fossil: useful
+Sage's Will 1: progression
+Sage's Will 3: progression
+Sage's Will 4: progression
+Sage's Will 5: progression
 Sea Incense: filler
 Shiny Stone: filler
 Smooth Rock: filler
+Spooky Plate: filler
 Star Piece: filler
 Stardust: filler
+Stone Plate: filler
 Sun Stone: filler
+Super Rod: useful
 TM01: useful
 TM02: unknown
 TM03: unknown
@@ -73,12 +115,12 @@ TM11: useful
 TM12: useful
 TM13: useful
 TM15: unknown
-TM16: unknown
+TM16: useful
 TM18: useful
 TM19: useful
 TM20: unknown
 TM21: unknown
-TM23: unknown
+TM23: useful
 TM24: useful
 TM25: unknown
 TM26: unknown
@@ -96,36 +138,40 @@ TM38: unknown
 TM39: unknown
 TM40: useful
 TM41: useful
+TM43: useful
 TM44: useful
 TM45: useful
 TM46: unknown
 TM47: useful
 TM48: unknown
 TM49: useful
-TM50: unknown
+TM50: useful
+TM51: useful
 TM52: useful
 TM53: useful
 TM54: useful
-TM55: unknown
+TM55: useful
 TM56: unknown
 TM57: useful
 TM58: useful
 TM59: unknown
 TM62: useful
 TM64: useful
+TM65: useful
 TM66: unknown
 TM67: unknown
-TM68: unknown
-TM70 Flash: unknown
+TM68: useful
+TM70 Flash: progression
 TM71: useful
-TM72: unknown
+TM72: useful
 TM73: useful
 TM74: useful
 TM75: useful
 TM77: useful
-TM78: unknown
+TM78: useful
 TM79: useful
 TM80: useful
+TM81: useful
 TM82: useful
 TM83: useful
 TM84: useful
@@ -139,10 +185,14 @@ TM92: useful
 TM93: useful
 TM94: useful
 TM95: unknown
+Thick Club: filler
 Thunder Stone: filler
 Timer Ball: filler
+Tiny Mushroom: filler
+Toxic Plate: filler
 Trio Badge: progression
 Ultra Ball: filler
+Up-Grade: useful
 Water Stone: filler
 Wave Incense: unknown
 Xtransceiver: filler

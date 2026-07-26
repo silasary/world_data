@@ -2,8 +2,10 @@
 [Chosen Hunt] Faction Influence: useful
 [Chosen Hunt] Hunter Stronghold: progression
 [Chosen Hunt] Warlock Stronghold: progression
+[PCS] Advanced Conditioning: filler
 [PCS] Advanced Focus: filler
 [PCS] Advanced Speed: filler
+[PCS] Basic Agility: filler
 [PCS] Superior Focus: useful
 [PCS] Superior Perception: useful
 [Resource] 1 Elerium Core: filler
@@ -34,6 +36,7 @@
 [Tech] Alien Encryption: progression
 [Tech] Andromedon Autopsy: useful
 [Tech] Archon King Autopsy: useful
+[Tech] Assassin Weapons Fragment (1/2): progression
 [Tech] Assassin Weapons Fragment (1/3): progression
 [Tech] Assassin Weapons: useful
 [Tech] Avatar Autopsy: progression
@@ -48,6 +51,7 @@
 [Tech] Experimental Weapons: useful
 [Tech] Faceless Autopsy: useful
 [Tech] Gauss Weapons: useful
+[Tech] Hunter Weapons Fragment (1/2): progression
 [Tech] Hunter Weapons Fragment (1/3): progression
 [Tech] Hunter Weapons: useful
 [Tech] Hybrid Materials: useful
@@ -69,6 +73,7 @@
 [Tech] The Lost Autopsy: useful
 [Tech] Viper Autopsy: useful
 [Tech] Viper King Autopsy: useful
+[Tech] Warlock Weapons Fragment (1/2): progression
 [Tech] Warlock Weapons Fragment (1/3): progression
 [Tech] Warlock Weapons: useful
 [Trap] Avatar Project +1: trap
@@ -80,6 +85,7 @@
 [Upgrade] Advanced Repeater: filler
 [Upgrade] Advanced Scope: useful
 [Upgrade] Advanced Stock: useful
+[Upgrade] Basic Hair Trigger: filler
 [Upgrade] Basic Laser Sight: filler
 [Upgrade] Basic Scope: filler
 [Upgrade] Superior Auto-Loader: useful
