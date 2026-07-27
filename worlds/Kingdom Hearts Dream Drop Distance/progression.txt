@@ -3,6 +3,7 @@ Aerial Slam: filler
 Air Combo Plus: useful
 Air Slide: progression
 All for One [Riku]: useful
+All for One [Sora]: useful
 Ars Arcanum: filler
 Attack Boost: useful
 Attack Haste: useful
@@ -26,10 +27,12 @@ Break Time: filler
 Catanuki Recipe: progression
 Cera Terror Recipe: progression
 Chef Kyroo Recipe: progression
+Circle Raid: filler
 Collision Magnet: filler
 Combo Master: useful
 Combo Plus: useful
 Confuse: filler
+Confusing Strike: filler
 Confusion Block: useful
 Counter Aura: useful
 Counter Rush: useful
@@ -37,8 +40,10 @@ Counterpoint [Riku]: useful
 Counterpoint [Sora]: useful
 Country of the Musketeers [Riku]: progression
 Country of the Musketeers [Sora]: progression
+Cura: filler
 Curaga: filler
 Cure Boost: useful
+Cure: filler
 Cyber Yog Recipe: progression
 Damage Syphon: useful
 Dark Aura: filler
@@ -125,15 +130,18 @@ Magic Boost: useful
 Magic Haste: useful
 Magic Increase [Riku]: useful
 Magic Increase [Sora]: useful
+Magnet Spiral: filler
 Majik Lapin Recipe: progression
 Me Me Bunny Recipe: progression
 Mega Flare: filler
 Meow Wow Recipe: progression
 Meowjesty Recipe: progression
 Meteor Crash: filler
+Meteor: filler
 Mini Block: useful
 Mini: filler
 Necho Cat Recipe: progression
+Ocean's Rage [Riku]: useful
 Once More: useful
 Payback Blast: useful
 Payback Raid: useful
@@ -154,6 +162,7 @@ R & R Seal Recipe: progression
 Rail Slide: progression
 Rapid Descent: filler
 Recusant Sigil: progression
+Reload Boost: useful
 Ryu Dragon Recipe: progression
 Sacrifice: filler
 Salvation: filler
@@ -172,6 +181,7 @@ Sleepra: filler
 Slide Roll: useful
 Sliding Block: filler
 Sliding Crescent: useful
+Sliding Dash: filler
 Sliding Sidewinder: useful
 Slot Edge: filler
 Slow Block: useful
@@ -179,6 +189,7 @@ Slow: filler
 Sonic Blade: filler
 Sonic Impact: filler
 Spark Dive: filler
+Spark Raid: filler
 Spark: filler
 Sparkga: filler
 Sparkra: filler
@@ -213,6 +224,7 @@ Thunderaffe Recipe: progression
 Time Bomb: filler
 Timestorm: filler
 Tornado Strike: filler
+Tornado: filler
 Toximander Recipe: progression
 Traverse Town [Riku]: progression
 Traverse Town [Sora]: progression
@@ -221,10 +233,12 @@ Triple Plasma: filler
 Tubguin Ace Recipe: progression
 Tyranto Rex Recipe: progression
 Ultima Weapon [Riku]: useful
+Ultima Weapon [Sora]: useful
 Unbound [Riku]: useful
 Unbound [Sora]: useful
 Ursa Circus Recipe: progression
 Vanish: filler
+Victory: progression
 Wake-Up Block: filler
 Waking Dream: useful
 Wall Kick: progression
