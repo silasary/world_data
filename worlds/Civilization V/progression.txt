@@ -2,11 +2,26 @@ Archery: progression
 Architecture: progression
 Banking: unknown
 Bonus - All City Population +1: filler
+Bonus - All City Population +2: filler
+Bonus - All City-State Influence +15: filler
+Bonus - All Unit Experience +35: filler
+Bonus - All Unit Experience +80: unknown
+Bonus - All Unit Free Promotion: filler
+Bonus - Culture +1000: filler
+Bonus - Culture +100: unknown
+Bonus - Culture +250: filler
 Bonus - Culture: filler
+Bonus - Extra Happiness Per City +1: filler
 Bonus - Extra Happiness Per City: filler
+Bonus - Faith +50: unknown
 Bonus - Faith: filler
 Bonus - Free Great Person: filler
+Bonus - Free Policy: filler
 Bonus - Free Tech: filler
+Bonus - Free Unit: filler
+Bonus - Free Worker: unknown
+Bonus - Gold +100: filler
+Bonus - Gold +250: filler
 Bonus - Gold: filler
 Bonus - Golden Age: filler
 Bonus - Major Culture: filler
@@ -17,6 +32,7 @@ Bonus - Minor Faith: useful
 Bonus - Minor Gold: filler
 Bonus - New City Extra Population +1: useful
 Bonus - New City Extra Population +2: filler
+Bonus - Snack from Thes: filler
 Bronze Working: progression
 Combined Arms: progression
 Combustion: progression
@@ -54,6 +70,7 @@ Policy - Legalism: useful
 Policy - Mandate of Heaven: useful
 Policy - Maritime Infrastructure: unknown
 Policy - Mercantilism: unknown
+Policy - Mercenary Army: unknown
 Policy - Merchant Confederacy: useful
 Policy - Merchant Navy: useful
 Policy - Military Caste: useful
@@ -100,6 +117,7 @@ Refrigeration: progression
 Rocketry: unknown
 Sailing: progression
 Scientific Theory: unknown
+Settler - Progressive: unknown
 Steam Power: progression
 Tech - Acoustics: unknown
 Tech - Animal Husbandry: progression

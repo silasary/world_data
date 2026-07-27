@@ -1,16 +1,29 @@
+Alchemy: progression
 Alteration: progression
+Archery: progression
+Block: useful
 BrotherhoodProgressive: progression
 CollegeProgressive: progression
 CompanionProgressive: progression
+Conjuration: progression
 DawnguardProgressive: progression
+Destruction: progression
 DragonbornProgressive: progression
 Enchanting: progression
+FactionComplete: progression
 GuildProgressive: progression
+Heavy Armor: useful
+Illusion: progression
+Light Armor: useful
+Lockpicking: progression
 MainQuestProgressive: progression
 One-Handed: progression
+Pickpocket: progression
 ProgressiveHeavyArmorTier: useful
 ProgressiveLightArmorTier: useful
 ProgressiveSpellTier: progression
 ProgressiveWeaponTier: progression
 Smithing: progression
+Sneak: progression
 ThalmorEars: filler
+Two-Handed: progression

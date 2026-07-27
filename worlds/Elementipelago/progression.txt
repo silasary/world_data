@@ -109,6 +109,7 @@ Element 197: progression
 Element 198: progression
 Element 199: progression
 Element 19: progression
+Element 1: unknown
 Element 200: progression
 Element 201: progression
 Element 202: progression
@@ -214,10 +215,12 @@ Element 292: progression
 Element 293: progression
 Element 294: progression
 Element 295: progression
+Element 296: progression
 Element 297: progression
 Element 298: progression
 Element 299: progression
 Element 29: progression
+Element 2: unknown
 Element 300: progression
 Element 301: progression
 Element 302: progression
@@ -328,6 +331,7 @@ Element 397: progression
 Element 398: progression
 Element 399: progression
 Element 39: progression
+Element 3: unknown
 Element 400: progression
 Element 401: progression
 Element 402: progression
@@ -438,6 +442,7 @@ Element 497: progression
 Element 498: progression
 Element 499: progression
 Element 49: progression
+Element 4: unknown
 Element 500: progression
 Element 501: progression
 Element 502: progression

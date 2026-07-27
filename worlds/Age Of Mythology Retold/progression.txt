@@ -1,1 +1,174 @@
-
++0.1 Favor trickle rate: filler
++0.25 Favor trickle rate: unknown
++0.5 Gold trickle rate: unknown
++0.5 Wood trickle rate: filler
++100 Starting Gold: filler
++120 Starting Food: unknown
++120 Starting Gold: unknown
++120 Starting Wood: unknown
++15 Starting Favor: unknown
++2 Food trickle rate: unknown
++2 Gold trickle rate: unknown
++2 Wood trickle rate: filler
++250 Starting Food: unknown
++250 Starting Gold: filler
++30 Starting Food: unknown
++30 Starting Gold: unknown
++50 Starting Food: unknown
++60 Starting Favor: unknown
+2 Anubites: unknown
+2 Automatons: unknown
+2 Battle Boars: unknown
+2 Behemoths: unknown
+2 Citizens: unknown
+2 Cyclopes: unknown
+2 Golden Lions: unknown
+2 Kataskopos: unknown
+2 Lampades: unknown
+2 Mercenaries: unknown
+2 Pegasi: unknown
+2 Phoenixes: unknown
+2 Relic Monkeys: unknown
+2 Slingers: unknown
+2 Turmas: filler
+Ajax +1 Attack: filler
+Ajax +1 Regen: unknown
+Ajax +10 Attack: unknown
+Ajax +200 HP: unknown
+Ajax +25 HP: unknown
+Ajax -2 Recharge Time: filler
+Ajax -5 Recharge Time: unknown
+Ajax Stunning Blow: unknown
+Amanra +1 Attack: unknown
+Amanra +10 Attack: unknown
+Amanra +200 HP: filler
+Amanra +25 HP: unknown
+Amanra +5 Regen: unknown
+Amanra -2 Recharge Time: unknown
+Amanra -5 Recharge Time: unknown
+Amanra Army of the Dead: unknown
+Amanra Shockwave Jump: unknown
+Arkantos +1 Attack: unknown
+Arkantos +10 Attack: unknown
+Arkantos +200 HP: unknown
+Arkantos +25 HP: unknown
+Arkantos +5 Regen: unknown
+Arkantos -2 Recharge Time: unknown
+Arkantos -5 Recharge Time: unknown
+Arkantos Attack Speed: unknown
+Arkantos is a House: unknown
+Can train Atlantean Classical Myth Units: unknown
+Can train Atlantean Heroic Myth Units: progression
+Can train Aztec Classical Myth Units: progression
+Can train Aztec Heroic Myth Units: progression
+Can train Berserk: progression
+Can train Camel Rider: unknown
+Can train Cheiroballista: unknown
+Can train Chinese Classical Myth Units: progression
+Can train Dao Swordsman: progression
+Can train Destroyer: unknown
+Can train Egyptian Heroic Myth Units: progression
+Can train Egyptian Mythic Myth Units: unknown
+Can train Greek Heroic Myth Units: unknown
+Can train Hippeus: unknown
+Can train Hirdman: unknown
+Can train Hoplite: unknown
+Can train Hypaspist: unknown
+Can train Japanese Mythic Myth Units: progression
+Can train Katapeltes: unknown
+Can train Norse Classical Myth Units: unknown
+Can train Norse Heroic Myth Units: unknown
+Can train Norse Mythic Myth Units: unknown
+Can train Raiding Cavalry: unknown
+Can train Spearman: unknown
+Can train Throwing Axeman: unknown
+Can train Toxotes: unknown
+Can train War Elephant: unknown
+Can train White Horse Cavalry: unknown
+Chiron +1 Attack: unknown
+Chiron +1 Regen: filler
+Chiron +10 Attack: useful
+Chiron +200 HP: unknown
+Chiron +25 HP: unknown
+Chiron -2 Recharge Time: unknown
+Each Owned Relic Grants 0.25 Favor Trickle: unknown
+Each Owned Relic Grants 1 Food Trickle: unknown
+Each Owned Relic Grants 1 Gold Trickle: unknown
+Each Owned Relic Grants 1 Wood Trickle: unknown
+Each Owned Relic Grants All Units +5% Speed: unknown
+Each Owned Relic Grants Buildings +4 and Units +2 Line of Sight: unknown
+Each Owned Relic Grants Everything +1 Regeneration: unknown
+Each Owned Relic Grants Everything +5% Max Hitpoints: unknown
+Each Owned Relic Makes Buildings Build 10% faster: unknown
+Each Owned Relic Reduces the Favor Cost of Units and Buildings 5%: unknown
+Each Owned Relic Reduces the Gold Cost of Everything 5%: unknown
+Egyptian Villagers Carry +10 Food: unknown
+Egyptian Villagers Carry +10 Gold: unknown
+Egyptian Villagers Carry +10 Wood: unknown
+Gem: useful
+Greek Villagers Carry +10 Food: filler
+Greek Villagers Carry +10 Gold: unknown
+Greek Villagers Carry +10 Wood: unknown
+Japanese Villagers Carry +10 Gold: filler
+Kastor +1 Attack: unknown
+Kastor +1 Regen: unknown
+Kastor +10 Attack: useful
+Kastor +200 HP: unknown
+Kastor +25 HP: unknown
+Kastor -1 Recharge Time: unknown
+Kastor -3.5 Recharge Time: unknown
+Kastor Can Summon Soldiers: unknown
+Norse Villagers Carry +10 Food: unknown
+Norse Villagers Carry +10 Gold: unknown
+Norse Villagers Carry +10 Wood: unknown
+Odysseus +1 Attack: unknown
+Odysseus +1 Regen: unknown
+Odysseus +25 HP: unknown
+Odysseus -2 Recharge Time: unknown
+Odysseus Joins the Campaign: unknown
+Odysseus Swift Escape: unknown
+Progressive Atlantean Age Unlock: unknown
+Progressive Chinese Age Unlock: unknown
+Progressive Egyptian Age Unlock: unknown
+Progressive Greek Age Unlock: unknown
+Progressive Norse Age Unlock: unknown
+Progressive Shop Info: useful
+Reginleif +1 Attack: unknown
+Reginleif +1 Projectile: unknown
+Reginleif +1 Regen: unknown
+Reginleif +25 HP: filler
+Reginleif Frost Strike: unknown
+Scenario Key Ring 16: progression
+Scenario Key Ring 19: progression
+Scenario Key Ring 1: unknown
+Scenario Key Ring 20: unknown
+Scenario Key Ring 24: unknown
+Scenario Key Ring 25: progression
+Scenario Key Ring 30: progression
+Starting Buildings Tech: unknown
+Starting Economy Tech: unknown
+Starting Military Tech: unknown
+Trap: Ancestors: unknown
+Trap: Bolt: unknown
+Trap: Carnivora: unknown
+Trap: Chaos: unknown
+Trap: Citadel: unknown
+Trap: Curse: unknown
+Trap: Deconstruction: unknown
+Trap: Earthquake: unknown
+Trap: Fimbulwinter: unknown
+Trap: Implode: unknown
+Trap: Lightning Storm: unknown
+Trap: Meteor: unknown
+Trap: Nidhogg: unknown
+Trap: Pestilence: unknown
+Trap: Restoration: unknown
+Trap: Shockwave: unknown
+Trap: Tartarian Gate: unknown
+Trap: Tornado: unknown
+Trap: Traitor: unknown
+Trap: Volcano: unknown
+Unlock FotT Norse Campaign: unknown
+Unlock New Atlantis Campaign: unknown
+Victory: unknown
+Villagers Cost -5 Food: unknown

@@ -1,4 +1,5 @@
 A Makalov IOU: filler
+Amiti: progression
 Antitoxin: useful
 Archer Band: useful
 Arms Scroll: useful
@@ -12,18 +13,23 @@ Blossom: filler
 Blue Gem: useful
 Boon: progression
 Brave Axe: progression
+Brave Bow: progression
 Brave Lance: progression
 Breath (White): progression
 Bright Bow: progression
 Cancel: progression
 Choose Astrid: progression
 Choose Bastian: progression
+Choose Brom: progression
 Choose Devdan: useful
 Choose Elincia: progression
 Choose Ena: progression
 Choose Gatrie: progression
 Choose Ilyana: progression
+Choose Janaff: progression
 Choose Mist: progression
+Choose Muarim: unknown
+Choose Naesala: progression
 Choose Nasir: progression
 Choose Oscar: progression
 Choose Reyson: progression
@@ -34,11 +40,15 @@ Choose Stefan: useful
 Choose Tanith: progression
 Choose Tibarn: progression
 Choose Titania: progression
+Choose Ulki: progression
 Claw (Lion): progression
 Claw (Tiger): useful
 Coin: filler
+Colossus: progression
 Corrode: filler
+Counter: filler
 Daunt: useful
+Deadeye: progression
 Discipline: trap
 Door Key: useful
 Energy Drop: useful
@@ -52,8 +62,10 @@ Knight Band: useful
 Knight Ring: useful
 Laguzguard: useful
 Lethality: progression
+Mage Band: filler
 Master Seal: progression
 Miracle: useful
+Occult: unknown
 Pegasus Band: filler
 Progressive Axe Rank: progression
 Progressive Bow Rank: progression
@@ -86,7 +98,9 @@ Tomahawk: useful
 Torch: filler
 Unlock Bishop: progression
 Unlock Falcon Knight: progression
+Unlock General: progression
 Unlock Halberdier: progression
+Unlock Lord: progression
 Unlock Paladin (M): progression
 Unlock Sage (F): progression
 Unlock Sage (M): progression
@@ -94,6 +108,7 @@ Unlock Swordmaster (F): progression
 Unlock Valkyrie: progression
 Unlock Wyvern Lord : progression
 Urvan: progression
+Use Canto: progression
 Vague Katti: useful
 Vantage: useful
 Vigilance: filler

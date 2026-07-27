@@ -3,6 +3,7 @@ Arcane Item: Black Dragon Special: filler
 Arcane Item: Channelling Staff: filler
 Arcane Item: Earthing Rod: filler
 Arcane Item: Forbidden Rod: filler
+Arcane Item: Fragment of Aqshy: unknown
 Arcane Item: Kairos Death: filler
 Arcane Item: Kairos Light: filler
 Arcane Item: Kairos Metal: filler
@@ -10,7 +11,9 @@ Arcane Item: Power Scroll: filler
 Arcane Item: Sceptre Of Stability: filler
 Arcane Item: Scroll Of Leeching: filler
 Arcane Item: Scroll Of Shielding: filler
+Arcane Item: Scrolls of Sorcery: filler
 Arcane Item: Staff Of Tomorrow: filler
+Arcane Item: Staff of Volans: filler
 Arcane Item: Tricksters Shard: filler
 Arcane Item: Wand Of Jet: filler
 Armour: Accursed Armour: filler
@@ -20,6 +23,8 @@ Armour: Armour Of Destiny: filler
 Armour: Armour Of Fortune: filler
 Armour: Armour Of The Ages: filler
 Armour: Armour Skull Cap Of The Moon: filler
+Armour: Armour of Gazrakh: filler
+Armour: Azhag's 'Ard Armour: unknown
 Armour: Boots Of Bracchus: filler
 Armour: Charmed Shield: filler
 Armour: Chromatic Armour: filler
@@ -38,44 +43,61 @@ Armour: Rocket Boots: filler
 Armour: Scintillating Shield: filler
 Armour: Skull Helmet: filler
 Armour: Spellshield: filler
+Armour: The Scarlet Armour: filler
+Armour: The other Cloak of Skulls: filler
 Armour: Thoreks Rune Armour: filler
 Armour: Tricksters Helm: filler
+Armour: Warp-Shard Armour: unknown
 Armour: Winged Boots: filler
 Banner: Banner Of Madness: filler
 Banner: Pierre Darden: filler
+Buff: Get-Rich-Quick Scroll: filler
+Buff: Get-Rich-Slow Scroll: filler
+Buff: Give me that: filler
+Buff: Handful of Order: filler
+Buff: Make Love, Not War: filler
+Buff: The GroBro 3000: filler
 Diplomatic Range: progression
 Enchanted Item: Acorns Of The Oak Of Ages: filler
 Enchanted Item: Aldreds Casket: filler
 Enchanted Item: Box Of Eerie Noises: filler
 Enchanted Item: Cauldron Of The Great Maw: filler
 Enchanted Item: Chest Of Sustenance: filler
+Enchanted Item: Cothiquan Astrolabe: filler
 Enchanted Item: Crown Of Command: filler
 Enchanted Item: Death Mask Of Kharnut: filler
 Enchanted Item: Featherfoe Torc: filler
+Enchanted Item: Ghorgon Fangs: unknown
+Enchanted Item: Gift of the Perfect Death: filler
 Enchanted Item: Golden Death Mask: filler
 Enchanted Item: Healing Potion: filler
 Enchanted Item: Ironcurse Icon: filler
 Enchanted Item: Lesser Relic Of Morgrim: filler
 Enchanted Item: Maads Map: filler
 Enchanted Item: Odd Powder Keg: filler
+Enchanted Item: Ominous Powder: unknown
 Enchanted Item: Ouroboros: filler
 Enchanted Item: Potion Of Farsight: filler
 Enchanted Item: Potion Of Strength: filler
 Enchanted Item: Potion Of Toughness: filler
+Enchanted Item: Preyton Horns: filler
 Enchanted Item: Rod Of Briars: filler
 Enchanted Item: Scrap: filler
 Enchanted Item: Skaven Map: filler
 Enchanted Item: Spotters Spyglass: filler
+Enchanted Item: Statue of Zharr: filler
 Enchanted Item: The Breath Of Life: filler
 Enchanted Item: The Other Tricksters Shard: filler
 Enchanted Item: The Terrifying Mask Of Eee: filler
 Enchanted Item: Totem Of Ursus: filler
+Enchanted Item: Whip of Domination: unknown
 Follower: Battle Scarred Ungor Raider: filler
 Follower: Fimir Banner: filler
 Follower: Infiltrator: filler
 Follower: Lzd Librarian: filler
 Follower: Skinwolf Banner: filler
 Follower: The Dark Princes Paramour: filler
+Follower: Warrant of Trade: unknown
 Get-Rich-Quick Scroll: filler
 Get-Rich-Slow Scroll: filler
 Give me that: filler
@@ -84,6 +106,28 @@ Handful of Unrest: trap
 Let's trade!: trap
 Look! What's that?: trap
 Make Love, Not War: filler
+Mousillon Tech: Baleful Rituals: progression
+Mousillon Tech: Dark Deeds: unknown
+Mousillon Tech: Disgraced and Damned: unknown
+Mousillon Tech: Hexensnacht Sacrifices: unknown
+Mousillon Tech: Horrors of the Bog: progression
+Mousillon Tech: Master Swordsmiths: progression
+Mousillon Tech: Nightmarish Reaping: unknown
+Mousillon Tech: Nobles of Mousillon: unknown
+Mousillon Tech: Puppet Master: unknown
+Mousillon Tech: Registered Draft: unknown
+Mousillon Tech: Regular Tournaments: progression
+Mousillon Tech: Serve in Life or in Death: progression
+Mousillon Tech: Swampaire Training: unknown
+Mousillon Tech: Turning Knights of the Realm: progression
+Mousillon Tech: Unearth Cursed Blades: progression
+Mousillon Unit: Black Grail Knights: progression
+Mousillon Unit: Bowmen (Balefire): unknown
+Mousillon Unit: Giant Snail: progression
+Mousillon Unit: Grave Guard (Great Weapons): unknown
+Mousillon Unit: Men at Arms (Sword): progression
+Mousillon Unit: Mortis Engine: progression
+Mousillon Unit: Mournguls: unknown
 Orb of Domination: progression
 Pirate Building: Admirals' Mausoleum: useful
 Pirate Building: Armoury of the Soulless: useful
@@ -174,44 +218,83 @@ Pirate Unit: The Bloody Reaver Deck Guard (Depth Guard): useful
 Pirate Unit: The Lamprey's Revenge (Rotting Promethean Gunnery Mob): useful
 Pirate Unit: Zombie Pirate Deckhand Mob (Polearms): useful
 Pirate Unit: Zombie Pirate Gunnery Mob (Bombers): useful
+Progressive Mousillon Building: Animals: progression
+Progressive Mousillon Building: Carpenter: progression
+Progressive Mousillon Building: Farms: progression
+Progressive Mousillon Building: Furs: unknown
+Progressive Mousillon Building: Gold: progression
+Progressive Mousillon Building: Ivory: progression
+Progressive Mousillon Building: Marble: progression
+Progressive Mousillon Building: Obsidian: progression
+Progressive Mousillon Building: Ossuary: unknown
+Progressive Mousillon Building: Port: unknown
+Progressive Mousillon Building: Protection: progression
+Progressive Mousillon Building: Salt: progression
+Progressive Mousillon Building: Walls: unknown
+Progressive Mousillon Building: Wraiths: unknown
 Schizophrenia!: trap
 Spoiler Alert!: trap
 Standard: Banner Of Swiftness: filler
+Standard: Banner of Madness: unknown
 Standard: Filth Banner: filler
 Standard: Lichbone Pennant: filler
 Standard: Rangers Standard: filler
 Standard: Razor Standard: filler
 Standard: Scarecrow Banner: filler
 Standard: Standard Of Discipline: filler
+Standard: Toadskin Essence: unknown
 Standard: Trickery Banner: filler
 Standard: Wailing Banner: filler
 Standard: War Banner: filler
+Talisman: Amulet of Sea Gold: filler
 Talisman: Berry Wine: filler
 Talisman: Brass Collar Of Bloody Vengeance: filler
+Talisman: Brass Collar of Khorne: filler
+Talisman: Charm of the Gods: unknown
 Talisman: Collar Of Shakkara: filler
+Talisman: Dragon Cloak of Fyrskar: filler
 Talisman: Dragonbane Gem: filler
+Talisman: Frozen Pendant: filler
+Talisman: Icon of the Dark Gods: filler
 Talisman: Monoliths Shard: filler
 Talisman: Obsidian Lodestone: filler
 Talisman: Obsidian Pendant: filler
 Talisman: Opal Amulet: filler
 Talisman: Overtyrants Crown: filler
+Talisman: Perfected Twilight Horn: filler
 Talisman: Pidgeon Plucker Pendant: filler
 Talisman: Sapphire Guardian Phoenix: filler
+Talisman: Sea Shanty Talisman: filler
 Talisman: Shardstone Amulet: filler
 Talisman: Stadsraad Key: filler
 Talisman: Sun Dragon Special: filler
 Talisman: Talisman Of Endurance: filler
 Talisman: Talisman Of Preservation: filler
+Talisman: The Ankor Chain: filler
 The GroBro 3000: filler
 Torches and Pitchforks!: trap
+Trap: En Garde!: trap
+Trap: Handful of Unrest: trap
+Trap: Let's trade: trap
+Trap: Personality Shuffle: trap
+Trap: Torches and Pitchforks: trap
+Trap: Unionize This: trap
+Trap: We're Going on a Trip: trap
+Trap: Where is our Map?: trap
+Trap: You too, Brutus?: trap
 Unionize This!: trap
 Weapon: Axe Of Grom: filler
 Weapon: Berserker Sword: filler
 Weapon: Biting Blade: filler
 Weapon: Blade Of Sea Gold: filler
 Weapon: Blade Of Shadow: filler
+Weapon: Blade of the Ancient Skies: filler
 Weapon: Bloodstorm Blades: filler
+Weapon: Ceremonial Mace of Malachite: filler
 Weapon: Chainsword: filler
+Weapon: Crook & Flail of Radiance: filler
+Weapon: Cynatcian: filler
+Weapon: Daemonblade: filler
 Weapon: Executioners Axe: filler
 Weapon: Felix Sword: filler
 Weapon: Fell Axe Of The Drakwald: filler
@@ -220,10 +303,15 @@ Weapon: Gilellions Soulnetter: filler
 Weapon: Gold Sigil Sword: filler
 Weapon: Inscribed Khopesh: filler
 Weapon: Klad Brakak: filler
+Weapon: Mace of Ulumak: filler
 Weapon: Moon Dragon Special: filler
 Weapon: Ogre Blade: filler
+Weapon: Perfected Dragon Spear: unknown
+Weapon: Purveyor of Mortality: filler
 Weapon: Reaver Bow: filler
 Weapon: Scar: filler
+Weapon: Scourge: filler
+Weapon: Sliverslash: filler
 Weapon: Spear Of Pakth: filler
 Weapon: Storm Daemon: filler
 Weapon: Sword Of Battle: filler
@@ -233,8 +321,11 @@ Weapon: Sword Of Strife: filler
 Weapon: Sword Of Striking: filler
 Weapon: Sword Of Swift Slaying: filler
 Weapon: The Bane Spear: filler
+Weapon: The Baron's Blade: filler
+Weapon: The Black Cleaver: filler
 Weapon: The Brass Cleaver: filler
 Weapon: The Golden Blowpipe Of Ptoohee: filler
+Weapon: The Venom Staff: unknown
 Weapon: Tormentor Sword: filler
 Weapon: Ursuns Claw: filler
 Weapon: Warrior Bane: filler

@@ -17,6 +17,7 @@ Common Shotgun: progression
 Common SniperRifle: progression
 Crouch: progression
 E-Tech AssaultRifle: progression
+E-Tech Pistol: filler
 E-Tech Relic: progression
 E-Tech RocketLauncher: progression
 E-Tech SMG: progression
@@ -59,6 +60,16 @@ Filler Gear: Chain Lightning: filler
 Filler Gear: Chulainn: filler
 Filler Gear: Chère-amie: filler
 Filler Gear: Commerce: filler
+Filler Gear: Common AssaultRifle: filler
+Filler Gear: Common ClassMod: filler
+Filler Gear: Common GrenadeMod: filler
+Filler Gear: Common Pistol: filler
+Filler Gear: Common Relic: filler
+Filler Gear: Common RocketLauncher: filler
+Filler Gear: Common SMG: filler
+Filler Gear: Common Shield: filler
+Filler Gear: Common Shotgun: filler
+Filler Gear: Common SniperRifle: filler
 Filler Gear: Conference Call: filler
 Filler Gear: Contraband Sky Rocket: filler
 Filler Gear: Cracked Sash: filler
@@ -217,6 +228,16 @@ Filler Gear: Trespasser: filler
 Filler Gear: Triquetra: filler
 Filler Gear: Tunguska: filler
 Filler Gear: Twister: filler
+Filler Gear: Uncommon AssaultRifle: filler
+Filler Gear: Uncommon ClassMod: filler
+Filler Gear: Uncommon GrenadeMod: filler
+Filler Gear: Uncommon Pistol: filler
+Filler Gear: Uncommon Relic: filler
+Filler Gear: Uncommon RocketLauncher: filler
+Filler Gear: Uncommon SMG: filler
+Filler Gear: Uncommon Shield: filler
+Filler Gear: Uncommon Shotgun: filler
+Filler Gear: Uncommon SniperRifle: filler
 Filler Gear: Unforgiven: filler
 Filler Gear: Unicornsplosion: filler
 Filler Gear: Unkempt Harold: filler
@@ -230,11 +251,13 @@ Filler Gear: Whisky Tango Foxtrot: filler
 Filler Gear: Winter is Over: filler
 Filler Gear: World Burn: filler
 Filler Gear: Yellow Jacket: filler
+Gear Leveler: useful
 GreenCandy: filler
 Legendary AssaultRifle: progression
 Legendary ClassMod: progression
 Legendary GrenadeMod: progression
 Legendary Pistol: progression
+Legendary RocketLauncher: filler
 Legendary SMG: progression
 Legendary Shield: progression
 Legendary Shotgun: progression
@@ -273,7 +296,294 @@ Rare RocketLauncher: progression
 Rare SMG: progression
 Rare Shield: progression
 Rare Shotgun: progression
+Rare SniperRifle: filler
 RedCandy: filler
+Reward Agony: The Amulet: progression
+Reward ArdortonStation: Follow The Glow: filler
+Reward ArdortonStation: The Rakk Dahlia Murder: filler
+Reward Backburner: The Dawn of New Pandora: filler
+Reward BadassBar: A Montage: filler
+Reward BadassBar: Walking the Dog: filler
+Reward BadassCrater: Battle: The Death Race: filler
+Reward BadassCrater: Highway To Hell: filler
+Reward BadassCrater: Tier 2 Battle: The Death Race: filler
+Reward BadassCrater: Tier 3 Battle: The Death Race: filler
+Reward BadassCrater: Tier 3 Rematch: The Death Race: filler
+Reward Badlands: Data Mining: filler
+Reward Badlands: Get to Know Jack: filler
+Reward Badlands: Uncle Teddy: filler
+Reward Beatdown: Mother-Lover: filler
+Reward Beatdown: Number One Fan: filler
+Reward Beatdown: Totally Recall: filler
+Reward BloodshotStronghold: Splinter Group: filler
+Reward Boneyard: Monster Mash (Part 3): filler
+Reward Boneyard: This Just In: filler
+Reward CandlerakksCrag: Big Feet: filler
+Reward CandlerakksCrag: Now You See It: filler
+Reward CandlerakksCrag: Voracidous the Invincible: filler
+Reward CausticCaverns: Minecart Mischief: filler
+Reward CausticCaverns: Perfectly Peaceful: filler
+Reward CausticCaverns: Safe and Sound: filler
+Reward Control Core Angel: Where Angels Fear to Tread (Part 2): filler
+Reward Control Core Angel: Where Angels Fear to Tread: filler
+Reward CreatureSlaughter: Creature Slaughter: Round 1: filler
+Reward CreatureSlaughter: Creature Slaughter: Round 2: filler
+Reward CreatureSlaughter: Creature Slaughter: Round 3: filler
+Reward CreatureSlaughter: Creature Slaughter: Round 4: filler
+Reward CreatureSlaughter: Creature Slaughter: Round 5: filler
+Reward DahlAbandon: Hypocritical Oath: filler
+Reward DahlAbandon: Space Cowboy: filler
+Reward DahlAbandon: Spore Chores: filler
+Reward DahlAbandon: The Oddest Couple: filler
+Reward DahlAbandon: The Vaughnguard: filler
+Reward DahlAbandon: Winging It: filler
+Reward DigiPeak: Dr. T and the Vault Hunters: filler
+Reward DigiPeakInner: More History of Simulated Violence: filler
+Reward DigistructInner: A History of Simulated Violence: filler
+Reward Dust: Clan War: First Place: filler
+Reward Dust: Clan War: Trailer Trashing: filler
+Reward Dust: Clan War: Zafords vs. Hodunks: filler
+Reward Dust: Positive Self Image: filler
+Reward Dust: Rakkaholics Anonymous: filler
+Reward Dust: The Good, the Bad, and the Mordecai: filler
+Reward Dust: Too Close For Missiles: filler
+Reward EndOfTheLine: A Train to Catch: filler
+Reward EndOfTheLine: The Ice Man Cometh: filler
+Reward Eridium Blight: A Real Boy: Clothes Make the Man: filler
+Reward Eridium Blight: A Real Boy: Face Time: filler
+Reward Eridium Blight: A Real Boy: Human: filler
+Reward Eridium Blight: Customer Service: filler
+Reward Eridium Blight: Kill Yourself: filler
+Reward Eridium Blight: To Grandmother's House We Go: filler
+Reward FFSBossFight: Chief Executive Overlord: filler
+Reward FFSBossFight: My Brittle Pony: filler
+Reward FFSBossFight: Paradise Found: filler
+Reward Fink's Slaughterhouse: Bandit Slaughter: Round 1: filler
+Reward Fink's Slaughterhouse: Bandit Slaughter: Round 2: filler
+Reward Fink's Slaughterhouse: Bandit Slaughter: Round 3: filler
+Reward Fink's Slaughterhouse: Bandit Slaughter: Round 4: filler
+Reward Fink's Slaughterhouse: Bandit Slaughter: Round 5: filler
+Reward FlamerockRefuge: A Role-Playing Game: filler
+Reward FlamerockRefuge: Fake Geek Guy: filler
+Reward FlamerockRefuge: Feed Butt Stallion: filler
+Reward FlamerockRefuge: Pet Butt Stallion: filler
+Reward FlamerockRefuge: Roll Insight: filler
+Reward Forest: Ell in Shining Armor: filler
+Reward Forest: Tree Hugger: filler
+Reward Forge: Battle: Twelve O' Clock High: filler
+Reward Forge: Breaking and Entering: filler
+Reward Forge: Commercial Appeal: filler
+Reward Forge: Kickstart My Heart: filler
+Reward Forge: Knockin' on Heaven's Door: filler
+Reward Forge: My Husband the Skag: filler
+Reward Forge: Say That To My Face: filler
+Reward Forge: Tier 2 Battle: Twelve O' Clock High: filler
+Reward Forge: Tier 3 Battle: Twelve O' Clock High: filler
+Reward Forge: Tier 3 Rematch: Twelve O' Clock High: filler
+Reward Fridge: Rising Action: filler
+Reward Fridge: Swallowed Whole: filler
+Reward Fridge: The Cold Shoulder: filler
+Reward Frostburn Canyon: Cult Following: Eternal Flame: filler
+Reward Frostburn Canyon: Cult Following: False Idols: filler
+Reward Frostburn Canyon: Cult Following: Lighting the Match: filler
+Reward Frostburn Canyon: Cult Following: The Enkindling: filler
+Reward Frostburn: Hunting the Firehawk: filler
+Reward GlutGulch: Grandma Flexington's Story: Raid Difficulty: filler
+Reward GlutGulch: Grandma Flexington's Story: filler
+Reward GlutGulch: The Hunger Pangs: filler
+Reward Hallowed Hollow: The Bloody Harvest: filler
+Reward Hallowed Hollow: Trick or Treat: filler
+Reward HatredsShadow: A Game of Games: filler
+Reward HatredsShadow: Loot Ninja: filler
+Reward HatredsShadow: Winter is a Bloody Business: filler
+Reward Hayters: Grendel: filler
+Reward Hayters: Master Gee the Invincible: filler
+Reward Hayters: Two Easy Pieces: filler
+Reward HaytersFolly: Message in a Bottle 3: filler
+Reward HeliosFallen: BFFFs: filler
+Reward HeliosFallen: Cadeuceus: filler
+Reward HeliosFallen: Shooting The Moon: filler
+Reward HeliosFallen: Sirentology: filler
+Reward HeliosFallen: The Hunt is Vaughn: filler
+Reward Highlands: Arms Dealing: filler
+Reward Highlands: Best Mother's Day Ever: filler
+Reward Highlands: Bright Lights, Flying City: filler
+Reward Highlands: Clan War: Starting the War: filler
+Reward Highlands: Hidden Journals: filler
+Reward Highlands: Hyperion Contract #873: filler
+Reward Highlands: Slap-Happy: filler
+Reward Highlands: Stalker of Stalkers: filler
+Reward Highlands: The Overlooked: Medicine Man: filler
+Reward Highlands: The Overlooked: Shields Up: filler
+Reward Highlands: The Overlooked: This Is Only a Test: filler
+Reward Highlands: Torture Chairs: filler
+Reward HolySpirits: Clan War: End of the Rainbow: filler
+Reward HolySpirits: Clan War: Reach the Dead Drop: filler
+Reward HolySpirits: Clan War: Wakey Wakey: filler
+Reward HuntersGrotto: A-Hunting We Will Go: filler
+Reward HuntersGrotto: An Acquired Taste: filler
+Reward HuntersGrotto: Egg on Your Face: filler
+Reward HuntersGrotto: I Like My Monsters Rare: filler
+Reward HuntersGrotto: Palling Around: filler
+Reward HuntersGrotto: Professor Nakayama, I Presume?: filler
+Reward HuntersGrotto: Savage Lands: filler
+Reward HuntersGrotto: Still Just a Borok in a Cage: filler
+Reward Immortal Woods: Critical Fail: filler
+Reward Immortal Woods: Denial, Anger, Initiative: filler
+Reward Immortal Woods: Lost Souls: filler
+Reward Immortal Woods: MMORPGFPS: filler
+Reward Lair of Infinite Agony: My Dead Brother: filler
+Reward Lair of Infinite Agony: Post-Crumpocalyptic: filler
+Reward LeviathansLair: Treasure of the Sands: filler
+Reward LeviathansLair: X Marks The Spot: filler
+Reward Lynchwood: 3:10 to Kaboom: filler
+Reward Lynchwood: Animal Rescue: Food: filler
+Reward Lynchwood: Animal Rescue: Medicine: filler
+Reward Lynchwood: Animal Rescue: Shelter: filler
+Reward Lynchwood: Breaking the Bank: filler
+Reward Lynchwood: Demon Hunter: filler
+Reward Lynchwood: Hungry Like the Skag: filler
+Reward Lynchwood: Showdown: filler
+Reward Magnys Lighthouse: Let There Be Light: filler
+Reward MagnysLighthouse: Message In A Bottle 5: filler
+Reward MercenaryDay: Get Frosty: filler
+Reward MercenaryDay: Special Delivery: filler
+Reward MinesOfAvarice: Dwarven Allies: filler
+Reward MinesOfAvarice: My Kingdom for a Wand: filler
+Reward MinesOfAvarice: The Beard Makes The Man: filler
+Reward MinesOfAvarice: The Claptrap's Apprentice: filler
+Reward Mt.Scarab: Claptocurrency: filler
+Reward Mt.Scarab: Echoes of the Past: filler
+Reward Mt.Scarab: The Cost of Progress: filler
+Reward Murderlin's Temple: Find Murderlin's Temple: filler
+Reward Murderlin's Temple: Magic Slaughter: Badass Round: filler
+Reward Murderlin's Temple: Magic Slaughter: Round 1: filler
+Reward Murderlin's Temple: Magic Slaughter: Round 2: filler
+Reward Murderlin's Temple: Magic Slaughter: Round 3: filler
+Reward Murderlin's Temple: Magic Slaughter: Round 4: filler
+Reward Murderlin's Temple: Magic Slaughter: Round 5: filler
+Reward Murderlin's Temple: The Magic of Childhood: filler
+Reward Oasis: A Warm Welcome: filler
+Reward Oasis: Burying the Past: filler
+Reward Oasis: Fire Water: filler
+Reward Oasis: Giving Jocko A Leg Up: filler
+Reward Oasis: Man's Best Friend: filler
+Reward Oasis: Message in a Bottle 1: filler
+Reward Oasis: My Life For A Sandskiff: filler
+Reward Oasis: Wingman: filler
+Reward Opportunity: Hell Hath No Fury: filler
+Reward Opportunity: Home Movies: filler
+Reward Opportunity: Statuesque: filler
+Reward Opportunity: The Bane: filler
+Reward Opportunity: The Man Who Would Be Jack: filler
+Reward Opportunity: Written by the Victor: filler
+Reward OreChasm: Hyperion Slaughter: Round 1: filler
+Reward OreChasm: Hyperion Slaughter: Round 2: filler
+Reward OreChasm: Hyperion Slaughter: Round 3: filler
+Reward OreChasm: Hyperion Slaughter: Round 4: filler
+Reward OreChasm: Hyperion Slaughter: Round 5: filler
+Reward Pyro Pete's Bar: Battle: Bar Room Blitz: filler
+Reward Pyro Pete's Bar: Burn, Baby, Burn: filler
+Reward Pyro Pete's Bar: Chop Suey: filler
+Reward Pyro Pete's Bar: Pete the Invincible: filler
+Reward Pyro Pete's Bar: Tier 2 Battle: Bar Room Blitz: filler
+Reward Pyro Pete's Bar: Tier 3 Battle: Bar Room Blitz: filler
+Reward Pyro Pete's Bar: Tier 3 Rematch: Bar Room Blitz: filler
+Reward Ramparts: A Dam Fine Rescue: filler
+Reward Ramparts: Out of Body Experience: filler
+Reward RotgutDistillery: A Match Made on Pandora: filler
+Reward RotgutDistillery: Learning to Love: filler
+Reward Rustyards: Catch-A-Ride, and Also Tetanus: filler
+Reward Rustyards: Crazy About You: filler
+Reward Rustyards: Just Desserts for Desert Deserters: filler
+Reward Rustyards: Message in a Bottle 4: filler
+Reward Rustyards: The Hermit: filler
+Reward Sanctuary: BFFs: filler
+Reward Sanctuary: Bearer of Bad News: filler
+Reward Sanctuary: Claptrap's Birthday Bash!: filler
+Reward Sanctuary: Claptrap's Secret Stash: filler
+Reward Sanctuary: Do No Harm: filler
+Reward Sanctuary: Plan B: filler
+Reward Sanctuary: Rock, Paper, Genocide: Corrosive Weapons!: filler
+Reward Sanctuary: Rock, Paper, Genocide: Fire Weapons!: filler
+Reward Sanctuary: Rock, Paper, Genocide: Shock Weapons!: filler
+Reward Sanctuary: Rock, Paper, Genocide: Slag Weapons!: filler
+Reward Sanctuary: The Name Game: filler
+Reward Sanctuary: The Road to Sanctuary: filler
+Reward Sanctuary: Won't Get Fooled Again: filler
+Reward Sawtooth Cauldron: Capture the Flags: filler
+Reward Sawtooth Cauldron: Monster Mash (Part 1): filler
+Reward Sawtooth Cauldron: Monster Mash (Part 2): filler
+Reward Sawtooth Cauldron: The Chosen One: filler
+Reward Sawtooth Cauldron: The Great Escape: filler
+Reward Sawtooth Cauldron: The Lost Treasure: filler
+Reward Sawtooth Cauldron: Toil and Trouble: filler
+Reward ScyllasGrove: Nakayama-rama: filler
+Reward ScyllasGrove: Ol' Pukey: filler
+Reward ScyllasGrove: Urine, You're Out: filler
+Reward SouthernRaceway: Everybody Wants to be Wanted: filler
+Reward SouthernRaceway: Gas Guzzlers: filler
+Reward SouthernRaceway: Get Your Motor Running: filler
+Reward SouthernRaceway: Interview with a Vault Hunter: filler
+Reward SouthernRaceway: Matter Of Taste: filler
+Reward SouthernRaceway: Monster Hunter: filler
+Reward SouthernShelf: Bad Hair Day: filler
+Reward SouthernShelf: Best Minion Ever: filler
+Reward SouthernShelf: Blindsided: filler
+Reward SouthernShelf: Cleaning up the Berg: filler
+Reward SouthernShelf: Handsome Jack Here!: filler
+Reward SouthernShelf: Shielded Favors: filler
+Reward SouthernShelf: This Town Ain't Big Enough: filler
+Reward SouthernShelfBay: Symbiosis: filler
+Reward Southpaw: Assassinate the Assassins: filler
+Reward Terminus: The Fall of Nakayama: filler
+Reward Terramorphous Peak: You. Will. Die. (Seriously.): filler
+Reward TheBurrows: A Hard Place: filler
+Reward Thousand Cuts: Defend Slab Tower: filler
+Reward Thousand Cuts: Poetic License: filler
+Reward Thousand Cuts: Rocko's Modern Strife: filler
+Reward Thousand Cuts: Shoot This Guy in the Face: filler
+Reward Thousand Cuts: The Once and Future Slab: filler
+Reward ThreeHornsDivide: In Memoriam: filler
+Reward ThreeHornsValley: Medical Mystery: X-Com-municate: filler
+Reward ThreeHornsValley: Medical Mystery: filler
+Reward ThreeHornsValley: Neither Rain nor Sleet nor Skags: filler
+Reward ThreeHornsValley: No Vacancy: filler
+Reward TorgueArena: Battle: Appetite for Destruction: filler
+Reward TorgueArena: Long Way To The Top: filler
+Reward TorgueArena: Tier 2 Battle: Appetite for Destruction: filler
+Reward TorgueArena: Tier 3 Battle: Appetite for Destruction: filler
+Reward TorgueArena: Tier 3 Rematch: Appetite for Destruction: filler
+Reward TorgueArena: Welcome To The Jungle: filler
+Reward TorgueArenaRing: Eat Cookies and Crap Thunder: filler
+Reward Tundra Express: Mighty Morphin': filler
+Reward Tundra Express: Mine, All Mine: filler
+Reward Tundra Express: No Hard Feelings: filler
+Reward Tundra Express: The Pretty Good Train Robbery: filler
+Reward Tundra Express: You Are Cordially Invited: Party Prep: filler
+Reward Tundra Express: You Are Cordially Invited: RSVP: filler
+Reward Tundra Express: You Are Cordially Invited: Tea Party: filler
+Reward UnassumingDocks: The Sword in The Stoner: filler
+Reward WamBamIsland: Fun, Sun, and Guns: filler
+Reward WamBamIsland: Victims of Vault Hunters: filler
+Reward WarriorVault: The Talon of God: filler
+Reward Washburne: Don't Copy That Floppy: filler
+Reward Washburne: Faster Than the Speed of Love: filler
+Reward Washburne: Freedom of Speech: filler
+Reward Washburne: Hyperius the Invincible: filler
+Reward Washburne: I Know It When I See It: filler
+Reward Washburne: Whoops: filler
+Reward WildlifePreserve: Animal Rights: filler
+Reward WildlifePreserve: Doctor's Orders: filler
+Reward WildlifePreserve: Wildlife Preservation: filler
+Reward WindshearWaste: My First Gun: filler
+Reward WingedStorm: Raiders of the Last Boss: filler
+Reward WrithingDeep: A Most Cacophonous Lure: filler
+Reward Wurmwater: A Study in Scarlett: filler
+Reward Wurmwater: Declaration Against Independents: filler
+Reward Wurmwater: Message in a Bottle 2: filler
+Reward Wurmwater: Smells Like Victory: filler
+Reward Wurmwater: Ye Scurvy Dogs: filler
 Reward: 3:10 to Kaboom: filler
 Reward: A Dam Fine Rescue: filler
 Reward: A Game of Games: filler
@@ -547,6 +857,7 @@ Seraph Shotgun: progression
 Seraph SniperRifle: progression
 Trap Spawn: Assassins: trap
 Trap Spawn: Black Queen: trap
+Trap Spawn: Creeper: trap
 Trap Spawn: Creepers: trap
 Trap Spawn: Doc Mercy: trap
 Trap Spawn: Dukino's Mom: trap
@@ -561,9 +872,12 @@ Travel: Bloodshot Stronghold: progression
 Travel: Candlerakk's Cragg: progression
 Travel: Caustic Caverns: progression
 Travel: Control Core Angel: progression
+Travel: Dahl Abandon: progression
+Travel: Digistruct Peak: progression
 Travel: Dragon Keep: progression
 Travel: End of the Line: progression
 Travel: Eridium Blight: progression
+Travel: FFS Boss Fight: progression
 Travel: FFS Intro Sanctuary: progression
 Travel: Fink's Slaughterhouse: progression
 Travel: Flamerock Refuge: progression
@@ -573,6 +887,7 @@ Travel: Gluttony Gulch: progression
 Travel: Hallowed Hollow: progression
 Travel: Hatred's Shadow: progression
 Travel: Hayter's Folly: progression
+Travel: Helios Fallen: progression
 Travel: Hero's Pass: progression
 Travel: Highlands Outwash: progression
 Travel: Highlands: progression
@@ -583,6 +898,7 @@ Travel: Lynchwood: progression
 Travel: Magnys Lighthouse: progression
 Travel: Marcus's Mercenary Shop: progression
 Travel: Mines of Avarice: progression
+Travel: Mt. Scarab Research Center: progression
 Travel: Murderlin's Temple: progression
 Travel: Natural Selection Annex: progression
 Travel: Oasis: progression
@@ -603,8 +919,10 @@ Travel: Terramorphous Peak: progression
 Travel: The Backburner: progression
 Travel: The Beatdown: progression
 Travel: The Bunker: progression
+Travel: The Burrows: progression
 Travel: The Dust: progression
 Travel: The Forest: progression
+Travel: The Forge: progression
 Travel: The Fridge: progression
 Travel: The Holy Spirits: progression
 Travel: The Leviathan's Lair: progression
@@ -613,6 +931,8 @@ Travel: The Winged Storm: progression
 Travel: Thousand Cuts: progression
 Travel: Three Horns Divide: progression
 Travel: Three Horns Valley: progression
+Travel: Torgue Arena Ring: progression
+Travel: Torgue Arena: progression
 Travel: Tundra Express: progression
 Travel: Unassuming Docks: progression
 Travel: Vault of the Warrior: progression
@@ -633,6 +953,7 @@ Uncommon Shotgun: progression
 Uncommon SniperRifle: progression
 Unique AssaultRifle: progression
 Unique GrenadeMod: progression
+Unique Pistol: filler
 Unique Relic: progression
 Unique RocketLauncher: progression
 Unique SMG: progression
@@ -650,4 +971,5 @@ VeryRare SMG: progression
 VeryRare Shield: progression
 VeryRare Shotgun: progression
 VeryRare SniperRifle: progression
+Weapon Slot: filler
 YellowCandy: filler

@@ -1,3 +1,10 @@
+68 trap: trap
+Merge 16s: progression
 Merge 256s: progression
+Merge 32s: progression
+Merge 420s: filler
+Merge 421s: filler
 Merge 4s: progression
+Merge 512s: progression
+Merge 8s: progression
 Progressive Luck: filler

@@ -963,17 +963,59 @@ The Queen of Sauce: progression
 The Slammer: unknown
 Thermal Boots: unknown
 Thorns Ring: useful
+Tilesanity: Backwoods (1-2): unknown
+Tilesanity: Backwoods (1-3): unknown
+Tilesanity: Backwoods (1-4): unknown
+Tilesanity: Backwoods (2-1): unknown
+Tilesanity: Backwoods (2-2): unknown
+Tilesanity: Backwoods (2-3): unknown
+Tilesanity: Backwoods (2-4): unknown
+Tilesanity: Backwoods (3-1): unknown
+Tilesanity: Backwoods (3-3): unknown
+Tilesanity: Backwoods (3-4): unknown
 Tilesanity: Backwoods (3-7): unknown
+Tilesanity: Backwoods (4-1): unknown
 Tilesanity: Backwoods (4-3): unknown
 Tilesanity: Backwoods (4-4): unknown
+Tilesanity: Backwoods (5-1): unknown
+Tilesanity: Backwoods (5-3): unknown
+Tilesanity: Backwoods (5-4): unknown
 Tilesanity: Backwoods (6-2): unknown
+Tilesanity: Backwoods (6-3): unknown
+Tilesanity: Backwoods (6-4): unknown
 Tilesanity: Backwoods (7-2): unknown
 Tilesanity: Backwoods (8-3): unknown
 Tilesanity: Backwoods (9-3): unknown
+Tilesanity: Bathhouse Entrance (0-1): unknown
+Tilesanity: Bathhouse Entrance (1-0): unknown
+Tilesanity: Bathhouse Entrance (1-1): unknown
+Tilesanity: Blacksmith (0-0): unknown
+Tilesanity: Blacksmith (0-1): unknown
+Tilesanity: Blacksmith (1-0): unknown
+Tilesanity: Blacksmith (1-1): unknown
+Tilesanity: Blacksmith (1-2): unknown
+Tilesanity: BugLand (3-4): unknown
+Tilesanity: BugLand (4-6): unknown
+Tilesanity: Bus Stop (1-0): unknown
+Tilesanity: Bus Stop (1-1): unknown
+Tilesanity: Bus Stop (1-2): unknown
+Tilesanity: Bus Stop (1-3): unknown
+Tilesanity: Bus Stop (2-0): unknown
+Tilesanity: Bus Stop (2-1): unknown
 Tilesanity: Bus Stop (2-2): unknown
+Tilesanity: Bus Stop (2-3): unknown
+Tilesanity: Bus Stop (3-0): unknown
+Tilesanity: Bus Stop (3-1): unknown
 Tilesanity: Bus Stop (3-2): unknown
+Tilesanity: Bus Stop (3-3): unknown
+Tilesanity: Bus Stop (4-1): unknown
 Tilesanity: Bus Stop (4-2): unknown
+Tilesanity: Bus Stop (4-3): unknown
 Tilesanity: Bus Stop (4-5): progression
+Tilesanity: Bus Stop (5-0): unknown
+Tilesanity: Bus Stop (5-1): unknown
+Tilesanity: Bus Stop (5-2): unknown
+Tilesanity: Bus Stop (5-3): unknown
 Tilesanity: Bus Stop (7-1): unknown
 Tilesanity: Bus Stop (7-2): unknown
 Tilesanity: Calico Desert (0-1): unknown
@@ -986,17 +1028,33 @@ Tilesanity: Calico Desert (0-9): unknown
 Tilesanity: Calico Desert (1-10): unknown
 Tilesanity: Calico Desert (1-2): unknown
 Tilesanity: Calico Desert (1-3): unknown
+Tilesanity: Calico Desert (1-4): unknown
+Tilesanity: Calico Desert (1-5): unknown
+Tilesanity: Calico Desert (1-6): unknown
 Tilesanity: Calico Desert (1-7): unknown
 Tilesanity: Calico Desert (1-8): unknown
+Tilesanity: Calico Desert (2-0): unknown
+Tilesanity: Calico Desert (2-1): unknown
 Tilesanity: Calico Desert (2-11): unknown
 Tilesanity: Calico Desert (2-2): unknown
 Tilesanity: Calico Desert (2-3): unknown
+Tilesanity: Calico Desert (2-5): unknown
+Tilesanity: Calico Desert (2-6): unknown
+Tilesanity: Calico Desert (3-0): unknown
+Tilesanity: Calico Desert (3-1): unknown
+Tilesanity: Calico Desert (3-2): unknown
+Tilesanity: Calico Desert (3-5): unknown
 Tilesanity: Calico Desert (4-10): unknown
 Tilesanity: Calico Desert (4-2): unknown
+Tilesanity: Calico Desert (4-3): unknown
 Tilesanity: Calico Desert (4-5): unknown
 Tilesanity: Calico Desert (4-6): progression
 Tilesanity: Calico Desert (4-9): unknown
 Tilesanity: Calico Desert (5-10): unknown
+Tilesanity: Calico Desert (5-2): unknown
+Tilesanity: Calico Desert (5-3): unknown
+Tilesanity: Calico Desert (5-4): unknown
+Tilesanity: Calico Desert (6-3): unknown
 Tilesanity: Calico Desert (7-1): unknown
 Tilesanity: Calico Desert (7-3): unknown
 Tilesanity: Calico Desert (7-5): unknown
@@ -1013,12 +1071,23 @@ Tilesanity: Calico Desert (9-2): unknown
 Tilesanity: Calico Desert (9-3): unknown
 Tilesanity: Calico Desert (9-7): unknown
 Tilesanity: Calico Desert (9-9): unknown
+Tilesanity: Carpenter's Shop (0-1): unknown
+Tilesanity: Carpenter's Shop (0-3): unknown
+Tilesanity: Carpenter's Shop (1-1): unknown
+Tilesanity: Carpenter's Shop (1-2): unknown
+Tilesanity: Carpenter's Shop (2-0): unknown
+Tilesanity: Carpenter's Shop (2-2): unknown
+Tilesanity: Carpenter's Shop (3-1): unknown
+Tilesanity: Casino (3-1): unknown
 Tilesanity: Cindersap Forest (0-0): unknown
 Tilesanity: Cindersap Forest (0-1): unknown
 Tilesanity: Cindersap Forest (0-2): unknown
+Tilesanity: Cindersap Forest (0-4): unknown
 Tilesanity: Cindersap Forest (0-6): unknown
 Tilesanity: Cindersap Forest (0-7): unknown
 Tilesanity: Cindersap Forest (0-8): unknown
+Tilesanity: Cindersap Forest (0-9): unknown
+Tilesanity: Cindersap Forest (1-0): unknown
 Tilesanity: Cindersap Forest (1-1): unknown
 Tilesanity: Cindersap Forest (1-12): unknown
 Tilesanity: Cindersap Forest (1-13): unknown
@@ -1041,9 +1110,13 @@ Tilesanity: Cindersap Forest (10-15): unknown
 Tilesanity: Cindersap Forest (10-16): unknown
 Tilesanity: Cindersap Forest (10-18): unknown
 Tilesanity: Cindersap Forest (10-19): unknown
+Tilesanity: Cindersap Forest (10-2): unknown
+Tilesanity: Cindersap Forest (10-3): unknown
 Tilesanity: Cindersap Forest (10-4): unknown
+Tilesanity: Cindersap Forest (10-5): unknown
 Tilesanity: Cindersap Forest (10-6): unknown
 Tilesanity: Cindersap Forest (10-7): unknown
+Tilesanity: Cindersap Forest (10-8): unknown
 Tilesanity: Cindersap Forest (10-9): unknown
 Tilesanity: Cindersap Forest (11-10): unknown
 Tilesanity: Cindersap Forest (11-13): unknown
@@ -1062,7 +1135,9 @@ Tilesanity: Cindersap Forest (12-14): unknown
 Tilesanity: Cindersap Forest (12-15): unknown
 Tilesanity: Cindersap Forest (12-16): unknown
 Tilesanity: Cindersap Forest (12-19): unknown
+Tilesanity: Cindersap Forest (12-2): unknown
 Tilesanity: Cindersap Forest (12-3): unknown
+Tilesanity: Cindersap Forest (12-4): unknown
 Tilesanity: Cindersap Forest (12-5): unknown
 Tilesanity: Cindersap Forest (12-6): unknown
 Tilesanity: Cindersap Forest (12-8): unknown
@@ -1074,10 +1149,14 @@ Tilesanity: Cindersap Forest (13-16): unknown
 Tilesanity: Cindersap Forest (13-17): unknown
 Tilesanity: Cindersap Forest (13-18): unknown
 Tilesanity: Cindersap Forest (13-19): unknown
+Tilesanity: Cindersap Forest (13-2): unknown
+Tilesanity: Cindersap Forest (13-3): unknown
+Tilesanity: Cindersap Forest (13-4): unknown
 Tilesanity: Cindersap Forest (13-7): unknown
 Tilesanity: Cindersap Forest (13-8): unknown
 Tilesanity: Cindersap Forest (13-9): unknown
 Tilesanity: Cindersap Forest (14-0): unknown
+Tilesanity: Cindersap Forest (14-10): unknown
 Tilesanity: Cindersap Forest (14-12): unknown
 Tilesanity: Cindersap Forest (14-13): unknown
 Tilesanity: Cindersap Forest (14-14): unknown
@@ -1086,6 +1165,8 @@ Tilesanity: Cindersap Forest (14-16): unknown
 Tilesanity: Cindersap Forest (14-17): unknown
 Tilesanity: Cindersap Forest (14-18): unknown
 Tilesanity: Cindersap Forest (14-19): unknown
+Tilesanity: Cindersap Forest (14-2): unknown
+Tilesanity: Cindersap Forest (14-3): unknown
 Tilesanity: Cindersap Forest (14-5): unknown
 Tilesanity: Cindersap Forest (15-10): unknown
 Tilesanity: Cindersap Forest (15-12): unknown
@@ -1172,6 +1253,7 @@ Tilesanity: Cindersap Forest (2-2): unknown
 Tilesanity: Cindersap Forest (2-3): unknown
 Tilesanity: Cindersap Forest (2-4): unknown
 Tilesanity: Cindersap Forest (2-5): unknown
+Tilesanity: Cindersap Forest (2-6): unknown
 Tilesanity: Cindersap Forest (2-7): unknown
 Tilesanity: Cindersap Forest (2-8): unknown
 Tilesanity: Cindersap Forest (2-9): unknown
@@ -1205,6 +1287,7 @@ Tilesanity: Cindersap Forest (23-18): unknown
 Tilesanity: Cindersap Forest (23-4): unknown
 Tilesanity: Cindersap Forest (23-5): unknown
 Tilesanity: Cindersap Forest (23-6): unknown
+Tilesanity: Cindersap Forest (3-1): unknown
 Tilesanity: Cindersap Forest (3-10): unknown
 Tilesanity: Cindersap Forest (3-11): unknown
 Tilesanity: Cindersap Forest (3-12): unknown
@@ -1215,11 +1298,16 @@ Tilesanity: Cindersap Forest (3-16): unknown
 Tilesanity: Cindersap Forest (3-17): unknown
 Tilesanity: Cindersap Forest (3-18): unknown
 Tilesanity: Cindersap Forest (3-19): unknown
+Tilesanity: Cindersap Forest (3-2): unknown
 Tilesanity: Cindersap Forest (3-3): unknown
+Tilesanity: Cindersap Forest (3-4): unknown
 Tilesanity: Cindersap Forest (3-5): unknown
+Tilesanity: Cindersap Forest (3-6): unknown
 Tilesanity: Cindersap Forest (3-7): unknown
 Tilesanity: Cindersap Forest (3-8): unknown
 Tilesanity: Cindersap Forest (3-9): unknown
+Tilesanity: Cindersap Forest (4-0): unknown
+Tilesanity: Cindersap Forest (4-1): unknown
 Tilesanity: Cindersap Forest (4-10): unknown
 Tilesanity: Cindersap Forest (4-11): unknown
 Tilesanity: Cindersap Forest (4-12): unknown
@@ -1238,6 +1326,7 @@ Tilesanity: Cindersap Forest (4-6): unknown
 Tilesanity: Cindersap Forest (4-7): unknown
 Tilesanity: Cindersap Forest (4-8): unknown
 Tilesanity: Cindersap Forest (4-9): unknown
+Tilesanity: Cindersap Forest (5-0): unknown
 Tilesanity: Cindersap Forest (5-10): unknown
 Tilesanity: Cindersap Forest (5-11): unknown
 Tilesanity: Cindersap Forest (5-12): unknown
@@ -1248,11 +1337,14 @@ Tilesanity: Cindersap Forest (5-18): unknown
 Tilesanity: Cindersap Forest (5-19): unknown
 Tilesanity: Cindersap Forest (5-2): unknown
 Tilesanity: Cindersap Forest (5-3): unknown
+Tilesanity: Cindersap Forest (5-5): unknown
+Tilesanity: Cindersap Forest (5-6): unknown
 Tilesanity: Cindersap Forest (5-7): unknown
 Tilesanity: Cindersap Forest (5-8): unknown
 Tilesanity: Cindersap Forest (5-9): unknown
 Tilesanity: Cindersap Forest (6-1): unknown
 Tilesanity: Cindersap Forest (6-10): unknown
+Tilesanity: Cindersap Forest (6-11): unknown
 Tilesanity: Cindersap Forest (6-12): unknown
 Tilesanity: Cindersap Forest (6-13): unknown
 Tilesanity: Cindersap Forest (6-17): unknown
@@ -1261,10 +1353,13 @@ Tilesanity: Cindersap Forest (6-2): unknown
 Tilesanity: Cindersap Forest (6-3): unknown
 Tilesanity: Cindersap Forest (6-4): unknown
 Tilesanity: Cindersap Forest (6-5): unknown
+Tilesanity: Cindersap Forest (6-6): unknown
 Tilesanity: Cindersap Forest (6-7): unknown
 Tilesanity: Cindersap Forest (6-8): unknown
 Tilesanity: Cindersap Forest (6-9): unknown
+Tilesanity: Cindersap Forest (7-0): unknown
 Tilesanity: Cindersap Forest (7-1): unknown
+Tilesanity: Cindersap Forest (7-10): unknown
 Tilesanity: Cindersap Forest (7-11): unknown
 Tilesanity: Cindersap Forest (7-12): unknown
 Tilesanity: Cindersap Forest (7-14): unknown
@@ -1275,9 +1370,12 @@ Tilesanity: Cindersap Forest (7-2): unknown
 Tilesanity: Cindersap Forest (7-3): unknown
 Tilesanity: Cindersap Forest (7-4): unknown
 Tilesanity: Cindersap Forest (7-5): unknown
+Tilesanity: Cindersap Forest (7-6): unknown
 Tilesanity: Cindersap Forest (7-8): unknown
 Tilesanity: Cindersap Forest (7-9): unknown
+Tilesanity: Cindersap Forest (8-0): unknown
 Tilesanity: Cindersap Forest (8-1): unknown
+Tilesanity: Cindersap Forest (8-10): unknown
 Tilesanity: Cindersap Forest (8-11): unknown
 Tilesanity: Cindersap Forest (8-12): unknown
 Tilesanity: Cindersap Forest (8-14): unknown
@@ -1287,8 +1385,12 @@ Tilesanity: Cindersap Forest (8-18): unknown
 Tilesanity: Cindersap Forest (8-19): unknown
 Tilesanity: Cindersap Forest (8-2): unknown
 Tilesanity: Cindersap Forest (8-3): unknown
+Tilesanity: Cindersap Forest (8-4): unknown
+Tilesanity: Cindersap Forest (8-5): unknown
+Tilesanity: Cindersap Forest (8-6): unknown
 Tilesanity: Cindersap Forest (8-8): unknown
 Tilesanity: Cindersap Forest (8-9): unknown
+Tilesanity: Cindersap Forest (9-0): unknown
 Tilesanity: Cindersap Forest (9-1): unknown
 Tilesanity: Cindersap Forest (9-10): unknown
 Tilesanity: Cindersap Forest (9-11): unknown
@@ -1298,18 +1400,73 @@ Tilesanity: Cindersap Forest (9-15): unknown
 Tilesanity: Cindersap Forest (9-16): unknown
 Tilesanity: Cindersap Forest (9-18): unknown
 Tilesanity: Cindersap Forest (9-19): unknown
+Tilesanity: Cindersap Forest (9-3): unknown
 Tilesanity: Cindersap Forest (9-4): unknown
 Tilesanity: Cindersap Forest (9-6): unknown
+Tilesanity: Cindersap Forest (9-7): unknown
 Tilesanity: Cindersap Forest (9-8): unknown
 Tilesanity: Cindersap Forest (9-9): unknown
+Tilesanity: Community Center (0-1): unknown
+Tilesanity: Community Center (1-1): unknown
+Tilesanity: Community Center (1-3): unknown
+Tilesanity: Community Center (3-2): unknown
+Tilesanity: Community Center (4-1): unknown
+Tilesanity: Community Center (5-0): unknown
+Tilesanity: Community Center (5-1): unknown
+Tilesanity: Community Center (6-1): unknown
+Tilesanity: Community Center (7-1): unknown
+Tilesanity: Community Center (7-2): unknown
+Tilesanity: Community Center (8-2): unknown
+Tilesanity: Elliott's Cabin (0-0): unknown
+Tilesanity: Elliott's Cabin (1-1): unknown
+Tilesanity: FarmCave (0-0): unknown
+Tilesanity: FarmCave (1-0): unknown
+Tilesanity: FarmCave (1-1): unknown
+Tilesanity: Fish Shop (0-0): unknown
+Tilesanity: Fish Shop (0-1): unknown
+Tilesanity: Harvey's Clinic (0-0): unknown
+Tilesanity: Harvey's Clinic (0-2): unknown
+Tilesanity: Harvey's Clinic (1-1): unknown
+Tilesanity: Harvey's Clinic (1-2): unknown
+Tilesanity: HarveyRoom (2-0): unknown
+Tilesanity: Home of Emily & Haley (0-0): unknown
+Tilesanity: Home of Emily & Haley (0-2): unknown
+Tilesanity: Home of Emily & Haley (0-3): unknown
+Tilesanity: Home of Emily & Haley (1-0): unknown
+Tilesanity: Home of Emily & Haley (1-1): unknown
+Tilesanity: Home of Emily & Haley (2-0): unknown
+Tilesanity: Home of Emily & Haley (2-3): unknown
+Tilesanity: Home of George, Evelyn & Alex (0-1): unknown
+Tilesanity: Home of George, Evelyn & Alex (1-0): unknown
+Tilesanity: Home of George, Evelyn & Alex (1-2): unknown
+Tilesanity: Home of George, Evelyn & Alex (1-3): unknown
+Tilesanity: Home of George, Evelyn & Alex (2-2): unknown
+Tilesanity: Home of Jodi, Kent & Sam (0-0): unknown
+Tilesanity: Home of Jodi, Kent & Sam (0-2): unknown
+Tilesanity: Home of Jodi, Kent & Sam (2-0): unknown
+Tilesanity: Leah's Cottage (1-0): unknown
+Tilesanity: LewisBasement (0-0): unknown
+Tilesanity: Marnie's Ranch (0-1): unknown
+Tilesanity: Marnie's Ranch (0-2): unknown
+Tilesanity: Marnie's Ranch (1-0): unknown
+Tilesanity: Marnie's Ranch (2-0): unknown
+Tilesanity: Marnie's Ranch (4-2): unknown
+Tilesanity: Mayor's Manor (0-0): unknown
+Tilesanity: Mayor's Manor (1-0): unknown
+Tilesanity: Mayor's Manor (1-1): unknown
+Tilesanity: Mayor's Manor (2-0): unknown
+Tilesanity: Mayor's Manor (2-1): unknown
+Tilesanity: Men's Locker Room (0-3): unknown
 Tilesanity: Mountains (0-2): unknown
 Tilesanity: Mountains (0-3): unknown
 Tilesanity: Mountains (0-4): unknown
 Tilesanity: Mountains (0-7): unknown
 Tilesanity: Mountains (1-0): unknown
 Tilesanity: Mountains (1-1): unknown
+Tilesanity: Mountains (1-2): unknown
 Tilesanity: Mountains (1-3): unknown
 Tilesanity: Mountains (1-4): unknown
+Tilesanity: Mountains (1-5): unknown
 Tilesanity: Mountains (1-6): unknown
 Tilesanity: Mountains (1-7): unknown
 Tilesanity: Mountains (10-1): unknown
@@ -1348,15 +1505,18 @@ Tilesanity: Mountains (2-0): unknown
 Tilesanity: Mountains (2-1): unknown
 Tilesanity: Mountains (2-2): unknown
 Tilesanity: Mountains (2-3): unknown
+Tilesanity: Mountains (2-4): unknown
 Tilesanity: Mountains (2-5): unknown
 Tilesanity: Mountains (2-6): unknown
 Tilesanity: Mountains (2-7): unknown
 Tilesanity: Mountains (3-1): unknown
 Tilesanity: Mountains (3-2): unknown
 Tilesanity: Mountains (3-3): unknown
+Tilesanity: Mountains (3-4): unknown
 Tilesanity: Mountains (3-5): unknown
 Tilesanity: Mountains (3-6): unknown
 Tilesanity: Mountains (3-7): unknown
+Tilesanity: Mountains (4-0): unknown
 Tilesanity: Mountains (4-1): unknown
 Tilesanity: Mountains (4-2): unknown
 Tilesanity: Mountains (4-3): unknown
@@ -1375,6 +1535,7 @@ Tilesanity: Mountains (6-4): unknown
 Tilesanity: Mountains (6-5): unknown
 Tilesanity: Mountains (6-6): unknown
 Tilesanity: Mountains (6-7): unknown
+Tilesanity: Mountains (7-1): unknown
 Tilesanity: Mountains (7-2): unknown
 Tilesanity: Mountains (7-3): unknown
 Tilesanity: Mountains (7-4): unknown
@@ -1393,8 +1554,10 @@ Tilesanity: Mountains (9-4): unknown
 Tilesanity: Mountains (9-5): unknown
 Tilesanity: Mountains (9-6): unknown
 Tilesanity: Mountains (9-7): unknown
+Tilesanity: Pelican Beach (0-0): unknown
 Tilesanity: Pelican Beach (0-1): unknown
 Tilesanity: Pelican Beach (1-1): unknown
+Tilesanity: Pelican Beach (1-2): unknown
 Tilesanity: Pelican Beach (10-1): unknown
 Tilesanity: Pelican Beach (10-2): unknown
 Tilesanity: Pelican Beach (10-3): unknown
@@ -1445,18 +1608,28 @@ Tilesanity: Pelican Beach (7-5): unknown
 Tilesanity: Pelican Beach (8-0): unknown
 Tilesanity: Pelican Beach (8-1): unknown
 Tilesanity: Pelican Beach (8-2): unknown
+Tilesanity: Pelican Beach (8-3): unknown
 Tilesanity: Pelican Beach (8-4): unknown
 Tilesanity: Pelican Beach (8-5): unknown
 Tilesanity: Pelican Beach (8-6): unknown
 Tilesanity: Pelican Beach (8-7): unknown
+Tilesanity: Pelican Beach (9-1): unknown
 Tilesanity: Pelican Beach (9-2): unknown
 Tilesanity: Pelican Beach (9-3): unknown
 Tilesanity: Pelican Beach (9-4): unknown
 Tilesanity: Pelican Beach (9-5): unknown
+Tilesanity: Pelican Town (0-1): unknown
+Tilesanity: Pelican Town (0-10): unknown
 Tilesanity: Pelican Town (0-12): unknown
 Tilesanity: Pelican Town (0-13): unknown
 Tilesanity: Pelican Town (0-17): unknown
+Tilesanity: Pelican Town (0-2): unknown
+Tilesanity: Pelican Town (0-3): unknown
+Tilesanity: Pelican Town (0-7): unknown
+Tilesanity: Pelican Town (0-8): unknown
+Tilesanity: Pelican Town (1-1): unknown
 Tilesanity: Pelican Town (1-10): unknown
+Tilesanity: Pelican Town (1-11): unknown
 Tilesanity: Pelican Town (1-12): unknown
 Tilesanity: Pelican Town (1-13): unknown
 Tilesanity: Pelican Town (1-14): unknown
@@ -1465,7 +1638,9 @@ Tilesanity: Pelican Town (1-18): unknown
 Tilesanity: Pelican Town (1-2): unknown
 Tilesanity: Pelican Town (1-3): unknown
 Tilesanity: Pelican Town (1-4): unknown
+Tilesanity: Pelican Town (1-5): unknown
 Tilesanity: Pelican Town (1-6): unknown
+Tilesanity: Pelican Town (1-7): unknown
 Tilesanity: Pelican Town (10-1): unknown
 Tilesanity: Pelican Town (10-10): unknown
 Tilesanity: Pelican Town (10-11): unknown
@@ -1481,12 +1656,15 @@ Tilesanity: Pelican Town (10-2): unknown
 Tilesanity: Pelican Town (10-20): unknown
 Tilesanity: Pelican Town (10-21): unknown
 Tilesanity: Pelican Town (10-3): unknown
+Tilesanity: Pelican Town (10-4): unknown
 Tilesanity: Pelican Town (10-5): unknown
+Tilesanity: Pelican Town (10-6): unknown
 Tilesanity: Pelican Town (10-7): unknown
 Tilesanity: Pelican Town (10-9): unknown
 Tilesanity: Pelican Town (11-1): unknown
 Tilesanity: Pelican Town (11-10): unknown
 Tilesanity: Pelican Town (11-11): unknown
+Tilesanity: Pelican Town (11-12): unknown
 Tilesanity: Pelican Town (11-13): unknown
 Tilesanity: Pelican Town (11-14): unknown
 Tilesanity: Pelican Town (11-15): unknown
@@ -1503,7 +1681,9 @@ Tilesanity: Pelican Town (11-5): unknown
 Tilesanity: Pelican Town (11-7): unknown
 Tilesanity: Pelican Town (11-8): unknown
 Tilesanity: Pelican Town (11-9): unknown
+Tilesanity: Pelican Town (12-0): unknown
 Tilesanity: Pelican Town (12-1): unknown
+Tilesanity: Pelican Town (12-10): unknown
 Tilesanity: Pelican Town (12-11): unknown
 Tilesanity: Pelican Town (12-12): unknown
 Tilesanity: Pelican Town (12-13): unknown
@@ -1517,6 +1697,7 @@ Tilesanity: Pelican Town (12-2): unknown
 Tilesanity: Pelican Town (12-20): unknown
 Tilesanity: Pelican Town (12-3): unknown
 Tilesanity: Pelican Town (12-4): unknown
+Tilesanity: Pelican Town (12-5): unknown
 Tilesanity: Pelican Town (12-6): progression
 Tilesanity: Pelican Town (12-7): unknown
 Tilesanity: Pelican Town (12-8): unknown
@@ -1557,6 +1738,7 @@ Tilesanity: Pelican Town (14-4): unknown
 Tilesanity: Pelican Town (14-5): unknown
 Tilesanity: Pelican Town (14-6): unknown
 Tilesanity: Pelican Town (14-7): unknown
+Tilesanity: Pelican Town (14-8): unknown
 Tilesanity: Pelican Town (15-0): unknown
 Tilesanity: Pelican Town (15-10): unknown
 Tilesanity: Pelican Town (15-11): unknown
@@ -1645,6 +1827,7 @@ Tilesanity: Pelican Town (19-5): unknown
 Tilesanity: Pelican Town (19-7): unknown
 Tilesanity: Pelican Town (19-8): unknown
 Tilesanity: Pelican Town (2-1): unknown
+Tilesanity: Pelican Town (2-12): unknown
 Tilesanity: Pelican Town (2-13): unknown
 Tilesanity: Pelican Town (2-14): unknown
 Tilesanity: Pelican Town (2-15): unknown
@@ -1653,6 +1836,9 @@ Tilesanity: Pelican Town (2-18): unknown
 Tilesanity: Pelican Town (2-19): unknown
 Tilesanity: Pelican Town (2-2): unknown
 Tilesanity: Pelican Town (2-6): unknown
+Tilesanity: Pelican Town (2-7): unknown
+Tilesanity: Pelican Town (2-8): unknown
+Tilesanity: Pelican Town (2-9): unknown
 Tilesanity: Pelican Town (20-10): unknown
 Tilesanity: Pelican Town (20-11): unknown
 Tilesanity: Pelican Town (20-13): unknown
@@ -1711,7 +1897,10 @@ Tilesanity: Pelican Town (3-5): unknown
 Tilesanity: Pelican Town (3-6): unknown
 Tilesanity: Pelican Town (3-7): unknown
 Tilesanity: Pelican Town (3-8): unknown
+Tilesanity: Pelican Town (3-9): unknown
 Tilesanity: Pelican Town (4-1): unknown
+Tilesanity: Pelican Town (4-10): unknown
+Tilesanity: Pelican Town (4-11): unknown
 Tilesanity: Pelican Town (4-12): unknown
 Tilesanity: Pelican Town (4-14): unknown
 Tilesanity: Pelican Town (4-15): unknown
@@ -1722,6 +1911,7 @@ Tilesanity: Pelican Town (4-19): unknown
 Tilesanity: Pelican Town (4-2): unknown
 Tilesanity: Pelican Town (4-20): unknown
 Tilesanity: Pelican Town (4-3): unknown
+Tilesanity: Pelican Town (4-4): unknown
 Tilesanity: Pelican Town (4-6): unknown
 Tilesanity: Pelican Town (4-7): unknown
 Tilesanity: Pelican Town (4-8): unknown
@@ -1742,6 +1932,8 @@ Tilesanity: Pelican Town (5-4): unknown
 Tilesanity: Pelican Town (5-5): unknown
 Tilesanity: Pelican Town (5-6): unknown
 Tilesanity: Pelican Town (5-7): unknown
+Tilesanity: Pelican Town (5-8): unknown
+Tilesanity: Pelican Town (5-9): unknown
 Tilesanity: Pelican Town (6-1): unknown
 Tilesanity: Pelican Town (6-11): unknown
 Tilesanity: Pelican Town (6-12): unknown
@@ -1754,8 +1946,11 @@ Tilesanity: Pelican Town (6-19): unknown
 Tilesanity: Pelican Town (6-2): unknown
 Tilesanity: Pelican Town (6-20): unknown
 Tilesanity: Pelican Town (6-3): unknown
+Tilesanity: Pelican Town (6-4): unknown
 Tilesanity: Pelican Town (6-5): unknown
 Tilesanity: Pelican Town (6-7): unknown
+Tilesanity: Pelican Town (6-8): unknown
+Tilesanity: Pelican Town (6-9): unknown
 Tilesanity: Pelican Town (7-1): unknown
 Tilesanity: Pelican Town (7-11): unknown
 Tilesanity: Pelican Town (7-13): unknown
@@ -1769,8 +1964,11 @@ Tilesanity: Pelican Town (7-2): unknown
 Tilesanity: Pelican Town (7-20): unknown
 Tilesanity: Pelican Town (7-3): unknown
 Tilesanity: Pelican Town (7-4): unknown
+Tilesanity: Pelican Town (7-6): unknown
 Tilesanity: Pelican Town (7-7): unknown
+Tilesanity: Pelican Town (7-8): unknown
 Tilesanity: Pelican Town (8-1): unknown
+Tilesanity: Pelican Town (8-10): unknown
 Tilesanity: Pelican Town (8-11): unknown
 Tilesanity: Pelican Town (8-13): unknown
 Tilesanity: Pelican Town (8-15): unknown
@@ -1781,6 +1979,9 @@ Tilesanity: Pelican Town (8-2): unknown
 Tilesanity: Pelican Town (8-3): unknown
 Tilesanity: Pelican Town (8-4): unknown
 Tilesanity: Pelican Town (8-5): unknown
+Tilesanity: Pelican Town (8-7): unknown
+Tilesanity: Pelican Town (8-8): unknown
+Tilesanity: Pelican Town (8-9): unknown
 Tilesanity: Pelican Town (9-1): unknown
 Tilesanity: Pelican Town (9-10): unknown
 Tilesanity: Pelican Town (9-12): unknown
@@ -1799,12 +2000,20 @@ Tilesanity: Pelican Town (9-5): unknown
 Tilesanity: Pelican Town (9-6): unknown
 Tilesanity: Pelican Town (9-7): unknown
 Tilesanity: Pelican Town (9-9): unknown
+Tilesanity: Pierre's General Store (0-3): unknown
+Tilesanity: Public Bath (0-3): unknown
+Tilesanity: Public Bath (1-1): unknown
+Tilesanity: Public Bath (1-3): unknown
 Tilesanity: Railroad (0-10): unknown
 Tilesanity: Railroad (0-11): unknown
+Tilesanity: Railroad (0-6): unknown
+Tilesanity: Railroad (0-7): unknown
 Tilesanity: Railroad (0-8): unknown
 Tilesanity: Railroad (0-9): unknown
 Tilesanity: Railroad (1-10): unknown
 Tilesanity: Railroad (1-11): unknown
+Tilesanity: Railroad (1-5): unknown
+Tilesanity: Railroad (1-7): unknown
 Tilesanity: Railroad (1-8): unknown
 Tilesanity: Railroad (1-9): unknown
 Tilesanity: Railroad (10-10): unknown
@@ -1826,6 +2035,9 @@ Tilesanity: Railroad (13-11): unknown
 Tilesanity: Railroad (13-8): unknown
 Tilesanity: Railroad (13-9): unknown
 Tilesanity: Railroad (2-11): unknown
+Tilesanity: Railroad (2-4): unknown
+Tilesanity: Railroad (2-5): unknown
+Tilesanity: Railroad (2-6): unknown
 Tilesanity: Railroad (2-7): unknown
 Tilesanity: Railroad (2-8): unknown
 Tilesanity: Railroad (2-9): unknown
@@ -1834,16 +2046,21 @@ Tilesanity: Railroad (3-7): unknown
 Tilesanity: Railroad (3-8): unknown
 Tilesanity: Railroad (4-10): unknown
 Tilesanity: Railroad (4-11): unknown
+Tilesanity: Railroad (4-4): unknown
 Tilesanity: Railroad (4-7): unknown
 Tilesanity: Railroad (4-9): unknown
 Tilesanity: Railroad (5-10): unknown
 Tilesanity: Railroad (5-11): unknown
+Tilesanity: Railroad (5-4): unknown
+Tilesanity: Railroad (5-5): unknown
 Tilesanity: Railroad (5-7): unknown
 Tilesanity: Railroad (5-8): unknown
 Tilesanity: Railroad (5-9): unknown
 Tilesanity: Railroad (6-10): unknown
 Tilesanity: Railroad (6-11): unknown
 Tilesanity: Railroad (6-12): unknown
+Tilesanity: Railroad (6-4): unknown
+Tilesanity: Railroad (6-5): unknown
 Tilesanity: Railroad (6-7): unknown
 Tilesanity: Railroad (6-8): unknown
 Tilesanity: Railroad (6-9): unknown
@@ -1859,6 +2076,10 @@ Tilesanity: Railroad (8-8): unknown
 Tilesanity: Railroad (9-7): unknown
 Tilesanity: Railroad (9-8): unknown
 Tilesanity: Railroad (9-9): unknown
+Tilesanity: SebastianRoom (0-0): unknown
+Tilesanity: SebastianRoom (0-1): unknown
+Tilesanity: SebastianRoom (1-0): unknown
+Tilesanity: SebastianRoom (1-1): unknown
 Tilesanity: Secret Woods (0-3): unknown
 Tilesanity: Secret Woods (0-5): unknown
 Tilesanity: Secret Woods (0-6): unknown
@@ -1918,9 +2139,26 @@ Tilesanity: Secret Woods (9-2): unknown
 Tilesanity: Secret Woods (9-3): unknown
 Tilesanity: Secret Woods (9-4): unknown
 Tilesanity: Secret Woods (9-6): unknown
+Tilesanity: Sewer (0-4): unknown
+Tilesanity: Sewer (2-3): unknown
+Tilesanity: Sewer (4-1): unknown
+Tilesanity: Standard Farm (0-1): unknown
 Tilesanity: Standard Farm (0-12): unknown
+Tilesanity: Standard Farm (0-2): unknown
+Tilesanity: Standard Farm (0-3): unknown
+Tilesanity: Standard Farm (0-4): unknown
+Tilesanity: Standard Farm (0-5): unknown
+Tilesanity: Standard Farm (0-6): unknown
+Tilesanity: Standard Farm (0-7): unknown
 Tilesanity: Standard Farm (0-9): unknown
+Tilesanity: Standard Farm (1-1): unknown
 Tilesanity: Standard Farm (1-10): unknown
+Tilesanity: Standard Farm (1-2): unknown
+Tilesanity: Standard Farm (1-3): unknown
+Tilesanity: Standard Farm (1-4): unknown
+Tilesanity: Standard Farm (1-5): unknown
+Tilesanity: Standard Farm (1-6): unknown
+Tilesanity: Standard Farm (1-7): unknown
 Tilesanity: Standard Farm (10-11): unknown
 Tilesanity: Standard Farm (10-3): unknown
 Tilesanity: Standard Farm (11-3): unknown
@@ -1943,16 +2181,104 @@ Tilesanity: Standard Farm (15-6): unknown
 Tilesanity: Standard Farm (15-7): unknown
 Tilesanity: Standard Farm (15-8): progression
 Tilesanity: Standard Farm (15-9): unknown
+Tilesanity: Standard Farm (2-1): unknown
+Tilesanity: Standard Farm (2-2): unknown
+Tilesanity: Standard Farm (2-3): unknown
+Tilesanity: Standard Farm (2-4): unknown
+Tilesanity: Standard Farm (2-5): unknown
 Tilesanity: Standard Farm (2-6): unknown
+Tilesanity: Standard Farm (2-7): unknown
+Tilesanity: Standard Farm (3-1): unknown
+Tilesanity: Standard Farm (3-2): unknown
+Tilesanity: Standard Farm (3-3): unknown
+Tilesanity: Standard Farm (3-4): unknown
+Tilesanity: Standard Farm (3-5): unknown
 Tilesanity: Standard Farm (3-6): progression
+Tilesanity: Standard Farm (3-7): unknown
+Tilesanity: Standard Farm (4-0): unknown
+Tilesanity: Standard Farm (4-1): unknown
 Tilesanity: Standard Farm (4-11): unknown
+Tilesanity: Standard Farm (4-2): unknown
+Tilesanity: Standard Farm (4-3): unknown
+Tilesanity: Standard Farm (4-4): unknown
+Tilesanity: Standard Farm (4-5): unknown
+Tilesanity: Standard Farm (4-6): unknown
 Tilesanity: Standard Farm (4-7): unknown
+Tilesanity: Standard Farm (5-0): unknown
+Tilesanity: Standard Farm (5-1): unknown
 Tilesanity: Standard Farm (5-12): unknown
+Tilesanity: Standard Farm (5-2): unknown
+Tilesanity: Standard Farm (5-3): unknown
+Tilesanity: Standard Farm (5-4): unknown
+Tilesanity: Standard Farm (5-5): unknown
+Tilesanity: Standard Farm (5-6): unknown
 Tilesanity: Standard Farm (5-7): unknown
+Tilesanity: Standard Farm (5-8): unknown
+Tilesanity: Standard Farm (6-0): unknown
+Tilesanity: Standard Farm (6-1): unknown
+Tilesanity: Standard Farm (6-2): unknown
+Tilesanity: Standard Farm (6-3): unknown
+Tilesanity: Standard Farm (6-4): unknown
+Tilesanity: Standard Farm (6-5): unknown
+Tilesanity: Standard Farm (6-7): unknown
+Tilesanity: Standard Farm (7-1): unknown
 Tilesanity: Standard Farm (7-12): unknown
+Tilesanity: Standard Farm (7-2): unknown
+Tilesanity: Standard Farm (7-4): unknown
+Tilesanity: Standard Farm (7-5): unknown
+Tilesanity: Standard Farm (7-6): unknown
+Tilesanity: Standard Farm (7-7): unknown
 Tilesanity: Standard Farm (7-9): unknown
+Tilesanity: Standard Farm (8-1): unknown
 Tilesanity: Standard Farm (8-11): unknown
+Tilesanity: Standard Farm (8-2): unknown
 Tilesanity: Standard Farm (8-3): progression
+Tilesanity: Standard Farm (8-4): unknown
+Tilesanity: Standard Farm (8-5): unknown
+Tilesanity: Standard Farm (8-6): unknown
+Tilesanity: Standard Farm (8-7): unknown
+Tilesanity: Standard Farm (9-1): unknown
+Tilesanity: Standard Farm (9-2): unknown
+Tilesanity: Standard Farm (9-3): unknown
+Tilesanity: Standard Farm (9-4): unknown
+Tilesanity: Standard Farm (9-5): unknown
+Tilesanity: Standard Farm (9-6): unknown
+Tilesanity: Standard Farm (9-7): unknown
+Tilesanity: Stardew Valley Museum & Library (0-1): unknown
+Tilesanity: Stardew Valley Museum & Library (1-0): unknown
+Tilesanity: Stardew Valley Museum & Library (1-2): unknown
+Tilesanity: Stardew Valley Museum & Library (2-1): unknown
+Tilesanity: Stardew Valley Museum & Library (2-2): unknown
+Tilesanity: Stardew Valley Museum & Library (3-1): unknown
+Tilesanity: Stardew Valley Museum & Library (5-2): unknown
+Tilesanity: Stardrop Saloon (0-2): unknown
+Tilesanity: Stardrop Saloon (1-0): unknown
+Tilesanity: Stardrop Saloon (1-3): unknown
+Tilesanity: Stardrop Saloon (2-0): unknown
+Tilesanity: Stardrop Saloon (2-2): unknown
+Tilesanity: Stardrop Saloon (3-2): unknown
+Tilesanity: Stardrop Saloon (4-1): unknown
+Tilesanity: Tent (0-0): unknown
+Tilesanity: Tunnel (0-0): unknown
+Tilesanity: Tunnel (1-0): unknown
+Tilesanity: Tunnel (1-1): unknown
+Tilesanity: Tunnel (2-0): unknown
+Tilesanity: Tunnel (2-1): unknown
+Tilesanity: Tunnel (3-0): unknown
+Tilesanity: Tunnel (3-1): unknown
+Tilesanity: Tunnel (4-0): unknown
+Tilesanity: Tunnel (4-1): unknown
+Tilesanity: WitchHut (1-1): unknown
+Tilesanity: WitchWarpCave (0-1): unknown
+Tilesanity: WitchWarpCave (1-0): unknown
+Tilesanity: Wizard's Tower (0-1): unknown
+Tilesanity: Wizard's Tower (0-2): unknown
+Tilesanity: Wizard's Tower (1-1): unknown
+Tilesanity: Wizard's Tower (1-2): unknown
+Tilesanity: Wizard's Tower (1-3): unknown
+Tilesanity: WizardBasement (0-0): unknown
+Tilesanity: WizardBasement (1-0): unknown
+Tilesanity: WizardBasement (2-0): unknown
 Time Flies Trap: trap
 Tipsy Enzyme: trap
 Tom Kha Soup Recipe: progression
