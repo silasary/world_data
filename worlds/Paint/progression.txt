@@ -24,4 +24,6 @@ Rectangle: useful
 Rounded Rectangle: useful
 Select: useful
 Text: useful
+Tool Swap Trap: unknown
 Undo Trap: trap
+Zoom Out Trap: unknown

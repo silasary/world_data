@@ -11,12 +11,14 @@ Chocolate: filler
 Chomper: progression
 Cob Cannon: useful
 Coffee Bean: progression
+Crater Trap: unknown
 Crazy Dave's Car Keys: progression
 Daisies Mode: filler
 Day Unlock: Level 1-10: progression
 Day Unlock: Level 1-6: progression
 Day Unlock: Level 1-7: progression
 Day Unlock: Level 1-8: progression
+Day Unlock: Level 1-9: progression
 Diamond: filler
 Doom-shroom: useful
 Extra Seed Slot: progression
@@ -27,22 +29,30 @@ Fog Unlock: Level 4-10: progression
 Fog Unlock: Level 4-1: progression
 Fog Unlock: Level 4-2: progression
 Fog Unlock: Level 4-3: progression
+Fog Unlock: Level 4-4: progression
 Fog Unlock: Level 4-5: progression
 Fog Unlock: Level 4-6: progression
 Fog Unlock: Level 4-7: progression
+Fog Unlock: Level 4-8: progression
 Fog Unlock: Level 4-9: progression
 Fume-shroom: progression
 Future Zombies Mode: filler
 Gardening Glove: useful
+Garlic: useful
 Gatling Pea: useful
 Gloom-shroom: useful
 Gold Coin: filler
 Gold Magnet: useful
+Gold Watering Can: useful
 Grave Buster: progression
 Hypno-shroom: progression
 Ice-shroom: useful
+Imitater: useful
+Instant Zombie Freeze: filler
+Instant Zombie Hypnosis: filler
 Jalapeno: progression
 Kernel-pult: progression
+Lawn Randomiser Trap: unknown
 Lily Pad: progression
 Magnet-shroom: progression
 Marigold: useful
@@ -70,9 +80,11 @@ Mini-game Unlock: Zombie Nimble Zombie Quick: progression
 Mini-game Unlock: Zombiquarium: progression
 Mower Deploy Trap: trap
 Mower Reward Upgrade: useful
+Music Video: progression
 Mustache Mode: filler
 Night Access: progression
 Night Unlock: Level 2-10: progression
+Night Unlock: Level 2-1: progression
 Night Unlock: Level 2-2: progression
 Night Unlock: Level 2-3: progression
 Night Unlock: Level 2-4: progression
@@ -80,11 +92,13 @@ Night Unlock: Level 2-5: progression
 Night Unlock: Level 2-6: progression
 Night Unlock: Level 2-7: progression
 Night Unlock: Level 2-8: progression
+Night Unlock: Level 2-9: progression
 Peashooter: progression
 Phonograph: useful
 Pinata Mode: filler
 Plantern: useful
 Pool Access: progression
+Pool Cleaners: useful
 Pool Unlock: Level 3-10: progression
 Pool Unlock: Level 3-1: progression
 Pool Unlock: Level 3-2: progression
@@ -97,10 +111,12 @@ Pool Unlock: Level 3-8: progression
 Pool Unlock: Level 3-9: progression
 Potato Mine: useful
 Progressive Sun Capacity: progression
+Progressive Twiddydinkies: progression
 Puff-shroom: progression
 Pumpkin: progression
 Puzzle Unlock: Ace of Vase: progression
 Puzzle Unlock: All your brainz r belong to us: progression
+Puzzle Unlock: Another Chain Reaction: progression
 Puzzle Unlock: Can You Dig It?: progression
 Puzzle Unlock: Chain Reaction: progression
 Puzzle Unlock: Dead Zeppelin: progression
@@ -113,8 +129,10 @@ Puzzle Unlock: Scary Potter: progression
 Puzzle Unlock: Third Vase: progression
 Puzzle Unlock: Three Hit Wonder: progression
 Puzzle Unlock: To The Left: progression
+Puzzle Unlock: Totally Nuts: progression
 Puzzle Unlock: Vasebreaker: progression
 Puzzle Unlock: ZomBoogie: progression
+RV Trap: unknown
 Random Seed Packet: filler
 Repeater: progression
 Roof Cleaners: progression
@@ -122,7 +140,9 @@ Roof Unlock: Level 5-1: progression
 Roof Unlock: Level 5-2: progression
 Roof Unlock: Level 5-3: progression
 Roof Unlock: Level 5-4: progression
+Roof Unlock: Level 5-5: progression
 Roof Unlock: Level 5-6: progression
+Roof Unlock: Level 5-7: progression
 Roof Unlock: Level 5-8: progression
 Roof Unlock: Level 5-9: progression
 Scaredy-shroom: progression
@@ -138,6 +158,7 @@ Squash: progression
 Starfruit: progression
 Stinky: useful
 Suburban Almanac: useful
+Sun Burst: filler
 Sun-shroom: progression
 Sunflower: progression
 Survival Unlock: Day (Hard): progression
@@ -154,29 +175,41 @@ Tangle Kelp: useful
 Threepeater: progression
 Tile Unlock: Row #1, Column #1: progression
 Tile Unlock: Row #1, Column #2: progression
+Tile Unlock: Row #1, Column #3: progression
 Tile Unlock: Row #1, Column #4: progression
 Tile Unlock: Row #1, Column #5: progression
 Tile Unlock: Row #1, Column #7: progression
 Tile Unlock: Row #1, Column #8: progression
 Tile Unlock: Row #2, Column #2: progression
 Tile Unlock: Row #2, Column #5: progression
+Tile Unlock: Row #2, Column #6: progression
+Tile Unlock: Row #2, Column #9: progression
 Tile Unlock: Row #3, Column #1: progression
 Tile Unlock: Row #3, Column #2: progression
+Tile Unlock: Row #3, Column #3: progression
 Tile Unlock: Row #3, Column #4: progression
 Tile Unlock: Row #3, Column #5: progression
 Tile Unlock: Row #3, Column #7: progression
 Tile Unlock: Row #3, Column #8: progression
+Tile Unlock: Row #3, Column #9: progression
+Tile Unlock: Row #4, Column #1: progression
+Tile Unlock: Row #4, Column #2: progression
 Tile Unlock: Row #4, Column #3: progression
+Tile Unlock: Row #4, Column #4: progression
 Tile Unlock: Row #4, Column #5: progression
 Tile Unlock: Row #4, Column #6: progression
 Tile Unlock: Row #4, Column #7: progression
 Tile Unlock: Row #4, Column #8: progression
+Tile Unlock: Row #4, Column #9: unknown
 Tile Unlock: Row #5, Column #3: progression
+Tile Unlock: Row #5, Column #5: progression
 Tile Unlock: Row #5, Column #6: progression
 Tile Unlock: Row #5, Column #8: progression
 Tile Unlock: Row #5, Column #9: progression
 Tile Unlock: Row #6, Column #1: progression
+Tile Unlock: Row #6, Column #2: progression
 Tile Unlock: Row #6, Column #4: progression
+Tile Unlock: Row #6, Column #5: progression
 Tile Unlock: Row #6, Column #6: progression
 Tile Unlock: Row #6, Column #7: progression
 Tile Unlock: Row #6, Column #9: progression
@@ -188,8 +221,10 @@ Twin Sunflower: useful
 Umbrella Leaf: progression
 Wall-nut First Aid: useful
 Wall-nut: progression
+Wheelbarrow: useful
 Winter Melon: progression
 Zen Garden Sprout: filler
 Zen Garden: useful
 Zombie Ambush Trap: trap
+Zombie Caffeine Trap: unknown
 Zombie Shuffle Trap: trap

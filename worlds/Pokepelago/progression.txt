@@ -1,4 +1,5 @@
 Abra Unlock: progression
+Absol Line: unknown
 Absol Unlock: progression
 Aerodactyl Unlock: progression
 Aggron Unlock: progression
@@ -31,10 +32,12 @@ Blaziken Unlock: progression
 Blissey Unlock: progression
 Breloom Unlock: progression
 Bug Type Key: progression
+Burmy Line: unknown
 Butterfree Unlock: progression
 Cacnea Unlock: progression
 Cacturne Unlock: progression
 Camerupt Unlock: progression
+Carnivine Line: unknown
 Carvanha Unlock: progression
 Cascoon Unlock: progression
 Castform Unlock: progression
@@ -43,6 +46,7 @@ Celebi Unlock: progression
 Chansey Unlock: progression
 Charizard Unlock: progression
 Charmeleon Unlock: progression
+Chikorita Line: unknown
 Chikorita Unlock: progression
 Chimecho Unlock: progression
 Chinchou Unlock: progression
@@ -86,6 +90,7 @@ Dusk Stone: progression
 Duskull Unlock: progression
 Dustox Unlock: progression
 Eevee Unlock: progression
+Ekans Line: unknown
 Ekans Unlock: progression
 Electabuzz Unlock: progression
 Electric Type Key: progression
@@ -101,6 +106,7 @@ Exploud Unlock: progression
 Fairy Type Key: progression
 Farfetch'd Unlock: progression
 Fearow Unlock: progression
+Feebas Line: unknown
 Feebas Unlock: progression
 Fighting Type Key: progression
 Fire Stone: progression
@@ -127,6 +133,7 @@ Golbat Unlock: progression
 Golduck Unlock: progression
 Golem Unlock: progression
 Gorebyss Unlock: progression
+Gouging Fire Line: unknown
 Granbull Unlock: progression
 Grass Type Key: progression
 Graveler Unlock: progression
@@ -148,6 +155,8 @@ Hitmonlee Unlock: progression
 Hitmontop Unlock: progression
 Ho-Oh Unlock: progression
 Hoenn Pass: progression
+Hoopa Line: unknown
+Hoothoot Line: unknown
 Hoothoot Unlock: progression
 Hoppip Unlock: progression
 Horsea Unlock: progression
@@ -178,6 +187,7 @@ Kecleon Unlock: progression
 Kingdra Unlock: progression
 Kingler Unlock: progression
 Kirlia Unlock: progression
+Klink Line: unknown
 Koffing Unlock: progression
 Krabby Unlock: progression
 Kyogre Unlock: progression
@@ -192,6 +202,7 @@ Ledian Unlock: progression
 Ledyba Unlock: progression
 Lickitung Unlock: progression
 Lileep Unlock: progression
+Lillipup Line: unknown
 Link Cable: progression
 Linoone Unlock: progression
 Lombre Unlock: progression
@@ -234,6 +245,7 @@ Mew Unlock: progression
 Mewtwo Unlock: progression
 Mightyena Unlock: progression
 Miltank Unlock: progression
+Minccino Line: unknown
 Misdreavus Unlock: progression
 Moltres Unlock: progression
 Moon Stone: progression
@@ -258,6 +270,7 @@ Nosepass Unlock: progression
 Numel Unlock: progression
 Nuzleaf Unlock: progression
 Octillery Unlock: progression
+Oddish Line: unknown
 Oddish Unlock: progression
 Omanyte Unlock: progression
 Omastar Unlock: progression
@@ -276,6 +289,7 @@ Pikachu Unlock: progression
 Piloswine Unlock: progression
 Pineco Unlock: progression
 Pinsir Unlock: progression
+Piplup Line: unknown
 Plusle Unlock: progression
 Poison Type Key: progression
 Pokedex: useful
@@ -292,6 +306,7 @@ Primeape Unlock: progression
 Psychic Type Key: progression
 Psyduck Unlock: progression
 Pupitar Unlock: progression
+Purrloin Line: unknown
 Quagsire Unlock: progression
 Quick Ball: filler
 Quilava Unlock: progression
@@ -305,6 +320,7 @@ Raticate Unlock: progression
 Rattata Unlock: progression
 Rayquaza Unlock: progression
 Regice Unlock: progression
+Regirock Line: unknown
 Regirock Unlock: progression
 Registeel Unlock: progression
 Release Trap: trap
@@ -321,6 +337,7 @@ Sableye Unlock: progression
 Salamence Unlock: progression
 Sandshrew Unlock: progression
 Sandslash Unlock: progression
+Sandygast Line: unknown
 Sceptile Unlock: progression
 Scizor Unlock: progression
 Scyther Unlock: progression
@@ -358,6 +375,8 @@ Sneasel Unlock: progression
 Snorlax Unlock: progression
 Snorunt Unlock: progression
 Snubbull Unlock: progression
+Solosis Line: unknown
+Solrock Line: unknown
 Solrock Unlock: progression
 Spearow Unlock: progression
 Spheal Unlock: progression
@@ -380,12 +399,14 @@ Swalot Unlock: progression
 Swampert Unlock: progression
 Swellow Unlock: progression
 Swinub Unlock: progression
+Taillow Line: unknown
 Taillow Unlock: progression
 Tangela Unlock: progression
 Tauros Unlock: progression
 Teddiursa Unlock: progression
 Tentacool Unlock: progression
 Tentacruel Unlock: progression
+Terapagos Line: unknown
 Thunder Stone: progression
 Time Rift: progression
 Togepi Unlock: progression
@@ -395,6 +416,7 @@ Totodile Unlock: progression
 Trapinch Unlock: progression
 Treecko Unlock: progression
 Tropius Unlock: progression
+Tynamo Line: unknown
 Typhlosion Unlock: progression
 Tyranitar Unlock: progression
 Tyrogue Unlock: progression
@@ -433,6 +455,7 @@ Wooper Unlock: progression
 Wurmple Unlock: progression
 Xatu Unlock: progression
 Yanma Unlock: progression
+Zangoose Line: unknown
 Zangoose Unlock: progression
 Zapdos Unlock: progression
 Zigzagoon Unlock: progression
