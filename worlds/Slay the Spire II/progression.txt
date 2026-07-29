@@ -1,10 +1,44 @@
-Ironclad 15 Gold: unknown
-Ironclad 30 Gold: unknown
-Ironclad Card Reward: unknown
-Ironclad Five Gold: unknown
-Ironclad One Gold: unknown
-Ironclad Potion: unknown
+Defect 15 Gold: useful
+Defect 30 Gold: progression
+Defect Boss Gold: progression
+Defect Card Reward: progression
+Defect Five Gold: useful
+Defect One Gold: filler
+Defect Potion: useful
+Defect Relic: progression
+Ironclad 15 Gold: useful
+Ironclad 30 Gold: progression
+Ironclad Boss Gold: progression
+Ironclad Card Reward: progression
+Ironclad Five Gold: useful
+Ironclad One Gold: filler
+Ironclad Potion: useful
 Ironclad Progressive Rest: unknown
 Ironclad Progressive Smith: unknown
-Ironclad Relic: unknown
+Ironclad Rare Card Reward: progression
+Ironclad Relic: progression
 Ironclad Unlock: unknown
+Necrobinder 15 Gold: useful
+Necrobinder Five Gold: useful
+Necrobinder One Gold: filler
+Necrobinder Unlock: progression
+Regent 15 Gold: useful
+Regent 30 Gold: progression
+Regent Boss Gold: progression
+Regent Card Reward: progression
+Regent Five Gold: useful
+Regent One Gold: filler
+Regent Potion: useful
+Regent Rare Card Reward: progression
+Regent Relic: progression
+Regent Unlock: progression
+Silent 15 Gold: useful
+Silent 30 Gold: progression
+Silent Boss Gold: progression
+Silent Card Reward: progression
+Silent Five Gold: useful
+Silent One Gold: filler
+Silent Potion: useful
+Silent Rare Card Reward: progression
+Silent Relic: progression
+Silent Unlock: progression
