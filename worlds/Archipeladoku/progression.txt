@@ -536,6 +536,7 @@ Block AJ41: progression
 Block AJ44: progression
 Block AJ47: progression
 Block AJ49: progression
+Block AJ4: progression
 Block AJ50: progression
 Block AJ51: progression
 Block AJ53: progression
@@ -1370,6 +1371,7 @@ Block BC93: progression
 Block BC97: progression
 Block BC9: progression
 Block BD107: progression
+Block BD10: progression
 Block BD11: progression
 Block BD13: progression
 Block BD16: progression

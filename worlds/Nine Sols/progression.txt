@@ -59,14 +59,21 @@
 (Database) Warehouse Database: filler
 (Database) Water Synthesis Pipeline Panel: filler
 (Database) Yellow Water Report: filler
+(Poison) Ball of Flavor: useful
+(Poison) Dragon's Whip: useful
 (Poison) Golden Yinglong Egg: useful
+(Poison) Guiseng: useful
+(Poison) Gutwrench Fruit: useful
 (Poison) Medicinal Citrine: useful
 (Poison) Molted Tianma Hide: useful
+(Poison) Necroceps: useful
 (Poison) Oriander: useful
 (Poison) Plantago Frog: useful
 (Poison) Porcine Gem: useful
 (Poison) Residual Hair: useful
+(Poison) Thunder Centipede: useful
 (Poison) Turtle Scorpion: useful
+(Poison) Wall-climbing Gecko: useful
 (Recyclable) Advanced Component: filler
 (Recyclable) Basic Component: filler
 (Recyclable) Noble Ring: filler
@@ -87,6 +94,7 @@ Arrow: Cloud Piercer: progression
 Arrow: Shadow Hunter: progression
 Arrow: Thunder Buster: progression
 Avarice Jade: useful
+Azure Sand Magazine: useful
 Bearing Jade: useful
 Bloody Crimson Hibiscus: filler
 Breather Jade: useful
@@ -107,6 +115,7 @@ Greater Tao Fruit: useful
 Grotto of Scriptures (East) Root Node: progression
 Grotto of Scriptures Chip: useful
 Harness Force Jade: useful
+Health Thief Jade: useful
 Hedgehog Jade: useful
 Herb Catalyst: useful
 Homing Darts: progression
@@ -116,20 +125,31 @@ Ji's Hair: progression
 Jin x320: filler
 Jin x50: filler
 Jin x800: filler
+Last Stand Jade: useful
 Ledge Grab: progression
+Medical Jade: useful
+Mob Quell Jade - Yang: useful
 Mob Quell Jade - Yin: useful
 Mystic Nymph: Scout Mode: progression
 Outer Warehouse Root Node: progression
 Pauper Jade: useful
+Pipe Upgrade: useful
 Pipe Vial: useful
 Poem Hidden in the Immortal's Portrait: filler
 Power Reservoir Chip: useful
+Progressive Cloud Piercer: useful
+Progressive Shadow Hunter: useful
 Progressive Shop Unlock: progression
+Progressive Thunder Buster: useful
 Qi Blade Jade: useful
 Qi Swipe Jade: useful
+Quick Dose Jade: useful
+Reciprocation Jade: useful
+Recovery Jade: useful
 Research Center Chip: useful
 Revival Jade: useful
 Rhizomatic Bomb: progression
+Ricochet Jade: useful
 Seal of Fuxi: mcguffin
 Seal of Goumang: mcguffin
 Seal of Ji: mcguffin
@@ -150,6 +170,9 @@ Tao Fruit: useful
 Thunderburst Bomb: progression
 Tianhuo Serum: progression
 Transmutation Zone Chip: useful
+Transmute Unto Life: useful
+Transmute Unto Qi: useful
+Transmute Unto Wealth: useful
 Twin Tao Fruit: useful
 Unbounded Counter: progression
 Wall Climb: progression
