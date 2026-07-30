@@ -491,6 +491,7 @@ Block AH65: progression
 Block AH67: progression
 Block AH68: progression
 Block AH69: progression
+Block AH70: progression
 Block AH71: progression
 Block AH72: progression
 Block AH73: progression
@@ -789,8 +790,10 @@ Block AP70: progression
 Block AP71: progression
 Block AP73: progression
 Block AP74: progression
+Block AP76: progression
 Block AP77: progression
 Block AP78: progression
+Block AP79: progression
 Block AP7: progression
 Block AP81: progression
 Block AP82: progression
@@ -1338,6 +1341,7 @@ Block BC40: progression
 Block BC41: progression
 Block BC43: progression
 Block BC45: progression
+Block BC46: progression
 Block BC47: progression
 Block BC49: progression
 Block BC4: progression
@@ -1367,6 +1371,7 @@ Block BC88: unknown
 Block BC89: progression
 Block BC8: progression
 Block BC90: progression
+Block BC91: progression
 Block BC93: progression
 Block BC97: progression
 Block BC9: progression
@@ -1516,6 +1521,7 @@ Block BF79: progression
 Block BF81: progression
 Block BF85: progression
 Block BF86: progression
+Block BF88: progression
 Block BF90: progression
 Block BF91: progression
 Block BF93: progression
@@ -1628,6 +1634,7 @@ Block BJ10: progression
 Block BJ110: progression
 Block BJ11: progression
 Block BJ13: progression
+Block BJ16: progression
 Block BJ17: progression
 Block BJ19: progression
 Block BJ1: progression
@@ -1655,6 +1662,7 @@ Block BJ52: progression
 Block BJ53: progression
 Block BJ55: progression
 Block BJ57: progression
+Block BJ58: progression
 Block BJ59: progression
 Block BJ5: progression
 Block BJ61: progression
@@ -1931,6 +1939,7 @@ Block BR24: progression
 Block BR25: progression
 Block BR26: progression
 Block BR27: progression
+Block BR28: progression
 Block BR29: progression
 Block BR31: progression
 Block BR33: progression
@@ -2335,6 +2344,7 @@ Block CA23: progression
 Block CA25: progression
 Block CA26: progression
 Block CA29: progression
+Block CA31: progression
 Block CA33: progression
 Block CA35: progression
 Block CA37: progression
@@ -2561,6 +2571,7 @@ Block CG19: progression
 Block CG1: progression
 Block CG21: progression
 Block CG25: progression
+Block CG28: progression
 Block CG29: progression
 Block CG31: progression
 Block CG32: progression
@@ -2778,6 +2789,7 @@ Block CM9: progression
 Block CN101: progression
 Block CN104: progression
 Block CN107: progression
+Block CN10: progression
 Block CN13: progression
 Block CN16: progression
 Block CN17: progression
@@ -3488,6 +3500,7 @@ Block K61: progression
 Block K62: progression
 Block K65: progression
 Block K66: progression
+Block K67: progression
 Block K69: progression
 Block K6: progression
 Block K70: progression
@@ -3761,6 +3774,7 @@ Block S49: progression
 Block S4: progression
 Block S50: progression
 Block S51: progression
+Block S52: progression
 Block S53: progression
 Block S55: progression
 Block S57: progression

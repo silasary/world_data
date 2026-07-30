@@ -1,24 +1,38 @@
+Crystal Trap: trap
+Curse: trap
 Domino: progression
+Egg: trap
+Epic Enchantment: trap
 F Pentomino: progression
 F' Pentomino: progression
+Fracture Trap: trap
 Ghost Piece: useful
 Hard Drop: useful
 Hold Slot: useful
 I Pentomino: progression
 I Tetromino: progression
 I Tromino: progression
+Impatience Trap: trap
+In Space!: trap
+Invert Colors Trap: trap
 J Pentomino: progression
 J Tetromino: progression
 L Pentomino: progression
 L Tetromino: progression
 L Tromino: progression
+Legendary Enchantment: trap
+Lock Delay: useful
+Logic Tutorial: trap|useful
+Medium-Rare Enchantment: trap
 Monomino: progression
 N Pentomino: progression
 N' Pentomino: progression
 Next Piece Slot: useful
 O Tetromino: progression
 P Pentomino: progression
+Pixellation Trap: trap
 Q Pentomino: progression
+Rare Enchantment: trap
 Rotate Clockwise: progression
 Rotate Counterclockwise: progression
 S Pentomino: progression
@@ -26,11 +40,15 @@ S Tetromino: progression
 Soft Drop: useful
 T Pentomino: progression
 T Tetromino: progression
+Time to Fish!: trap
 U Pentomino: progression
 V Pentomino: progression
 W Pentomino: progression
+Water Trap: trap
+Well Done!: trap
 X Pentomino: progression
 Y Pentomino: progression
 Y' Pentomino: progression
 Z Pentomino: progression
 Z Tetromino: progression
+Zoom Trap: trap

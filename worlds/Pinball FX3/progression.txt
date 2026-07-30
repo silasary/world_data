@@ -1,7 +1,12 @@
+Cracked Quarter: filler
+Dirty Quarter: filler
+Dull Quarter: filler
+Faded Quarter: filler
 Progressive 1 Ball Challenge Tier: progression
 Progressive 5 Minute Challenge Tier: progression
 Progressive Survival Challenge Tier: progression
 Score Multiplier: Fish Tales: useful
+Score Multiplier: Ghost Rider: useful
 Score Multiplier: Portal: useful
 Score Multiplier: Sorcerer's Lair: useful
 Score Multiplier: Star Wars Pinball: A New Hope: useful
@@ -22,7 +27,9 @@ Score Multiplier: Star Wars Pinball: The Clone Wars: useful
 Score Multiplier: Star Wars Pinball: The Empire Strikes Back: useful
 Score Multiplier: Star Wars Pinball: The Force Awakens: useful
 Score Multiplier: Star Wars Pinball: The Last Jedi: useful
+Score Multiplier: White Water: useful
 Shiny Quarter: progression
+Star Requirement Discount: Civil War: unknown
 Star Requirement Discount: Fish Tales: useful
 Star Requirement Discount: Portal: useful
 Star Requirement Discount: Sorcerer's Lair: useful
@@ -43,9 +50,14 @@ Star Requirement Discount: Star Wars Pinball: The Clone Wars: useful
 Star Requirement Discount: Star Wars Pinball: The Empire Strikes Back: useful
 Star Requirement Discount: Star Wars Pinball: The Force Awakens: useful
 Star Requirement Discount: Star Wars Pinball: The Last Jedi: useful
+Star Requirement Discount: Thor: useful
+Star Requirement Discount: Wild West Rampage: useful
+Table Unlock: Adventure Land: progression
 Table Unlock: Fish Tales: progression
+Table Unlock: Hurricane: progression
 Table Unlock: Portal: progression
 Table Unlock: Sorcerer's Lair: progression
+Table Unlock: Space Station: progression
 Table Unlock: Star Wars Pinball: A New Hope: progression
 Table Unlock: Star Wars Pinball: Ahch-To Island: progression
 Table Unlock: Star Wars Pinball: Battle of Mimban: progression
@@ -65,6 +77,7 @@ Table Unlock: Star Wars Pinball: The Clone Wars: progression
 Table Unlock: Star Wars Pinball: The Empire Strikes Back: progression
 Table Unlock: Star Wars Pinball: The Force Awakens: progression
 Table Unlock: Star Wars Pinball: The Last Jedi: progression
+Table Unlock: The Walking Dead: progression
 Target Score Discount: Fish Tales: useful
 Target Score Discount: Portal: useful
 Target Score Discount: Sorcerer's Lair: useful
@@ -84,3 +97,5 @@ Target Score Discount: Star Wars Pinball: The Clone Wars: useful
 Target Score Discount: Star Wars Pinball: The Empire Strikes Back: useful
 Target Score Discount: Star Wars Pinball: The Force Awakens: useful
 Target Score Discount: Star Wars Pinball: The Last Jedi: useful
+Target Score Discount: Wild West Rampage: useful
+Worn Quarter: filler

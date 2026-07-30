@@ -1,11 +1,17 @@
 1-Hit KO Trap: trap
+Annihilator: progression
 Bolts: filler
 Box Breaker: progression
 Charge Boots: progression
 Clank Pack: progression
 Gravity Boots: progression
+Holo Shield Glove: useful
 Hypershot: progression
+Infector: progression
 Infobot: Annihilation Nation: progression
+Infobot: Aquatos: progression
+Infobot: Aridia: progression
+Infobot: Blackwater City: progression
 Infobot: Command Center: progression
 Infobot: Daxx: progression
 Infobot: Florana: progression
@@ -15,13 +21,18 @@ Infobot: Marcadia: progression
 Infobot: Metropolis: progression
 Infobot: Obani Draco: progression
 Infobot: Obani Gemini: progression
+Infobot: Qwarks Hideout: progression
 Infobot: Starship Phoenix: progression
 Infobot: Tyhrranosis: progression
 Infobot: Zeldrin Starport: progression
 Invisible Trap: trap
 Jackpot: filler
+Map-O-Matic: progression
 Master Plan: progression
+Nitro Launcher: useful
 No Clank Trap: trap
+Plasma Whip: progression
+Player EXP: filler
 Progressive Agents of Doom: useful
 Progressive Annihilator: progression
 Progressive Armor: progression
@@ -44,6 +55,10 @@ Progressive Shock Blaster: progression
 Progressive Spitting Hydra: progression
 Progressive Suck Cannon: progression
 Progressive VidComic: progression
+RY3N0: progression
+Refractor: progression
+Rift Inducer: progression
 Star Map: progression
 The Hacker: progression
 Warp Pad: progression
+Weapon Level-Up: filler
