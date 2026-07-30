@@ -1,6 +1,6 @@
 +0.1 Favor trickle rate: filler
 +0.25 Favor trickle rate: unknown
-+0.5 Gold trickle rate: unknown
++0.5 Gold trickle rate: filler
 +0.5 Wood trickle rate: filler
 +100 Starting Gold: filler
 +120 Starting Food: unknown
@@ -12,6 +12,7 @@
 +2 Wood trickle rate: filler
 +250 Starting Food: unknown
 +250 Starting Gold: filler
++250 Starting Wood: filler
 +30 Starting Food: unknown
 +30 Starting Gold: unknown
 +50 Starting Food: unknown
@@ -145,6 +146,7 @@ Scenario Key Ring 20: unknown
 Scenario Key Ring 24: unknown
 Scenario Key Ring 25: progression
 Scenario Key Ring 30: progression
+Scenario Key Ring 5: progression
 Starting Buildings Tech: unknown
 Starting Economy Tech: unknown
 Starting Military Tech: unknown
@@ -164,6 +166,7 @@ Trap: Nidhogg: unknown
 Trap: Pestilence: unknown
 Trap: Restoration: unknown
 Trap: Shockwave: unknown
+Trap: Swampland: trap
 Trap: Tartarian Gate: unknown
 Trap: Tornado: unknown
 Trap: Traitor: unknown

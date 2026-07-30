@@ -1,6 +1,47 @@
 10x Clover Tickets: filler
-5x Clover Tickets: unknown
-Bonus Starting Tickets: unknown
+5x Clover Tickets: filler
+Bonus Deadline Tickets: filler
+Bonus Starting Tickets: filler
+Call: Can I borrow some green?: progression
+Call: Can I eat something?: progression
+Call: Can I get some Energy Drinks?: progression
+Call: Give me back my money!: progression
+Call: Gold and Diamonds are a good investment!: progression
+Call: Help!: progression
+Call: I can't quit now!: progression
+Call: I didn't hurt anybody...: progression
+Call: I don't care about the price!: progression
+Call: I found a winning strategy!: progression
+Call: I like cryptic values!: progression
+Call: I love shiny stuff!: progression
+Call: I need money!: progression
+Call: I need supplements!: progression
+Call: I need to be there!: progression
+Call: I need to heal myself.: progression
+Call: I see the patterns in my behaviour.: progression
+Call: I used to eat healthy...: progression
+Call: I want to address some stuff.: progression
+Call: I'll take back control of my life.: progression
+Call: I'm being constant!: progression
+Call: I'm feeling lucky!: progression
+Call: I'm feeling more energetic recently.: progression
+Call: I'm gonna go All In!: progression
+Call: I'm re-organizing my mind!: progression
+Call: I'm sure the value will rise!: progression
+Call: I'm thinking of some strategies!: progression
+Call: I've already bet it all!: progression
+Call: If I keep trying, the patterns will align!: progression
+Call: It's kinda fun!: progression
+Call: Life gave me lemons: progression
+Call: My head hurts!: progression
+Call: Please don't throw my stuff away!: progression
+Call: Please, I'll give you anything: progression
+Call: There's nothing to eat but mould.: progression
+Call: This time I'm betting on Green!: progression
+Call: This time I'm betting on Orange!: progression
+Call: This time I'm betting on Yellow!: progression
+Call: Today's my lucky day!: progression
+Call: Wait, what day is it?: progression
 Call: discount1: progression
 Call: holyPatternsValue_3LessElements: progression
 Call: rndCharmMod_Clover: progression
@@ -8,20 +49,159 @@ Call: rndCharmMod_Gambler: progression
 Call: rndCharmMod_SymbMult: progression
 Call: symbolsValue_CloverAndBell: progression
 Call: symbolsValue_LemonAndCherry: progression
+Card Pack 1: progression
+Card Pack 2: progression
+Card Pack 3: progression
+Card Pack 4: progression
+Card Pack 5: progression
+Card Pack 6: progression
+Card Pack 7: progression
 Charm: 7 Sins Stone: progression
+Charm: AA Batteries: progression
+Charm: Abstract Painting: progression
+Charm: Abyssu: progression
+Charm: Ace Of Clubs: progression
+Charm: Ace Of Diamonds: progression
+Charm: Ace Of Hearts: progression
+Charm: Ace Of Spades: progression
+Charm: Ancient Coin: progression
+Charm: Ankh: progression
+Charm: Baphomet: progression
 Charm: Barathrum: progression
+Charm: Bell Pepper: progression
+Charm: Bell Picture: progression
 Charm: Book Of Shadows: progression
+Charm: Bricks: progression
+Charm: Broken Calculator: progression
+Charm: Calendar: progression
+Charm: Car Battery: progression
+Charm: Car: progression
 Charm: Cardboard House: progression
+Charm: Cat Food: progression
 Charm: Channeler of Fortune: progression
+Charm: Chastity Belt: progression
+Charm: Cherry Picture: progression
+Charm: Chonky Cat: progression
+Charm: Cigarettes: progression
+Charm: Clicker: progression
+Charm: Clover Picture: progression
+Charm: Clover Voucher: progression
+Charm: CloverBell: progression
+Charm: CloverField: progression
+Charm: CloverPet: progression
+Charm: CloverPot: progression
+Charm: Consolation Prize: progression
+Charm: Cross: progression
+Charm: Crowbar: progression
+Charm: Crystal Skull: progression
+Charm: Crystal Sphere: progression
+Charm: D20: progression
+Charm: D4: progression
+Charm: D6: progression
+Charm: Dark Lotus: progression
+Charm: Dear Diary: progression
+Charm: Demon's Horn: progression
+Charm: Depression: progression
 Charm: Diamond Picture: progression
+Charm: Diesel Locomotive: progression
 Charm: Disc A: progression
+Charm: Disc B: progression
+Charm: Disc C: progression
+Charm: Dung Beetle: progression
+Charm: Dynamo: progression
+Charm: Electrician: progression
+Charm: Electricity Meter: progression
+Charm: Evil Deal: progression
+Charm: Expired Meds: progression
+Charm: Eye Jar: progression
+Charm: Fidelity Card: progression
+Charm: Fortune Teller: progression
+Charm: Fruit Basket: progression
+Charm: Gabihbb'h: progression
+Charm: Golden Bell: progression
+Charm: Golden Cherry: progression
+Charm: Golden Clover: progression
+Charm: Golden Diamond: progression
 Charm: Golden Horseshoe: progression
-Charm: Hamsa: unknown
+Charm: Golden Lemon: progression
+Charm: Golden Pepper: progression
+Charm: Golden Seven: progression
+Charm: Golden Treasure: progression
+Charm: Grandma's Purse: progression
+Charm: Greedy King: progression
+Charm: Green Pepper: progression
+Charm: Hamsa: progression
+Charm: Harbor: progression
+Charm: Holy Bible: progression
+Charm: Horseshoe: progression
+Charm: Hourglass: progression
+Charm: Iron: progression
 Charm: Jimbo: progression
+Charm: Lemon Picture: progression
+Charm: Little Star: progression
+Charm: Lost Briefcase: progression
+Charm: Lost Wallet: progression
+Charm: Lucky Cat: progression
+Charm: Magical Tomato: progression
+Charm: Megaphone: progression
+Charm: Midas Touch: progression
+Charm: Mushrooms: progression
 Charm: Music Tape: progression
-Charm: Red Pepper: unknown
+Charm: Naughty Dealer: progression
+Charm: Necklace: progression
+Charm: Necronomicon: progression
+Charm: Nose: progression
+Charm: Nuclear Button: progression
+Charm: Number 1: progression
+Charm: Number 2: progression
+Charm: One Trick Pony: progression
+Charm: Pain Killers: progression
+Charm: Pareidolia: progression
+Charm: Pentacle: progression
+Charm: Personal Trainer: progression
+Charm: Photo Book: progression
+Charm: Possessed Cell Phone: progression
+Charm: Potato Battery: progression
+Charm: Property Certificate: progression
+Charm: Raging Capitalist: progression
+Charm: Red Pepper: progression
+Charm: Red Shiny Rock: progression
+Charm: Ring Bell: progression
+Charm: Ritual Bell: progression
+Charm: Rosary: progression
+Charm: Rotated Hamsa: progression
+Charm: Rotten Pepper: progression
+Charm: Sardines: progression
+Charm: Scratch And Hope: progression
 Charm: Seven Picture: progression
-Charm: Treasure Picture: unknown
+Charm: Sheep: progression
+Charm: Ship: progression
+Charm: Shoe: progression
+Charm: Shopping Cart: progression
+Charm: Stain: progression
+Charm: Steam Locomotive: progression
+Charm: Stone: progression
+Charm: Stonks: progression
+Charm: Super Capacitor: progression
+Charm: Swole Cat: progression
+Charm: Tarot Deck: progression
+Charm: The Collector: progression
+Charm: Thief: progression
+Charm: Thimble: progression
+Charm: Toy Train: progression
+Charm: Treasure Picture: progression
+Charm: Tuba Hat: progression
+Charm: Very Big Mushroom: progression
+Charm: Vine's Soup: progression
+Charm: VoiceMail: progression
 Charm: Vorago: progression
-Coin Trap: unknown
+Charm: Weird Clock: progression
+Charm: Wheat: progression
+Charm: Wheelbarrow: progression
+Charm: Wood: progression
+Clover Trap: trap
+Coin Trap: trap
+Progressive Drawer: progression
 Progressive Luck: progression
+Progressive Skeleton: progression
+Win: filler

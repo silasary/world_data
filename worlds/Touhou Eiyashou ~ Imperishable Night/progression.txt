@@ -190,18 +190,24 @@
 188 - End of Imperishable Night -Morning Mist-: progression
 189 - End of Imperishable Night -Dawn-: progression
 190 - End of Imperishable Night -Morning Star-: progression
+192 - Past "Old History of an Untrodden Land -Old History-": progression
 193 - Reincarnation "Ichijou Returning Bridge": progression
 195 - Statute of Limitations "Curse of Tsuki no Iwakasa": progression
 196 - Undying "Fire Bird -Feng Wing Ascension-": progression
 197 - Fujiwara "Wounds of Metsuzai Temple": progression
+198 - Undying "Xu Fu's Dimension": progression
 200 - Hollow Being "Wu": progression
+204 - "Hourai Doll": progression
 206 - "Unseasonal Butterfly Storm": progression
+207 - "Blind Nightbird": progression
 208 - "Emperor of the Land of the Rising Sun": progression
 209 - "Stare of the Hazy Phantom Moon (Lunatic Red Eyes)": progression
 210 - "Heaven Spider's Butterfly-Capturing Web": progression
 212 - "Phoenix Rebirth": progression
+213 - "Ancient Duper": progression
 214 - "Total Purification": progression
 215 - "Fantasy Nature": progression
+216 - "Blazing Star": progression
 217 - "Deflation Star": progression
 219 - "The Phantom of the Grand Guignol": progression
 221 - "Saigyouji Parinirvana": progression
@@ -221,6 +227,8 @@ Time Gain: progression
 Visionary Scarlet Devil Team: progression
 [Alice] Stage 2: progression
 [Alice] Stage 4A: progression
+[Alice] Stage 4B: progression
+[Alice] Stage 5: progression
 [Devil Team] Extra Stage: progression
 [Devil Team] Next Stage: progression
 [Devil Team] Stage 2: progression
@@ -248,7 +256,10 @@ Visionary Scarlet Devil Team: progression
 [Magic Team] Stage 4B: progression
 [Magic Team] Stage 6A: progression
 [Magic Team] Stage 6B: progression
+[Marisa] Stage 2: progression
 [Marisa] Stage 3: progression
+[Marisa] Stage 4A: progression
+[Marisa] Stage 4B: progression
 [Nether Team] Ending - Kaguya: progression
 [Nether Team] Extra Stage: progression
 [Nether Team] Next Stage: progression
@@ -263,13 +274,17 @@ Visionary Scarlet Devil Team: progression
 [Reimu] Stage 5: progression
 [Reimu] Stage 6A: progression
 [Remilia] Stage 3: progression
+[Remilia] Stage 4B: progression
 [Remilia] Stage 6A: progression
 [Sakuya] Stage 3: progression
 [Sakuya] Stage 5: progression
 [Sakuya] Stage 6A: progression
 [Solo] Extra Stage: progression
 [Youmu] Stage 3: progression
+[Youmu] Stage 4A: progression
+[Yukari] Stage 2: progression
 [Yukari] Stage 3: progression
+[Yukari] Stage 4A: progression
 [Yukari] Stage 4B: progression
 [Yukari] Stage 5: progression
 [Yuyuko] Stage 3: progression

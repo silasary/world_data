@@ -24,7 +24,7 @@ Chests & Barrels: progression
 Chicken: filler
 Coal Ore Vein: filler
 Cookies: filler
-Copper Ore Vein: unknown
+Copper Ore Vein: useful
 Diamond Ore Vein: useful
 Diorite: filler
 Emerald Ore Vein: useful
@@ -44,7 +44,7 @@ Iron Ore Vein: useful
 Jump: progression
 Lapis Lazuli: useful
 Large Coal Ore Vein: filler
-Large Copper Ore Vein: unknown
+Large Copper Ore Vein: useful
 Large Diamond Ore Vein: useful
 Large Emerald Ore Vein: useful
 Large Gold Ore Vein: useful

@@ -7,6 +7,7 @@ Bike: Quacker: useful
 Bike: Torpedo: useful
 Bike: Twinkle Star: useful
 Character: Baby Daisy: useful
+Character: Baby Luigi: unknown
 Character: Birdo: useful
 Character: Bowser Jr.: useful
 Character: Daisy: useful
@@ -31,6 +32,7 @@ Filler: Red Shell: filler
 Filler: Star: filler
 Filler: Triple Mushroom: filler
 Filler: Triple Red Shell: filler
+Flower Cup 150cc: unknown
 Kart: B. Dasher Mk 2: useful
 Kart: Blue Falcon: useful
 Kart: Cheep Charger: useful
@@ -45,6 +47,8 @@ Leaf Cup Mirror: progression
 Lightning Cup 100cc: progression
 Lightning Cup 150cc: progression
 Lightning Cup 50cc: progression
+Lightning Cup Mirror: unknown
+Mushroom Cup 100cc: unknown
 Powerup: Banana: useful
 Powerup: Blooper: useful
 Powerup: Blue Shell: useful
@@ -59,6 +63,7 @@ Powerup: Star: useful
 Powerup: Triple Bananas: useful
 Powerup: Triple Mushrooms: useful
 Powerup: Triple Red Shells: useful
+Shell Cup 100cc: unknown
 Special Cup 100cc: progression
 Special Cup 150cc: progression
 Special Cup 50cc: progression

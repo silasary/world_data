@@ -47,6 +47,7 @@ Armour: Iron Frame: filler
 Armour: Major Relic Of Grungni: filler
 Armour: Mutated Ghorgon Hide: filler
 Armour: Obsinite Plate: filler
+Armour: Ravager's Chainmail: filler
 Armour: Robe Of Vast Pockets: filler
 Armour: Rocket Boots: filler
 Armour: Scintillating Shield: filler
@@ -76,6 +77,7 @@ Enchanted Item: Box Of Eerie Noises: filler
 Enchanted Item: Brass Horn: filler
 Enchanted Item: Cauldron Of The Great Maw: filler
 Enchanted Item: Chest Of Sustenance: filler
+Enchanted Item: Cloak of Mists & Shadows: filler
 Enchanted Item: Cothiquan Astrolabe: filler
 Enchanted Item: Crown Of Command: filler
 Enchanted Item: Death Mask Of Kharnut: filler
@@ -107,6 +109,7 @@ Enchanted Item: Spotters Spyglass: filler
 Enchanted Item: Statue of Zharr: filler
 Enchanted Item: The Breath Of Life: filler
 Enchanted Item: The Other Tricksters Shard: filler
+Enchanted Item: The Shadow Crown: filler
 Enchanted Item: The Terrifying Mask Of Eee: filler
 Enchanted Item: Totem Of Ursus: filler
 Enchanted Item: Whip of Domination: unknown
@@ -312,6 +315,7 @@ Schizophrenia!: trap
 Spoiler Alert!: trap
 Standard: Banner Of Swiftness: filler
 Standard: Banner of Madness: unknown
+Standard: Doomfire Ring: filler
 Standard: Filth Banner: filler
 Standard: Lichbone Pennant: filler
 Standard: Mania Banner: filler
@@ -379,6 +383,7 @@ Weapon: Cynatcian: filler
 Weapon: Daemonblade: filler
 Weapon: Dart Of Doom: filler
 Weapon: Double Crescent Of Neru: filler
+Weapon: Dragon Tooth: filler
 Weapon: Executioners Axe: filler
 Weapon: Felix Sword: filler
 Weapon: Fell Axe Of The Drakwald: filler
@@ -413,7 +418,7 @@ Weapon: The Baron's Blade: filler
 Weapon: The Black Cleaver: filler
 Weapon: The Brass Cleaver: filler
 Weapon: The Golden Blowpipe Of Ptoohee: filler
-Weapon: The Venom Staff: unknown
+Weapon: The Venom Staff: filler
 Weapon: The Widowmaker 3: filler
 Weapon: Tormentor Sword: filler
 Weapon: Ursuns Claw: filler

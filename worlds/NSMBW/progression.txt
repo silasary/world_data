@@ -5,9 +5,11 @@ Check point: progression
 Coin x01: filler
 Coin x10: filler
 Coin x50: filler
+Crouch: progression
 Death trap: trap
 Door: progression
 Fire_Flower: progression
+Goomba trap: trap
 Ice Flower: progression
 Ice_Flower: progression
 Mini Mushroom: progression
@@ -18,6 +20,7 @@ Propeller Mushroom: progression
 Propeller_Mushroom: progression
 Random Power-up: filler
 Shrink trap: trap
+Slow Trap: trap
 Starcoin: progression
 Super Mushroom: progression
 Super Speed: useful
@@ -30,9 +33,11 @@ World1 progressive: progression
 World1: progression
 World2 progressive: progression
 World2: progression
+World3 progressive: progression
 World3: progression
 World4 progressive: progression
 World4: progression
+World5 progressive: progression
 World5: progression
 World6 progressive: progression
 World6: progression
