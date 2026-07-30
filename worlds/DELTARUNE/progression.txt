@@ -79,12 +79,14 @@ GlowWrist: progression
 Glowshard: filler
 HeartsDonut: filler
 ICE KEY: progression
+Ice Key: progression
 IronShackle: progression
 JevilsTail: useful
 Jigsaw Joe's Life Savings: useful
 Joe's Life Savings: useful
 JusticeAxe: useful
 KeyGen: progression
+King Chess Piece: progression
 Kris Tea: filler
 LancerCookie: filler
 LightCandy: useful
@@ -108,6 +110,7 @@ Ralsei Tea: filler
 Remote Battery: progression
 Revive Mint: useful
 ReviveDust: filler
+ReviveMint: useful
 Rhapsotea: filler
 RouxlsRoux: filler
 RoyalPin: filler
@@ -126,6 +129,7 @@ Shelter Key: progression
 Silver Card: filler
 SpagettiCode: filler
 SpikeBand: useful
+Spikeband: useful
 Spincake: useful
 Spookysword: useful
 Susie Tea: filler

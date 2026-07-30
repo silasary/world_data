@@ -71,6 +71,8 @@ Honeycomb: useful
 Hot Trap: trap
 Hungry Hungry Camper Trap: trap
 Injury Trap: trap
+Instant Death Trap: trap
+Inverted Mouse Trap: trap
 Items to Bombs: trap
 Lantern: useful
 Magic Bean: useful
@@ -79,6 +81,7 @@ Mandrake: progression
 Marshmallow: useful
 Medicinal Root: useful
 Minor Poison Trap: trap
+Morale Boost: filler
 Nap Time Trap: trap
 Napberry: useful
 Orange Winterberry: useful
@@ -109,6 +112,7 @@ Scorpion: progression
 Scout Cannon: useful
 Scout Cookies: filler
 Scout Effigy: useful
+Scoutmaster Trap: trap
 Scoutmaster's Bugle: useful
 Screen Flip Trap: trap
 Shelf Shroom: useful
@@ -116,6 +120,7 @@ Slip Trap: trap
 Spawn Bee Swarm: trap
 Speed Upgrade: useful
 Sports Drink: useful
+Stamina Drain Trap: trap
 Strange Gem Unlock: unknown
 Strange Gem: useful
 Sunscreen: useful
