@@ -11,11 +11,14 @@ Aeon Customization: Aim: filler
 Aeon Customization: Armor Break: useful
 Aeon Customization: Bio: useful
 Aeon Customization: Blizzaga: useful
+Aeon Customization: Blizzara: useful
 Aeon Customization: Blizzard: useful
 Aeon Customization: Cheer: filler
 Aeon Customization: Cura: useful
+Aeon Customization: Curaga: useful
 Aeon Customization: Cure: useful
 Aeon Customization: Dark Attack: useful
+Aeon Customization: Dark Buster: useful
 Aeon Customization: Death: useful
 Aeon Customization: Demi: useful
 Aeon Customization: Dispel: useful
@@ -39,6 +42,7 @@ Aeon Customization: Reflect: useful
 Aeon Customization: Reflex: filler
 Aeon Customization: Regen: useful
 Aeon Customization: Scan: filler
+Aeon Customization: Sleep Buster: useful
 Aeon Customization: Slow: useful
 Aeon Customization: Slowga: useful
 Aeon Customization: Thundaga: useful
@@ -47,6 +51,7 @@ Aeon Customization: Water: useful
 Aeon Customization: Watera: useful
 Aeon Customization: Zombie Attack: useful
 Aeon's Soul: progression
+Al Bhed Potion x 10: useful
 Al Bhed Potion x 20: useful
 Al Bhed Potion x 30: useful
 Al Bhed Potion x 40: useful
@@ -115,6 +120,7 @@ Armor (Kimahri): Lucid Armlet: useful
 Armor (Kimahri): Red Armlet: useful
 Armor (Kimahri): Serene Armlet: useful
 Armor (Kimahri): Tetra Armlet: useful
+Armor (Lulu): Bright Bangle: useful
 Armor (Lulu): Phantom Bangle: useful
 Armor (Lulu): Serene Bangle: useful
 Armor (Lulu): Tetra Bangle: useful
@@ -165,6 +171,10 @@ Bomb Fragment x 60: useful
 Bomb Fragment x 70: useful
 Bomb Fragment x 80: useful
 Bomb Fragment x 90: useful
+Bushido: Banishing Blade: progression
+Bushido: Dragon Fang: progression
+Bushido: Shooting Star: progression
+Bushido: Tornado: progression
 Candle of Life x 10: useful
 Candle of Life x 20: useful
 Candle of Life x 30: useful
@@ -172,6 +182,7 @@ Candle of Life x 40: useful
 Candle of Life x 50: useful
 Candle of Life x 60: useful
 Candle of Life x 70: useful
+Candle of Life x 80: useful
 Candle of Life x 90: useful
 Celestial Mirror: progression
 Chocobo Feather x 10: useful
@@ -313,6 +324,7 @@ Frag Grenade x 70: useful
 Frag Grenade x 80: useful
 Frag Grenade x 90: useful
 Gear Customization: Alchemy: useful
+Gear Customization: Auto-Haste: useful
 Gear Customization: Auto-Med: useful
 Gear Customization: Auto-Potion: useful
 Gear Customization: Auto-Reflect: useful
@@ -323,12 +335,15 @@ Gear Customization: Berserkproof: useful
 Gear Customization: Break Damage Limit: useful
 Gear Customization: Break HP Limit: useful
 Gear Customization: Confuse Ward: useful
+Gear Customization: Confuseproof: useful
 Gear Customization: Counterattack: useful
 Gear Customization: Dark Ward: filler
+Gear Customization: Darkproof: useful
 Gear Customization: Darkstrike: useful
 Gear Customization: Darktouch: useful
 Gear Customization: Death Ward: useful
 Gear Customization: Deathproof: useful
+Gear Customization: Defense +10%: useful
 Gear Customization: Defense +20%: useful
 Gear Customization: Defense +3%: filler
 Gear Customization: Defense +5%: filler
@@ -356,6 +371,7 @@ Gear Customization: MP +10%: filler
 Gear Customization: MP +30%: useful
 Gear Customization: MP +5%: filler
 Gear Customization: MP Stroll: filler
+Gear Customization: Magic +10%: useful
 Gear Customization: Magic +3%: filler
 Gear Customization: Magic +5%: filler
 Gear Customization: Magic Booster: useful
@@ -365,14 +381,17 @@ Gear Customization: Magic Def +3%: filler
 Gear Customization: Magic Def +5%: filler
 Gear Customization: Master Thief: useful
 Gear Customization: One MP Cost: useful
+Gear Customization: Pickpocket: useful
 Gear Customization: Piercing: useful
 Gear Customization: Poison Ward: filler
+Gear Customization: Poisonproof: useful
 Gear Customization: Poisonstrike: useful
 Gear Customization: Poisontouch: useful
 Gear Customization: Ribbon: useful
 Gear Customization: SOS NulShock: useful
 Gear Customization: SOS Overdrive: useful
 Gear Customization: SOS Protect: filler
+Gear Customization: SOS Reflect: useful
 Gear Customization: SOS Regen: filler
 Gear Customization: SOS Shell: filler
 Gear Customization: Sensor: filler
@@ -390,10 +409,13 @@ Gear Customization: Stonestrike: useful
 Gear Customization: Stonetouch: useful
 Gear Customization: Strength +3%: filler
 Gear Customization: Strength +5%: filler
+Gear Customization: Triple AP: useful
 Gear Customization: Triple Overdrive: useful
+Gear Customization: Water Eater: useful
 Gear Customization: Water Ward: filler
 Gear Customization: Waterproof: useful
 Gear Customization: Zombie Ward: filler
+Gear Customization: Zombieproof: useful
 Gear Customization: Zombietouch: useful
 Gold Hourglass x 10: useful
 Gold Hourglass x 20: useful
@@ -439,6 +461,7 @@ Hi-Potion x 50: filler
 Hi-Potion x 60: filler
 Hi-Potion x 70: filler
 Hi-Potion x 80: filler
+Hi-Potion x 90: filler
 Holy Water x 10: filler
 Holy Water x 20: filler
 Holy Water x 30: filler
@@ -492,6 +515,7 @@ Lunar Curtain x 20: useful
 Lunar Curtain x 30: useful
 Lunar Curtain x 40: useful
 Lunar Curtain x 50: useful
+Lunar Curtain x 60: useful
 Lunar Curtain x 70: useful
 Lunar Curtain x 80: useful
 Lunar Curtain x 90: useful
@@ -505,6 +529,7 @@ Mana Distiller x 80: useful
 Mana Distiller x 90: useful
 Mana Spring x 10: useful
 Mana Spring x 20: useful
+Mana Spring x 30: useful
 Mana Spring x 40: useful
 Mana Spring x 50: useful
 Mana Spring x 60: useful
@@ -563,6 +588,7 @@ Mercury Sigil: progression
 Moon Crest: progression
 Moon Sigil: progression
 Overdrive: Energy Blast: progression
+Overdrive: Requiem: progression
 Party Member: Anima: progression
 Party Member: Auron: progression
 Party Member: Bahamut: progression
@@ -578,6 +604,7 @@ Party Member: Valefor: progression
 Party Member: Wakka: progression
 Party Member: Yojimbo: progression
 Party Member: Yuna: progression
+Petrify Grenade x 10: useful
 Petrify Grenade x 20: useful
 Petrify Grenade x 30: useful
 Petrify Grenade x 40: useful
@@ -672,10 +699,17 @@ Remedy x 70: filler
 Remedy x 80: filler
 Remedy x 90: filler
 Ronso Rage: Aqua Breath: progression
+Ronso Rage: Bad Breath: progression
+Ronso Rage: Doom: progression
+Ronso Rage: Fire Breath: progression
 Ronso Rage: Jump: progression
+Ronso Rage: Mighty Guard: progression
+Ronso Rage: Nova: progression
 Ronso Rage: Seed Cannon: progression
 Ronso Rage: Self Destruct: progression
 Ronso Rage: Stone Breath: progression
+Ronso Rage: Thrust Kick: progression
+Ronso Rage: White Wind: progression
 Rusty Sword: progression
 Saturn Crest: progression
 Saturn Sigil: progression
@@ -683,6 +717,7 @@ Shadow Gem x 10: useful
 Shadow Gem x 20: useful
 Shadow Gem x 30: useful
 Shadow Gem x 40: useful
+Shadow Gem x 50: useful
 Shadow Gem x 60: useful
 Shadow Gem x 70: useful
 Shadow Gem x 80: useful
@@ -722,12 +757,16 @@ Sleeping Powder x 60: useful
 Sleeping Powder x 70: useful
 Sleeping Powder x 80: useful
 Sleeping Powder x 90: useful
+Slots: Attack Reels: progression
 Slots: Aurochs Reels: progression
+Slots: Element Reels: progression
+Slots: Status Reels: progression
 Smoke Bomb x 10: useful
 Smoke Bomb x 20: useful
 Smoke Bomb x 30: useful
 Smoke Bomb x 40: useful
 Smoke Bomb x 50: useful
+Smoke Bomb x 60: useful
 Smoke Bomb x 70: useful
 Smoke Bomb x 80: useful
 Smoke Bomb x 90: useful
@@ -788,6 +827,7 @@ Stamina Tonic x 90: useful
 Star Curtain x 10: useful
 Star Curtain x 20: useful
 Star Curtain x 30: useful
+Star Curtain x 40: useful
 Star Curtain x 50: useful
 Star Curtain x 60: useful
 Star Curtain x 70: useful
@@ -806,8 +846,10 @@ Supreme Gem x 60: useful
 Supreme Gem x 70: useful
 Supreme Gem x 80: useful
 Supreme Gem x 90: useful
+Swordplay: Blitz Ace: progression
 Swordplay: Energy Rain: progression
 Swordplay: Slice and Dice: progression
+Swordplay: Spiral Cut: progression
 Tetra Elemental x 10: useful
 Tetra Elemental x 20: useful
 Tetra Elemental x 30: useful
@@ -909,6 +951,7 @@ Weapon (Yuna): Laevatein: useful
 Weapon (Yuna): Mage's Staff: useful
 Weapon (Yuna): Magistral Rod: useful
 Weapon (Yuna): Nirvana: progression
+Weapon (Yuna): Rod of Wisdom: useful
 Withered Bouquet: progression
 X-Potion x 10: filler
 X-Potion x 20: filler
@@ -946,6 +989,7 @@ X-Potion x 90: filler
 [Agility Sphere] x 70: useful
 [Agility Sphere] x 80: useful
 [Agility Sphere] x 90: useful
+[Amulet] x 10: useful
 [Amulet] x 20: useful
 [Amulet] x 30: useful
 [Amulet] x 40: useful
@@ -1035,6 +1079,7 @@ X-Potion x 90: filler
 [Friend Sphere] x 80: useful
 [Friend Sphere] x 90: useful
 [Gambler's Spirit] x 10: useful
+[Gambler's Spirit] x 30: useful
 [Gambler's Spirit] x 40: useful
 [Gambler's Spirit] x 50: useful
 [Gambler's Spirit] x 60: useful
@@ -1059,7 +1104,9 @@ X-Potion x 90: filler
 [Hypello Potion] x 70: useful
 [Hypello Potion] x 80: useful
 [Hypello Potion] x 90: useful
+[Luck Sphere] x 10: useful
 [Luck Sphere] x 30: useful
+[Luck Sphere] x 40: useful
 [Luck Sphere] x 50: useful
 [Luck Sphere] x 60: useful
 [Luck Sphere] x 70: useful
@@ -1245,6 +1292,7 @@ X-Potion x 90: filler
 [Teleport Sphere] x 30: useful
 [Teleport Sphere] x 40: useful
 [Teleport Sphere] x 50: useful
+[Teleport Sphere] x 60: useful
 [Teleport Sphere] x 70: useful
 [Teleport Sphere] x 80: useful
 [Teleport Sphere] x 90: useful

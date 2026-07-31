@@ -1,5 +1,7 @@
 1-Hit KO Trap: trap
 Annihilator: progression
+Biobliterator Defeated!: progression
+Bolt Grabber V2: useful
 Bolts: filler
 Box Breaker: progression
 Charge Boots: progression
@@ -13,6 +15,7 @@ Infobot: Aquatos: progression
 Infobot: Aridia: progression
 Infobot: Blackwater City: progression
 Infobot: Command Center: progression
+Infobot: Crash Site: progression
 Infobot: Daxx: progression
 Infobot: Florana: progression
 Infobot: Holostar Studios: progression
@@ -29,8 +32,10 @@ Invisible Trap: trap
 Jackpot: filler
 Map-O-Matic: progression
 Master Plan: progression
+Nano-pak: useful
 Nitro Launcher: useful
 No Clank Trap: trap
+PDA: useful
 Plasma Whip: progression
 Player EXP: filler
 Progressive Agents of Doom: useful
@@ -60,5 +65,6 @@ Refractor: progression
 Rift Inducer: progression
 Star Map: progression
 The Hacker: progression
+Tyhrra-Guise: progression
 Warp Pad: progression
 Weapon Level-Up: filler
