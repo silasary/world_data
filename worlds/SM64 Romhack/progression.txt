@@ -13,7 +13,7 @@ Bowser 2 Ticket: progression
 Bowser 3 Cannon: progression
 Bowser 3 Ticket: progression
 Cap Timer Extension: useful
-Castle Moat: unknown
+Castle Moat: progression
 Coin: progression
 Course 1 Cannon: progression
 Course 1 Ticket: progression
@@ -83,6 +83,7 @@ Star: mcguffin
 Tempo Trap: trap
 Triple Jump Badge: progression
 Vanish Cap Cannon: progression
+Vanish Cap Ticket: progression
 Vanish Cap: progression
 Wall Badge: progression
 Wallkick: progression

@@ -8,7 +8,7 @@ Bolse - Blue Path: progression
 Bolse: progression
 Bomb: filler
 Corneria - Blue Path: progression
-Corneria - Checkpoint: unknown
+Corneria - Checkpoint: useful
 Corneria - Red Path: progression
 Corneria: progression
 Fortuna - Blue Path: progression
@@ -20,7 +20,7 @@ Katina - Yellow Path: progression
 Katina: progression
 Laser Upgrade: useful
 Macbeth - Blue Path: progression
-Macbeth - Checkpoint: unknown
+Macbeth - Checkpoint: useful
 Macbeth - Red Path: progression
 Macbeth: progression
 Medal: mcguffin
@@ -42,15 +42,15 @@ Sector Z - Red Path: progression
 Sector Z: progression
 Silver Ring: useful
 Silver Star: useful
-Solar - Checkpoint: unknown
+Solar - Checkpoint: useful
 Solar - Yellow Path: progression
 Solar: progression
 Titania - Blue Path: progression
 Titania - Checkpoint: useful
 Titania: progression
-Venom 1 - Checkpoint: unknown
+Venom 1 - Checkpoint: useful
 Venom: progression
-Zoness - Checkpoint: unknown
+Zoness - Checkpoint: useful
 Zoness - Red Path: progression
 Zoness - Yellow Path: progression
 Zoness: progression

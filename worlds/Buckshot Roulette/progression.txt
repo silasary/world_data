@@ -1,21 +1,43 @@
 Adrenaline: progression
 Beer: progression
 Broken Handcuffs: filler
+Broken Magnifying Glass: filler
 Burner Phone: progression
 Cigarette Pack: progression
+Clear Debuff - Adrenaline: useful
+Clear Debuff - Beer: useful
+Clear Debuff - Burner Phone: useful
+Clear Debuff - Cigarette Pack: useful
+Clear Debuff - Expired Medicine: useful
+Clear Debuff - Hand Saw: useful
+Clear Debuff - Handcuffs: useful
+Clear Debuff - Inverter: useful
+Clear Debuff - Magnifying Glass: useful
 Crushed Beer Can: filler
 Double Inverter: filler
 Double or Nothing Pills: progression
 Empty Adrenaline Vial: filler
+Empty Cigarette Box: filler
+Empty Pill Packet: filler
+Empty Shell: filler
 Expired Medicine: progression
 Hand Saw: progression
 Handcuffs: progression
 Inverter: progression
+Item Buff - Adrenaline: useful
+Item Buff - Beer: useful
+Item Buff - Burner Phone: useful
+Item Buff - Cigarette Pack: useful
+Item Buff - Expired Medicine: useful
+Item Buff - Hand Saw: useful
+Item Buff - Handcuffs: useful
 Item Buff - Inverter: useful
+Item Buff - Magnifying Glass: useful
 Life Bank Charge: useful
 Magnifying Glass: progression
 Medium Point Increase: filler
 Progressive Item Luck: useful
+Sawed-Off Shotgun Barrel: filler
 Schrodinger's Bullet Trap: trap
 Small Point Increase: filler
 Stolen Package Trap: trap

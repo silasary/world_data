@@ -5,52 +5,54 @@
 Apple: unknown
 Aria: progression
 Axe: useful
-Backpack: unknown
-Ballet Shoes: unknown
+Backpack: useful
+Ballet Shoes: useful
 Bard: progression
 Battle Shovel: useful
 Beastmaster: useful
 Berserk Scroll: unknown
-Berserk Spell: unknown
+Berserk Spell: useful
+Berzerk Scroll: useful
 Blast Helm: useful
 Blood Drum: useful
-Blood Shovel: unknown
-Blunderbuss: unknown
+Blood Shovel: progression
+Blunderbuss: useful
 Bolt: unknown
-Bomb Charm: unknown
+Bomb Charm: useful
 Bomb Spell: useful
-Boots of Leaping: unknown
-Boots of Lunging: unknown
+Boots of Leaping: progression
+Boots of Lunging: useful
 Boots of Pain: useful
-Boots of Strength: unknown
+Boots of Strength: useful
 Bossmaster: useful
-Bow: unknown
-Bright Torch: unknown
-Broadsword: unknown
+Bow: useful
+Bright Torch: useful
+Broadsword: useful
 Cadence: progression
 Carrot: useful
 Cat o' Nine Tails: useful
 Chainmail: useful
-Charm Spell: unknown
+Charm Spell: useful
 Chaunter: progression
 Cheese: useful
-Circlet of Telepathy: unknown
+Circlet of Telepathy: useful
 Codex: progression
-Compass: unknown
+Compass: progression
 Confusion Trap: trap
 Cookies: useful
-Coupon: unknown
-Crossbow: unknown
-Crown of Teleportation: unknown
+Coupon: useful
+Crossbow: useful
+Crown of Teleportation: useful
 Crown of Thorns: useful
-Crystal Shovel: unknown
+Crystal Shovel: useful
 Cursed Heart Container: unknown
 Cursed Potion: useful
-Cutlass: unknown
+Cutlass: progression
 Dad Trap: trap
-Dash Spell: unknown
+Dash Spell: useful
 Diamond Dealer: progression
 Diamond: progression
+Dorian's Plate Armor: progression
 Dorian: progression
 Double Cursed Heart Container: unknown
 Double Empty Heart Container: unknown
@@ -60,35 +62,38 @@ Dove Familiar: useful
 Dove: progression
 Drumstick: useful
 Earth Spell: useful
-Earth Tome: unknown
+Earth Tome: useful
 Earthquake Scroll: useful
-Electric Dagger: unknown
+Electric Dagger: useful
+Eli's Hand: progression
 Eli: progression
 Empty Heart Container: unknown
 Enchant Weapon Scroll: useful
-Explorers Boots: unknown
-Fear Scroll: unknown
-Fireball Scroll: unknown
-Fireball Spell: unknown
+Explorers Boots: useful
+Fear Scroll: useful
+Fireball Scroll: useful
+Fireball Spell: useful
 Fireball Tome: useful
-Freeze Scroll: unknown
+Flower: progression
+Freeze Scroll: useful
 Freeze Spell: useful
 Freeze Tome: useful
-Frost Charm: unknown
-Frost Dagger: unknown
+Frost Charm: useful
+Frost Dagger: useful
 Full Heal: filler
 Glass Armor: useful
 Glass Jaw: useful
 Glass Shovel: useful
-Glass Slippers: unknown
+Glass Slippers: useful
 Glass Torch: useful
-Gluttony Charm: unknown
+Gluttony Charm: useful
 Gold Scatter Trap: trap
-Grenade Charm: unknown
+Grenade Charm: useful
 Ham: useful
 Hard Mode: progression
 Hargreaves: useful
 Harp: useful
+Hatsune Miku: progression
 Haunted Shopkeeper Trap: trap
 Heal Spell: useful
 Heart Container: unknown
@@ -99,16 +104,20 @@ Heavy Shield: useful
 Helm: useful
 Hintmaster: progression
 Holster: useful
+Holy Water: useful
 Ice Spirit Familiar: useful
 Infernal Torch: useful
 Instant Gold (200): filler
 Instant Gold (50): filler
 Janitor: progression
-Jeweled Dagger: unknown
+Jeweled Dagger: useful
 Karate Gi: useful
 Klarinetta: progression
-Lead Boots: unknown
-Leather Armor: unknown
+Lance of Courage: progression
+Lantern: progression
+Lead Boots: useful
+Leather Armor: useful
+Leek: filler
 Longsword: useful
 Low Percent Mode: progression
 Luminous Torch: useful
@@ -118,18 +127,18 @@ Magic Cheese: useful
 Magic Cookies: unknown
 Magic Drumstick: useful
 Magic Ham: useful
-Map: unknown
+Map: useful
 Mary: progression
 Melody: progression
 Merlin: progression
 Miku: progression
-Miner's Cap: unknown
+Miner's Cap: useful
 Monk: progression
 Monkey Trap: trap
-Monkey's Paw: unknown
-Monocle: unknown
+Monkey's Paw: useful
+Monocle: useful
 Mystery Mode: progression
-Nazar Charm: unknown
+Nazar Charm: progression
 No Beat Mode: progression
 No Return Trap: trap
 Nocturna: progression
@@ -139,12 +148,14 @@ Obsidian Shovel: useful
 Obsidian Torch: useful
 Pack of Holding: useful
 Permanent Health Upgrade: progression
-Phasing Dagger: unknown
+Phasing Dagger: useful
 Phasing Mode: progression
 Pickaxe: useful
-Plate Armor: unknown
-Protection Charm: unknown
-Pulse Scroll: unknown
+Plate Armor: useful
+Potion: progression
+Progressive Zone Access: progression
+Protection Charm: useful
+Pulse Scroll: useful
 Pulse Spell: useful
 Pulse Tome: useful
 Quartz Armor: useful
@@ -155,15 +166,15 @@ Reaper: progression
 Reflective Shield: useful
 Riches Scroll: useful
 Rifle: useful
-Ring of Becoming: unknown
-Ring of Charisma: unknown
+Ring of Becoming: useful
+Ring of Charisma: useful
 Ring of Courage: useful
 Ring of Frost: useful
 Ring of Gold: useful
 Ring of Luck: useful
 Ring of Mana: useful
 Ring of Might: useful
-Ring of Pain: unknown
+Ring of Pain: useful
 Ring of Peace: useful
 Ring of Phasing: unknown
 Ring of Piercing: useful
@@ -172,42 +183,48 @@ Ring of Regeneration: useful
 Ring of Shadows: useful
 Ring of Shielding: useful
 Ring of War: useful
-Risk Charm: unknown
+Risk Charm: useful
 Scroll of Need: useful
-Shield Scroll: unknown
+Shield Scroll: useful
 Shield Spell: useful
 Shield Tome: useful
-Shield of Shove: unknown
-Shield of Strength: unknown
+Shield of Shove: useful
+Shield of Strength: useful
+Shiny Armor: progression
 Shop Stock Unlock: progression
 Shopkeeper Familiar: useful
+Shovel Blade: progression
 Shovel Knight: progression
 Shovel of Courage: useful
 Shovel of Strength: useful
+Sing Spell: progression
 Skeleton Trap: trap
-Spear: unknown
+Spear: progression
 Spiked Ears: useful
 Staff: useful
-Strength Charm: unknown
+Strength Charm: useful
 Sunglasses: useful
 Suzu: progression
 Tempo Trap: trap
 Tempo: progression
-Throwing Charm: unknown
-Throwing Stars: unknown
+Throwing Charm: useful
+Throwing Stars: useful
 Titanium Shield: useful
-Titanium Shovel: unknown
-Torch of Foresight: unknown
+Titanium Shovel: useful
+Torch of Foresight: useful
 Torch of Strength: useful
 Torch of Walls: useful
-Torch: unknown
-Transmute Scroll: unknown
+Torch: useful
+Transform Spell: progression
+Transmute Scroll: useful
 Transmute Spell: useful
 Transmute Tome: useful
 Trident: useful
+Virtual Armor: progression
 War Drum: useful
 Warhammer: useful
 Weaponmaster: useful
 Whip: useful
-Winged Boots: unknown
-Wooden Shield: unknown
+Winged Boots: useful
+Wooden Shield: useful
+Zweihander: progression

@@ -15,7 +15,7 @@
 2-3: progression
 2-4: progression
 2-5: progression
-2-6: unknown
+2-6: progression
 2-7: progression
 2-8: progression
 2-9: progression
@@ -44,7 +44,7 @@
 5-2: progression
 5-3: progression
 5-4: progression
-5-5: unknown
+5-5: progression
 5-6: progression
 5-7: progression
 5-8: progression
@@ -96,6 +96,7 @@ Disrespected Blink: useful
 Double Jump: useful
 Epic Mode: unknown
 Grappling Hook: useful
+Impulse: trap
 Jetpack: useful
 Levitation: useful
 Portable Truck: useful
@@ -105,6 +106,8 @@ Truck Boost: useful
 Trucker Flip: useful
 Trucksolute Zero: useful
 c-1: progression
+c-2: progression
+c-3: progression
 c-4: progression
 c-5: progression
 h-10: progression
