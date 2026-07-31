@@ -1,4 +1,12 @@
+/beesknees: filler
+/cheer: filler
+/dote: filler
+/lookout: filler
 /pet: filler
+/shrug: filler
+/slap: filler
+/toast: filler
+/wave: filler
 5 ALC Levels: filler
 5 ARM Levels: filler
 5 AST Levels: progression
@@ -34,6 +42,7 @@
 5 WVR Levels: filler
 Alexander Key: progression
 Amh Araeng Access: progression
+Arcadion Access: progression
 Arcadion Key: progression
 Azys Lla Access: progression
 Bahamut Key: progression
@@ -44,6 +53,7 @@ Bass Ball: progression
 Bladed Steel Jig: progression
 Bloodworm: progression
 Blue Bobbit: progression
+Brass Spoon Lure: progression
 Bream Lure: useful
 Brute Leech: useful
 Butterworm: progression
@@ -132,6 +142,7 @@ Radz-at-Han Access: progression
 Rainbow Spoon Lure: progression
 Rat Tail: useful
 Red Balloon: progression
+Red Maggots: progression
 Rhalgr's Reach Access: progression
 Robber Ball: progression
 Rolling Stone: progression
