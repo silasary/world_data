@@ -1,6 +1,7 @@
 1-ups: filler
 1ups: filler
 ?-switch: progression
+Carry: unknown
 Check point: progression
 Coin x01: filler
 Coin x10: filler
@@ -12,6 +13,7 @@ Fire_Flower: progression
 Goomba trap: trap
 Ice Flower: progression
 Ice_Flower: progression
+Literature trap: unknown
 Mini Mushroom: progression
 Mini_Mushroom: progression
 Movement lock trap: trap
